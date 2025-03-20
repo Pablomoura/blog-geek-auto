@@ -1,0 +1,12 @@
+[
+    {
+      "titulo": "Novo Filme do Batman Anunciado",
+      "texto": "O novo filme do Batman terá uma abordagem sombria e realista...",
+      "imagem": "/images/batman.jpg"
+    },
+    {
+      "titulo": "Elden Ring Receberá DLC",
+      "texto": "A FromSoftware confirmou um novo DLC de Elden Ring...",
+      "imagem": "/images/eldenring.jpg"
+    }
+  ]
