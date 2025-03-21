@@ -3,20 +3,38 @@ const fs = require("fs");
 
 const openai = new OpenAI({ apiKey: "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" });
 
+const filePath = "public/posts.json";
+
+// 📌 1️⃣ Ler o JSON existente
+let posts = [];
+if (fs.existsSync(filePath)) {
+  const rawData = fs.readFileSync(filePath, "utf-8");
+  posts = JSON.parse(rawData);
+}
+
 async function reescreverNoticias() {
-  let noticias = JSON.parse(fs.readFileSync("public/posts.json"));
+  for (let post of posts) {
+    // 📌 2️⃣ Verifica se já foi reescrito
+    if (!post.reescrito) {
+      console.log(`🔄 Reescrevendo: ${post.titulo}`);
 
-  for (let noticia of noticias) {
-    let prompt = `Reescreva esta notícia de forma original: ${noticia.titulo}`;
-    let resposta = await openai.chat.completions.create({
-      model: "gpt-4",
-      messages: [{ role: "user", content: prompt }],
-    });
+      // 📌 3️⃣ Gera um novo título e conteúdo usando IA
+      const resposta = await openai.chat.completions.create({
+        model: "gpt-4",
+        messages: [{ role: "user", content: `Reescreva este título e texto de forma original e atrativa:\nTítulo: ${post.titulo}\nTexto: ${post.texto}` }],
+      });
 
-    noticia.texto = resposta.choices[0].message.content;
+      const textoReescrito = resposta.choices[0].message.content.split("\n");
+
+      // 📌 4️⃣ Atualiza o título e o texto no JSON
+      post.titulo = textoReescrito[0].replace("Título: ", "").trim();
+      post.texto = textoReescrito.slice(1).join("\n").replace("Texto: ", "").trim();
+      post.reescrito = true;
+    }
   }
 
-  fs.writeFileSync("public/posts.json", JSON.stringify(noticias, null, 2));
+  // 📌 5️⃣ Salva as mudanças no arquivo JSON
+  fs.writeFileSync(filePath, JSON.stringify(posts, null, 2));
   console.log("✅ Notícias reescritas e salvas!");
 }
 
