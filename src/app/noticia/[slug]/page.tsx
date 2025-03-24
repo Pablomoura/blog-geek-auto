@@ -15,11 +15,6 @@ export async function generateStaticParams() {
 }
 
 // Corrigindo tipagem para evitar erro na build
-type NoticiaPageProps = {
-  params: {
-    slug: string;
-  };
-};
 
 export default async function NoticiaPage({
   params,
