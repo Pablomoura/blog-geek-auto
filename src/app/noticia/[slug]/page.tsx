@@ -4,12 +4,6 @@ import matter from "gray-matter";
 import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 
-type Params = {
-  params: {
-    slug: string;
-  };
-};
-
 export async function generateStaticParams() {
   const dir = path.join(process.cwd(), "content");
   const files = await fs.readdir(dir);
@@ -70,7 +64,7 @@ export default async function NoticiaPage({ params }: { params: { slug: string }
         </main>
       </>
     );
-  } catch (error) {
+  } catch {
     return notFound();
   }
 }
