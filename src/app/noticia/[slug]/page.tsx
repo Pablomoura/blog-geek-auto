@@ -19,7 +19,7 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function NoticiaPage({ params }: Params) {
+export default async function NoticiaPage({ params }: { params: { slug: string } }) {
   const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
 
   try {
