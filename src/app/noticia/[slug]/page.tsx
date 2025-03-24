@@ -1,6 +1,7 @@
+import { Metadata } from "next";
 import fs from "fs";
 import path from "path";
-import Header from "@/components/Header"; // Importando o Header
+import Header from "@/components/Header";
 
 type Post = {
   titulo: string;
@@ -12,7 +13,14 @@ type Post = {
   thumb?: string;
 };
 
-export default function Noticia({ params }: { params: { slug: string } }) {
+// Define o tipo de props com o tipo certo do Next.js
+type Props = {
+  params: {
+    slug: string;
+  };
+};
+
+export default function Noticia({ params }: Props) {
   const filePath = path.join(process.cwd(), "public", "posts.json");
   const jsonData = fs.readFileSync(filePath, "utf-8");
   const posts: Post[] = JSON.parse(jsonData);
@@ -33,7 +41,7 @@ export default function Noticia({ params }: { params: { slug: string } }) {
   if (!noticia) {
     return (
       <div>
-        <Header /> {/* Header aqui também */}
+        <Header />
         <div className="p-8 text-center text-lg font-semibold">
           Notícia não encontrada.
         </div>
@@ -53,23 +61,18 @@ export default function Noticia({ params }: { params: { slug: string } }) {
 
   return (
     <>
-      <Header /> {/* Adicionando o Header no topo */}
-
+      <Header />
       <main className="max-w-3xl mx-auto px-4 py-10">
-        {/* Categoria */}
         <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">
           {noticia.categoria}
         </span>
 
-        {/* Título */}
         <h1 className="text-5xl font-extrabold mt-2 mb-6">{noticia.titulo}</h1>
 
-        {/* Data e Tempo de leitura */}
         <p className="text-gray-400 text-sm mb-6">
           Publicado em {new Date().toLocaleDateString("pt-BR")} • {tempoLeitura} min de leitura
         </p>
 
-        {/* Imagem ou Vídeo */}
         {noticia.tipoMidia === "imagem" && noticia.midia && (
           <img
             src={noticia.midia}
@@ -90,20 +93,16 @@ export default function Noticia({ params }: { params: { slug: string } }) {
           </div>
         )}
 
-        {/* Conteúdo com espaçamento melhorado */}
         <div className="space-y-6 text-lg leading-relaxed text-gray-300">
           {noticia.texto.split("\n").map((paragrafo, index) => (
             <p key={index}>{paragrafo}</p>
           ))}
         </div>
 
-        {/* Seção de recomendados */}
         <div className="border-t pt-10 mt-10">
           <h2 className="text-2xl font-bold mb-6 text-white">
             Veja também em <span className="text-orange-400">{noticia.categoria}</span>:
           </h2>
-
-          {/* Cards de recomendados */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {outrasNoticias.map((post) => (
               <a
