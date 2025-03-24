@@ -2,12 +2,6 @@ import fs from "fs";
 import path from "path";
 import Header from "@/components/Header";
 
-type PageProps = {
-  params: {
-    slug: string;
-  };
-};
-
 type Post = {
   titulo: string;
   texto: string;
@@ -18,20 +12,20 @@ type Post = {
   thumb?: string;
 };
 
-// ✅ aqui está a função da página corrigida
-export default function Noticia({ params }: PageProps) {
-  const filePath = path.join(process.cwd(), "public", "posts.json");
-  const jsonData = fs.readFileSync(filePath, "utf-8");
-  const posts: Post[] = JSON.parse(jsonData);
+// Função auxiliar para normalizar slug
+const normalizeSlug = (text: string) =>
+  text
+    .toLowerCase()
+    .replace(/\s+/g, "-")
+    .replace(/[^\w\-]+/g, "")
+    .replace(/\-\-+/g, "-")
+    .replace(/^-+/, "")
+    .replace(/-+$/, "");
 
-  const normalizeSlug = (text: string) =>
-    text
-      .toLowerCase()
-      .replace(/\s+/g, "-")
-      .replace(/[^\w\-]+/g, "")
-      .replace(/\-\-+/g, "-")
-      .replace(/^-+/, "")
-      .replace(/-+$/, "");
+// ✅ PÁGINA DINÂMICA
+export default function Noticia({ params }: { params: { slug: string } }) {
+  const filePath = path.join(process.cwd(), "public", "posts.json");
+  const posts: Post[] = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 
   const noticia = posts.find(
     (post) => normalizeSlug(post.slug) === normalizeSlug(params.slug)
@@ -65,11 +59,9 @@ export default function Noticia({ params }: PageProps) {
         <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">
           {noticia.categoria}
         </span>
-
         <h1 className="text-5xl font-extrabold mt-2 mb-6 text-white">
           {noticia.titulo}
         </h1>
-
         <p className="text-gray-400 text-sm mb-6">
           Publicado em {new Date().toLocaleDateString("pt-BR")} • {tempoLeitura} min de leitura
         </p>
@@ -95,8 +87,8 @@ export default function Noticia({ params }: PageProps) {
         )}
 
         <div className="space-y-6 text-lg leading-relaxed text-gray-300">
-          {noticia.texto.split("\n").map((paragrafo, index) => (
-            <p key={index}>{paragrafo}</p>
+          {noticia.texto.split("\n").map((p, i) => (
+            <p key={i}>{p}</p>
           ))}
         </div>
 
@@ -104,7 +96,6 @@ export default function Noticia({ params }: PageProps) {
           <h2 className="text-2xl font-bold mb-6 text-white">
             Veja também em <span className="text-orange-400">{noticia.categoria}</span>:
           </h2>
-
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {outrasNoticias.map((post) => (
               <a
@@ -130,4 +121,14 @@ export default function Noticia({ params }: PageProps) {
       </main>
     </>
   );
+}
+
+// ✅ GERADOR DE PARAMS para SSG funcionar na Vercel
+export async function generateStaticParams() {
+  const filePath = path.join(process.cwd(), "public", "posts.json");
+  const posts: Post[] = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+
+  return posts.map((post) => ({
+    slug: post.slug,
+  }));
 }
