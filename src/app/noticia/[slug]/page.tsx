@@ -21,7 +21,11 @@ type NoticiaPageProps = {
   };
 };
 
-export default async function NoticiaPage({ params }: NoticiaPageProps) {
+export default async function NoticiaPage({
+  params,
+}: {
+  params: { slug: string };
+}) {
   const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
 
   try {
