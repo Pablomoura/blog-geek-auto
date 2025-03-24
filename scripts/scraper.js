@@ -1,4 +1,5 @@
 const fs = require("fs");
+const path = require("path");
 const axios = require("axios");
 const cheerio = require("cheerio");
 const puppeteer = require("puppeteer-extra");
@@ -7,6 +8,12 @@ const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 puppeteer.use(StealthPlugin());
 
 const filePath = "public/posts.json";
+const contentDir = "content";
+
+// 🛠️ Garante que a pasta "content" exista
+if (!fs.existsSync(contentDir)) {
+  fs.mkdirSync(contentDir);
+}
 
 let postsExistentes = [];
 if (fs.existsSync(filePath)) {
@@ -51,20 +58,22 @@ async function extrairConteudoNoticia(url) {
 
     const texto = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("p"))
-        .map(p => p.innerText.trim())
-        .filter(t =>
-          t.length > 50 &&
-          !t.includes("Política de Privacidade") &&
-          !t.includes("Assine nossas notificações") &&
-          !t.includes("tratamento dos dados")
+        .map((p) => p.innerText.trim())
+        .filter(
+          (t) =>
+            t.length > 50 &&
+            !t.includes("Política de Privacidade") &&
+            !t.includes("Assine nossas notificações") &&
+            !t.includes("tratamento dos dados")
         )
         .join("\n");
     });
 
     const midia = await page.evaluate(() => {
       const video = document.querySelector("iframe[src*='youtube']")?.getAttribute("src");
-      let imagem = document.querySelector(".article__cover__image")?.getAttribute("src") ||
-                   document.querySelector(".article__cover__image")?.getAttribute("data-lazy-src-mob");
+      let imagem =
+        document.querySelector(".article__cover__image")?.getAttribute("src") ||
+        document.querySelector(".article__cover__image")?.getAttribute("data-lazy-src-mob");
 
       if (imagem && !imagem.startsWith("http")) {
         imagem = `https:${imagem}`;
@@ -92,21 +101,21 @@ async function buscarNoticiasOmelete() {
   const url = "https://www.omelete.com.br/noticias";
   await page.goto(url, { waitUntil: "networkidle2" });
 
-  // 🔄 Scroll automático
   await autoScroll(page);
-
   console.log("🔍 Buscando notícias com thumbs...");
 
   const noticias = await page.evaluate(() => {
-    return Array.from(document.querySelectorAll(".featured__head")).map(el => {
+    return Array.from(document.querySelectorAll(".featured__head")).map((el) => {
       const aTag = el.querySelector("a");
       const linkRelativo = aTag?.getAttribute("href") || "";
       const titulo = el.querySelector(".mark__title h2")?.innerText.trim() || "";
       const categoria = el.querySelector(".tag p")?.innerText.trim() || "";
-      const resumo = el.parentElement?.querySelector(".featured__subtitle h3")?.innerText.trim() || "";
+      const resumo =
+        el.parentElement?.querySelector(".featured__subtitle h3")?.innerText.trim() || "";
 
-      let thumb = el.querySelector("img")?.getAttribute("data-src") ||
-                  el.querySelector("img")?.getAttribute("src");
+      let thumb =
+        el.querySelector("img")?.getAttribute("data-src") ||
+        el.querySelector("img")?.getAttribute("src");
 
       if (thumb && !thumb.startsWith("http")) {
         thumb = `https:${thumb}`;
@@ -121,7 +130,7 @@ async function buscarNoticiasOmelete() {
         categoria,
         resumo,
         link: `https://www.omelete.com.br${linkRelativo}`,
-        thumb
+        thumb,
       };
     });
   });
@@ -131,22 +140,37 @@ async function buscarNoticiasOmelete() {
   const resultados = [];
 
   for (const noticia of noticias) {
-    if (!noticia.titulo || postsExistentes.some(p => p.titulo === noticia.titulo)) {
-      continue;
-    }
+    if (!noticia.titulo || postsExistentes.some((p) => p.titulo === noticia.titulo)) continue;
 
     console.log(`📖 Capturando conteúdo de: ${noticia.titulo}`);
     const { texto, midia, tipoMidia } = await extrairConteudoNoticia(noticia.link);
 
-    resultados.push({
+    const slug = slugify(noticia.titulo);
+    const post = {
       ...noticia,
       texto,
       midia: midia || noticia.thumb || "/images/default.jpg",
       tipoMidia: tipoMidia || "imagem",
-      slug: slugify(noticia.titulo),
+      slug,
       fonte: "Omelete",
-      reescrito: false
-    });
+      reescrito: false,
+    };
+
+    resultados.push(post);
+
+    // 📄 Cria o arquivo .md na pasta "content"
+    const markdown = `---
+title: "${post.titulo}"
+slug: "${post.slug}"
+categoria: "${post.categoria}"
+midia: "${post.midia}"
+tipoMidia: "${post.tipoMidia}"
+---
+
+${post.texto}
+`;
+
+    fs.writeFileSync(path.join(contentDir, `${slug}.md`), markdown, "utf-8");
   }
 
   return resultados;
@@ -160,6 +184,7 @@ async function buscarNoticiasOmelete() {
   }
 
   const novasNoticias = await buscarNoticiasOmelete();
+
   if (novasNoticias.length > 0) {
     const todas = force ? novasNoticias : [...postsExistentes, ...novasNoticias];
     fs.writeFileSync(filePath, JSON.stringify(todas, null, 2), "utf-8");
