@@ -1,5 +1,5 @@
-import fs from "fs";
 import path from "path";
+import fs from "fs";
 import Header from "@/components/Header";
 
 type Post = {
@@ -12,14 +12,13 @@ type Post = {
   thumb?: string;
 };
 
-// Define o tipo de props com o tipo certo do Next.js
-type Props = {
+type PageProps = {
   params: {
     slug: string;
   };
 };
 
-export default function Noticia({ params }: Props) {
+export default function Noticia({ params }: PageProps) {
   const filePath = path.join(process.cwd(), "public", "posts.json");
   const jsonData = fs.readFileSync(filePath, "utf-8");
   const posts: Post[] = JSON.parse(jsonData);
