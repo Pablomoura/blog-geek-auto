@@ -47,9 +47,10 @@ export default async function NoticiaPage({ params }: { params: Promise<{ slug: 
             <Image
               src={data.midia}
               alt={data.title}
-              className="w-full rounded-lg shadow-lg mb-6"
               width={800}
               height={450}
+              className="w-full rounded-lg shadow-lg mb-6"
+              unoptimized // pode remover depois que o domínio estiver autorizado e testado
             />
           )}
 

@@ -1,43 +1,42 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
-import Header from "@/components/Header"; // Mantendo apenas o novo Header
+import Header from "@/components/Header";
 
 type Post = {
-  titulo: string;
-  texto: string;
+  title: string;
+  slug: string;
   midia: string;
   tipoMidia: string;
   categoria: string;
   thumb?: string;
-  slug: string;
 };
-
-// Função para gerar slugs
-// function slugify(text: string) {
-//  return text.toLowerCase().replace(/\s+/g, "-").replace(/[^\w-]+/g, "");
-// }
 
 export default function Home() {
   const [posts, setPosts] = useState<Post[]>([]);
-  const [visiblePosts, setVisiblePosts] = useState(6); // Número inicial de posts visíveis
+  const [visiblePosts, setVisiblePosts] = useState(6);
 
   useEffect(() => {
     fetch("/api/posts")
       .then((res) => res.json())
-      .then((data) => setPosts(data.reverse())); // Ordena os mais recentes primeiro
+      .then((data) => {
+        // Ordena pela última modificação do arquivo (se disponível)
+        const sorted = data.sort((a: any, b: any) => {
+          const dateA = new Date(a.data || 0).getTime();
+          const dateB = new Date(b.data || 0).getTime();
+          return dateB - dateA; // mais novo primeiro
+        });
+        setPosts(sorted);
+      });
   }, []);
 
   return (
     <>
-      {/* Novo Header */}
       <Header />
-
       <main className="max-w-5xl mx-auto px-6 py-10">
         <h2 className="text-4xl font-bold mb-6 text-white">📰 Últimas Notícias</h2>
 
-        {/* Grid responsivo */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {posts.slice(0, visiblePosts).map((post, index) => (
             <article
@@ -51,18 +50,16 @@ export default function Home() {
               {(post.thumb || post.midia) && (
                 <img
                   src={post.thumb || post.midia}
-                  alt={post.titulo}
+                  alt={post.title}
                   className="w-full h-48 object-cover rounded-md mb-4"
                 />
               )}
 
               <h3 className="text-lg font-semibold text-white">
-              <Link href={`/noticia/${post.slug}`} className="hover:text-orange-400">
-                {post.titulo}
-              </Link>
+                <Link href={`/noticia/${post.slug}`} className="hover:text-orange-400">
+                  {post.title}
+                </Link>
               </h3>
-
-              <p className="text-gray-400 text-sm mt-2">{post.texto.substring(0, 120)}...</p>
 
               <Link
                 href={`/noticia/${post.slug}`}
@@ -74,7 +71,6 @@ export default function Home() {
           ))}
         </div>
 
-        {/* Botão "Carregar mais" */}
         {visiblePosts < posts.length && (
           <div className="flex justify-center mt-8">
             <button

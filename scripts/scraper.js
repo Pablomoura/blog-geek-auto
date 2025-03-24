@@ -4,6 +4,11 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const puppeteer = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
+const OpenAI = require("openai");
+const MAX_POSTS = 1; // ← Limite de notícias por execuçã
+
+require("dotenv").config();
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 puppeteer.use(StealthPlugin());
 
@@ -11,9 +16,7 @@ const jsonFilePath = "public/posts.json";
 const contentDir = path.join(process.cwd(), "content");
 
 // Garante que a pasta content existe
-if (!fs.existsSync(contentDir)) {
-  fs.mkdirSync(contentDir);
-}
+if (!fs.existsSync(contentDir)) fs.mkdirSync(contentDir);
 
 // Carrega posts existentes
 let postsExistentes = [];
@@ -21,9 +24,11 @@ if (fs.existsSync(jsonFilePath)) {
   postsExistentes = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
 }
 
+// Slugify
 function slugify(text) {
   return text
     .toLowerCase()
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
     .replace(/\s+/g, "-")
     .replace(/[^\w\-]+/g, "")
     .replace(/\-\-+/g, "-")
@@ -75,10 +80,7 @@ async function extrairConteudoNoticia(url) {
         document.querySelector(".article__cover__image")?.getAttribute("src") ||
         document.querySelector(".article__cover__image")?.getAttribute("data-lazy-src-mob");
 
-      if (imagem && !imagem.startsWith("http")) {
-        imagem = `https:${imagem}`;
-      }
-
+      if (imagem && !imagem.startsWith("http")) imagem = `https:${imagem}`;
       return video || imagem || null;
     });
 
@@ -93,17 +95,41 @@ async function extrairConteudoNoticia(url) {
   }
 }
 
-async function buscarNoticiasOmelete() {
+async function reescreverNoticia(titulo, resumo, textoOriginal) {
+  try {
+    const prompt = `Reescreva de forma criativa e otimizada para SEO:\nTítulo: ${titulo}\nResumo: ${resumo}\nTexto:\n${textoOriginal}`;
+    
+    const completion = await openai.chat.completions.create({
+      model: "gpt-4",
+      messages: [{ role: "user", content: prompt }],
+    });
+
+    const output = completion.choices[0].message.content;
+    const matchTitle = output.match(/t[ií]tulo[:\-]?\s*(.+)/i);
+    const matchResumo = output.match(/resumo[:\-]?\s*(.+)/i);
+    const matchTexto = output.match(/texto[:\-]?\s*([\s\S]+)/i);
+
+    return {
+      titulo: matchTitle?.[1]?.trim() || titulo,
+      resumo: matchResumo?.[1]?.trim() || resumo,
+      texto: matchTexto?.[1]?.trim() || textoOriginal,
+    };
+  } catch (error) {
+    console.error("❌ Erro ao reescrever notícia:", error.message);
+    return { titulo, resumo, texto: textoOriginal };
+  }
+}
+
+async function buscarNoticiasOmelete(limite = 5) {
   const browser = await puppeteer.launch({ headless: "new", args: ["--no-sandbox"] });
   const page = await browser.newPage();
   await page.setUserAgent("Mozilla/5.0");
 
   const url = "https://www.omelete.com.br/noticias";
   await page.goto(url, { waitUntil: "networkidle2" });
-
   await autoScroll(page);
 
-  console.log("🔍 Buscando notícias com thumbs...");
+  console.log("🔍 Buscando notícias...");
 
   const noticias = await page.evaluate(() => {
     return Array.from(document.querySelectorAll(".featured__head")).map((el) => {
@@ -114,14 +140,8 @@ async function buscarNoticiasOmelete() {
       const resumo = el.parentElement?.querySelector(".featured__subtitle h3")?.innerText.trim() || "";
 
       let thumb = el.querySelector("img")?.getAttribute("data-src") || el.querySelector("img")?.getAttribute("src");
-
-      if (thumb && !thumb.startsWith("http")) {
-        thumb = `https:${thumb}`;
-      }
-
-      if (!thumb || thumb.includes("loading.svg") || thumb.startsWith("data:image")) {
-        thumb = null;
-      }
+      if (thumb && !thumb.startsWith("http")) thumb = `https:${thumb}`;
+      if (!thumb || thumb.includes("loading.svg") || thumb.startsWith("data:image")) thumb = null;
 
       return {
         titulo,
@@ -137,54 +157,55 @@ async function buscarNoticiasOmelete() {
 
   const resultados = [];
 
-  for (const noticia of noticias) {
-    if (!noticia.titulo || postsExistentes.some((p) => p.titulo === noticia.titulo)) {
-      continue;
-    }
+  for (const noticia of noticias.slice(0, limite)) {
+    if (!noticia.titulo || postsExistentes.some((p) => p.titulo === noticia.titulo)) continue;
 
     console.log(`📖 Capturando conteúdo de: ${noticia.titulo}`);
     const { texto, midia, tipoMidia } = await extrairConteudoNoticia(noticia.link);
 
-    const slug = slugify(noticia.titulo);
+    const reescrita = await reescreverNoticia(noticia.titulo, noticia.resumo, texto);
+    const slug = slugify(reescrita.titulo);
 
     const novaNoticia = {
       ...noticia,
-      texto,
+      ...reescrita,
+      texto: reescrita.texto,
       midia: midia || noticia.thumb || "/images/default.jpg",
       tipoMidia: tipoMidia || "imagem",
       slug,
       fonte: "Omelete",
-      reescrito: false
+      reescrito: true
     };
 
     resultados.push(novaNoticia);
 
-    // 📝 Salvar como Markdown
+    // Salva em arquivo Markdown
     const mdPath = path.join(contentDir, `${slug}.md`);
     const frontMatter = `---
-title: "${novaNoticia.titulo.replace(/"/g, "'")}"
+title: "${reescrita.titulo.replace(/"/g, "'")}"
 slug: "${slug}"
-categoria: "${novaNoticia.categoria}"
+categoria: "${noticia.categoria}"
 midia: "${novaNoticia.midia}"
 tipoMidia: "${novaNoticia.tipoMidia}"
-thumb: "${novaNoticia.thumb || ""}"
+thumb: "${noticia.thumb || ""}"
 ---\n\n`;
 
-    const markdown = frontMatter + novaNoticia.texto;
+    const markdown = frontMatter + reescrita.texto;
     fs.writeFileSync(mdPath, markdown, "utf-8");
   }
 
   return resultados;
 }
 
+// Execução principal
 (async () => {
   const force = process.argv.includes("--force");
   if (force) {
-    console.log("⚠️ Rodando em modo FORÇADO (reescrevendo posts)");
+    console.log("⚠️ Modo FORÇADO: limpando posts existentes...");
     postsExistentes = [];
   }
 
-  const novasNoticias = await buscarNoticiasOmelete();
+  const novasNoticias = await buscarNoticiasOmelete(5);
   if (novasNoticias.length > 0) {
     const todas = force ? novasNoticias : [...postsExistentes, ...novasNoticias];
     fs.writeFileSync(jsonFilePath, JSON.stringify(todas, null, 2), "utf-8");
