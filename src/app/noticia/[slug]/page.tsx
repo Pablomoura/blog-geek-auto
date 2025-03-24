@@ -1,4 +1,4 @@
-import fs from "fs";
+import fs from "fs/promises";
 import path from "path";
 import Header from "@/components/Header";
 
@@ -12,40 +12,29 @@ type Post = {
   thumb?: string;
 };
 
-type PageProps = {
-  params: { slug: string };
-};
-
-export async function generateStaticParams() {
-  const filePath = path.join(process.cwd(), "public", "posts.json");
-  const posts: Post[] = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-  return posts.map((post) => ({ slug: post.slug }));
+function normalizeSlug(text: string) {
+  return text
+    .toLowerCase()
+    .replace(/\s+/g, "-")
+    .replace(/[^\w\-]+/g, "")
+    .replace(/\-\-+/g, "-")
+    .replace(/^-+/, "")
+    .replace(/-+$/, "");
 }
 
-export default function Noticia({ params }: PageProps) {
+export default async function NoticiaPage({ params }: { params: { slug: string } }) {
   const filePath = path.join(process.cwd(), "public", "posts.json");
-  const posts: Post[] = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+  const jsonData = await fs.readFile(filePath, "utf-8");
+  const posts: Post[] = JSON.parse(jsonData);
 
-  const normalizeSlug = (text: string) =>
-    text
-      .toLowerCase()
-      .replace(/\s+/g, "-")
-      .replace(/[^\w\-]+/g, "")
-      .replace(/\-\-+/g, "-")
-      .replace(/^-+/, "")
-      .replace(/-+$/, "");
-
-  const noticia = posts.find(
-    (post) => normalizeSlug(post.slug) === normalizeSlug(params.slug)
-  );
+  const slug = normalizeSlug(params.slug);
+  const noticia = posts.find((post) => normalizeSlug(post.slug) === slug);
 
   if (!noticia) {
     return (
       <>
         <Header />
-        <div className="p-8 text-center text-lg font-semibold text-white">
-          Notícia não encontrada.
-        </div>
+        <div className="p-8 text-center text-lg font-semibold">Notícia não encontrada.</div>
       </>
     );
   }
@@ -54,7 +43,7 @@ export default function Noticia({ params }: PageProps) {
     .filter(
       (post) =>
         post.categoria === noticia.categoria &&
-        normalizeSlug(post.slug) !== normalizeSlug(noticia.slug)
+        normalizeSlug(post.slug) !== slug
     )
     .slice(0, 3);
 
@@ -63,7 +52,7 @@ export default function Noticia({ params }: PageProps) {
   return (
     <>
       <Header />
-      <main className="max-w-3xl mx-auto px-4 py-10 text-white">
+      <main className="max-w-3xl mx-auto px-4 py-10">
         <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">
           {noticia.categoria}
         </span>
@@ -101,9 +90,8 @@ export default function Noticia({ params }: PageProps) {
         </div>
 
         <div className="border-t pt-10 mt-10">
-          <h2 className="text-2xl font-bold mb-6">
-            Veja também em{" "}
-            <span className="text-orange-400">{noticia.categoria}</span>:
+          <h2 className="text-2xl font-bold mb-6 text-white">
+            Veja também em <span className="text-orange-400">{noticia.categoria}</span>:
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -123,9 +111,7 @@ export default function Noticia({ params }: PageProps) {
                 <p className="text-orange-400 text-xs font-bold uppercase mb-2">
                   {post.categoria}
                 </p>
-                <h3 className="text-lg font-semibold text-white">
-                  {post.titulo}
-                </h3>
+                <h3 className="text-lg font-semibold text-white">{post.titulo}</h3>
               </a>
             ))}
           </div>
