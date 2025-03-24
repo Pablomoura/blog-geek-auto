@@ -2,6 +2,12 @@ import fs from "fs";
 import path from "path";
 import Header from "@/components/Header";
 
+type PageProps = {
+  params: {
+    slug: string;
+  };
+};
+
 type Post = {
   titulo: string;
   texto: string;
@@ -12,7 +18,8 @@ type Post = {
   thumb?: string;
 };
 
-export default function Noticia({ params }: { params: { slug: string } }) {
+// ✅ aqui está a função da página corrigida
+export default function Noticia({ params }: PageProps) {
   const filePath = path.join(process.cwd(), "public", "posts.json");
   const jsonData = fs.readFileSync(filePath, "utf-8");
   const posts: Post[] = JSON.parse(jsonData);
@@ -54,7 +61,6 @@ export default function Noticia({ params }: { params: { slug: string } }) {
   return (
     <>
       <Header />
-
       <main className="max-w-3xl mx-auto px-4 py-10">
         <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">
           {noticia.categoria}
