@@ -15,9 +15,9 @@ type Post = {
 };
 
 // Função para gerar slugs
-function slugify(text: string) {
-  return text.toLowerCase().replace(/\s+/g, "-").replace(/[^\w-]+/g, "");
-}
+// function slugify(text: string) {
+//  return text.toLowerCase().replace(/\s+/g, "-").replace(/[^\w-]+/g, "");
+// }
 
 export default function Home() {
   const [posts, setPosts] = useState<Post[]>([]);

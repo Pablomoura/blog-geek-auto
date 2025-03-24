@@ -4,16 +4,6 @@ import matter from "gray-matter";
 import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 
-// Tipagem básica
-type Post = {
-  title: string;
-  slug: string;
-  categoria: string;
-  midia: string;
-  tipoMidia: string;
-  content: string;
-};
-
 export async function generateStaticParams() {
   const dir = path.join(process.cwd(), "content");
   const files = await fs.readdir(dir);
@@ -46,11 +36,11 @@ export default async function NoticiaPage({ params }: { params: { slug: string }
             Publicado em {new Date().toLocaleDateString("pt-BR")} • {tempoLeitura} min de leitura
           </p>
 
-          {data.tipoMidia === "imagem" && (
+          {data.tipoMidia === "imagem" && data.midia && (
             <img src={data.midia} alt={data.title} className="w-full rounded-lg shadow-lg mb-6" />
           )}
 
-          {data.tipoMidia === "video" && (
+          {data.tipoMidia === "video" && data.midia && (
             <div className="relative pb-[56.25%] mb-6 h-0 overflow-hidden rounded-lg shadow-lg">
               <iframe
                 src={data.midia}
@@ -63,14 +53,17 @@ export default async function NoticiaPage({ params }: { params: { slug: string }
           )}
 
           <div className="space-y-6 text-lg leading-relaxed text-gray-300">
-            {content.split("\n").map((p, i) => (
-              <p key={i}>{p}</p>
-            ))}
+            {content
+              .split("\n")
+              .filter((p) => p.trim() !== "")
+              .map((p, i) => (
+                <p key={i}>{p}</p>
+              ))}
           </div>
         </main>
       </>
     );
-  } catch (err) {
+  } catch {
     return notFound();
   }
 }
