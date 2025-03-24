@@ -57,7 +57,7 @@ export default function Home() {
               )}
 
               <h3 className="text-lg font-semibold text-white">
-                <Link href={`/noticia/${slugify(post.slug)}`} className="hover:text-orange-400">
+                <Link href={`/noticia?slug=${post.slug}`} className="hover:text-orange-400">
                   {post.titulo}
                 </Link>
               </h3>
@@ -65,7 +65,7 @@ export default function Home() {
               <p className="text-gray-400 text-sm mt-2">{post.texto.substring(0, 120)}...</p>
 
               <Link
-                href={`/noticia/${slugify(post.slug)}`}
+                href={`/noticia?slug=${post.slug}`}
                 className="inline-block mt-4 text-orange-400 hover:underline font-bold"
               >
                 ➜ Leia mais
