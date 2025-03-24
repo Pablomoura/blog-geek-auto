@@ -1,5 +1,6 @@
 import fs from "fs/promises";
 import path from "path";
+import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 
 type Post = {
@@ -12,6 +13,14 @@ type Post = {
   thumb?: string;
 };
 
+export async function generateStaticParams() {
+  const filePath = path.join(process.cwd(), "public", "posts.json");
+  const data = await fs.readFile(filePath, "utf-8");
+  const posts: Post[] = JSON.parse(data);
+
+  return posts.map((post) => ({ slug: post.slug }));
+}
+
 function normalizeSlug(text: string) {
   return text
     .toLowerCase()
@@ -22,33 +31,15 @@ function normalizeSlug(text: string) {
     .replace(/-+$/, "");
 }
 
-// ⚠️ Geração estática de rotas baseada nos slugs
-export async function generateStaticParams() {
+export default async function Page({ params }: { params: { slug: string } }) {
   const filePath = path.join(process.cwd(), "public", "posts.json");
-  const jsonData = await fs.readFile(filePath, "utf-8");
-  const posts: Post[] = JSON.parse(jsonData);
-
-  return posts.map((post) => ({
-    slug: post.slug,
-  }));
-}
-
-export default async function NoticiaPage({ params }: { params: { slug: string } }) {
-  const filePath = path.join(process.cwd(), "public", "posts.json");
-  const jsonData = await fs.readFile(filePath, "utf-8");
-  const posts: Post[] = JSON.parse(jsonData);
+  const data = await fs.readFile(filePath, "utf-8");
+  const posts: Post[] = JSON.parse(data);
 
   const slug = normalizeSlug(params.slug);
   const noticia = posts.find((post) => normalizeSlug(post.slug) === slug);
 
-  if (!noticia) {
-    return (
-      <>
-        <Header />
-        <div className="p-8 text-center text-lg font-semibold">Notícia não encontrada.</div>
-      </>
-    );
-  }
+  if (!noticia) return notFound();
 
   const outrasNoticias = posts
     .filter(
@@ -63,6 +54,7 @@ export default async function NoticiaPage({ params }: { params: { slug: string }
   return (
     <>
       <Header />
+
       <main className="max-w-3xl mx-auto px-4 py-10">
         <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">
           {noticia.categoria}
@@ -74,7 +66,7 @@ export default async function NoticiaPage({ params }: { params: { slug: string }
           Publicado em {new Date().toLocaleDateString("pt-BR")} • {tempoLeitura} min de leitura
         </p>
 
-        {noticia.tipoMidia === "imagem" && noticia.midia && (
+        {noticia.tipoMidia === "imagem" && (
           <img
             src={noticia.midia}
             alt={noticia.titulo}
@@ -82,7 +74,7 @@ export default async function NoticiaPage({ params }: { params: { slug: string }
           />
         )}
 
-        {noticia.tipoMidia === "video" && noticia.midia && (
+        {noticia.tipoMidia === "video" && (
           <div className="relative pb-[56.25%] mb-6 h-0 overflow-hidden rounded-lg shadow-lg">
             <iframe
               src={noticia.midia}
@@ -95,8 +87,8 @@ export default async function NoticiaPage({ params }: { params: { slug: string }
         )}
 
         <div className="space-y-6 text-lg leading-relaxed text-gray-300">
-          {noticia.texto.split("\n").map((paragrafo, index) => (
-            <p key={index}>{paragrafo}</p>
+          {noticia.texto.split("\n").map((paragrafo, i) => (
+            <p key={i}>{paragrafo}</p>
           ))}
         </div>
 
