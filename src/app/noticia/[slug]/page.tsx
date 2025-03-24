@@ -22,6 +22,17 @@ function normalizeSlug(text: string) {
     .replace(/-+$/, "");
 }
 
+// ⚠️ Geração estática de rotas baseada nos slugs
+export async function generateStaticParams() {
+  const filePath = path.join(process.cwd(), "public", "posts.json");
+  const jsonData = await fs.readFile(filePath, "utf-8");
+  const posts: Post[] = JSON.parse(jsonData);
+
+  return posts.map((post) => ({
+    slug: post.slug,
+  }));
+}
+
 export default async function NoticiaPage({ params }: { params: { slug: string } }) {
   const filePath = path.join(process.cwd(), "public", "posts.json");
   const jsonData = await fs.readFile(filePath, "utf-8");
