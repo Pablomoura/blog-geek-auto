@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { notFound } from "next/navigation";
 import Header from "@/components/Header";
+import Image from "next/image";
 
 export async function generateStaticParams() {
   const dir = path.join(process.cwd(), "content");
@@ -19,6 +20,11 @@ export default async function NoticiaPage({ params }: { params: { slug: string }
   try {
     const file = await fs.readFile(filePath, "utf-8");
     const { data, content } = matter(file);
+
+    if (!data.midia || !data.title || !data.categoria) {
+      console.error("Dados inválidos no arquivo Markdown:", data);
+      return notFound();
+    }
 
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
 
@@ -37,10 +43,12 @@ export default async function NoticiaPage({ params }: { params: { slug: string }
           </p>
 
           {data.tipoMidia === "imagem" && (
-            <img
+            <Image
               src={data.midia}
               alt={data.title}
               className="w-full rounded-lg shadow-lg mb-6"
+              width={800}
+              height={450}
             />
           )}
 
@@ -64,7 +72,8 @@ export default async function NoticiaPage({ params }: { params: { slug: string }
         </main>
       </>
     );
-  } catch {
+  } catch (error) {
+    console.error("Erro ao carregar o arquivo Markdown:", error);
     return notFound();
   }
 }
