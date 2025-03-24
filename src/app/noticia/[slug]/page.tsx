@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 
+// Geração dos slugs de forma estática
 export async function generateStaticParams() {
   const dir = path.join(process.cwd(), "content");
   const files = await fs.readdir(dir);
@@ -13,7 +14,14 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function NoticiaPage({ params }: { params: { slug: string } }) {
+// Corrigindo tipagem para evitar erro na build
+type NoticiaPageProps = {
+  params: {
+    slug: string;
+  };
+};
+
+export default async function NoticiaPage({ params }: NoticiaPageProps) {
   const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
 
   try {
