@@ -12,13 +12,7 @@ type Post = {
   thumb?: string;
 };
 
-type PageProps = {
-  params: {
-    slug: string;
-  };
-};
-
-export default function Noticia({ params }: PageProps) {
+export default function Noticia({ params }: { params: { slug: string } }) {
   const filePath = path.join(process.cwd(), "public", "posts.json");
   const jsonData = fs.readFileSync(filePath, "utf-8");
   const posts: Post[] = JSON.parse(jsonData);
@@ -40,7 +34,7 @@ export default function Noticia({ params }: PageProps) {
     return (
       <div>
         <Header />
-        <div className="p-8 text-center text-lg font-semibold">
+        <div className="p-8 text-center text-lg font-semibold text-white">
           Notícia não encontrada.
         </div>
       </div>
@@ -62,20 +56,18 @@ export default function Noticia({ params }: PageProps) {
       <Header />
 
       <main className="max-w-3xl mx-auto px-4 py-10">
-        {/* Categoria */}
         <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">
           {noticia.categoria}
         </span>
 
-        {/* Título */}
-        <h1 className="text-5xl font-extrabold mt-2 mb-6">{noticia.titulo}</h1>
+        <h1 className="text-5xl font-extrabold mt-2 mb-6 text-white">
+          {noticia.titulo}
+        </h1>
 
-        {/* Data e Tempo de leitura */}
         <p className="text-gray-400 text-sm mb-6">
           Publicado em {new Date().toLocaleDateString("pt-BR")} • {tempoLeitura} min de leitura
         </p>
 
-        {/* Imagem ou Vídeo */}
         {noticia.tipoMidia === "imagem" && noticia.midia && (
           <img
             src={noticia.midia}
@@ -96,14 +88,12 @@ export default function Noticia({ params }: PageProps) {
           </div>
         )}
 
-        {/* Texto com espaçamento entre parágrafos */}
         <div className="space-y-6 text-lg leading-relaxed text-gray-300">
           {noticia.texto.split("\n").map((paragrafo, index) => (
             <p key={index}>{paragrafo}</p>
           ))}
         </div>
 
-        {/* Outras notícias */}
         <div className="border-t pt-10 mt-10">
           <h2 className="text-2xl font-bold mb-6 text-white">
             Veja também em <span className="text-orange-400">{noticia.categoria}</span>:
@@ -126,9 +116,7 @@ export default function Noticia({ params }: PageProps) {
                 <p className="text-orange-400 text-xs font-bold uppercase mb-2">
                   {post.categoria}
                 </p>
-                <h3 className="text-lg font-semibold text-white">
-                  {post.titulo}
-                </h3>
+                <h3 className="text-lg font-semibold text-white">{post.titulo}</h3>
               </a>
             ))}
           </div>
