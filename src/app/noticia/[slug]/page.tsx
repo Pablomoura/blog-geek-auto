@@ -14,8 +14,9 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function NoticiaPage({ params }: { params: { slug: string } }) {
-  const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
+export default async function NoticiaPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
   try {
     const file = await fs.readFile(filePath, "utf-8");
