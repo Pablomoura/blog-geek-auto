@@ -12,6 +12,12 @@ type Post = {
   thumb?: string;
 };
 
+type Props = {
+  params: {
+    slug: string;
+  };
+};
+
 // Função auxiliar para normalizar slug
 const normalizeSlug = (text: string) =>
   text
@@ -23,7 +29,7 @@ const normalizeSlug = (text: string) =>
     .replace(/-+$/, "");
 
 // ✅ PÁGINA DINÂMICA
-export default function Noticia({ params }: { params: { slug: string } }) {
+export default function Noticia({ params }: Props) {
   const filePath = path.join(process.cwd(), "public", "posts.json");
   const posts: Post[] = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 
@@ -127,8 +133,5 @@ export default function Noticia({ params }: { params: { slug: string } }) {
 export async function generateStaticParams() {
   const filePath = path.join(process.cwd(), "public", "posts.json");
   const posts: Post[] = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-
-  return posts.map((post) => ({
-    slug: post.slug,
-  }));
+  return posts.map((post) => ({ slug: post.slug }));
 }
