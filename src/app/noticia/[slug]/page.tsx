@@ -12,26 +12,28 @@ type Post = {
   thumb?: string;
 };
 
-type Props = {
-  params: {
-    slug: string;
-  };
+type PageProps = {
+  params: { slug: string };
 };
 
-// Função auxiliar para normalizar slug
-const normalizeSlug = (text: string) =>
-  text
-    .toLowerCase()
-    .replace(/\s+/g, "-")
-    .replace(/[^\w\-]+/g, "")
-    .replace(/\-\-+/g, "-")
-    .replace(/^-+/, "")
-    .replace(/-+$/, "");
-
-// ✅ PÁGINA DINÂMICA
-export default function Noticia({ params }: Props) {
+export async function generateStaticParams() {
   const filePath = path.join(process.cwd(), "public", "posts.json");
   const posts: Post[] = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+  return posts.map((post) => ({ slug: post.slug }));
+}
+
+export default function Noticia({ params }: PageProps) {
+  const filePath = path.join(process.cwd(), "public", "posts.json");
+  const posts: Post[] = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+
+  const normalizeSlug = (text: string) =>
+    text
+      .toLowerCase()
+      .replace(/\s+/g, "-")
+      .replace(/[^\w\-]+/g, "")
+      .replace(/\-\-+/g, "-")
+      .replace(/^-+/, "")
+      .replace(/-+$/, "");
 
   const noticia = posts.find(
     (post) => normalizeSlug(post.slug) === normalizeSlug(params.slug)
@@ -39,12 +41,12 @@ export default function Noticia({ params }: Props) {
 
   if (!noticia) {
     return (
-      <div>
+      <>
         <Header />
         <div className="p-8 text-center text-lg font-semibold text-white">
           Notícia não encontrada.
         </div>
-      </div>
+      </>
     );
   }
 
@@ -61,13 +63,13 @@ export default function Noticia({ params }: Props) {
   return (
     <>
       <Header />
-      <main className="max-w-3xl mx-auto px-4 py-10">
+      <main className="max-w-3xl mx-auto px-4 py-10 text-white">
         <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">
           {noticia.categoria}
         </span>
-        <h1 className="text-5xl font-extrabold mt-2 mb-6 text-white">
-          {noticia.titulo}
-        </h1>
+
+        <h1 className="text-5xl font-extrabold mt-2 mb-6">{noticia.titulo}</h1>
+
         <p className="text-gray-400 text-sm mb-6">
           Publicado em {new Date().toLocaleDateString("pt-BR")} • {tempoLeitura} min de leitura
         </p>
@@ -93,15 +95,17 @@ export default function Noticia({ params }: Props) {
         )}
 
         <div className="space-y-6 text-lg leading-relaxed text-gray-300">
-          {noticia.texto.split("\n").map((p, i) => (
-            <p key={i}>{p}</p>
+          {noticia.texto.split("\n").map((paragrafo, index) => (
+            <p key={index}>{paragrafo}</p>
           ))}
         </div>
 
         <div className="border-t pt-10 mt-10">
-          <h2 className="text-2xl font-bold mb-6 text-white">
-            Veja também em <span className="text-orange-400">{noticia.categoria}</span>:
+          <h2 className="text-2xl font-bold mb-6">
+            Veja também em{" "}
+            <span className="text-orange-400">{noticia.categoria}</span>:
           </h2>
+
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {outrasNoticias.map((post) => (
               <a
@@ -119,7 +123,9 @@ export default function Noticia({ params }: Props) {
                 <p className="text-orange-400 text-xs font-bold uppercase mb-2">
                   {post.categoria}
                 </p>
-                <h3 className="text-lg font-semibold text-white">{post.titulo}</h3>
+                <h3 className="text-lg font-semibold text-white">
+                  {post.titulo}
+                </h3>
               </a>
             ))}
           </div>
@@ -127,11 +133,4 @@ export default function Noticia({ params }: Props) {
       </main>
     </>
   );
-}
-
-// ✅ GERADOR DE PARAMS para SSG funcionar na Vercel
-export async function generateStaticParams() {
-  const filePath = path.join(process.cwd(), "public", "posts.json");
-  const posts: Post[] = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-  return posts.map((post) => ({ slug: post.slug }));
 }
