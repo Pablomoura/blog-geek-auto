@@ -4,7 +4,12 @@ import matter from "gray-matter";
 import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 
-// Geração dos slugs de forma estática
+type Params = {
+  params: {
+    slug: string;
+  };
+};
+
 export async function generateStaticParams() {
   const dir = path.join(process.cwd(), "content");
   const files = await fs.readdir(dir);
@@ -14,13 +19,7 @@ export async function generateStaticParams() {
   }));
 }
 
-// Corrigindo tipagem para evitar erro na build
-
-export default async function NoticiaPage({
-  params,
-}: {
-  params: { slug: string };
-}) {
+export default async function NoticiaPage({ params }: Params) {
   const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
 
   try {
@@ -43,11 +42,15 @@ export default async function NoticiaPage({
             Publicado em {new Date().toLocaleDateString("pt-BR")} • {tempoLeitura} min de leitura
           </p>
 
-          {data.tipoMidia === "imagem" && data.midia && (
-            <img src={data.midia} alt={data.title} className="w-full rounded-lg shadow-lg mb-6" />
+          {data.tipoMidia === "imagem" && (
+            <img
+              src={data.midia}
+              alt={data.title}
+              className="w-full rounded-lg shadow-lg mb-6"
+            />
           )}
 
-          {data.tipoMidia === "video" && data.midia && (
+          {data.tipoMidia === "video" && (
             <div className="relative pb-[56.25%] mb-6 h-0 overflow-hidden rounded-lg shadow-lg">
               <iframe
                 src={data.midia}
@@ -60,17 +63,14 @@ export default async function NoticiaPage({
           )}
 
           <div className="space-y-6 text-lg leading-relaxed text-gray-300">
-            {content
-              .split("\n")
-              .filter((p) => p.trim() !== "")
-              .map((p, i) => (
-                <p key={i}>{p}</p>
-              ))}
+            {content.split("\n").map((p, i) => (
+              <p key={i}>{p}</p>
+            ))}
           </div>
         </main>
       </>
     );
-  } catch {
+  } catch (error) {
     return notFound();
   }
 }
