@@ -1,4 +1,3 @@
-import { Metadata } from "next";
 import fs from "fs";
 import path from "path";
 import Header from "@/components/Header";
