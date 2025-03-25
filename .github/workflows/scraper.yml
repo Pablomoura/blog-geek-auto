@@ -1,9 +1,12 @@
-name: Scraper Automático
+name: Scrape automático
 
 on:
+  workflow_dispatch: # permite rodar manualmente
   schedule:
-    - cron: "0 * * * *" # de horar em hora UTC (3h da manhã no Brasil)
-  workflow_dispatch: # permite rodar manualmente no GitHub
+    - cron: '0 * * * *' # roda 1x por dia às 03:00 UTC (0h no Brasil, horário de Brasília)
+
+permissions:
+  contents: write # permite push com GITHUB_TOKEN
 
 jobs:
   scrape:
@@ -11,26 +14,26 @@ jobs:
 
     steps:
       - name: Clona o repositório
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Instala Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: '18'
 
       - name: Instala dependências
-        run: npm install
+        run: npm ci
 
       - name: Roda o scraper
         run: node scripts/scraper.js
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: Comita os novos posts
+      - name: Configura usuário git
         run: |
-          git config --global user.email "bot@github.com"
-          git config --global user.name "github-bot"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/Pablomoura/blog-geek-auto.git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Comita novos posts
+        run: |
           git add content/ public/posts.json
-          git commit -m "Atualiza posts automaticamente" || exit 0
-          git push origin HEAD:main
+          git commit -m "🤖 Atualiza posts automaticamente" || echo "Nada para commitar"
+          git push origin main
