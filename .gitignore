@@ -39,7 +39,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# Ignorar os conteúdos que são gerados no Vercel
-public/posts.json
-content/
