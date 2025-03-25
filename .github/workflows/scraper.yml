@@ -30,6 +30,7 @@ jobs:
         run: |
           git config --global user.email "bot@github.com"
           git config --global user.name "github-bot"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/Pablomoura/blog-geek-auto.git
           git add content/ public/posts.json
           git commit -m "Atualiza posts automaticamente" || exit 0
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/Pablomoura/blog-geek-auto.git HEAD:main
+          git push origin HEAD:main
