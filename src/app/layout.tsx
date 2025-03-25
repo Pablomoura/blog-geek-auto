@@ -1,4 +1,6 @@
-import './globals.css'
+// app/layout.tsx
+import './globals.css';
+import Script from 'next/script'; // 👈 importa Script do next
 
 export const metadata = {
   title: "GeekNews - O melhor do mundo geek",
@@ -8,9 +10,24 @@ export const metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pt">
-      <body className="bg-[var(--background)] text-[var(--foreground)] font-sans">
+      <head>
+        {/* Google Tag */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-SMFR890H32"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-SMFR890H32');
+          `}
+        </Script>
+      </head>
+      <body style={{ fontFamily: "Arial, sans-serif", padding: "20px" }}>
         <main>{children}</main>
-        <footer className="mt-10 text-center py-6 bg-neutral-100 dark:bg-neutral-900 text-neutral-700 dark:text-neutral-300">
+        <footer style={{ marginTop: "20px", textAlign: "center", padding: "10px", background: "#222", color: "#fff" }}>
           <p>© 2025 GeekNews - Todos os direitos reservados.</p>
         </footer>
       </body>
