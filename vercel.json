@@ -1,6 +1,5 @@
 {
-    "version": 2,
-    "cron": [
+    "crons": [
       {
         "path": "/api/scrape",
         "schedule": "0 * * * *"
