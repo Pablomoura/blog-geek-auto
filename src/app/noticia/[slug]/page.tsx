@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { notFound } from "next/navigation";
 import Header from "@/components/Header";
+import Link from "next/link";
 
 type NoticiaPageProps = {
   params: Promise<{
@@ -19,6 +20,28 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
     const { data, content } = matter(file);
 
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
+
+    // Busca os outros posts para mostrar relacionados
+    const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
+    const relacionados = [];
+
+    for (const fileName of allFiles) {
+      const relatedSlug = fileName.replace(".md", "");
+      if (relatedSlug === slug) continue;
+
+      const filePath = path.join(process.cwd(), "content", fileName);
+      const contentRaw = await fs.readFile(filePath, "utf-8");
+      const { data: relatedData } = matter(contentRaw);
+
+      relacionados.push({
+        slug: relatedSlug,
+        titulo: relatedData.title,
+        categoria: relatedData.categoria,
+        thumb: relatedData.thumb,
+      });
+
+      if (relacionados.length === 3) break;
+    }
 
     return (
       <>
@@ -54,15 +77,54 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
             </div>
           )}
 
-          <div className="space-y-8 text-lg leading-relaxed text-neutral-800 dark:text-gray-300">
+          <div className="space-y-8 text-lg leading-relaxed text-neutral-800 dark:text-gray-300 mb-16">
             {content.split("\n").map((p, i) => (
               p.trim() !== "" ? <p key={i}>{p}</p> : null
             ))}
           </div>
+
+          {/* POSTS RELACIONADOS */}
+          {relacionados.length > 0 && (
+            <section className="mt-12 border-t border-gray-700 pt-8">
+              <h2 className="text-2xl font-bold mb-6 text-neutral-900 dark:text-white">
+                🔗 Posts relacionados
+              </h2>
+
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                {relacionados.map((post, index) => (
+                  <Link
+                    href={`/noticia/${post.slug}`}
+                    key={index}
+                    className="block bg-white dark:bg-gray-900 p-5 rounded-lg shadow-md hover:shadow-xl transition hover:-translate-y-1"
+                  >
+                    <p className="text-orange-500 text-sm font-bold uppercase mb-2">
+                      {post.categoria}
+                    </p>
+                  
+                    {post.thumb && (
+                      <img
+                        src={post.thumb}
+                        alt={post.titulo}
+                        className="w-full h-40 object-cover rounded-md mb-4"
+                      />
+                    )}
+                  
+                    <h3 className="text-md font-semibold text-neutral-900 dark:text-white mb-2">
+                      {post.titulo}
+                    </h3>
+                  
+                    <span className="inline-block mt-2 text-orange-500 hover:underline font-bold text-sm">
+                      ➜ Ler agora
+                    </span>
+                  </Link>
+                ))}
+              </div>
+            </section>
+          )}
         </main>
       </>
     );
   } catch {
     return notFound();
-  }  
+  }
 }
