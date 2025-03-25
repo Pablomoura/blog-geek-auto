@@ -1,8 +1,9 @@
 {
+    "version": 2,
     "cron": [
       {
         "path": "/api/scrape",
-        "schedule": "0 * * * *" 
+        "schedule": "0 * * * *"
       }
     ]
   }
