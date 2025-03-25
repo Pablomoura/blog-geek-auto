@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Link from "next/link";
+import Script from "next/script";
 
 type NoticiaPageProps = {
   params: Promise<{
@@ -46,6 +47,31 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
     return (
       <>
         <Header />
+        <Script id="json-ld" type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            headline: data.title,
+            description: data.resumo || "",
+            image: data.thumb || data.midia || "",
+            author: {
+              "@type": "Organization",
+              name: "GeekNews",
+            },
+            publisher: {
+              "@type": "Organization",
+              name: "GeekNews",
+              logo: {
+                "@type": "ImageObject",
+                url: "https://www.geeknews.com.br/logo.png", // ← substitua pelo caminho real
+              },
+            },
+            url: `https://blog-geek-auto.vercel.app/noticia/${slug}`,
+            datePublished: new Date().toISOString(),
+            dateModified: new Date().toISOString(),
+          })}
+        </Script>
+
         <main className="max-w-3xl mx-auto px-4 py-10 text-neutral-900 dark:text-white">
           <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">
             {data.categoria}
