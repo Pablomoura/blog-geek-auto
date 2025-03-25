@@ -3,7 +3,7 @@ name: Scrape automático
 on:
   workflow_dispatch: # permite rodar manualmente
   schedule:
-    - cron: '0 * * * *' # roda 1x por dia às 03:00 UTC (0h no Brasil, horário de Brasília)
+    - cron: '0 * * * *' # roda 1x por dia às 03:00 UTC (0h no Brasil)
 
 permissions:
   contents: write # permite push com GITHUB_TOKEN
@@ -11,6 +11,9 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
     steps:
       - name: Clona o repositório
