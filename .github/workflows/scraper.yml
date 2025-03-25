@@ -38,5 +38,6 @@ jobs:
       - name: Comita novos posts
         run: |
           git add content/ public/posts.json
-          git commit -m "🤖 Atualiza posts automaticamente" || echo "Nada para commitar"
+          git commit -m "Atualiza posts automaticamente" || echo "Nada para commitar"
+          git pull --rebase origin main
           git push origin main
