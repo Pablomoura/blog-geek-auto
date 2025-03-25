@@ -1,11 +1,32 @@
 // src/app/api/scrape/route.ts
 import fs from "fs/promises";
 import path from "path";
-import axios from "axios";
 import puppeteer from "puppeteer-extra";
 import StealthPlugin from "puppeteer-extra-plugin-stealth";
+import type { Page } from "puppeteer";
 
 puppeteer.use(StealthPlugin());
+
+type NoticiaBruta = {
+  titulo: string;
+  resumo: string;
+  categoria: string;
+  link: string;
+  thumb?: string;
+};
+
+type NoticiaCompleta = NoticiaBruta & {
+  texto: string;
+  slug: string;
+  midia: string | null;
+  tipoMidia: "imagem" | "video";
+  fonte: string;
+  reescrito: boolean;
+};
+
+type PostExistente = {
+  slug: string;
+};
 
 export async function GET() {
   const jsonFilePath = "public/posts.json";
@@ -14,11 +35,13 @@ export async function GET() {
 
   await fs.mkdir(contentDir, { recursive: true });
 
-  let postsExistentes = [];
+  let postsExistentes: PostExistente[] = [];
   try {
     const existing = await fs.readFile(jsonFilePath, "utf-8");
     postsExistentes = JSON.parse(existing);
-  } catch {}
+  } catch {
+    postsExistentes = [];
+  }
 
   function slugify(text: string) {
     return text
@@ -30,7 +53,7 @@ export async function GET() {
       .replace(/-+$/, "");
   }
 
-  async function autoScroll(page: any) {
+  async function autoScroll(page: Page) {
     await page.evaluate(async () => {
       await new Promise((resolve) => {
         let totalHeight = 0;
@@ -47,7 +70,11 @@ export async function GET() {
     });
   }
 
-  async function extrairConteudoNoticia(url: string) {
+  async function extrairConteudoNoticia(url: string): Promise<{
+    texto: string;
+    midia: string | null;
+    tipoMidia: "imagem" | "video";
+  }> {
     const browser = await puppeteer.launch({ headless: true, args: ["--no-sandbox"] });
     const page = await browser.newPage();
 
@@ -72,24 +99,24 @@ export async function GET() {
         return video || imagem || null;
       });
 
-      const tipoMidia = midia?.includes("youtube") ? "video" : "imagem";
+      const tipoMidia: "imagem" | "video" = midia?.includes("youtube") ? "video" : "imagem";
 
       await browser.close();
       return { texto, midia, tipoMidia };
-    } catch (err) {
+    } catch {
       await browser.close();
       return { texto: "", midia: null, tipoMidia: "imagem" };
     }
   }
 
-  async function buscarNoticiasOmelete() {
+  async function buscarNoticiasOmelete(): Promise<NoticiaBruta[]> {
     const browser = await puppeteer.launch({ headless: true, args: ["--no-sandbox"] });
     const page = await browser.newPage();
     await page.setUserAgent("Mozilla/5.0");
     await page.goto("https://www.omelete.com.br/noticias", { waitUntil: "networkidle2" });
     await autoScroll(page);
 
-    const noticias = await page.evaluate(() => {
+    const noticias: NoticiaBruta[] = await page.evaluate(() => {
       return Array.from(document.querySelectorAll(".featured__head")).map((el) => {
         const aTag = el.querySelector("a");
         const linkRelativo = aTag?.getAttribute("href") || "";
@@ -102,6 +129,8 @@ export async function GET() {
           el.querySelector("img")?.getAttribute("src");
 
         if (thumb && !thumb.startsWith("http")) thumb = `https:${thumb}`;
+        if (!thumb || thumb.includes("loading.svg") || thumb.startsWith("data:image")) thumb = undefined;
+
         return {
           titulo,
           categoria,
@@ -117,13 +146,14 @@ export async function GET() {
   }
 
   const noticias = await buscarNoticiasOmelete();
-  const novas: any[] = [];
+  const novas: NoticiaCompleta[] = [];
 
   for (const noticia of noticias.slice(0, MAX_POSTS)) {
     const slug = slugify(noticia.titulo);
-    if (!noticia.titulo || postsExistentes.some((p: any) => slugify(p.slug) === slug)) continue;
+    if (!noticia.titulo || postsExistentes.some((p) => slugify(p.slug) === slug)) continue;
 
     const { texto, midia, tipoMidia } = await extrairConteudoNoticia(noticia.link);
+
     novas.push({
       ...noticia,
       texto,

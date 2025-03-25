@@ -5,16 +5,12 @@ const nextConfig = {
       "omelete.uol.com.br",
       "cdn.ome.lt",
       "cdn.omelete.com.br",
-      "www.omelete.com.br", // adiciona todos que você vê nas URLs externas
+      "www.omelete.com.br",
     ],
   },
+  serverExternalPackages: ["puppeteer-extra", "puppeteer-extra-plugin-stealth"],
   experimental: {
-    serverComponentsExternalPackages: [
-      'puppeteer',
-      'puppeteer-extra',
-      'puppeteer-extra-plugin-stealth',
-    ],
-    serverMinification: false, // necessário para a plataforma DEFER
+    serverActions: true,
   },
 };
 
