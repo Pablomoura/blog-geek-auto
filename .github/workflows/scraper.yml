@@ -1,0 +1,35 @@
+name: Scraper Automático
+
+on:
+  schedule:
+    - cron: "0 * * * *" # de horar em hora UTC (3h da manhã no Brasil)
+  workflow_dispatch: # permite rodar manualmente no GitHub
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clona o repositório
+        uses: actions/checkout@v3
+
+      - name: Instala Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Instala dependências
+        run: npm install
+
+      - name: Roda o scraper
+        run: node scripts/scraper.js
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Comita os novos posts
+        run: |
+          git config --global user.email "bot@github.com"
+          git config --global user.name "GitHub Bot"
+          git add .
+          git commit -m "🤖 Atualiza posts automaticamente"
+          git push
