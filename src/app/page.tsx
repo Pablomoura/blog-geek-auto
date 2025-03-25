@@ -1,16 +1,18 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import Header from "@/components/Header";
 
 type Post = {
-  title: string;
-  slug: string;
+  titulo: string;
+  resumo: string;
+  texto: string;
   midia: string;
   tipoMidia: string;
   categoria: string;
   thumb?: string;
+  slug: string;
 };
 
 export default function Home() {
@@ -21,19 +23,15 @@ export default function Home() {
     fetch("/api/posts")
       .then((res) => res.json())
       .then((data) => {
-        // Ordena pela última modificação do arquivo (se disponível)
-        const sorted = data.sort((a: any, b: any) => {
-          const dateA = new Date(a.data || 0).getTime();
-          const dateB = new Date(b.data || 0).getTime();
-          return dateB - dateA; // mais novo primeiro
-        });
-        setPosts(sorted);
+        const ordenado = [...data].reverse(); // Deixa os mais novos primeiro
+        setPosts(ordenado);
       });
   }, []);
 
   return (
     <>
       <Header />
+
       <main className="max-w-5xl mx-auto px-6 py-10">
         <h2 className="text-4xl font-bold mb-6 text-white">📰 Últimas Notícias</h2>
 
@@ -50,16 +48,18 @@ export default function Home() {
               {(post.thumb || post.midia) && (
                 <img
                   src={post.thumb || post.midia}
-                  alt={post.title}
+                  alt={post.titulo}
                   className="w-full h-48 object-cover rounded-md mb-4"
                 />
               )}
 
-              <h3 className="text-lg font-semibold text-white">
+              <h3 className="text-lg font-semibold text-white mb-2">
                 <Link href={`/noticia/${post.slug}`} className="hover:text-orange-400">
-                  {post.title}
+                  {post.titulo}
                 </Link>
               </h3>
+
+              <p className="text-gray-400 text-sm">{post.resumo}</p>
 
               <Link
                 href={`/noticia/${post.slug}`}

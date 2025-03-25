@@ -1,34 +1,30 @@
 const fs = require("fs");
 const path = require("path");
 const axios = require("axios");
-const cheerio = require("cheerio");
 const puppeteer = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
-const OpenAI = require("openai");
-const MAX_POSTS = 1; // ← Limite de notícias por execuçã
-
 require("dotenv").config();
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 puppeteer.use(StealthPlugin());
 
 const jsonFilePath = "public/posts.json";
 const contentDir = path.join(process.cwd(), "content");
+const MAX_POSTS = 10;
 
-// Garante que a pasta content existe
-if (!fs.existsSync(contentDir)) fs.mkdirSync(contentDir);
+// Garante que a pasta content exista
+if (!fs.existsSync(contentDir)) {
+  fs.mkdirSync(contentDir);
+}
 
-// Carrega posts existentes
+// Carrega os posts existentes
 let postsExistentes = [];
 if (fs.existsSync(jsonFilePath)) {
   postsExistentes = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
 }
 
-// Slugify
 function slugify(text) {
   return text
     .toLowerCase()
-    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
     .replace(/\s+/g, "-")
     .replace(/[^\w\-]+/g, "")
     .replace(/\-\-+/g, "-")
@@ -42,10 +38,9 @@ async function autoScroll(page) {
       let totalHeight = 0;
       const distance = 500;
       const timer = setInterval(() => {
-        const scrollHeight = document.body.scrollHeight;
         window.scrollBy(0, distance);
         totalHeight += distance;
-        if (totalHeight >= scrollHeight - window.innerHeight) {
+        if (totalHeight >= document.body.scrollHeight - window.innerHeight) {
           clearInterval(timer);
           resolve();
         }
@@ -80,7 +75,10 @@ async function extrairConteudoNoticia(url) {
         document.querySelector(".article__cover__image")?.getAttribute("src") ||
         document.querySelector(".article__cover__image")?.getAttribute("data-lazy-src-mob");
 
-      if (imagem && !imagem.startsWith("http")) imagem = `https:${imagem}`;
+      if (imagem && !imagem.startsWith("http")) {
+        imagem = `https:${imagem}`;
+      }
+
       return video || imagem || null;
     });
 
@@ -95,38 +93,69 @@ async function extrairConteudoNoticia(url) {
   }
 }
 
-async function reescreverNoticia(titulo, resumo, textoOriginal) {
+async function reescreverNoticia(titulo, resumo, texto) {
+  const prompt = `
+Reescreva a seguinte notícia com boa ortografia, gramática e foco em SEO. Use um tom jornalístico, direto e informativo, mantendo os fatos.
+Separe cada parágrafo com duas quebras de linha para garantir leitura adequada em Markdown. Evite blocos grandes: limite a 2-3 frases por parágrafo.
+
+Título:
+${titulo}
+
+Resumo:
+${resumo}
+
+Texto:
+${texto}
+
+Responda em JSON neste formato:
+{
+  "titulo": "...",
+  "resumo": "...",
+  "texto": "..."
+}
+`;
+
   try {
-    const prompt = `Reescreva de forma criativa e otimizada para SEO:\nTítulo: ${titulo}\nResumo: ${resumo}\nTexto:\n${textoOriginal}`;
-    
-    const completion = await openai.chat.completions.create({
-      model: "gpt-4",
-      messages: [{ role: "user", content: prompt }],
-    });
+    const response = await axios.post(
+      "https://api.openai.com/v1/chat/completions",
+      {
+        model: "gpt-4",
+        messages: [{ role: "user", content: prompt }],
+        temperature: 0.7,
+      },
+      {
+        headers: {
+          Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+          "Content-Type": "application/json",
+        },
+      }
+    );
 
-    const output = completion.choices[0].message.content;
-    const matchTitle = output.match(/t[ií]tulo[:\-]?\s*(.+)/i);
-    const matchResumo = output.match(/resumo[:\-]?\s*(.+)/i);
-    const matchTexto = output.match(/texto[:\-]?\s*([\s\S]+)/i);
+    let raw = response.data.choices[0].message.content;
 
-    return {
-      titulo: matchTitle?.[1]?.trim() || titulo,
-      resumo: matchResumo?.[1]?.trim() || resumo,
-      texto: matchTexto?.[1]?.trim() || textoOriginal,
-    };
-  } catch (error) {
-    console.error("❌ Erro ao reescrever notícia:", error.message);
-    return { titulo, resumo, texto: textoOriginal };
+    // Limpa caracteres problemáticos
+    raw = raw.replace(/[\u0000-\u001F\u007F]/g, "");
+    raw = raw.replace(/\t/g, " ");
+
+    console.log("\n🧪 RAW recebido da IA:\n", raw);
+
+    // Faz parse da resposta e garante parágrafos duplos
+    const reescrito = JSON.parse(raw);
+    reescrito.texto = reescrito.texto.replace(/(?<!\n)\n(?!\n)/g, "\n\n");
+
+    return reescrito;
+  } catch (err) {
+    console.error("❌ Erro ao reescrever notícia:", err.message);
+    return null;
   }
 }
 
-async function buscarNoticiasOmelete(limite = 5) {
+async function buscarNoticiasOmelete() {
   const browser = await puppeteer.launch({ headless: "new", args: ["--no-sandbox"] });
   const page = await browser.newPage();
   await page.setUserAgent("Mozilla/5.0");
 
-  const url = "https://www.omelete.com.br/noticias";
-  await page.goto(url, { waitUntil: "networkidle2" });
+  await page.goto("https://www.omelete.com.br/noticias", { waitUntil: "networkidle2" });
   await autoScroll(page);
 
   console.log("🔍 Buscando notícias...");
@@ -148,7 +177,7 @@ async function buscarNoticiasOmelete(limite = 5) {
         categoria,
         resumo,
         link: `https://www.omelete.com.br${linkRelativo}`,
-        thumb
+        thumb,
       };
     });
   });
@@ -157,55 +186,62 @@ async function buscarNoticiasOmelete(limite = 5) {
 
   const resultados = [];
 
-  for (const noticia of noticias.slice(0, limite)) {
-    if (!noticia.titulo || postsExistentes.some((p) => p.titulo === noticia.titulo)) continue;
+  for (const noticia of noticias.slice(0, MAX_POSTS)) {
+    const slug = slugify(noticia.titulo);
+
+    if (!noticia.titulo || postsExistentes.some((p) => slugify(p.slug) === slug)) continue;
 
     console.log(`📖 Capturando conteúdo de: ${noticia.titulo}`);
     const { texto, midia, tipoMidia } = await extrairConteudoNoticia(noticia.link);
 
-    const reescrita = await reescreverNoticia(noticia.titulo, noticia.resumo, texto);
-    const slug = slugify(reescrita.titulo);
-
     const novaNoticia = {
       ...noticia,
-      ...reescrita,
-      texto: reescrita.texto,
+      texto,
       midia: midia || noticia.thumb || "/images/default.jpg",
       tipoMidia: tipoMidia || "imagem",
       slug,
       fonte: "Omelete",
-      reescrito: true
+      reescrito: false,
     };
 
-    resultados.push(novaNoticia);
+    const reescrito = await reescreverNoticia(novaNoticia.titulo, novaNoticia.resumo, novaNoticia.texto);
+    if (!reescrito) continue;
 
-    // Salva em arquivo Markdown
+    novaNoticia.titulo = reescrito.titulo;
+    novaNoticia.resumo = reescrito.resumo;
+    novaNoticia.texto = reescrito.texto;
+    novaNoticia.reescrito = true;
+
+    // Salva como .md
     const mdPath = path.join(contentDir, `${slug}.md`);
     const frontMatter = `---
-title: "${reescrita.titulo.replace(/"/g, "'")}"
+title: "${reescrito.titulo.replace(/"/g, "'")}"
 slug: "${slug}"
-categoria: "${noticia.categoria}"
+categoria: "${novaNoticia.categoria}"
 midia: "${novaNoticia.midia}"
 tipoMidia: "${novaNoticia.tipoMidia}"
-thumb: "${noticia.thumb || ""}"
+thumb: "${novaNoticia.thumb || ""}"
 ---\n\n`;
 
-    const markdown = frontMatter + reescrita.texto;
+    const markdown = frontMatter + reescrito.texto;
     fs.writeFileSync(mdPath, markdown, "utf-8");
+
+    resultados.push(novaNoticia);
   }
 
   return resultados;
 }
 
-// Execução principal
 (async () => {
   const force = process.argv.includes("--force");
+
   if (force) {
     console.log("⚠️ Modo FORÇADO: limpando posts existentes...");
     postsExistentes = [];
   }
 
-  const novasNoticias = await buscarNoticiasOmelete(5);
+  const novasNoticias = await buscarNoticiasOmelete();
+
   if (novasNoticias.length > 0) {
     const todas = force ? novasNoticias : [...postsExistentes, ...novasNoticias];
     fs.writeFileSync(jsonFilePath, JSON.stringify(todas, null, 2), "utf-8");
