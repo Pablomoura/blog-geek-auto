@@ -8,9 +8,9 @@ export const metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pt">
-      <body style={{ fontFamily: "Arial, sans-serif", padding: "20px" }}>
+      <body className="bg-[var(--background)] text-[var(--foreground)] font-sans">
         <main>{children}</main>
-        <footer style={{ marginTop: "20px", textAlign: "center", padding: "10px", background: "#222", color: "#fff" }}>
+        <footer className="mt-10 text-center py-6 bg-neutral-100 dark:bg-neutral-900 text-neutral-700 dark:text-neutral-300">
           <p>© 2025 GeekNews - Todos os direitos reservados.</p>
         </footer>
       </body>

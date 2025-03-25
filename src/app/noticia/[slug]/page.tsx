@@ -23,14 +23,14 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
     return (
       <>
         <Header />
-        <main className="max-w-3xl mx-auto px-4 py-10 text-white">
+        <main className="max-w-3xl mx-auto px-4 py-10 text-neutral-900 dark:text-white">
           <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">
             {data.categoria}
           </span>
 
           <h1 className="text-5xl font-extrabold mt-2 mb-6">{data.title}</h1>
 
-          <p className="text-gray-400 text-sm mb-6">
+          <p className="text-neutral-600 dark:text-gray-400 text-sm mb-6">
             Publicado em {new Date().toLocaleDateString("pt-BR")} • {tempoLeitura} min de leitura
           </p>
 
@@ -54,7 +54,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
             </div>
           )}
 
-          <div className="space-y-8 text-lg leading-relaxed text-gray-300">
+          <div className="space-y-8 text-lg leading-relaxed text-neutral-800 dark:text-gray-300">
             {content.split("\n").map((p, i) => (
               p.trim() !== "" ? <p key={i}>{p}</p> : null
             ))}

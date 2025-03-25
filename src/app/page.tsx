@@ -33,15 +33,15 @@ export default function Home() {
       <Header />
 
       <main className="max-w-5xl mx-auto px-6 py-10">
-        <h2 className="text-4xl font-bold mb-6 text-white">📰 Últimas Notícias</h2>
+        <h2 className="text-4xl font-bold mb-6 text-neutral-900 dark:text-white">📰 Últimas Notícias</h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {posts.slice(0, visiblePosts).map((post, index) => (
             <article
               key={index}
-              className="bg-gray-900 p-5 rounded-lg shadow-lg hover:shadow-xl transition-transform transform hover:-translate-y-2"
+              className="bg-white dark:bg-gray-900 p-5 rounded-lg shadow-lg hover:shadow-xl transition-transform transform hover:-translate-y-2"
             >
-              <p className="text-orange-400 text-sm font-bold uppercase mb-2">
+              <p className="text-orange-500 text-sm font-bold uppercase mb-2">
                 {post.categoria}
               </p>
 
@@ -53,17 +53,17 @@ export default function Home() {
                 />
               )}
 
-              <h3 className="text-lg font-semibold text-white mb-2">
-                <Link href={`/noticia/${post.slug}`} className="hover:text-orange-400">
+              <h3 className="text-lg font-semibold text-neutral-900 dark:text-white mb-2">
+                <Link href={`/noticia/${post.slug}`} className="hover:text-orange-500">
                   {post.titulo}
                 </Link>
               </h3>
 
-              <p className="text-gray-400 text-sm">{post.resumo}</p>
+              <p className="text-neutral-600 dark:text-gray-400 text-sm">{post.resumo}</p>
 
               <Link
                 href={`/noticia/${post.slug}`}
-                className="inline-block mt-4 text-orange-400 hover:underline font-bold"
+                className="inline-block mt-4 text-orange-500 hover:underline font-boldd"
               >
                 ➜ Leia mais
               </Link>
