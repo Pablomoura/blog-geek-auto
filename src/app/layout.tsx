@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     siteName: "GeekNews",
     images: [
       {
-        url: "/logo.png",
+        url: "/logo.jpg",
         width: 1200,
         height: 630,
         alt: "GeekNews",
