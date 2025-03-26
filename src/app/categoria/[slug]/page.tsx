@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import Link from "next/link";
 
+
 function slugify(text: string) {
   return text
     .toLowerCase()
@@ -14,13 +15,11 @@ function slugify(text: string) {
 
 import Header from "@/components/Header";
 
-export default async function CategoriaPage({
-  params,
-  searchParams,
-}: {
-  params: { slug: string };
-  searchParams: { page?: string };
-}) {
+export default async function CategoriaPage(
+  props: { params: Promise<{ slug: string }>; searchParams: Promise<{ page?: string }> }
+) {
+  const params = await props.params;
+  const searchParams = await props.searchParams;
   const arquivos = await fs.readdir(path.join(process.cwd(), "content"));
   const posts = [];
 
@@ -50,7 +49,7 @@ export default async function CategoriaPage({
     .slice(0, 3);
 
   const postsPorPagina = 9;
-  const paginaAtual = parseInt(searchParams.page || "1", 10);
+  const paginaAtual = parseInt(await searchParams.page || "1", 10);
   const totalPaginas = Math.ceil(posts.length / postsPorPagina);
   const exibidos = posts.slice((paginaAtual - 1) * postsPorPagina, paginaAtual * postsPorPagina);
 
