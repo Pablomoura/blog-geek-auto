@@ -5,7 +5,7 @@ const puppeteer = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 require("dotenv").config();
 const { google } = require("googleapis");
-const serviceAccount = require("./google-service-account.json");
+const serviceAccount = JSON.parse(process.env.GOOGLE_CREDENTIALS);
 
 const auth = new google.auth.GoogleAuth({
   credentials: serviceAccount,

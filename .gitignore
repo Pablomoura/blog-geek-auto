@@ -42,3 +42,5 @@ next-env.d.ts
 
 public/posts.json
 content/
+
+google-service-account.json
