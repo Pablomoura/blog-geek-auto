@@ -3,35 +3,6 @@ import path from "path";
 import matter from "gray-matter";
 import Link from "next/link";
 
-export async function generateMetadata({ params }: { params: { slug: string } }) {
-  const categoria = decodeURIComponent(params.slug).replace(/-/g, " ");
-  const nomeFormatado = categoria.charAt(0).toUpperCase() + categoria.slice(1);
-
-  return {
-    title: `${nomeFormatado} | GeekNews`,
-    description: `Veja as últimas notícias sobre ${nomeFormatado} no GeekNews.`,
-    openGraph: {
-      title: `${nomeFormatado} | GeekNews`,
-      description: `Veja as últimas notícias sobre ${nomeFormatado} no GeekNews.`,
-      url: `https://www.geeknews.com.br/categoria/${params.slug}`,
-      images: [
-        {
-          url: "/logo.png",
-          width: 1200,
-          height: 630,
-          alt: "GeekNews",
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: `${nomeFormatado} | GeekNews`,
-      description: `Últimas notícias sobre ${nomeFormatado}`,
-      images: ["/logo.png"],
-    },
-  };
-}
-
 function slugify(text: string) {
   return text
     .toLowerCase()
@@ -43,13 +14,15 @@ function slugify(text: string) {
 
 import Header from "@/components/Header";
 
-export default async function CategoriaPage({
-  params,
-  searchParams,
-}: {
-  params: { slug: string };
-  searchParams: { page?: string };
-}) {
+interface CategoriaPageProps {
+  params: Promise<{ slug: string }>;
+  searchParams: Promise<{ page?: string }>;
+}
+
+export default async function CategoriaPage(props: CategoriaPageProps) {
+  const { slug } = await props.params;
+  const { page } = await props.searchParams;
+
   const arquivos = await fs.readdir(path.join(process.cwd(), "content"));
   const posts = [];
 
@@ -58,7 +31,7 @@ export default async function CategoriaPage({
     const { data, content } = matter(arquivo);
     const tempoLeitura = Math.ceil(content.split(/\s+/).length / 200);
 
-    if (slugify(data.categoria) === params.slug) {
+    if (slugify(data.categoria) === slug) {
       posts.push({
         slug: data.slug,
         titulo: data.title,
@@ -79,7 +52,7 @@ export default async function CategoriaPage({
     .slice(0, 3);
 
   const postsPorPagina = 9;
-  const paginaAtual = parseInt(searchParams.page || "1", 10);
+  const paginaAtual = parseInt(page || "1", 10);
   const totalPaginas = Math.ceil(posts.length / postsPorPagina);
   const exibidos = posts.slice((paginaAtual - 1) * postsPorPagina, paginaAtual * postsPorPagina);
 
@@ -93,7 +66,7 @@ export default async function CategoriaPage({
               Espaço reservado para publicidade
             </div>
             <h1 className="text-4xl font-extrabold capitalize mb-8 text-neutral-900 dark:text-white">
-              {posts[0]?.categoria || params.slug}
+              {posts[0]?.categoria || slug}
             </h1>
 
             <div className="space-y-8">
@@ -128,18 +101,18 @@ export default async function CategoriaPage({
                 {Array.from({ length: totalPaginas }, (_, i) => (
                   <Link
                     key={i}
-                    href={`/categoria/${params.slug}?page=${i + 1}`}
+                    href={`/categoria/${slug}?page=${i + 1}`}
                     className={`px-3 py-1 rounded ${
                       i + 1 === paginaAtual
                         ? "bg-orange-500 text-white font-bold"
                         : "bg-gray-200 dark:bg-gray-800 hover:bg-gray-300 dark:hover:bg-gray-700"
                     }`}
                   >
-                    {i + 1}
-                  </Link>
-                ))}
-              </div>
-            )}
+              {i + 1}
+            </Link>
+          ))}
+        </div>
+      )}
           </div>
           <aside className="w-full lg:w-[300px] flex-shrink-0 space-y-10">
             <div className="bg-gray-200 dark:bg-gray-800 h-32 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
