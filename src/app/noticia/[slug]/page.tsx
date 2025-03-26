@@ -1,3 +1,4 @@
+// app/noticia/[slug]/page.tsx
 import fs from "fs/promises";
 import path from "path";
 import matter from "gray-matter";
@@ -5,12 +6,43 @@ import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Link from "next/link";
 import Script from "next/script";
+import { Metadata } from "next";
 
 type NoticiaPageProps = {
   params: Promise<{
     slug: string;
   }>;
 };
+
+// 🧠 SEO DINÂMICO - Open Graph + Twitter
+export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+  const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
+  const file = await fs.readFile(filePath, "utf-8");
+  const { data } = matter(file);
+
+  const siteUrl = "https://blog-geek-auto.vercel.app";
+  const fullUrl = `${siteUrl}/noticia/${params.slug}`;
+  const image = data.thumb || data.midia || `${siteUrl}/logo.png`;
+
+  return {
+    title: data.title,
+    description: data.resumo || "Notícia geek atualizada.",
+    openGraph: {
+      title: data.title,
+      description: data.resumo || "",
+      url: fullUrl,
+      siteName: "GeekNews",
+      type: "article",
+      images: [{ url: image, width: 1200, height: 630, alt: data.title }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: data.title,
+      description: data.resumo || "",
+      images: [image],
+    },
+  };
+}
 
 export default async function NoticiaPage(props: NoticiaPageProps) {
   const { slug } = await props.params;
@@ -19,10 +51,9 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
   try {
     const file = await fs.readFile(filePath, "utf-8");
     const { data, content } = matter(file);
-
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
 
-    // Busca os outros posts para mostrar relacionados
+    // 🧩 Posts relacionados
     const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
     const relacionados = [];
 
@@ -30,8 +61,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
       const relatedSlug = fileName.replace(".md", "");
       if (relatedSlug === slug) continue;
 
-      const filePath = path.join(process.cwd(), "content", fileName);
-      const contentRaw = await fs.readFile(filePath, "utf-8");
+      const contentRaw = await fs.readFile(path.join(process.cwd(), "content", fileName), "utf-8");
       const { data: relatedData } = matter(contentRaw);
 
       relacionados.push({
@@ -47,6 +77,8 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
     return (
       <>
         <Header />
+
+        {/* 🧠 JSON-LD para Google SEO */}
         <Script id="json-ld" type="application/ld+json">
           {JSON.stringify({
             "@context": "https://schema.org",
@@ -57,14 +89,14 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
             author: {
               "@type": "Organization",
               name: "GeekNews",
-              "url": "https://www.geeknews.com.br"
+              url: "https://www.geeknews.com.br",
             },
             publisher: {
               "@type": "Organization",
               name: "GeekNews",
               logo: {
                 "@type": "ImageObject",
-                url: "https://www.geeknews.com.br/logo.png", // ← substitua pelo caminho real
+                url: "https://www.geeknews.com.br/logo.png",
               },
             },
             url: `https://blog-geek-auto.vercel.app/noticia/${slug}`,
@@ -110,7 +142,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
             ))}
           </div>
 
-          {/* POSTS RELACIONADOS */}
+          {/* 🔗 POSTS RELACIONADOS */}
           {relacionados.length > 0 && (
             <section className="mt-12 border-t border-gray-700 pt-8">
               <h2 className="text-2xl font-bold mb-6 text-neutral-900 dark:text-white">
@@ -127,7 +159,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
                     <p className="text-orange-500 text-sm font-bold uppercase mb-2">
                       {post.categoria}
                     </p>
-                  
+
                     {post.thumb && (
                       <img
                         src={post.thumb}
@@ -135,11 +167,11 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
                         className="w-full h-40 object-cover rounded-md mb-4"
                       />
                     )}
-                  
+
                     <h3 className="text-md font-semibold text-neutral-900 dark:text-white mb-2">
                       {post.titulo}
                     </h3>
-                  
+
                     <span className="inline-block mt-2 text-orange-500 hover:underline font-bold text-sm">
                       ➜ Ler agora
                     </span>
