@@ -63,7 +63,7 @@ export default async function CategoriaPage(
               Espaço reservado para publicidade
             </div>
             <h1 className="text-4xl font-extrabold capitalize mb-8 text-neutral-900 dark:text-white">
-              Categoria: {posts[0]?.categoria || params.slug}
+              {posts[0]?.categoria || params.slug}
             </h1>
 
             <div className="space-y-8">

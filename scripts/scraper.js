@@ -4,6 +4,29 @@ const axios = require("axios");
 const puppeteer = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 require("dotenv").config();
+const { google } = require("googleapis");
+const serviceAccount = require("./google-service-account.json");
+
+const auth = new google.auth.GoogleAuth({
+  credentials: serviceAccount,
+  scopes: ["https://www.googleapis.com/auth/indexing"],
+});
+
+const indexingClient = google.indexing({ version: "v3", auth });
+
+async function enviarParaIndexingAPI(url) {
+  try {
+    await indexingClient.urlNotifications.publish({
+      requestBody: {
+        url,
+        type: "URL_UPDATED",
+      },
+    });
+    console.log("📬 Enviado para indexação:", url);
+  } catch (error) {
+    console.error("❌ Erro ao enviar para indexação:", url, error.response?.data || error.message);
+  }
+}
 
 puppeteer.use(StealthPlugin());
 
@@ -228,6 +251,7 @@ data: "${new Date().toISOString()}"
     fs.writeFileSync(mdPath, markdown, "utf-8");
 
     resultados.push(novaNoticia);
+    await enviarParaIndexingAPI(`https://www.geeknews.com.br/noticia/${slug}`);
   }
 
   return resultados;
