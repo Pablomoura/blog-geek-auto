@@ -28,3 +28,12 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+#disqus_thread a {
+  color: #333; /* Cor para o tema claro */
+}
+
+@media (prefers-color-scheme: dark) {
+  #disqus_thread a {
+    color: #ddd; /* Cor para o tema escuro */
+  }
+}
