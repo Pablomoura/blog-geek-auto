@@ -5,9 +5,41 @@ import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Link from "next/link";
 import Script from "next/script";
-import Head from "next/head";
 import React from "react";
 import DisqusReset from "@/components/DisqusReset";
+import { Metadata } from "next";
+
+export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+  const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
+  try {
+    const file = await fs.readFile(filePath, "utf-8");
+    const { data } = matter(file);
+
+    return {
+      title: data.title,
+      description: data.resumo || "",
+      openGraph: {
+        title: data.title,
+        description: data.resumo || "",
+        images: [data.thumb || data.midia || "/logo.png"],
+        url: `https://www.geeknews.com.br/noticia/${params.slug}`,
+        type: "article",
+        siteName: "GeekNews",
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: data.title,
+        description: data.resumo || "",
+        images: [data.thumb || data.midia || "/logo.png"],
+      },
+    };
+  } catch {
+    return {
+      title: "Notícia não encontrada | GeekNews",
+      description: "Esta notícia não foi encontrada.",
+    };
+  }
+}
 
 type NoticiaPageProps = {
   params: Promise<{
@@ -62,20 +94,6 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
 
     return (
       <>
-        <Head>
-          <title>{data.title}</title>
-          <meta property="og:title" content={data.title} />
-          <meta property="og:description" content={data.resumo || ""} />
-          <meta property="og:image" content={data.thumb || data.midia || "/logo.png"} />
-          <meta property="og:url" content={`https://www.geeknews.com.br/noticia/${slug}`} />
-          <meta property="og:type" content="article" />
-          <meta property="og:site_name" content="GeekNews" />
-          
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content={data.title} />
-          <meta name="twitter:description" content={data.resumo || ""} />
-          <meta name="twitter:image" content={data.thumb || data.midia || "/logo.png"} />
-        </Head>
         <Header />
         <Script id="json-ld" type="application/ld+json">
           {JSON.stringify({
