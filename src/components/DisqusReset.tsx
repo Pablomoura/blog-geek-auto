@@ -8,7 +8,7 @@ export default function DisqusReset({ slug }: { slug: string }) {
     if (typeof window !== "undefined" && disqus) {
       disqus.reset({
         reload: true,
-        config: function () {
+        config: function (this: { page: { url: string; identifier: string } }) {
           this.page.url = `https://www.geeknews.com.br/noticia/${slug}`;
           this.page.identifier = slug;
         },
