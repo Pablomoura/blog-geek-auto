@@ -6,6 +6,7 @@ import Header from "@/components/Header";
 import Link from "next/link";
 import Script from "next/script";
 import React from "react";
+import DisqusReset from "@/components/DisqusReset";
 
 type NoticiaPageProps = {
   params: Promise<{
@@ -173,6 +174,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
               )}
 
               <div id="disqus_thread" className="mt-12" />
+              <DisqusReset slug={slug} />
               <Script id="disqus-script" strategy="afterInteractive">
                 {`
                   var disqus_config = function () {
