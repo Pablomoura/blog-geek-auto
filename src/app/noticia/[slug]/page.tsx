@@ -47,6 +47,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
     return (
       <>
         <Header />
+        <link rel="canonical" href={`https://blog-geek-auto.vercel.app/noticia/${slug}`} />
         <Script id="json-ld" type="application/ld+json">
           {JSON.stringify({
             "@context": "https://schema.org",
@@ -57,6 +58,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
             author: {
               "@type": "Organization",
               name: "GeekNews",
+              "url": "https://www.geeknews.com.br"
             },
             publisher: {
               "@type": "Organization",
