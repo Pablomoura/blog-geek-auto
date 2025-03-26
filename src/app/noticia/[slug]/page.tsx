@@ -41,14 +41,8 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   }
 }
 
-type NoticiaPageProps = {
-  params: Promise<{
-    slug: string;
-  }>;
-};
-
-export default async function NoticiaPage(props: NoticiaPageProps) {
-  const { slug } = await props.params;
+export default async function NoticiaPage({ params }: { params: { slug: string } }) {
+  const { slug } = params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
   try {
@@ -57,7 +51,6 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
 
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
 
-    // Busca os outros posts para mostrar relacionados
     const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
     const relacionados = [];
     const posts = [];
@@ -76,7 +69,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
         titulo: relatedData.title,
         categoria: relatedData.categoria,
         thumb: relatedData.thumb,
-        tempoLeitura, // Adicionando o tempo de leitura
+        tempoLeitura,
       });
 
       posts.push({
@@ -105,14 +98,14 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
             author: {
               "@type": "Organization",
               name: "GeekNews",
-              "url": "https://www.geeknews.com.br"
+              url: "https://www.geeknews.com.br",
             },
             publisher: {
               "@type": "Organization",
               name: "GeekNews",
               logo: {
                 "@type": "ImageObject",
-                url: "https://www.geeknews.com.br/logo.png", // ← substitua pelo caminho real
+                url: "https://www.geeknews.com.br/logo.png",
               },
             },
             url: `https://www.geeknews.com.br/noticia/${slug}`,
@@ -122,9 +115,9 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
         </Script>
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="w-full bg-gray-200 dark:bg-gray-800 h-32 mt-8 mb-8 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
-          Publicidade
-        </div>
+          <div className="w-full bg-gray-200 dark:bg-gray-800 h-32 mt-8 mb-8 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
+            Publicidade
+          </div>
           <div className="flex flex-col lg:flex-row gap-14">
             <main className="flex-1 w-full lg:pr-10 py-10 text-neutral-900 dark:text-white">
               <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">
@@ -174,7 +167,6 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
                 ))}
               </div>
 
-              {/* POSTS RELACIONADOS */}
               {relacionados.length > 0 && (
                 <section className="mt-12 border-t border-gray-700 pt-8">
                   <h2 className="text-2xl font-bold mb-6 text-neutral-900 dark:text-white">
@@ -223,7 +215,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
                 `}
               </Script>
               <noscript>
-              Por favor, habilite o JavaScript para visualizar o
+                Por favor, habilite o JavaScript para visualizar o
                 <a href="https://disqus.com/?ref_noscript">comentários fornecidos pelo Disqus.</a>
               </noscript>
             </main>
