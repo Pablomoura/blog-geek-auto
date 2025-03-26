@@ -7,28 +7,6 @@ export const metadata: Metadata = {
   title: "GeekNews - O melhor do mundo geek",
   description: "Fique por dentro das últimas notícias sobre filmes, séries, games e cultura pop geek.",
   metadataBase: new URL("https://www.geeknews.com.br"),
-  openGraph: {
-    title: "GeekNews - O melhor do mundo geek",
-    description: "Notícias atualizadas sobre filmes, séries, games e muito mais.",
-    url: "https://www.geeknews.com.br",
-    siteName: "GeekNews",
-    images: [
-      {
-        url: "/logo.jpg",
-        width: 1200,
-        height: 630,
-        alt: "GeekNews",
-      },
-    ],
-    locale: "pt_BR",
-    type: "website",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "GeekNews",
-    description: "Fique por dentro das últimas notícias do universo geek.",
-    images: ["/logo.png"],
-  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

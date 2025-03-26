@@ -3,6 +3,34 @@ import path from "path";
 import matter from "gray-matter";
 import Link from "next/link";
 
+export async function generateMetadata({ params }: { params: { slug: string } }) {
+  const categoria = decodeURIComponent(params.slug).replace(/-/g, " ");
+  const nomeFormatado = categoria.charAt(0).toUpperCase() + categoria.slice(1);
+
+  return {
+    title: `${nomeFormatado} | GeekNews`,
+    description: `Veja as últimas notícias sobre ${nomeFormatado} no GeekNews.`,
+    openGraph: {
+      title: `${nomeFormatado} | GeekNews`,
+      description: `Veja as últimas notícias sobre ${nomeFormatado} no GeekNews.`,
+      url: `https://www.geeknews.com.br/categoria/${params.slug}`,
+      images: [
+        {
+          url: "/logo.png",
+          width: 1200,
+          height: 630,
+          alt: "GeekNews",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${nomeFormatado} | GeekNews`,
+      description: `Últimas notícias sobre ${nomeFormatado}`,
+      images: ["/logo.png"],
+    },
+  };
+}
 
 function slugify(text: string) {
   return text
