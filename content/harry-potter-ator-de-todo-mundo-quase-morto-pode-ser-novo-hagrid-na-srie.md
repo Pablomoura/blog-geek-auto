@@ -1,10 +1,13 @@
 ---
-title: "Harry Potter | Nick Frost pode ser o novo Hagrid na série da HBO"
-slug: "harry-potter-ator-de-todo-mundo-quase-morto-pode-ser-novo-hagrid-na-srie"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/LyXwXmMtl2mEesmU-T0Azqyzm-0=/987x0/smart/uploads/conteudo/fotos/hagrid-harry-potter.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/vL5S7RpejOmu3Xlxn51MuLNU1z8=/480x360/smart/extras/conteudos/hagrid_mhUeZGn.jpg"
+title: Harry Potter | Nick Frost pode ser o novo Hagrid na série da HBO
+slug: harry-potter-ator-de-todo-mundo-quase-morto-pode-ser-novo-hagrid-na-srie
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/LyXwXmMtl2mEesmU-T0Azqyzm-0=/987x0/smart/uploads/conteudo/fotos/hagrid-harry-potter.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/vL5S7RpejOmu3Xlxn51MuLNU1z8=/480x360/smart/extras/conteudos/hagrid_mhUeZGn.jpg
+data: '2025-03-26T11:27:49.641Z'
 ---
 
 A HBO está em processo de escalação para sua série de Harry Potter e pode ter encontrado seu Rúbeo Hagrid. Segundo o site Deadline, Nick Frost, conhecido por seu trabalho em 'Todo Mundo Quase Morto', está em negociações para assumir o papel do amado meio-gigante. Esta informação surge após rumores que apontavam Brett Goldstein para o papel.

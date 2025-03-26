@@ -1,10 +1,13 @@
 ---
-title: "Revelada Protagonista Feminina do Novo Filme 'A Múmia'"
-slug: "a-mmia-protagonista-feminina-do-novo-filme-revelada"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/pOFeyWLH0xKiNPQsjRp5K6ff5ws=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-25T123901.999.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/bGf7xgVV3ooQhgSOQCnVRqEQnVo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T123728.098.png"
+title: Revelada Protagonista Feminina do Novo Filme 'A Múmia'
+slug: a-mmia-protagonista-feminina-do-novo-filme-revelada
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/pOFeyWLH0xKiNPQsjRp5K6ff5ws=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-25T123901.999.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/bGf7xgVV3ooQhgSOQCnVRqEQnVo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T123728.098.png
+data: '2025-03-25T18:11:45.434Z'
 ---
 
 O reboot de 'A Múmia' acaba de anunciar a atriz espanhola Laia Costa como a protagonista feminina. Este anúncio ocorre um dia após a confirmação de Jack Reynor no papel do protagonista masculino. Costa, conhecida por seus papéis em 'Victoria' e 'Newness', interpretará a esposa do personagem de Reynor. Detalhes específicos sobre os personagens ainda não foram divulgados, mas especula-se que o casal possa ter uma filha e que se envolverão em uma expedição que os leva a encontrar a múmia titular.

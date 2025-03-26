@@ -1,10 +1,13 @@
 ---
-title: "The Dealer: Nova Série da Apple TV+ Contará com Adam Driver e Jessica Chastain"
-slug: "the-dealer-nova-srie-do-apple-tv-ter-adam-driver-e-jessica-chastain"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/j0PFs-o_4GjuK4MFoQxCaTssXkU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-25T131227.273.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4BDfWSpvDf_OHKZmEbZ4JwYB34U=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T131150.928.png"
+title: 'The Dealer: Nova Série da Apple TV+ Contará com Adam Driver e Jessica Chastain'
+slug: the-dealer-nova-srie-do-apple-tv-ter-adam-driver-e-jessica-chastain
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/j0PFs-o_4GjuK4MFoQxCaTssXkU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-25T131227.273.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4BDfWSpvDf_OHKZmEbZ4JwYB34U=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T131150.928.png
+data: '2025-03-25T18:11:45.436Z'
 ---
 
 A Apple TV+ amplia seu portfólio de produções originais com a adição de 'The Dealer', uma série dramática que terá como protagonistas os renomados atores de Hollywood, Adam Driver e Jessica Chastain. A notícia foi confirmada pela revista Variety.

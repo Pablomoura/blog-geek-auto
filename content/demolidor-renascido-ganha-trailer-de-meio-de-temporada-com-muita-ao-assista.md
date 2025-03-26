@@ -1,10 +1,13 @@
 ---
-title: "Demolidor: Renascido - Novo Trailer de Meio de Temporada Revela Ação Intensa"
-slug: "demolidor-renascido-ganha-trailer-de-meio-de-temporada-com-muita-ao-assista"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/kznaR-xJUO-TNbUue-3CJU9xTMw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-25T132128.811.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/aT5DPtlWLW5JT8KKgzDqqVqcamA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T132109.601.png"
+title: 'Demolidor: Renascido - Novo Trailer de Meio de Temporada Revela Ação Intensa'
+slug: demolidor-renascido-ganha-trailer-de-meio-de-temporada-com-muita-ao-assista
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/kznaR-xJUO-TNbUue-3CJU9xTMw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-25T132128.811.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/aT5DPtlWLW5JT8KKgzDqqVqcamA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T132109.601.png
+data: '2025-03-25T18:11:45.436Z'
 ---
 
 O aguardado retorno do 'Demolidor' às telas é marcado por um empolgante trailer de meio de temporada divulgado recentemente. O vídeo promocional de 'Demolidor: Renascido' traz cenas repletas de ação, indicando o que os fãs podem esperar dos próximos episódios.

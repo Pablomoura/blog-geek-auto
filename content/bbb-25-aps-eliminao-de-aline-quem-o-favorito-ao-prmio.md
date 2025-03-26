@@ -1,10 +1,13 @@
 ---
-title: "BBB 25 | Favoritismo após eliminação: quem lidera a corrida pelo prêmio?"
-slug: "bbb-25-aps-eliminao-de-aline-quem-o-favorito-ao-prmio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/tSl-dEJimHh-ArECGV3Zs9Qm6vA=/987x0/smart/uploads/conteudo/fotos/bbb25-favorito.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/l2twUw4n8qdDw0GXMbw77rIWTQE=/480x360/smart/extras/conteudos/bbb25-favorito-peq.jpg"
+title: 'BBB 25 | Favoritismo após eliminação: quem lidera a corrida pelo prêmio?'
+slug: bbb-25-aps-eliminao-de-aline-quem-o-favorito-ao-prmio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/tSl-dEJimHh-ArECGV3Zs9Qm6vA=/987x0/smart/uploads/conteudo/fotos/bbb25-favorito.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/l2twUw4n8qdDw0GXMbw77rIWTQE=/480x360/smart/extras/conteudos/bbb25-favorito-peq.jpg
+data: '2025-03-26T11:27:49.640Z'
 ---
 
 A recente eliminação de Aline no oitavo Paredão do BBB 25 revelou uma nova dinâmica no jogo, alterando as preferências do público. Atualmente, 13 participantes continuam na disputa pelo cobiçado prêmio de R$ 2,53 milhões.

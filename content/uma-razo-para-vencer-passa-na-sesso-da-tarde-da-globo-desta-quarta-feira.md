@@ -1,10 +1,13 @@
 ---
-title: "Sessão da Tarde exibe 'Uma Razão para Vencer' com Helen Hunt e William Hurt"
-slug: "uma-razo-para-vencer-passa-na-sesso-da-tarde-da-globo-desta-quarta-feira"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/x03e_p_qC7JuojBdL_aZr6wGzGU=/987x0/smart/uploads/conteudo/fotos/umarazaoparavencer_IKEOcHE.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OF4M9mVKvjnoxFtkFnxDDGsDjMA=/480x360/smart/extras/conteudos/umarazaoparavencer_8KCunMh.jpg"
+title: Sessão da Tarde exibe 'Uma Razão para Vencer' com Helen Hunt e William Hurt
+slug: uma-razo-para-vencer-passa-na-sesso-da-tarde-da-globo-desta-quarta-feira
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/x03e_p_qC7JuojBdL_aZr6wGzGU=/987x0/smart/uploads/conteudo/fotos/umarazaoparavencer_IKEOcHE.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OF4M9mVKvjnoxFtkFnxDDGsDjMA=/480x360/smart/extras/conteudos/umarazaoparavencer_8KCunMh.jpg
+data: '2025-03-26T11:27:49.643Z'
 ---
 
 Na Sessão da Tarde de hoje, 26 de outubro, a TV Globo apresenta o filme 'Uma Razão para Vencer', lançado em 2018. A transmissão ocorre às 15h25, horário de Brasília, com duração de 1h41.

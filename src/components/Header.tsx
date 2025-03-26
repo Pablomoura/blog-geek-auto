@@ -27,6 +27,17 @@ export default function Header() {
 
   const toggleMenu = () => setMenuAberto(!menuAberto);
 
+  const categorias = ["Games", "Séries e TV", "Mangás e Animes", "Filmes"];
+
+  function slugify(text: string) {
+    return text
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/\s+/g, "-")
+      .replace(/[^\w-]/g, "");
+  }
+
   return (
     <header className="bg-white dark:bg-gray-900 text-gray-900 dark:text-white shadow-md sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
@@ -37,10 +48,11 @@ export default function Header() {
 
         {/* Menu Desktop */}
         <nav className="hidden md:flex space-x-6 font-medium">
-          <Link href="#" className="hover:text-orange-400">Games</Link>
-          <Link href="#" className="hover:text-orange-400">Séries e TV</Link>
-          <Link href="#" className="hover:text-orange-400">Mangás e Animes</Link>
-          <Link href="#" className="hover:text-orange-400">Filmes</Link>
+          {categorias.map((nome) => (
+            <Link key={nome} href={`/categoria/${slugify(nome)}`}>
+              {nome}
+            </Link>
+          ))}
         </nav>
 
         {/* Botões */}
@@ -67,10 +79,11 @@ export default function Header() {
       {/* Dropdown Mobile */}
       {menuAberto && (
         <nav className="md:hidden px-6 pb-4 space-y-3 bg-white dark:bg-gray-900 text-sm font-medium">
-          <Link href="#" className="block hover:text-orange-400">Games</Link>
-          <Link href="#" className="block hover:text-orange-400">Séries e TV</Link>
-          <Link href="#" className="block hover:text-orange-400">Mangás e Animes</Link>
-          <Link href="#" className="block hover:text-orange-400">Filmes</Link>
+          {categorias.map((nome) => (
+            <Link key={nome} href={`/categoria/${slugify(nome)}`} className="block hover:text-orange-400">
+              {nome}
+            </Link>
+          ))}
         </nav>
       )}
     </header>

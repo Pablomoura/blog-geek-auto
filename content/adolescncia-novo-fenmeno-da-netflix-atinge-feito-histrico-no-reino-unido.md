@@ -1,10 +1,13 @@
 ---
-title: "Adolescência: A Minissérie da Netflix que Conquistou o Topo no Reino Unido"
-slug: "adolescncia-novo-fenmeno-da-netflix-atinge-feito-histrico-no-reino-unido"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/fvaDCdCM9CiRonzdn406tDSJxSE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-25T123022.811.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hP2cLRgDEY7fi1mpzZNv29JiX44=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T122951.129.png"
+title: 'Adolescência: A Minissérie da Netflix que Conquistou o Topo no Reino Unido'
+slug: adolescncia-novo-fenmeno-da-netflix-atinge-feito-histrico-no-reino-unido
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/fvaDCdCM9CiRonzdn406tDSJxSE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-25T123022.811.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hP2cLRgDEY7fi1mpzZNv29JiX44=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T122951.129.png
+data: '2025-03-25T18:11:45.435Z'
 ---
 
 A minissérie 'Adolescência', novo sucesso global da Netflix, alcançou um marco histórico no Reino Unido ao se tornar a primeira produção de streaming a liderar como a mais bem avaliada no país. Superando grandes nomes da televisão britânica como 'The Apprentice' e 'Death in Paradise' da BBC, 'Adolescência' registrou um recorde de 6,45 milhões de espectadores em sua semana de estreia, ultrapassando o recorde anterior de 6,3 milhões de 'A Grande Ilusão' da Netflix em janeiro de 2024.

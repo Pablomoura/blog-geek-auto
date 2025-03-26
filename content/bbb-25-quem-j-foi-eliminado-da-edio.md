@@ -1,10 +1,13 @@
 ---
-title: "BBB 25 | Confira a Lista de Participantes Eliminados Até Agora"
-slug: "bbb-25-quem-j-foi-eliminado-da-edio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/SgKlxsai5j7RiQi1FvVscyFXNCg=/987x0/smart/uploads/conteudo/fotos/bbb25-edilberto-raissa-eliminados_wZsCQ54.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dLry8p31Z0-eocvK0kbH8bTBweM=/480x360/smart/extras/conteudos/bbb25-edilberto-raissa-eliminados-peq_5jnF5tN.jpg"
+title: BBB 25 | Confira a Lista de Participantes Eliminados Até Agora
+slug: bbb-25-quem-j-foi-eliminado-da-edio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/SgKlxsai5j7RiQi1FvVscyFXNCg=/987x0/smart/uploads/conteudo/fotos/bbb25-edilberto-raissa-eliminados_wZsCQ54.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dLry8p31Z0-eocvK0kbH8bTBweM=/480x360/smart/extras/conteudos/bbb25-edilberto-raissa-eliminados-peq_5jnF5tN.jpg
+data: '2025-03-26T11:27:49.641Z'
 ---
 
 O Big Brother Brasil 25 iniciou em 13 de janeiro com 24 concorrentes, apresentando pela primeira vez inscrições e eliminações iniciais em duplas. Arleane e Marcelo foram os primeiros eliminados, seguidos por Edilberto e Raissa, um duo de pai e filha.

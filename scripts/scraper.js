@@ -221,6 +221,7 @@ categoria: "${novaNoticia.categoria}"
 midia: "${novaNoticia.midia}"
 tipoMidia: "${novaNoticia.tipoMidia}"
 thumb: "${novaNoticia.thumb || ""}"
+data: "${new Date().toISOString()}"
 ---\n\n`;
 
     const markdown = frontMatter + reescrito.texto;

@@ -1,10 +1,13 @@
 ---
-title: "LEGO Lança Novo Set Inspirado no Condado de 'O Senhor dos Anéis'"
-slug: "senhor-dos-anis-condado-tema-de-novo-set-de-lego-confira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/2Pl54fUff_-UoFdGYbZx57HROpQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-25T133133.753.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/8yiez2vw0Tyh0o6_ocpW_CdBSlw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T132659.019.png"
+title: LEGO Lança Novo Set Inspirado no Condado de 'O Senhor dos Anéis'
+slug: senhor-dos-anis-condado-tema-de-novo-set-de-lego-confira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/2Pl54fUff_-UoFdGYbZx57HROpQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-25T133133.753.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/8yiez2vw0Tyh0o6_ocpW_CdBSlw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T132659.019.png
+data: '2025-03-25T17:07:28.425Z'
 ---
 
 A LEGO anunciou um emocionante lançamento para os fãs de 'O Senhor dos Anéis', uma parceria que traz o Condado, o idílico lar dos hobbits, para o mundo dos blocos de montar. Imagens divulgadas mostram Sean Astin, que interpretou Sam na famosa trilogia de Peter Jackson, montando o set.

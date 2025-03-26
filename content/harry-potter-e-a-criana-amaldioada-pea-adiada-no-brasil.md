@@ -1,10 +1,13 @@
 ---
-title: "Adiamento da peça 'Harry Potter e a Criança Amaldiçoada' no Brasil"
-slug: "harry-potter-e-a-criana-amaldioada-pea-adiada-no-brasil"
-categoria: "HQ/LIVROS"
-midia: "https://cdn.ome.lt/swSvJIJWcVNLjXYRSw5XGFZgD0Q=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-25T211521.781.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ihqXiSXEbASsp4Jybzs3vkolfRE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-25T211521.781.png"
+title: Adiamento da peça 'Harry Potter e a Criança Amaldiçoada' no Brasil
+slug: harry-potter-e-a-criana-amaldioada-pea-adiada-no-brasil
+categoria: HQ/LIVROS
+midia: >-
+  https://cdn.ome.lt/swSvJIJWcVNLjXYRSw5XGFZgD0Q=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-25T211521.781.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ihqXiSXEbASsp4Jybzs3vkolfRE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-25T211521.781.png
+data: '2025-03-26T11:27:49.641Z'
 ---
 
 Foi anunciado nesta terça-feira (25) que a estreia da peça 'Harry Potter e a Criança Amaldiçoada' no Brasil foi adiada. A produtora global cancelou o contrato com a VME, responsável pela produção local em São Paulo.

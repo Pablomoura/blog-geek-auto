@@ -1,10 +1,13 @@
 ---
-title: "BBB 25 | Daniele Hypólito Muda Estratégia de Jogo Após Críticas de Adversários"
-slug: "bbb-25-dani-hyplito-toma-atitude-para-mostrar-que-no-tem-jogo-morno"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/1htazlI3bNlZLduYfM8r8Un6Jfs=/987x0/smart/uploads/conteudo/fotos/bbb25-daniele-hypolito-atitude.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7I8VFHqxwuVqIEAUFakI5CD-WLo=/480x360/smart/extras/conteudos/bbb25-daniele-hypolito-atitude-peq.jpg"
+title: BBB 25 | Daniele Hypólito Muda Estratégia de Jogo Após Críticas de Adversários
+slug: bbb-25-dani-hyplito-toma-atitude-para-mostrar-que-no-tem-jogo-morno
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/1htazlI3bNlZLduYfM8r8Un6Jfs=/987x0/smart/uploads/conteudo/fotos/bbb25-daniele-hypolito-atitude.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7I8VFHqxwuVqIEAUFakI5CD-WLo=/480x360/smart/extras/conteudos/bbb25-daniele-hypolito-atitude-peq.jpg
+data: '2025-03-26T11:27:49.641Z'
 ---
 
 Daniele Hypólito, cansada das críticas por sua postura pacífica no Big Brother Brasil 25, decidiu mudar sua estratégia de jogo. Tradicionalmente vista cozinhando para os outros participantes, especialmente quando na Xepa, Hypólito revelou que sua motivação era apenas o prazer de cozinhar, mas isso vai mudar.

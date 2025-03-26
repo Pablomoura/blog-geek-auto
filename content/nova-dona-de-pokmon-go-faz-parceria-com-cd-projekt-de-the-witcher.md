@@ -1,10 +1,13 @@
 ---
-title: "Scopely e CD Projekt Red Anunciam Parceria para Novo Projeto Móvel"
-slug: "nova-dona-de-pokmon-go-faz-parceria-com-cd-projekt-de-the-witcher"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/E7__WAPrgzfZ_WsBqSjW2PX7a8M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-25T202547.536.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Qd0VTuy5RLDTQjXK40B79sLT15A=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-25T202547.536.png"
+title: Scopely e CD Projekt Red Anunciam Parceria para Novo Projeto Móvel
+slug: nova-dona-de-pokmon-go-faz-parceria-com-cd-projekt-de-the-witcher
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/E7__WAPrgzfZ_WsBqSjW2PX7a8M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-25T202547.536.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Qd0VTuy5RLDTQjXK40B79sLT15A=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-25T202547.536.png
+data: '2025-03-26T11:27:49.642Z'
 ---
 
 Em recente reunião de resultados financeiros, a CD Projekt Red anunciou uma colaboração inédita com a Scopely, empresa que adquiriu a Niantic, desenvolvedora do famoso Pokémon GO. A parceria visa adaptar uma das franquias da desenvolvedora polonesa para uma nova plataforma móvel, embora detalhes específicos sobre qual franquia será adaptada ainda não tenham sido revelados.

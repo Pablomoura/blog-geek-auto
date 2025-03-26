@@ -1,10 +1,13 @@
 ---
-title: "Referência à Série da Netflix em Julgamento de Bolsonaro"
-slug: "julgamento-de-bolsonaro-cita-srie-da-netflix-entenda"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/fE1X34nnmwmtMEPLsFTRsdhUp6M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_3_wpykQjl.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ECVW8P4f1_t7C7LsO3f3Sl-K_Zc=/480x360/smart/extras/conteudos/Design_sem_nome_3_NldCtxH.jpg"
+title: Referência à Série da Netflix em Julgamento de Bolsonaro
+slug: julgamento-de-bolsonaro-cita-srie-da-netflix-entenda
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/fE1X34nnmwmtMEPLsFTRsdhUp6M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_3_wpykQjl.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ECVW8P4f1_t7C7LsO3f3Sl-K_Zc=/480x360/smart/extras/conteudos/Design_sem_nome_3_NldCtxH.jpg
+data: '2025-03-25T18:11:45.436Z'
 ---
 
 O julgamento de Jair Bolsonaro, acusado de planejar um golpe de estado, foi palco de uma intrigante referência à cultura pop. No STF, Matheus Mayer Milanez, advogado de defesa, fez uma comparação entre a acusação e uma famosa série da Netflix.

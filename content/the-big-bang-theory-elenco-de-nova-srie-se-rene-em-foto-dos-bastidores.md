@@ -1,10 +1,15 @@
 ---
-title: "The Big Bang Theory | Elenco da nova série 'Stuart Fails To Save The Universe' se reúne em foto dos bastidores"
-slug: "the-big-bang-theory-elenco-de-nova-srie-se-rene-em-foto-dos-bastidores"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/vJS29RdCcqouSu4P71LQvRzIVJM=/987x0/smart/uploads/conteudo/fotos/02_JyM9OuT.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/X73qiJvZQl6mOLsIA527n2jVlUE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-25_160622.png"
+title: >-
+  The Big Bang Theory | Elenco da nova série 'Stuart Fails To Save The Universe'
+  se reúne em foto dos bastidores
+slug: the-big-bang-theory-elenco-de-nova-srie-se-rene-em-foto-dos-bastidores
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/vJS29RdCcqouSu4P71LQvRzIVJM=/987x0/smart/uploads/conteudo/fotos/02_JyM9OuT.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/X73qiJvZQl6mOLsIA527n2jVlUE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-25_160622.png
+data: '2025-03-26T11:27:49.642Z'
 ---
 
 O novo spin-off de The Big Bang Theory, intitulado 'Stuart Fails To Save The Universe', revelou sua primeira imagem dos bastidores, mostrando o elenco principal reunido na primeira leitura do roteiro. Entre os presentes estão Kevin Sussman (Stuart), Lauren Lapkus (Denise), John Ross Bowie (Barry Kripke) e Brian Posehn (Bert Kibbler).

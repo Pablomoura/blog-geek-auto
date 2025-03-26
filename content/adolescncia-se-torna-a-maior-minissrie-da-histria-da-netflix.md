@@ -1,10 +1,12 @@
 ---
-title: "Adolescência se Torna a Minissérie Mais Assistida na História da Netflix"
-slug: "adolescncia-se-torna-a-maior-minissrie-da-histria-da-netflix"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/Cyc5QfdZMmQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/yAm8xEDuKFiM9czNGk8_Zks2ryw=/480x360/smart/extras/conteudos/01_H6OPnkj.jpg"
+title: Adolescência se Torna a Minissérie Mais Assistida na História da Netflix
+slug: adolescncia-se-torna-a-maior-minissrie-da-histria-da-netflix
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/Cyc5QfdZMmQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/yAm8xEDuKFiM9czNGk8_Zks2ryw=/480x360/smart/extras/conteudos/01_H6OPnkj.jpg
+data: '2025-03-26T11:27:49.640Z'
 ---
 
 A minissérie Adolescência alcançou um marco impressionante ao se tornar a minissérie mais assistida na história da Netflix. Segundo dados recentes, a produção acumulou 66,3 milhões de visualizações em menos de duas semanas após sua estreia em 13 de março.

@@ -1,10 +1,15 @@
 ---
-title: "David Harbour Revela Bastidores Intensos da Última Temporada de Stranger Things"
-slug: "stranger-things-david-harbour-sobre-gravaes-da-ltima-temporada-intenso"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/MC_YfotZstfzyOIUcTV5_DfZCVk=/987x0/smart/uploads/conteudo/fotos/strangerthings_7fSxgFG.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/MaSxJMjWt0XJ06SDKDoNDsW0x8c=/480x360/smart/extras/conteudos/strangerthings_bs81YX0.jpg"
+title: >-
+  David Harbour Revela Bastidores Intensos da Última Temporada de Stranger
+  Things
+slug: stranger-things-david-harbour-sobre-gravaes-da-ltima-temporada-intenso
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/MC_YfotZstfzyOIUcTV5_DfZCVk=/987x0/smart/uploads/conteudo/fotos/strangerthings_7fSxgFG.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/MaSxJMjWt0XJ06SDKDoNDsW0x8c=/480x360/smart/extras/conteudos/strangerthings_bs81YX0.jpg
+data: '2025-03-26T11:27:49.642Z'
 ---
 
 A aguardada conclusão de Stranger Things está a caminho, com estreia programada para 2025 na Netflix, embora a data exata ainda não tenha sido anunciada. Enquanto aguardam, os fãs estão atentos às novidades compartilhadas pelos atores, especialmente David Harbour, que recentemente falou sobre a intensidade das filmagens da quinta e última temporada.

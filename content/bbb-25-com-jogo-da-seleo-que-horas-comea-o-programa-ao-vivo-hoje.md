@@ -1,10 +1,13 @@
 ---
-title: "BBB 25: Horário de Exibição Alterado Devido ao Jogo da Seleção Brasileira"
-slug: "bbb-25-com-jogo-da-seleo-que-horas-comea-o-programa-ao-vivo-hoje"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/rNLXZ2yvmGHf3F9H4Fq_BlrJ2GQ=/987x0/smart/uploads/conteudo/fotos/bbb25-tadeu-schmidt-horario.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/-GCm1hJvvFkfyka09r4i0e3jkyg=/480x360/smart/extras/conteudos/bbb25-tadeu-schmidt-horario-peq.jpg"
+title: 'BBB 25: Horário de Exibição Alterado Devido ao Jogo da Seleção Brasileira'
+slug: bbb-25-com-jogo-da-seleo-que-horas-comea-o-programa-ao-vivo-hoje
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/rNLXZ2yvmGHf3F9H4Fq_BlrJ2GQ=/987x0/smart/uploads/conteudo/fotos/bbb25-tadeu-schmidt-horario.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/-GCm1hJvvFkfyka09r4i0e3jkyg=/480x360/smart/extras/conteudos/bbb25-tadeu-schmidt-horario-peq.jpg
+data: '2025-03-26T11:27:49.641Z'
 ---
 
 O Big Brother Brasil 25 será transmitido excepcionalmente às 23h (horário de Brasília) nesta terça-feira, 25 de março, devido à partida de futebol entre Brasil e Argentina pelas Eliminatórias da Copa. A transmissão ocorrerá logo após o jogo.

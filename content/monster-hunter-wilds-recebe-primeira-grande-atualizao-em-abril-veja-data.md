@@ -1,10 +1,12 @@
 ---
-title: "Monster Hunter Wilds Anuncia Primeira Grande Atualização em Abril"
-slug: "monster-hunter-wilds-recebe-primeira-grande-atualizao-em-abril-veja-data"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/te3zW20TuG0?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/xZfd2skgHbKvxJpDGeYegO0WqVs=/480x360/smart/extras/conteudos/01_o6Nxm7Y.jpg"
+title: Monster Hunter Wilds Anuncia Primeira Grande Atualização em Abril
+slug: monster-hunter-wilds-recebe-primeira-grande-atualizao-em-abril-veja-data
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/te3zW20TuG0?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/xZfd2skgHbKvxJpDGeYegO0WqVs=/480x360/smart/extras/conteudos/01_o6Nxm7Y.jpg
+data: '2025-03-25T18:11:45.436Z'
 ---
 
 Monster Hunter Wilds, o mais recente sucesso da Capcom, receberá sua primeira grande atualização gratuita em abril, disponível para PS5, Xbox Series S, Xbox Series X e PC. Esta atualização, denominada 'Atualização de Título 1', introduzirá o monstro Mitzutsune, uma nova área de reunião para caçadores e outros recursos e desafios.

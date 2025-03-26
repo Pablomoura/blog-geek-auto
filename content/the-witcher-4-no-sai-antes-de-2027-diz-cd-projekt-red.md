@@ -1,10 +1,14 @@
 ---
-title: "Lançamento de The Witcher 4 não ocorrerá antes de 2027, confirma CD Projekt Red"
-slug: "the-witcher-4-no-sai-antes-de-2027-diz-cd-projekt-red"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/54dabgZJ5YA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/49Sgo8bDseHETtZJuBLEgq735wQ=/480x360/smart/extras/conteudos/imagem_2025-03-25_181643291.png"
+title: >-
+  Lançamento de The Witcher 4 não ocorrerá antes de 2027, confirma CD Projekt
+  Red
+slug: the-witcher-4-no-sai-antes-de-2027-diz-cd-projekt-red
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/54dabgZJ5YA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/49Sgo8bDseHETtZJuBLEgq735wQ=/480x360/smart/extras/conteudos/imagem_2025-03-25_181643291.png
+data: '2025-03-26T11:27:49.642Z'
 ---
 
 Durante uma recente reunião com acionistas, a CD Projekt Red esclareceu as expectativas quanto ao lançamento de The Witcher 4. Segundo a empresa, o jogo não chegará ao mercado antes de 2027.

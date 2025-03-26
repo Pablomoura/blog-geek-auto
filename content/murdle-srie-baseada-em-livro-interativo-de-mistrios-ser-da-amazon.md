@@ -1,10 +1,13 @@
 ---
-title: "Amazon MGM Studios anuncia série 'Murdle' baseada em best-seller de mistério"
-slug: "murdle-srie-baseada-em-livro-interativo-de-mistrios-ser-da-amazon"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/CLygLUeZ9C6SDAqt4mfctJFjAhs=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-25T192659.444.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/j8T2BQiXcRtDVk2p0qVEGYKtimc=/480x360/smart/extras/conteudos/Murdle.png"
+title: Amazon MGM Studios anuncia série 'Murdle' baseada em best-seller de mistério
+slug: murdle-srie-baseada-em-livro-interativo-de-mistrios-ser-da-amazon
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/CLygLUeZ9C6SDAqt4mfctJFjAhs=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-25T192659.444.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/j8T2BQiXcRtDVk2p0qVEGYKtimc=/480x360/smart/extras/conteudos/Murdle.png
+data: '2025-03-26T11:27:49.642Z'
 ---
 
 De acordo com informações do Deadline, a Amazon MGM Studios adquiriu os direitos para adaptar 'Murdle', uma série baseada nos populares livros de mistério de G.T. Karber. A adaptação será realizada em parceria com a Legendary Television.

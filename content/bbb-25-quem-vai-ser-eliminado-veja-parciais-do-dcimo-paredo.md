@@ -1,10 +1,13 @@
 ---
-title: "BBB 25 | Décimo Paredão: Quem será eliminado?"
-slug: "bbb-25-quem-vai-ser-eliminado-veja-parciais-do-dcimo-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/FzYrSPuS1Wlgj8lkHujUGD_mBu0=/987x0/smart/uploads/conteudo/fotos/bbb25-aline-maike-diego-10-parciais.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/LEeN7esVN8rqjBj1mAGEP4EYGr8=/480x360/smart/extras/conteudos/bbb25-maike-10-parciais-peq.jpg"
+title: 'BBB 25 | Décimo Paredão: Quem será eliminado?'
+slug: bbb-25-quem-vai-ser-eliminado-veja-parciais-do-dcimo-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/FzYrSPuS1Wlgj8lkHujUGD_mBu0=/987x0/smart/uploads/conteudo/fotos/bbb25-aline-maike-diego-10-parciais.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/LEeN7esVN8rqjBj1mAGEP4EYGr8=/480x360/smart/extras/conteudos/bbb25-maike-10-parciais-peq.jpg
+data: '2025-03-25T18:11:45.435Z'
 ---
 
 O décimo Paredão do BBB 25, formado na última noite de domingo, 23, coloca Aline, Maike e Diego Hypólito na berlinda. A eliminação será na próxima terça-feira, dia 25.

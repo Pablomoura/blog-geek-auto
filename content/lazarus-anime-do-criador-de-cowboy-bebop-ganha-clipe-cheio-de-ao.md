@@ -1,10 +1,12 @@
 ---
-title: "Lazarus: Novo Anime de Shinichiro Watanabe Promete Alta Dose de Ação"
-slug: "lazarus-anime-do-criador-de-cowboy-bebop-ganha-clipe-cheio-de-ao"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/wvyt8D5aqqU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/31TcQZevZqNYPZ6VvdDAxKs_Rng=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-25T194838.828.png"
+title: 'Lazarus: Novo Anime de Shinichiro Watanabe Promete Alta Dose de Ação'
+slug: lazarus-anime-do-criador-de-cowboy-bebop-ganha-clipe-cheio-de-ao
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/wvyt8D5aqqU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/31TcQZevZqNYPZ6VvdDAxKs_Rng=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-25T194838.828.png
+data: '2025-03-26T11:27:49.642Z'
 ---
 
 Adult Swim lançou recentemente um trailer empolgante de 'Lazarus', a mais nova criação de Shinichiro Watanabe, conhecido por 'Cowboy Bebop' e 'Samurai Champloo'. O anime, produzido pelo renomado estúdio MAPPA, contará com um total de 13 episódios.

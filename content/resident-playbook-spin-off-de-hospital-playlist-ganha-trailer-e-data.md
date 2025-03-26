@@ -1,10 +1,12 @@
 ---
-title: "Resident Playbook: Spin-off de Hospital Playlist Estreia com Trailer Inédito"
-slug: "resident-playbook-spin-off-de-hospital-playlist-ganha-trailer-e-data"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/bHQrRHjTPVk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/GEe-xSlwn52OILY92ipY5hI-XuE=/480x360/smart/extras/conteudos/resident_QfQxw9W.png"
+title: 'Resident Playbook: Spin-off de Hospital Playlist Estreia com Trailer Inédito'
+slug: resident-playbook-spin-off-de-hospital-playlist-ganha-trailer-e-data
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/bHQrRHjTPVk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/GEe-xSlwn52OILY92ipY5hI-XuE=/480x360/smart/extras/conteudos/resident_QfQxw9W.png
+data: '2025-03-26T14:14:29.488Z'
 ---
 
 A espera por Resident Playbook está chegando ao fim. Marcado inicialmente para março do ano passado, o lançamento foi adiado devido a uma crise médica na Coreia do Sul, com demissões em massa de profissionais da saúde em protesto a políticas governamentais. Agora, a Netflix confirmou que a série estreará em 21 de abril.

@@ -1,10 +1,13 @@
 ---
-title: "Revival de 'Malcolm in the Middle' Anuncia Novidades no Elenco"
-slug: "malcolm-in-the-middle-revival-revela-mudanas-no-elenco"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/jI85a1xS1Ie5emzVnxqcOstKbXY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-25T182309.390.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/DCbwwKLtS048xsylXUYoQU4e3qk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-25T182309.390.png"
+title: Revival de 'Malcolm in the Middle' Anuncia Novidades no Elenco
+slug: malcolm-in-the-middle-revival-revela-mudanas-no-elenco
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/jI85a1xS1Ie5emzVnxqcOstKbXY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-25T182309.390.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/DCbwwKLtS048xsylXUYoQU4e3qk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-25T182309.390.png
+data: '2025-03-26T11:27:49.642Z'
 ---
 
 A Disney Branded Television anunciou detalhes sobre o elenco do revival de 'Malcolm in the Middle', que será composto por quatro episódios. A nova temporada incluirá a revelação do gênero e do nome do sexto filho da família. 

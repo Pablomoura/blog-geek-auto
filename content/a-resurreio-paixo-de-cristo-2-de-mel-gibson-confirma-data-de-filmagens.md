@@ -1,10 +1,13 @@
 ---
-title: "Mel Gibson Inicia Filmagens de 'A Ressurreição de Cristo' em Roma"
-slug: "a-resurreio-paixo-de-cristo-2-de-mel-gibson-confirma-data-de-filmagens"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/PA-dXXyTyWYrIN0kDhIndl8OWJs=/987x0/smart/uploads/conteudo/fotos/paixao-de-cristo-2.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/LZb6TVk1Urj5_PRdw1PEKh-4Hbk=/480x360/smart/extras/conteudos/paixao-de-cristo_Vl1ZOsF.jpg"
+title: Mel Gibson Inicia Filmagens de 'A Ressurreição de Cristo' em Roma
+slug: a-resurreio-paixo-de-cristo-2-de-mel-gibson-confirma-data-de-filmagens
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/PA-dXXyTyWYrIN0kDhIndl8OWJs=/987x0/smart/uploads/conteudo/fotos/paixao-de-cristo-2.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/LZb6TVk1Urj5_PRdw1PEKh-4Hbk=/480x360/smart/extras/conteudos/paixao-de-cristo_Vl1ZOsF.jpg
+data: '2025-03-26T12:34:03.069Z'
 ---
 
 O aguardado filme 'A Ressurreição de Cristo', dirigido por Mel Gibson, será gravado em Roma este ano. A produção ocorrerá no renomado Cinecittà Studios, conforme anunciado por Manuela Cacciamani, CEO do estúdio, em entrevista ao jornal Il Sole 24 Ore. 'Posso confirmar que o próximo filme de Mel Gibson, produzido pela Icon Productions, será inteiramente filmado aqui a partir de agosto, com intensa construção de cenários', revelou Cacciamani.

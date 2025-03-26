@@ -1,10 +1,15 @@
 ---
-title: "Demolidor: Renascido - Novo Episódio Estabelece Conexões com Ms. Marvel e a Futura Série 'Campeões'"
-slug: "demolidor-renascido-novo-episdio-tem-ligao-com-ms-marvel-e-campees"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/HTEe8ZcnkUQye8Nb9ujTu34s_XY=/987x0/smart/uploads/conteudo/fotos/ms.marvel-mcu.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/_GjimfgOUFQz7UnJ3jqFluqSAak=/480x360/smart/extras/conteudos/ms-marvel_DlmaPwd.jpg"
+title: >-
+  Demolidor: Renascido - Novo Episódio Estabelece Conexões com Ms. Marvel e a
+  Futura Série 'Campeões'
+slug: demolidor-renascido-novo-episdio-tem-ligao-com-ms-marvel-e-campees
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/HTEe8ZcnkUQye8Nb9ujTu34s_XY=/987x0/smart/uploads/conteudo/fotos/ms.marvel-mcu.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/_GjimfgOUFQz7UnJ3jqFluqSAak=/480x360/smart/extras/conteudos/ms-marvel_DlmaPwd.jpg
+data: '2025-03-26T11:27:49.641Z'
 ---
 
 [Alerta de spoilers do episódio 5 de 'Demolidor: Renascido' a seguir]

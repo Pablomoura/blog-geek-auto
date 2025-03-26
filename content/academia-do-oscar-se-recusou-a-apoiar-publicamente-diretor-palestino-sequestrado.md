@@ -1,10 +1,14 @@
 ---
-title: "Academia do Oscar não se pronuncia sobre ataque a diretor palestino"
-slug: "academia-do-oscar-se-recusou-a-apoiar-publicamente-diretor-palestino-sequestrado"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/twWUgUOcKTPx0KehtAv4Xap0dDA=/987x0/smart/uploads/conteudo/fotos/ballal.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/8NmN0fbx6BnT5BgPMJ5H2cfpK9Y=/480x360/smart/extras/conteudos/ballal.jpg"
+title: Academia do Oscar não se pronuncia sobre ataque a diretor palestino
+slug: >-
+  academia-do-oscar-se-recusou-a-apoiar-publicamente-diretor-palestino-sequestrado
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/twWUgUOcKTPx0KehtAv4Xap0dDA=/987x0/smart/uploads/conteudo/fotos/ballal.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/8NmN0fbx6BnT5BgPMJ5H2cfpK9Y=/480x360/smart/extras/conteudos/ballal.jpg
+data: '2025-03-26T14:14:29.487Z'
 ---
 
 Yuval Abraham, co-diretor do aclamado documentário 'Sem Chão', expressou sua decepção com a Academia de Artes e Ciências Cinematográficas dos EUA por não ter se manifestado publicamente após o sequestro e agressão de Hamdan Ballal, também diretor do filme, por colonos e soldados israelenses. Este incidente ocorreu em uma comunidade palestina na Palestina. 

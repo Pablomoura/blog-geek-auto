@@ -1,10 +1,15 @@
 ---
-title: "Amazon Confirma Produtores de 'Harry Potter' e 'Homem-Aranha' para Novo Filme de James Bond"
-slug: "007-amazon-confirma-produtores-de-harry-potter-e-homem-aranha-na-franquia"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/0Fvy58HnWMIfrdfEaHkKdo8WsKY=/987x0/smart/uploads/conteudo/fotos/007_TSjG2SR.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nji1Qt6rFidaaO_9HzleFHmPKHE=/480x360/smart/extras/conteudos/007-bond_6gThgwo_VcglSop.jpg"
+title: >-
+  Amazon Confirma Produtores de 'Harry Potter' e 'Homem-Aranha' para Novo Filme
+  de James Bond
+slug: 007-amazon-confirma-produtores-de-harry-potter-e-homem-aranha-na-franquia
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/0Fvy58HnWMIfrdfEaHkKdo8WsKY=/987x0/smart/uploads/conteudo/fotos/007_TSjG2SR.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nji1Qt6rFidaaO_9HzleFHmPKHE=/480x360/smart/extras/conteudos/007-bond_6gThgwo_VcglSop.jpg
+data: '2025-03-25T18:52:22.415Z'
 ---
 
 A Amazon MGM Studios anunciou oficialmente que Amy Pascal e David Heyman, conhecidos por suas produções em 'Homem-Aranha' e 'Harry Potter', serão os produtores do novo filme de James Bond. A confirmação vem após rumores sobre a participação da dupla no projeto. O acordo atual prevê a produção de apenas um filme, sem incluir possíveis derivados ou sequências, o que exigiria novas negociações.
