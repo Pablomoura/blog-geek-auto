@@ -4,8 +4,9 @@ import { useEffect } from "react";
 
 export default function DisqusReset({ slug }: { slug: string }) {
   useEffect(() => {
-    if (typeof window !== "undefined" && (window as any).DISQUS) {
-      (window as any).DISQUS.reset({
+    const disqus = (window as typeof window & { DISQUS?: { reset: (opts: { reload: boolean; config: () => void }) => void } }).DISQUS;
+    if (typeof window !== "undefined" && disqus) {
+      disqus.reset({
         reload: true,
         config: function () {
           this.page.url = `https://www.geeknews.com.br/noticia/${slug}`;
