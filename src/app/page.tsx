@@ -33,7 +33,7 @@ export default function Home() {
       <Header />
 
       <main className="max-w-5xl mx-auto px-6 py-10">
-        <h2 className="text-4xl font-bold mb-6 text-neutral-900 dark:text-white">📰 Últimas Notícias</h2>
+        <h1 className="text-4xl font-bold mb-6 text-neutral-900 dark:text-white">📰 Últimas Notícias</h1>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {posts.slice(0, visiblePosts).map((post, index) => (
@@ -63,7 +63,7 @@ export default function Home() {
 
               <Link
                 href={`/noticia/${post.slug}`}
-                className="inline-block mt-4 text-orange-500 hover:underline font-boldd"
+                className="inline-block mt-4 text-orange-500 hover:underline font-bold"
               >
                 ➜ Leia mais
               </Link>

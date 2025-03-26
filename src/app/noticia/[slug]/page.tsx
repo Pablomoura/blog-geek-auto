@@ -67,9 +67,9 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
                 url: "https://www.geeknews.com.br/logo.png", // ← substitua pelo caminho real
               },
             },
-            url: `https://blog-geek-auto.vercel.app/noticia/${slug}`,
-            datePublished: new Date().toISOString(),
-            dateModified: new Date().toISOString(),
+            url: `https://www.geeknews.com.br/noticia/${slug}`,
+            datePublished: data.data || new Date().toISOString(),
+            dateModified: data.data || new Date().toISOString(),
           })}
         </Script>
 
@@ -78,7 +78,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
             {data.categoria}
           </span>
 
-          <h1 className="text-5xl font-extrabold mt-2 mb-6">{data.title}</h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mt-2 mb-6">{data.title}</h1>
 
           <p className="text-neutral-600 dark:text-gray-400 text-sm mb-6">
             Publicado em {new Date().toLocaleDateString("pt-BR")} • {tempoLeitura} min de leitura
@@ -100,6 +100,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
                 className="absolute top-0 left-0 w-full h-full"
                 frameBorder="0"
                 allowFullScreen
+                loading="lazy"
               />
             </div>
           )}
@@ -148,6 +149,26 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
               </div>
             </section>
           )}
+
+          <div id="disqus_thread" className="mt-12" />
+          <Script id="disqus-script" strategy="afterInteractive">
+            {`
+              var disqus_config = function () {
+                this.page.url = "https://www.geeknews.com.br/noticia/${slug}";
+                this.page.identifier = "${slug}";
+              };
+              (function() {
+                var d = document, s = d.createElement('script');
+                s.src = 'https://geeknewsblog.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+              })();
+            `}
+          </Script>
+          <noscript>
+          Por favor, habilite o JavaScript para visualizar o
+            <a href="https://disqus.com/?ref_noscript">comentários fornecidos pelo Disqus.</a>
+          </noscript>
         </main>
       </>
     );
