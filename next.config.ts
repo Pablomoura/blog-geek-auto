@@ -1,4 +1,4 @@
-/** @type {import('next').NextConfig} */
+/ ** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
     domains: [
@@ -11,6 +11,23 @@ const nextConfig = {
   serverExternalPackages: ["puppeteer-extra", "puppeteer-extra-plugin-stealth"],
   experimental: {
     serverActions: true,
+  },
+  async headers() {
+    return [
+      {
+        source: "/images/:path*",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=31536000, immutable",
+          },
+          {
+            key: "X-XSS-Protection",
+            value: "1; mode=block",
+          },
+        ],
+      },
+    ];
   },
 };
 
