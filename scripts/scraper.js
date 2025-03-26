@@ -160,16 +160,28 @@ Responda em JSON neste formato:
     let raw = response.data.choices[0].message.content;
 
     // Limpa caracteres problemáticos
+    raw = raw.trim();
+    raw = raw.replace(/^[^]*?{/, '{'); // Remove tudo antes do primeiro {
+    raw = raw.replace(/}[^}]*$/, '}'); // Remove tudo depois do último }
     raw = raw.replace(/[\u0000-\u001F\u007F]/g, "");
     raw = raw.replace(/\t/g, " ");
 
+    let reescrito;
+    try {
+      reescrito = JSON.parse(raw);
+    } catch (err) {
+      console.error("❌ Erro ao fazer JSON.parse:", err.message);
+      console.log("🧪 Conteúdo recebido:\n", raw);
+      return null;
+    }
+
     console.log("\n🧪 RAW recebido da IA:\n", raw);
 
-    // Faz parse da resposta e garante parágrafos duplos
-    const reescrito = JSON.parse(raw);
+    // Garante parágrafos duplos
     reescrito.texto = reescrito.texto.replace(/(?<!\n)\n(?!\n)/g, "\n\n");
 
     return reescrito;
+
   } catch (err) {
     console.error("❌ Erro ao reescrever notícia:", err.message);
     return null;
