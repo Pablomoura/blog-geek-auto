@@ -6,14 +6,19 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import React from "react";
 
-interface HomePageProps {
-  searchParams: Promise<{ page?: string }>;
+function slugify(text: string) {
+  return text
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/[^\w-]/g, "");
 }
 
-export default async function HomePage({ searchParams }: HomePageProps) {
+export default async function HomePage({ searchParams }: { searchParams: Promise<{ page?: string }> }) {
   const { page } = await searchParams;
   const arquivos = await fs.readdir(path.join(process.cwd(), "content"));
-  const posts = [];
+  const posts: any[] = [];
 
   for (const nomeArquivo of arquivos) {
     const arquivo = await fs.readFile(path.join(process.cwd(), "content", nomeArquivo), "utf-8");
@@ -34,6 +39,13 @@ export default async function HomePage({ searchParams }: HomePageProps) {
 
   posts.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
 
+  const getMaisRecentePorCategoria = (categoria: string) =>
+    posts.find((p) => slugify(p.categoria) === slugify(categoria));
+
+  const bannerFilmes = getMaisRecentePorCategoria("filmes");
+  const bannerGames = getMaisRecentePorCategoria("games");
+  const bannerSeries = getMaisRecentePorCategoria("séries e tv");
+
   const maisLidas = [...posts].sort((a, b) => b.texto.length - a.texto.length).slice(0, 3);
 
   const postsPorPagina = 9;
@@ -44,13 +56,60 @@ export default async function HomePage({ searchParams }: HomePageProps) {
   return (
     <>
       <Header />
+      
+      {/* BANNERS PRINCIPAIS */}
+      <section className="max-w-5xl mx-auto px-6 py-10 grid grid-cols-1 md:grid-cols-3 gap-6">
+        {bannerFilmes && (
+          <Link
+            href={`/noticia/${bannerFilmes.slug}`}
+            className="md:col-span-2 h-[320px] md:h-[400px] bg-cover bg-center rounded-xl flex items-end p-6 text-white relative shadow-lg"
+            style={{ backgroundImage: `url(${bannerFilmes.thumb})` }}
+          >
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/20 rounded-xl" />
+            <div className="relative z-10">
+              <span className="text-sm uppercase text-orange-400 font-bold">{bannerFilmes.categoria}</span>
+              <h2 className="text-2xl md:text-3xl font-extrabold leading-tight mt-1">{bannerFilmes.titulo}</h2>
+            </div>
+          </Link>
+        )}
+
+        <div className="flex flex-col gap-4">
+          {bannerSeries && (
+            <Link
+            href={`/noticia/${bannerSeries.slug}`}
+            className="h-[190px] bg-cover bg-center rounded-xl flex items-end p-4 text-white relative shadow-md"
+            style={{ backgroundImage: `url(${bannerSeries.thumb})` }}
+          >
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/10 rounded-xl" />
+            <div className="relative z-10">
+              <span className="text-xs uppercase text-orange-400 font-bold">{bannerSeries.categoria}</span>
+              <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">{bannerSeries.titulo}</h3>
+            </div>
+          </Link>
+          )}
+          {bannerGames && (
+            <Link
+            href={`/noticia/${bannerGames.slug}`}
+            className="h-[190px] bg-cover bg-center rounded-xl flex items-end p-4 text-white relative shadow-md"
+            style={{ backgroundImage: `url(${bannerGames.thumb})` }}
+          >
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/10 rounded-xl" />
+            <div className="relative z-10">
+              <span className="text-xs uppercase text-orange-400 font-bold">{bannerGames.categoria}</span>
+              <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">{bannerGames.titulo}</h3>
+            </div>
+          </Link>
+          )}
+        </div>
+      </section>
       <main className="max-w-5xl mx-auto px-6 py-10">
+        {/* Seção principal com duas colunas */}
         <div className="flex flex-col lg:flex-row gap-10">
           <div className="flex-1">
             <div className="bg-gray-200 dark:bg-gray-800 h-32 mb-6 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
               Espaço reservado para publicidade
             </div>
-            <h1 className="text-4xl font-extrabold capitalize mb-8 text-neutral-900 dark:text-white">
+            <h1 className="text-3xl font-extrabold capitalize mb-8 text-neutral-900 dark:text-white">
               Últimas Notícias
             </h1>
 
@@ -59,24 +118,28 @@ export default async function HomePage({ searchParams }: HomePageProps) {
                 <Link
                   key={post.slug}
                   href={`/noticia/${post.slug}`}
-                  className="flex gap-4 bg-white dark:bg-gray-900 p-4 rounded-lg shadow hover:shadow-md hover:bg-gray-100 dark:hover:bg-gray-800 transition overflow-hidden"
+                  className="flex flex-col sm:flex-row gap-5 bg-white dark:bg-gray-900 p-5 rounded-xl shadow hover:shadow-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition overflow-hidden"
                 >
                   {post.thumb && (
                     <img
                       src={post.thumb}
                       alt={post.titulo}
-                      className="w-40 h-28 object-cover flex-shrink-0"
+                      className="w-full sm:w-60 h-40 sm:h-36 object-cover rounded-lg"
                     />
                   )}
-                  <div className="py-2 pr-4 flex flex-col justify-center">
-                    <p className="text-orange-500 text-xs font-bold uppercase mb-1">{post.categoria}</p>
-                    <h2 className="text-md font-semibold text-neutral-900 dark:text-white leading-snug">
-                      {post.titulo}
-                    </h2>
-                    <p className="text-xs text-gray-400 dark:text-gray-500 mt-1">
-                      {new Date(post.data).toLocaleDateString("pt-BR")} • {post.tempoLeitura} min de leitura
-                    </p>
-                    <p className="text-sm text-gray-500 dark:text-gray-400 line-clamp-2">{post.resumo}</p>
+                  <div className="flex flex-col justify-between">
+                    <div>
+                      <p className="text-orange-500 text-xs font-bold uppercase mb-1">{post.categoria}</p>
+                      <h2 className="text-lg font-semibold text-neutral-900 dark:text-white leading-snug">
+                        {post.titulo}
+                      </h2>
+                    </div>
+                    <div className="text-xs text-gray-400 dark:text-gray-500 mt-2 flex items-center gap-2">
+                      <span>{new Date(post.data).toLocaleDateString("pt-BR")}</span>
+                      <span>•</span>
+                      <span>{post.tempoLeitura} min de leitura</span>
+                    </div>
+                    <p className="text-sm text-gray-600 dark:text-gray-400 mt-2 line-clamp-2">{post.resumo}</p>
                   </div>
                 </Link>
               ))}
@@ -84,7 +147,6 @@ export default async function HomePage({ searchParams }: HomePageProps) {
 
             {totalPaginas > 1 && (
               <div className="mt-10 flex justify-center items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
-                {/* Anterior */}
                 {paginaAtual > 1 && (
                   <Link
                     href={`/?page=${paginaAtual - 1}`}
@@ -94,13 +156,8 @@ export default async function HomePage({ searchParams }: HomePageProps) {
                   </Link>
                 )}
 
-                {/* Páginas com limite de exibição */}
                 {Array.from({ length: totalPaginas }, (_, i) => i + 1)
-                  .filter((n) =>
-                    n === 1 ||
-                    n === totalPaginas ||
-                    Math.abs(n - paginaAtual) <= 2
-                  )
+                  .filter((n) => n === 1 || n === totalPaginas || Math.abs(n - paginaAtual) <= 2)
                   .map((n, idx, arr) => {
                     const anterior = arr[idx - 1];
                     return (
@@ -120,7 +177,6 @@ export default async function HomePage({ searchParams }: HomePageProps) {
                     );
                   })}
 
-                {/* Próximo */}
                 {paginaAtual < totalPaginas && (
                   <Link
                     href={`/?page=${paginaAtual + 1}`}
@@ -165,13 +221,13 @@ export default async function HomePage({ searchParams }: HomePageProps) {
             </div>
           </aside>
         </div>
-      </main>
 
-      <div className="max-w-5xl mx-auto px-6 py-10">
-        <div className="bg-gray-200 dark:bg-gray-800 h-40 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
-          Espaço reservado para publicidade
+        <div className="mt-10">
+          <div className="bg-gray-200 dark:bg-gray-800 h-40 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
+            Espaço reservado para publicidade
+          </div>
         </div>
-      </div>
+      </main>
     </>
   );
 }
