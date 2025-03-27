@@ -3,6 +3,8 @@ import './globals.css';
 import Script from 'next/script';
 import { Metadata } from 'next';
 import Link from 'next/link';
+// Você pode criar esse componente depois em components/CookieBanner.tsx
+import CookieBanner from '@/components/CookieBanner';
 
 export const metadata: Metadata = {
   title: "GeekNews - O melhor do mundo geek",
@@ -42,6 +44,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body className="bg-white text-neutral-900 dark:bg-black dark:text-white font-sans">
+        <CookieBanner />
         <main>{children}</main>
         <footer className="mt-10 text-center py-4 bg-gray-900 text-white text-sm">
           <p>
