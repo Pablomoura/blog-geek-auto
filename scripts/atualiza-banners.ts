@@ -14,33 +14,53 @@ function slugify(text: string) {
     .replace(/[^\w-]/g, "");
 }
 
+type Banner = {
+    slug: string;
+    titulo: string;
+    thumb: string;
+    categoria: string;
+    resumo: string;
+    data: string; // ✅ adiciona isso!
+};
+
 async function gerarCacheBanners() {
-  // Verifica se o cache já existe e está atualizado
+  const hoje = new Date().toISOString().split("T")[0];
+
   try {
     const cacheAtual = JSON.parse(await fs.readFile(CACHE_PATH, "utf-8"));
-    if (cacheAtual.data === new Date().toISOString().split("T")[0]) {
+    if (
+      cacheAtual.data === hoje &&
+      cacheAtual.filmes &&
+      cacheAtual.games &&
+      cacheAtual.series
+    ) {
       console.log("Cache já está atualizado para hoje.");
       return;
     }
   } catch {
-    // Se não existir ou falhar, continua a execução
+    // Continua normalmente caso o cache não exista ainda
   }
 
   const arquivos = await fs.readdir(path.join(process.cwd(), "content"));
-  const posts: any[] = [];
+  const posts: Banner[] = [];
 
   for (const nomeArquivo of arquivos) {
-    const arquivo = await fs.readFile(path.join(process.cwd(), "content", nomeArquivo), "utf-8");
+    const arquivo = await fs.readFile(
+      path.join(process.cwd(), "content", nomeArquivo),
+      "utf-8"
+    );
     const { data, content } = matter(arquivo);
 
-    posts.push({
-      slug: data.slug,
-      titulo: data.title,
-      thumb: data.thumb,
-      categoria: data.categoria,
-      data: data.data,
-      resumo: data.resumo || content.slice(0, 160),
-    });
+    if (data?.slug && data?.title && data?.thumb && data?.categoria && data?.data) {
+        posts.push({
+            slug: data.slug,
+            titulo: data.title,
+            thumb: data.thumb,
+            categoria: data.categoria,
+            resumo: data.resumo || content.slice(0, 160),
+            data: data.data 
+        });
+    }
   }
 
   posts.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
@@ -49,7 +69,7 @@ async function gerarCacheBanners() {
     posts.find((p) => slugify(p.categoria) === slugify(categoria));
 
   const cache = {
-    data: new Date().toISOString().split("T")[0],
+    data: hoje,
     filmes: getMaisRecente("filmes"),
     games: getMaisRecente("games"),
     series: getMaisRecente("séries e tv"),
