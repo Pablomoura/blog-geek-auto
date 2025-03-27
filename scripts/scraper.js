@@ -37,12 +37,10 @@ const jsonFilePath = "public/posts.json";
 const contentDir = path.join(process.cwd(), "content");
 const MAX_POSTS = 8;
 
-// Garante que a pasta content exista
 if (!fs.existsSync(contentDir)) {
   fs.mkdirSync(contentDir);
 }
 
-// Carrega os posts existentes
 let postsExistentes = [];
 if (fs.existsSync(jsonFilePath)) {
   postsExistentes = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
@@ -75,6 +73,21 @@ async function autoScroll(page) {
   });
 }
 
+function inserirImagensNoTexto(texto, imagens) {
+  if (!imagens?.length) return texto;
+  const paragrafos = texto.split("\n\n");
+  const resultado = [];
+
+  for (let i = 0; i < paragrafos.length; i++) {
+    resultado.push(paragrafos[i]);
+    if (i < imagens.length) {
+      resultado.push(`![Imagem da notícia](${imagens[i]})`);
+    }
+  }
+
+  return resultado.join("\n\n");
+}
+
 async function extrairConteudoNoticia(url) {
   const browser = await puppeteer.launch({ headless: "new", args: ["--no-sandbox"] });
   const page = await browser.newPage();
@@ -82,6 +95,18 @@ async function extrairConteudoNoticia(url) {
   try {
     await page.setUserAgent("Mozilla/5.0");
     await page.goto(url, { waitUntil: "networkidle2" });
+
+    const imagensInternas = await page.evaluate(() => {
+      return Array.from(document.querySelectorAll("div.media__wrapper__image img"))
+        .map((img) => {
+          let src = img.getAttribute("src") || "";
+          if (src.startsWith("//")) {
+            src = "https:" + src;
+          }
+          return src;
+        })
+        .filter(Boolean);
+    });
 
     const texto = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("p"))
@@ -111,11 +136,11 @@ async function extrairConteudoNoticia(url) {
     const tipoMidia = midia?.includes("youtube") ? "video" : "imagem";
 
     await browser.close();
-    return { texto, midia, tipoMidia };
+    return { texto, midia, tipoMidia, imagensInternas };
   } catch (err) {
     await browser.close();
     console.error("❌ Erro ao extrair notícia:", err.message);
-    return { texto: "", midia: null, tipoMidia: "imagem" };
+    return { texto: "", midia: null, tipoMidia: "imagem", imagensInternas: [] };
   }
 }
 
@@ -138,8 +163,7 @@ Responda em JSON neste formato:
   "titulo": "...",
   "resumo": "...",
   "texto": "..."
-}
-`;
+}`;
 
   try {
     const response = await axios.post(
@@ -159,10 +183,9 @@ Responda em JSON neste formato:
 
     let raw = response.data.choices[0].message.content;
 
-    // Limpa caracteres problemáticos
     raw = raw.trim();
-    raw = raw.replace(/^[^]*?{/, '{'); // Remove tudo antes do primeiro {
-    raw = raw.replace(/}[^}]*$/, '}'); // Remove tudo depois do último }
+    raw = raw.replace(/^[^]*?{/, '{');
+    raw = raw.replace(/}[^}]*$/, '}');
     raw = raw.replace(/[\u0000-\u001F\u007F]/g, "");
     raw = raw.replace(/\t/g, " ");
 
@@ -177,7 +200,6 @@ Responda em JSON neste formato:
 
     console.log("\n🧪 RAW recebido da IA:\n", raw);
 
-    // Garante parágrafos duplos
     reescrito.texto = reescrito.texto.replace(/(?<!\n)\n(?!\n)/g, "\n\n");
 
     return reescrito;
@@ -230,7 +252,7 @@ async function buscarNoticiasOmelete() {
     if (!noticia.titulo || postsExistentes.some((p) => slugify(p.slug) === slug)) continue;
 
     console.log(`📖 Capturando conteúdo de: ${noticia.titulo}`);
-    const { texto, midia, tipoMidia } = await extrairConteudoNoticia(noticia.link);
+    const { texto, midia, tipoMidia, imagensInternas } = await extrairConteudoNoticia(noticia.link);
 
     const novaNoticia = {
       ...noticia,
@@ -247,10 +269,9 @@ async function buscarNoticiasOmelete() {
 
     novaNoticia.titulo = reescrito.titulo;
     novaNoticia.resumo = reescrito.resumo;
-    novaNoticia.texto = reescrito.texto;
+    novaNoticia.texto = inserirImagensNoTexto(reescrito.texto, imagensInternas);
     novaNoticia.reescrito = true;
 
-    // Salva como .md
     const mdPath = path.join(contentDir, `${slug}.md`);
     const frontMatter = `---
 title: "${reescrito.titulo.replace(/"/g, "'")}"
@@ -262,7 +283,7 @@ thumb: "${novaNoticia.thumb || ""}"
 data: "${new Date().toISOString()}"
 ---\n\n`;
 
-    const markdown = frontMatter + reescrito.texto;
+    const markdown = frontMatter + novaNoticia.texto;
     fs.writeFileSync(mdPath, markdown, "utf-8");
 
     resultados.push(novaNoticia);
