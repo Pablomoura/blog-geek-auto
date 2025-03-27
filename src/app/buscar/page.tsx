@@ -5,11 +5,12 @@ import Link from "next/link";
 import Header from "@/components/Header";
 
 interface SearchPageProps {
-  searchParams: { q?: string };
+  searchParams: Promise<{ q?: string }>;
 }
 
-export default async function SearchPage({ searchParams }: SearchPageProps) {
-  const termo = searchParams.q?.toLowerCase() || "";
+export default async function SearchPage(props: SearchPageProps) {
+  const { q } = await props.searchParams;
+  const termo = q?.toLowerCase() || "";
   const arquivos = await fs.readdir(path.join(process.cwd(), "content"));
   const posts = [];
 
@@ -17,6 +18,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
     const arquivo = await fs.readFile(path.join(process.cwd(), "content", nomeArquivo), "utf-8");
     const { data, content } = matter(arquivo);
     const textoCompleto = `${data.title} ${data.resumo || ""} ${content}`.toLowerCase();
+
     if (termo && textoCompleto.includes(termo)) {
       const tempoLeitura = Math.ceil(content.split(/\s+/).length / 200);
       posts.push({
@@ -70,7 +72,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
                 <p
                   className="text-sm text-gray-500 dark:text-gray-400 line-clamp-2"
                   dangerouslySetInnerHTML={{
-                    __html: post.resumo.replace(
+                    __html: (post.resumo || "").replace(
                       new RegExp(`(${termo})`, "gi"),
                       '<mark class="bg-yellow-200 text-black">$1</mark>'
                     )
