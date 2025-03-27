@@ -1,20 +1,27 @@
 {
   "data": "2025-03-27",
-  "banners": {
-    "filmes": {
-      "categoria": "filmes",
-      "slug": "filme-mais-recente",
-      "data": "2025-03-27"
-    },
-    "games": {
-      "categoria": "games",
-      "slug": "jogo-top-hoje",
-      "data": "2025-03-27"
-    },
-    "séries e tv": {
-      "categoria": "séries e tv",
-      "slug": "serie-top-hoje",
-      "data": "2025-03-27"
-    }
+  "filmes": {
+    "slug": "thunderbolts-novo-teaser-mostra-sentinela-e-fala-de-vingadores-doomsday",
+    "titulo": "Thunderbolts | Novo Teaser Apresenta Sentinela e Prepara Terreno para Vingadores: Doomsday",
+    "thumb": "https://cdn.ome.lt/huG6Ow-pFP9Gv2qPPGZwimgR_gw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-27_142135.png",
+    "categoria": "FILMES",
+    "resumo": "\nO mais recente trailer de Thunderbolts, divulgado pela Marvel, coloca em destaque a figura de Sentinela, interpretado por Lewis Pullman. O vídeo ressalta que S",
+    "data": "2025-03-27T18:13:49.141Z"
+  },
+  "games": {
+    "slug": "ubisoft-cria-nova-empresa-em-parceria-com-dona-de-league-of-legends",
+    "titulo": "Ubisoft e Tencent Anunciam Parceria para Criação de Nova Subsidiária",
+    "thumb": "https://cdn.ome.lt/DqeYJnk2rMie_jqlcCW5bYNm-Xo=/480x360/smart/extras/conteudos/01_ayWCnDp.jpg",
+    "categoria": "GAMES",
+    "resumo": "\nA Ubisoft, desenvolvedora de Assassin's Creed, em conjunto com a Tencent, proprietária de League of Legends, anunciou a criação de uma nova empresa subsidiária",
+    "data": "2025-03-27T18:13:01.449Z"
+  },
+  "series": {
+    "slug": "alcione-canta-em-coreano-para-promover-k-drama-se-a-vida-te-der-tangerinas",
+    "titulo": "Alcione Surpreende com Versão em Coreano de 'Você Me Vira a Cabeça' para Promover Série da Netflix",
+    "thumb": "https://cdn.ome.lt/amFSB6ZtaWoeLI69CKIBbAidtLQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T132959.607.png",
+    "categoria": "SÉRIES E TV",
+    "resumo": "\nEm uma estratégia de marketing inovadora, a Netflix divulgou um vídeo de Alcione performando seu hit 'Você Me Vira a Cabeça' em coreano. A iniciativa visa prom",
+    "data": "2025-03-27T17:09:32.435Z"
   }
 }

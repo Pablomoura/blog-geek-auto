@@ -17,6 +17,8 @@ jobs:
 
       - name: Instala dependências
         run: npm ci
+        env:
+         PUPPETEER_SKIP_DOWNLOAD: "true"
 
       - name: Executa script de atualização dos banners
         run: npx tsx scripts/atualiza-banners.ts
