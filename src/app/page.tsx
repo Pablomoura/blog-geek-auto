@@ -6,6 +6,17 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import React from "react";
 
+interface Post {
+  slug: string;
+  titulo: string;
+  thumb: string;
+  resumo: string;
+  categoria: string;
+  data: string;
+  texto: string;
+  tempoLeitura: number;
+}
+
 function slugify(text: string) {
   return text
     .toLowerCase()
@@ -18,7 +29,7 @@ function slugify(text: string) {
 export default async function HomePage({ searchParams }: { searchParams: Promise<{ page?: string }> }) {
   const { page } = await searchParams;
   const arquivos = await fs.readdir(path.join(process.cwd(), "content"));
-  const posts: any[] = [];
+  const posts: Post[] = [];
 
   for (const nomeArquivo of arquivos) {
     const arquivo = await fs.readFile(path.join(process.cwd(), "content", nomeArquivo), "utf-8");
