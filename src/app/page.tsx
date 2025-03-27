@@ -41,15 +41,6 @@ interface Post {
   tempoLeitura: number;
 }
 
-function slugify(text: string) {
-  return text
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
-    .replace(/\s+/g, "-")
-    .replace(/[^\w-]/g, "");
-}
-
 export default async function HomePage({ searchParams }: { searchParams: Promise<{ page?: string }> }) {
   const { page } = await searchParams;
   const arquivos = await fs.readdir(path.join(process.cwd(), "content"));
