@@ -1,28 +1,31 @@
-name: Atualizar Banners
+name: Atualiza Banners
 
 on:
   schedule:
-    - cron: "0 5 * * *" # Executa todo dia às 5h UTC (2h da manhã no Brasil)
-  workflow_dispatch: # Permite executar manualmente também
+    - cron: "0 3 * * *"  # roda todo dia às 3h da manhã (UTC)
+  workflow_dispatch:     # permite execução manual também
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clonar o repositório
-        uses: actions/checkout@v3
+      - name: Clona o repositório
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # desabilita credenciais padrão
 
-      - name: Instalar dependências
+      - name: Instala dependências
         run: npm ci
 
-      - name: Rodar script de atualização de banners
+      - name: Executa script de atualização dos banners
         run: npx tsx scripts/atualiza-banners.ts
 
       - name: Commit e push das alterações
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Pablomoura/blog-geek-auto.git
           git add public/cache-banners.json
-          git commit -m "Atualiza banners do dia via GitHub Actions" || echo "Nada para commitar"
-          git push
+          git commit -m "update: cache de banners atualizado automaticamente" || echo "nada para commitar"
+          git push origin main
