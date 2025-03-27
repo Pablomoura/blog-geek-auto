@@ -6,8 +6,12 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import React from "react";
 
-export default async function HomePage({ searchParams }: { searchParams: { page?: string } }) {
-  const { page } = searchParams;
+interface HomePageProps {
+  searchParams: Promise<{ page?: string }>;
+}
+
+export default async function HomePage({ searchParams }: HomePageProps) {
+  const { page } = await searchParams;
   const arquivos = await fs.readdir(path.join(process.cwd(), "content"));
   const posts = [];
 
