@@ -88,6 +88,23 @@ function inserirImagensNoTexto(texto, imagens) {
   return resultado.join("\n\n");
 }
 
+function inserirTweetsNoTexto(texto, tweets) {
+  if (!tweets?.length) return texto;
+  const paragrafos = texto.split("\n\n");
+  const resultado = [];
+  let tweetIndex = 0;
+
+  for (let i = 0; i < paragrafos.length; i++) {
+    resultado.push(paragrafos[i]);
+    if (tweetIndex < tweets.length) {
+      resultado.push(tweets[tweetIndex]);
+      tweetIndex++;
+    }
+  }
+
+  return resultado.join("\n\n");
+}
+
 async function extrairConteudoNoticia(url) {
   const browser = await puppeteer.launch({ headless: "new", args: ["--no-sandbox"] });
   const page = await browser.newPage();
@@ -104,6 +121,15 @@ async function extrairConteudoNoticia(url) {
             src = "https:" + src;
           }
           return src;
+        })
+        .filter(Boolean);
+    });
+
+    const tweets = await page.evaluate(() => {
+      return Array.from(document.querySelectorAll("iframe[data-tweet-id]"))
+        .map((iframe) => {
+          const tweetId = iframe.getAttribute("data-tweet-id");
+          return tweetId ? `\n<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/${tweetId}"></a></blockquote>\n` : null;
         })
         .filter(Boolean);
     });
@@ -136,11 +162,11 @@ async function extrairConteudoNoticia(url) {
     const tipoMidia = midia?.includes("youtube") ? "video" : "imagem";
 
     await browser.close();
-    return { texto, midia, tipoMidia, imagensInternas };
+    return { texto, midia, tipoMidia, imagensInternas, tweets };
   } catch (err) {
     await browser.close();
     console.error("❌ Erro ao extrair notícia:", err.message);
-    return { texto: "", midia: null, tipoMidia: "imagem", imagensInternas: [] };
+    return { texto: "", midia: null, tipoMidia: "imagem", imagensInternas: [], tweets: [] };
   }
 }
 
