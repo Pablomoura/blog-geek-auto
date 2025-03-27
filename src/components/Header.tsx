@@ -2,10 +2,12 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import SearchModal from "./SearchModal";
 
 export default function Header() {
   const [temaEscuro, setTemaEscuro] = useState(false);
   const [menuAberto, setMenuAberto] = useState(false);
+  const [mostrarBusca, setMostrarBusca] = useState(false);
 
   useEffect(() => {
     const temaSalvo = localStorage.getItem("tema");
@@ -57,6 +59,13 @@ export default function Header() {
 
         {/* Botões */}
         <div className="flex items-center space-x-4">
+        <button
+          onClick={() => setMostrarBusca(true)}
+          className="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition"
+          title="Buscar"
+        >
+          🔍
+        </button>
           <button
             onClick={alternarTema}
             className="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition"
@@ -86,6 +95,7 @@ export default function Header() {
           ))}
         </nav>
       )}
+      {mostrarBusca && <SearchModal onClose={() => setMostrarBusca(false)} />}
     </header>
   );
 }
