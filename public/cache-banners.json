@@ -1,0 +1,20 @@
+{
+  "data": "2025-03-27",
+  "banners": {
+    "filmes": {
+      "categoria": "filmes",
+      "slug": "filme-mais-recente",
+      "data": "2025-03-27"
+    },
+    "games": {
+      "categoria": "games",
+      "slug": "jogo-top-hoje",
+      "data": "2025-03-27"
+    },
+    "séries e tv": {
+      "categoria": "séries e tv",
+      "slug": "serie-top-hoje",
+      "data": "2025-03-27"
+    }
+  }
+}

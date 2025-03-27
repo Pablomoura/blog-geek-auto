@@ -1,0 +1,28 @@
+name: Atualizar Banners
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # Executa todo dia às 5h UTC (2h da manhã no Brasil)
+  workflow_dispatch: # Permite executar manualmente também
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar o repositório
+        uses: actions/checkout@v3
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Rodar script de atualização de banners
+        run: npx tsx scripts/atualiza-banners.ts
+
+      - name: Commit e push das alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/cache-banners.json
+          git commit -m "Atualiza banners do dia via GitHub Actions" || echo "Nada para commitar"
+          git push

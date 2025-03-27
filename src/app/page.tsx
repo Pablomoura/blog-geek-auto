@@ -6,6 +6,30 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import React from "react";
 
+// 🟠 NOVO: tipos opcionais
+type Banner = {
+  slug: string;
+  titulo: string;
+  thumb: string;
+  categoria: string;
+};
+
+type BannerCache = {
+  data: string;
+  filmes?: Banner;
+  games?: Banner;
+  series?: Banner;
+};
+
+async function carregarCacheBanners(): Promise<BannerCache> {
+  try {
+    const data = await fs.readFile(path.join(process.cwd(), "public/cache-banners.json"), "utf-8");
+    return JSON.parse(data);
+  } catch {
+    return { data: "", filmes: undefined, games: undefined, series: undefined };
+  }
+}
+
 interface Post {
   slug: string;
   titulo: string;
@@ -50,12 +74,11 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
 
   posts.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
 
-  const getMaisRecentePorCategoria = (categoria: string) =>
-    posts.find((p) => slugify(p.categoria) === slugify(categoria));
+  const cache = await carregarCacheBanners();
 
-  const bannerFilmes = getMaisRecentePorCategoria("filmes");
-  const bannerGames = getMaisRecentePorCategoria("games");
-  const bannerSeries = getMaisRecentePorCategoria("séries e tv");
+  const bannerFilmes = cache.filmes;
+  const bannerGames = cache.games;
+  const bannerSeries = cache.series;
 
   const maisLidas = [...posts].sort((a, b) => b.texto.length - a.texto.length).slice(0, 3);
 
