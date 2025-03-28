@@ -61,7 +61,25 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     
     const htmlWithSpacing = content
       .split("\n")
-      .map(p => p.trim() ? `<p>${p}</p>` : "<br>")
+      .map((p) => {
+        const trimmed = p.trim();
+        if (!trimmed) return "<br>";
+
+        // Verifica se é uma imagem em markdown
+        const imagemMarkdown = trimmed.match(/!\[.*?\]\((.*?)\)/);
+        if (imagemMarkdown) {
+          const url = imagemMarkdown[1];
+
+          // Ignora imagens base64 e placeholder do Omelete
+          if (url.startsWith("data:image") || url.includes("loading.svg")) {
+            return "";
+          }
+
+          return `<img src="${url}" alt="Imagem do conteúdo" loading="lazy" />`;
+        }
+
+        return `<p>${trimmed}</p>`;
+      })
       .join("\n");
 
     const htmlContent = DOMPurify.sanitize(htmlWithSpacing);
