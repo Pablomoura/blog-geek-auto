@@ -9,11 +9,12 @@ import React from "react";
 import DisqusReset from "@/components/DisqusReset";
 
 type NoticiaPageProps = {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 };
 
 export async function generateMetadata({ params }: NoticiaPageProps) {
-  const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
+  const { slug } = await params;
+  const filePath = path.join(process.cwd(), "content", `${slug}.md`);
   try {
     const file = await fs.readFile(filePath, "utf-8");
     const { data } = matter(file);
@@ -25,7 +26,7 @@ export async function generateMetadata({ params }: NoticiaPageProps) {
         title: data.title,
         description: data.resumo || "",
         type: "article",
-        url: `https://www.geeknews.com.br/noticia/${params.slug}`,
+        url: `https://www.geeknews.com.br/noticia/${slug}`,
         siteName: "GeekNews",
         images: [
           {
@@ -52,7 +53,7 @@ export async function generateMetadata({ params }: NoticiaPageProps) {
 }
 
 export default async function NoticiaPage(props: NoticiaPageProps) {
-  const { slug } = props.params;
+  const { slug } = await props.params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
   try {
