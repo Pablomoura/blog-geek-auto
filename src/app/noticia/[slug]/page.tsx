@@ -7,6 +7,8 @@ import Link from "next/link";
 import Script from "next/script";
 import React from "react";
 import DisqusReset from "@/components/DisqusReset";
+import { marked } from "marked";
+import DOMPurify from "isomorphic-dompurify";
 
 type NoticiaPageProps = {
   params: Promise<{ slug: string }>;
@@ -60,6 +62,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
     const file = await fs.readFile(filePath, "utf-8");
     const { data, content } = matter(file);
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
+    const htmlContent = DOMPurify.sanitize(marked(content));
 
     const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
     const relacionados = [];
@@ -155,21 +158,10 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
                 </div>
               )}
 
-              <div className="space-y-8 text-lg leading-relaxed text-neutral-800 dark:text-gray-300 mb-16">
-                {content
-                  .split("\n")
-                  .filter((p) => p.trim() !== "")
-                  .map((p, i) => (
-                    <React.Fragment key={i}>
-                      <p>{p}</p>
-                      {i === 1 && (
-                        <div className="bg-gray-200 dark:bg-gray-800 h-32 my-8 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
-                          Publicidade
-                        </div>
-                      )}
-                    </React.Fragment>
-                  ))}
-              </div>
+              <div
+                className="prose dark:prose-invert max-w-none mb-16"
+                dangerouslySetInnerHTML={{ __html: htmlContent }}
+              />
 
               {relacionados.length > 0 && (
                 <section className="mt-12 border-t border-gray-700 pt-8">

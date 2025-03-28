@@ -10,11 +10,7 @@ data: "2025-03-28T09:10:08.279Z"
 
 O Lollapalooza 2025 está próximo e muitos já estão com ingressos em mãos, mas ainda há dúvidas sobre como chegar ao Autódromo de Interlagos, em São Paulo, local do evento. Acompanhe nossas dicas e planeje sua ida.
 
-![Imagem da notícia](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
-
 A Estação Autódromo da Linha 9-Esmeralda é a mais próxima ao local. A partir dela, são 24 minutos de caminhada até o Portão G ou cerca de cinco minutos de carro. Importante ressaltar que não há estacionamento no Autódromo, e o uso de aplicativos de transporte pode ser oneroso durante os dias de festival.
-
-![Imagem da notícia](https://cdn.ome.lt/static/omelete/img/loading.svg)
 
 Durante o evento, todas as estações da malha ferroviária de São Paulo operarão com desembarque 24 horas, facilitando o acesso e a volta para casa em qualquer horário entre sexta e domingo.
 

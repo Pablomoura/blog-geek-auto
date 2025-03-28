@@ -117,6 +117,10 @@ async function extrairConteudoNoticia(url) {
       return Array.from(document.querySelectorAll("div.media__wrapper__image img"))
         .map((img) => {
           let src = img.getAttribute("src") || "";
+          if (src.includes("loading.svg")) {
+            const dataSrc = img.getAttribute("data-src");
+            src = dataSrc && !dataSrc.startsWith("http") ? "https:" + dataSrc : dataSrc || "";
+          }
           if (src.startsWith("//")) {
             src = "https:" + src;
           }
