@@ -40,6 +40,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         description: data.resumo || "",
         images: [data.thumb || data.midia || "/logo.png"],
       },
+      alternates: {
+        canonical: `https://www.geeknews.com.br/noticia/${slug}`,
+      },
     };
   } catch {
     return {
