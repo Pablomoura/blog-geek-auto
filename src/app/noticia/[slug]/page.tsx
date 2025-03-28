@@ -11,11 +11,11 @@ import { marked } from "marked";
 import DOMPurify from "isomorphic-dompurify";
 
 type NoticiaPageProps = {
-  params: Promise<{ slug: string }>;
+  params: { slug: string };
 };
 
-export async function generateMetadata({ params }: NoticiaPageProps) {
-  const { slug } = await params;
+export async function generateMetadata(props: NoticiaPageProps) {
+  const { slug } = await props.params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
   try {
     const file = await fs.readFile(filePath, "utf-8");
@@ -54,7 +54,7 @@ export async function generateMetadata({ params }: NoticiaPageProps) {
   }
 }
 
-export default async function NoticiaPage(props: NoticiaPageProps) {
+export default async function NoticiaPage(props: { params: Promise<{ slug: string }> }) {
   const { slug } = await props.params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
@@ -62,7 +62,7 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
     const file = await fs.readFile(filePath, "utf-8");
     const { data, content } = matter(file);
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
-    const htmlContent = DOMPurify.sanitize(marked(content));
+    const htmlContent = DOMPurify.sanitize(await marked(content));
 
     const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
     const relacionados = [];
