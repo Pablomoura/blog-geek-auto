@@ -10,8 +10,8 @@ import DisqusReset from "@/components/DisqusReset";
 import { marked } from "marked";
 import DOMPurify from "isomorphic-dompurify";
 
-export async function generateMetadata({ params }: { params: { slug: string } }) {
-  const { slug } = params;
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
   try {
     const file = await fs.readFile(filePath, "utf-8");
@@ -49,13 +49,8 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     };
   }
 }
-type NoticiaPageProps = {
-  params: Promise<{
-    slug: string;
-  }>;
-};
 
-export default async function NoticiaPage(props: NoticiaPageProps) {
+export default async function NoticiaPage(props: { params: Promise<{ slug: string }> }) {
   const { slug } = await props.params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
