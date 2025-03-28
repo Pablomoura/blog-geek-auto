@@ -58,7 +58,13 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     const file = await fs.readFile(filePath, "utf-8");
     const { data, content } = matter(file);
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
-    const htmlContent = DOMPurify.sanitize(await marked(content));
+    
+    const htmlWithSpacing = content
+      .split("\n")
+      .map(p => p.trim() ? `<p>${p}</p>` : "<br>")
+      .join("\n");
+
+    const htmlContent = DOMPurify.sanitize(htmlWithSpacing);
 
     const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
     const relacionados = [];
