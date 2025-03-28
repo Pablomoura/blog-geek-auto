@@ -38,12 +38,16 @@ interface Post {
   data: string;
   texto: string;
   tempoLeitura: number;
+  resumo: string;
 }
 
 export default async function HomePage({ searchParams }: { searchParams: Promise<{ page?: string }> }) {
   const { page } = await searchParams;
   const arquivos = await fs.readdir(path.join(process.cwd(), "content"));
   const posts: Post[] = [];
+
+  const postsJson = await fs.readFile(path.join(process.cwd(), "public/posts.json"), "utf-8");
+  const resumoMap = Object.fromEntries(JSON.parse(postsJson).map((p: any) => [p.slug, p.resumo]));
 
   for (const nomeArquivo of arquivos) {
     const arquivo = await fs.readFile(path.join(process.cwd(), "content", nomeArquivo), "utf-8");
@@ -67,6 +71,7 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
         data: data.data,
         texto: content,
         tempoLeitura,
+        resumo: resumoMap[data.slug] || "",
       });
     } else {
       console.warn(`Post ignorado: ${nomeArquivo} está com campos faltando no frontmatter.`);

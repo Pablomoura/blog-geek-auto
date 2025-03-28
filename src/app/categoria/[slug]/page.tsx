@@ -2,6 +2,7 @@ import fs from "fs/promises";
 import path from "path";
 import matter from "gray-matter";
 import Link from "next/link";
+import React from "react";
 
 function slugify(text: string) {
   return text
@@ -97,22 +98,47 @@ export default async function CategoriaPage(props: CategoriaPageProps) {
               ))}
             </div>
             {totalPaginas > 1 && (
-              <div className="mt-10 text-center flex flex-wrap gap-2 justify-center text-sm text-gray-500">
-                {Array.from({ length: totalPaginas }, (_, i) => (
+              <div className="mt-10 flex justify-center items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
+                {paginaAtual > 1 && (
                   <Link
-                    key={i}
-                    href={`/categoria/${slug}?page=${i + 1}`}
-                    className={`px-3 py-1 rounded ${
-                      i + 1 === paginaAtual
-                        ? "bg-orange-500 text-white font-bold"
-                        : "bg-gray-200 dark:bg-gray-800 hover:bg-gray-300 dark:hover:bg-gray-700"
-                    }`}
+                    href={`/categoria/${slug}?page=${paginaAtual - 1}`}
+                    className="px-3 py-1 rounded bg-gray-300 dark:bg-gray-700 hover:bg-gray-400 dark:hover:bg-gray-600 transition"
                   >
-              {i + 1}
-            </Link>
-          ))}
-        </div>
-      )}
+                    Anterior
+                  </Link>
+                )}
+
+                {Array.from({ length: totalPaginas }, (_, i) => i + 1)
+                  .filter((n) => n === 1 || n === totalPaginas || Math.abs(n - paginaAtual) <= 2)
+                  .map((n, idx, arr) => {
+                    const anterior = arr[idx - 1];
+                    return (
+                      <React.Fragment key={n}>
+                        {anterior && n - anterior > 1 && <span className="px-2">...</span>}
+                        <Link
+                          href={`/categoria/${slug}?page=${n}`}
+                          className={`px-3 py-1 rounded ${
+                            n === paginaAtual
+                              ? "bg-orange-500 text-white font-bold"
+                              : "bg-gray-200 dark:bg-gray-800 hover:bg-gray-300 dark:hover:bg-gray-700"
+                          }`}
+                        >
+                          {n}
+                        </Link>
+                      </React.Fragment>
+                    );
+                  })}
+
+                {paginaAtual < totalPaginas && (
+                  <Link
+                    href={`/categoria/${slug}?page=${paginaAtual + 1}`}
+                    className="px-3 py-1 rounded bg-gray-300 dark:bg-gray-700 hover:bg-gray-400 dark:hover:bg-gray-600 transition"
+                  >
+                    Próximo
+                  </Link>
+                )}
+              </div>
+            )}
           </div>
           <aside className="w-full lg:w-[300px] flex-shrink-0 space-y-10">
             <div className="bg-gray-200 dark:bg-gray-800 h-32 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
