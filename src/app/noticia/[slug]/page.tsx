@@ -10,7 +10,7 @@ import DisqusReset from "@/components/DisqusReset";
 import { marked } from "marked";
 import DOMPurify from "isomorphic-dompurify";
 
-export async function generateMetadata({ params }: { params: { slug: string } }) {
+export async function generateMetadata({ params }: Awaited<{ params: { slug: string } }>) {
   const { slug } = params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
   try {
@@ -50,7 +50,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   }
 }
 
-export default async function NoticiaPage({ params }: { params: { slug: string } }) {
+export default async function NoticiaPage({ params }: Awaited<{ params: { slug: string } }>) {
   const { slug } = params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
