@@ -5,16 +5,54 @@ import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Link from "next/link";
 import Script from "next/script";
-import Head from "next/head";
 import React from "react";
 import DisqusReset from "@/components/DisqusReset";
 
 type NoticiaPageProps = {
-  params: Promise<{ slug: string }>;
+  params: { slug: string };
 };
 
+export async function generateMetadata({ params }: NoticiaPageProps) {
+  const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
+  try {
+    const file = await fs.readFile(filePath, "utf-8");
+    const { data } = matter(file);
+
+    return {
+      title: data.title,
+      description: data.resumo || "",
+      openGraph: {
+        title: data.title,
+        description: data.resumo || "",
+        type: "article",
+        url: `https://www.geeknews.com.br/noticia/${params.slug}`,
+        siteName: "GeekNews",
+        images: [
+          {
+            url: data.thumb || data.midia || "/logo.png",
+            width: 1200,
+            height: 630,
+            alt: data.title,
+          },
+        ],
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: data.title,
+        description: data.resumo || "",
+        images: [data.thumb || data.midia || "/logo.png"],
+      },
+    };
+  } catch {
+    return {
+      title: "Notícia não encontrada",
+      description: "",
+    };
+  }
+}
+
 export default async function NoticiaPage(props: NoticiaPageProps) {
-  const { slug } = await props.params;
+  const { slug } = props.params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
   try {
@@ -58,21 +96,6 @@ export default async function NoticiaPage(props: NoticiaPageProps) {
 
     return (
       <>
-        <Head>
-          <title>{data.title}</title>
-          <meta name="description" content={data.resumo || "Notícia geek do GeekNews."} />
-          <meta property="og:title" content={data.title} />
-          <meta property="og:description" content={data.resumo || ""} />
-          <meta property="og:image" content={data.thumb || data.midia || "/logo.png"} />
-          <meta property="og:url" content={`https://www.geeknews.com.br/noticia/${slug}`} />
-          <meta property="og:type" content="article" />
-          <meta property="og:site_name" content="GeekNews" />
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content={data.title} />
-          <meta name="twitter:description" content={data.resumo || ""} />
-          <meta name="twitter:image" content={data.thumb || data.midia || "/logo.png"} />
-        </Head>
-
         <Header />
 
         <Script id="json-ld" type="application/ld+json">
