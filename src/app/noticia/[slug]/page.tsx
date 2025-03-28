@@ -50,8 +50,8 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   }
 }
 
-export default async function NoticiaPage({ params }: { params: { slug: string } }) {
-  const { slug } = params;
+export default async function NoticiaPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
   try {
