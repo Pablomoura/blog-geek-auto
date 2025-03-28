@@ -14,7 +14,7 @@ type NoticiaPageProps = {
   params: { slug: string };
 };
 
-export async function generateMetadata(props: NoticiaPageProps) {
+export async function generateMetadata(props: { params: Promise<{ slug: string }> }) {
   const { slug } = await props.params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
   try {
