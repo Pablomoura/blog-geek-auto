@@ -7,7 +7,6 @@ import Link from "next/link";
 import Script from "next/script";
 import React from "react";
 import DisqusReset from "@/components/DisqusReset";
-import { marked } from "marked";
 import DOMPurify from "isomorphic-dompurify";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
