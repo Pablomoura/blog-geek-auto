@@ -47,7 +47,8 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
   const posts: Post[] = [];
 
   const postsJson = await fs.readFile(path.join(process.cwd(), "public/posts.json"), "utf-8");
-  const resumoMap = Object.fromEntries(JSON.parse(postsJson).map((p: any) => [p.slug, p.resumo]));
+  type ResumoItem = { slug: string; resumo: string };
+  const resumoMap = Object.fromEntries((JSON.parse(postsJson) as ResumoItem[]).map((p) => [p.slug, p.resumo]));
 
   for (const nomeArquivo of arquivos) {
     const arquivo = await fs.readFile(path.join(process.cwd(), "content", nomeArquivo), "utf-8");
