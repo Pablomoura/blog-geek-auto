@@ -34,7 +34,6 @@ interface Post {
   slug: string;
   titulo: string;
   thumb: string;
-  resumo: string;
   categoria: string;
   data: string;
   texto: string;
@@ -51,16 +50,27 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
     const { data, content } = matter(arquivo);
     const tempoLeitura = Math.ceil(content.split(/\s+/).length / 200);
 
-    posts.push({
-      slug: data.slug,
-      titulo: data.title,
-      thumb: data.thumb,
-      resumo: data.resumo,
-      categoria: data.categoria,
-      data: data.data,
-      texto: content,
-      tempoLeitura,
-    });
+    if (
+      data.slug &&
+      data.title &&
+      data.thumb &&
+      data.categoria &&
+      data.midia &&
+      data.tipoMidia &&
+      data.data
+    ) {
+      posts.push({
+        slug: data.slug,
+        titulo: data.title,
+        thumb: data.thumb,
+        categoria: data.categoria,
+        data: data.data,
+        texto: content,
+        tempoLeitura,
+      });
+    } else {
+      console.warn(`Post ignorado: ${nomeArquivo} está com campos faltando no frontmatter.`);
+    }
   }
 
   posts.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
@@ -164,7 +174,6 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
                       <span>•</span>
                       <span>{post.tempoLeitura} min de leitura</span>
                     </div>
-                    <p className="text-sm text-gray-600 dark:text-gray-400 mt-2 line-clamp-2">{post.resumo}</p>
                   </div>
                 </Link>
               ))}
