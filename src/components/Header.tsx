@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import SearchModal from "./SearchModal";
-import { FaInstagram, FaFacebook, FaXTwitter } from "react-icons/fa6";
+import { FaFacebook, FaXTwitter } from "react-icons/fa6";
 import { FaSearch } from "react-icons/fa";
 
 export default function Header() {
@@ -57,9 +57,6 @@ export default function Header() {
           {/* Ícones redes sociais */}
           <a href="https://www.facebook.com/geeknews.site/" target="_blank" rel="noopener noreferrer" title="Facebook" className="hover:text-orange-400">
             <FaFacebook className="text-lg" />
-          </a>
-          <a href="https://www.instagram.com/sitegeeknews/" target="_blank" rel="noopener noreferrer" title="Instagram" className="hover:text-orange-400">
-            <FaInstagram className="text-lg" />
           </a>
           <a href="https://x.com/SiteGeekNews" target="_blank" rel="noopener noreferrer" title="X" className="hover:text-orange-400">
             <FaXTwitter className="text-lg" />
