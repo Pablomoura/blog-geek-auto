@@ -1,26 +1,14 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import Link from "next/link";
 import SearchModal from "./SearchModal";
 import { FaInstagram, FaFacebook, FaXTwitter } from "react-icons/fa6";
 import { FaSearch } from "react-icons/fa";
 
 export default function Header() {
-  const [temaEscuro, setTemaEscuro] = useState(false);
   const [menuAberto, setMenuAberto] = useState(false);
   const [mostrarBusca, setMostrarBusca] = useState(false);
-
-  useEffect(() => {
-    const temaSalvo = localStorage.getItem("tema");
-    if (temaSalvo === "dark") {
-      document.documentElement.classList.add("dark");
-      setTemaEscuro(true);
-    } else {
-      document.documentElement.classList.remove("dark");
-      setTemaEscuro(false);
-    }
-  }, []);
 
   const toggleMenu = () => setMenuAberto(!menuAberto);
 
@@ -60,14 +48,14 @@ export default function Header() {
             className="text-2xl hover:text-orange-400 transition"
             title="Buscar"
           >
-            <FaSearch />
+            <FaSearch className="text-[22px]" />
           </button>
 
           {/* Divisor */}
-          <div className="h-6 w-px bg-gray-400 opacity-50 mx-4" />
+          <div className="h-6 w-px bg-gray-400 opacity-50" />
 
           {/* Ícones redes sociais */}
-          <a href="https://www.facebook.com/profile.php?id=61574526704983" target="_blank" rel="noopener noreferrer" title="Facebook" className="hover:text-orange-400">
+          <a href="https://www.facebook.com/geeknews.site/" target="_blank" rel="noopener noreferrer" title="Facebook" className="hover:text-orange-400">
             <FaFacebook className="text-lg" />
           </a>
           <a href="https://www.instagram.com/sitegeeknews/" target="_blank" rel="noopener noreferrer" title="Instagram" className="hover:text-orange-400">
