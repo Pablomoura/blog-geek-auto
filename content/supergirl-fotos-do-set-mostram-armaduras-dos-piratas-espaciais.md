@@ -10,7 +10,7 @@ data: "2025-03-28T23:08:35.421Z"
 
 Imagens recentes do set de filmagem de 'Supergirl: A Mulher do Amanhã' começaram a circular online, revelando uma arara repleta de armaduras. Essa descoberta indica que o filme pode incluir o grupo de vilões piratas espaciais, conhecidos dos quadrinhos que servem de base para a trama.
 
-Na série de quadrinhos 'A Mulher do Amanhã', Supergirl e sua companheira Ruthye enfrentam esses piratas enquanto seguem Krem dos Montes Amarelos. As armaduras vistas nas fotos do set aparentam pertencer a esses antagonistas.
+Na série de quadrinhos 'A Mulher do Amanhã', Supergirl e sua companheira Ruthye enfrentam esses piratas enquanto seguem Krem dos Montes Amarelos. As armaduras vistas nas fotos do set aparentam pertencer a esses antagonistas. 
 
 O elenco do filme inclui Milly Alcock como Supergirl, Eve Ridley como Ruthye, Matthias Schoenaerts como Krem, além de David Krumholtz e Emily Beecham interpretando Zor-El e Alura In-Ze, os pais de Supergirl. Jason Momoa, conhecido por seu papel como Aquaman, agora retorna como o mercenário Lobo.
 

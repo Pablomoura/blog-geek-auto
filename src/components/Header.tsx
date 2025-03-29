@@ -3,6 +3,8 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import SearchModal from "./SearchModal";
+import { FaInstagram, FaFacebook, FaXTwitter } from "react-icons/fa6";
+import { FaSearch } from "react-icons/fa";
 
 export default function Header() {
   const [temaEscuro, setTemaEscuro] = useState(false);
@@ -20,13 +22,6 @@ export default function Header() {
     }
   }, []);
 
-  const alternarTema = () => {
-    const novoTema = !temaEscuro;
-    setTemaEscuro(novoTema);
-    document.documentElement.classList.toggle("dark", novoTema);
-    localStorage.setItem("tema", novoTema ? "dark" : "light");
-  };
-
   const toggleMenu = () => setMenuAberto(!menuAberto);
 
   const categorias = ["Games", "Séries e TV", "Mangás e Animes", "Filmes"];
@@ -35,7 +30,7 @@ export default function Header() {
     return text
       .toLowerCase()
       .normalize("NFD")
-      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[̀-ͯ]/g, "")
       .replace(/\s+/g, "-")
       .replace(/[^\w-]/g, "");
   }
@@ -45,7 +40,7 @@ export default function Header() {
       <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
         {/* LOGO */}
         <Link href="/" className="text-xl font-bold hover:text-orange-500 transition">
-        <img src="/logo.png" alt="GeekNews" className="h-10 w-auto" />
+          <img src="/logo.png" alt="GeekNews" className="h-10 w-auto" />
         </Link>
 
         {/* Menu Desktop */}
@@ -57,22 +52,30 @@ export default function Header() {
           ))}
         </nav>
 
-        {/* Botões */}
-        <div className="flex items-center space-x-4">
-        <button
-          onClick={() => setMostrarBusca(true)}
-          className="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition"
-          title="Buscar"
-        >
-          🔍
-        </button>
+        {/* Ações: Busca + Redes sociais */}
+        <div className="flex items-center space-x-3">
+          {/* Botão de busca */}
           <button
-            onClick={alternarTema}
-            className="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition"
-            title="Alternar tema"
+            onClick={() => setMostrarBusca(true)}
+            className="text-2xl hover:text-orange-400 transition"
+            title="Buscar"
           >
-            {temaEscuro ? "🌞" : "🌙"}
+            <FaSearch />
           </button>
+
+          {/* Divisor */}
+          <div className="h-6 w-px bg-gray-400 opacity-50 mx-4" />
+
+          {/* Ícones redes sociais */}
+          <a href="https://www.facebook.com/profile.php?id=61574526704983" target="_blank" rel="noopener noreferrer" title="Facebook" className="hover:text-orange-400">
+            <FaFacebook className="text-lg" />
+          </a>
+          <a href="https://www.instagram.com/sitegeeknews/" target="_blank" rel="noopener noreferrer" title="Instagram" className="hover:text-orange-400">
+            <FaInstagram className="text-lg" />
+          </a>
+          <a href="https://x.com/SiteGeekNews" target="_blank" rel="noopener noreferrer" title="X" className="hover:text-orange-400">
+            <FaXTwitter className="text-lg" />
+          </a>
 
           {/* Menu Mobile */}
           <button
@@ -95,6 +98,7 @@ export default function Header() {
           ))}
         </nav>
       )}
+
       {mostrarBusca && <SearchModal onClose={() => setMostrarBusca(false)} />}
     </header>
   );
