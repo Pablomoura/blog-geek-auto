@@ -26,7 +26,7 @@ const palavrasComuns = [
   "Eles", "Elas", "Nós", "Vocês", "Você", "Teu", "Teus", "Tua", "Tu", "Te",
   "Segundo", "Terceiro", "Quarto", "Quinto", "Sexto", "Sétimo",
   "Oitavo", "Nono", "Décimo", "Primeira", "Lançado", "Lançada", "Lançamento",
-  "Lançamentos", "Nas", "Lançando", "Lançados", "Lançadas",  "At"
+  "Lançamentos", "Nas", "Lançando", "Lançados", "Lançadas", "At", "Esta", "Estamos"
 ];
 
 function extrairPalavrasProprias(texto: string): string[] {

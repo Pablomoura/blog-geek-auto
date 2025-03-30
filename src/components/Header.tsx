@@ -24,7 +24,7 @@ export default function Header() {
   }
 
   return (
-    <header className="bg-white dark:bg-gray-900 text-gray-900 dark:text-white shadow-md sticky top-0 z-50">
+    <header className="bg-orange-50 border-b border-orange-100 shadow-sm sticky top-0 z-50 text-gray-900 dark:bg-gray-900 dark:text-white">
       <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
         {/* LOGO */}
         <Link href="/" className="text-xl font-bold hover:text-orange-500 transition">
@@ -75,7 +75,7 @@ export default function Header() {
 
       {/* Dropdown Mobile */}
       {menuAberto && (
-        <nav className="md:hidden px-6 pb-4 space-y-3 bg-white dark:bg-gray-900 text-sm font-medium">
+        <nav className="md:hidden px-6 pb-4 space-y-3 bg-orange-50 dark:bg-gray-900 text-sm font-medium">
           {categorias.map((nome) => (
             <Link key={nome} href={`/categoria/${slugify(nome)}`} className="block hover:text-orange-400">
               {nome}
