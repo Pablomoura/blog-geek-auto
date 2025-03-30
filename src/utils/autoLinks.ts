@@ -4,7 +4,7 @@ import path from "path";
 import matter from "gray-matter";
 import { parseDocument } from "htmlparser2";
 import { DomUtils } from "htmlparser2";
-import { Element, Text, isTag, Node as DomNode } from "domhandler";
+import { Element, Text, isTag, Node as DomNode, ParentNode, ChildNode } from "domhandler";
 
 export type PalavraChave = {
   termo: string;
@@ -12,13 +12,20 @@ export type PalavraChave = {
 };
 
 function extrairPalavrasProprias(texto: string): string[] {
-  const palavras = texto.match(/\b([A-ZÀ-Ú][a-zà-ú]{2,}(?:\s+[A-ZÀ-Ú][a-zà-ú]{2,})*)\b/g);
-  if (!palavras) return [];
-
+  const linhas = texto.split(/\n+/);
   const frequencia: Record<string, number> = {};
-  for (const palavra of palavras) {
-    const normalizada = palavra.trim();
-    frequencia[normalizada] = (frequencia[normalizada] || 0) + 1;
+
+  for (const linha of linhas) {
+    const matches = linha.matchAll(/\b([A-ZÀ-Ú][a-zà-ú]+(?:\s+[A-ZÀ-Ú][a-zà-ú]+)*)\b/g);
+    for (const match of matches) {
+      const termo = match[1].trim();
+
+      // Ignora se for a primeira palavra da linha (inicio de frase comum)
+      const index = linha.indexOf(termo);
+      if (index === 0) continue;
+
+      frequencia[termo] = (frequencia[termo] || 0) + 1;
+    }
   }
 
   return Object.entries(frequencia)
@@ -99,11 +106,12 @@ export async function aplicarLinksInternosInteligente(html: string, slugAtual: s
               }
             }
 
-            const parent = node.parent as Element;
+            const parent = node.parent as ParentNode;
             if (parent && Array.isArray(parent.children)) {
-              const index = parent.children.indexOf(node);
+              const childNode = node as ChildNode;
+              const index = parent.children.indexOf(childNode);
               if (index !== -1) {
-                parent.children.splice(index, 1, ...novos);
+                parent.children.splice(index, 1, ...novos as ChildNode[]);
               }
             }
             break;
@@ -115,7 +123,9 @@ export async function aplicarLinksInternosInteligente(html: string, slugAtual: s
     }
   };
 
-  walker([body]);
+  if (body && Array.isArray(body.children)) {
+    walker(body.children);
+  }
 
   const allParagraphs = DomUtils.getElementsByTagName("p", [body], true);
   allParagraphs.forEach((p) => {
