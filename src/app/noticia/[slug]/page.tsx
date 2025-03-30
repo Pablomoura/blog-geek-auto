@@ -68,7 +68,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     // 1. Divide o conteúdo original (markdown limpo) em parágrafos
     const parags = content.split("\n").map((p) => p.trim()).filter(Boolean);
 
-    // 2. Converte para HTML com <p> e <img> (sem aplicar links ainda)
+    // 2. Converte para HTML com <p> e <img> (sem aplicar links ainda )
     const htmlInicial = parags
       .map((p) => {
         const imagemMarkdown = p.match(/!\[.*?\]\((.*?)\)/);
