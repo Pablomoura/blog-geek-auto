@@ -21,6 +21,15 @@ interface CategoriaPageProps {
   searchParams: Promise<{ page?: string }>;
 }
 
+export const metadata = {
+  title: "GeekNews - As Melhores Notícias Geek do Brasil e do Mundo",
+  keywords: "GeekNews, notícias, filmes, séries, games, mangás, animes",
+  description: "Fique por dentro das novidades de filmes, séries, games, mangás e animes no GeekNews. Atualizações diárias com conteúdo relevante para os fãs da cultura pop.",
+  alternates: {
+    canonical: "https://www.geeknews.com.br",
+  },
+};
+
 export default async function CategoriaPage(props: CategoriaPageProps) {
   const { slug } = await props.params;
   const { page } = await props.searchParams;

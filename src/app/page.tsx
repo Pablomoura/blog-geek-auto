@@ -7,7 +7,6 @@ import Header from "@/components/Header";
 import React from "react";
 import ProdutosAmazon from "@/components/ProdutosAmazon";
 
-// 🟠 NOVO: tipos opcionais
 type Banner = {
   slug: string;
   titulo: string;
@@ -41,6 +40,14 @@ interface Post {
   tempoLeitura: number;
   resumo: string;
 }
+
+export const metadata = {
+  title: "GeekNews - As Melhores Notícias Geek do Brasil",
+  description: "Fique por dentro das novidades de filmes, séries, games, mangás e animes no GeekNews. Atualizações diárias com conteúdo relevante para os fãs da cultura pop.",
+  alternates: {
+    canonical: "https://www.geeknews.com.br",
+  },
+};
 
 export default async function HomePage({ searchParams }: { searchParams: Promise<{ page?: string }> }) {
   const { page } = await searchParams;

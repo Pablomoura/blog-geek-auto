@@ -29,7 +29,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             gtag('config', 'G-SMFR890H32');
           `}
         </Script>
-        <link rel="canonical" href="https://www.geeknews.com.br" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
