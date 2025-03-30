@@ -19,12 +19,14 @@ const palavrasComuns = [
   "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro",
   "Outubro", "Novembro", "Dezembro", "Como", "Estou", "Este", "Detalhes", "Em", "Um", "As", "Os", "De", "Desde", "Então", "Estão",
   "Até", "Na", "No", "Por", "Para", "Com", "Sobre", "Entre", "Após",
-  "Após", "Além", "Através", "Contra", "Sem", "Cerca",
-  "Anterior", "Velho", "Atualmente", "Foi", "Fui", "É", "São",
+  "Após", "Além", "Através", "Contra", "Sem", "Cerca", "Contudo", "Neste",
+  "Anterior", "Velho", "Atualmente", "Foi", "Fui", "É", "São", "Embora", "Seja",
   "Estava", "Estive", "Estão", "Havia", "Houve", "Haverá",
-  "Pequeno", "Bom", "Ruim", "Pior", "Menos", "Isso", "Aquilo", "Esse", "Essa",
+  "Pequeno", "Bom", "Ruim", "Pior", "Menos", "Isso", "Aquilo", "Esse", "Essa", "Ele", "Ela",
+  "Eles", "Elas", "Nós", "Vocês", "Você", "Teu", "Teus", "Tua", "Tu", "Te",
   "Segundo", "Terceiro", "Quarto", "Quinto", "Sexto", "Sétimo",
-  "Oitavo", "Nono", "Décimo", "Primeira", "Lançado",
+  "Oitavo", "Nono", "Décimo", "Primeira", "Lançado", "Lançada", "Lançamento",
+  "Lançamentos", "Nas", "Lançando", "Lançados", "Lançadas",  "At"
 ];
 
 function extrairPalavrasProprias(texto: string): string[] {
