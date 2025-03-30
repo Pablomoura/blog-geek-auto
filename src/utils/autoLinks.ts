@@ -20,10 +20,11 @@ const palavrasComuns = [
   "Outubro", "Novembro", "Dezembro", "Como", "Estou", "Este", "Detalhes", "Em", "Um", "As", "Os", "De", "Desde", "Então", "Estão",
   "Até", "Na", "No", "Por", "Para", "Com", "Sobre", "Entre", "Após",
   "Após", "Além", "Através", "Contra", "Sem", "Cerca",
-  "Anterior", "Velho", "Atualmente",
+  "Anterior", "Velho", "Atualmente", "Foi", "Fui", "É", "São",
+  "Estava", "Estive", "Estão", "Havia", "Houve", "Haverá",
   "Pequeno", "Bom", "Ruim", "Pior", "Menos", "Isso", "Aquilo", "Esse", "Essa",
   "Segundo", "Terceiro", "Quarto", "Quinto", "Sexto", "Sétimo",
-  "Oitavo", "Nono", "Décimo", "Primeira",
+  "Oitavo", "Nono", "Décimo", "Primeira", "Lançado",
 ];
 
 function extrairPalavrasProprias(texto: string): string[] {
