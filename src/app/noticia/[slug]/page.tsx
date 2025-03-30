@@ -16,14 +16,16 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
   try {
     const file = await fs.readFile(filePath, "utf-8");
-    const { data } = matter(file);
+    const { data, content } = matter(file);
+
+    const descricao = data.resumo || content.slice(0, 160).replace(/\n/g, " ").trim();
 
     return {
       title: data.title,
-      description: data.resumo || "",
+      description: descricao,
       openGraph: {
         title: data.title,
-        description: data.resumo || "",
+        description: descricao,
         type: "article",
         url: `https://www.geeknews.com.br/noticia/${slug}`,
         siteName: "GeekNews",
@@ -39,7 +41,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       twitter: {
         card: "summary_large_image",
         title: data.title,
-        description: data.resumo || "",
+        description: descricao,
         images: [data.thumb || data.midia || "/logo.png"],
       },
       alternates: {
@@ -78,8 +80,8 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
       })
       .join("\n");
 
-      const htmlComLinks = await aplicarLinksInternosInteligente(htmlInicial, slug);
-      const htmlContent = DOMPurify.sanitize(htmlComLinks);      
+    const htmlComLinks = await aplicarLinksInternosInteligente(htmlInicial, slug);
+    const htmlContent = DOMPurify.sanitize(htmlComLinks);     
 
     const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
     const relacionados = [];
