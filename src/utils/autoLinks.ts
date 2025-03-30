@@ -11,6 +11,21 @@ export type PalavraChave = {
   slug: string;
 };
 
+const palavrasComuns = [
+  "Mais", "Muito", "Nova", "Novo", "Depois", "Antes", "Hoje", "Agora",
+  "Outros", "Durante", "Mesmo", "Melhor", "Grande", "Apenas", "Também",
+  "Primeiro", "Último", "Próximo", "Segunda", "Terceira", "Quarta",
+  "Quinta", "Sexta", "Sábado", "Domingo", "Janeiro", "Fevereiro",
+  "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro",
+  "Outubro", "Novembro", "Dezembro", "Como", "Estou", "Este", "Detalhes", "Em", "Um", "As", "Os", "De", "Desde", "Então", "Estão",
+  "Até", "Na", "No", "Por", "Para", "Com", "Sobre", "Entre", "Após",
+  "Após", "Além", "Através", "Contra", "Sem", "Cerca",
+  "Anterior", "Velho", "Aualmente",
+  "Pequeno", "Bom", "Ruim", "Pior", "Menos",
+  "Segundo", "Terceiro", "Quarto", "Quinto", "Sexto", "Sétimo",
+  "Oitavo", "Nono", "Décimo", "Primeira",
+];
+
 function extrairPalavrasProprias(texto: string): string[] {
   const linhas = texto.split(/\n+/);
   const frequencia: Record<string, number> = {};
@@ -20,9 +35,9 @@ function extrairPalavrasProprias(texto: string): string[] {
     for (const match of matches) {
       const termo = match[1].trim();
 
-      // Ignora se for a primeira palavra da linha (inicio de frase comum)
       const index = linha.indexOf(termo);
-      if (index === 0) continue;
+      if (index === 0) continue; // evita palavras no início da frase
+      if (palavrasComuns.includes(termo)) continue; // evita termos genéricos
 
       frequencia[termo] = (frequencia[termo] || 0) + 1;
     }
@@ -30,7 +45,7 @@ function extrairPalavrasProprias(texto: string): string[] {
 
   return Object.entries(frequencia)
     .sort((a, b) => b[1] - a[1])
-    .slice(0, 5)
+    .slice(0, 10) // aumenta limite para mais chances de uso
     .map(([termo]) => termo);
 }
 
@@ -68,21 +83,17 @@ function escapeRegExp(text: string): string {
 
 export async function aplicarLinksInternosInteligente(html: string, slugAtual: string): Promise<string> {
   const palavrasChave = await gerarPalavrasChave(slugAtual);
-  const slugsInseridos = new Set<string>();
   let totalLinks = 0;
-  const MAX_LINKS = 5;
+  const MAX_LINKS = 10;
 
   const doc = parseDocument(`<body>${html}</body>`);
   const body = DomUtils.getElementsByTagName("body", doc.children, true)[0];
 
   const walker = (nodes: DomNode[]) => {
     for (const node of nodes) {
-      if (totalLinks >= MAX_LINKS) break;
-
       if (node.type === "text") {
         for (const { termo, slug } of palavrasChave) {
           if (totalLinks >= MAX_LINKS) break;
-          if (slugsInseridos.has(slug)) continue;
 
           const termoEscapado = escapeRegExp(termo);
           const regex = new RegExp(`\\b(${termoEscapado})\\b`, "g");
@@ -101,7 +112,6 @@ export async function aplicarLinksInternosInteligente(html: string, slugAtual: s
                 });
                 el.children = [new Text(partes[i])];
                 novos.push(el);
-                slugsInseridos.add(slug);
                 totalLinks++;
               }
             }
