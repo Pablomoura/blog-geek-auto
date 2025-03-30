@@ -9,6 +9,7 @@ import React from "react";
 import DisqusReset from "@/components/DisqusReset";
 import DOMPurify from "isomorphic-dompurify";
 import ProdutosAmazon from "@/components/ProdutosAmazon";
+import { aplicarLinksInternosInteligente } from "@utils/autoLinks";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
@@ -61,31 +62,24 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     const file = await fs.readFile(filePath, "utf-8");
     const { data, content } = matter(file);
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
-    
-    const htmlWithSpacing = content
-      .split("\n")
-      .map((p) => {
-        const trimmed = p.trim();
-        if (!trimmed) return "<br>";
+    // 1. Divide o conteúdo original (markdown limpo) em parágrafos
+    const parags = content.split("\n").map((p) => p.trim()).filter(Boolean);
 
-        // Verifica se é uma imagem em markdown
-        const imagemMarkdown = trimmed.match(/!\[.*?\]\((.*?)\)/);
+    // 2. Converte para HTML com <p> e <img> (sem aplicar links ainda)
+    const htmlInicial = parags
+      .map((p) => {
+        const imagemMarkdown = p.match(/!\[.*?\]\((.*?)\)/);
         if (imagemMarkdown) {
           const url = imagemMarkdown[1];
-
-          // Ignora imagens base64 e placeholder do Omelete
-          if (url.startsWith("data:image") || url.includes("loading.svg")) {
-            return "";
-          }
-
+          if (url.startsWith("data:image") || url.includes("loading.svg")) return "";
           return `<img src="${url}" alt="Imagem do conteúdo" loading="lazy" />`;
         }
-
-        return `<p>${trimmed}</p>`;
+        return `<p>${p}</p>`;
       })
       .join("\n");
 
-    const htmlContent = DOMPurify.sanitize(htmlWithSpacing);
+      const htmlComLinks = await aplicarLinksInternosInteligente(htmlInicial, slug);
+      const htmlContent = DOMPurify.sanitize(htmlComLinks);      
 
     const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
     const relacionados = [];
