@@ -8,6 +8,7 @@ import Script from "next/script";
 import React from "react";
 import DisqusReset from "@/components/DisqusReset";
 import DOMPurify from "isomorphic-dompurify";
+import ProdutosAmazon from "@/components/ProdutosAmazon";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
@@ -257,8 +258,8 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   ))}
                 </div>
               </section>
-              <div className="bg-gray-200 dark:bg-gray-800 h-96 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
-                Publicidade
+              <div className="">
+                {posts[0] && <ProdutosAmazon categoria={data.categoria} />}
               </div>
             </aside>
           </div>

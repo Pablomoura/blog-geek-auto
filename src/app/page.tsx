@@ -5,6 +5,7 @@ import matter from "gray-matter";
 import Link from "next/link";
 import Header from "@/components/Header";
 import React from "react";
+import ProdutosAmazon from "@/components/ProdutosAmazon";
 
 // 🟠 NOVO: tipos opcionais
 type Banner = {
@@ -256,8 +257,8 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
               </div>
             </section>
 
-            <div className="bg-gray-200 dark:bg-gray-800 h-96 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
-              Espaço reservado para publicidade
+            <div className="">
+              {posts[0] && <ProdutosAmazon categoria={posts[0].categoria} />}
             </div>
           </aside>
         </div>

@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import Link from "next/link";
 import React from "react";
+import ProdutosAmazon from "@/components/ProdutosAmazon";
 
 function slugify(text: string) {
   return text
@@ -166,8 +167,8 @@ export default async function CategoriaPage(props: CategoriaPageProps) {
               </div>
             </section>
 
-            <div className="bg-gray-200 dark:bg-gray-800 h-96 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
-              Espaço reservado para publicidade
+            <div className="">
+            {posts[0] && <ProdutosAmazon categoria={posts[0].categoria} />}
             </div>
           </aside>
         </div>
