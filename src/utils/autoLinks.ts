@@ -20,8 +20,8 @@ const palavrasComuns = [
   "Outubro", "Novembro", "Dezembro", "Como", "Estou", "Este", "Detalhes", "Em", "Um", "As", "Os", "De", "Desde", "Então", "Estão",
   "Até", "Na", "No", "Por", "Para", "Com", "Sobre", "Entre", "Após",
   "Após", "Além", "Através", "Contra", "Sem", "Cerca",
-  "Anterior", "Velho", "Aualmente",
-  "Pequeno", "Bom", "Ruim", "Pior", "Menos",
+  "Anterior", "Velho", "Atualmente",
+  "Pequeno", "Bom", "Ruim", "Pior", "Menos", "Isso", "Aquilo", "Esse", "Essa",
   "Segundo", "Terceiro", "Quarto", "Quinto", "Sexto", "Sétimo",
   "Oitavo", "Nono", "Décimo", "Primeira",
 ];
