@@ -193,6 +193,7 @@ Responda em JSON neste formato:
   "titulo": "...",
   "resumo": "...",
   "texto": "..."
++  "keywords": "palavra1, palavra2, palavra3
 }`;
 
   try {
@@ -310,6 +311,7 @@ categoria: "${novaNoticia.categoria}"
 midia: "${novaNoticia.midia}"
 tipoMidia: "${novaNoticia.tipoMidia}"
 thumb: "${novaNoticia.thumb || ""}"
+keywords: "${reescrito.keywords || ""}"
 data: "${new Date().toISOString()}"
 ---\n\n`;
 
