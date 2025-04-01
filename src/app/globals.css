@@ -55,6 +55,10 @@ body {
 .prose h4 {
   @apply text-xl font-medium mt-6 mb-2;
 }
+
+.prose a {
+  @apply text-orange-400 dark:text-orange-200 underline;
+}
 .prose img {
   @apply max-w-full h-auto rounded-lg shadow-md my-6;
   max-width: 500px;
