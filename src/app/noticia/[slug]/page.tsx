@@ -22,10 +22,11 @@ marked.use(
   }),
   markedHighlight({
     langPrefix: "hljs language-",
-    highlight(code: string, lang: string) {
+    highlight(code: string) {
       return hljs.highlightAuto(code).value;
+    }    
     },
-  })
+  )
 );
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
