@@ -27,11 +27,11 @@ A Galápagos Jogos lançou uma promoção especial na Amazon, oferecendo descont
 
 - [Galápagos, Exploding Kittens, Jogo de Cartas para Amigos, 2 a 5 jogadores, 15 minutos por partida, com 15% de desconto. ](https://amzn.to/42dJEZN)
 
-![Imagem da notícia](https://cdn.ome.lt/22K9UJDI9uLphNZJ0tgsnoqj9Ek=/fit-in/837x500/smart/uploads/conteudo/fotos/Captura_de_tela_2025-03-31_175933.png)
+![Imagem da notícia](https://cdn.ome.lt/q7npPkBAKbzr_3WKkk4jnSuRbew=/fit-in/837x500/smart/uploads/conteudo/fotos/Captura_de_tela_2025-03-31_180006.png)
 
 - [Galápagos, Res Arcana, Jogo de Tabuleiro Competitivo, 2-4 jogadores, 30-60 minutos por partida, também com 15% de desconto. ](https://amzn.to/42eEz3x)
 
-![Imagem da notícia](https://cdn.ome.lt/q7npPkBAKbzr_3WKkk4jnSuRbew=/fit-in/837x500/smart/uploads/conteudo/fotos/Captura_de_tela_2025-03-31_180006.png)
+![Imagem da notícia](https://cdn.ome.lt/OqkvQnS2isvrnZHy3vrgkoprIBo=/fit-in/837x500/smart/uploads/conteudo/fotos/Captura_de_tela_2025-03-31_180312.png)
 
 Outros jogos como - [Splendor Marvel](https://amzn.to/4iPCkKS), - [Arkham Horror](https://amzn.to/4iTo2sR), - [Super Cortex](https://amzn.to/4jhJmbo), - [Flourish](https://amzn.to/4i6Z4Fi), - [The Game](https://amzn.to/3FMo5Ip), - [MicroMacro: A Cidade do Crime](https://amzn.to/43FCIXT), - [Unlock! Star Wars](https://amzn.to/443lV0P), - [Star Wars - The Clone Wars](https://amzn.to/3RyMKCw), - [Zapotec](https://amzn.to/3DXGAcf), - [Guerra do Anel: Card Game](https://amzn.to/42iCcg3), - [Duna: Um Jogo de Conquistas e Diplomacia](https://amzn.to/42h8oAs), e - [Twilight Imperium (4ª Edição)](https://amzn.to/3RvLH6q) também estão com descontos variando de 9% a 23%. 
 
