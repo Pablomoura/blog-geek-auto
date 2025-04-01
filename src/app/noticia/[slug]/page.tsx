@@ -10,9 +10,26 @@ import DisqusReset from "@/components/DisqusReset";
 import DOMPurify from "isomorphic-dompurify";
 import ProdutosAmazon from "@/components/ProdutosAmazon";
 import { aplicarLinksInternosInteligente } from "@utils/autoLinks";
+import { marked } from "marked";
+import { markedHighlight } from "marked-highlight";
+import { gfmHeadingId } from "marked-gfm-heading-id";
+import hljs from "highlight.js";
+import "highlight.js/styles/github-dark.css";
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params;
+marked.use(
+  gfmHeadingId({
+    prefix: "heading-"
+  }),
+  markedHighlight({
+    langPrefix: "hljs language-",
+    highlight(code: string, lang: string) {
+      return hljs.highlightAuto(code).value;
+    },
+  })
+);
+
+export async function generateMetadata({ params }: { params: { slug: string } }) {
+  const { slug } = params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
   try {
     const file = await fs.readFile(filePath, "utf-8");
@@ -57,32 +74,19 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 }
 
-export default async function NoticiaPage(props: { params: Promise<{ slug: string }> }) {
-  const { slug } = await props.params;
+export default async function NoticiaPage({ params }: { params: { slug: string } }) {
+  const { slug } = params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
   try {
     const file = await fs.readFile(filePath, "utf-8");
     const { data, content } = matter(file);
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
-    // 1. Divide o conteúdo original (markdown limpo) em parágrafos
-    const parags = content.split("\n").map((p) => p.trim()).filter(Boolean);
 
-    // 2. Converte para HTML com <p> e <img> (sem aplicar links ainda )
-    const htmlInicial = parags
-      .map((p) => {
-        const imagemMarkdown = p.match(/!\[.*?\]\((.*?)\)/);
-        if (imagemMarkdown) {
-          const url = imagemMarkdown[1];
-          if (url.startsWith("data:image") || url.includes("loading.svg")) return "";
-          return `<img src="${url}" alt="Imagem do conteúdo" loading="lazy" />`;
-        }
-        return `<p>${p}</p>`;
-      })
-      .join("\n");
+    const htmlConvertido = await marked.parse(content); // <- aqui com await
+    const htmlComLinks = await aplicarLinksInternosInteligente(htmlConvertido, slug);
 
-    const htmlComLinks = await aplicarLinksInternosInteligente(htmlInicial, slug);
-    const htmlContent = DOMPurify.sanitize(htmlComLinks);     
+    const htmlContent = DOMPurify.sanitize(htmlComLinks);
 
     const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
     const relacionados = [];

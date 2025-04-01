@@ -37,3 +37,27 @@ body {
     color: #ddd; /* Cor para o tema escuro */
   }
 }
+/* globals.css */
+
+/* Estilização de títulos dentro de .prose */
+.prose h1 {
+  @apply text-4xl font-extrabold text-neutral-900 dark:text-white mb-6 mt-10;
+}
+
+.prose h2 {
+  @apply text-3xl font-bold text-neutral-800 dark:text-orange-300 mt-10 mb-4;
+}
+
+.prose h3 {
+  @apply text-2xl font-semibold text-orange-400 dark:text-orange-200 mt-8 mb-3;
+}
+
+.prose h4 {
+  @apply text-xl font-medium mt-6 mb-2;
+}
+.prose img {
+  @apply max-w-full h-auto rounded-lg shadow-md my-6;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
