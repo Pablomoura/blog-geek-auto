@@ -186,8 +186,11 @@ async function extrairConteudoNoticia(url) {
 
 async function reescreverNoticia(titulo, resumo, texto) {
   const prompt = `
-Reescreva a seguinte notícia com boa ortografia, gramática e foco em SEO. Use um tom jornalístico, direto e informativo, mantendo os fatos. Tente usar uma quantidade parecida de palavras da materia original, se liver lista, cronogramas e etc. na materia original, tente recrialos.
-Separe cada parágrafo com duas quebras de linha para garantir leitura adequada em Markdown. Evite blocos grandes: limite a 2-3 frases por parágrafo.
+Reescreva a seguinte notícia com ortografia e gramática corretas, em um tom jornalístico, direto e informativo.
+Mantenha todos os fatos e detalhes relevantes da matéria original, sem omitir informações importantes e sem parecer plagio. Utilize uma quantidade semelhante ou superior de palavras, garantindo no mínimo 500 palavras, e não resuma o conteúdo original.
+Se houver listas, cronogramas, tópicos organizados ou conteúdos segmentados, recrie-os com fidelidade e clareza.
+Separe cada parágrafo com duas quebras de linha para garantir leitura adequada em Markdown.
+Evite parágrafos longos: limite cada bloco a 2 ou 3 frases para facilitar a leitura.
 
 Título:
 ${titulo}
