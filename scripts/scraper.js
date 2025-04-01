@@ -116,17 +116,28 @@ async function extrairConteudoNoticia(url) {
     await page.waitForSelector("img", { timeout: 10000 });
 
     const imagensInternas = await page.evaluate(() => {
-      const imgs = Array.from(document.querySelectorAll("img"));
-      return imgs.map((img) => {
-        let src = img.getAttribute("src") || img.getAttribute("data-src") || img.getAttribute("data-lazy-src");
-
-        if (!src || src.startsWith("data:image") || src.includes("loading.svg")) return null;
-        if (src.startsWith("//")) src = "https:" + src;
-        if (!src.startsWith("http")) src = "https://" + src.replace(/^\/\/+/, "");
-
-        return src;
-      }).filter(Boolean);
+      return Array.from(document.querySelectorAll("div.media__wrapper__image img"))
+        .map((img) => {
+          let src = img.getAttribute("data-src") || img.getAttribute("src") || "";
+    
+          if (src.startsWith("//")) src = "https:" + src;
+          if (src && !src.startsWith("http")) src = "https:" + src;
+    
+          return src;
+        })
+        .filter((src) =>
+          src &&
+          !src.includes("loading.svg") &&
+          !src.includes("data:image") &&
+          !src.includes("pixel.mathtag.com") &&
+          !src.includes("analytics.yahoo.com") &&
+          !src.includes("omelete_logo.svg") &&
+          !src.includes("icons/search") &&
+          !src.includes("navdmp.com") &&
+          /\.(jpg|jpeg|png|webp)$/i.test(src) // só formatos de imagem válidos
+        );
     });
+    
 
     const tweets = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("iframe[data-tweet-id]"))
