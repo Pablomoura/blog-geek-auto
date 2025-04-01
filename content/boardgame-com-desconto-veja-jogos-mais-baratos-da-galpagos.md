@@ -23,7 +23,7 @@ A Galápagos Jogos lançou uma promoção especial na Amazon, oferecendo descont
 
 - [Galápagos, Savannah Park, perfeito para a família, para 1 a 4 jogadores, 20 a 40 minutos por partida, com 19% de desconto. ](https://amzn.to/43vch72)
 
-![Imagem da notícia](https://cdn.ome.lt/KdMsbe8cPrY7xb7DQk4ulUBgMsc=/fit-in/837x500/smart/uploads/conteudo/fotos/Captura_de_tela_2025-03-31_175904.png)
+![Imagem da notícia](https://cdn.ome.lt/22K9UJDI9uLphNZJ0tgsnoqj9Ek=/fit-in/837x500/smart/uploads/conteudo/fotos/Captura_de_tela_2025-03-31_175933.png)
 
 - [Galápagos, Exploding Kittens, Jogo de Cartas para Amigos, 2 a 5 jogadores, 15 minutos por partida, com 15% de desconto. ](https://amzn.to/42dJEZN)
 
