@@ -112,21 +112,20 @@ async function extrairConteudoNoticia(url) {
   try {
     await page.setUserAgent("Mozilla/5.0");
     await page.goto(url, { waitUntil: "networkidle2" });
+    await autoScroll(page);
+    await page.waitForSelector("img", { timeout: 10000 });
 
     const imagensInternas = await page.evaluate(() => {
-      return Array.from(document.querySelectorAll("div.media__wrapper__image img"))
-        .map((img) => {
-          let src = img.getAttribute("src") || "";
-          if (src.includes("loading.svg")) {
-            const dataSrc = img.getAttribute("data-src");
-            src = dataSrc && !dataSrc.startsWith("http") ? "https:" + dataSrc : dataSrc || "";
-          }
-          if (src.startsWith("//")) {
-            src = "https:" + src;
-          }
-          return src;
-        })
-        .filter(Boolean);
+      const imgs = Array.from(document.querySelectorAll("img"));
+      return imgs.map((img) => {
+        let src = img.getAttribute("src") || img.getAttribute("data-src") || img.getAttribute("data-lazy-src");
+
+        if (!src || src.startsWith("data:image") || src.includes("loading.svg")) return null;
+        if (src.startsWith("//")) src = "https:" + src;
+        if (!src.startsWith("http")) src = "https://" + src.replace(/^\/\/+/, "");
+
+        return src;
+      }).filter(Boolean);
     });
 
     const tweets = await page.evaluate(() => {
