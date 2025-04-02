@@ -15,7 +15,6 @@ import { markedHighlight } from "marked-highlight";
 import { gfmHeadingId } from "marked-gfm-heading-id";
 import hljs from "highlight.js";
 import "highlight.js/styles/github-dark.css";
-import removeAccents from "remove-accents";
 
 marked.use(
   gfmHeadingId({
