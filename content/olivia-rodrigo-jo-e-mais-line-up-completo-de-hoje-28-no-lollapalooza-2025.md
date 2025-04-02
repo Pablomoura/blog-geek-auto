@@ -21,8 +21,4 @@ tags:
 
 Olivia Rodrigo é a grande atração de hoje (28) no Lollapalooza 2025, que tem início no Autódromo de Interlagos, em São Paulo. Para quem planeja aproveitar o festival, é essencial conhecer os palcos e os horários dos shows de artistas como Olivia Rodrigo, Jão, Rüfus Du Sol, Empire of the Sun e Tropkillaz.
 
-![Imagem da notícia](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
-
 O portal Omelete traz para você a programação completa, separada por palcos, com os horários oficiais fornecidos pelo evento. Lembre-se, os organizadores do festival não são responsáveis por possíveis atrasos. Confira também o mapa do Autódromo de Interlagos para facilitar a sua locomoção no evento.
-
-![Imagem da notícia](https://cdn.ome.lt/static/omelete/img/loading.svg)
