@@ -18,5 +18,3 @@ Novos talentos também se juntam ao elenco, incluindo Nikki M. James, Margarita 
 Sob a liderança do showrunner Dario Scarpadane, conhecido por 'Jack Ryan', a trama da nova temporada segue Matt Murdock e Wilson Fisk enquanto tentam reinventar suas vidas. Murdock se concentra em sua carreira jurídica após uma tragédia, alcançando sucesso como advogado, enquanto Fisk vence a eleição para prefeito de Nova York. No entanto, com o tempo, suas inclinações violentas ressurgem, inevitavelmente colocando-os em um conflito direto novamente.
 
 A série 'Demolidor: Renascido' estreou em 4 de março de 2025, exclusivamente no Disney+.
-
-Lembre-se que os comentários são moderados e qualquer violação dos Termos e Condições pode resultar na exclusão do comentário ou até mesmo no banimento da conta. Certifique-se de incluir ao menos um caractere especial (como @, #, $) nas suas interações. Caso esqueça sua senha, forneça o e-mail associado à sua conta no Omelete e um link será enviado para redefinição. Para verificar seu e-mail, insira o código recebido no e-mail registrado.

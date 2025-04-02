@@ -13,10 +13,10 @@ Foram divulgadas novas imagens do set da série 'Lanternas Verdes', revelando Aa
 
 Intitulada 'Lanterns', a produção traz um John Stewart ainda jovem e um Hal Jordan experiente, interpretado por Kyle Chandler. Os personagens se encontram imersos em um profundo mistério terrestre enquanto investigam um assassinato nos Estados Unidos. A vítima especulada é um membro da Tropa dos Lanternas Verdes, que funciona como uma força policial galáctica. Este evento é crucial para John Stewart, pois é assim que ele recebe o anel poderoso, capaz de criar objetos de luz verde.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Aaron Pierre on the set of ‘LANTERNS’.<br><br>(📸 Ed Stanton) <a href="https://t.co/kHIgNxbQ4e">pic.twitter.com/kHIgNxbQ4e</a></p>&mdash; DC Film News (@DCFilmNews) <a href="https://twitter.com/DCFilmNews/status/1907398139520188644?ref_src=twsrc%5Etfw">April 2, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 A série contará com um total de oito episódios e está sob a liderança de Damon Lindelof (conhecido por 'Lost' e 'Watchmen'), Chris Mundy ('Ozark') e Tom King, um renomado roteirista de quadrinhos da DC. Eles colaboraram no roteiro da série. Outros escritores envolvidos incluem Justin H. Britt-Gibson ('Counterpart'), Breannah Gibson ('Pinguim') e Vanessa Baden Kelly ('A Vida Sexual das Universitárias').
 
 Além de Aaron Pierre e Kyle Chandler, o elenco apresenta Kelly Macdonald ('Boardwalk Empire') e Ulrich Thomsen no papel do antagonista Sinestro. Ainda sem uma data exata de lançamento, a série 'Lanternas Verdes' tem previsão de estreia para meados de 2026 no HBO e Max.
 
 Este projeto marca a primeira série live-action original sob a nova liderança da DC Studios, dirigida por James Gunn e Peter Safran. Integrada no DCU, universo compartilhado que inclui também os novos filmes de 'Superman' e 'Supergirl', a série promete expandir ainda mais o universo cinematográfico da DC.
-
-Os comentários nas plataformas são moderados e devem respeitar os Termos e Condições de uso. Violações repetidas podem levar ao banimento do usuário. Para redefinir sua senha, insira o e-mail associado à sua conta no Omelete e siga as instruções enviadas.
