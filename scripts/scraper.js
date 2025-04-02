@@ -189,6 +189,7 @@ async function reescreverNoticia(titulo, resumo, texto) {
 Reescreva a seguinte notícia com ortografia e gramática corretas, em um tom jornalístico, direto e informativo.
 Mantenha todos os fatos e detalhes relevantes da matéria original, sem omitir informações importantes e sem parecer plagio. Utilize uma quantidade semelhante ou superior de palavras, garantindo no mínimo 500 palavras, e não resuma o conteúdo original.
 Se houver listas, cronogramas, tópicos organizados ou conteúdos segmentados, recrie-os com fidelidade e clareza.
+Não omita ou resuma seções. Mantenha o conteúdo o mais completo possível.
 Separe cada parágrafo com duas quebras de linha para garantir leitura adequada em Markdown.
 Evite parágrafos longos: limite cada bloco a 2 ou 3 frases para facilitar a leitura.
 

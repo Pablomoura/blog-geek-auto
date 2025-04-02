@@ -178,22 +178,39 @@ export default async function CategoriaPage(props: CategoriaPageProps) {
             <section className="mb-8">
               <div className="flex items-center justify-between mb-4 border-b pb-2">
                 <h2 className="text-sm uppercase tracking-widest font-semibold text-gray-600 dark:text-gray-300">
-                  Mais lidas
+                  Recomendados
                 </h2>
               </div>
               <div className="space-y-3">
-                {maisLidas.map((post, index) => (
+                
                   <Link
-                    key={index}
-                    href={`/noticia/${post.slug}`}
-                    className="flex items-start gap-4 bg-gray-100 dark:bg-gray-800 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
+                    href={`/noticia/como-jogar-rpg-de-mesa`}
+                    className="flex items-start gap-4 bg-orange-100 dark:bg-gray-800 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
                   >
-                    <span className="text-3xl font-light text-gray-400 dark:text-gray-500 w-6">{index + 1}</span>
-                    <p className="text-sm text-gray-900 dark:text-gray-200 leading-snug">
-                      {post.titulo}
+                    <span className="text-3xl font-light text-gray-400 dark:text-gray-500 w-6">4</span>
+                    <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-200 leading-snug">
+                    <b>Como Começar a Jogar RPG de Mesa:</b> Guia Passo a Passo para Iniciantes
                     </p>
                   </Link>
-                ))}
+                  <Link
+                    href={`/noticia/dicionario-geek-termos-nerds`}
+                    className="flex items-start gap-4 bg-orange-100 dark:bg-gray-800 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
+                  >
+                    <span className="text-3xl font-light text-gray-400 dark:text-gray-500 w-6">5</span>
+                    <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-200 leading-snug">
+                    <b>Dicionário Geek:</b> 50 Termos que Todo Nerd Precisa Conhecer
+                    </p>
+                  </Link>
+                  <Link
+                    href={`/noticia/historia-dos-videogames`}
+                    className="flex items-start gap-4 bg-orange-100 dark:bg-gray-800 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
+                  >
+                    <span className="text-3xl font-light text-gray-400 dark:text-gray-500 w-6">6</span>
+                    <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-200 leading-snug">
+                    <b>A História dos Videogames:</b> Da Era Atari à Geração Atual
+                    </p>
+                  </Link>
+                
               </div>
             </section>
 
