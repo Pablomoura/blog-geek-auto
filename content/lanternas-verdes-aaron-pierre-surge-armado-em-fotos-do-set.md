@@ -15,6 +15,7 @@ Intitulada 'Lanterns', a produção traz um John Stewart ainda jovem e um Hal Jo
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Aaron Pierre on the set of ‘LANTERNS’.<br><br>(📸 Ed Stanton) <a href="https://t.co/kHIgNxbQ4e">pic.twitter.com/kHIgNxbQ4e</a></p>&mdash; DC Film News (@DCFilmNews) <a href="https://twitter.com/DCFilmNews/status/1907398139520188644?ref_src=twsrc%5Etfw">April 2, 2025</a></blockquote>
 
+
 A série contará com um total de oito episódios e está sob a liderança de Damon Lindelof (conhecido por 'Lost' e 'Watchmen'), Chris Mundy ('Ozark') e Tom King, um renomado roteirista de quadrinhos da DC. Eles colaboraram no roteiro da série. Outros escritores envolvidos incluem Justin H. Britt-Gibson ('Counterpart'), Breannah Gibson ('Pinguim') e Vanessa Baden Kelly ('A Vida Sexual das Universitárias').
 
 Além de Aaron Pierre e Kyle Chandler, o elenco apresenta Kelly Macdonald ('Boardwalk Empire') e Ulrich Thomsen no papel do antagonista Sinestro. Ainda sem uma data exata de lançamento, a série 'Lanternas Verdes' tem previsão de estreia para meados de 2026 no HBO e Max.

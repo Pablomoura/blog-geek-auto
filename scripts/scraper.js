@@ -119,10 +119,10 @@ async function extrairConteudoNoticia(url) {
       return Array.from(document.querySelectorAll("div.media__wrapper__image img"))
         .map((img) => {
           let src = img.getAttribute("data-src") || img.getAttribute("src") || "";
-    
+
           if (src.startsWith("//")) src = "https:" + src;
           if (src && !src.startsWith("http")) src = "https:" + src;
-    
+
           return src;
         })
         .filter((src) =>
@@ -134,16 +134,15 @@ async function extrairConteudoNoticia(url) {
           !src.includes("omelete_logo.svg") &&
           !src.includes("icons/search") &&
           !src.includes("navdmp.com") &&
-          /\.(jpg|jpeg|png|webp)$/i.test(src) // só formatos de imagem válidos
+          /\.(jpg|jpeg|png|webp)$/i.test(src)
         );
     });
-    
 
     const tweets = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("iframe[data-tweet-id]"))
         .map((iframe) => {
           const tweetId = iframe.getAttribute("data-tweet-id");
-          return tweetId ? `\n<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/${tweetId}"></a></blockquote>\n` : null;
+          return tweetId ? `<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/${tweetId}"></a></blockquote>` : null;
         })
         .filter(Boolean);
     });
