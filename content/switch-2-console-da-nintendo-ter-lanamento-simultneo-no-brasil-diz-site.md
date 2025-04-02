@@ -9,4 +9,8 @@ keywords: "Nintendo Switch 2, lançamento simultâneo, Nintendo Brasil"
 data: "2025-04-01T21:09:56.826Z"
 ---
 
-Segundo informações apuradas pelo site Combo Infinito, o aguardado Nintendo Switch 2 será lançado no Brasil simultaneamente com os Estados Unidos. A previsão inicial apontava junho como mês de lançamento, mas avanços significativos no planejamento podem antecipar a data para o final de abril ou início de maio. Ainda de acordo com vazamentos internacionais, a estreia do Switch 2 está programada para junho. Contudo, Pedro Henrique Lutti Lippe, conhecido youtuber e fonte confiável sobre assuntos relacionados à Nintendo, confirmou as expectativas de um lançamento no início de maio, mencionando que as estratégias de marketing e distribuição indicam essa possibilidade.Resta agora aguardar a confirmação oficial por parte da Nintendo Brasil, que poderá ocorrer após a transmissão anunciada para esta quarta-feira.
+Segundo informações apuradas pelo site Combo Infinito, o aguardado Nintendo Switch 2 será lançado no Brasil simultaneamente com os Estados Unidos. A previsão inicial apontava junho como mês de lançamento, mas avanços significativos no planejamento podem antecipar a data para o final de abril ou início de maio. 
+
+Ainda de acordo com vazamentos internacionais, a estreia do Switch 2 está programada para junho. Contudo, Pedro Henrique Lutti Lippe, conhecido youtuber e fonte confiável sobre assuntos relacionados à Nintendo, confirmou as expectativas de um lançamento no início de maio, mencionando que as estratégias de marketing e distribuição indicam essa possibilidade.
+
+Resta agora aguardar a confirmação oficial por parte da Nintendo Brasil, que poderá ocorrer após a transmissão anunciada para esta quarta-feira.

@@ -16,5 +16,3 @@ Entre os destaques estão a Caneca Buck Rainha Má e Branca de Neve, disponível
 O filme é inspirado no conto dos Irmãos Grimm e representa o primeiro projeto em live-action da Disney para essa narrativa clássica, prometendo uma adaptação fiel à sua versão animada original de 1938, que foi o primeiro longa de animação do estúdio e um marco na história do cinema.
 
 A nova produção conta com Rachel Zegler, conhecida por seu trabalho em Shazam! Fúria dos Deuses e Amor, Sublime Amor, no papel principal, e Gal Gadot, famosa por seu papel como Mulher-Maravilha, como a Rainha Má. A direção está a cargo de Marc Webb, conhecido por O Espetacular Homem-Aranha, e a música fica por conta de Benj Pasek e Justin Paul, a dupla criativa por trás de sucessos como La La Land e O Rei do Show.
-
-Lembramos que os comentários neste site são moderados e devem aderir aos nossos Termos e Condições de uso. Comentários que não seguirem estas diretrizes serão removidos, e violações repetidas podem levar ao banimento da conta. Para redefinir sua senha, insira o e-mail associado à sua conta no Omelete e siga as instruções enviadas para o seu e-mail.

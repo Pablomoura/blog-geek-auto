@@ -18,5 +18,3 @@ O programa, que é exibido diariamente pela TV Globo e pelo Multishow após a tr
 Nesta edição, há uma novidade na direção. Boninho, que dirigiu o programa desde seu início, passou o bastão para Rodrigo Dourado, envolvido com o BBB desde a primeira edição em 2002 e com experiência em outros programas da emissora, como 'No Limite' e 'Estrela da Casa', lançado em 2024.
 
 O sistema de votação do programa também foi atualizado. Continua a opção do 'Voto da Torcida', permitindo votos ilimitados, e foi adicionada a possibilidade de votar utilizando o CPF, limitando a um voto por enquete. A decisão do paredão é feita por uma média ponderada, considerando 50% de cada sistema de votação.
-
-É importante ressaltar que os comentários nas plataformas do programa são moderados e devem aderir aos Termos e Condições de uso. Infrações podem levar à exclusão de comentários ou mesmo ao banimento de usuários das plataformas interativas do reality show.

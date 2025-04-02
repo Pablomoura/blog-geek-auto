@@ -20,5 +20,3 @@ O primeiro trailer revelado pela Nintendo mostra personagens clássicos como Mar
 Além das inovações na jogabilidade, 'Mario Kart World' apresenta melhorias gráficas significativas. Os personagens poderão adotar novas formas ou vestimentas através de power-ups coletados durante as corridas, um recurso inédito na série até então.
 
 O anúncio do Nintendo Switch 2 ocorreu há alguns meses, mas foi apenas durante o evento online Nintendo Direct que os detalhes sobre o lançamento foram divulgados. A expectativa é que essa nova plataforma e seu título exclusivo tragam uma experiência renovada e ampliada aos fãs da série Mario Kart e aos entusiastas de jogos de corrida em geral.
-
-Como sempre, a Nintendo enfatiza que todos os comentários são moderados de acordo com os Termos e Condições de uso. Violações repetidas podem levar ao banimento da conta do usuário. Além disso, o processo para redefinir a senha e verificar o e-mail associado à conta é facilitado pelo envio de um código para o e-mail cadastrado.

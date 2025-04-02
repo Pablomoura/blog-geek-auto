@@ -18,5 +18,3 @@ O lançamento do aparelho foi acompanhado de um trailer lançado na última quin
 Quanto às especificações internas, a Nintendo não divulgou muitos detalhes. Contudo, rumores indicam que o dispositivo será equipado com um chip da Nvidia e terá 12GB de memória RAM DDRX. Esta configuração sugere que o desempenho do Switch 2 poderá ser comparável ao do PlayStation 4 e PlayStation 4 Pro.
 
 Um dos pontos altos do anúncio foi a confirmação da retrocompatibilidade. O Switch 2 poderá rodar os jogos do Switch original, garantindo que os usuários possam continuar desfrutando de sua biblioteca de jogos. Além disso, a plataforma Nintendo Switch Online continuará a ser suportada, assegurando acesso contínuo aos serviços online.
-
-A comunidade online da Nintendo, sempre ativa, terá seus comentários moderados rigorosamente para garantir a conformidade com os Termos e Condições de uso. Violações reiteradas dessas regras poderão resultar no banimento da conta do usuário infrator..

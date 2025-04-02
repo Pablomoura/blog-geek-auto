@@ -16,5 +16,3 @@ Descrições do teaser indicam que 'Dynamic Duo' apresenta um estilo de animaç�
 Até o momento, um trailer completo de 'Dynamic Duo' ainda não foi anunciado. Continuem acompanhando o Omelete para futuras atualizações sobre este aguardado lançamento.
 
 A estreia de 'Dynamic Duo' está marcada para 30 de junho de 2028 nos cinemas. Preparativos e expectativas já começam a se formar em torno deste lançamento que promete ser um marco no universo de animações da DC.
-
-Lembre-se que os comentários no site são moderados e devem aderir aos Termos e Condições de uso do Omelete. Violações repetidas podem levar ao banimento da conta. Para resetar sua senha ou verificar seu e-mail, siga as instruções enviadas para seu e-mail cadastrado no site.
