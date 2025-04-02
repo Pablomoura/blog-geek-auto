@@ -8,4 +8,10 @@ thumb: "https://cdn.ome.lt/PJkJujKqQQUZPeP7IvcHvNCHVoY=/480x360/smart/extras/con
 data: "2025-03-27T23:09:40.959Z"
 ---
 
-A série Neuromancer, que será exibida na AppleTV+, acaba de ganhar reforços no seu elenco. Segundo o Deadline, Max Irons, André De Shields e Marc Menchaca foram confirmados para integrar a produção.\n\nEles se juntam a outros atores recentemente anunciados, como Peter Sarsgaard. Na série, Irons interpretará Jean Tessier-Ashpool, De Shields será Julius Deane, e Menchaca dará vida a The Dixie Flatline.\n\nO elenco já conta com nomes como Clémence Poésy, Callum Turner e Briana Middleton. A trama segue Case (Turner), um hacker de elite que, ao lado de Molly (Middleton), se envolve em uma complexa missão de espionagem digital e crimes corporativos.\n\nA adaptação é um projeto da Skydance, conhecida por produzir a série Missão: Impossível, com Drake como produtor e Graham Roland como showrunner. JD Dillard dirigirá o episódio piloto. A primeira temporada de Neuromancer terá 10 episódios, porém ainda não foram divulgadas mais informações sobre o elenco completo ou a data de estreia.
+A série Neuromancer, que será exibida na AppleTV+, acaba de ganhar reforços no seu elenco. Segundo o Deadline, Max Irons, André De Shields e Marc Menchaca foram confirmados para integrar a produção.
+
+Eles se juntam a outros atores recentemente anunciados, como Peter Sarsgaard. Na série, Irons interpretará Jean Tessier-Ashpool, De Shields será Julius Deane, e Menchaca dará vida a The Dixie Flatline.
+
+O elenco já conta com nomes como Clémence Poésy, Callum Turner e Briana Middleton. A trama segue Case (Turner), um hacker de elite que, ao lado de Molly (Middleton), se envolve em uma complexa missão de espionagem digital e crimes corporativos.
+
+A adaptação é um projeto da Skydance, conhecida por produzir a série Missão: Impossível, com Drake como produtor e Graham Roland como showrunner. JD Dillard dirigirá o episódio piloto. A primeira temporada de Neuromancer terá 10 episódios, porém ainda não foram divulgadas mais informações sobre o elenco completo ou a data de estreia.

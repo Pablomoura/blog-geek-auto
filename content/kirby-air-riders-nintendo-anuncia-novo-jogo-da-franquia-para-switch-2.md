@@ -17,4 +17,4 @@ Além do novo jogo, a Nintendo introduziu uma funcionalidade importante no Switc
 
 Outra novidade é que a Nintendo confirmou que jogos clássicos do GameCube, como The Legend of Zelda: Wind Waker e SoulCalibur II, serão disponibilizados através do Nintendo Switch Online.
 
-O lançamento do Nintendo Switch 2 está programado para o dia 5 de junho. Até o momento, o preço do console no lançamento ainda não foi divulgado. Continue acompanhando o Omelete para mais atualizações e novidades.
+O lançamento do Nintendo Switch 2 está programado para o dia 5 de junho. Até o momento, o preço do console no lançamento ainda não foi divulgado.

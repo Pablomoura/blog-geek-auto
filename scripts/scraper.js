@@ -192,7 +192,7 @@ Se houver listas, cronogramas, tópicos organizados ou conteúdos segmentados, r
 Não omita ou resuma seções. Mantenha o conteúdo o mais completo possível.
 Separe cada parágrafo com duas quebras de linha para garantir leitura adequada em Markdown.
 Evite parágrafos longos: limite cada bloco a 2 ou 3 frases para facilitar a leitura.
-Importante: não reescreva o paragrafo sobre os comentários do site ou recuperação de acesso a conta no Omelete.
+Importante: não reescreva o paragrafo sobre os comentários do site ou recuperação de acesso a conta no Omelete. Evite também comentários sobre o site Omelente ou convidar o usuário a acompanhar ou acessar o Omelete
 
 Título:
 ${titulo}

@@ -14,5 +14,3 @@ No evento Direct deste ano, a Nintendo revelou que o seu próximo console, o Swi
 Além disso, a Nintendo apresentou um novo controle para o Switch 2, desenhado à semelhança do controle original do GameCube, visando oferecer uma experiência mais autêntica para os jogos clássicos. Outros títulos e funcionalidades serão anunciados futuramente.
 
 Outro destaque do novo console é a introdução do Game Chat, um sistema que permite aos usuários realizar chamadas de áudio e vídeo enquanto jogam. Para usar o recurso de vídeo, os jogadores precisarão adquirir uma câmera, vendida separadamente, que também será lançada junto com o console.
-
-A Nintendo ressalta que os comentários nas plataformas são moderados e que infrações aos Termos e Condições de uso podem levar à exclusão dos comentários ou até ao banimento da conta do usuário. Ademais, para redefinir a senha, os usuários deverão inserir o e-mail associado à sua conta no site da Nintendo, e um link de redefinição será enviado. Para a verificação de e-mail, um código será enviado ao e-mail registrado.

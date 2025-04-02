@@ -18,5 +18,3 @@ O primeiro trailer do jogo apresentou uma mistura de personagens clássicos e no
 O Nintendo Switch 2 chegará ao mercado global em 5 de junho, com um preço estabelecido de US$ 450. Entre as novidades do console estão um Joy-Con que se conecta magneticamente, um novo botão C para acesso ao GameChat, um serviço de chat com suporte a voz e vídeo, uma tela maior, armazenamento de 256GB e suporte a gráficos em 4K com HDR. O console ainda inclui duas portas USB-C e uma função que permite usar os controles como um mouse.
 
 Além de Mario Kart World, a Nintendo confirmou vários outros títulos para o Switch 2, incluindo The Duskbloods, Hades 2, Donkey Kong Bananza, Drag and Drive, Kirby Air Riders, The Legend of Zelda: Tears of the Kingdom, Cyberpunk 2077, Final Fantasy Remake Intergrade, Pokémon Legends Z-A, Metroid Prime 4 e Borderlands 4. Jogos do Switch original também receberão upgrades visuais que serão vendidos separadamente.
-
-Os comentários em plataformas de discussão sobre esses lançamentos serão moderados, e violações repetidas às diretrizes de uso resultarão em banimento da conta do usuário.

@@ -19,6 +19,4 @@ Quanto às especificações internas, a Nintendo não divulgou muitos detalhes. 
 
 Um dos pontos altos do anúncio foi a confirmação da retrocompatibilidade. O Switch 2 poderá rodar os jogos do Switch original, garantindo que os usuários possam continuar desfrutando de sua biblioteca de jogos. Além disso, a plataforma Nintendo Switch Online continuará a ser suportada, assegurando acesso contínuo aos serviços online.
 
-A comunidade online da Nintendo, sempre ativa, terá seus comentários moderados rigorosamente para garantir a conformidade com os Termos e Condições de uso. Violações reiteradas dessas regras poderão resultar no banimento da conta do usuário infrator.
-
-Para mais informações ou para recuperar o acesso à sua conta, os usuários serão instruídos a seguir os procedimentos de segurança, incluindo a verificação de e-mail e a redefinição de senha através de links seguros enviados pela Nintendo.
+A comunidade online da Nintendo, sempre ativa, terá seus comentários moderados rigorosamente para garantir a conformidade com os Termos e Condições de uso. Violações reiteradas dessas regras poderão resultar no banimento da conta do usuário infrator..
