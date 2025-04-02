@@ -274,28 +274,28 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
                 
                   <Link
                     href={`/noticia/como-jogar-rpg-de-mesa`}
-                    className="flex items-start gap-4 bg-orange-100 dark:bg-gray-800 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
+                    className="flex items-start gap-4 bg-orange-100 dark:bg-orange-200 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
                   >
-                    <span className="text-3xl font-light text-gray-400 dark:text-gray-500 w-6">4</span>
-                    <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-200 leading-snug">
+                    <span className="text-3xl font-light text-gray-400 dark:text-gray-800 w-6">4</span>
+                    <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-800 hover:dark:text-gray-200 leading-snug">
                     <b>Como Começar a Jogar RPG de Mesa:</b> Guia Passo a Passo para Iniciantes
                     </p>
                   </Link>
                   <Link
                     href={`/noticia/dicionario-geek-termos-nerds`}
-                    className="flex items-start gap-4 bg-orange-100 dark:bg-gray-800 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
+                    className="flex items-start gap-4 bg-orange-100 dark:bg-orange-300 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
                   >
-                    <span className="text-3xl font-light text-gray-400 dark:text-gray-500 w-6">5</span>
-                    <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-200 leading-snug">
+                    <span className="text-3xl font-light text-gray-400 dark:text-gray-800 w-6">5</span>
+                    <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-800 hover:dark:text-gray-200 leading-snug">
                     <b>Dicionário Geek:</b> 50 Termos que Todo Nerd Precisa Conhecer
                     </p>
                   </Link>
                   <Link
                     href={`/noticia/historia-dos-videogames`}
-                    className="flex items-start gap-4 bg-orange-100 dark:bg-gray-800 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
+                    className="flex items-start gap-4 bg-orange-100 dark:bg-orange-400 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
                   >
-                    <span className="text-3xl font-light text-gray-400 dark:text-gray-500 w-6">6</span>
-                    <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-200 leading-snug">
+                    <span className="text-3xl font-light text-gray-400 dark:text-gray-800 w-6">6</span>
+                    <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-800 hover:dark:text-gray-200 leading-snug">
                     <b>A História dos Videogames:</b> Da Era Atari à Geração Atual
                     </p>
                   </Link>
