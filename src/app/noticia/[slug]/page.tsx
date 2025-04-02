@@ -230,6 +230,11 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   })();
                 `}
               </Script>
+              <Script
+                  id="twitter-widgets"
+                  strategy="afterInteractive"
+                  src="https://platform.twitter.com/widgets.js"
+                />
               <noscript>
                 Por favor, habilite o JavaScript para visualizar os{" "}
                 <a href="https://disqus.com/?ref_noscript">comentários fornecidos pelo Disqus</a>.

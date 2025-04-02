@@ -13,7 +13,7 @@ Foram divulgadas novas imagens do set da série 'Lanternas Verdes', revelando Aa
 
 Intitulada 'Lanterns', a produção traz um John Stewart ainda jovem e um Hal Jordan experiente, interpretado por Kyle Chandler. Os personagens se encontram imersos em um profundo mistério terrestre enquanto investigam um assassinato nos Estados Unidos. A vítima especulada é um membro da Tropa dos Lanternas Verdes, que funciona como uma força policial galáctica. Este evento é crucial para John Stewart, pois é assim que ele recebe o anel poderoso, capaz de criar objetos de luz verde.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Aaron Pierre on the set of ‘LANTERNS’.<br><br>(📸 Ed Stanton) <a href="https://t.co/kHIgNxbQ4e">pic.twitter.com/kHIgNxbQ4e</a></p>&mdash; DC Film News (@DCFilmNews) <a href="https://twitter.com/DCFilmNews/status/1907398139520188644?ref_src=twsrc%5Etfw">April 2, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Aaron Pierre on the set of ‘LANTERNS’.<br><br>(📸 Ed Stanton) <a href="https://t.co/kHIgNxbQ4e">pic.twitter.com/kHIgNxbQ4e</a></p>&mdash; DC Film News (@DCFilmNews) <a href="https://twitter.com/DCFilmNews/status/1907398139520188644?ref_src=twsrc%5Etfw">April 2, 2025</a></blockquote>
 
 A série contará com um total de oito episódios e está sob a liderança de Damon Lindelof (conhecido por 'Lost' e 'Watchmen'), Chris Mundy ('Ozark') e Tom King, um renomado roteirista de quadrinhos da DC. Eles colaboraram no roteiro da série. Outros escritores envolvidos incluem Justin H. Britt-Gibson ('Counterpart'), Breannah Gibson ('Pinguim') e Vanessa Baden Kelly ('A Vida Sexual das Universitárias').
 
