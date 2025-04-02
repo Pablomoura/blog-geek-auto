@@ -91,10 +91,11 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     const { data, content } = matter(file);
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
 
-    const htmlConvertido = await marked.parse(content);
+    const textoComImagensETweets = await inserirLinksRelacionados(content, slug);
+    const htmlConvertido = await marked.parse(textoComImagensETweets);
     const htmlComLinks = await aplicarLinksInternosInteligente(htmlConvertido, slug);
-    const htmlComRelacionados = await inserirLinksRelacionados(htmlComLinks, slug);
-    const htmlContent = DOMPurify.sanitize(htmlComRelacionados);
+    const htmlContent = DOMPurify.sanitize(htmlComLinks);
+
 
     const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
     const relacionados = [];

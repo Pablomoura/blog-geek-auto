@@ -273,6 +273,10 @@ Responda em JSON neste formato:
     let reescrito;
     try {
       reescrito = JSON.parse(raw);
+
+      // Corrigir quebras escapadas
+      reescrito.texto = reescrito.texto.replace(/\\n/g, "\n");
+      reescrito.texto = reescrito.texto.replace(/(?<!\n)\n(?!\n)/g, "\n\n");
     } catch (err) {
       console.error("❌ Erro ao fazer JSON.parse:", err.message);
       console.log("🧪 Conteúdo recebido:\n", raw);
