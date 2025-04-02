@@ -1,12 +1,25 @@
 ---
-title: "Como Treinar o Seu Dragão: Revelado Pôster de Banguela em Live-Action na CinemaCon 2025"
-slug: "como-treinar-o-seu-drago-mostra-banguela-live-action-em-pster-da-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/XY5NnAW6ODA5niKOKm8Kq9wDCg4=/987x0/smart/uploads/conteudo/fotos/imagem_2025-03-31_093859374.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7p043TBJFUlqcimemqsy_-KcG8Y=/480x360/smart/extras/conteudos/imagem_2025-03-31_093851442.png"
-keywords: "Como Treinar o Seu Dragão, CinemaCon 2025, Banguela live-action, filme live-action, Universal Studios"
-data: "2025-03-31T13:22:48.644Z"
+title: >-
+  Como Treinar o Seu Dragão: Revelado Pôster de Banguela em Live-Action na
+  CinemaCon 2025
+slug: como-treinar-o-seu-drago-mostra-banguela-live-action-em-pster-da-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/XY5NnAW6ODA5niKOKm8Kq9wDCg4=/987x0/smart/uploads/conteudo/fotos/imagem_2025-03-31_093859374.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7p043TBJFUlqcimemqsy_-KcG8Y=/480x360/smart/extras/conteudos/imagem_2025-03-31_093851442.png
+keywords: >-
+  Como Treinar o Seu Dragão, CinemaCon 2025, Banguela live-action, filme
+  live-action, Universal Studios
+data: '2025-03-31T13:22:48.644Z'
+tags:
+  - como treinar o seu dragão
+  - banguela
+  - live-action
+  - cinemacon 2025
+  - universal studios
+  - pôster
 ---
 
 Durante a CinemaCon 2025, a Universal Studios apresentará uma das atrações mais esperadas: o filme live-action de Como Treinar o Seu Dragão, que será exibido na íntegra antes do painel do estúdio em 2 de abril. Um novo pôster foi revelado, destacando o icônico dragão Banguela em sua versão live-action.

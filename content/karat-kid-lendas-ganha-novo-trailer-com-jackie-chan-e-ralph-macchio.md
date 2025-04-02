@@ -1,12 +1,23 @@
 ---
-title: "Novo Trailer de 'Karate Kid: Lendas' Apresenta Jackie Chan e Ralph Macchio em Ação"
-slug: "karat-kid-lendas-ganha-novo-trailer-com-jackie-chan-e-ralph-macchio"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/xuWsNm13DSwsjhs6rrzO8r2AtKo=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-17T214008.200.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/xuWsNm13DSwsjhs6rrzO8r2AtKo=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-17T214008.200.png"
-keywords: "Karate Kid, Jackie Chan, Ralph Macchio, CinemaCon 2025, trailer"
-data: "2025-04-01T03:38:30.291Z"
+title: >-
+  Novo Trailer de 'Karate Kid: Lendas' Apresenta Jackie Chan e Ralph Macchio em
+  Ação
+slug: karat-kid-lendas-ganha-novo-trailer-com-jackie-chan-e-ralph-macchio
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/xuWsNm13DSwsjhs6rrzO8r2AtKo=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-17T214008.200.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/xuWsNm13DSwsjhs6rrzO8r2AtKo=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-17T214008.200.png
+keywords: 'Karate Kid, Jackie Chan, Ralph Macchio, CinemaCon 2025, trailer'
+data: '2025-04-01T03:38:30.291Z'
+tags:
+  - 'karate kid: lendas'
+  - jackie chan
+  - ralph macchio
+  - trailer
+  - cinemacon 2025
+  - sony
 ---
 
 O aguardado filme 'Karate Kid: Lendas' teve seu novo trailer divulgado durante a CinemaCon 2025, no painel da Sony. A prévia, que será lançada online na próxima terça-feira, 1º de abril, oferece um vislumbre mais detalhado da trama e da química entre Jackie Chan e Ralph Macchio, figuras centrais da produção.

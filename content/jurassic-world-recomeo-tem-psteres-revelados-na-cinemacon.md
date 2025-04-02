@@ -7,6 +7,12 @@ tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/UdZcIbmvrZ5OEnb6oacjbTMch6I=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-02T184702.122.png"
 keywords: "CinemaCon, Jurassic World Recomeço, Scarlett Johansson, Jonathan Bailey, pôsteres"
 data: "2025-04-02T22:09:41.834Z"
+tags:
+  - CinemaCon
+  - Jurassic World Recomeço
+  - Scarlett Johansson
+  - Jonathan Bailey
+  - pôsteres
 ---
 
 A CinemaCon 2025 foi palco para a revelação dos novos pôsteres do filme 'Jurassic World: Recomeço', que chamaram atenção pelo destaque dado a Scarlett Johansson e Jonathan Bailey. Cada um dos atores aparece em confronto com diferentes espécies de dinossauros nas artes divulgadas.

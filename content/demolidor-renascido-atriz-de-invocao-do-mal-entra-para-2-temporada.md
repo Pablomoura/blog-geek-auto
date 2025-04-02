@@ -1,11 +1,20 @@
 ---
-title: "Demolidor: Renascido | Lili Taylor Junta-se ao Elenco da 2ª Temporada"
-slug: "demolidor-renascido-atriz-de-invocao-do-mal-entra-para-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/BOA8LIeZjd9pUrR1BWtfZHua0dw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T180449.807.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fVWURScAR63nmanBW6UIwlqoDmU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T180449.807.png"
-data: "2025-03-27T22:09:13.527Z"
+title: 'Demolidor: Renascido | Lili Taylor Junta-se ao Elenco da 2ª Temporada'
+slug: demolidor-renascido-atriz-de-invocao-do-mal-entra-para-2-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/BOA8LIeZjd9pUrR1BWtfZHua0dw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T180449.807.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fVWURScAR63nmanBW6UIwlqoDmU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T180449.807.png
+data: '2025-03-27T22:09:13.527Z'
+tags:
+  - 'demolidor: renascido'
+  - lili taylor
+  - disney+
+  - segunda temporada
+  - wilson fisk
+  - série de super-heróis
 ---
 
 A Disney+ confirmou a adição de Lili Taylor ao elenco da segunda temporada da série 'Demolidor: Renascido', que já está em produção em Nova York. Segundo informações do Deadline, Taylor assumirá um papel significativo como oponente política de Wilson Fisk, interpretado por Vincent D'Onofrio, embora detalhes específicos sobre sua personagem ainda sejam escassos.

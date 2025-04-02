@@ -1,11 +1,20 @@
 ---
-title: "Vingadores: Doomsday | Kelsey Grammer retorna ao universo Marvel"
-slug: "vingadores-doomsday-filme-ter-retorno-de-x-man-clssico-no-elenco"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/mDqYCOcsWW9a5uokE62u03EvI-U=/987x0/smart/uploads/conteudo/fotos/02_zXY7Ah4.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fcarPZCePxqqL-91lF9faqvbmMA=/480x360/smart/extras/conteudos/01_7GsxFrJ.jpg"
-data: "2025-03-26T17:29:59.761Z"
+title: 'Vingadores: Doomsday | Kelsey Grammer retorna ao universo Marvel'
+slug: vingadores-doomsday-filme-ter-retorno-de-x-man-clssico-no-elenco
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/mDqYCOcsWW9a5uokE62u03EvI-U=/987x0/smart/uploads/conteudo/fotos/02_zXY7Ah4.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fcarPZCePxqqL-91lF9faqvbmMA=/480x360/smart/extras/conteudos/01_7GsxFrJ.jpg
+data: '2025-03-26T17:29:59.761Z'
+tags:
+  - 'vingadores: doomsday'
+  - kelsey grammer
+  - marvel studios
+  - fera
+  - x-men
+  - retorno
 ---
 
 Durante uma recente transmissão ao vivo no YouTube, a Marvel Studios anunciou a lista de atores para o filme 'Vingadores: Doomsday'. Destacou-se o retorno de Kelsey Grammer, famoso por interpretar o personagem Fera nos filmes anteriores da franquia X-Men, ainda sob a bandeira da Fox. Grammer já havia reprisado brevemente seu papel no universo cinematográfico da Marvel, aparecendo na cena pós-créditos de 'As Marvels'.

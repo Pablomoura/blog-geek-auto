@@ -1,11 +1,22 @@
 ---
-title: "Resident Evil | Mikey Madison é Escolhida pela Sony para o Reboot do Filme, Segundo Site"
-slug: "resident-evil-mikey-madison-desejo-da-sony-para-filme-diz-site"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/1g_2YCkJOi8GZicVnCrYTeHRMlA=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T205716.997.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/LS_-NPrdz8xHb_seBXIzSsafEfc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T205716.997.png"
-data: "2025-03-28T00:41:49.264Z"
+title: >-
+  Resident Evil | Mikey Madison é Escolhida pela Sony para o Reboot do Filme,
+  Segundo Site
+slug: resident-evil-mikey-madison-desejo-da-sony-para-filme-diz-site
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/1g_2YCkJOi8GZicVnCrYTeHRMlA=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T205716.997.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/LS_-NPrdz8xHb_seBXIzSsafEfc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T205716.997.png
+data: '2025-03-28T00:41:49.264Z'
+tags:
+  - resident evil
+  - mikey madison
+  - reboot
+  - sony
+  - cinema
+  - casting
 ---
 
 De acordo com o portal World of Reel, Mikey Madison, conhecida por seu papel em 'Anora', foi escolhida para liderar o elenco no reboot de 'Resident Evil', sob a direção de Zach Cregger, famoso por 'Noites Brutais'.

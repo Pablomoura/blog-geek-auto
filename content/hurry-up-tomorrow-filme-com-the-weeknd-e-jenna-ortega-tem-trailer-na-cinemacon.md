@@ -1,12 +1,23 @@
 ---
-title: "CinemaCon Apresenta Novo Trailer de 'Hurry Up Tomorrow' com The Weeknd e Jenna Ortega"
-slug: "hurry-up-tomorrow-filme-com-the-weeknd-e-jenna-ortega-tem-trailer-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/aTZpNjIOKrm0ehxDXL5HmSkdzE4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-19T134932.057.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/aTZpNjIOKrm0ehxDXL5HmSkdzE4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-19T134932.057.png"
-keywords: "Hurry Up Tomorrow, The Weeknd, Jenna Ortega, CinemaCon, trailer filme"
-data: "2025-04-01T19:09:31.634Z"
+title: >-
+  CinemaCon Apresenta Novo Trailer de 'Hurry Up Tomorrow' com The Weeknd e Jenna
+  Ortega
+slug: hurry-up-tomorrow-filme-com-the-weeknd-e-jenna-ortega-tem-trailer-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/aTZpNjIOKrm0ehxDXL5HmSkdzE4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-19T134932.057.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/aTZpNjIOKrm0ehxDXL5HmSkdzE4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-19T134932.057.png
+keywords: 'Hurry Up Tomorrow, The Weeknd, Jenna Ortega, CinemaCon, trailer filme'
+data: '2025-04-01T19:09:31.634Z'
+tags:
+  - cinemacon
+  - hurry up tomorrow
+  - the weeknd
+  - jenna ortega
+  - trailer
+  - filme
 ---
 
 A CinemaCon foi palco para a estreia do novo trailer de 'Hurry Up Tomorrow', filme que traz no elenco The Weeknd e Jenna Ortega. O trailer, ainda não lançado online, foi detalhado pelo site Omelete, que esteve presente no evento.

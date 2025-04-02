@@ -7,6 +7,13 @@ tipoMidia: video
 thumb: >-
   https://cdn.ome.lt/OvjAgXAIGBOZBFnNplTU8bMPjfA=/480x360/smart/extras/conteudos/01_tKBzO7x.jpg
 data: '2025-03-26T11:27:49.642Z'
+tags:
+  - one piece
+  - egghead
+  - toei animation
+  - anime
+  - trailer
+  - retorno
 ---
 
 A Toei Animation lançou o primeiro trailer do retorno do anime One Piece, marcado para 12 de abril no Japão. O vídeo destaca a continuação do arco Egghead, prometendo emocionantes desenvolvimentos na trama.

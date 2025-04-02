@@ -1,11 +1,20 @@
 ---
-title: "BBB 25 | Confira os Votos do 11º Paredão do Reality"
-slug: "bbb-25-quem-votou-em-quem-no-11-paredo-da-edio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/-9bc0Ow_rf_vOa340GPmZ0BpJIs=/987x0/smart/uploads/conteudo/fotos/bbb25-quem-votou-quem-11-paredao.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/HZm1XIIIwH_UtOmpW3_B6pHzE4I=/480x360/smart/extras/conteudos/bbb25-quem-votou-quem-11-paredao-peq.jpg"
-data: "2025-03-29T02:16:58.244Z"
+title: BBB 25 | Confira os Votos do 11º Paredão do Reality
+slug: bbb-25-quem-votou-em-quem-no-11-paredo-da-edio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/-9bc0Ow_rf_vOa340GPmZ0BpJIs=/987x0/smart/uploads/conteudo/fotos/bbb25-quem-votou-quem-11-paredao.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/HZm1XIIIwH_UtOmpW3_B6pHzE4I=/480x360/smart/extras/conteudos/bbb25-quem-votou-quem-11-paredao-peq.jpg
+data: '2025-03-29T02:16:58.244Z'
+tags:
+  - bbb 25
+  - paredão
+  - tadeu schmidt
+  - prova do líder
+  - vinícius
+  - maike
 ---
 
 O 11º paredão do BBB 25 foi definido na noite de sexta-feira, 28 de abril. Sob a condução de Tadeu Schmidt, os participantes participaram da formação da berlinda, que já contava com Vinícius devido ao resultado da Prova do Líder. O líder da semana, Maike, escolheu Delma para enfrentar o paredão, enquanto Eva foi a mais votada pela casa. Confira como foram os votos:

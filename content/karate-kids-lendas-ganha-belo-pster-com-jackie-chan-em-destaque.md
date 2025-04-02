@@ -1,12 +1,22 @@
 ---
-title: "Karate Kid: Lendas Estreia com Jackie Chan em Destaque no Novo Pôster"
-slug: "karate-kids-lendas-ganha-belo-pster-com-jackie-chan-em-destaque"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/7NRo7HzaeG8ObJlAHdjjzw1T5GY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T134403.187.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/HJQL6dVI5Xge5O6q43bZVykzKFY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T134343.901.png"
-keywords: "Karate Kid: Lendas, Jackie Chan, CinemaCon 2025, estreia de filme, pôster de filme"
-data: "2025-03-31T17:10:01.615Z"
+title: 'Karate Kid: Lendas Estreia com Jackie Chan em Destaque no Novo Pôster'
+slug: karate-kids-lendas-ganha-belo-pster-com-jackie-chan-em-destaque
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/7NRo7HzaeG8ObJlAHdjjzw1T5GY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T134403.187.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/HJQL6dVI5Xge5O6q43bZVykzKFY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T134343.901.png
+keywords: >-
+  Karate Kid: Lendas, Jackie Chan, CinemaCon 2025, estreia de filme, pôster de
+  filme
+data: '2025-03-31T17:10:01.615Z'
+tags:
+  - karate kid
+  - jackie chan
+  - kung-fu
+  - cinemacon 2025
+  - filme de artes marciais
 ---
 
 O mais recente pôster de 'Karate Kid: Lendas' traz em destaque o mestre de Kung-fu interpretado pelo icônico Jackie Chan. A arte promocional foi revelada e já está gerando grande expectativa entre os fãs.

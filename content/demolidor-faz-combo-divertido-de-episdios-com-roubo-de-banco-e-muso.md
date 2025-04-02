@@ -10,6 +10,12 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/AuT4hTHyUOqEK0KCWzK0CF30aWs=/480x360/smart/extras/conteudos/demolidor-ep_5.jpg
 data: '2025-03-26T11:27:49.641Z'
+tags:
+  - 'demolidor: renascido'
+  - roubo de banco
+  - aparições especiais
+  - série de tv
+  - marvel
 ---
 
 Os episódios cinco e seis de 'Demolidor: Renascido' foram lançados simultaneamente, antecipando o final da temporada para acomodar o retorno da série 'Andor'. Essa estratégia de lançamento não apenas beneficia o ritmo da série, mas também permite que o episódio cinco, que poderia ser visto como um 'filler', seja apreciado como um exercício de gênero bem-sucedido. Já o episódio seis avança significativamente a trama, equilibrando a narrativa.

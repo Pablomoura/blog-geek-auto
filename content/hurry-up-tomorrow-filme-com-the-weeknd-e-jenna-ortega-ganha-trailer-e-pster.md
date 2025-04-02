@@ -1,11 +1,19 @@
 ---
-title: "Hurry Up Tomorrow: Filme com The Weeknd e Jenna Ortega Revela Trailer e Pôster"
-slug: "hurry-up-tomorrow-filme-com-the-weeknd-e-jenna-ortega-ganha-trailer-e-pster"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/nsi2U1fH7Is?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/xFUrubuB0yZIaFHPd3Ljd67pvOU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T132306.817.png"
-data: "2025-03-26T17:37:37.557Z"
+title: 'Hurry Up Tomorrow: Filme com The Weeknd e Jenna Ortega Revela Trailer e Pôster'
+slug: hurry-up-tomorrow-filme-com-the-weeknd-e-jenna-ortega-ganha-trailer-e-pster
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/nsi2U1fH7Is?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/xFUrubuB0yZIaFHPd3Ljd67pvOU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T132306.817.png
+data: '2025-03-26T17:37:37.557Z'
+tags:
+  - the weeknd
+  - jenna ortega
+  - hurry up tomorrow
+  - trailer de filme
+  - trey edward shults
+  - cinema
 ---
 
 O aguardado filme 'Hurry Up Tomorrow', estrelado por The Weeknd e Jenna Ortega, acaba de lançar um novo trailer e pôster. As prévias prometem capturar a atenção do público com uma trama envolvente e um elenco estelar.

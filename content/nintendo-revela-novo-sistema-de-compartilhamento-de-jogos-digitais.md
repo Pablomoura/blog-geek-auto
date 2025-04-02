@@ -1,11 +1,18 @@
 ---
-title: "Nintendo apresenta novo sistema de compartilhamento de jogos digitais"
-slug: "nintendo-revela-novo-sistema-de-compartilhamento-de-jogos-digitais"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/EWwyh74MXXY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/zdCUDRoaHmbQPzUGw-LzvO2qvrU=/480x360/smart/extras/conteudos/imagem_2025-03-27_113141976.png"
-data: "2025-03-27T15:12:27.919Z"
+title: Nintendo apresenta novo sistema de compartilhamento de jogos digitais
+slug: nintendo-revela-novo-sistema-de-compartilhamento-de-jogos-digitais
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/EWwyh74MXXY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/zdCUDRoaHmbQPzUGw-LzvO2qvrU=/480x360/smart/extras/conteudos/imagem_2025-03-27_113141976.png
+data: '2025-03-27T15:12:27.919Z'
+tags:
+  - nintendo
+  - jogos digitais
+  - compartilhamento
+  - cartões virtuais
+  - nintendo direct
 ---
 
 A Nintendo revelou um inovador sistema para compartilhamento de jogos digitais. Denominado Cartões Virtuais, o recurso visa facilitar o empréstimo de jogos entre diferentes consoles e usuários. A funcionalidade está prevista para ser lançada em abril.

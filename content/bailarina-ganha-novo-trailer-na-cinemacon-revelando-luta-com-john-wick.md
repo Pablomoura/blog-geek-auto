@@ -1,12 +1,23 @@
 ---
-title: "CinemaCon 2025: 'Bailarina' Apresenta Confronto Épico Entre Ana de Armas e Keanu Reeves"
-slug: "bailarina-ganha-novo-trailer-na-cinemacon-revelando-luta-com-john-wick"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Js6wdY1uZqfFAM43V4okbX4JvNI=/987x0/smart/uploads/conteudo/fotos/bailarina_LTgC6cu.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0hvJUJ1y1iHSmvXXUFVbwqIHwVM=/480x360/smart/extras/conteudos/bailarina_AYXkGKj.jpg"
-keywords: "Bailarina, CinemaCon 2025, Ana de Armas, Keanu Reeves, John Wick"
-data: "2025-04-01T18:14:09.943Z"
+title: >-
+  CinemaCon 2025: 'Bailarina' Apresenta Confronto Épico Entre Ana de Armas e
+  Keanu Reeves
+slug: bailarina-ganha-novo-trailer-na-cinemacon-revelando-luta-com-john-wick
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Js6wdY1uZqfFAM43V4okbX4JvNI=/987x0/smart/uploads/conteudo/fotos/bailarina_LTgC6cu.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0hvJUJ1y1iHSmvXXUFVbwqIHwVM=/480x360/smart/extras/conteudos/bailarina_AYXkGKj.jpg
+keywords: 'Bailarina, CinemaCon 2025, Ana de Armas, Keanu Reeves, John Wick'
+data: '2025-04-01T18:14:09.943Z'
+tags:
+  - cinemacon 2025
+  - bailarina
+  - ana de armas
+  - keanu reeves
+  - confronto épico
+  - john wick
 ---
 
 Durante a CinemaCon 2025, foram reveladas cenas inéditas do filme 'Bailarina', destacando um confronto tenso entre a personagem de Ana de Armas e John Wick, interpretado por Keanu Reeves. A primeira cena divulgada mostra a habilidade de combate da protagonista, que logo se encontra com Wick. Ele expressa o desejo de abandonar seu passado violento, enquanto ela embarca em uma missão em uma cidade nevada, que culmina em um intenso tiroteio.

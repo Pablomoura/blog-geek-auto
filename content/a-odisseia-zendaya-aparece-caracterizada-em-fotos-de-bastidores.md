@@ -1,11 +1,21 @@
 ---
-title: "Zendaya é vista caracterizada em bastidores do filme 'A Odisseia' de Christopher Nolan"
-slug: "a-odisseia-zendaya-aparece-caracterizada-em-fotos-de-bastidores"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FsDwtR-xKK2TKda4LXH1DqJC4Vs=/987x0/smart/uploads/conteudo/fotos/zendaya_o9t4Ble.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/bpgJhX2OUOf9Ww8hCOm4TWfn_0E=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-26_151518.png"
-data: "2025-03-26T19:08:07.779Z"
+title: >-
+  Zendaya é vista caracterizada em bastidores do filme 'A Odisseia' de
+  Christopher Nolan
+slug: a-odisseia-zendaya-aparece-caracterizada-em-fotos-de-bastidores
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FsDwtR-xKK2TKda4LXH1DqJC4Vs=/987x0/smart/uploads/conteudo/fotos/zendaya_o9t4Ble.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/bpgJhX2OUOf9Ww8hCOm4TWfn_0E=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-26_151518.png
+data: '2025-03-26T19:08:07.779Z'
+tags:
+  - zendaya
+  - christopher nolan
+  - a odisseia
+  - bastidores do filme
+  - cinema
 ---
 
 Foram divulgadas novas imagens das filmagens de 'A Odisseia', o mais recente projeto do aclamado diretor Christopher Nolan. As fotos destacam pela primeira vez a atriz Zendaya em seu papel, ainda não oficialmente confirmado, durante as gravações do filme.

@@ -10,6 +10,12 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/71f6aFHQU2LfZCAekL6hIKHU4M0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T101719.115.png
 data: '2025-03-26T14:14:29.489Z'
+tags:
+  - wicked no brasil
+  - musical
+  - avisos ao público
+  - manifestações exageradas
+  - etiqueta no teatro
 ---
 
 A produção brasileira do musical Wicked, que começou suas apresentações no dia 20 de março, anunciou que exibirá avisos para coibir manifestações exageradas do público durante o espetáculo. Segundo Carlos Cavalcanti, presidente do Instituto Artium, a medida busca assegurar o respeito entre os espectadores. 'Iniciaremos as sessões com um comunicado solicitando que aplausos e vivas sejam feitos ao final de cada número musical, a fim de preservar a experiência de todos', explicou ele em entrevista à CBN.

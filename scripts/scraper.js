@@ -56,6 +56,42 @@ function slugify(text) {
     .replace(/-+$/, "");
 }
 
+// Função auxiliar para gerar tags com IA
+async function gerarTagsComIA(titulo, texto) {
+  const prompt = `
+Gere uma lista de até 8 tags curtas e relevantes separadas por vírgula com base no título e conteúdo da notícia abaixo:
+
+Título: ${titulo}
+
+Conteúdo:
+${texto}
+
+Responda apenas com as tags separadas por vírgula.`;
+
+  try {
+    const response = await axios.post(
+      "https://api.openai.com/v1/chat/completions",
+      {
+        model: "gpt-4-turbo",
+        messages: [{ role: "user", content: prompt }],
+        temperature: 0.5,
+      },
+      {
+        headers: {
+          Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+          "Content-Type": "application/json",
+        },
+      }
+    );
+
+    const content = response.data.choices[0].message.content.trim();
+    return content.split(",").map((tag) => tag.trim());
+  } catch (err) {
+    console.error("❌ Erro ao gerar tags com IA:", err.message);
+    return [];
+  }
+}
+
 async function autoScroll(page) {
   await page.evaluate(async () => {
     await new Promise((resolve) => {
@@ -317,6 +353,8 @@ async function buscarNoticiasOmelete() {
     novaNoticia.texto = inserirImagensNoTexto(reescrito.texto, imagensInternas);
     novaNoticia.reescrito = true;
 
+    const tags = await gerarTagsComIA(novaNoticia.titulo, novaNoticia.texto);
+
     const mdPath = path.join(contentDir, `${slug}.md`);
     const frontMatter = `---
 title: "${reescrito.titulo.replace(/"/g, "'")}"
@@ -325,7 +363,7 @@ categoria: "${novaNoticia.categoria}"
 midia: "${novaNoticia.midia}"
 tipoMidia: "${novaNoticia.tipoMidia}"
 thumb: "${novaNoticia.thumb || ""}"
-keywords: "${reescrito.keywords || ""}"
+tags: ["${tags.join('", "')}"]
 data: "${new Date().toISOString()}"
 ---\n\n`;
 

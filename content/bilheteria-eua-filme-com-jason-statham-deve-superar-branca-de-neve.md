@@ -1,11 +1,22 @@
 ---
-title: "Bilheteria EUA: 'Resgate Implacável' com Jason Statham deve superar 'Branca de Neve'"
-slug: "bilheteria-eua-filme-com-jason-statham-deve-superar-branca-de-neve"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/EFe8B31bCVAgfnWLovJadPrkxug=/987x0/smart/uploads/conteudo/fotos/resgateimplacavel.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/6RcvvbvEm8mf13fjswM0zEJKMkg=/480x360/smart/extras/conteudos/resgateimplacavel.jpg"
-data: "2025-03-29T18:11:18.927Z"
+title: >-
+  Bilheteria EUA: 'Resgate Implacável' com Jason Statham deve superar 'Branca de
+  Neve'
+slug: bilheteria-eua-filme-com-jason-statham-deve-superar-branca-de-neve
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/EFe8B31bCVAgfnWLovJadPrkxug=/987x0/smart/uploads/conteudo/fotos/resgateimplacavel.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/6RcvvbvEm8mf13fjswM0zEJKMkg=/480x360/smart/extras/conteudos/resgateimplacavel.jpg
+data: '2025-03-29T18:11:18.927Z'
+tags:
+  - bilheteria eua
+  - resgate implacável
+  - jason statham
+  - branca de neve
+  - filmes
+  - deadline
 ---
 
 Parece que o domínio de 'Branca de Neve' nas bilheterias americanas será breve. Segundo informações do Deadline, o filme 'Resgate Implacável', estrelado por Jason Statham, é esperado para assumir a liderança neste fim de semana, desbancando 'Branca de Neve' da Disney em sua segunda semana de exibição.

@@ -1,11 +1,18 @@
 ---
-title: "Assista ao Trailer de 'One Battle After Another', com Leonardo DiCaprio"
-slug: "one-battle-after-another-veja-o-trailer-do-filme-com-leonardo-dicaprio"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/hg8AGTyYMBA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/38sVEpzoHcI6YORQxDoAPeXxXdk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T132035.100.png"
-data: "2025-03-27T17:10:33.187Z"
+title: 'Assista ao Trailer de ''One Battle After Another'', com Leonardo DiCaprio'
+slug: one-battle-after-another-veja-o-trailer-do-filme-com-leonardo-dicaprio
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/hg8AGTyYMBA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/38sVEpzoHcI6YORQxDoAPeXxXdk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T132035.100.png
+data: '2025-03-27T17:10:33.187Z'
+tags:
+  - leonardo dicaprio
+  - paul thomas anderson
+  - trailer
+  - cinema
+  - one battle after another
 ---
 
 O aguardado trailer de 'One Battle After Another', o novo projeto do renomado diretor Paul Thomas Anderson (Sangue Negro), estrelado por Leonardo DiCaprio, foi finalmente lançado. O elenco se completa com nomes como Regina Hall (Shaft), Teyana Taylor (Mil e Um), Sean Penn (Millk), e Alana Haim do grupo HAIM, além da participação de Chase Infiniti, conhecida por sua atuação na série 'Acima de Qualquer Suspeita' da Apple TV+.

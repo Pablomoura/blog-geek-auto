@@ -1,12 +1,25 @@
 ---
-title: "The White Lotus | Personagem Não Binário é Excluído da Série, Revela Carrie Coon"
-slug: "white-lotus-carrie-coon-diz-que-srie-cortou-personagem-no-binrio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/I5Mubaw-CVGnSou-zx-zDzBccM4=/987x0/smart/uploads/conteudo/fotos/whitelotuscarriecoon.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4-5GNQ0fgyXzguro_eLpw7wIp3s=/480x360/smart/extras/conteudos/whitelotuscarriecoon.jpg"
-keywords: "The White Lotus, Carrie Coon, personagem não binário, Donald Trump, série de TV"
-data: "2025-03-30T22:09:46.912Z"
+title: >-
+  The White Lotus | Personagem Não Binário é Excluído da Série, Revela Carrie
+  Coon
+slug: white-lotus-carrie-coon-diz-que-srie-cortou-personagem-no-binrio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/I5Mubaw-CVGnSou-zx-zDzBccM4=/987x0/smart/uploads/conteudo/fotos/whitelotuscarriecoon.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4-5GNQ0fgyXzguro_eLpw7wIp3s=/480x360/smart/extras/conteudos/whitelotuscarriecoon.jpg
+keywords: >-
+  The White Lotus, Carrie Coon, personagem não binário, Donald Trump, série de
+  TV
+data: '2025-03-30T22:09:46.912Z'
+tags:
+  - the white lotus
+  - carrie coon
+  - personagem não binário
+  - exclusão de personagem
+  - terceira temporada
+  - eleição donald trump
 ---
 
 A série The White Lotus teve uma alteração significativa em sua terceira temporada devido à eleição de Donald Trump como presidente dos Estados Unidos, conforme revelado por Carrie Coon em entrevista à Harper's Bazaar. Durante a pós-produção, foi decidido remover a trama de um personagem não binário que seria filho de Laurie, personagem de Coon.

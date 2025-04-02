@@ -1,11 +1,20 @@
 ---
-title: "Premonição 6: Trailer se Torna o Segundo Mais Visto na História do Cinema de Terror"
-slug: "premonio-6-trailer-o-2-de-terror-mais-visto-da-histria"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/TTwbsctteuw?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/LbfvKcfazAMeji8Wn8b3-V5jk98=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T194810.347.png"
-data: "2025-03-27T23:09:26.431Z"
+title: >-
+  Premonição 6: Trailer se Torna o Segundo Mais Visto na História do Cinema de
+  Terror
+slug: premonio-6-trailer-o-2-de-terror-mais-visto-da-histria
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/TTwbsctteuw?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/LbfvKcfazAMeji8Wn8b3-V5jk98=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T194810.347.png
+data: '2025-03-27T23:09:26.431Z'
+tags:
+  - premonição 6
+  - trailer de terror
+  - recorde de visualizações
+  - cinema de terror
+  - lançamento de trailer
 ---
 
 De acordo com o Deadline, o trailer de 'Premonição 6: Laços de Sangue' atingiu um marco impressionante ao registrar 178,7 milhões de visualizações globais nas primeiras 24 horas após seu lançamento. Esse feito posiciona o trailer como o segundo mais visto na categoria terror, ficando atrás apenas do trailer do remake de 'It — A Coisa', que acumulou quase 200 milhões de visualizações no mesmo intervalo de tempo.

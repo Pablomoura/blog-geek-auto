@@ -1,12 +1,19 @@
 ---
-title: "Nintendo Switch 2: Detalhes Revelados Sobre os Novos Joy-Cons"
-slug: "nintendo-switch-2-saiba-tudo-sobre-o-joy-con-do-novo-console"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ynv4ML2A_pk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/OyzPdvIEKodGs7mhdJpYpGUC5YI=/480x360/smart/extras/conteudos/01_9cdao38.jpg"
-keywords: "Nintendo Switch 2, Joy-Con, GameChat, retrocompatibilidade, Nintendo"
-data: "2025-04-02T13:21:33.388Z"
+title: 'Nintendo Switch 2: Detalhes Revelados Sobre os Novos Joy-Cons'
+slug: nintendo-switch-2-saiba-tudo-sobre-o-joy-con-do-novo-console
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ynv4ML2A_pk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/OyzPdvIEKodGs7mhdJpYpGUC5YI=/480x360/smart/extras/conteudos/01_9cdao38.jpg
+keywords: 'Nintendo Switch 2, Joy-Con, GameChat, retrocompatibilidade, Nintendo'
+data: '2025-04-02T13:21:33.388Z'
+tags:
+  - nintendo switch 2
+  - joy-cons
+  - controles magnéticos
+  - inovação
+  - videogames
 ---
 
 A Nintendo revelou informações sobre o aguardado Nintendo Switch 2 e seus novos controles, os Joy-Cons. Estes controles inovam ao adotar um sistema de fixação magnética, substituindo os tradicionais trilhos de encaixe do modelo anterior. Este recurso permite que os controles 'grudem' no console através do magnetismo, além de serem ligeiramente maiores que os predecessores.

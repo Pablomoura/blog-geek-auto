@@ -1,12 +1,21 @@
 ---
-title: "Vale Tudo: Família Roitman é destaque no segundo capítulo"
-slug: "vale-tudo-comea-a-apresentar-famlia-roitman-em-seu-segundo-captulo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/ao9RqFn1kq6dESXswuWQ_h4zeyo=/987x0/smart/uploads/conteudo/fotos/vale-tudo-segundo-capitulo.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/cuxntGTMDwTKk1kAUJA_eNf2lXA=/480x360/smart/extras/conteudos/vale-tudo-segundo-capitulo-2.png"
-keywords: "Vale Tudo, TV Globo, novela, Paolla Oliveira, audiência"
-data: "2025-04-01T22:02:34.067Z"
+title: 'Vale Tudo: Família Roitman é destaque no segundo capítulo'
+slug: vale-tudo-comea-a-apresentar-famlia-roitman-em-seu-segundo-captulo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/ao9RqFn1kq6dESXswuWQ_h4zeyo=/987x0/smart/uploads/conteudo/fotos/vale-tudo-segundo-capitulo.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/cuxntGTMDwTKk1kAUJA_eNf2lXA=/480x360/smart/extras/conteudos/vale-tudo-segundo-capitulo-2.png
+keywords: 'Vale Tudo, TV Globo, novela, Paolla Oliveira, audiência'
+data: '2025-04-01T22:02:34.067Z'
+tags:
+  - vale tudo
+  - família roitman
+  - tv globo
+  - audiência
+  - novela brasileira
+  - capítulo segundo
 ---
 
 A TV Globo celebrou a boa recepção do episódio inaugural de 'Vale Tudo', que alcançou 31 pontos de audiência no Rio de Janeiro e superou o desempenho do antecessor, 'Mania de Você', em São Paulo. Apesar de não serem resultados extraordinários, a emissora mantém expectativas positivas para a adesão do público nos próximos capítulos.

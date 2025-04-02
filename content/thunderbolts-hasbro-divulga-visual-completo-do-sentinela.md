@@ -1,12 +1,25 @@
 ---
-title: "Thunderbolts | Hasbro Reveal do Sentinela é Destaque em Nova Linha Marvel Legends"
-slug: "thunderbolts-hasbro-divulga-visual-completo-do-sentinela"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/BF-MSNw2gToXAJE7Eg7PKHeZjqc=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T123529.553.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/rF3OTY9JADYpaI6TVppccGylUXg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T123517.106.png"
-keywords: "Hasbro, Thunderbolts, MCU, Marvel Legends, Sentinela, estreia de filme, colecionáveis Marvel"
-data: "2025-04-01T16:13:25.285Z"
+title: >-
+  Thunderbolts | Hasbro Reveal do Sentinela é Destaque em Nova Linha Marvel
+  Legends
+slug: thunderbolts-hasbro-divulga-visual-completo-do-sentinela
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/BF-MSNw2gToXAJE7Eg7PKHeZjqc=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T123529.553.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/rF3OTY9JADYpaI6TVppccGylUXg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T123517.106.png
+keywords: >-
+  Hasbro, Thunderbolts, MCU, Marvel Legends, Sentinela, estreia de filme,
+  colecionáveis Marvel
+data: '2025-04-01T16:13:25.285Z'
+tags:
+  - hasbro
+  - sentinela
+  - marvel legends
+  - thunderbolts
+  - mcu
+  - colecionáveis
 ---
 
 O aguardado visual do Sentinela no Universo Cinematográfico Marvel (MCU) foi finalmente revelado pela Hasbro. As novas imagens destacam o action-figure da linha Marvel Legends, uma coleção premium de colecionáveis da Marvel.

@@ -1,12 +1,21 @@
 ---
-title: "Homem-Aranha 4: Sony Lança Site Oficial e Participa da CinemaCon Hoje"
-slug: "homem-aranha-4-sony-lana-site-do-filme-painel-na-cinemacon-hoje-31"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/f6AxHJb2MXAVEFAk58e9O0gTOVo=/987x0/smart/uploads/conteudo/fotos/imagem_2025-03-31_091107612.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/8OcaoVhO9qTOXwQtyre08R9g6CY=/480x360/smart/extras/conteudos/imagem_2025-03-31_090651588.png"
-keywords: "Homem-Aranha 4, Sony Pictures, CinemaCon, Tom Holland, Sadie Sink, Marvel"
-data: "2025-03-31T12:17:39.809Z"
+title: 'Homem-Aranha 4: Sony Lança Site Oficial e Participa da CinemaCon Hoje'
+slug: homem-aranha-4-sony-lana-site-do-filme-painel-na-cinemacon-hoje-31
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/f6AxHJb2MXAVEFAk58e9O0gTOVo=/987x0/smart/uploads/conteudo/fotos/imagem_2025-03-31_091107612.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/8OcaoVhO9qTOXwQtyre08R9g6CY=/480x360/smart/extras/conteudos/imagem_2025-03-31_090651588.png
+keywords: 'Homem-Aranha 4, Sony Pictures, CinemaCon, Tom Holland, Sadie Sink, Marvel'
+data: '2025-03-31T12:17:39.809Z'
+tags:
+  - homem-aranha 4
+  - sony pictures
+  - cinemacon
+  - tom holland
+  - lançamento de filme
+  - site oficial
 ---
 
 A expectativa para o quarto filme da saga Homem-Aranha, com Tom Holland no papel principal, cresce à medida que a Sony Pictures lança um site oficial. Agendado para estrear em julho de 2026, o site foi divulgado no último fim de semana pela filial francesa da Sony, sugerindo que novos detalhes sobre o filme podem ser revelados na CinemaCon hoje, dia 31 de março.

@@ -1,11 +1,22 @@
 ---
-title: "Karate Kid: Lendas Estreia Vídeo com Ben Wang Demonstrando Habilidades em Artes Marciais"
-slug: "karate-kid-lendas-ganha-vdeo-com-ben-wang-mostrando-habilidades-marciais"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/u__wLISayGH7xKw0MOAALv_2qUk=/987x0/smart/uploads/conteudo/fotos/karate-kid-lendas.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/U-ntnqfDU1JlNj1DEZaQ_68b8lM=/480x360/smart/extras/conteudos/karate-kid-legends_ls8uulb.png"
-data: "2025-03-28T18:12:45.466Z"
+title: >-
+  Karate Kid: Lendas Estreia Vídeo com Ben Wang Demonstrando Habilidades em
+  Artes Marciais
+slug: karate-kid-lendas-ganha-vdeo-com-ben-wang-mostrando-habilidades-marciais
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/u__wLISayGH7xKw0MOAALv_2qUk=/987x0/smart/uploads/conteudo/fotos/karate-kid-lendas.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/U-ntnqfDU1JlNj1DEZaQ_68b8lM=/480x360/smart/extras/conteudos/karate-kid-legends_ls8uulb.png
+data: '2025-03-28T18:12:45.466Z'
+tags:
+  - karate kid
+  - ben wang
+  - artes marciais
+  - estreia
+  - vídeo
+  - habilidades
 ---
 
 A nova produção 'Karate Kid: Lendas' teve sua estreia adiantada no Brasil, segundo informações do site Omelete. Recentemente, um empolgante vídeo foi divulgado, no qual Ben Wang, o novo protagonista, exibe suas impressionantes habilidades em artes marciais. Assista ao vídeo abaixo!

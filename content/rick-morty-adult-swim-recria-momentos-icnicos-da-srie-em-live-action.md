@@ -1,12 +1,22 @@
 ---
-title: "Rick & Morty: Adult Swim Lança Especial Live-Action dos Momentos Mais Marcantes"
-slug: "rick-morty-adult-swim-recria-momentos-icnicos-da-srie-em-live-action"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/JvNnwHPubiA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/oNApe1ZTwR5tqXFGIiluNHJX9E0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T124941.749.png"
-keywords: "Rick and Morty, Adult Swim, live-action, 8ª temporada, streaming, anime"
-data: "2025-04-01T16:11:54.956Z"
+title: >-
+  Rick & Morty: Adult Swim Lança Especial Live-Action dos Momentos Mais
+  Marcantes
+slug: rick-morty-adult-swim-recria-momentos-icnicos-da-srie-em-live-action
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/JvNnwHPubiA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/oNApe1ZTwR5tqXFGIiluNHJX9E0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T124941.749.png
+keywords: 'Rick and Morty, Adult Swim, live-action, 8ª temporada, streaming, anime'
+data: '2025-04-01T16:11:54.956Z'
+tags:
+  - rick and morty
+  - adult swim
+  - live-action
+  - estreia
+  - série de tv
+  - momentos icônicos
 ---
 
 Adult Swim anunciou a data de estreia da 8ª temporada de 'Rick and Morty' e aproveitou o 1º de abril para surpreender os fãs com um especial de live-action. O especial, com duração de 26 minutos, recriou alguns dos momentos icônicos da série e já está disponível para visualização.

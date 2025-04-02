@@ -1,11 +1,19 @@
 ---
-title: "Rhythm Heaven Groove Anunciado para Switch em 2026"
-slug: "rhythm-heaven-groove-chega-em-2026-para-switch"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ZkgjFacpnLE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/NOFNt4gBwn4qQ9pfjnIRw29DhWc=/480x360/smart/extras/conteudos/imagem_2025-03-27_120248292.png"
-data: "2025-03-27T15:09:54.421Z"
+title: Rhythm Heaven Groove Anunciado para Switch em 2026
+slug: rhythm-heaven-groove-chega-em-2026-para-switch
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ZkgjFacpnLE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/NOFNt4gBwn4qQ9pfjnIRw29DhWc=/480x360/smart/extras/conteudos/imagem_2025-03-27_120248292.png
+data: '2025-03-27T15:09:54.421Z'
+tags:
+  - nintendo switch
+  - rhythm heaven groove
+  - '2026'
+  - nintendo direct
+  - jogo de ritmo
+  - lançamento exclusivo
 ---
 
 Durante o Nintendo Direct desta quinta-feira, a Nintendo trouxe uma notícia empolgante para os fãs de longa data da série Rhythm Heaven. O novo jogo, intitulado Rhythm Heaven Groove, está programado para ser lançado em 2026 exclusivamente para o Nintendo Switch.

@@ -1,12 +1,23 @@
 ---
-title: "Confirmado! Donnie Yen dirigirá e estrelará o spin-off de John Wick focado em Caine"
-slug: "john-wick-derivado-sobre-caine-confirmado-com-donnie-yen-na-direo"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/b52g_gb1ivBPqcsnfDQYbLSmAdE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T151123.402.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dzBqTgb1F-CF0btF6-ZMj6y8rCk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T151106.215.png"
-keywords: "John Wick, Donnie Yen, CinemaCon, spin-off, Caine, filme de ação"
-data: "2025-04-01T19:12:03.633Z"
+title: >-
+  Confirmado! Donnie Yen dirigirá e estrelará o spin-off de John Wick focado em
+  Caine
+slug: john-wick-derivado-sobre-caine-confirmado-com-donnie-yen-na-direo
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/b52g_gb1ivBPqcsnfDQYbLSmAdE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T151123.402.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dzBqTgb1F-CF0btF6-ZMj6y8rCk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T151106.215.png
+keywords: 'John Wick, Donnie Yen, CinemaCon, spin-off, Caine, filme de ação'
+data: '2025-04-01T19:12:03.633Z'
+tags:
+  - donnie yen
+  - john wick
+  - spin-off
+  - direção
+  - cinemacon
+  - cinema de ação
 ---
 
 A franquia 'John Wick' está se expandindo com um novo spin-off centrado no personagem Caine, interpretado por Donnie Yen, que também assumirá a direção do filme. A confirmação veio durante a CinemaCon, onde foi revelado que o estilo do filme será fortemente influenciado pelo cinema de ação de Hong Kong, uma marca registrada de Yen em obras como 'O Grande Mestre'.

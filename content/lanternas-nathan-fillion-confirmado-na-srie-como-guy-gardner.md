@@ -1,12 +1,21 @@
 ---
-title: "Nathan Fillion confirmado como Guy Gardner na série 'Lanternas' da HBO Max"
-slug: "lanternas-nathan-fillion-confirmado-na-srie-como-guy-gardner"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/3h-6V6V71JAVll__lr0S8KDo-iE=/987x0/smart/uploads/conteudo/fotos/02_nBcmf62.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OyVj64ovsKKR7TFtn6zstwNVJpc=/480x360/smart/extras/conteudos/01_nWsCSSG.jpg"
-keywords: "Nathan Fillion, Lanternas Verdes, HBO Max, Guy Gardner, série de TV"
-data: "2025-03-31T20:11:22.077Z"
+title: Nathan Fillion confirmado como Guy Gardner na série 'Lanternas' da HBO Max
+slug: lanternas-nathan-fillion-confirmado-na-srie-como-guy-gardner
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/3h-6V6V71JAVll__lr0S8KDo-iE=/987x0/smart/uploads/conteudo/fotos/02_nBcmf62.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OyVj64ovsKKR7TFtn6zstwNVJpc=/480x360/smart/extras/conteudos/01_nWsCSSG.jpg
+keywords: 'Nathan Fillion, Lanternas Verdes, HBO Max, Guy Gardner, série de TV'
+data: '2025-03-31T20:11:22.077Z'
+tags:
+  - nathan fillion
+  - guy gardner
+  - lanternas verdes
+  - hbo max
+  - série tv
+  - entertainment weekly
 ---
 
 Segundo informações da Entertainment Weekly, Nathan Fillion está confirmado no elenco de 'Lanternas', nova série da HBO Max que trará os Lanternas Verdes para as telas de TV. Fillion reprisará o papel de Guy Gardner, conhecido de suas atuações anteriores em projetos relacionados ao universo Superman.

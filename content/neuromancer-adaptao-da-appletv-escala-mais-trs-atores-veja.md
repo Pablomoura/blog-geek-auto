@@ -1,11 +1,22 @@
 ---
-title: "Neuromancer na AppleTV+: Max Irons, André De Shields e Marc Menchaca Entram para o Elenco"
-slug: "neuromancer-adaptao-da-appletv-escala-mais-trs-atores-veja"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/sCB1jHTxKFcYc7twxM-xOnMxnZY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T193941.123.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/PJkJujKqQQUZPeP7IvcHvNCHVoY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T193941.123.png"
-data: "2025-03-27T23:09:40.959Z"
+title: >-
+  Neuromancer na AppleTV+: Max Irons, André De Shields e Marc Menchaca Entram
+  para o Elenco
+slug: neuromancer-adaptao-da-appletv-escala-mais-trs-atores-veja
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/sCB1jHTxKFcYc7twxM-xOnMxnZY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T193941.123.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/PJkJujKqQQUZPeP7IvcHvNCHVoY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T193941.123.png
+data: '2025-03-27T23:09:40.959Z'
+tags:
+  - neuromancer
+  - appletv+
+  - elenco
+  - max irons
+  - andré de shields
+  - marc menchaca
 ---
 
 A série Neuromancer, que será exibida na AppleTV+, acaba de ganhar reforços no seu elenco. Segundo o Deadline, Max Irons, André De Shields e Marc Menchaca foram confirmados para integrar a produção.

@@ -8,6 +8,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/-GCm1hJvvFkfyka09r4i0e3jkyg=/480x360/smart/extras/conteudos/bbb25-tadeu-schmidt-horario-peq.jpg
 data: '2025-03-26T11:27:49.641Z'
+tags:
+  - bbb 25
+  - horário alterado
+  - futebol
+  - seleção brasileira
+  - jogo brasil argentina
+  - eliminatórias da copa
 ---
 
 O Big Brother Brasil 25 será transmitido excepcionalmente às 23h (horário de Brasília) nesta terça-feira, 25 de março, devido à partida de futebol entre Brasil e Argentina pelas Eliminatórias da Copa. A transmissão ocorrerá logo após o jogo.

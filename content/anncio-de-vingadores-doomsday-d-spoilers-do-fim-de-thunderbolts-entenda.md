@@ -1,11 +1,22 @@
 ---
-title: "Revelação do Elenco de 'Vingadores: Doomsday' Pode Ter Spoilado o Final de 'Thunderbolts'"
-slug: "anncio-de-vingadores-doomsday-d-spoilers-do-fim-de-thunderbolts-entenda"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/IPnZTlRRYCy5KTMmnWpAFnzzPDg=/987x0/smart/uploads/conteudo/fotos/02_pItMsp4.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/EAq-3aaUQ9CUZ3WSVhwdUtqVGIE=/480x360/smart/extras/conteudos/01_9sTXsDe.jpg"
-data: "2025-03-26T17:36:28.025Z"
+title: >-
+  Revelação do Elenco de 'Vingadores: Doomsday' Pode Ter Spoilado o Final de
+  'Thunderbolts'
+slug: anncio-de-vingadores-doomsday-d-spoilers-do-fim-de-thunderbolts-entenda
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/IPnZTlRRYCy5KTMmnWpAFnzzPDg=/987x0/smart/uploads/conteudo/fotos/02_pItMsp4.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/EAq-3aaUQ9CUZ3WSVhwdUtqVGIE=/480x360/smart/extras/conteudos/01_9sTXsDe.jpg
+data: '2025-03-26T17:36:28.025Z'
+tags:
+  - marvel
+  - 'vingadores: doomsday'
+  - thunderbolts
+  - elenco
+  - spoilers
+  - filmes de super-heróis
 ---
 
 A Marvel pode ter inadvertidamente revelado detalhes cruciais do final de 'Thunderbolts' durante a apresentação ao vivo do elenco de 'Vingadores: Doomsday'. Entre os atores confirmados estão Sebastian Stan como Bucky/Soldado Invernal e Florence Pugh como Yelena Belova/Viúva Negra, ambos também parte do filme 'Thunderbolts'.

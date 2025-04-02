@@ -1,11 +1,22 @@
 ---
-title: "Linkin Park Confirma Shows em São Paulo, Brasília e Adiciona Curitiba à Turnê Brasileira"
-slug: "linkin-park-anuncia-locais-dos-shows-no-brasil-e-adiciona-curitiba-na-agenda"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/LEjxuaauEqIQ-E_WGpFiNYur6gs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T102415.588.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/aGYctvc4zEd4zHVI5efE384kqjw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T102403.784.png"
-data: "2025-03-27T13:38:48.600Z"
+title: >-
+  Linkin Park Confirma Shows em São Paulo, Brasília e Adiciona Curitiba à Turnê
+  Brasileira
+slug: linkin-park-anuncia-locais-dos-shows-no-brasil-e-adiciona-curitiba-na-agenda
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/LEjxuaauEqIQ-E_WGpFiNYur6gs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T102415.588.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/aGYctvc4zEd4zHVI5efE384kqjw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T102403.784.png
+data: '2025-03-27T13:38:48.600Z'
+tags:
+  - linkin park
+  - shows no brasil
+  - curitiba
+  - são paulo
+  - brasília
+  - turnê musical
 ---
 
 A produtora Live Nation anunciou hoje as cidades brasileiras que farão parte da nova turnê do Linkin Park. A agenda confirma shows no Estádio Couto Pereira, em Curitiba, no Estádio Morumbi, em São Paulo, e na Arena BRB Mané Garrincha, em Brasília.

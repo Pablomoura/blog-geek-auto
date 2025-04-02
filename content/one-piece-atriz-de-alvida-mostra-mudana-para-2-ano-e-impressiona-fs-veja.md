@@ -1,11 +1,22 @@
 ---
-title: "One Piece | Transformação de Alvida no Segundo Ano do Live-Action Surpreende Fãs"
-slug: "one-piece-atriz-de-alvida-mostra-mudana-para-2-ano-e-impressiona-fs-veja"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/BRQZtPJ3BTDOdc5u_mHbqVYAzJk=/987x0/smart/uploads/conteudo/fotos/f40985f02996f2f196bc6548dcc44b45243fd6a0_hq.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/wRYtelWwbUwbVOJCBLbPw1ueAi4=/480x360/smart/extras/conteudos/f40985f02996f2f196bc6548dcc44b45243fd6a0_hq.jpg"
-data: "2025-03-29T20:08:51.959Z"
+title: >-
+  One Piece | Transformação de Alvida no Segundo Ano do Live-Action Surpreende
+  Fãs
+slug: one-piece-atriz-de-alvida-mostra-mudana-para-2-ano-e-impressiona-fs-veja
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/BRQZtPJ3BTDOdc5u_mHbqVYAzJk=/987x0/smart/uploads/conteudo/fotos/f40985f02996f2f196bc6548dcc44b45243fd6a0_hq.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/wRYtelWwbUwbVOJCBLbPw1ueAi4=/480x360/smart/extras/conteudos/f40985f02996f2f196bc6548dcc44b45243fd6a0_hq.jpg
+data: '2025-03-29T20:08:51.959Z'
+tags:
+  - one piece
+  - alvida
+  - live-action
+  - transformação
+  - ilia isorelýs
+  - fãs
 ---
 
 Ilia Isorelýs, a atriz que interpreta Alvida no live-action de One Piece, causou grande agitação nas redes sociais na última sexta-feira. Participando de uma convenção na Virgínia, EUA, Isorelýs exibiu uma notável perda de peso, surpreendendo os fãs. Esta mudança é particularmente significativa, considerando a garantia de sua participação na segunda temporada da série.

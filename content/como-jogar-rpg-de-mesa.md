@@ -1,12 +1,20 @@
 ---
-title: "Como Começar a Jogar RPG de Mesa: Guia Passo a Passo para Iniciantes"
-slug: "como-jogar-rpg-de-mesa"
-categoria: "Games"
-midia: "/images/como jogar rpg de mesa.jpg"
-tipoMidia: "imagem"
-thumb: "/images/jogar rpg de mesa.jpg"
-keywords: "RPG de mesa, como jogar RPG, iniciantes no RPG, Dungeons and Dragons, dados de RPG"
-data: "2025-04-01T15:00:00.000Z"
+title: 'Como Começar a Jogar RPG de Mesa: Guia Passo a Passo para Iniciantes'
+slug: como-jogar-rpg-de-mesa
+categoria: Games
+midia: /images/como jogar rpg de mesa.jpg
+tipoMidia: imagem
+thumb: /images/jogar rpg de mesa.jpg
+keywords: >-
+  RPG de mesa, como jogar RPG, iniciantes no RPG, Dungeons and Dragons, dados de
+  RPG
+data: '2025-04-01T15:00:00.000Z'
+tags:
+  - rpg de mesa
+  - guia para iniciantes
+  - jogos de aventura
+  - criação de personagens
+  - dicas de rpg
 ---
 
 Se você já ouviu falar de **RPG de mesa**, mas acha tudo muito complexo ou “só pra nerds experientes”, relaxe! Este guia foi feito para você que quer entrar nesse mundo incrível de histórias, personagens, aventuras, monstros e **muita imaginação**.

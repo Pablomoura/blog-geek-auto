@@ -1,11 +1,19 @@
 ---
-title: "Série 'Casa de Davi' Incorpora IA Generativa para Criar Cenas Impactantes"
-slug: "casa-de-davi-usou-ia-generativa-para-cena-importante"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/DnfdYNQqf4i_ebL26Htzj4z3PIM=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T201923.594.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/kuRIdqz237FIyJvO_o8VaaKRR3U=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T201923.594.png"
-data: "2025-03-27T01:56:38.080Z"
+title: Série 'Casa de Davi' Incorpora IA Generativa para Criar Cenas Impactantes
+slug: casa-de-davi-usou-ia-generativa-para-cena-importante
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/DnfdYNQqf4i_ebL26Htzj4z3PIM=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T201923.594.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/kuRIdqz237FIyJvO_o8VaaKRR3U=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T201923.594.png
+data: '2025-03-27T01:56:38.080Z'
+tags:
+  - inteligência artificial
+  - casa de davi
+  - tecnologia em tv
+  - ia generativa
+  - série de tv
 ---
 
 Durante uma entrevista exclusiva com a Variety, Jon Erwin, criador e co-showrunner da série 'Casa de Davi', discutiu a aplicação de inteligência artificial generativa em uma cena crucial do sexto episódio. Segundo Erwin, a tecnologia foi essencial para realizar a cena, permitindo uma combinação eficaz com métodos tradicionais de produção. 'A cena inicial, que era modesta em sua concepção original, ganhou uma nova dimensão com visuais ambiciosos graças à IA', explicou Erwin.

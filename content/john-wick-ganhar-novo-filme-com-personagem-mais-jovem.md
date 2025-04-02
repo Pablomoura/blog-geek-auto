@@ -1,12 +1,23 @@
 ---
-title: "John Wick Anuncia Novo Filme Animado como Prelúdio da Franquia"
-slug: "john-wick-ganhar-novo-filme-com-personagem-mais-jovem"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Rwx9l2WdIyLWGzpCTksCXJzN0eg=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T144617.011.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/CneXbzNFzpUelSO5fm38hXHdl1w=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T144606.262.png"
-keywords: "John Wick, filme animado, Shannon Tindle, Keanu Reeves, Bailarina, The Continental"
-data: "2025-04-01T18:13:22.288Z"
+title: John Wick Anuncia Novo Filme Animado como Prelúdio da Franquia
+slug: john-wick-ganhar-novo-filme-com-personagem-mais-jovem
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Rwx9l2WdIyLWGzpCTksCXJzN0eg=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T144617.011.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/CneXbzNFzpUelSO5fm38hXHdl1w=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T144606.262.png
+keywords: >-
+  John Wick, filme animado, Shannon Tindle, Keanu Reeves, Bailarina, The
+  Continental
+data: '2025-04-01T18:13:22.288Z'
+tags:
+  - john wick
+  - filme animado
+  - prelúdio
+  - lionsgate
+  - cinemacon
+  - shannon tindle
 ---
 
 A Lionsgate revelou na CinemaCon que está expandindo o universo de John Wick com um novo filme animado. Este prelúdio, ainda sem título, será dirigido por Shannon Tindle, conhecido por seu trabalho em 'Ultraman: Rising'. O filme vai retratar eventos antes do primeiro 'John Wick', focando na Tarefa Impossível que definiu o destino do protagonista.

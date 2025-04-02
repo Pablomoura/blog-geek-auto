@@ -1,11 +1,22 @@
 ---
-title: "David Harbour Equilibra Gravações de 'Resgate Implacável' com 'Stranger Things' e 'Thunderbolts'"
-slug: "resgate-implacvel-david-harbour-diz-como-equilibrou-filme-com-stranger-things"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/uNjWIw3JqLYiof_T_AfB2Yj5lo0=/987x0/smart/uploads/conteudo/fotos/resgateimplacaveldavidharbour.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0RtmsD88v7V2sE_Bha4axaNkzNQ=/480x360/smart/extras/conteudos/resgateimplacaveldavidharbour.jpg"
-data: "2025-03-28T09:10:36.648Z"
+title: >-
+  David Harbour Equilibra Gravações de 'Resgate Implacável' com 'Stranger
+  Things' e 'Thunderbolts'
+slug: resgate-implacvel-david-harbour-diz-como-equilibrou-filme-com-stranger-things
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/uNjWIw3JqLYiof_T_AfB2Yj5lo0=/987x0/smart/uploads/conteudo/fotos/resgateimplacaveldavidharbour.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0RtmsD88v7V2sE_Bha4axaNkzNQ=/480x360/smart/extras/conteudos/resgateimplacaveldavidharbour.jpg
+data: '2025-03-28T09:10:36.648Z'
+tags:
+  - david harbour
+  - stranger things
+  - thunderbolts
+  - resgate implacável
+  - cinema
+  - séries tv
 ---
 
 A agenda de David Harbour em 2024 é um verdadeiro teste de resistência. Entre maio e junho, o ator se desdobrou entre três diferentes sets de filmagem nos Estados Unidos, participando simultaneamente de 'Stranger Things', 'Thunderbolts' e 'Resgate Implacável'.

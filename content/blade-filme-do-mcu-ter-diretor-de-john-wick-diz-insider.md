@@ -1,11 +1,20 @@
 ---
-title: "Blade do MCU Será Dirigido por Chad Stahelski, Revela Insider"
-slug: "blade-filme-do-mcu-ter-diretor-de-john-wick-diz-insider"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/NtYNjj3iimr_wDinYUMX8XhqiHE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T131016.119.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/GV3ViiqXYVDh7aLS9osT2D8_iHU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T131004.485.png"
-data: "2025-03-27T17:11:44.449Z"
+title: 'Blade do MCU Será Dirigido por Chad Stahelski, Revela Insider'
+slug: blade-filme-do-mcu-ter-diretor-de-john-wick-diz-insider
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/NtYNjj3iimr_wDinYUMX8XhqiHE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T131016.119.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/GV3ViiqXYVDh7aLS9osT2D8_iHU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T131004.485.png
+data: '2025-03-27T17:11:44.449Z'
+tags:
+  - blade
+  - mcu
+  - chad stahelski
+  - diretor
+  - marvel
+  - cinema
 ---
 
 O tão esperado filme 'Blade' do Universo Cinematográfico Marvel (MCU) parece finalmente ter encontrado um novo diretor. De acordo com o insider Jeff Sneider, conhecido por seus vazamentos confiáveis na indústria cinematográfica, Chad Stahelski, diretor da franquia 'John Wick', será o responsável pelo comando do filme estrelado por Mahershala Ali.

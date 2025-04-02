@@ -1,11 +1,19 @@
 ---
-title: "Lazarus: Novo Anime de Shinichiro Watanabe Ecoa Estilo de Cowboy Bebop"
-slug: "lazarus-anime-ganha-abertura-similar-a-de-cowboy-bebop"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/XBMrH1ZQs90?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/uJV7M3vAEuA8b9tEkpqRC4VglGc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T182033.113.png"
-data: "2025-03-27T22:08:51.924Z"
+title: 'Lazarus: Novo Anime de Shinichiro Watanabe Ecoa Estilo de Cowboy Bebop'
+slug: lazarus-anime-ganha-abertura-similar-a-de-cowboy-bebop
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/XBMrH1ZQs90?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/uJV7M3vAEuA8b9tEkpqRC4VglGc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T182033.113.png
+data: '2025-03-27T22:08:51.924Z'
+tags:
+  - shinichiro watanabe
+  - cowboy bebop
+  - lazarus anime
+  - kamasi washington
+  - jazz
+  - adult swim
 ---
 
 Adult Swim revelou na última quinta-feira (27) a abertura do anime 'Lazarus', a mais recente criação de Shinichiro Watanabe, conhecido por Cowboy Bebop. Intitulada 'VORTEX', a abertura foi desenvolvida pelo renomado músico de jazz norte-americano Kamasi Washington, e apresenta uma forte influência jazzística, similar à icônica abertura de Cowboy Bebop, além de compartilhar um estilo visual e direção artística semelhantes ao famoso anime de 1998.

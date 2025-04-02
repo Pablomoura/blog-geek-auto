@@ -1,12 +1,23 @@
 ---
-title: "Chainsaw Man: Filme 'Reze Arc' tem estreia confirmada no Brasil para outubro"
-slug: "chainsaw-man-filme-ganha-data-para-estrear-no-brasil"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/x1VuKJfXgWKLb93R5krcUFRIpGE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T150321.437.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7tCI4DbM_S8WG3-ceCSceIL_r5A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T150307.894.png"
-keywords: "Chainsaw Man, filme Chainsaw Man, estreia Chainsaw Man Brasil, Reze Arc, cinemas brasileiros"
-data: "2025-04-01T18:12:23.641Z"
+title: 'Chainsaw Man: Filme ''Reze Arc'' tem estreia confirmada no Brasil para outubro'
+slug: chainsaw-man-filme-ganha-data-para-estrear-no-brasil
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/x1VuKJfXgWKLb93R5krcUFRIpGE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T150321.437.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7tCI4DbM_S8WG3-ceCSceIL_r5A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T150307.894.png
+keywords: >-
+  Chainsaw Man, filme Chainsaw Man, estreia Chainsaw Man Brasil, Reze Arc,
+  cinemas brasileiros
+data: '2025-04-01T18:12:23.641Z'
+tags:
+  - chainsaw man
+  - reze arc
+  - estreia no brasil
+  - mangá
+  - sony pictures
+  - tatsuki fujimoto
 ---
 
 A Sony Pictures anunciou, conforme reportagem do Portal Exibidor, que o filme 'Chainsaw Man: Reze Arc' será lançado no Brasil em 30 de outubro. O lançamento no Japão ocorrerá anteriormente, em 19 de setembro.

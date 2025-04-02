@@ -1,12 +1,20 @@
 ---
-title: "O Eternauta: Série Argentina da Netflix Lança Trailer Final"
-slug: "o-eternauta-aguardada-srie-argentina-da-netflix-ganha-trailer-final-assista"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/95V9sqY80K8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/epqpkPXoclnRPH_V3WqftzHf9T8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T103446.391.png"
-keywords: "O Eternauta, Netflix, série argentina, Ricardo Darin, trailer final"
-data: "2025-03-31T14:10:45.234Z"
+title: 'O Eternauta: Série Argentina da Netflix Lança Trailer Final'
+slug: o-eternauta-aguardada-srie-argentina-da-netflix-ganha-trailer-final-assista
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/95V9sqY80K8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/epqpkPXoclnRPH_V3WqftzHf9T8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T103446.391.png
+keywords: 'O Eternauta, Netflix, série argentina, Ricardo Darin, trailer final'
+data: '2025-03-31T14:10:45.234Z'
+tags:
+  - o eternauta
+  - série argentina
+  - netflix
+  - ricardo darin
+  - trailer
+  - graphic novel
 ---
 
 Acaba de ser divulgado o trailer final da série argentina 'O Eternauta', estrelada pelo renomado ator Ricardo Darin. Confira a emocionante prévia no site da Netflix.

@@ -1,11 +1,18 @@
 ---
-title: "Cristiano Ronaldo entra para o elenco de Fatal Fury: City of the Wolves"
-slug: "fatal-fury-cristiano-ronaldo-o-novo-lutador-do-game-veja-trailer"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/fbeEWm4_qeg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/aZwfcxoUKLAPu70E6QpAcaJn-5s=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-26_141149.png"
-data: "2025-03-26T17:30:21.629Z"
+title: 'Cristiano Ronaldo entra para o elenco de Fatal Fury: City of the Wolves'
+slug: fatal-fury-cristiano-ronaldo-o-novo-lutador-do-game-veja-trailer
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/fbeEWm4_qeg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/aZwfcxoUKLAPu70E6QpAcaJn-5s=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-26_141149.png
+data: '2025-03-26T17:30:21.629Z'
+tags:
+  - cristiano ronaldo
+  - fatal fury
+  - snk
+  - games de luta
+  - crossover de celebridades
 ---
 
 A desenvolvedora SNK acaba de lançar o trailer oficial apresentando Cristiano Ronaldo como personagem jogável no novo jogo Fatal Fury: City of the Wolves. O astro do futebol mundial agora faz parte do universo dos games de luta.

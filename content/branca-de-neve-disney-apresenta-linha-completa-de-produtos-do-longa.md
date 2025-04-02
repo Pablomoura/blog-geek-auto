@@ -1,12 +1,21 @@
 ---
-title: "Branca de Neve | Disney lança coleção exclusiva de produtos do novo filme"
-slug: "branca-de-neve-disney-apresenta-linha-completa-de-produtos-do-longa"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/pAE7_0gYKZNlTWH9CYOOwva0N2c=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T190500.649.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/DtpJ8lCWHilb5ErPDvVknkYXIbQ=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T190500.649.png"
-keywords: "Disney, Branca de Neve, produtos, live-action, Rachel Zegler, Gal Gadot"
-data: "2025-04-01T22:09:59.925Z"
+title: Branca de Neve | Disney lança coleção exclusiva de produtos do novo filme
+slug: branca-de-neve-disney-apresenta-linha-completa-de-produtos-do-longa
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/pAE7_0gYKZNlTWH9CYOOwva0N2c=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T190500.649.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/DtpJ8lCWHilb5ErPDvVknkYXIbQ=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T190500.649.png
+keywords: 'Disney, Branca de Neve, produtos, live-action, Rachel Zegler, Gal Gadot'
+data: '2025-04-01T22:09:59.925Z'
+tags:
+  - branca de neve
+  - disney
+  - produtos temáticos
+  - live-action
+  - colecionáveis
+  - vestuário
 ---
 
 Com a estreia iminente do live-action de Branca de Neve nos cinemas, a Disney desvendou uma linha completa de produtos temáticos, abrangendo desde acessórios até itens colecionáveis e vestuário. Esses produtos estão disponíveis tanto em lojas físicas quanto online, em varejistas como Havaianas, Go Case, Renner, Riachuelo, Eu Amo Anime e Zona Criativa.

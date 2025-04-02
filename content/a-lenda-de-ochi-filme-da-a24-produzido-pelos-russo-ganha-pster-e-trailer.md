@@ -1,12 +1,24 @@
 ---
-title: "A Lenda de Ochi: Novo Filme da A24 Produzido pelos Irmãos Russo Revela Pôster e Trailer"
-slug: "a-lenda-de-ochi-filme-da-a24-produzido-pelos-russo-ganha-pster-e-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/eH6K-dX7HdY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/mJy-dcj_QKgn5apt4Ov8ZOhZigE=/480x360/smart/extras/conteudos/The_Legend_of_Ochi_01_Yuri_and_Ochi.jpg"
-keywords: "A Lenda de Ochi, A24, Irmãos Russo, Willem Dafoe, Finn Wolfhard, Emily Watson, filme de fantasia, cinema brasileiro"
-data: "2025-03-31T21:09:58.148Z"
+title: >-
+  A Lenda de Ochi: Novo Filme da A24 Produzido pelos Irmãos Russo Revela Pôster
+  e Trailer
+slug: a-lenda-de-ochi-filme-da-a24-produzido-pelos-russo-ganha-pster-e-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/eH6K-dX7HdY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/mJy-dcj_QKgn5apt4Ov8ZOhZigE=/480x360/smart/extras/conteudos/The_Legend_of_Ochi_01_Yuri_and_Ochi.jpg
+keywords: >-
+  A Lenda de Ochi, A24, Irmãos Russo, Willem Dafoe, Finn Wolfhard, Emily Watson,
+  filme de fantasia, cinema brasileiro
+data: '2025-03-31T21:09:58.148Z'
+tags:
+  - a24
+  - irmãos russo
+  - filme
+  - trailer
+  - festival de sundance
+  - paris filmes
 ---
 
 O aguardado filme 'A Lenda de Ochi', uma produção da A24 com a colaboração dos renomados Irmãos Russo, acaba de lançar seu pôster e trailer no Brasil. A distribuição nacional fica por conta da Paris Filmes. O filme fez sua estreia no prestigiado Festival de Sundance deste ano, onde foi bem recebido pela crítica especializada, incluindo avaliações do site Omelete.

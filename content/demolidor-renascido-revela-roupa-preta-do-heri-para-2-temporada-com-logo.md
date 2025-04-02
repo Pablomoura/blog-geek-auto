@@ -1,11 +1,20 @@
 ---
-title: "Demolidor: Renascido - Segunda Temporada Apresenta Uniforme Preto Clássico"
-slug: "demolidor-renascido-revela-roupa-preta-do-heri-para-2-temporada-com-logo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/91xT9gI62ZTniiVuPej03Y9neBs=/987x0/smart/uploads/conteudo/fotos/demolidor-uniforme-preto_EaAphqi.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/sSZ8fVE4-mOsJgm4IfzVhv-uiNM=/480x360/smart/extras/conteudos/demolidor-roupa-preta.jpg"
-data: "2025-03-27T12:19:51.836Z"
+title: 'Demolidor: Renascido - Segunda Temporada Apresenta Uniforme Preto Clássico'
+slug: demolidor-renascido-revela-roupa-preta-do-heri-para-2-temporada-com-logo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/91xT9gI62ZTniiVuPej03Y9neBs=/987x0/smart/uploads/conteudo/fotos/demolidor-uniforme-preto_EaAphqi.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/sSZ8fVE4-mOsJgm4IfzVhv-uiNM=/480x360/smart/extras/conteudos/demolidor-roupa-preta.jpg
+data: '2025-03-27T12:19:51.836Z'
+tags:
+  - 'demolidor: renascido'
+  - uniforme preto
+  - charlie cox
+  - segunda temporada
+  - homem sem medo
+  - logo dd
 ---
 
 As gravações da segunda temporada de Demolidor: Renascido estão a todo vapor em Nova York, e as recentes fotos do set revelam a aguardada estreia do uniforme preto do Homem Sem Medo, interpretado por Charlie Cox. Este visual clássico do personagem vem acompanhado do emblemático logo 'DD' estampado no peito.

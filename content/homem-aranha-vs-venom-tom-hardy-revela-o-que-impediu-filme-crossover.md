@@ -1,12 +1,23 @@
 ---
-title: "Homem-Aranha vs. Venom: Tom Hardy Explica Por Que o Crossover Não Aconteceu"
-slug: "homem-aranha-vs-venom-tom-hardy-revela-o-que-impediu-filme-crossover"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/r-d6MPhYzhDZbOlJrinfKCgiE4g=/987x0/smart/uploads/conteudo/fotos/02_MzMztaH.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QVoRuzDkmNDOIXwqdL8oZ_C9U6M=/480x360/smart/extras/conteudos/01_kdW70gK.jpg"
-keywords: "Homem-Aranha, Venom, Tom Hardy, Tom Holland, crossover, Sony Pictures, Marvel Studios"
-data: "2025-03-31T20:12:20.632Z"
+title: 'Homem-Aranha vs. Venom: Tom Hardy Explica Por Que o Crossover Não Aconteceu'
+slug: homem-aranha-vs-venom-tom-hardy-revela-o-que-impediu-filme-crossover
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/r-d6MPhYzhDZbOlJrinfKCgiE4g=/987x0/smart/uploads/conteudo/fotos/02_MzMztaH.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QVoRuzDkmNDOIXwqdL8oZ_C9U6M=/480x360/smart/extras/conteudos/01_kdW70gK.jpg
+keywords: >-
+  Homem-Aranha, Venom, Tom Hardy, Tom Holland, crossover, Sony Pictures, Marvel
+  Studios
+data: '2025-03-31T20:12:20.632Z'
+tags:
+  - homem-aranha
+  - venom
+  - tom hardy
+  - crossover
+  - estúdios
+  - políticas internas
 ---
 
 A possibilidade de um crossover entre o Homem-Aranha, interpretado por Tom Holland, e o Venom de Tom Hardy foi muito discutida, mas acabou não se concretizando. Segundo Hardy, o principal obstáculo foram as 'políticas internas dos estúdios'.

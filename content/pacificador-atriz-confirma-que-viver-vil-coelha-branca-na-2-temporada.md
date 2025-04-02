@@ -1,11 +1,20 @@
 ---
-title: "Pacificador | Brey Noelle Confirmada como Vilã Coelha Branca na 2ª Temporada"
-slug: "pacificador-atriz-confirma-que-viver-vil-coelha-branca-na-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/CWLB-GTrgqgEB8cUqdAZ3zQAv4M=/987x0/smart/uploads/conteudo/fotos/noelle-pacificador.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/I6XR8deX3BUVDk0AJinqLwx0Lig=/480x360/smart/extras/conteudos/pacificador_HobxKss.jpg"
-data: "2025-03-27T20:10:42.952Z"
+title: Pacificador | Brey Noelle Confirmada como Vilã Coelha Branca na 2ª Temporada
+slug: pacificador-atriz-confirma-que-viver-vil-coelha-branca-na-2-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/CWLB-GTrgqgEB8cUqdAZ3zQAv4M=/987x0/smart/uploads/conteudo/fotos/noelle-pacificador.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/I6XR8deX3BUVDk0AJinqLwx0Lig=/480x360/smart/extras/conteudos/pacificador_HobxKss.jpg
+data: '2025-03-27T20:10:42.952Z'
+tags:
+  - pacificador
+  - brey noelle
+  - coelha branca
+  - segunda temporada
+  - vilã
+  - série de tv
 ---
 
 Após especulações recentes, Brey Noelle, atriz e cantora, foi oficialmente confirmada no elenco da segunda temporada de 'Pacificador'. A confirmação veio após seu nome aparecer no IMDB, levantando rumores que foram posteriormente validados pela própria Noelle através de seus stories no Instagram e comentários em diversas publicações.

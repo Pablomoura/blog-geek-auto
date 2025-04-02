@@ -7,6 +7,12 @@ tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/SNm_IzffYa3UCPWMuJHuxOmAso4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T183716.313.png"
 keywords: "Rodrigo Santoro, Alan Ritchson, Runner, filme de ação, thriller"
 data: "2025-04-02T22:10:40.545Z"
+tags:
+  - Rodrigo Santoro
+  - Alan Ritchson
+  - Runner
+  - filme de ação
+  - thriller
 ---
 
 O cenário cinematográfico se prepara para receber o thriller de ação 'Runner', protagonizado por Alan Ritchson, conhecido por seu papel em 'Reacher'. A novidade é que o ator brasileiro Rodrigo Santoro foi escolhido para interpretar o antagonista do filme. O roteiro, que estava arquivado anteriormente, é uma criação de Tommy White e Miles Hubley e promete fortes emoções.

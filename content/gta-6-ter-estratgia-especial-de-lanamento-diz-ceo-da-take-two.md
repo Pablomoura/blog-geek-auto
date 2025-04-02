@@ -1,12 +1,21 @@
 ---
-title: "Take-Two Anuncia Estratégia de Lançamento Inovadora para GTA 6"
-slug: "gta-6-ter-estratgia-especial-de-lanamento-diz-ceo-da-take-two"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/YK-rJuQAgt79gtsH-M3EPSruO_g=/987x0/smart/uploads/conteudo/fotos/gta6_2CSKANR.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Q_kYrGvhsEG3ObInOIf5004K3M0=/480x360/smart/extras/conteudos/gta6_LLy9Vh7.jpg"
-keywords: "GTA 6, lançamento de GTA 6, estratégia de lançamento"
-data: "2025-03-30T19:53:40.335Z"
+title: Take-Two Anuncia Estratégia de Lançamento Inovadora para GTA 6
+slug: gta-6-ter-estratgia-especial-de-lanamento-diz-ceo-da-take-two
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/YK-rJuQAgt79gtsH-M3EPSruO_g=/987x0/smart/uploads/conteudo/fotos/gta6_2CSKANR.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Q_kYrGvhsEG3ObInOIf5004K3M0=/480x360/smart/extras/conteudos/gta6_LLy9Vh7.jpg
+keywords: 'GTA 6, lançamento de GTA 6, estratégia de lançamento'
+data: '2025-03-30T19:53:40.335Z'
+tags:
+  - gta 6
+  - take-two interactive
+  - rockstar games
+  - estratégia de lançamento
+  - jogos
+  - indústria de videogames
 ---
 
 A Rockstar Games está deliberadamente retendo a data de lançamento de GTA 6, revelou Strauss Zelnick, CEO da Take-Two Interactive, proprietária do estúdio responsável pela franquia de jogos mais rentável. Em entrevista à Bloomberg, Zelnick destacou que a estratégia visa capitalizar a grande expectativa em torno do jogo. "A expectativa em torno deste título pode ser a maior que já presenciei para qualquer propriedade intelectual", disse ele.

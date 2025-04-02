@@ -1,12 +1,23 @@
 ---
-title: "The Boys | Antony Starr Revela Final Surpreendente para a Série"
-slug: "the-boys-antony-starr-diz-que-final-surpreendente-ou-chocante"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/H612mtJivrUatnfKvHmGBldB64Y=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-31T184106.755.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/8SZtH5pFDKHyI5kxABI5x7N3Akc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-31T184106.755.png"
-keywords: "The Boys, Antony Starr, final de The Boys, Amazon Prime Video, série de super-heróis"
-data: "2025-03-31T22:10:06.019Z"
+title: The Boys | Antony Starr Revela Final Surpreendente para a Série
+slug: the-boys-antony-starr-diz-que-final-surpreendente-ou-chocante
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/H612mtJivrUatnfKvHmGBldB64Y=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-31T184106.755.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/8SZtH5pFDKHyI5kxABI5x7N3Akc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-31T184106.755.png
+keywords: >-
+  The Boys, Antony Starr, final de The Boys, Amazon Prime Video, série de
+  super-heróis
+data: '2025-03-31T22:10:06.019Z'
+tags:
+  - the boys
+  - antony starr
+  - final surpreendente
+  - capitão pátria
+  - entrevista
+  - collider
 ---
 
 Em uma recente entrevista ao site Collider, Antony Starr, conhecido por seu papel como Capitão Pátria em The Boys, discutiu suas expectativas para o final da série, que conclui na quinta temporada. Starr, que ainda não assistiu ao último episódio, expressou sua surpresa com os roteiros finais, destacando a imprevisibilidade da série: 'Os roteiros são incrivelmente imprevisíveis. Mesmo avançado na leitura, cada novo script traz uma surpresa', disse o ator.

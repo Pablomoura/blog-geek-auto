@@ -1,11 +1,20 @@
 ---
-title: "Demolidor: Renascido | Novo Pôster Destaca o Rei do Crime"
-slug: "demolidor-renascido-rei-do-crime-estampa-novo-pster-da-srie"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/7mGM7k96NEm08HPMP7pHqSFsY2g=/987x0/smart/uploads/conteudo/fotos/demolidorrenascido_g96J0k2.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Rx3AuXhd_5EBcCuTA_Yr8WUCooM=/480x360/smart/extras/conteudos/demolidorrenascido_fpK4hUq.jpg"
-data: "2025-03-29T19:04:06.634Z"
+title: 'Demolidor: Renascido | Novo Pôster Destaca o Rei do Crime'
+slug: demolidor-renascido-rei-do-crime-estampa-novo-pster-da-srie
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/7mGM7k96NEm08HPMP7pHqSFsY2g=/987x0/smart/uploads/conteudo/fotos/demolidorrenascido_g96J0k2.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Rx3AuXhd_5EBcCuTA_Yr8WUCooM=/480x360/smart/extras/conteudos/demolidorrenascido_fpK4hUq.jpg
+data: '2025-03-29T19:04:06.634Z'
+tags:
+  - 'demolidor: renascido'
+  - rei do crime
+  - vincent d'onofrio
+  - disney+
+  - pôster
+  - marvel
 ---
 
 O Disney+ revelou um empolgante novo pôster de 'Demolidor: Renascido' neste sábado (29), destacando o personagem Wilson Fisk, o infame Rei do Crime, interpretado por Vincent D'Onofrio. A arte surge após os dramáticos eventos dos capítulos cinco e seis, que foram disponibilizados simultaneamente esta semana. Confira a imagem abaixo.

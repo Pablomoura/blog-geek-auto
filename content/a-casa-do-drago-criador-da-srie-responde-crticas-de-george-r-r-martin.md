@@ -1,12 +1,23 @@
 ---
-title: "A Casa do Dragão | Showrunner Ryan Condal Responde às Críticas de George R.R. Martin"
-slug: "a-casa-do-drago-criador-da-srie-responde-crticas-de-george-r-r-martin"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/rmAuhI_xWnxc3t0MvgbDHw0iAbY=/987x0/smart/uploads/conteudo/fotos/02_MOqInDe.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nBHeVkR0EWe-P_jKa1LXOK2MBNo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_155604.png"
-keywords: "A Casa do Dragão, George R.R. Martin, Ryan Condal, adaptação, série"
-data: "2025-03-31T19:08:43.058Z"
+title: >-
+  A Casa do Dragão | Showrunner Ryan Condal Responde às Críticas de George R.R.
+  Martin
+slug: a-casa-do-drago-criador-da-srie-responde-crticas-de-george-r-r-martin
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/rmAuhI_xWnxc3t0MvgbDHw0iAbY=/987x0/smart/uploads/conteudo/fotos/02_MOqInDe.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nBHeVkR0EWe-P_jKa1LXOK2MBNo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_155604.png
+keywords: 'A Casa do Dragão, George R.R. Martin, Ryan Condal, adaptação, série'
+data: '2025-03-31T19:08:43.058Z'
+tags:
+  - a casa do dragão
+  - ryan condal
+  - george r.r. martin
+  - críticas
+  - adaptação de série
+  - entertainment weekly
 ---
 
 Ryan Condal, o showrunner de 'A Casa do Dragão', discutiu em entrevista à Entertainment Weekly a sua decepção com as críticas de George R.R. Martin, autor das 'As Crônicas de Gelo e Fogo'. Martin recentemente expressou insatisfação em seu blog sobre como a série adaptou o episódio 'Sangue & Queijo', destacando a omissão do personagem Príncipe Maelor e as potenciais implicações dessa mudança para o enredo futuro da série.

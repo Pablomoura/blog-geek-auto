@@ -1,11 +1,20 @@
 ---
-title: "BBB 25 | Diego Hypólito enfrenta mal-estar e Maike reconsidera sua decisão"
-slug: "bbb-25-diego-hyplito-passa-mal-e-maike-se-arrepende-de-atitude-trara"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/F_ObgXFOphtkJB2FKucQAdB3dN4=/987x0/smart/uploads/conteudo/fotos/bbb25-diego-hypolito-saude.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nMJXk5O4SKbs-Izc2FF94cx2YPM=/480x360/smart/extras/conteudos/bbb25-diego-hypolito-saude-peq.jpg"
-data: "2025-03-28T05:09:33.670Z"
+title: BBB 25 | Diego Hypólito enfrenta mal-estar e Maike reconsidera sua decisão
+slug: bbb-25-diego-hyplito-passa-mal-e-maike-se-arrepende-de-atitude-trara
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/F_ObgXFOphtkJB2FKucQAdB3dN4=/987x0/smart/uploads/conteudo/fotos/bbb25-diego-hypolito-saude.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nMJXk5O4SKbs-Izc2FF94cx2YPM=/480x360/smart/extras/conteudos/bbb25-diego-hypolito-saude-peq.jpg
+data: '2025-03-28T05:09:33.670Z'
+tags:
+  - bbb 25
+  - diego hypólito
+  - prova do líder
+  - saúde
+  - maike
+  - competição
 ---
 
 Diego Hypólito, sob pressão no BBB 25 após ser alvo de Maike, sentiu-se mal após participar da Prova do Líder. O ex-ginasta precisou de intervenção médica devido a problemas de saúde durante o jogo.

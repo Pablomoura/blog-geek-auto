@@ -1,11 +1,20 @@
 ---
-title: "Apple Lança Computador Lumon Terminal Pro Inspirado na Série 'Ruptura'"
-slug: "ruptura-apple-construiu-o-computador-da-srie-na-vida-real-veja"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/PIrRUiJd4Y_dg_eJ8iudjrfFQbU=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T191508.260.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/A1brDil9VFLpb4WLiPj33jQbFHg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T191508.260.png"
-data: "2025-03-27T23:09:59.837Z"
+title: Apple Lança Computador Lumon Terminal Pro Inspirado na Série 'Ruptura'
+slug: ruptura-apple-construiu-o-computador-da-srie-na-vida-real-veja
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/PIrRUiJd4Y_dg_eJ8iudjrfFQbU=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T191508.260.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/A1brDil9VFLpb4WLiPj33jQbFHg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T191508.260.png
+data: '2025-03-27T23:09:59.837Z'
+tags:
+  - apple
+  - lumon terminal pro
+  - ruptura
+  - computador
+  - lançamento
+  - tecnologia
 ---
 
 Nesta quinta-feira (27), a Apple surpreendeu os fãs ao disponibilizar em sua loja o Lumon Terminal Pro, o mesmo modelo de computador usado pelos personagens da série 'Ruptura'. Ao visitar o site da empresa, os interessados podem visualizar o produto em destaque.

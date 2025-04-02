@@ -1,11 +1,22 @@
 ---
-title: "Steven Yeun Confirmado no Elenco da Nova Trilogia Animada de 'Avatar: O Último Mestre do Ar'"
-slug: "avatar-o-ltimo-mestre-steven-yeun-entra-para-elenco-do-novo-filme-animado"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/2va98Pw8dGcTufjEFeU5t3lpMrE=/987x0/smart/uploads/conteudo/fotos/avatar-o-ultimo-mestre-do-ar-steven-yeun.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/HXfCo55iuL3YlYg2o-5eBZopYW4=/480x360/smart/extras/conteudos/avatar-o-ultimo-mestre-do-ar-steven-yeun.png"
-data: "2025-03-27T18:47:51.937Z"
+title: >-
+  Steven Yeun Confirmado no Elenco da Nova Trilogia Animada de 'Avatar: O Último
+  Mestre do Ar'
+slug: avatar-o-ltimo-mestre-steven-yeun-entra-para-elenco-do-novo-filme-animado
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/2va98Pw8dGcTufjEFeU5t3lpMrE=/987x0/smart/uploads/conteudo/fotos/avatar-o-ultimo-mestre-do-ar-steven-yeun.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/HXfCo55iuL3YlYg2o-5eBZopYW4=/480x360/smart/extras/conteudos/avatar-o-ultimo-mestre-do-ar-steven-yeun.png
+data: '2025-03-27T18:47:51.937Z'
+tags:
+  - steven yeun
+  - 'avatar: o último mestre do ar'
+  - trilogia animada
+  - elenco vocal
+  - filmes animados
+  - série aclamada
 ---
 
 A aclamada série 'Avatar: O Último Mestre do Ar' está expandindo seu universo com uma trilogia de filmes animados. Segundo a Variety, Steven Yeun, conhecido por seu trabalho em 'Invencível', fará parte do elenco vocal deste projeto ainda sem título oficial.

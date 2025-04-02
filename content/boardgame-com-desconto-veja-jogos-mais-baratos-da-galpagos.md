@@ -1,12 +1,20 @@
 ---
-title: "Promoção Galápagos Jogos: Grandes Descontos em Boardgames na Amazon"
-slug: "boardgame-com-desconto-veja-jogos-mais-baratos-da-galpagos"
-categoria: "OFERTAS"
-midia: "https://cdn.ome.lt/iYNQRxslu3sxKPL8KawozI3P0mo=/987x0/smart/uploads/conteudo/fotos/02_MVUxOxT.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fna14vGXRj0preK2Mc2uV9_ptx0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_175259.png"
-keywords: "Galápagos Jogos, descontos boardgame, jogos de tabuleiro, promoção Amazon"
-data: "2025-04-01T13:23:00.279Z"
+title: 'Promoção Galápagos Jogos: Grandes Descontos em Boardgames na Amazon'
+slug: boardgame-com-desconto-veja-jogos-mais-baratos-da-galpagos
+categoria: OFERTAS
+midia: >-
+  https://cdn.ome.lt/iYNQRxslu3sxKPL8KawozI3P0mo=/987x0/smart/uploads/conteudo/fotos/02_MVUxOxT.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fna14vGXRj0preK2Mc2uV9_ptx0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_175259.png
+keywords: 'Galápagos Jogos, descontos boardgame, jogos de tabuleiro, promoção Amazon'
+data: '2025-04-01T13:23:00.279Z'
+tags:
+  - galápagos jogos
+  - promoção amazon
+  - descontos boardgames
+  - jogos de tabuleiro
+  - omelete
 ---
 
 A Galápagos Jogos lançou uma promoção especial na Amazon, oferecendo descontos significativos em uma ampla seleção de seus boardgames. Confira alguns dos destaques escolhidos pelo Omelete para você aproveitar: 

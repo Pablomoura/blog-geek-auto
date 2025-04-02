@@ -1,11 +1,19 @@
 ---
-title: "Shangri-La Frontier: Anime é Renovado para Terceira Temporada"
-slug: "shangri-la-frontier-anime-renovado-para-a-terceira-temporada"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/k35Ucp3R1Y0GBGqFNPqPE9uk2HE=/987x0/smart/uploads/conteudo/fotos/shangrilafrontier_QOw1jNO.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/57xNALfLVFqdcgJFynp9C4BiMs4=/480x360/smart/extras/conteudos/shangrilafrontier_98UOxXg.jpg"
-data: "2025-03-30T14:02:57.685Z"
+title: 'Shangri-La Frontier: Anime é Renovado para Terceira Temporada'
+slug: shangri-la-frontier-anime-renovado-para-a-terceira-temporada
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/k35Ucp3R1Y0GBGqFNPqPE9uk2HE=/987x0/smart/uploads/conteudo/fotos/shangrilafrontier_QOw1jNO.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/57xNALfLVFqdcgJFynp9C4BiMs4=/480x360/smart/extras/conteudos/shangrilafrontier_98UOxXg.jpg
+data: '2025-03-30T14:02:57.685Z'
+tags:
+  - shangri-la frontier
+  - terceira temporada
+  - anime
+  - estúdio c2c
+  - renovação
 ---
 
 O estúdio Katarina confirmou neste domingo (30) a renovação de 'Shangri-La Frontier' para uma terceira temporada. O anúncio veio logo após o término da exibição do segundo ano do anime, que ocorreu neste fim de semana.

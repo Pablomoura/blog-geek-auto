@@ -1,12 +1,23 @@
 ---
-title: "A Casa do Dragão: Início das filmagens da terceira temporada é anunciado por Emma D'Arcy"
-slug: "a-casa-do-drago-vdeo-com-emma-darcy-anuncia-incio-das-filmagens-do-3-ano"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/iJVJ6qzLxCPXyBEvmHvfkC68Eiw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T133918.713.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/HBjWm87ovbWwA1Wo-FcaSuN-oQg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T133931.035.png"
-keywords: "A Casa do Dragão, Emma D'Arcy, filmagens, temporada 3, Game of Thrones"
-data: "2025-03-31T17:10:38.246Z"
+title: >-
+  A Casa do Dragão: Início das filmagens da terceira temporada é anunciado por
+  Emma D'Arcy
+slug: a-casa-do-drago-vdeo-com-emma-darcy-anuncia-incio-das-filmagens-do-3-ano
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/iJVJ6qzLxCPXyBEvmHvfkC68Eiw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T133918.713.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/HBjWm87ovbWwA1Wo-FcaSuN-oQg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T133931.035.png
+keywords: 'A Casa do Dragão, Emma D''Arcy, filmagens, temporada 3, Game of Thrones'
+data: '2025-03-31T17:10:38.246Z'
+tags:
+  - a casa do dragão
+  - emma d'arcy
+  - filmagens
+  - temporada 3
+  - game of thrones
+  - rhaenyra targaryen
 ---
 
 A série 'A Casa do Dragão', derivada do sucesso 'Game of Thrones', iniciará as filmagens de sua terceira temporada em breve, com Emma D'Arcy reprisando seu papel como Rhaenyra Targaryen. Em um recente vídeo de bastidores, a atriz compartilhou a empolgação com o novo ciclo da série.

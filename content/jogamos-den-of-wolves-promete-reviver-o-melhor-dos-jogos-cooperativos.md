@@ -1,12 +1,20 @@
 ---
-title: "Den of Wolves: Uma Promessa de Revolução nos Jogos Cooperativos"
-slug: "jogamos-den-of-wolves-promete-reviver-o-melhor-dos-jogos-cooperativos"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/iO9wBSXNIkM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/1VTh5BwhtbX0osBzLLURPgn1_Rs=/480x360/smart/extras/conteudos/imagem_2025-04-01_115859586.png"
-keywords: "Den of Wolves, jogos cooperativos, 10 Chambers, Payday, GTFO, jogo distópico"
-data: "2025-04-01T16:11:09.818Z"
+title: 'Den of Wolves: Uma Promessa de Revolução nos Jogos Cooperativos'
+slug: jogamos-den-of-wolves-promete-reviver-o-melhor-dos-jogos-cooperativos
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/iO9wBSXNIkM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/1VTh5BwhtbX0osBzLLURPgn1_Rs=/480x360/smart/extras/conteudos/imagem_2025-04-01_115859586.png
+keywords: 'Den of Wolves, jogos cooperativos, 10 Chambers, Payday, GTFO, jogo distópico'
+data: '2025-04-01T16:11:09.818Z'
+tags:
+  - jogos cooperativos
+  - den of wolves
+  - desenvolvedores de payday
+  - influências de blade runner
+  - experiência em jogos
+  - akira
 ---
 
 A comunidade de jogos cooperativos está em festa com o anúncio de Den of Wolves, uma criação dos desenvolvedores por trás de Payday 1 e 2 e GTFO. Este novo título promete uma experiência enriquecida com influências de Blade Runner e Akira. Em março, o Omelete teve a oportunidade exclusiva de testar o jogo em São Francisco, Califórnia, revelado com um trailer eletrizante no The Game Awards 2024.

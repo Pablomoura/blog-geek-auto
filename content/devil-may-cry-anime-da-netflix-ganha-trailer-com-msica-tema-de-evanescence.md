@@ -1,11 +1,19 @@
 ---
-title: "Netflix lança trailer de 'Devil May Cry' com música tema de Evanescence"
-slug: "devil-may-cry-anime-da-netflix-ganha-trailer-com-msica-tema-de-evanescence"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/Ys1V9BE3kgA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/9h3NlSI7jP4NQcdEk_kCIuozrNo=/480x360/smart/extras/conteudos/devil-may-cry-netflix_Wbzm4d7.png"
-data: "2025-03-27T19:07:55.013Z"
+title: Netflix lança trailer de 'Devil May Cry' com música tema de Evanescence
+slug: devil-may-cry-anime-da-netflix-ganha-trailer-com-msica-tema-de-evanescence
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/Ys1V9BE3kgA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/9h3NlSI7jP4NQcdEk_kCIuozrNo=/480x360/smart/extras/conteudos/devil-may-cry-netflix_Wbzm4d7.png
+data: '2025-03-27T19:07:55.013Z'
+tags:
+  - netflix
+  - devil may cry
+  - evanescence
+  - música tema
+  - animação
+  - trailer
 ---
 
 A Netflix revelou recentemente que a banda Evanescence compôs uma música original para a nova animação 'Devil May Cry', baseada na famosa série de jogos da Capcom. O tema, intitulado 'Afterlife', foi apresentado em um novo trailer que exibe cenas da série. Confira o vídeo no site oficial da Netflix!

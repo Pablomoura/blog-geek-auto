@@ -1,12 +1,21 @@
 ---
-title: "Premonição 6 revela cena chocante e humorística na CinemaCon"
-slug: "premonio-6-ganha-cena-indita-e-violenta-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/TATI-RfbnvIUmWNDDUHoE7ddhfc=/987x0/smart/uploads/conteudo/fotos/premonicap-6.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/MCjP33ohNozEzYxHtyoo2Q7Dl8c=/480x360/smart/extras/conteudos/premonicap-6.png"
-keywords: "Premonição 6, CinemaCon, cena inédita, franquia de terror, estreia em maio"
-data: "2025-04-02T00:50:27.925Z"
+title: Premonição 6 revela cena chocante e humorística na CinemaCon
+slug: premonio-6-ganha-cena-indita-e-violenta-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/TATI-RfbnvIUmWNDDUHoE7ddhfc=/987x0/smart/uploads/conteudo/fotos/premonicap-6.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/MCjP33ohNozEzYxHtyoo2Q7Dl8c=/480x360/smart/extras/conteudos/premonicap-6.png
+keywords: 'Premonição 6, CinemaCon, cena inédita, franquia de terror, estreia em maio'
+data: '2025-04-02T00:50:27.925Z'
+tags:
+  - premonição 6
+  - cinemacon
+  - warner bros
+  - new line cinema
+  - cena inédita
+  - humor
 ---
 
 Durante o painel da Warner Bros. na CinemaCon, 'Premonição 6: Laços de Sangue' foi um dos destaques apresentados pela New Line Cinema, com a exibição de uma cena inédita que mistura violência e humor. A equipe do Omelete esteve presente e compartilha detalhes do que foi visto. 

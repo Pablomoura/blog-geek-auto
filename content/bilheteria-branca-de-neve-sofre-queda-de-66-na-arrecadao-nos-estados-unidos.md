@@ -1,11 +1,19 @@
 ---
-title: "Queda Acentuada nas Bilheterias para o Remake de Branca de Neve nos EUA"
-slug: "bilheteria-branca-de-neve-sofre-queda-de-66-na-arrecadao-nos-estados-unidos"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/qKCJkV2B8sE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/7bMLdXqkhRv-V4Z8mXjQUpFSuc0=/480x360/smart/extras/conteudos/01_9K1Fyb1.jpg"
-data: "2025-03-30T17:08:40.799Z"
+title: Queda Acentuada nas Bilheterias para o Remake de Branca de Neve nos EUA
+slug: bilheteria-branca-de-neve-sofre-queda-de-66-na-arrecadao-nos-estados-unidos
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/qKCJkV2B8sE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/7bMLdXqkhRv-V4Z8mXjQUpFSuc0=/480x360/smart/extras/conteudos/01_9K1Fyb1.jpg
+data: '2025-03-30T17:08:40.799Z'
+tags:
+  - branca de neve
+  - bilheterias
+  - remake
+  - rachel zegler
+  - gal gadot
+  - cinema
 ---
 
 O remake de 'Branca de Neve e os Sete Anões', estrelado por Rachel Zegler e Gal Gadot, enfrenta dificuldades nas bilheterias dos Estados Unidos, registrando um declínio de 66% em seu segundo fim de semana, com uma arrecadação de apenas US$ 14,2 milhões. No total, o filme acumula US$ 66,8 milhões nos EUA e US$ 143,1 milhões globalmente.

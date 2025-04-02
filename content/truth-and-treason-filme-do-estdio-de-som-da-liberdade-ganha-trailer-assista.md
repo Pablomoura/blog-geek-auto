@@ -1,12 +1,21 @@
 ---
-title: "Truth and Treason | Filme do estúdio de Som da Liberdade ganha trailer; assista"
-slug: "truth-and-treason-filme-do-estdio-de-som-da-liberdade-ganha-trailer-assista"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/MoUnZcAd5uE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/hz42N9sNQ7kuvN7TcLLBn2dZhHo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T135050.984.png"
-keywords: "cinema, estreia de filme, trailer"
-data: "2025-04-02T17:01:28.500Z"
+title: >-
+  Truth and Treason | Filme do estúdio de Som da Liberdade ganha trailer;
+  assista
+slug: truth-and-treason-filme-do-estdio-de-som-da-liberdade-ganha-trailer-assista
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/MoUnZcAd5uE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/hz42N9sNQ7kuvN7TcLLBn2dZhHo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T135050.984.png
+keywords: 'cinema, estreia de filme, trailer'
+data: '2025-04-02T17:01:28.500Z'
+tags:
+  - truth & treason
+  - trailer
+  - matt whitaker
+  - estreia de filme
+  - som da liberdade
 ---
 
 O novo filme 'Truth & Treason', produzido pelo mesmo estúdio responsável por 'Som da Liberdade', está previsto para estrear nos cinemas dos Estados Unidos no final deste ano. O trailer oficial já pode ser conferido.

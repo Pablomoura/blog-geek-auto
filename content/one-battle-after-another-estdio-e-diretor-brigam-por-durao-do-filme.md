@@ -1,11 +1,22 @@
 ---
-title: "Disputa nos Bastidores: Warner Bros e Paul Thomas Anderson em Conflito por Duração de Filme"
-slug: "one-battle-after-another-estdio-e-diretor-brigam-por-durao-do-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/l7juvuNTIqxLx39LxgGeEvryEhk=/987x0/smart/uploads/conteudo/fotos/onebattleafteranother.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/41T-G-U5z6mwp35I8SL4T-wjeqg=/480x360/smart/extras/conteudos/onebattleafteranother.jpg"
-data: "2025-03-29T22:08:24.941Z"
+title: >-
+  Disputa nos Bastidores: Warner Bros e Paul Thomas Anderson em Conflito por
+  Duração de Filme
+slug: one-battle-after-another-estdio-e-diretor-brigam-por-durao-do-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/l7juvuNTIqxLx39LxgGeEvryEhk=/987x0/smart/uploads/conteudo/fotos/onebattleafteranother.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/41T-G-U5z6mwp35I8SL4T-wjeqg=/480x360/smart/extras/conteudos/onebattleafteranother.jpg
+data: '2025-03-29T22:08:24.941Z'
+tags:
+  - warner bros
+  - paul thomas anderson
+  - duração de filme
+  - leonardo dicaprio
+  - conflito no cinema
+  - edição de filme
 ---
 
 A produção de 'One Battle After Another' enfrenta tensões na Warner Bros. Segundo a Variety, o estúdio está em desacordo com o diretor Paul Thomas Anderson sobre a duração do filme, que inclui Leonardo DiCaprio no elenco.

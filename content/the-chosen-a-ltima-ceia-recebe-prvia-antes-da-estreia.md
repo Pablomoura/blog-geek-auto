@@ -1,11 +1,20 @@
 ---
-title: "The Chosen: A Última Ceia ganha prévia antes de sua estreia nos cinemas"
-slug: "the-chosen-a-ltima-ceia-recebe-prvia-antes-da-estreia"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/E26FDXeZwcqhJdIQdoLLSBc9P7w=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T171056.124.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hDvRFsorldVImAIBBV-NXj3oEJ8=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T171056.124.png"
-data: "2025-03-28T21:09:32.192Z"
+title: 'The Chosen: A Última Ceia ganha prévia antes de sua estreia nos cinemas'
+slug: the-chosen-a-ltima-ceia-recebe-prvia-antes-da-estreia
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/E26FDXeZwcqhJdIQdoLLSBc9P7w=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T171056.124.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hDvRFsorldVImAIBBV-NXj3oEJ8=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T171056.124.png
+data: '2025-03-28T21:09:32.192Z'
+tags:
+  - the chosen
+  - última ceia
+  - cinema
+  - jesus
+  - série religiosa
+  - estreia
 ---
 
 O perfil oficial da série The Chosen: Os Escolhidos divulgou um vídeo nesta sexta-feira (28), celebrando a estreia de The Chosen: A Última Ceia nos cinemas americanos e canadenses. No clipe, Jesus aparece empunhando um chicote e avançando em direção à câmera.

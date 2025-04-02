@@ -1,12 +1,21 @@
 ---
-title: "Adiamento do Filme de Kendrick Lamar com Criadores de South Park para 2026"
-slug: "filme-dos-criadores-de-south-park-com-kendrick-lamar-adiado"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/SZuxeVjOBLb9ZCXPhuIUnDmJMvo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-31T195902.787.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/kFshn0hFnWysSFR6VCvSuIt0HBM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-31T195902.787.png"
-keywords: "Kendrick Lamar, South Park, CinemaCon, Super Bowl 2025, filme adiado"
-data: "2025-03-31T23:09:22.146Z"
+title: Adiamento do Filme de Kendrick Lamar com Criadores de South Park para 2026
+slug: filme-dos-criadores-de-south-park-com-kendrick-lamar-adiado
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/SZuxeVjOBLb9ZCXPhuIUnDmJMvo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-31T195902.787.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/kFshn0hFnWysSFR6VCvSuIt0HBM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-31T195902.787.png
+keywords: 'Kendrick Lamar, South Park, CinemaCon, Super Bowl 2025, filme adiado'
+data: '2025-03-31T23:09:22.146Z'
+tags:
+  - kendrick lamar
+  - south park
+  - matt stone
+  - trey parker
+  - adiamento de filme
+  - turnê mundial
 ---
 
 A estreia do aguardado filme que une Kendrick Lamar aos criadores de South Park, Matt Stone e Trey Parker, foi adiada de 4 de julho de 2025 para 20 de março de 2026. 

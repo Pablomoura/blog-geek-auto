@@ -1,12 +1,20 @@
 ---
-title: "Demolidor Renascido | Segunda Temporada Revela Novo Traje em Cena de Ação"
-slug: "demolidor-renascido-vdeo-da-2-temporada-mostra-heri-em-luta-com-novo-visual"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/UOzu3p_mrxM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/fCrtnvkrLvHRtmQMwGGQwQskN44=/480x360/smart/extras/conteudos/01_wUIUPS6.jpg"
-keywords: "Demolidor, Disney+, Charlie Cox, Vincent D'Onofrio, nova temporada"
-data: "2025-04-02T16:14:00.841Z"
+title: Demolidor Renascido | Segunda Temporada Revela Novo Traje em Cena de Ação
+slug: demolidor-renascido-vdeo-da-2-temporada-mostra-heri-em-luta-com-novo-visual
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/UOzu3p_mrxM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/fCrtnvkrLvHRtmQMwGGQwQskN44=/480x360/smart/extras/conteudos/01_wUIUPS6.jpg
+keywords: 'Demolidor, Disney+, Charlie Cox, Vincent D''Onofrio, nova temporada'
+data: '2025-04-02T16:14:00.841Z'
+tags:
+  - demolidor renascido
+  - segunda temporada
+  - novo traje
+  - cena de ação
+  - uniforme preto
+  - vídeo de bastidores
 ---
 
 Recentemente foi divulgado um emocionante vídeo de bastidores da segunda temporada de 'Demolidor: Renascido', exibindo o protagonista em combate enquanto usa seu renovado uniforme preto. O vídeo, capturado durante as filmagens, apresenta o Demolidor em plena ação e pode ser assistido no início deste artigo.

@@ -1,12 +1,23 @@
 ---
-title: "Rick and Morty: 8ª Temporada Anuncia Data de Estreia e Novas Imagens"
-slug: "rick-and-morty-8-temporada-ganha-novas-imagens-e-data"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/n3MfhDwcVwjdBSMFnGeZq9HOgUU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T124444.388.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4NimbVTCixOBLsLZejEOSHlfnBo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T124429.913.png"
-keywords: "Rick and Morty, 8ª temporada, Adult Swim, Max, streaming, anime, Justin Roiland"
-data: "2025-04-01T16:12:37.510Z"
+title: 'Rick and Morty: 8ª Temporada Anuncia Data de Estreia e Novas Imagens'
+slug: rick-and-morty-8-temporada-ganha-novas-imagens-e-data
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/n3MfhDwcVwjdBSMFnGeZq9HOgUU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T124444.388.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4NimbVTCixOBLsLZejEOSHlfnBo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T124429.913.png
+keywords: >-
+  Rick and Morty, 8ª temporada, Adult Swim, Max, streaming, anime, Justin
+  Roiland
+data: '2025-04-01T16:12:37.510Z'
+tags:
+  - rick and morty
+  - 8ª temporada
+  - estreia
+  - adult swim
+  - imagens oficiais
+  - dia da mentira
 ---
 
 A oitava temporada de Rick and Morty, série de grande sucesso, acaba de ter sua data de estreia anunciada, juntamente com a divulgação de duas novas imagens oficiais. Estas foram apresentadas durante um especial do Adult Swim no último 31 de março, que celebrou o Dia da Mentira com um segmento em live-action de cenas icônicas da série.

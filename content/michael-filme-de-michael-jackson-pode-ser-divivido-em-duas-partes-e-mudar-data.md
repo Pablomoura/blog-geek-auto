@@ -1,12 +1,22 @@
 ---
-title: "Michael | Filme sobre Michael Jackson pode ser dividido em duas partes e ter data de estreia alterada"
-slug: "michael-filme-de-michael-jackson-pode-ser-divivido-em-duas-partes-e-mudar-data"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/fuxh6UDzqWGoK0FOMfld2OBl0ZM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T140050.806.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7EC0_I4Vc9uetNphcQ1LGrtqTEo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T140028.260.png"
-keywords: "Michael Jackson, cinebiografia, Antoine Fuqua, divisão de filme, estreia"
-data: "2025-04-02T17:09:05.761Z"
+title: >-
+  Michael | Filme sobre Michael Jackson pode ser dividido em duas partes e ter
+  data de estreia alterada
+slug: michael-filme-de-michael-jackson-pode-ser-divivido-em-duas-partes-e-mudar-data
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/fuxh6UDzqWGoK0FOMfld2OBl0ZM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T140050.806.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7EC0_I4Vc9uetNphcQ1LGrtqTEo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T140028.260.png
+keywords: 'Michael Jackson, cinebiografia, Antoine Fuqua, divisão de filme, estreia'
+data: '2025-04-02T17:09:05.761Z'
+tags:
+  - michael jackson
+  - cinebiografia
+  - filme dividido
+  - estreia alterada
+  - deadline
 ---
 
 A cinebiografia 'Michael', que retrata a vida do icônico Michael Jackson, está considerando uma grande mudança em sua estrutura e data de estreia. De acordo com informações do Deadline, existe a possibilidade de que o filme, que atualmente tem um corte próximo a quatro horas, seja dividido em duas partes distintas. Esta decisão, ainda em discussão pelos produtores da Lionsgate, poderia alterar significativamente a data de lançamento inicialmente prevista para outubro deste ano.

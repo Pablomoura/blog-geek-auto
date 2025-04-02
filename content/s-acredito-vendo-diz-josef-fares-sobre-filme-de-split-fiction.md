@@ -1,12 +1,21 @@
 ---
-title: "'Só acredito vendo', diz Josef Fares sobre filme de 'Split Fiction'"
-slug: "s-acredito-vendo-diz-josef-fares-sobre-filme-de-split-fiction"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/ueXSu7ycFm2gIhBx-MmYXVMPRfw=/987x0/smart/uploads/conteudo/fotos/imagem_2025-03-31_141219496.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/cBA3g2lQt0agOnCTrLjPPINatGk=/480x360/smart/extras/conteudos/imagem_2025-03-31_141216566.png"
-keywords: "Josef Fares, Split Fiction, adaptação cinematográfica, Hollywood, Hazelight"
-data: "2025-03-31T18:14:50.523Z"
+title: '''Só acredito vendo'', diz Josef Fares sobre filme de ''Split Fiction'''
+slug: s-acredito-vendo-diz-josef-fares-sobre-filme-de-split-fiction
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/ueXSu7ycFm2gIhBx-MmYXVMPRfw=/987x0/smart/uploads/conteudo/fotos/imagem_2025-03-31_141219496.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/cBA3g2lQt0agOnCTrLjPPINatGk=/480x360/smart/extras/conteudos/imagem_2025-03-31_141216566.png
+keywords: 'Josef Fares, Split Fiction, adaptação cinematográfica, Hollywood, Hazelight'
+data: '2025-03-31T18:14:50.523Z'
+tags:
+  - josef fares
+  - split fiction
+  - filme
+  - adaptação cinematográfica
+  - ceticismo
+  - entrevista
 ---
 
 Josef Fares, conhecido por seu entusiasmo em relação aos seus projetos, revelou uma postura de cautela sobre a adaptação cinematográfica de 'Split Fiction'. Em uma entrevista recente à Variety, ele compartilhou seu misto de emoção e ceticismo. 'Sabe o que eu digo? Só acredito vendo. Seria fantástico se o filme realmente acontecesse, mas por enquanto, são apenas conversas', afirmou Fares.

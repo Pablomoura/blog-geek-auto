@@ -1,11 +1,20 @@
 ---
-title: "X-Men e Vingadores Unidos: Elenco Original Confirmado para 'Doomsday'"
-slug: "x-men-vingadores-doomsday-confirma-x-men-originais-no-elenco"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FRdkQcFjDD4K2K1ALtdBot-w3jc=/987x0/smart/uploads/conteudo/fotos/xmen-doomsday-originais.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fCgFgN7YI9FgJzJbpTt6Np76iK0=/480x360/smart/extras/conteudos/xmen-doomsday-confirmado.jpg"
-data: "2025-03-26T20:10:15.228Z"
+title: 'X-Men e Vingadores Unidos: Elenco Original Confirmado para ''Doomsday'''
+slug: x-men-vingadores-doomsday-confirma-x-men-originais-no-elenco
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FRdkQcFjDD4K2K1ALtdBot-w3jc=/987x0/smart/uploads/conteudo/fotos/xmen-doomsday-originais.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fCgFgN7YI9FgJzJbpTt6Np76iK0=/480x360/smart/extras/conteudos/xmen-doomsday-confirmado.jpg
+data: '2025-03-26T20:10:15.228Z'
+tags:
+  - marvel
+  - x-men
+  - vingadores
+  - doomsday
+  - elenco original
+  - crossover
 ---
 
 A Marvel revelou, durante uma transmissão online, o elenco de 'Vingadores: Doomsday', confirmando a participação de importantes membros originais dos X-Men. A apresentação começou com a possível volta de Kelsey Grammer como o Fera. Logo após, foi anunciado o retorno de Patrick Stewart no papel do Professor Xavier, seguido pela confirmação de Ian McKellen como Magneto, marcando sua estreia no Universo Cinematográfico Marvel (MCU).

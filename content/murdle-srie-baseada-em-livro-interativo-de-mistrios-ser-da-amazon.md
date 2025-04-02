@@ -8,6 +8,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/j8T2BQiXcRtDVk2p0qVEGYKtimc=/480x360/smart/extras/conteudos/Murdle.png
 data: '2025-03-26T11:27:49.642Z'
+tags:
+  - amazon mgm studios
+  - murdle
+  - série de mistério
+  - adaptação literária
+  - g.t. karber
+  - legendary television
 ---
 
 De acordo com informações do Deadline, a Amazon MGM Studios adquiriu os direitos para adaptar 'Murdle', uma série baseada nos populares livros de mistério de G.T. Karber. A adaptação será realizada em parceria com a Legendary Television.

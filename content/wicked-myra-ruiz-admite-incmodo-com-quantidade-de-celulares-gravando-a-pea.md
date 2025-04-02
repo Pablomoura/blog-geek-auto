@@ -1,11 +1,22 @@
 ---
-title: "Myra Ruiz, estrela de 'Wicked', expressa desconforto com celulares durante apresentações"
-slug: "wicked-myra-ruiz-admite-incmodo-com-quantidade-de-celulares-gravando-a-pea"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/QuMNXE0efulvRqFymwQIemTdPxM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T132744.437.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QuMNXE0efulvRqFymwQIemTdPxM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T132744.437.png"
-data: "2025-03-28T17:08:54.650Z"
+title: >-
+  Myra Ruiz, estrela de 'Wicked', expressa desconforto com celulares durante
+  apresentações
+slug: wicked-myra-ruiz-admite-incmodo-com-quantidade-de-celulares-gravando-a-pea
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/QuMNXE0efulvRqFymwQIemTdPxM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T132744.437.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QuMNXE0efulvRqFymwQIemTdPxM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T132744.437.png
+data: '2025-03-28T17:08:54.650Z'
+tags:
+  - myra ruiz
+  - wicked
+  - teatro
+  - celulares
+  - etiqueta de teatro
+  - distrações
 ---
 
 Myra Ruiz, protagonista do aclamado musical 'Wicked', que está em cartaz em São Paulo, revelou seu incômodo com o uso excessivo de celulares durante as apresentações. Em entrevista recente, a atriz comentou que a luz dos aparelhos pode ser bastante distrativa, tanto para os atores no palco quanto para outros espectadores na plateia. 

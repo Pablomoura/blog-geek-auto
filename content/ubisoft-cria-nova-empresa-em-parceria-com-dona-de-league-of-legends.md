@@ -1,11 +1,19 @@
 ---
-title: "Ubisoft e Tencent Anunciam Parceria para Criação de Nova Subsidiária"
-slug: "ubisoft-cria-nova-empresa-em-parceria-com-dona-de-league-of-legends"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/cvB7OdTvbbc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/DqeYJnk2rMie_jqlcCW5bYNm-Xo=/480x360/smart/extras/conteudos/01_ayWCnDp.jpg"
-data: "2025-03-27T18:13:01.449Z"
+title: Ubisoft e Tencent Anunciam Parceria para Criação de Nova Subsidiária
+slug: ubisoft-cria-nova-empresa-em-parceria-com-dona-de-league-of-legends
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/cvB7OdTvbbc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/DqeYJnk2rMie_jqlcCW5bYNm-Xo=/480x360/smart/extras/conteudos/01_ayWCnDp.jpg
+data: '2025-03-27T18:13:01.449Z'
+tags:
+  - ubisoft
+  - tencent
+  - parceria
+  - indústria de jogos
+  - investimento
+  - assassin's creed
 ---
 
 A Ubisoft, desenvolvedora de Assassin's Creed, em conjunto com a Tencent, proprietária de League of Legends, anunciou a criação de uma nova empresa subsidiária. Este acordo marca uma colaboração sem precedentes, com um investimento inicial de mais de € 1,16 bilhão feito pela Tencent. 

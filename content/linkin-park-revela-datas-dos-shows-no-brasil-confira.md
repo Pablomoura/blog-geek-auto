@@ -1,11 +1,20 @@
 ---
-title: "Linkin Park Anuncia Datas de Shows no Brasil em Novembro"
-slug: "linkin-park-revela-datas-dos-shows-no-brasil-confira"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/c9VJEzXjATmDmA3AYPeldWtwCWY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T211052.832.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/MfAoA1tZdNHXp2khs1NZ9r2HvNA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T211052.832.png"
-data: "2025-03-28T00:42:07.005Z"
+title: Linkin Park Anuncia Datas de Shows no Brasil em Novembro
+slug: linkin-park-revela-datas-dos-shows-no-brasil-confira
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/c9VJEzXjATmDmA3AYPeldWtwCWY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T211052.832.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/MfAoA1tZdNHXp2khs1NZ9r2HvNA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T211052.832.png
+data: '2025-03-28T00:42:07.005Z'
+tags:
+  - linkin park
+  - shows no brasil
+  - live nation
+  - turnê
+  - from zero
+  - datas de shows
 ---
 
 A produtora de eventos Live Nation confirmou nesta quinta-feira (27) que a renomada banda Linkin Park realizará três shows no Brasil. As cidades escolhidas são Curitiba, São Paulo e Brasília. As apresentações fazem parte da nova turnê da banda, que promove seu mais recente álbum, 'From Zero'.

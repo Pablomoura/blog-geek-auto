@@ -1,12 +1,21 @@
 ---
-title: "Jack Thorne Desmente Teoria Sobre 'Adolescência' Atribuída a Elon Musk"
-slug: "adolescncia-criador-rebate-teoria-perpetuada-por-elon-musk-sobre-a-srie"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/yvkMdYznbi1wLEIyeoTb-IrF3t0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T133230.455.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Jo3hFrSmSlbj99WLJjdqjkwuZvM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T133202.011.png"
-keywords: "Jack Thorne, Elon Musk, Adolescência série, Netflix 2025, plano-sequência"
-data: "2025-03-31T17:11:15.494Z"
+title: Jack Thorne Desmente Teoria Sobre 'Adolescência' Atribuída a Elon Musk
+slug: adolescncia-criador-rebate-teoria-perpetuada-por-elon-musk-sobre-a-srie
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/yvkMdYznbi1wLEIyeoTb-IrF3t0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T133230.455.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Jo3hFrSmSlbj99WLJjdqjkwuZvM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T133202.011.png
+keywords: 'Jack Thorne, Elon Musk, Adolescência série, Netflix 2025, plano-sequência'
+data: '2025-03-31T17:11:15.494Z'
+tags:
+  - jack thorne
+  - adolescência
+  - elon musk
+  - teoria conspiratória
+  - netflix
+  - plataforma x
 ---
 
 Jack Thorne, co-criador da minissérie 'Adolescência', sucesso da Netflix em 2025, refutou recentemente uma teoria conspiratória disseminada por Elon Musk na plataforma X (anteriormente conhecida como Twitter). Thorne descreveu como absurda a ideia de que a série promova uma agenda 'anti-brancos'.

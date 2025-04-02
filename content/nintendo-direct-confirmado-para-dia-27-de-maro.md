@@ -8,6 +8,12 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/yFjtS6lz9cda9sdWWnJf8wp2RQo=/480x360/smart/extras/conteudos/imagem_2025-03-26_110535983.png
 data: '2025-03-26T14:14:29.488Z'
+tags:
+  - nintendo direct
+  - nintendo switch
+  - jogos
+  - evento de jogos
+  - transmissão ao vivo
 ---
 
 A Nintendo anunciou que realizará um evento Nintendo Direct na próxima quinta-feira, 27 de março. A transmissão está marcada para começar às 11h, horário de Brasília, e terá duração de aproximadamente trinta minutos. 

@@ -1,11 +1,20 @@
 ---
-title: "Will Smith Lança Novo Álbum com Música Sobre Incidente com Chris Rock no Oscar"
-slug: "will-smith-novo-disco-do-ator-tem-rap-sobre-tapa-em-chris-rock-no-oscar"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/cGDJ_Uz2wEKDL4ctpoOaNqwSlXs=/987x0/smart/uploads/conteudo/fotos/tapawillsmithchrisrock.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Lp99eHxDYDef8RECIq6YeKV3-tI=/480x360/smart/extras/conteudos/tapawillsmithchrisrock.jpg"
-data: "2025-03-29T15:09:55.421Z"
+title: Will Smith Lança Novo Álbum com Música Sobre Incidente com Chris Rock no Oscar
+slug: will-smith-novo-disco-do-ator-tem-rap-sobre-tapa-em-chris-rock-no-oscar
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/cGDJ_Uz2wEKDL4ctpoOaNqwSlXs=/987x0/smart/uploads/conteudo/fotos/tapawillsmithchrisrock.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Lp99eHxDYDef8RECIq6YeKV3-tI=/480x360/smart/extras/conteudos/tapawillsmithchrisrock.jpg
+data: '2025-03-29T15:09:55.421Z'
+tags:
+  - will smith
+  - chris rock
+  - oscar 2022
+  - novo álbum
+  - música
+  - based on a true story
 ---
 
 Will Smith utilizou o lançamento de seu novo álbum, 'Based on a True Story', para expressar em música suas reflexões sobre o tapa que deu em Chris Rock durante o Oscar de 2022. O disco, que chegou às plataformas digitais esta semana, inclui a faixa 'You Lookin' for Me', que aborda diretamente o incidente e suas repercussões na carreira do ator.

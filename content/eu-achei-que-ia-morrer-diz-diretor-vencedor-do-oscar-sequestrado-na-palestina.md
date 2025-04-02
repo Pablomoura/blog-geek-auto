@@ -1,11 +1,20 @@
 ---
-title: "Diretor vencedor do Oscar relata ataque violento em Susiya, Palestina"
-slug: "eu-achei-que-ia-morrer-diz-diretor-vencedor-do-oscar-sequestrado-na-palestina"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Ir95Coyi8oDc2W7ebQQdCs_doDg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T190502.503.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7vDn3d3Dj80AqA9OmNBfEOBSgdE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T190502.503.png"
-data: "2025-03-26T22:08:34.710Z"
+title: 'Diretor vencedor do Oscar relata ataque violento em Susiya, Palestina'
+slug: eu-achei-que-ia-morrer-diz-diretor-vencedor-do-oscar-sequestrado-na-palestina
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Ir95Coyi8oDc2W7ebQQdCs_doDg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T190502.503.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7vDn3d3Dj80AqA9OmNBfEOBSgdE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T190502.503.png
+data: '2025-03-26T22:08:34.710Z'
+tags:
+  - hamdan ballal
+  - ataque em susiya
+  - colonos israelenses
+  - oscar
+  - documentário
+  - palestina
 ---
 
 Hamdan Ballal, co-diretor do aclamado documentário 'Sem Chão', vencedor do Oscar, foi vítima de um violento ataque por colonos israelenses em Susiya, na última segunda-feira (24). Em entrevista à Al Jazeera nesta quarta-feira (26), Ballal expressou seu temor durante o incidente: 'Eu achei que ia morrer'.

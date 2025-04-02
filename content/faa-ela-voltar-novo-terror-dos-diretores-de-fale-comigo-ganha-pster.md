@@ -1,12 +1,25 @@
 ---
-title: "Novo Filme de Terror 'Faça Ela Voltar' dos Diretores de 'Fale Comigo' Ganha Pôster Oficial"
-slug: "faa-ela-voltar-novo-terror-dos-diretores-de-fale-comigo-ganha-pster"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/ONLzz4jatewwtXWBWYQA9Hp9Eac=/987x0/smart/uploads/conteudo/fotos/falecomigo.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/n3qpaddj3qlyQXCjS-EgggGrO_w=/480x360/smart/extras/conteudos/falecomigo.jpg"
-keywords: "Faça Ela Voltar, A24, CinemaCon 2025, Sally Hawkins, terror, Danny e Michael Philippou"
-data: "2025-03-30T22:09:25.045Z"
+title: >-
+  Novo Filme de Terror 'Faça Ela Voltar' dos Diretores de 'Fale Comigo' Ganha
+  Pôster Oficial
+slug: faa-ela-voltar-novo-terror-dos-diretores-de-fale-comigo-ganha-pster
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/ONLzz4jatewwtXWBWYQA9Hp9Eac=/987x0/smart/uploads/conteudo/fotos/falecomigo.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/n3qpaddj3qlyQXCjS-EgggGrO_w=/480x360/smart/extras/conteudos/falecomigo.jpg
+keywords: >-
+  Faça Ela Voltar, A24, CinemaCon 2025, Sally Hawkins, terror, Danny e Michael
+  Philippou
+data: '2025-03-30T22:09:25.045Z'
+tags:
+  - filme de terror
+  - faça ela voltar
+  - rackaracka
+  - pôster oficial
+  - a24
+  - trailer
 ---
 
 A produtora A24 divulgou neste domingo (30) o pôster oficial do novo filme de terror 'Faça Ela Voltar', dirigido por Danny e Michael Philippou, também conhecidos como RackaRacka. Os irmãos Philippou ganharam destaque com o filme 'Fale Comigo'.

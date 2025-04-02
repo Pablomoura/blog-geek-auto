@@ -8,6 +8,12 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/OF4M9mVKvjnoxFtkFnxDDGsDjMA=/480x360/smart/extras/conteudos/umarazaoparavencer_8KCunMh.jpg
 data: '2025-03-26T11:27:49.643Z'
+tags:
+  - sessão da tarde
+  - uma razão para vencer
+  - helen hunt
+  - william hurt
+  - filme de drama
 ---
 
 Na Sessão da Tarde de hoje, 26 de outubro, a TV Globo apresenta o filme 'Uma Razão para Vencer', lançado em 2018. A transmissão ocorre às 15h25, horário de Brasília, com duração de 1h41.

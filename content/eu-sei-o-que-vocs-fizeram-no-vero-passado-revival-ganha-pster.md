@@ -1,11 +1,21 @@
 ---
-title: "'Eu Sei o Que Vocês Fizeram no Verão Passado': Novo Pôster Revelado para o Revival"
-slug: "eu-sei-o-que-vocs-fizeram-no-vero-passado-revival-ganha-pster"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/XJbzV3y8GExLhA6q0svnp4N5i28=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T100719.724.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/xtcyU4XR9Vq3IMMTlmMVr8_u7-Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T100659.345.png"
-data: "2025-03-27T13:19:59.224Z"
+title: >-
+  'Eu Sei o Que Vocês Fizeram no Verão Passado': Novo Pôster Revelado para o
+  Revival
+slug: eu-sei-o-que-vocs-fizeram-no-vero-passado-revival-ganha-pster
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/XJbzV3y8GExLhA6q0svnp4N5i28=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T100719.724.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/xtcyU4XR9Vq3IMMTlmMVr8_u7-Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T100659.345.png
+data: '2025-03-27T13:19:59.224Z'
+tags:
+  - cinema
+  - suspense
+  - revival
+  - pôster
+  - eu sei o que vocês fizeram no verão passado
 ---
 
 O aguardado revival do filme 'Eu Sei o Que Vocês Fizeram no Verão Passado' acaba de ser agraciado com um novo pôster, que promete reviver o suspense que cativou tantos fãs. A arte do pôster foi divulgada recentemente e já está gerando expectativas.

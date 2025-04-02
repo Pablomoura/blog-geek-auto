@@ -1,12 +1,24 @@
 ---
-title: "Hayao Miyazaki e a Inteligência Artificial: A Opinião do Cineasta sobre o Uso de IA em Animações"
-slug: "studio-ghibli-x-ia-o-que-hayao-miyazaki-pensa-sobre-o-tema"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/aJ8CmKuPjvWQaF5ENDvXkJA9fVc=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T131359.125.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4LgKiJIvdm5oxLZklUktJT7qqQI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T131430.757.png"
-keywords: "Hayao Miyazaki, Inteligência Artificial, Studio Ghibli, O Menino e a Garça, ChatGPT, cinema, animação, Netflix"
-data: "2025-03-31T17:12:29.839Z"
+title: >-
+  Hayao Miyazaki e a Inteligência Artificial: A Opinião do Cineasta sobre o Uso
+  de IA em Animações
+slug: studio-ghibli-x-ia-o-que-hayao-miyazaki-pensa-sobre-o-tema
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/aJ8CmKuPjvWQaF5ENDvXkJA9fVc=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T131359.125.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4LgKiJIvdm5oxLZklUktJT7qqQI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T131430.757.png
+keywords: >-
+  Hayao Miyazaki, Inteligência Artificial, Studio Ghibli, O Menino e a Garça,
+  ChatGPT, cinema, animação, Netflix
+data: '2025-03-31T17:12:29.839Z'
+tags:
+  - hayao miyazaki
+  - inteligência artificial
+  - studio ghibli
+  - animação
+  - tecnologia
 ---
 
 O impacto das criações de Inteligência Artificial, que imitam o estilo do Studio Ghibli, tem gerado intensas discussões online. Diante disso, muitos se perguntam qual é a posição de Hayao Miyazaki, figura icônica por trás do estúdio, sobre essa tecnologia.

@@ -1,12 +1,22 @@
 ---
-title: "Amores Materialistas: Romance com Pedro Pascal e Chris Evans chega ao Brasil em julho de 2025"
-slug: "materialists-romance-com-pedro-pascal-e-chris-evans-ganha-data-no-brasil"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/4A_kmjtsJ7c?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/zAgNkV3wO9wWfiMZC3TkutwSq90=/480x360/smart/extras/conteudos/materialistas.jpg"
-keywords: "Amores Materialistas, Pedro Pascal, Chris Evans, estreia no Brasil, filme A24"
-data: "2025-04-01T21:09:12.780Z"
+title: >-
+  Amores Materialistas: Romance com Pedro Pascal e Chris Evans chega ao Brasil
+  em julho de 2025
+slug: materialists-romance-com-pedro-pascal-e-chris-evans-ganha-data-no-brasil
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/4A_kmjtsJ7c?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/zAgNkV3wO9wWfiMZC3TkutwSq90=/480x360/smart/extras/conteudos/materialistas.jpg
+keywords: 'Amores Materialistas, Pedro Pascal, Chris Evans, estreia no Brasil, filme A24'
+data: '2025-04-01T21:09:12.780Z'
+tags:
+  - pedro pascal
+  - chris evans
+  - dakota johnson
+  - filme romântico
+  - estreia 2025
+  - a24
 ---
 
 O aguardado filme 'Materialists', produzido pela A24 e dirigido por Celine Song, já tem data marcada para estrear no Brasil. Com um elenco de estrelas como Chris Evans, Pedro Pascal e Dakota Johnson, o longa ganhou o título nacional de 'Amores Materialistas' e será lançado em 31 de julho de 2025 pela Sony Pictures.

@@ -1,11 +1,21 @@
 ---
-title: "Studio Ghibli: Imagens no Estilo do Estúdio São Criadas Utilizando Inteligência Artificial"
-slug: "studio-ghibli-usurios-usam-ia-para-gerar-imagens-no-estilo-do-estdio"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/DX-v4lI9ArpoHGp0lZOD90OX8GU=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_6_JVp0Ol8.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/VpADu0IT-648xxh2JEN9QRTWwBU=/480x360/smart/extras/conteudos/Design_sem_nome_6_FVX2Y17.jpg"
-data: "2025-03-27T18:12:39.948Z"
+title: >-
+  Studio Ghibli: Imagens no Estilo do Estúdio São Criadas Utilizando
+  Inteligência Artificial
+slug: studio-ghibli-usurios-usam-ia-para-gerar-imagens-no-estilo-do-estdio
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/DX-v4lI9ArpoHGp0lZOD90OX8GU=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_6_JVp0Ol8.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/VpADu0IT-648xxh2JEN9QRTWwBU=/480x360/smart/extras/conteudos/Design_sem_nome_6_FVX2Y17.jpg
+data: '2025-03-27T18:12:39.948Z'
+tags:
+  - studio ghibli
+  - inteligência artificial
+  - openai
+  - animação japonesa
+  - geração de imagens
 ---
 
 A mais recente tecnologia de geração de imagens da OpenAI desencadeou uma onda de usuários compartilhando artes nas redes sociais que imitam o estilo do Studio Ghibli, renomado estúdio de animação japonês, responsável por sucessos como 'A Viagem de Chihiro', 'Meu Amigo Totoro' e 'Princesa Mononoke'.

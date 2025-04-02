@@ -1,11 +1,20 @@
 ---
-title: "Jasmine Cephas Jones de 'Hamilton' Confirmada em 'Lanternas' da HBO"
-slug: "lanternas-jasmine-cephas-jones-de-hamilton-estar-na-srie"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/DYZkyCqe4TyEi8KjYCxvXSp94qo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T204855.783.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ae1kaeZbwhP-XDer-KgdrIMGaDI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T204855.783.png"
-data: "2025-03-27T23:55:33.946Z"
+title: Jasmine Cephas Jones de 'Hamilton' Confirmada em 'Lanternas' da HBO
+slug: lanternas-jasmine-cephas-jones-de-hamilton-estar-na-srie
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/DYZkyCqe4TyEi8KjYCxvXSp94qo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T204855.783.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ae1kaeZbwhP-XDer-KgdrIMGaDI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T204855.783.png
+data: '2025-03-27T23:55:33.946Z'
+tags:
+  - jasmine cephas jones
+  - hamilton
+  - hbo
+  - lanternas
+  - tropa dos lanternas verdes
+  - séries
 ---
 
 A atriz Jasmine Cephas Jones, conhecida por seu papel em 'Hamilton', foi escalada para a série da HBO 'Lanternas', baseada na Tropa dos Lanternas Verdes. Jones fará uma participação especial como 'jovem Bernadette', mãe de John Stewart, retratada como uma mãe resiliente e perceptiva que exige excelência de si mesma e de sua família. Ainda não foi revelado quantos episódios contarão com sua presença, mas seu papel será fundamental em flashbacks que exploram o passado do herói John Stewart.

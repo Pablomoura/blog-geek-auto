@@ -1,11 +1,20 @@
 ---
-title: "Academia do Oscar Rejeita Apoiar Cineasta Palestino Após Incidentes Violentos"
-slug: "academia-do-oscar-solta-declarao-oficial-recusando-apoio-a-cineasta-palestino"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/2lCJr4i_-2YEzGha_-W12eu6a7Q=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T114423.578.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SV06I8Ut2ddKxqbqFYPjrcUHwHU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T114402.738.png"
-data: "2025-03-27T15:11:52.275Z"
+title: Academia do Oscar Rejeita Apoiar Cineasta Palestino Após Incidentes Violentos
+slug: academia-do-oscar-solta-declarao-oficial-recusando-apoio-a-cineasta-palestino
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/2lCJr4i_-2YEzGha_-W12eu6a7Q=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T114423.578.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SV06I8Ut2ddKxqbqFYPjrcUHwHU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T114402.738.png
+data: '2025-03-27T15:11:52.275Z'
+tags:
+  - oscar
+  - cineasta palestino
+  - violência
+  - academia de artes e ciências cinematográficas
+  - hamdan ballal
+  - documentário
 ---
 
 A Academia de Artes e Ciências Cinematográficas, entidade por trás do prestigiado Oscar, emitiu um comunicado a respeito dos recentes episódios de violência envolvendo o cineasta palestino Hamdan Ballal, vencedor do Oscar de Melhor Documentário pelo filme 'Sem Chão'. A declaração foi divulgada após o cineasta ter sido agredido e sequestrado. 

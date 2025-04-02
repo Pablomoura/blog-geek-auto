@@ -8,6 +8,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/eMFUFITA5ojCz6Q7ZzDQAM0iFyE=/480x360/smart/extras/conteudos/bbb25-aline-indicada-peq_qrTNVGn.jpg
 data: '2025-03-26T11:27:49.641Z'
+tags:
+  - bbb 25
+  - aline eliminada
+  - décimo paredão
+  - disputa acirrada
+  - votação expressiva
+  - reality show
 ---
 
 A noite de terça-feira (25) marcou a eliminação de Aline no décimo Paredão do Big Brother Brasil 25, com uma votação expressiva do público. Aline foi a mais votada para deixar a casa, recebendo 51,73% dos votos. Em uma disputa apertada, Maike obteve 47,34% dos votos, enquanto Diego Hypólito ficou com apenas 0,93%.

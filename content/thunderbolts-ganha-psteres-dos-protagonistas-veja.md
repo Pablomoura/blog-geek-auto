@@ -7,6 +7,12 @@ tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/sL8zYI8WoGnid35PauKO5Ay6gkc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T182619.707.png"
 keywords: "Marvel, Thunderbolts, MCU, cinema, pôsteres"
 data: "2025-04-02T22:11:42.808Z"
+tags:
+  - Marvel
+  - thunderbolts
+  - mcu
+  - cinema
+  - pôsteres
 ---
 
 A Marvel Studios divulgou recentemente uma série de pôsteres para o aguardado filme Thunderbolts, marcando sua estreia nos cinemas em maio. Os pôsteres destacam os protagonistas, uma equipe composta por conhecidos anti-heróis do MCU. Entre eles estão John Walker/Agente Americano (Wyatt Russell), Yelena Belova/Viúva Negra (Florence Pugh), Alexei Alanovich Shostakov/Guardião Vermelho (David Harbour), Bucky Barnes/Soldado Invernal (Sebastian Stan), Fantasma (Hannah John-Kamen) e Treinadora (Olga Kurylenko).

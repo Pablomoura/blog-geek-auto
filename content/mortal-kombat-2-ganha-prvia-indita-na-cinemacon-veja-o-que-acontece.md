@@ -1,12 +1,21 @@
 ---
-title: "CinemaCon Apresenta Prévia Exclusiva de Mortal Kombat 2"
-slug: "mortal-kombat-2-ganha-prvia-indita-na-cinemacon-veja-o-que-acontece"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/iToDPJmtIbgeoR3sUTK6ufI1yl8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_14_y5B64kt.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/F0GA4SHW9wSMFt6dnEW4JBzZgBs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-17T121505.762_XPgHRpi.png"
-keywords: "Mortal Kombat 2, CinemaCon, Warner Bros, Karl Urban, Johnny Cage"
-data: "2025-04-02T01:21:11.712Z"
+title: CinemaCon Apresenta Prévia Exclusiva de Mortal Kombat 2
+slug: mortal-kombat-2-ganha-prvia-indita-na-cinemacon-veja-o-que-acontece
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/iToDPJmtIbgeoR3sUTK6ufI1yl8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_14_y5B64kt.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/F0GA4SHW9wSMFt6dnEW4JBzZgBs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-17T121505.762_XPgHRpi.png
+keywords: 'Mortal Kombat 2, CinemaCon, Warner Bros, Karl Urban, Johnny Cage'
+data: '2025-04-02T01:21:11.712Z'
+tags:
+  - cinemacon
+  - mortal kombat 2
+  - karl urban
+  - johnny cage
+  - warner bros
+  - prévia de filme
 ---
 
 Durante a CinemaCon deste ano, a Warner Bros revelou uma prévia inédita de 'Mortal Kombat 2', gerando grande expectativa entre os fãs. O destaque do vídeo foi Karl Urban, encarnando o carismático Johnny Cage, com a frase marcante: 'Eu sou Johnny Cage, porra. É hora do show.' Em outro momento impactante, Scorpion, interpretado por Hiroyuki Sanada, lança seu icônico desafio: 'Venha aqui'.

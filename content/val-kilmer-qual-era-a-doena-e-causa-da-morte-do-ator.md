@@ -1,12 +1,21 @@
 ---
-title: "Val Kilmer: qual era a doença e causa da morte do ator?"
-slug: "val-kilmer-qual-era-a-doena-e-causa-da-morte-do-ator"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/-xGfckIBqFX8Lg0CPzx9tVDdGAs=/987x0/smart/uploads/conteudo/fotos/Screenshot_2025-04-01_at_22.25.49.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Hogfyfiqrk3dqaWh24FqLvz9ezE=/480x360/smart/extras/conteudos/Screenshot_2025-04-01_at_22.25.49.png"
-keywords: "Val Kilmer, câncer de garganta, Top Gun, Batman: Eternamente, pneumonia"
-data: "2025-04-02T06:14:13.368Z"
+title: 'Val Kilmer: qual era a doença e causa da morte do ator?'
+slug: val-kilmer-qual-era-a-doena-e-causa-da-morte-do-ator
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/-xGfckIBqFX8Lg0CPzx9tVDdGAs=/987x0/smart/uploads/conteudo/fotos/Screenshot_2025-04-01_at_22.25.49.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Hogfyfiqrk3dqaWh24FqLvz9ezE=/480x360/smart/extras/conteudos/Screenshot_2025-04-01_at_22.25.49.png
+keywords: 'Val Kilmer, câncer de garganta, Top Gun, Batman: Eternamente, pneumonia'
+data: '2025-04-02T06:14:13.368Z'
+tags:
+  - val kilmer
+  - causa da morte
+  - ator
+  - top gun
+  - 'batman: eternamente'
+  - legado cinematográfico
 ---
 
 Val Kilmer, consagrado ator de filmes marcantes como Top Gun e Batman: Eternamente, veio a falecer na última terça-feira, dia 1 de abril, aos 65 anos, em Los Angeles. Reconhecido por seu estilo irreverente e pela intensidade com que encarnava seus personagens, Kilmer deixa um legado notável no cinema.

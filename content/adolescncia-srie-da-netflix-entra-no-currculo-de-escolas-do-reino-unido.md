@@ -1,12 +1,21 @@
 ---
-title: "Série 'Adolescência' da Netflix é Incluída no Currículo Escolar do Reino Unido"
-slug: "adolescncia-srie-da-netflix-entra-no-currculo-de-escolas-do-reino-unido"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/XcvDkzxjTY9m13SdZ74RL2wEqAc=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T102508.750.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/M_Hb7eT0DO-PGiMo8BPte9NfMD0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T102455.280.png"
-keywords: "Adolescência Netflix, educação no Reino Unido, parentalidade na era digital"
-data: "2025-03-31T14:11:24.493Z"
+title: Série 'Adolescência' da Netflix é Incluída no Currículo Escolar do Reino Unido
+slug: adolescncia-srie-da-netflix-entra-no-currculo-de-escolas-do-reino-unido
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/XcvDkzxjTY9m13SdZ74RL2wEqAc=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T102508.750.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/M_Hb7eT0DO-PGiMo8BPte9NfMD0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T102455.280.png
+keywords: 'Adolescência Netflix, educação no Reino Unido, parentalidade na era digital'
+data: '2025-03-31T14:11:24.493Z'
+tags:
+  - netflix
+  - educação
+  - currículo escolar
+  - reino unido
+  - série adolescência
+  - temas adolescentes
 ---
 
 A minissérie 'Adolescência', um dos recentes sucessos originais da Netflix, foi oficialmente adicionada ao currículo escolar do Reino Unido. A decisão foi uma iniciativa do governo britânico, que reconhece a importância dos temas abordados pela série. 

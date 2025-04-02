@@ -1,11 +1,20 @@
 ---
-title: "Vingadores: Doomsday | Clássicos X-Men Confirmados no Elenco"
-slug: "vingadores-doomsday-filme-ter-retorno-dos-x-men-clssicos-no-elenco"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/kUdwqeRXEjN22-mLKCyhOT_kLs4=/987x0/smart/uploads/conteudo/fotos/Untitled_design_51.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fcarPZCePxqqL-91lF9faqvbmMA=/480x360/smart/extras/conteudos/01_7GsxFrJ.jpg"
-data: "2025-03-26T19:07:45.209Z"
+title: 'Vingadores: Doomsday | Clássicos X-Men Confirmados no Elenco'
+slug: vingadores-doomsday-filme-ter-retorno-dos-x-men-clssicos-no-elenco
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/kUdwqeRXEjN22-mLKCyhOT_kLs4=/987x0/smart/uploads/conteudo/fotos/Untitled_design_51.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fcarPZCePxqqL-91lF9faqvbmMA=/480x360/smart/extras/conteudos/01_7GsxFrJ.jpg
+data: '2025-03-26T19:07:45.209Z'
+tags:
+  - 'vingadores: doomsday'
+  - x-men
+  - kelsey grammer
+  - patrick stewart
+  - marvel
+  - elenco de filme
 ---
 
 Durante uma transmissão ao vivo destinada a revelar o elenco do novo filme 'Vingadores: Doomsday', a Marvel confirmou o retorno de Kelsey Grammer, que possivelmente reprisará seu papel como Fera. Minutos após essa revelação, foi também confirmado, com direito a trilha sonora especial, que Patrick Stewart voltará a interpretar o Professor Xavier, famoso nos filmes clássicos de X-Men.

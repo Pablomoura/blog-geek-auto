@@ -1,12 +1,21 @@
 ---
-title: "David Fincher Planeja Novo Filme com Brad Pitt, Segundo Insider"
-slug: "prximo-filme-de-david-fincher-sequncia-com-brad-pitt-diz-insider"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/uin6szNOvLs1odeW60XVN3MMtH0=/987x0/smart/uploads/conteudo/fotos/davidfinchercombradpittseven.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/qbaRcBPEgwrrwHCnrJZBsoSSfPM=/480x360/smart/extras/conteudos/davidfinchercombradpittseven.jpg"
-keywords: "David Fincher, Brad Pitt, novo filme, Netflix, sequência de filme"
-data: "2025-03-30T22:09:07.668Z"
+title: 'David Fincher Planeja Novo Filme com Brad Pitt, Segundo Insider'
+slug: prximo-filme-de-david-fincher-sequncia-com-brad-pitt-diz-insider
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/uin6szNOvLs1odeW60XVN3MMtH0=/987x0/smart/uploads/conteudo/fotos/davidfinchercombradpittseven.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/qbaRcBPEgwrrwHCnrJZBsoSSfPM=/480x360/smart/extras/conteudos/davidfinchercombradpittseven.jpg
+keywords: 'David Fincher, Brad Pitt, novo filme, Netflix, sequência de filme'
+data: '2025-03-30T22:09:07.668Z'
+tags:
+  - david fincher
+  - brad pitt
+  - cinema
+  - filme novo
+  - colaboração
+  - rumores
 ---
 
 A carreira de David Fincher continua a ser um tema de especulação intensa. Recentemente, o diretor foi associado a diversos projetos, incluindo um remake de 'Round 6', um faroeste, e até uma possível continuação de 'Chinatown'. No entanto, informações recentes apontam para uma nova direção, com Brad Pitt novamente ao seu lado.

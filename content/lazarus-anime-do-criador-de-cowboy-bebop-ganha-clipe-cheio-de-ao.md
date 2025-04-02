@@ -7,6 +7,13 @@ tipoMidia: video
 thumb: >-
   https://cdn.ome.lt/31TcQZevZqNYPZ6VvdDAxKs_Rng=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-25T194838.828.png
 data: '2025-03-26T11:27:49.642Z'
+tags:
+  - shinichiro watanabe
+  - lazarus
+  - anime
+  - ação
+  - adult swim
+  - mappa
 ---
 
 Adult Swim lançou recentemente um trailer empolgante de 'Lazarus', a mais nova criação de Shinichiro Watanabe, conhecido por 'Cowboy Bebop' e 'Samurai Champloo'. O anime, produzido pelo renomado estúdio MAPPA, contará com um total de 13 episódios.

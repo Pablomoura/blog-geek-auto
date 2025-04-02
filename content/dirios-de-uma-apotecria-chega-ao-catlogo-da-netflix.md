@@ -1,12 +1,21 @@
 ---
-title: "Diários de uma Apotecária chega ao catálogo da Netflix"
-slug: "dirios-de-uma-apotecria-chega-ao-catlogo-da-netflix"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/t35FZleNHU7AD1d0eolTV-ooeQI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T183757.496.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/aHcLDTsDq1AeiCdzF-Cbx5RQO0E=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T183757.496.png"
-keywords: "Netflix, anime, Diários de uma Apotecária, Crunchyroll"
-data: "2025-04-01T22:03:04.379Z"
+title: Diários de uma Apotecária chega ao catálogo da Netflix
+slug: dirios-de-uma-apotecria-chega-ao-catlogo-da-netflix
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/t35FZleNHU7AD1d0eolTV-ooeQI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T183757.496.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/aHcLDTsDq1AeiCdzF-Cbx5RQO0E=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T183757.496.png
+keywords: 'Netflix, anime, Diários de uma Apotecária, Crunchyroll'
+data: '2025-04-01T22:03:04.379Z'
+tags:
+  - netflix
+  - anime
+  - diários de uma apotecária
+  - streaming
+  - dublado
+  - legendado
 ---
 
 A Netflix anunciou nesta terça-feira (01) a inclusão de 'Diários de uma Apotecária' em seu catálogo. O anime, que já se encontra disponível na plataforma, apresenta sua primeira temporada completa, composta por 24 episódios, todos eles acessíveis tanto em versão dublada quanto legendada em português.

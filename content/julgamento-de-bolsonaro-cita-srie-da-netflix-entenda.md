@@ -8,6 +8,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/ECVW8P4f1_t7C7LsO3f3Sl-K_Zc=/480x360/smart/extras/conteudos/Design_sem_nome_3_NldCtxH.jpg
 data: '2025-03-25T18:11:45.436Z'
+tags:
+  - jair bolsonaro
+  - julgamento
+  - netflix
+  - cultura pop
+  - golpe de estado
+  - stf
 ---
 
 O julgamento de Jair Bolsonaro, acusado de planejar um golpe de estado, foi palco de uma intrigante referência à cultura pop. No STF, Matheus Mayer Milanez, advogado de defesa, fez uma comparação entre a acusação e uma famosa série da Netflix.

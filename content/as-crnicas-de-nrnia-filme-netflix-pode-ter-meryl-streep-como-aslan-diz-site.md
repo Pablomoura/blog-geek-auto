@@ -1,12 +1,23 @@
 ---
-title: "As Crônicas de Nárnia | Meryl Streep pode interpretar Aslan em novo filme da Netflix"
-slug: "as-crnicas-de-nrnia-filme-netflix-pode-ter-meryl-streep-como-aslan-diz-site"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/5Ri-SGGb7O_UaEsfdOdACBQCRtE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T141032.766.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/yaHNWukOLlaJ_gmgWTlnFftUqwI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T141004.063.png"
-keywords: "As Crônicas de Nárnia, Meryl Streep, Netflix, Greta Gerwig, filme"
-data: "2025-03-31T18:15:23.400Z"
+title: >-
+  As Crônicas de Nárnia | Meryl Streep pode interpretar Aslan em novo filme da
+  Netflix
+slug: as-crnicas-de-nrnia-filme-netflix-pode-ter-meryl-streep-como-aslan-diz-site
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/5Ri-SGGb7O_UaEsfdOdACBQCRtE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T141032.766.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/yaHNWukOLlaJ_gmgWTlnFftUqwI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T141004.063.png
+keywords: 'As Crônicas de Nárnia, Meryl Streep, Netflix, Greta Gerwig, filme'
+data: '2025-03-31T18:15:23.400Z'
+tags:
+  - as crônicas de nárnia
+  - meryl streep
+  - aslan
+  - netflix
+  - greta gerwig
+  - adaptação cinematográfica
 ---
 
 Um rumor recente agitou os fãs de 'As Crônicas de Nárnia'. De acordo com o NexusPointNews, a renomada atriz Meryl Streep pode estar em conversas para assumir o papel de Aslan na nova adaptação de Greta Gerwig para a Netflix. A proposta já teria sido realizada, e discussões estão em andamento para trazer Streep para o papel do leão, figura central e mentor das crianças no mundo mágico de Nárnia, tradicionalmente retratado como uma representação de Jesus Cristo.

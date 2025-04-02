@@ -1,12 +1,25 @@
 ---
-title: "David Fincher e Brad Pitt reunidos em 'Era uma Vez em Hollywood 2', anuncia Netflix"
-slug: "era-uma-vez-em-hollywood-2-novo-filme-de-david-fincher-e-brad-pitt-diz-site"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/MoWbF5fJYHMHsIgUmqhkM62B660=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T200225.986.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/tdAJLRSGphx3qpzRRNr9S9fble4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T200225.986.png"
-keywords: "Netflix, David Fincher, Brad Pitt, Quentin Tarantino, Era Uma Vez em Hollywood 2"
-data: "2025-04-01T23:09:33.546Z"
+title: >-
+  David Fincher e Brad Pitt reunidos em 'Era uma Vez em Hollywood 2', anuncia
+  Netflix
+slug: era-uma-vez-em-hollywood-2-novo-filme-de-david-fincher-e-brad-pitt-diz-site
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/MoWbF5fJYHMHsIgUmqhkM62B660=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T200225.986.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/tdAJLRSGphx3qpzRRNr9S9fble4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T200225.986.png
+keywords: >-
+  Netflix, David Fincher, Brad Pitt, Quentin Tarantino, Era Uma Vez em Hollywood
+  2
+data: '2025-04-01T23:09:33.546Z'
+tags:
+  - david fincher
+  - brad pitt
+  - netflix
+  - era uma vez em hollywood 2
+  - quentin tarantino
+  - sequência de filme
 ---
 
 A Netflix anunciou que produzirá a sequência do aclamado filme 'Era Uma Vez em... Hollywood', dirigida por David Fincher e estrelada por Brad Pitt, reprisando seu papel como Cliff Booth. Conforme divulgado pelo site The Playlist, Quentin Tarantino é responsável pelo roteiro da nova obra, a qual ele desenvolveu paralelamente ao seu outro projeto em andamento, 'The Movie Critic'.

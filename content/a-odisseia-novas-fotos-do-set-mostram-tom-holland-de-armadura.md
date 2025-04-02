@@ -1,11 +1,22 @@
 ---
-title: "Tom Holland Surge de Armadura em Novas Fotos do Set de 'A Odisseia' de Christopher Nolan"
-slug: "a-odisseia-novas-fotos-do-set-mostram-tom-holland-de-armadura"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/bqYr4EUn-DPoIZlLKDjHUpECZEc=/987x0/smart/uploads/conteudo/fotos/tom-holland-odisseia.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/V72o3n-reePVjXVpRyudBxyr6jM=/480x360/smart/extras/conteudos/tom-holland-uncharted.webp"
-data: "2025-03-27T21:09:27.011Z"
+title: >-
+  Tom Holland Surge de Armadura em Novas Fotos do Set de 'A Odisseia' de
+  Christopher Nolan
+slug: a-odisseia-novas-fotos-do-set-mostram-tom-holland-de-armadura
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/bqYr4EUn-DPoIZlLKDjHUpECZEc=/987x0/smart/uploads/conteudo/fotos/tom-holland-odisseia.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/V72o3n-reePVjXVpRyudBxyr6jM=/480x360/smart/extras/conteudos/tom-holland-uncharted.webp
+data: '2025-03-27T21:09:27.011Z'
+tags:
+  - tom holland
+  - christopher nolan
+  - a odisseia
+  - armadura
+  - telêmaco
+  - fotos do set
 ---
 
 Recentes imagens do set de 'A Odisseia', dirigido por Christopher Nolan, oferecem uma visão empolgante de Tom Holland vestido com armadura, alimentando rumores de que ele interpretará Telêmaco, filho de Ulisses. As fotos revelam detalhes do visual que Holland adotará na narrativa épica.

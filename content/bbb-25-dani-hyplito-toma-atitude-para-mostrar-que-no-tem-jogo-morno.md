@@ -8,6 +8,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/7I8VFHqxwuVqIEAUFakI5CD-WLo=/480x360/smart/extras/conteudos/bbb25-daniele-hypolito-atitude-peq.jpg
 data: '2025-03-26T11:27:49.641Z'
+tags:
+  - bbb 25
+  - daniele hypólito
+  - estratégia de jogo
+  - críticas
+  - xepa
+  - reality show
 ---
 
 Daniele Hypólito, cansada das críticas por sua postura pacífica no Big Brother Brasil 25, decidiu mudar sua estratégia de jogo. Tradicionalmente vista cozinhando para os outros participantes, especialmente quando na Xepa, Hypólito revelou que sua motivação era apenas o prazer de cozinhar, mas isso vai mudar.

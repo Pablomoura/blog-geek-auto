@@ -1,11 +1,20 @@
 ---
-title: "Academia do Oscar Declara Não Apoiar Posições Políticas de Cineastas"
-slug: "academia-do-oscar-solta-declarao-recusando-apoio-a-cineasta-palestino"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/2lCJr4i_-2YEzGha_-W12eu6a7Q=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T114423.578.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SV06I8Ut2ddKxqbqFYPjrcUHwHU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T114402.738.png"
-data: "2025-03-28T00:41:28.608Z"
+title: Academia do Oscar Declara Não Apoiar Posições Políticas de Cineastas
+slug: academia-do-oscar-solta-declarao-recusando-apoio-a-cineasta-palestino
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/2lCJr4i_-2YEzGha_-W12eu6a7Q=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T114423.578.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SV06I8Ut2ddKxqbqFYPjrcUHwHU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T114402.738.png
+data: '2025-03-28T00:41:28.608Z'
+tags:
+  - oscar
+  - academia de artes e ciências cinematográficas
+  - política
+  - cineastas
+  - documentário
+  - hamdan ballal
 ---
 
 A Academia de Artes e Ciências Cinematográficas, responsável pela cerimônia do Oscar, pronunciou-se oficialmente sobre o incidente envolvendo o cineasta palestino Hamdan Ballal, laureado com o Oscar de Melhor Documentário por 'Sem Chão'. A declaração da Academia reitera seu compromisso com a excelência cinematográfica e o poder do cinema em conectar culturas e perspectivas diversas.

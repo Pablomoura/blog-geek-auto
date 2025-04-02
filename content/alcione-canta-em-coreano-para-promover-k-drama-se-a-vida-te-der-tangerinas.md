@@ -1,11 +1,21 @@
 ---
-title: "Alcione Surpreende com Versão em Coreano de 'Você Me Vira a Cabeça' para Promover Série da Netflix"
-slug: "alcione-canta-em-coreano-para-promover-k-drama-se-a-vida-te-der-tangerinas"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/pcbrQaeu_gs?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/amFSB6ZtaWoeLI69CKIBbAidtLQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T132959.607.png"
-data: "2025-03-27T17:09:32.435Z"
+title: >-
+  Alcione Surpreende com Versão em Coreano de 'Você Me Vira a Cabeça' para
+  Promover Série da Netflix
+slug: alcione-canta-em-coreano-para-promover-k-drama-se-a-vida-te-der-tangerinas
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/pcbrQaeu_gs?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/amFSB6ZtaWoeLI69CKIBbAidtLQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T132959.607.png
+data: '2025-03-27T17:09:32.435Z'
+tags:
+  - alcione
+  - netflix
+  - k-drama
+  - música em coreano
+  - marketing
+  - iu
 ---
 
 Em uma estratégia de marketing inovadora, a Netflix divulgou um vídeo de Alcione performando seu hit 'Você Me Vira a Cabeça' em coreano. A iniciativa visa promover o lançamento do k-drama 'Se a Vida Te Der Tangerinas'.

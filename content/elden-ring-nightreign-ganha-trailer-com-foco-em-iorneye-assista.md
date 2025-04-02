@@ -1,12 +1,24 @@
 ---
-title: "Elden Ring Nightreign: Novo Trailer Destaca Iorneye e Promete Desafios Inéditos"
-slug: "elden-ring-nightreign-ganha-trailer-com-foco-em-iorneye-assista"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/2wQ4uE_TPdE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/S7XhbhLVrMxK9jKYXOS_NPBp_88=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T142538.336.png"
-keywords: "Elden Ring Nightreign, FromSoftware, lançamento de jogo, Iorneye, trailer de jogo"
-data: "2025-04-01T17:30:53.050Z"
+title: >-
+  Elden Ring Nightreign: Novo Trailer Destaca Iorneye e Promete Desafios
+  Inéditos
+slug: elden-ring-nightreign-ganha-trailer-com-foco-em-iorneye-assista
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/2wQ4uE_TPdE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/S7XhbhLVrMxK9jKYXOS_NPBp_88=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T142538.336.png
+keywords: >-
+  Elden Ring Nightreign, FromSoftware, lançamento de jogo, Iorneye, trailer de
+  jogo
+data: '2025-04-01T17:30:53.050Z'
+tags:
+  - elden ring nightreign
+  - iorneye
+  - fromsoftware
+  - trailer
+  - jogo de vídeo
+  - desafios inéditos
 ---
 
 O novo título da FromSoftware, Elden Ring Nightreign, derivado do aclamado Elden Ring, acaba de receber um emocionante trailer que destaca o personagem Iorneye. O vídeo, já disponível para visualização, introduz os jogadores ao estilo de jogo único de Iorneye, prometendo uma experiência distinta dos demais jogos da série Soulslike.

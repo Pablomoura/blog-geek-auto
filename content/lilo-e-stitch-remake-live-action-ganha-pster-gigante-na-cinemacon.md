@@ -1,12 +1,21 @@
 ---
-title: "Remake Live-Action de 'Lilo e Stitch' Apresenta Pôster Oficial na CinemaCon"
-slug: "lilo-e-stitch-remake-live-action-ganha-pster-gigante-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/jh_gbfVwPpW1WoEheRSj7LHN5bU=/987x0/smart/uploads/conteudo/fotos/imagem_2025-03-31_094902725.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OTmtYpYMz2IlcAC3RT_0YlEWDzw=/480x360/smart/extras/conteudos/imagem_2025-03-31_094725498.png"
-keywords: "Lilo e Stitch, Disney, CinemaCon, live-action, remake, bilheteria"
-data: "2025-03-31T13:22:16.435Z"
+title: Remake Live-Action de 'Lilo e Stitch' Apresenta Pôster Oficial na CinemaCon
+slug: lilo-e-stitch-remake-live-action-ganha-pster-gigante-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/jh_gbfVwPpW1WoEheRSj7LHN5bU=/987x0/smart/uploads/conteudo/fotos/imagem_2025-03-31_094902725.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OTmtYpYMz2IlcAC3RT_0YlEWDzw=/480x360/smart/extras/conteudos/imagem_2025-03-31_094725498.png
+keywords: 'Lilo e Stitch, Disney, CinemaCon, live-action, remake, bilheteria'
+data: '2025-03-31T13:22:16.435Z'
+tags:
+  - lilo e stitch
+  - remake live-action
+  - cinemacon
+  - disney
+  - pôster oficial
+  - dean fleischer camp
 ---
 
 O aguardado remake live-action de 'Lilo e Stitch' foi destaque no painel da Disney na CinemaCon, realizada nesta quinta-feira (3) às 18h30. Um imponente pôster do filme foi revelado durante o evento, gerando grande expectativa. 

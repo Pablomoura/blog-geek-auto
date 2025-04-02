@@ -1,12 +1,23 @@
 ---
-title: "The Beatles: Filmes Biográficos Serão Lançados Simultaneamente com Elenco Estelar Incluindo Paul Mescal e Barry Keoghan"
-slug: "the-beatles-filmes-ganham-data-e-elenco-com-paul-mescal-e-barry-keoghan"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/mOOIeVKyxq5JOBPY3m-h41KX1ZI=/480x360/smart/extras/conteudos/beatles-cinebiografia-elenco.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/mOOIeVKyxq5JOBPY3m-h41KX1ZI=/480x360/smart/extras/conteudos/beatles-cinebiografia-elenco.png"
-keywords: "Sam Mendes, Beatles, filmes biográficos, CinemaCon, Paul Mescal, Barry Keoghan"
-data: "2025-04-01T03:37:25.035Z"
+title: >-
+  The Beatles: Filmes Biográficos Serão Lançados Simultaneamente com Elenco
+  Estelar Incluindo Paul Mescal e Barry Keoghan
+slug: the-beatles-filmes-ganham-data-e-elenco-com-paul-mescal-e-barry-keoghan
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/mOOIeVKyxq5JOBPY3m-h41KX1ZI=/480x360/smart/extras/conteudos/beatles-cinebiografia-elenco.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/mOOIeVKyxq5JOBPY3m-h41KX1ZI=/480x360/smart/extras/conteudos/beatles-cinebiografia-elenco.png
+keywords: 'Sam Mendes, Beatles, filmes biográficos, CinemaCon, Paul Mescal, Barry Keoghan'
+data: '2025-04-01T03:37:25.035Z'
+tags:
+  - beatles
+  - cinebiografia
+  - sam mendes
+  - paul mescal
+  - barry keoghan
+  - cinemacon
 ---
 
 Durante a CinemaCon em Las Vegas, o renomado diretor Sam Mendes anunciou uma audaciosa abordagem para as cinebiografias dos Beatles, com um filme dedicado a cada um dos quatro membros da icônica banda. Mendes revelou que os filmes serão lançados todos no mesmo dia, descrevendo o evento como 'a primeira experiência de cinema para maratonar'.

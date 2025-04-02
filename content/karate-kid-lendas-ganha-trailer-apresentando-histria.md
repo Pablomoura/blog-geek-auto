@@ -1,12 +1,20 @@
 ---
-title: "Karate Kid: Lendas Revela Novo Trailer com História Envolvente"
-slug: "karate-kid-lendas-ganha-trailer-apresentando-histria"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/jdZPKED0Dqg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/BeAVKCMtFMsnPdslEBGC0UEqKrA=/480x360/smart/extras/conteudos/IMG_4765.jpeg"
-keywords: "Karate Kid Lendas, trailer Karate Kid, filme de artes marciais"
-data: "2025-04-01T13:22:36.116Z"
+title: 'Karate Kid: Lendas Revela Novo Trailer com História Envolvente'
+slug: karate-kid-lendas-ganha-trailer-apresentando-histria
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/jdZPKED0Dqg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/BeAVKCMtFMsnPdslEBGC0UEqKrA=/480x360/smart/extras/conteudos/IMG_4765.jpeg
+keywords: 'Karate Kid Lendas, trailer Karate Kid, filme de artes marciais'
+data: '2025-04-01T13:22:36.116Z'
+tags:
+  - 'karate kid: lendas'
+  - trailer
+  - filme de artes marciais
+  - ben wang
+  - kung fu
+  - narrativa emocionante
 ---
 
 O aguardado filme 'Karate Kid: Lendas' acaba de divulgar um emocionante trailer que destaca sua narrativa. Assista no vídeo acima!

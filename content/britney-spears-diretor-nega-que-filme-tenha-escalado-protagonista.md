@@ -10,6 +10,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/EpjPLiexZnY5D3j906KJXxyFiDc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-25T191843.526.png
 data: '2025-03-26T11:27:49.641Z'
+tags:
+  - jon m. chu
+  - britney spears
+  - cinebiografia
+  - elenco
+  - rumores
+  - ariana grande
 ---
 
 Jon M. Chu, diretor conhecido por seu trabalho em 'Wicked', desmentiu recentemente os rumores sobre a escalação do elenco para a cinebiografia de Britney Spears. Em resposta a um usuário no X (anteriormente Twitter), Chu afirmou que não procedem as especulações envolvendo Ariana Grande, Sabrina Carpenter e Millie Bobby Brown para o papel principal. 'Nada disso é verdade. Ainda não tivemos nenhuma conversa sobre o casting desse filme. Estamos muito no início do desenvolvimento', explicou o diretor.

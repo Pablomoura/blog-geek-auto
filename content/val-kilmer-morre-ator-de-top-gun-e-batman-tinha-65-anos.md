@@ -1,12 +1,21 @@
 ---
-title: "Val Kilmer Morre aos 65 Anos: Ícone de 'Top Gun' e 'Batman'"
-slug: "val-kilmer-morre-ator-de-top-gun-e-batman-tinha-65-anos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/DTNIsDVPwBryXLT8iWiZ-nBhZyI=/987x0/smart/uploads/conteudo/fotos/val-kilmer-filmes.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/qqIpCcVoeVCOxZtAwZc_byyTsQM=/480x360/smart/extras/conteudos/ValKilmer.101945.jpg"
-keywords: "Val Kilmer, Top Gun, Batman, obituário, cinema"
-data: "2025-04-02T15:00:33.218Z"
+title: 'Val Kilmer Morre aos 65 Anos: Ícone de ''Top Gun'' e ''Batman'''
+slug: val-kilmer-morre-ator-de-top-gun-e-batman-tinha-65-anos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/DTNIsDVPwBryXLT8iWiZ-nBhZyI=/987x0/smart/uploads/conteudo/fotos/val-kilmer-filmes.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/qqIpCcVoeVCOxZtAwZc_byyTsQM=/480x360/smart/extras/conteudos/ValKilmer.101945.jpg
+keywords: 'Val Kilmer, Top Gun, Batman, obituário, cinema'
+data: '2025-04-02T15:00:33.218Z'
+tags:
+  - val kilmer
+  - obituário
+  - top gun
+  - batman
+  - pneumonia
+  - ator
 ---
 
 Faleceu nesta última terça-feira, 1º de agosto, o renomado ator Val Kilmer, aos 65 anos. Conhecido por seus papéis icônicos em filmes como 'Batman Eternamente', 'Fogo Contra Fogo' e 'Top Gun', Kilmer sucumbiu após uma longa batalha contra a pneumonia, conforme informado pelo New York Times, com confirmação vinda de Mercedes Kilmer, sua filha.

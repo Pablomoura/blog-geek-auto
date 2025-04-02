@@ -1,11 +1,21 @@
 ---
-title: "Vingadores: Doomsday | Elenco Completo Anunciado pela Marvel; Detalhes Revelados"
-slug: "vingadores-doomsday-marvel-confirma-elenco-ao-vivo-assista"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/-KkU2Z-iF2o?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/DGT42OvVGwocNhJUXlY7Bgyk4bQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T125003.919.png"
-data: "2025-03-26T16:12:16.577Z"
+title: >-
+  Vingadores: Doomsday | Elenco Completo Anunciado pela Marvel; Detalhes
+  Revelados
+slug: vingadores-doomsday-marvel-confirma-elenco-ao-vivo-assista
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/-KkU2Z-iF2o?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/DGT42OvVGwocNhJUXlY7Bgyk4bQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T125003.919.png
+data: '2025-03-26T16:12:16.577Z'
+tags:
+  - 'vingadores: doomsday'
+  - marvel
+  - elenco anunciado
+  - mcu
+  - transmissão ao vivo
+  - chris hemsworth
 ---
 
 A Marvel iniciou uma enigmática transmissão ao vivo em suas redes sociais, trazendo uma grande novidade para os entusiastas do MCU: a revelação do elenco de 'Vingadores: Doomsday'. Acompanhe a transmissão ao vivo para mais atualizações.

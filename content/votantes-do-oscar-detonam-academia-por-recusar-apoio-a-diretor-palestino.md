@@ -1,11 +1,21 @@
 ---
-title: "Controvérsia no Oscar: Votantes Criticam Academia por Não Apoiar Diretor Palestino"
-slug: "votantes-do-oscar-detonam-academia-por-recusar-apoio-a-diretor-palestino"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/u58_ZziEm0_HAgccWzAQgeDdt5w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T103159.793.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NjJmvSTxwvd2OQ3ST0HD-j8G1Xs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T103148.227.png"
-data: "2025-03-28T14:10:27.006Z"
+title: >-
+  Controvérsia no Oscar: Votantes Criticam Academia por Não Apoiar Diretor
+  Palestino
+slug: votantes-do-oscar-detonam-academia-por-recusar-apoio-a-diretor-palestino
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/u58_ZziEm0_HAgccWzAQgeDdt5w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T103159.793.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NjJmvSTxwvd2OQ3ST0HD-j8G1Xs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T103148.227.png
+data: '2025-03-28T14:10:27.006Z'
+tags:
+  - oscar
+  - controvérsia
+  - academia de cinema
+  - diretor palestino
+  - conflito israel-palestina
 ---
 
 A Academia de Artes e Ciências Cinematográficas enfrenta críticas após se recusar a apoiar o cineasta palestino Hamdan Ballal, que sofreu um linchamento e foi sequestrado pelo exército de Israel. AJ Schnack, conhecido por seu trabalho em 'Kurt Cobain: Retrato de uma Ausência', foi o primeiro a reagir, enviando um e-mail contundente para Bill Kramer, CEO da Academia, e Janet Yang, presidente da organização.

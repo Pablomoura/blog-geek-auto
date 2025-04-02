@@ -1,11 +1,22 @@
 ---
-title: "Novo Teaser do 'Quarteto Fantástico' Inicia Contagem Regressiva para o Lançamento"
-slug: "quarteto-fantstico-novo-teaser-faz-contagem-regressiva-assista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/zgLgh9manPanAJTU0fg3GtID8bY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T220028.370.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0iyjCUg637-XKDH68Ww67wlAHjo=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T220028.370.png"
-data: "2025-03-27T01:28:31.464Z"
+title: >-
+  Novo Teaser do 'Quarteto Fantástico' Inicia Contagem Regressiva para o
+  Lançamento
+slug: quarteto-fantstico-novo-teaser-faz-contagem-regressiva-assista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/zgLgh9manPanAJTU0fg3GtID8bY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T220028.370.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0iyjCUg637-XKDH68Ww67wlAHjo=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T220028.370.png
+data: '2025-03-27T01:28:31.464Z'
+tags:
+  - quarteto fantástico
+  - marvel entertainment
+  - teaser
+  - contagem regressiva
+  - lançamento de filme
+  - trailer
 ---
 
 A Marvel Entertainment divulgou na última terça-feira (25) um novo teaser de 'Quarteto Fantástico', marcando a contagem regressiva de quatro meses até o lançamento do filme, previsto para 25 de julho. O vídeo apresenta cenas já conhecidas do trailer anterior, reforçando a proximidade do lançamento.

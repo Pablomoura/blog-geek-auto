@@ -1,12 +1,21 @@
 ---
-title: "Legalmente Loira | Série inicia produção e ganha primeira foto; confira"
-slug: "legalmente-loira-srie-inicia-produo-e-ganha-primeira-foto-confira"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Tf0bOLbmk0gffyZkbWNxEIxX0-o=/987x0/smart/uploads/conteudo/fotos/image_99.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ySN_1EOQ5-LSgOmpmGyYUj3ICY8=/480x360/smart/extras/conteudos/image_99.png"
-keywords: "Legalmente Loira, série, Prime Video, Elle Woods, Lexi Minetree"
-data: "2025-04-02T20:10:47.474Z"
+title: Legalmente Loira | Série inicia produção e ganha primeira foto; confira
+slug: legalmente-loira-srie-inicia-produo-e-ganha-primeira-foto-confira
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Tf0bOLbmk0gffyZkbWNxEIxX0-o=/987x0/smart/uploads/conteudo/fotos/image_99.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ySN_1EOQ5-LSgOmpmGyYUj3ICY8=/480x360/smart/extras/conteudos/image_99.png
+keywords: 'Legalmente Loira, série, Prime Video, Elle Woods, Lexi Minetree'
+data: '2025-04-02T20:10:47.474Z'
+tags:
+  - legalmente loira
+  - série derivada
+  - lexi minetree
+  - elle woods
+  - produção de série
+  - primeira foto
 ---
 
 A aguardada série derivada do sucesso 'Legalmente Loira' divulgou sua primeira imagem oficial nesta quarta-feira (2). A foto apresenta a atriz Lexi Minetree interpretando a icônica Elle Woods. Veja a imagem abaixo:

@@ -1,11 +1,22 @@
 ---
-title: "Galvão Bueno, Ronaldo e Romário Serão Comentaristas do Brasileirão 2025 no Prime Video"
-slug: "galvo-bueno-ronaldo-e-romrio-comentaro-brasileiro-no-prime-video"
-categoria: "STREAMING"
-midia: "https://cdn.ome.lt/5Y4aDGRztWr4da48TKG_LMZ4SWw=/987x0/smart/uploads/conteudo/fotos/02_MwFE75G.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nC_9lF2LYNOcqqNyNn1itsSUKms=/480x360/smart/extras/conteudos/01_hGiDSy5.jpg"
-data: "2025-03-26T17:31:01.594Z"
+title: >-
+  Galvão Bueno, Ronaldo e Romário Serão Comentaristas do Brasileirão 2025 no
+  Prime Video
+slug: galvo-bueno-ronaldo-e-romrio-comentaro-brasileiro-no-prime-video
+categoria: STREAMING
+midia: >-
+  https://cdn.ome.lt/5Y4aDGRztWr4da48TKG_LMZ4SWw=/987x0/smart/uploads/conteudo/fotos/02_MwFE75G.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nC_9lF2LYNOcqqNyNn1itsSUKms=/480x360/smart/extras/conteudos/01_hGiDSy5.jpg
+data: '2025-03-26T17:31:01.594Z'
+tags:
+  - galvão bueno
+  - ronaldo nazário
+  - romário
+  - brasileirão 2025
+  - prime video
+  - comentaristas esportivos
 ---
 
 A Amazon confirmou a contratação de Galvão Bueno, Romário e Ronaldo Nazário para a narração de jogos selecionados do Campeonato Brasileiro de 2025 no Prime Video. A estreia dos comentaristas acontecerá no confronto entre Corinthians e Vasco, marcado para 5 de abril, um sábado, válido pela segunda rodada do torneio.

@@ -1,12 +1,21 @@
 ---
-title: "Poker Face: Segunda Temporada Estreia em Maio no Brasil"
-slug: "poker-face-segunda-temporada-ganha-data-para-maio-no-brasil-confira"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Mgsl6Ed51AQhy5TnX6qzeMc7vxA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T140656.622.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/M8HJMG8c57AIeRxxW0ks5ErLkSU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T140642.548.png"
-keywords: "Poker Face, segunda temporada, estreia, Natasha Lyonne, Universal+, Brasil"
-data: "2025-04-01T17:33:07.089Z"
+title: 'Poker Face: Segunda Temporada Estreia em Maio no Brasil'
+slug: poker-face-segunda-temporada-ganha-data-para-maio-no-brasil-confira
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Mgsl6Ed51AQhy5TnX6qzeMc7vxA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T140656.622.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/M8HJMG8c57AIeRxxW0ks5ErLkSU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T140642.548.png
+keywords: 'Poker Face, segunda temporada, estreia, Natasha Lyonne, Universal+, Brasil'
+data: '2025-04-01T17:33:07.089Z'
+tags:
+  - poker face
+  - segunda temporada
+  - estreia
+  - brasil
+  - universal+
+  - série tv
 ---
 
 A espera acabou para os fãs de 'Poker Face'. A Universal+ anunciou, em exclusividade ao Omelete, que a segunda temporada da série estreará no Brasil em maio. A data de lançamento foi confirmada para o dia 9 de maio, apenas um dia depois da estreia nos Estados Unidos.

@@ -1,12 +1,23 @@
 ---
-title: "GOAT | Nova Animação de Stephen Curry com a Sony Pictures é Apresentada na CinemaCon"
-slug: "goat-animao-produzida-por-stephen-curry-destaque-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/upzCugmgTqps0CrtCCwhNgSGMdA=/987x0/smart/uploads/conteudo/fotos/goat-movie.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/_xPoH3iGHGifvW35u9T609bFTVA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-31T190708.778.png"
-keywords: "GOAT, Stephen Curry, CinemaCon, animação, Sony Pictures, NBA"
-data: "2025-04-01T03:38:49.907Z"
+title: >-
+  GOAT | Nova Animação de Stephen Curry com a Sony Pictures é Apresentada na
+  CinemaCon
+slug: goat-animao-produzida-por-stephen-curry-destaque-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/upzCugmgTqps0CrtCCwhNgSGMdA=/987x0/smart/uploads/conteudo/fotos/goat-movie.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/_xPoH3iGHGifvW35u9T609bFTVA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-31T190708.778.png
+keywords: 'GOAT, Stephen Curry, CinemaCon, animação, Sony Pictures, NBA'
+data: '2025-04-01T03:38:49.907Z'
+tags:
+  - stephen curry
+  - sony pictures
+  - cinemacon
+  - animação
+  - nba
+  - goat
 ---
 
 A CinemaCon 2025 foi palco para a Sony Pictures divulgar detalhes de 'GOAT', uma inovadora animação desenvolvida em parceria com a NBA e o renomado jogador Stephen Curry, do Golden State Warriors. 

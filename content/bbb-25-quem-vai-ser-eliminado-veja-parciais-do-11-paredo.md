@@ -1,11 +1,20 @@
 ---
-title: "BBB 25: Análise do 11º Paredão e Quem Pode Ser Eliminado"
-slug: "bbb-25-quem-vai-ser-eliminado-veja-parciais-do-11-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/9QZxTF2I5OBCE1LPh95G9x9XOLo=/987x0/smart/uploads/conteudo/fotos/bbb25-vinicius-11-parcial.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/9uaTh3p5OWtb5AiMjuner0AeIY4=/480x360/smart/extras/conteudos/bbb25-vinicius-11-parcial-peq.jpg"
-data: "2025-03-29T01:50:58.792Z"
+title: 'BBB 25: Análise do 11º Paredão e Quem Pode Ser Eliminado'
+slug: bbb-25-quem-vai-ser-eliminado-veja-parciais-do-11-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/9QZxTF2I5OBCE1LPh95G9x9XOLo=/987x0/smart/uploads/conteudo/fotos/bbb25-vinicius-11-parcial.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/9uaTh3p5OWtb5AiMjuner0AeIY4=/480x360/smart/extras/conteudos/bbb25-vinicius-11-parcial-peq.jpg
+data: '2025-03-29T01:50:58.792Z'
+tags:
+  - bbb 25
+  - paredão
+  - eliminação
+  - vinícius
+  - formato turbo
+  - tv globo
 ---
 
 O 11º Paredão do BBB 25, marcando a estreia do formato turbo, será formado nesta sexta-feira (28), incluindo Vinícius e outros dois concorrentes. A eliminação ocorrerá no domingo, dia 30.

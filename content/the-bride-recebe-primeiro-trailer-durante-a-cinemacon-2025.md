@@ -1,12 +1,21 @@
 ---
-title: "The Bride! recebe primeiro trailer durante a CinemaCon 2025"
-slug: "the-bride-recebe-primeiro-trailer-durante-a-cinemacon-2025"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/aK3ZNDW7IGUklo0LIBLjWQadkAw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T211030.025.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/3_5QD-G9lBjmds6U1WoqGI5e3eQ=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T211030.025.png"
-keywords: "CinemaCon, The Bride!, Maggie Gyllenhaal, Christian Bale, Frankenstein"
-data: "2025-04-02T00:51:24.649Z"
+title: The Bride! recebe primeiro trailer durante a CinemaCon 2025
+slug: the-bride-recebe-primeiro-trailer-durante-a-cinemacon-2025
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/aK3ZNDW7IGUklo0LIBLjWQadkAw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T211030.025.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/3_5QD-G9lBjmds6U1WoqGI5e3eQ=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T211030.025.png
+keywords: 'CinemaCon, The Bride!, Maggie Gyllenhaal, Christian Bale, Frankenstein'
+data: '2025-04-02T00:51:24.649Z'
+tags:
+  - cinemacon 2025
+  - the bride!
+  - maggie gyllenhaal
+  - noiva de frankenstein
+  - warner bros. pictures
+  - trailer de filme
 ---
 
 A Warner Bros. Pictures destacou-se na CinemaCon 2025, realizada nesta terça-feira, ao apresentar detalhes do aguardado filme 'The Bride!'. Sob a direção de Maggie Gyllenhaal, que também subiu ao palco para discutir o projeto, o filme promete uma nova visão sobre a clássica Noiva de Frankenstein.

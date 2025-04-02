@@ -1,11 +1,20 @@
 ---
-title: "Final Fantasy: Brave Exvius para Smartphones Será Encerrado em Maio"
-slug: "final-fantasy-game-para-smartphones-brave-exvius-ser-fechado-saiba-quando"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/eJI_qw01QljzMnxJPbu3ZMcq8DQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T125637.689.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/CkoGDh7-YBI4mNuTP3TLQCMWtEs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T125627.631.png"
-data: "2025-03-28T16:19:33.717Z"
+title: 'Final Fantasy: Brave Exvius para Smartphones Será Encerrado em Maio'
+slug: final-fantasy-game-para-smartphones-brave-exvius-ser-fechado-saiba-quando
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/eJI_qw01QljzMnxJPbu3ZMcq8DQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T125637.689.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/CkoGDh7-YBI4mNuTP3TLQCMWtEs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T125627.631.png
+data: '2025-03-28T16:19:33.717Z'
+tags:
+  - 'final fantasy: brave exvius'
+  - descontinuação
+  - square enix
+  - rpg para smartphones
+  - encerramento de jogo
+  - maio 2023
 ---
 
 O popular jogo de RPG para smartphones, Final Fantasy: Brave Exvius, será descontinuado em breve. Lançado em março de 2020 pela renomada desenvolvedora Square Enix, o jogo deixará de estar disponível a partir do dia 30 de maio de 2023.

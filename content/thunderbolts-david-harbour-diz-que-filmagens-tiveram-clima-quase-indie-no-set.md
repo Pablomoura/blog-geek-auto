@@ -8,6 +8,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/AmrAJPWnm0xRfdWWAkexTqqyrk8=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_0WM8FZH.jpg
 data: '2025-03-26T12:34:03.070Z'
+tags:
+  - david harbour
+  - thunderbolts
+  - marvel
+  - indie
+  - kevin feige
+  - cinema
 ---
 
 David Harbour, conhecido por seu papel como Guardião Vermelho, terá um 2025 movimentado com a última temporada de Stranger Things e a estreia em Thunderbolts, da Marvel. Em uma entrevista ao Omelete, Harbour descreveu Thunderbolts como um projeto com uma atmosfera indie incentivada por Kevin Feige, presidente da Marvel Studios.

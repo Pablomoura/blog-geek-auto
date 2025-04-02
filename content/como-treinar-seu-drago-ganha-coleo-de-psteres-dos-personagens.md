@@ -1,11 +1,20 @@
 ---
-title: "Como Treinar Seu Dragão: Live-Action Ganha Coleção de Pôsteres"
-slug: "como-treinar-seu-drago-ganha-coleo-de-psteres-dos-personagens"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/GgSB9N_GWrv_Pl9u19fkwmmmZQs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T115745.694.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/VfQ9gsaI611c3pVQg1ZNzOji-ww=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T120936.418.png"
-data: "2025-03-27T16:11:59.894Z"
+title: 'Como Treinar Seu Dragão: Live-Action Ganha Coleção de Pôsteres'
+slug: como-treinar-seu-drago-ganha-coleo-de-psteres-dos-personagens
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/GgSB9N_GWrv_Pl9u19fkwmmmZQs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T115745.694.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/VfQ9gsaI611c3pVQg1ZNzOji-ww=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T120936.418.png
+data: '2025-03-27T16:11:59.894Z'
+tags:
+  - como treinar seu dragão
+  - live-action
+  - pôsteres
+  - dreamworks
+  - mason thames
+  - gerard butler
 ---
 
 A DreamWorks revelou recentemente uma nova coleção de pôsteres para a versão live-action de 'Como Treinar Seu Dragão'. Os pôsteres destacam visuais impressionantes dos principais personagens.

@@ -1,10 +1,19 @@
 ---
-title: "Zendaya e Barry Jenkins Unem Forças em 'Be My Baby', um Projeto da A24"
-slug: "be-my-baby-filme-da-a24-ter-zendaya-e-direo-de-barry-jenkins"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/l81cZxXyYEdDDGD1H_q57NA5fjw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-26T114928.774.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/oSnyAZwTnc5ciuArwmcxLzSPgjY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T114855.002.png"
+title: 'Zendaya e Barry Jenkins Unem Forças em ''Be My Baby'', um Projeto da A24'
+slug: be-my-baby-filme-da-a24-ter-zendaya-e-direo-de-barry-jenkins
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/l81cZxXyYEdDDGD1H_q57NA5fjw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-26T114928.774.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/oSnyAZwTnc5ciuArwmcxLzSPgjY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T114855.002.png
+tags:
+  - zendaya
+  - barry jenkins
+  - a24
+  - be my baby
+  - cinema
+  - ronettes
 ---
 
 A produtora A24 confirma seu novo projeto cinematográfico, 'Be My Baby', que será dirigido por Barry Jenkins, conhecido por seu aclamado filme 'Moonlight: Sob a Luz do Luar'. A estrela do filme será Zendaya, que interpretará Ronnie Spector, a icônica cantora do grupo Ronettes.

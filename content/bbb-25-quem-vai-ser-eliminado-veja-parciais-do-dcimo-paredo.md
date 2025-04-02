@@ -8,6 +8,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/LEeN7esVN8rqjBj1mAGEP4EYGr8=/480x360/smart/extras/conteudos/bbb25-maike-10-parciais-peq.jpg
 data: '2025-03-25T18:11:45.435Z'
+tags:
+  - bbb 25
+  - paredão
+  - eliminação
+  - enquete uol
+  - diego hypólito
+  - maike
 ---
 
 O décimo Paredão do BBB 25, formado na última noite de domingo, 23, coloca Aline, Maike e Diego Hypólito na berlinda. A eliminação será na próxima terça-feira, dia 25.

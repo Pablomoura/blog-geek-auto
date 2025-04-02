@@ -1,11 +1,20 @@
 ---
-title: "Blade no MCU: Projeto é Pausado pela Marvel, Revela Fonte"
-slug: "blade-marvel-no-trabalha-mais-no-filme-diz-reprter"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/yu9_C4A9pWDTnCbip2NIGgvZzY8=/987x0/smart/uploads/conteudo/fotos/blade-mcu.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OsM4LpHojK0cvBja0ALV_pr0Tgk=/480x360/smart/extras/conteudos/blade.webp"
-data: "2025-03-28T20:12:08.686Z"
+title: 'Blade no MCU: Projeto é Pausado pela Marvel, Revela Fonte'
+slug: blade-marvel-no-trabalha-mais-no-filme-diz-reprter
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/yu9_C4A9pWDTnCbip2NIGgvZzY8=/987x0/smart/uploads/conteudo/fotos/blade-mcu.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OsM4LpHojK0cvBja0ALV_pr0Tgk=/480x360/smart/extras/conteudos/blade.webp
+data: '2025-03-28T20:12:08.686Z'
+tags:
+  - blade
+  - mcu
+  - marvel
+  - mahershala ali
+  - pausa no projeto
+  - chad stahelski
 ---
 
 A trajetória de Blade no Universo Cinematográfico da Marvel (MCU) enfrenta mais um revés. Após rumores de que Chad Stahelski dirigiria o filme estrelado por Mahershala Ali, novas informações sugerem que a Marvel pausou o desenvolvimento do projeto.

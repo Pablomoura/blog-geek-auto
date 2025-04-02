@@ -1,11 +1,20 @@
 ---
-title: "Mortal Kombat 2: Novos Detalhes Sobre a História da Sequência São Revelados"
-slug: "mortal-kombat-2-detalhes-revelam-mais-de-como-ser-a-histria-da-sequncia"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/5Wyu8k5L56EduY8P2wtX4jWAxwE=/987x0/smart/uploads/conteudo/fotos/mortal-kombat-2.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/wx-5ScdNiAeCiLOY92LGAozQIps=/480x360/smart/extras/conteudos/mortal-kombat-2.png"
-data: "2025-03-28T19:03:44.830Z"
+title: 'Mortal Kombat 2: Novos Detalhes Sobre a História da Sequência São Revelados'
+slug: mortal-kombat-2-detalhes-revelam-mais-de-como-ser-a-histria-da-sequncia
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/5Wyu8k5L56EduY8P2wtX4jWAxwE=/987x0/smart/uploads/conteudo/fotos/mortal-kombat-2.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/wx-5ScdNiAeCiLOY92LGAozQIps=/480x360/smart/extras/conteudos/mortal-kombat-2.png
+data: '2025-03-28T19:03:44.830Z'
+tags:
+  - mortal kombat 2
+  - cinema
+  - karl urban
+  - johnny cage
+  - shao kahn
+  - filmes de ação
 ---
 
 A sequência do filme 'Mortal Kombat', prevista para chegar aos cinemas em outubro, contará com a participação de Karl Urban no papel de Johnny Cage, além de incorporar outros icônicos personagens dos jogos, como Shao Kahn. Embora muitos detalhes da trama permaneçam sob sigilo, uma recente entrevista de Ed Boon, criador do jogo, à Entertainment Weekly, forneceu pistas sobre o que esperar do enredo.

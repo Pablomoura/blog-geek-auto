@@ -1,12 +1,25 @@
 ---
-title: "Screamboat: Terror a Bordo | Estreia no Brasil é anunciada com lançamento de trailer oficial"
-slug: "screamboat-slasher-do-mickey-ganha-data-no-brasil-confira-trailer"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FhsUW3XNRphFeM93dASTwtFPeGI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T182322.690.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/FD8z8DQ2YS_itEM8iHG_xT53BwY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T182322.690.png"
-keywords: "Screamboat, estreia no Brasil, trailer oficial, Steamboat Willie, paródia de terror"
-data: "2025-04-01T22:03:37.711Z"
+title: >-
+  Screamboat: Terror a Bordo | Estreia no Brasil é anunciada com lançamento de
+  trailer oficial
+slug: screamboat-slasher-do-mickey-ganha-data-no-brasil-confira-trailer
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FhsUW3XNRphFeM93dASTwtFPeGI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T182322.690.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/FD8z8DQ2YS_itEM8iHG_xT53BwY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T182322.690.png
+keywords: >-
+  Screamboat, estreia no Brasil, trailer oficial, Steamboat Willie, paródia de
+  terror
+data: '2025-04-01T22:03:37.711Z'
+tags:
+  - screamboat
+  - terror
+  - cinema brasileiro
+  - estreia no brasil
+  - trailer oficial
+  - imagem filmes
 ---
 
 A distribuidora Imagem Filmes confirmou na terça-feira (01) que o filme 'Screamboat: Terror a Bordo' estará disponível nos cinemas brasileiros a partir de 1º de maio. O anúncio veio acompanhado do lançamento do trailer oficial do filme. Até então, a data de estreia nos Estados Unidos estava marcada para a próxima quarta-feira (02).

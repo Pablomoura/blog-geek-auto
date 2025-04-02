@@ -1,11 +1,22 @@
 ---
-title: "Vingadores: Doomsday | Revelado o Verdadeiro Vilão da Saga Mutante, Afirma Insider"
-slug: "vingadores-doomsday-doutor-destino-era-o-vilo-da-saga-mutante-diz-insider"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/20TAz06xbUR3REy-oYHB_t4GGqo=/987x0/smart/uploads/conteudo/fotos/robertdowneyjrdoutordestinolow_hCJ5xUN.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/WLMnE9Rp8AmBezhLjqggTODqbx4=/480x360/smart/extras/conteudos/robertdowneyjrdoutordestinolow_8N2GVkj.jpg"
-data: "2025-03-29T15:09:31.309Z"
+title: >-
+  Vingadores: Doomsday | Revelado o Verdadeiro Vilão da Saga Mutante, Afirma
+  Insider
+slug: vingadores-doomsday-doutor-destino-era-o-vilo-da-saga-mutante-diz-insider
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/20TAz06xbUR3REy-oYHB_t4GGqo=/987x0/smart/uploads/conteudo/fotos/robertdowneyjrdoutordestinolow_hCJ5xUN.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/WLMnE9Rp8AmBezhLjqggTODqbx4=/480x360/smart/extras/conteudos/robertdowneyjrdoutordestinolow_8N2GVkj.jpg
+data: '2025-03-29T15:09:31.309Z'
+tags:
+  - 'vingadores: doomsday'
+  - doutor destino
+  - saga mutante
+  - jonathan majors
+  - guerras secretas
+  - dinastia kang
 ---
 
 Inicialmente destinado a ser o antagonista da Saga Mutante, Doutor Destino foi realocado para os filmes Vingadores: Doomsday e Vingadores: Guerras Secretas. A mudança ocorreu após a demissão de Jonathan Majors, conforme reportado por Alex Perez, do Comics Circus. Antes chamado de Dinastia Kang, o quinto filme da franquia teve seu enredo e título alterados.

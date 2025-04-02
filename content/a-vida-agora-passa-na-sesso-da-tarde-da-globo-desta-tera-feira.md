@@ -1,12 +1,20 @@
 ---
-title: "Sessão da Tarde exibe 'A Vida É Agora' com Billy Crystal nesta terça"
-slug: "a-vida-agora-passa-na-sesso-da-tarde-da-globo-desta-tera-feira"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/bSTQZtQNW5YGSEiEUlhVttSweME=/987x0/smart/uploads/conteudo/fotos/avidaeagora.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7Jp1p82haKRIdf9lplyGIy8WdG8=/480x360/smart/extras/conteudos/avidaeagora.jpg"
-keywords: "Sessão da Tarde, A Vida É Agora, Billy Crystal, filme, TV Globo"
-data: "2025-04-01T07:10:57.842Z"
+title: Sessão da Tarde exibe 'A Vida É Agora' com Billy Crystal nesta terça
+slug: a-vida-agora-passa-na-sesso-da-tarde-da-globo-desta-tera-feira
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/bSTQZtQNW5YGSEiEUlhVttSweME=/987x0/smart/uploads/conteudo/fotos/avidaeagora.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7Jp1p82haKRIdf9lplyGIy8WdG8=/480x360/smart/extras/conteudos/avidaeagora.jpg
+keywords: 'Sessão da Tarde, A Vida É Agora, Billy Crystal, filme, TV Globo'
+data: '2025-04-01T07:10:57.842Z'
+tags:
+  - sessão da tarde
+  - billy crystal
+  - a vida é agora
+  - filme 2021
+  - tv globo
 ---
 
 Nesta terça-feira, 1° de outubro, a Sessão da Tarde da TV Globo apresenta o filme 'A Vida É Agora', lançado em 2021. Com início previsto para as 15h25, horário de Brasília, o longa possui uma duração total de duas horas.

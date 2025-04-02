@@ -1,12 +1,21 @@
 ---
-title: "Michael Mann, Coppola e produção de Top Gun prestam homenagem a Val Kilmer"
-slug: "michael-mann-coppola-produo-de-top-gun-e-mais-homenageiam-val-kilmer"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/PwxoeQNKxK4gpUT-ToY_eKT0d7Q=/987x0/smart/uploads/conteudo/fotos/02_6fYjuie.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/xieLOy-nKvOoaYDCpO2D0ZY5qUc=/480x360/smart/extras/conteudos/01_sdPFHDh.jpg"
-keywords: "Val Kilmer, homenagem, cinema, Top Gun, Batman"
-data: "2025-04-02T13:23:53.727Z"
+title: 'Michael Mann, Coppola e produção de Top Gun prestam homenagem a Val Kilmer'
+slug: michael-mann-coppola-produo-de-top-gun-e-mais-homenageiam-val-kilmer
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/PwxoeQNKxK4gpUT-ToY_eKT0d7Q=/987x0/smart/uploads/conteudo/fotos/02_6fYjuie.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/xieLOy-nKvOoaYDCpO2D0ZY5qUc=/480x360/smart/extras/conteudos/01_sdPFHDh.jpg
+keywords: 'Val Kilmer, homenagem, cinema, Top Gun, Batman'
+data: '2025-04-02T13:23:53.727Z'
+tags:
+  - val kilmer
+  - top gun
+  - michael mann
+  - francis ford coppola
+  - homenagem
+  - hollywood
 ---
 
 Val Kilmer, celebrado ator de Hollywood, faleceu na última terça-feira, 1º de agosto, vitimado por uma pneumonia, conforme reportagem do The New York Times. Kilmer, que ascendeu ao estrelato após sua participação em Top Gun, desempenhou papéis significativos em várias grandes produções cinematográficas, incluindo Willow, Fogo Contra Fogo e Batman Eternamente.

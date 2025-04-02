@@ -1,12 +1,19 @@
 ---
-title: "Homem-Aranha: Um Novo Dia - A Conexão do Novo Filme com as HQs"
-slug: "homem-aranha-um-novo-dia-explicado-entenda-a-ligao-do-filme-com-a-hq"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/d3ZKbs_cGow?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/0w2K-fCruWG_hodGgWeX1KkTrAg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-01_132019.png"
-keywords: "Homem-Aranha, Um Novo Dia, Marvel, HQs, cinema, adaptação de quadrinhos"
-data: "2025-04-01T17:34:04.478Z"
+title: 'Homem-Aranha: Um Novo Dia - A Conexão do Novo Filme com as HQs'
+slug: homem-aranha-um-novo-dia-explicado-entenda-a-ligao-do-filme-com-a-hq
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/d3ZKbs_cGow?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/0w2K-fCruWG_hodGgWeX1KkTrAg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-01_132019.png
+keywords: 'Homem-Aranha, Um Novo Dia, Marvel, HQs, cinema, adaptação de quadrinhos'
+data: '2025-04-01T17:34:04.478Z'
+tags:
+  - homem-aranha
+  - marvel studios
+  - sony
+  - quadrinhos
+  - filme aracnídeo
 ---
 
 A Sony e a Marvel Studios anunciaram oficialmente o título do próximo filme do universo aracnídeo: 'Homem-Aranha: Um Novo Dia', com lançamento programado para 30 de julho de 2026. Este título compartilha seu nome com um notório arco dos quadrinhos do Homem-Aranha, levantando especulações sobre a possível adaptação dessa fase.

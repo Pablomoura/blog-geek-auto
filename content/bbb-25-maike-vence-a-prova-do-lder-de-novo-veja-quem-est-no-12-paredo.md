@@ -1,12 +1,21 @@
 ---
-title: "BBB 25: Maike conquista a liderança novamente e forma o 12º Paredão"
-slug: "bbb-25-maike-vence-a-prova-do-lder-de-novo-veja-quem-est-no-12-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/gjYVa_3jCZ4RlIJCMBXsS7mHTHc=/987x0/smart/uploads/conteudo/fotos/bbb25-maike-12-lider.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/eTxJqB7ld1zlfbkHU2tRRaofHYs=/480x360/smart/extras/conteudos/bbb25-maike-12-lider-peq.jpg"
-keywords: "BBB 25, Prova do Líder, Paredão, Maike BBB 25, votação BBB"
-data: "2025-03-31T04:12:43.347Z"
+title: 'BBB 25: Maike conquista a liderança novamente e forma o 12º Paredão'
+slug: bbb-25-maike-vence-a-prova-do-lder-de-novo-veja-quem-est-no-12-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/gjYVa_3jCZ4RlIJCMBXsS7mHTHc=/987x0/smart/uploads/conteudo/fotos/bbb25-maike-12-lider.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/eTxJqB7ld1zlfbkHU2tRRaofHYs=/480x360/smart/extras/conteudos/bbb25-maike-12-lider-peq.jpg
+keywords: 'BBB 25, Prova do Líder, Paredão, Maike BBB 25, votação BBB'
+data: '2025-03-31T04:12:43.347Z'
+tags:
+  - bbb 25
+  - maike
+  - liderança
+  - paredão
+  - vinícius
+  - diego hypólito
 ---
 
 No BBB 25, um novo líder foi coroado e um novo Paredão formado neste domingo, 30. Com 11 participantes ainda na disputa, nove enfrentaram o desafio pela liderança, com Maike saindo vitorioso e embolsando também R$ 10 mil.

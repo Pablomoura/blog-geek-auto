@@ -1,11 +1,21 @@
 ---
-title: "Re:ZERO - Starting Life in Another World Anuncia sua 4ª Temporada com Novo Teaser"
-slug: "rezero-starting-life-in-another-world-4-temporada-anunciada-veja-teaser"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/01nLOU3J_Uo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/IdiKCwNpe5CfVVQyPpNNxGVV7Qc=/480x360/smart/extras/conteudos/rezero.png"
-data: "2025-03-26T18:14:01.275Z"
+title: >-
+  Re:ZERO - Starting Life in Another World Anuncia sua 4ª Temporada com Novo
+  Teaser
+slug: rezero-starting-life-in-another-world-4-temporada-anunciada-veja-teaser
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/01nLOU3J_Uo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/IdiKCwNpe5CfVVQyPpNNxGVV7Qc=/480x360/smart/extras/conteudos/rezero.png
+data: '2025-03-26T18:14:01.275Z'
+tags:
+  - 're:zero'
+  - temporada 4
+  - anime
+  - teaser
+  - série de fantasia
+  - nova temporada
 ---
 
 A aguardada quarta temporada de Re:ZERO - Starting Life in Another World já está em produção. Recentemente, foi divulgado um teaser emocionante, acompanhado de uma foto exclusiva do próximo capítulo da série. Confira o teaser no vídeo acima e a imagem logo abaixo!

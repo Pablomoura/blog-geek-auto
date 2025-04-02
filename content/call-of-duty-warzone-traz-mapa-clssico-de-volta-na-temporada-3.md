@@ -1,11 +1,19 @@
 ---
-title: "Call of Duty: Warzone Anuncia Retorno do Mapa Verdansk na Temporada 3"
-slug: "call-of-duty-warzone-traz-mapa-clssico-de-volta-na-temporada-3"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/4T5QmL0rJ8Y?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/vTaAJFxw7ffFSBTYOIl2Oq43Br8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T104424.904.png"
-data: "2025-03-27T14:10:38.352Z"
+title: 'Call of Duty: Warzone Anuncia Retorno do Mapa Verdansk na Temporada 3'
+slug: call-of-duty-warzone-traz-mapa-clssico-de-volta-na-temporada-3
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/4T5QmL0rJ8Y?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/vTaAJFxw7ffFSBTYOIl2Oq43Br8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T104424.904.png
+data: '2025-03-27T14:10:38.352Z'
+tags:
+  - 'call of duty: warzone'
+  - verdansk
+  - temporada 3
+  - atualização
+  - mapa
+  - nostalgia
 ---
 
 A Activision anunciou grandes novidades para a 3ª temporada de Call of Duty: Warzone, que incluem o retorno do adorado mapa Verdansk. A atualização está prevista para o dia 3 de abril e promete reviver a nostalgia dos jogadores com esse cenário icônico. Confira acima a prévia divulgada.

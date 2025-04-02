@@ -1,11 +1,20 @@
 ---
-title: "Novo Pôster do Live-Action de 'Como Treinar Seu Dragão' é Revelado"
-slug: "como-treinar-seu-drago-ganha-novo-pster-com-perna-de-peixe"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/GgSB9N_GWrv_Pl9u19fkwmmmZQs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T115745.694.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NUw0dg1NxRDE0ZNr1epoo6kKlkc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T115730.979.png"
-data: "2025-03-27T15:10:41.670Z"
+title: Novo Pôster do Live-Action de 'Como Treinar Seu Dragão' é Revelado
+slug: como-treinar-seu-drago-ganha-novo-pster-com-perna-de-peixe
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/GgSB9N_GWrv_Pl9u19fkwmmmZQs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T115745.694.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NUw0dg1NxRDE0ZNr1epoo6kKlkc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T115730.979.png
+data: '2025-03-27T15:10:41.670Z'
+tags:
+  - como treinar seu dragão
+  - live-action
+  - pôster
+  - dreamworks
+  - mason thames
+  - gerard butler
 ---
 
 A DreamWorks lançou uma nova coleção de pôsteres para o aguardado remake em live-action de 'Como Treinar Seu Dragão'. Confira as artes que destacam os principais personagens!

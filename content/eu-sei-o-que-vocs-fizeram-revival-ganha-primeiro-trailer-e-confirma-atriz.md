@@ -1,12 +1,25 @@
 ---
-title: "Revival de 'Eu Sei o Que Vocês Fizeram no Verão Passado' Lança Primeiro Trailer com Retorno de Jennifer Love Hewitt"
-slug: "eu-sei-o-que-vocs-fizeram-revival-ganha-primeiro-trailer-e-confirma-atriz"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/VeNglv5TpwhGUaivMgmFyxuV9fk=/987x0/smart/uploads/conteudo/fotos/eu-sei-o-que-voces-fizeram-passado.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Gpq7PuGx99P8sy_uGXpexxMJFTw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-18T124228.570.png"
-keywords: "Eu Sei o Que Vocês Fizeram no Verão Passado, Jennifer Love Hewitt, CinemaCon, trailer, filme de terror"
-data: "2025-04-01T03:39:10.773Z"
+title: >-
+  Revival de 'Eu Sei o Que Vocês Fizeram no Verão Passado' Lança Primeiro
+  Trailer com Retorno de Jennifer Love Hewitt
+slug: eu-sei-o-que-vocs-fizeram-revival-ganha-primeiro-trailer-e-confirma-atriz
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/VeNglv5TpwhGUaivMgmFyxuV9fk=/987x0/smart/uploads/conteudo/fotos/eu-sei-o-que-voces-fizeram-passado.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Gpq7PuGx99P8sy_uGXpexxMJFTw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-18T124228.570.png
+keywords: >-
+  Eu Sei o Que Vocês Fizeram no Verão Passado, Jennifer Love Hewitt, CinemaCon,
+  trailer, filme de terror
+data: '2025-04-01T03:39:10.773Z'
+tags:
+  - eu sei o que vocês fizeram no verão passado
+  - jennifer love hewitt
+  - revival
+  - trailer
+  - cinemacon
+  - indústria cinematográfica
 ---
 
 O aguardado revival do filme 'Eu Sei o Que Vocês Fizeram no Verão Passado' estreou seu primeiro trailer na CinemaCon, evento que reúne os maiores nomes da indústria cinematográfica. Durante a apresentação, foi confirmada a participação de Jennifer Love Hewitt, que retorna à franquia que a consagrou.

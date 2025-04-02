@@ -1,11 +1,19 @@
 ---
-title: "Vingadores: Doomsday | Roteiro Ainda em Desenvolvimento, Revela Insider"
-slug: "vingadores-doomsday-roteiro-do-filme-ainda-no-est-pronto-diz-insider"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Tt53IiqKcVzWeC7Xb6HeL31RPsA=/987x0/smart/uploads/conteudo/fotos/vingadoresdoomsday.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/622faKmzMG4LrI1yHKRCMK0e9xk=/480x360/smart/extras/conteudos/vingadoresdoomsday.jpg"
-data: "2025-03-30T19:05:20.512Z"
+title: 'Vingadores: Doomsday | Roteiro Ainda em Desenvolvimento, Revela Insider'
+slug: vingadores-doomsday-roteiro-do-filme-ainda-no-est-pronto-diz-insider
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Tt53IiqKcVzWeC7Xb6HeL31RPsA=/987x0/smart/uploads/conteudo/fotos/vingadoresdoomsday.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/622faKmzMG4LrI1yHKRCMK0e9xk=/480x360/smart/extras/conteudos/vingadoresdoomsday.jpg
+data: '2025-03-30T19:05:20.512Z'
+tags:
+  - 'vingadores: doomsday'
+  - roteiro em desenvolvimento
+  - produção de filme
+  - marvel
+  - daniel richtman
 ---
 
 Apesar do anúncio do elenco de 'Vingadores: Doomsday' e da confirmação de que o filme entrou em produção, a situação parece mais complexa. Segundo o jornalista Daniel Richtman, a filmagem só começará em abril e ainda falta completar o roteiro. "A produção foi iniciada, mas não as filmagens. Eles estão montando os cenários e só começarão a filmar em abril. O roteiro ainda está sendo finalizado", informou Richtman via X, anteriormente conhecido como Twitter.

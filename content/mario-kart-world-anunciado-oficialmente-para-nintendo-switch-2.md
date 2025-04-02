@@ -1,12 +1,20 @@
 ---
-title: "Mario Kart World é anunciado oficialmente para Nintendo Switch 2"
-slug: "mario-kart-world-anunciado-oficialmente-para-nintendo-switch-2"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/BPh9S5tpcZo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/JG4MMWn3_bPKUVsmyVjsEwwV5yw=/480x360/smart/extras/conteudos/01_OmjKVzG.jpg"
-keywords: "Nintendo, Mario Kart World, Nintendo Switch 2, jogos de corrida, mundo aberto"
-data: "2025-04-02T13:22:50.310Z"
+title: Mario Kart World é anunciado oficialmente para Nintendo Switch 2
+slug: mario-kart-world-anunciado-oficialmente-para-nintendo-switch-2
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/BPh9S5tpcZo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/JG4MMWn3_bPKUVsmyVjsEwwV5yw=/480x360/smart/extras/conteudos/01_OmjKVzG.jpg
+keywords: 'Nintendo, Mario Kart World, Nintendo Switch 2, jogos de corrida, mundo aberto'
+data: '2025-04-02T13:22:50.310Z'
+tags:
+  - nintendo switch 2
+  - mario kart world
+  - jogos de corrida
+  - mundo aberto
+  - lançamento
+  - exclusivo nintendo
 ---
 
 Em um movimento empolgante para os fãs de jogos de corrida, a Nintendo acaba de anunciar o lançamento de 'Mario Kart World', exclusivo para o recém-anunciado Nintendo Switch 2. Este novo título promete revolucionar a franquia, introduzindo um conceito de mundo aberto na jogabilidade.

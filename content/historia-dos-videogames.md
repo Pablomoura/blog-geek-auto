@@ -1,12 +1,22 @@
 ---
-title: "A História dos Videogames: Da Era Atari à Geração Atual"
-slug: "historia-dos-videogames"
-categoria: "Games"
-midia: "/images/história dos games.jpg"
-tipoMidia: "imagem"
-thumb: "/images/história dos games.jpg"
-keywords: "História dos videogames, evolução dos consoles, Atari 2600, Nintendo vs Sega, PlayStation 1, Nintendo 64, Xbox Series X, Nintendo Switch, realidade virtual nos games, streaming de jogos, inteligência artificial em jogos"
-data: "2025-03-30T15:00:00.000Z"
+title: 'A História dos Videogames: Da Era Atari à Geração Atual'
+slug: historia-dos-videogames
+categoria: Games
+midia: /images/história dos games.jpg
+tipoMidia: imagem
+thumb: /images/história dos games.jpg
+keywords: >-
+  História dos videogames, evolução dos consoles, Atari 2600, Nintendo vs Sega,
+  PlayStation 1, Nintendo 64, Xbox Series X, Nintendo Switch, realidade virtual
+  nos games, streaming de jogos, inteligência artificial em jogos
+data: '2025-03-30T15:00:00.000Z'
+tags:
+  - história dos videogames
+  - atari
+  - avanços tecnológicos
+  - cultura pop
+  - evolução dos jogos
+  - inovações em videogames
 ---
 
 Os videogames evoluíram de simples pixels para experiências imersivas que moldam a cultura pop mundial. Este artigo traça a trajetória dos videogames, desde os primórdios com o Atari até as inovações da geração atual, destacando marcos, avanços tecnológicos e seu impacto cultural.

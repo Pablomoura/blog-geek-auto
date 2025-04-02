@@ -1,12 +1,22 @@
 ---
-title: "Como Treinar o Seu Dragão | Primeiras Impressões do Live-Action Apresentado na CinemaCon"
-slug: "como-treinar-o-seu-drago-j-vimos-o-live-action-confira-nossas-impresses"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/hEDrcNURe60?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/iT1ybF7R6JCUYRx01upJHA8aMFk=/480x360/smart/extras/conteudos/imagem_2025-03-31_093851442_wQDrDNQ.png"
-keywords: "Como Treinar o Seu Dragão, CinemaCon, live-action, Dean DeBlois, DreamWorks"
-data: "2025-04-02T20:11:48.207Z"
+title: >-
+  Como Treinar o Seu Dragão | Primeiras Impressões do Live-Action Apresentado na
+  CinemaCon
+slug: como-treinar-o-seu-drago-j-vimos-o-live-action-confira-nossas-impresses
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/hEDrcNURe60?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/iT1ybF7R6JCUYRx01upJHA8aMFk=/480x360/smart/extras/conteudos/imagem_2025-03-31_093851442_wQDrDNQ.png
+keywords: 'Como Treinar o Seu Dragão, CinemaCon, live-action, Dean DeBlois, DreamWorks'
+data: '2025-04-02T20:11:48.207Z'
+tags:
+  - cinemacon
+  - live-action
+  - como treinar o seu dragão
+  - adaptação cinematográfica
+  - primeiras impressões
+  - estreia 2025
 ---
 
 A adaptação live-action de 'Como Treinar o Seu Dragão', prevista para estrear em 2025, foi exibida em primeira mão durante a CinemaCon, evento onde o Omelete teve a oportunidade de assistir ao filme completo. A seguir, apresentamos nossas impressões sobre essa nova produção.

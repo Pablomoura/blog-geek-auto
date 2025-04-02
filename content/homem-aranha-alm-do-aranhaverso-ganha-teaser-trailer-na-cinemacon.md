@@ -1,12 +1,22 @@
 ---
-title: "Homem-Aranha: Além do Aranhaverso Revela Teaser Impactante na CinemaCon"
-slug: "homem-aranha-alm-do-aranhaverso-ganha-teaser-trailer-na-cinemacon"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/1gH_hdzX_74?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/4bvPfILgL9kOpHnATtPLcA_QYwo=/480x360/smart/extras/conteudos/aranhaverso3.png"
-keywords: "Homem-Aranha: Além do Aranhaverso, CinemaCon, teaser trailer, Miles Morales, animação"
-data: "2025-04-01T14:16:13.189Z"
+title: 'Homem-Aranha: Além do Aranhaverso Revela Teaser Impactante na CinemaCon'
+slug: homem-aranha-alm-do-aranhaverso-ganha-teaser-trailer-na-cinemacon
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/1gH_hdzX_74?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/4bvPfILgL9kOpHnATtPLcA_QYwo=/480x360/smart/extras/conteudos/aranhaverso3.png
+keywords: >-
+  Homem-Aranha: Além do Aranhaverso, CinemaCon, teaser trailer, Miles Morales,
+  animação
+data: '2025-04-01T14:16:13.189Z'
+tags:
+  - homem-aranha
+  - cinemacon
+  - aranhaverso
+  - teaser trailer
+  - estreia de filme
+  - super-heróis
 ---
 
 A CinemaCon deste ano foi palco de grandes novidades para os fãs da saga Aranhaverso, com o anúncio da data de estreia e a divulgação das primeiras imagens e um teaser trailer de 'Homem-Aranha: Além do Aranhaverso'. As imagens e detalhes do teaser prometem uma continuação ainda mais vibrante e visualmente deslumbrante.

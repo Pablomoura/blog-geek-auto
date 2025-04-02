@@ -1,11 +1,22 @@
 ---
-title: "Grey's Anatomy | Shonda Rhimes Revela Ideia Descartada de Spin-off sobre as Irmãs Shepherd"
-slug: "greys-anatomy-shonda-rhimes-descartou-ideia-de-spin-off-com-irms-de-derek"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/nHM7M49rZ3-R87oLYC1gI68DUk0=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_8yznzFJ.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/YzhHZMHM6afEk6BzAyRTo3lT0eI=/480x360/smart/extras/conteudos/Design_sem_nome_AOvmxOw.jpg"
-data: "2025-03-27T19:07:32.039Z"
+title: >-
+  Grey's Anatomy | Shonda Rhimes Revela Ideia Descartada de Spin-off sobre as
+  Irmãs Shepherd
+slug: greys-anatomy-shonda-rhimes-descartou-ideia-de-spin-off-com-irms-de-derek
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/nHM7M49rZ3-R87oLYC1gI68DUk0=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_8yznzFJ.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/YzhHZMHM6afEk6BzAyRTo3lT0eI=/480x360/smart/extras/conteudos/Design_sem_nome_AOvmxOw.jpg
+data: '2025-03-27T19:07:32.039Z'
+tags:
+  - grey's anatomy
+  - shonda rhimes
+  - spin-off
+  - irmãs shepherd
+  - séries de tv
+  - private practice
 ---
 
 Com duas décadas de sucesso, 'Grey's Anatomy' consolidou-se como um dos maiores fenômenos televisivos dos Estados Unidos, gerando spin-offs de sucesso como 'Private Practice' e 'Station 19'. No entanto, o universo da série poderia ter se expandido ainda mais. 

@@ -1,12 +1,20 @@
 ---
-title: "Nintendo Switch 2 no Brasil: lançamento, preço e mais"
-slug: "nintendo-switch-2-no-brasil-lanamento-preo-e-mais"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ynv4ML2A_pk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/GOY3PC5lv6eZA6IVUHaoUNqTtFs=/480x360/smart/extras/conteudos/00_4ogJLso.jpg"
-keywords: "Nintendo Switch 2, lançamento, preço, Brasil"
-data: "2025-04-02T14:59:47.954Z"
+title: 'Nintendo Switch 2 no Brasil: lançamento, preço e mais'
+slug: nintendo-switch-2-no-brasil-lanamento-preo-e-mais
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ynv4ML2A_pk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/GOY3PC5lv6eZA6IVUHaoUNqTtFs=/480x360/smart/extras/conteudos/00_4ogJLso.jpg
+keywords: 'Nintendo Switch 2, lançamento, preço, Brasil'
+data: '2025-04-02T14:59:47.954Z'
+tags:
+  - nintendo switch 2
+  - lançamento no brasil
+  - preço
+  - inovações
+  - retrocompatibilidade
+  - joy-cons magnéticos
 ---
 
 O aguardado Nintendo Switch 2 foi oficialmente anunciado pela Nintendo, trazendo uma série de inovações que prometem entusiasmar os fãs da marca. O novo console se destaca por possuir uma tela maior, retrocompatibilidade com a versão anterior do Switch e Joy-Cons magnéticos, além de oferecer um significativo aumento na capacidade de processamento.

@@ -1,11 +1,22 @@
 ---
-title: "Vingadores: Doomsday - Alan Cumming Retorna como Noturno em Elenco Estelar da Marvel"
-slug: "vingadores-doomsday-alan-cumming-reage-ao-seu-retorno-como-noturno-de-x-men-2"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/fs6j1Y__g8-3YhcRgKDC2doXbpE=/987x0/smart/uploads/conteudo/fotos/noturno-vingadores-doomsday.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OEeDFicnnY3C-M3GXB0uNxvU2wI=/480x360/smart/extras/conteudos/noturno-vingadores-doomsday.jpg"
-data: "2025-03-27T12:19:26.848Z"
+title: >-
+  Vingadores: Doomsday - Alan Cumming Retorna como Noturno em Elenco Estelar da
+  Marvel
+slug: vingadores-doomsday-alan-cumming-reage-ao-seu-retorno-como-noturno-de-x-men-2
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/fs6j1Y__g8-3YhcRgKDC2doXbpE=/987x0/smart/uploads/conteudo/fotos/noturno-vingadores-doomsday.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OEeDFicnnY3C-M3GXB0uNxvU2wI=/480x360/smart/extras/conteudos/noturno-vingadores-doomsday.jpg
+data: '2025-03-27T12:19:26.848Z'
+tags:
+  - 'vingadores: doomsday'
+  - alan cumming
+  - noturno
+  - x-men
+  - marvel
+  - elenco estelar
 ---
 
 A revelação do elenco de Vingadores: Doomsday trouxe uma surpresa emocionante: o retorno dos X-Men, incluindo Alan Cumming reprisando seu papel como Noturno, marcante desde sua aparição em X-Men 2.

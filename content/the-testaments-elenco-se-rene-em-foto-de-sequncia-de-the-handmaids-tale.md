@@ -1,12 +1,23 @@
 ---
-title: "'The Testaments': Elenco de Sequência de 'The Handmaid's Tale' se Reúne para Leitura de Roteiro"
-slug: "the-testaments-elenco-se-rene-em-foto-de-sequncia-de-the-handmaids-tale"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/bh8MTb52CrGZy5ZJH_uzYgy3ALU=/987x0/smart/uploads/conteudo/fotos/02_yFu7EUm.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/URMHXuPdp7UBTaQOGRcZPpLsGOM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-01_141138.png"
-keywords: "The Testaments, The Handmaid's Tale, Hulu, sequência, Ann Dowd, Elisabeth Moss"
-data: "2025-04-01T17:32:22.376Z"
+title: >-
+  'The Testaments': Elenco de Sequência de 'The Handmaid's Tale' se Reúne para
+  Leitura de Roteiro
+slug: the-testaments-elenco-se-rene-em-foto-de-sequncia-de-the-handmaids-tale
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/bh8MTb52CrGZy5ZJH_uzYgy3ALU=/987x0/smart/uploads/conteudo/fotos/02_yFu7EUm.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/URMHXuPdp7UBTaQOGRcZPpLsGOM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-01_141138.png
+keywords: 'The Testaments, The Handmaid''s Tale, Hulu, sequência, Ann Dowd, Elisabeth Moss'
+data: '2025-04-01T17:32:22.376Z'
+tags:
+  - the testaments
+  - the handmaid's tale
+  - hulu
+  - elenco
+  - leitura de roteiro
+  - sequência
 ---
 
 A aguardada série 'The Testaments', sequência direta de 'The Handmaid’s Tale', foi oficialmente confirmada pelo serviço de streaming Hulu. Recentemente, uma foto do elenco reunido para a primeira leitura do roteiro foi divulgada pela Deadline, marcando o início dos preparativos para a produção que começará em 7 de abril.

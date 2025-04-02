@@ -1,12 +1,21 @@
 ---
-title: "BBB 25 | Confira os Destaques do 11º Sincerão com os Participantes"
-slug: "bbb-25-acompanhe-o-11-sincero-ao-vivo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/7VSg50mKXpxTlqdUbDJZioGOTxY=/987x0/smart/uploads/conteudo/fotos/bbb25-vinicius-11-sincerao.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7V4iKFRBxBLGBmUVuOCijHfZgjA=/480x360/smart/extras/conteudos/bbb25-vinicius-11-sincerao-peq.jpg"
-keywords: "BBB 25, Sincerão, Big Brother Brasil, Tadeu Schmidt, votação BBB"
-data: "2025-04-01T02:31:57.515Z"
+title: BBB 25 | Confira os Destaques do 11º Sincerão com os Participantes
+slug: bbb-25-acompanhe-o-11-sincero-ao-vivo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/7VSg50mKXpxTlqdUbDJZioGOTxY=/987x0/smart/uploads/conteudo/fotos/bbb25-vinicius-11-sincerao.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7V4iKFRBxBLGBmUVuOCijHfZgjA=/480x360/smart/extras/conteudos/bbb25-vinicius-11-sincerao-peq.jpg
+keywords: 'BBB 25, Sincerão, Big Brother Brasil, Tadeu Schmidt, votação BBB'
+data: '2025-04-01T02:31:57.515Z'
+tags:
+  - bbb 25
+  - sincerão
+  - emparedados
+  - líder
+  - anjo
+  - participantes
 ---
 
 Na noite desta segunda-feira (31), ocorreu o 11º Sincerão do BBB 25, envolvendo os 11 participantes que ainda estão na competição. A dinâmica iniciou com os principais envolvidos da semana: os emparedados Diego Hypólito, Vilma e Vinícius, o Líder Maike e o Anjo João Gabriel, seguidos pelos demais concorrentes.

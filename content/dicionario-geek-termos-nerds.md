@@ -1,12 +1,21 @@
 ---
-title: "Dicionário Geek: 50 Termos que Todo Nerd Precisa Conhecer"
-slug: "dicionario-geek-termos-nerds"
-categoria: "Cultura Geek"
-midia: "/images/dicionario geek.jpg"
-tipoMidia: "imagem"
-thumb: "/images/IMG_47722.png"
-keywords: "Dicionário Geek, Glossário Nerd, Termos da cultura pop, Jargões geek explicados, Linguagem nerd, Guia para novatos geek"
-data: "2025-04-02T15:00:00.000Z"
+title: 'Dicionário Geek: 50 Termos que Todo Nerd Precisa Conhecer'
+slug: dicionario-geek-termos-nerds
+categoria: Cultura Geek
+midia: /images/dicionario geek.jpg
+tipoMidia: imagem
+thumb: /images/IMG_47722.png
+keywords: >-
+  Dicionário Geek, Glossário Nerd, Termos da cultura pop, Jargões geek
+  explicados, Linguagem nerd, Guia para novatos geek
+data: '2025-04-02T15:00:00.000Z'
+tags:
+  - cultura geek
+  - termos nerds
+  - dicionário geek
+  - glossário nerd
+  - fandom
+  - linguagem geek
 ---
 
 ## 📚 Dicionário Geek: 50 Termos que Todo Nerd Precisa Conhecer

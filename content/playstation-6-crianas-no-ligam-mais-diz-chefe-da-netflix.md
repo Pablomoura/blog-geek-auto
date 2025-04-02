@@ -1,11 +1,20 @@
 ---
-title: "Futuro dos Jogos Segundo Netflix: Mobilidade e Múltiplas Telas"
-slug: "playstation-6-crianas-no-ligam-mais-diz-chefe-da-netflix"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/VryQxAC2aOGwm_QjX75N541q9Vc=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T200919.819.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/vDCKS4mnCoLKoDdB4Aq3QR9TtHg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T200919.819.png"
-data: "2025-03-29T00:42:05.349Z"
+title: 'Futuro dos Jogos Segundo Netflix: Mobilidade e Múltiplas Telas'
+slug: playstation-6-crianas-no-ligam-mais-diz-chefe-da-netflix
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/VryQxAC2aOGwm_QjX75N541q9Vc=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T200919.819.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/vDCKS4mnCoLKoDdB4Aq3QR9TtHg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T200919.819.png
+data: '2025-03-29T00:42:05.349Z'
+tags:
+  - netflix
+  - indústria de jogos
+  - mobilidade
+  - múltiplas telas
+  - futuro dos jogos
+  - alain tascan
 ---
 
 Em recente entrevista ao The Gaming Business, Alain Tascan, presidente de jogos da Netflix, expressou suas visões sobre o futuro da indústria de jogos. Segundo Tascan, o foco não está mais nos consoles como conhecemos. 'Começamos a olhar para um futuro onde a plataforma é irrelevante. As crianças de hoje, entre oito e dez anos, realmente sonham com um PlayStation 6? Acredito que não', comentou ele.

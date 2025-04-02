@@ -1,11 +1,19 @@
 ---
-title: "Vingadores: Doomsday | Elenco ainda pode ter surpresas, indica site"
-slug: "vingadores-doomsday-elenco-completo-no-foi-revelado-diz-site"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/ahvGLec84SkSvf6j0ouu8Ttszcc=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T195204.297.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/TKPf_TVWfflSpA7qpjh-gSGe1V4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T195204.297.png"
-data: "2025-03-26T23:09:02.158Z"
+title: 'Vingadores: Doomsday | Elenco ainda pode ter surpresas, indica site'
+slug: vingadores-doomsday-elenco-completo-no-foi-revelado-diz-site
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/ahvGLec84SkSvf6j0ouu8Ttszcc=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T195204.297.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/TKPf_TVWfflSpA7qpjh-gSGe1V4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T195204.297.png
+data: '2025-03-26T23:09:02.158Z'
+tags:
+  - 'vingadores: doomsday'
+  - marvel
+  - elenco
+  - surpresas
+  - filme
 ---
 
 De acordo com o The Hollywood Reporter, os 26 atores divulgados para o filme 'Vingadores: Doomsday' na última quarta-feira (26) podem não ser os únicos participantes do projeto. Segundo fontes, a Marvel ainda não completou a divulgação de todos os envolvidos, mas detalhes sobre como ou quando os anúncios serão feitos ainda são incertos. É possível que a produtora reserve algumas surpresas para o lançamento nos cinemas.

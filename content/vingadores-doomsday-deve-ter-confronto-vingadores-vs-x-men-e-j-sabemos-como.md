@@ -1,11 +1,20 @@
 ---
-title: "Vingadores: Doomsday Promete Épico Confronto com X-Men"
-slug: "vingadores-doomsday-deve-ter-confronto-vingadores-vs-x-men-e-j-sabemos-como"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/mO8QS23Uienn3UYQGBCtRcTXrwY=/987x0/smart/uploads/conteudo/fotos/vingadores-x-men.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/VLcTRtvftwSRW6U2HHmJDMoRF30=/480x360/smart/extras/conteudos/vingadores-x-men.jpg"
-data: "2025-03-26T21:36:00.927Z"
+title: 'Vingadores: Doomsday Promete Épico Confronto com X-Men'
+slug: vingadores-doomsday-deve-ter-confronto-vingadores-vs-x-men-e-j-sabemos-como
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/mO8QS23Uienn3UYQGBCtRcTXrwY=/987x0/smart/uploads/conteudo/fotos/vingadores-x-men.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/VLcTRtvftwSRW6U2HHmJDMoRF30=/480x360/smart/extras/conteudos/vingadores-x-men.jpg
+data: '2025-03-26T21:36:00.927Z'
+tags:
+  - vingadores
+  - x-men
+  - doomsday
+  - confronto épico
+  - marvel
+  - guerras secretas
 ---
 
 A revelação de que o elenco original dos X-Men, provenientes dos filmes da antiga Fox, fará parte de 'Vingadores: Doomsday', confirma a possibilidade de um embate entre Vingadores e X-Men no filme. Essa integração parece ser um prelúdio para 'Vingadores: Guerras Secretas', o filme que conclui a Saga do Multiverso da Marvel. 

@@ -1,12 +1,24 @@
 ---
-title: "Miley Cyrus Estreia Videoclipe de 'Prelude', Primeiro Single do Novo Álbum 'Something Beautiful'"
-slug: "miley-cyrus-lana-clipe-de-prelude-do-novo-lbum-something-beautiful-assista"
-categoria: "MÚSICA"
-midia: "https://www.youtube.com/embed/sqEWXVn4-VM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/cY9EI0vtupUgV4AAbGvmxRtxixQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T125608.253.png"
-keywords: "Miley Cyrus, Something Beautiful, Prelude, novo álbum Miley Cyrus, lançamento clipe Miley Cyrus"
-data: "2025-03-31T16:12:11.803Z"
+title: >-
+  Miley Cyrus Estreia Videoclipe de 'Prelude', Primeiro Single do Novo Álbum
+  'Something Beautiful'
+slug: miley-cyrus-lana-clipe-de-prelude-do-novo-lbum-something-beautiful-assista
+categoria: MÚSICA
+midia: 'https://www.youtube.com/embed/sqEWXVn4-VM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/cY9EI0vtupUgV4AAbGvmxRtxixQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T125608.253.png
+keywords: >-
+  Miley Cyrus, Something Beautiful, Prelude, novo álbum Miley Cyrus, lançamento
+  clipe Miley Cyrus
+data: '2025-03-31T16:12:11.803Z'
+tags:
+  - miley cyrus
+  - prelude
+  - something beautiful
+  - videoclipe
+  - thierry mugler
+  - alta costura
 ---
 
 A renomada cantora americana Miley Cyrus apresentou o novo videoclipe para a música 'Prelude', que faz parte de seu próximo álbum 'Something Beautiful'. O vídeo já está disponível para visualização.

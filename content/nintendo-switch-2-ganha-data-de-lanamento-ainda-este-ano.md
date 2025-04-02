@@ -1,12 +1,20 @@
 ---
-title: "Nintendo Anuncia Data de Lançamento do Switch 2 para Junho deste Ano"
-slug: "nintendo-switch-2-ganha-data-de-lanamento-ainda-este-ano"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/BPh9S5tpcZo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/pyvHsTHCWZb8FCYKZPisHFR6tpc=/480x360/smart/extras/conteudos/01_jbJUYrH.jpg"
-keywords: "Nintendo, Switch 2, lançamento, jogos, console"
-data: "2025-04-02T14:11:09.765Z"
+title: Nintendo Anuncia Data de Lançamento do Switch 2 para Junho deste Ano
+slug: nintendo-switch-2-ganha-data-de-lanamento-ainda-este-ano
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/BPh9S5tpcZo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/pyvHsTHCWZb8FCYKZPisHFR6tpc=/480x360/smart/extras/conteudos/01_jbJUYrH.jpg
+keywords: 'Nintendo, Switch 2, lançamento, jogos, console'
+data: '2025-04-02T14:11:09.765Z'
+tags:
+  - nintendo switch 2
+  - lançamento
+  - nintendo direct
+  - console
+  - jogos
+  - tecnologia
 ---
 
 A Nintendo revelou que o lançamento do aguardado Nintendo Switch 2 ocorrerá em 5 de junho deste ano. Detalhes sobre o preço serão divulgados em breve durante um evento Nintendo Direct.

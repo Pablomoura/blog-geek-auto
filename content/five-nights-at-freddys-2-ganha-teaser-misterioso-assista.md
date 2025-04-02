@@ -1,11 +1,20 @@
 ---
-title: "Five Nights at Freddy's 2: Primeiro Teaser Será Revelado Após CinemaCon"
-slug: "five-nights-at-freddys-2-ganha-teaser-misterioso-assista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/cIlu_sw8kzadgUpkBCdkzRoemM4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T215601.052.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/IQV2Kjig5NkFMth0rhoo4CFCwkg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T215601.052.png"
-data: "2025-03-28T02:20:43.491Z"
+title: 'Five Nights at Freddy''s 2: Primeiro Teaser Será Revelado Após CinemaCon'
+slug: five-nights-at-freddys-2-ganha-teaser-misterioso-assista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/cIlu_sw8kzadgUpkBCdkzRoemM4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T215601.052.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/IQV2Kjig5NkFMth0rhoo4CFCwkg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T215601.052.png
+data: '2025-03-28T02:20:43.491Z'
+tags:
+  - five nights at freddy's 2
+  - cinemacon
+  - teaser
+  - jason blum
+  - filme de terror
+  - sequência
 ---
 
 Jason Blum, produtor de 'Five Nights at Freddy's 2', anunciou que a sequência do filme receberá seu primeiro teaser oficial no dia 2 de abril. A prévia será inicialmente apresentada na CinemaCon, com a expectativa de ser liberada ao público em geral logo em seguida.

@@ -1,12 +1,21 @@
 ---
-title: "CinemaCon 2023: Novo Trailer de 'Extermínio: A Evolução' Revelado"
-slug: "extermnio-a-evoluo-ganha-novo-trailer-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/B-HXSN04zkWS9k3RVkJd1Env9GY=/987x0/smart/uploads/conteudo/fotos/exterminio_8DKHPyq.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/YhIt026QkytZhg1fdGOLr0gZLqc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-18T123918.297.png"
-keywords: "Extermínio A Evolução, CinemaCon 2023, Danny Boyle, novo trailer"
-data: "2025-04-01T02:32:44.719Z"
+title: 'CinemaCon 2023: Novo Trailer de ''Extermínio: A Evolução'' Revelado'
+slug: extermnio-a-evoluo-ganha-novo-trailer-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/B-HXSN04zkWS9k3RVkJd1Env9GY=/987x0/smart/uploads/conteudo/fotos/exterminio_8DKHPyq.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/YhIt026QkytZhg1fdGOLr0gZLqc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-18T123918.297.png
+keywords: 'Extermínio A Evolução, CinemaCon 2023, Danny Boyle, novo trailer'
+data: '2025-04-01T02:32:44.719Z'
+tags:
+  - cinemacon 2023
+  - 'extermínio: a evolução'
+  - trailer
+  - danny boyle
+  - franquia de filmes
+  - omelete
 ---
 
 Durante a CinemaCon 2023, foi revelado o aguardado trailer de 'Extermínio: A Evolução (28 Years Later)', o mais recente filme da franquia dirigida por Danny Boyle. Embora o trailer ainda não esteja disponível online, a equipe do Omelete assistiu e compartilha os detalhes da prévia.

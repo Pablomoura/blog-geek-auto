@@ -9,6 +9,12 @@ tipoMidia: video
 thumb: >-
   https://cdn.ome.lt/49Sgo8bDseHETtZJuBLEgq735wQ=/480x360/smart/extras/conteudos/imagem_2025-03-25_181643291.png
 data: '2025-03-26T11:27:49.642Z'
+tags:
+  - the witcher 4
+  - cd projekt red
+  - lançamento de jogos
+  - '2027'
+  - desenvolvimento de jogos
 ---
 
 Durante uma recente reunião com acionistas, a CD Projekt Red esclareceu as expectativas quanto ao lançamento de The Witcher 4. Segundo a empresa, o jogo não chegará ao mercado antes de 2027.

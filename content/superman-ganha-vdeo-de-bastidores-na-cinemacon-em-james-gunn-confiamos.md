@@ -1,12 +1,20 @@
 ---
-title: "Superman ganha vídeo de bastidores na CinemaCon: 'em James Gunn confiamos'"
-slug: "superman-ganha-vdeo-de-bastidores-na-cinemacon-em-james-gunn-confiamos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/E0vo03kc4nIJZKaMHv806x9E6NI=/987x0/smart/uploads/conteudo/fotos/superman-cinemacon.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/1Z__x7w91142KfteNuAsLaw_XQg=/480x360/smart/extras/conteudos/superman-cinemacon.png"
-keywords: "Superman, CinemaCon, James Gunn, DC, filme"
-data: "2025-04-02T01:19:48.314Z"
+title: 'Superman ganha vídeo de bastidores na CinemaCon: ''em James Gunn confiamos'''
+slug: superman-ganha-vdeo-de-bastidores-na-cinemacon-em-james-gunn-confiamos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/E0vo03kc4nIJZKaMHv806x9E6NI=/987x0/smart/uploads/conteudo/fotos/superman-cinemacon.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/1Z__x7w91142KfteNuAsLaw_XQg=/480x360/smart/extras/conteudos/superman-cinemacon.png
+keywords: 'Superman, CinemaCon, James Gunn, DC, filme'
+data: '2025-04-02T01:19:48.314Z'
+tags:
+  - superman
+  - cinemacon
+  - james gunn
+  - bastidores
+  - filme de super-herói
 ---
 
 Durante a CinemaCon, foi apresentado um vídeo exclusivo dos bastidores do novo filme do Superman, trazendo empolgação aos fãs presentes. O portal Omelete, presente no evento, compartilhou detalhes vibrantes da prévia. James Gunn, inicialmente relutante em dirigir o filme, foi convencido pelo potencial da história que desenvolveu. Rachel Brosnahan, intérprete de Lois Lane, expressou confiança no diretor com um entusiasmado 'Nós confiamos em James Gunn!'.

@@ -1,12 +1,20 @@
 ---
-title: "Death Stranding alcança a marca de 20 milhões de jogadores"
-slug: "death-stranding-alcana-20-milhes-de-jogadores"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/_fHbTZQy_qg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/uaeyJowmlYCcCdi6Dcb9i8KrF2g=/480x360/smart/extras/conteudos/imagem_2025-03-31_142322130.png"
-keywords: "Death Stranding, Kojima Productions, Hideo Kojima, jogadores, gaming"
-data: "2025-03-31T18:14:20.715Z"
+title: Death Stranding alcança a marca de 20 milhões de jogadores
+slug: death-stranding-alcana-20-milhes-de-jogadores
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/_fHbTZQy_qg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/uaeyJowmlYCcCdi6Dcb9i8KrF2g=/480x360/smart/extras/conteudos/imagem_2025-03-31_142322130.png
+keywords: 'Death Stranding, Kojima Productions, Hideo Kojima, jogadores, gaming'
+data: '2025-03-31T18:14:20.715Z'
+tags:
+  - death stranding
+  - hideo kojima
+  - kojima productions
+  - 20 milhões de jogadores
+  - sucesso de jogos
+  - indústria de videogames
 ---
 
 O jogo Death Stranding, lançado em 2019 e desenvolvido por Hideo Kojima, atingiu a impressionante marca de 20 milhões de jogadores em todo o mundo. A Kojima Productions anunciou esse feito através de suas redes sociais, onde expressou gratidão a todos os jogadores que contribuíram para esse sucesso. 

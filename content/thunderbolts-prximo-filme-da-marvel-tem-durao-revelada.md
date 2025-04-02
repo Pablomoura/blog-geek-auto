@@ -1,11 +1,18 @@
 ---
-title: "Thunderbolts, o novo filme da Marvel, terá mais de 120 minutos de duração"
-slug: "thunderbolts-prximo-filme-da-marvel-tem-durao-revelada"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/CWvq2e1Qih4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/-IDveN4qLIPfw8noT8s7-Sljgw0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-28_165647.png"
-data: "2025-03-28T20:11:20.836Z"
+title: 'Thunderbolts, o novo filme da Marvel, terá mais de 120 minutos de duração'
+slug: thunderbolts-prximo-filme-da-marvel-tem-durao-revelada
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/CWvq2e1Qih4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/-IDveN4qLIPfw8noT8s7-Sljgw0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-28_165647.png
+data: '2025-03-28T20:11:20.836Z'
+tags:
+  - thunderbolts
+  - marvel studios
+  - filme de super-heróis
+  - duração do filme
+  - lançamento cinematográfico
 ---
 
 O filme Thunderbolts, aguardado lançamento da Marvel Studios, terá uma duração total de 126 minutos, ou seja, 2 horas e 6 minutos. Essa informação foi confirmada pelo CBR e segue a tendência de recentes produções do estúdio, como Capitão América: Admirável Mundo Novo, que também alcançou a marca dos 120 minutos de exibição.

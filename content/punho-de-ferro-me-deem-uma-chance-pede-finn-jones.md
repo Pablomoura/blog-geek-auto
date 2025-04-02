@@ -1,12 +1,23 @@
 ---
-title: "Finn Jones Deseja Retornar como Punho de Ferro e Provar que Críticos Estão Errados"
-slug: "punho-de-ferro-me-deem-uma-chance-pede-finn-jones"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/3DnbpTwgfYDcZY3Enf4UK9icWZk=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-31T215044.471.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/WsIAfbhIPFLWsVUhhJ__zDd_DXY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-31T215044.471.png"
-keywords: "Finn Jones, Punho de Ferro, Marvel, Netflix, MCU, Defensores"
-data: "2025-04-01T02:33:28.758Z"
+title: >-
+  Finn Jones Deseja Retornar como Punho de Ferro e Provar que Críticos Estão
+  Errados
+slug: punho-de-ferro-me-deem-uma-chance-pede-finn-jones
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/3DnbpTwgfYDcZY3Enf4UK9icWZk=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-31T215044.471.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/WsIAfbhIPFLWsVUhhJ__zDd_DXY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-31T215044.471.png
+keywords: 'Finn Jones, Punho de Ferro, Marvel, Netflix, MCU, Defensores'
+data: '2025-04-01T02:33:28.758Z'
+tags:
+  - finn jones
+  - punho de ferro
+  - netflix
+  - críticas
+  - retorno
+  - laconve
 ---
 
 Durante sua participação na convenção LaConve no México, Finn Jones, conhecido por seu papel como Punho de Ferro na série da Netflix, manifestou seu interesse em voltar a interpretar o personagem. "Estou consciente das críticas que recebi", disse Jones. "Peço apenas uma chance para mostrar que podem estar errados. Estou pronto e ansioso para essa oportunidade."

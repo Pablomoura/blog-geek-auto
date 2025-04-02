@@ -1,11 +1,20 @@
 ---
-title: "BBB 25 | João Pedro Conquista a Prova do Anjo e Garante Imunidade"
-slug: "bbb-25-quem-venceu-a-prova-do-anjo-confira-como-foi-a-disputa"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Gv4PKwnm71SHF1hDhiFaZ8Lq4ww=/480x360/smart/extras/conteudos/bbb-prova-do-anjo.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Gv4PKwnm71SHF1hDhiFaZ8Lq4ww=/480x360/smart/extras/conteudos/bbb-prova-do-anjo.png"
-data: "2025-03-28T21:08:15.599Z"
+title: BBB 25 | João Pedro Conquista a Prova do Anjo e Garante Imunidade
+slug: bbb-25-quem-venceu-a-prova-do-anjo-confira-como-foi-a-disputa
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Gv4PKwnm71SHF1hDhiFaZ8Lq4ww=/480x360/smart/extras/conteudos/bbb-prova-do-anjo.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Gv4PKwnm71SHF1hDhiFaZ8Lq4ww=/480x360/smart/extras/conteudos/bbb-prova-do-anjo.png
+data: '2025-03-28T21:08:15.599Z'
+tags:
+  - bbb 25
+  - prova do anjo
+  - joão pedro
+  - imunidade
+  - semana turbo
+  - paredão
 ---
 
 O Big Brother Brasil 25 já tem um novo imune para esta semana. A Prova do Anjo, realizada na tarde desta sexta-feira, foi decisiva para a imunização do vencedor na Semana Turbo, que inclui a formação de Paredão já na noite de hoje (28).

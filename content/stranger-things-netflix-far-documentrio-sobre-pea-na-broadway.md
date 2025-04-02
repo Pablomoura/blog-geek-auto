@@ -1,11 +1,20 @@
 ---
-title: "Stranger Things na Broadway: Netflix Anuncia Documentário sobre a Peça"
-slug: "stranger-things-netflix-far-documentrio-sobre-pea-na-broadway"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/KT5Px7yq6WJzsdvhnc9agj9blA8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T103920.456.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/tp66w9u7yHDRdyswR5TDicKLdqs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T103906.878.png"
-data: "2025-03-28T14:09:51.268Z"
+title: 'Stranger Things na Broadway: Netflix Anuncia Documentário sobre a Peça'
+slug: stranger-things-netflix-far-documentrio-sobre-pea-na-broadway
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/KT5Px7yq6WJzsdvhnc9agj9blA8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T103920.456.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/tp66w9u7yHDRdyswR5TDicKLdqs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T103906.878.png
+data: '2025-03-28T14:09:51.268Z'
+tags:
+  - stranger things
+  - broadway
+  - documentário
+  - netflix
+  - teatro
+  - bastidores
 ---
 
 A Netflix vai explorar a adaptação de Stranger Things para os palcos da Broadway em um novo documentário original. Intitulado 'Behind the Curtain: Stranger Things: The First Shadow', o filme revelará os desafios e bastidores da produção teatral que levou a amada série para Nova York. A estreia está marcada para 15 de abril no serviço de streaming.

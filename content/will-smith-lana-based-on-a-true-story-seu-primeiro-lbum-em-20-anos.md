@@ -1,11 +1,19 @@
 ---
-title: "Will Smith estreia 'Based on a True Story', seu primeiro álbum em duas décadas"
-slug: "will-smith-lana-based-on-a-true-story-seu-primeiro-lbum-em-20-anos"
-categoria: "MÚSICA"
-midia: "https://www.youtube.com/embed/mCta_ohDcC0?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Dj8ogMUXJSpoMRsapcq-oZp4T3M=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T120838.662.png"
-data: "2025-03-28T16:21:02.479Z"
+title: 'Will Smith estreia ''Based on a True Story'', seu primeiro álbum em duas décadas'
+slug: will-smith-lana-based-on-a-true-story-seu-primeiro-lbum-em-20-anos
+categoria: MÚSICA
+midia: 'https://www.youtube.com/embed/mCta_ohDcC0?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Dj8ogMUXJSpoMRsapcq-oZp4T3M=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T120838.662.png
+data: '2025-03-28T16:21:02.479Z'
+tags:
+  - will smith
+  - based on a true story
+  - música
+  - retorno
+  - teyana taylor
+  - lyric video
 ---
 
 Will Smith, renomado ator e músico, acaba de lançar 'Based on a True Story', marcando seu retorno à música após 20 anos. O álbum foi divulgado juntamente com um lyric video da música 'Hard Times (Smile)', uma colaboração com Teyana Taylor.

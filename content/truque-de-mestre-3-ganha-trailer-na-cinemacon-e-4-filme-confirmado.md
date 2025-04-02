@@ -1,12 +1,25 @@
 ---
-title: "Truque de Mestre 3: Primeiro Teaser Revelado na CinemaCon e Confirmação do Quarto Filme"
-slug: "truque-de-mestre-3-ganha-trailer-na-cinemacon-e-4-filme-confirmado"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/tUkgCZ2dFN_1SP7mTrFMTGLZHEQ=/987x0/smart/uploads/conteudo/fotos/truque.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/xKJc06dg1M0g5lUyDOaWTw-Y_zg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-19T135654.866.png"
-keywords: "Truque de Mestre 3, CinemaCon, trailer, Jesse Eisenberg, Rosamund Pike, sequência de filmes"
-data: "2025-04-01T19:11:37.056Z"
+title: >-
+  Truque de Mestre 3: Primeiro Teaser Revelado na CinemaCon e Confirmação do
+  Quarto Filme
+slug: truque-de-mestre-3-ganha-trailer-na-cinemacon-e-4-filme-confirmado
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/tUkgCZ2dFN_1SP7mTrFMTGLZHEQ=/987x0/smart/uploads/conteudo/fotos/truque.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/xKJc06dg1M0g5lUyDOaWTw-Y_zg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-19T135654.866.png
+keywords: >-
+  Truque de Mestre 3, CinemaCon, trailer, Jesse Eisenberg, Rosamund Pike,
+  sequência de filmes
+data: '2025-04-01T19:11:37.056Z'
+tags:
+  - truque de mestre 3
+  - cinemacon
+  - teaser
+  - jesse eisenberg
+  - ilusionismo
+  - filme de roubo
 ---
 
 A CinemaCon deste ano foi palco para a revelação do primeiro teaser de 'Truque de Mestre 3', a continuação da popular saga de ilusionismo que começou em 2013. O trailer apresenta Jesse Eisenberg realizando um truque de desaparecimento, antes de recrutar três jovens mágicos para um audacioso roubo de diamante, planejado contra a personagem de Rosamund Pike.

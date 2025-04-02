@@ -1,12 +1,19 @@
 ---
-title: "Mario Kart World é anunciado para Nintendo Switch 2 e terá PT-BR"
-slug: "mario-kart-world-anunciado-para-nintendo-switch-2-e-ter-pt-br"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/BPh9S5tpcZo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/JG4MMWn3_bPKUVsmyVjsEwwV5yw=/480x360/smart/extras/conteudos/01_OmjKVzG.jpg"
-keywords: "Nintendo Switch 2, Mario Kart World, jogos, lançamento, inovações"
-data: "2025-04-02T14:57:46.427Z"
+title: Mario Kart World é anunciado para Nintendo Switch 2 e terá PT-BR
+slug: mario-kart-world-anunciado-para-nintendo-switch-2-e-ter-pt-br
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/BPh9S5tpcZo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/JG4MMWn3_bPKUVsmyVjsEwwV5yw=/480x360/smart/extras/conteudos/01_OmjKVzG.jpg
+keywords: 'Nintendo Switch 2, Mario Kart World, jogos, lançamento, inovações'
+data: '2025-04-02T14:57:46.427Z'
+tags:
+  - nintendo switch 2
+  - mario kart world
+  - jogo de mundo aberto
+  - lançamento
+  - suporte pt-br
 ---
 
 Em um evento recente, a Nintendo anunciou o lançamento do Nintendo Switch 2, juntamente com uma série de novos jogos, destacando-se o Mario Kart World, exclusivo para essa nova plataforma. O jogo, que introduz o conceito de mundo aberto na franquia Mario Kart, também será lançado com suporte ao idioma português brasileiro, ampliando sua acessibilidade no Brasil.

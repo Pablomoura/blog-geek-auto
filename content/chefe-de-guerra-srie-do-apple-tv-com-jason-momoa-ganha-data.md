@@ -1,12 +1,21 @@
 ---
-title: "Chefe de Guerra | Estreia da série de Jason Momoa no Apple TV+ é anunciada"
-slug: "chefe-de-guerra-srie-do-apple-tv-com-jason-momoa-ganha-data"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/rlIiNxNkWsK4WjkRF5RZIb-Kci0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T113616.505.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/TB0XsndoxjvqaMVVy25uOyVTpzQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T113631.147.png"
-keywords: "Chefe de Guerra, Jason Momoa, Apple TV+, série, streaming, estreia"
-data: "2025-03-31T15:11:15.973Z"
+title: Chefe de Guerra | Estreia da série de Jason Momoa no Apple TV+ é anunciada
+slug: chefe-de-guerra-srie-do-apple-tv-com-jason-momoa-ganha-data
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/rlIiNxNkWsK4WjkRF5RZIb-Kci0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T113616.505.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/TB0XsndoxjvqaMVVy25uOyVTpzQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T113631.147.png
+keywords: 'Chefe de Guerra, Jason Momoa, Apple TV+, série, streaming, estreia'
+data: '2025-03-31T15:11:15.973Z'
+tags:
+  - jason momoa
+  - chefe de guerra
+  - apple tv+
+  - série
+  - estreia
+  - streaming
 ---
 
 A aguardada série 'Chefe de Guerra', protagonizada e escrita por Jason Momoa, finalmente tem data de estreia no Apple TV+. O lançamento está marcado para 1º de agosto, com dois episódios inaugurais, seguidos de lançamentos semanais até 19 de setembro, quando o nono e último episódio será disponibilizado.

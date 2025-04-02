@@ -1,11 +1,20 @@
 ---
-title: "Tulsa King | Elenco da 3ª Temporada Recebe Reforços Significativos"
-slug: "tulsa-king-3-temporada-ganha-trs-novidades-no-elenco-saiba-quais"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/3Kw1hMQxSOfydDhzVo4IaYVVxEc=/987x0/smart/uploads/conteudo/fotos/banner_2p4IgED.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0uyjdoET7Q7bq04eLem_ljlEd-Q=/480x360/smart/extras/conteudos/tulsa_king.jpg"
-data: "2025-03-26T18:12:56.281Z"
+title: Tulsa King | Elenco da 3ª Temporada Recebe Reforços Significativos
+slug: tulsa-king-3-temporada-ganha-trs-novidades-no-elenco-saiba-quais
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/3Kw1hMQxSOfydDhzVo4IaYVVxEc=/987x0/smart/uploads/conteudo/fotos/banner_2p4IgED.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0uyjdoET7Q7bq04eLem_ljlEd-Q=/480x360/smart/extras/conteudos/tulsa_king.jpg
+data: '2025-03-26T18:12:56.281Z'
+tags:
+  - tulsa king
+  - sylvester stallone
+  - terceira temporada
+  - elenco
+  - promoção de atores
+  - série de tv
 ---
 
 A série Tulsa King, protagonizada por Sylvester Stallone, confirmou sua terceira temporada e anunciou a promoção de três atores ao elenco regular. Os atores promovidos são Chris Caldovino, que interpreta Dannis "Goodie" Carangi, McKenna Quigley Harrington, no papel de Grace, e Mike “Cash Flo” Walden, que dá vida a Michael "Bigfoot". Walden fez sua estreia na segunda temporada da série. 

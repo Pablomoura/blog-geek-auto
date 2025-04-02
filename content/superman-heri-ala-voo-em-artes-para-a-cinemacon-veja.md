@@ -1,11 +1,20 @@
 ---
-title: "Superman | Novas Artes Reveladas na CinemaCon"
-slug: "superman-heri-ala-voo-em-artes-para-a-cinemacon-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/QVwBIA3AiG6jXcjYHJ6AYu0yLAw=/987x0/smart/uploads/conteudo/fotos/supermanvariante_4arhwB2.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/btgWPusokiVp2JU51Kx2saiiLfM=/480x360/smart/extras/conteudos/supermanvariante_tSPjH3j.jpg"
-data: "2025-03-30T17:08:02.394Z"
+title: Superman | Novas Artes Reveladas na CinemaCon
+slug: superman-heri-ala-voo-em-artes-para-a-cinemacon-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/QVwBIA3AiG6jXcjYHJ6AYu0yLAw=/987x0/smart/uploads/conteudo/fotos/supermanvariante_4arhwB2.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/btgWPusokiVp2JU51Kx2saiiLfM=/480x360/smart/extras/conteudos/supermanvariante_tSPjH3j.jpg
+data: '2025-03-30T17:08:02.394Z'
+tags:
+  - superman
+  - cinemacon
+  - david corenswet
+  - james gunn
+  - warner bros.
+  - fortaleza da solidão
 ---
 
 A Warner Bros. apresentou novas imagens de 'Superman' com David Corenswet no papel principal durante a CinemaCon em Las Vegas, neste domingo (30). O material promocional mostra o ator em pleno voo sobre a icônica Fortaleza da Solidão.

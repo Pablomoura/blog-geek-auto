@@ -1,11 +1,21 @@
 ---
-title: "Adria Arjona Manifesta Interesse em Interpretar Mulher-Maravilha e Solicita Apoio dos Fãs"
-slug: "mulher-maravilha-adria-arjona-pede-ajuda-para-se-tornar-a-herona"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/xGhCjLu6HaQpk9HhIVv_RnnZm40=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T181557.605.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/K8U81wdN6Pdyb_OslUIEPtJ3_mM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T181557.605.png"
-data: "2025-03-28T22:09:56.809Z"
+title: >-
+  Adria Arjona Manifesta Interesse em Interpretar Mulher-Maravilha e Solicita
+  Apoio dos Fãs
+slug: mulher-maravilha-adria-arjona-pede-ajuda-para-se-tornar-a-herona
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/xGhCjLu6HaQpk9HhIVv_RnnZm40=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T181557.605.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/K8U81wdN6Pdyb_OslUIEPtJ3_mM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T181557.605.png
+data: '2025-03-28T22:09:56.809Z'
+tags:
+  - adria arjona
+  - mulher-maravilha
+  - james gunn
+  - dc comics
+  - cinema
 ---
 
 Em recente aparição na estreia de 'Um Filme Minecraft', a atriz Adria Arjona revelou seu interesse em interpretar a icônica Mulher-Maravilha nos cinemas. Ela até incentivou os fãs a entrarem em contato com James Gunn, um dos responsáveis pelo universo cinematográfico da DC na Warner Bros, para apoiá-la nessa jornada.

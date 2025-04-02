@@ -1,11 +1,20 @@
 ---
-title: "Viola Davis Manifesta Interesse em Participar do MCU"
-slug: "viola-davis-diz-que-participaria-do-mcu-absolutamente"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/OAA9-Zlt733Twfiw1nPs9tVzt20=/987x0/smart/uploads/conteudo/fotos/g20.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/6xMDKN2b3Gu2SveRzBuXCiFV5TE=/480x360/smart/extras/conteudos/g20.jpg"
-data: "2025-03-29T14:08:08.901Z"
+title: Viola Davis Manifesta Interesse em Participar do MCU
+slug: viola-davis-diz-que-participaria-do-mcu-absolutamente
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/OAA9-Zlt733Twfiw1nPs9tVzt20=/987x0/smart/uploads/conteudo/fotos/g20.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/6xMDKN2b3Gu2SveRzBuXCiFV5TE=/480x360/smart/extras/conteudos/g20.jpg
+data: '2025-03-29T14:08:08.901Z'
+tags:
+  - viola davis
+  - mcu
+  - marvel
+  - cinema
+  - entrevista
+  - entretenimento
 ---
 
 

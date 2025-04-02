@@ -1,11 +1,22 @@
 ---
-title: "Estúdios de Hollywood Planejam Monetizar Trailers Falsos de IA, Incluindo Superman"
-slug: "superman-e-mais-estdios-querem-monetizar-trailers-fakes-feitos-com-ia-entenda"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/IyeLLPnAVxcBYIDRQ0wKXOR5hIY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T124427.192.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OeWgx5hwI9THBQXQRXXed0S4SCM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T124407.927.png"
-data: "2025-03-28T16:20:15.591Z"
+title: >-
+  Estúdios de Hollywood Planejam Monetizar Trailers Falsos de IA, Incluindo
+  Superman
+slug: superman-e-mais-estdios-querem-monetizar-trailers-fakes-feitos-com-ia-entenda
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/IyeLLPnAVxcBYIDRQ0wKXOR5hIY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T124427.192.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OeWgx5hwI9THBQXQRXXed0S4SCM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T124407.927.png
+data: '2025-03-28T16:20:15.591Z'
+tags:
+  - inteligência artificial
+  - trailers de filmes
+  - hollywood
+  - monetização
+  - superman
+  - trailers falsos
 ---
 
 Os trailers criados por inteligência artificial (IA) para grandes filmes têm se popularizado na internet. Diante disso, estúdios de cinema estão explorando formas de monetizar essas falsificações. Conforme reportado pelo Deadline, a ideia seria aproveitar a monetização das visualizações e propagandas em vez de solicitar a remoção dos vídeos por violação de direitos autorais. Representantes de grandes estúdios, incluindo Sony Pictures, Warner Bros, Paramount Pictures e Disney, optaram por não comentar sobre o assunto.

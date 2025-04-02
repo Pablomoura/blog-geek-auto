@@ -1,12 +1,24 @@
 ---
-title: "Truth and Treason: Estúdio de Som da Liberdade anuncia lançamento de filme sobre a Segunda Guerra Mundial"
-slug: "truth-and-treason-estdio-de-som-da-liberdade-far-filme-de-2-guerra-mundial"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/7rjdY-t2NU2BggvA8YzEkno03z8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T130159.951.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7rjdY-t2NU2BggvA8YzEkno03z8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T130159.951.png"
-keywords: "Segunda Guerra Mundial, Rosa Branca, filme histórico, Estúdio de Som da Liberdade, Truth and Treason"
-data: "2025-04-02T16:12:44.092Z"
+title: >-
+  Truth and Treason: Estúdio de Som da Liberdade anuncia lançamento de filme
+  sobre a Segunda Guerra Mundial
+slug: truth-and-treason-estdio-de-som-da-liberdade-far-filme-de-2-guerra-mundial
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/7rjdY-t2NU2BggvA8YzEkno03z8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T130159.951.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7rjdY-t2NU2BggvA8YzEkno03z8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T130159.951.png
+keywords: >-
+  Segunda Guerra Mundial, Rosa Branca, filme histórico, Estúdio de Som da
+  Liberdade, Truth and Treason
+data: '2025-04-02T16:12:44.092Z'
+tags:
+  - segunda guerra mundial
+  - cinema
+  - lançamento de filme
+  - estúdio de som da liberdade
+  - truth and treason
 ---
 
 O Estúdio de Som da Liberdade, conhecido por suas produções históricas impactantes, anunciou o lançamento de 'Truth and Treason', um filme que promete uma nova perspectiva sobre os acontecimentos da Segunda Guerra Mundial. A estreia está prevista para outubro nos cinemas dos Estados Unidos, prometendo atrair entusiastas da história e do cinema com sua narrativa envolvente e produção de alta qualidade.

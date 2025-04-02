@@ -8,6 +8,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/bGf7xgVV3ooQhgSOQCnVRqEQnVo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T123728.098.png
 data: '2025-03-25T18:11:45.434Z'
+tags:
+  - laia costa
+  - a múmia
+  - filme
+  - protagonista feminina
+  - reboot
+  - cinema
 ---
 
 O reboot de 'A Múmia' acaba de anunciar a atriz espanhola Laia Costa como a protagonista feminina. Este anúncio ocorre um dia após a confirmação de Jack Reynor no papel do protagonista masculino. Costa, conhecida por seus papéis em 'Victoria' e 'Newness', interpretará a esposa do personagem de Reynor. Detalhes específicos sobre os personagens ainda não foram divulgados, mas especula-se que o casal possa ter uma filha e que se envolverão em uma expedição que os leva a encontrar a múmia titular.

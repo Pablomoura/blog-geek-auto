@@ -1,11 +1,20 @@
 ---
-title: "PS Plus de Abril Apresenta Robocop e The Texas Chain Saw Massacre"
-slug: "robocop-e-massacre-da-serra-eltrica-esto-na-ps-plus-de-abril"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/VCrYlmKy142AiXYYA3wdqINuAsU=/987x0/smart/uploads/conteudo/fotos/02_rzl4of3.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/klBuKW2WdZqtkoXQoVHJX2Oymwg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-26_124706.png"
-data: "2025-03-26T16:12:35.480Z"
+title: PS Plus de Abril Apresenta Robocop e The Texas Chain Saw Massacre
+slug: robocop-e-massacre-da-serra-eltrica-esto-na-ps-plus-de-abril
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/VCrYlmKy142AiXYYA3wdqINuAsU=/987x0/smart/uploads/conteudo/fotos/02_rzl4of3.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/klBuKW2WdZqtkoXQoVHJX2Oymwg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-26_124706.png
+data: '2025-03-26T16:12:35.480Z'
+tags:
+  - ps plus
+  - robocop
+  - the texas chain saw massacre
+  - jogos para ps4
+  - jogos para ps5
+  - sony
 ---
 
 A Sony divulgou a lista de jogos para abril da PS Plus Essentials, a versão mais acessível da assinatura da PS Plus. Entre os destaques estão Robocop, para PS4 e PS5, que permite aos jogadores encarnar o icônico policial ciborgue em uma aventura em primeira pessoa.

@@ -1,11 +1,19 @@
 ---
-title: "Tomodachi Life: Living the Dream é Anunciado para Nintendo Switch"
-slug: "tomodachi-life-ganhar-novo-jogo-aps-mais-de-10-anos"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/Dvo1V7DWYsA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/cptgr6xzS0viX5F4bxyHp-qMt_s=/480x360/smart/extras/conteudos/imagem_2025-03-27_115502221.png"
-data: "2025-03-27T15:11:01.234Z"
+title: 'Tomodachi Life: Living the Dream é Anunciado para Nintendo Switch'
+slug: tomodachi-life-ganhar-novo-jogo-aps-mais-de-10-anos
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/Dvo1V7DWYsA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/cptgr6xzS0viX5F4bxyHp-qMt_s=/480x360/smart/extras/conteudos/imagem_2025-03-27_115502221.png
+data: '2025-03-27T15:11:01.234Z'
+tags:
+  - tomodachi life
+  - nintendo switch
+  - lançamento de jogo
+  - personagens mii
+  - jogos de simulação
+  - interação social
 ---
 
 Depois de uma espera de 12 anos, a franquia Tomodachi Life está de volta com um novo título. Anunciado para lançamento em 2026, Tomodachi Life: Living the Dream promete trazer novas aventuras no Nintendo Switch com personagens Mii em interações únicas e envolventes.

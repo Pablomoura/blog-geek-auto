@@ -1,12 +1,20 @@
 ---
-title: "Monster Hunter Wilds Alcança Marca de 10 Milhões de Cópias Vendidas"
-slug: "monster-hunter-wilds-alcana-10-milhes-de-cpias-vendidas"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/te3zW20TuG0?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Ujg8RkR1kkHhV1zWohKMWUHVlP4=/480x360/smart/extras/conteudos/imagem_2025-03-31_122522037.png"
-keywords: "Monster Hunter Wilds, Capcom, vendas de jogos"
-data: "2025-03-31T16:15:20.180Z"
+title: Monster Hunter Wilds Alcança Marca de 10 Milhões de Cópias Vendidas
+slug: monster-hunter-wilds-alcana-10-milhes-de-cpias-vendidas
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/te3zW20TuG0?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Ujg8RkR1kkHhV1zWohKMWUHVlP4=/480x360/smart/extras/conteudos/imagem_2025-03-31_122522037.png
+keywords: 'Monster Hunter Wilds, Capcom, vendas de jogos'
+data: '2025-03-31T16:15:20.180Z'
+tags:
+  - monster hunter wilds
+  - capcom
+  - vendas de jogos
+  - recorde de vendas
+  - indústria de jogos
+  - sucesso de vendas
 ---
 
 Monster Hunter Wilds, o mais recente sucesso da Capcom, alcançou a impressionante marca de 10 milhões de cópias vendidas. A empresa anunciou esse feito na última segunda-feira (31), destacando que o jogo estabeleceu um novo recorde de vendas no primeiro mês entre todas as suas franquias.

@@ -1,12 +1,23 @@
 ---
-title: "Dynamic Duo | Animação dos Robin ganha teaser trailer na CinemaCon"
-slug: "dynamic-duo-animao-dos-robin-ganha-teaser-trailer-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/aavhuOd0cMafuWASx0vKqivbQR4=/987x0/smart/uploads/conteudo/fotos/Untitled_design_54.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SyJGtuuaVK_algX5LpQKCkfzC6M=/480x360/smart/extras/conteudos/dynamic-duo.jpg"
-keywords: "Warner Bros, CinemaCon, Dynamic Duo, animação, DC Studios, Dick Grayson, Jason Todd"
-data: "2025-04-02T01:20:42.684Z"
+title: Dynamic Duo | Animação dos Robin ganha teaser trailer na CinemaCon
+slug: dynamic-duo-animao-dos-robin-ganha-teaser-trailer-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/aavhuOd0cMafuWASx0vKqivbQR4=/987x0/smart/uploads/conteudo/fotos/Untitled_design_54.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SyJGtuuaVK_algX5LpQKCkfzC6M=/480x360/smart/extras/conteudos/dynamic-duo.jpg
+keywords: >-
+  Warner Bros, CinemaCon, Dynamic Duo, animação, DC Studios, Dick Grayson, Jason
+  Todd
+data: '2025-04-02T01:20:42.684Z'
+tags:
+  - cinemacon
+  - warner bros
+  - dc studios
+  - animação
+  - robin
+  - dynamic duo
 ---
 
 A Warner Bros. revelou as primeiras cenas da animação 'Dynamic Duo' durante o evento CinemaCon, realizado em Las Vegas. O filme, uma colaboração entre a Warner Animation e o DC Studios, promete explorar as jornadas de Dick Grayson e Jason Todd, ambas figuras icônicas como aliados do Batman. A equipe do Omelete teve a oportunidade de assistir ao teaser e compartilha suas primeiras impressões abaixo.

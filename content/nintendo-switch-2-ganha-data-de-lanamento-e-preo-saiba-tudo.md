@@ -1,12 +1,20 @@
 ---
-title: "Nintendo Switch 2: Data de Lançamento e Preço Revelados"
-slug: "nintendo-switch-2-ganha-data-de-lanamento-e-preo-saiba-tudo"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/BPh9S5tpcZo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/pyvHsTHCWZb8FCYKZPisHFR6tpc=/480x360/smart/extras/conteudos/01_jbJUYrH.jpg"
-keywords: "Nintendo, Switch 2, lançamento, jogos, inovações"
-data: "2025-04-02T15:01:11.642Z"
+title: 'Nintendo Switch 2: Data de Lançamento e Preço Revelados'
+slug: nintendo-switch-2-ganha-data-de-lanamento-e-preo-saiba-tudo
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/BPh9S5tpcZo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/pyvHsTHCWZb8FCYKZPisHFR6tpc=/480x360/smart/extras/conteudos/01_jbJUYrH.jpg
+keywords: 'Nintendo, Switch 2, lançamento, jogos, inovações'
+data: '2025-04-02T15:01:11.642Z'
+tags:
+  - nintendo switch 2
+  - lançamento
+  - preço
+  - console
+  - mercado brasileiro
+  - mercado americano
 ---
 
 A Nintendo Brasil anunciou oficialmente que o Nintendo Switch 2 será lançado no dia 5 de junho. O console chegará ao mercado americano com o preço de US$ 450, enquanto o valor para o mercado brasileiro ainda será anunciado.

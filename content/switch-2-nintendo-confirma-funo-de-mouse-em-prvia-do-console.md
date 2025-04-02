@@ -1,12 +1,19 @@
 ---
-title: "Nintendo Switch 2 Pode Incluir Função de Mouse, Sugere Prévia"
-slug: "switch-2-nintendo-confirma-funo-de-mouse-em-prvia-do-console"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/BPh9S5tpcZo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/W38W9pej5VCxGlXMMsn9bAY4t4Q=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_145736.png"
-keywords: "Nintendo Switch 2, função de mouse, evento online Nintendo"
-data: "2025-03-31T18:13:21.296Z"
+title: 'Nintendo Switch 2 Pode Incluir Função de Mouse, Sugere Prévia'
+slug: switch-2-nintendo-confirma-funo-de-mouse-em-prvia-do-console
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/BPh9S5tpcZo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/W38W9pej5VCxGlXMMsn9bAY4t4Q=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_145736.png
+keywords: 'Nintendo Switch 2, função de mouse, evento online Nintendo'
+data: '2025-03-31T18:13:21.296Z'
+tags:
+  - nintendo switch 2
+  - joy-con
+  - funcionalidade de mouse
+  - evento online
+  - console gaming
 ---
 
 A Nintendo parece ter revelado uma nova funcionalidade para o controle do Nintendo Switch 2: o uso como mouse. Um vídeo divulgado mostra a contagem regressiva de um dia para um evento online, onde mais detalhes do console serão revelados. Nas imagens, é possível ver o Joy-Con sendo usado na horizontal, similarmente a um mouse.

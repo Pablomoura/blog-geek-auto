@@ -1,11 +1,20 @@
 ---
-title: "Vingadores: Doomsday | Marvel Anuncia Elenco Completo do Novo Filme"
-slug: "vingadores-doomsday-marvel-confirma-elenco-completo-do-filme-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/kfpCeEqEwJ0kGNIL2zrUL5nZ-UU=/480x360/smart/extras/conteudos/vingadores-doomsday-elenco.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/kfpCeEqEwJ0kGNIL2zrUL5nZ-UU=/480x360/smart/extras/conteudos/vingadores-doomsday-elenco.jpg"
-data: "2025-03-27T11:08:25.172Z"
+title: 'Vingadores: Doomsday | Marvel Anuncia Elenco Completo do Novo Filme'
+slug: vingadores-doomsday-marvel-confirma-elenco-completo-do-filme-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/kfpCeEqEwJ0kGNIL2zrUL5nZ-UU=/480x360/smart/extras/conteudos/vingadores-doomsday-elenco.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/kfpCeEqEwJ0kGNIL2zrUL5nZ-UU=/480x360/smart/extras/conteudos/vingadores-doomsday-elenco.jpg
+data: '2025-03-27T11:08:25.172Z'
+tags:
+  - marvel studios
+  - 'vingadores: doomsday'
+  - elenco
+  - crossover
+  - x-men
+  - universo cinematográfico
 ---
 
 A Marvel Studios acaba de revelar oficialmente o elenco completo para o aguardado filme 'Vingadores: Doomsday'. A produção promete ser um dos maiores crossovers do universo cinematográfico da Marvel até hoje.

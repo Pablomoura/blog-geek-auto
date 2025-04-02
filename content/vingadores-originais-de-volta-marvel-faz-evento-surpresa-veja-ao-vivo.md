@@ -1,10 +1,20 @@
 ---
-title: "Os Vingadores Originais Estão de Volta? Marvel Anuncia Novos Filmes com Surpresas"
-slug: "vingadores-originais-de-volta-marvel-faz-evento-surpresa-veja-ao-vivo"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/Iy7k3aJS0Fw?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Qx0HYcr1gW8a0EfO-P0mhztAFYg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T120756.825.png"
+title: >-
+  Os Vingadores Originais Estão de Volta? Marvel Anuncia Novos Filmes com
+  Surpresas
+slug: vingadores-originais-de-volta-marvel-faz-evento-surpresa-veja-ao-vivo
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/Iy7k3aJS0Fw?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Qx0HYcr1gW8a0EfO-P0mhztAFYg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T120756.825.png
+tags:
+  - marvel
+  - vingadores
+  - chris hemsworth
+  - filmes
+  - mcu
+  - surpresas
 ---
 
 A Marvel iniciou uma transmissão ao vivo inesperada em suas plataformas digitais, gerando expectativa entre os fãs do Universo Cinematográfico Marvel (MCU) com a promessa de revelações importantes.

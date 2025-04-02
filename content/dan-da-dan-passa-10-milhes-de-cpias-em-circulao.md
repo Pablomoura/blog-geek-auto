@@ -1,11 +1,20 @@
 ---
-title: "Dan da Dan ultrapassa 10 milhões de cópias em circulação"
-slug: "dan-da-dan-passa-10-milhes-de-cpias-em-circulao"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/-aKzOw8YE7bXlMxtLQQhe_MM6w4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T191245.823.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/68nO1n50zztEUZSzBM8D_ppEYyk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T191245.823.png"
-data: "2025-03-28T23:08:59.716Z"
+title: Dan da Dan ultrapassa 10 milhões de cópias em circulação
+slug: dan-da-dan-passa-10-milhes-de-cpias-em-circulao
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/-aKzOw8YE7bXlMxtLQQhe_MM6w4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T191245.823.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/68nO1n50zztEUZSzBM8D_ppEYyk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T191245.823.png
+data: '2025-03-28T23:08:59.716Z'
+tags:
+  - dan da dan
+  - mangá
+  - anime
+  - 10 milhões de cópias
+  - sucesso
+  - adaptação para anime
 ---
 
 A página promocional do volume 19 do mangá 'Dan da Dan' revelou que a obra agora conta com mais de 10 milhões de cópias em circulação. A última atualização, em janeiro, registrava 8 milhões de cópias. Este aumento significativo é atribuído ao sucesso da adaptação para anime, que provavelmente impulsionará ainda mais as vendas com a estreia da segunda temporada em julho. Após um breve hiato de um mês no Japão, o mangá retornou em fevereiro, e o aguardado volume 19 será lançado no dia 4 de abril.

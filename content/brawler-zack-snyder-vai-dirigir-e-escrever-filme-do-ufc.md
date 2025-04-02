@@ -1,12 +1,20 @@
 ---
-title: "Zack Snyder Anuncia Novo Filme 'Brawler' Sobre UFC"
-slug: "brawler-zack-snyder-vai-dirigir-e-escrever-filme-do-ufc"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/4EBCz9zAmRR_haqtx5vJHBKByb8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T105546.015.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4Ux4YnGL_CUW7qksCmq0gMaFIM8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T105532.010.png"
-keywords: "Zack Snyder, UFC, filme Brawler, Dana White, cinema de ação"
-data: "2025-03-31T14:10:14.983Z"
+title: Zack Snyder Anuncia Novo Filme 'Brawler' Sobre UFC
+slug: brawler-zack-snyder-vai-dirigir-e-escrever-filme-do-ufc
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/4EBCz9zAmRR_haqtx5vJHBKByb8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T105546.015.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4Ux4YnGL_CUW7qksCmq0gMaFIM8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T105532.010.png
+keywords: 'Zack Snyder, UFC, filme Brawler, Dana White, cinema de ação'
+data: '2025-03-31T14:10:14.983Z'
+tags:
+  - zack snyder
+  - ufc
+  - filme brawler
+  - cinema
+  - dana white
 ---
 
 Zack Snyder, renomado cineasta americano, está preparando seu próximo grande projeto: a direção do filme 'Brawler', uma produção oficial sobre o Ultimate Fighting Championship (UFC). O anúncio foi feito nesta segunda-feira pelo CEO do UFC, Dana White, que confirmou Snyder no comando do projeto.

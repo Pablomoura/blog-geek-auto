@@ -1,12 +1,21 @@
 ---
-title: "Ronaldinho Gaúcho Surpreende em Campanha de 1º de Abril para o Filme 'Thunderbolts' do MCU"
-slug: "thunderbolts-ganha-vdeo-de-primeiro-de-abril-com-ronaldinho-gacho"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/CWvq2e1Qih4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/UXMATdbp6QU7VcBQqZ3xi1uP1PQ=/480x360/smart/extras/conteudos/IMG_4771.jpeg"
-keywords: "Thunderbolts, MCU, Ronaldinho Gaúcho, Marvel, cinema, anti-heróis"
-data: "2025-04-01T14:15:19.191Z"
+title: >-
+  Ronaldinho Gaúcho Surpreende em Campanha de 1º de Abril para o Filme
+  'Thunderbolts' do MCU
+slug: thunderbolts-ganha-vdeo-de-primeiro-de-abril-com-ronaldinho-gacho
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/CWvq2e1Qih4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/UXMATdbp6QU7VcBQqZ3xi1uP1PQ=/480x360/smart/extras/conteudos/IMG_4771.jpeg
+keywords: 'Thunderbolts, MCU, Ronaldinho Gaúcho, Marvel, cinema, anti-heróis'
+data: '2025-04-01T14:15:19.191Z'
+tags:
+  - ronaldinho gaúcho
+  - thunderbolts
+  - mcu
+  - 1º de abril
+  - campanha de marketing
 ---
 
 Ronaldinho Gaúcho, o lendário jogador de futebol, acaba de participar de uma inusitada campanha de marketing para o lançamento do novo filme do MCU, 'Thunderbolts', divulgada neste 1º de abril. O filme promete ser um grande destaque em 2025, reunindo um time de anti-heróis memoráveis do universo Marvel.

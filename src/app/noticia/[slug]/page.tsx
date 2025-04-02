@@ -15,6 +15,7 @@ import { markedHighlight } from "marked-highlight";
 import { gfmHeadingId } from "marked-gfm-heading-id";
 import hljs from "highlight.js";
 import "highlight.js/styles/github-dark.css";
+import removeAccents from "remove-accents";
 
 marked.use(
   gfmHeadingId({
@@ -29,50 +30,57 @@ marked.use(
   )
 );
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params;
-  const filePath = path.join(process.cwd(), "content", `${slug}.md`);
-  try {
-    const file = await fs.readFile(filePath, "utf-8");
-    const { data, content } = matter(file);
+async function inserirLinksRelacionados(content: string, slugAtual: string) {
+  const dir = path.join(process.cwd(), "content");
+  const files = await fs.readdir(dir);
+  const links: { title: string; slug: string }[] = [];
 
-    const descricao = data.resumo || content.slice(0, 160).replace(/\n/g, " ").trim();
+  const atualPath = path.join(dir, `${slugAtual}.md`);
+  const atualRaw = await fs.readFile(atualPath, "utf-8");
+  const { data: dataAtual } = matter(atualRaw);
+  const tagsAtuais = (dataAtual.tags || []).map((t: string) => t.toLowerCase());
 
-    return {
-      title: data.title,
-      description: descricao,
-      keywords: data.keywords || "",
-      openGraph: {
-        title: data.title,
-        description: descricao,
-        type: "article",
-        url: `https://www.geeknews.com.br/noticia/${slug}`,
-        siteName: "GeekNews",
-        images: [
-          {
-            url: data.thumb || data.midia || "/logo.png",
-            width: 1200,
-            height: 630,
-            alt: data.title,
-          },
-        ],
-      },
-      twitter: {
-        card: "summary_large_image",
-        title: data.title,
-        description: descricao,
-        images: [data.thumb || data.midia || "/logo.png"],
-      },
-      alternates: {
-        canonical: `https://www.geeknews.com.br/noticia/${slug}`,
-      },
-    };
-  } catch {
-    return {
-      title: "Notícia não encontrada",
-      description: "",
-    };
+  for (const file of files) {
+    const slug = file.replace(/\.md$/, "");
+    if (slug === slugAtual) continue;
+
+    const filePath = path.join(dir, file);
+    const raw = await fs.readFile(filePath, "utf-8");
+    const { data } = matter(raw);
+
+    const tagsComparar = (data.tags || []).map((t: string) => t.toLowerCase());
+    const temMatch = tagsAtuais.some((tag: string) => tagsComparar.includes(tag));
+
+    if (temMatch) {
+      links.push({ title: data.title, slug });
+    }
+
+    if (links.length === 2) break;
   }
+
+  if (links.length === 0) return content;
+
+  const bloco = `
+    <ul class="pl-5 mb-6 space-y-2">
+      ${links
+        .map(
+          (link) =>
+            `<li class="list-disc text-sm text-orange-700 dark:text-orange-400">
+              <a href="/noticia/${link.slug}" class="hover:underline italic">${link.title}</a>
+            </li>`
+        )
+        .join("\n")}
+    </ul>
+  `;
+
+  const paragrafos = content.split("</p>");
+  if (paragrafos.length > 2) {
+    paragrafos.splice(2, 0, bloco);
+  } else {
+    paragrafos.push(bloco);
+  }
+
+  return paragrafos.join("</p>");
 }
 
 export default async function NoticiaPage(props: { params: Promise<{ slug: string }> }) {
@@ -84,10 +92,10 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     const { data, content } = matter(file);
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
 
-    const htmlConvertido = await marked.parse(content); // <- aqui com await
+    const htmlConvertido = await marked.parse(content);
     const htmlComLinks = await aplicarLinksInternosInteligente(htmlConvertido, slug);
-
-    const htmlContent = DOMPurify.sanitize(htmlComLinks);
+    const htmlComRelacionados = await inserirLinksRelacionados(htmlComLinks, slug);
+    const htmlContent = DOMPurify.sanitize(htmlComRelacionados);
 
     const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
     const relacionados = [];

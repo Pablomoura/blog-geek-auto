@@ -10,6 +10,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/_GjimfgOUFQz7UnJ3jqFluqSAak=/480x360/smart/extras/conteudos/ms-marvel_DlmaPwd.jpg
 data: '2025-03-26T11:27:49.641Z'
+tags:
+  - 'demolidor: renascido'
+  - ms. marvel
+  - jovens vingadores
+  - campeões
+  - conexões marvel
+  - spoilers série
 ---
 
 [Alerta de spoilers do episódio 5 de 'Demolidor: Renascido' a seguir]

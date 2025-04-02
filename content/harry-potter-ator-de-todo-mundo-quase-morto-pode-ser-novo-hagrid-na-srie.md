@@ -8,6 +8,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/vL5S7RpejOmu3Xlxn51MuLNU1z8=/480x360/smart/extras/conteudos/hagrid_mhUeZGn.jpg
 data: '2025-03-26T11:27:49.641Z'
+tags:
+  - harry potter
+  - hbo
+  - nick frost
+  - rúbeo hagrid
+  - série
+  - escalação
 ---
 
 A HBO está em processo de escalação para sua série de Harry Potter e pode ter encontrado seu Rúbeo Hagrid. Segundo o site Deadline, Nick Frost, conhecido por seu trabalho em 'Todo Mundo Quase Morto', está em negociações para assumir o papel do amado meio-gigante. Esta informação surge após rumores que apontavam Brett Goldstein para o papel.

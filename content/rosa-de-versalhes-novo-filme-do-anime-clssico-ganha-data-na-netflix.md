@@ -1,12 +1,20 @@
 ---
-title: "Rosa de Versalhes | Novo filme do anime clássico ganha data na Netflix"
-slug: "rosa-de-versalhes-novo-filme-do-anime-clssico-ganha-data-na-netflix"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/lxA2wEndpTg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/9yUL1Dgnpik673IdTArMQIDztN0=/480x360/smart/extras/conteudos/01_o5OvD8L.jpg"
-keywords: "anime, Rosa de Versalhes, Netflix, MAPPA, estreia"
-data: "2025-04-02T18:13:29.566Z"
+title: Rosa de Versalhes | Novo filme do anime clássico ganha data na Netflix
+slug: rosa-de-versalhes-novo-filme-do-anime-clssico-ganha-data-na-netflix
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/lxA2wEndpTg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/9yUL1Dgnpik673IdTArMQIDztN0=/480x360/smart/extras/conteudos/01_o5OvD8L.jpg
+keywords: 'anime, Rosa de Versalhes, Netflix, MAPPA, estreia'
+data: '2025-04-02T18:13:29.566Z'
+tags:
+  - rosa de versalhes
+  - netflix
+  - anime
+  - estúdio mappa
+  - lançamento de filme
+  - dublagem em português
 ---
 
 O aguardado filme 'A Rosa de Versalhes', produzido pelo renomado estúdio MAPPA, conhecido por seus trabalhos em 'Attack on Titan' e 'Jujutsu Kaisen', será lançado na plataforma Netflix no dia 30 de abril. A produção estará disponível com opções de dublagem e legendas em português, após sua estreia original no Japão no final de janeiro deste ano.

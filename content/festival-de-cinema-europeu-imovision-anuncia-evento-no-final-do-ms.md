@@ -1,12 +1,23 @@
 ---
-title: "Festival de Cinema Europeu | Imovision anuncia evento no final do mês"
-slug: "festival-de-cinema-europeu-imovision-anuncia-evento-no-final-do-ms"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/qfwLvDllZUpibX6u26uX1QsYRBY=/987x0/smart/uploads/conteudo/fotos/Snapins.ai_487693847_18488763112002450_7876697723922641153_n_1080.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/-sUkN1_GYep03BRxWkqbTUznhcA=/480x360/smart/extras/conteudos/Snapins.ai_487693847_18488763112002450_7876697723922641153_n_1080.jpg"
-keywords: "Festival de Cinema Europeu, Imovision, cinema europeu, Niterói, filmes inéditos"
-data: "2025-04-02T17:01:54.534Z"
+title: Festival de Cinema Europeu | Imovision anuncia evento no final do mês
+slug: festival-de-cinema-europeu-imovision-anuncia-evento-no-final-do-ms
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/qfwLvDllZUpibX6u26uX1QsYRBY=/987x0/smart/uploads/conteudo/fotos/Snapins.ai_487693847_18488763112002450_7876697723922641153_n_1080.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/-sUkN1_GYep03BRxWkqbTUznhcA=/480x360/smart/extras/conteudos/Snapins.ai_487693847_18488763112002450_7876697723922641153_n_1080.jpg
+keywords: >-
+  Festival de Cinema Europeu, Imovision, cinema europeu, Niterói, filmes
+  inéditos
+data: '2025-04-02T17:01:54.534Z'
+tags:
+  - cinema europeu
+  - festival de cinema
+  - imovision
+  - filmes inéditos
+  - cultura europeia
+  - cinema no brasil
 ---
 
 A Imovision tem o prazer de anunciar a primeira edição do Festival de Cinema Europeu Imovision, um evento inédito que pretende celebrar a diversidade e excelência do cinema europeu no Brasil. Este festival ocorrerá de 24 a 30 de abril e apresentará uma seleção exclusiva de 14 filmes inéditos e premiados, provenientes de renomadas cinematografias da Europa.

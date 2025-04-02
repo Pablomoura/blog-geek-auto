@@ -1,12 +1,21 @@
 ---
-title: "Lanternas Verdes | Aaron Pierre é visto armado em novas fotos do set"
-slug: "lanternas-verdes-aaron-pierre-surge-armado-em-fotos-do-set"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/fIIhJfhgsEFLwPsTGCTZl9YJxYk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T123308.425.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/FxhHjTg5Ir5LJVH4KAxseCoBang=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T123232.803.png"
-keywords: "Lanternas Verdes, Aaron Pierre, John Stewart, HBO Max, DC Studios, série"
-data: "2025-04-02T16:14:35.126Z"
+title: Lanternas Verdes | Aaron Pierre é visto armado em novas fotos do set
+slug: lanternas-verdes-aaron-pierre-surge-armado-em-fotos-do-set
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/fIIhJfhgsEFLwPsTGCTZl9YJxYk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T123308.425.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/FxhHjTg5Ir5LJVH4KAxseCoBang=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T123232.803.png
+keywords: 'Lanternas Verdes, Aaron Pierre, John Stewart, HBO Max, DC Studios, série'
+data: '2025-04-02T16:14:35.126Z'
+tags:
+  - lanternas verdes
+  - aaron pierre
+  - john stewart
+  - fotos do set
+  - série de tv
+  - dc comics
 ---
 
 Foram divulgadas novas imagens do set da série 'Lanternas Verdes', revelando Aaron Pierre, que interpreta o protagonista John Stewart, armado e saindo de um veículo. As fotos prometem uma visão intrigante do personagem.

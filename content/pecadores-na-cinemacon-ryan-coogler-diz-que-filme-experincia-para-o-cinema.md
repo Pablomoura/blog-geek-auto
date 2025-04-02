@@ -1,12 +1,23 @@
 ---
-title: "CinemaCon 2025: Ryan Coogler apresenta 'Pecadores', uma nova experiência cinematográfica"
-slug: "pecadores-na-cinemacon-ryan-coogler-diz-que-filme-experincia-para-o-cinema"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/kK-_Hel411m-Y53HKpU03i_LYgk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T135142.527_zzwhQl1_VnU57JA.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/HfYG5HXybayJDDHeX9ty5pp2Qcg=/480x360/smart/extras/conteudos/pecadores2.png"
-keywords: "CinemaCon, Ryan Coogler, Pecadores, Michael B. Jordan"
-data: "2025-04-02T00:52:28.054Z"
+title: >-
+  CinemaCon 2025: Ryan Coogler apresenta 'Pecadores', uma nova experiência
+  cinematográfica
+slug: pecadores-na-cinemacon-ryan-coogler-diz-que-filme-experincia-para-o-cinema
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/kK-_Hel411m-Y53HKpU03i_LYgk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T135142.527_zzwhQl1_VnU57JA.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/HfYG5HXybayJDDHeX9ty5pp2Qcg=/480x360/smart/extras/conteudos/pecadores2.png
+keywords: 'CinemaCon, Ryan Coogler, Pecadores, Michael B. Jordan'
+data: '2025-04-02T00:52:28.054Z'
+tags:
+  - cinemacon 2025
+  - ryan coogler
+  - pecadores
+  - warner bros. pictures
+  - experiência cinematográfica
+  - pantera negra
 ---
 
 Durante a CinemaCon 2025, que aconteceu nesta terça-feira, a Warner Bros. Pictures deu início ao seu painel com uma apresentação especial sobre o filme 'Pecadores', dirigido por Ryan Coogler, conhecido por seu trabalho em 'Pantera Negra'. Coogler, que compareceu pessoalmente ao evento, destacou que 'Pecadores' é uma obra pensada exclusivamente para o grande ecrã, combinando elementos de fantasia, música e romance em formato IMAX, celebrando a rica cultura do Mississippi.

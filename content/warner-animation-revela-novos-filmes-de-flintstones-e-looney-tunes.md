@@ -1,12 +1,23 @@
 ---
-title: "Warner Animation anuncia novos filmes dos Flintstones e Looney Tunes"
-slug: "warner-animation-revela-novos-filmes-de-flintstones-e-looney-tunes"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/PupTCIoi5Gg3vC-yc3EkU_xFUNE=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T220708.899.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/6H98wwFnnOhq9hfFyet2IOuEW9Q=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T220708.899.png"
-keywords: "Warner Animation, Flintstones, Looney Tunes, CinemaCon 2025, filmes de animação"
-data: "2025-04-02T01:20:14.038Z"
+title: Warner Animation anuncia novos filmes dos Flintstones e Looney Tunes
+slug: warner-animation-revela-novos-filmes-de-flintstones-e-looney-tunes
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/PupTCIoi5Gg3vC-yc3EkU_xFUNE=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T220708.899.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/6H98wwFnnOhq9hfFyet2IOuEW9Q=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T220708.899.png
+keywords: >-
+  Warner Animation, Flintstones, Looney Tunes, CinemaCon 2025, filmes de
+  animação
+data: '2025-04-02T01:20:14.038Z'
+tags:
+  - warner animation
+  - flintstones
+  - looney tunes
+  - cinemacon 2025
+  - filmes animados
+  - warner bros.
 ---
 
 No evento CinemaCon 2025, a Warner Animation, uma divisão da Warner Bros., apresentou detalhes emocionantes sobre seus próximos projetos. Segundo cobertura do portal Omelete, que esteve presente no evento, o estúdio preparou uma apresentação vibrante que incluiu um clipe compilando desde os clássicos como Pernalonga até os mais recentes filmes da franquia LEGO, bem como futuros lançamentos.

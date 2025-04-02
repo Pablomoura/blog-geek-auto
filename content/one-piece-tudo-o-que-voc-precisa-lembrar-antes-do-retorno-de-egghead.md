@@ -1,11 +1,19 @@
 ---
-title: "One Piece: Prepare-se para o retorno do Arco de Egghead"
-slug: "one-piece-tudo-o-que-voc-precisa-lembrar-antes-do-retorno-de-egghead"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/kzF0Pv2Q_eg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/ezfCW-Xe72p21qWVhvBGqyh3lqo=/480x360/smart/extras/conteudos/Luffy-de-Casaco-Arco-Egghead.png"
-data: "2025-03-27T21:09:08.842Z"
+title: 'One Piece: Prepare-se para o retorno do Arco de Egghead'
+slug: one-piece-tudo-o-que-voc-precisa-lembrar-antes-do-retorno-de-egghead
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/kzF0Pv2Q_eg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/ezfCW-Xe72p21qWVhvBGqyh3lqo=/480x360/smart/extras/conteudos/Luffy-de-Casaco-Arco-Egghead.png
+data: '2025-03-27T21:09:08.842Z'
+tags:
+  - one piece
+  - arco de egghead
+  - retorno
+  - anime
+  - andré zuliani
+  - pedrinho
 ---
 
 Após um hiato, One Piece está de volta com novos episódios focados no emocionante Arco de Egghead. André Zuliani e Pedrinho trazem um resumo detalhado dos acontecimentos cruciais da primeira parte deste arco. Confira o vídeo no link acima para não perder nenhum detalhe.

@@ -8,6 +8,12 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/GOjAF5Ar9TpAM1jSIf-3HzCWA8w=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T105753.156.png
 data: '2025-03-26T14:14:29.489Z'
+tags:
+  - vin diesel
+  - velozes e furiosos
+  - direção de filme
+  - cinema
+  - franquia
 ---
 
 Vin Diesel, estrela da franquia Velozes e Furiosos, recentemente deu a entender que poderá expandir suas responsabilidades na série, assumindo a direção de um filme futuro. "Lembro-me de um momento crucial na franquia, após o término do quarto filme, quando o estúdio me convidou para dirigir um prelúdio", revelou Diesel. Esse prelúdio, intitulado 'Los Bandoleros', explicaria a trajetória de Dom entre o primeiro e o quarto filme.

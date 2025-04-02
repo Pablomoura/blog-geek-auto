@@ -1,11 +1,22 @@
 ---
-title: "Mary Steenburgen Junta-se a Ted Danson na 2ª Temporada de 'Um Espião Infiltrado'"
-slug: "um-espio-infiltrado-srie-ter-mary-steenburgen-na-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/9BS-7BlchwOlKyPEtSHLs2KO458=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T202834.108.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/aSy7ENrYXBeX6QklqadLkd4UQBI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T202834.108.png"
-data: "2025-03-29T00:41:25.953Z"
+title: >-
+  Mary Steenburgen Junta-se a Ted Danson na 2ª Temporada de 'Um Espião
+  Infiltrado'
+slug: um-espio-infiltrado-srie-ter-mary-steenburgen-na-2-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/9BS-7BlchwOlKyPEtSHLs2KO458=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T202834.108.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/aSy7ENrYXBeX6QklqadLkd4UQBI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T202834.108.png
+data: '2025-03-29T00:41:25.953Z'
+tags:
+  - mary steenburgen
+  - ted danson
+  - um espião infiltrado
+  - segunda temporada
+  - série de antologia
+  - elenco
 ---
 
 A segunda temporada de 'Um Espião Infiltrado' promete novidades significativas com a inclusão de Mary Steenburgen no elenco, ao lado de seu esposo, o protagonista Ted Danson.

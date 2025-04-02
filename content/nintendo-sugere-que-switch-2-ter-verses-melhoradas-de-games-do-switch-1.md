@@ -1,11 +1,20 @@
 ---
-title: "Nintendo Switch 2 Pode Trazer Versões Aprimoradas de Jogos do Switch Original"
-slug: "nintendo-sugere-que-switch-2-ter-verses-melhoradas-de-games-do-switch-1"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/8RQxZ5EauqTtBF7kIMl1NRkwpTw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T114343.586.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/_ECEM-bxo-J9g-TbdwDBQH_Gykg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T114251.199.png"
-data: "2025-03-28T15:09:30.495Z"
+title: Nintendo Switch 2 Pode Trazer Versões Aprimoradas de Jogos do Switch Original
+slug: nintendo-sugere-que-switch-2-ter-verses-melhoradas-de-games-do-switch-1
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/8RQxZ5EauqTtBF7kIMl1NRkwpTw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T114343.586.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/_ECEM-bxo-J9g-TbdwDBQH_Gykg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T114251.199.png
+data: '2025-03-28T15:09:30.495Z'
+tags:
+  - nintendo switch 2
+  - jogos aprimorados
+  - console de jogos
+  - lançamento 2024
+  - retrocompatibilidade
+  - nintendo
 ---
 
 A Nintendo insinuou que o Nintendo Switch 2, seu mais recente console programado para ser revelado no final de 2024, poderá oferecer versões aprimoradas de jogos lançados originalmente para o seu antecessor de 2017.

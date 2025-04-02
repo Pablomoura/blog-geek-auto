@@ -1,11 +1,20 @@
 ---
-title: "Gamescom LATAM 2025 em São Paulo Contará com Roblox e Twitch"
-slug: "gamescom-latam-2025-ter-roblox-e-participao-da-twitch"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/UHDENnEm7reWooK27b9i56-87DA=/987x0/smart/uploads/conteudo/fotos/02_WjCKPTw.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/n8BPtZFbJXxI5YIEO3gsiONi5Zg=/480x360/smart/extras/conteudos/01_FApNLk8.jpg"
-data: "2025-03-27T20:10:28.236Z"
+title: Gamescom LATAM 2025 em São Paulo Contará com Roblox e Twitch
+slug: gamescom-latam-2025-ter-roblox-e-participao-da-twitch
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/UHDENnEm7reWooK27b9i56-87DA=/987x0/smart/uploads/conteudo/fotos/02_WjCKPTw.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/n8BPtZFbJXxI5YIEO3gsiONi5Zg=/480x360/smart/extras/conteudos/01_FApNLk8.jpg
+data: '2025-03-27T20:10:28.236Z'
+tags:
+  - gamescom latam 2025
+  - roblox
+  - twitch
+  - são paulo
+  - feira de games
+  - indústria de jogos
 ---
 
 A Gamescom LATAM 2025, prevista para ocorrer entre os dias 1 e 4 de maio no Distrito Anhembi, em São Paulo, anunciou a inclusão de Roblox e Twitch em sua lista de atrações. Este evento, que é a versão latino-americana da renomada feira europeia de games, promete trazer experiências únicas para os entusiastas de jogos.

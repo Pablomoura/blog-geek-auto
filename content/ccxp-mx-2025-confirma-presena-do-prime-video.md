@@ -1,11 +1,20 @@
 ---
-title: "Prime Video Confirma Participação na CCXP MX 2025"
-slug: "ccxp-mx-2025-confirma-presena-do-prime-video"
-categoria: "CCXP"
-midia: "https://cdn.ome.lt/f6auw7jlSiyy0jy1sLwdKIG-cr0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T131603.052.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/u8K-mvRrcCrNEF1E-_uta2sKVoU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T131537.532.png"
-data: "2025-03-27T17:10:51.883Z"
+title: Prime Video Confirma Participação na CCXP MX 2025
+slug: ccxp-mx-2025-confirma-presena-do-prime-video
+categoria: CCXP
+midia: >-
+  https://cdn.ome.lt/f6auw7jlSiyy0jy1sLwdKIG-cr0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T131603.052.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/u8K-mvRrcCrNEF1E-_uta2sKVoU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T131537.532.png
+data: '2025-03-27T17:10:51.883Z'
+tags:
+  - prime video
+  - ccxp mx 2025
+  - comic con
+  - produções originais
+  - streaming
+  - eventos
 ---
 
 O Prime Video acaba de anunciar sua participação na CCXP MX 2025, a versão mexicana da aclamada Comic Con Experience. A confirmação aumenta a expectativa de anúncios significativos durante o evento.

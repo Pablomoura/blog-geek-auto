@@ -1,11 +1,20 @@
 ---
-title: "Jennifer Salke Deixa o Cargo de Chefe na Amazon MGM Studios"
-slug: "amazon-mgm-jennifer-salke-deixa-cargo-de-chefe-do-estdio"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/GrZSpGgDpTa_AmIiyjJWhvaTkQU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T131451.349.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/17Yw1dNuo-vC8eVbFUK0-Fhbi2E=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T131437.614.png"
-data: "2025-03-28T17:09:46.492Z"
+title: Jennifer Salke Deixa o Cargo de Chefe na Amazon MGM Studios
+slug: amazon-mgm-jennifer-salke-deixa-cargo-de-chefe-do-estdio
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/GrZSpGgDpTa_AmIiyjJWhvaTkQU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T131451.349.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/17Yw1dNuo-vC8eVbFUK0-Fhbi2E=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T131437.614.png
+data: '2025-03-28T17:09:46.492Z'
+tags:
+  - jennifer salke
+  - amazon mgm studios
+  - saída
+  - produtora de cinema
+  - mike hopkins
+  - prime video
 ---
 
 Jennifer Salke anunciou sua saída do cargo de chefe da Amazon MGM Studios. A notícia foi divulgada através de um e-mail interno enviado aos funcionários por Mike Hopkins, chefe do Prime Video. Salke planeja fundar sua própria produtora de cinema e televisão, com projetos ainda não divulgados.

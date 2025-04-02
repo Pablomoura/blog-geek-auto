@@ -1,11 +1,20 @@
 ---
-title: "Boston Blue: Novo Derivado de Blue Bloods Ganha Trailer Empolgante"
-slug: "boston-blue-derivado-de-blue-bloods-ganha-novo-trailer-assista"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/ehpbgWC6zCquQW60zGb3pT-kEJ0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-26T125300.885.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/n-_gjeBsb_UuR7DJfS_5_1By3dM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T125248.228.png"
-data: "2025-03-26T16:12:51.479Z"
+title: 'Boston Blue: Novo Derivado de Blue Bloods Ganha Trailer Empolgante'
+slug: boston-blue-derivado-de-blue-bloods-ganha-novo-trailer-assista
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/ehpbgWC6zCquQW60zGb3pT-kEJ0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-26T125300.885.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/n-_gjeBsb_UuR7DJfS_5_1By3dM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T125248.228.png
+data: '2025-03-26T16:12:51.479Z'
+tags:
+  - boston blue
+  - blue bloods
+  - donnie wahlberg
+  - trailer
+  - spin-off
+  - série policial
 ---
 
 O aguardado spin-off de Blue Bloods, intitulado Boston Blue, protagonizado por Donnie Wahlberg, acaba de ganhar um novo trailer emocionante. O próprio ator foi o responsável por compartilhar a prévia juntamente com uma mensagem entusiasmada aos fãs. 

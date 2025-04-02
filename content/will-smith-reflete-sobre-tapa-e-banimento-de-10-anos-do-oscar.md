@@ -1,11 +1,19 @@
 ---
-title: "Will Smith Reflete sobre Incidente no Oscar e Aceita Banimento de 10 Anos"
-slug: "will-smith-reflete-sobre-tapa-e-banimento-de-10-anos-do-oscar"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/6MFyz6BRzwI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/FW3u4k-lptV0AZeuk3wWCGwgdKY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T185035.046.png"
-data: "2025-03-27T22:08:26.791Z"
+title: Will Smith Reflete sobre Incidente no Oscar e Aceita Banimento de 10 Anos
+slug: will-smith-reflete-sobre-tapa-e-banimento-de-10-anos-do-oscar
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/6MFyz6BRzwI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/FW3u4k-lptV0AZeuk3wWCGwgdKY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T185035.046.png
+data: '2025-03-27T22:08:26.791Z'
+tags:
+  - will smith
+  - oscar
+  - banimento
+  - incidente
+  - entrevista
+  - academia
 ---
 
 Em uma entrevista recente com a Associated Press, Will Smith discutiu seu banimento de 10 anos dos eventos da Academia, incluindo o Oscar, uma penalidade decorrente de um incidente ocorrido há três anos. Na cerimônia em que ganhou seu primeiro Oscar por 'King Richard: Criando Campeãs', Smith agrediu fisicamente o comediante Chris Rock no palco, em resposta a uma piada sobre Jada Pinkett Smith, sua esposa.

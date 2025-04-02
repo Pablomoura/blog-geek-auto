@@ -1,10 +1,18 @@
 ---
-title: "Intergalactic: Lançamento do Novo Jogo da Naughty Dog Previsto para 2027"
-slug: "intergalactic-jogo-dos-criadores-de-the-last-of-us-s-chega-em-2027"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/VLGy63pt9vA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/M-G1VWVxTk0R3ebFyu5mSZyn21s=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T113027.144.png"
+title: 'Intergalactic: Lançamento do Novo Jogo da Naughty Dog Previsto para 2027'
+slug: intergalactic-jogo-dos-criadores-de-the-last-of-us-s-chega-em-2027
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/VLGy63pt9vA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/M-G1VWVxTk0R3ebFyu5mSZyn21s=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-26T113027.144.png
+tags:
+  - naughty dog
+  - intergalactic
+  - lançamento de jogo
+  - '2027'
+  - jason schreier
+  - 'the last of us: part ii'
 ---
 
 O aguardado jogo Intergalactic: The Heretic Prophet, desenvolvido pela Naughty Dog, tem previsão de lançamento apenas para 2027, conforme divulgado pelo renomado jornalista Jason Schreier. Este título é o primeiro grande projeto do estúdio desde o sucesso de The Last of Us: Part II. Até o momento, nem a Naughty Dog nem a Sony confirmaram uma data oficial de lançamento.

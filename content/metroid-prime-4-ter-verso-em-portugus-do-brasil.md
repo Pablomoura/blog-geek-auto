@@ -1,11 +1,19 @@
 ---
-title: "Metroid Prime 4: Beyond Será Lançado em Português do Brasil"
-slug: "metroid-prime-4-ter-verso-em-portugus-do-brasil"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/nmwAhBxakw4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/uUAjauVoJXbFqr5P9HFxKbmcS64=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-27_115528.png"
-data: "2025-03-27T15:10:17.532Z"
+title: 'Metroid Prime 4: Beyond Será Lançado em Português do Brasil'
+slug: metroid-prime-4-ter-verso-em-portugus-do-brasil
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/nmwAhBxakw4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/uUAjauVoJXbFqr5P9HFxKbmcS64=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-27_115528.png
+data: '2025-03-27T15:10:17.532Z'
+tags:
+  - metroid prime 4
+  - nintendo switch
+  - lançamento 2025
+  - português do brasil
+  - jogos em português
+  - nintendo
 ---
 
 A aguardada sequência da saga Metroid, Metroid Prime 4: Beyond, será lançada com suporte ao idioma português do Brasil, de acordo com anúncio feito pela Nintendo em suas redes sociais. A empresa japonesa revelou que o jogo estará disponível para o console Nintendo Switch a partir de 2025.

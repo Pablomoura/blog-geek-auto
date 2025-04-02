@@ -1,11 +1,22 @@
 ---
-title: "Revelado o Primeiro Pôster de 'Wicked: For Good', com Estreia Marcada para Dezembro"
-slug: "wicked-for-good-continuao-tem-primeiro-pster-revelado"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/YQFfbgklr8IBYKuNWdBSIgxSjf0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T130053.489.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Kt_JnmO6O0IFMu0qlGh5Rt7JQEA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T130042.319.png"
-data: "2025-03-28T16:18:55.997Z"
+title: >-
+  Revelado o Primeiro Pôster de 'Wicked: For Good', com Estreia Marcada para
+  Dezembro
+slug: wicked-for-good-continuao-tem-primeiro-pster-revelado
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/YQFfbgklr8IBYKuNWdBSIgxSjf0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-28T130053.489.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Kt_JnmO6O0IFMu0qlGh5Rt7JQEA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-28T130042.319.png
+data: '2025-03-28T16:18:55.997Z'
+tags:
+  - 'wicked: for good'
+  - pôster
+  - lançamento de filme
+  - terra de oz
+  - cinepop
+  - dezembro
 ---
 
 O universo de 'Wicked' se expande com a revelação do primeiro pôster de 'Wicked: For Good', a aguardada continuação do filme que conquistou o público mundial. O pôster foi divulgado pela CinePop, antecipando o lançamento do filme em dezembro deste ano.

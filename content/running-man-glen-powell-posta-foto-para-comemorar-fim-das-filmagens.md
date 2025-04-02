@@ -1,11 +1,22 @@
 ---
-title: "Conclusão das Filmagens de 'The Running Man' Celebrada por Glen Powell com Foto ao Lado de Edgar Wright"
-slug: "running-man-glen-powell-posta-foto-para-comemorar-fim-das-filmagens"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/lPPv-VxutHeTtjQMF7m5Ako7mCs=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T183119.177.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Eq6jLQLD90kOuNXIHcHMIUcPpc4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T183119.177.png"
-data: "2025-03-28T22:09:01.531Z"
+title: >-
+  Conclusão das Filmagens de 'The Running Man' Celebrada por Glen Powell com
+  Foto ao Lado de Edgar Wright
+slug: running-man-glen-powell-posta-foto-para-comemorar-fim-das-filmagens
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/lPPv-VxutHeTtjQMF7m5Ako7mCs=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T183119.177.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Eq6jLQLD90kOuNXIHcHMIUcPpc4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T183119.177.png
+data: '2025-03-28T22:09:01.531Z'
+tags:
+  - glen powell
+  - edgar wright
+  - the running man
+  - fim das filmagens
+  - cinema
+  - instagram
 ---
 
 Glen Powell, ator conhecido por seus papéis em Hollywood, usou seu Instagram na última sexta-feira (28) para anunciar o fim das gravações de 'The Running Man'. A foto postada por Powell mostra-o ao lado do diretor Edgar Wright, ambos aparentemente contentes com a conclusão do projeto.

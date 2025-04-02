@@ -1,12 +1,23 @@
 ---
-title: "CinemaCon Revela Trailer de 'The Long Walk', Adaptação de Stephen King"
-slug: "the-long-walk-adaptao-de-stephen-king-ganha-trailer-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/TUwLPMHlUb34Imsc4eLmeD-ujLw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T145118.334.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/AUOowRuIC17Bp1MjZJI0PAABRl0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T145055.482.png"
-keywords: "The Long Walk, Stephen King, CinemaCon, Mark Hamill, Judy Greer, Francis Lawrence"
-data: "2025-04-01T18:12:49.966Z"
+title: 'CinemaCon Revela Trailer de ''The Long Walk'', Adaptação de Stephen King'
+slug: the-long-walk-adaptao-de-stephen-king-ganha-trailer-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/TUwLPMHlUb34Imsc4eLmeD-ujLw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T145118.334.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/AUOowRuIC17Bp1MjZJI0PAABRl0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T145055.482.png
+keywords: >-
+  The Long Walk, Stephen King, CinemaCon, Mark Hamill, Judy Greer, Francis
+  Lawrence
+data: '2025-04-01T18:12:49.966Z'
+tags:
+  - cinemacon
+  - stephen king
+  - the long walk
+  - trailer
+  - francis lawrence
+  - adaptação literária
 ---
 
 O aguardado filme 'The Long Walk', baseado no livro de Stephen King e dirigido por Francis Lawrence (conhecido por 'Constantine' e 'Jogos Vorazes'), teve seu primeiro trailer exibido na CinemaCon nesta terça-feira. O trailer apresenta um grupo de jovens, incluindo Ben Wang e Cooper Hoffman, em uma marcha forçada onde a parada significa a morte. A trama intensifica-se rapidamente, com a voz de Mark Hamill narrando sua função como líder da organização que administra a competição mortal.

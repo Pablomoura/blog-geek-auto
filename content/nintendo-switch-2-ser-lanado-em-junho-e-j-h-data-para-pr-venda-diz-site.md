@@ -1,11 +1,21 @@
 ---
-title: "Nintendo Switch 2: Lançamento em Junho com Pré-Venda em Abril, Segundo Relatórios"
-slug: "nintendo-switch-2-ser-lanado-em-junho-e-j-h-data-para-pr-venda-diz-site"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/0kl8ZjucdxZDhGXzDQo7R5bcKuc=/480x360/smart/extras/conteudos/switch-2-capa-2.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0kl8ZjucdxZDhGXzDQo7R5bcKuc=/480x360/smart/extras/conteudos/switch-2-capa-2.png"
-data: "2025-03-28T19:04:33.012Z"
+title: >-
+  Nintendo Switch 2: Lançamento em Junho com Pré-Venda em Abril, Segundo
+  Relatórios
+slug: nintendo-switch-2-ser-lanado-em-junho-e-j-h-data-para-pr-venda-diz-site
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/0kl8ZjucdxZDhGXzDQo7R5bcKuc=/480x360/smart/extras/conteudos/switch-2-capa-2.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0kl8ZjucdxZDhGXzDQo7R5bcKuc=/480x360/smart/extras/conteudos/switch-2-capa-2.png
+data: '2025-03-28T19:04:33.012Z'
+tags:
+  - nintendo switch 2
+  - lançamento de console
+  - pré-venda
+  - jogos eletrônicos
+  - estoque esgotado
 ---
 
 A chegada do Nintendo Switch 2 está gerando grandes expectativas, com previsões de que os estoques possam esgotar já na pré-venda. Segundo informações obtidas pelo Insider Gaming, comunicados internos de varejistas norte-americanos sugerem que as unidades disponíveis podem acabar no primeiro dia de vendas, apesar da Nintendo garantir uma ampla distribuição do produto.

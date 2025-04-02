@@ -1,11 +1,19 @@
 ---
-title: "Instabilidade Recorrente: X (ex-Twitter) Fora do Ar Novamente em Março"
-slug: "twitterx-est-fora-do-ar-pela-segunda-vez-em-maro"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/rXGs9WAn5DfzE0Ip1duTtEcxg7k=/987x0/smart/uploads/conteudo/fotos/x-twitter-fora-do-ar.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/44yB-jzXARXAc_VZujVnk2p98uY=/480x360/smart/extras/conteudos/x-twitter-fora-do-ar.png"
-data: "2025-03-28T20:11:40.819Z"
+title: 'Instabilidade Recorrente: X (ex-Twitter) Fora do Ar Novamente em Março'
+slug: twitterx-est-fora-do-ar-pela-segunda-vez-em-maro
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/rXGs9WAn5DfzE0Ip1duTtEcxg7k=/987x0/smart/uploads/conteudo/fotos/x-twitter-fora-do-ar.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/44yB-jzXARXAc_VZujVnk2p98uY=/480x360/smart/extras/conteudos/x-twitter-fora-do-ar.png
+data: '2025-03-28T20:11:40.819Z'
+tags:
+  - x fora do ar
+  - instabilidade na plataforma
+  - problemas no x
+  - usuários afetados
+  - redes sociais
 ---
 
 A plataforma X, anteriormente conhecida como Twitter, enfrenta instabilidades significativas desde a tarde de quinta-feira (27), afetando milhares de usuários ao redor do globo. Relatos indicam que os usuários não conseguem carregar, visualizar ou interagir com as postagens. Este incidente marca a segunda grande falha do serviço neste mês.

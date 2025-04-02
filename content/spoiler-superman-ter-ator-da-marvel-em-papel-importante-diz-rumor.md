@@ -1,11 +1,22 @@
 ---
-title: "Revelação no Elenco de Superman: Bradley Cooper Pode Interpretar Jor-El no Novo Filme da DC"
-slug: "spoiler-superman-ter-ator-da-marvel-em-papel-importante-diz-rumor"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/b7vf758wPhHJRXUdk2kayh63K5k=/987x0/smart/uploads/conteudo/fotos/superman-capa-poster_NtMadFk.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/-g5-ee9SOzL0d9mK-TSnMi904Kw=/480x360/smart/extras/conteudos/superman-capa-poster_Mj1GXSQ.jpg"
-data: "2025-03-28T22:09:33.473Z"
+title: >-
+  Revelação no Elenco de Superman: Bradley Cooper Pode Interpretar Jor-El no
+  Novo Filme da DC
+slug: spoiler-superman-ter-ator-da-marvel-em-papel-importante-diz-rumor
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/b7vf758wPhHJRXUdk2kayh63K5k=/987x0/smart/uploads/conteudo/fotos/superman-capa-poster_NtMadFk.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/-g5-ee9SOzL0d9mK-TSnMi904Kw=/480x360/smart/extras/conteudos/superman-capa-poster_Mj1GXSQ.jpg
+data: '2025-03-28T22:09:33.473Z'
+tags:
+  - superman
+  - bradley cooper
+  - jor-el
+  - elenco
+  - dc comics
+  - cinema
 ---
 
 A nova produção cinematográfica do Superman está prevista para estrear em julho nos cinemas. Rumores recentes indicam que um importante anúncio de elenco está por vir, relacionado ao personagem Jor-El, pai de Kal-El, conhecido na Terra como Clark Kent.

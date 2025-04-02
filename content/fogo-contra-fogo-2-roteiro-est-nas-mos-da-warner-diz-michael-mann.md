@@ -1,12 +1,23 @@
 ---
-title: "Fogo Contra Fogo 2: Roteiro Entregue à Warner Bros, Revela Michael Mann"
-slug: "fogo-contra-fogo-2-roteiro-est-nas-mos-da-warner-diz-michael-mann"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/ZysWJJt3z2x5wPXqjHGxuB4uYF8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-31T210747.844.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/kagjIdkZjBc7nqid3sroKhePuhI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-31T210747.844.png"
-keywords: "Fogo Contra Fogo 2, Michael Mann, Warner Bros, sequência de filmes, cinema de ação"
-data: "2025-04-01T00:54:15.981Z"
+title: 'Fogo Contra Fogo 2: Roteiro Entregue à Warner Bros, Revela Michael Mann'
+slug: fogo-contra-fogo-2-roteiro-est-nas-mos-da-warner-diz-michael-mann
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/ZysWJJt3z2x5wPXqjHGxuB4uYF8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-31T210747.844.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/kagjIdkZjBc7nqid3sroKhePuhI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-31T210747.844.png
+keywords: >-
+  Fogo Contra Fogo 2, Michael Mann, Warner Bros, sequência de filmes, cinema de
+  ação
+data: '2025-04-01T00:54:15.981Z'
+tags:
+  - michael mann
+  - fogo contra fogo 2
+  - warner bros
+  - roteiro de filme
+  - sequência de filme
+  - produção cinematográfica
 ---
 
 Michael Mann, em entrevista ao Vulture, anunciou que o roteiro da aguardada sequência 'Fogo Contra Fogo 2' foi entregue aos executivos da Warner Bros. 'Acabei o roteiro e já passei o primeiro esboço para eles', disse Mann, aumentando as expectativas para o início da produção do filme.

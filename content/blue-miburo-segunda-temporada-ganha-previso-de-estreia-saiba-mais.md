@@ -1,11 +1,22 @@
 ---
-title: "Blue Miburo: Segunda Temporada Anunciada com Adaptação do Arco do Assassinato de Serizawa"
-slug: "blue-miburo-segunda-temporada-ganha-previso-de-estreia-saiba-mais"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/F4chH6FYC5DDGl_7oIa0vk2WE90=/987x0/smart/uploads/conteudo/fotos/bluemiburo.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pAhbqPIi9Fsc1_KAnvPTcoboemw=/480x360/smart/extras/conteudos/bluemiburo.jpg"
-data: "2025-03-30T17:08:20.141Z"
+title: >-
+  Blue Miburo: Segunda Temporada Anunciada com Adaptação do Arco do Assassinato
+  de Serizawa
+slug: blue-miburo-segunda-temporada-ganha-previso-de-estreia-saiba-mais
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/F4chH6FYC5DDGl_7oIa0vk2WE90=/987x0/smart/uploads/conteudo/fotos/bluemiburo.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pAhbqPIi9Fsc1_KAnvPTcoboemw=/480x360/smart/extras/conteudos/bluemiburo.jpg
+data: '2025-03-30T17:08:20.141Z'
+tags:
+  - blue miburo
+  - segunda temporada
+  - anime
+  - japão
+  - arco do assassinato de serizawa
+  - teaser
 ---
 
 A equipe de produção de Blue Miburo revelou, no último sábado (29), que a aguardada segunda temporada do anime estreará no Japão no fim de 2023. O anúncio foi acompanhado por um teaser que destacou a chegada dos novos episódios no 'próximo inverno', período correspondente ao segundo semestre no Japão.

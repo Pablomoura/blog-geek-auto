@@ -1,11 +1,20 @@
 ---
-title: "Crossover entre 'Chicago PD', 'Chicago Fire' e 'Chicago Med' estreia em abril"
-slug: "crossover-entre-chicago-pd-chicago-fire-e-chicago-med-chega-em-breve"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/bHwxSjDReXAwvqH6J7jOwpiT1oU=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T205120.849.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/2Koz1zG9-65e1fIsAat323K4Yn4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T205120.849.png"
-data: "2025-03-27T01:56:13.452Z"
+title: 'Crossover entre ''Chicago PD'', ''Chicago Fire'' e ''Chicago Med'' estreia em abril'
+slug: crossover-entre-chicago-pd-chicago-fire-e-chicago-med-chega-em-breve
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/bHwxSjDReXAwvqH6J7jOwpiT1oU=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T205120.849.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/2Koz1zG9-65e1fIsAat323K4Yn4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T205120.849.png
+data: '2025-03-27T01:56:13.452Z'
+tags:
+  - chicago pd
+  - chicago fire
+  - chicago med
+  - crossover
+  - universal+
+  - séries de tv
 ---
 
 O serviço de streaming Universal+ anunciou que o aguardado crossover entre 'Chicago PD', 'Chicago Fire' e 'Chicago Med' será lançado no dia 1º de abril. Este evento especial reunirá os protagonistas das três populares séries, marcando a primeira colaboração do tipo desde 2019.

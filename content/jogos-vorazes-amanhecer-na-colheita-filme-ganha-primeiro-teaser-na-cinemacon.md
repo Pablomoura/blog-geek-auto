@@ -1,12 +1,22 @@
 ---
-title: "Jogos Vorazes: Amanhecer na Colheita | Primeiro Teaser Revelado na CinemaCon"
-slug: "jogos-vorazes-amanhecer-na-colheita-filme-ganha-primeiro-teaser-na-cinemacon"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/a0Ptnzz4jAw?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/E-3_VqSml9TCcEUgWuEQ9k_B564=/480x360/smart/extras/conteudos/01_eTLf232.jpg"
-keywords: "Jogos Vorazes, CinemaCon 2025, Amanhecer na Colheita, Haymitch Abernathy, Francis Lawrence, teaser trailer"
-data: "2025-04-01T18:14:48.793Z"
+title: 'Jogos Vorazes: Amanhecer na Colheita | Primeiro Teaser Revelado na CinemaCon'
+slug: jogos-vorazes-amanhecer-na-colheita-filme-ganha-primeiro-teaser-na-cinemacon
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/a0Ptnzz4jAw?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/E-3_VqSml9TCcEUgWuEQ9k_B564=/480x360/smart/extras/conteudos/01_eTLf232.jpg
+keywords: >-
+  Jogos Vorazes, CinemaCon 2025, Amanhecer na Colheita, Haymitch Abernathy,
+  Francis Lawrence, teaser trailer
+data: '2025-04-01T18:14:48.793Z'
+tags:
+  - jogos vorazes
+  - cinemacon
+  - teaser
+  - animação cg
+  - franquia
+  - símbolos icônicos
 ---
 
 A franquia 'Jogos Vorazes' expande seu universo com o lançamento do primeiro teaser de 'Jogos Vorazes: Amanhecer na Colheita' na CinemaCon 2025. O teaser, criado inteiramente em animação CG, destaca o tordo e a serpente, símbolos icônicos do mais recente livro da série, que foca nos anos de juventude de Haymitch Abernathy.

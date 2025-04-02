@@ -1,12 +1,25 @@
 ---
-title: "Warner Bros. Inicia Processo de Seleção para Novos Líderes de Sua Divisão de Cinema"
-slug: "warner-bros-iniciou-busca-novos-chefes-para-diviso-de-cinema-diz-site"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/YGnRz_ScSoNh5Js3DdEyqKBNrcc=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T140312.543.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/haxe4f13JnmrKAwWhs_lBoPuNx0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T140255.187.png"
-keywords: "Warner Bros., mudança de liderança, cinema, Superman, DCU, David Zaslav, Peter Safran"
-data: "2025-03-31T17:09:25.147Z"
+title: >-
+  Warner Bros. Inicia Processo de Seleção para Novos Líderes de Sua Divisão de
+  Cinema
+slug: warner-bros-iniciou-busca-novos-chefes-para-diviso-de-cinema-diz-site
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/YGnRz_ScSoNh5Js3DdEyqKBNrcc=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T140312.543.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/haxe4f13JnmrKAwWhs_lBoPuNx0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T140255.187.png
+keywords: >-
+  Warner Bros., mudança de liderança, cinema, Superman, DCU, David Zaslav, Peter
+  Safran
+data: '2025-03-31T17:09:25.147Z'
+tags:
+  - warner bros.
+  - liderança
+  - cinema
+  - mike de luca
+  - pam abdy
+  - david zaslav
 ---
 
 A Warner Bros. já deu início ao processo de escolha dos novos líderes para sua divisão de cinema, com Mike De Luca e Pam Abdy programados para deixar seus cargos em 2025. De acordo com o The Hollywood Reporter, David Zaslav, CEO da Warner Bros. Discovery, já agendou reuniões com potenciais candidatos. Fontes da Bloomberg indicam que essas discussões ainda estão nos estágios iniciais e que a saída de De Luca e Abdy ainda não foi oficialmente decidida. Robert Gibbs, porta-voz da Warner Bros. Discovery, comunicou à Bloomberg que os rumores sobre as mudanças na liderança não são completamente precisos.

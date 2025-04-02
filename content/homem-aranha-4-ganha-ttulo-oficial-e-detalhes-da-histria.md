@@ -1,12 +1,22 @@
 ---
-title: "Homem-Aranha 4: 'Um Novo Dia' é o título oficial do próximo filme com Tom Holland"
-slug: "homem-aranha-4-ganha-ttulo-oficial-e-detalhes-da-histria"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/d3ZKbs_cGow?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Vrc2-k31kA2ArsUtyIXbyq5mV68=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-18T123551.642.png"
-keywords: "Homem-Aranha 4, Tom Holland, CinemaCon, Sadie Sink, Jean Grey, Mundo Bélico"
-data: "2025-04-01T15:07:42.754Z"
+title: >-
+  Homem-Aranha 4: 'Um Novo Dia' é o título oficial do próximo filme com Tom
+  Holland
+slug: homem-aranha-4-ganha-ttulo-oficial-e-detalhes-da-histria
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/d3ZKbs_cGow?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Vrc2-k31kA2ArsUtyIXbyq5mV68=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-18T123551.642.png
+keywords: 'Homem-Aranha 4, Tom Holland, CinemaCon, Sadie Sink, Jean Grey, Mundo Bélico'
+data: '2025-04-01T15:07:42.754Z'
+tags:
+  - homem-aranha 4
+  - tom holland
+  - cinemacon
+  - destin daniel cretton
+  - brand new day
+  - filmes de super-heróis
 ---
 
 Revelações empolgantes sobre o quarto filme do Homem-Aranha, estrelado por Tom Holland, foram feitas durante a CinemaCon. O filme, intitulado 'Brand New Day' ('Um Novo Dia' em português), promete novas aventuras para o herói aracnídeo. O diretor Destin Daniel Cretton expressou sua longa admiração pelo personagem, destacando a força e vulnerabilidades que definem o herói mascarado.

@@ -1,11 +1,20 @@
 ---
-title: "Vingadores: Doomsday Alcança 275 Milhões de Visualizações e Estabelece Novo Recorde na Marvel"
-slug: "vingadores-doomsday-bate-recorde-com-275-milhes-de-visualizaes-em-anncio"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/PoU--n2a1I0?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/nAioCLnG4fOlaPXk2roDkUTkbFo=/480x360/smart/extras/conteudos/1180w_664h_032625_Avengers-Doomsday-Cast_00.jpg"
-data: "2025-03-28T02:20:12.226Z"
+title: >-
+  Vingadores: Doomsday Alcança 275 Milhões de Visualizações e Estabelece Novo
+  Recorde na Marvel
+slug: vingadores-doomsday-bate-recorde-com-275-milhes-de-visualizaes-em-anncio
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/PoU--n2a1I0?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/nAioCLnG4fOlaPXk2roDkUTkbFo=/480x360/smart/extras/conteudos/1180w_664h_032625_Avengers-Doomsday-Cast_00.jpg
+data: '2025-03-28T02:20:12.226Z'
+tags:
+  - 'vingadores: doomsday'
+  - marvel
+  - recorde de visualizações
+  - transmissão ao vivo
+  - novo marco
 ---
 
 O lançamento do elenco de Vingadores: Doomsday estabeleceu um novo marco para a Marvel. O anúncio, divulgado pelo próprio estúdio, alcançou impressionantes 275 milhões de visualizações, tornando-se a maior transmissão ao vivo já realizada pela empresa. Essa marca supera em mais de cinco vezes as visualizações do trailer de Deadpool e Wolverine durante o Super Bowl do ano passado, que era o recordista anterior segundo informações do Deadline.

@@ -1,12 +1,22 @@
 ---
-title: "Duna 3 | Jason Momoa Confirma Retorno como Duncan Idaho"
-slug: "duna-3-momoa-brinca-com-seu-retorno-se-voc-no-leu-no-minha-culpa"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/bXtYrsioDCo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/MVvCaWD3YihDJCexQUB8WpP5Axk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_142006.png"
-keywords: "Jason Momoa, Duna Messias, Duncan Idaho, retorno de personagem, franquia Duna, especiaria Melange, Universo DC, Denis Villeneuve"
-data: "2025-03-31T18:13:52.590Z"
+title: Duna 3 | Jason Momoa Confirma Retorno como Duncan Idaho
+slug: duna-3-momoa-brinca-com-seu-retorno-se-voc-no-leu-no-minha-culpa
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/bXtYrsioDCo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/MVvCaWD3YihDJCexQUB8WpP5Axk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_142006.png
+keywords: >-
+  Jason Momoa, Duna Messias, Duncan Idaho, retorno de personagem, franquia Duna,
+  especiaria Melange, Universo DC, Denis Villeneuve
+data: '2025-03-31T18:13:52.590Z'
+tags:
+  - 'duna: messias'
+  - jason momoa
+  - duncan idaho
+  - entrevista
+  - retorno
+  - saga
 ---
 
 Jason Momoa confirmou sua participação em 'Duna: Messias' no papel de Duncan Idaho. Em entrevista ao programa TODAY, nos Estados Unidos, Momoa discutiu seu retorno à saga e brincou com o apresentador Craig Melvin sobre a antecipação da notícia.

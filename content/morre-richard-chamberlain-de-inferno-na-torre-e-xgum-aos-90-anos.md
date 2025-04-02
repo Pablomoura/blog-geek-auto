@@ -1,11 +1,20 @@
 ---
-title: "Falece Richard Chamberlain aos 90 anos, ícone de 'Inferno na Torre' e 'Xógum'"
-slug: "morre-richard-chamberlain-de-inferno-na-torre-e-xgum-aos-90-anos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/utgWWwK4O942xFrYW2hwDTPxB-o=/987x0/smart/uploads/conteudo/fotos/aultimaonda.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/n_i8uJonLi-R4egNXK7dr2l2imw=/480x360/smart/extras/conteudos/aultimaonda.jpg"
-data: "2025-03-30T16:10:02.631Z"
+title: 'Falece Richard Chamberlain aos 90 anos, ícone de ''Inferno na Torre'' e ''Xógum'''
+slug: morre-richard-chamberlain-de-inferno-na-torre-e-xgum-aos-90-anos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/utgWWwK4O942xFrYW2hwDTPxB-o=/987x0/smart/uploads/conteudo/fotos/aultimaonda.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/n_i8uJonLi-R4egNXK7dr2l2imw=/480x360/smart/extras/conteudos/aultimaonda.jpg
+data: '2025-03-30T16:10:02.631Z'
+tags:
+  - richard chamberlain
+  - óbito
+  - inferno na torre
+  - xógum
+  - ator americano
+  - derrame
 ---
 
 Richard Chamberlain, célebre ator americano, faleceu no último sábado, 29 de abril, aos 90 anos. Segundo Harlan Boll, seu agente, a causa da morte foi um derrame, conforme reportou a revista Variety.

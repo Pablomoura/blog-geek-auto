@@ -10,6 +10,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/MaSxJMjWt0XJ06SDKDoNDsW0x8c=/480x360/smart/extras/conteudos/strangerthings_bs81YX0.jpg
 data: '2025-03-26T11:27:49.642Z'
+tags:
+  - stranger things
+  - david harbour
+  - última temporada
+  - bastidores
+  - netflix
+  - série tv
 ---
 
 A aguardada conclusão de Stranger Things está a caminho, com estreia programada para 2025 na Netflix, embora a data exata ainda não tenha sido anunciada. Enquanto aguardam, os fãs estão atentos às novidades compartilhadas pelos atores, especialmente David Harbour, que recentemente falou sobre a intensidade das filmagens da quinta e última temporada.

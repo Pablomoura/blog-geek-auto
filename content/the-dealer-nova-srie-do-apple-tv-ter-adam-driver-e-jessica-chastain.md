@@ -8,6 +8,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/4BDfWSpvDf_OHKZmEbZ4JwYB34U=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T131150.928.png
 data: '2025-03-25T18:11:45.436Z'
+tags:
+  - apple tv+
+  - the dealer
+  - adam driver
+  - jessica chastain
+  - série dramática
+  - hollywood
 ---
 
 A Apple TV+ amplia seu portfólio de produções originais com a adição de 'The Dealer', uma série dramática que terá como protagonistas os renomados atores de Hollywood, Adam Driver e Jessica Chastain. A notícia foi confirmada pela revista Variety.

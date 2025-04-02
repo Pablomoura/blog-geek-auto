@@ -1,12 +1,21 @@
 ---
-title: "Dexter: Pecado Original é Renovada para Segunda Temporada"
-slug: "dexter-pecado-original-oficialmente-renovada-para-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/6kGB_ALIxWH37nIeDJPCKBP_79Y=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T115416.263.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/mLr3rNwPWlb56JX0WnsFQZWz3Pw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T115357.160.png"
-keywords: "Dexter, Pecado Original, Paramount+, Showtime, série de TV"
-data: "2025-04-01T15:07:05.241Z"
+title: 'Dexter: Pecado Original é Renovada para Segunda Temporada'
+slug: dexter-pecado-original-oficialmente-renovada-para-2-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/6kGB_ALIxWH37nIeDJPCKBP_79Y=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T115416.263.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/mLr3rNwPWlb56JX0WnsFQZWz3Pw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T115357.160.png
+keywords: 'Dexter, Pecado Original, Paramount+, Showtime, série de TV'
+data: '2025-04-01T15:07:05.241Z'
+tags:
+  - 'dexter: pecado original'
+  - segunda temporada
+  - série prelúdio
+  - paramount+
+  - showtime
+  - renovação de série
 ---
 
 A série prelúdio Dexter: Pecado Original acaba de ser oficialmente renovada para sua segunda temporada, conforme anunciado pelo Deadline. Paramount+ e Showtime já confirmaram a continuação da produção.

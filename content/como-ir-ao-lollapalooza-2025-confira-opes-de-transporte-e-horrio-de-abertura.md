@@ -1,11 +1,19 @@
 ---
-title: "Como chegar ao Lollapalooza 2025? Veja opções de transporte e horários"
-slug: "como-ir-ao-lollapalooza-2025-confira-opes-de-transporte-e-horrio-de-abertura"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/Kwq1LscLp4P9Mye_M29RaTgc7hw=/987x0/smart/uploads/conteudo/fotos/lolla_dc0oian.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/L1BtAdg_XOsovwFQeNvyarkxUwE=/480x360/smart/extras/conteudos/lolla_sYMCbeX.png"
-data: "2025-03-28T09:10:08.279Z"
+title: Como chegar ao Lollapalooza 2025? Veja opções de transporte e horários
+slug: como-ir-ao-lollapalooza-2025-confira-opes-de-transporte-e-horrio-de-abertura
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/Kwq1LscLp4P9Mye_M29RaTgc7hw=/987x0/smart/uploads/conteudo/fotos/lolla_dc0oian.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/L1BtAdg_XOsovwFQeNvyarkxUwE=/480x360/smart/extras/conteudos/lolla_sYMCbeX.png
+data: '2025-03-28T09:10:08.279Z'
+tags:
+  - lollapalooza 2025
+  - transporte lollapalooza
+  - estação autódromo
+  - linha 9-esmeralda
+  - planejamento de viagem
 ---
 
 O Lollapalooza 2025 está próximo e muitos já estão com ingressos em mãos, mas ainda há dúvidas sobre como chegar ao Autódromo de Interlagos, em São Paulo, local do evento. Acompanhe nossas dicas e planeje sua ida.

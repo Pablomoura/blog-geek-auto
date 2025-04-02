@@ -10,6 +10,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/quM1pjLgdb_ucaedRGE9oR0RUMY=/480x360/smart/extras/conteudos/absolute.png
 data: '2025-03-26T14:14:29.488Z'
+tags:
+  - ccxp25
+  - nick dragotta
+  - frank martin
+  - quadrinhos
+  - artists' valley
+  - image comics
 ---
 
 Os renomados quadrinistas Nick Dragotta e Frank Martin estão confirmados para a CCXP25, que acontecerá entre os dias 4 e 7 de dezembro. Ambos são conhecidos por trabalhos de destaque como 'East of West' pela Image Comics e 'Absolute Batman' pela DC Comics. Eles estarão disponíveis durante os quatro dias do evento no Artists’ Valley, espaço dedicado a mais de 400 artistas nacionais e internacionais.

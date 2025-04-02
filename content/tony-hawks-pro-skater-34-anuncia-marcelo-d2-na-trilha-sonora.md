@@ -1,11 +1,19 @@
 ---
-title: "Marcelo D2 integra trilha sonora de Tony Hawk's Pro Skater 3+4"
-slug: "tony-hawks-pro-skater-34-anuncia-marcelo-d2-na-trilha-sonora"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/sh3M8nZsOdE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/siNO1Lm9IOakyu8yFkwbZmAZu_I=/480x360/smart/extras/conteudos/01_hdrDw16.jpg"
-data: "2025-03-27T17:10:02.056Z"
+title: Marcelo D2 integra trilha sonora de Tony Hawk's Pro Skater 3+4
+slug: tony-hawks-pro-skater-34-anuncia-marcelo-d2-na-trilha-sonora
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/sh3M8nZsOdE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/siNO1Lm9IOakyu8yFkwbZmAZu_I=/480x360/smart/extras/conteudos/01_hdrDw16.jpg
+data: '2025-03-27T17:10:02.056Z'
+tags:
+  - marcelo d2
+  - tony hawk's pro skater
+  - trilha sonora
+  - música brasileira
+  - skate
+  - activision
 ---
 
 A Activision revelou novidades para a trilha sonora de Tony Hawk's Pro Skater 3+4, destacando a inclusão da música 'Vai Vendo' de Marcelo D2. Esta faixa faz parte do álbum 'A Procura da Batida Perfeita', lançado em 2003. Além de Marcelo D2, a lista de artistas recentemente confirmados inclui Memo PST, X-Ray Spex, Iron Maiden, Cold Cave e Travis Barker com JFA.

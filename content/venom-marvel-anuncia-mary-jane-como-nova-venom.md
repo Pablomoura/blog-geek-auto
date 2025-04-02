@@ -1,12 +1,20 @@
 ---
-title: "Venom | Marvel Revela Mary Jane Watson como a Nova Hospedeira"
-slug: "venom-marvel-anuncia-mary-jane-como-nova-venom"
-categoria: "HQ/LIVROS"
-midia: "https://cdn.ome.lt/P5mJpIEka-iTv2iF75aW996He5c=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-31T191009.837.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/64Or871M3gqhAMGmMPvvk5tHlug=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-31T191009.837.png"
-keywords: "Marvel, Venom, Mary Jane Watson, quadrinhos, Al Ewing, Carlos Gómez"
-data: "2025-03-31T23:09:42.774Z"
+title: Venom | Marvel Revela Mary Jane Watson como a Nova Hospedeira
+slug: venom-marvel-anuncia-mary-jane-como-nova-venom
+categoria: HQ/LIVROS
+midia: >-
+  https://cdn.ome.lt/P5mJpIEka-iTv2iF75aW996He5c=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-31T191009.837.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/64Or871M3gqhAMGmMPvvk5tHlug=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-31T191009.837.png
+keywords: 'Marvel, Venom, Mary Jane Watson, quadrinhos, Al Ewing, Carlos Gómez'
+data: '2025-03-31T23:09:42.774Z'
+tags:
+  - marvel
+  - venom
+  - mary jane watson
+  - simbionte
+  - quadrinhos
 ---
 
 A Marvel surpreendeu os fãs ao anunciar nesta segunda-feira (31) que Mary Jane Watson é a nova hospedeira do simbionte Venom. A revelação ocorreu na quinta edição de 'All New Venom', contrariando as expectativas que apontavam outros personagens como possíveis sucessores.

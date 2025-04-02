@@ -1,11 +1,22 @@
 ---
-title: "Thunderbolts | Novo Teaser Apresenta Sentinela e Prepara Terreno para Vingadores: Doomsday"
-slug: "thunderbolts-novo-teaser-mostra-sentinela-e-fala-de-vingadores-doomsday"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/r3EHkz3Q0E6vWHBYch0r9HsXWkY=/987x0/smart/uploads/conteudo/fotos/02_pA42dXp.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/huG6Ow-pFP9Gv2qPPGZwimgR_gw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-27_142135.png"
-data: "2025-03-27T18:13:49.141Z"
+title: >-
+  Thunderbolts | Novo Teaser Apresenta Sentinela e Prepara Terreno para
+  Vingadores: Doomsday
+slug: thunderbolts-novo-teaser-mostra-sentinela-e-fala-de-vingadores-doomsday
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/r3EHkz3Q0E6vWHBYch0r9HsXWkY=/987x0/smart/uploads/conteudo/fotos/02_pA42dXp.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/huG6Ow-pFP9Gv2qPPGZwimgR_gw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-27_142135.png
+data: '2025-03-27T18:13:49.141Z'
+tags:
+  - thunderbolts
+  - sentinela
+  - marvel
+  - 'vingadores: doomsday'
+  - lewis pullman
+  - trailer
 ---
 
 O mais recente trailer de Thunderbolts, divulgado pela Marvel, coloca em destaque a figura de Sentinela, interpretado por Lewis Pullman. O vídeo ressalta que Sentinela possui mais poder do que todos os Vingadores combinados, prometendo que ele se tornará o herói mais poderoso do planeta e destacando a importância da nova equipe.

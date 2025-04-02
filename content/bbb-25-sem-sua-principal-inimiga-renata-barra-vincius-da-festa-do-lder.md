@@ -1,11 +1,20 @@
 ---
-title: "BBB 25 | Renata Veta Vinícius na Festa do Líder em Novo Quadro do Reality"
-slug: "bbb-25-sem-sua-principal-inimiga-renata-barra-vincius-da-festa-do-lder"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/AsvLNVtqJM3pbGdmUbhZrXO6jAw=/987x0/smart/uploads/conteudo/fotos/bbb25-vinicius-barrado-festa.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/74C8smNGttAUGrE75xenS1mmUOw=/480x360/smart/extras/conteudos/bbb25-vinicius-barrado-festa-peq.jpg"
-data: "2025-03-27T02:18:31.087Z"
+title: BBB 25 | Renata Veta Vinícius na Festa do Líder em Novo Quadro do Reality
+slug: bbb-25-sem-sua-principal-inimiga-renata-barra-vincius-da-festa-do-lder
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/AsvLNVtqJM3pbGdmUbhZrXO6jAw=/987x0/smart/uploads/conteudo/fotos/bbb25-vinicius-barrado-festa.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/74C8smNGttAUGrE75xenS1mmUOw=/480x360/smart/extras/conteudos/bbb25-vinicius-barrado-festa-peq.jpg
+data: '2025-03-27T02:18:31.087Z'
+tags:
+  - bbb 25
+  - renata
+  - vinícius
+  - festa do líder
+  - barrado no baile
+  - reality show
 ---
 
 O 'Big Brother Brasil 25' introduziu uma nova dinâmica chamada 'Barrado no Baile', onde o líder da semana tem o poder de vetar um participante de sua festa de liderança. Nesta semana, a líder Renata escolheu excluir Vinícius da celebração, que ocorre todas as quartas-feiras.

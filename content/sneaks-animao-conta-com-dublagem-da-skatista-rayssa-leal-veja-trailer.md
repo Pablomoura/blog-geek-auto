@@ -1,11 +1,21 @@
 ---
-title: "Sneaks | Animação com Dublagem de Rayssa Leal Estreia em Abril; Assista ao Trailer"
-slug: "sneaks-animao-conta-com-dublagem-da-skatista-rayssa-leal-veja-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/wimt6hdSo8c?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/WbgFOnHz4o4YP2bsy7-wDuAeODM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-26_131200.png"
-data: "2025-03-26T17:38:04.948Z"
+title: >-
+  Sneaks | Animação com Dublagem de Rayssa Leal Estreia em Abril; Assista ao
+  Trailer
+slug: sneaks-animao-conta-com-dublagem-da-skatista-rayssa-leal-veja-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/wimt6hdSo8c?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/WbgFOnHz4o4YP2bsy7-wDuAeODM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-26_131200.png
+data: '2025-03-26T17:38:04.948Z'
+tags:
+  - animação
+  - rayssa leal
+  - dublagem
+  - cinema
+  - trailer
+  - filme de skate
 ---
 
 O aguardado filme de animação 'Sneaks: De Pisante Novo' chegará às telas dos cinemas no dia 17 de abril, trazendo a famosa skatista Rayssa Leal como uma das dubladoras. O filme já lançou seu primeiro trailer e um pôster oficial, que já estão disponíveis para o público.

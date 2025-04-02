@@ -1,12 +1,23 @@
 ---
-title: "Zelda: Breath of the Wild e Tears of the Kingdom serão lançados em PT-BR"
-slug: "zelda-breath-of-the-wild-e-tears-of-the-kingdom-sero-lanados-em-pt-br"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/7LvtWNZrVx4y-9pEGpu5drS6yYE=/987x0/smart/uploads/conteudo/fotos/02_odBnXoj.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/aRW8C7lQlSVnRMluc2qYDJChQBg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-02_112424.png"
-keywords: "Nintendo, Zelda, Breath of the Wild, Tears of the Kingdom, Switch 2, tradução, português, lançamento"
-data: "2025-04-02T14:58:59.764Z"
+title: 'Zelda: Breath of the Wild e Tears of the Kingdom serão lançados em PT-BR'
+slug: zelda-breath-of-the-wild-e-tears-of-the-kingdom-sero-lanados-em-pt-br
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/7LvtWNZrVx4y-9pEGpu5drS6yYE=/987x0/smart/uploads/conteudo/fotos/02_odBnXoj.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/aRW8C7lQlSVnRMluc2qYDJChQBg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-02_112424.png
+keywords: >-
+  Nintendo, Zelda, Breath of the Wild, Tears of the Kingdom, Switch 2, tradução,
+  português, lançamento
+data: '2025-04-02T14:58:59.764Z'
+tags:
+  - nintendo
+  - zelda
+  - pt-br
+  - tradução
+  - lançamento
+  - jogos
 ---
 
 A Nintendo anunciou que os aclamados títulos The Legend of Zelda: Breath of the Wild e The Legend of Zelda: Tears of the Kingdom receberão atualizações gratuitas para incluir tradução em português do Brasil. A partir de 5 de junho, os jogadores poderão desfrutar desses games completamente em português, tanto no Nintendo Switch original quanto no recém-anunciado Switch 2.

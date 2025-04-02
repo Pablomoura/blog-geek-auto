@@ -1,11 +1,20 @@
 ---
-title: "Star Wars: A Vingança dos Sith retorna aos cinemas com edições especiais"
-slug: "star-wars-a-vingana-dos-sith-relanamento-ter-balde-especial-nos-cinemas"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Q9QYJ5me6IXLGegSe9heg7h1FPE=/987x0/smart/uploads/conteudo/fotos/star-wars-episodio-3-relancamento.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7Du2pa4nlLUNnQE6L7YZYAyc99A=/480x360/smart/extras/conteudos/star-wars-episodio-3-relancamento.png"
-data: "2025-03-26T18:13:39.862Z"
+title: 'Star Wars: A Vingança dos Sith retorna aos cinemas com edições especiais'
+slug: star-wars-a-vingana-dos-sith-relanamento-ter-balde-especial-nos-cinemas
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Q9QYJ5me6IXLGegSe9heg7h1FPE=/987x0/smart/uploads/conteudo/fotos/star-wars-episodio-3-relancamento.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7Du2pa4nlLUNnQE6L7YZYAyc99A=/480x360/smart/extras/conteudos/star-wars-episodio-3-relancamento.png
+data: '2025-03-26T18:13:39.862Z'
+tags:
+  - star wars
+  - vingança dos sith
+  - relançamento
+  - edições especiais
+  - disney
+  - regal cinemas
 ---
 
 Em comemoração ao 20º aniversário de 'Star Wars: A Vingança dos Sith', a Disney planeja relançar o filme nos cinemas em 2025. A rede Regal Cinemas nos Estados Unidos oferecerá um combo especial que inclui um balde e um copo temáticos para marcar a ocasião.

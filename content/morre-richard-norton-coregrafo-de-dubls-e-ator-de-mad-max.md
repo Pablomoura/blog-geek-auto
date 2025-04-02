@@ -1,12 +1,21 @@
 ---
-title: "Falece Richard Norton, renomado coreógrafo de dublês e ator da saga Mad Max"
-slug: "morre-richard-norton-coregrafo-de-dubls-e-ator-de-mad-max"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/zNOM_r59_71SVaJQ6H_2ucMfbm4=/987x0/smart/uploads/conteudo/fotos/richardnortoncreditocolumbia.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/eg965Y2TkqlAyEoUJ7Kp41pKpzE=/480x360/smart/extras/conteudos/richardnortoncreditocolumbia.jpg"
-keywords: "Richard Norton, Mad Max, coreógrafo de dublês, cinema de ação, Hollywood"
-data: "2025-03-30T21:09:34.808Z"
+title: 'Falece Richard Norton, renomado coreógrafo de dublês e ator da saga Mad Max'
+slug: morre-richard-norton-coregrafo-de-dubls-e-ator-de-mad-max
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/zNOM_r59_71SVaJQ6H_2ucMfbm4=/987x0/smart/uploads/conteudo/fotos/richardnortoncreditocolumbia.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/eg965Y2TkqlAyEoUJ7Kp41pKpzE=/480x360/smart/extras/conteudos/richardnortoncreditocolumbia.jpg
+keywords: 'Richard Norton, Mad Max, coreógrafo de dublês, cinema de ação, Hollywood'
+data: '2025-03-30T21:09:34.808Z'
+tags:
+  - richard norton
+  - coreógrafo de dublês
+  - ator
+  - mad max
+  - cinema de ação
+  - hollywood
 ---
 
 O renomado coreógrafo de dublês e ator Richard Norton faleceu aos 75 anos neste domingo (30), conforme anunciado por sua esposa, Judy Green, em uma publicação nas redes sociais. A causa da morte ainda não foi revelada. 

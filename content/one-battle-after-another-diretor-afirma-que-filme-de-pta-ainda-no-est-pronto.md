@@ -1,11 +1,20 @@
 ---
-title: "Diretor Boots Riley Esclarece Rumores sobre o Filme de Paul Thomas Anderson"
-slug: "one-battle-after-another-diretor-afirma-que-filme-de-pta-ainda-no-est-pronto"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/QQFoVmy0bzbYqj5Z4M-0mFN5p4g=/987x0/smart/uploads/conteudo/fotos/onebattleafteranother_XQPDiQJ.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/UiO5VUrfaUHa8T4OGnRYo72BYI0=/480x360/smart/extras/conteudos/onebattleafteranother_VzlEZtw.jpg"
-data: "2025-03-30T15:08:54.885Z"
+title: Diretor Boots Riley Esclarece Rumores sobre o Filme de Paul Thomas Anderson
+slug: one-battle-after-another-diretor-afirma-que-filme-de-pta-ainda-no-est-pronto
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/QQFoVmy0bzbYqj5Z4M-0mFN5p4g=/987x0/smart/uploads/conteudo/fotos/onebattleafteranother_XQPDiQJ.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/UiO5VUrfaUHa8T4OGnRYo72BYI0=/480x360/smart/extras/conteudos/onebattleafteranother_VzlEZtw.jpg
+data: '2025-03-30T15:08:54.885Z'
+tags:
+  - boots riley
+  - paul thomas anderson
+  - warner bros
+  - cinema
+  - rumores
+  - indústria cinematográfica
 ---
 
 Boots Riley, conhecido por seu trabalho em 'Desculpe te Incomodar', respondeu às recentes alegações de que o filme de Paul Thomas Anderson, 'One Battle After Another', estaria enfrentando dificuldades com o estúdio Warner Bros. Segundo uma reportagem da Variety, o estúdio estaria pressionando o diretor para reduzir a duração do filme e mostrou preocupações quanto ao seu desempenho comercial. 

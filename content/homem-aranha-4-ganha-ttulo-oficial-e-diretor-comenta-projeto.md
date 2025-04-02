@@ -1,12 +1,23 @@
 ---
-title: "Homem-Aranha 4: Um Novo Dia - Detalhes Revelados na CinemaCon"
-slug: "homem-aranha-4-ganha-ttulo-oficial-e-diretor-comenta-projeto"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/pO8gYG58VtLbadFF5YuyMGmrnXA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-18T123609.046.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Vrc2-k31kA2ArsUtyIXbyq5mV68=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-18T123551.642.png"
-keywords: "Homem-Aranha 4, Tom Holland, CinemaCon, Um Novo Dia, Sadie Sink, Destin Daniel Cretton"
-data: "2025-04-01T04:14:18.631Z"
+title: 'Homem-Aranha 4: Um Novo Dia - Detalhes Revelados na CinemaCon'
+slug: homem-aranha-4-ganha-ttulo-oficial-e-diretor-comenta-projeto
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/pO8gYG58VtLbadFF5YuyMGmrnXA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-18T123609.046.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Vrc2-k31kA2ArsUtyIXbyq5mV68=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-18T123551.642.png
+keywords: >-
+  Homem-Aranha 4, Tom Holland, CinemaCon, Um Novo Dia, Sadie Sink, Destin Daniel
+  Cretton
+data: '2025-04-01T04:14:18.631Z'
+tags:
+  - homem-aranha 4
+  - cinemacon
+  - tom holland
+  - destin daniel cretton
+  - um novo dia
+  - filme de super-herói
 ---
 
 O tão esperado quarto filme da franquia Homem-Aranha, protagonizado por Tom Holland, foi destaque na CinemaCon, onde o título oficial, 'Um Novo Dia' ('Brand New Day' em inglês), foi anunciado. A revelação incluiu a exibição da logo oficial em português.

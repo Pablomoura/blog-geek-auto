@@ -1,12 +1,21 @@
 ---
-title: "BBB 25: Tensão no 12º Paredão – Quem Será Eliminado?"
-slug: "bbb-25-quem-vai-ser-eliminado-veja-parciais-do-12-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/AZWgeY3hhF8TM3E7JBkqZockpkM=/987x0/smart/uploads/conteudo/fotos/bbb25-vini-parcial.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QDfeEQJyeMC9-YwhYd88kMaNlvc=/480x360/smart/extras/conteudos/bbb25-vini-parcial-peq.jpg"
-keywords: "BBB 25, Paredão BBB, Eliminação BBB"
-data: "2025-03-31T03:31:15.911Z"
+title: 'BBB 25: Tensão no 12º Paredão – Quem Será Eliminado?'
+slug: bbb-25-quem-vai-ser-eliminado-veja-parciais-do-12-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/AZWgeY3hhF8TM3E7JBkqZockpkM=/987x0/smart/uploads/conteudo/fotos/bbb25-vini-parcial.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QDfeEQJyeMC9-YwhYd88kMaNlvc=/480x360/smart/extras/conteudos/bbb25-vini-parcial-peq.jpg
+keywords: 'BBB 25, Paredão BBB, Eliminação BBB'
+data: '2025-03-31T03:31:15.911Z'
+tags:
+  - bbb 25
+  - paredão
+  - eliminação
+  - reality show
+  - tv globo
+  - multishow
 ---
 
 O 12º Paredão do BBB 25, marcado para a noite deste domingo (28), promete intensas emoções com três participantes enfrentando a ameaça da eliminação na terça-feira, dia 1º. O reality show, que captura a atenção do público brasileiro, é exibido pela TV Globo diariamente, e também pelo Multishow após a transmissão na rede aberta. Para os assinantes, o Globoplay e Globo.com oferecem a chance de acompanhar o programa com câmeras exclusivas.

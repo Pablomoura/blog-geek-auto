@@ -1,11 +1,20 @@
 ---
-title: "Thunderbolts Assume o Papel dos Vingadores em Novo Teaser; Assista"
-slug: "thunderbolts-substituem-os-vingadores-em-novo-teaser-assista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/RFpQ3Rh-0PSbdNJ_5hh_ESDHun0=/987x0/smart/uploads/conteudo/fotos/thunderboltsvarianteposter_MrtVghf.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/lLQIo8ushSxHSh0uhVr-nnLOSKY=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_NUNHYXM.jpg"
-data: "2025-03-29T19:04:30.500Z"
+title: Thunderbolts Assume o Papel dos Vingadores em Novo Teaser; Assista
+slug: thunderbolts-substituem-os-vingadores-em-novo-teaser-assista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/RFpQ3Rh-0PSbdNJ_5hh_ESDHun0=/987x0/smart/uploads/conteudo/fotos/thunderboltsvarianteposter_MrtVghf.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/lLQIo8ushSxHSh0uhVr-nnLOSKY=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_NUNHYXM.jpg
+data: '2025-03-29T19:04:30.500Z'
+tags:
+  - thunderbolts
+  - marvel
+  - mcu
+  - bucky barnes
+  - teaser
+  - vingadores
 ---
 
 Marvel Studios revelou um emocionante novo teaser de 'Thunderbolts', o próximo grande lançamento do MCU, neste sábado (29). A prévia ressalta que o filme narra a saga de um novo grupo de heróis. No teaser, Bucky Barnes, interpretado por Sebastian Stan, informa aos seus companheiros de equipe que eles são os 'Vingadores da vez'.

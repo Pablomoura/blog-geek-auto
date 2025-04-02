@@ -1,11 +1,22 @@
 ---
-title: "BBB 25: Emoção à Vista na 11ª Prova do Líder com Consequências Diretas no Paredão"
-slug: "bbb-25-com-emoo-11-prova-do-lder-e-vai-acabar-com-algum-no-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/DMF6Hgqo-rLhfwgqDQavL4CvsJA=/987x0/smart/uploads/conteudo/fotos/bbb25-tadeu-schmidt-11-prova-lider.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/PoPkLjHjfieMRsW3xIPaEUYxuNg=/480x360/smart/extras/conteudos/bbb25-tadeu-schmidt-11-prova-lider-peq.jpg"
-data: "2025-03-27T03:25:45.736Z"
+title: >-
+  BBB 25: Emoção à Vista na 11ª Prova do Líder com Consequências Diretas no
+  Paredão
+slug: bbb-25-com-emoo-11-prova-do-lder-e-vai-acabar-com-algum-no-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/DMF6Hgqo-rLhfwgqDQavL4CvsJA=/987x0/smart/uploads/conteudo/fotos/bbb25-tadeu-schmidt-11-prova-lider.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/PoPkLjHjfieMRsW3xIPaEUYxuNg=/480x360/smart/extras/conteudos/bbb25-tadeu-schmidt-11-prova-lider-peq.jpg
+data: '2025-03-27T03:25:45.736Z'
+tags:
+  - bbb 25
+  - prova do líder
+  - paredão
+  - tadeu schmidt
+  - reality show
+  - competição
 ---
 
 A próxima quinta-feira, 27 de abril, será palco da 11ª Prova do Líder do Big Brother Brasil 25. Segundo o apresentador Tadeu Schmidt, a competição entre os 12 participantes remanescentes será intensa e emocional.

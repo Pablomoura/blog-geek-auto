@@ -1,12 +1,22 @@
 ---
-title: "Épicos, guerra e mais: Estúdio de Som da Liberdade apresenta novos filmes"
-slug: "picos-guerra-e-mais-estdio-de-som-da-liberdade-apresenta-novos-filmes"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/G62s3J9LNkM?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/MZlxBzapsz7piutoKnho7ITumfQ=/480x360/smart/extras/conteudos/angel-studios-filmes.jpg"
-keywords: "CinemaCon, Angel Studios, filmes religiosos, estreias de filmes, indústria cinematográfica"
-data: "2025-04-02T17:09:44.827Z"
+title: 'Épicos, guerra e mais: Estúdio de Som da Liberdade apresenta novos filmes'
+slug: picos-guerra-e-mais-estdio-de-som-da-liberdade-apresenta-novos-filmes
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/G62s3J9LNkM?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/MZlxBzapsz7piutoKnho7ITumfQ=/480x360/smart/extras/conteudos/angel-studios-filmes.jpg
+keywords: >-
+  CinemaCon, Angel Studios, filmes religiosos, estreias de filmes, indústria
+  cinematográfica
+data: '2025-04-02T17:09:44.827Z'
+tags:
+  - cinemacon 2024
+  - angel studios
+  - som da liberdade
+  - filmes épicos
+  - guerra
+  - distribuição global
 ---
 
 Durante a CinemaCon de 2024, o Angel Studios destacou a influência de seu lançamento 'Som da Liberdade', apresentando também seus planos de distribuição tanto nos Estados Unidos quanto globalmente. O estúdio, já reconhecido por suas produções com temáticas religiosas, provou que pode prosperar sem a dependência direta de Hollywood, evidenciado pelo sucesso já alcançado.

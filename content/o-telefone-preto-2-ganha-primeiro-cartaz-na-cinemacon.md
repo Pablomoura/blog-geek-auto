@@ -1,12 +1,21 @@
 ---
-title: "O Telefone Preto 2: Revelado o Primeiro Cartaz na CinemaCon 2025"
-slug: "o-telefone-preto-2-ganha-primeiro-cartaz-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/OTDQ0F877i-V2qU6dmZmFIR2Tw0=/987x0/smart/uploads/conteudo/fotos/02_KKSWHVy.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/25m74vNpdzD-cbo6IbEu1w-kjTc=/480x360/smart/extras/conteudos/01_4cVGAEs_Y3I1Bko.jpg"
-keywords: "O Telefone Preto 2, CinemaCon 2025, filme de suspense"
-data: "2025-03-31T16:14:53.105Z"
+title: 'O Telefone Preto 2: Revelado o Primeiro Cartaz na CinemaCon 2025'
+slug: o-telefone-preto-2-ganha-primeiro-cartaz-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/OTDQ0F877i-V2qU6dmZmFIR2Tw0=/987x0/smart/uploads/conteudo/fotos/02_KKSWHVy.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/25m74vNpdzD-cbo6IbEu1w-kjTc=/480x360/smart/extras/conteudos/01_4cVGAEs_Y3I1Bko.jpg
+keywords: 'O Telefone Preto 2, CinemaCon 2025, filme de suspense'
+data: '2025-03-31T16:14:53.105Z'
+tags:
+  - cinemacon 2025
+  - o telefone preto 2
+  - universal pictures
+  - lançamento de filme
+  - cartaz de filme
+  - suspense
 ---
 
 Durante a CinemaCon 2025, o primeiro cartaz de O Telefone Preto 2 foi oficialmente revelado. O banner, que adota um design simples, destaca o tom sombrio do filme e anuncia a data de lançamento, sem revelar detalhes sobre o elenco ou apresentar imagens de personagens.

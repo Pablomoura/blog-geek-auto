@@ -1,11 +1,22 @@
 ---
-title: "Batman | Giancarlo Esposito Expressa Desejo de Interpretar Sr. Frio no Universo DC"
-slug: "batman-giancarlo-esposito-quer-ser-o-sr-frio-do-dcu"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/a2ND3wu55EA69Hye6br_-52eQBM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T105702.574.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Kyv3BIq5z7EtuPqrjkqzApLQO7o=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T105459.222.png"
-data: "2025-03-27T14:10:13.995Z"
+title: >-
+  Batman | Giancarlo Esposito Expressa Desejo de Interpretar Sr. Frio no
+  Universo DC
+slug: batman-giancarlo-esposito-quer-ser-o-sr-frio-do-dcu
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/a2ND3wu55EA69Hye6br_-52eQBM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T105702.574.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Kyv3BIq5z7EtuPqrjkqzApLQO7o=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T105459.222.png
+data: '2025-03-27T14:10:13.995Z'
+tags:
+  - batman
+  - giancarlo esposito
+  - sr. frio
+  - dcu
+  - vilão
+  - cinema
 ---
 
 Giancarlo Esposito, famoso por seu papel de Gus Fring em 'Breaking Bad' e recentemente como antagonista em 'Capitão América: Admirável Mundo Novo', manifestou interesse em participar do DCU (Universo Cinematográfico da DC). O ator revelou que gostaria de encarnar o vilão Sr. Frio sob a direção de James Gunn. 

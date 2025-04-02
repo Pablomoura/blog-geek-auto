@@ -1,12 +1,23 @@
 ---
-title: "Warner Bros Conclui Venda do Filme 'Coyote vs Acme' para Ketchup Entertainment"
-slug: "coyote-vs-acme-warner-fecha-venda-do-filme-para-ketchup-entertainment"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/MXvTjnB7SlZM-caqJines9U9Mi8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T122455.237.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/tBy5FKn5Hiwbv6LPaDDfNdH6LpQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T122442.381.png"
-keywords: "Warner Bros, Ketchup Entertainment, Coyote vs Acme, cinema, filmes 2026, Looney Tunes"
-data: "2025-03-31T16:15:46.072Z"
+title: Warner Bros Conclui Venda do Filme 'Coyote vs Acme' para Ketchup Entertainment
+slug: coyote-vs-acme-warner-fecha-venda-do-filme-para-ketchup-entertainment
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/MXvTjnB7SlZM-caqJines9U9Mi8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T122455.237.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/tBy5FKn5Hiwbv6LPaDDfNdH6LpQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T122442.381.png
+keywords: >-
+  Warner Bros, Ketchup Entertainment, Coyote vs Acme, cinema, filmes 2026,
+  Looney Tunes
+data: '2025-03-31T16:15:46.072Z'
+tags:
+  - warner bros
+  - ketchup entertainment
+  - coyote vs acme
+  - venda de filme
+  - lançamento de filme
+  - indústria cinematográfica
 ---
 
 A Warner Bros finalizou com sucesso a negociação para a venda do filme 'Coyote vs Acme' para a Ketchup Entertainment, com lançamento previsto para 2026. 

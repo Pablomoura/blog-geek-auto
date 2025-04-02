@@ -8,6 +8,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/E4eAKnFQCrXjPripHePdD0owX-w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-25T205254.411.png
 data: '2025-03-26T11:27:49.642Z'
+tags:
+  - sessão de terapia
+  - olivia torres
+  - sexta temporada
+  - elenco
+  - série brasileira
+  - drama psicológico
 ---
 
 A série 'Sessão de Terapia', aclamada pelo público e crítica, anuncia um novo reforço para o seu elenco na sexta temporada. A atriz Olivia Torres, famosa por sua atuação no filme 'Ainda Estou Aqui', é a mais recente adição ao time. 

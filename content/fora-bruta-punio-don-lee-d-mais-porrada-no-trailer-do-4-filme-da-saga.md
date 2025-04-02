@@ -1,11 +1,19 @@
 ---
-title: "Força Bruta: Punição | Novo Trailer Revela Mais Ação com Don Lee"
-slug: "fora-bruta-punio-don-lee-d-mais-porrada-no-trailer-do-4-filme-da-saga"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/CUdob93ngLY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/XfAOV72FCDhoeb2ifrpPp6vLY_E=/480x360/smart/extras/conteudos/don_lee_TvOJT8s.png"
-data: "2025-03-26T17:30:42.637Z"
+title: 'Força Bruta: Punição | Novo Trailer Revela Mais Ação com Don Lee'
+slug: fora-bruta-punio-don-lee-d-mais-porrada-no-trailer-do-4-filme-da-saga
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/CUdob93ngLY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/XfAOV72FCDhoeb2ifrpPp6vLY_E=/480x360/smart/extras/conteudos/don_lee_TvOJT8s.png
+data: '2025-03-26T17:30:42.637Z'
+tags:
+  - 'força bruta: punição'
+  - trailer
+  - don lee
+  - filme sul-coreano
+  - ação
+  - detetive
 ---
 
 O aguardado quarto capítulo da franquia de sucesso sul-coreana, 'Força Bruta: Punição', acaba de ganhar um empolgante trailer nacional com Don Lee em destaque. Confira no vídeo acima.

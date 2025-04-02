@@ -1,11 +1,19 @@
 ---
-title: "Confirmado novo spin-off de 'Yellowstone' focado em Kayce Dutton"
-slug: "yellowstone-spin-off-centrado-em-kayce-dutton-confirmado"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/MgGXEZOTJBs?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/q9hqMxERXvAU55HonnQhIwaTJBo=/480x360/smart/extras/conteudos/01_jDPrr2V.jpg"
-data: "2025-03-27T14:10:56.300Z"
+title: Confirmado novo spin-off de 'Yellowstone' focado em Kayce Dutton
+slug: yellowstone-spin-off-centrado-em-kayce-dutton-confirmado
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/MgGXEZOTJBs?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/q9hqMxERXvAU55HonnQhIwaTJBo=/480x360/smart/extras/conteudos/01_jDPrr2V.jpg
+data: '2025-03-27T14:10:56.300Z'
+tags:
+  - yellowstone
+  - spin-off
+  - kayce dutton
+  - taylor sheridan
+  - luke grimes
+  - cbs
 ---
 
 O universo de 'Yellowstone', criado pelo renomado Taylor Sheridan, continua a expandir-se. Segundo informações de Matt Belloni, do Puck News, a CBS confirmou um novo spin-off focado em Kayce Dutton, papel desempenhado por Luke Grimes na série original. 

@@ -1,11 +1,22 @@
 ---
-title: "Prime Video anuncia estreia de 'The Better Sister' com Jessica Biel e Elizabeth Banks"
-slug: "the-better-sister-recebe-primeiras-imagens-e-data-de-estreia"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/2g2Kec7dlB_X3E0eVnIJ3b7PJCI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T213411.939.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/p9RM7DEZV1Ug9y5FV8aiCt18QLA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T213411.939.png"
-data: "2025-03-28T00:41:13.174Z"
+title: >-
+  Prime Video anuncia estreia de 'The Better Sister' com Jessica Biel e
+  Elizabeth Banks
+slug: the-better-sister-recebe-primeiras-imagens-e-data-de-estreia
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/2g2Kec7dlB_X3E0eVnIJ3b7PJCI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-27T213411.939.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/p9RM7DEZV1Ug9y5FV8aiCt18QLA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-27T213411.939.png
+data: '2025-03-28T00:41:13.174Z'
+tags:
+  - prime video
+  - the better sister
+  - jessica biel
+  - elizabeth banks
+  - série de tv
+  - estreia 2025
 ---
 
 O Prime Video divulgou nesta quinta-feira (27) as primeiras imagens e a data de lançamento de 'The Better Sister', protagonizada por Jessica Biel e Elizabeth Banks. A estreia está marcada para 29 de maio de 2025, com todos os oito episódios disponíveis.

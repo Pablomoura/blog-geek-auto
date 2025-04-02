@@ -1,12 +1,21 @@
 ---
-title: "Black Mirror: Análise do Episódio Especial 'White Christmas'"
-slug: "black-mirror-explicado-entenda-o-episdio-especial-white-christmas"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/OunlWo1cPs23b8zzV1_HxKLlwBM=/987x0/smart/uploads/conteudo/fotos/02_dkCXorN.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/qC1zsG8Akwo5RXNtz49WYAtMI_o=/480x360/smart/extras/conteudos/01_mQ6YL0F.jpg"
-keywords: "Black Mirror, White Christmas, análise de episódio"
-data: "2025-03-31T19:09:12.074Z"
+title: 'Black Mirror: Análise do Episódio Especial ''White Christmas'''
+slug: black-mirror-explicado-entenda-o-episdio-especial-white-christmas
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/OunlWo1cPs23b8zzV1_HxKLlwBM=/987x0/smart/uploads/conteudo/fotos/02_dkCXorN.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/qC1zsG8Akwo5RXNtz49WYAtMI_o=/480x360/smart/extras/conteudos/01_mQ6YL0F.jpg
+keywords: 'Black Mirror, White Christmas, análise de episódio'
+data: '2025-03-31T19:09:12.074Z'
+tags:
+  - black mirror
+  - white christmas
+  - análise de episódio
+  - tecnologia
+  - drama
+  - natal
 ---
 
 O episódio 'White Christmas' foi o primeiro especial de Black Mirror e destaca-se como um dos mais impactantes da série. Lançado após a segunda temporada, ele apresenta um Natal nada convencional, repleto de momentos sombrios e até mesmo traumatizantes.

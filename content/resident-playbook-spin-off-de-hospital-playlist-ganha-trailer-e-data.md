@@ -7,6 +7,13 @@ tipoMidia: video
 thumb: >-
   https://cdn.ome.lt/GEe-xSlwn52OILY92ipY5hI-XuE=/480x360/smart/extras/conteudos/resident_QfQxw9W.png
 data: '2025-03-26T14:14:29.488Z'
+tags:
+  - resident playbook
+  - spin-off
+  - hospital playlist
+  - série coreana
+  - netflix
+  - trailer inédito
 ---
 
 A espera por Resident Playbook está chegando ao fim. Marcado inicialmente para março do ano passado, o lançamento foi adiado devido a uma crise médica na Coreia do Sul, com demissões em massa de profissionais da saúde em protesto a políticas governamentais. Agora, a Netflix confirmou que a série estreará em 21 de abril.

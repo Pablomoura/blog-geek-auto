@@ -7,6 +7,12 @@ tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/b2rQwo5N5L-rX7SWXNJRBGaqQPQ=/480x360/smart/extras/conteudos/ainda_estou_topo.jpg"
 keywords: "Globoplay, Oscar 2025, Ainda Estou Aqui, Walter Salles, Fernanda Torres"
 data: "2025-04-02T22:10:14.248Z"
+tags:
+  - Globoplay
+  - Oscar 2025
+  - Ainda Estou Aqui
+  - Walter Salles
+  - Fernanda Torres
 ---
 
 A aclamada produção 'Ainda Estou Aqui', recente vencedora do Oscar de Melhor Filme Internacional, tem estreia marcada no Globoplay. A plataforma de streaming confirmou que o filme estará disponível no catálogo a partir de abril deste ano, especificamente no dia 6, um domingo.

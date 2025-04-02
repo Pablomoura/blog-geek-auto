@@ -1,12 +1,23 @@
 ---
-title: "Preços de Camisetas e Produtos dos Artistas no Lollapalooza 2025"
-slug: "quanto-custam-camisetas-dos-artistas-do-lollapalooza-2025-veja-os-preos"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/fYZPg2hoJhjxKpZd8tC_pevGqH0=/987x0/smart/uploads/conteudo/fotos/Snapinst.app_487977924_18491643928019767_7594688863545021233_n_1080.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/r9Jw7LZFZVd4dIFp_0cX4-GLt_s=/480x360/smart/extras/conteudos/Snapinst.app_487977924_18491643928019767_7594688863545021233_n_1080.jpg"
-keywords: "Lollapalooza 2025, Lolla Band Store, preços de camisetas, produtos oficiais, souvenirs de artistas"
-data: "2025-03-30T19:53:59.855Z"
+title: Preços de Camisetas e Produtos dos Artistas no Lollapalooza 2025
+slug: quanto-custam-camisetas-dos-artistas-do-lollapalooza-2025-veja-os-preos
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/fYZPg2hoJhjxKpZd8tC_pevGqH0=/987x0/smart/uploads/conteudo/fotos/Snapinst.app_487977924_18491643928019767_7594688863545021233_n_1080.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/r9Jw7LZFZVd4dIFp_0cX4-GLt_s=/480x360/smart/extras/conteudos/Snapinst.app_487977924_18491643928019767_7594688863545021233_n_1080.jpg
+keywords: >-
+  Lollapalooza 2025, Lolla Band Store, preços de camisetas, produtos oficiais,
+  souvenirs de artistas
+data: '2025-03-30T19:53:59.855Z'
+tags:
+  - lollapalooza 2025
+  - produtos oficiais
+  - camisetas de artistas
+  - memorabilia musical
+  - festival de música
+  - merchandising
 ---
 
 Para os fãs que desejam guardar uma lembrança especial do Lollapalooza 2025, a Lolla Band Store é o destino certo para encontrar produtos oficiais dos artistas. Quem visitar o festival neste domingo (30), após três dias repletos de apresentações, encontrará uma variedade de itens à venda.

@@ -1,12 +1,21 @@
 ---
-title: "BBB 25 | Resultado do 12º Paredão é Revelado"
-slug: "bbb-25-quem-foi-eliminado-no-12-paredo-do-bbb-25"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/IYiBzuNZHLZxk3_4zGahTrqv8G4=/987x0/smart/uploads/conteudo/fotos/bbb25-vilma-12-eliminacao.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/rO-Fg93kw_eSeV5plKbmpTU6s6o=/480x360/smart/extras/conteudos/bbb25-vilma-12-eliminacao-peq.jpg"
-keywords: "BBB 25, Paredão, Eliminação"
-data: "2025-04-02T01:56:55.385Z"
+title: BBB 25 | Resultado do 12º Paredão é Revelado
+slug: bbb-25-quem-foi-eliminado-no-12-paredo-do-bbb-25
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/IYiBzuNZHLZxk3_4zGahTrqv8G4=/987x0/smart/uploads/conteudo/fotos/bbb25-vilma-12-eliminacao.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/rO-Fg93kw_eSeV5plKbmpTU6s6o=/480x360/smart/extras/conteudos/bbb25-vilma-12-eliminacao-peq.jpg
+keywords: 'BBB 25, Paredão, Eliminação'
+data: '2025-04-02T01:56:55.385Z'
+tags:
+  - bbb 25
+  - paredão
+  - diego hypólito
+  - vilma
+  - vinícius
+  - reality show
 ---
 
 Na emocionante noite desta terça-feira (1º), o 12º Paredão do Big Brother Brasil 25 foi resolvido, colocando Diego Hypólito, Vilma e Vinícius na berlinda. A tensão foi palpável, pois um dos três participantes teve que se despedir da competição.

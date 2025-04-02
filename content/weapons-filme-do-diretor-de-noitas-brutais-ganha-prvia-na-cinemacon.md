@@ -1,12 +1,23 @@
 ---
-title: "Weapons | Novo thriller de terror de Zach Cregger tem prévia revelada na CinemaCon"
-slug: "weapons-filme-do-diretor-de-noitas-brutais-ganha-prvia-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/JtS7vvWRhpOX6M_a_EuRHl4dVaM=/987x0/smart/uploads/conteudo/fotos/weapons-barbarian.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/5EqtW-rtbylvC24B9IGig1G7PHM=/480x360/smart/extras/conteudos/weapons-barbarian.jpg"
-keywords: "CinemaCon, Warner Bros., New Line, Zach Cregger, Weapons, terror, trailer"
-data: "2025-04-02T00:50:55.650Z"
+title: >-
+  Weapons | Novo thriller de terror de Zach Cregger tem prévia revelada na
+  CinemaCon
+slug: weapons-filme-do-diretor-de-noitas-brutais-ganha-prvia-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/JtS7vvWRhpOX6M_a_EuRHl4dVaM=/987x0/smart/uploads/conteudo/fotos/weapons-barbarian.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/5EqtW-rtbylvC24B9IGig1G7PHM=/480x360/smart/extras/conteudos/weapons-barbarian.jpg
+keywords: 'CinemaCon, Warner Bros., New Line, Zach Cregger, Weapons, terror, trailer'
+data: '2025-04-02T00:50:55.650Z'
+tags:
+  - cinemacon
+  - zach cregger
+  - weapons
+  - thriller de terror
+  - trailer
+  - warner bros.
 ---
 
 Durante a CinemaCon 2025, a Warner Bros. e a New Line apresentaram o aguardado primeiro trailer de 'Weapons', o mais recente filme de terror dirigido por Zach Cregger, conhecido por 'Noites Brutais'. Embora o trailer ainda não esteja disponível online, o portal Omelete esteve no evento e oferece uma descrição detalhada do que foi mostrado.

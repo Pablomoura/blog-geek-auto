@@ -1,11 +1,19 @@
 ---
-title: "'Você': Netflix Lança Trailer Final da 5ª e Última Temporada"
-slug: "voc-5-temporada-ganha-trailer-final-para-despedida-assista"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/mn0QvmEicIY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/GT7w4l7ViP-OE6MojJK4KndkfP0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-27_135154.png"
-data: "2025-03-27T17:08:21.208Z"
+title: '''Você'': Netflix Lança Trailer Final da 5ª e Última Temporada'
+slug: voc-5-temporada-ganha-trailer-final-para-despedida-assista
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/mn0QvmEicIY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/GT7w4l7ViP-OE6MojJK4KndkfP0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-27_135154.png
+data: '2025-03-27T17:08:21.208Z'
+tags:
+  - netflix
+  - série de suspense
+  - você
+  - trailer final
+  - última temporada
+  - penn badgley
 ---
 
 A série de suspense da Netflix, 'Você', revelou o trailer final de sua quinta e última temporada, trazendo à tona os eventos cruciais das temporadas anteriores. Assista ao emocionante desfecho no vídeo disponibilizado acima.

@@ -1,11 +1,19 @@
 ---
-title: "Pantera Negra 3: Denzel Washington Ainda Não Está Confirmado no Elenco"
-slug: "pantera-negra-3-contrato-de-denzel-washington-ainda-no-foi-fechado"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/WYr9iK2h8b-XjadfemRX2BCACrQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T174712.103.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/kkLeJQOfvBCVfZCgPXS90EC6bSI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T174712.103.png"
-data: "2025-03-28T21:08:46.309Z"
+title: 'Pantera Negra 3: Denzel Washington Ainda Não Está Confirmado no Elenco'
+slug: pantera-negra-3-contrato-de-denzel-washington-ainda-no-foi-fechado
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/WYr9iK2h8b-XjadfemRX2BCACrQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-28T174712.103.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/kkLeJQOfvBCVfZCgPXS90EC6bSI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-28T174712.103.png
+data: '2025-03-28T21:08:46.309Z'
+tags:
+  - pantera negra 3
+  - denzel washington
+  - ryan coogler
+  - casting
+  - marvel
 ---
 
 Durante sua participação no podcast Nightcap com Shannon Sharpe, Ryan Coogler, diretor da franquia Pantera Negra, discutiu a possível inclusão de Denzel Washington no próximo filme. Coogler expressou seu entusiasmo em trabalhar com Washington, mas ressaltou que a contratação do ator ainda não está finalizada. "Estou ansioso para colaborar com Denzel e farei tudo para que isso aconteça", afirmou Coogler, destacando que a participação do ator ainda depende de seu interesse.

@@ -7,6 +7,13 @@ tipoMidia: video
 thumb: >-
   https://cdn.ome.lt/xZfd2skgHbKvxJpDGeYegO0WqVs=/480x360/smart/extras/conteudos/01_o6Nxm7Y.jpg
 data: '2025-03-25T18:11:45.436Z'
+tags:
+  - monster hunter wilds
+  - capcom
+  - atualização gratuita
+  - ps5
+  - xbox series x
+  - pc
 ---
 
 Monster Hunter Wilds, o mais recente sucesso da Capcom, receberá sua primeira grande atualização gratuita em abril, disponível para PS5, Xbox Series S, Xbox Series X e PC. Esta atualização, denominada 'Atualização de Título 1', introduzirá o monstro Mitzutsune, uma nova área de reunião para caçadores e outros recursos e desafios.

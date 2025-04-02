@@ -1,12 +1,24 @@
 ---
-title: "Possível Retorno de Leonardo DiCaprio em 'Era uma Vez em Hollywood 2' Sob Direção de David Fincher"
-slug: "era-uma-vez-em-hollywood-2-deve-ter-leonardo-dicaprio-diz-insider"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/4L8Y1bCZH31VwJD-zx0pIiEobhA=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T204910.003.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/3xEZu3mRQ6mgkqf4tQS0YZ7aijw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T204910.003.png"
-keywords: "Leonardo DiCaprio, Netflix, David Fincher, Era uma Vez em Hollywood, sequência, Quentin Tarantino"
-data: "2025-04-02T00:53:00.172Z"
+title: >-
+  Possível Retorno de Leonardo DiCaprio em 'Era uma Vez em Hollywood 2' Sob
+  Direção de David Fincher
+slug: era-uma-vez-em-hollywood-2-deve-ter-leonardo-dicaprio-diz-insider
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/4L8Y1bCZH31VwJD-zx0pIiEobhA=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-01T204910.003.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/3xEZu3mRQ6mgkqf4tQS0YZ7aijw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-01T204910.003.png
+keywords: >-
+  Leonardo DiCaprio, Netflix, David Fincher, Era uma Vez em Hollywood,
+  sequência, Quentin Tarantino
+data: '2025-04-02T00:53:00.172Z'
+tags:
+  - leonardo dicaprio
+  - david fincher
+  - era uma vez em hollywood 2
+  - sequência de filme
+  - cinema hollywood
 ---
 
 Recentemente, o site The Playlist divulgou que David Fincher assumirá a direção da sequência do aclamado filme 'Era uma Vez em... Hollywood'. Seguindo essa linha, informações do site The InSneider indicam que Leonardo DiCaprio também pode retornar à franquia. Inicialmente, apenas a participação de Brad Pitt, focando no personagem Cliff Booth, havia sido confirmada, com Quentin Tarantino responsável pelo roteiro.

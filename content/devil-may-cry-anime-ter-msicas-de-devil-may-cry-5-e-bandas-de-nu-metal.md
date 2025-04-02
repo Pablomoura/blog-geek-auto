@@ -1,12 +1,22 @@
 ---
-title: "Netflix Anuncia Trilha Sonora do Anime Devil May Cry com Músicas de Devil May Cry 5 e Bandas de Nu Metal"
-slug: "devil-may-cry-anime-ter-msicas-de-devil-may-cry-5-e-bandas-de-nu-metal"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/WtL9R1RNNS4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Bv6ISZ_fyUGneOklyWE7j2cafm8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-01_154853.png"
-keywords: "Netflix, Devil May Cry, anime, trilha sonora, Devil May Cry 5, Nu Metal"
-data: "2025-04-01T19:09:05.354Z"
+title: >-
+  Netflix Anuncia Trilha Sonora do Anime Devil May Cry com Músicas de Devil May
+  Cry 5 e Bandas de Nu Metal
+slug: devil-may-cry-anime-ter-msicas-de-devil-may-cry-5-e-bandas-de-nu-metal
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/WtL9R1RNNS4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Bv6ISZ_fyUGneOklyWE7j2cafm8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-01_154853.png
+keywords: 'Netflix, Devil May Cry, anime, trilha sonora, Devil May Cry 5, Nu Metal'
+data: '2025-04-01T19:09:05.354Z'
+tags:
+  - netflix
+  - devil may cry
+  - trilha sonora
+  - anime
+  - nu metal
+  - devil may cry 5
 ---
 
 A Netflix anunciou oficialmente as músicas que farão parte da primeira temporada do aguardado anime de Devil May Cry. A trilha sonora incluirá faixas icônicas do jogo Devil May Cry 5, como 'Devil Trigger' e 'Bury the Light'.

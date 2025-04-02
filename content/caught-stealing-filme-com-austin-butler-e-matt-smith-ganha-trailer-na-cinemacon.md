@@ -1,12 +1,26 @@
 ---
-title: "Caught Stealing: Austin Butler e Matt Smith brilham em novo trailer revelado na CinemaCon"
-slug: "caught-stealing-filme-com-austin-butler-e-matt-smith-ganha-trailer-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/X1ngHCag9AmVJlIMj7B-KhDigCY=/987x0/smart/uploads/conteudo/fotos/caught-stealing-matt-smith-austin-butler.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hKF2-4KJuUP4se-gKOm92YpuNoM=/480x360/smart/extras/conteudos/caught-stealing-matt-smith-austin-butler.png"
-keywords: "Caught Stealing, Austin Butler, Matt Smith, Darren Aronofsky, CinemaCon, trailer de filme, comédia de ação"
-data: "2025-04-01T04:13:46.556Z"
+title: >-
+  Caught Stealing: Austin Butler e Matt Smith brilham em novo trailer revelado
+  na CinemaCon
+slug: >-
+  caught-stealing-filme-com-austin-butler-e-matt-smith-ganha-trailer-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/X1ngHCag9AmVJlIMj7B-KhDigCY=/987x0/smart/uploads/conteudo/fotos/caught-stealing-matt-smith-austin-butler.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hKF2-4KJuUP4se-gKOm92YpuNoM=/480x360/smart/extras/conteudos/caught-stealing-matt-smith-austin-butler.png
+keywords: >-
+  Caught Stealing, Austin Butler, Matt Smith, Darren Aronofsky, CinemaCon,
+  trailer de filme, comédia de ação
+data: '2025-04-01T04:13:46.556Z'
+tags:
+  - caught stealing
+  - austin butler
+  - matt smith
+  - cinemacon
+  - thriller
+  - darren aronofsky
 ---
 
 O aguardado thriller 'Caught Stealing', dirigido pelo aclamado Darren Aronofsky ('Cisne Negro'), e estrelado por Austin Butler ('Duna: Parte 2') e Matt Smith ('A Casa do Dragão'), teve seu primeiro trailer divulgado durante a CinemaCon em Las Vegas. O evento, que ocorre esta semana, foi palco de grandes revelações e o site Omelete esteve lá para cobrir os detalhes.

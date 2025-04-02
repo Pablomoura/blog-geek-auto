@@ -1,12 +1,22 @@
 ---
-title: "‘Pecadores’: Filme de Ryan Coogler recebe aplausos e é comparado aos ‘Vingadores’"
-slug: "pecadores-filme-comparado-a-vingadores-aps-sesso-com-aplausos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/nkOB9XmJtMwWhYjd6TWuj3qIlY8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T135142.527.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NsIWJtbBBZQc3x9zFKYYaQJ6GJg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T135130.251.png"
-keywords: "Pecadores, Ryan Coogler, Michael B. Jordan, cinema, terror, Vingadores"
-data: "2025-04-01T17:34:45.618Z"
+title: >-
+  ‘Pecadores’: Filme de Ryan Coogler recebe aplausos e é comparado aos
+  ‘Vingadores’
+slug: pecadores-filme-comparado-a-vingadores-aps-sesso-com-aplausos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/nkOB9XmJtMwWhYjd6TWuj3qIlY8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T135142.527.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NsIWJtbBBZQc3x9zFKYYaQJ6GJg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T135130.251.png
+keywords: 'Pecadores, Ryan Coogler, Michael B. Jordan, cinema, terror, Vingadores'
+data: '2025-04-01T17:34:45.618Z'
+tags:
+  - ryan coogler
+  - thriller de terror
+  - michael b. jordan
+  - pecadores filme
+  - comparação com vingadores
 ---
 
 ‘Pecadores’, o novo thriller de terror dirigido por Ryan Coogler (‘Pantera Negra’), protagonizado por Michael B. Jordan (‘Creed’), já está causando grande expectativa após suas primeiras exibições nos Estados Unidos. O filme recebeu aplausos entusiasmados da audiência e foi até comparado à franquia ‘Vingadores’ por sua capacidade de engajar o público.

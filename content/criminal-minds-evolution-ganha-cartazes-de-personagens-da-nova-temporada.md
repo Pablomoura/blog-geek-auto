@@ -1,12 +1,25 @@
 ---
-title: "Criminal Minds: Evolution Revela Cartazes dos Personagens para a Nova Temporada"
-slug: "criminal-minds-evolution-ganha-cartazes-de-personagens-da-nova-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/BcdXrSVMlmvmOYmye67CBq3YUJk=/987x0/smart/uploads/conteudo/fotos/02_LEwKu8j.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/CpSoo8g5W5gkOcgkazHlX8Eu2Oo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_124755.png"
-keywords: "Criminal Minds: Evolution, Paramount+, nova temporada, série de suspense, personagens de Criminal Minds"
-data: "2025-03-31T16:13:54.918Z"
+title: >-
+  Criminal Minds: Evolution Revela Cartazes dos Personagens para a Nova
+  Temporada
+slug: criminal-minds-evolution-ganha-cartazes-de-personagens-da-nova-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/BcdXrSVMlmvmOYmye67CBq3YUJk=/987x0/smart/uploads/conteudo/fotos/02_LEwKu8j.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/CpSoo8g5W5gkOcgkazHlX8Eu2Oo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_124755.png
+keywords: >-
+  Criminal Minds: Evolution, Paramount+, nova temporada, série de suspense,
+  personagens de Criminal Minds
+data: '2025-03-31T16:13:54.918Z'
+tags:
+  - 'criminal minds: evolution'
+  - paramount+
+  - cartazes de personagens
+  - nova temporada
+  - streaming
+  - série policial
 ---
 
 O serviço de streaming Paramount+ divulgou recentemente os cartazes dos personagens principais para a nova temporada de Criminal Minds: Evolution. Os fãs da série podem conferir as novas artes abaixo.

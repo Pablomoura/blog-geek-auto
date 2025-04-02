@@ -1,12 +1,20 @@
 ---
-title: "Superman revela Fortaleza da Solidão em prévia da CinemaCon; saiba mais"
-slug: "superman-revela-fortaleza-da-solido-em-prvia-da-cinemacon-saiba-mais"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/DwNEP0IUVSxYzmFdbSZv2Fj_6z8=/480x360/smart/extras/conteudos/superman-trailer_AMSCayZ.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/DwNEP0IUVSxYzmFdbSZv2Fj_6z8=/480x360/smart/extras/conteudos/superman-trailer_AMSCayZ.jpg"
-keywords: "Superman, CinemaCon, David Corenswet, Fortaleza da Solidão, Warner Bros."
-data: "2025-04-02T01:56:29.515Z"
+title: Superman revela Fortaleza da Solidão em prévia da CinemaCon; saiba mais
+slug: superman-revela-fortaleza-da-solido-em-prvia-da-cinemacon-saiba-mais
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/DwNEP0IUVSxYzmFdbSZv2Fj_6z8=/480x360/smart/extras/conteudos/superman-trailer_AMSCayZ.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/DwNEP0IUVSxYzmFdbSZv2Fj_6z8=/480x360/smart/extras/conteudos/superman-trailer_AMSCayZ.jpg
+keywords: 'Superman, CinemaCon, David Corenswet, Fortaleza da Solidão, Warner Bros.'
+data: '2025-04-02T01:56:29.515Z'
+tags:
+  - superman
+  - cinemacon
+  - fortaleza da solidão
+  - filme
+  - homem de aço
 ---
 
 A CinemaCon deste ano foi palco de uma revelação significativa para os fãs de Superman, com a exibição de uma prévia exclusiva do próximo filme do Homem de Aço, programado para estrear em julho. A apresentação destacou uma das cenas mais aguardadas: a primeira visão da Fortaleza da Solidão na nova era do Superman, com David Corenswet assumindo o icônico manto azul e vermelho.

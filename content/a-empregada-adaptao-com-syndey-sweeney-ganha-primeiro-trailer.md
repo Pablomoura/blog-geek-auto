@@ -1,12 +1,23 @@
 ---
-title: "A Empregada | Primeiro Trailer Revelado com Sydney Sweeney na CinemaCon 2025"
-slug: "a-empregada-adaptao-com-syndey-sweeney-ganha-primeiro-trailer"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/8--WZJnhvaBmRvi6Z9jvl9EWG6c=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-19T220205.185.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/d0SW2b8YBLsw8iOeFz1zOTNmrRM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-19T220205.185.png"
-keywords: "A Empregada, Sydney Sweeney, Amanda Seyfried, CinemaCon 2025, thriller, suspense"
-data: "2025-04-01T19:10:33.107Z"
+title: A Empregada | Primeiro Trailer Revelado com Sydney Sweeney na CinemaCon 2025
+slug: a-empregada-adaptao-com-syndey-sweeney-ganha-primeiro-trailer
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/8--WZJnhvaBmRvi6Z9jvl9EWG6c=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-19T220205.185.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/d0SW2b8YBLsw8iOeFz1zOTNmrRM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-19T220205.185.png
+keywords: >-
+  A Empregada, Sydney Sweeney, Amanda Seyfried, CinemaCon 2025, thriller,
+  suspense
+data: '2025-04-01T19:10:33.107Z'
+tags:
+  - cinemacon 2025
+  - a empregada
+  - sydney sweeney
+  - trailer
+  - lionsgate
+  - adaptação literária
 ---
 
 Durante a CinemaCon 2025, o aguardado filme 'A Empregada' teve seu primeiro trailer divulgado no painel da Lionsgate. Baseado no livro de Freida McFadden, o trailer introduz Sydney Sweeney no papel de Millie, uma empregada que trabalha para um casal rico, interpretado por Amanda Seyfried e Brandon Sklenar. A trama começa com uma atmosfera tranquila que rapidamente se transforma em um thriller de suspense e horror.

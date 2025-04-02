@@ -8,6 +8,13 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/DCbwwKLtS048xsylXUYoQU4e3qk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-25T182309.390.png
 data: '2025-03-26T11:27:49.642Z'
+tags:
+  - malcolm in the middle
+  - revival
+  - elenco
+  - disney branded television
+  - christopher masterson
+  - justin berfield
 ---
 
 A Disney Branded Television anunciou detalhes sobre o elenco do revival de 'Malcolm in the Middle', que será composto por quatro episódios. A nova temporada incluirá a revelação do gênero e do nome do sexto filho da família. 

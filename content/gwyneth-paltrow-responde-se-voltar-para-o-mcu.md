@@ -1,11 +1,21 @@
 ---
-title: "Gwyneth Paltrow Incerta sobre Retorno ao MCU e Comenta Relação com Robert Downey Jr."
-slug: "gwyneth-paltrow-responde-se-voltar-para-o-mcu"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/n-MDDzfxJkRpnXCnsfq0YFBxq5s=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T210843.359.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/d_rKYxNmDJ9PFHd2sX_1AbG0M5U=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T210843.359.png"
-data: "2025-03-27T01:29:31.065Z"
+title: >-
+  Gwyneth Paltrow Incerta sobre Retorno ao MCU e Comenta Relação com Robert
+  Downey Jr.
+slug: gwyneth-paltrow-responde-se-voltar-para-o-mcu
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/n-MDDzfxJkRpnXCnsfq0YFBxq5s=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T210843.359.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/d_rKYxNmDJ9PFHd2sX_1AbG0M5U=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T210843.359.png
+data: '2025-03-27T01:29:31.065Z'
+tags:
+  - gwyneth paltrow
+  - mcu
+  - pepper potts
+  - robert downey jr.
+  - retorno ao cinema
 ---
 
 Em uma sessão de perguntas e respostas em seu perfil do Instagram, Gwyneth Paltrow abordou questões sobre o futuro de sua personagem Pepper Potts no Universo Cinematográfico Marvel (MCU). 'A verdade é que eu não sei dizer. Eu acho que posso retornar, mas não há nada confirmado', declarou Paltrow, que interpretou a assistente de Tony Stark por 11 anos, desde o primeiro filme 'Homem de Ferro' em 2008 até 'Vingadores: Ultimato' em 2019.

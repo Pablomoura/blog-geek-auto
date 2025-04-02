@@ -1,12 +1,20 @@
 ---
-title: "Nintendo Anuncia Evento para Revelar Jogos do Novo Switch 2 em Abril"
-slug: "nintendo-revelar-jogos-do-switch-2-em-3-e-4-de-abril"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/BFDNn8g70s0K9cLRdQn5Kx5IsSg=/480x360/smart/extras/conteudos/IMG_4766.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/BFDNn8g70s0K9cLRdQn5Kx5IsSg=/480x360/smart/extras/conteudos/IMG_4766.png"
-keywords: "Nintendo Switch 2, jogos Nintendo, pré-venda Nintendo, Nintendo Direct"
-data: "2025-04-01T14:16:39.694Z"
+title: Nintendo Anuncia Evento para Revelar Jogos do Novo Switch 2 em Abril
+slug: nintendo-revelar-jogos-do-switch-2-em-3-e-4-de-abril
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/BFDNn8g70s0K9cLRdQn5Kx5IsSg=/480x360/smart/extras/conteudos/IMG_4766.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/BFDNn8g70s0K9cLRdQn5Kx5IsSg=/480x360/smart/extras/conteudos/IMG_4766.png
+keywords: 'Nintendo Switch 2, jogos Nintendo, pré-venda Nintendo, Nintendo Direct'
+data: '2025-04-01T14:16:39.694Z'
+tags:
+  - nintendo switch 2
+  - jogos nintendo
+  - evento de lançamento
+  - anúncio de jogos
+  - transmissão ao vivo
 ---
 
 A Nintendo confirmou que realizará apresentações consecutivas nos dias 3 e 4 de abril para anunciar os jogos originais do aguardado Nintendo Switch 2. O evento, que será transmitido globalmente via YouTube, promete revelar títulos inéditos e muito esperados pelo público.

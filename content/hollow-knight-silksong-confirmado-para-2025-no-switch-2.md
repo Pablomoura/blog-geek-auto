@@ -1,12 +1,23 @@
 ---
-title: "Hollow Knight: Silksong é confirmado para 2025 no Switch 2"
-slug: "hollow-knight-silksong-confirmado-para-2025-no-switch-2"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/yS0JJH4LnaEIiXHtaXg-rMY7-dI=/987x0/smart/uploads/conteudo/fotos/02_aB4uaxW.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/-dKIedk7bBLjhEANSyJQRp-1-ho=/480x360/smart/extras/conteudos/01_yhYPwDt.jpg"
-keywords: "Hollow Knight: Silksong, Nintendo Switch 2, Team Cherry, lançamento de jogos, plataformas de jogos"
-data: "2025-04-02T14:12:11.667Z"
+title: 'Hollow Knight: Silksong é confirmado para 2025 no Switch 2'
+slug: hollow-knight-silksong-confirmado-para-2025-no-switch-2
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/yS0JJH4LnaEIiXHtaXg-rMY7-dI=/987x0/smart/uploads/conteudo/fotos/02_aB4uaxW.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/-dKIedk7bBLjhEANSyJQRp-1-ho=/480x360/smart/extras/conteudos/01_yhYPwDt.jpg
+keywords: >-
+  Hollow Knight: Silksong, Nintendo Switch 2, Team Cherry, lançamento de jogos,
+  plataformas de jogos
+data: '2025-04-02T14:12:11.667Z'
+tags:
+  - 'hollow knight: silksong'
+  - switch 2
+  - lançamento 2025
+  - nintendo
+  - jogos
+  - plataformas
 ---
 
 Durante a recente transmissão oficial da Nintendo, foi confirmado que o aguardado jogo Hollow Knight: Silksong estará disponível em 2025 no novo console Switch 2. Ainda não foi divulgada uma data mais precisa para o lançamento, e permanece incerta a disponibilidade do jogo em outras plataformas neste mesmo ano, embora existam rumores fortes nesse sentido.

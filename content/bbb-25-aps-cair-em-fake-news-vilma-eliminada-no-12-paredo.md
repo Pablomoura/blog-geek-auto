@@ -1,12 +1,21 @@
 ---
-title: "BBB 25 | Vilma é Eliminada no 12º Paredão Após Confusão com Fake News"
-slug: "bbb-25-aps-cair-em-fake-news-vilma-eliminada-no-12-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Ssy3OAhsPtcjBNlpuPQ9N0XumjU=/987x0/smart/uploads/conteudo/fotos/bbb25-vilma-12-eliminada.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/VrsYV5g9XMjCzRL_wpHYcRqm5xU=/480x360/smart/extras/conteudos/bbb25-vilma-12-eliminada-peq.jpg"
-keywords: "BBB 25, eliminação, fake news, sistema de votação"
-data: "2025-04-02T03:27:30.153Z"
+title: BBB 25 | Vilma é Eliminada no 12º Paredão Após Confusão com Fake News
+slug: bbb-25-aps-cair-em-fake-news-vilma-eliminada-no-12-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Ssy3OAhsPtcjBNlpuPQ9N0XumjU=/987x0/smart/uploads/conteudo/fotos/bbb25-vilma-12-eliminada.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/VrsYV5g9XMjCzRL_wpHYcRqm5xU=/480x360/smart/extras/conteudos/bbb25-vilma-12-eliminada-peq.jpg
+keywords: 'BBB 25, eliminação, fake news, sistema de votação'
+data: '2025-04-02T03:27:30.153Z'
+tags:
+  - bbb 25
+  - vilma
+  - paredão
+  - eliminação
+  - fake news
+  - reality show
 ---
 
 Na emocionante eliminação do 12º Paredão do BBB 25, que ocorreu ao vivo na noite desta terça-feira, Vilma foi a participante eliminada, recebendo 58,91% dos votos do público. Em segundo lugar, com uma quantidade significativa de votos, Vinícius obteve 39,69%, enquanto Diego Hypólito teve apenas 1,4% das preferências para saída.

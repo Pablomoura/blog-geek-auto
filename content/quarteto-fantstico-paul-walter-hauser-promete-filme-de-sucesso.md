@@ -1,11 +1,19 @@
 ---
-title: "Quarteto Fantástico | Paul Walter Hauser Promete Grande Impacto no MCU"
-slug: "quarteto-fantstico-paul-walter-hauser-promete-filme-de-sucesso"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/_1svkWiPf0Jv_cT5G2Oyh3irwko=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T213140.284.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/zfZ8cFee4Aa53G5cb-vpbMDIdww=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T213140.284.png"
-data: "2025-03-27T01:29:08.489Z"
+title: Quarteto Fantástico | Paul Walter Hauser Promete Grande Impacto no MCU
+slug: quarteto-fantstico-paul-walter-hauser-promete-filme-de-sucesso
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/_1svkWiPf0Jv_cT5G2Oyh3irwko=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T213140.284.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/zfZ8cFee4Aa53G5cb-vpbMDIdww=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T213140.284.png
+data: '2025-03-27T01:29:08.489Z'
+tags:
+  - quarteto fantástico
+  - paul walter hauser
+  - mcu
+  - filme marvel
+  - impacto cinematográfico
 ---
 
 Em recente entrevista ao Direct, Paul Walter Hauser, parte do elenco do próximo filme 'Quarteto Fantástico', compartilhou seu otimismo quanto ao sucesso do filme dentro do Universo Cinematográfico Marvel (MCU). Segundo Hauser, o filme promete ser um marco, similar aos impactos causados por 'Guardiões da Galáxia' e 'Pantera Negra'. "Esperamos iniciar uma nova onda de narrativas de sucesso", afirmou o ator.

@@ -1,11 +1,20 @@
 ---
-title: "Estreia de 'Thunderbolts' Pode Alcançar até US$ 82 Milhões em Bilheteria nos EUA"
-slug: "bilheteria-thunderbolts-pode-ter-bilheteria-inicial-de-at-us-82-milhes"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/CWvq2e1Qih4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/tohMTnAXgMtz9RfpmVR78WEqGpU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-28_170152.png"
-data: "2025-03-28T20:10:32.163Z"
+title: >-
+  Estreia de 'Thunderbolts' Pode Alcançar até US$ 82 Milhões em Bilheteria nos
+  EUA
+slug: bilheteria-thunderbolts-pode-ter-bilheteria-inicial-de-at-us-82-milhes
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/CWvq2e1Qih4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/tohMTnAXgMtz9RfpmVR78WEqGpU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-28_170152.png
+data: '2025-03-28T20:10:32.163Z'
+tags:
+  - thunderbolts
+  - marvel studios
+  - bilheteria
+  - estreia de filme
+  - box office
 ---
 
 O filme 'Thunderbolts' da Marvel Studios está projetado para uma estreia moderada nas bilheterias dos Estados Unidos. Segundo análises do site Box Office Theory, a expectativa é que o filme arrecade entre US$ 67 e US$ 82 milhões em seu primeiro fim de semana. Considerando um orçamento de US$ 180 milhões, esses números representam um começo estável.

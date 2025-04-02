@@ -1,11 +1,20 @@
 ---
-title: "Solo Leveling | Horário de lançamento do último episódio da 2ª temporada"
-slug: "solo-leveling-que-horas-lana-o-ltimo-episdio-da-2-temporada"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/2LthBFA4_Md7Fh12jz3Uzr77H7E=/987x0/smart/uploads/conteudo/fotos/sololeveling_0pLRp45.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OYcAiqL7uubicpeeFIlAriYpi5g=/480x360/smart/extras/conteudos/sololeveling_HgSh0ho.jpg"
-data: "2025-03-29T16:09:36.162Z"
+title: Solo Leveling | Horário de lançamento do último episódio da 2ª temporada
+slug: solo-leveling-que-horas-lana-o-ltimo-episdio-da-2-temporada
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/2LthBFA4_Md7Fh12jz3Uzr77H7E=/987x0/smart/uploads/conteudo/fotos/sololeveling_0pLRp45.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OYcAiqL7uubicpeeFIlAriYpi5g=/480x360/smart/extras/conteudos/sololeveling_HgSh0ho.jpg
+data: '2025-03-29T16:09:36.162Z'
+tags:
+  - solo leveling
+  - lançamento de episódio
+  - crunchyroll
+  - anime
+  - segunda temporada
+  - eventos de exibição coletiva
 ---
 
 O Crunchyroll disponibilizará hoje, sábado (29), às 14h30 no horário de Brasília, o último episódio da segunda temporada do anime Solo Leveling. A série tem se destacado como uma das principais atrações da plataforma.

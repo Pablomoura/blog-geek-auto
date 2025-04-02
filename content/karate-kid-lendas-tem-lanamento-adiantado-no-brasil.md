@@ -8,6 +8,12 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/usPZV7ynAkF7ZuNvG3jMWDIfQKg=/480x360/smart/extras/conteudos/01_4Yacwml.jpg
 data: '2025-03-26T11:27:49.642Z'
+tags:
+  - karate kid
+  - cinema
+  - estreia antecipada
+  - lançamento de filme
+  - brasil
 ---
 
 O lançamento do filme 'Karate Kid: Lendas' foi antecipado no Brasil, conforme informações apuradas pelo portal Omelete. Inicialmente previsto para 30 de maio, o filme agora será lançado em 8 de maio.

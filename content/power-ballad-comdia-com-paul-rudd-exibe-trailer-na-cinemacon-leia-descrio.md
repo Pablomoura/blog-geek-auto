@@ -1,12 +1,23 @@
 ---
-title: "Power Ballad | Confira a descrição do trailer da nova comédia com Paul Rudd apresentado na CinemaCon"
-slug: "power-ballad-comdia-com-paul-rudd-exibe-trailer-na-cinemacon-leia-descrio"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/LLLiysiGrQw01_1zlay4v3ReO2s=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T152450.534.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ge5c9fnee8Ca9raEFB8_CcuuD5Q=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T152438.288.png"
-keywords: "Power Ballad, CinemaCon, Paul Rudd, John Carney, trailer de filme"
-data: "2025-04-01T19:11:03.114Z"
+title: >-
+  Power Ballad | Confira a descrição do trailer da nova comédia com Paul Rudd
+  apresentado na CinemaCon
+slug: power-ballad-comdia-com-paul-rudd-exibe-trailer-na-cinemacon-leia-descrio
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/LLLiysiGrQw01_1zlay4v3ReO2s=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-01T152450.534.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ge5c9fnee8Ca9raEFB8_CcuuD5Q=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-01T152438.288.png
+keywords: 'Power Ballad, CinemaCon, Paul Rudd, John Carney, trailer de filme'
+data: '2025-04-01T19:11:03.114Z'
+tags:
+  - cinemacon
+  - paul rudd
+  - comédia
+  - power ballad
+  - trailer
+  - música
 ---
 
 Durante a CinemaCon, foi revelado o primeiro trailer de 'Power Ballad', comédia que conta com Paul Rudd e Nick Jonas, sob a direção de John Carney. A prévia do filme mistura elementos musicais e temáticas de crise de meia idade, apresentando a história de um compositor cuja obra é usurpada por um artista mais jovem. Decidido a reivindicar seus direitos, o protagonista parte da Inglaterra em busca de justiça e da realização de seus sonhos.

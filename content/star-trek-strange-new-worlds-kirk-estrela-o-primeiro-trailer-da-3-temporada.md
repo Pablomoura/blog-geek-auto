@@ -1,12 +1,20 @@
 ---
-title: "Star Trek: Strange New Worlds | Kirk brilha no trailer da nova temporada"
-slug: "star-trek-strange-new-worlds-kirk-estrela-o-primeiro-trailer-da-3-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/PjAWSIJCcmY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/u_IiOIybLrIiNobMjgm28yckEBY=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-02_120914.png"
-keywords: "Star Trek, Enterprise, Capitão Kirk"
-data: "2025-04-02T16:15:06.799Z"
+title: 'Star Trek: Strange New Worlds | Kirk brilha no trailer da nova temporada'
+slug: star-trek-strange-new-worlds-kirk-estrela-o-primeiro-trailer-da-3-temporada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/PjAWSIJCcmY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/u_IiOIybLrIiNobMjgm28yckEBY=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-02_120914.png
+keywords: 'Star Trek, Enterprise, Capitão Kirk'
+data: '2025-04-02T16:15:06.799Z'
+tags:
+  - star trek
+  - strange new worlds
+  - trailer
+  - temporada nova
+  - capitão kirk
+  - série de tv
 ---
 
 Fãs do universo de 'Star Trek' têm motivos para comemorar com a divulgação do primeiro trailer da terceira temporada de 'Star Trek: Strange New Worlds'. O vídeo foi lançado recentemente, antecipando o retorno da série previsto para meados de 2025. A prévia apresenta cenas empolgantes com a equipe da nave Enterprise, incluindo a nova encarnação do Capitão Kirk, interpretado por Paul Wesley, conhecido por seu trabalho em 'The Vampire Diaries'.

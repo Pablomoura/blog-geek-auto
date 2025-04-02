@@ -1,11 +1,22 @@
 ---
-title: "Como Treinar o Seu Dragão | Novos Funko Pop de Banguela, Soluço e Astrid são Anunciados"
-slug: "como-treinar-o-seu-drago-banguela-soluo-e-astrid-ganham-funko-pop"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/UwUSXVYdy3fxsBfeIPoyhJR845o=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T101155.914.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/XjvchQE2-M5V9PJUkJhbFO5s6mc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T101211.881.png"
-data: "2025-03-27T13:19:34.057Z"
+title: >-
+  Como Treinar o Seu Dragão | Novos Funko Pop de Banguela, Soluço e Astrid são
+  Anunciados
+slug: como-treinar-o-seu-drago-banguela-soluo-e-astrid-ganham-funko-pop
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/UwUSXVYdy3fxsBfeIPoyhJR845o=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T101155.914.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/XjvchQE2-M5V9PJUkJhbFO5s6mc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T101211.881.png
+data: '2025-03-27T13:19:34.057Z'
+tags:
+  - como treinar o seu dragão
+  - funko pop
+  - colecionáveis
+  - banguela
+  - soluço
+  - astrid
 ---
 
 A nova versão live-action de 'Como Treinar o Seu Dragão' acaba de lançar uma coleção exclusiva de Funko Pop. Os colecionáveis, com preço de US$ 12 cada (aproximadamente R$ 60 na conversão direta), ainda não têm data confirmada para começarem a ser vendidos.

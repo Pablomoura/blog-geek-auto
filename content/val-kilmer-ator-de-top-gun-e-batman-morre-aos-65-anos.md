@@ -1,12 +1,21 @@
 ---
-title: "Val Kilmer, icônico ator de 'Top Gun' e 'Batman', falece aos 65 anos"
-slug: "val-kilmer-ator-de-top-gun-e-batman-morre-aos-65-anos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Lk8_PBdRtMwpYOU37Hr4jXxuFTk=/987x0/smart/uploads/conteudo/fotos/images-2.jpeg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/3dgAoGBfso88n3FL6cUFE_ZICII=/480x360/smart/extras/conteudos/images-2.jpeg"
-keywords: "Val Kilmer, Top Gun, Batman, obituário, cinema"
-data: "2025-04-02T04:12:10.452Z"
+title: 'Val Kilmer, icônico ator de ''Top Gun'' e ''Batman'', falece aos 65 anos'
+slug: val-kilmer-ator-de-top-gun-e-batman-morre-aos-65-anos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Lk8_PBdRtMwpYOU37Hr4jXxuFTk=/987x0/smart/uploads/conteudo/fotos/images-2.jpeg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/3dgAoGBfso88n3FL6cUFE_ZICII=/480x360/smart/extras/conteudos/images-2.jpeg
+keywords: 'Val Kilmer, Top Gun, Batman, obituário, cinema'
+data: '2025-04-02T04:12:10.452Z'
+tags:
+  - val kilmer
+  - top gun
+  - batman
+  - falecimento
+  - ator
+  - cinema
 ---
 
 Val Kilmer, conhecido por seus marcantes papéis como Batman e no clássico filme 'Top Gun', faleceu aos 65 anos, conforme reportado pelo The New York Times. A causa da morte ainda não foi divulgada.

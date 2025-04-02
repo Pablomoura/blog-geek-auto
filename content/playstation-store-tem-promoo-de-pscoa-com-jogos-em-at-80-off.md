@@ -1,11 +1,20 @@
 ---
-title: "Promoção de Páscoa na PlayStation Store Oferece Descontos de Até 80% em Jogos"
-slug: "playstation-store-tem-promoo-de-pscoa-com-jogos-em-at-80-off"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/CS5BcKsxrTlN-cyn6uH8gSBC63w=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T183947.337.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NqnXFYBrx-LnQihiz738QSzCqyc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T183947.337.png"
-data: "2025-03-26T22:08:53.994Z"
+title: Promoção de Páscoa na PlayStation Store Oferece Descontos de Até 80% em Jogos
+slug: playstation-store-tem-promoo-de-pscoa-com-jogos-em-at-80-off
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/CS5BcKsxrTlN-cyn6uH8gSBC63w=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T183947.337.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NqnXFYBrx-LnQihiz738QSzCqyc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-03-26T183947.337.png
+data: '2025-03-26T22:08:53.994Z'
+tags:
+  - promoção de páscoa
+  - playstation store
+  - descontos em jogos
+  - playstation 4
+  - playstation 5
+  - jogos populares
 ---
 
 A PlayStation Store deu início à sua aguardada promoção de Páscoa nesta quarta-feira (26/03), disponibilizando uma grande variedade de jogos com descontos significativos para os consoles PlayStation 4 e PlayStation 5. A campanha segue até o dia 9 de abril, incluindo títulos populares como Call of Duty: Black Ops 6, Baldur's Gate 3 e Elden Ring.

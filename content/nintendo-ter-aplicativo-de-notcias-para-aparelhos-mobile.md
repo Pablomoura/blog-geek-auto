@@ -1,11 +1,19 @@
 ---
-title: "Nintendo Lança Aplicativo 'Nintendo Today' para Dispositivos Móveis"
-slug: "nintendo-ter-aplicativo-de-notcias-para-aparelhos-mobile"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/VR73lV_JBxg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/F0N4_t0rTYg36tDYZV3MNhF54eU=/480x360/smart/extras/conteudos/imagem_2025-03-27_114124445.png"
-data: "2025-03-27T15:12:10.145Z"
+title: Nintendo Lança Aplicativo 'Nintendo Today' para Dispositivos Móveis
+slug: nintendo-ter-aplicativo-de-notcias-para-aparelhos-mobile
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/VR73lV_JBxg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/F0N4_t0rTYg36tDYZV3MNhF54eU=/480x360/smart/extras/conteudos/imagem_2025-03-27_114124445.png
+data: '2025-03-27T15:12:10.145Z'
+tags:
+  - nintendo
+  - nintendo today
+  - aplicativo móvel
+  - shigeru miyamoto
+  - notícias de jogos
+  - dispositivos móveis
 ---
 
 Em um anúncio surpreendente no último Nintendo Direct, Shigeru Miyamoto, criador de Mario e figura icônica da Nintendo, introduziu o 'Nintendo Today'. Este aplicativo destinado a dispositivos móveis promete ser o hub principal para notícias relacionadas à empresa.

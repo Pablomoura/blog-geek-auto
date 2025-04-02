@@ -1,11 +1,20 @@
 ---
-title: "Branca de Neve | Polêmica no lançamento e 'review bomb' no IMDb"
-slug: "branca-de-neve-filme-recebeu-review-bomb-aponta-imdb-entenda"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/vQnQlwWbYSMgIkMlCUufart_6y0=/987x0/smart/uploads/conteudo/fotos/brancadenevevarianteatrizes_VFHRW72.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OUl7mzXPI9NKENGM343iA_tP16I=/480x360/smart/extras/conteudos/brancadenevevarianteatrizes_RC3HKt5.jpg"
-data: "2025-03-29T19:05:12.076Z"
+title: Branca de Neve | Polêmica no lançamento e 'review bomb' no IMDb
+slug: branca-de-neve-filme-recebeu-review-bomb-aponta-imdb-entenda
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/vQnQlwWbYSMgIkMlCUufart_6y0=/987x0/smart/uploads/conteudo/fotos/brancadenevevarianteatrizes_VFHRW72.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OUl7mzXPI9NKENGM343iA_tP16I=/480x360/smart/extras/conteudos/brancadenevevarianteatrizes_RC3HKt5.jpg
+data: '2025-03-29T19:05:12.076Z'
+tags:
+  - branca de neve
+  - live-action
+  - polêmica
+  - review bomb
+  - imdb
+  - bilheteria
 ---
 
 O lançamento do remake em live-action de Branca de Neve tem sido marcado por desafios. Nos cinemas, o filme iniciou sua trajetória abaixo das expectativas tanto nos Estados Unidos quanto globalmente, alcançando apenas metade da bilheteria de estreia de A Pequena Sereia.

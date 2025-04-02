@@ -1,12 +1,23 @@
 ---
-title: "Shailene Woodley Junta-se ao Elenco da Segunda Temporada de 'Paradise'"
-slug: "paradise-shailene-woodley-entra-para-elenco-da-segunda-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/9MF9R1ITCL5TMCaT0ew9abstsvE=/987x0/smart/uploads/conteudo/fotos/shailene_woodley_paradise.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/XFctWuxyG4jB3Jp-l3_r3k1dYS0=/480x360/smart/extras/conteudos/paradise-renovada-2-temporada_5iUMo5O.png"
-keywords: "Shailene Woodley, Paradise segunda temporada, thriller político, elenco de Paradise, Sterling K. Brown"
-data: "2025-03-31T21:10:38.209Z"
+title: Shailene Woodley Junta-se ao Elenco da Segunda Temporada de 'Paradise'
+slug: paradise-shailene-woodley-entra-para-elenco-da-segunda-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/9MF9R1ITCL5TMCaT0ew9abstsvE=/987x0/smart/uploads/conteudo/fotos/shailene_woodley_paradise.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/XFctWuxyG4jB3Jp-l3_r3k1dYS0=/480x360/smart/extras/conteudos/paradise-renovada-2-temporada_5iUMo5O.png
+keywords: >-
+  Shailene Woodley, Paradise segunda temporada, thriller político, elenco de
+  Paradise, Sterling K. Brown
+data: '2025-03-31T21:10:38.209Z'
+tags:
+  - shailene woodley
+  - paradise
+  - segunda temporada
+  - elenco
+  - série de tv
+  - deadline
 ---
 
 A produção da segunda temporada de 'Paradise' avança a todo vapor, e novos detalhes sobre o elenco começam a emergir. Segundo informações do Deadline, Shailene Woodley, conhecida por seus papéis em 'Big Little Lies' e na franquia 'Divergente', foi escalada para um papel recorrente e significativo na próxima temporada deste sucesso de crítica.

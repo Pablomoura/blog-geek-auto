@@ -1,11 +1,20 @@
 ---
-title: "Superman | Primeiras Imagens de David Corenswet como o Herói são Divulgadas"
-slug: "superman-david-corenswet-aparece-como-o-heri-em-novas-fotos-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/QVwBIA3AiG6jXcjYHJ6AYu0yLAw=/987x0/smart/uploads/conteudo/fotos/supermanvariante_4arhwB2.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/btgWPusokiVp2JU51Kx2saiiLfM=/480x360/smart/extras/conteudos/supermanvariante_tSPjH3j.jpg"
-data: "2025-03-30T14:03:25.447Z"
+title: Superman | Primeiras Imagens de David Corenswet como o Herói são Divulgadas
+slug: superman-david-corenswet-aparece-como-o-heri-em-novas-fotos-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/QVwBIA3AiG6jXcjYHJ6AYu0yLAw=/987x0/smart/uploads/conteudo/fotos/supermanvariante_4arhwB2.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/btgWPusokiVp2JU51Kx2saiiLfM=/480x360/smart/extras/conteudos/supermanvariante_tSPjH3j.jpg
+data: '2025-03-30T14:03:25.447Z'
+tags:
+  - superman
+  - david corenswet
+  - warner bros.
+  - james gunn
+  - fortaleza da solidão
+  - filme de super-herói
 ---
 
 A Warner Bros. divulgou neste domingo (30) imagens inéditas de David Corenswet encarnando Superman, em material promocional do novo filme dirigido por James Gunn. Nas fotos, o ator é visto voando e exibindo uma postura confiante, possivelmente na Fortaleza da Solidão.

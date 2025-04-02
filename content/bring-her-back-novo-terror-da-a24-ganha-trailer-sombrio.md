@@ -1,12 +1,20 @@
 ---
-title: "Bring Her Back: A24 lança trailer sombrio de seu novo filme de terror"
-slug: "bring-her-back-novo-terror-da-a24-ganha-trailer-sombrio"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/kBskrYZfhw8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/1uG1D89Gc8fozI2J7jQfqsnZ9mc=/480x360/smart/extras/conteudos/IMG_4767.png"
-keywords: "Bring Her Back, A24, filme de terror, trailer"
-data: "2025-04-01T14:15:41.705Z"
+title: 'Bring Her Back: A24 lança trailer sombrio de seu novo filme de terror'
+slug: bring-her-back-novo-terror-da-a24-ganha-trailer-sombrio
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/kBskrYZfhw8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/1uG1D89Gc8fozI2J7jQfqsnZ9mc=/480x360/smart/extras/conteudos/IMG_4767.png
+keywords: 'Bring Her Back, A24, filme de terror, trailer'
+data: '2025-04-01T14:15:41.705Z'
+tags:
+  - a24
+  - filme de terror
+  - trailer
+  - danny e michael philippou
+  - bring her back
+  - horror explícito
 ---
 
 O estúdio A24 revelou o primeiro trailer completo de 'Bring Her Back', o mais recente projeto de horror dirigido por Danny e Michael Philippou, conhecidos pelo filme 'Fale Comigo'. O trailer promete uma experiência repleta de tensão, sons perturbadores e violência explícita.

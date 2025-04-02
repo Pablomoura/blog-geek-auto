@@ -1,12 +1,21 @@
 ---
-title: "Cardcaptor Sakura | São Paulo Receberá Café Temático em Maio"
-slug: "cardcaptor-sakura-caf-temtico-ser-inaugurado-em-maio-em-so-paulo"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/1Se7aPxHvKwaQ7INcR8XO7eC50M=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_131436.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/1Se7aPxHvKwaQ7INcR8XO7eC50M=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_131436.png"
-keywords: "Cardcaptor Sakura, café temático, São Paulo"
-data: "2025-03-31T17:11:56.167Z"
+title: Cardcaptor Sakura | São Paulo Receberá Café Temático em Maio
+slug: cardcaptor-sakura-caf-temtico-ser-inaugurado-em-maio-em-so-paulo
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/1Se7aPxHvKwaQ7INcR8XO7eC50M=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_131436.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/1Se7aPxHvKwaQ7INcR8XO7eC50M=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-31_131436.png
+keywords: 'Cardcaptor Sakura, café temático, São Paulo'
+data: '2025-03-31T17:11:56.167Z'
+tags:
+  - cardcaptor sakura
+  - café temático
+  - são paulo
+  - mangá
+  - anime
+  - clamp
 ---
 
 Os fãs de Cardcaptor Sakura terão uma surpresa especial em São Paulo. Um café temático inspirado na popular série de mangá e anime será inaugurado em maio, após um adiamento causado por problemas técnicos. Esse espaço promete oferecer uma experiência única para os admiradores da obra de CLAMP.

@@ -1,12 +1,25 @@
 ---
-title: "One Battle After Another: Leonardo DiCaprio e Paul Thomas Anderson Juntos em Novo Filme"
-slug: "one-battle-after-another-filme-de-leonardo-dicaprio-exibe-trailer-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/iplgaxneRik2W1YbLwnERHIdhbQ=/987x0/smart/uploads/conteudo/fotos/one-battle-after-another-cinemacon.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/B2T1iZhUxcGxN_pFRmUbaonnVfQ=/480x360/smart/extras/conteudos/one-battle-after-another.jpg"
-keywords: "Leonardo DiCaprio, Paul Thomas Anderson, One Battle After Another, CinemaCon, Warner Bros"
-data: "2025-04-02T00:52:02.929Z"
+title: >-
+  One Battle After Another: Leonardo DiCaprio e Paul Thomas Anderson Juntos em
+  Novo Filme
+slug: one-battle-after-another-filme-de-leonardo-dicaprio-exibe-trailer-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/iplgaxneRik2W1YbLwnERHIdhbQ=/987x0/smart/uploads/conteudo/fotos/one-battle-after-another-cinemacon.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/B2T1iZhUxcGxN_pFRmUbaonnVfQ=/480x360/smart/extras/conteudos/one-battle-after-another.jpg
+keywords: >-
+  Leonardo DiCaprio, Paul Thomas Anderson, One Battle After Another, CinemaCon,
+  Warner Bros
+data: '2025-04-02T00:52:02.929Z'
+tags:
+  - leonardo dicaprio
+  - paul thomas anderson
+  - cinemacon
+  - warner bros.
+  - novo filme
+  - colaboração cinematográfica
 ---
 
 Durante o painel da Warner Bros. na CinemaCon, o novo filme 'One Battle After Another', estrelado por Leonardo DiCaprio, foi um dos destaques. DiCaprio compartilhou seu desejo de longa data de trabalhar com o diretor Paul Thomas Anderson, algo que ele almeja há mais de duas décadas. Após sua fala, foi exibida uma prévia do filme, que ainda não está disponível online, mas foi detalhada pelo site Omelete.

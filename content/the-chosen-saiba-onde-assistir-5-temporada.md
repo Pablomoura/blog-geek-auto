@@ -1,11 +1,20 @@
 ---
-title: "The Chosen: Onde Assistir à 5ª Temporada 'Última Ceia'"
-slug: "the-chosen-saiba-onde-assistir-5-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/xYUGHmz_cfT0vC0Ou7g-qO5nnZk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T135237.653.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/n835q8LBAO2oi-MwKjYHgdgY7S4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T135225.252.png"
-data: "2025-03-27T17:08:49.528Z"
+title: 'The Chosen: Onde Assistir à 5ª Temporada ''Última Ceia'''
+slug: the-chosen-saiba-onde-assistir-5-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/xYUGHmz_cfT0vC0Ou7g-qO5nnZk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-27T135237.653.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/n835q8LBAO2oi-MwKjYHgdgY7S4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T135225.252.png
+data: '2025-03-27T17:08:49.528Z'
+tags:
+  - the chosen
+  - 5ª temporada
+  - última ceia
+  - streaming
+  - cinemas
+  - série religiosa
 ---
 
 A aguardada quinta temporada de 'The Chosen', intitulada 'Última Ceia', será lançada em abril. Para os fãs ansiosos, os dois primeiros episódios serão exibidos nos cinemas a partir do dia 10 de abril. Ainda não há confirmação sobre a distribuição dos episódios subsequentes nos cinemas, mas, seguindo o sucesso do ano anterior, é provável que também sejam exibidos. Os ingressos já estão à venda no site oficial da série, thechosenultimaceia.com.br. Para quem deseja relembrar as temporadas anteriores, estas estão disponíveis gratuitamente no app oficial da série e as três primeiras temporadas podem ser assistidas no Prime Video. No Brasil, o SBT está transmitindo a segunda temporada da série.

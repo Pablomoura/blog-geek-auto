@@ -7,6 +7,13 @@ tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/HVVtLYVRl-dZSdQ2e2XDwAoR0OY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T185516.816.png"
 keywords: "Vingadores, Marvel, Carrie Coon, salário, Tracy Letts, MCU"
 data: "2025-04-02T22:09:14.479Z"
+tags:
+  - Vingadores
+  - Marvel
+  - Carrie Coon
+  - salário
+  - Tracy Letts
+  - eMCU
 ---
 
 O elenco já estelar de 'Vingadores: Ultimato' quase contou com mais uma renomada atriz. Recentemente, foi revelado que a Marvel Studios enfrentou uma recusa de Carrie Coon para reprisar seu papel como Proxima Midnight. Segundo Tracy Letts, marido de Coon, a decisão ocorreu após a empresa não oferecer um aumento salarial. 'Ela questionou se haveria algum aumento, considerando o sucesso precedente do filme, e a resposta foi negativa', detalhou Letts em entrevista ao Deadline. Diante da negativa, Coon optou por não participar do projeto, mesmo com a Marvel destacando a oportunidade como um privilégio.

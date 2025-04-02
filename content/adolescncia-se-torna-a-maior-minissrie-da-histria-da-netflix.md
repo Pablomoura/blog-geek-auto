@@ -7,6 +7,13 @@ tipoMidia: video
 thumb: >-
   https://cdn.ome.lt/yAm8xEDuKFiM9czNGk8_Zks2ryw=/480x360/smart/extras/conteudos/01_H6OPnkj.jpg
 data: '2025-03-26T11:27:49.640Z'
+tags:
+  - netflix
+  - minissérie
+  - adolescência
+  - recorde de visualizações
+  - entretenimento
+  - streaming
 ---
 
 A minissérie Adolescência alcançou um marco impressionante ao se tornar a minissérie mais assistida na história da Netflix. Segundo dados recentes, a produção acumulou 66,3 milhões de visualizações em menos de duas semanas após sua estreia em 13 de março.

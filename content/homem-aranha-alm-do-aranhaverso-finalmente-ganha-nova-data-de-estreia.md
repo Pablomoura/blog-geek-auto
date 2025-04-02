@@ -1,12 +1,21 @@
 ---
-title: "Homem-Aranha: Além do Aranhaverso tem estreia marcada para 2027"
-slug: "homem-aranha-alm-do-aranhaverso-finalmente-ganha-nova-data-de-estreia"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/p7phMkWled186rAn-EVge7tgBR4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-18T124743.014.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ps0AdkrySiCdWSHK95igHOz_NxQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-18T124732.957.png"
-keywords: "Homem-Aranha, Aranhaverso, CinemaCon, estreia de filme, Miles Morales"
-data: "2025-04-01T02:32:16.338Z"
+title: 'Homem-Aranha: Além do Aranhaverso tem estreia marcada para 2027'
+slug: homem-aranha-alm-do-aranhaverso-finalmente-ganha-nova-data-de-estreia
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/p7phMkWled186rAn-EVge7tgBR4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-18T124743.014.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ps0AdkrySiCdWSHK95igHOz_NxQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-18T124732.957.png
+keywords: 'Homem-Aranha, Aranhaverso, CinemaCon, estreia de filme, Miles Morales'
+data: '2025-04-01T02:32:16.338Z'
+tags:
+  - 'homem-aranha: além do aranhaverso'
+  - aranhaverso
+  - cinemacon
+  - miles morales
+  - estreia 2027
+  - jharrel jerome
 ---
 
 A aguardada continuação da saga Aranhaverso, 'Homem-Aranha: Além do Aranhaverso', já tem data de lançamento confirmada. O anúncio foi feito durante a CinemaCon deste ano, trazendo alívio aos fãs ansiosos por novidades.

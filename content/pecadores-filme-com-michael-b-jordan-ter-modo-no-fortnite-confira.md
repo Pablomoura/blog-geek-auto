@@ -1,11 +1,20 @@
 ---
-title: "Pecadores: Filme com Michael B. Jordan ganha modo exclusivo no Fortnite"
-slug: "pecadores-filme-com-michael-b-jordan-ter-modo-no-fortnite-confira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/5p5WFqxJsweP__yTuy5nQohkWv0=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_4_vBWIuot.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dpPVFM2GIGK2ThKGC2adW2nYbYQ=/480x360/smart/extras/conteudos/Design_sem_nome_4_5evnZZk.jpg"
-data: "2025-03-26T16:11:51.119Z"
+title: 'Pecadores: Filme com Michael B. Jordan ganha modo exclusivo no Fortnite'
+slug: pecadores-filme-com-michael-b-jordan-ter-modo-no-fortnite-confira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/5p5WFqxJsweP__yTuy5nQohkWv0=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_4_vBWIuot.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dpPVFM2GIGK2ThKGC2adW2nYbYQ=/480x360/smart/extras/conteudos/Design_sem_nome_4_5evnZZk.jpg
+data: '2025-03-26T16:11:51.119Z'
+tags:
+  - michael b. jordan
+  - fortnite
+  - pecadores
+  - ryan coogler
+  - modo exclusivo
+  - 'sinners: survive the night'
 ---
 
 O filme 'Pecadores', dirigido por Ryan Coogler e estrelado por Michael B. Jordan, terá um modo especial no popular jogo Fortnite. Segundo a Variety, o modo será chamado de Sinners: Survive the Night. 
