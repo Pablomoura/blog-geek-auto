@@ -364,6 +364,7 @@ midia: "${novaNoticia.midia}"
 tipoMidia: "${novaNoticia.tipoMidia}"
 thumb: "${novaNoticia.thumb || ""}"
 tags: ["${tags.join('", "')}"]
+keywords: "${tags.join(', ')}"
 data: "${new Date().toISOString()}"
 ---\n\n`;
 
