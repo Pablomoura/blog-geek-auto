@@ -1,11 +1,20 @@
 "use client";
-
 import { useEffect } from "react";
+
+declare global {
+  interface Window {
+    twttr?: {
+      widgets: {
+        load: () => void;
+      };
+    };
+  }
+}
 
 export default function TwitterLoader() {
   useEffect(() => {
-    if (typeof window !== "undefined" && (window as any).twttr?.widgets?.load) {
-      (window as any).twttr.widgets.load();
+    if (typeof window !== "undefined" && window.twttr?.widgets?.load) {
+      window.twttr.widgets.load();
     }
   }, []);
 
