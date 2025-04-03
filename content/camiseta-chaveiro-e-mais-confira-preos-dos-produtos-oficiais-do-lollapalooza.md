@@ -17,9 +17,7 @@ tags:
   - omelete
 ---
 
-A Lolla Store, loja oficial do Lollapalooza Brasil 2025, foi explorada pela equipe do Omelete para uma verificação dos produtos disponíveis e seus respectivos preços.
-
-![Imagem da notícia](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
+A Lolla Store, loja oficial do Lollapalooza Brasil 2025 com produtos disponíveis e seus respectivos preços.
 
 As camisetas oficiais estão sendo vendidas por valores que variam entre R$ 110 e R$ 150, dependendo do modelo, enquanto a camisa de botão está disponível por R$ 210. Os moletons e jaquetas apresentam uma faixa de preço mais ampla, de R$ 330 a R$ 650, e os bonés estão à venda por R$ 120.
 

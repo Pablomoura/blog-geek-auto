@@ -17,7 +17,7 @@ tags:
   - omelete
 ---
 
-A Galápagos Jogos lançou uma promoção especial na Amazon, oferecendo descontos significativos em uma ampla seleção de seus boardgames. Confira alguns dos destaques escolhidos pelo Omelete para você aproveitar: 
+A Galápagos Jogos lançou uma promoção especial na Amazon, oferecendo descontos significativos em uma ampla seleção de seus boardgames. Confira alguns dos destaques escolhidos para você aproveitar: 
 
 ![Imagem da notícia](https://cdn.ome.lt/9ilBaEYU-5n0jb2_NN3cg2EdkCg=/fit-in/837x500/smart/uploads/conteudo/fotos/Captura_de_tela_2025-03-31_175735.png)
 

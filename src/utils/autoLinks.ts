@@ -1,4 +1,3 @@
-// utils/autoLinks.ts
 import fs from "fs/promises";
 import path from "path";
 import matter from "gray-matter";
@@ -6,128 +5,65 @@ import { parseDocument } from "htmlparser2";
 import { DomUtils } from "htmlparser2";
 import { Element, Text, isTag, Node as DomNode, ParentNode, ChildNode } from "domhandler";
 
-export type PalavraChave = {
-  termo: string;
-  slug: string;
-};
+export async function aplicarLinksInternosInteligente(html: string, slugAtual: string): Promise<string> {
+  const dir = path.join(process.cwd(), "content");
+  const files = await fs.readdir(dir);
+  const links: { title: string; slug: string; tags: string[] }[] = [];
 
-const palavrasComuns = [
-  "Mais", "Muito", "Nova", "Novo", "Depois", "Antes", "Hoje", "Agora",
-  "Outros", "Durante", "Mesmo", "Melhor", "Grande", "Apenas", "Também",
-  "Primeiro", "Último", "Próximo", "Segunda", "Terceira", "Quarta",
-  "Quinta", "Sexta", "Sábado", "Domingo", "Janeiro", "Fevereiro",
-  "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro",
-  "Outubro", "Novembro", "Dezembro", "Como", "Estou", "Este", "Detalhes", "Em", "Um", "As", "Os", "De", "Desde", "Então", "Estão",
-  "Até", "Na", "No", "Por", "Para", "Com", "Sobre", "Entre", "Após",
-  "Após", "Além", "Através", "Contra", "Sem", "Cerca", "Contudo", "Neste",
-  "Anterior", "Velho", "Atualmente", "Foi", "Fui", "É", "São", "Embora", "Seja",
-  "Estava", "Estive", "Estão", "Havia", "Houve", "Haverá",
-  "Pequeno", "Bom", "Ruim", "Pior", "Menos", "Isso", "Aquilo", "Esse", "Essa", "Ele", "Ela",
-  "Eles", "Elas", "Nós", "Vocês", "Você", "Teu", "Teus", "Tua", "Tu", "Te",
-  "Segundo", "Terceiro", "Quarto", "Quinto", "Sexto", "Sétimo",
-  "Oitavo", "Nono", "Décimo", "Primeira", "Lançado", "Lançada", "Lançamento",
-  "Lançamentos", "Nas", "Lançando", "Lançados", "Lançadas", "At", "Esta", "Estamos"
-];
-
-function extrairPalavrasProprias(texto: string): string[] {
-  const linhas = texto.split(/\n+/);
-  const frequencia: Record<string, number> = {};
-
-  for (const linha of linhas) {
-    const matches = linha.matchAll(/\b([A-ZÀ-Ú][a-zà-ú]+(?:\s+[A-ZÀ-Ú][a-zà-ú]+)*)\b/g);
-    for (const match of matches) {
-      const termo = match[1].trim();
-
-      const index = linha.indexOf(termo);
-      if (index === 0) continue; // evita palavras no início da frase
-      if (palavrasComuns.includes(termo)) continue; // evita termos genéricos
-
-      frequencia[termo] = (frequencia[termo] || 0) + 1;
-    }
-  }
-
-  return Object.entries(frequencia)
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 10) // aumenta limite para mais chances de uso
-    .map(([termo]) => termo);
-}
-
-export async function gerarPalavrasChave(slugAtual: string): Promise<PalavraChave[]> {
-  const pasta = path.join(process.cwd(), "content");
-  const arquivos = await fs.readdir(pasta);
-
-  const palavras: PalavraChave[] = [];
-
-  for (const nomeArquivo of arquivos) {
-    if (!nomeArquivo.endsWith(".md")) continue;
-
-    const slug = nomeArquivo.replace(".md", "");
+  for (const file of files) {
+    const slug = file.replace(/\.md$/, "");
     if (slug === slugAtual) continue;
 
-    const arquivo = await fs.readFile(path.join(pasta, nomeArquivo), "utf-8");
-    const { data, content } = matter(arquivo);
+    const filePath = path.join(dir, file);
+    const raw = await fs.readFile(filePath, "utf-8");
+    const { data } = matter(raw);
 
-    const termos: string[] = [];
-    if (data.title) termos.push(...extrairPalavrasProprias(data.title));
-    if (data.categoria) termos.push(...extrairPalavrasProprias(data.categoria));
-    termos.push(...extrairPalavrasProprias(content));
-
-    termos.forEach((termo) => {
-      palavras.push({ termo, slug: data.slug || slug });
-    });
+    if (!data.title || !data.tags) continue;
+    links.push({ title: data.title, slug, tags: data.tags.map((t: string) => normalizeTag(t)) });
   }
 
-  return palavras;
-}
-
-function escapeRegExp(text: string): string {
-  return text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-}
-
-export async function aplicarLinksInternosInteligente(html: string, slugAtual: string): Promise<string> {
-  const palavrasChave = await gerarPalavrasChave(slugAtual);
-  let totalLinks = 0;
-  const MAX_LINKS = 10;
-
+  const usados = new Set<string>();
   const doc = parseDocument(`<body>${html}</body>`);
   const body = DomUtils.getElementsByTagName("body", doc.children, true)[0];
 
   const walker = (nodes: DomNode[]) => {
     for (const node of nodes) {
-      if (node.type === "text") {
-        for (const { termo, slug } of palavrasChave) {
-          if (totalLinks >= MAX_LINKS) break;
+      if (node.type === "text" && node.parent && !(node.parent as Element).name?.toLowerCase().includes("a")) {
+        for (const link of links) {
+          for (const tag of link.tags) {
+            if (usados.has(tag)) continue;
 
-          const termoEscapado = escapeRegExp(termo);
-          const regex = new RegExp(`\\b(${termoEscapado})\\b`, "g");
+            const termoEscapado = escapeRegex(tag);
+            const regex = new RegExp(`\\b(${termoEscapado})\\b`, "i");
 
-          if (regex.test((node as Text).data)) {
-            const partes = (node as Text).data.split(regex);
-            const novos: DomNode[] = [];
+            if (regex.test((node as Text).data)) {
+              const partes = (node as Text).data.split(regex);
+              const novos: DomNode[] = [];
 
-            for (let i = 0; i < partes.length; i++) {
-              if (i % 2 === 0) {
-                novos.push(new Text(partes[i]));
-              } else {
-                const el = new Element("a", {
-                  href: `/noticia/${slug}`,
-                  class: "text-orange-500 hover:underline",
-                });
-                el.children = [new Text(partes[i])];
-                novos.push(el);
-                totalLinks++;
+              for (let i = 0; i < partes.length; i++) {
+                if (i % 2 === 0) {
+                  novos.push(new Text(partes[i]));
+                } else {
+                  const el = new Element("a", {
+                    href: `/noticia/${link.slug}`,
+                    class: "underline text-orange-600 hover:text-orange-800",
+                  });
+                  el.children = [new Text(partes[i])];
+                  novos.push(el);
+                  usados.add(tag);
+                }
               }
-            }
 
-            const parent = node.parent as ParentNode;
-            if (parent && Array.isArray(parent.children)) {
-              const childNode = node as ChildNode;
-              const index = parent.children.indexOf(childNode);
-              if (index !== -1) {
-                parent.children.splice(index, 1, ...novos as ChildNode[]);
+              const parent = node.parent as ParentNode;
+              if (parent && Array.isArray(parent.children)) {
+                const childNode = node as ChildNode;
+                const index = parent.children.indexOf(childNode);
+                if (index !== -1) {
+                  parent.children.splice(index, 1, ...novos as ChildNode[]);
+                }
               }
+              break;
             }
-            break;
           }
         }
       } else if (isTag(node) && Array.isArray(node.children)) {
@@ -149,4 +85,12 @@ export async function aplicarLinksInternosInteligente(html: string, slugAtual: s
   });
 
   return DomUtils.getInnerHTML(body);
+}
+
+function escapeRegex(text: string): string {
+  return text.replace(/[.*+?^${}()|[\\]\\]/g, "\\$&");
+}
+
+function normalizeTag(text: string): string {
+  return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
