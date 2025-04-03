@@ -15,6 +15,8 @@ import { markedHighlight } from "marked-highlight";
 import { gfmHeadingId } from "marked-gfm-heading-id";
 import hljs from "highlight.js";
 import "highlight.js/styles/github-dark.css";
+import TwitterLoader from "@/components/TwitterLoader";
+
 
 marked.use(
   gfmHeadingId({
@@ -197,6 +199,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 className="prose dark:prose-invert max-w-none mb-16"
                 dangerouslySetInnerHTML={{ __html: htmlContent }}
               />
+              <TwitterLoader />
 
               {relacionados.length > 0 && (
                 <section className="mt-12 border-t border-gray-700 pt-8">
