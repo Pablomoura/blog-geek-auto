@@ -140,26 +140,29 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
         <Script id="json-ld" type="application/ld+json">
           {JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "BlogPosting",
-            headline: data.title,
-            description: data.resumo || "",
-            image: data.thumb || data.midia || "",
-            author: {
-              "@type": "Organization",
-              name: "GeekNews",
-              url: "https://www.geeknews.com.br",
+            "@type": "NewsArticle",
+            "headline": data.title,
+            "description": data.resumo || "",
+            "image": [data.thumb || data.midia || ""],
+            "datePublished": data.data || new Date().toISOString(),
+            "dateModified": data.data || new Date().toISOString(),
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": `https://www.geeknews.com.br/noticia/${slug}`,
             },
-            publisher: {
+            "author": {
               "@type": "Organization",
-              name: "GeekNews",
-              logo: {
+              "name": "GeekNews",
+              "url": "https://www.geeknews.com.br"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "GeekNews",
+              "logo": {
                 "@type": "ImageObject",
-                url: "https://www.geeknews.com.br/logo.png",
-              },
-            },
-            url: `https://www.geeknews.com.br/noticia/${slug}`,
-            datePublished: data.data || new Date().toISOString(),
-            dateModified: data.data || new Date().toISOString(),
+                "url": "https://www.geeknews.com.br/logo.png"
+              }
+            }
           })}
         </Script>
 
