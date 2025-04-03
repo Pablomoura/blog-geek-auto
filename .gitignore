@@ -42,5 +42,5 @@ next-env.d.ts
 
 public/posts.json
 
-
+scripts/gerar-tags.js
 google-service-account.json
