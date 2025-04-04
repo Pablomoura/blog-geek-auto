@@ -16,21 +16,39 @@ import { gfmHeadingId } from "marked-gfm-heading-id";
 import hljs from "highlight.js";
 import "highlight.js/styles/github-dark.css";
 import TwitterLoader from "@/components/TwitterLoader";
-import Head from "next/head";
-
 
 marked.use(
-  gfmHeadingId({
-    prefix: "heading-"
-  }),
+  gfmHeadingId({ prefix: "heading-" }),
   markedHighlight({
     langPrefix: "hljs language-",
     highlight(code: string) {
       return hljs.highlightAuto(code).value;
-    }    
-    },
-  )
+    }
+  })
 );
+
+export async function generateMetadata({ params }: { params: { slug: string } }) {
+  const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
+  const file = await fs.readFile(filePath, "utf-8");
+  const { data } = matter(file);
+
+  return {
+    title: data.title,
+    description: data.resumo,
+    openGraph: {
+      title: data.title,
+      description: data.resumo,
+      images: [`https://www.geeknews.com.br${data.thumb || data.midia || ""}`],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: data.title,
+      description: data.resumo,
+      site: "@geeknewsbr",
+      images: [`https://www.geeknews.com.br${data.thumb || data.midia || ""}`],
+    },
+  };
+}
 
 async function inserirLinksRelacionados(content: string, slugAtual: string) {
   const dir = path.join(process.cwd(), "content");
@@ -99,7 +117,6 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     const htmlComLinks = await aplicarLinksInternosInteligente(htmlConvertido, slug);
     const htmlContent = DOMPurify.sanitize(htmlComLinks);
 
-
     const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
     const relacionados = [];
     const posts = [];
@@ -136,13 +153,6 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
 
     return (
       <>
-        <Head>
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content={data.title} />
-          <meta name="twitter:description" content={data.resumo || ""} />
-          <meta name="twitter:image" content={`https://www.geeknews.com.br${data.thumb || data.midia || ""}`} />
-          <meta name="twitter:site" content="@geeknewsbr" />
-        </Head>
         <Header />
 
         <Script id="json-ld" type="application/ld+json">
