@@ -175,13 +175,18 @@ async function extrairConteudoNoticia(url) {
     });
 
     const tweets = await page.evaluate(() => {
-      return Array.from(document.querySelectorAll("iframe[data-tweet-id]"))
+      return Array.from(document.querySelectorAll("iframe"))
         .map((iframe) => {
-          const tweetId = iframe.getAttribute("data-tweet-id");
-          return tweetId ? `<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/${tweetId}"></a></blockquote>` : null;
+          const src = iframe.getAttribute("src");
+          const match = src?.match(/twitter\.com\/[^/]+\/status\/(\d+)/);
+          if (match) {
+            const tweetId = match[1];
+            return `<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/${tweetId}"></a></blockquote>`;
+          }
+          return null;
         })
         .filter(Boolean);
-    });
+    });    
 
     const texto = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("p"))
@@ -354,6 +359,7 @@ async function buscarNoticiasOmelete() {
 
     novaNoticia.titulo = reescrito.titulo;
     novaNoticia.resumo = reescrito.resumo;
+    novaNoticia.texto = inserirTweetsNoTexto(novaNoticia.texto, tweets);
     novaNoticia.texto = inserirImagensNoTexto(reescrito.texto, imagensInternas);
     novaNoticia.reescrito = true;
 
