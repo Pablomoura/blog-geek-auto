@@ -16,6 +16,7 @@ import { gfmHeadingId } from "marked-gfm-heading-id";
 import hljs from "highlight.js";
 import "highlight.js/styles/github-dark.css";
 import TwitterLoader from "@/components/TwitterLoader";
+import Head from "next/head";
 
 
 marked.use(
@@ -135,6 +136,13 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
 
     return (
       <>
+        <Head>
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:title" content={data.title} />
+          <meta name="twitter:description" content={data.resumo || ""} />
+          <meta name="twitter:image" content={`https://www.geeknews.com.br${data.thumb || data.midia || ""}`} />
+          <meta name="twitter:site" content="@geeknewsbr" />
+        </Head>
         <Header />
 
         <Script id="json-ld" type="application/ld+json">
