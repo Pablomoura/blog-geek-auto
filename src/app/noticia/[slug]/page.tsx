@@ -31,7 +31,13 @@ marked.use(
   )
 );
 
-export async function generateMetadata({ params }: { params: { slug: string } }) {
+import type { Metadata, ResolvingMetadata } from "next";
+
+export async function generateMetadata(
+  { params }: { params: { slug: string } },
+  _parent?: ResolvingMetadata
+): Promise<Metadata> {
+
   const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
   const file = await fs.readFile(filePath, "utf-8");
   const { data } = matter(file);
