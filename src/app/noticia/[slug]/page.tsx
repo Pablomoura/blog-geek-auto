@@ -103,8 +103,8 @@ async function inserirLinksRelacionados(content: string, slugAtual: string) {
   return paragrafos.join("</p>");
 }
 
-export default async function NoticiaPage(props: { params: Promise<{ slug: string }> }) {
-  const { slug } = await props.params;
+export default async function NoticiaPage({ params }: { params: { slug: string } }) {
+  const { slug } = params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
   try {
