@@ -54,7 +54,7 @@ export async function generateMetadata(props: {
       card: "summary_large_image",
       title: data.title,
       description: data.resumo,
-      site: "@geeknewsbr",
+      site: "@SiteGeekNews",
       images: [imageUrl],
     },
   };
