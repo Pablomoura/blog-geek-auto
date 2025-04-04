@@ -18,7 +18,7 @@ A sequência inicia com uma cena ambientada na delegacia, onde novos membros da 
 
 Em uma segunda sequência, os personagens se encontram em um mercado de peixes, guiados por um castor de sotaque caipira. O local é frequentado por hipopótamos e leões marinhos. Uma tensa interação com uma morsa gigante ocorre quando ela subitamente rouba o peixe dos protagonistas.
 
-O painel da Disney na CinemaCon 2025, marcado para ocorrer ainda hoje às 18h30, promete mais novidades sobre o filme, com cobertura completa pelo Omelete.
+O painel da Disney na CinemaCon 2025, marcado para ocorrer ainda hoje às 18h30.
 
 'Zootopia', lançado em 2016, apresentou uma metrópole habitada por animais antropomórficos, onde uma coelha policial novata e uma raposa astuta e vigarista unem forças para desvendar uma conspiração. A cidade, apesar de sua diversidade, não está livre de problemas, refletindo as complexidades de uma grande cidade.
 
