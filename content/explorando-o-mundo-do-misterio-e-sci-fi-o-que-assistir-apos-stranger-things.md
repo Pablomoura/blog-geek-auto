@@ -5,7 +5,7 @@ resumo: "Se você ficou fascinado pelo mundo enigmático de Stranger Things, est
 categoria: "SÉRIES E TV"
 midia: "/images/stranger-things.jpg"
 tipoMidia: "imagem"
-thumb: "/images/thumb-stranger-things.jpg"
+thumb: "/images/Thumb-strangerthings.jpg"
 keywords: "séries, Stranger Things, ficção científica, mistério, TV shows, entretenimento, dicas de séries, sobrenatural"
 tags: ["séries", "Stranger Things", "ficção científica", "mistério", "TV shows", "entretenimento", "dicas de séries", "sobrenatural"]
 data: "2025-04-03T22:59:22.320Z"
