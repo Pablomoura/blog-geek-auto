@@ -16,6 +16,7 @@ import { gfmHeadingId } from "marked-gfm-heading-id";
 import hljs from "highlight.js";
 import "highlight.js/styles/github-dark.css";
 import TwitterLoader from "@/components/TwitterLoader";
+import type { Metadata, ResolvingMetadata } from "next";
 
 
 marked.use(
@@ -30,8 +31,6 @@ marked.use(
     },
   )
 );
-
-import type { Metadata, ResolvingMetadata } from "next";
 
 export async function generateMetadata(
   { params }: { params: { slug: string } },
