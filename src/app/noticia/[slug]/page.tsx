@@ -16,27 +16,19 @@ import { gfmHeadingId } from "marked-gfm-heading-id";
 import hljs from "highlight.js";
 import "highlight.js/styles/github-dark.css";
 import TwitterLoader from "@/components/TwitterLoader";
-import type { Metadata, ResolvingMetadata } from "next";
-
+import type { Metadata } from "next";
 
 marked.use(
-  gfmHeadingId({
-    prefix: "heading-"
-  }),
+  gfmHeadingId({ prefix: "heading-" }),
   markedHighlight({
     langPrefix: "hljs language-",
     highlight(code: string) {
       return hljs.highlightAuto(code).value;
-    }    
-    },
-  )
+    }
+  })
 );
 
-export async function generateMetadata(
-  { params }: { params: { slug: string } },
-  _parent?: ResolvingMetadata
-): Promise<Metadata> {
-
+export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
   const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
   const file = await fs.readFile(filePath, "utf-8");
   const { data } = matter(file);
