@@ -28,11 +28,19 @@ marked.use(
   })
 );
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
-  const { slug } = await params;
+export async function generateMetadata(props: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await props.params; // 👈 await aqui é necessário no Next.js 15
+
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
   const file = await fs.readFile(filePath, "utf-8");
   const { data } = matter(file);
+
+  const imageUrl =
+    data.thumb?.startsWith("http") || data.midia?.startsWith("http")
+      ? data.thumb || data.midia
+      : `https://www.geeknews.com.br${data.thumb || data.midia || ""}`;
 
   return {
     title: data.title,
@@ -40,14 +48,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     openGraph: {
       title: data.title,
       description: data.resumo,
-      images: [`https://www.geeknews.com.br${data.thumb || data.midia || ""}`],
+      images: [imageUrl],
     },
     twitter: {
       card: "summary_large_image",
       title: data.title,
       description: data.resumo,
       site: "@geeknewsbr",
-      images: [`https://www.geeknews.com.br${data.thumb || data.midia || ""}`],
+      images: [imageUrl],
     },
   };
 }
