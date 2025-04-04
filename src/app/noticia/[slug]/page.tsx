@@ -17,14 +17,18 @@ import hljs from "highlight.js";
 import "highlight.js/styles/github-dark.css";
 import TwitterLoader from "@/components/TwitterLoader";
 
+
 marked.use(
-  gfmHeadingId({ prefix: "heading-" }),
+  gfmHeadingId({
+    prefix: "heading-"
+  }),
   markedHighlight({
     langPrefix: "hljs language-",
     highlight(code: string) {
       return hljs.highlightAuto(code).value;
-    }
-  })
+    }    
+    },
+  )
 );
 
 export async function generateMetadata({ params }: { params: { slug: string } }) {
@@ -103,8 +107,8 @@ async function inserirLinksRelacionados(content: string, slugAtual: string) {
   return paragrafos.join("</p>");
 }
 
-export default async function NoticiaPage({ params }: { params: { slug: string } }) {
-  const { slug } = params;
+export default async function NoticiaPage(props: { params: Promise<{ slug: string }> }) {
+  const { slug } = await props.params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
   try {
@@ -116,6 +120,7 @@ export default async function NoticiaPage({ params }: { params: { slug: string }
     const htmlConvertido = await marked.parse(textoComImagensETweets);
     const htmlComLinks = await aplicarLinksInternosInteligente(htmlConvertido, slug);
     const htmlContent = DOMPurify.sanitize(htmlComLinks);
+
 
     const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
     const relacionados = [];
