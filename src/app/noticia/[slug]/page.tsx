@@ -28,8 +28,9 @@ marked.use(
   })
 );
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const filePath = path.join(process.cwd(), "content", `${slug}.md`);
   const file = await fs.readFile(filePath, "utf-8");
   const { data } = matter(file);
 
