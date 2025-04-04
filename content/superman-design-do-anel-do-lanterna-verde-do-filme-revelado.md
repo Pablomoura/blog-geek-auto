@@ -14,6 +14,8 @@ Em uma revelação aguardada pelos fãs da DC Comics, o design do anel do Lanter
 
 Os detalhes do anel foram compartilhados durante um evento especial nesta sexta-feira, nas instalações da GameStop. O item, que replica com fidelidade o acessório visto nas telas, está previsto para ser um dos produtos mais procurados pelos colecionadores de memorabilia de super-heróis. 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s a look at GameStop’s exclusive Guy Gardner&#39;s Green Lantern replica ring for &#39;SUPERMAN&#39;. <a href="https://t.co/uvZJrPeABS">pic.twitter.com/uvZJrPeABS</a></p>&mdash; DC Film News (@DCFilmNews) <a href="https://twitter.com/DCFilmNews/status/1908260176375013713?ref_src=twsrc%5Etfw">April 4, 2025</a></blockquote> 
+
 A réplica não é apenas um item de coleção, mas também uma peça de joalheria finamente trabalhada. Feito em metal de alta qualidade com acabamento verde brilhante, o anel exibe o símbolo clássico do Lanterna Verde, prometendo ser um item de destaque em qualquer coleção. 
 
 Este lançamento marca um momento significativo para a GameStop, que busca se firmar como um ponto de referência para merchandising exclusivo de filmes. O anel de Guy Gardner está disponível para pré-venda no site da GameStop, e os fãs já estão ansiosos para garantir o seu. 
