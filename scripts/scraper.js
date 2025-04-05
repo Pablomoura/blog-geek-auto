@@ -354,7 +354,6 @@ async function buscarNoticiasOmelete() {
 
     novaNoticia.titulo = reescrito.titulo;
     novaNoticia.resumo = reescrito.resumo;
-    novaNoticia.texto = inserirTweetsNoTexto(novaNoticia.texto, tweets);
     novaNoticia.texto = inserirImagensNoTexto(reescrito.texto, imagensInternas);
     novaNoticia.reescrito = true;
 
