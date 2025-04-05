@@ -118,7 +118,7 @@ Após a morte de Frank Herbert, seu filho Brian Herbert e o autor Kevin J. Ander
 
 Embora os fãs debatam bastante a qualidade das continuações, os seis livros originais continuam sendo o coração da franquia — densos, visionários e cheios de debates profundos sobre humanidade, ecologia, poder e destino.
 
-## 🎬 Adaptações para o cinema e a TV
+## Adaptações para o cinema e a TV
 
 ![Montagem com adaptações de Duna](/images/adaptacoes-duna.jpg "As principais versões de Duna no cinema e na TV")
 
@@ -139,12 +139,12 @@ A série *Duna: A Irmandade*, produzida pela Max (HBO Max), promete expandir o u
 
 ### 🔗 Assista aos trailers oficiais:
 
-- [Trailer de Duna: Parte 2 (2024)](https://www.youtube.com/watch?v=duna-parte2-trailer)
-- [Trailer da série Duna: A Irmandade (2025)](https://www.youtube.com/watch?v=trailer-duna-irmandade)
+- [Trailer de Duna: Parte 2 (2024)](https://www.youtube.com/watch?v=QqmbrvluQRA)
+- [Trailer da série Duna: A Irmandade (2025)](https://www.youtube.com/watch?v=HnmodGQbp1U)
 
-## 🧠 A influência cultural de Duna
+## A influência cultural de Duna
 
-![Cena icônica de Paul Atreides com os Fremen](/images/paul-fremen-cena.jpg "Paul Atreides liderando os Fremen")
+![Cena icônica de Paul Atreides com os Fremen](/images/paul-fremen-cena.webp "Paul Atreides liderando os Fremen")
 
 Duna é frequentemente citada como a maior obra de ficção científica já escrita. Sua influência ultrapassa as fronteiras da literatura e pode ser vista em filmes, séries, jogos, quadrinhos e filosofia contemporânea.
 
@@ -160,7 +160,7 @@ Duna também é citado como inspiração por autores como Neil Gaiman, Dan Simmo
 
 ### Onde posso assistir aos filmes e séries de Duna?
 
-Os filmes *Duna (2021)* e *Duna: Parte 2 (2024)* estão disponíveis na plataforma Max (antiga HBO Max). A série *Duna: A Irmandade* também será lançada por lá.
+Os filmes *Duna (2021)*, *Duna: Parte 2 (2024)* e a série *Duna: A Irmandade* estão disponíveis na plataforma Max (antiga HBO Max).
 
 ### Preciso ler os livros para entender os filmes?
 
@@ -179,5 +179,5 @@ São criaturas gigantes que vivem sob a superfície de Arrakis. Eles são atraí
 É o nome escolhido por Paul Atreides quando se junta aos Fremen. Representa sua nova identidade como líder messiânico e está ligado a uma pequena criatura do deserto — ágil, observadora e resiliente.
 
 ---
-
+###
 Duna é uma obra atemporal, repleta de camadas filosóficas, políticas e espirituais. Com esse guia, você está mais do que pronto para explorar os desertos de Arrakis e entender por que essa história continua fascinando gerações ao redor do mundo.
