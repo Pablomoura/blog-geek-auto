@@ -175,18 +175,13 @@ async function extrairConteudoNoticia(url) {
     });
 
     const tweets = await page.evaluate(() => {
-      return Array.from(document.querySelectorAll("iframe"))
+      return Array.from(document.querySelectorAll("iframe[data-tweet-id]"))
         .map((iframe) => {
-          const src = iframe.getAttribute("src");
-          const match = src?.match(/twitter\.com\/[^/]+\/status\/(\d+)/);
-          if (match) {
-            const tweetId = match[1];
-            return `<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/${tweetId}"></a></blockquote>`;
-          }
-          return null;
+          const tweetId = iframe.getAttribute("data-tweet-id");
+          return tweetId ? `<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/${tweetId}"></a></blockquote>` : null;
         })
         .filter(Boolean);
-    });    
+    });
 
     const texto = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("p"))

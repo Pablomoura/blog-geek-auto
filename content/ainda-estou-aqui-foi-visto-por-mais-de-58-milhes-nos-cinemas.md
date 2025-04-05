@@ -1,5 +1,5 @@
 ---
-title: "Ainda Estou Aqui foi visto por mais de 5,8 milhões nos cinemas"
+title: "Ainda Estou Aqui foi visto por mais de 5,8 milhões de pessoas nos cinemas"
 slug: "ainda-estou-aqui-foi-visto-por-mais-de-58-milhes-nos-cinemas"
 categoria: "FILMES"
 midia: "https://cdn.ome.lt/V7EtxCIb2_gYaNXuxpBrK0pW-V0=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T200236.350.png"

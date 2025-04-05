@@ -65,3 +65,30 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+/* Estilização de tabelas renderizadas a partir de Markdown */
+.prose table {
+  @apply w-full border border-gray-300 dark:border-gray-700 text-sm md:text-base text-left table-auto;
+}
+
+.prose thead {
+  @apply bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300;
+}
+
+.prose th,
+.prose td {
+  @apply border border-gray-300 dark:border-gray-700 px-4 py-2 align-top;
+}
+
+.prose tr:nth-child(even) {
+  @apply bg-gray-50 dark:bg-gray-900;
+}
+
+.prose tr:hover {
+  @apply bg-gray-100 dark:bg-gray-800 transition;
+}
+
+@media (max-width: 640px) {
+  .prose table {
+    @apply block overflow-x-auto whitespace-nowrap;
+  }
+}
