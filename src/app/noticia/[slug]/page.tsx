@@ -131,13 +131,19 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
       `;
     });
 
-    // 3. Continua o fluxo original
     const htmlConvertido = await marked.parse(textoFinal);
-    // Garante que todos os <a> tenham target="_blank" e rel="noopener noreferrer"
-    const htmlComTargetBlank = htmlConvertido.replace(/<a\s+(?![^>]*target=)[^>]*href="([^"]+)"([^>]*)>/g, '<a href="$1"$2 target="_blank" rel="noopener noreferrer">');
 
-    const htmlComLinks = await aplicarLinksInternosInteligente(htmlConvertido, slug);
-    const htmlSanitizado = DOMPurify.sanitize(htmlComTargetBlank, {
+    // Adiciona target="_blank" aos links
+    const htmlComTargetBlank = htmlConvertido.replace(
+      /<a\s+(?![^>]*target=)[^>]*href="([^"]+)"([^>]*)>/g,
+      '<a href="$1"$2 target="_blank" rel="noopener noreferrer">'
+    );
+    
+    // Aplica links internos inteligentes
+    const htmlComLinks = await aplicarLinksInternosInteligente(htmlComTargetBlank, slug);
+    
+    // E aí sanitiza
+    const htmlSanitizado = DOMPurify.sanitize(htmlComLinks, {
       ADD_TAGS: ["iframe"],
       ADD_ATTR: [
         "allow",
@@ -149,7 +155,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
         "loading",
         "class",
         "target",
-        "rel", 
+        "rel",
       ],
     });    
     

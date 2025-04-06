@@ -22,8 +22,6 @@ O mundo dos animes pode parecer gigante e até um pouco intimidador no começo. 
 
 Se você nunca viu anime ou só assistiu um ou dois na infância, essa lista é pra você: são **10 animes fáceis de acompanhar, com histórias cativantes e que conquistam qualquer um logo nos primeiros episódios**.
 
----
-
 ## Como escolhemos os animes da lista?
 
 Os animes desta lista foram escolhidos com base nos seguintes critérios:
@@ -218,16 +216,12 @@ Por que é ideal pra começar:
 
 Hoje em dia, a maioria dos animes populares tem dublagem de ótima qualidade em português. Você pode começar por onde se sentir mais confortável. O importante é curtir a história!
 
----
-
 ### Qual é o melhor anime para quem nunca viu nenhum?
 
 - Se você gosta de ação e fantasia: *Fullmetal Alchemist: Brotherhood* ou *Demon Slayer*  
 - Se prefere suspense: *Death Note*  
 - Se curte comédia leve: *Spy x Family* ou *One Punch Man*  
 - Se quer algo mais romântico e emocional: *Your Name*
-
----
 
 ### Onde assistir anime legalmente no Brasil?
 
@@ -238,17 +232,16 @@ As principais plataformas são:
 - [Prime Video](https://www.primevideo.com): ótimos filmes de anime  
 - [YouTube](https://www.youtube.com): trailers oficiais e episódios de amostra
 
----
-
 ### Existe alguma ordem para ver animes?
 
 A maioria dos animes dessa lista são independentes, então você pode assistir na ordem que quiser. Em franquias maiores (como *My Hero Academia* ou *Attack on Titan*), o ideal é seguir a ordem das temporadas.
-
+####
 ---
 
 ## Conclusão: sempre tem um anime perfeito pra você
 
-Começar no mundo dos animes pode parecer confuso, mas com a lista certa você já entra com o pé direito. Esses 10 animes foram escolhidos para cativar, emocionar, divertir e fazer você entender por que **milhões de pessoas são apaixonadas por esse universo**.
+Começar no mundo dos animes pode parecer confuso, mas com a lista certa você já entra com o pé direito. Esses 10 animes foram escolhidos para cativar, emocionar, divertir e fazer você entender por que **milhões de pessoas são apaixonadas por esse universo**.<br>
+
 
 E aí, qual desses você vai assistir primeiro?  
 Comenta aqui embaixo qual foi seu primeiro anime — ou marca o GeekNews nas redes sociais quando começar sua jornada otaku!
