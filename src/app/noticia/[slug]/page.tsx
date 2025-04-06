@@ -6,7 +6,6 @@ import Header from "@/components/Header";
 import Link from "next/link";
 import Script from "next/script";
 import React from "react";
-import DisqusReset from "@/components/DisqusReset";
 import DOMPurify from "isomorphic-dompurify";
 import ProdutosAmazon from "@/components/ProdutosAmazon";
 import { aplicarLinksInternosInteligente } from "@utils/autoLinks";

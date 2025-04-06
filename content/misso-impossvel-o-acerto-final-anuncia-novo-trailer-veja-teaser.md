@@ -14,6 +14,8 @@ A Paramount Pictures anunciou neste domingo (6) o lançamento de um novo trailer
 
 Sob a direção de Christopher McQuarrie, que já esteve à frente dos três últimos filmes da série, o novo capítulo promete emocionar os seguidores da franquia com a volta de nomes conhecidos como Tom Cruise, Ving Rhames, Henry Czerny, Simon Pegg, Vanessa Kirby, Esai Morales, Hayley Atwell, Shea Whigham, Greg Tarzan Davis e Pom Klementieff.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The thing became bigger <a href="https://twitter.com/hashtag/MissionImpossible?src=hash&amp;ref_src=twsrc%5Etfw">#MissionImpossible</a> The Final Reckoning. <a href="https://t.co/mzjPp6JOry">pic.twitter.com/mzjPp6JOry</a></p>&mdash; Missão: Impossível Brasil (@missaofilm) <a href="https://twitter.com/missaofilm/status/1908871031730712689?ref_src=twsrc%5Etfw">April 6, 2025</a></blockquote>
+
 O elenco será reforçado por novos atores, entre eles Katy O'Brian, Holt McCallany, Nick Offerman, Janet McTeer e Hannah Waddingham. Além disso, o filme marca o retorno de Rolf Saxon como William Donloe, o analista da CIA que não aparece desde o primeiro filme da série, lançado em 1996.
 
 A trama do novo filme ainda está sob sigilo, mas segue os acontecimentos de 'Missão: Impossível - Acerto de Contas'. Este último filme ajustou seu título ao remover o 'Parte 1' e foi bem-sucedido nas bilheterias mundiais, arrecadando US$ 567 milhões. Os desafios continuam com Ethan Hunt e sua equipe enfrentando Gabriel (Esai Morales) e buscando o Sevastopol, um submarino que abriga o servidor da perigosa inteligência artificial conhecida como Entidade.

@@ -6,6 +6,21 @@ type Props = {
   slug: string;
 };
 
+interface DisqusContext {
+    page: {
+      url: string;
+      identifier: string;
+    };
+  }
+  
+
+// Declaração segura no escopo global para evitar 'any'
+declare global {
+  interface Window {
+    disqus_config?: () => void;
+  }
+}
+
 export default function LazyDisqus({ slug }: Props) {
   const ref = useRef<HTMLDivElement>(null);
   const [shouldLoad, setShouldLoad] = useState(false);
@@ -30,10 +45,12 @@ export default function LazyDisqus({ slug }: Props) {
   useEffect(() => {
     if (!shouldLoad) return;
 
-    (window as any).disqus_config = function () {
-      this.page.url = `https://www.geeknews.com.br/noticia/${slug}`;
-      this.page.identifier = slug;
-    };
+    window.disqus_config = function (this: DisqusContext) {
+        this.page = {
+          url: `https://www.geeknews.com.br/noticia/${slug}`,
+          identifier: slug,
+        };
+      };           
 
     const script = document.createElement('script');
     script.src = 'https://geeknewsblog.disqus.com/embed.js';
