@@ -12,16 +12,6 @@ interface Story {
 }
 
 export default function WebStories({ stories }: { stories: Story[] }) {
-  const [spacing, setSpacing] = useState(12);
-
-  useEffect(() => {
-    const handleResize = () => {
-      setSpacing(window.innerWidth < 640 ? 6 : 12); // 👈 define 6px no mobile
-    };
-    handleResize();
-    window.addEventListener("resize", handleResize);
-    return () => window.removeEventListener("resize", handleResize);
-  }, []);
 
   if (stories.length === 0) return null;
 
