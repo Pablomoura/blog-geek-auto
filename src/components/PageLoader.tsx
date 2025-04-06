@@ -21,11 +21,10 @@ export default function PageLoader() {
   }, [isLoading]);
 
   useEffect(() => {
-    // Quando a navegação termina, finaliza
     setProgress(100);
     const timeout = setTimeout(() => setLoading(false), 300);
     return () => clearTimeout(timeout);
-  }, [pathname]);
+  }, [pathname, setLoading]);   
 
   if (!isLoading) return null;
 

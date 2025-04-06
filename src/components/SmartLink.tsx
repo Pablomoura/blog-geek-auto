@@ -1,20 +1,23 @@
 "use client";
-import Link from "next/link";
+import NextLink from "next/link";
 import { usePathname } from "next/navigation";
 import { useLoading } from "@/app/loading-context";
+import { ComponentProps } from "react";
 
-export default function SmartLink({ href, children, ...props }: any) {
+type SmartLinkProps = ComponentProps<typeof NextLink>;
+
+export default function SmartLink({ href, children, ...props }: SmartLinkProps) {
   const pathname = usePathname();
   const { setLoading } = useLoading();
 
   const handleClick = () => {
-    if (href === pathname) return; // ← impede bug da barra ao clicar no mesmo link
+    if (href === pathname) return;
     setLoading(true);
   };
 
   return (
-    <Link href={href} onClick={handleClick} {...props}>
+    <NextLink href={href} onClick={handleClick} {...props}>
       {children}
-    </Link>
+    </NextLink>
   );
 }

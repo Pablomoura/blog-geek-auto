@@ -1,12 +1,20 @@
 "use client";
-import { createContext, useContext, useState } from "react";
+import { createContext, useContext, useState, ReactNode, Dispatch, SetStateAction } from "react";
 
-const LoadingContext = createContext({
+// 1. Define o tipo do contexto
+type LoadingContextType = {
+  isLoading: boolean;
+  setLoading: Dispatch<SetStateAction<boolean>>;
+};
+
+// 2. Cria o contexto com valor inicial apenas para tipagem
+const LoadingContext = createContext<LoadingContextType>({
   isLoading: false,
-  setLoading: (value: boolean) => {},
+  setLoading: () => {}, // função vazia só para inicialização
 });
 
-export function LoadingProvider({ children }: { children: React.ReactNode }) {
+// 3. Provider que realmente usa o estado
+export function LoadingProvider({ children }: { children: ReactNode }) {
   const [isLoading, setLoading] = useState(false);
 
   return (
@@ -16,6 +24,7 @@ export function LoadingProvider({ children }: { children: React.ReactNode }) {
   );
 }
 
+// 4. Hook para usar no restante do app
 export function useLoading() {
   return useContext(LoadingContext);
 }
