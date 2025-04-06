@@ -20,6 +20,8 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import { PostResumo } from "@/types/post";
 import { loadPostCache } from "@/utils/loadPostCache";
+import LazyDisqus from "@/components/LazyDisqus";
+import { otimizarImagensHtml } from "@/utils/otimizarImagensHtml";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -114,7 +116,8 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     const textoComImagensETweets = await inserirLinksRelacionados(content, slug);
     const htmlConvertido = await marked.parse(textoComImagensETweets);
     const htmlComLinks = await aplicarLinksInternosInteligente(htmlConvertido, slug);
-    const htmlContent = DOMPurify.sanitize(htmlComLinks);
+    const htmlSanitizado = DOMPurify.sanitize(htmlComLinks);
+    const htmlContent = otimizarImagensHtml(htmlSanitizado);
 
     const todosPosts: PostResumo[] = await loadPostCache();
 
@@ -235,21 +238,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
               )}
 
               <div id="disqus_thread" className="mt-12" />
-              <DisqusReset slug={slug} />
-              <Script id="disqus-script" strategy="afterInteractive">
-                {`
-                  var disqus_config = function () {
-                    this.page.url = "https://www.geeknews.com.br/noticia/${slug}";
-                    this.page.identifier = "${slug}";
-                  };
-                  (function() {
-                    var d = document, s = d.createElement('script');
-                    s.src = 'https://geeknewsblog.disqus.com/embed.js';
-                    s.setAttribute('data-timestamp', +new Date());
-                    (d.head || d.body).appendChild(s);
-                  })();
-                `}
-              </Script>
+              <LazyDisqus slug={slug} />
               <Script
                 id="twitter-widgets"
                 strategy="afterInteractive"
