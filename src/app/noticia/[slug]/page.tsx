@@ -17,6 +17,7 @@ import hljs from "highlight.js";
 import "highlight.js/styles/github-dark.css";
 import TwitterLoader from "@/components/TwitterLoader";
 import type { Metadata } from "next";
+import Image from "next/image";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -24,15 +25,14 @@ marked.use(
     langPrefix: "hljs language-",
     highlight(code: string) {
       return hljs.highlightAuto(code).value;
-    }
+    },
   })
 );
 
 export async function generateMetadata(props: {
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
-  const { slug } = await props.params; // 👈 await aqui é necessário no Next.js 15
-
+  const { slug } = await props.params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
   const file = await fs.readFile(filePath, "utf-8");
   const { data } = matter(file);
@@ -61,30 +61,21 @@ export async function generateMetadata(props: {
 }
 
 async function inserirLinksRelacionados(content: string, slugAtual: string) {
-  const dir = path.join(process.cwd(), "content");
-  const files = await fs.readdir(dir);
-  const links: { title: string; slug: string }[] = [];
+  const cachePath = path.join(process.cwd(), "public", "cache-posts.json");
+  const cacheRaw = await fs.readFile(cachePath, "utf-8");
+  const todosPosts = JSON.parse(cacheRaw);
 
-  const atualPath = path.join(dir, `${slugAtual}.md`);
-  const atualRaw = await fs.readFile(atualPath, "utf-8");
-  const { data: dataAtual } = matter(atualRaw);
-  const tagsAtuais = (dataAtual.tags || []).map((t: string) => t.toLowerCase());
+  const atual = todosPosts.find((p: any) => p.slug === slugAtual);
+  if (!atual || !atual.tags) return content;
 
-  for (const file of files) {
-    const slug = file.replace(/\.md$/, "");
-    if (slug === slugAtual) continue;
+  const tagsAtuais = atual.tags.map((t: string) => t.toLowerCase());
+  const links = [];
 
-    const filePath = path.join(dir, file);
-    const raw = await fs.readFile(filePath, "utf-8");
-    const { data } = matter(raw);
-
-    const tagsComparar = (data.tags || []).map((t: string) => t.toLowerCase());
+  for (const post of todosPosts) {
+    if (post.slug === slugAtual) continue;
+    const tagsComparar = (post.tags || []).map((t: string) => t.toLowerCase());
     const temMatch = tagsAtuais.some((tag: string) => tagsComparar.includes(tag));
-
-    if (temMatch) {
-      links.push({ title: data.title, slug });
-    }
-
+    if (temMatch) links.push({ title: post.titulo, slug: post.slug });
     if (links.length === 2) break;
   }
 
@@ -127,39 +118,16 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     const htmlComLinks = await aplicarLinksInternosInteligente(htmlConvertido, slug);
     const htmlContent = DOMPurify.sanitize(htmlComLinks);
 
+    const cachePath = path.join(process.cwd(), "public", "cache-posts.json");
+    const cacheRaw = await fs.readFile(cachePath, "utf-8");
+    const todosPosts = JSON.parse(cacheRaw);
 
-    const allFiles = await fs.readdir(path.join(process.cwd(), "content"));
-    const relacionados = [];
-    const posts = [];
+    const relacionados = todosPosts
+      .filter((post: any) => post.slug !== slug && post.categoria === data.categoria)
+      .slice(0, 3);
 
-    for (const fileName of allFiles) {
-      const relatedSlug = fileName.replace(".md", "");
-      if (relatedSlug === slug) continue;
-
-      const relatedPath = path.join(process.cwd(), "content", fileName);
-      const contentRaw = await fs.readFile(relatedPath, "utf-8");
-      const { data: relatedData, content: relatedContent } = matter(contentRaw);
-      const tempoLeituraRel = Math.ceil(relatedContent.split(/\s+/).length / 200);
-
-      relacionados.push({
-        slug: relatedSlug,
-        titulo: relatedData.title,
-        categoria: relatedData.categoria,
-        thumb: relatedData.thumb,
-        tempoLeitura: tempoLeituraRel,
-      });
-
-      posts.push({
-        slug: relatedSlug,
-        titulo: relatedData.title,
-        texto: relatedContent,
-      });
-
-      if (relacionados.length === 3) break;
-    }
-
-    const maisLidas = [...posts]
-      .sort((a, b) => b.texto.length - a.texto.length)
+    const maisLidas = [...todosPosts]
+      .sort((a, b) => b.textoLength - a.textoLength)
       .slice(0, 3);
 
     return (
@@ -170,28 +138,28 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "NewsArticle",
-            "headline": data.title,
-            "description": data.resumo || "",
-            "image": [data.thumb || data.midia || ""],
-            "datePublished": data.data || new Date().toISOString(),
-            "dateModified": data.data || new Date().toISOString(),
-            "mainEntityOfPage": {
+            headline: data.title,
+            description: data.resumo || "",
+            image: [data.thumb || data.midia || ""],
+            datePublished: data.data || new Date().toISOString(),
+            dateModified: data.data || new Date().toISOString(),
+            mainEntityOfPage: {
               "@type": "WebPage",
               "@id": `https://www.geeknews.com.br/noticia/${slug}`,
             },
-            "author": {
+            author: {
               "@type": "Organization",
-              "name": "GeekNews",
-              "url": "https://www.geeknews.com.br"
+              name: "GeekNews",
+              url: "https://www.geeknews.com.br",
             },
-            "publisher": {
+            publisher: {
               "@type": "Organization",
-              "name": "GeekNews",
-              "logo": {
+              name: "GeekNews",
+              logo: {
                 "@type": "ImageObject",
-                "url": "https://www.geeknews.com.br/logo.png"
-              }
-            }
+                url: "https://www.geeknews.com.br/logo.png",
+              },
+            },
           })}
         </Script>
 
@@ -211,7 +179,14 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
               </p>
 
               {data.tipoMidia === "imagem" && (
-                <img src={data.midia} alt={data.title} className="w-full rounded-lg shadow-lg mb-6" />
+                <Image
+                  src={data.midia}
+                  alt={data.title}
+                  width={800}
+                  height={450}
+                  className="w-full rounded-lg shadow-lg mb-6"
+                  priority
+                />
               )}
 
               {data.tipoMidia === "video" && (
@@ -237,7 +212,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 <section className="mt-12 border-t border-gray-700 pt-8">
                   <h2 className="text-2xl font-bold mb-6 text-neutral-900 dark:text-white">🔗 Posts relacionados</h2>
                   <div className="space-y-6">
-                    {relacionados.map((post, index) => (
+                  {relacionados.map((post: any, index: number) => (
                       <Link
                         href={`/noticia/${post.slug}`}
                         key={index}
@@ -298,7 +273,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   <span className="text-yellow-500 text-xl">★</span>
                 </div>
                 <div className="space-y-3">
-                  {maisLidas.map((post, index) => (
+                {maisLidas.map((post: any, index: number) => (
                     <Link
                       key={index}
                       href={`/noticia/${post.slug}`}
@@ -349,7 +324,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 </div>
               </section>
               <div className="">
-                {posts[0] && <ProdutosAmazon categoria={data.categoria} />}
+              {todosPosts[0] && <ProdutosAmazon categoria={data.categoria} />}
               </div>
             </aside>
           </div>

@@ -6,6 +6,7 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
+    "gerar-cache": "node scripts/gerar-cache-posts.js",
     "lint": "next lint"
   },
   "dependencies": {
