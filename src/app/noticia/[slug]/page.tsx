@@ -18,6 +18,8 @@ import "highlight.js/styles/github-dark.css";
 import TwitterLoader from "@/components/TwitterLoader";
 import type { Metadata } from "next";
 import Image from "next/image";
+import { PostResumo } from "@/types/post";
+import { loadPostCache } from "@/utils/loadPostCache";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -28,7 +30,6 @@ marked.use(
     },
   })
 );
-
 export async function generateMetadata(props: {
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
@@ -61,20 +62,17 @@ export async function generateMetadata(props: {
 }
 
 async function inserirLinksRelacionados(content: string, slugAtual: string) {
-  const cachePath = path.join(process.cwd(), "public", "cache-posts.json");
-  const cacheRaw = await fs.readFile(cachePath, "utf-8");
-  const todosPosts = JSON.parse(cacheRaw);
-
-  const atual = todosPosts.find((p: any) => p.slug === slugAtual);
+  const todosPosts = await loadPostCache();
+  const atual = todosPosts.find((p) => p.slug === slugAtual);
   if (!atual || !atual.tags) return content;
 
-  const tagsAtuais = atual.tags.map((t: string) => t.toLowerCase());
+  const tagsAtuais = atual.tags.map((t) => t.toLowerCase());
   const links = [];
 
   for (const post of todosPosts) {
     if (post.slug === slugAtual) continue;
-    const tagsComparar = (post.tags || []).map((t: string) => t.toLowerCase());
-    const temMatch = tagsAtuais.some((tag: string) => tagsComparar.includes(tag));
+    const tagsComparar = (post.tags || []).map((t) => t.toLowerCase());
+    const temMatch = tagsAtuais.some((tag) => tagsComparar.includes(tag));
     if (temMatch) links.push({ title: post.titulo, slug: post.slug });
     if (links.length === 2) break;
   }
@@ -103,7 +101,6 @@ async function inserirLinksRelacionados(content: string, slugAtual: string) {
 
   return paragrafos.join("</p>");
 }
-
 export default async function NoticiaPage(props: { params: Promise<{ slug: string }> }) {
   const { slug } = await props.params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
@@ -112,114 +109,117 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     const file = await fs.readFile(filePath, "utf-8");
     const { data, content } = matter(file);
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
+    const publicadoEm = new Date(data.data).toLocaleDateString("pt-BR");
 
     const textoComImagensETweets = await inserirLinksRelacionados(content, slug);
     const htmlConvertido = await marked.parse(textoComImagensETweets);
     const htmlComLinks = await aplicarLinksInternosInteligente(htmlConvertido, slug);
     const htmlContent = DOMPurify.sanitize(htmlComLinks);
 
-    const cachePath = path.join(process.cwd(), "public", "cache-posts.json");
-    const cacheRaw = await fs.readFile(cachePath, "utf-8");
-    const todosPosts = JSON.parse(cacheRaw);
+    const todosPosts: PostResumo[] = await loadPostCache();
 
     const relacionados = todosPosts
-      .filter((post: any) => post.slug !== slug && post.categoria === data.categoria)
+      .filter((post) => post.slug !== slug && post.categoria === data.categoria)
       .slice(0, 3);
 
     const maisLidas = [...todosPosts]
       .sort((a, b) => b.textoLength - a.textoLength)
       .slice(0, 3);
-
-    return (
-      <>
-        <Header />
-
-        <Script id="json-ld" type="application/ld+json">
-          {JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "NewsArticle",
-            headline: data.title,
-            description: data.resumo || "",
-            image: [data.thumb || data.midia || ""],
-            datePublished: data.data || new Date().toISOString(),
-            dateModified: data.data || new Date().toISOString(),
-            mainEntityOfPage: {
-              "@type": "WebPage",
-              "@id": `https://www.geeknews.com.br/noticia/${slug}`,
-            },
-            author: {
-              "@type": "Organization",
-              name: "GeekNews",
-              url: "https://www.geeknews.com.br",
-            },
-            publisher: {
-              "@type": "Organization",
-              name: "GeekNews",
-              logo: {
-                "@type": "ImageObject",
-                url: "https://www.geeknews.com.br/logo.png",
+      return (
+        <>
+          <Header />
+  
+          <Script id="json-ld" type="application/ld+json">
+            {JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "NewsArticle",
+              headline: data.title,
+              description: data.resumo || "",
+              image: [data.thumb || data.midia || ""],
+              datePublished: data.data || new Date().toISOString(),
+              dateModified: data.data || new Date().toISOString(),
+              mainEntityOfPage: {
+                "@type": "WebPage",
+                "@id": `https://www.geeknews.com.br/noticia/${slug}`,
               },
-            },
-          })}
-        </Script>
-
-        <Script src="https://platform.twitter.com/widgets.js" strategy="afterInteractive" />
-
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="w-full bg-gray-200 dark:bg-gray-800 h-32 mt-8 mb-8 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
-            Publicidade
-          </div>
-
-          <div className="flex flex-col lg:flex-row gap-14">
-            <main className="flex-1 w-full lg:pr-10 py-10 text-neutral-900 dark:text-white">
-              <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">{data.categoria}</span>
-              <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mt-2 mb-6">{data.title}</h1>
-              <p className="text-neutral-600 dark:text-gray-400 text-sm mb-6">
-                Publicado em {new Date().toLocaleDateString("pt-BR")} • {tempoLeitura} min de leitura
-              </p>
-
-              {data.tipoMidia === "imagem" && (
-                <Image
-                  src={data.midia}
-                  alt={data.title}
-                  width={800}
-                  height={450}
-                  className="w-full rounded-lg shadow-lg mb-6"
-                  priority
-                />
-              )}
-
-              {data.tipoMidia === "video" && (
-                <div className="relative pb-[56.25%] mb-6 h-0 overflow-hidden rounded-lg shadow-lg">
-                  <iframe
+              author: {
+                "@type": "Organization",
+                name: "GeekNews",
+                url: "https://www.geeknews.com.br",
+              },
+              publisher: {
+                "@type": "Organization",
+                name: "GeekNews",
+                logo: {
+                  "@type": "ImageObject",
+                  url: "https://www.geeknews.com.br/logo.png",
+                },
+              },
+            })}
+          </Script>
+  
+          <Script src="https://platform.twitter.com/widgets.js" strategy="afterInteractive" />
+  
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="w-full bg-gray-200 dark:bg-gray-800 h-32 mt-8 mb-8 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
+              Publicidade
+            </div>
+  
+            <div className="flex flex-col lg:flex-row gap-14">
+              <main className="flex-1 w-full lg:pr-10 py-10 text-neutral-900 dark:text-white">
+                <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">{data.categoria}</span>
+                <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mt-2 mb-6">{data.title}</h1>
+                <p className="text-neutral-600 dark:text-gray-400 text-sm mb-6">
+                  Publicado em {publicadoEm} • {tempoLeitura} min de leitura
+                </p>
+  
+                {data.tipoMidia === "imagem" && (
+                  <Image
                     src={data.midia}
-                    title={data.title}
-                    className="absolute top-0 left-0 w-full h-full"
-                    frameBorder="0"
-                    allowFullScreen
-                    loading="lazy"
+                    alt={data.title}
+                    width={800}
+                    height={450}
+                    className="w-full rounded-lg shadow-lg mb-6"
+                    priority
                   />
-                </div>
-              )}
-
-              <div
-                className="prose dark:prose-invert max-w-none mb-16"
-                dangerouslySetInnerHTML={{ __html: htmlContent }}
-              />
-              <TwitterLoader />
-
-              {relacionados.length > 0 && (
+                )}
+  
+                {data.tipoMidia === "video" && (
+                  <div className="relative pb-[56.25%] mb-6 h-0 overflow-hidden rounded-lg shadow-lg">
+                    <iframe
+                      src={data.midia}
+                      title={data.title}
+                      className="absolute top-0 left-0 w-full h-full"
+                      frameBorder="0"
+                      allowFullScreen
+                      loading="lazy"
+                    />
+                  </div>
+                )}
+  
+                <div
+                  className="prose dark:prose-invert max-w-none mb-16"
+                  dangerouslySetInnerHTML={{ __html: htmlContent }}
+                />
+                <TwitterLoader />
+                {relacionados.length > 0 && (
                 <section className="mt-12 border-t border-gray-700 pt-8">
                   <h2 className="text-2xl font-bold mb-6 text-neutral-900 dark:text-white">🔗 Posts relacionados</h2>
                   <div className="space-y-6">
-                  {relacionados.map((post: any, index: number) => (
+                    {relacionados.map((post, index) => (
                       <Link
                         href={`/noticia/${post.slug}`}
                         key={index}
                         className="flex gap-4 bg-white dark:bg-gray-900 p-4 rounded-lg shadow hover:shadow-md hover:bg-gray-100 dark:hover:bg-gray-800 transition overflow-hidden"
                       >
                         {post.thumb && (
-                          <img src={post.thumb} alt={post.titulo} className="w-32 h-24 object-cover rounded-md" />
+                          <Image
+                            src={post.thumb}
+                            alt={post.titulo}
+                            width={128}
+                            height={96}
+                            className="w-32 h-24 object-cover rounded-md"
+                          />
                         )}
                         <div className="flex flex-col justify-center">
                           <p className="text-orange-500 text-xs font-bold uppercase mb-1">{post.categoria}</p>
@@ -251,20 +251,20 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 `}
               </Script>
               <Script
-                  id="twitter-widgets"
-                  strategy="afterInteractive"
-                  src="https://platform.twitter.com/widgets.js"
-                />
+                id="twitter-widgets"
+                strategy="afterInteractive"
+                src="https://platform.twitter.com/widgets.js"
+              />
               <noscript>
                 Por favor, habilite o JavaScript para visualizar os{" "}
                 <a href="https://disqus.com/?ref_noscript">comentários fornecidos pelo Disqus</a>.
               </noscript>
             </main>
-
             <aside className="w-full lg:w-[320px] flex-shrink-0 space-y-10">
               <div className="bg-gray-200 dark:bg-gray-800 h-32 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400 mb-8">
                 Publicidade
               </div>
+
               <section className="mb-8">
                 <div className="flex items-center justify-between mb-4 border-b pb-2">
                   <h2 className="text-sm uppercase tracking-widest font-semibold text-gray-600 dark:text-gray-300">
@@ -273,7 +273,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   <span className="text-yellow-500 text-xl">★</span>
                 </div>
                 <div className="space-y-3">
-                {maisLidas.map((post: any, index: number) => (
+                  {maisLidas.map((post, index) => (
                     <Link
                       key={index}
                       href={`/noticia/${post.slug}`}
@@ -285,6 +285,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   ))}
                 </div>
               </section>
+
               <section className="mb-8">
                 <div className="flex items-center justify-between mb-4 border-b pb-2">
                   <h2 className="text-sm uppercase tracking-widest font-semibold text-gray-600 dark:text-gray-300">
@@ -292,14 +293,13 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   </h2>
                 </div>
                 <div className="space-y-3">
-                  
-                <Link
+                  <Link
                     href={`/noticia/como-jogar-rpg-de-mesa`}
                     className="flex items-start gap-4 bg-orange-100 dark:bg-orange-200 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
                   >
                     <span className="text-3xl font-light text-gray-400 dark:text-gray-800 w-6">4</span>
                     <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-800 hover:dark:text-gray-200 leading-snug">
-                    <b>Como Começar a Jogar RPG de Mesa:</b> Guia Passo a Passo para Iniciantes
+                      <b>Como Começar a Jogar RPG de Mesa:</b> Guia Passo a Passo para Iniciantes
                     </p>
                   </Link>
                   <Link
@@ -308,7 +308,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   >
                     <span className="text-3xl font-light text-gray-400 dark:text-gray-800 w-6">5</span>
                     <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-800 hover:dark:text-gray-200 leading-snug">
-                    <b>Dicionário Geek:</b> 50 Termos que Todo Nerd Precisa Conhecer
+                      <b>Dicionário Geek:</b> 50 Termos que Todo Nerd Precisa Conhecer
                     </p>
                   </Link>
                   <Link
@@ -317,14 +317,14 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   >
                     <span className="text-3xl font-light text-gray-400 dark:text-gray-800 w-6">6</span>
                     <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-800 hover:dark:text-gray-200 leading-snug">
-                    <b>A História dos Videogames:</b> Da Era Atari à Geração Atual
+                      <b>A História dos Videogames:</b> Da Era Atari à Geração Atual
                     </p>
                   </Link>
-                  
                 </div>
               </section>
-              <div className="">
-              {todosPosts[0] && <ProdutosAmazon categoria={data.categoria} />}
+
+              <div>
+                {todosPosts[0] && <ProdutosAmazon categoria={data.categoria} />}
               </div>
             </aside>
           </div>
@@ -341,3 +341,4 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     return notFound();
   }
 }
+  
