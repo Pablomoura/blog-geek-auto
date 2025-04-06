@@ -1,27 +1,27 @@
 {
-  "data": "2025-04-05",
+  "data": "2025-04-06",
   "filmes": {
-    "slug": "guia-completo-sobre-o-universo-de-duna-para-iniciantes",
-    "titulo": "Guia completo sobre o universo de Duna para iniciantes",
-    "thumb": "/images/Thumb-Duna.jpg",
+    "slug": "ordem-cronologica-marvel-2025",
+    "titulo": "Ordem cronológica dos filmes e séries da Marvel a partir de 2025: veja o que vem aí no MCU",
+    "thumb": "/images/Thumb-marvel-2025.jpg",
     "categoria": "Filmes",
-    "resumo": "Explore o universo de Duna com este guia definitivo: entenda a história, as facções, os personagens principais, as adaptações em filmes e séries, e descubra como começar a saga que influenciou gerações.",
-    "data": "2025-04-05T12:00:00.000Z"
+    "resumo": "Confira todos os filmes e séries da Marvel já confirmados para 2025, 2026 e 2027, organizados em ordem cronológica. Veja o que vem por aí no MCU, incluindo Thunderbolts, Quarteto Fantástico, Vingadores: Secret Wars e mais.",
+    "data": "2025-04-06T23:00:00.000Z"
   },
   "games": {
-    "slug": "marvel-rivals-temporada-2-ter-evento-marcante-dos-quadrinhos",
-    "titulo": "Marvel Rivals | Segunda Temporada Introduz Evento Icônico dos Quadrinhos",
-    "thumb": "https://cdn.ome.lt/nf9quiVSpTqDPVsfCtshb6sqrn4=/480x360/smart/extras/conteudos/imagem_2025-04-04_154744042.png",
-    "categoria": "GAMES",
-    "resumo": "\nA aguardada segunda temporada de Marvel Rivals já tem data marcada para começar: 11 de abril. O evento principal desta atualização será o Hellfire Gala, conhec",
-    "data": "2025-04-04T19:08:37.561Z"
+    "slug": "the-duskbloods-fromsoftware-switch2",
+    "titulo": "The Duskbloods: tudo sobre o novo jogo da FromSoftware exclusivo para o Switch 2",
+    "thumb": "/images/Thumb-Duskbloods.jpg",
+    "categoria": "Games",
+    "resumo": "The Duskbloods é o novo projeto da FromSoftware com exclusividade para o Switch 2. Descubra tudo sobre a história, gameplay PvPvE, estética gótica e o que já foi revelado sobre esse universo sombrio e ambicioso.",
+    "data": "2025-04-06T22:00:00.000Z"
   },
   "series": {
-    "slug": "the-last-of-us-2-temporada-hbo",
-    "titulo": "The Last of Us 2ª temporada: tudo o que já sabemos sobre a nova fase da série da HBO",
-    "thumb": "/images/Thumb-the-last-of-us-2temporada.jpg",
-    "categoria": "Séries e TV",
-    "resumo": "A segunda temporada de The Last of Us está em produção e promete adaptar os eventos emocionantes (e polêmicos) do segundo jogo. Veja elenco confirmado, previsões de estreia, mudanças e tudo o que já sabemos até agora.",
-    "data": "2025-04-05T12:00:00.000Z"
+    "slug": "demolidor-renascido-vilo-muse-destaque-em-novo-pster-com-spoiler",
+    "titulo": "Demolidor: Renascido | Revelado Novo Pôster com o Vilão Muse",
+    "thumb": "https://cdn.ome.lt/I_lW4Clw5MAEEl04vu2jj9OnWx8=/480x360/smart/extras/conteudos/demolidorrenascido_lRlrXKd.jpg",
+    "categoria": "SÉRIES E TV",
+    "resumo": "\nO serviço de streaming Disney+ divulgou neste sábado (5) um intrigante pôster da série 'Demolidor: Renascido', dando destaque ao vilão Muse. A arte mostra o an",
+    "data": "2025-04-05T20:09:33.591Z"
   }
 }
