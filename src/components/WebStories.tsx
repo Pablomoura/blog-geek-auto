@@ -1,8 +1,9 @@
 "use client";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
-import Link from "@/components/SmartLink"; // usa o seu link customizado;
+import Link from "next/link";
 import { Plus } from "lucide-react";
+import { useEffect, useState } from "react";
 
 interface Story {
   slug: string;
@@ -11,18 +12,29 @@ interface Story {
 }
 
 export default function WebStories({ stories }: { stories: Story[] }) {
+  const [spacing, setSpacing] = useState(12);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setSpacing(window.innerWidth < 640 ? 6 : 12); // 👈 define 6px no mobile
+    };
+    handleResize();
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+
   if (stories.length === 0) return null;
 
   return (
     <section className="py-4 mb-2">
       <div className="max-w-6xl mx-auto px-4">
       <Swiper
-        spaceBetween={12}
-        slidesPerView={2.5} // padrão mobile
+        slidesPerView={2.5} // fallback
         breakpoints={{
-            640: { slidesPerView: 4 },
-            768: { slidesPerView: 6 },
-            1024: { slidesPerView: 8 },
+            0: { slidesPerView: 3.5, spaceBetween: 6 },     // 👈 mobile
+            640: { slidesPerView: 4, spaceBetween: 8 },
+            768: { slidesPerView: 6, spaceBetween: 10 },
+            1024: { slidesPerView: 8, spaceBetween: 12 },   // 👈 desktop
         }}
         >
           {stories.slice(0, 7).map((story) => (
@@ -41,8 +53,6 @@ export default function WebStories({ stories }: { stories: Story[] }) {
               </Link>
             </SwiperSlide>
           ))}
-
-          {/* Botão "Mais stories" */}
           <SwiperSlide>
             <Link
               href="/stories"

@@ -1,7 +1,7 @@
 ---
 title: "Os 10 melhores animes para iniciantes (com trailers e onde assistir)"
 slug: "melhores-animes-para-iniciantes"
-categoria: "Animes e Mangás"
+categoria: "MANGÁS E ANIMES"
 resumo: "Se você quer começar a assistir animes, mas não sabe por onde, esse guia vai te ajudar! Selecionamos 10 animes perfeitos para iniciantes, com trailers, número de episódios e onde assistir legalmente no Brasil."
 data: "2025-04-06T23:50:00.000Z"
 thumb: "/images/Thumb-animes-para-iniciantes.jpg"
