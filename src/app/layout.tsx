@@ -2,9 +2,10 @@
 import './globals.css';
 import Script from 'next/script';
 import { Metadata } from 'next';
-import Link from 'next/link';
-// Você pode criar esse componente depois em components/CookieBanner.tsx
+import Link from "@/components/SmartLink"; // usa o seu link customizado
 import CookieBanner from '@/components/CookieBanner';
+import PageLoader from "@/components/PageLoader";
+import { LoadingProvider } from "@/app/loading-context";
 
 export const metadata: Metadata = {
   title: "GeekNews - O melhor do mundo geek",
@@ -43,6 +44,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body className="bg-white text-neutral-900 dark:bg-black dark:text-white font-sans">
+        <LoadingProvider>
+        <PageLoader />
         <CookieBanner />
         <main>{children}</main>
         <footer className="mt-10 text-center py-4 bg-gray-900 text-white text-sm">
@@ -57,6 +60,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </Link>
           </p>
         </footer>
+        </LoadingProvider>
       </body>
     </html>
   );

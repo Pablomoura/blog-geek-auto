@@ -3,7 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { notFound } from "next/navigation";
 import Header from "@/components/Header";
-import Link from "next/link";
+import Link from "@/components/SmartLink"; // usa o seu link customizado
 import Script from "next/script";
 import React from "react";
 import DOMPurify from "isomorphic-dompurify";

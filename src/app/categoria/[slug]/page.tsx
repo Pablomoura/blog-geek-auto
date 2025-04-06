@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
 import matter from "gray-matter";
-import Link from "next/link";
+import Link from "@/components/SmartLink"; // usa o seu link customizado
 import React from "react";
 import ProdutosAmazon from "@/components/ProdutosAmazon";
 
