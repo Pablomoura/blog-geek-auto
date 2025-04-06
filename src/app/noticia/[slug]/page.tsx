@@ -112,10 +112,47 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
     const publicadoEm = new Date(data.data).toLocaleDateString("pt-BR");
 
-    const textoComImagensETweets = await inserirLinksRelacionados(content, slug);
-    const htmlConvertido = await marked.parse(textoComImagensETweets);
+    // 1. Insere links relacionados
+    let textoFinal = await inserirLinksRelacionados(content, slug);
+
+    // 2. Converte marcação [youtube]: https://www.youtube.com/watch?v=ID
+    textoFinal = textoFinal.replace(/\[youtube\]:\s*(https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]+))/g, (_match, url, videoId) => {
+      return `
+        <div class="relative pb-[56.25%] h-0 overflow-hidden rounded-lg shadow-lg my-8">
+          <iframe
+            src="https://www.youtube.com/embed/${videoId}"
+            title="YouTube video"
+            class="absolute top-0 left-0 w-full h-full"
+            frameborder="0"
+            allowfullscreen
+            loading="lazy"
+          ></iframe>
+        </div>
+      `;
+    });
+
+    // 3. Continua o fluxo original
+    const htmlConvertido = await marked.parse(textoFinal);
+    // Garante que todos os <a> tenham target="_blank" e rel="noopener noreferrer"
+    const htmlComTargetBlank = htmlConvertido.replace(/<a\s+(?![^>]*target=)[^>]*href="([^"]+)"([^>]*)>/g, '<a href="$1"$2 target="_blank" rel="noopener noreferrer">');
+
     const htmlComLinks = await aplicarLinksInternosInteligente(htmlConvertido, slug);
-    const htmlSanitizado = DOMPurify.sanitize(htmlComLinks);
+    const htmlSanitizado = DOMPurify.sanitize(htmlComTargetBlank, {
+      ADD_TAGS: ["iframe"],
+      ADD_ATTR: [
+        "allow",
+        "allowfullscreen",
+        "frameborder",
+        "scrolling",
+        "src",
+        "title",
+        "loading",
+        "class",
+        "target",
+        "rel", 
+      ],
+    });    
+    
     const htmlContent = otimizarImagensHtml(htmlSanitizado);
 
     const todosPosts: PostResumo[] = await loadPostCache();
