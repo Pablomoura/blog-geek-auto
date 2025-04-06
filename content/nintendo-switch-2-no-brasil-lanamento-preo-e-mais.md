@@ -8,6 +8,7 @@ thumb: >-
   https://cdn.ome.lt/GOY3PC5lv6eZA6IVUHaoUNqTtFs=/480x360/smart/extras/conteudos/00_4ogJLso.jpg
 keywords: 'Nintendo Switch 2, lançamento, preço, Brasil'
 data: '2025-04-02T14:59:47.954Z'
+story: true
 tags:
   - nintendo switch 2
   - lançamento no brasil

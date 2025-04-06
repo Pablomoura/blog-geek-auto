@@ -8,6 +8,7 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/hP2cLRgDEY7fi1mpzZNv29JiX44=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T122951.129.png
 data: '2025-03-25T18:11:45.435Z'
+story: true
 tags:
   - netflix
   - minissérie

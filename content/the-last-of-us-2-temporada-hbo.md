@@ -7,6 +7,7 @@ data: "2025-04-05T12:00:00.000Z"
 thumb: "/images/Thumb-the-last-of-us-2temporada.jpg"
 midia: "/images/the-last-of-us-2temporada.jpg"
 tipoMidia: "imagem"
+story: true
 tags:
   - the last of us
   - the last of us hbo

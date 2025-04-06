@@ -7,6 +7,7 @@ data: "2025-04-06T23:00:00.000Z"
 thumb: "/images/Thumb-marvel-2025.jpg"
 midia: "/images/marvel-2025-capa.jpg"
 tipoMidia: "imagem"
+story: true
 tags:
   - marvel
   - mcu

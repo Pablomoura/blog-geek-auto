@@ -9,6 +9,7 @@ thumb: "/images/Thumb-jogos-de-tabuleiro.jpg"
 keywords: "jogos de tabuleiro, entretenimento, jogos com amigos, jogos clássicos, jogos de estratégia, jogos cooperativos, jogos em grupo, noite de jogos"
 tags: ["jogos de tabuleiro", "entretenimento", "jogos com amigos", "jogos clássicos", "jogos de estratégia", "jogos cooperativos", "jogos em grupo", "noite de jogos"]
 data: "2025-04-03T17:27:49.218Z"
+story: true
 ---
 
 ## Introdução

@@ -10,6 +10,7 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/Kyv3BIq5z7EtuPqrjkqzApLQO7o=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-27T105459.222.png
 data: '2025-03-27T14:10:13.995Z'
+story: true
 tags:
   - batman
   - giancarlo esposito

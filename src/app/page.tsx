@@ -6,6 +6,7 @@ import Link from "@/components/SmartLink"; // usa o seu link customizado
 import Header from "@/components/Header";
 import React from "react";
 import ProdutosAmazon from "@/components/ProdutosAmazon";
+import WebStories from "@/components/WebStories";
 
 type Banner = {
   slug: string;
@@ -39,6 +40,7 @@ interface Post {
   texto: string;
   tempoLeitura: number;
   resumo: string;
+  story?: boolean; 
 }
 
 export const metadata = {
@@ -82,7 +84,8 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
         texto: content,
         tempoLeitura,
         resumo: resumoMap[data.slug] || "",
-      });
+        story: data.story === true, // 👈 garante que ele entra como boolean
+      });      
     } else {
       console.warn(`Post ignorado: ${nomeArquivo} está com campos faltando no frontmatter.`);
     }
@@ -91,6 +94,8 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
   posts.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
 
   const cache = await carregarCacheBanners();
+
+  const stories = posts.filter((p) => p.story === true);
 
   const bannerFilmes = cache.filmes;
   const bannerGames = cache.games;
@@ -106,9 +111,9 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
   return (
     <>
       <Header />
-      
+      {stories.length > 0 && <WebStories stories={stories} />}
       {/* BANNERS PRINCIPAIS */}
-      <section className="max-w-5xl mx-auto px-6 py-10 grid grid-cols-1 md:grid-cols-3 gap-6">
+      <section className="max-w-5xl mx-auto px-6 pt-2 pb-8 grid grid-cols-1 md:grid-cols-3 gap-6">
         {bannerFilmes && (
           <Link
             href={`/noticia/${bannerFilmes.slug}`}

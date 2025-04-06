@@ -11,6 +11,7 @@ keywords: >-
   Nintendo, Zelda, Breath of the Wild, Tears of the Kingdom, Switch 2, tradução,
   português, lançamento
 data: '2025-04-02T14:58:59.764Z'
+story: true
 tags:
   - nintendo
   - zelda

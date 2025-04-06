@@ -7,6 +7,7 @@ data: "2025-04-06T22:00:00.000Z"
 thumb: "/images/Thumb-Duskbloods.jpg"
 midia: "https://www.youtube.com/embed/niKHDEKQ7xA?si=TJpFwkChFokIBMRO"
 tipoMidia: "video"
+story: true
 tags:
   - the duskbloods
   - fromsoftware

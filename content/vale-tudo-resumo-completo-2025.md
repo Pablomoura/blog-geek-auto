@@ -7,6 +7,7 @@ data: "2025-04-05T12:00:00.000Z"
 thumb: "/images/Thumb-vale-tudo-original.jpg"
 midia: "/images/vale-tudo-original.jpg"
 tipoMidia: "imagem"
+story: true
 tags:
   - vale tudo
   - novelas clássicas

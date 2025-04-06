@@ -8,6 +8,7 @@ thumb: "https://cdn.ome.lt/EODmYZi0vGjmRgfzgxZonEu2u_4=/480x360/smart/extras/con
 tags: ["Superman", "James Gunn", "DC Studios", "Krypto", "Fortaleza da Solidão", "CinemaCon", "trailer de filme", "heróis DC"]
 keywords: "Superman, James Gunn, DC Studios, Krypto, Fortaleza da Solidão, CinemaCon, trailer de filme, heróis DC"
 data: "2025-04-04T13:23:22.918Z"
+story: true
 ---
 
 O DC Studios lançou um novo trailer do filme Superman, dirigido por James Gunn, na última quinta-feira. O material, que foi exibido originalmente na CinemaCon, serve como uma prévia que será mostrada antes das sessões de Um Filme Minecraft nos cinemas. James Gunn esclareceu que, apesar do lançamento, este não é o trailer oficial, que será divulgado em breve, mais precisamente no dia 14 de abril, durante o Superman Day.
