@@ -101,3 +101,19 @@ body {
 .prose blockquote p {
   @apply m-0;
 }
+/* Listas padrão renderizadas em markdown */
+.prose ul {
+  @apply list-disc pl-6 mb-4 text-gray-800 dark:text-gray-200;
+}
+
+.prose ol {
+  @apply list-decimal pl-6 mb-4 text-gray-800 dark:text-gray-200;
+}
+
+.prose li {
+  @apply mb-1 leading-relaxed;
+}
+
+.prose li::marker {
+  @apply text-orange-500 dark:text-orange-400;
+}
