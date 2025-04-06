@@ -1,7 +1,7 @@
 "use client";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
-import Link from "next/link";
+import Link from "@/components/SmartLink"; // usa o seu link customizado
 import { Plus } from "lucide-react";
 import { useEffect, useState } from "react";
 
@@ -39,7 +39,7 @@ export default function WebStories({ stories }: { stories: Story[] }) {
         >
           {stories.slice(0, 7).map((story) => (
             <SwiperSlide key={story.slug}>
-              <Link href={`/noticia/${story.slug}`} className="flex flex-col items-center text-center group">
+              <Link href={`/stories/${story.slug}`} className="flex flex-col items-center text-center group">
                 <div className="w-24 h-24 md:w-28 md:h-28 rounded-full overflow-hidden border-4 border-orange-500 group-hover:scale-105 transition shadow-lg">
                   <img
                     src={story.thumb}
