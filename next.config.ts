@@ -1,3 +1,7 @@
+export const config = {
+  compress: true,
+};
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
