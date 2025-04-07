@@ -1,15 +1,15 @@
-import { aplicarLinksInternosInteligente } from "../src/utils/autoLinks.js";
-import fs from "fs/promises";
-import fsExtra from "fs-extra";
-import path from "path";
-import matter from "gray-matter";
-import { marked } from "marked";
-import { markedHighlight } from "marked-highlight";
-import { gfmHeadingId } from "marked-gfm-heading-id";
-import hljs from "highlight.js";
-import DOMPurify from "isomorphic-dompurify";
-import { loadPostCache } from "../src/utils/loadPostCache.js";
-import { otimizarImagensHtml } from "../src/utils/otimizarImagensHtml.js";
+const fs = require("fs/promises");
+const fsExtra = require("fs-extra");
+const path = require("path");
+const matter = require("gray-matter");
+const { marked } = require("marked");
+const { markedHighlight } = require("marked-highlight");
+const { gfmHeadingId } = require("marked-gfm-heading-id");
+const hljs = require("highlight.js");
+const DOMPurify = require("isomorphic-dompurify");
+const { loadPostCache } = require("../src/utils/loadPostCache");
+const { aplicarLinksInternosInteligente } = require("../src/utils/autoLinks");
+const { otimizarImagensHtml } = require("../src/utils/otimizarImagensHtml");
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -75,7 +75,6 @@ async function buildCache() {
     const slug = fileName.replace(".md", "");
     const htmlPath = path.join(cacheDir, `${slug}.html`);
 
-    // Verifica se o arquivo já está atualizado
     try {
       const [mdStat, htmlStat] = await Promise.all([
         fs.stat(filePath),

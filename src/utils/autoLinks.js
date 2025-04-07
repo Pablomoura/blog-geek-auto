@@ -1,8 +1,10 @@
-import fs from "fs/promises";
-import path from "path";
-import matter from "gray-matter";
+/* eslint-disable @typescript-eslint/no-require-imports */
 
-export async function aplicarLinksInternosInteligente(html, slugAtual) {
+const fs = require("fs/promises");
+const path = require("path");
+const matter = require("gray-matter");
+
+async function aplicarLinksInternosInteligente(html, slugAtual) {
   const contentDir = path.join(process.cwd(), "content");
   const files = await fs.readdir(contentDir);
   const links = [];
@@ -26,3 +28,5 @@ export async function aplicarLinksInternosInteligente(html, slugAtual) {
 
   return html;
 }
+
+module.exports = { aplicarLinksInternosInteligente };
