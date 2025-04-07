@@ -2,14 +2,14 @@
   "name": "blog-geek-auto",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev --turbopack",
     "start": "next start",
     "gerar-cache": "node scripts/gerar-cache-posts.js",
     "lint": "next lint",
     "build:cache": "node scripts/build-html-cache.js",
-    "build": "npm run build:cache && next build",
-    "type": "module"
+    "build": "npm run build:cache && next build"
   },
   "dependencies": {
     "axios": "^1.8.4",
