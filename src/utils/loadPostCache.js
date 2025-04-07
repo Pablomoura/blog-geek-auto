@@ -1,7 +1,7 @@
-import fs from "fs/promises";
-import path from "path";
+const fs = require("fs/promises");
+const path = require("path");
 
-export async function loadPostCache() {
+async function loadPostCache() {
   const cachePath = path.join(process.cwd(), "public", "cache-posts.json");
   try {
     const raw = await fs.readFile(cachePath, "utf-8");
@@ -12,3 +12,5 @@ export async function loadPostCache() {
     return [];
   }
 }
+
+module.exports = { loadPostCache };
