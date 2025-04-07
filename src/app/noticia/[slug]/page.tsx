@@ -2,8 +2,9 @@ import fs from "fs/promises";
 import path from "path";
 import matter from "gray-matter";
 import { notFound } from "next/navigation";
+import fsExtra from "fs-extra";
 import Header from "@/components/Header";
-import Link from "@/components/SmartLink"; // usa o seu link customizado
+import Link from "@/components/SmartLink";
 import Script from "next/script";
 import React from "react";
 import DOMPurify from "isomorphic-dompurify";
@@ -15,13 +16,11 @@ import { gfmHeadingId } from "marked-gfm-heading-id";
 import hljs from "highlight.js";
 import "highlight.js/styles/github-dark.css";
 import TwitterLoader from "@/components/TwitterLoader";
-import type { Metadata } from "next";
 import Image from "next/image";
 import { PostResumo } from "@/types/post";
 import { loadPostCache } from "@/utils/loadPostCache";
 import LazyDisqus from "@/components/LazyDisqus";
 import { otimizarImagensHtml } from "@/utils/otimizarImagensHtml";
-
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -32,36 +31,6 @@ marked.use(
     },
   })
 );
-export async function generateMetadata(props: {
-  params: Promise<{ slug: string }>;
-}): Promise<Metadata> {
-  const { slug } = await props.params;
-  const filePath = path.join(process.cwd(), "content", `${slug}.md`);
-  const file = await fs.readFile(filePath, "utf-8");
-  const { data } = matter(file);
-
-  const imageUrl =
-    data.thumb?.startsWith("http") || data.midia?.startsWith("http")
-      ? data.thumb || data.midia
-      : `https://www.geeknews.com.br${data.thumb || data.midia || ""}`;
-
-  return {
-    title: data.title,
-    description: data.resumo,
-    openGraph: {
-      title: data.title,
-      description: data.resumo,
-      images: [imageUrl],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: data.title,
-      description: data.resumo,
-      site: "@SiteGeekNews",
-      images: [imageUrl],
-    },
-  };
-}
 
 async function inserirLinksRelacionados(content: string, slugAtual: string) {
   const todosPosts = await loadPostCache();
@@ -103,6 +72,7 @@ async function inserirLinksRelacionados(content: string, slugAtual: string) {
 
   return paragrafos.join("</p>");
 }
+
 export default async function NoticiaPage(props: { params: Promise<{ slug: string }> }) {
   const { slug } = await props.params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
@@ -113,65 +83,68 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
     const publicadoEm = new Date(data.data).toLocaleDateString("pt-BR");
 
-    // 1. Insere links relacionados
-    let textoFinal = await inserirLinksRelacionados(content, slug);
+    // Verifica se já existe HTML no cache
+    const cacheDir = path.join(process.cwd(), "public", "cache", "html");
+    const htmlPath = path.join(cacheDir, `${slug}.html`);
 
-    // 2. Converte marcação [youtube]: https://www.youtube.com/watch?v=ID
-    textoFinal = textoFinal.replace(/\[youtube\]:\s*(https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]+))/g, (_match, url, videoId) => {
-      return `
-        <div class="relative pb-[56.25%] h-0 overflow-hidden rounded-lg shadow-lg my-8">
-          <iframe
-            src="https://www.youtube.com/embed/${videoId}"
-            title="YouTube video"
-            class="absolute top-0 left-0 w-full h-full"
-            frameborder="0"
-            allowfullscreen
-            loading="lazy"
-          ></iframe>
-        </div>
-      `;
-    });
+    let htmlContent: string;
 
-    const htmlConvertido = await marked.parse(textoFinal);
+    if (await fsExtra.pathExists(htmlPath)) {
+      htmlContent = await fs.readFile(htmlPath, "utf-8");
+    } else {
+      let textoFinal = await inserirLinksRelacionados(content, slug);
 
-    // Adiciona target="_blank" aos links
-    const htmlComTargetBlank = htmlConvertido.replace(
-      /<a\s+(?![^>]*target=)[^>]*href="([^"]+)"([^>]*)>/g,
-      '<a href="$1"$2 target="_blank" rel="noopener noreferrer">'
-    );
-    
-    // Aplica links internos inteligentes
-    const htmlComLinks = await aplicarLinksInternosInteligente(htmlComTargetBlank, slug);
-    
-    // E aí sanitiza
-    const htmlSanitizado = DOMPurify.sanitize(htmlComLinks, {
-      ADD_TAGS: ["iframe"],
-      ADD_ATTR: [
-        "allow",
-        "allowfullscreen",
-        "frameborder",
-        "scrolling",
-        "src",
-        "title",
-        "loading",
-        "class",
-        "target",
-        "rel",
-      ],
-    });    
-    
-    const htmlContent = otimizarImagensHtml(htmlSanitizado);
+      textoFinal = textoFinal.replace(/\[youtube\]:\s*(https:\/\/www\\.youtube\\.com\/watch\?v=([a-zA-Z0-9_-]+))/g, (_match, url, videoId) => {
+        return `
+          <div class="relative pb-[56.25%] h-0 overflow-hidden rounded-lg shadow-lg my-8">
+            <iframe
+              src="https://www.youtube.com/embed/${videoId}"
+              title="YouTube video"
+              class="absolute top-0 left-0 w-full h-full"
+              frameborder="0"
+              allowfullscreen
+              loading="lazy"
+            ></iframe>
+          </div>
+        `;
+      });
+
+      const htmlConvertido = await marked.parse(textoFinal);
+
+      const htmlComTargetBlank = htmlConvertido.replace(
+        /<a\s+(?![^>]*target=)[^>]*href="([^"]+)"([^>]*)>/g,
+        '<a href="$1"$2 target="_blank" rel="noopener noreferrer">'
+      );
+
+      const htmlComLinks = await aplicarLinksInternosInteligente(htmlComTargetBlank, slug);
+
+      const htmlSanitizado = DOMPurify.sanitize(htmlComLinks, {
+        ADD_TAGS: ["iframe"],
+        ADD_ATTR: [
+          "allow",
+          "allowfullscreen",
+          "frameborder",
+          "scrolling",
+          "src",
+          "title",
+          "loading",
+          "class",
+          "target",
+          "rel",
+        ],
+      });
+
+      htmlContent = otimizarImagensHtml(htmlSanitizado);
+
+      await fsExtra.ensureDir(cacheDir);
+      await fs.writeFile(htmlPath, htmlContent);
+    }
 
     const todosPosts: PostResumo[] = await loadPostCache();
+    const relacionados = todosPosts.filter((post) => post.slug !== slug && post.categoria === data.categoria).slice(0, 3);
+    const maisLidas = [...todosPosts].sort((a, b) => b.textoLength - a.textoLength).slice(0, 3);
 
-    const relacionados = todosPosts
-      .filter((post) => post.slug !== slug && post.categoria === data.categoria)
-      .slice(0, 3);
-
-    const maisLidas = [...todosPosts]
-      .sort((a, b) => b.textoLength - a.textoLength)
-      .slice(0, 3);
-      return (
+    return (
         <>
           <Header />
   
