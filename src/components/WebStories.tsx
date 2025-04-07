@@ -3,7 +3,6 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import Link from "@/components/SmartLink"; // usa o seu link customizado
 import { Plus } from "lucide-react";
-import { useEffect, useState } from "react";
 
 interface Story {
   slug: string;

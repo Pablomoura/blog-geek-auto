@@ -1,6 +1,6 @@
 // app/stories/[slug]/viewer.tsx
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect, useState, useCallback } from "react";
 import { useRouter } from "next/navigation";
 import Image from "next/image";
 
@@ -20,6 +20,22 @@ export default function FullscreenStory({ stories, slugAtual }: { stories: Story
     setIndiceAtual(index >= 0 ? index : 0);
   }, [slugAtual, stories]);
 
+  const irParaProximo = useCallback(() => {
+    const proximo = indiceAtual + 1;
+    if (proximo < stories.length) {
+      router.push(`/stories/${stories[proximo].slug}`);
+    } else {
+      router.push("/");
+    }
+  }, [indiceAtual, stories, router]);
+
+  function irParaAnterior() {
+    const anterior = indiceAtual - 1;
+    if (anterior >= 0) {
+      router.push(`/stories/${stories[anterior].slug}`);
+    }
+  }
+
   useEffect(() => {
     if (stories.length === 0) return;
     setProgresso(0);
@@ -33,23 +49,7 @@ export default function FullscreenStory({ stories, slugAtual }: { stories: Story
       });
     }, 80);
     return () => clearInterval(intervalo);
-  }, [indiceAtual, stories]);
-
-  function irParaProximo() {
-    const proximo = indiceAtual + 1;
-    if (proximo < stories.length) {
-      router.push(`/stories/${stories[proximo].slug}`);
-    } else {
-      router.push("/");
-    }
-  }
-
-  function irParaAnterior() {
-    const anterior = indiceAtual - 1;
-    if (anterior >= 0) {
-      router.push(`/stories/${stories[anterior].slug}`);
-    }
-  }
+  }, [indiceAtual, stories, irParaProximo]);
 
   const story = stories[indiceAtual];
   if (!story) return null;
