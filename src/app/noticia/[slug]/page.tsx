@@ -21,7 +21,7 @@ import { PostResumo } from "@/types/post";
 import { loadPostCache } from "@/utils/loadPostCache";
 import LazyDisqus from "@/components/LazyDisqus";
 import { otimizarImagensHtml } from "@/utils/otimizarImagensHtml";
-import fsExtra from "fs-extra";
+
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
