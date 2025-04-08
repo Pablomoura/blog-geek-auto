@@ -11,6 +11,8 @@ const { loadPostCache } = require("../src/utils/loadPostCache");
 const { aplicarLinksInternosInteligente } = require("../src/utils/autoLinks");
 const { otimizarImagensHtml } = require("../src/utils/otimizarImagensHtml");
 
+const force = process.argv.includes("--force");
+
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
   markedHighlight({
@@ -80,7 +82,7 @@ async function buildCache() {
         fs.stat(filePath),
         fs.stat(htmlPath)
       ]);
-      if (htmlStat.mtimeMs >= mdStat.mtimeMs) {
+      if (!force && htmlStat.mtimeMs >= mdStat.mtimeMs) {
         console.log(`⏩ Pulado (sem alterações): ${slug}`);
         continue;
       }
@@ -91,9 +93,9 @@ async function buildCache() {
     const raw = await fs.readFile(filePath, "utf-8");
     const { data, content } = matter(raw);
 
-    let textoFinal = await inserirLinksRelacionados(content, slug);
+    let markdown = content;
 
-    textoFinal = textoFinal.replace(
+    markdown = markdown.replace(
       /\[youtube\]:\s*(https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]+))/g,
       (_match, url, videoId) => {
         return `
@@ -111,11 +113,13 @@ async function buildCache() {
       }
     );
 
-    const htmlConvertido = await marked.parse(textoFinal);
+    const htmlConvertido = await marked.parse(markdown);
+
     const htmlComTargetBlank = htmlConvertido.replace(
       /<a\s+(?![^>]*target=)[^>]*href="([^"]+)"([^>]*)>/g,
       '<a href="$1"$2 target="_blank" rel="noopener noreferrer">'
     );
+
     const htmlComLinks = await aplicarLinksInternosInteligente(htmlComTargetBlank, slug);
     const htmlSanitizado = DOMPurify.sanitize(htmlComLinks, {
       ADD_TAGS: ["iframe"],

@@ -117,3 +117,8 @@ body {
 .prose li::marker {
   @apply text-orange-500 dark:text-orange-400;
 }
+
+.prose p {
+  margin-bottom: 1.45em;
+  line-height: 1.7;
+}
