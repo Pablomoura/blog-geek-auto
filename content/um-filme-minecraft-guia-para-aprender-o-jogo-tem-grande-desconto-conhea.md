@@ -14,6 +14,8 @@ Coincidindo com a estreia do filme 'Um Filme Minecraft' nos cinemas, o jogo Mine
 
 ![Imagem da notícia](https://cdn.ome.lt/cntucgfNjzMUw4tguDBfJa6XkwU=/fit-in/837x500/smart/uploads/conteudo/fotos/Captura_de_tela_2025-04-08_130737.png)
 
+> [Link para compra:](https://amzn.to/4ldFoSG)
+
 Atualmente, a coleção está disponível com um desconto de 25%, reduzindo o preço de R$ 260 para R$ 194,33, o que representa menos de R$ 40 por livro. Esta promoção exclusiva pode ser encontrada na Amazon. Os usuários destacam os guias como excelentes recursos tanto para colecionadores quanto para novatos que desejam aprofundar seus conhecimentos em Minecraft.
 
 O elenco do filme 'Um Filme Minecraft' inclui Jason Momoa, Jack Black, Emma Myers, Jennifer Coolidge, Danielle Brooks e Sebastian Eugene Hansen, com direção de Jared Hess. O filme narra a aventura de quatro desajustados que, ao serem transportados para o mundo cúbico de Overworld, precisam dominar o ambiente para retornar ao seu mundo original, enfrentando diversos desafios e criaturas malignas.

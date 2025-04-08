@@ -1,7 +1,7 @@
 ---
 title: "Solo Leveling (Light Novel): análise completa dos livros e por que vale a pena ler"
 slug: "solo-leveling-light-novel-analise-livros"
-categoria: "Animes e Mangás"
+categoria: "MANGÁS E ANIMES"
 resumo: "Descubra por que os livros de Solo Leveling vão além do anime e do webtoon. Análise completa da light novel, com ordem de leitura, diferenças entre formatos e links para comprar com segurança na Amazon."
 data: "2025-04-08T15:20:00.000Z"
 thumb: "/images/ThumbSoloLevgeling.webp"
