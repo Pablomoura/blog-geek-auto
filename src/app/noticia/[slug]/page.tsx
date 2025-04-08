@@ -21,6 +21,7 @@ import { PostResumo } from "@/types/post";
 import { loadPostCache } from "@/utils/loadPostCache";
 import LazyDisqus from "@/components/LazyDisqus";
 import { otimizarImagensHtml } from "@/utils/otimizarImagensHtml";
+import type { Metadata } from "next";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -31,6 +32,46 @@ marked.use(
     },
   })
 );
+
+export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+  const { slug } = params;
+  const filePath = path.join(process.cwd(), "content", `${slug}.md`);
+
+  try {
+    const file = await fs.readFile(filePath, "utf-8");
+    const { data } = matter(file);
+
+    const imageUrl =
+      data.thumb?.startsWith("http") || data.midia?.startsWith("http")
+        ? data.thumb || data.midia
+        : `https://www.geeknews.com.br${data.thumb || data.midia || ""}`;
+
+    return {
+      title: data.title,
+      description: data.resumo,
+      keywords: data.tags || [],
+      openGraph: {
+        title: data.title,
+        description: data.resumo,
+        images: [imageUrl],
+        type: "article",
+        url: `https://www.geeknews.com.br/noticia/${slug}`,
+      },
+      twitter: {
+        card: "summary_large_image",
+        title: data.title,
+        description: data.resumo,
+        site: "@SiteGeekNews",
+        images: [imageUrl],
+      },
+    };
+  } catch {
+    return {
+      title: "Notícia não encontrada",
+      description: "Esta notícia pode ter sido removida.",
+    };
+  }
+}
 
 async function inserirLinksRelacionados(content: string, slugAtual: string) {
   const todosPosts = await loadPostCache();

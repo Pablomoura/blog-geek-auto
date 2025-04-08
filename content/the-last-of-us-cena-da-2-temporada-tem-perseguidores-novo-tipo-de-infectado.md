@@ -14,6 +14,8 @@ Uma recente prévia divulgada nesta terça-feira (08) anuncia uma empolgante adi
 
 A aclamada série da HBO, sob a direção de Craig Mazin (Chernobyl) e Neil Druckmann da Naughty Dog, expande seu universo narrativo ao adentrar os eventos de The Last of Us Parte II. Diferentemente da primeira temporada, que se concentrou integralmente no primeiro jogo, a sequência da série abrangerá mais de uma temporada para detalhar a complexa trama do segundo jogo.
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">New clip from <a href="https://twitter.com/hashtag/TheLastOfUs?src=hash&amp;ref_src=twsrc%5Etfw">#TheLastOfUs</a> Season 2 <a href="https://t.co/61TrGjOWXi">pic.twitter.com/61TrGjOWXi</a></p>&mdash; ؘ (@TheLastofUsTV) <a href="https://twitter.com/TheLastofUsTV/status/1909462474933358891?ref_src=twsrc%5Etfw">April 8, 2025</a></blockquote> 
+
 O elenco desta nova temporada conta com adições significativas, incluindo Kaitlyn Dever no papel de Abby, uma combatente em jornada de vingança, Isabela Merced como Dina, o novo interesse amoroso de Ellie, e Young Mazino que interpreta Jesse, figura ligada ao passado de Dina. Estes personagens desempenham papéis cruciais tanto no jogo quanto na adaptação televisiva.
 
 A temporada também traz Danny Ramirez (Top Gun: Maverick) como Manny, Tati Gabrielle (Uncharted: Fora do Mapa) interpretando Nora, Ariela Barer (How to Blow Up a Pipeline) no papel de Mel, e Spencer Lord (Riverdale) como Owen. Esses personagens são amigos próximos de Abby na narrativa, cada um trazendo suas próprias complexidades e histórias pessoais que enriquecem a trama.
