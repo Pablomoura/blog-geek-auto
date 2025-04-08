@@ -5,7 +5,7 @@ categoria: "Filmes"
 resumo: "Confira todos os filmes e séries da Marvel já confirmados para 2025, 2026 e 2027, organizados em ordem cronológica. Veja o que vem por aí no MCU, incluindo Thunderbolts, Quarteto Fantástico, Vingadores: Secret Wars e mais."
 data: "2025-04-06T23:00:00.000Z"
 thumb: "/images/Thumb-marvel-2025.jpg"
-midia: "/images/marvel-2025-capa.jpg"
+midia: "/images/marvel-2025-capa.webp"
 tipoMidia: "imagem"
 story: true
 tags:

@@ -194,12 +194,13 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
   
                 {data.tipoMidia === "imagem" && (
                   <Image
-                    src={data.midia}
-                    alt={data.title}
-                    width={800}
-                    height={450}
-                    className="w-full rounded-lg shadow-lg mb-6"
-                    priority
+                  src={data.midia}
+                  alt={data.title}
+                  width={800}
+                  height={450}
+                  sizes="(max-width: 768px) 100vw, 800px"
+                  className="w-full rounded-lg shadow-lg mb-6"
+                  priority
                   />
                 )}
   
