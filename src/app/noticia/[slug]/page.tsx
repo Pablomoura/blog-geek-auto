@@ -33,8 +33,13 @@ marked.use(
   })
 );
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  const { slug } = params;
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params; // 👈 necessário com Next.js 15
+
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
   try {
