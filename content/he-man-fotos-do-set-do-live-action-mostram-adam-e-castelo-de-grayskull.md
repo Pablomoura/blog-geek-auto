@@ -12,6 +12,8 @@ data: "2025-04-09T12:17:43.726Z"
 
 As gravações do filme Mestres do Universo, que adapta o icônico desenho He-Man e os Mestres do Universo, seguem em plena atividade. Novas fotos do set divulgadas recentemente mostram a construção parcial do Castelo de Grayskull, utilizando técnicas de efeitos práticos, e oferecem um breve olhar sobre o Príncipe Adam, o alter-ego de He-Man.
 
+<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">Filtraciones desde el set de Masters of the Universe revelan la icónica mandíbula del castillo de Grayskull: Efectos prácticos + CGI <a href="https://t.co/1jNxKKzaxp">pic.twitter.com/1jNxKKzaxp</a></p>&mdash; Baul de Comic (@BauldeComic) <a href="https://twitter.com/BauldeComic/status/1909771775493144686?ref_src=twsrc%5Etfw">April 9, 2025</a></blockquote>
+
 O elenco da nova versão de Mestres do Universo conta com Nicholas Galitzine interpretando He-Man, Hafthor Bjornsson no papel de Goat Man e Camila Mendes como Teela. Além disso, Jared Leto assume o papel de Esqueleto; Alison Brie, conhecida por sua atuação em GLOW, será Maligna; Sam C. Wilson, de A Casa do Dragão, interpreta Mandíbula; Kojo Attah, visto em In the Grey, será Triclope; e Morena Baccarin dará vida à Feiticeira.
 
 A direção do filme está nas mãos de Travis Knight, conhecido por seu trabalho em Kubo e as Cordas Mágicas e Bumblebee. Chris Butler, um colaborador frequente de Knight, foi chamado para reescrever o roteiro, que tinha sido originalmente criado por David Callaham, roteirista de Homem-Aranha: Através do Aranhaverso.
