@@ -2,8 +2,8 @@
 title: "Diretor de arte histórico de World of Warcraft morre aos 54 anos"
 slug: "diretor-de-arte-histrico-de-world-of-warcraft-morre-aos-54-anos"
 categoria: "GAMES"
-midia: "https://www.youtube.com/embed/xCY-bwivPRc?enablejsapi=1"
-tipoMidia: "video"
+midia: "https://cdn.ome.lt/OMkX0DpA9MZ2utuAJiH7cij6zoY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-09T181601.875.png"
+tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/hROyKAMgFFHX5C5SvsAcO895Pno=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T181601.875.png"
 tags: ["Blizzard Entertainment", "World of Warcraft", "Overwatch", "Bill Petras", "diretor de arte", "videogames", "falecimento", "indústria de jogos"]
 keywords: "Blizzard Entertainment, World of Warcraft, Overwatch, Bill Petras, diretor de arte, videogames, falecimento, indústria de jogos"
