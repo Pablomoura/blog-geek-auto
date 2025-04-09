@@ -12,6 +12,9 @@ data: "2025-04-08T21:12:00.921Z"
 
 Um novo vídeo do set de filmagens de Vingadores: Doomsday foi divulgado recentemente, exibindo várias crateras notáveis em um único cenário. A natureza exata do local ainda é incerta, porém specula-se que as crateras sejam resultado de quedas de meteoros ou objetos espaciais, indicando uma possível incursão, onde duas realidades se fundem em destruição.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Avengers Doomsday Set Video! <a href="https://t.co/xUFl4pQhlG">pic.twitter.com/xUFl4pQhlG</a></p>&mdash; UnBoxPHD (@UnBoxPHD) <a href="https://twitter.com/UnBoxPHD/status/1909654780441489597?ref_src=twsrc%5Etfw">April 8, 2025</a></blockquote> 
+<br>
+
 O enredo de Vingadores: Doomsday continua envolto em mistério. No entanto, sugere-se que envolverá uma crise global e multiversal, potencialmente orquestrada pelo Doutor Destino, Victor Von Doom, interpretado por Robert Downey Jr. Nos quadrinhos, Doutor Destino é conhecido por suas habilidades em artes místicas e sua proeminência intelectual e tecnológica. O filme também parece preparar o cenário para um confronto entre os Vingadores e os X-Men, uma trama popular nas histórias em quadrinhos.
 
 O elenco do filme inclui vários retornos de estrelas do MCU, com Chris Hemsworth como Thor, Anthony Mackie como Capitão América, Sebastian Stan como Soldado Invernal, Paul Rudd como Homem-Formiga, Winston Duke como M'Baku, e Letitia Wright como Shuri/Pantera Negra. Tom Hiddleston também retorna, reprisando seu papel como Loki.

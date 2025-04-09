@@ -25,9 +25,10 @@ async function gerarCache() {
       resumo: data.resumo,
       thumb: data.thumb,
       data: data.data,
+      tags: Array.isArray(data.tags) ? data.tags : [], // ✅ garante que tags seja array
       tempoLeitura,
       textoLength: content.length
-    });
+    });        
   }
 
   await fs.writeFile(outputFile, JSON.stringify(dados, null, 2), "utf-8");

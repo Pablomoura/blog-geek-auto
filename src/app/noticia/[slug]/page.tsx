@@ -38,8 +38,7 @@ export async function generateMetadata({
 }: {
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
-  const { slug } = await params; // 👈 necessário com Next.js 15
-
+  const { slug } = await params;
   const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
   try {
@@ -58,22 +57,29 @@ export async function generateMetadata({
       openGraph: {
         title: data.title,
         description: data.resumo,
-        images: [imageUrl],
         type: "article",
         url: `https://www.geeknews.com.br/noticia/${slug}`,
+        images: [
+          {
+            url: imageUrl,
+            width: 800,
+            height: 450,
+            alt: data.title,
+          },
+        ],
       },
       twitter: {
         card: "summary_large_image",
         title: data.title,
         description: data.resumo,
-        site: "@SiteGeekNews",
         images: [imageUrl],
+        site: "@SiteGeekNews",
       },
     };
   } catch {
     return {
       title: "Notícia não encontrada",
-      description: "Esta notícia pode ter sido removida.",
+      description: "Este artigo pode ter sido removido ou ainda não foi publicado.",
     };
   }
 }

@@ -26,39 +26,55 @@ marked.use(
 async function inserirLinksRelacionados(content, slugAtual) {
   const todosPosts = await loadPostCache();
   const atual = todosPosts.find((p) => p.slug === slugAtual);
-  if (!atual || !atual.tags) return content;
+  const tags = Array.isArray(atual?.tags) ? atual.tags : [];
 
-  const tagsAtuais = atual.tags.map((t) => t.toLowerCase());
+  if (tags.length === 0) return content;
+
+  const tagsAtuais = tags.map((t) => t.toLowerCase());
   const links = [];
 
   for (const post of todosPosts) {
     if (post.slug === slugAtual) continue;
-    const tagsComparar = (post.tags || []).map((t) => t.toLowerCase());
-    const temMatch = tagsAtuais.some((tag) => tagsComparar.includes(tag));
+    const comparar = Array.isArray(post.tags) ? post.tags.map((t) => t.toLowerCase()) : [];
+    const temMatch = tagsAtuais.some((tag) => comparar.includes(tag));
     if (temMatch) links.push({ title: post.titulo, slug: post.slug });
-    if (links.length === 2) break;
+    if (links.length >= 6) break;
   }
 
   if (links.length === 0) return content;
 
-  const bloco = `
-    <ul class="pl-5 mb-6 space-y-2">
-      ${links
-        .map(
-          (link) =>
-            `<li class="list-disc text-sm text-orange-700 dark:text-orange-400">
+  // Gera blocos HTML de até 2 links por bloco
+  const blocos = [];
+  for (let i = 0; i < links.length; i += 2) {
+    const grupo = links.slice(i, i + 2);
+    const bloco = `
+      <ul class="pl-5 mb-6 space-y-2">
+        ${grupo
+          .map(
+            (link) => `
+            <li class="list-disc text-sm text-orange-700 dark:text-orange-400">
               <a href="/noticia/${link.slug}" class="hover:underline italic">${link.title}</a>
             </li>`
-        )
-        .join("\n")}
-    </ul>
-  `;
+          )
+          .join("\n")}
+      </ul>
+    `;
+    blocos.push(bloco);
+  }
 
   const paragrafos = content.split("</p>");
-  if (paragrafos.length > 2) {
-    paragrafos.splice(2, 0, bloco);
+  const palavras = content.split(/\s+/).length;
+
+  // Inserção inteligente baseada na quantidade de palavras
+  if (palavras <= 500) {
+    paragrafos.splice(2, 0, blocos[0]);
+  } else if (palavras <= 1000) {
+    paragrafos.splice(2, 0, blocos[0]);
+    paragrafos.push(blocos[1] || "");
   } else {
-    paragrafos.push(bloco);
+    paragrafos.splice(2, 0, blocos[0]);
+    paragrafos.splice(Math.floor(paragrafos.length / 2), 0, blocos[1] || "");
+    paragrafos.push(blocos[2] || "");
   }
 
   return paragrafos.join("</p>");
@@ -95,25 +111,30 @@ async function buildCache() {
 
     let markdown = content;
 
-    markdown = markdown.replace(
-      /\[youtube\]:\s*(https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]+))/g,
-      (_match, url, videoId) => {
-        return `
-        <div class="relative pb-[56.25%] h-0 overflow-hidden rounded-lg shadow-lg my-8">
-          <iframe
-            src="https://www.youtube.com/embed/${videoId}"
-            title="YouTube video"
-            class="absolute top-0 left-0 w-full h-full"
-            frameborder="0"
-            allowfullscreen
-            loading="lazy"
-          ></iframe>
-        </div>
-      `;
-      }
-    );
+      markdown = markdown.replace(
+        /\[youtube\]:\s*(https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]+))/g,
+        (_match, url, videoId) => {
+          return `
+          <div class="relative pb-[56.25%] h-0 overflow-hidden rounded-lg shadow-lg my-8">
+            <iframe
+              src="https://www.youtube.com/embed/${videoId}"
+              title="YouTube video"
+              class="absolute top-0 left-0 w-full h-full"
+              frameborder="0"
+              allowfullscreen
+              loading="lazy"
+            ></iframe>
+          </div>
+        `;
+        }
+      );
 
-    const htmlConvertido = await marked.parse(markdown);
+      // ⬇️ Converte para HTML
+      let htmlConvertido = await marked.parse(markdown);
+
+      // ⬇️ Insere os links relacionados agora no HTML
+      htmlConvertido = await inserirLinksRelacionados(htmlConvertido, slug);
+
 
     const htmlComTargetBlank = htmlConvertido.replace(
       /<a\s+(?![^>]*target=)[^>]*href="([^"]+)"([^>]*)>/g,
