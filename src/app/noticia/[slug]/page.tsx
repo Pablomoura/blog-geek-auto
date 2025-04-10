@@ -201,7 +201,17 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
         <>
           <Header />
   
-          <JsonLdNoticia slug={slug} data={data} />
+          <JsonLdNoticia
+            slug={slug}
+            data={{
+              title: data.title,
+              resumo: data.resumo,
+              thumb: data.thumb,
+              midia: data.midia,
+              data: data.data,
+              author: data.author,
+            }}
+          />
   
           <Script src="https://platform.twitter.com/widgets.js" strategy="afterInteractive" />
   
