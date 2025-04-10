@@ -30,18 +30,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             gtag('config', 'G-SMFR890H32');
           `}
         </Script>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "Organization",
-              name: "GeekNews",
-              url: "https://www.geeknews.com.br",
-              logo: "https://www.geeknews.com.br/logo.png"
-            }),
-          }}
-        />
+        
       </head>
       <body className="bg-white text-neutral-900 dark:bg-black dark:text-white font-sans">
         <LoadingProvider>
