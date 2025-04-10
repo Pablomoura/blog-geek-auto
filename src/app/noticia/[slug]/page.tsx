@@ -22,6 +22,7 @@ import { loadPostCache } from "@/utils/loadPostCache";
 import LazyDisqus from "@/components/LazyDisqus";
 import { otimizarImagensHtml } from "@/utils/otimizarImagensHtml";
 import type { Metadata } from "next";
+import JsonLdNoticia from "@/components/JsonLdNoticia";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -200,33 +201,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
         <>
           <Header />
   
-          <Script id="json-ld" type="application/ld+json">
-            {JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "NewsArticle",
-              headline: data.title,
-              description: data.resumo || "",
-              image: [data.thumb || data.midia || ""],
-              datePublished: data.data || new Date().toISOString(),
-              dateModified: data.data || new Date().toISOString(),
-              mainEntityOfPage: {
-                "@type": "WebPage",
-                "@id": `https://www.geeknews.com.br/noticia/${slug}`,
-              },
-              author: {
-                "@type": "Person",
-                name: data.author || "GeekNews"
-              },
-              publisher: {
-                "@type": "Organization",
-                name: "GeekNews",
-                logo: {
-                  "@type": "ImageObject",
-                  url: "https://www.geeknews.com.br/logo.png",
-                },
-              },
-            })}
-          </Script>
+          <JsonLdNoticia slug={slug} data={data} />
   
           <Script src="https://platform.twitter.com/widgets.js" strategy="afterInteractive" />
   
