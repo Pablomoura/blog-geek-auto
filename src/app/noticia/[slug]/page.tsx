@@ -214,9 +214,8 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 "@id": `https://www.geeknews.com.br/noticia/${slug}`,
               },
               author: {
-                "@type": "Organization",
-                name: "GeekNews",
-                url: "https://www.geeknews.com.br",
+                "@type": "Person",
+                name: data.author || "GeekNews"
               },
               publisher: {
                 "@type": "Organization",
