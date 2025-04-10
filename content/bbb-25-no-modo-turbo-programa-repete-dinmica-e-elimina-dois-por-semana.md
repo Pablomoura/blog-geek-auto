@@ -16,6 +16,7 @@ tags:
   - Paredão
   - votação mista
   - Globoplay
+  - especial-BBB 25
 keywords: >-
   BBB 25, modo turbo, Tadeu Schmidt, Prova do Líder, eliminação dupla, Paredão,
   votação mista, Globoplay

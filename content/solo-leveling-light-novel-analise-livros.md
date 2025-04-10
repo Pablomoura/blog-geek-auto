@@ -18,6 +18,7 @@ tags:
   - livros de solo leveling
   - leitura geek
   - afiliados amazon
+  - especial-Solo Leveling
 keywords: >-
   solo leveling livros, solo leveling light novel onde comprar, análise solo
   leveling amazon, ordem livros solo leveling

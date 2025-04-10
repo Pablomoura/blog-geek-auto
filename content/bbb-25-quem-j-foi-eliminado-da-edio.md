@@ -14,6 +14,7 @@ tags:
   - paredão
   - reality show
   - big brother brasil
+  - especial-BBB 25
 author: Pablo Moura
 ---
 

@@ -18,6 +18,7 @@ tags:
   - João Gabriel
   - Vitória Strada
   - votação pública.
+  - especial-BBB 25
 keywords: >-
   BBB 25, Maike liderança, 14º Paredão, prova de liderança, Diego Hypólito, João
   Gabriel, Vitória Strada, votação pública.

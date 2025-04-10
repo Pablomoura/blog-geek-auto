@@ -23,6 +23,7 @@ tags:
   - impacto emocional
   - temas de anime
   - história de anime
+  - especial-Frieren
 data: '2025-04-06T21:40:01.545Z'
 author: Ana Luiza
 ---

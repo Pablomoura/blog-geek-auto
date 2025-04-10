@@ -16,6 +16,7 @@ tags:
   - Vitória Strada
   - Votação
   - Globo
+  - especial-BBB 25
 keywords: >-
   BBB 25, Paredão, Tadeu Schmidt, Diego Hypólito, João Gabriel, Vitória Strada,
   Votação, Globo

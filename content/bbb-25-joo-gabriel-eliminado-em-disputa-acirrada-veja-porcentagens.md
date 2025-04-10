@@ -16,6 +16,7 @@ tags:
   - Tadeu Schmidt
   - sistema de votação
   - Rodrigo Dourado
+  - especial-BBB 25
 keywords: >-
   BBB 25, João Gabriel eliminado, disputa acirrada, Diego Hypólito, Vitória
   Strada, Tadeu Schmidt, sistema de votação, Rodrigo Dourado

@@ -16,6 +16,7 @@ tags:
   - Rodrigo Dourado
   - votação
   - reality show
+  - especial-BBB 25
 keywords: >-
   BBB 25, Paredão, Vinícius, eliminação, Tadeu Schmidt, Rodrigo Dourado,
   votação, reality show

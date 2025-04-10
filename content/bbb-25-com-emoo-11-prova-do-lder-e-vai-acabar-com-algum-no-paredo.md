@@ -17,6 +17,7 @@ tags:
   - tadeu schmidt
   - reality show
   - competição
+  - especial-BBB 25
 author: Luana Souza
 ---
 

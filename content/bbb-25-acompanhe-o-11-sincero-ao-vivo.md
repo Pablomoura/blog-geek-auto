@@ -16,6 +16,7 @@ tags:
   - líder
   - anjo
   - participantes
+  - especial-BBB 25
 author: Luana Souza
 ---
 

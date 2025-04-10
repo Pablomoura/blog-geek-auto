@@ -18,6 +18,7 @@ tags:
   - entrevista ign
   - franquia de jogos
   - debate entre fãs
+  - especial-The Last of Us
 author: Luana Souza
 ---
 

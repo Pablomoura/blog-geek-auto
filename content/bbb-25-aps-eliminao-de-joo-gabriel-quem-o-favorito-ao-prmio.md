@@ -16,6 +16,7 @@ tags:
   - Tadeu Schmidt
   - Rodrigo Dourado
   - votação online
+  - especial-BBB 25
 keywords: >-
   BBB 25, eliminação, João Gabriel, Vitória Strada, favoritismo, Tadeu Schmidt,
   Rodrigo Dourado, votação online

@@ -16,6 +16,7 @@ tags:
   - Renata
   - Vinícius
   - Votação Popular
+  - especial-BBB 25
 keywords: >-
   BBB 25, Paredão, Tadeu Schmidt, Guilherme, Maike, Renata, Vinícius, Votação
   Popular

@@ -16,6 +16,7 @@ tags:
   - Globoplay
   - Voto da Torcida
   - Rodrigo Dourado
+  - especial-BBB 25
 keywords: >-
   BBB 25, Vitória Strada, Paredão, João Pedro, Tadeu Schmidt, Globoplay, Voto da
   Torcida, Rodrigo Dourado

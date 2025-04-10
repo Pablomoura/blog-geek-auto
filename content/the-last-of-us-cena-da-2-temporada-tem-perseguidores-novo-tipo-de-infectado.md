@@ -18,6 +18,7 @@ tags:
   - Ellie
   - adaptação de jogo
   - série de TV
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, segunda temporada, Perseguidores, infectados, HBO, Ellie,
   adaptação de jogo, série de TV

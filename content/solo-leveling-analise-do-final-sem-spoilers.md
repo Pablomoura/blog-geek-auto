@@ -22,6 +22,7 @@ tags:
   - Sung Jin-Woo
   - desenvolvimento de personagens
   - enredo
+  - especial-Solo Leveling
 data: '2025-04-05T01:48:46.666Z'
 author: Pablo Moura
 ---

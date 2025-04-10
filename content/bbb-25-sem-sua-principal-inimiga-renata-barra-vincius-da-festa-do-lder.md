@@ -15,6 +15,7 @@ tags:
   - festa do líder
   - barrado no baile
   - reality show
+  - especial-BBB 25
 author: Ana Luiza
 ---
 

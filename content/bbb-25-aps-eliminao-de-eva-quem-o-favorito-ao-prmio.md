@@ -18,6 +18,7 @@ tags:
   - favoritos
   - enquete uol
   - paredão
+  - especial-BBB 25
 author: Ana Luiza
 ---
 

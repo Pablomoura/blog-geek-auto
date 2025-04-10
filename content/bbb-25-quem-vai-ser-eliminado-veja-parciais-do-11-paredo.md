@@ -15,6 +15,7 @@ tags:
   - vinícius
   - formato turbo
   - tv globo
+  - especial-BBB 25
 author: Luana Souza
 ---
 

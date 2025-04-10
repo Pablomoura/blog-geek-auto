@@ -16,6 +16,7 @@ tags:
   - vilma
   - vinícius
   - reality show
+  - especial-BBB 25
 author: Ana Luiza
 ---
 

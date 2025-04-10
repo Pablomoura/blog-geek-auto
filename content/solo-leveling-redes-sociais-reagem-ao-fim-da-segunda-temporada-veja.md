@@ -2,6 +2,8 @@
 title: 'Solo Leveling: Fim da Segunda Temporada Provoca Frenesi nas Redes Sociais'
 slug: solo-leveling-redes-sociais-reagem-ao-fim-da-segunda-temporada-veja
 categoria: MANGÁS E ANIMES
+resumo: >-
+  A temporada concluiu o emocionante arco da ilha Jeju, destacando-se por suas reviravoltas impactantes e cenas surpreendentes que envolveram os personagens principais, os caçadores.
 midia: >-
   https://cdn.ome.lt/vjhOmba27S6GD1n2KL4T-jROwzA=/987x0/smart/uploads/conteudo/fotos/sololevelingvariante.jpg
 tipoMidia: imagem
@@ -15,6 +17,7 @@ tags:
   - caçadores
   - episódio final
   - redes sociais
+  - especial-Solo Leveling
 author: Ana Luiza
 ---
 

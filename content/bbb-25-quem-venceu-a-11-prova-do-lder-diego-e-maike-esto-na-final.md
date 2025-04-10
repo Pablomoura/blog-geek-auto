@@ -15,6 +15,7 @@ tags:
   - reality show
   - liderança
   - competição
+  - especial-BBB 25
 author: Ana Luiza
 ---
 

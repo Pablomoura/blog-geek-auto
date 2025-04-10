@@ -15,6 +15,7 @@ tags:
   - disputa acirrada
   - votação expressiva
   - reality show
+  - especial-BBB 25
 author: Ana Luiza
 ---
 

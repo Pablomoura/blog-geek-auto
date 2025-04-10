@@ -8,7 +8,7 @@ resumo: >-
 categoria: MANGÁS E ANIMES
 midia: /images/Frieren.webp
 tipoMidia: imagem
-thumb: /images/Frieren.jpg
+thumb: /images/ThumbFrieren.jpg
 keywords: >-
   magia, Frieren, magos poderosos, lendas, história, fantasia, elementos
   mágicos, cultura
@@ -21,6 +21,7 @@ tags:
   - fantasia
   - elementos mágicos
   - cultura
+  - especial-Frieren
 data: '2025-04-08T21:27:39.649Z'
 author: Ana Luiza
 ---

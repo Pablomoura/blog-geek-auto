@@ -16,6 +16,7 @@ tags:
   - eva
   - vinícius
   - emoção
+  - especial-BBB 25
 author: Pablo Moura
 ---
 

@@ -15,6 +15,7 @@ tags:
   - eliminação
   - festa da líder
   - horário do bbb
+  - especial-BBB 25
 author: Luana Souza
 ---
 

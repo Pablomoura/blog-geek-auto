@@ -16,6 +16,7 @@ tags:
   - Enquete UOL
   - Tadeu Schmidt
   - Rodrigo Dourado
+  - especial-BBB 25
 keywords: >-
   BBB 25, Paredão, Diego Hypólito, João Gabriel, Vitória Strada, Enquete UOL,
   Tadeu Schmidt, Rodrigo Dourado

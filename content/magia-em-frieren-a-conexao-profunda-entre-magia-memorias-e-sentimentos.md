@@ -9,7 +9,7 @@ resumo: >-
 categoria: MANGÁS E ANIMES
 midia: /images/Frieren.webp
 tipoMidia: imagem
-thumb: /images/Frieren.jpg
+thumb: /images/Anime-Frieren.jpg
 keywords: >-
   magia, frieren, sentimentos, memorias, sistema magico, desenvolvimento de
   personagem, narrativa, emoções
@@ -22,6 +22,7 @@ tags:
   - desenvolvimento de personagem
   - narrativa
   - emoções
+  - especial-Frieren
 data: '2025-04-08T21:35:05.074Z'
 author: Pablo Moura
 ---

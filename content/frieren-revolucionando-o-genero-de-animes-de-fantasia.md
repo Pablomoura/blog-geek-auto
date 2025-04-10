@@ -9,7 +9,7 @@ resumo: >-
 categoria: MANGÁS E ANIMES
 midia: /images/Frieren.webp
 tipoMidia: imagem
-thumb: /images/Frieren.jpg
+thumb: /images/Thumb-Frieren.jpg
 keywords: >-
   Frieren, Anime, Fantasia, Narrativa, Imortalidade, Emoções, Inovação no Anime,
   Gênero de Fantasia
@@ -22,6 +22,7 @@ tags:
   - Emoções
   - Inovação no Anime
   - Gênero de Fantasia
+  - especial-Frieren
 data: '2025-04-09T21:25:01.895Z'
 author: Luana Souza
 ---

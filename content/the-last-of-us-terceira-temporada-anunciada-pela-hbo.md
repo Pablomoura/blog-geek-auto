@@ -15,6 +15,7 @@ tags:
   - streaming
   - adaptação de jogo
   - série de TV
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, terceira temporada, Pedro Pascal, Bella Ramsey,
   streaming, adaptação de jogo, série de TV

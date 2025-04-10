@@ -7,6 +7,7 @@ import Header from "@/components/Header";
 import React from "react";
 import ProdutosAmazon from "@/components/ProdutosAmazon";
 import WebStories from "@/components/WebStories";
+import Especiais from "@/components/Especiais";
 
 type Banner = {
   slug: string;
@@ -41,6 +42,7 @@ interface Post {
   tempoLeitura: number;
   resumo: string;
   story?: boolean; 
+  tags?: string[];
 }
 
 export const metadata = {
@@ -84,15 +86,31 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
         texto: content,
         tempoLeitura,
         resumo: resumoMap[data.slug] || "",
-        story: data.story === true, // 👈 garante que ele entra como boolean
+        story: data.story === true,
+        tags: data.tags || [], // ADICIONE ESTA LINHA
       });      
     } else {
       console.warn(`Post ignorado: ${nomeArquivo} está com campos faltando no frontmatter.`);
-    }
+    }       
   }
 
   posts.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
+  // Agrupar por tags especiais (que começam com "especial-")
+  const especiaisMapeadoPorTag: Record<string, Post[]> = {};
 
+  for (const post of posts) {
+    const tags = post.tags || [];
+    for (const tag of tags) {
+      if (tag.startsWith("especial-")) {
+        if (!especiaisMapeadoPorTag[tag]) {
+          especiaisMapeadoPorTag[tag] = [];
+        }
+        if (especiaisMapeadoPorTag[tag].length < 3) {
+          especiaisMapeadoPorTag[tag].push(post);
+        }
+      }
+    }
+  }
   const cache = await carregarCacheBanners();
 
   const stories = posts.filter((p) => p.story === true);
@@ -113,7 +131,7 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
       <Header />
       {stories.length > 0 && <WebStories stories={stories} />}
       {/* BANNERS PRINCIPAIS */}
-      <section className="max-w-5xl mx-auto px-6 pt-2 pb-8 grid grid-cols-1 md:grid-cols-3 gap-6">
+      <section className="max-w-6xl mx-auto px-6 pt-2 pb-8 grid grid-cols-1 md:grid-cols-3 gap-6">
         {bannerFilmes && (
           <Link
             href={`/noticia/${bannerFilmes.slug}`}
@@ -157,7 +175,8 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
           )}
         </div>
       </section>
-      <main className="max-w-5xl mx-auto px-6 py-10">
+      <Especiais especiais={especiaisMapeadoPorTag} />
+      <main className="max-w-6xl mx-auto px-6 py-10">
         {/* Seção principal com duas colunas */}
         <div className="flex flex-col lg:flex-row gap-10">
           <div className="flex-1">

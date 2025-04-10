@@ -16,6 +16,7 @@ tags:
   - Votação acirrada
   - Tadeu Schmidt
   - Rodrigo Dourado
+  - especial-BBB 25
 keywords: >-
   BBB 25, Paredão, João Pedro, Daniele Hypólito, Maike, Votação acirrada, Tadeu
   Schmidt, Rodrigo Dourado

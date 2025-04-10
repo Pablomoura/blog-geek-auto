@@ -16,6 +16,7 @@ tags:
   - paredão
   - vinícius
   - diego hypólito
+  - especial-BBB 25
 author: Luana Souza
 ---
 
