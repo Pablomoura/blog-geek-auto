@@ -22,6 +22,7 @@ import { loadPostCache } from "@/utils/loadPostCache";
 import LazyDisqus from "@/components/LazyDisqus";
 import { otimizarImagensHtml } from "@/utils/otimizarImagensHtml";
 import type { Metadata } from "next";
+import JsonLdNoticia from "@/components/JsonLdNoticia";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -33,71 +34,55 @@ marked.use(
   })
 );
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  const filePath = path.join(process.cwd(), "content", `${params.slug}.md`);
-  const file = await fs.readFile(filePath, "utf-8");
-  const { data } = matter(file);
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const filePath = path.join(process.cwd(), "content", `${slug}.md`);
 
-  const imageUrl =
-    data.thumb?.startsWith("http") || data.midia?.startsWith("http")
-      ? data.thumb || data.midia
-      : `https://www.geeknews.com.br${data.thumb || data.midia || ""}`;
+  try {
+    const file = await fs.readFile(filePath, "utf-8");
+    const { data } = matter(file);
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "NewsArticle",
-    headline: data.title,
-    description: data.resumo || "",
-    image: [imageUrl],
-    datePublished: data.data || new Date().toISOString(),
-    dateModified: data.data || new Date().toISOString(),
-    mainEntityOfPage: {
-      "@type": "WebPage",
-      "@id": `https://www.geeknews.com.br/noticia/${params.slug}`,
-    },
-    author: {
-      "@type": "Person",
-      name: data.author || "GeekNews",
-    },
-    publisher: {
-      "@type": "Organization",
-      name: "GeekNews",
-      logo: {
-        "@type": "ImageObject",
-        url: "https://www.geeknews.com.br/logo.png",
+    const imageUrl =
+      data.thumb?.startsWith("http") || data.midia?.startsWith("http")
+        ? data.thumb || data.midia
+        : `https://www.geeknews.com.br${data.thumb || data.midia || ""}`;
+
+    return {
+      title: data.title,
+      description: data.resumo,
+      keywords: data.tags || [],
+      openGraph: {
+        title: data.title,
+        description: data.resumo,
+        type: "article",
+        url: `https://www.geeknews.com.br/noticia/${slug}`,
+        images: [
+          {
+            url: imageUrl,
+            width: 800,
+            height: 450,
+            alt: data.title,
+          },
+        ],
       },
-    },
-  };
-
-  return {
-    title: data.title,
-    description: data.resumo,
-    keywords: data.tags || [],
-    openGraph: {
-      title: data.title,
-      description: data.resumo,
-      type: "article",
-      url: `https://www.geeknews.com.br/noticia/${params.slug}`,
-      images: [
-        {
-          url: imageUrl,
-          width: 800,
-          height: 450,
-          alt: data.title,
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: data.title,
-      description: data.resumo,
-      images: [imageUrl],
-      site: "@SiteGeekNews",
-    },
-    other: {
-      "script:ld+json": JSON.stringify(jsonLd),
-    },
-  };
+      twitter: {
+        card: "summary_large_image",
+        title: data.title,
+        description: data.resumo,
+        images: [imageUrl],
+        site: "@SiteGeekNews",
+      },
+    };
+  } catch {
+    return {
+      title: "Notícia não encontrada",
+      description: "Este artigo pode ter sido removido ou ainda não foi publicado.",
+    };
+  }
 }
 
 async function inserirLinksRelacionados(content: string, slugAtual: string) {
@@ -215,7 +200,17 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     return (
         <>
           <Header />
-
+          <JsonLdNoticia
+            slug={slug}
+            data={{
+              title: data.title,
+              resumo: data.resumo,
+              thumb: data.thumb,
+              midia: data.midia,
+              data: data.data,
+              author: data.author,
+            }}
+          />
 
           <Script src="https://platform.twitter.com/widgets.js" strategy="afterInteractive" />
   
