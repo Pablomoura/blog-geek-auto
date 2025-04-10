@@ -16,6 +16,7 @@ tags:
   - lançamento de jogos
   - rockstar games
   - suspense
+author: Luana Souza
 ---
 
 Desde o lançamento de seu primeiro e único trailer no final de 2023, GTA 6 tem sido alimentado principalmente pelo hype. Strauss Zelnick, CEO da Take-Two Interactive, a empresa-mãe da Rockstar Games, revelou em uma entrevista recente que deseja manter o suspense em torno do lançamento do jogo por mais algum tempo. Segundo ele, essa abordagem tem um impacto positivo na enorme expectativa que cerca o título.

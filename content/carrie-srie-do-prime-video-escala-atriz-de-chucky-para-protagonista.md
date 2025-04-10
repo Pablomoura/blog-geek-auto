@@ -1,13 +1,26 @@
 ---
-title: "Carrie | Série do Prime Video escala atriz de Chucky para protagonista"
-slug: "carrie-srie-do-prime-video-escala-atriz-de-chucky-para-protagonista"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/PWiAQbiWJXBq8XQ6E_WJmyTszh4=/987x0/smart/uploads/conteudo/fotos/carrie_1_WxzQkz7.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0ohCFIdWxZd_UC-MDa3k7scuGJI=/480x360/smart/extras/conteudos/summer-h-howell.jpg"
-tags: ["Carrie", "Prime Video", "Stephen King", "Mike Flanagan", "Summer H. Howell", "Chucky", "adaptação literária", "poderes sobrenaturais"]
-keywords: "Carrie, Prime Video, Stephen King, Mike Flanagan, Summer H. Howell, Chucky, adaptação literária, poderes sobrenaturais"
-data: "2025-04-09T11:09:23.727Z"
+title: Carrie | Série do Prime Video escala atriz de Chucky para protagonista
+slug: carrie-srie-do-prime-video-escala-atriz-de-chucky-para-protagonista
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/PWiAQbiWJXBq8XQ6E_WJmyTszh4=/987x0/smart/uploads/conteudo/fotos/carrie_1_WxzQkz7.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0ohCFIdWxZd_UC-MDa3k7scuGJI=/480x360/smart/extras/conteudos/summer-h-howell.jpg
+tags:
+  - Carrie
+  - Prime Video
+  - Stephen King
+  - Mike Flanagan
+  - Summer H. Howell
+  - Chucky
+  - adaptação literária
+  - poderes sobrenaturais
+keywords: >-
+  Carrie, Prime Video, Stephen King, Mike Flanagan, Summer H. Howell, Chucky,
+  adaptação literária, poderes sobrenaturais
+data: '2025-04-09T11:09:23.727Z'
+author: Ana Luiza
 ---
 
 A nova adaptação do livro 'Carrie, A Estranha', de Stephen King, encontra-se em desenvolvimento no Prime Video sob a produção executiva de Mike Flanagan. Recentemente, foi anunciado que Summer H. Howell, conhecida por seu trabalho em 'A Maldição de Chucky' (2013) e 'O Culto de Chucky' (2017), assumirá o papel da protagonista Carrie. Esta personagem já foi interpretada no passado por atrizes como Sissy Spacek e Chloë Grace Moretz.

@@ -14,6 +14,7 @@ tags:
   - anime
   - trailer
   - retorno
+author: Pablo Moura
 ---
 
 A Toei Animation lançou o primeiro trailer do retorno do anime One Piece, marcado para 12 de abril no Japão. O vídeo destaca a continuação do arco Egghead, prometendo emocionantes desenvolvimentos na trama.

@@ -17,6 +17,7 @@ tags:
   - anime
   - nu metal
   - devil may cry 5
+author: Ana Luiza
 ---
 
 A Netflix anunciou oficialmente as músicas que farão parte da primeira temporada do aguardado anime de Devil May Cry. A trilha sonora incluirá faixas icônicas do jogo Devil May Cry 5, como 'Devil Trigger' e 'Bury the Light'.

@@ -16,6 +16,7 @@ tags:
   - tv globo
   - horário de estreia
   - manuela dias
+author: Luana Souza
 ---
 
 A aguardada nova versão da novela 'Vale Tudo' chega às telas nesta segunda-feira (31), marcando o retorno de um dos maiores clássicos da teledramaturgia brasileira. A obra, originalmente criada por Gilberto Braga, Aguinaldo Silva e Leonor Bassères, foi reescrita por Manuela Dias para a TV Globo e Globoplay. A trama central gira em torno do conflito entre Raquel (Taís Araujo), uma mulher que acredita na honestidade como base para a vida, e sua filha Maria de Fátima (Bella Campos), que possui uma visão bem diferente.

@@ -1,14 +1,28 @@
 ---
-title: "Kafka Hibino: O Protagonista de Kaiju No. 8"
-slug: "kafka-hibino-o-protagonista-de-kaiju-no-8"
-resumo: "Descubra quem é Kafka Hibino, o protagonista da série de mangá Kaiju No. 8. Explore sua história, poderes únicos e a transformação dramática que define seu papel como um herói inesperado na luta contra os kaijus."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kafka Hibino, Kaiju No. 8, mangá, poderes de kaiju, transformação, heróis de mangá, história de Kafka, protagonista"
-tags: ["Kafka Hibino", "Kaiju No. 8", "mangá", "poderes de kaiju", "transformação", "heróis de mangá", "história de Kafka", "protagonista"]
-data: "2025-04-04T22:07:56.906Z"
+title: 'Kafka Hibino: O Protagonista de Kaiju No. 8'
+slug: kafka-hibino-o-protagonista-de-kaiju-no-8
+resumo: >-
+  Descubra quem é Kafka Hibino, o protagonista da série de mangá Kaiju No. 8.
+  Explore sua história, poderes únicos e a transformação dramática que define
+  seu papel como um herói inesperado na luta contra os kaijus.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kafka Hibino, Kaiju No. 8, mangá, poderes de kaiju, transformação, heróis de
+  mangá, história de Kafka, protagonista
+tags:
+  - Kafka Hibino
+  - Kaiju No. 8
+  - mangá
+  - poderes de kaiju
+  - transformação
+  - heróis de mangá
+  - história de Kafka
+  - protagonista
+data: '2025-04-04T22:07:56.906Z'
+author: Luana Souza
 ---
 
 ## Quem é Kafka Hibino?

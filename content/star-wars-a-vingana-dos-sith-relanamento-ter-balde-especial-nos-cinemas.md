@@ -15,6 +15,7 @@ tags:
   - edições especiais
   - disney
   - regal cinemas
+author: Ana Luiza
 ---
 
 Em comemoração ao 20º aniversário de 'Star Wars: A Vingança dos Sith', a Disney planeja relançar o filme nos cinemas em 2025. A rede Regal Cinemas nos Estados Unidos oferecerá um combo especial que inclui um balde e um copo temáticos para marcar a ocasião.

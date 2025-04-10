@@ -21,6 +21,7 @@ tags:
   - cinemacon
   - thriller
   - darren aronofsky
+author: Ana Luiza
 ---
 
 O aguardado thriller 'Caught Stealing', dirigido pelo aclamado Darren Aronofsky ('Cisne Negro'), e estrelado por Austin Butler ('Duna: Parte 2') e Matt Smith ('A Casa do Dragão'), teve seu primeiro trailer divulgado durante a CinemaCon em Las Vegas. O evento, que ocorre esta semana, foi palco de grandes revelações e o site Omelete esteve lá para cobrir os detalhes.

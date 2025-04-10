@@ -1,13 +1,28 @@
 ---
-title: "Enrolados | Após Branca de Neve, Disney suspende desenvolvimento do live-action"
-slug: "enrolados-aps-branca-de-neve-disney-suspende-desenvolvimento-do-live-action"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/570py9Nuh3kJsLQdohjmtugtr8w=/987x0/smart/uploads/conteudo/fotos/02_kI24GHB.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/otfDh4QIVUgHZ24mC24ijyPqSl8=/480x360/smart/extras/conteudos/01_y6WbLOZ.jpg"
-tags: ["Disney", "live-action", "Enrolados", "Branca de Neve", "remakes", "bilheterias", "Michael Gracey", "Kathryn Hahn"]
-keywords: "Disney, live-action, Enrolados, Branca de Neve, remakes, bilheterias, Michael Gracey, Kathryn Hahn"
-data: "2025-04-03T20:12:11.749Z"
+title: >-
+  Enrolados | Após Branca de Neve, Disney suspende desenvolvimento do
+  live-action
+slug: enrolados-aps-branca-de-neve-disney-suspende-desenvolvimento-do-live-action
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/570py9Nuh3kJsLQdohjmtugtr8w=/987x0/smart/uploads/conteudo/fotos/02_kI24GHB.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/otfDh4QIVUgHZ24mC24ijyPqSl8=/480x360/smart/extras/conteudos/01_y6WbLOZ.jpg
+tags:
+  - Disney
+  - live-action
+  - Enrolados
+  - Branca de Neve
+  - remakes
+  - bilheterias
+  - Michael Gracey
+  - Kathryn Hahn
+keywords: >-
+  Disney, live-action, Enrolados, Branca de Neve, remakes, bilheterias, Michael
+  Gracey, Kathryn Hahn
+data: '2025-04-03T20:12:11.749Z'
+author: Ana Luiza
 ---
 
 A Disney decidiu pausar o desenvolvimento do live-action de 'Enrolados', remake do sucesso animado de 2010. Segundo informações do The Hollywood Reporter, o projeto não está cancelado, mas enfrenta uma suspensão indefinida, sem previsões claras para seu futuro. A direção estaria a cargo de Michael Gracey, conhecido por seu trabalho em 'O Rei do Show', e o roteiro seria assinado por Jennifer Kaytin Robinson, de 'Thor: Amor e Trovão'.

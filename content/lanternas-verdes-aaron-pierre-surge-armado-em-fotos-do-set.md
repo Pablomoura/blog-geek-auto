@@ -16,6 +16,7 @@ tags:
   - fotos do set
   - série de tv
   - dc comics
+author: Ana Luiza
 ---
 
 Foram divulgadas novas imagens do set da série 'Lanternas Verdes', revelando Aaron Pierre, que interpreta o protagonista John Stewart, armado e saindo de um veículo. As fotos prometem uma visão intrigante do personagem.

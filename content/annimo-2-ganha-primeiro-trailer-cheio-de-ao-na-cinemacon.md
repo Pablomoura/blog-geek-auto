@@ -1,13 +1,26 @@
 ---
-title: "Anônimo 2 ganha primeiro trailer cheio de ação na CinemaCon"
-slug: "annimo-2-ganha-primeiro-trailer-cheio-de-ao-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Pk1zXXyUrGOKZxJ4L4iaxEjHs7I=/987x0/smart/uploads/conteudo/fotos/anoimo-2.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fHEvOGz7os9oOgNH0OxcjjX9kMk=/480x360/smart/extras/conteudos/anoimo-2.png"
-tags: ["CinemaCon 2025", "Anônimo 2", "Bob Odenkirk", "Sharon Stone", "filme de ação", "sequência de filme", "trailer de filme", "máfia"]
-keywords: "CinemaCon 2025, Anônimo 2, Bob Odenkirk, Sharon Stone, filme de ação, sequência de filme, trailer de filme, máfia"
-data: "2025-04-03T00:14:28.563Z"
+title: Anônimo 2 ganha primeiro trailer cheio de ação na CinemaCon
+slug: annimo-2-ganha-primeiro-trailer-cheio-de-ao-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Pk1zXXyUrGOKZxJ4L4iaxEjHs7I=/987x0/smart/uploads/conteudo/fotos/anoimo-2.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fHEvOGz7os9oOgNH0OxcjjX9kMk=/480x360/smart/extras/conteudos/anoimo-2.png
+tags:
+  - CinemaCon 2025
+  - Anônimo 2
+  - Bob Odenkirk
+  - Sharon Stone
+  - filme de ação
+  - sequência de filme
+  - trailer de filme
+  - máfia
+keywords: >-
+  CinemaCon 2025, Anônimo 2, Bob Odenkirk, Sharon Stone, filme de ação,
+  sequência de filme, trailer de filme, máfia
+data: '2025-04-03T00:14:28.563Z'
+author: Pablo Moura
 ---
 
 Durante a CinemaCon 2025, realizada em Las Vegas, foi revelado o aguardado primeiro trailer da sequência do filme 'Anônimo'. O evento foi palco para a introdução de novas cenas empolgantes que prometem elevar o nível de ação do novo longa.

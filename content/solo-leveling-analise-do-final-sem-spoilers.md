@@ -1,14 +1,29 @@
 ---
-title: "Solo Leveling: Análise do Final Sem Spoilers"
-slug: "solo-leveling-analise-do-final-sem-spoilers"
-resumo: "Descubra se o final de Solo Leveling é satisfatório ou não. Neste artigo, exploramos os aspectos que contribuem para um desfecho memorável na série, avaliando o desenvolvimento de personagens, o enredo e as reações dos fãs, tudo isso sem revelar detalhes cruciais da trama."
-categoria: "Análise de Séries"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, webnovel, webtoon, final de série, análise de desfecho, Sung Jin-Woo, desenvolvimento de personagens, enredo"
-tags: ["Solo Leveling", "webnovel", "webtoon", "final de série", "análise de desfecho", "Sung Jin-Woo", "desenvolvimento de personagens", "enredo"]
-data: "2025-04-05T01:48:46.666Z"
+title: 'Solo Leveling: Análise do Final Sem Spoilers'
+slug: solo-leveling-analise-do-final-sem-spoilers
+resumo: >-
+  Descubra se o final de Solo Leveling é satisfatório ou não. Neste artigo,
+  exploramos os aspectos que contribuem para um desfecho memorável na série,
+  avaliando o desenvolvimento de personagens, o enredo e as reações dos fãs,
+  tudo isso sem revelar detalhes cruciais da trama.
+categoria: Análise de Séries
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, webnovel, webtoon, final de série, análise de desfecho, Sung
+  Jin-Woo, desenvolvimento de personagens, enredo
+tags:
+  - Solo Leveling
+  - webnovel
+  - webtoon
+  - final de série
+  - análise de desfecho
+  - Sung Jin-Woo
+  - desenvolvimento de personagens
+  - enredo
+data: '2025-04-05T01:48:46.666Z'
+author: Pablo Moura
 ---
 
 ## Introdução

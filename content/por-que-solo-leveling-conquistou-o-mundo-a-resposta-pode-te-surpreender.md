@@ -1,14 +1,29 @@
 ---
-title: "Por que Solo Leveling Conquistou o Mundo? A Resposta Pode Te Surpreender"
-slug: "por-que-solo-leveling-conquistou-o-mundo-a-resposta-pode-te-surpreender"
-resumo: "Explorando a popularidade explosiva do manhwa Solo Leveling, este artigo mergulha nos elementos únicos que capturaram a atenção global, desde sua narrativa envolvente até sua arte impressionante, discutindo como esses fatores contribuíram para o seu sucesso mundial."
-categoria: "Cultura Pop"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, manhwa, Chu-Gong, Dubu, cultura pop, arte gráfica, narrativa envolvente, fenômeno cultural"
-tags: ["Solo Leveling", "manhwa", "Chu-Gong", "Dubu", "cultura pop", "arte gráfica", "narrativa envolvente", "fenômeno cultural"]
-data: "2025-04-01T01:56:38.246Z"
+title: Por que Solo Leveling Conquistou o Mundo? A Resposta Pode Te Surpreender
+slug: por-que-solo-leveling-conquistou-o-mundo-a-resposta-pode-te-surpreender
+resumo: >-
+  Explorando a popularidade explosiva do manhwa Solo Leveling, este artigo
+  mergulha nos elementos únicos que capturaram a atenção global, desde sua
+  narrativa envolvente até sua arte impressionante, discutindo como esses
+  fatores contribuíram para o seu sucesso mundial.
+categoria: Cultura Pop
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, manhwa, Chu-Gong, Dubu, cultura pop, arte gráfica, narrativa
+  envolvente, fenômeno cultural
+tags:
+  - Solo Leveling
+  - manhwa
+  - Chu-Gong
+  - Dubu
+  - cultura pop
+  - arte gráfica
+  - narrativa envolvente
+  - fenômeno cultural
+data: '2025-04-01T01:56:38.246Z'
+author: Ana Luiza
 ---
 
 ## Introdução

@@ -1,13 +1,28 @@
 ---
-title: "Mercy | Filme de ficção científica com Chris Pratt revela trailer e data de estreia na CinemaCon"
-slug: "mercy-fico-cientfica-com-chris-pratt-ganha-trailer-e-data-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/mwjj0ltP8zaqHR3Bt6sSXEqi5fM=/987x0/smart/uploads/conteudo/fotos/chris-pratt-mercy.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/CQZrGI1Y1h-1hCWcmyGzoIrzQt8=/480x360/smart/extras/conteudos/chris-pratt-mercy.png"
-tags: ["Chris Pratt", "ficção científica", "CinemaCon", "thriller futurista", "inteligência artificial", "Rebecca Ferguson", "filme distópico", "suspense"]
-keywords: "Chris Pratt, ficção científica, CinemaCon, thriller futurista, inteligência artificial, Rebecca Ferguson, filme distópico, suspense"
-data: "2025-04-03T04:12:54.435Z"
+title: >-
+  Mercy | Filme de ficção científica com Chris Pratt revela trailer e data de
+  estreia na CinemaCon
+slug: mercy-fico-cientfica-com-chris-pratt-ganha-trailer-e-data-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/mwjj0ltP8zaqHR3Bt6sSXEqi5fM=/987x0/smart/uploads/conteudo/fotos/chris-pratt-mercy.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/CQZrGI1Y1h-1hCWcmyGzoIrzQt8=/480x360/smart/extras/conteudos/chris-pratt-mercy.png
+tags:
+  - Chris Pratt
+  - ficção científica
+  - CinemaCon
+  - thriller futurista
+  - inteligência artificial
+  - Rebecca Ferguson
+  - filme distópico
+  - suspense
+keywords: >-
+  Chris Pratt, ficção científica, CinemaCon, thriller futurista, inteligência
+  artificial, Rebecca Ferguson, filme distópico, suspense
+data: '2025-04-03T04:12:54.435Z'
+author: Pablo Moura
 ---
 
 Durante a CinemaCon 2025, foi revelado o primeiro trailer de 'Mercy', a nova ficção científica que conta com Chris Pratt e Rebecca Ferguson no elenco. O filme está programado para lançamento em breve, marcando mais uma colaboração de destaque no cinema de gênero.

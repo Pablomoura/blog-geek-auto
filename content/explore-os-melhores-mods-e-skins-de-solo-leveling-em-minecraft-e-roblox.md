@@ -1,14 +1,29 @@
 ---
-title: "Explore os Melhores Mods e Skins de Solo Leveling em Minecraft e Roblox"
-slug: "explore-os-melhores-mods-e-skins-de-solo-leveling-em-minecraft-e-roblox"
-resumo: "Descubra como transformar sua experiência de jogo em Minecraft e Roblox com os melhores mods e skins inspirados no popular manhwa Solo Leveling. Este artigo oferece um guia detalhado sobre onde encontrar e como instalar esses elementos para melhorar sua jogabilidade."
-categoria: "Jogos e Mods"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, Minecraft Mods, Roblox Skins, Jogos, Manhwa, Mods, Skins, Gaming"
-tags: ["Solo Leveling", "Minecraft Mods", "Roblox Skins", "Jogos", "Manhwa", "Mods", "Skins", "Gaming"]
-data: "2025-02-07T01:55:28.967Z"
+title: Explore os Melhores Mods e Skins de Solo Leveling em Minecraft e Roblox
+slug: explore-os-melhores-mods-e-skins-de-solo-leveling-em-minecraft-e-roblox
+resumo: >-
+  Descubra como transformar sua experiência de jogo em Minecraft e Roblox com os
+  melhores mods e skins inspirados no popular manhwa Solo Leveling. Este artigo
+  oferece um guia detalhado sobre onde encontrar e como instalar esses elementos
+  para melhorar sua jogabilidade.
+categoria: Jogos e Mods
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, Minecraft Mods, Roblox Skins, Jogos, Manhwa, Mods, Skins,
+  Gaming
+tags:
+  - Solo Leveling
+  - Minecraft Mods
+  - Roblox Skins
+  - Jogos
+  - Manhwa
+  - Mods
+  - Skins
+  - Gaming
+data: '2025-02-07T01:55:28.967Z'
+author: Ana Luiza
 ---
 
 ## Introdução ao Mundo de Solo Leveling em Jogos

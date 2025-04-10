@@ -1,13 +1,26 @@
 ---
-title: "Zootopia 2 ganha primeiro trailer na CinemaCon 2025; confira aqui"
-slug: "zootopia-2-ganha-primeiro-trailer-na-cinemacon-2025-confira-aqui"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/-gBQRtw4cwoSdmp5uNABk3CiNU0=/987x0/smart/uploads/conteudo/fotos/image_-_2025-04-03T200608.532.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7MEdcuH5webhzICGo0FwEs0eqno=/480x360/smart/extras/conteudos/image_-_2025-04-03T200608.532.png"
-tags: ["Zootopia 2", "CinemaCon 2025", "trailer de filme", "animação Disney", "Quinta Brunson", "filmes de animais", "comédia", "mercado chinês"]
-keywords: "Zootopia 2, CinemaCon 2025, trailer de filme, animação Disney, Quinta Brunson, filmes de animais, comédia, mercado chinês"
-data: "2025-04-03T23:09:59.169Z"
+title: Zootopia 2 ganha primeiro trailer na CinemaCon 2025; confira aqui
+slug: zootopia-2-ganha-primeiro-trailer-na-cinemacon-2025-confira-aqui
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/-gBQRtw4cwoSdmp5uNABk3CiNU0=/987x0/smart/uploads/conteudo/fotos/image_-_2025-04-03T200608.532.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7MEdcuH5webhzICGo0FwEs0eqno=/480x360/smart/extras/conteudos/image_-_2025-04-03T200608.532.png
+tags:
+  - Zootopia 2
+  - CinemaCon 2025
+  - trailer de filme
+  - animação Disney
+  - Quinta Brunson
+  - filmes de animais
+  - comédia
+  - mercado chinês
+keywords: >-
+  Zootopia 2, CinemaCon 2025, trailer de filme, animação Disney, Quinta Brunson,
+  filmes de animais, comédia, mercado chinês
+data: '2025-04-03T23:09:59.169Z'
+author: Pablo Moura
 ---
 
 A CinemaCon 2025 foi palco para o lançamento do aguardado primeiro trailer de 'Zootopia 2', a sequência do sucesso de animação da Disney. Durante o evento, foi também revelada a inclusão de Quinta Brunson no elenco de vozes, interpretando uma nova personagem que promete ser uma chinchila carismática.

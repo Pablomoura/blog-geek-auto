@@ -1,14 +1,28 @@
 ---
-title: "Desvendando o Algoritmo da Netflix: Entenda e Aproveite Melhor Seu Streaming"
-slug: "desvendando-o-algoritmo-da-netflix-entenda-e-aproveite-melhor-seu-streaming"
-resumo: "Este artigo explora como o algoritmo da Netflix funciona e oferece dicas práticas para otimizar sua experiência de streaming, garantindo que você sempre tenha conteúdo de seu interesse ao alcance."
-categoria: "Tecnologia e Entretenimento"
-midia: "/images/Algoritmo-Netflix.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-Algoritmo-Netflix.jpg"
-keywords: "Netflix, Algoritmo, Streaming, Inteligência Artificial, Personalização, Dicas de Netflix, Machine Learning, Consumo de Mídia"
-tags: ["Netflix", "Algoritmo", "Streaming", "Inteligência Artificial", "Personalização", "Dicas de Netflix", "Machine Learning", "Consumo de Mídia"]
-data: "2025-04-04T21:45:20.437Z"
+title: 'Desvendando o Algoritmo da Netflix: Entenda e Aproveite Melhor Seu Streaming'
+slug: desvendando-o-algoritmo-da-netflix-entenda-e-aproveite-melhor-seu-streaming
+resumo: >-
+  Este artigo explora como o algoritmo da Netflix funciona e oferece dicas
+  práticas para otimizar sua experiência de streaming, garantindo que você
+  sempre tenha conteúdo de seu interesse ao alcance.
+categoria: Tecnologia e Entretenimento
+midia: /images/Algoritmo-Netflix.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-Algoritmo-Netflix.jpg
+keywords: >-
+  Netflix, Algoritmo, Streaming, Inteligência Artificial, Personalização, Dicas
+  de Netflix, Machine Learning, Consumo de Mídia
+tags:
+  - Netflix
+  - Algoritmo
+  - Streaming
+  - Inteligência Artificial
+  - Personalização
+  - Dicas de Netflix
+  - Machine Learning
+  - Consumo de Mídia
+data: '2025-04-04T21:45:20.437Z'
+author: Pablo Moura
 ---
 
 ## Entendendo o Algoritmo da Netflix

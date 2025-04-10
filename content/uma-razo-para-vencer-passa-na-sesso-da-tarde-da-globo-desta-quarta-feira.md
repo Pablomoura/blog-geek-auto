@@ -14,6 +14,7 @@ tags:
   - helen hunt
   - william hurt
   - filme de drama
+author: Pablo Moura
 ---
 
 Na Sessão da Tarde de hoje, 26 de outubro, a TV Globo apresenta o filme 'Uma Razão para Vencer', lançado em 2018. A transmissão ocorre às 15h25, horário de Brasília, com duração de 1h41.

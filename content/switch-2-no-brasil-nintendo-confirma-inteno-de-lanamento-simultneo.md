@@ -1,13 +1,25 @@
 ---
-title: "Switch 2 no Brasil | Nintendo confirma intenção de lançamento simultâneo"
-slug: "switch-2-no-brasil-nintendo-confirma-inteno-de-lanamento-simultneo"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ny8iGHFpgbY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/1SHbiYtE9trp2A22NKl-FQLpgbs=/480x360/smart/extras/conteudos/switch-2-brasil-header.jpg"
-tags: ["Nintendo Switch 2", "lançamento simultâneo", "mercado brasileiro", "inovações tecnológicas", "jogos 4K", "HDR", "Joy-Con magnético", "GameChat"]
-keywords: "Nintendo Switch 2, lançamento simultâneo, mercado brasileiro, inovações tecnológicas, jogos 4K, HDR, Joy-Con magnético, GameChat"
-data: "2025-04-03T14:11:56.598Z"
+title: Switch 2 no Brasil | Nintendo confirma intenção de lançamento simultâneo
+slug: switch-2-no-brasil-nintendo-confirma-inteno-de-lanamento-simultneo
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ny8iGHFpgbY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/1SHbiYtE9trp2A22NKl-FQLpgbs=/480x360/smart/extras/conteudos/switch-2-brasil-header.jpg
+tags:
+  - Nintendo Switch 2
+  - lançamento simultâneo
+  - mercado brasileiro
+  - inovações tecnológicas
+  - jogos 4K
+  - HDR
+  - Joy-Con magnético
+  - GameChat
+keywords: >-
+  Nintendo Switch 2, lançamento simultâneo, mercado brasileiro, inovações
+  tecnológicas, jogos 4K, HDR, Joy-Con magnético, GameChat
+data: '2025-04-03T14:11:56.598Z'
+author: Ana Luiza
 ---
 
 A Nintendo planeja lançar o Nintendo Switch 2 no Brasil ao mesmo tempo que nos Estados Unidos, especificamente em 5 de junho. Contudo, ainda não há uma data confirmada para a chegada do console ao mercado brasileiro.

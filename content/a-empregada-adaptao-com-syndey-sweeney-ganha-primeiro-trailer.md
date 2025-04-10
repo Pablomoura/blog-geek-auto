@@ -18,6 +18,7 @@ tags:
   - trailer
   - lionsgate
   - adaptação literária
+author: Pablo Moura
 ---
 
 Durante a CinemaCon 2025, o aguardado filme 'A Empregada' teve seu primeiro trailer divulgado no painel da Lionsgate. Baseado no livro de Freida McFadden, o trailer introduz Sydney Sweeney no papel de Millie, uma empregada que trabalha para um casal rico, interpretado por Amanda Seyfried e Brandon Sklenar. A trama começa com uma atmosfera tranquila que rapidamente se transforma em um thriller de suspense e horror.

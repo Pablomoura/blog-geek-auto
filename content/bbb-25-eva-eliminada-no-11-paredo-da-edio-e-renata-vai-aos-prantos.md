@@ -16,6 +16,7 @@ tags:
   - eva
   - vinícius
   - emoção
+author: Pablo Moura
 ---
 
 Na emocionante noite deste domingo (30), o BBB 25 revelou o resultado do 11º Paredão, marcado pela disputa entre Vinícius, Eva e Delma. Eva foi a participante eliminada, recebendo 51,35% dos votos. Vinícius, com 44,52%, e Delma, com apenas 4,13%, completaram a votação.

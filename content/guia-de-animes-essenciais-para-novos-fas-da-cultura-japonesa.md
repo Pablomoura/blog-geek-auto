@@ -1,14 +1,29 @@
 ---
-title: "Guia de Animes Essenciais para Novos Fãs da Cultura Japonesa"
-slug: "guia-de-animes-essenciais-para-novos-fas-da-cultura-japonesa"
-resumo: "Explore os animes mais influentes e cativantes que todo novo fã da cultura japonesa deve assistir. Este guia abrange desde clássicos atemporais até obras modernas que moldaram o gênero, oferecendo uma porta de entrada fascinante para o mundo da animação japonesa."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Guia-de-Animes.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-Guia-de-Animes.jpg"
-keywords: "anime, cultura japonesa, animação, Naruto, Dragon Ball Z, Attack on Titan, My Hero Academia, Spirited Away"
-tags: ["anime", "cultura japonesa", "animação", "Naruto", "Dragon Ball Z", "Attack on Titan", "My Hero Academia", "Spirited Away"]
-data: "2025-04-03T22:58:49.879Z"
+title: Guia de Animes Essenciais para Novos Fãs da Cultura Japonesa
+slug: guia-de-animes-essenciais-para-novos-fas-da-cultura-japonesa
+resumo: >-
+  Explore os animes mais influentes e cativantes que todo novo fã da cultura
+  japonesa deve assistir. Este guia abrange desde clássicos atemporais até obras
+  modernas que moldaram o gênero, oferecendo uma porta de entrada fascinante
+  para o mundo da animação japonesa.
+categoria: MANGÁS E ANIMES
+midia: /images/Guia-de-Animes.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-Guia-de-Animes.jpg
+keywords: >-
+  anime, cultura japonesa, animação, Naruto, Dragon Ball Z, Attack on Titan, My
+  Hero Academia, Spirited Away
+tags:
+  - anime
+  - cultura japonesa
+  - animação
+  - Naruto
+  - Dragon Ball Z
+  - Attack on Titan
+  - My Hero Academia
+  - Spirited Away
+data: '2025-04-03T22:58:49.879Z'
+author: Pablo Moura
 ---
 
 ## Introdução ao Mundo dos Animes

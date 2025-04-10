@@ -15,6 +15,7 @@ tags:
   - vinícius
   - formato turbo
   - tv globo
+author: Luana Souza
 ---
 
 O 11º Paredão do BBB 25, marcando a estreia do formato turbo, será formado nesta sexta-feira (28), incluindo Vinícius e outros dois concorrentes. A eliminação ocorrerá no domingo, dia 30.

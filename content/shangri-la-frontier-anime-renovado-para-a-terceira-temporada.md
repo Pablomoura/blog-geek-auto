@@ -14,6 +14,7 @@ tags:
   - anime
   - estúdio c2c
   - renovação
+author: Pablo Moura
 ---
 
 O estúdio Katarina confirmou neste domingo (30) a renovação de 'Shangri-La Frontier' para uma terceira temporada. O anúncio veio logo após o término da exibição do segundo ano do anime, que ocorreu neste fim de semana.

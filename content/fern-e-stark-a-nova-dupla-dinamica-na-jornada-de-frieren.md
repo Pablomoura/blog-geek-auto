@@ -1,14 +1,29 @@
 ---
-title: "Fern e Stark: A Nova Dupla Dinâmica na Jornada de Frieren"
-slug: "fern-e-stark-a-nova-dupla-dinamica-na-jornada-de-frieren"
-resumo: "Este artigo explora a importância emocional de Fern e Stark, os novos parceiros de Frieren, em sua jornada épica. Analisamos como esses personagens enriquecem a narrativa e contribuem para o desenvolvimento emocional do protagonista."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Fern, Stark, Frieren, desenvolvimento emocional, narrativa, aventura, conexão humana, auto-descoberta"
-tags: ["Fern", "Stark", "Frieren", "desenvolvimento emocional", "narrativa", "aventura", "conexão humana", "auto-descoberta"]
-data: "2025-04-07T21:26:39.081Z"
+title: 'Fern e Stark: A Nova Dupla Dinâmica na Jornada de Frieren'
+slug: fern-e-stark-a-nova-dupla-dinamica-na-jornada-de-frieren
+resumo: >-
+  Este artigo explora a importância emocional de Fern e Stark, os novos
+  parceiros de Frieren, em sua jornada épica. Analisamos como esses personagens
+  enriquecem a narrativa e contribuem para o desenvolvimento emocional do
+  protagonista.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Fern, Stark, Frieren, desenvolvimento emocional, narrativa, aventura, conexão
+  humana, auto-descoberta
+tags:
+  - Fern
+  - Stark
+  - Frieren
+  - desenvolvimento emocional
+  - narrativa
+  - aventura
+  - conexão humana
+  - auto-descoberta
+data: '2025-04-07T21:26:39.081Z'
+author: Pablo Moura
 ---
 
 ## Introdução

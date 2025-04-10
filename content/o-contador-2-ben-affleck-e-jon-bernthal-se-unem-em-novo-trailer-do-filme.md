@@ -1,13 +1,25 @@
 ---
-title: "O Contador 2 | Ben Affleck e Jon Bernthal se unem em novo trailer do filme"
-slug: "o-contador-2-ben-affleck-e-jon-bernthal-se-unem-em-novo-trailer-do-filme"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/HPMh3AO4Gm0?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/DU8N63wCYvTp5T63Vvr5iCbo-H4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-03_182643.png"
-tags: ["Ben Affleck", "Jon Bernthal", "O Contador 2", "trailer de filme", "ação", "mistério", "sequência de filme", "cinema"]
-keywords: "Ben Affleck, Jon Bernthal, O Contador 2, trailer de filme, ação, mistério, sequência de filme, cinema"
-data: "2025-04-03T22:09:53.044Z"
+title: O Contador 2 | Ben Affleck e Jon Bernthal se unem em novo trailer do filme
+slug: o-contador-2-ben-affleck-e-jon-bernthal-se-unem-em-novo-trailer-do-filme
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/HPMh3AO4Gm0?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/DU8N63wCYvTp5T63Vvr5iCbo-H4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-03_182643.png
+tags:
+  - Ben Affleck
+  - Jon Bernthal
+  - O Contador 2
+  - trailer de filme
+  - ação
+  - mistério
+  - sequência de filme
+  - cinema
+keywords: >-
+  Ben Affleck, Jon Bernthal, O Contador 2, trailer de filme, ação, mistério,
+  sequência de filme, cinema
+data: '2025-04-03T22:09:53.044Z'
+author: Luana Souza
 ---
 
 Foi divulgado um novo trailer de 'O Contador 2', destacando a união dos personagens de Ben Affleck e Jon Bernthal. O vídeo já está disponível para visualização.

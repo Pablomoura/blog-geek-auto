@@ -15,6 +15,7 @@ tags:
   - cultura pop
   - golpe de estado
   - stf
+author: Pablo Moura
 ---
 
 O julgamento de Jair Bolsonaro, acusado de planejar um golpe de estado, foi palco de uma intrigante referência à cultura pop. No STF, Matheus Mayer Milanez, advogado de defesa, fez uma comparação entre a acusação e uma famosa série da Netflix.

@@ -15,6 +15,7 @@ tags:
   - sean astin
   - brinquedos
   - colecionáveis
+author: Pablo Moura
 ---
 
 A LEGO anunciou um emocionante lançamento para os fãs de 'O Senhor dos Anéis', uma parceria que traz o Condado, o idílico lar dos hobbits, para o mundo dos blocos de montar. Imagens divulgadas mostram Sean Astin, que interpretou Sam na famosa trilogia de Peter Jackson, montando o set.

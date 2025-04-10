@@ -1,13 +1,26 @@
 ---
-title: "Eu Sei o Que Vocês Fizeram no Verão Passado | Revival ganha primeiras imagens"
-slug: "eu-sei-o-que-vocs-fizeram-no-vero-passado-revival-ganha-primeiras-imagens"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/7punNsql5JWlEJ2fKVydE0A6DO4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T133001.990.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7SlA1ZPS-VoqeUkZvEkNR2QVcsk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T133124.634.png"
-tags: ["revival", "suspense", "terror", "franquia", "reboot", "cinema", "série de TV", "elenco original"]
-keywords: "revival, suspense, terror, franquia, reboot, cinema, série de TV, elenco original"
-data: "2025-04-08T17:12:01.092Z"
+title: Eu Sei o Que Vocês Fizeram no Verão Passado | Revival ganha primeiras imagens
+slug: eu-sei-o-que-vocs-fizeram-no-vero-passado-revival-ganha-primeiras-imagens
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/7punNsql5JWlEJ2fKVydE0A6DO4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T133001.990.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7SlA1ZPS-VoqeUkZvEkNR2QVcsk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T133124.634.png
+tags:
+  - revival
+  - suspense
+  - terror
+  - franquia
+  - reboot
+  - cinema
+  - série de TV
+  - elenco original
+keywords: >-
+  revival, suspense, terror, franquia, reboot, cinema, série de TV, elenco
+  original
+data: '2025-04-08T17:12:01.092Z'
+author: Luana Souza
 ---
 
 As primeiras imagens do aguardado revival de 'Eu Sei O Que Vocês Fizeram no Verão Passado' foram divulgadas, trazendo um novo olhar sobre a renovação da clássica história de suspense e terror. As imagens foram publicadas pela revista People, capturando a atenção dos fãs da série original.

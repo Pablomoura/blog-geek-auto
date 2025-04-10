@@ -1,14 +1,29 @@
 ---
-title: "Os Produtos Geek Mais Vendidos da Amazon em 2024: Um Guia Completo"
-slug: "os-produtos-geek-mais-vendidos-da-amazon-em-2024-um-guia-completo"
-resumo: "Explore os produtos geek mais populares e vendidos na Amazon em 2024. Descubra quais são os itens indispensáveis para fãs de tecnologia, jogos, filmes e muito mais. Este artigo fornece um olhar detalhado sobre as tendências e os melhores produtos para entusiastas do universo geek."
-categoria: "Compras"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "produtos geek, Amazon 2024, cultura pop, tecnologia, colecionáveis, moda geek, gaming, tendências geek"
-tags: ["produtos geek", "Amazon 2024", "cultura pop", "tecnologia", "colecionáveis", "moda geek", "gaming", "tendências geek"]
-data: "2025-03-07T01:17:29.502Z"
+title: 'Os Produtos Geek Mais Vendidos da Amazon em 2024: Um Guia Completo'
+slug: os-produtos-geek-mais-vendidos-da-amazon-em-2024-um-guia-completo
+resumo: >-
+  Explore os produtos geek mais populares e vendidos na Amazon em 2024. Descubra
+  quais são os itens indispensáveis para fãs de tecnologia, jogos, filmes e
+  muito mais. Este artigo fornece um olhar detalhado sobre as tendências e os
+  melhores produtos para entusiastas do universo geek.
+categoria: Compras
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  produtos geek, Amazon 2024, cultura pop, tecnologia, colecionáveis, moda geek,
+  gaming, tendências geek
+tags:
+  - produtos geek
+  - Amazon 2024
+  - cultura pop
+  - tecnologia
+  - colecionáveis
+  - moda geek
+  - gaming
+  - tendências geek
+data: '2025-03-07T01:17:29.502Z'
+author: Ana Luiza
 ---
 
 ## Introdução

@@ -1,13 +1,26 @@
 ---
-title: "Chico Bento chega ao Roblox com experiência imersiva"
-slug: "chico-bento-chega-ao-roblox-com-experincia-imersiva"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/0K8rqBF02V79JeERKsnomp72mOc=/987x0/smart/uploads/conteudo/fotos/imagem_2025-04-09_103925727.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OAgHAnpdQnzhRC9S_YtrcArj-l8=/480x360/smart/extras/conteudos/imagem_2025-04-09_103923280.png"
-tags: ["Chico Bento", "Roblox", "Maurício de Sousa", "jogos digitais", "experiência imersiva", "Vila Abobrinha", "Trexx", "Geração Alpha"]
-keywords: "Chico Bento, Roblox, Maurício de Sousa, jogos digitais, experiência imersiva, Vila Abobrinha, Trexx, Geração Alpha"
-data: "2025-04-09T14:05:08.582Z"
+title: Chico Bento chega ao Roblox com experiência imersiva
+slug: chico-bento-chega-ao-roblox-com-experincia-imersiva
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/0K8rqBF02V79JeERKsnomp72mOc=/987x0/smart/uploads/conteudo/fotos/imagem_2025-04-09_103925727.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OAgHAnpdQnzhRC9S_YtrcArj-l8=/480x360/smart/extras/conteudos/imagem_2025-04-09_103923280.png
+tags:
+  - Chico Bento
+  - Roblox
+  - Maurício de Sousa
+  - jogos digitais
+  - experiência imersiva
+  - Vila Abobrinha
+  - Trexx
+  - Geração Alpha
+keywords: >-
+  Chico Bento, Roblox, Maurício de Sousa, jogos digitais, experiência imersiva,
+  Vila Abobrinha, Trexx, Geração Alpha
+data: '2025-04-09T14:05:08.582Z'
+author: Pablo Moura
 ---
 
 Chico Bento, o icônico personagem do universo de Maurício de Sousa, faz sua estreia no ambiente virtual do Roblox, graças a uma colaboração entre MSP Estúdios e a startup brasileira de games Trexx. A chegada do caipira mais querido dos quadrinhos brasileiros ao mundo dos jogos digitais inclui também personagens adorados como Zé Lelé, Rosinha e a galinha Giselda.

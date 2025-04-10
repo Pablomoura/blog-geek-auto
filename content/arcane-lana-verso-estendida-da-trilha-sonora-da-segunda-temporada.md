@@ -1,13 +1,26 @@
 ---
-title: "Arcane lança versão estendida da trilha sonora da segunda temporada"
-slug: "arcane-lana-verso-estendida-da-trilha-sonora-da-segunda-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/aICW8oyDI9JBI21Xdn0nOv2KRm0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T124253.190.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dNRs0PuMaqG2yr9V2_Nm6aM4t1s=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T124238.788.png"
-tags: ["Arcane", "League of Legends", "trilha sonora", "Netflix", "Riot Games", "streaming", "adaptações", "produção cinematográfica"]
-keywords: "Arcane, League of Legends, trilha sonora, Netflix, Riot Games, streaming, adaptações, produção cinematográfica"
-data: "2025-04-04T16:12:25.699Z"
+title: Arcane lança versão estendida da trilha sonora da segunda temporada
+slug: arcane-lana-verso-estendida-da-trilha-sonora-da-segunda-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/aICW8oyDI9JBI21Xdn0nOv2KRm0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T124253.190.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dNRs0PuMaqG2yr9V2_Nm6aM4t1s=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T124238.788.png
+tags:
+  - Arcane
+  - League of Legends
+  - trilha sonora
+  - Netflix
+  - Riot Games
+  - streaming
+  - adaptações
+  - produção cinematográfica
+keywords: >-
+  Arcane, League of Legends, trilha sonora, Netflix, Riot Games, streaming,
+  adaptações, produção cinematográfica
+data: '2025-04-04T16:12:25.699Z'
+author: Luana Souza
 ---
 
 A aclamada série 'Arcane', baseada no universo de 'League of Legends' e disponível na Netflix, acaba de enriquecer seu repertório musical com o lançamento de uma versão estendida da trilha sonora da segunda temporada. Os fãs da série podem agora desfrutar de uma experiência sonora ampliada, acessível através das principais plataformas de streaming. 

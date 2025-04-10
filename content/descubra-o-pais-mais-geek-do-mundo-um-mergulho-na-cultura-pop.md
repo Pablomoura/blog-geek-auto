@@ -1,14 +1,27 @@
 ---
-title: "Descubra o País Mais Geek do Mundo: Um Mergulho na Cultura Pop"
-slug: "descubra-o-pais-mais-geek-do-mundo-um-mergulho-na-cultura-pop"
-resumo: "Este artigo explora quais países lideram o ranking em interesse por cultura pop, identificando o país mais geek do mundo. Através de análises de eventos, consumo de mídia e atividades online, descubra qual nação verdadeiramente vive e respira cultura geek."
-categoria: "Cultura Pop"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "cultura pop, geek, países, eventos, mídia, convenções, cosplay, jogos"
-tags: ["cultura pop", "geek", "países", "eventos", "mídia", "convenções", "cosplay", "jogos"]
-data: "2025-02-07T01:22:22.551Z"
+title: 'Descubra o País Mais Geek do Mundo: Um Mergulho na Cultura Pop'
+slug: descubra-o-pais-mais-geek-do-mundo-um-mergulho-na-cultura-pop
+resumo: >-
+  Este artigo explora quais países lideram o ranking em interesse por cultura
+  pop, identificando o país mais geek do mundo. Através de análises de eventos,
+  consumo de mídia e atividades online, descubra qual nação verdadeiramente vive
+  e respira cultura geek.
+categoria: Cultura Pop
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: 'cultura pop, geek, países, eventos, mídia, convenções, cosplay, jogos'
+tags:
+  - cultura pop
+  - geek
+  - países
+  - eventos
+  - mídia
+  - convenções
+  - cosplay
+  - jogos
+data: '2025-02-07T01:22:22.551Z'
+author: Luana Souza
 ---
 
 ## Introdução

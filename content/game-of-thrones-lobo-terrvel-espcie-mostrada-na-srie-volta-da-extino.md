@@ -1,13 +1,26 @@
 ---
-title: "Game of Thrones | Lobo terrível, espécie mostrada na série, volta da extinção"
-slug: "game-of-thrones-lobo-terrvel-espcie-mostrada-na-srie-volta-da-extino"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/RLdMB4eRhdX2NKAyLSgerj2Sf84=/987x0/smart/uploads/conteudo/fotos/wolves.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/DeoC4Ks79wcyC8bO8L6WvruDopU=/480x360/smart/extras/conteudos/wolves.png"
-tags: ["Game of Thrones", "lobo terrível", "desextinção", "Colossal Biosciences", "edição genética", "Crispr", "conservação da biodiversidade", "ciência avançada"]
-keywords: "Game of Thrones, lobo terrível, desextinção, Colossal Biosciences, edição genética, Crispr, conservação da biodiversidade, ciência avançada"
-data: "2025-04-08T13:22:24.457Z"
+title: 'Game of Thrones | Lobo terrível, espécie mostrada na série, volta da extinção'
+slug: game-of-thrones-lobo-terrvel-espcie-mostrada-na-srie-volta-da-extino
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/RLdMB4eRhdX2NKAyLSgerj2Sf84=/987x0/smart/uploads/conteudo/fotos/wolves.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/DeoC4Ks79wcyC8bO8L6WvruDopU=/480x360/smart/extras/conteudos/wolves.png
+tags:
+  - Game of Thrones
+  - lobo terrível
+  - desextinção
+  - Colossal Biosciences
+  - edição genética
+  - Crispr
+  - conservação da biodiversidade
+  - ciência avançada
+keywords: >-
+  Game of Thrones, lobo terrível, desextinção, Colossal Biosciences, edição
+  genética, Crispr, conservação da biodiversidade, ciência avançada
+data: '2025-04-08T13:22:24.457Z'
+author: Pablo Moura
 ---
 
 A Colossal Biosciences fez um anúncio significativo nesta segunda-feira (07), marcando um feito histórico na ciência: a desextinção do lobo terrível, ou dire wolf em inglês, uma espécie extinta há mais de 10 mil anos. Esta espécie ganhou notoriedade através da série de televisão Game of Thrones, onde simbolizava a família Stark, com os lobos sendo presentes marcantes na trama.

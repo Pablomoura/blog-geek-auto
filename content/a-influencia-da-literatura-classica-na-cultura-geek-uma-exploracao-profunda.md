@@ -1,14 +1,30 @@
 ---
-title: "A Influência da Literatura Clássica na Cultura Geek: Uma Exploração Profunda"
-slug: "a-influencia-da-literatura-classica-na-cultura-geek-uma-exploracao-profunda"
-resumo: "Este artigo explora como a literatura clássica moldou e continua a influenciar a cultura geek moderna. Desde referências diretas em filmes e jogos até a inspiração para alguns dos mais amados personagens e enredos do universo geek, a literatura clássica se faz presente de maneiras surpreendentes e fundamentais."
-categoria: "Cultura"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "literatura clássica, cultura geek, influência, cinema, jogos, narrativas, mitologia, ficção científica"
-tags: ["literatura clássica", "cultura geek", "influência", "cinema", "jogos", "narrativas", "mitologia", "ficção científica"]
-data: "2025-04-01T01:05:11.784Z"
+title: 'A Influência da Literatura Clássica na Cultura Geek: Uma Exploração Profunda'
+slug: a-influencia-da-literatura-classica-na-cultura-geek-uma-exploracao-profunda
+resumo: >-
+  Este artigo explora como a literatura clássica moldou e continua a influenciar
+  a cultura geek moderna. Desde referências diretas em filmes e jogos até a
+  inspiração para alguns dos mais amados personagens e enredos do universo geek,
+  a literatura clássica se faz presente de maneiras surpreendentes e
+  fundamentais.
+categoria: Cultura
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  literatura clássica, cultura geek, influência, cinema, jogos, narrativas,
+  mitologia, ficção científica
+tags:
+  - literatura clássica
+  - cultura geek
+  - influência
+  - cinema
+  - jogos
+  - narrativas
+  - mitologia
+  - ficção científica
+data: '2025-04-01T01:05:11.784Z'
+author: Luana Souza
 ---
 
 ## Introdução

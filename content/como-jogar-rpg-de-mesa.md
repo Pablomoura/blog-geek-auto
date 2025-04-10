@@ -15,6 +15,7 @@ tags:
   - jogos de aventura
   - criação de personagens
   - dicas de rpg
+author: Ana Luiza
 ---
 
 Se você já ouviu falar de **RPG de mesa**, mas acha tudo muito complexo ou “só pra nerds experientes”, relaxe! Este guia foi feito para você que quer entrar nesse mundo incrível de histórias, personagens, aventuras, monstros e **muita imaginação**.

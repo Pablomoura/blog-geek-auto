@@ -15,6 +15,7 @@ tags:
   - rpg para smartphones
   - encerramento de jogo
   - maio 2023
+author: Ana Luiza
 ---
 
 O popular jogo de RPG para smartphones, Final Fantasy: Brave Exvius, será descontinuado em breve. Lançado em março de 2020 pela renomada desenvolvedora Square Enix, o jogo deixará de estar disponível a partir do dia 30 de maio de 2023.

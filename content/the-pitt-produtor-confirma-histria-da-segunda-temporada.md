@@ -1,13 +1,26 @@
 ---
-title: "The Pitt | Produtor confirma história da segunda temporada"
-slug: "the-pitt-produtor-confirma-histria-da-segunda-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/1G81V4WsovqJ9U3Scty7hJLe-5g=/987x0/smart/uploads/conteudo/fotos/thepittvariante.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/rSWXtJUOSrnuTLdBWeJvjQrlj0k=/480x360/smart/extras/conteudos/thepittvariante.jpg"
-tags: ["The Pitt", "segunda temporada", "série médica", "R. Scott Gemmill", "Noah Wyle", "feriado de 4 de julho", "salto temporal", "plataforma Max"]
-keywords: "The Pitt, segunda temporada, série médica, R. Scott Gemmill, Noah Wyle, feriado de 4 de julho, salto temporal, plataforma Max"
-data: "2025-04-06T22:10:33.703Z"
+title: The Pitt | Produtor confirma história da segunda temporada
+slug: the-pitt-produtor-confirma-histria-da-segunda-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/1G81V4WsovqJ9U3Scty7hJLe-5g=/987x0/smart/uploads/conteudo/fotos/thepittvariante.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/rSWXtJUOSrnuTLdBWeJvjQrlj0k=/480x360/smart/extras/conteudos/thepittvariante.jpg
+tags:
+  - The Pitt
+  - segunda temporada
+  - série médica
+  - R. Scott Gemmill
+  - Noah Wyle
+  - feriado de 4 de julho
+  - salto temporal
+  - plataforma Max
+keywords: >-
+  The Pitt, segunda temporada, série médica, R. Scott Gemmill, Noah Wyle,
+  feriado de 4 de julho, salto temporal, plataforma Max
+data: '2025-04-06T22:10:33.703Z'
+author: Luana Souza
 ---
 
 À medida que a primeira temporada de 'The Pitt' se aproxima de sua conclusão, aumenta a curiosidade dos fãs sobre o rumo que a série médica tomará em seu segundo ano. R. Scott Gemmill, produtor executivo da série, revelou detalhes sobre os futuros episódios durante um painel no evento do Deadline, ocorrido no último sábado, dia 5. Ele anunciou que a segunda temporada será ambientada durante o feriado de 4 de julho e incluirá um salto temporal de 10 meses.

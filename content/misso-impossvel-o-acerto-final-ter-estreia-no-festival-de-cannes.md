@@ -1,13 +1,26 @@
 ---
-title: "Missão: Impossível - O Acerto Final terá estreia no Festival de Cannes"
-slug: "misso-impossvel-o-acerto-final-ter-estreia-no-festival-de-cannes"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/203QsUjtS_lHqtTMQkSuobM1Mbo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T105540.293.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hRQwXkHJhIVGD5Ufl06nM-lF1tQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T105524.407.png"
-tags: ["Festival de Cannes", "Missão Impossível", "Tom Cruise", "Christopher McQuarrie", "estreia de filme", "filme de ação", "submarino", "Inteligência Artificial"]
-keywords: "Festival de Cannes, Missão Impossível, Tom Cruise, Christopher McQuarrie, estreia de filme, filme de ação, submarino, Inteligência Artificial"
-data: "2025-04-08T14:11:19.972Z"
+title: 'Missão: Impossível - O Acerto Final terá estreia no Festival de Cannes'
+slug: misso-impossvel-o-acerto-final-ter-estreia-no-festival-de-cannes
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/203QsUjtS_lHqtTMQkSuobM1Mbo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T105540.293.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hRQwXkHJhIVGD5Ufl06nM-lF1tQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T105524.407.png
+tags:
+  - Festival de Cannes
+  - Missão Impossível
+  - Tom Cruise
+  - Christopher McQuarrie
+  - estreia de filme
+  - filme de ação
+  - submarino
+  - Inteligência Artificial
+keywords: >-
+  Festival de Cannes, Missão Impossível, Tom Cruise, Christopher McQuarrie,
+  estreia de filme, filme de ação, submarino, Inteligência Artificial
+data: '2025-04-08T14:11:19.972Z'
+author: Luana Souza
 ---
 
 O prestigiado Festival de Cannes será palco da estreia mundial do aguardado último capítulo da série Missão: Impossível. O filme, intitulado Missão: Impossível - O Acerto Final, será apresentado no Grand Théâtre Lumière em 14 de maio, contando com a presença de figuras ilustres como o protagonista Tom Cruise e o diretor Christopher McQuarrie, além de outros membros do elenco cuja participação ainda será confirmada. O filme será exibido de forma especial, fora da competição oficial.

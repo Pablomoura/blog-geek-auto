@@ -15,6 +15,7 @@ tags:
   - segunda temporada
   - série derivada
   - amazon prime
+author: Luana Souza
 ---
 
 Eric Kripke, showrunner de The Boys, utilizou as redes sociais neste sábado (29) para trazer novidades sobre a segunda temporada de Gen V, a série derivada do sucesso da Amazon. Ele informou que os novos episódios já estão prontos para exibição.

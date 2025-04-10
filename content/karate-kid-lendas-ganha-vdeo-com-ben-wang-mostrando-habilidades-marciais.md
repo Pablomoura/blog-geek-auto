@@ -17,6 +17,7 @@ tags:
   - estreia
   - vídeo
   - habilidades
+author: Pablo Moura
 ---
 
 A nova produção 'Karate Kid: Lendas' teve sua estreia adiantada no Brasil, segundo informações do site Omelete. Recentemente, um empolgante vídeo foi divulgado, no qual Ben Wang, o novo protagonista, exibe suas impressionantes habilidades em artes marciais. Assista ao vídeo abaixo!

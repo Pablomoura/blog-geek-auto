@@ -15,6 +15,7 @@ tags:
   - lançamento 2027
   - jogos
   - cinema
+author: Ana Luiza
 ---
 
 A espera acabou para os fãs de The Legend of Zelda. A Nintendo anunciou oficialmente que o filme live-action baseado na aclamada série de jogos será lançado em 2027. Acompanhe as atualizações e veja a arte promocional já divulgada.

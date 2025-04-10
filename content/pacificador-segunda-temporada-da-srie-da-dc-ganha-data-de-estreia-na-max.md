@@ -1,13 +1,25 @@
 ---
-title: "Pacificador | Segunda temporada da série da DC ganha data de estreia na Max"
-slug: "pacificador-segunda-temporada-da-srie-da-dc-ganha-data-de-estreia-na-max"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/r1DPpP99fSc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/8oEUzHVKsBlSM4ygsazO4MRb4vA=/480x360/smart/extras/conteudos/pacificador_VgyDEiy.jpg"
-tags: ["Pacificador", "DC Universe", "John Cena", "James Gunn", "HBO Max", "estreia 2025", "série de super-heróis", "continuação"]
-keywords: "Pacificador, DC Universe, John Cena, James Gunn, HBO Max, estreia 2025, série de super-heróis, continuação"
-data: "2025-04-07T02:05:23.191Z"
+title: Pacificador | Segunda temporada da série da DC ganha data de estreia na Max
+slug: pacificador-segunda-temporada-da-srie-da-dc-ganha-data-de-estreia-na-max
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/r1DPpP99fSc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/8oEUzHVKsBlSM4ygsazO4MRb4vA=/480x360/smart/extras/conteudos/pacificador_VgyDEiy.jpg
+tags:
+  - Pacificador
+  - DC Universe
+  - John Cena
+  - James Gunn
+  - HBO Max
+  - estreia 2025
+  - série de super-heróis
+  - continuação
+keywords: >-
+  Pacificador, DC Universe, John Cena, James Gunn, HBO Max, estreia 2025, série
+  de super-heróis, continuação
+data: '2025-04-07T02:05:23.191Z'
+author: Ana Luiza
 ---
 
 A aguardada segunda temporada da série 'Pacificador', estrelada por John Cena e integrante do renovado Universo DC, tem sua estreia marcada para 21 de agosto de 2025 na plataforma Max. A confirmação da data veio através de um anúncio feito por James Gunn, chefe do DC Studios, que compartilhou um vídeo destacando os próximos lançamentos da HBO e do serviço de streaming.

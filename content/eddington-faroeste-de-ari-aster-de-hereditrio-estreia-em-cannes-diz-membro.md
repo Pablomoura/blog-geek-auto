@@ -1,13 +1,28 @@
 ---
-title: "Eddington | Novo faroeste de Ari Aster com Joaquin Phoenix será apresentado em Cannes, revela diretor de fotografia"
-slug: "eddington-faroeste-de-ari-aster-de-hereditrio-estreia-em-cannes-diz-membro"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Gn5qh_VnCnEM8ivtSqpl1KDwlS4=/987x0/smart/uploads/conteudo/fotos/hereditario_gViFcrM.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0lXHXF6wP-zAaeKLIbOzW9NaDG0=/480x360/smart/extras/conteudos/hereditario_MeVIuZP.jpg"
-tags: ["Ari Aster", "Joaquin Phoenix", "Festival de Cannes", "faroeste", "filme político", "pandemia", "Darius Khondji", "Pedro Pascal"]
-keywords: "Ari Aster, Joaquin Phoenix, Festival de Cannes, faroeste, filme político, pandemia, Darius Khondji, Pedro Pascal"
-data: "2025-04-05T22:08:40.134Z"
+title: >-
+  Eddington | Novo faroeste de Ari Aster com Joaquin Phoenix será apresentado em
+  Cannes, revela diretor de fotografia
+slug: eddington-faroeste-de-ari-aster-de-hereditrio-estreia-em-cannes-diz-membro
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Gn5qh_VnCnEM8ivtSqpl1KDwlS4=/987x0/smart/uploads/conteudo/fotos/hereditario_gViFcrM.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0lXHXF6wP-zAaeKLIbOzW9NaDG0=/480x360/smart/extras/conteudos/hereditario_MeVIuZP.jpg
+tags:
+  - Ari Aster
+  - Joaquin Phoenix
+  - Festival de Cannes
+  - faroeste
+  - filme político
+  - pandemia
+  - Darius Khondji
+  - Pedro Pascal
+keywords: >-
+  Ari Aster, Joaquin Phoenix, Festival de Cannes, faroeste, filme político,
+  pandemia, Darius Khondji, Pedro Pascal
+data: '2025-04-05T22:08:40.134Z'
+author: Luana Souza
 ---
 
 O filme 'Eddington', dirigido por Ari Aster (conhecido por 'Hereditário' e 'Midsommar'), parece estar pronto para estrear no próximo Festival de Cannes. A informação foi confirmada por Darius Khondji, diretor de fotografia do filme, em entrevista ao Deadline. Khondji, que está retornando a Nova York para finalizar a coloração do filme, mencionou que ouviu sobre a inclusão do filme em Cannes há cerca de duas semanas.

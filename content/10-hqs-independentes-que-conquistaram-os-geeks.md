@@ -1,14 +1,29 @@
 ---
-title: "10 HQs Independentes que Conquistaram os Geeks"
-slug: "10-hqs-independentes-que-conquistaram-os-geeks"
-resumo: "Descubra as 10 histórias em quadrinhos independentes que se tornaram fenômenos culturais, conquistando fãs apaixonados no mundo geek. Este artigo explora obras que variam desde narrativas fantásticas até dramas realistas, demonstrando a riqueza e diversidade do universo das HQs independentes."
-categoria: "Cultura Geek"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "HQs, geeks, Saga, Sandman, The Walking Dead, Hellboy, Maus, quadrinhos independentes"
-tags: ["HQs", "geeks", "Saga", "Sandman", "The Walking Dead", "Hellboy", "Maus", "quadrinhos independentes"]
-data: "2025-04-01T01:04:50.386Z"
+title: 10 HQs Independentes que Conquistaram os Geeks
+slug: 10-hqs-independentes-que-conquistaram-os-geeks
+resumo: >-
+  Descubra as 10 histórias em quadrinhos independentes que se tornaram fenômenos
+  culturais, conquistando fãs apaixonados no mundo geek. Este artigo explora
+  obras que variam desde narrativas fantásticas até dramas realistas,
+  demonstrando a riqueza e diversidade do universo das HQs independentes.
+categoria: Cultura Geek
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  HQs, geeks, Saga, Sandman, The Walking Dead, Hellboy, Maus, quadrinhos
+  independentes
+tags:
+  - HQs
+  - geeks
+  - Saga
+  - Sandman
+  - The Walking Dead
+  - Hellboy
+  - Maus
+  - quadrinhos independentes
+data: '2025-04-01T01:04:50.386Z'
+author: Ana Luiza
 ---
 
 ## Introdução

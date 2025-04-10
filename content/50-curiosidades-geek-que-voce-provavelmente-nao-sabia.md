@@ -1,14 +1,29 @@
 ---
-title: "50 Curiosidades Geek que Você Provavelmente Não Sabia"
-slug: "50-curiosidades-geek-que-voce-provavelmente-nao-sabia"
-resumo: "Explore o fascinante mundo geek com estas 50 curiosidades que abrangem desde histórias inusitadas de tecnologia, ciência e cultura pop até fatos surpreendentes sobre personagens icônicos e inovações. Este artigo é um tesouro para qualquer entusiasta que deseja aprofundar seu conhecimento geek!"
-categoria: "Cultura Geek"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "curiosidades, geek, tecnologia, entretenimento, ciência, cultura pop, inovações, games"
-tags: ["curiosidades", "geek", "tecnologia", "entretenimento", "ciência", "cultura pop", "inovações", "games"]
-data: "2025-02-07T01:21:08.402Z"
+title: 50 Curiosidades Geek que Você Provavelmente Não Sabia
+slug: 50-curiosidades-geek-que-voce-provavelmente-nao-sabia
+resumo: >-
+  Explore o fascinante mundo geek com estas 50 curiosidades que abrangem desde
+  histórias inusitadas de tecnologia, ciência e cultura pop até fatos
+  surpreendentes sobre personagens icônicos e inovações. Este artigo é um
+  tesouro para qualquer entusiasta que deseja aprofundar seu conhecimento geek!
+categoria: Cultura Geek
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  curiosidades, geek, tecnologia, entretenimento, ciência, cultura pop,
+  inovações, games
+tags:
+  - curiosidades
+  - geek
+  - tecnologia
+  - entretenimento
+  - ciência
+  - cultura pop
+  - inovações
+  - games
+data: '2025-02-07T01:21:08.402Z'
+author: Pablo Moura
 ---
 
 ## Introdução

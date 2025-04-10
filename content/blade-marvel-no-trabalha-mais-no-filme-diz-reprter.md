@@ -15,6 +15,7 @@ tags:
   - mahershala ali
   - pausa no projeto
   - chad stahelski
+author: Ana Luiza
 ---
 
 A trajetória de Blade no Universo Cinematográfico da Marvel (MCU) enfrenta mais um revés. Após rumores de que Chad Stahelski dirigiria o filme estrelado por Mahershala Ali, novas informações sugerem que a Marvel pausou o desenvolvimento do projeto.

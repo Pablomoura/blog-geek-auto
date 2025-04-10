@@ -16,6 +16,7 @@ tags:
   - vilma
   - vinícius
   - reality show
+author: Ana Luiza
 ---
 
 Na emocionante noite desta terça-feira (1º), o 12º Paredão do Big Brother Brasil 25 foi resolvido, colocando Diego Hypólito, Vilma e Vinícius na berlinda. A tensão foi palpável, pois um dos três participantes teve que se despedir da competição.

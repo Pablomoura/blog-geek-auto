@@ -1,14 +1,30 @@
 ---
-title: "Por que Kaiju No. 8 está conquistando fãs de Attack on Titan e My Hero Academia?"
-slug: "por-que-kaiju-no-8-esta-conquistando-fas-de-attack-on-titan-e-my-hero-academia"
-resumo: "Descubra os motivos pelos quais o mangá Kaiju No. 8 tem atraído a atenção de fãs dos populares animes Attack on Titan e My Hero Academia, analisando aspectos como narrativa, desenvolvimento de personagens e temas abordados."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, Attack on Titan, My Hero Academia, Mangá, Anime, Monstros Gigantes, Desenvolvimento de Personagens, Narrativa Envolvente"
-tags: ["Kaiju No. 8", "Attack on Titan", "My Hero Academia", "Mangá", "Anime", "Monstros Gigantes", "Desenvolvimento de Personagens", "Narrativa Envolvente"]
-data: "2025-04-03T22:21:12.756Z"
+title: >-
+  Por que Kaiju No. 8 está conquistando fãs de Attack on Titan e My Hero
+  Academia?
+slug: por-que-kaiju-no-8-esta-conquistando-fas-de-attack-on-titan-e-my-hero-academia
+resumo: >-
+  Descubra os motivos pelos quais o mangá Kaiju No. 8 tem atraído a atenção de
+  fãs dos populares animes Attack on Titan e My Hero Academia, analisando
+  aspectos como narrativa, desenvolvimento de personagens e temas abordados.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, Attack on Titan, My Hero Academia, Mangá, Anime, Monstros
+  Gigantes, Desenvolvimento de Personagens, Narrativa Envolvente
+tags:
+  - Kaiju No. 8
+  - Attack on Titan
+  - My Hero Academia
+  - Mangá
+  - Anime
+  - Monstros Gigantes
+  - Desenvolvimento de Personagens
+  - Narrativa Envolvente
+data: '2025-04-03T22:21:12.756Z'
+author: Luana Souza
 ---
 
 ## Introdução

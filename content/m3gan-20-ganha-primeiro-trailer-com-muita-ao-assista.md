@@ -1,13 +1,25 @@
 ---
-title: "M3GAN 2.0 ganha primeiro trailer com muita ação; assista"
-slug: "m3gan-20-ganha-primeiro-trailer-com-muita-ao-assista"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/IYLHdEzsk1s?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/iouP4mijC3N2ZDFmAhlCRDQj9pQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-24T134919.493.png"
-tags: ["M3GAN 2.0", "trailer", "CinemaCon", "filme de terror", "inteligência artificial", "Universal Studios", "sequência de filme", "estreia 2025"]
-keywords: "M3GAN 2.0, trailer, CinemaCon, filme de terror, inteligência artificial, Universal Studios, sequência de filme, estreia 2025"
-data: "2025-04-03T15:10:22.387Z"
+title: M3GAN 2.0 ganha primeiro trailer com muita ação; assista
+slug: m3gan-20-ganha-primeiro-trailer-com-muita-ao-assista
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/IYLHdEzsk1s?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/iouP4mijC3N2ZDFmAhlCRDQj9pQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-24T134919.493.png
+tags:
+  - M3GAN 2.0
+  - trailer
+  - CinemaCon
+  - filme de terror
+  - inteligência artificial
+  - Universal Studios
+  - sequência de filme
+  - estreia 2025
+keywords: >-
+  M3GAN 2.0, trailer, CinemaCon, filme de terror, inteligência artificial,
+  Universal Studios, sequência de filme, estreia 2025
+data: '2025-04-03T15:10:22.387Z'
+author: Pablo Moura
 ---
 
 A sequência do aclamado filme de terror de 2022, M3GAN 2.0, acaba de ter seu primeiro trailer revelado durante um painel da Universal Studios na CinemaCon. O vídeo já está disponível para visualização online.

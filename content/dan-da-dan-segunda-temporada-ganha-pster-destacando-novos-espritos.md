@@ -1,13 +1,26 @@
 ---
-title: "Dan Da Dan | Segunda temporada ganha pôster destacando novos espíritos"
-slug: "dan-da-dan-segunda-temporada-ganha-pster-destacando-novos-espritos"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/VZV_FyoAZ_6oEfJCOgU-Ct5S38o=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T133626.342.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/cCPQYdo9Q3nTdogfI6E4Xu2knhE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T133604.313.png"
-tags: ["Dan Da Dan", "segunda temporada", "anime", "espíritos", "mangá", "ficção científica", "paranormal", "Crunchyroll"]
-keywords: "Dan Da Dan, segunda temporada, anime, espíritos, mangá, ficção científica, paranormal, Crunchyroll"
-data: "2025-04-03T17:10:41.004Z"
+title: Dan Da Dan | Segunda temporada ganha pôster destacando novos espíritos
+slug: dan-da-dan-segunda-temporada-ganha-pster-destacando-novos-espritos
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/VZV_FyoAZ_6oEfJCOgU-Ct5S38o=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T133626.342.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/cCPQYdo9Q3nTdogfI6E4Xu2knhE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T133604.313.png
+tags:
+  - Dan Da Dan
+  - segunda temporada
+  - anime
+  - espíritos
+  - mangá
+  - ficção científica
+  - paranormal
+  - Crunchyroll
+keywords: >-
+  Dan Da Dan, segunda temporada, anime, espíritos, mangá, ficção científica,
+  paranormal, Crunchyroll
+data: '2025-04-03T17:10:41.004Z'
+author: Luana Souza
 ---
 
 A aguardada segunda temporada de 'Dan da Dan' revelou um empolgante novo pôster que realça os inéditos espíritos que surgirão nos próximos episódios do anime. O anúncio foi feito recentemente e já aguça a curiosidade dos fãs.

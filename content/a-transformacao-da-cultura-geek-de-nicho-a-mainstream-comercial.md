@@ -1,14 +1,29 @@
 ---
-title: "A Transformação da Cultura Geek: De Nicho a Mainstream Comercial"
-slug: "a-transformacao-da-cultura-geek-de-nicho-a-mainstream-comercial"
-resumo: "Este artigo explora como a cultura geek evoluiu de um nicho apaixonado para um fenômeno comercial global. Discutimos os fatores que impulsionaram essa mudança, as implicações para a comunidade geek original, e até onde a comercialização pode ir."
-categoria: "Cultura Pop"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "cultura geek, nerd lifestyle, comercialização, mainstream, entretenimento digital, super-heróis, quadrinhos, jogos eletrônicos"
-tags: ["cultura geek", "nerd lifestyle", "comercialização", "mainstream", "entretenimento digital", "super-heróis", "quadrinhos", "jogos eletrônicos"]
-data: "2025-03-07T01:15:52.178Z"
+title: 'A Transformação da Cultura Geek: De Nicho a Mainstream Comercial'
+slug: a-transformacao-da-cultura-geek-de-nicho-a-mainstream-comercial
+resumo: >-
+  Este artigo explora como a cultura geek evoluiu de um nicho apaixonado para um
+  fenômeno comercial global. Discutimos os fatores que impulsionaram essa
+  mudança, as implicações para a comunidade geek original, e até onde a
+  comercialização pode ir.
+categoria: Cultura Pop
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  cultura geek, nerd lifestyle, comercialização, mainstream, entretenimento
+  digital, super-heróis, quadrinhos, jogos eletrônicos
+tags:
+  - cultura geek
+  - nerd lifestyle
+  - comercialização
+  - mainstream
+  - entretenimento digital
+  - super-heróis
+  - quadrinhos
+  - jogos eletrônicos
+data: '2025-03-07T01:15:52.178Z'
+author: Ana Luiza
 ---
 
 ## Introdução

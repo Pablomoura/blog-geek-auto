@@ -1,13 +1,26 @@
 ---
-title: "Xbox levará jogos para a gamescom latam 2025 com surpresas"
-slug: "xbox-levar-jogos-para-a-gamescom-latam-2025-com-surpresas"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/rnEQ4RxIWdLJodaPG5WsK0Wslfg=/987x0/smart/uploads/conteudo/fotos/02_yx7yvrw.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QQopPjfriIaAld1CPA-KIY4Zq50=/480x360/smart/extras/conteudos/01_HfeaJ5t.jpg"
-tags: ["Xbox", "gamescom latam 2025", "ID@Xbox", "desenvolvedores independentes", "Chris Charla", "Guillaume Provost", "jogos independentes", "mercado de jogos"]
-keywords: "Xbox, gamescom latam 2025, ID@Xbox, desenvolvedores independentes, Chris Charla, Guillaume Provost, jogos independentes, mercado de jogos"
-data: "2025-04-03T20:11:38.612Z"
+title: Xbox levará jogos para a gamescom latam 2025 com surpresas
+slug: xbox-levar-jogos-para-a-gamescom-latam-2025-com-surpresas
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/rnEQ4RxIWdLJodaPG5WsK0Wslfg=/987x0/smart/uploads/conteudo/fotos/02_yx7yvrw.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QQopPjfriIaAld1CPA-KIY4Zq50=/480x360/smart/extras/conteudos/01_HfeaJ5t.jpg
+tags:
+  - Xbox
+  - gamescom latam 2025
+  - ID@Xbox
+  - desenvolvedores independentes
+  - Chris Charla
+  - Guillaume Provost
+  - jogos independentes
+  - mercado de jogos
+keywords: >-
+  Xbox, gamescom latam 2025, ID@Xbox, desenvolvedores independentes, Chris
+  Charla, Guillaume Provost, jogos independentes, mercado de jogos
+data: '2025-04-03T20:11:38.612Z'
+author: Ana Luiza
 ---
 
 A Xbox marcará presença na gamescom latam 2025 através do seu programa ID@Xbox, uma iniciativa que apoia jogos independentes de menor escala, mas repletos de atrativos. No evento, os visitantes poderão desfrutar de uma experiência interativa com 13 estações de jogos disponíveis no Xbox Discovery Day, acompanhadas de surpresas e presenças internacionais durante os dias da feira.

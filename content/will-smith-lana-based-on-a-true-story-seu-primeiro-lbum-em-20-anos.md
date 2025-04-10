@@ -14,6 +14,7 @@ tags:
   - retorno
   - teyana taylor
   - lyric video
+author: Ana Luiza
 ---
 
 Will Smith, renomado ator e músico, acaba de lançar 'Based on a True Story', marcando seu retorno à música após 20 anos. O álbum foi divulgado juntamente com um lyric video da música 'Hard Times (Smile)', uma colaboração com Teyana Taylor.

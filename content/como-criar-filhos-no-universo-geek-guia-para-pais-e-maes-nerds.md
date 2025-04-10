@@ -1,14 +1,29 @@
 ---
-title: "Como Criar Filhos no Universo Geek: Guia para Pais e Mães Nerds"
-slug: "como-criar-filhos-no-universo-geek-guia-para-pais-e-maes-nerds"
-resumo: "Este artigo fornece um guia detalhado para pais e mães nerds sobre como integrar o universo geek na educação de seus filhos, abordando desde a introdução a cultura pop até a participação em eventos geek, sempre com o foco em desenvolver habilidades e valores positivos."
-categoria: "Educação e Família"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "pais nerds, educação geek, jogos educativos, quadrinhos para crianças, eventos geek, tecnologia educacional, cosplay familiar, livros para jovens"
-tags: ["pais nerds", "educação geek", "jogos educativos", "quadrinhos para crianças", "eventos geek", "tecnologia educacional", "cosplay familiar", "livros para jovens"]
-data: "2025-04-01T01:11:50.788Z"
+title: 'Como Criar Filhos no Universo Geek: Guia para Pais e Mães Nerds'
+slug: como-criar-filhos-no-universo-geek-guia-para-pais-e-maes-nerds
+resumo: >-
+  Este artigo fornece um guia detalhado para pais e mães nerds sobre como
+  integrar o universo geek na educação de seus filhos, abordando desde a
+  introdução a cultura pop até a participação em eventos geek, sempre com o foco
+  em desenvolver habilidades e valores positivos.
+categoria: Educação e Família
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  pais nerds, educação geek, jogos educativos, quadrinhos para crianças, eventos
+  geek, tecnologia educacional, cosplay familiar, livros para jovens
+tags:
+  - pais nerds
+  - educação geek
+  - jogos educativos
+  - quadrinhos para crianças
+  - eventos geek
+  - tecnologia educacional
+  - cosplay familiar
+  - livros para jovens
+data: '2025-04-01T01:11:50.788Z'
+author: Ana Luiza
 ---
 
 ## Introdução ao Universo Geek para Crianças

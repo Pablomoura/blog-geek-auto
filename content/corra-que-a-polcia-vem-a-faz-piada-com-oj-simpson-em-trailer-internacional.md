@@ -1,13 +1,26 @@
 ---
-title: "Corra Que a Polícia Vem Aí faz piada com OJ Simpson em trailer internacional"
-slug: "corra-que-a-polcia-vem-a-faz-piada-com-oj-simpson-em-trailer-internacional"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/ebQSquZf-epvV_OmJP4iR6OsAb4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T153822.077.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/xYxK1BvNzlCTbAm3g4Lf-dM9KgU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T153813.231.png"
-tags: ["Corra Que a Polícia Vem Aí", "O.J. Simpson", "Liam Neeson", "remake", "comédia", "trailer internacional", "estreia em cinema", "elenco estelar"]
-keywords: "Corra Que a Polícia Vem Aí, O.J. Simpson, Liam Neeson, remake, comédia, trailer internacional, estreia em cinema, elenco estelar"
-data: "2025-04-03T19:09:30.953Z"
+title: Corra Que a Polícia Vem Aí faz piada com OJ Simpson em trailer internacional
+slug: corra-que-a-polcia-vem-a-faz-piada-com-oj-simpson-em-trailer-internacional
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/ebQSquZf-epvV_OmJP4iR6OsAb4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T153822.077.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/xYxK1BvNzlCTbAm3g4Lf-dM9KgU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T153813.231.png
+tags:
+  - Corra Que a Polícia Vem Aí
+  - O.J. Simpson
+  - Liam Neeson
+  - remake
+  - comédia
+  - trailer internacional
+  - estreia em cinema
+  - elenco estelar
+keywords: >-
+  Corra Que a Polícia Vem Aí, O.J. Simpson, Liam Neeson, remake, comédia,
+  trailer internacional, estreia em cinema, elenco estelar
+data: '2025-04-03T19:09:30.953Z'
+author: Ana Luiza
 ---
 
 O aguardado trailer internacional do remake de 'Corra Que a Polícia Vem Aí' surpreendeu ao incluir uma piada envolvendo O.J. Simpson, ex-atleta da NFL que faleceu em 2024 e foi condenado em 1994 por duplo homicídio. Na prévia, observa-se uma cena onde Liam Neeson e Paul Walter Hauser prestam homenagem a ex-policiais, observando quadros na parede de uma delegacia. Um terceiro policial hesita ao se deparar com o retrato de Simpson, refletindo seu controverso passado. Simpson participou dos três filmes originais da série.

@@ -1,13 +1,25 @@
 ---
-title: "Chicago Fire | Wallace Boden retorna em novo episódio da 13ª temporada"
-slug: "chicago-fire-wallace-boden-est-de-volta-em-clipe-da-13-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/P4NGMUeGmrw?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/rI9uVfFk54sXxMB9AMBY49OO6bA=/480x360/smart/extras/conteudos/Design_sem_nome_8_UPJ1OMn.jpg"
-tags: ["Chicago Fire", "Wallace Boden", "Eamonn Walker", "13ª temporada", "série de TV", "episódio Post Mortem", "retorno de personagem", "análise de incêndio"]
-keywords: "Chicago Fire, Wallace Boden, Eamonn Walker, 13ª temporada, série de TV, episódio Post Mortem, retorno de personagem, análise de incêndio"
-data: "2025-04-03T20:11:01.183Z"
+title: Chicago Fire | Wallace Boden retorna em novo episódio da 13ª temporada
+slug: chicago-fire-wallace-boden-est-de-volta-em-clipe-da-13-temporada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/P4NGMUeGmrw?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/rI9uVfFk54sXxMB9AMBY49OO6bA=/480x360/smart/extras/conteudos/Design_sem_nome_8_UPJ1OMn.jpg
+tags:
+  - Chicago Fire
+  - Wallace Boden
+  - Eamonn Walker
+  - 13ª temporada
+  - série de TV
+  - episódio Post Mortem
+  - retorno de personagem
+  - análise de incêndio
+keywords: >-
+  Chicago Fire, Wallace Boden, Eamonn Walker, 13ª temporada, série de TV,
+  episódio Post Mortem, retorno de personagem, análise de incêndio
+data: '2025-04-03T20:11:01.183Z'
+author: Ana Luiza
 ---
 
 A série de sucesso 'Chicago Fire' traz uma surpresa para os fãs no 18º episódio de sua 13ª temporada, com o retorno do carismático Wallace Boden, interpretado por Eamonn Walker. O episódio, intitulado 'Post Mortem', será transmitido nos Estados Unidos no dia 16 de abril e promete emocionar o público com uma trama envolvente.

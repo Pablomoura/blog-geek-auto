@@ -1,13 +1,26 @@
 ---
-title: "Descendentes 5 inicia filmagens com primeira foto do elenco; confira"
-slug: "descendentes-5-inicia-filmagens-com-primeira-foto-do-elenco-confira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/s-FvMZa3JEIC2hiCPzIc9l5ybk4=/987x0/smart/uploads/conteudo/fotos/disneydescendants_1743602407_3601920519771050455_1282056795.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/mXEMyy4lJhjf16KMDv4AVozKjF0=/480x360/smart/extras/conteudos/disneydescendants_1743602407_3601920519771050455_1282056795.png"
-tags: ["Descendentes 5", "filmagens", "elenco", "Alexandro Byrd", "sequência", "País das Maravilhas", "viagem no tempo", "estreia de filme"]
-keywords: "Descendentes 5, filmagens, elenco, Alexandro Byrd, sequência, País das Maravilhas, viagem no tempo, estreia de filme"
-data: "2025-04-03T02:20:31.810Z"
+title: Descendentes 5 inicia filmagens com primeira foto do elenco; confira
+slug: descendentes-5-inicia-filmagens-com-primeira-foto-do-elenco-confira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/s-FvMZa3JEIC2hiCPzIc9l5ybk4=/987x0/smart/uploads/conteudo/fotos/disneydescendants_1743602407_3601920519771050455_1282056795.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/mXEMyy4lJhjf16KMDv4AVozKjF0=/480x360/smart/extras/conteudos/disneydescendants_1743602407_3601920519771050455_1282056795.png
+tags:
+  - Descendentes 5
+  - filmagens
+  - elenco
+  - Alexandro Byrd
+  - sequência
+  - País das Maravilhas
+  - viagem no tempo
+  - estreia de filme
+keywords: >-
+  Descendentes 5, filmagens, elenco, Alexandro Byrd, sequência, País das
+  Maravilhas, viagem no tempo, estreia de filme
+data: '2025-04-03T02:20:31.810Z'
+author: Luana Souza
 ---
 
 As filmagens de 'Descendentes 5' começaram, e a primeira foto do elenco foi compartilhada nas redes sociais, revelando a caracterização dos personagens para a nova sequência. A imagem foi divulgada na conta oficial do filme no Instagram.

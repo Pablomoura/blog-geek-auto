@@ -19,6 +19,7 @@ tags:
   - tradução
   - lançamento
   - jogos
+author: Pablo Moura
 ---
 
 A Nintendo anunciou que os aclamados títulos The Legend of Zelda: Breath of the Wild e The Legend of Zelda: Tears of the Kingdom receberão atualizações gratuitas para incluir tradução em português do Brasil. A partir de 5 de junho, os jogadores poderão desfrutar desses games completamente em português, tanto no Nintendo Switch original quanto no recém-anunciado Switch 2.

@@ -1,13 +1,28 @@
 ---
-title: "He-Man | Imagens do set do filme live-action revelam detalhes de Adam e do Castelo de Grayskull"
-slug: "he-man-fotos-do-set-do-live-action-mostram-adam-e-castelo-de-grayskull"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/zXSgUa0mH2IJoqcsnsvbL-pmMlo=/987x0/smart/uploads/conteudo/fotos/grayskull.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/aWsBj2Th58aATFzDFgARO-tD9Ag=/480x360/smart/extras/conteudos/grayskull.jpg"
-tags: ["He-Man", "live-action", "Castelo de Grayskull", "Príncipe Adam", "Mestres do Universo", "Nicholas Galitzine", "Travis Knight", "efeitos práticos"]
-keywords: "He-Man, live-action, Castelo de Grayskull, Príncipe Adam, Mestres do Universo, Nicholas Galitzine, Travis Knight, efeitos práticos"
-data: "2025-04-09T12:17:43.726Z"
+title: >-
+  He-Man | Imagens do set do filme live-action revelam detalhes de Adam e do
+  Castelo de Grayskull
+slug: he-man-fotos-do-set-do-live-action-mostram-adam-e-castelo-de-grayskull
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/zXSgUa0mH2IJoqcsnsvbL-pmMlo=/987x0/smart/uploads/conteudo/fotos/grayskull.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/aWsBj2Th58aATFzDFgARO-tD9Ag=/480x360/smart/extras/conteudos/grayskull.jpg
+tags:
+  - He-Man
+  - live-action
+  - Castelo de Grayskull
+  - Príncipe Adam
+  - Mestres do Universo
+  - Nicholas Galitzine
+  - Travis Knight
+  - efeitos práticos
+keywords: >-
+  He-Man, live-action, Castelo de Grayskull, Príncipe Adam, Mestres do Universo,
+  Nicholas Galitzine, Travis Knight, efeitos práticos
+data: '2025-04-09T12:17:43.726Z'
+author: Luana Souza
 ---
 
 As gravações do filme Mestres do Universo, que adapta o icônico desenho He-Man e os Mestres do Universo, seguem em plena atividade. Novas fotos do set divulgadas recentemente mostram a construção parcial do Castelo de Grayskull, utilizando técnicas de efeitos práticos, e oferecem um breve olhar sobre o Príncipe Adam, o alter-ego de He-Man.

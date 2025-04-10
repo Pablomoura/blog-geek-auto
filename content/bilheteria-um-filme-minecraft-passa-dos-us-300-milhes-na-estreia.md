@@ -1,13 +1,25 @@
 ---
-title: "Bilheteria | Um Filme Minecraft passa dos US$ 300 milhões na estreia"
-slug: "bilheteria-um-filme-minecraft-passa-dos-us-300-milhes-na-estreia"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg"
-tags: ["Minecraft", "bilheteria recorde", "adaptação de videogame", "estreia de filme", "Jack Black", "Jason Momoa", "sucesso de bilheteria", "Jared Hess"]
-keywords: "Minecraft, bilheteria recorde, adaptação de videogame, estreia de filme, Jack Black, Jason Momoa, sucesso de bilheteria, Jared Hess"
-data: "2025-04-06T16:10:50.857Z"
+title: Bilheteria | Um Filme Minecraft passa dos US$ 300 milhões na estreia
+slug: bilheteria-um-filme-minecraft-passa-dos-us-300-milhes-na-estreia
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg
+tags:
+  - Minecraft
+  - bilheteria recorde
+  - adaptação de videogame
+  - estreia de filme
+  - Jack Black
+  - Jason Momoa
+  - sucesso de bilheteria
+  - Jared Hess
+keywords: >-
+  Minecraft, bilheteria recorde, adaptação de videogame, estreia de filme, Jack
+  Black, Jason Momoa, sucesso de bilheteria, Jared Hess
+data: '2025-04-06T16:10:50.857Z'
+author: Luana Souza
 ---
 
 A adaptação cinematográfica 'Um Filme Minecraft' alcançou um sucesso estrondoso em sua estreia, arrecadando US$ 301 milhões globalmente. Nos Estados Unidos, o filme gerou US$ 157 milhões, estabelecendo um novo recorde para a maior estreia de uma adaptação de videogame no país, superando os US$ 146 milhões alcançados por 'Super Mario Bros. - O Filme' em 2023.

@@ -1,14 +1,28 @@
 ---
-title: "Explorando as Melhores Frases e Diálogos de Kaiju No. 8"
-slug: "explorando-as-melhores-frases-e-dialogos-de-kaiju-no-8"
-resumo: "Descubra as frases mais icônicas e os diálogos marcantes de Kaiju No. 8, uma obra que captura a essência dos combates e a profundidade dos personagens em um mundo onde monstros gigantes são uma realidade."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, mangá, frases icônicas, diálogos marcantes, Kafka Hibino, monstros, narrativa, personagens"
-tags: ["Kaiju No. 8", "mangá", "frases icônicas", "diálogos marcantes", "Kafka Hibino", "monstros", "narrativa", "personagens"]
-data: "2025-04-06T22:19:03.562Z"
+title: Explorando as Melhores Frases e Diálogos de Kaiju No. 8
+slug: explorando-as-melhores-frases-e-dialogos-de-kaiju-no-8
+resumo: >-
+  Descubra as frases mais icônicas e os diálogos marcantes de Kaiju No. 8, uma
+  obra que captura a essência dos combates e a profundidade dos personagens em
+  um mundo onde monstros gigantes são uma realidade.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, mangá, frases icônicas, diálogos marcantes, Kafka Hibino,
+  monstros, narrativa, personagens
+tags:
+  - Kaiju No. 8
+  - mangá
+  - frases icônicas
+  - diálogos marcantes
+  - Kafka Hibino
+  - monstros
+  - narrativa
+  - personagens
+data: '2025-04-06T22:19:03.562Z'
+author: Ana Luiza
 ---
 
 ## Introdução

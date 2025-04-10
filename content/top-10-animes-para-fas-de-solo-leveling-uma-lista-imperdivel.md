@@ -1,14 +1,26 @@
 ---
-title: "Top 10 Animes Para Fãs de Solo Leveling: Uma Lista Imperdível"
-slug: "top-10-animes-para-fas-de-solo-leveling-uma-lista-imperdivel"
-resumo: "Se você é fã do emocionante mundo de Solo Leveling, descubra outros 10 animes que certamente vão capturar sua atenção com suas histórias envolventes e desenvolvimento de personagens fascinantes."
-categoria: "Animes e Mangás"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, Anime, Mangá, Webtoon, Ação, Aventura, Fantasia, Super-herói"
-tags: ["Solo Leveling", "Anime", "Mangá", "Webtoon", "Ação", "Aventura", "Fantasia", "Super-herói"]
-data: "2025-04-02T01:47:47.882Z"
+title: 'Top 10 Animes Para Fãs de Solo Leveling: Uma Lista Imperdível'
+slug: top-10-animes-para-fas-de-solo-leveling-uma-lista-imperdivel
+resumo: >-
+  Se você é fã do emocionante mundo de Solo Leveling, descubra outros 10 animes
+  que certamente vão capturar sua atenção com suas histórias envolventes e
+  desenvolvimento de personagens fascinantes.
+categoria: Animes e Mangás
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: 'Solo Leveling, Anime, Mangá, Webtoon, Ação, Aventura, Fantasia, Super-herói'
+tags:
+  - Solo Leveling
+  - Anime
+  - Mangá
+  - Webtoon
+  - Ação
+  - Aventura
+  - Fantasia
+  - Super-herói
+data: '2025-04-02T01:47:47.882Z'
+author: Luana Souza
 ---
 
 ## Introdução ao Universo de Solo Leveling

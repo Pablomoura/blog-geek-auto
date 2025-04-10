@@ -20,6 +20,7 @@ tags:
   - brinde exclusivo
   - cinemacon 2025
   - universal studios
+author: Luana Souza
 ---
 
 Um dos destaques da Universal Studios na CinemaCon 2025 é o lançamento do filme live-action de 'Como Treinar o Seu Dragão', programado para uma exibição completa antes do painel do estúdio em 2 de abril. O evento também será palco para a introdução de um brinde especial: um balde de pipoca inspirado no dragão Banguela, que será disponibilizado no Brasil.

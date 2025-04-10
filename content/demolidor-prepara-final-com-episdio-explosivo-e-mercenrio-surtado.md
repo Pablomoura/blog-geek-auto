@@ -1,13 +1,25 @@
 ---
-title: "Demolidor prepara final com episódio explosivo e Mercenário surtado"
-slug: "demolidor-prepara-final-com-episdio-explosivo-e-mercenrio-surtado"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/_5yR6UZjkyY?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/-mwbtFt-QWsEYeY9K8FL0NtZIAc=/480x360/smart/extras/conteudos/demolidor-renascido-mercenario.jpg"
-tags: ["Demolidor", "Mercenário", "conspiração", "vigilantes", "gala", "vingança", "série de TV", "clímax emocionante"]
-keywords: "Demolidor, Mercenário, conspiração, vigilantes, gala, vingança, série de TV, clímax emocionante"
-data: "2025-04-09T02:22:47.427Z"
+title: Demolidor prepara final com episódio explosivo e Mercenário surtado
+slug: demolidor-prepara-final-com-episdio-explosivo-e-mercenrio-surtado
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/_5yR6UZjkyY?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/-mwbtFt-QWsEYeY9K8FL0NtZIAc=/480x360/smart/extras/conteudos/demolidor-renascido-mercenario.jpg
+tags:
+  - Demolidor
+  - Mercenário
+  - conspiração
+  - vigilantes
+  - gala
+  - vingança
+  - série de TV
+  - clímax emocionante
+keywords: >-
+  Demolidor, Mercenário, conspiração, vigilantes, gala, vingança, série de TV,
+  clímax emocionante
+data: '2025-04-09T02:22:47.427Z'
+author: Luana Souza
 ---
 
 O mistério sobre quem mandou matar Foggy Nelson se aprofunda em 'Demolidor: Renascido'. Benjamin Poindexter, conhecido como Mercenário, apesar de psicopata, revela-se uma peça de um quebra-cabeça maior em uma conspiração que visava atingir Foggy. O episódio começa com Poindexter sendo atacado na prisão, sugerindo que alguém deseja silenciá-lo. Matt Murdock, inicialmente, pensa que é uma distração de Fisk, mas uma conversa no Josie’s com Cherry faz ele perceber que há mais por trás.

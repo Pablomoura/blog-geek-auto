@@ -1,13 +1,25 @@
 ---
-title: "Nossa Culpa | Novo filme da franquia ganha trailer e data no Prime Video"
-slug: "nossa-culpa-novo-filme-da-franquia-ganha-trailer-e-data-no-prime-video"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/xM1nCGtKGPg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/0n-z8asKOwavA7SXcc3JkIktmOI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T112922.065.png"
-tags: ["Prime Video", "Nossa Culpa", "trailer de filme", "estreia em outubro", "drama romântico", "sequência de filmes", "elenco de estrelas", "streaming"]
-keywords: "Prime Video, Nossa Culpa, trailer de filme, estreia em outubro, drama romântico, sequência de filmes, elenco de estrelas, streaming"
-data: "2025-04-09T15:15:08.922Z"
+title: Nossa Culpa | Novo filme da franquia ganha trailer e data no Prime Video
+slug: nossa-culpa-novo-filme-da-franquia-ganha-trailer-e-data-no-prime-video
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/xM1nCGtKGPg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/0n-z8asKOwavA7SXcc3JkIktmOI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T112922.065.png
+tags:
+  - Prime Video
+  - Nossa Culpa
+  - trailer de filme
+  - estreia em outubro
+  - drama romântico
+  - sequência de filmes
+  - elenco de estrelas
+  - streaming
+keywords: >-
+  Prime Video, Nossa Culpa, trailer de filme, estreia em outubro, drama
+  romântico, sequência de filmes, elenco de estrelas, streaming
+data: '2025-04-09T15:15:08.922Z'
+author: Luana Souza
 ---
 
 O Prime Video anuncia a chegada do terceiro filme da sequência que inclui Sua Culpa e Minha Culpa, intitulado Nossa Culpa. O lançamento do trailer e a revelação das primeiras imagens oficiais do longa já foram realizados. O filme está programado para estrear em outubro deste ano na plataforma de streaming da Amazon.

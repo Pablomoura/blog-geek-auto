@@ -14,6 +14,7 @@ tags:
   - taylor sheridan
   - luke grimes
   - cbs
+author: Pablo Moura
 ---
 
 O universo de 'Yellowstone', criado pelo renomado Taylor Sheridan, continua a expandir-se. Segundo informações de Matt Belloni, do Puck News, a CBS confirmou um novo spin-off focado em Kayce Dutton, papel desempenhado por Luke Grimes na série original. 

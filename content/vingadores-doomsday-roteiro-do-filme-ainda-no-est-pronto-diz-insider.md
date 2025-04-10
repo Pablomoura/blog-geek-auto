@@ -14,6 +14,7 @@ tags:
   - produção de filme
   - marvel
   - daniel richtman
+author: Ana Luiza
 ---
 
 Apesar do anúncio do elenco de 'Vingadores: Doomsday' e da confirmação de que o filme entrou em produção, a situação parece mais complexa. Segundo o jornalista Daniel Richtman, a filmagem só começará em abril e ainda falta completar o roteiro. "A produção foi iniciada, mas não as filmagens. Eles estão montando os cenários e só começarão a filmar em abril. O roteiro ainda está sendo finalizado", informou Richtman via X, anteriormente conhecido como Twitter.

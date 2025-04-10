@@ -1,14 +1,29 @@
 ---
-title: "Frieren: Revolucionando o Gênero de Animes de Fantasia"
-slug: "frieren-revolucionando-o-genero-de-animes-de-fantasia"
-resumo: "Explore como a série de anime 'Frieren' tem impactado o cenário dos animes de fantasia contemporâneos. Este artigo aborda as características únicas de Frieren e como ela se diferencia, influenciando o gênero e atraindo uma nova onda de fãs."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, Anime, Fantasia, Narrativa, Imortalidade, Emoções, Inovação no Anime, Gênero de Fantasia"
-tags: ["Frieren", "Anime", "Fantasia", "Narrativa", "Imortalidade", "Emoções", "Inovação no Anime", "Gênero de Fantasia"]
-data: "2025-04-09T21:25:01.895Z"
+title: 'Frieren: Revolucionando o Gênero de Animes de Fantasia'
+slug: frieren-revolucionando-o-genero-de-animes-de-fantasia
+resumo: >-
+  Explore como a série de anime 'Frieren' tem impactado o cenário dos animes de
+  fantasia contemporâneos. Este artigo aborda as características únicas de
+  Frieren e como ela se diferencia, influenciando o gênero e atraindo uma nova
+  onda de fãs.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, Anime, Fantasia, Narrativa, Imortalidade, Emoções, Inovação no Anime,
+  Gênero de Fantasia
+tags:
+  - Frieren
+  - Anime
+  - Fantasia
+  - Narrativa
+  - Imortalidade
+  - Emoções
+  - Inovação no Anime
+  - Gênero de Fantasia
+data: '2025-04-09T21:25:01.895Z'
+author: Luana Souza
 ---
 
 ## Introdução

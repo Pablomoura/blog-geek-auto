@@ -1,14 +1,30 @@
 ---
-title: "Análise do Sistema de Forças Especiais em Kaiju No. 8: Armamento e Hierarquia"
-slug: "analise-do-sistema-de-forcas-especiais-em-kaiju-no-8-armamento-e-hierarquia"
-resumo: "Explore o complexo sistema de forças especiais no universo de Kaiju No. 8, focando no detalhamento do armamento exclusivo e na estrutura hierárquica que define este mangá de sucesso. Este artigo oferece uma visão profunda sobre como os elementos de defesa e organização contribuem para as estratégias de combate contra os kaijus."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, forças especiais, armamento, hierarquia militar, mangá, tecnologia militar, estratégia de combate, análise"
-tags: ["Kaiju No. 8", "forças especiais", "armamento", "hierarquia militar", "mangá", "tecnologia militar", "estratégia de combate", "análise"]
-data: "2025-04-08T22:15:45.410Z"
+title: 'Análise do Sistema de Forças Especiais em Kaiju No. 8: Armamento e Hierarquia'
+slug: analise-do-sistema-de-forcas-especiais-em-kaiju-no-8-armamento-e-hierarquia
+resumo: >-
+  Explore o complexo sistema de forças especiais no universo de Kaiju No. 8,
+  focando no detalhamento do armamento exclusivo e na estrutura hierárquica que
+  define este mangá de sucesso. Este artigo oferece uma visão profunda sobre
+  como os elementos de defesa e organização contribuem para as estratégias de
+  combate contra os kaijus.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, forças especiais, armamento, hierarquia militar, mangá,
+  tecnologia militar, estratégia de combate, análise
+tags:
+  - Kaiju No. 8
+  - forças especiais
+  - armamento
+  - hierarquia militar
+  - mangá
+  - tecnologia militar
+  - estratégia de combate
+  - análise
+data: '2025-04-08T22:15:45.410Z'
+author: Luana Souza
 ---
 
 ## Introdução ao Kaiju No. 8

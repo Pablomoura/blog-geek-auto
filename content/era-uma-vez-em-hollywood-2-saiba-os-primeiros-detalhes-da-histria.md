@@ -1,13 +1,26 @@
 ---
-title: "Era uma Vez em Hollywood 2 | Saiba os primeiros detalhes da história"
-slug: "era-uma-vez-em-hollywood-2-saiba-os-primeiros-detalhes-da-histria"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Emu7yWVBNM95gHWPskYJQ3JZR4Q=/987x0/smart/uploads/conteudo/fotos/era-uma-vez-em-hollywood-2_LxQ462M.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/935s_dYhZ5hXQXCvK8OuubC41J8=/480x360/smart/extras/conteudos/era-uma-vez-em-hollywood-2_Oav2H6M.jpg"
-tags: ["Era Uma Vez em Hollywood 2", "David Fincher", "Quentin Tarantino", "Brad Pitt", "sequência de filme", "filme de 1977", "universo de Tarantino", "Oscar"]
-keywords: "Era Uma Vez em Hollywood 2, David Fincher, Quentin Tarantino, Brad Pitt, sequência de filme, filme de 1977, universo de Tarantino, Oscar"
-data: "2025-04-08T12:17:44.862Z"
+title: Era uma Vez em Hollywood 2 | Saiba os primeiros detalhes da história
+slug: era-uma-vez-em-hollywood-2-saiba-os-primeiros-detalhes-da-histria
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Emu7yWVBNM95gHWPskYJQ3JZR4Q=/987x0/smart/uploads/conteudo/fotos/era-uma-vez-em-hollywood-2_LxQ462M.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/935s_dYhZ5hXQXCvK8OuubC41J8=/480x360/smart/extras/conteudos/era-uma-vez-em-hollywood-2_Oav2H6M.jpg
+tags:
+  - Era Uma Vez em Hollywood 2
+  - David Fincher
+  - Quentin Tarantino
+  - Brad Pitt
+  - sequência de filme
+  - filme de 1977
+  - universo de Tarantino
+  - Oscar
+keywords: >-
+  Era Uma Vez em Hollywood 2, David Fincher, Quentin Tarantino, Brad Pitt,
+  sequência de filme, filme de 1977, universo de Tarantino, Oscar
+data: '2025-04-08T12:17:44.862Z'
+author: Ana Luiza
 ---
 
 Após a surpreendente notícia de que 'Era Uma Vez em... Hollywood' terá uma sequência dirigida por David Fincher, conhecido por filmes como 'A Rede Social' e 'Se7en', e escrita por Quentin Tarantino, mais detalhes sobre o projeto foram revelados. O filme, que marcará o retorno de Brad Pitt como o dublê Cliff Booth — papel que lhe rendeu um Oscar de Melhor Ator Coadjuvante —, começará as filmagens em julho deste ano, conforme divulgado no podcast The Big Picture por Sean Fennessey, jornalista próximo a Tarantino.

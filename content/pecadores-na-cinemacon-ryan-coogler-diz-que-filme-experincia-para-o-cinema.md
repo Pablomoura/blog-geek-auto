@@ -18,6 +18,7 @@ tags:
   - warner bros. pictures
   - experiência cinematográfica
   - pantera negra
+author: Luana Souza
 ---
 
 Durante a CinemaCon 2025, que aconteceu nesta terça-feira, a Warner Bros. Pictures deu início ao seu painel com uma apresentação especial sobre o filme 'Pecadores', dirigido por Ryan Coogler, conhecido por seu trabalho em 'Pantera Negra'. Coogler, que compareceu pessoalmente ao evento, destacou que 'Pecadores' é uma obra pensada exclusivamente para o grande ecrã, combinando elementos de fantasia, música e romance em formato IMAX, celebrando a rica cultura do Mississippi.

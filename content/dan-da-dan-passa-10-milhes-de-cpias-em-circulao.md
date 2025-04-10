@@ -15,6 +15,7 @@ tags:
   - 10 milhões de cópias
   - sucesso
   - adaptação para anime
+author: Pablo Moura
 ---
 
 A página promocional do volume 19 do mangá 'Dan da Dan' revelou que a obra agora conta com mais de 10 milhões de cópias em circulação. A última atualização, em janeiro, registrava 8 milhões de cópias. Este aumento significativo é atribuído ao sucesso da adaptação para anime, que provavelmente impulsionará ainda mais as vendas com a estreia da segunda temporada em julho. Após um breve hiato de um mês no Japão, o mangá retornou em fevereiro, e o aguardado volume 19 será lançado no dia 4 de abril.

@@ -16,6 +16,7 @@ tags:
   - documentário
   - yuval abraham
   - hamdan ballal
+author: Pablo Moura
 ---
 
 Yuval Abraham, co-diretor do aclamado documentário 'Sem Chão', expressou sua decepção com a Academia de Artes e Ciências Cinematográficas dos EUA por não ter se manifestado publicamente após o sequestro e agressão de Hamdan Ballal, também diretor do filme, por colonos e soldados israelenses. Este incidente ocorreu em uma comunidade palestina na Palestina. 

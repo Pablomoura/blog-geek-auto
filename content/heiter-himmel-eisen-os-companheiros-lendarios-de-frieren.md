@@ -1,14 +1,28 @@
 ---
-title: "Heiter, Himmel, Eisen: Os Companheiros Lendários de Frieren"
-slug: "heiter-himmel-eisen-os-companheiros-lendarios-de-frieren"
-resumo: "Explorando as figuras icônicas que acompanharam a feiticeira Frieren em sua primeira grande jornada, este artigo mergulha nas histórias e características de Heiter, Himmel e Eisen, destacando suas contribuições e legados únicos."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, Heiter, Himmel, Eisen, companheiros de jornada, aventura épica, personagens icônicos, legado"
-tags: ["Frieren", "Heiter", "Himmel", "Eisen", "companheiros de jornada", "aventura épica", "personagens icônicos", "legado"]
-data: "2025-04-08T21:26:19.715Z"
+title: 'Heiter, Himmel, Eisen: Os Companheiros Lendários de Frieren'
+slug: heiter-himmel-eisen-os-companheiros-lendarios-de-frieren
+resumo: >-
+  Explorando as figuras icônicas que acompanharam a feiticeira Frieren em sua
+  primeira grande jornada, este artigo mergulha nas histórias e características
+  de Heiter, Himmel e Eisen, destacando suas contribuições e legados únicos.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, Heiter, Himmel, Eisen, companheiros de jornada, aventura épica,
+  personagens icônicos, legado
+tags:
+  - Frieren
+  - Heiter
+  - Himmel
+  - Eisen
+  - companheiros de jornada
+  - aventura épica
+  - personagens icônicos
+  - legado
+data: '2025-04-08T21:26:19.715Z'
+author: Luana Souza
 ---
 
 ## Introdução

@@ -15,6 +15,7 @@ tags:
   - fera
   - x-men
   - retorno
+author: Pablo Moura
 ---
 
 Durante uma recente transmissão ao vivo no YouTube, a Marvel Studios anunciou a lista de atores para o filme 'Vingadores: Doomsday'. Destacou-se o retorno de Kelsey Grammer, famoso por interpretar o personagem Fera nos filmes anteriores da franquia X-Men, ainda sob a bandeira da Fox. Grammer já havia reprisado brevemente seu papel no universo cinematográfico da Marvel, aparecendo na cena pós-créditos de 'As Marvels'.

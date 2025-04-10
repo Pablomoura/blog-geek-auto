@@ -20,6 +20,7 @@ tags:
   - thunderbolts
   - mcu
   - colecionáveis
+author: Pablo Moura
 ---
 
 O aguardado visual do Sentinela no Universo Cinematográfico Marvel (MCU) foi finalmente revelado pela Hasbro. As novas imagens destacam o action-figure da linha Marvel Legends, uma coleção premium de colecionáveis da Marvel.

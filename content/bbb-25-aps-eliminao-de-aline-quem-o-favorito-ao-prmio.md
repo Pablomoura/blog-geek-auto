@@ -15,6 +15,7 @@ tags:
   - vitória strada
   - paredão
   - pesquisa uol
+author: Pablo Moura
 ---
 
 A recente eliminação de Aline no oitavo Paredão do BBB 25 revelou uma nova dinâmica no jogo, alterando as preferências do público. Atualmente, 13 participantes continuam na disputa pelo cobiçado prêmio de R$ 2,53 milhões.

@@ -16,6 +16,7 @@ tags:
   - mcu
   - transmissão ao vivo
   - chris hemsworth
+author: Pablo Moura
 ---
 
 A Marvel iniciou uma enigmática transmissão ao vivo em suas redes sociais, trazendo uma grande novidade para os entusiastas do MCU: a revelação do elenco de 'Vingadores: Doomsday'. Acompanhe a transmissão ao vivo para mais atualizações.

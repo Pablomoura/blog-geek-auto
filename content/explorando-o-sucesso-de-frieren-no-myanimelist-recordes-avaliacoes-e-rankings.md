@@ -1,14 +1,31 @@
 ---
-title: "Explorando o Sucesso de Frieren no MyAnimeList: Recordes, Avaliações e Rankings"
-slug: "explorando-o-sucesso-de-frieren-no-myanimelist-recordes-avaliacoes-e-rankings"
-resumo: "Este artigo detalha a trajetória de sucesso do anime e mangá 'Frieren' no popular site MyAnimeList. Exploramos seus recordes, avaliações e a posição no ranking geral, destacando o que faz de 'Frieren' uma obra tão apreciada pela comunidade."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, MyAnimeList, Anime Ranking, Manga Reviews, Anime Community, Anime Analysis, Japanese Animation, Manga Popularity"
-tags: ["Frieren", "MyAnimeList", "Anime Ranking", "Manga Reviews", "Anime Community", "Anime Analysis", "Japanese Animation", "Manga Popularity"]
-data: "2025-04-08T21:24:11.571Z"
+title: >-
+  Explorando o Sucesso de Frieren no MyAnimeList: Recordes, Avaliações e
+  Rankings
+slug: explorando-o-sucesso-de-frieren-no-myanimelist-recordes-avaliacoes-e-rankings
+resumo: >-
+  Este artigo detalha a trajetória de sucesso do anime e mangá 'Frieren' no
+  popular site MyAnimeList. Exploramos seus recordes, avaliações e a posição no
+  ranking geral, destacando o que faz de 'Frieren' uma obra tão apreciada pela
+  comunidade.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, MyAnimeList, Anime Ranking, Manga Reviews, Anime Community, Anime
+  Analysis, Japanese Animation, Manga Popularity
+tags:
+  - Frieren
+  - MyAnimeList
+  - Anime Ranking
+  - Manga Reviews
+  - Anime Community
+  - Anime Analysis
+  - Japanese Animation
+  - Manga Popularity
+data: '2025-04-08T21:24:11.571Z'
+author: Pablo Moura
 ---
 
 ## Introdução

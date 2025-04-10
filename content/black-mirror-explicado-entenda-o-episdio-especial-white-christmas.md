@@ -16,6 +16,7 @@ tags:
   - tecnologia
   - drama
   - natal
+author: Pablo Moura
 ---
 
 O episódio 'White Christmas' foi o primeiro especial de Black Mirror e destaca-se como um dos mais impactantes da série. Lançado após a segunda temporada, ele apresenta um Natal nada convencional, repleto de momentos sombrios e até mesmo traumatizantes.

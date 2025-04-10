@@ -14,6 +14,7 @@ tags:
   - festivais de música
   - marketing de eventos
   - patrocinadores
+author: Luana Souza
 ---
 
 Além das emocionantes performances musicais, o Lollapalooza 2025 também é uma oportunidade para os visitantes ganharem brindes exclusivos. Nessa edição do festival, que acontece de 28 a 30 de março no Autódromo de Interlagos, em São Paulo, empresas renomadas como Fiat, Bradesco e Vivo estão presentes com estandes que oferecem uma variedade de itens gratuitos.

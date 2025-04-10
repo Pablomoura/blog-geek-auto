@@ -15,6 +15,7 @@ tags:
   - warner bros. tv
   - josh appelbaum
   - greg berlanti
+author: Ana Luiza
 ---
 
 Uma nova série em live-action baseada no icônico desenho animado Scooby-Doo será lançada pela Netflix. Segundo informações do THR, a série está sendo desenvolvida pela Warner Bros. TV com Josh Appelbaum e Scott Rosenberg como roteiristas e produtores executivos, e Greg Berlanti atuando como produtor executivo. Os trabalhos de produção já estão ocorrendo há cerca de um ano.

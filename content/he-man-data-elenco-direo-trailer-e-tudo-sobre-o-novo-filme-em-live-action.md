@@ -1,13 +1,28 @@
 ---
-title: "He-Man | Data, elenco, direção, trailer e tudo sobre o novo filme em live-action"
-slug: "he-man-data-elenco-direo-trailer-e-tudo-sobre-o-novo-filme-em-live-action"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/QCzleYXPhx_-LU6OBrBKuTmptGA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T104618.191.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pGSuG-lw02bvH81PK3IRn-i286w=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T104638.373.png"
-tags: ["He-Man", "live-action", "Nicholas Galitzine", "Jared Leto", "Travis Knight", "Mestres do Universo", "filme de fantasia", "lançamento 2026"]
-keywords: "He-Man, live-action, Nicholas Galitzine, Jared Leto, Travis Knight, Mestres do Universo, filme de fantasia, lançamento 2026"
-data: "2025-04-09T14:04:36.497Z"
+title: >-
+  He-Man | Data, elenco, direção, trailer e tudo sobre o novo filme em
+  live-action
+slug: he-man-data-elenco-direo-trailer-e-tudo-sobre-o-novo-filme-em-live-action
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/QCzleYXPhx_-LU6OBrBKuTmptGA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T104618.191.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pGSuG-lw02bvH81PK3IRn-i286w=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T104638.373.png
+tags:
+  - He-Man
+  - live-action
+  - Nicholas Galitzine
+  - Jared Leto
+  - Travis Knight
+  - Mestres do Universo
+  - filme de fantasia
+  - lançamento 2026
+keywords: >-
+  He-Man, live-action, Nicholas Galitzine, Jared Leto, Travis Knight, Mestres do
+  Universo, filme de fantasia, lançamento 2026
+data: '2025-04-09T14:04:36.497Z'
+author: Ana Luiza
 ---
 
 O aguardado filme em live-action 'He-Man e os Mestres do Universo' está cada vez mais próximo de seu lançamento, e já temos diversas informações sobre essa nova adaptação. Acompanhe os detalhes do que está por vir.

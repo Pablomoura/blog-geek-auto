@@ -1,13 +1,25 @@
 ---
-title: "Superman terá novo trailer nas próximas semanas"
-slug: "superman-ter-novo-trailer-nas-prximas-semanas"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/KgvHHta96CM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/dKhB27_i1q4VKfcvpPor0IRlrX8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-04_074324.png"
-tags: ["Superman", "James Gunn", "trailer", "DC Comics", "CinemaCon 2025", "Universo Cinematográfico da DC", "Superman Day", "elenco de Superman"]
-keywords: "Superman, James Gunn, trailer, DC Comics, CinemaCon 2025, Universo Cinematográfico da DC, Superman Day, elenco de Superman"
-data: "2025-04-04T11:08:47.131Z"
+title: Superman terá novo trailer nas próximas semanas
+slug: superman-ter-novo-trailer-nas-prximas-semanas
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/KgvHHta96CM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/dKhB27_i1q4VKfcvpPor0IRlrX8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-04_074324.png
+tags:
+  - Superman
+  - James Gunn
+  - trailer
+  - DC Comics
+  - CinemaCon 2025
+  - Universo Cinematográfico da DC
+  - Superman Day
+  - elenco de Superman
+keywords: >-
+  Superman, James Gunn, trailer, DC Comics, CinemaCon 2025, Universo
+  Cinematográfico da DC, Superman Day, elenco de Superman
+data: '2025-04-04T11:08:47.131Z'
+author: Luana Souza
 ---
 
 O diretor James Gunn anunciou que um novo trailer do filme 'Superman' será lançado em breve. A declaração foi feita por Gunn em seu perfil no Threads, seguindo a empolgante prévia que foi revelada na CinemaCon 2025. Ele expressou sua gratidão pelo entusiasmo dos fãs e compartilhou seu entusiasmo com o próximo material: 'Muito obrigado pela empolgação, embora o que mostrei não seja bem um trailer, mas uma espiadinha. Atualmente, estou finalizando o próximo trailer para todos vocês e mal posso esperar para que vejam!'.

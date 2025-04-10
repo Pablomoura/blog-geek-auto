@@ -1,13 +1,28 @@
 ---
-title: "Jogos Vorazes | Charlie Plummer cotado para interpretar Haymitch no novo filme da saga"
-slug: "jogos-vorazes-ator-de-quem-voc-alasca-pode-viver-haymitch-em-novo-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/npV0fCqZV6cwRCkATgfYuzw8fFw=/480x360/smart/extras/conteudos/jogos-vorazes-woody.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/npV0fCqZV6cwRCkATgfYuzw8fFw=/480x360/smart/extras/conteudos/jogos-vorazes-woody.jpg"
-tags: ["Jogos Vorazes", "Charlie Plummer", "Haymitch", "CinemaCon 2025", "Francis Lawrence", "Billy Ray", "Panem", "Massacre Quaternário"]
-keywords: "Jogos Vorazes, Charlie Plummer, Haymitch, CinemaCon 2025, Francis Lawrence, Billy Ray, Panem, Massacre Quaternário"
-data: "2025-04-04T20:10:37.322Z"
+title: >-
+  Jogos Vorazes | Charlie Plummer cotado para interpretar Haymitch no novo filme
+  da saga
+slug: jogos-vorazes-ator-de-quem-voc-alasca-pode-viver-haymitch-em-novo-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/npV0fCqZV6cwRCkATgfYuzw8fFw=/480x360/smart/extras/conteudos/jogos-vorazes-woody.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/npV0fCqZV6cwRCkATgfYuzw8fFw=/480x360/smart/extras/conteudos/jogos-vorazes-woody.jpg
+tags:
+  - Jogos Vorazes
+  - Charlie Plummer
+  - Haymitch
+  - CinemaCon 2025
+  - Francis Lawrence
+  - Billy Ray
+  - Panem
+  - Massacre Quaternário
+keywords: >-
+  Jogos Vorazes, Charlie Plummer, Haymitch, CinemaCon 2025, Francis Lawrence,
+  Billy Ray, Panem, Massacre Quaternário
+data: '2025-04-04T20:10:37.322Z'
+author: Luana Souza
 ---
 
 Durante a CinemaCon 2025, foi revelado o primeiro teaser trailer de 'Jogos Vorazes: Amanhecer na Colheita', a mais recente adição à franquia Jogos Vorazes. No evento, também foi mencionado que a equipe de produção está em processo de seleção para o elenco deste novo filme.

@@ -14,6 +14,7 @@ tags:
   - trailer de filme
   - trey edward shults
   - cinema
+author: Luana Souza
 ---
 
 O aguardado filme 'Hurry Up Tomorrow', estrelado por The Weeknd e Jenna Ortega, acaba de lançar um novo trailer e pôster. As prévias prometem capturar a atenção do público com uma trama envolvente e um elenco estelar.

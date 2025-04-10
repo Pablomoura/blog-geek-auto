@@ -1,13 +1,25 @@
 ---
-title: "Nintendo Switch 2 terá preço reduzido no Japão, mas com restrições específicas"
-slug: "nintendo-switch-2-ser-bem-mais-barato-no-japo-mas-com-um-porm"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ny8iGHFpgbY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/CGfuZtDDbeSMPTtqlieWvNKMewI=/480x360/smart/extras/conteudos/01_uZP8MB6.jpg"
-tags: ["Nintendo Switch 2", "preço reduzido", "trava de região", "lançamento global", "tarifas comerciais", "melhorias no console", "jogos novos", "mercado japonês"]
-keywords: "Nintendo Switch 2, preço reduzido, trava de região, lançamento global, tarifas comerciais, melhorias no console, jogos novos, mercado japonês"
-data: "2025-04-04T12:17:30.769Z"
+title: 'Nintendo Switch 2 terá preço reduzido no Japão, mas com restrições específicas'
+slug: nintendo-switch-2-ser-bem-mais-barato-no-japo-mas-com-um-porm
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ny8iGHFpgbY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/CGfuZtDDbeSMPTtqlieWvNKMewI=/480x360/smart/extras/conteudos/01_uZP8MB6.jpg
+tags:
+  - Nintendo Switch 2
+  - preço reduzido
+  - trava de região
+  - lançamento global
+  - tarifas comerciais
+  - melhorias no console
+  - jogos novos
+  - mercado japonês
+keywords: >-
+  Nintendo Switch 2, preço reduzido, trava de região, lançamento global, tarifas
+  comerciais, melhorias no console, jogos novos, mercado japonês
+data: '2025-04-04T12:17:30.769Z'
+author: Luana Souza
 ---
 
 O lançamento do Nintendo Switch 2 gerou discussões nas redes sociais devido ao seu preço inicial de US$ 450 nos Estados Unidos. Entretanto, a Nintendo optou por uma estratégia de precificação diferenciada para o mercado japonês, onde o console será oferecido por 49,980 ienes, cerca de US$ 330, representando uma economia de mais de US$ 100 em comparação com outros mercados.

@@ -1,13 +1,25 @@
 ---
-title: "Um Filme Minecraft | Jack Black elogia Jason Momoa: 'Ótimo ator de comédia'"
-slug: "um-filme-minecraft-jack-black-jason-um-timo-ator-de-comdia"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/Guzfs8wnJBc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/6qbOljtXfjlhHH8XiKvlC3FNb5o=/480x360/smart/extras/conteudos/01_EuClnJW.jpg"
-tags: ["Minecraft", "Jason Momoa", "Jack Black", "comédia", "Warner Bros", "filme de aventura", "Jared Hess", "cultura pop"]
-keywords: "Minecraft, Jason Momoa, Jack Black, comédia, Warner Bros, filme de aventura, Jared Hess, cultura pop"
-data: "2025-04-07T15:12:21.030Z"
+title: 'Um Filme Minecraft | Jack Black elogia Jason Momoa: ''Ótimo ator de comédia'''
+slug: um-filme-minecraft-jack-black-jason-um-timo-ator-de-comdia
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/Guzfs8wnJBc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/6qbOljtXfjlhHH8XiKvlC3FNb5o=/480x360/smart/extras/conteudos/01_EuClnJW.jpg
+tags:
+  - Minecraft
+  - Jason Momoa
+  - Jack Black
+  - comédia
+  - Warner Bros
+  - filme de aventura
+  - Jared Hess
+  - cultura pop
+keywords: >-
+  Minecraft, Jason Momoa, Jack Black, comédia, Warner Bros, filme de aventura,
+  Jared Hess, cultura pop
+data: '2025-04-07T15:12:21.030Z'
+author: Luana Souza
 ---
 
 A estreia de 'Um Filme Minecraft' pela Warner Bros. Pictures aconteceu globalmente, recebendo atenção especial pela atuação conjunta de Jason Momoa e Jack Black. Conhecidos por suas carreiras distintas, ambos os atores têm mostrado uma química excepcional, tanto nas telas quanto fora delas. Jack Black, reconhecido por seu papel em 'Jumanji', compartilhou suas impressões sobre Momoa, destacando seu talento para a comédia. 'Jason tem um senso de humor fantástico, que é evidente tanto em frente quanto por trás das câmeras. Estou entusiasmado para que o público descubra essa faceta dele', comentou Black em uma entrevista à Radio 10, onde também mencionou que essa foi uma das 'melhores experiências cinematográficas de sua vida', graças também à descoberta de talentos culinários de Momoa.

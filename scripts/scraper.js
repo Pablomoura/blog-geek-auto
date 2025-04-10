@@ -360,6 +360,9 @@ async function buscarNoticiasOmelete() {
     const tags = await gerarTagsComIA(novaNoticia.titulo, novaNoticia.texto);
 
     const mdPath = path.join(contentDir, `${slug}.md`);
+    // Distribui autores automaticamente
+    const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
+    const autorEscolhido = autores[Math.floor(Math.random() * autores.length)];
     const frontMatter = `---
 title: "${reescrito.titulo.replace(/"/g, "'")}"
 slug: "${slug}"
@@ -369,6 +372,7 @@ tipoMidia: "${novaNoticia.tipoMidia}"
 thumb: "${novaNoticia.thumb || ""}"
 tags: ["${tags.join('", "')}"]
 keywords: "${tags.join(', ')}"
+author: "${autorEscolhido}"
 data: "${new Date().toISOString()}"
 ---\n\n`;
 

@@ -1,13 +1,26 @@
 ---
-title: "Doce Engano | K-drama será lançado em duas partes no Globoplay"
-slug: "doce-engano-k-drama-vai-chegar-ao-globoplay-em-duas-partes-entenda"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/DRtxlHD7WISnwDsVXgCaIYpOq_4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T201627.727.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0hGEDUMdn5ekhznXNEx6WzKYx4M=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T201627.727.png"
-tags: ["K-drama", "Globoplay", "série sul-coreana", "drama de vingança", "lançamento em partes", "dublado em português", "Chun Woo-Hee", "Kim Dong-Wook"]
-keywords: "K-drama, Globoplay, série sul-coreana, drama de vingança, lançamento em partes, dublado em português, Chun Woo-Hee, Kim Dong-Wook"
-data: "2025-04-09T00:44:10.843Z"
+title: Doce Engano | K-drama será lançado em duas partes no Globoplay
+slug: doce-engano-k-drama-vai-chegar-ao-globoplay-em-duas-partes-entenda
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/DRtxlHD7WISnwDsVXgCaIYpOq_4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T201627.727.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0hGEDUMdn5ekhznXNEx6WzKYx4M=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T201627.727.png
+tags:
+  - K-drama
+  - Globoplay
+  - série sul-coreana
+  - drama de vingança
+  - lançamento em partes
+  - dublado em português
+  - Chun Woo-Hee
+  - Kim Dong-Wook
+keywords: >-
+  K-drama, Globoplay, série sul-coreana, drama de vingança, lançamento em
+  partes, dublado em português, Chun Woo-Hee, Kim Dong-Wook
+data: '2025-04-09T00:44:10.843Z'
+author: Luana Souza
 ---
 
 A Globoplay anunciou na última terça-feira a inclusão de novas séries em seu catálogo, destacando a chegada do K-Drama sul-coreano 'Doce Engano'. A série, dirigida por Su Hyun Lee e escrita por Han Woo-Joo, será lançada em duas partes, com a primeira estreando no dia 17 de abril e a segunda no dia 24 do mesmo mês. Ambas as partes serão lançadas numa quinta-feira, com uma semana de intervalo entre elas.

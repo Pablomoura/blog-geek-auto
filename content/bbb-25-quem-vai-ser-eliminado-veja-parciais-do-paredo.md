@@ -1,13 +1,26 @@
 ---
-title: "BBB 25 | Previsões Indicam os Possíveis Resultados do 14º Paredão"
-slug: "bbb-25-quem-vai-ser-eliminado-veja-parciais-do-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/-aoue-_OrtbTCgzqRvkJofc_GMc=/987x0/smart/uploads/conteudo/fotos/bbb25-diego-joao-gabriel-vitoria-14-paredao.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/wMGlvKdIUAx6mLNlkLdcttHLQos=/480x360/smart/extras/conteudos/bbb25-vitoria-strada-14-paredao-peq.jpg"
-tags: ["BBB 25", "Paredão", "Diego Hypólito", "João Gabriel", "Vitória Strada", "Enquete UOL", "Tadeu Schmidt", "Rodrigo Dourado"]
-keywords: "BBB 25, Paredão, Diego Hypólito, João Gabriel, Vitória Strada, Enquete UOL, Tadeu Schmidt, Rodrigo Dourado"
-data: "2025-04-08T19:09:58.319Z"
+title: BBB 25 | Previsões Indicam os Possíveis Resultados do 14º Paredão
+slug: bbb-25-quem-vai-ser-eliminado-veja-parciais-do-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/-aoue-_OrtbTCgzqRvkJofc_GMc=/987x0/smart/uploads/conteudo/fotos/bbb25-diego-joao-gabriel-vitoria-14-paredao.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/wMGlvKdIUAx6mLNlkLdcttHLQos=/480x360/smart/extras/conteudos/bbb25-vitoria-strada-14-paredao-peq.jpg
+tags:
+  - BBB 25
+  - Paredão
+  - Diego Hypólito
+  - João Gabriel
+  - Vitória Strada
+  - Enquete UOL
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+keywords: >-
+  BBB 25, Paredão, Diego Hypólito, João Gabriel, Vitória Strada, Enquete UOL,
+  Tadeu Schmidt, Rodrigo Dourado
+data: '2025-04-08T19:09:58.319Z'
+author: Luana Souza
 ---
 
 O 14º Paredão do BBB 25, que ocorreu na noite de domingo, dia 6, trouxe Diego Hypólito, João Gabriel e Vitória Strada como os emparedados desta semana. A eliminação está marcada para a próxima terça-feira, dia 8. Conforme as últimas atualizações da enquete do UOL, na madrugada de terça-feira, às 01h51, João Gabriel aparecia com 47,93% dos votos, enquanto Diego Hypólito liderava ligeiramente com 49,48%. Vitória Strada, por outro lado, apresentava menor risco de saída, acumulando apenas 2,59% dos votos.

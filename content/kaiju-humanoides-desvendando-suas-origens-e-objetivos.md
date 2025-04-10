@@ -1,15 +1,29 @@
 ---
-title: "Kaiju Humanoides: Desvendando Suas Origens e Objetivos"
-slug: "kaiju-humanoides-desvendando-suas-origens-e-objetivos"
-resumo: "Este artigo explora o fascinante mundo dos kaiju humanoides, criaturas gigantescas com traços humanos oriundas da cultura popular e da ficção científica. Investigaremos suas origens, representações na mídia e os possíveis objetivos desses seres enigmáticos e poderosos."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "kaiju, monstros gigantes, cultura pop, ficção científica, cinema japonês, mitologia, simbolismo, Ultraman"
-tags: ["kaiju", "monstros gigantes", "cultura pop", "ficção científica", "cinema japonês", "mitologia", "simbolismo", "Ultraman"]
-data: "2025-04-04
-T22:11:03.602Z"
+title: 'Kaiju Humanoides: Desvendando Suas Origens e Objetivos'
+slug: kaiju-humanoides-desvendando-suas-origens-e-objetivos
+resumo: >-
+  Este artigo explora o fascinante mundo dos kaiju humanoides, criaturas
+  gigantescas com traços humanos oriundas da cultura popular e da ficção
+  científica. Investigaremos suas origens, representações na mídia e os
+  possíveis objetivos desses seres enigmáticos e poderosos.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  kaiju, monstros gigantes, cultura pop, ficção científica, cinema japonês,
+  mitologia, simbolismo, Ultraman
+tags:
+  - kaiju
+  - monstros gigantes
+  - cultura pop
+  - ficção científica
+  - cinema japonês
+  - mitologia
+  - simbolismo
+  - Ultraman
+data: '2025-04-04 T22:11:03.602Z'
+author: Ana Luiza
 ---
 
 ## Origens dos Kaiju Humanoides

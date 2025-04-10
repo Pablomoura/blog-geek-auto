@@ -1,13 +1,26 @@
 ---
-title: "The Phoenician Scheme | Novo filme de Wes Anderson ganha trailer na CinemaCon"
-slug: "the-phoenician-scheme-novo-filme-de-wes-anderson-ganha-trailer-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/GEOpD1eBpKp3zGnNZ6bddTaKIjU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T205731.413.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/AwBvu6EW3hqVlQLxfjNWorowgxs=/480x360/smart/extras/conteudos/wes-anderson_MKVF2o2.jpg"
-tags: ["Wes Anderson", "CinemaCon", "The Phoenician Scheme", "trailer", "espionagem", "elenco estelar", "Festival de Cannes", "filmes de 2023"]
-keywords: "Wes Anderson, CinemaCon, The Phoenician Scheme, trailer, espionagem, elenco estelar, Festival de Cannes, filmes de 2023"
-data: "2025-04-03T00:13:10.610Z"
+title: The Phoenician Scheme | Novo filme de Wes Anderson ganha trailer na CinemaCon
+slug: the-phoenician-scheme-novo-filme-de-wes-anderson-ganha-trailer-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/GEOpD1eBpKp3zGnNZ6bddTaKIjU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T205731.413.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/AwBvu6EW3hqVlQLxfjNWorowgxs=/480x360/smart/extras/conteudos/wes-anderson_MKVF2o2.jpg
+tags:
+  - Wes Anderson
+  - CinemaCon
+  - The Phoenician Scheme
+  - trailer
+  - espionagem
+  - elenco estelar
+  - Festival de Cannes
+  - filmes de 2023
+keywords: >-
+  Wes Anderson, CinemaCon, The Phoenician Scheme, trailer, espionagem, elenco
+  estelar, Festival de Cannes, filmes de 2023
+data: '2025-04-03T00:13:10.610Z'
+author: Luana Souza
 ---
 
 Durante o evento CinemaCon, a Universal Pictures e a Focus Features apresentaram o primeiro trailer de 'The Phoenician Scheme' (O Esquema Fenício, em tradução livre), a mais recente obra do aclamado diretor Wes Anderson, conhecido por filmes como 'O Grande Hotel Budapeste' e 'Os Excêntricos Tenenbaums'.

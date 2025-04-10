@@ -16,6 +16,7 @@ tags:
   - johnny cage
   - warner bros
   - prévia de filme
+author: Pablo Moura
 ---
 
 Durante a CinemaCon deste ano, a Warner Bros revelou uma prévia inédita de 'Mortal Kombat 2', gerando grande expectativa entre os fãs. O destaque do vídeo foi Karl Urban, encarnando o carismático Johnny Cage, com a frase marcante: 'Eu sou Johnny Cage, porra. É hora do show.' Em outro momento impactante, Scorpion, interpretado por Hiroyuki Sanada, lança seu icônico desafio: 'Venha aqui'.

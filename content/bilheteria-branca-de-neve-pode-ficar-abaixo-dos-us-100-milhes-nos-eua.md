@@ -1,13 +1,25 @@
 ---
-title: "Bilheteria | Branca de Neve pode ficar abaixo dos US$ 100 milhões nos EUA"
-slug: "bilheteria-branca-de-neve-pode-ficar-abaixo-dos-us-100-milhes-nos-eua"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/qKCJkV2B8sE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/7bMLdXqkhRv-V4Z8mXjQUpFSuc0=/480x360/smart/extras/conteudos/01_9K1Fyb1.jpg"
-tags: ["Branca de Neve", "bilheteria", "fracasso de bilheteria", "Gal Gadot", "Rachel Zegler", "Disney", "filme live-action", "estreia cinematográfica"]
-keywords: "Branca de Neve, bilheteria, fracasso de bilheteria, Gal Gadot, Rachel Zegler, Disney, filme live-action, estreia cinematográfica"
-data: "2025-04-05T16:10:36.977Z"
+title: Bilheteria | Branca de Neve pode ficar abaixo dos US$ 100 milhões nos EUA
+slug: bilheteria-branca-de-neve-pode-ficar-abaixo-dos-us-100-milhes-nos-eua
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/qKCJkV2B8sE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/7bMLdXqkhRv-V4Z8mXjQUpFSuc0=/480x360/smart/extras/conteudos/01_9K1Fyb1.jpg
+tags:
+  - Branca de Neve
+  - bilheteria
+  - fracasso de bilheteria
+  - Gal Gadot
+  - Rachel Zegler
+  - Disney
+  - filme live-action
+  - estreia cinematográfica
+keywords: >-
+  Branca de Neve, bilheteria, fracasso de bilheteria, Gal Gadot, Rachel Zegler,
+  Disney, filme live-action, estreia cinematográfica
+data: '2025-04-05T16:10:36.977Z'
+author: Pablo Moura
 ---
 
 O filme 'Branca de Neve e os Sete Anões' acumula US$ 147,2 milhões globalmente até agora. Segundo informações da Variety deste sábado (5), o filme arrecadou apenas US$ 72 milhões nos Estados Unidos ao iniciar sua terceira semana em cartaz. Na última sexta-feira (4), a produção registrou uma receita de apenas US$ 1,5 milhão, representando uma queda de 60% em relação à semana anterior. A revista projeta que o filme possa encerrar sua jornada nas bilheterias americanas com menos de US$ 100 milhões, um cenário desfavorável considerando seu orçamento de US$ 250 milhões.

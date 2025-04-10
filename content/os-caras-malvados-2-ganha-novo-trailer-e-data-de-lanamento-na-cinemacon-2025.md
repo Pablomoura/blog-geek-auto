@@ -1,13 +1,28 @@
 ---
-title: "Os Caras Malvados 2: Novo Trailer e Data de Lançamento Revelados na CinemaCon 2025"
-slug: "os-caras-malvados-2-ganha-novo-trailer-e-data-de-lanamento-na-cinemacon-2025"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/1QqgxXNzaXJPuASeMTLmWfZVJL0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-21_154137.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/1QqgxXNzaXJPuASeMTLmWfZVJL0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-21_154137.png"
-tags: ["CinemaCon 2025", "Os Caras Malvados 2", "trailer de filme", "data de lançamento", "animação", "ficção científica", "elenco de vozes", "aventura e humor"]
-keywords: "CinemaCon 2025, Os Caras Malvados 2, trailer de filme, data de lançamento, animação, ficção científica, elenco de vozes, aventura e humor"
-data: "2025-04-03T00:15:39.152Z"
+title: >-
+  Os Caras Malvados 2: Novo Trailer e Data de Lançamento Revelados na CinemaCon
+  2025
+slug: os-caras-malvados-2-ganha-novo-trailer-e-data-de-lanamento-na-cinemacon-2025
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/1QqgxXNzaXJPuASeMTLmWfZVJL0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-21_154137.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/1QqgxXNzaXJPuASeMTLmWfZVJL0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-21_154137.png
+tags:
+  - CinemaCon 2025
+  - Os Caras Malvados 2
+  - trailer de filme
+  - data de lançamento
+  - animação
+  - ficção científica
+  - elenco de vozes
+  - aventura e humor
+keywords: >-
+  CinemaCon 2025, Os Caras Malvados 2, trailer de filme, data de lançamento,
+  animação, ficção científica, elenco de vozes, aventura e humor
+data: '2025-04-03T00:15:39.152Z'
+author: Ana Luiza
 ---
 
 Durante a CinemaCon 2025, foi revelado o aguardado trailer de 'Os Caras Malvados 2', juntamente com o anúncio da data de estreia do filme. A novidade empolgante deste ano é a introdução das Bad Girls, anunciada pelo ator Craig Robinson durante o evento.

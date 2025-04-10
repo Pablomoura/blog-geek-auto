@@ -15,6 +15,7 @@ tags:
   - bring her back
   - pôster
   - lançamento de trailer
+author: Ana Luiza
 ---
 
 Os diretores Danny e Michael Philippou, conhecidos pelo seu trabalho em 'Fale Comigo', apresentam 'Bring Her Back', seu mais recente projeto no gênero de terror. O filme acaba de ganhar um pôster oficial e a data de lançamento do primeiro trailer foi anunciada para a próxima terça-feira, 1º de abril.

@@ -1,14 +1,31 @@
 ---
-title: "Casamento Geek: Guia Completo para uma Cerimônia Temática Inesquecível"
-slug: "casamento-geek-guia-completo-para-uma-cerimonia-tematica-inesquecivel"
-resumo: "Planejar um casamento geek não é apenas sobre escolher temas de filmes ou videogames favoritos. É sobre criar uma experiência única que reflita os interesses e paixões do casal. Este guia oferece dicas valiosas para organizar uma celebração temática, desde a decoração e escolha do local até as lembrancinhas e trajes."
-categoria: "Casamentos Temáticos"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "casamento geek, temas nerds, decoração temática, trajes temáticos, fotografia de casamento, lembrancinhas personalizadas, votos personalizados, entretenimento para casamento"
-tags: ["casamento geek", "temas nerds", "decoração temática", "trajes temáticos", "fotografia de casamento", "lembrancinhas personalizadas", "votos personalizados", "entretenimento para casamento"]
-data: "2025-04-02T01:06:42.510Z"
+title: 'Casamento Geek: Guia Completo para uma Cerimônia Temática Inesquecível'
+slug: casamento-geek-guia-completo-para-uma-cerimonia-tematica-inesquecivel
+resumo: >-
+  Planejar um casamento geek não é apenas sobre escolher temas de filmes ou
+  videogames favoritos. É sobre criar uma experiência única que reflita os
+  interesses e paixões do casal. Este guia oferece dicas valiosas para organizar
+  uma celebração temática, desde a decoração e escolha do local até as
+  lembrancinhas e trajes.
+categoria: Casamentos Temáticos
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  casamento geek, temas nerds, decoração temática, trajes temáticos, fotografia
+  de casamento, lembrancinhas personalizadas, votos personalizados,
+  entretenimento para casamento
+tags:
+  - casamento geek
+  - temas nerds
+  - decoração temática
+  - trajes temáticos
+  - fotografia de casamento
+  - lembrancinhas personalizadas
+  - votos personalizados
+  - entretenimento para casamento
+data: '2025-04-02T01:06:42.510Z'
+author: Luana Souza
 ---
 
 ## Introdução ao Casamento Geek

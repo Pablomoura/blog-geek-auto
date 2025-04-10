@@ -1,14 +1,29 @@
 ---
-title: "20 Curiosidades Fascinantes Sobre Solo Leveling Que Talvez Você Não Conheça"
-slug: "20-curiosidades-fascinantes-sobre-solo-leveling-que-talvez-voce-nao-conheca"
-resumo: "Descubra fatos surpreendentes e menos conhecidos sobre Solo Leveling, o fenômeno mundial dos webtoons e light novels que capturou a imaginação de milhões de fãs. Este artigo explora detalhes intrigantes sobre a criação, personagens e influências da série."
-categoria: "Entretenimento"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, Webtoon, Light Novel, Sung Jin-Woo, Web Novel, Cultura Coreana, Fenômeno, Curiosidades"
-tags: ["Solo Leveling", "Webtoon", "Light Novel", "Sung Jin-Woo", "Web Novel", "Cultura Coreana", "Fenômeno", "Curiosidades"]
-data: "2025-03-07T01:56:09.588Z"
+title: 20 Curiosidades Fascinantes Sobre Solo Leveling Que Talvez Você Não Conheça
+slug: 20-curiosidades-fascinantes-sobre-solo-leveling-que-talvez-voce-nao-conheca
+resumo: >-
+  Descubra fatos surpreendentes e menos conhecidos sobre Solo Leveling, o
+  fenômeno mundial dos webtoons e light novels que capturou a imaginação de
+  milhões de fãs. Este artigo explora detalhes intrigantes sobre a criação,
+  personagens e influências da série.
+categoria: Entretenimento
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, Webtoon, Light Novel, Sung Jin-Woo, Web Novel, Cultura Coreana,
+  Fenômeno, Curiosidades
+tags:
+  - Solo Leveling
+  - Webtoon
+  - Light Novel
+  - Sung Jin-Woo
+  - Web Novel
+  - Cultura Coreana
+  - Fenômeno
+  - Curiosidades
+data: '2025-03-07T01:56:09.588Z'
+author: Luana Souza
 ---
 
 ## Introdução a Solo Leveling

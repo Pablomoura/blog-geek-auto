@@ -1,13 +1,26 @@
 ---
-title: "Nintendo Switch 2 tem pré-venda adiada no Canadá; entenda"
-slug: "nintendo-switch-2-tem-pr-venda-adiada-no-canad-entenda"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/zD-M2nMoJONtteorTCVExJBVOcM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T130124.550.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ujBduu4p64km1mwTBsCHXzJOHvo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T130107.932.png"
-tags: ["Nintendo Switch 2", "pré-venda adiada", "Canadá", "tarifas comerciais", "inovações no console", "lançamento global", "jogos novos", "tecnologia de jogos"]
-keywords: "Nintendo Switch 2, pré-venda adiada, Canadá, tarifas comerciais, inovações no console, lançamento global, jogos novos, tecnologia de jogos"
-data: "2025-04-08T16:13:13.532Z"
+title: Nintendo Switch 2 tem pré-venda adiada no Canadá; entenda
+slug: nintendo-switch-2-tem-pr-venda-adiada-no-canad-entenda
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/zD-M2nMoJONtteorTCVExJBVOcM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T130124.550.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ujBduu4p64km1mwTBsCHXzJOHvo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T130107.932.png
+tags:
+  - Nintendo Switch 2
+  - pré-venda adiada
+  - Canadá
+  - tarifas comerciais
+  - inovações no console
+  - lançamento global
+  - jogos novos
+  - tecnologia de jogos
+keywords: >-
+  Nintendo Switch 2, pré-venda adiada, Canadá, tarifas comerciais, inovações no
+  console, lançamento global, jogos novos, tecnologia de jogos
+data: '2025-04-08T16:13:13.532Z'
+author: Pablo Moura
 ---
 
 O Nintendo Switch 2, aguardado novo console da Nintendo, teve sua pré-venda adiada no Canadá. A decisão segue a mesma medida adotada anteriormente nos Estados Unidos, visando um alinhamento nas estratégias de lançamento devido às recentes tarifas impostas pela administração do presidente Donald Trump. A Nintendo do Canadá comunicou ao MobileSyrup que as pré-vendas, inicialmente previstas para começar em 9 de abril, foram postergadas para uma data ainda não definida. Contudo, a empresa reafirma que a data de lançamento global em 5 de junho está mantida.

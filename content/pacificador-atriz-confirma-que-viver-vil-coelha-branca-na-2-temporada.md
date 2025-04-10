@@ -15,6 +15,7 @@ tags:
   - segunda temporada
   - vilã
   - série de tv
+author: Luana Souza
 ---
 
 Após especulações recentes, Brey Noelle, atriz e cantora, foi oficialmente confirmada no elenco da segunda temporada de 'Pacificador'. A confirmação veio após seu nome aparecer no IMDB, levantando rumores que foram posteriormente validados pela própria Noelle através de seus stories no Instagram e comentários em diversas publicações.

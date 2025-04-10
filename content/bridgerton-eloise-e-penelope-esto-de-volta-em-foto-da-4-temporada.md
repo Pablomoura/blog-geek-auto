@@ -15,6 +15,7 @@ tags:
   - 4ª temporada
   - série de tv
   - entertainment weekly
+author: Pablo Moura
 ---
 
 A aguardada quarta temporada de 'Bridgerton' acaba de ser apresentada em uma nova imagem, destacando o retorno das personagens Eloise, interpretada por Claudia Jessie, e Penelope, vivida por Nicola Coughlan. A foto foi divulgada pela Entertainment Weekly.

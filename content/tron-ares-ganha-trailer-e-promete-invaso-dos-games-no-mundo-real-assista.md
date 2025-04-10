@@ -1,13 +1,25 @@
 ---
-title: "Tron: Ares ganha trailer e promete invasão dos games no mundo real; assista"
-slug: "tron-ares-ganha-trailer-e-promete-invaso-dos-games-no-mundo-real-assista"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/9KVG_X_7Naw?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/XafQeemuuLH4KX5GAzhWl5ET1IE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T132132.614.png"
-tags: ["Tron: Ares", "trailer", "Disney", "Jared Leto", "Jeff Bridges", "cinema", "estreia", "franquia Tron"]
-keywords: "Tron: Ares, trailer, Disney, Jared Leto, Jeff Bridges, cinema, estreia, franquia Tron"
-data: "2025-04-05T16:09:55.752Z"
+title: 'Tron: Ares ganha trailer e promete invasão dos games no mundo real; assista'
+slug: tron-ares-ganha-trailer-e-promete-invaso-dos-games-no-mundo-real-assista
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/9KVG_X_7Naw?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/XafQeemuuLH4KX5GAzhWl5ET1IE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T132132.614.png
+tags:
+  - 'Tron: Ares'
+  - trailer
+  - Disney
+  - Jared Leto
+  - Jeff Bridges
+  - cinema
+  - estreia
+  - franquia Tron
+keywords: >-
+  Tron: Ares, trailer, Disney, Jared Leto, Jeff Bridges, cinema, estreia,
+  franquia Tron
+data: '2025-04-05T16:09:55.752Z'
+author: Ana Luiza
 ---
 
 A Disney finalmente lançou o primeiro trailer de Tron: Ares, a mais recente continuação da icônica franquia que teve início com Jeff Bridges. O elenco estrelado do filme inclui Jared Leto, Evan Peters e Jeff Bridges, acompanhados por Gillian Anderson, conhecida por seu trabalho em Arquivo X, Jodie Turner-Smith de Queen & Slim, Greta Lee de Vidas Passadas e Cameron Monaghan de Gotham.

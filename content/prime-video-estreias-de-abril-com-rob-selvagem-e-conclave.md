@@ -20,6 +20,7 @@ tags:
   - conclave
   - cinema
   - streaming
+author: Luana Souza
 ---
 
 O Prime Video anuncia suas aguardadas estreias para o mês de abril, destacando-se no cenário cinematográfico com lançamentos aclamados como 'Robô Selvagem' e 'Conclave'. Esses títulos, que foram destaques na última temporada de premiações, prometem ser um grande atrativo para os assinantes. Confira a seguir a lista completa das novidades que a plataforma de streaming da Amazon trará no próximo mês.

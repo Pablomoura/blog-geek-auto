@@ -1,13 +1,25 @@
 ---
-title: "Thunderbolts* apresenta trailer de bastidores e chegada triunfal na CinemaCon"
-slug: "thunderbolts-ganha-trailer-dos-bastidores-com-cenas-incrveis-veja"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/bgfKjgzeKfU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/PEOJCvxApTnfjKBST3xj44exA-0=/480x360/smart/extras/conteudos/Marvel_Studios_Thunderbolts____Making_Of_Featurette___In_Theaters_May_2_0-22_screenshot.png"
-tags: ["Thunderbolts", "Marvel", "CinemaCon 2025", "Florence Pugh", "MCU", "ação", "bastidores", "anti-heróis"]
-keywords: "Thunderbolts, Marvel, CinemaCon 2025, Florence Pugh, MCU, ação, bastidores, anti-heróis"
-data: "2025-04-04T00:43:19.650Z"
+title: Thunderbolts* apresenta trailer de bastidores e chegada triunfal na CinemaCon
+slug: thunderbolts-ganha-trailer-dos-bastidores-com-cenas-incrveis-veja
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/bgfKjgzeKfU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/PEOJCvxApTnfjKBST3xj44exA-0=/480x360/smart/extras/conteudos/Marvel_Studios_Thunderbolts____Making_Of_Featurette___In_Theaters_May_2_0-22_screenshot.png
+tags:
+  - Thunderbolts
+  - Marvel
+  - CinemaCon 2025
+  - Florence Pugh
+  - MCU
+  - ação
+  - bastidores
+  - anti-heróis
+keywords: >-
+  Thunderbolts, Marvel, CinemaCon 2025, Florence Pugh, MCU, ação, bastidores,
+  anti-heróis
+data: '2025-04-04T00:43:19.650Z'
+author: Pablo Moura
 ---
 
 A CinemaCon 2025, realizada em Las Vegas, foi palco de grandes revelações da Marvel, incluindo um novo olhar sobre os bastidores de Thunderbolts*. O trailer divulgado mostra detalhes das empolgantes cenas de ação, destacando um impressionante salto realizado por Florence Pugh do segundo maior edifício do mundo.

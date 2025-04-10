@@ -1,14 +1,29 @@
 ---
-title: "O Rei das Sombras Explicado: O Destino Final de Jin-Woo"
-slug: "o-rei-das-sombras-explicado-o-destino-final-de-jin-woo"
-resumo: "Descubra o fascinante destino de Sung Jin-Woo, o protagonista da popular série de light novel e webtoon 'Solo Leveling'. Este artigo explora a evolução de Jin-Woo de um caçador de rank E para o poderoso Rei das Sombras e detalha os eventos que definem seu destino final."
-categoria: "Literatura e Fantasia"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, Jin-Woo, Rei das Sombras, light novel, webtoon, destino de Jin-Woo, fantasia, heróis"
-tags: ["Solo Leveling", "Jin-Woo", "Rei das Sombras", "light novel", "webtoon", "destino de Jin-Woo", "fantasia", "heróis"]
-data: "2025-04-07T01:40:43.995Z"
+title: 'O Rei das Sombras Explicado: O Destino Final de Jin-Woo'
+slug: o-rei-das-sombras-explicado-o-destino-final-de-jin-woo
+resumo: >-
+  Descubra o fascinante destino de Sung Jin-Woo, o protagonista da popular série
+  de light novel e webtoon 'Solo Leveling'. Este artigo explora a evolução de
+  Jin-Woo de um caçador de rank E para o poderoso Rei das Sombras e detalha os
+  eventos que definem seu destino final.
+categoria: Literatura e Fantasia
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, Jin-Woo, Rei das Sombras, light novel, webtoon, destino de
+  Jin-Woo, fantasia, heróis
+tags:
+  - Solo Leveling
+  - Jin-Woo
+  - Rei das Sombras
+  - light novel
+  - webtoon
+  - destino de Jin-Woo
+  - fantasia
+  - heróis
+data: '2025-04-07T01:40:43.995Z'
+author: Luana Souza
 ---
 
 ## A Ascensão de Sung Jin-Woo

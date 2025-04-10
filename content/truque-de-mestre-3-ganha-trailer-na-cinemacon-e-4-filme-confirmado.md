@@ -20,6 +20,7 @@ tags:
   - jesse eisenberg
   - ilusionismo
   - filme de roubo
+author: Pablo Moura
 ---
 
 A CinemaCon deste ano foi palco para a revelação do primeiro teaser de 'Truque de Mestre 3', a continuação da popular saga de ilusionismo que começou em 2013. O trailer apresenta Jesse Eisenberg realizando um truque de desaparecimento, antes de recrutar três jovens mágicos para um audacioso roubo de diamante, planejado contra a personagem de Rosamund Pike.

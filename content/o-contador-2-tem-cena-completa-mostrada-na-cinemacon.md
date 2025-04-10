@@ -1,13 +1,26 @@
 ---
-title: "O Contador 2 tem cena completa mostrada na CinemaCon"
-slug: "o-contador-2-tem-cena-completa-mostrada-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/9IXtVMLEF-zF_jdYpo0Ick2D6Og=/987x0/smart/uploads/conteudo/fotos/o-contador-3-continuacao-confirmada_O9iAtpT.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/6BEoiw-HcoCAjYKKUgvNTO-WFDw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T133928.176.png"
-tags: ["O Contador 2", "CinemaCon", "Ben Affleck", "Jon Bernthal", "filme de ação", "suspense", "investigação criminal", "sequência de filme"]
-keywords: "O Contador 2, CinemaCon, Ben Affleck, Jon Bernthal, filme de ação, suspense, investigação criminal, sequência de filme"
-data: "2025-04-03T05:10:48.879Z"
+title: O Contador 2 tem cena completa mostrada na CinemaCon
+slug: o-contador-2-tem-cena-completa-mostrada-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/9IXtVMLEF-zF_jdYpo0Ick2D6Og=/987x0/smart/uploads/conteudo/fotos/o-contador-3-continuacao-confirmada_O9iAtpT.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/6BEoiw-HcoCAjYKKUgvNTO-WFDw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T133928.176.png
+tags:
+  - O Contador 2
+  - CinemaCon
+  - Ben Affleck
+  - Jon Bernthal
+  - filme de ação
+  - suspense
+  - investigação criminal
+  - sequência de filme
+keywords: >-
+  O Contador 2, CinemaCon, Ben Affleck, Jon Bernthal, filme de ação, suspense,
+  investigação criminal, sequência de filme
+data: '2025-04-03T05:10:48.879Z'
+author: Ana Luiza
 ---
 
 Durante o evento da CinemaCon, a Amazon MGM Studios revelou uma cena completa de 'O Contador 2', com Ben Affleck e Jon Bernthal. A prévia apresentada oferece um vislumbre mais profundo da trama que continua a saga iniciada no filme de 2016.

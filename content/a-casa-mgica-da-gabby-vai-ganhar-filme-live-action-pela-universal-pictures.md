@@ -1,13 +1,28 @@
 ---
-title: "A Casa Mágica da Gabby será adaptada para filme live-action pela Universal Pictures"
-slug: "a-casa-mgica-da-gabby-vai-ganhar-filme-live-action-pela-universal-pictures"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/KUA7HF2DbLDo-t31Q615M_twxAo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T203203.180.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/XuNmk3GCcAMU7HXODPIU_NL8SdI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T203151.363.png"
-tags: ["Universal Pictures", "live-action", "Gabby", "animação 3D", "Gloria Stephan", "Kristen Wiig", "CinemaCon", "filme infantil"]
-keywords: "Universal Pictures, live-action, Gabby, animação 3D, Gloria Stephan, Kristen Wiig, CinemaCon, filme infantil"
-data: "2025-04-03T00:15:03.691Z"
+title: >-
+  A Casa Mágica da Gabby será adaptada para filme live-action pela Universal
+  Pictures
+slug: a-casa-mgica-da-gabby-vai-ganhar-filme-live-action-pela-universal-pictures
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/KUA7HF2DbLDo-t31Q615M_twxAo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T203203.180.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/XuNmk3GCcAMU7HXODPIU_NL8SdI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T203151.363.png
+tags:
+  - Universal Pictures
+  - live-action
+  - Gabby
+  - animação 3D
+  - Gloria Stephan
+  - Kristen Wiig
+  - CinemaCon
+  - filme infantil
+keywords: >-
+  Universal Pictures, live-action, Gabby, animação 3D, Gloria Stephan, Kristen
+  Wiig, CinemaCon, filme infantil
+data: '2025-04-03T00:15:03.691Z'
+author: Luana Souza
 ---
 
 No recente evento da CinemaCon, a Universal Pictures revelou que está desenvolvendo uma versão live-action do popular desenho infantil 'A Casa Mágica da Gabby'. A divulgação incluiu a apresentação da primeira arte promocional do projeto.

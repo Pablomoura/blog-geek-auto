@@ -17,6 +17,7 @@ tags:
   - 'vingadores: doomsday'
   - lewis pullman
   - trailer
+author: Luana Souza
 ---
 
 O mais recente trailer de Thunderbolts, divulgado pela Marvel, coloca em destaque a figura de Sentinela, interpretado por Lewis Pullman. O vídeo ressalta que Sentinela possui mais poder do que todos os Vingadores combinados, prometendo que ele se tornará o herói mais poderoso do planeta e destacando a importância da nova equipe.

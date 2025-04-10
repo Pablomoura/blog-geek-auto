@@ -1,13 +1,26 @@
 ---
-title: "BBB 25 | No modo turbo, programa repete dinâmica e elimina dois por semana"
-slug: "bbb-25-no-modo-turbo-programa-repete-dinmica-e-elimina-dois-por-semana"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/zOSj-jwRhQDNjXuuqZgup3I8A40=/987x0/smart/uploads/conteudo/fotos/bbb25-tadeu-schmidt-12-semana.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pR21fs0_My_saNuIz6r-YgNCZq8=/480x360/smart/extras/conteudos/bbb25-tadeu-schmidt-12-semana-peq.jpg"
-tags: ["BBB 25", "modo turbo", "Tadeu Schmidt", "Prova do Líder", "eliminação dupla", "Paredão", "votação mista", "Globoplay"]
-keywords: "BBB 25, modo turbo, Tadeu Schmidt, Prova do Líder, eliminação dupla, Paredão, votação mista, Globoplay"
-data: "2025-04-04T03:26:26.962Z"
+title: 'BBB 25 | No modo turbo, programa repete dinâmica e elimina dois por semana'
+slug: bbb-25-no-modo-turbo-programa-repete-dinmica-e-elimina-dois-por-semana
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/zOSj-jwRhQDNjXuuqZgup3I8A40=/987x0/smart/uploads/conteudo/fotos/bbb25-tadeu-schmidt-12-semana.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pR21fs0_My_saNuIz6r-YgNCZq8=/480x360/smart/extras/conteudos/bbb25-tadeu-schmidt-12-semana-peq.jpg
+tags:
+  - BBB 25
+  - modo turbo
+  - Tadeu Schmidt
+  - Prova do Líder
+  - eliminação dupla
+  - Paredão
+  - votação mista
+  - Globoplay
+keywords: >-
+  BBB 25, modo turbo, Tadeu Schmidt, Prova do Líder, eliminação dupla, Paredão,
+  votação mista, Globoplay
+data: '2025-04-04T03:26:26.962Z'
+author: Luana Souza
 ---
 
 No programa ao vivo desta quarta-feira (03), Tadeu Schmidt detalhou a nova dinâmica do 'BBB 25', que agora entra em sua fase acelerada, conhecida como 'modo turbo'. Vitória Strada sagrou-se vencedora da Prova do Líder e, consequentemente, indicou Renata, João Pedro e João Guilherme ao Paredão.

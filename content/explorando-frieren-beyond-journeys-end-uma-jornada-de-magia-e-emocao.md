@@ -1,14 +1,27 @@
 ---
-title: "Explorando Frieren: Beyond Journey's End – Uma Jornada de Magia e Emoção"
-slug: "explorando-frieren-beyond-journeys-end-uma-jornada-de-magia-e-emocao"
-resumo: "Descubra o envolvente mundo de 'Frieren: Beyond Journey's End', um anime que combina elementos de fantasia, aventura e profundas reflexões sobre a vida e o tempo. Este artigo oferece um olhar detalhado sobre a história, os personagens e o universo único deste anime."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "anime, Frieren, fantasia, aventura, personagens, história, magia, emoção"
-tags: ["anime", "Frieren", "fantasia", "aventura", "personagens", "história", "magia", "emoção"]
-data: "2025-04-08T01:08:51.763Z"
+title: 'Explorando Frieren: Beyond Journey''s End – Uma Jornada de Magia e Emoção'
+slug: explorando-frieren-beyond-journeys-end-uma-jornada-de-magia-e-emocao
+resumo: >-
+  Descubra o envolvente mundo de 'Frieren: Beyond Journey's End', um anime que
+  combina elementos de fantasia, aventura e profundas reflexões sobre a vida e o
+  tempo. Este artigo oferece um olhar detalhado sobre a história, os personagens
+  e o universo único deste anime.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: 'anime, Frieren, fantasia, aventura, personagens, história, magia, emoção'
+tags:
+  - anime
+  - Frieren
+  - fantasia
+  - aventura
+  - personagens
+  - história
+  - magia
+  - emoção
+data: '2025-04-08T01:08:51.763Z'
+author: Pablo Moura
 ---
 
 ## Introdução

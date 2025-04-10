@@ -15,6 +15,7 @@ tags:
   - recorde de vendas
   - indústria de jogos
   - sucesso de vendas
+author: Ana Luiza
 ---
 
 Monster Hunter Wilds, o mais recente sucesso da Capcom, alcançou a impressionante marca de 10 milhões de cópias vendidas. A empresa anunciou esse feito na última segunda-feira (31), destacando que o jogo estabeleceu um novo recorde de vendas no primeiro mês entre todas as suas franquias.

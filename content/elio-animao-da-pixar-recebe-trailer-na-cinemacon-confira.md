@@ -1,13 +1,26 @@
 ---
-title: "Elio | Animação da Pixar apresenta novo trailer na CinemaCon"
-slug: "elio-animao-da-pixar-recebe-trailer-na-cinemacon-confira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Wd0WzSeJ1X1pRrGMXWqMhnpJKIs=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-03T200050.131.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ut1QOdBvfkOuLuUcgcnPdQRfDYE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-03T200050.131.png"
-tags: ["Pixar", "Elio", "CinemaCon", "animação", "trailer", "aventura espacial", "3D", "personagens alienígenas"]
-keywords: "Pixar, Elio, CinemaCon, animação, trailer, aventura espacial, 3D, personagens alienígenas"
-data: "2025-04-03T23:10:32.168Z"
+title: Elio | Animação da Pixar apresenta novo trailer na CinemaCon
+slug: elio-animao-da-pixar-recebe-trailer-na-cinemacon-confira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Wd0WzSeJ1X1pRrGMXWqMhnpJKIs=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-03T200050.131.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ut1QOdBvfkOuLuUcgcnPdQRfDYE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-03T200050.131.png
+tags:
+  - Pixar
+  - Elio
+  - CinemaCon
+  - animação
+  - trailer
+  - aventura espacial
+  - 3D
+  - personagens alienígenas
+keywords: >-
+  Pixar, Elio, CinemaCon, animação, trailer, aventura espacial, 3D, personagens
+  alienígenas
+data: '2025-04-03T23:10:32.168Z'
+author: Ana Luiza
 ---
 
 A Disney aproveitou o palco da CinemaCon para lançar um novo trailer da animação 'Elio', revelando mais detalhes sobre a trama e as aventuras do jovem protagonista. O trailer introduz Elio chegando ao Comuniverso, um conglomerado de representantes de diversas espécies universais. A animação impressiona pelo uso eficaz do 3D, que realça a profundidade e a vivacidade das cores.

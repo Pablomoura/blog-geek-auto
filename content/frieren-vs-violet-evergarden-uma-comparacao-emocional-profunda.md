@@ -1,14 +1,30 @@
 ---
-title: "Frieren vs. Violet Evergarden: Uma Comparação Emocional Profunda"
-slug: "frieren-vs-violet-evergarden-uma-comparacao-emocional-profunda"
-resumo: "Exploramos as nuances emocionais e narrativas de dois aclamados animes, Frieren e Violet Evergarden, para determinar qual série ressoa mais profundamente com os espectadores. Analisamos temas, desenvolvimento de personagens e impacto emocional em cada série."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, Violet Evergarden, animes emocionantes, comparação de animes, desenvolvimento de personagens, impacto emocional, temas de anime, história de anime"
-tags: ["Frieren", "Violet Evergarden", "animes emocionantes", "comparação de animes", "desenvolvimento de personagens", "impacto emocional", "temas de anime", "história de anime"]
-data: "2025-04-06T21:40:01.545Z"
+title: 'Frieren vs. Violet Evergarden: Uma Comparação Emocional Profunda'
+slug: frieren-vs-violet-evergarden-uma-comparacao-emocional-profunda
+resumo: >-
+  Exploramos as nuances emocionais e narrativas de dois aclamados animes,
+  Frieren e Violet Evergarden, para determinar qual série ressoa mais
+  profundamente com os espectadores. Analisamos temas, desenvolvimento de
+  personagens e impacto emocional em cada série.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, Violet Evergarden, animes emocionantes, comparação de animes,
+  desenvolvimento de personagens, impacto emocional, temas de anime, história de
+  anime
+tags:
+  - Frieren
+  - Violet Evergarden
+  - animes emocionantes
+  - comparação de animes
+  - desenvolvimento de personagens
+  - impacto emocional
+  - temas de anime
+  - história de anime
+data: '2025-04-06T21:40:01.545Z'
+author: Ana Luiza
 ---
 
 ## Introdução

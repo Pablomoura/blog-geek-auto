@@ -1,13 +1,28 @@
 ---
-title: "Vingadores: Doomsday | Irmãos Russo divulgam arte de Dr. Destino com Manopla em tributo a Robert Downey Jr."
-slug: "vingadores-doomsday-russos-postam-dr-destino-com-manopla-em-homenagem-a-rdjr"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/579abVINXtZmKyF9Sx5AsIxihz0=/987x0/smart/uploads/conteudo/fotos/downey-doom-2.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/MteHyOYVunuWK_T_FJ3UW6rCtwo=/480x360/smart/extras/conteudos/downey-doom.jpg"
-tags: ["Vingadores: Doomsday", "Dr. Destino", "Robert Downey Jr.", "Irmãos Russo", "Manopla do Infinito", "MCU", "Thunderbolts", "Quarteto Fantástico"]
-keywords: "Vingadores: Doomsday, Dr. Destino, Robert Downey Jr., Irmãos Russo, Manopla do Infinito, MCU, Thunderbolts, Quarteto Fantástico"
-data: "2025-04-04T20:11:50.761Z"
+title: >-
+  Vingadores: Doomsday | Irmãos Russo divulgam arte de Dr. Destino com Manopla
+  em tributo a Robert Downey Jr.
+slug: vingadores-doomsday-russos-postam-dr-destino-com-manopla-em-homenagem-a-rdjr
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/579abVINXtZmKyF9Sx5AsIxihz0=/987x0/smart/uploads/conteudo/fotos/downey-doom-2.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/MteHyOYVunuWK_T_FJ3UW6rCtwo=/480x360/smart/extras/conteudos/downey-doom.jpg
+tags:
+  - 'Vingadores: Doomsday'
+  - Dr. Destino
+  - Robert Downey Jr.
+  - Irmãos Russo
+  - Manopla do Infinito
+  - MCU
+  - Thunderbolts
+  - Quarteto Fantástico
+keywords: >-
+  Vingadores: Doomsday, Dr. Destino, Robert Downey Jr., Irmãos Russo, Manopla do
+  Infinito, MCU, Thunderbolts, Quarteto Fantástico
+data: '2025-04-04T20:11:50.761Z'
+author: Pablo Moura
 ---
 
 O filme 'Vingadores: Doomsday' já está em fase de pré-produção, com filmagens previstas para iniciar em breve. Antecipando o começo das gravações, os diretores Joe e Anthony Russo prestaram uma homenagem especial a Robert Downey Jr., icônico ator do MCU que retorna para mais um filme. O ator celebrou seus 60 anos na última sexta-feira, dia 4, e, para comemorar, os irmãos Russo compartilharam uma ilustração de Dr. Destino, criada pelo artista Bosslogic, repleta de elementos do universo Marvel. A arte inclui a Manopla do Infinito, desenvolvida por Tony Stark em 'Vingadores: Ultimato', o elmo de Thanos, o reator Arc e a frase '3000', símbolo das homenagens ao ator e ao personagem desde o encerramento da última saga do grupo.

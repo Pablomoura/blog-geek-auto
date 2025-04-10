@@ -17,6 +17,7 @@ tags:
   - música ao vivo
   - festival de música
   - shows em são paulo
+author: Pablo Moura
 ---
 
 Justin Timberlake é o grande destaque desta sexta-feira (30) no Lollapalooza 2025, que ocorre no Autódromo de Interlagos, em São Paulo. Além dele, nomes como Foster the People, Terno Rei, Tool e Sepultura estão entre as atrações do dia. Confira abaixo onde e quando cada artista se apresentará neste encerramento do festival.

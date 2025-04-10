@@ -14,6 +14,7 @@ tags:
   - meio de temporada
   - ação
   - série
+author: Pablo Moura
 ---
 
 O aguardado retorno do 'Demolidor' às telas é marcado por um empolgante trailer de meio de temporada divulgado recentemente. O vídeo promocional de 'Demolidor: Renascido' traz cenas repletas de ação, indicando o que os fãs podem esperar dos próximos episódios.

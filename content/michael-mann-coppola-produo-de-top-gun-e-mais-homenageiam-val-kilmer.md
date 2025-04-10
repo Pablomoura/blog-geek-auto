@@ -16,6 +16,7 @@ tags:
   - francis ford coppola
   - homenagem
   - hollywood
+author: Pablo Moura
 ---
 
 Val Kilmer, celebrado ator de Hollywood, faleceu na última terça-feira, 1º de agosto, vitimado por uma pneumonia, conforme reportagem do The New York Times. Kilmer, que ascendeu ao estrelato após sua participação em Top Gun, desempenhou papéis significativos em várias grandes produções cinematográficas, incluindo Willow, Fogo Contra Fogo e Batman Eternamente.

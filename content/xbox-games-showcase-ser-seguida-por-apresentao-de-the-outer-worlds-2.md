@@ -1,13 +1,26 @@
 ---
-title: "Xbox Games Showcase será seguida por apresentação de The Outer Worlds 2"
-slug: "xbox-games-showcase-ser-seguida-por-apresentao-de-the-outer-worlds-2"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/k-F4xGgG0YhaDGeejLgq1RYX_5o=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T102252.198.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/-bMEOUy7szSVC-qWYR_wLQ26l5I=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T102207.143.png"
-tags: ["Xbox Games Showcase", "The Outer Worlds 2", "Obsidian Entertainment", "RPG", "Xbox Series X", "PlayStation 5", "gameplay", "The Game Awards"]
-keywords: "Xbox Games Showcase, The Outer Worlds 2, Obsidian Entertainment, RPG, Xbox Series X, PlayStation 5, gameplay, The Game Awards"
-data: "2025-04-09T14:05:42.655Z"
+title: Xbox Games Showcase será seguida por apresentação de The Outer Worlds 2
+slug: xbox-games-showcase-ser-seguida-por-apresentao-de-the-outer-worlds-2
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/k-F4xGgG0YhaDGeejLgq1RYX_5o=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T102252.198.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/-bMEOUy7szSVC-qWYR_wLQ26l5I=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T102207.143.png
+tags:
+  - Xbox Games Showcase
+  - The Outer Worlds 2
+  - Obsidian Entertainment
+  - RPG
+  - Xbox Series X
+  - PlayStation 5
+  - gameplay
+  - The Game Awards
+keywords: >-
+  Xbox Games Showcase, The Outer Worlds 2, Obsidian Entertainment, RPG, Xbox
+  Series X, PlayStation 5, gameplay, The Game Awards
+data: '2025-04-09T14:05:42.655Z'
+author: Luana Souza
 ---
 
 A Xbox anunciou oficialmente a data do Xbox Games Showcase 2025, evento que continuará a tradição de ser seguido por uma apresentação especial, desta vez com foco em The Outer Worlds 2. Nos anos anteriores, o showcase foi acompanhado por jogos de grande calibre, como Starfield em 2023 e Call of Duty: Black Ops 6 em 2024. O próximo evento está marcado para 8 de junho e promete trazer atualizações importantes sobre os principais projetos em desenvolvimento pelos estúdios da Microsoft, além de novidades de jogos de terceiros para as plataformas da empresa.

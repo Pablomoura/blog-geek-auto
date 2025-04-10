@@ -16,6 +16,7 @@ tags:
   - disney
   - pôster oficial
   - dean fleischer camp
+author: Pablo Moura
 ---
 
 O aguardado remake live-action de 'Lilo e Stitch' foi destaque no painel da Disney na CinemaCon, realizada nesta quinta-feira (3) às 18h30. Um imponente pôster do filme foi revelado durante o evento, gerando grande expectativa. 

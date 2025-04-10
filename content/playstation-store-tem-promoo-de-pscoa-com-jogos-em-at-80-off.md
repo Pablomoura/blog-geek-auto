@@ -15,6 +15,7 @@ tags:
   - playstation 4
   - playstation 5
   - jogos populares
+author: Ana Luiza
 ---
 
 A PlayStation Store deu início à sua aguardada promoção de Páscoa nesta quarta-feira (26/03), disponibilizando uma grande variedade de jogos com descontos significativos para os consoles PlayStation 4 e PlayStation 5. A campanha segue até o dia 9 de abril, incluindo títulos populares como Call of Duty: Black Ops 6, Baldur's Gate 3 e Elden Ring.

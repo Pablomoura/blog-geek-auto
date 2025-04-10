@@ -15,6 +15,7 @@ tags:
   - turnê
   - from zero
   - datas de shows
+author: Luana Souza
 ---
 
 A produtora de eventos Live Nation confirmou nesta quinta-feira (27) que a renomada banda Linkin Park realizará três shows no Brasil. As cidades escolhidas são Curitiba, São Paulo e Brasília. As apresentações fazem parte da nova turnê da banda, que promove seu mais recente álbum, 'From Zero'.

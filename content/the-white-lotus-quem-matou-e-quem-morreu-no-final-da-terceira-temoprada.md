@@ -1,13 +1,25 @@
 ---
-title: "The White Lotus | Quem matou e quem morreu no final da terceira temporada?"
-slug: "the-white-lotus-quem-matou-e-quem-morreu-no-final-da-terceira-temoprada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/XwQRkOK5KC4?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/icsGhfAp5qM84PJuDz1H0vqDacc=/480x360/smart/extras/conteudos/white-lotus-3.png"
-tags: ["The White Lotus", "temporada 3", "spoilers", "assassinato", "mistério", "drama criminal", "HBO", "série de TV"]
-keywords: "The White Lotus, temporada 3, spoilers, assassinato, mistério, drama criminal, HBO, série de TV"
-data: "2025-04-07T03:31:48.434Z"
+title: The White Lotus | Quem matou e quem morreu no final da terceira temporada?
+slug: the-white-lotus-quem-matou-e-quem-morreu-no-final-da-terceira-temoprada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/XwQRkOK5KC4?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/icsGhfAp5qM84PJuDz1H0vqDacc=/480x360/smart/extras/conteudos/white-lotus-3.png
+tags:
+  - The White Lotus
+  - temporada 3
+  - spoilers
+  - assassinato
+  - mistério
+  - drama criminal
+  - HBO
+  - série de TV
+keywords: >-
+  The White Lotus, temporada 3, spoilers, assassinato, mistério, drama criminal,
+  HBO, série de TV
+data: '2025-04-07T03:31:48.434Z'
+author: Ana Luiza
 ---
 
 

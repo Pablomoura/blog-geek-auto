@@ -1,14 +1,29 @@
 ---
-title: "Desvendando as Sombras em Solo Leveling: Uma Exploração dos Poderes Únicos"
-slug: "desvendando-as-sombras-em-solo-leveling-uma-exploracao-dos-poderes-unicos"
-resumo: "Este artigo oferece um mergulho profundo nos misteriosos poderes das sombras no universo de Solo Leveling, detalhando suas funções, origens e implicações dentro da narrativa. Explore conosco os fascinantes aspectos desses seres sobrenaturais e como eles afetam o curso da história."
-categoria: "Análise de Webtoon"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, sombras, poderes, webtoon, fantasia, Sung Jin-Woo, caçadores, web novel"
-tags: ["Solo Leveling", "sombras", "poderes", "webtoon", "fantasia", "Sung Jin-Woo", "caçadores", "web novel"]
-data: "2025-03-07T01:31:55.109Z"
+title: 'Desvendando as Sombras em Solo Leveling: Uma Exploração dos Poderes Únicos'
+slug: desvendando-as-sombras-em-solo-leveling-uma-exploracao-dos-poderes-unicos
+resumo: >-
+  Este artigo oferece um mergulho profundo nos misteriosos poderes das sombras
+  no universo de Solo Leveling, detalhando suas funções, origens e implicações
+  dentro da narrativa. Explore conosco os fascinantes aspectos desses seres
+  sobrenaturais e como eles afetam o curso da história.
+categoria: Análise de Webtoon
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, sombras, poderes, webtoon, fantasia, Sung Jin-Woo, caçadores,
+  web novel
+tags:
+  - Solo Leveling
+  - sombras
+  - poderes
+  - webtoon
+  - fantasia
+  - Sung Jin-Woo
+  - caçadores
+  - web novel
+data: '2025-03-07T01:31:55.109Z'
+author: Ana Luiza
 ---
 
 ## Introdução

@@ -1,13 +1,25 @@
 ---
-title: "Solo Leveling | Códigos de Hunters no Roblox em abril"
-slug: "solo-leveling-cdigos-de-hunters-no-roblox-em-abril"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/DfuI4gl-Nk4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/eD5l8gcpdYDdk6_kj9J_-v7iEbY=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_144118.png"
-tags: ["Solo Leveling", "Roblox", "Hunters", "códigos promocionais", "cristais", "equipamentos", "jogo não-oficial", "atualizações de códigos"]
-keywords: "Solo Leveling, Roblox, Hunters, códigos promocionais, cristais, equipamentos, jogo não-oficial, atualizações de códigos"
-data: "2025-04-08T18:13:30.953Z"
+title: Solo Leveling | Códigos de Hunters no Roblox em abril
+slug: solo-leveling-cdigos-de-hunters-no-roblox-em-abril
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/DfuI4gl-Nk4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/eD5l8gcpdYDdk6_kj9J_-v7iEbY=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_144118.png
+tags:
+  - Solo Leveling
+  - Roblox
+  - Hunters
+  - códigos promocionais
+  - cristais
+  - equipamentos
+  - jogo não-oficial
+  - atualizações de códigos
+keywords: >-
+  Solo Leveling, Roblox, Hunters, códigos promocionais, cristais, equipamentos,
+  jogo não-oficial, atualizações de códigos
+data: '2025-04-08T18:13:30.953Z'
+author: Luana Souza
 ---
 
 O universo de Solo Leveling expandiu-se para o Roblox com o lançamento do jogo Hunters, desenvolvido por aficionados da plataforma. Este jogo não-oficial permite aos jogadores equipar-se adequadamente para adentrar em masmorras desafiadoras e combater legiões de inimigos. Para auxiliar nessa jornada, existem códigos promocionais que fornecem cristais, os quais podem ser utilizados para adquirir novos equipamentos ou melhorias.

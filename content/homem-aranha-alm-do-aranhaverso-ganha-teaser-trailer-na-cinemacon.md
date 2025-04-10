@@ -17,6 +17,7 @@ tags:
   - teaser trailer
   - estreia de filme
   - super-heróis
+author: Pablo Moura
 ---
 
 A CinemaCon deste ano foi palco de grandes novidades para os fãs da saga Aranhaverso, com o anúncio da data de estreia e a divulgação das primeiras imagens e um teaser trailer de 'Homem-Aranha: Além do Aranhaverso'. As imagens e detalhes do teaser prometem uma continuação ainda mais vibrante e visualmente deslumbrante.

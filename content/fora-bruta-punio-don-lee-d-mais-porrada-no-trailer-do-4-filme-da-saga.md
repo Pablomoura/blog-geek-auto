@@ -14,6 +14,7 @@ tags:
   - filme sul-coreano
   - ação
   - detetive
+author: Ana Luiza
 ---
 
 O aguardado quarto capítulo da franquia de sucesso sul-coreana, 'Força Bruta: Punição', acaba de ganhar um empolgante trailer nacional com Don Lee em destaque. Confira no vídeo acima.

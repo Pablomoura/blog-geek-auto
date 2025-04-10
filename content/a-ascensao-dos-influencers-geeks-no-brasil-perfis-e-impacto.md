@@ -1,14 +1,28 @@
 ---
-title: "A Ascensão dos Influencers Geeks no Brasil: Perfis e Impacto"
-slug: "a-ascensao-dos-influencers-geeks-no-brasil-perfis-e-impacto"
-resumo: "Explore como os influencers geeks têm moldado a cultura pop e a indústria de entretenimento no Brasil. Conheça os principais nomes e como eles conseguiram transformar suas paixões em carreiras influentes na era digital."
-categoria: "Cultura Digital"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "influencers, geeks, cultura pop, tecnologia, jogos, cinema, redes sociais, entretenimento"
-tags: ["influencers", "geeks", "cultura pop", "tecnologia", "jogos", "cinema", "redes sociais", "entretenimento"]
-data: "2025-03-07T01:16:42.923Z"
+title: 'A Ascensão dos Influencers Geeks no Brasil: Perfis e Impacto'
+slug: a-ascensao-dos-influencers-geeks-no-brasil-perfis-e-impacto
+resumo: >-
+  Explore como os influencers geeks têm moldado a cultura pop e a indústria de
+  entretenimento no Brasil. Conheça os principais nomes e como eles conseguiram
+  transformar suas paixões em carreiras influentes na era digital.
+categoria: Cultura Digital
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  influencers, geeks, cultura pop, tecnologia, jogos, cinema, redes sociais,
+  entretenimento
+tags:
+  - influencers
+  - geeks
+  - cultura pop
+  - tecnologia
+  - jogos
+  - cinema
+  - redes sociais
+  - entretenimento
+data: '2025-03-07T01:16:42.923Z'
+author: Pablo Moura
 ---
 
 ## A Influência Geek no Brasil

@@ -1,14 +1,29 @@
 ---
-title: "Solo Leveling vs. Tower of God: Explorando Duas Lendas dos Webtoons"
-slug: "solo-leveling-vs-tower-of-god-explorando-duas-lendas-dos-webtoons"
-resumo: "Este artigo compara dois dos webtoons mais populares: Solo Leveling e Tower of God. Ambos transformaram o cenário dos quadrinhos digitais, mas possuem narrativas e estilos distintos. Aqui, exploramos suas histórias, personagens e impacto cultural."
-categoria: "Entretenimento"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, Tower of God, Webtoons, Quadrinhos Digitais, Narrativa, Cultura Pop, Fantasia, Aventura"
-tags: ["Solo Leveling", "Tower of God", "Webtoons", "Quadrinhos Digitais", "Narrativa", "Cultura Pop", "Fantasia", "Aventura"]
-data: "2025-04-06T01:48:07.320Z"
+title: 'Solo Leveling vs. Tower of God: Explorando Duas Lendas dos Webtoons'
+slug: solo-leveling-vs-tower-of-god-explorando-duas-lendas-dos-webtoons
+resumo: >-
+  Este artigo compara dois dos webtoons mais populares: Solo Leveling e Tower of
+  God. Ambos transformaram o cenário dos quadrinhos digitais, mas possuem
+  narrativas e estilos distintos. Aqui, exploramos suas histórias, personagens e
+  impacto cultural.
+categoria: Entretenimento
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, Tower of God, Webtoons, Quadrinhos Digitais, Narrativa, Cultura
+  Pop, Fantasia, Aventura
+tags:
+  - Solo Leveling
+  - Tower of God
+  - Webtoons
+  - Quadrinhos Digitais
+  - Narrativa
+  - Cultura Pop
+  - Fantasia
+  - Aventura
+data: '2025-04-06T01:48:07.320Z'
+author: Luana Souza
 ---
 
 ## Introdução

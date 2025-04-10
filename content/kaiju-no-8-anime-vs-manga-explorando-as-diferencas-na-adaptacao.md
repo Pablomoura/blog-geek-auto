@@ -1,14 +1,28 @@
 ---
-title: "Kaiju No. 8: Anime vs Mangá - Explorando as Diferenças na Adaptação"
-slug: "kaiju-no-8-anime-vs-manga-explorando-as-diferencas-na-adaptacao"
-resumo: "Descubra as principais diferenças entre o mangá e o anime de Kaiju No. 8, analisando aspectos como fidelidade à história, desenvolvimento de personagem, efeitos visuais e sonoros, e muito mais."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, anime vs mangá, adaptação, diferenças de mídia, desenvolvimento de personagem, efeitos visuais, trilha sonora, Kafka Hibino"
-tags: ["Kaiju No. 8", "anime vs mangá", "adaptação", "diferenças de mídia", "desenvolvimento de personagem", "efeitos visuais", "trilha sonora", "Kafka Hibino"]
-data: "2025-04-04T22:11:47.646Z"
+title: 'Kaiju No. 8: Anime vs Mangá - Explorando as Diferenças na Adaptação'
+slug: kaiju-no-8-anime-vs-manga-explorando-as-diferencas-na-adaptacao
+resumo: >-
+  Descubra as principais diferenças entre o mangá e o anime de Kaiju No. 8,
+  analisando aspectos como fidelidade à história, desenvolvimento de personagem,
+  efeitos visuais e sonoros, e muito mais.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, anime vs mangá, adaptação, diferenças de mídia, desenvolvimento
+  de personagem, efeitos visuais, trilha sonora, Kafka Hibino
+tags:
+  - Kaiju No. 8
+  - anime vs mangá
+  - adaptação
+  - diferenças de mídia
+  - desenvolvimento de personagem
+  - efeitos visuais
+  - trilha sonora
+  - Kafka Hibino
+data: '2025-04-04T22:11:47.646Z'
+author: Pablo Moura
 ---
 
 ## Introdução

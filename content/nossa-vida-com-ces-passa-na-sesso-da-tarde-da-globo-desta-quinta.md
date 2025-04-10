@@ -15,6 +15,7 @@ tags:
   - rede globo
   - cães
   - ken marino
+author: Ana Luiza
 ---
 
 A Sessão da Tarde desta quinta-feira, 27 de janeiro, traz o filme 'Nossa Vida com Cães', lançado em 2018. A exibição está programada para começar às 15h25, horário de Brasília, na Rede Globo.

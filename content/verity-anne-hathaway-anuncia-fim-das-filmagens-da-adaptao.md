@@ -1,13 +1,26 @@
 ---
-title: "Verity | Anne Hathaway anuncia fim das filmagens da adaptação"
-slug: "verity-anne-hathaway-anuncia-fim-das-filmagens-da-adaptao"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/KDOqlpQECGz3DHPYSEL6CmO21bE=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-07T201131.879.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pCFl0N8pUUm4X4arOYVqbQTrvWM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-07T201131.879.png"
-tags: ["Anne Hathaway", "Verity", "Colleen Hoover", "adaptação cinematográfica", "Dakota Johnson", "filme de suspense", "lançamento de filme", "Hollywood"]
-keywords: "Anne Hathaway, Verity, Colleen Hoover, adaptação cinematográfica, Dakota Johnson, filme de suspense, lançamento de filme, Hollywood"
-data: "2025-04-08T02:23:49.343Z"
+title: Verity | Anne Hathaway anuncia fim das filmagens da adaptação
+slug: verity-anne-hathaway-anuncia-fim-das-filmagens-da-adaptao
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/KDOqlpQECGz3DHPYSEL6CmO21bE=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-07T201131.879.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pCFl0N8pUUm4X4arOYVqbQTrvWM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-07T201131.879.png
+tags:
+  - Anne Hathaway
+  - Verity
+  - Colleen Hoover
+  - adaptação cinematográfica
+  - Dakota Johnson
+  - filme de suspense
+  - lançamento de filme
+  - Hollywood
+keywords: >-
+  Anne Hathaway, Verity, Colleen Hoover, adaptação cinematográfica, Dakota
+  Johnson, filme de suspense, lançamento de filme, Hollywood
+data: '2025-04-08T02:23:49.343Z'
+author: Luana Souza
 ---
 
 Anne Hathaway, reconhecida atriz de Hollywood, compartilhou um vídeo em sua conta do Instagram nesta segunda-feira (07), anunciando o término das filmagens de 'Verity', uma adaptação cinematográfica do livro de Colleen Hoover. No vídeo, Hathaway surge segurando um exemplar do livro, que magicamente se transforma no roteiro do filme, revelando a capa deste. Na mesma publicação, a atriz expressou seu entusiasmo pelo lançamento do filme, previsto para 15 de maio de 2026, e convidou os fãs a assisti-lo nos cinemas.

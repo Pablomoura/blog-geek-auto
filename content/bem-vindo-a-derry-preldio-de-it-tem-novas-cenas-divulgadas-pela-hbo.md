@@ -1,13 +1,25 @@
 ---
-title: "Bem-vindo a Derry | Prelúdio de It tem novas cenas divulgadas pela HBO"
-slug: "bem-vindo-a-derry-preldio-de-it-tem-novas-cenas-divulgadas-pela-hbo"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/r1DPpP99fSc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/gJsFojONkH6oXWhTuLXeKpkXXOY=/480x360/smart/extras/conteudos/bem-vindo-a-derry_aeeUiw3.png"
-tags: ["Bem-Vindo a Derry", "It: A Coisa", "prelúdio", "HBO", "Pennywise", "Stephen King", "série de terror", "estreia 2026"]
-keywords: "Bem-Vindo a Derry, It: A Coisa, prelúdio, HBO, Pennywise, Stephen King, série de terror, estreia 2026"
-data: "2025-04-07T04:13:21.396Z"
+title: Bem-vindo a Derry | Prelúdio de It tem novas cenas divulgadas pela HBO
+slug: bem-vindo-a-derry-preldio-de-it-tem-novas-cenas-divulgadas-pela-hbo
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/r1DPpP99fSc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/gJsFojONkH6oXWhTuLXeKpkXXOY=/480x360/smart/extras/conteudos/bem-vindo-a-derry_aeeUiw3.png
+tags:
+  - Bem-Vindo a Derry
+  - 'It: A Coisa'
+  - prelúdio
+  - HBO
+  - Pennywise
+  - Stephen King
+  - série de terror
+  - estreia 2026
+keywords: >-
+  Bem-Vindo a Derry, It: A Coisa, prelúdio, HBO, Pennywise, Stephen King, série
+  de terror, estreia 2026
+data: '2025-04-07T04:13:21.396Z'
+author: Ana Luiza
 ---
 
 A expectativa em torno da série Bem-Vindo a Derry, o aguardado prelúdio de It: A Coisa, continua crescendo. Recentemente, a HBO incluiu novas cenas da série em um vídeo promocional que apresenta os próximos lançamentos do canal. Neste material, a sinistra voz de Pennywise pode ser ouvida, aumentando a antecipação dos fãs.

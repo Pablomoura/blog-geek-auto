@@ -1,13 +1,26 @@
 ---
-title: "Predador | Filme misterioso da franquia é antologia de animação (Exclusivo)"
-slug: "predador-filme-misterioso-da-franquia-antologia-de-animao-exclusivo"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Sx0L0FtfU_hTBMbHJvK6Hu2z0Bg=/987x0/smart/uploads/conteudo/fotos/predador-antologia.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/YnPYt-9CBrnvD4fHoTniNlLEz-I=/480x360/smart/extras/conteudos/predador-animacao.jpg"
-tags: ["Predador", "antologia animada", "filmes 2025", "streaming", "Dan Trachtenberg", "Elle Fanning", "franquia Predador", "Predador: Badlands"]
-keywords: "Predador, antologia animada, filmes 2025, streaming, Dan Trachtenberg, Elle Fanning, franquia Predador, Predador: Badlands"
-data: "2025-04-03T22:11:11.675Z"
+title: Predador | Filme misterioso da franquia é antologia de animação (Exclusivo)
+slug: predador-filme-misterioso-da-franquia-antologia-de-animao-exclusivo
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Sx0L0FtfU_hTBMbHJvK6Hu2z0Bg=/987x0/smart/uploads/conteudo/fotos/predador-antologia.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/YnPYt-9CBrnvD4fHoTniNlLEz-I=/480x360/smart/extras/conteudos/predador-animacao.jpg
+tags:
+  - Predador
+  - antologia animada
+  - filmes 2025
+  - streaming
+  - Dan Trachtenberg
+  - Elle Fanning
+  - franquia Predador
+  - 'Predador: Badlands'
+keywords: >-
+  Predador, antologia animada, filmes 2025, streaming, Dan Trachtenberg, Elle
+  Fanning, franquia Predador, Predador: Badlands
+data: '2025-04-03T22:11:11.675Z'
+author: Ana Luiza
 ---
 
 No último ano, foi revelado que 2025 marcará o lançamento de dois novos filmes da série Predador. Um deles, já conhecido, é Predador: Badlands, dirigido por Dan Trachtenberg, responsável por O Predador: A Caçada. O outro filme, até então envolto em mistério, começou a ser desvendado em outubro último, quando o Gizmodo divulgou um 'rumor' sobre sua natureza. Segundo o site, o filme seria uma antologia animada, contendo três histórias distintas, onde o Predador enfrenta grandes guerreiros humanos em diferentes épocas e locais, incluindo um samurai e um pirata. 

@@ -1,13 +1,25 @@
 ---
-title: "Quarteto Fantástico | Diretor confirma teoria sobre status do filme no MCU"
-slug: "quarteto-fantstico-diretor-confirma-teoria-sobre-status-do-filme-no-mcu"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/6y106tPooQg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/UR3zITaB_p80wCmd_7IzPqkDDmk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T113556.699.png"
-tags: ["Quarteto Fantástico", "MCU", "Matt Shakman", "novo universo", "Pedro Pascal", "Galactus", "estreia 2025", "Fase 6 MCU"]
-keywords: "Quarteto Fantástico, MCU, Matt Shakman, novo universo, Pedro Pascal, Galactus, estreia 2025, Fase 6 MCU"
-data: "2025-04-04T15:12:14.202Z"
+title: Quarteto Fantástico | Diretor confirma teoria sobre status do filme no MCU
+slug: quarteto-fantstico-diretor-confirma-teoria-sobre-status-do-filme-no-mcu
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/6y106tPooQg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/UR3zITaB_p80wCmd_7IzPqkDDmk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T113556.699.png
+tags:
+  - Quarteto Fantástico
+  - MCU
+  - Matt Shakman
+  - novo universo
+  - Pedro Pascal
+  - Galactus
+  - estreia 2025
+  - Fase 6 MCU
+keywords: >-
+  Quarteto Fantástico, MCU, Matt Shakman, novo universo, Pedro Pascal, Galactus,
+  estreia 2025, Fase 6 MCU
+data: '2025-04-04T15:12:14.202Z'
+author: Luana Souza
 ---
 
 O aguardado filme 'Quarteto Fantástico: Primeiros Passos', que marca o retorno da família de heróis ao cinema sob a égide do MCU, teve uma importante teoria confirmada por Matt Shakman, seu diretor. 'Nós somos nosso próprio universo, o que é ótimo e libertador', declarou Shakman, esclarecendo que os personagens originam-se de outra dimensão. 'Então realmente não há outros super-heróis. Não há easter eggs... eventualmente, esse mundo se encontrará com outros mundos mas, por ora, é o nosso próprio cantinho', explicou ele em entrevista à revista Empire.

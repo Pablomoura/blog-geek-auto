@@ -17,6 +17,7 @@ tags:
   - bastidores
   - netflix
   - série tv
+author: Ana Luiza
 ---
 
 A aguardada conclusão de Stranger Things está a caminho, com estreia programada para 2025 na Netflix, embora a data exata ainda não tenha sido anunciada. Enquanto aguardam, os fãs estão atentos às novidades compartilhadas pelos atores, especialmente David Harbour, que recentemente falou sobre a intensidade das filmagens da quinta e última temporada.

@@ -17,6 +17,7 @@ tags:
   - x-men
   - marvel
   - elenco estelar
+author: Ana Luiza
 ---
 
 A revelação do elenco de Vingadores: Doomsday trouxe uma surpresa emocionante: o retorno dos X-Men, incluindo Alan Cumming reprisando seu papel como Noturno, marcante desde sua aparição em X-Men 2.

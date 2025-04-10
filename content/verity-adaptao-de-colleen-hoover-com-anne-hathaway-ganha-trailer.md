@@ -1,13 +1,26 @@
 ---
-title: "Verity | Adaptação de Colleen Hoover com Anne Hathaway ganha trailer"
-slug: "verity-adaptao-de-colleen-hoover-com-anne-hathaway-ganha-trailer"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/pzKAfY1M68PXJ8vt4vyGDC0vEWE=/987x0/smart/uploads/conteudo/fotos/anne-verity-capa.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ik55fMqcwirbYHCCoj7MkUhf8T4=/480x360/smart/extras/conteudos/anne-verity.png"
-tags: ["Colleen Hoover", "Anne Hathaway", "adaptação cinematográfica", "CinemaCon 2025", "Dakota Johnson", "Josh Hartnett", "thriller psicológico", "Amazon MGM Studios"]
-keywords: "Colleen Hoover, Anne Hathaway, adaptação cinematográfica, CinemaCon 2025, Dakota Johnson, Josh Hartnett, thriller psicológico, Amazon MGM Studios"
-data: "2025-04-03T04:13:26.010Z"
+title: Verity | Adaptação de Colleen Hoover com Anne Hathaway ganha trailer
+slug: verity-adaptao-de-colleen-hoover-com-anne-hathaway-ganha-trailer
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/pzKAfY1M68PXJ8vt4vyGDC0vEWE=/987x0/smart/uploads/conteudo/fotos/anne-verity-capa.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ik55fMqcwirbYHCCoj7MkUhf8T4=/480x360/smart/extras/conteudos/anne-verity.png
+tags:
+  - Colleen Hoover
+  - Anne Hathaway
+  - adaptação cinematográfica
+  - CinemaCon 2025
+  - Dakota Johnson
+  - Josh Hartnett
+  - thriller psicológico
+  - Amazon MGM Studios
+keywords: >-
+  Colleen Hoover, Anne Hathaway, adaptação cinematográfica, CinemaCon 2025,
+  Dakota Johnson, Josh Hartnett, thriller psicológico, Amazon MGM Studios
+data: '2025-04-03T04:13:26.010Z'
+author: Pablo Moura
 ---
 
 A aguardada adaptação cinematográfica de 'Verity', baseada na obra de Colleen Hoover, foi destaque na CinemaCon 2025, onde foram exibidas as primeiras cenas do filme que conta com Anne Hathaway no papel principal. No trailer revelado, Anne Hathaway e Josh Hartnett são vistos em uma festa, onde ele a aconselha a não beber mais, mostrando interesse em convidá-la para sair. 

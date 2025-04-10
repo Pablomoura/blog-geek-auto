@@ -1,13 +1,26 @@
 ---
-title: "Matador de Aluguel 2 será dirigido por Guy Ritchie"
-slug: "matador-de-aluguel-2-ser-dirigido-por-guy-ritchie"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/xCNsB7jB5DaDHjnyzhuDfURbG68=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T135144.780.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ZShdknf0TdnrfnPPCW_QfwwPS-E=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T135127.615.png"
-tags: ["Guy Ritchie", "Matador de Aluguel 2", "sequência de filme", "filmes de ação", "Jake Gyllenhaal", "streaming", "Amazon Prime Video", "cinema britânico"]
-keywords: "Guy Ritchie, Matador de Aluguel 2, sequência de filme, filmes de ação, Jake Gyllenhaal, streaming, Amazon Prime Video, cinema britânico"
-data: "2025-04-04T17:09:12.652Z"
+title: Matador de Aluguel 2 será dirigido por Guy Ritchie
+slug: matador-de-aluguel-2-ser-dirigido-por-guy-ritchie
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/xCNsB7jB5DaDHjnyzhuDfURbG68=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T135144.780.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ZShdknf0TdnrfnPPCW_QfwwPS-E=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T135127.615.png
+tags:
+  - Guy Ritchie
+  - Matador de Aluguel 2
+  - sequência de filme
+  - filmes de ação
+  - Jake Gyllenhaal
+  - streaming
+  - Amazon Prime Video
+  - cinema britânico
+keywords: >-
+  Guy Ritchie, Matador de Aluguel 2, sequência de filme, filmes de ação, Jake
+  Gyllenhaal, streaming, Amazon Prime Video, cinema britânico
+data: '2025-04-04T17:09:12.652Z'
+author: Pablo Moura
 ---
 
 A franquia 'Matador de Aluguel' anunciou uma mudança significativa em sua direção. Guy Ritchie, conhecido por seu trabalho em filmes de ação, assumirá a direção da sequência, substituindo Doug Liman. A informação foi confirmada pelo portal World of Reel.

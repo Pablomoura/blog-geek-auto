@@ -1,14 +1,29 @@
 ---
-title: "Desvendando a Relação entre Himmel e Frieren: Pistas no Anime e Mangá"
-slug: "desvendando-a-relacao-entre-himmel-e-frieren-pistas-no-anime-e-manga"
-resumo: "Uma análise profunda sobre a complexa relação entre Himmel e Frieren, explorando as sutis pistas deixadas nos episódios do anime e nas páginas do mangá. Este artigo busca entender se Himmel realmente compreendia Frieren, destacando momentos chave e interpretações."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "anime, mangá, relacionamento, Frieren, Himmel, interpretação, personagem, narrativa"
-tags: ["anime", "mangá", "relacionamento", "Frieren", "Himmel", "interpretação", "personagem", "narrativa"]
-data: "2025-04-03T21:41:09.602Z"
+title: 'Desvendando a Relação entre Himmel e Frieren: Pistas no Anime e Mangá'
+slug: desvendando-a-relacao-entre-himmel-e-frieren-pistas-no-anime-e-manga
+resumo: >-
+  Uma análise profunda sobre a complexa relação entre Himmel e Frieren,
+  explorando as sutis pistas deixadas nos episódios do anime e nas páginas do
+  mangá. Este artigo busca entender se Himmel realmente compreendia Frieren,
+  destacando momentos chave e interpretações.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  anime, mangá, relacionamento, Frieren, Himmel, interpretação, personagem,
+  narrativa
+tags:
+  - anime
+  - mangá
+  - relacionamento
+  - Frieren
+  - Himmel
+  - interpretação
+  - personagem
+  - narrativa
+data: '2025-04-03T21:41:09.602Z'
+author: Luana Souza
 ---
 
 ## Introdução

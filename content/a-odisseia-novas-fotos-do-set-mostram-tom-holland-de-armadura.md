@@ -17,6 +17,7 @@ tags:
   - armadura
   - telêmaco
   - fotos do set
+author: Ana Luiza
 ---
 
 Recentes imagens do set de 'A Odisseia', dirigido por Christopher Nolan, oferecem uma visão empolgante de Tom Holland vestido com armadura, alimentando rumores de que ele interpretará Telêmaco, filho de Ulisses. As fotos revelam detalhes do visual que Holland adotará na narrativa épica.

@@ -1,13 +1,26 @@
 ---
-title: "Thunderbolts* ganha balde de pipoca em forma de limusine"
-slug: "thunderbolts-ganha-balde-de-pipoca-em-forma-de-limusine"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/XRFxBL658Q14Ino6rv2lZ1ntMfI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T154339.694.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/UyA1St7_RE4ofK7QzErWpAkwngM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T154404.722.png"
-tags: ["Thunderbolts", "MCU", "brindes de cinema", "AMC", "anti-heróis", "Marvel", "filmes 2025", "Doutor Destino"]
-keywords: "Thunderbolts, MCU, brindes de cinema, AMC, anti-heróis, Marvel, filmes 2025, Doutor Destino"
-data: "2025-04-03T19:08:51.399Z"
+title: Thunderbolts* ganha balde de pipoca em forma de limusine
+slug: thunderbolts-ganha-balde-de-pipoca-em-forma-de-limusine
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/XRFxBL658Q14Ino6rv2lZ1ntMfI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T154339.694.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/UyA1St7_RE4ofK7QzErWpAkwngM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T154404.722.png
+tags:
+  - Thunderbolts
+  - MCU
+  - brindes de cinema
+  - AMC
+  - anti-heróis
+  - Marvel
+  - filmes 2025
+  - Doutor Destino
+keywords: >-
+  Thunderbolts, MCU, brindes de cinema, AMC, anti-heróis, Marvel, filmes 2025,
+  Doutor Destino
+data: '2025-04-03T19:08:51.399Z'
+author: Pablo Moura
 ---
 
 A criatividade nos brindes de cinema atinge novos patamares com a chegada de Thunderbolts*, que contará com um balde de pipoca especial em formato de limusine, oferecido exclusivamente pela rede AMC nos Estados Unidos. 

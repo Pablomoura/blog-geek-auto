@@ -17,6 +17,7 @@ tags:
   - incidente
   - terceira temporada
   - entertainment
+author: Pablo Moura
 ---
 
 Durante as filmagens da terceira temporada de Reacher, o protagonista Alan Ritchson sofreu um incidente grave, sendo nocauteado em uma das cenas. Segundo o ator, ele foi arremessado com tanta força que passou 'do aqui para o sétimo círculo do inferno', como descreveu em entrevista à Entertainment Weekly. Ritchson acordou apenas um dia e meio depois, preocupado em tranquilizar seus filhos, que estavam presentes no set, sobre seu estado de saúde.

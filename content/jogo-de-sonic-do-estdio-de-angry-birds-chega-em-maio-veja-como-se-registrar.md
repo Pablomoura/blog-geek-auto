@@ -1,13 +1,28 @@
 ---
-title: "Novo jogo de Sonic desenvolvido pelo estúdio de Angry Birds será lançado em maio; saiba como se registrar"
-slug: "jogo-de-sonic-do-estdio-de-angry-birds-chega-em-maio-veja-como-se-registrar"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/K9LzAspJCMCgWnlvvQ-y-5fYig4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T125213.426.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/K9LzAspJCMCgWnlvvQ-y-5fYig4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T125213.426.png"
-tags: ["Sonic", "Rovio Entertainment", "Angry Birds", "pré-registro", "jogos para celular", "iOS", "Android", "lançamento de jogos"]
-keywords: "Sonic, Rovio Entertainment, Angry Birds, pré-registro, jogos para celular, iOS, Android, lançamento de jogos"
-data: "2025-04-08T16:14:13.215Z"
+title: >-
+  Novo jogo de Sonic desenvolvido pelo estúdio de Angry Birds será lançado em
+  maio; saiba como se registrar
+slug: jogo-de-sonic-do-estdio-de-angry-birds-chega-em-maio-veja-como-se-registrar
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/K9LzAspJCMCgWnlvvQ-y-5fYig4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T125213.426.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/K9LzAspJCMCgWnlvvQ-y-5fYig4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T125213.426.png
+tags:
+  - Sonic
+  - Rovio Entertainment
+  - Angry Birds
+  - pré-registro
+  - jogos para celular
+  - iOS
+  - Android
+  - lançamento de jogos
+keywords: >-
+  Sonic, Rovio Entertainment, Angry Birds, pré-registro, jogos para celular,
+  iOS, Android, lançamento de jogos
+data: '2025-04-08T16:14:13.215Z'
+author: Ana Luiza
 ---
 
 A espera dos fãs de Sonic por novas aventuras está prestes a terminar com o lançamento de um novo jogo em maio. Desenvolvido pela Rovio Entertainment, conhecida pelo icônico Angry Birds, o jogo promete trazer uma experiência vibrante e dinâmica com o amado ouriço azul. Os usuários de dispositivos iOS e Android já podem realizar o pré-registro para serem os primeiros a jogar assim que for lançado.

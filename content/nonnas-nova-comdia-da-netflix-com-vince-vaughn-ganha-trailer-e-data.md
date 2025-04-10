@@ -1,13 +1,27 @@
 ---
-title: "Nonnas | Nova comédia da Netflix com Vince Vaughn ganha trailer e data de lançamento"
-slug: "nonnas-nova-comdia-da-netflix-com-vince-vaughn-ganha-trailer-e-data"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/TgJK5-P8g5Q?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/_Xi7iRSx_svJXzY-WT1WiSaOi7E=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T133604.491.png"
-tags: ["Netflix", "comédia", "Vince Vaughn", "Nonnas", "trailer", "estreia em maio", "restaurante italiano", "elenco estelar"]
-keywords: "Netflix, comédia, Vince Vaughn, Nonnas, trailer, estreia em maio, restaurante italiano, elenco estelar"
-data: "2025-04-09T17:11:50.236Z"
+title: >-
+  Nonnas | Nova comédia da Netflix com Vince Vaughn ganha trailer e data de
+  lançamento
+slug: nonnas-nova-comdia-da-netflix-com-vince-vaughn-ganha-trailer-e-data
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/TgJK5-P8g5Q?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/_Xi7iRSx_svJXzY-WT1WiSaOi7E=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T133604.491.png
+tags:
+  - Netflix
+  - comédia
+  - Vince Vaughn
+  - Nonnas
+  - trailer
+  - estreia em maio
+  - restaurante italiano
+  - elenco estelar
+keywords: >-
+  Netflix, comédia, Vince Vaughn, Nonnas, trailer, estreia em maio, restaurante
+  italiano, elenco estelar
+data: '2025-04-09T17:11:50.236Z'
+author: Pablo Moura
 ---
 
 A nova comédia da Netflix, intitulada 'Nonnas', estrelada por Vince Vaughn, acaba de lançar seu trailer completo e anunciar a data de estreia. O filme, que promete arrancar risadas e emoções, tem previsão de chegada ao catálogo em 9 de maio.

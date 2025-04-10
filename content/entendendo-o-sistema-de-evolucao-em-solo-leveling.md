@@ -1,14 +1,28 @@
 ---
-title: "Entendendo o Sistema de Evolução em Solo Leveling"
-slug: "entendendo-o-sistema-de-evolucao-em-solo-leveling"
-resumo: "Explore como o sistema de evolução funciona no popular manhwa Solo Leveling, detalhando as mecânicas únicas que definem os poderes e o crescimento dos personagens ao longo da história."
-categoria: "Manhwa e Manga"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, evolucao de personagem, manhwa, sistema de RPG, Sung Jin-Woo, desenvolvimento de personagem, Pedras de Sangue, caçadores"
-tags: ["Solo Leveling", "evolucao de personagem", "manhwa", "sistema de RPG", "Sung Jin-Woo", "desenvolvimento de personagem", "Pedras de Sangue", "caçadores"]
-data: "2025-04-01T01:32:54.416Z"
+title: Entendendo o Sistema de Evolução em Solo Leveling
+slug: entendendo-o-sistema-de-evolucao-em-solo-leveling
+resumo: >-
+  Explore como o sistema de evolução funciona no popular manhwa Solo Leveling,
+  detalhando as mecânicas únicas que definem os poderes e o crescimento dos
+  personagens ao longo da história.
+categoria: Manhwa e Manga
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, evolucao de personagem, manhwa, sistema de RPG, Sung Jin-Woo,
+  desenvolvimento de personagem, Pedras de Sangue, caçadores
+tags:
+  - Solo Leveling
+  - evolucao de personagem
+  - manhwa
+  - sistema de RPG
+  - Sung Jin-Woo
+  - desenvolvimento de personagem
+  - Pedras de Sangue
+  - caçadores
+data: '2025-04-01T01:32:54.416Z'
+author: Ana Luiza
 ---
 
 ## Introdução ao Sistema de Evolução de Solo Leveling

@@ -15,6 +15,7 @@ tags:
   - hbo
   - terceira temporada
   - narrativa
+author: Pablo Moura
 ---
 
 Manuela Dias, conhecida por seu trabalho no remake da novela 'Vale Tudo', expressou descontentamento com a terceira temporada de 'The White Lotus'. Em suas redes sociais, a escritora criticou a narrativa da série. "Estou achando a terceira temporada de The White Lotus tão amarrada. Nada evolui. Tão chato. Nem parece o mesmo roteirista", postou Dias.

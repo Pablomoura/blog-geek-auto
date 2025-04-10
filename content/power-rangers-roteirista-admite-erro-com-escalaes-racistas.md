@@ -1,13 +1,26 @@
 ---
-title: "Power Rangers | Roteirista admite erros em escalações consideradas racistas"
-slug: "power-rangers-roteirista-admite-erro-com-escalaes-racistas"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/j_uERByo2I61-Z1fCXIVyDAPY8s=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T210627.806.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/PfP2lMlz_IWNzEr8-TbFcbVaT40=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T210627.806.png"
-tags: ["Power Rangers", "racismo no elenco", "Mighty Morphin", "entrevista", "Hollywood Dreams", "erros de casting", "diversidade", "crítica cultural"]
-keywords: "Power Rangers, racismo no elenco, Mighty Morphin, entrevista, Hollywood Dreams, erros de casting, diversidade, crítica cultural"
-data: "2025-04-09T00:43:16.544Z"
+title: Power Rangers | Roteirista admite erros em escalações consideradas racistas
+slug: power-rangers-roteirista-admite-erro-com-escalaes-racistas
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/j_uERByo2I61-Z1fCXIVyDAPY8s=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T210627.806.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/PfP2lMlz_IWNzEr8-TbFcbVaT40=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T210627.806.png
+tags:
+  - Power Rangers
+  - racismo no elenco
+  - Mighty Morphin
+  - entrevista
+  - Hollywood Dreams
+  - erros de casting
+  - diversidade
+  - crítica cultural
+keywords: >-
+  Power Rangers, racismo no elenco, Mighty Morphin, entrevista, Hollywood
+  Dreams, erros de casting, diversidade, crítica cultural
+data: '2025-04-09T00:43:16.544Z'
+author: Ana Luiza
 ---
 
 Em uma entrevista para a série documental 'Hollywood Dreams' do Investigation Discovery, Tony Oliver, roteirista-chefe de 'Mighty Morphin Power Rangers', abordou as críticas a respeito das escolhas de elenco para os personagens Walter Emanuel Jones e Thuy Trang, que interpretaram os Rangers Preto e Amarelo, respectivamente. Oliver admitiu que a correspondência das cores dos personagens com suas etnias passou inicialmente despercebida pela equipe de produção.

@@ -1,13 +1,25 @@
 ---
-title: "The Duskbloods terá multiplayer de até 8 jogadores, entenda o funcionamento"
-slug: "the-duskbloods-ter-multiplayer-de-at-8-jogadores-entenda-o-funcionamento"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/niKHDEKQ7xA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/7ZnSQM2qGtz49Py-5sYgeXiQvIQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-04_103257.png"
-tags: ["Hidetaka Miyazaki", "The Duskbloods", "multiplayer", "PvP", "PvE", "Nintendo Switch 2", "FromSoftware", "último jogador em pé"]
-keywords: "Hidetaka Miyazaki, The Duskbloods, multiplayer, PvP, PvE, Nintendo Switch 2, FromSoftware, último jogador em pé"
-data: "2025-04-04T14:11:49.879Z"
+title: 'The Duskbloods terá multiplayer de até 8 jogadores, entenda o funcionamento'
+slug: the-duskbloods-ter-multiplayer-de-at-8-jogadores-entenda-o-funcionamento
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/niKHDEKQ7xA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/7ZnSQM2qGtz49Py-5sYgeXiQvIQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-04_103257.png
+tags:
+  - Hidetaka Miyazaki
+  - The Duskbloods
+  - multiplayer
+  - PvP
+  - PvE
+  - Nintendo Switch 2
+  - FromSoftware
+  - último jogador em pé
+keywords: >-
+  Hidetaka Miyazaki, The Duskbloods, multiplayer, PvP, PvE, Nintendo Switch 2,
+  FromSoftware, último jogador em pé
+data: '2025-04-04T14:11:49.879Z'
+author: Ana Luiza
 ---
 
 Em uma revelação empolgante para os fãs de games, Hidetaka Miyazaki, renomado game designer, concedeu uma entrevista ao blog oficial da Nintendo para discutir detalhes sobre seu mais novo projeto, The Duskbloods. Durante a conversa, Miyazaki destacou que o jogo será dedicado ao multiplayer, suportando até oito jogadores simultaneamente. O jogo apresentará uma combinação de modos PvP (Player versus Player) e PvE (Player versus Environment), proporcionando uma experiência dinâmica e variada.

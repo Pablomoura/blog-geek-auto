@@ -1,13 +1,26 @@
 ---
-title: "Missão: Impossível - O Acerto Final apresenta emocionante teaser trailer"
-slug: "misso-impossvel-o-acerto-final-ganha-teaser-trailer-confira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/4nIP0OwZqer0yJyi4-2PIDRgQe4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T212639.213.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/FR-km51Nkd6-xwjbRSjwxXbfEQA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T212639.213.png"
-tags: ["Missão Impossível", "Tom Cruise", "teaser trailer", "Christopher McQuarrie", "filme de ação", "estreia 2025", "Festival de Cannes", "sequência épica"]
-keywords: "Missão Impossível, Tom Cruise, teaser trailer, Christopher McQuarrie, filme de ação, estreia 2025, Festival de Cannes, sequência épica"
-data: "2025-04-05T01:07:50.230Z"
+title: 'Missão: Impossível - O Acerto Final apresenta emocionante teaser trailer'
+slug: misso-impossvel-o-acerto-final-ganha-teaser-trailer-confira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/4nIP0OwZqer0yJyi4-2PIDRgQe4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T212639.213.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/FR-km51Nkd6-xwjbRSjwxXbfEQA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T212639.213.png
+tags:
+  - Missão Impossível
+  - Tom Cruise
+  - teaser trailer
+  - Christopher McQuarrie
+  - filme de ação
+  - estreia 2025
+  - Festival de Cannes
+  - sequência épica
+keywords: >-
+  Missão Impossível, Tom Cruise, teaser trailer, Christopher McQuarrie, filme de
+  ação, estreia 2025, Festival de Cannes, sequência épica
+data: '2025-04-05T01:07:50.230Z'
+author: Luana Souza
 ---
 
 A franquia Missão Impossível divulgou nesta sexta-feira (04) um teaser trailer de seu mais novo filme, Missão: Impossível - O Acerto Final. No vídeo, Tom Cruise aparece realizando uma perigosa cena de ação pendurado em um avião. O diretor Christopher McQuarrie, que retorna para dirigir o filme, expressou seu entusiasmo e medo pelas cenas arriscadas, indicando ainda mais desafios para o próximo filme da série.

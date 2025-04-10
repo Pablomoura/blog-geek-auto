@@ -1,13 +1,25 @@
 ---
-title: "Fatal Fury | Após Cristiano Ronaldo, jogo terá DJ Salvatore Ganacci"
-slug: "fatal-fury-aps-cristiano-ronaldo-jogo-ter-dj-salvatore-ganacci"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/9XuVrXSRcOw?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/dt9DZSqLAq5NsUHke_tocL226Uc=/480x360/smart/extras/conteudos/FATAL_FURY__CotW__Salvatore_GanacciAnnouncement_Trailer_1-12_screenshot.png"
-tags: ["Fatal Fury", "Cristiano Ronaldo", "DJ Salvatore Ganacci", "SNK", "jogo de luta", "REV System", "Episodes of South Town", "lançamento 2025"]
-keywords: "Fatal Fury, Cristiano Ronaldo, DJ Salvatore Ganacci, SNK, jogo de luta, REV System, Episodes of South Town, lançamento 2025"
-data: "2025-04-04T02:21:23.355Z"
+title: 'Fatal Fury | Após Cristiano Ronaldo, jogo terá DJ Salvatore Ganacci'
+slug: fatal-fury-aps-cristiano-ronaldo-jogo-ter-dj-salvatore-ganacci
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/9XuVrXSRcOw?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/dt9DZSqLAq5NsUHke_tocL226Uc=/480x360/smart/extras/conteudos/FATAL_FURY__CotW__Salvatore_GanacciAnnouncement_Trailer_1-12_screenshot.png
+tags:
+  - Fatal Fury
+  - Cristiano Ronaldo
+  - DJ Salvatore Ganacci
+  - SNK
+  - jogo de luta
+  - REV System
+  - Episodes of South Town
+  - lançamento 2025
+keywords: >-
+  Fatal Fury, Cristiano Ronaldo, DJ Salvatore Ganacci, SNK, jogo de luta, REV
+  System, Episodes of South Town, lançamento 2025
+data: '2025-04-04T02:21:23.355Z'
+author: Luana Souza
 ---
 
 A SNK continua surpreendendo com as escolhas para o elenco de seu novo jogo, Fatal Fury: City of the Wolves. Após a inclusão do famoso jogador de futebol Cristiano Ronaldo, a empresa agora anuncia a adição do DJ Salvatore Ganacci como personagem jogável. Em um trailer recém-lançado, pode-se ver o DJ na sua infância, expressando seu desejo de participar de Fatal Fury. A sequência mostra Ganacci adulto, se preparando com entusiasmo para o combate. O trailer também dá uma prévia das habilidades do personagem, que inclui uma cena dele enfrentando Terry Bogard.

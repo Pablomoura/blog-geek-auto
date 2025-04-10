@@ -15,6 +15,7 @@ tags:
   - patrick stewart
   - marvel
   - elenco de filme
+author: Luana Souza
 ---
 
 Durante uma transmissão ao vivo destinada a revelar o elenco do novo filme 'Vingadores: Doomsday', a Marvel confirmou o retorno de Kelsey Grammer, que possivelmente reprisará seu papel como Fera. Minutos após essa revelação, foi também confirmado, com direito a trilha sonora especial, que Patrick Stewart voltará a interpretar o Professor Xavier, famoso nos filmes clássicos de X-Men.

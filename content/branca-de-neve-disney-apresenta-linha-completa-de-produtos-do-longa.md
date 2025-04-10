@@ -16,6 +16,7 @@ tags:
   - live-action
   - colecionáveis
   - vestuário
+author: Pablo Moura
 ---
 
 Com a estreia iminente do live-action de Branca de Neve nos cinemas, a Disney desvendou uma linha completa de produtos temáticos, abrangendo desde acessórios até itens colecionáveis e vestuário. Esses produtos estão disponíveis tanto em lojas físicas quanto online, em varejistas como Havaianas, Go Case, Renner, Riachuelo, Eu Amo Anime e Zona Criativa.

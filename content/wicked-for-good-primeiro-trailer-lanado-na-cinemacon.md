@@ -1,13 +1,28 @@
 ---
-title: "Wicked: For Good | CinemaCon 2025 Revela Primeiro Trailer do Encerramento da Saga"
-slug: "wicked-for-good-primeiro-trailer-lanado-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/hqNQS0aYGV9BaQPUwNClT2ASdpo=/480x360/smart/extras/conteudos/01_k6Ckl1Q.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hqNQS0aYGV9BaQPUwNClT2ASdpo=/480x360/smart/extras/conteudos/01_k6Ckl1Q.jpg"
-tags: ["CinemaCon 2025", "Wicked: For Good", "trailer de filme", "Elphaba", "Glinda", "Mágico de Oz", "saga Wicked", "Ariana Grande"]
-keywords: "CinemaCon 2025, Wicked: For Good, trailer de filme, Elphaba, Glinda, Mágico de Oz, saga Wicked, Ariana Grande"
-data: "2025-04-03T00:42:16.401Z"
+title: >-
+  Wicked: For Good | CinemaCon 2025 Revela Primeiro Trailer do Encerramento da
+  Saga
+slug: wicked-for-good-primeiro-trailer-lanado-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/hqNQS0aYGV9BaQPUwNClT2ASdpo=/480x360/smart/extras/conteudos/01_k6Ckl1Q.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hqNQS0aYGV9BaQPUwNClT2ASdpo=/480x360/smart/extras/conteudos/01_k6Ckl1Q.jpg
+tags:
+  - CinemaCon 2025
+  - 'Wicked: For Good'
+  - trailer de filme
+  - Elphaba
+  - Glinda
+  - Mágico de Oz
+  - saga Wicked
+  - Ariana Grande
+keywords: >-
+  CinemaCon 2025, Wicked: For Good, trailer de filme, Elphaba, Glinda, Mágico de
+  Oz, saga Wicked, Ariana Grande
+data: '2025-04-03T00:42:16.401Z'
+author: Luana Souza
 ---
 
 Durante a CinemaCon 2025, o aguardado trailer de 'Wicked: For Good', a conclusão da renomada saga Wicked, foi revelado. 

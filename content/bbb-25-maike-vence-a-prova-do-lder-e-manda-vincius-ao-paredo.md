@@ -15,6 +15,7 @@ tags:
   - vinícius
   - paredão
   - reality show
+author: Ana Luiza
 ---
 
 O Big Brother Brasil 25 tem um novo líder! Na disputa pela liderança nesta quinta-feira, Maike se destacou entre os 12 participantes e garantiu sua segurança na casa por mais uma semana.

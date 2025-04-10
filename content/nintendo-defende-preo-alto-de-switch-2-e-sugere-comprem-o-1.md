@@ -1,13 +1,29 @@
 ---
-title: "Nintendo defende preço do Switch 2 e sugere alternativa mais acessível com o modelo anterior"
-slug: "nintendo-defende-preo-alto-de-switch-2-e-sugere-comprem-o-1"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/nNdwzcHgfA6mrB0WLSftmwuAW-k=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T135437.396.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/q4LYii4BP9S5eTPCreYllV_WkKs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T135425.484.png"
-tags: ["Nintendo Switch 2", "preço do console", "alternativa acessível", "Doug Bowser", "inovações tecnológicas", "lançamento de jogos", "capacidade gráfica 4K", "recursos avançados"]
-keywords: "Nintendo Switch 2, preço do console, alternativa acessível, Doug Bowser, inovações tecnológicas, lançamento de jogos, capacidade gráfica 4K, recursos avançados"
-data: "2025-04-08T17:09:28.431Z"
+title: >-
+  Nintendo defende preço do Switch 2 e sugere alternativa mais acessível com o
+  modelo anterior
+slug: nintendo-defende-preo-alto-de-switch-2-e-sugere-comprem-o-1
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/nNdwzcHgfA6mrB0WLSftmwuAW-k=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T135437.396.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/q4LYii4BP9S5eTPCreYllV_WkKs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T135425.484.png
+tags:
+  - Nintendo Switch 2
+  - preço do console
+  - alternativa acessível
+  - Doug Bowser
+  - inovações tecnológicas
+  - lançamento de jogos
+  - capacidade gráfica 4K
+  - recursos avançados
+keywords: >-
+  Nintendo Switch 2, preço do console, alternativa acessível, Doug Bowser,
+  inovações tecnológicas, lançamento de jogos, capacidade gráfica 4K, recursos
+  avançados
+data: '2025-04-08T17:09:28.431Z'
+author: Pablo Moura
 ---
 
 Ainda sem um preço definido no ocidente, o Nintendo Switch 2 tem gerado muitas especulações, especialmente após a empresa postergar a pré-venda em diversos países. A medida foi tomada para recalibrar o valor do produto em resposta às tarifas recentemente impostas pelo presidente Donald Trump. Em meio a essas incertezas, Doug Bowser, presidente da Nintendo nos Estados Unidos, defendeu o preço que será praticado. Segundo ele, considerando os recursos avançados do console, o valor estipulado é proporcional à qualidade e à experiência oferecida ao usuário.

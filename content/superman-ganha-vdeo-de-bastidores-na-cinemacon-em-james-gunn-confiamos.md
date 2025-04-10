@@ -15,6 +15,7 @@ tags:
   - james gunn
   - bastidores
   - filme de super-herói
+author: Pablo Moura
 ---
 
 Durante a CinemaCon, foi apresentado um vídeo exclusivo dos bastidores do novo filme do Superman, trazendo empolgação aos fãs presentes. O portal Omelete, presente no evento, compartilhou detalhes vibrantes da prévia. James Gunn, inicialmente relutante em dirigir o filme, foi convencido pelo potencial da história que desenvolveu. Rachel Brosnahan, intérprete de Lois Lane, expressou confiança no diretor com um entusiasmado 'Nós confiamos em James Gunn!'.

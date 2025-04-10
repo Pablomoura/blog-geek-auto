@@ -17,6 +17,7 @@ tags:
   - elenco
   - dc comics
   - cinema
+author: Ana Luiza
 ---
 
 A nova produção cinematográfica do Superman está prevista para estrear em julho nos cinemas. Rumores recentes indicam que um importante anúncio de elenco está por vir, relacionado ao personagem Jor-El, pai de Kal-El, conhecido na Terra como Clark Kent.

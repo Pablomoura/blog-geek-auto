@@ -1,13 +1,26 @@
 ---
-title: "Demolidor: Renascido | Revelado Novo Pôster com o Vilão Muse"
-slug: "demolidor-renascido-vilo-muse-destaque-em-novo-pster-com-spoiler"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/AdzfmPjB1BAoghZ0MSrqWqgFaag=/987x0/smart/uploads/conteudo/fotos/demolidorrenascido_ViqUuc7.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/I_lW4Clw5MAEEl04vu2jj9OnWx8=/480x360/smart/extras/conteudos/demolidorrenascido_lRlrXKd.jpg"
-tags: ["Demolidor: Renascido", "Disney+", "Muse", "Charlie Cox", "Vincent D'Onofrio", "série de super-heróis", "streaming", "Marvel"]
-keywords: "Demolidor: Renascido, Disney+, Muse, Charlie Cox, Vincent D'Onofrio, série de super-heróis, streaming, Marvel"
-data: "2025-04-05T20:09:33.591Z"
+title: 'Demolidor: Renascido | Revelado Novo Pôster com o Vilão Muse'
+slug: demolidor-renascido-vilo-muse-destaque-em-novo-pster-com-spoiler
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/AdzfmPjB1BAoghZ0MSrqWqgFaag=/987x0/smart/uploads/conteudo/fotos/demolidorrenascido_ViqUuc7.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/I_lW4Clw5MAEEl04vu2jj9OnWx8=/480x360/smart/extras/conteudos/demolidorrenascido_lRlrXKd.jpg
+tags:
+  - 'Demolidor: Renascido'
+  - Disney+
+  - Muse
+  - Charlie Cox
+  - Vincent D'Onofrio
+  - série de super-heróis
+  - streaming
+  - Marvel
+keywords: >-
+  Demolidor: Renascido, Disney+, Muse, Charlie Cox, Vincent D'Onofrio, série de
+  super-heróis, streaming, Marvel
+data: '2025-04-05T20:09:33.591Z'
+author: Ana Luiza
 ---
 
 O serviço de streaming Disney+ divulgou neste sábado (5) um intrigante pôster da série 'Demolidor: Renascido', dando destaque ao vilão Muse. A arte mostra o antagonista tanto com quanto sem a máscara de vigilante que ele utilizou no episódio mais recente.

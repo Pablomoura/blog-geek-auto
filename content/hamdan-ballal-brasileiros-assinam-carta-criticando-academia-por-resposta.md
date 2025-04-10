@@ -17,6 +17,7 @@ tags:
   - diretor sequestrado
   - apoio cinematográfico
   - cineastas brasileiros
+author: Ana Luiza
 ---
 
 Após Yuval Abraham, co-diretor do documentário 'Sem Chão', criticar a Academia de Artes e Ciências Cinematográficas dos EUA por sua falta de posicionamento diante do sequestro e agressão de Hamdan Ballal, outro diretor do filme, uma reunião extraordinária foi convocada pela Academia nesta sexta-feira (28). A reunião visava abordar a crise gerada após o ataque sofrido por Ballal em sua comunidade na Palestina, perpetrado por colonos e soldados israelenses.

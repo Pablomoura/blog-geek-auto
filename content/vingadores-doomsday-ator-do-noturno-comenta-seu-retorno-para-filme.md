@@ -1,13 +1,26 @@
 ---
-title: "Vingadores: Doomsday | Alan Cumming retorna como Noturno após duas décadas"
-slug: "vingadores-doomsday-ator-do-noturno-comenta-seu-retorno-para-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/E9JbBPbkvCCNwy0N4Jiiil_d8_w=/987x0/smart/uploads/conteudo/fotos/xmen2noturno.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SoqAZnwH563o0lJ_mshatkClQio=/480x360/smart/extras/conteudos/xmen2noturno.jpg"
-tags: ["Vingadores: Doomsday", "Alan Cumming", "Noturno", "X-Men", "Marvel", "crossover", "maquiagem de efeitos especiais", "elenco estelar"]
-keywords: "Vingadores: Doomsday, Alan Cumming, Noturno, X-Men, Marvel, crossover, maquiagem de efeitos especiais, elenco estelar"
-data: "2025-04-06T20:11:06.059Z"
+title: 'Vingadores: Doomsday | Alan Cumming retorna como Noturno após duas décadas'
+slug: vingadores-doomsday-ator-do-noturno-comenta-seu-retorno-para-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/E9JbBPbkvCCNwy0N4Jiiil_d8_w=/987x0/smart/uploads/conteudo/fotos/xmen2noturno.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SoqAZnwH563o0lJ_mshatkClQio=/480x360/smart/extras/conteudos/xmen2noturno.jpg
+tags:
+  - 'Vingadores: Doomsday'
+  - Alan Cumming
+  - Noturno
+  - X-Men
+  - Marvel
+  - crossover
+  - maquiagem de efeitos especiais
+  - elenco estelar
+keywords: >-
+  Vingadores: Doomsday, Alan Cumming, Noturno, X-Men, Marvel, crossover,
+  maquiagem de efeitos especiais, elenco estelar
+data: '2025-04-06T20:11:06.059Z'
+author: Luana Souza
 ---
 
 Alan Cumming, conhecido por interpretar Noturno em filmes dos X-Men nos anos 2000, discutiu seu retorno ao papel no próximo filme 'Vingadores: Doomsday' durante uma entrevista ao Collider. O ator expressou entusiasmo e admiração ao revisitar seu personagem depois de tanto tempo. 'Estou animado e impressionado', declarou Cumming. Ele revelou avanços significativos na aplicação da maquiagem, que antes levava quatro horas e meia e agora é concluída em apenas 90 minutos. 'Antes, todas as tatuagens eram feitas à mão. Agora, elas são aplicadas rapidamente no meu rosto, o que é uma grande mudança', explicou.

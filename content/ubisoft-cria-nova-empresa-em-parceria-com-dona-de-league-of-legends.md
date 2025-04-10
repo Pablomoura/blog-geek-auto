@@ -14,6 +14,7 @@ tags:
   - indústria de jogos
   - investimento
   - assassin's creed
+author: Ana Luiza
 ---
 
 A Ubisoft, desenvolvedora de Assassin's Creed, em conjunto com a Tencent, proprietária de League of Legends, anunciou a criação de uma nova empresa subsidiária. Este acordo marca uma colaboração sem precedentes, com um investimento inicial de mais de € 1,16 bilhão feito pela Tencent. 

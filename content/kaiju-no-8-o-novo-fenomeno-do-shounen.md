@@ -1,14 +1,28 @@
 ---
-title: "Kaiju No. 8: O Novo Fenômeno do Shounen?"
-slug: "kaiju-no-8-o-novo-fenomeno-do-shounen"
-resumo: "Exploramos o hype em torno de 'Kaiju No. 8', o mangá que tem capturado a atenção dos fãs de shounen em todo o mundo. Descubra o que faz desta série uma das mais promissoras do gênero."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, mangá, shounen, Naoya Matsumoto, monstros, anime, mangá popular, Kafka Hibino"
-tags: ["Kaiju No. 8", "mangá", "shounen", "Naoya Matsumoto", "monstros", "anime", "mangá popular", "Kafka Hibino"]
-data: "2025-04-04T22:21:41.284Z"
+title: 'Kaiju No. 8: O Novo Fenômeno do Shounen?'
+slug: kaiju-no-8-o-novo-fenomeno-do-shounen
+resumo: >-
+  Exploramos o hype em torno de 'Kaiju No. 8', o mangá que tem capturado a
+  atenção dos fãs de shounen em todo o mundo. Descubra o que faz desta série uma
+  das mais promissoras do gênero.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, mangá, shounen, Naoya Matsumoto, monstros, anime, mangá popular,
+  Kafka Hibino
+tags:
+  - Kaiju No. 8
+  - mangá
+  - shounen
+  - Naoya Matsumoto
+  - monstros
+  - anime
+  - mangá popular
+  - Kafka Hibino
+data: '2025-04-04T22:21:41.284Z'
+author: Luana Souza
 ---
 
 ## O Que é Kaiju No. 8?

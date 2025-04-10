@@ -15,6 +15,7 @@ tags:
   - ryan coogler
   - modo exclusivo
   - 'sinners: survive the night'
+author: Ana Luiza
 ---
 
 O filme 'Pecadores', dirigido por Ryan Coogler e estrelado por Michael B. Jordan, terá um modo especial no popular jogo Fortnite. Segundo a Variety, o modo será chamado de Sinners: Survive the Night. 

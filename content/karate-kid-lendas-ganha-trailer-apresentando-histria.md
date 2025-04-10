@@ -15,6 +15,7 @@ tags:
   - ben wang
   - kung fu
   - narrativa emocionante
+author: Ana Luiza
 ---
 
 O aguardado filme 'Karate Kid: Lendas' acaba de divulgar um emocionante trailer que destaca sua narrativa. Assista no vídeo acima!

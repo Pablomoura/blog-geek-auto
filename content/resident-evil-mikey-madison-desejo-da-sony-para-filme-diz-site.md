@@ -17,6 +17,7 @@ tags:
   - sony
   - cinema
   - casting
+author: Luana Souza
 ---
 
 De acordo com o portal World of Reel, Mikey Madison, conhecida por seu papel em 'Anora', foi escolhida para liderar o elenco no reboot de 'Resident Evil', sob a direção de Zach Cregger, famoso por 'Noites Brutais'.

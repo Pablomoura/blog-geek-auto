@@ -1,14 +1,29 @@
 ---
-title: "Descobrindo os Easter Eggs nos Filmes da Marvel: Uma Jornada pela Magia Oculta"
-slug: "descobrindo-os-easter-eggs-nos-filmes-da-marvel-uma-jornada-pela-magia-oculta"
-resumo: "Este artigo explora os easter eggs nos filmes da Marvel, revelando como são criados, seu propósito e onde encontrá-los. Descubra a magia escondida por trás de algumas das cenas mais icônicas e como eles conectam o vasto Universo Cinematográfico Marvel (MCU)."
-categoria: "FILMES"
-midia: "/images/Easter-Eggs-marvel.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-Easter-Eggs-marvel.jpg"
-keywords: "Marvel, Easter Eggs, Filmes, Cinema, MCU, Quadrinhos, Stan Lee, Detalhes Ocultos"
-tags: ["Marvel", "Easter Eggs", "Filmes", "Cinema", "MCU", "Quadrinhos", "Stan Lee", "Detalhes Ocultos"]
-data: "2025-04-03T23:00:10.783Z"
+title: 'Descobrindo os Easter Eggs nos Filmes da Marvel: Uma Jornada pela Magia Oculta'
+slug: descobrindo-os-easter-eggs-nos-filmes-da-marvel-uma-jornada-pela-magia-oculta
+resumo: >-
+  Este artigo explora os easter eggs nos filmes da Marvel, revelando como são
+  criados, seu propósito e onde encontrá-los. Descubra a magia escondida por
+  trás de algumas das cenas mais icônicas e como eles conectam o vasto Universo
+  Cinematográfico Marvel (MCU).
+categoria: FILMES
+midia: /images/Easter-Eggs-marvel.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-Easter-Eggs-marvel.jpg
+keywords: >-
+  Marvel, Easter Eggs, Filmes, Cinema, MCU, Quadrinhos, Stan Lee, Detalhes
+  Ocultos
+tags:
+  - Marvel
+  - Easter Eggs
+  - Filmes
+  - Cinema
+  - MCU
+  - Quadrinhos
+  - Stan Lee
+  - Detalhes Ocultos
+data: '2025-04-03T23:00:10.783Z'
+author: Ana Luiza
 ---
 
 ## Introdução aos Easter Eggs da Marvel

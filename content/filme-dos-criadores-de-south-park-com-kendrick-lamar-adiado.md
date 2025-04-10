@@ -16,6 +16,7 @@ tags:
   - trey parker
   - adiamento de filme
   - turnê mundial
+author: Luana Souza
 ---
 
 A estreia do aguardado filme que une Kendrick Lamar aos criadores de South Park, Matt Stone e Trey Parker, foi adiada de 4 de julho de 2025 para 20 de março de 2026. 

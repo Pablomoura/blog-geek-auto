@@ -1,13 +1,25 @@
 ---
-title: "As Panteras será exibido na Sessão da Tarde da Globo nesta sexta-feira"
-slug: "as-panteras-ser-exibido-na-sesso-da-tarde-da-globo-desta-sexta-feira"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/RSUq4VfWfjE?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/0ITnZbPBWNyLmprtlpFIRqusjJk=/480x360/smart/extras/conteudos/aspanteras2019.jpg"
-tags: ["As Panteras", "Sessão da Tarde", "TV Globo", "filme de ação", "Kristen Stewart", "energia sustentável", "sororidade", "Elizabeth Banks"]
-keywords: "As Panteras, Sessão da Tarde, TV Globo, filme de ação, Kristen Stewart, energia sustentável, sororidade, Elizabeth Banks"
-data: "2025-04-04T07:10:20.484Z"
+title: As Panteras será exibido na Sessão da Tarde da Globo nesta sexta-feira
+slug: as-panteras-ser-exibido-na-sesso-da-tarde-da-globo-desta-sexta-feira
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/RSUq4VfWfjE?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/0ITnZbPBWNyLmprtlpFIRqusjJk=/480x360/smart/extras/conteudos/aspanteras2019.jpg
+tags:
+  - As Panteras
+  - Sessão da Tarde
+  - TV Globo
+  - filme de ação
+  - Kristen Stewart
+  - energia sustentável
+  - sororidade
+  - Elizabeth Banks
+keywords: >-
+  As Panteras, Sessão da Tarde, TV Globo, filme de ação, Kristen Stewart,
+  energia sustentável, sororidade, Elizabeth Banks
+data: '2025-04-04T07:10:20.484Z'
+author: Luana Souza
 ---
 
 A Sessão da Tarde desta sexta-feira, dia 4, apresentará o filme As Panteras, produzido em 2019. Esta versão, que tem duração de 1h40, será transmitida pela TV Globo a partir das 15h25, horário de Brasília.

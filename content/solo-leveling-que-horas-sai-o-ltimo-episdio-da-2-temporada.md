@@ -15,6 +15,7 @@ tags:
   - temporada final
   - watch party
   - lançamento de episódio
+author: Luana Souza
 ---
 
 O aguardado final da segunda temporada de Solo Leveling, um dos animes de maior sucesso no Crunchyroll, será lançado neste sábado, dia 29, às 14h30, horário de Brasília. 

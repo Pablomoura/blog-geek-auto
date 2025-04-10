@@ -15,6 +15,7 @@ tags:
   - trailer
   - mangá
   - badminton
+author: Pablo Moura
 ---
 
 O aclamado anime 'Blue Box' garantiu sua continuação com o anúncio oficial de sua segunda temporada, acompanhada de um empolgante trailer. 

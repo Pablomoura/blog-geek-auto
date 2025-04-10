@@ -1,13 +1,26 @@
 ---
-title: "O Sobrevivente | Filme com Glen Powell ganha trailer na CinemaCon"
-slug: "o-sobrevivente-filme-com-glen-powell-ganha-trailer-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/iP0bZR9HcbjMPUY_0o14f8CCs90=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T142945.051.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/vdH3cx2HVGCPLynQmNgHAG4BdG0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T143034.761.png"
-tags: ["CinemaCon", "Glen Powell", "Stephen King", "Edgar Wright", "filme distópico", "The Running Man", "Josh Brolin", "estreia 2025"]
-keywords: "CinemaCon, Glen Powell, Stephen King, Edgar Wright, filme distópico, The Running Man, Josh Brolin, estreia 2025"
-data: "2025-04-03T18:16:10.643Z"
+title: O Sobrevivente | Filme com Glen Powell ganha trailer na CinemaCon
+slug: o-sobrevivente-filme-com-glen-powell-ganha-trailer-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/iP0bZR9HcbjMPUY_0o14f8CCs90=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T142945.051.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/vdH3cx2HVGCPLynQmNgHAG4BdG0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T143034.761.png
+tags:
+  - CinemaCon
+  - Glen Powell
+  - Stephen King
+  - Edgar Wright
+  - filme distópico
+  - The Running Man
+  - Josh Brolin
+  - estreia 2025
+keywords: >-
+  CinemaCon, Glen Powell, Stephen King, Edgar Wright, filme distópico, The
+  Running Man, Josh Brolin, estreia 2025
+data: '2025-04-03T18:16:10.643Z'
+author: Ana Luiza
 ---
 
 Foi revelado na CinemaCon deste ano o primeiro trailer do filme 'O Sobrevivente', protagonizado por Glen Powell. A obra é uma adaptação do livro de Stephen King e tem direção de Edgar Wright. 

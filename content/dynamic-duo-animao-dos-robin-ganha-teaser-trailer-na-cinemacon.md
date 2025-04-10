@@ -18,6 +18,7 @@ tags:
   - animação
   - robin
   - dynamic duo
+author: Ana Luiza
 ---
 
 A Warner Bros. revelou as primeiras cenas da animação 'Dynamic Duo' durante o evento CinemaCon, realizado em Las Vegas. O filme, uma colaboração entre a Warner Animation e o DC Studios, promete explorar as jornadas de Dick Grayson e Jason Todd, ambas figuras icônicas como aliados do Batman. A equipe do Omelete teve a oportunidade de assistir ao teaser e compartilha suas primeiras impressões abaixo.

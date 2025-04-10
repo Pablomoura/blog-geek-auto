@@ -1,13 +1,25 @@
 ---
-title: "The Last of Us | Terceira temporada é anunciada pela HBO"
-slug: "the-last-of-us-terceira-temporada-anunciada-pela-hbo"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/fKsuEIPdWzU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/IsCaZXJVp6QN_-s5c0jz3ZTRmuc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_130453.png"
-tags: ["The Last of Us", "HBO", "terceira temporada", "Pedro Pascal", "Bella Ramsey", "streaming", "adaptação de jogo", "série de TV"]
-keywords: "The Last of Us, HBO, terceira temporada, Pedro Pascal, Bella Ramsey, streaming, adaptação de jogo, série de TV"
-data: "2025-04-09T16:12:46.075Z"
+title: The Last of Us | Terceira temporada é anunciada pela HBO
+slug: the-last-of-us-terceira-temporada-anunciada-pela-hbo
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/fKsuEIPdWzU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/IsCaZXJVp6QN_-s5c0jz3ZTRmuc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_130453.png
+tags:
+  - The Last of Us
+  - HBO
+  - terceira temporada
+  - Pedro Pascal
+  - Bella Ramsey
+  - streaming
+  - adaptação de jogo
+  - série de TV
+keywords: >-
+  The Last of Us, HBO, terceira temporada, Pedro Pascal, Bella Ramsey,
+  streaming, adaptação de jogo, série de TV
+data: '2025-04-09T16:12:46.075Z'
+author: Pablo Moura
 ---
 
 A HBO já confirmou a continuação de 'The Last of Us' com a renovação para uma terceira temporada. A notícia foi divulgada através das redes sociais da HBO e da plataforma de streaming Max, onde foi postado que 'a terceira temporada está a caminho', embora sem uma data específica de lançamento. 

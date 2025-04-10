@@ -1,13 +1,25 @@
 ---
-title: "Diários de um Robô-Assassino | Apple divulga primeiro trailer da série"
-slug: "dirios-de-um-rob-assassino-apple-divulga-primeiro-trailer-da-srie"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/vEioDeOiqEs?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/AffV2_7tDzlJlD9r0DXQdey2UVs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_122702.png"
-tags: ["Apple TV+", "Diários de um Robô-Assassino", "Martha Wells", "Murderbot", "Alexander Skarsgård", "série de livros", "robô-assassino", "streaming"]
-keywords: "Apple TV+, Diários de um Robô-Assassino, Martha Wells, Murderbot, Alexander Skarsgård, série de livros, robô-assassino, streaming"
-data: "2025-04-09T16:16:07.351Z"
+title: Diários de um Robô-Assassino | Apple divulga primeiro trailer da série
+slug: dirios-de-um-rob-assassino-apple-divulga-primeiro-trailer-da-srie
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/vEioDeOiqEs?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/AffV2_7tDzlJlD9r0DXQdey2UVs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_122702.png
+tags:
+  - Apple TV+
+  - Diários de um Robô-Assassino
+  - Martha Wells
+  - Murderbot
+  - Alexander Skarsgård
+  - série de livros
+  - robô-assassino
+  - streaming
+keywords: >-
+  Apple TV+, Diários de um Robô-Assassino, Martha Wells, Murderbot, Alexander
+  Skarsgård, série de livros, robô-assassino, streaming
+data: '2025-04-09T16:16:07.351Z'
+author: Pablo Moura
 ---
 
 A Apple TV+ lançou o primeiro trailer oficial de 'Diários de um Robô-Assassino', adaptação da aclamada série de livros 'Murderbot' de Martha Wells. O vídeo apresenta uma visão geral da trama e dos personagens principais, com destaque para o protagonista, um robô interpretado por Alexander Skarsgård.

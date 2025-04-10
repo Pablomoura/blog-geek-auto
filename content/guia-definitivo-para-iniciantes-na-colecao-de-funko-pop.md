@@ -1,14 +1,28 @@
 ---
-title: "Guia Definitivo para Iniciantes na Coleção de Funko Pop!"
-slug: "guia-definitivo-para-iniciantes-na-colecao-de-funko-pop"
-resumo: "Este artigo é um guia completo para quem está começando a colecionar Funko Pop! Cobriremos desde o básico sobre o que são Funko Pops até dicas de como manter e expandir sua coleção de maneira eficiente e econômica."
-categoria: "Colecionáveis"
-midia: "/images/funko-pop.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-funko-pop.jpg"
-keywords: "Funko Pop, colecionáveis, guia de coleção, iniciantes, dicas de coleção, cultura pop, Funko autêntico, manter Funko"
-tags: ["Funko Pop", "colecionáveis", "guia de coleção", "iniciantes", "dicas de coleção", "cultura pop", "Funko autêntico", "manter Funko"]
-data: "2025-04-04T21:45:41.636Z"
+title: Guia Definitivo para Iniciantes na Coleção de Funko Pop!
+slug: guia-definitivo-para-iniciantes-na-colecao-de-funko-pop
+resumo: >-
+  Este artigo é um guia completo para quem está começando a colecionar Funko
+  Pop! Cobriremos desde o básico sobre o que são Funko Pops até dicas de como
+  manter e expandir sua coleção de maneira eficiente e econômica.
+categoria: Colecionáveis
+midia: /images/funko-pop.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-funko-pop.jpg
+keywords: >-
+  Funko Pop, colecionáveis, guia de coleção, iniciantes, dicas de coleção,
+  cultura pop, Funko autêntico, manter Funko
+tags:
+  - Funko Pop
+  - colecionáveis
+  - guia de coleção
+  - iniciantes
+  - dicas de coleção
+  - cultura pop
+  - Funko autêntico
+  - manter Funko
+data: '2025-04-04T21:45:41.636Z'
+author: Ana Luiza
 ---
 
 ## O que são Funko Pops?

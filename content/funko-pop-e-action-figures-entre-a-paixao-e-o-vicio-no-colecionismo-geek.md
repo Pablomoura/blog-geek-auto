@@ -1,14 +1,29 @@
 ---
-title: "Funko Pop e Action Figures: Entre a Paixão e o Vício no Colecionismo Geek"
-slug: "funko-pop-e-action-figures-entre-a-paixao-e-o-vicio-no-colecionismo-geek"
-resumo: "Este artigo explora o mundo dos colecionáveis geek, como Funko Pop e action figures, discutindo se essa atividade pode ser considerada uma paixão saudável ou um vício. Abordamos os aspectos emocionais, sociais e financeiros do colecionismo, oferecendo insights para um hobby mais equilibrado."
-categoria: "Colecionismo e Hobbies"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "Funko Pop, Action Figures, Colecionismo Geek, Paixão, Vício, Cultura Pop, Hobbies, Equilíbrio"
-tags: ["Funko Pop", "Action Figures", "Colecionismo Geek", "Paixão", "Vício", "Cultura Pop", "Hobbies", "Equilíbrio"]
-data: "2025-03-07T01:16:14.196Z"
+title: 'Funko Pop e Action Figures: Entre a Paixão e o Vício no Colecionismo Geek'
+slug: funko-pop-e-action-figures-entre-a-paixao-e-o-vicio-no-colecionismo-geek
+resumo: >-
+  Este artigo explora o mundo dos colecionáveis geek, como Funko Pop e action
+  figures, discutindo se essa atividade pode ser considerada uma paixão saudável
+  ou um vício. Abordamos os aspectos emocionais, sociais e financeiros do
+  colecionismo, oferecendo insights para um hobby mais equilibrado.
+categoria: Colecionismo e Hobbies
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  Funko Pop, Action Figures, Colecionismo Geek, Paixão, Vício, Cultura Pop,
+  Hobbies, Equilíbrio
+tags:
+  - Funko Pop
+  - Action Figures
+  - Colecionismo Geek
+  - Paixão
+  - Vício
+  - Cultura Pop
+  - Hobbies
+  - Equilíbrio
+data: '2025-03-07T01:16:14.196Z'
+author: Pablo Moura
 ---
 
 ## Introdução ao Colecionismo Geek

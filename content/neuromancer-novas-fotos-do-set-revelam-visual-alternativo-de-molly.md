@@ -1,13 +1,26 @@
 ---
-title: "Neuromancer | Novas fotos do set revelam visual alternativo de Molly"
-slug: "neuromancer-novas-fotos-do-set-revelam-visual-alternativo-de-molly"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/gFqu2uT4WiewAY49wcMRB-trG0g=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T134546.011.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/36ne7RHdhm_yEZN6Rj_6cj9Ant8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T134517.781.png"
-tags: ["Neuromancer", "AppleTV+", "Briana Middleton", "ciberpunk", "série de ficção científica", "espionagem digital", "adaptação de livro", "elenco estrelado"]
-keywords: "Neuromancer, AppleTV+, Briana Middleton, ciberpunk, série de ficção científica, espionagem digital, adaptação de livro, elenco estrelado"
-data: "2025-04-09T17:10:26.111Z"
+title: Neuromancer | Novas fotos do set revelam visual alternativo de Molly
+slug: neuromancer-novas-fotos-do-set-revelam-visual-alternativo-de-molly
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/gFqu2uT4WiewAY49wcMRB-trG0g=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T134546.011.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/36ne7RHdhm_yEZN6Rj_6cj9Ant8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T134517.781.png
+tags:
+  - Neuromancer
+  - AppleTV+
+  - Briana Middleton
+  - ciberpunk
+  - série de ficção científica
+  - espionagem digital
+  - adaptação de livro
+  - elenco estrelado
+keywords: >-
+  Neuromancer, AppleTV+, Briana Middleton, ciberpunk, série de ficção
+  científica, espionagem digital, adaptação de livro, elenco estrelado
+data: '2025-04-09T17:10:26.111Z'
+author: Ana Luiza
 ---
 
 Novas imagens do set da série baseada no icônico livro 'Neuromancer' foram divulgadas recentemente nas redes sociais, exibindo um novo visual para o personagem Molly, interpretado por Briana Middleton. As fotos despertaram grande interesse entre os fãs da obra original.

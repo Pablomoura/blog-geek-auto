@@ -14,6 +14,7 @@ tags:
   - jimmy smits
   - trinity killer
   - miguel prado
+author: Luana Souza
 ---
 
 A aguardada série 'Dexter: Resurrection', que dá continuidade à trama protagonizada por Michael C. Hall, anuncia o retorno de dois personagens icônicos. John Lithgow reprisará seu papel como o temido 'Trinity Killer', e Jimmy Smits voltará como Miguel Prado, também conhecido por seu papel em 'Star Wars'. Apesar de seus personagens terem morrido na série original, os detalhes de como aparecerão são ainda um mistério, possivelmente como alucinações de Dexter.

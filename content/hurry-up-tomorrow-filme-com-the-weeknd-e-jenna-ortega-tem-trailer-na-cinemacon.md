@@ -18,6 +18,7 @@ tags:
   - jenna ortega
   - trailer
   - filme
+author: Ana Luiza
 ---
 
 A CinemaCon foi palco para a estreia do novo trailer de 'Hurry Up Tomorrow', filme que traz no elenco The Weeknd e Jenna Ortega. O trailer, ainda não lançado online, foi detalhado pelo site Omelete, que esteve presente no evento.

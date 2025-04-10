@@ -1,13 +1,25 @@
 ---
-title: "Thunderbolts ganha trailer com confronto épico contra Sentinela"
-slug: "thunderbolts-ganha-trailer-com-sentinela-contra-o-mundo-assista"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/BJk4wYL-_Hw?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/ZeCb_iWdiVdUEx6Ku5UseH58BGY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T103808.263.png"
-tags: ["Thunderbolts", "Marvel", "MCU", "Sentinela", "anti-heróis", "trailer", "filmes de super-heróis", "confronto épico"]
-keywords: "Thunderbolts, Marvel, MCU, Sentinela, anti-heróis, trailer, filmes de super-heróis, confronto épico"
-data: "2025-04-07T14:12:00.591Z"
+title: Thunderbolts ganha trailer com confronto épico contra Sentinela
+slug: thunderbolts-ganha-trailer-com-sentinela-contra-o-mundo-assista
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/BJk4wYL-_Hw?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/ZeCb_iWdiVdUEx6Ku5UseH58BGY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T103808.263.png
+tags:
+  - Thunderbolts
+  - Marvel
+  - MCU
+  - Sentinela
+  - anti-heróis
+  - trailer
+  - filmes de super-heróis
+  - confronto épico
+keywords: >-
+  Thunderbolts, Marvel, MCU, Sentinela, anti-heróis, trailer, filmes de
+  super-heróis, confronto épico
+data: '2025-04-07T14:12:00.591Z'
+author: Ana Luiza
 ---
 
 O universo cinematográfico da Marvel está prestes a expandir com o lançamento de 'Thunderbolts', um filme que coloca alguns dos mais complexos anti-heróis do MCU no centro da ação. O filme, que teve seu novo trailer divulgado, destaca o vilão Sentinela enfrentando os Thunderbolts, que se preparam para um confronto que pode decidir o destino do mundo.

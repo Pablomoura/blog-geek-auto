@@ -1,14 +1,28 @@
 ---
-title: "Explorando as Teorias Não Reveladas sobre o Passado de Frieren"
-slug: "explorando-as-teorias-nao-reveladas-sobre-o-passado-de-frieren"
-resumo: "Este artigo mergulha nas teorias fascinantes sobre o passado não revelado de Frieren, uma personagem enigmática cuja história completa ainda permanece um mistério. Discutiremos várias possibilidades que circulam entre os fãs e analistas, explorando diferentes aspectos de sua origem e eventos marcantes que poderiam definir seu caráter e motivações."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, teorias, passado, mistério, origem, eventos, personagem, narrativa"
-tags: ["Frieren", "teorias", "passado", "mistério", "origem", "eventos", "personagem", "narrativa"]
-data: "2025-04-04T21:40:42.386Z"
+title: Explorando as Teorias Não Reveladas sobre o Passado de Frieren
+slug: explorando-as-teorias-nao-reveladas-sobre-o-passado-de-frieren
+resumo: >-
+  Este artigo mergulha nas teorias fascinantes sobre o passado não revelado de
+  Frieren, uma personagem enigmática cuja história completa ainda permanece um
+  mistério. Discutiremos várias possibilidades que circulam entre os fãs e
+  analistas, explorando diferentes aspectos de sua origem e eventos marcantes
+  que poderiam definir seu caráter e motivações.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: 'Frieren, teorias, passado, mistério, origem, eventos, personagem, narrativa'
+tags:
+  - Frieren
+  - teorias
+  - passado
+  - mistério
+  - origem
+  - eventos
+  - personagem
+  - narrativa
+data: '2025-04-04T21:40:42.386Z'
+author: Luana Souza
 ---
 
 ## Introdução ao Enigma de Frieren

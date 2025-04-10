@@ -16,6 +16,7 @@ tags:
   - matt whitaker
   - estreia de filme
   - som da liberdade
+author: Ana Luiza
 ---
 
 O novo filme 'Truth & Treason', produzido pelo mesmo estúdio responsável por 'Som da Liberdade', está previsto para estrear nos cinemas dos Estados Unidos no final deste ano. O trailer oficial já pode ser conferido.

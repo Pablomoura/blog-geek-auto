@@ -17,6 +17,7 @@ tags:
   - harrison ford
   - tv globo
   - filme de aventura
+author: Pablo Moura
 ---
 
 Nesta segunda-feira, 31 de outubro, a Sessão da Tarde traz o emocionante filme 'O Chamado da Floresta', lançado em 2020. A exibição está programada para começar às 15h25, horário de Brasília, na TV Globo.

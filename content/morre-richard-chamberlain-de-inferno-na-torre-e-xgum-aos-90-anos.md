@@ -15,6 +15,7 @@ tags:
   - xógum
   - ator americano
   - derrame
+author: Ana Luiza
 ---
 
 Richard Chamberlain, célebre ator americano, faleceu no último sábado, 29 de abril, aos 90 anos. Segundo Harlan Boll, seu agente, a causa da morte foi um derrame, conforme reportou a revista Variety.

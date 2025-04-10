@@ -16,6 +16,7 @@ tags:
   - pepper potts
   - robert downey jr.
   - retorno ao cinema
+author: Luana Souza
 ---
 
 Em uma sessão de perguntas e respostas em seu perfil do Instagram, Gwyneth Paltrow abordou questões sobre o futuro de sua personagem Pepper Potts no Universo Cinematográfico Marvel (MCU). 'A verdade é que eu não sei dizer. Eu acho que posso retornar, mas não há nada confirmado', declarou Paltrow, que interpretou a assistente de Tony Stark por 11 anos, desde o primeiro filme 'Homem de Ferro' em 2008 até 'Vingadores: Ultimato' em 2019.

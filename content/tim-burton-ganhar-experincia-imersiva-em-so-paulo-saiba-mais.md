@@ -1,13 +1,26 @@
 ---
-title: "Tim Burton ganhará experiência imersiva em São Paulo; saiba mais"
-slug: "tim-burton-ganhar-experincia-imersiva-em-so-paulo-saiba-mais"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/usc1GUClX-ufnKVMnqSTC42gZGA=/987x0/smart/uploads/conteudo/fotos/4DISN_1.JPG"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/vJ6g9zmBUsvFRVYoLQ5PUBe3U9g=/480x360/smart/extras/conteudos/TNBC_FinalDress_AveryBrunkus_326.JPG"
-tags: ["Tim Burton", "exposição imersiva", "São Paulo", "O Estranho Mundo de Jack", "experiência sensorial", "cinema gótico", "ingressos", "acessibilidade"]
-keywords: "Tim Burton, exposição imersiva, São Paulo, O Estranho Mundo de Jack, experiência sensorial, cinema gótico, ingressos, acessibilidade"
-data: "2025-04-08T21:09:46.625Z"
+title: Tim Burton ganhará experiência imersiva em São Paulo; saiba mais
+slug: tim-burton-ganhar-experincia-imersiva-em-so-paulo-saiba-mais
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/usc1GUClX-ufnKVMnqSTC42gZGA=/987x0/smart/uploads/conteudo/fotos/4DISN_1.JPG
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/vJ6g9zmBUsvFRVYoLQ5PUBe3U9g=/480x360/smart/extras/conteudos/TNBC_FinalDress_AveryBrunkus_326.JPG
+tags:
+  - Tim Burton
+  - exposição imersiva
+  - São Paulo
+  - O Estranho Mundo de Jack
+  - experiência sensorial
+  - cinema gótico
+  - ingressos
+  - acessibilidade
+keywords: >-
+  Tim Burton, exposição imersiva, São Paulo, O Estranho Mundo de Jack,
+  experiência sensorial, cinema gótico, ingressos, acessibilidade
+data: '2025-04-08T21:09:46.625Z'
+author: Ana Luiza
 ---
 
 Os aficionados por Tim Burton têm motivos para comemorar, pois uma exposição imersiva baseada na obra do cineasta está a caminho de São Paulo. Marcada para maio, esta será a primeira vez que a exposição chega ao Brasil, trazendo personagens de 'O Estranho Mundo de Jack' em tamanho real.

@@ -19,6 +19,7 @@ tags:
   - trailer
   - jogo de vídeo
   - desafios inéditos
+author: Pablo Moura
 ---
 
 O novo título da FromSoftware, Elden Ring Nightreign, derivado do aclamado Elden Ring, acaba de receber um emocionante trailer que destaca o personagem Iorneye. O vídeo, já disponível para visualização, introduz os jogadores ao estilo de jogo único de Iorneye, prometendo uma experiência distinta dos demais jogos da série Soulslike.

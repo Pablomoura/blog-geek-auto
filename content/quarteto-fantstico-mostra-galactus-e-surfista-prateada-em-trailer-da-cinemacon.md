@@ -1,13 +1,28 @@
 ---
-title: "Quarteto Fantástico revela Galactus e Surfista Prateada em novo trailer na CinemaCon"
-slug: "quarteto-fantstico-mostra-galactus-e-surfista-prateada-em-trailer-da-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/iHWnpKYY3CnalCX4j86JSAtA_4E=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T220028.370_Ze5uMkp.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dj17fl-NOQtP-FvpwkfA422OkTs=/480x360/smart/extras/conteudos/01_aW9gyY1.jpg"
-tags: ["Quarteto Fantástico", "Galactus", "Surfista Prateada", "CinemaCon 2025", "Marvel Studios", "MCU Fase 6", "trailer de filme", "heróis Marvel"]
-keywords: "Quarteto Fantástico, Galactus, Surfista Prateada, CinemaCon 2025, Marvel Studios, MCU Fase 6, trailer de filme, heróis Marvel"
-data: "2025-04-03T23:12:12.954Z"
+title: >-
+  Quarteto Fantástico revela Galactus e Surfista Prateada em novo trailer na
+  CinemaCon
+slug: quarteto-fantstico-mostra-galactus-e-surfista-prateada-em-trailer-da-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/iHWnpKYY3CnalCX4j86JSAtA_4E=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-03-26T220028.370_Ze5uMkp.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dj17fl-NOQtP-FvpwkfA422OkTs=/480x360/smart/extras/conteudos/01_aW9gyY1.jpg
+tags:
+  - Quarteto Fantástico
+  - Galactus
+  - Surfista Prateada
+  - CinemaCon 2025
+  - Marvel Studios
+  - MCU Fase 6
+  - trailer de filme
+  - heróis Marvel
+keywords: >-
+  Quarteto Fantástico, Galactus, Surfista Prateada, CinemaCon 2025, Marvel
+  Studios, MCU Fase 6, trailer de filme, heróis Marvel
+data: '2025-04-03T23:12:12.954Z'
+author: Pablo Moura
 ---
 
 Durante a CinemaCon 2025, um empolgante novo trailer de 'Quarteto Fantástico: Primeiros Passos' foi apresentado ao público. No trailer, a introdução é feita por Gilberto Show, que rapidamente recapitula a conhecida história dos quatro heróis. Em seguida, uma cena impactante mostra O Coisa carregando um navio inteiro, enquanto a cidade ao redor demonstra sua gratidão ao grupo.

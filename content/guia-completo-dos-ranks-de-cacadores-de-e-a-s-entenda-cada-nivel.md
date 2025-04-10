@@ -1,14 +1,28 @@
 ---
-title: "Guia Completo dos Ranks de Caçadores: De E a S, Entenda Cada Nível"
-slug: "guia-completo-dos-ranks-de-cacadores-de-e-a-s-entenda-cada-nivel"
-resumo: "Este artigo oferece um guia detalhado sobre os diferentes ranks de caçadores, de E a S. Descubra as habilidades, responsabilidades e desafios enfrentados por cada rank no universo dos caçadores."
-categoria: "Guia de Ranks"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "caçadores, ranks, guia, habilidades, desafios, nível E a S, estrutura de ranks, hierarquia de caçadores"
-tags: ["caçadores", "ranks", "guia", "habilidades", "desafios", "nível E a S", "estrutura de ranks", "hierarquia de caçadores"]
-data: "2025-04-02T01:34:52.587Z"
+title: 'Guia Completo dos Ranks de Caçadores: De E a S, Entenda Cada Nível'
+slug: guia-completo-dos-ranks-de-cacadores-de-e-a-s-entenda-cada-nivel
+resumo: >-
+  Este artigo oferece um guia detalhado sobre os diferentes ranks de caçadores,
+  de E a S. Descubra as habilidades, responsabilidades e desafios enfrentados
+  por cada rank no universo dos caçadores.
+categoria: Guia de Ranks
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  caçadores, ranks, guia, habilidades, desafios, nível E a S, estrutura de
+  ranks, hierarquia de caçadores
+tags:
+  - caçadores
+  - ranks
+  - guia
+  - habilidades
+  - desafios
+  - nível E a S
+  - estrutura de ranks
+  - hierarquia de caçadores
+data: '2025-04-02T01:34:52.587Z'
+author: Luana Souza
 ---
 
 ## Introdução

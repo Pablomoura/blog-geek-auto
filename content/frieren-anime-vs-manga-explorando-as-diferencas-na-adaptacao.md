@@ -1,14 +1,29 @@
 ---
-title: "Frieren: Anime vs. Mangá — Explorando as Diferenças na Adaptação"
-slug: "frieren-anime-vs-manga-explorando-as-diferencas-na-adaptacao"
-resumo: "Descubra as principais diferenças entre o anime e o mangá de 'Frieren: Beyond Journey's End'. Este artigo explora como a adaptação da série manga em anime afetou a narrativa, os personagens e a estética visual, proporcionando uma compreensão mais profunda das duas formas de mídia."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "anime, mangá, adaptação, Frieren, narrativa, personagens, visual, trilha sonora"
-tags: ["anime", "mangá", "adaptação", "Frieren", "narrativa", "personagens", "visual", "trilha sonora"]
-data: "2025-04-08T21:32:15.170Z"
+title: 'Frieren: Anime vs. Mangá — Explorando as Diferenças na Adaptação'
+slug: frieren-anime-vs-manga-explorando-as-diferencas-na-adaptacao
+resumo: >-
+  Descubra as principais diferenças entre o anime e o mangá de 'Frieren: Beyond
+  Journey's End'. Este artigo explora como a adaptação da série manga em anime
+  afetou a narrativa, os personagens e a estética visual, proporcionando uma
+  compreensão mais profunda das duas formas de mídia.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  anime, mangá, adaptação, Frieren, narrativa, personagens, visual, trilha
+  sonora
+tags:
+  - anime
+  - mangá
+  - adaptação
+  - Frieren
+  - narrativa
+  - personagens
+  - visual
+  - trilha sonora
+data: '2025-04-08T21:32:15.170Z'
+author: Luana Souza
 ---
 
 ## Introdução

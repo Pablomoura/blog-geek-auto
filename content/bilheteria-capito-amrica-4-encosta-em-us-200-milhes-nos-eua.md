@@ -1,13 +1,25 @@
 ---
-title: "Bilheteria | Capitão América 4 encosta em US$ 200 milhões nos EUA"
-slug: "bilheteria-capito-amrica-4-encosta-em-us-200-milhes-nos-eua"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/YFYBSOWZLao?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/xEsWDhmJRUpWlUvafCnKK59wBlk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-02-21_114644.png"
-tags: ["Capitão América 4", "bilheteria", "Marvel Studios", "Sam Wilson", "Adamantium", "Hulk Vermelho", "bilheteria global", "cinema 2025"]
-keywords: "Capitão América 4, bilheteria, Marvel Studios, Sam Wilson, Adamantium, Hulk Vermelho, bilheteria global, cinema 2025"
-data: "2025-04-06T18:11:55.983Z"
+title: Bilheteria | Capitão América 4 encosta em US$ 200 milhões nos EUA
+slug: bilheteria-capito-amrica-4-encosta-em-us-200-milhes-nos-eua
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/YFYBSOWZLao?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/xEsWDhmJRUpWlUvafCnKK59wBlk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-02-21_114644.png
+tags:
+  - Capitão América 4
+  - bilheteria
+  - Marvel Studios
+  - Sam Wilson
+  - Adamantium
+  - Hulk Vermelho
+  - bilheteria global
+  - cinema 2025
+keywords: >-
+  Capitão América 4, bilheteria, Marvel Studios, Sam Wilson, Adamantium, Hulk
+  Vermelho, bilheteria global, cinema 2025
+data: '2025-04-06T18:11:55.983Z'
+author: Ana Luiza
 ---
 
 O filme 'Capitão América: Admirável Mundo Novo' continua sua trajetória de sucesso nas bilheterias globais, acumulando até agora um total de US$ 410 milhões mundialmente. Em sua oitava semana de exibição nos Estados Unidos, arrecadou novos US$ 1,3 milhões, totalizando US$ 199 milhões no país. Atualmente, ocupa a décima posição no ranking das maiores bilheterias americanas.

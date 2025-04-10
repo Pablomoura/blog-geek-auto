@@ -16,6 +16,7 @@ tags:
   - cinema
   - trailer
   - filme de skate
+author: Pablo Moura
 ---
 
 O aguardado filme de animação 'Sneaks: De Pisante Novo' chegará às telas dos cinemas no dia 17 de abril, trazendo a famosa skatista Rayssa Leal como uma das dubladoras. O filme já lançou seu primeiro trailer e um pôster oficial, que já estão disponíveis para o público.

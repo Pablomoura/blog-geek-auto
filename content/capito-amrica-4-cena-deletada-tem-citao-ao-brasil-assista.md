@@ -1,13 +1,26 @@
 ---
-title: "Capitão América 4 | Cena excluída menciona missão no Brasil"
-slug: "capito-amrica-4-cena-deletada-tem-citao-ao-brasil-assista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/S9v6UBBYhoa2aKmAabekYLpIxCo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T190821.674.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/5uXp0o6IpRYojL8-9Fxa0ocNTxE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T190821.674.png"
-tags: ["Capitão América 4", "Cena excluída", "Missão no Brasil", "Anthony Mackie", "Adamantium", "Hulk Vermelho", "Universo Cinematográfico Marvel", "Harrison Ford"]
-keywords: "Capitão América 4, Cena excluída, Missão no Brasil, Anthony Mackie, Adamantium, Hulk Vermelho, Universo Cinematográfico Marvel, Harrison Ford"
-data: "2025-04-08T23:10:28.032Z"
+title: Capitão América 4 | Cena excluída menciona missão no Brasil
+slug: capito-amrica-4-cena-deletada-tem-citao-ao-brasil-assista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/S9v6UBBYhoa2aKmAabekYLpIxCo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T190821.674.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/5uXp0o6IpRYojL8-9Fxa0ocNTxE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T190821.674.png
+tags:
+  - Capitão América 4
+  - Cena excluída
+  - Missão no Brasil
+  - Anthony Mackie
+  - Adamantium
+  - Hulk Vermelho
+  - Universo Cinematográfico Marvel
+  - Harrison Ford
+keywords: >-
+  Capitão América 4, Cena excluída, Missão no Brasil, Anthony Mackie,
+  Adamantium, Hulk Vermelho, Universo Cinematográfico Marvel, Harrison Ford
+data: '2025-04-08T23:10:28.032Z'
+author: Pablo Moura
 ---
 
 Foi divulgada uma cena deletada do filme 'Capitão América 4: Admirável Mundo Novo' nesta terça-feira (08), antecedendo o lançamento do filme nas plataformas digitais previsto para 15 de abril. Nessa cena específica, o Capitão América, interpretado por Anthony Mackie, é visto treinando com Leila Taylor, personagem de Xosha Roquemore, na academia de Isaiah Bradley. Durante um treino de sparring, Taylor menciona uma missão realizada pelo herói em São Paulo, além de outra em Dubai, elogiando as ações de Mackie. Apesar de breve, a referência ao Brasil despertou curiosidade, embora não sejam dados mais detalhes sobre essa missão.

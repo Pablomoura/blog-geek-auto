@@ -1,12 +1,17 @@
 ---
-title: "Ordem cronológica dos filmes e séries da Marvel a partir de 2025: veja o que vem aí no MCU"
-slug: "ordem-cronologica-marvel-2025"
-categoria: "Filmes"
-resumo: "Confira todos os filmes e séries da Marvel já confirmados para 2025, 2026 e 2027, organizados em ordem cronológica. Veja o que vem por aí no MCU, incluindo Thunderbolts, Quarteto Fantástico, Vingadores: Secret Wars e mais."
-data: "2025-04-06T23:00:00.000Z"
-thumb: "/images/Thumb-marvel-2025.jpg"
-midia: "/images/marvel-2025-capa.webp"
-tipoMidia: "imagem"
+title: >-
+  Ordem cronológica dos filmes e séries da Marvel a partir de 2025: veja o que
+  vem aí no MCU
+slug: ordem-cronologica-marvel-2025
+categoria: Filmes
+resumo: >-
+  Confira todos os filmes e séries da Marvel já confirmados para 2025, 2026 e
+  2027, organizados em ordem cronológica. Veja o que vem por aí no MCU,
+  incluindo Thunderbolts, Quarteto Fantástico, Vingadores: Secret Wars e mais.
+data: '2025-04-06T23:00:00.000Z'
+thumb: /images/Thumb-marvel-2025.jpg
+midia: /images/marvel-2025-capa.webp
+tipoMidia: imagem
 story: true
 tags:
   - marvel
@@ -15,7 +20,10 @@ tags:
   - cronologia marvel
   - thunderbolts
   - secret wars
-keywords: "ordem cronológica marvel, lançamentos marvel 2025, filmes marvel por ordem, novas séries marvel, calendário marvel fase 6, thunderbolts, fantastic four"
+keywords: >-
+  ordem cronológica marvel, lançamentos marvel 2025, filmes marvel por ordem,
+  novas séries marvel, calendário marvel fase 6, thunderbolts, fantastic four
+author: Pablo Moura
 ---
 ## O futuro do MCU começa agora: Marvel planeja sua grande virada a partir de 2025
 

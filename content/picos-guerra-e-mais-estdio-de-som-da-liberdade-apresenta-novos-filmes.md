@@ -17,6 +17,7 @@ tags:
   - filmes épicos
   - guerra
   - distribuição global
+author: Luana Souza
 ---
 
 Durante a CinemaCon de 2024, o Angel Studios destacou a influência de seu lançamento 'Som da Liberdade', apresentando também seus planos de distribuição tanto nos Estados Unidos quanto globalmente. O estúdio, já reconhecido por suas produções com temáticas religiosas, provou que pode prosperar sem a dependência direta de Hollywood, evidenciado pelo sucesso já alcançado.

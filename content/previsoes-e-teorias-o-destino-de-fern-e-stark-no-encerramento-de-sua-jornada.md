@@ -1,14 +1,27 @@
 ---
-title: "Previsões e Teorias: O Destino de Fern e Stark no Encerramento de Sua Jornada"
-slug: "previsoes-e-teorias-o-destino-de-fern-e-stark-no-encerramento-de-sua-jornada"
-resumo: "Descubra as várias teorias e previsões sobre os possíveis finais para Fern e Stark, dois personagens icônicos cujas jornadas têm cativado o público. Explore como suas histórias podem se desenrolar, impactando seus destinos e o legado que podem deixar."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Fern, Stark, Destino, Teorias, Saga, Finais, Legado, Personagens"
-tags: ["Fern", "Stark", "Destino", "Teorias", "Saga", "Finais", "Legado", "Personagens"]
-data: "2025-04-07T21:41:32.506Z"
+title: 'Previsões e Teorias: O Destino de Fern e Stark no Encerramento de Sua Jornada'
+slug: previsoes-e-teorias-o-destino-de-fern-e-stark-no-encerramento-de-sua-jornada
+resumo: >-
+  Descubra as várias teorias e previsões sobre os possíveis finais para Fern e
+  Stark, dois personagens icônicos cujas jornadas têm cativado o público.
+  Explore como suas histórias podem se desenrolar, impactando seus destinos e o
+  legado que podem deixar.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: 'Fern, Stark, Destino, Teorias, Saga, Finais, Legado, Personagens'
+tags:
+  - Fern
+  - Stark
+  - Destino
+  - Teorias
+  - Saga
+  - Finais
+  - Legado
+  - Personagens
+data: '2025-04-07T21:41:32.506Z'
+author: Pablo Moura
 ---
 
 ## Introdução

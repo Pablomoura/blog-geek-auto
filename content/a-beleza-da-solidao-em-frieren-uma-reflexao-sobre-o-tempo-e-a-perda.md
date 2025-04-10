@@ -1,14 +1,26 @@
 ---
-title: "A Beleza da Solidão em 'Frieren': Uma Reflexão sobre o Tempo e a Perda"
-slug: "a-beleza-da-solidao-em-frieren-uma-reflexao-sobre-o-tempo-e-a-perda"
-resumo: "Explore como o mangá 'Frieren' aborda temas profundos como o tempo, a solidão e a perda. Este artigo analisa as nuances da narrativa e o impacto emocional da jornada de Frieren ao longo dos séculos."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, mangá, solidão, tempo, perda, reflexão, vida, emoção"
-tags: ["Frieren", "mangá", "solidão", "tempo", "perda", "reflexão", "vida", "emoção"]
-data: "2025-04-05T21:34:16.753Z"
+title: 'A Beleza da Solidão em ''Frieren'': Uma Reflexão sobre o Tempo e a Perda'
+slug: a-beleza-da-solidao-em-frieren-uma-reflexao-sobre-o-tempo-e-a-perda
+resumo: >-
+  Explore como o mangá 'Frieren' aborda temas profundos como o tempo, a solidão
+  e a perda. Este artigo analisa as nuances da narrativa e o impacto emocional
+  da jornada de Frieren ao longo dos séculos.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: 'Frieren, mangá, solidão, tempo, perda, reflexão, vida, emoção'
+tags:
+  - Frieren
+  - mangá
+  - solidão
+  - tempo
+  - perda
+  - reflexão
+  - vida
+  - emoção
+data: '2025-04-05T21:34:16.753Z'
+author: Luana Souza
 ---
 
 ## Introdução

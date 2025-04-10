@@ -1,13 +1,25 @@
 ---
-title: "The Phoenician Scheme | Novo filme de Wes Anderson ganha trailer"
-slug: "the-phoenician-scheme-novo-filme-de-wes-anderson-ganha-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/GEuMnPl2WI4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/SkK3fWlXlO9lnYeRefrCe9jj1Yw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T104347.415.png"
-tags: ["Wes Anderson", "The Phoenician Scheme", "trailer", "espionagem", "Benicio del Toro", "Festival de Cannes", "Roman Coppola", "cinema de autor"]
-keywords: "Wes Anderson, The Phoenician Scheme, trailer, espionagem, Benicio del Toro, Festival de Cannes, Roman Coppola, cinema de autor"
-data: "2025-04-07T14:11:25.481Z"
+title: The Phoenician Scheme | Novo filme de Wes Anderson ganha trailer
+slug: the-phoenician-scheme-novo-filme-de-wes-anderson-ganha-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/GEuMnPl2WI4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/SkK3fWlXlO9lnYeRefrCe9jj1Yw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T104347.415.png
+tags:
+  - Wes Anderson
+  - The Phoenician Scheme
+  - trailer
+  - espionagem
+  - Benicio del Toro
+  - Festival de Cannes
+  - Roman Coppola
+  - cinema de autor
+keywords: >-
+  Wes Anderson, The Phoenician Scheme, trailer, espionagem, Benicio del Toro,
+  Festival de Cannes, Roman Coppola, cinema de autor
+data: '2025-04-07T14:11:25.481Z'
+author: Ana Luiza
 ---
 
 A Universal Pictures e Focus Features lançaram, nesta segunda-feira (7), o primeiro trailer de 'The Phoenician Scheme' (O Esquema Fenício, na tradução livre), a mais recente obra do renomado diretor Wes Anderson, conhecido por filmes como 'O Grande Hotel Budapeste' e 'Os Excêntricos Tenenbaums'.

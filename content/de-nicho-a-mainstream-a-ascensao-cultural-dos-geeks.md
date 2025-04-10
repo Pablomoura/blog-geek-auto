@@ -1,14 +1,29 @@
 ---
-title: "De Nicho a Mainstream: A Ascensão Cultural dos Geeks"
-slug: "de-nicho-a-mainstream-a-ascensao-cultural-dos-geeks"
-resumo: "Este artigo explora a transformação do estereótipo geek, de uma subcultura marginalizada para uma força dominante na cultura mainstream. Discutiremos as origens desse movimento, os principais marcos dessa evolução e como a cultura geek influencia diversas áreas da sociedade contemporânea."
-categoria: "Cultura Pop"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "cultura geek, tecnologia, cinema, jogos, educação, mercado de trabalho, mainstream, história"
-tags: ["cultura geek", "tecnologia", "cinema", "jogos", "educação", "mercado de trabalho", "mainstream", "história"]
-data: "2025-04-05T01:10:14.478Z"
+title: 'De Nicho a Mainstream: A Ascensão Cultural dos Geeks'
+slug: de-nicho-a-mainstream-a-ascensao-cultural-dos-geeks
+resumo: >-
+  Este artigo explora a transformação do estereótipo geek, de uma subcultura
+  marginalizada para uma força dominante na cultura mainstream. Discutiremos as
+  origens desse movimento, os principais marcos dessa evolução e como a cultura
+  geek influencia diversas áreas da sociedade contemporânea.
+categoria: Cultura Pop
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  cultura geek, tecnologia, cinema, jogos, educação, mercado de trabalho,
+  mainstream, história
+tags:
+  - cultura geek
+  - tecnologia
+  - cinema
+  - jogos
+  - educação
+  - mercado de trabalho
+  - mainstream
+  - história
+data: '2025-04-05T01:10:14.478Z'
+author: Luana Souza
 ---
 
 ## Introdução

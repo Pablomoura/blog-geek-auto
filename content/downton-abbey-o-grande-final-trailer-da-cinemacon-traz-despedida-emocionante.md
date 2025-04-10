@@ -1,13 +1,28 @@
 ---
-title: "Downton Abbey: O Grande Final | Emoção marca o trailer apresentado na CinemaCon"
-slug: "downton-abbey-o-grande-final-trailer-da-cinemacon-traz-despedida-emocionante"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/2BEiiOtyLUtktt3jO-xq0SrMv30=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T194019.598.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/p7czLsQAfvvq8ToP4BbsiYOTYrI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T194006.248.png"
-tags: ["Downton Abbey", "CinemaCon", "trailer emocionante", "Colin Firth", "Paul Giamatti", "Julian Fellowes", "filme britânico", "estreia 12 de setembro"]
-keywords: "Downton Abbey, CinemaCon, trailer emocionante, Colin Firth, Paul Giamatti, Julian Fellowes, filme britânico, estreia 12 de setembro"
-data: "2025-04-03T00:12:20.276Z"
+title: >-
+  Downton Abbey: O Grande Final | Emoção marca o trailer apresentado na
+  CinemaCon
+slug: downton-abbey-o-grande-final-trailer-da-cinemacon-traz-despedida-emocionante
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/2BEiiOtyLUtktt3jO-xq0SrMv30=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T194019.598.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/p7czLsQAfvvq8ToP4BbsiYOTYrI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T194006.248.png
+tags:
+  - Downton Abbey
+  - CinemaCon
+  - trailer emocionante
+  - Colin Firth
+  - Paul Giamatti
+  - Julian Fellowes
+  - filme britânico
+  - estreia 12 de setembro
+keywords: >-
+  Downton Abbey, CinemaCon, trailer emocionante, Colin Firth, Paul Giamatti,
+  Julian Fellowes, filme britânico, estreia 12 de setembro
+data: '2025-04-03T00:12:20.276Z'
+author: Pablo Moura
 ---
 
 A aguardada conclusão cinematográfica de 'Downton Abbey' foi destaque na CinemaCon deste ano, com a estreia de seu primeiro trailer. O vídeo emocionante apresenta cenas notáveis, incluindo Colin Firth em um momento íntimo de um beijo palaciano, e Paul Giamatti, que também recebe considerável destaque.

@@ -1,14 +1,29 @@
 ---
-title: "Por que Frieren é um dos Animes Mais Bem Avaliados de Todos os Tempos"
-slug: "por-que-frieren-e-um-dos-animes-mais-bem-avaliados-de-todos-os-tempos"
-resumo: "Descubra os motivos pelos quais o anime Frieren se destaca como um dos mais bem avaliados. Desde a profundidade narrativa até a qualidade visual, explore cada aspecto que contribui para sua aclamação crítica e popularidade duradoura."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, anime, narrativa, animação, personagens, trilha sonora, design visual, avaliação de anime"
-tags: ["Frieren", "anime", "narrativa", "animação", "personagens", "trilha sonora", "design visual", "avaliação de anime"]
-data: "2025-04-08T21:23:45.700Z"
+title: Por que Frieren é um dos Animes Mais Bem Avaliados de Todos os Tempos
+slug: por-que-frieren-e-um-dos-animes-mais-bem-avaliados-de-todos-os-tempos
+resumo: >-
+  Descubra os motivos pelos quais o anime Frieren se destaca como um dos mais
+  bem avaliados. Desde a profundidade narrativa até a qualidade visual, explore
+  cada aspecto que contribui para sua aclamação crítica e popularidade
+  duradoura.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, anime, narrativa, animação, personagens, trilha sonora, design
+  visual, avaliação de anime
+tags:
+  - Frieren
+  - anime
+  - narrativa
+  - animação
+  - personagens
+  - trilha sonora
+  - design visual
+  - avaliação de anime
+data: '2025-04-08T21:23:45.700Z'
+author: Ana Luiza
 ---
 
 ## Introdução

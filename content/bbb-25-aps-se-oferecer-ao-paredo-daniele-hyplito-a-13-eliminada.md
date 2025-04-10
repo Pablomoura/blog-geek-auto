@@ -1,13 +1,26 @@
 ---
-title: "BBB 25 | Daniele Hypólito é eliminada após autoindicação ao Paredão"
-slug: "bbb-25-aps-se-oferecer-ao-paredo-daniele-hyplito-a-13-eliminada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/oPoAeAe5STDd4XwylVNAkgjDdEM=/480x360/smart/extras/conteudos/bbb25-daniele-hypolito-eliminada-peq.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/oPoAeAe5STDd4XwylVNAkgjDdEM=/480x360/smart/extras/conteudos/bbb25-daniele-hypolito-eliminada-peq.jpg"
-tags: ["BBB 25", "Daniele Hypólito", "eliminação", "Paredão", "votação", "Tadeu Schmidt", "Rodrigo Dourado", "Globo"]
-keywords: "BBB 25, Daniele Hypólito, eliminação, Paredão, votação, Tadeu Schmidt, Rodrigo Dourado, Globo"
-data: "2025-04-07T03:32:18.713Z"
+title: BBB 25 | Daniele Hypólito é eliminada após autoindicação ao Paredão
+slug: bbb-25-aps-se-oferecer-ao-paredo-daniele-hyplito-a-13-eliminada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/oPoAeAe5STDd4XwylVNAkgjDdEM=/480x360/smart/extras/conteudos/bbb25-daniele-hypolito-eliminada-peq.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/oPoAeAe5STDd4XwylVNAkgjDdEM=/480x360/smart/extras/conteudos/bbb25-daniele-hypolito-eliminada-peq.jpg
+tags:
+  - BBB 25
+  - Daniele Hypólito
+  - eliminação
+  - Paredão
+  - votação
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - Globo
+keywords: >-
+  BBB 25, Daniele Hypólito, eliminação, Paredão, votação, Tadeu Schmidt, Rodrigo
+  Dourado, Globo
+data: '2025-04-07T03:32:18.713Z'
+author: Pablo Moura
 ---
 
 Na noite deste domingo (06), o resultado do 13º Paredão do BBB 25 foi revelado ao vivo, apresentando uma competição acirrada entre João Pedro, Daniele Hypólito e Maike. Daniele Hypólito, que se ofereceu para ir ao Paredão, foi a eliminada da vez, recebendo 50,97% dos votos do público. João Pedro ficou em segundo lugar, com 45,38% dos votos, enquanto Maike obteve apenas 4,25%, ficando em último na preferência para saída.

@@ -1,13 +1,26 @@
 ---
-title: "Duna: Messias | Robert Pattinson cotado para papel importante na sequência"
-slug: "duna-messias-produtora-quer-robert-pattinson-no-elenco-confira-o-papel"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FZ6QqrrO6cBECb8ttZNxTN_StQU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-20T133745.354.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dd1KILyxVixzh6XMOo-bf_NKXPI=/480x360/smart/extras/conteudos/robert-pattinson.webp"
-tags: ["Duna: Messias", "Robert Pattinson", "Denis Villeneuve", "Legendary", "Frank Herbert", "sequência de Duna", "elenco estelar", "especiaria Melange"]
-keywords: "Duna: Messias, Robert Pattinson, Denis Villeneuve, Legendary, Frank Herbert, sequência de Duna, elenco estelar, especiaria Melange"
-data: "2025-04-08T21:10:24.062Z"
+title: 'Duna: Messias | Robert Pattinson cotado para papel importante na sequência'
+slug: duna-messias-produtora-quer-robert-pattinson-no-elenco-confira-o-papel
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FZ6QqrrO6cBECb8ttZNxTN_StQU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-20T133745.354.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dd1KILyxVixzh6XMOo-bf_NKXPI=/480x360/smart/extras/conteudos/robert-pattinson.webp
+tags:
+  - 'Duna: Messias'
+  - Robert Pattinson
+  - Denis Villeneuve
+  - Legendary
+  - Frank Herbert
+  - sequência de Duna
+  - elenco estelar
+  - especiaria Melange
+keywords: >-
+  Duna: Messias, Robert Pattinson, Denis Villeneuve, Legendary, Frank Herbert,
+  sequência de Duna, elenco estelar, especiaria Melange
+data: '2025-04-08T21:10:24.062Z'
+author: Luana Souza
 ---
 
 O universo de 'Duna' de Denis Villeneuve se prepara para expandir com o próximo filme, 'Duna: Messias'. Segundo informações do Deadline, a produtora Legendary está considerando incluir Robert Pattinson no elenco desta nova jornada cinematográfica. Embora o diretor Denis Villeneuve ainda esteja finalizando o roteiro do filme, fontes ligadas ao projeto indicam que, embora ainda não tenha sido feita uma oferta formal, existe um forte interesse na participação do ator conhecido por seu papel em 'Batman'.

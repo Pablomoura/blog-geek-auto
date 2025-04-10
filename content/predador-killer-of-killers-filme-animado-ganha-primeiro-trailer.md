@@ -1,13 +1,25 @@
 ---
-title: "Predador: Killer of Killers | Filme animado ganha primeiro trailer"
-slug: "predador-killer-of-killers-filme-animado-ganha-primeiro-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/eWzPKrNoSyM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Gmc7ZJ_q2hqdhtM5GxIeo64Sf3I=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_131249.png"
-tags: ["Predador", "Filme Animado", "Hulu", "Antologia", "Épocas Históricas", "20th Century Fox", "Elle Fanning", "Franquia Alien"]
-keywords: "Predador, Filme Animado, Hulu, Antologia, Épocas Históricas, 20th Century Fox, Elle Fanning, Franquia Alien"
-data: "2025-04-08T17:13:04.211Z"
+title: 'Predador: Killer of Killers | Filme animado ganha primeiro trailer'
+slug: predador-killer-of-killers-filme-animado-ganha-primeiro-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/eWzPKrNoSyM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Gmc7ZJ_q2hqdhtM5GxIeo64Sf3I=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_131249.png
+tags:
+  - Predador
+  - Filme Animado
+  - Hulu
+  - Antologia
+  - Épocas Históricas
+  - 20th Century Fox
+  - Elle Fanning
+  - Franquia Alien
+keywords: >-
+  Predador, Filme Animado, Hulu, Antologia, Épocas Históricas, 20th Century Fox,
+  Elle Fanning, Franquia Alien
+data: '2025-04-08T17:13:04.211Z'
+author: Pablo Moura
 ---
 
 O universo de Predador se expande com o lançamento do trailer de 'Predador: Killer of Killers'. A animação, prevista para estrear em 6 de junho nos Estados Unidos pela Hulu, ainda não tem data de lançamento confirmada no Brasil. O trailer revela uma série de caçadas protagonizadas pelo Predador em variadas épocas históricas, incluindo a era dos vikings, uma grande guerra mundial e o Japão feudal, configurando o filme como uma antologia animada que explora diferentes períodos e regiões.

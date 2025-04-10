@@ -1,13 +1,26 @@
 ---
-title: "Fire Force | 3ª temporada ganha artes por criador do mangá"
-slug: "fire-force-3-temporada-ganha-artes-por-criador-do-mang"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/LFQ6Fni6K-EX8xYShdj2D1_bXT0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T111455.916.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SXcxQ0YqyuW3lnC7mbi1pfeLBjY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T111442.038.png"
-tags: ["Fire Force", "Atsushi Ohkubo", "anime", "mangá", "temporada 3", "Crunchyroll", "Arco de Resgate do Obi", "White Clad"]
-keywords: "Fire Force, Atsushi Ohkubo, anime, mangá, temporada 3, Crunchyroll, Arco de Resgate do Obi, White Clad"
-data: "2025-04-04T15:12:49.044Z"
+title: Fire Force | 3ª temporada ganha artes por criador do mangá
+slug: fire-force-3-temporada-ganha-artes-por-criador-do-mang
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/LFQ6Fni6K-EX8xYShdj2D1_bXT0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T111455.916.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SXcxQ0YqyuW3lnC7mbi1pfeLBjY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T111442.038.png
+tags:
+  - Fire Force
+  - Atsushi Ohkubo
+  - anime
+  - mangá
+  - temporada 3
+  - Crunchyroll
+  - Arco de Resgate do Obi
+  - White Clad
+keywords: >-
+  Fire Force, Atsushi Ohkubo, anime, mangá, temporada 3, Crunchyroll, Arco de
+  Resgate do Obi, White Clad
+data: '2025-04-04T15:12:49.044Z'
+author: Luana Souza
 ---
 
 O mangaká responsável por Fire Force, Atsushi Ohkubo, acaba de divulgar novas artes conceituais para a terceira temporada do anime. A aguardada sequência será lançada em 5 de abril e promete emocionar os fãs, adaptando a história a partir do Capítulo 175 do mangá.

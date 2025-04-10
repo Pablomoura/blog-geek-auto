@@ -15,6 +15,7 @@ tags:
   - novo álbum
   - música
   - based on a true story
+author: Pablo Moura
 ---
 
 Will Smith utilizou o lançamento de seu novo álbum, 'Based on a True Story', para expressar em música suas reflexões sobre o tapa que deu em Chris Rock durante o Oscar de 2022. O disco, que chegou às plataformas digitais esta semana, inclui a faixa 'You Lookin' for Me', que aborda diretamente o incidente e suas repercussões na carreira do ator.

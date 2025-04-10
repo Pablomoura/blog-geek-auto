@@ -18,6 +18,7 @@ tags:
   - tv globo
   - conflitos familiais
   - taís araújo
+author: Ana Luiza
 ---
 
 A clássica novela 'Vale Tudo', conhecida por apresentar uma das maiores vilãs da televisão brasileira, retorna à tela da TV Globo em um remake cheio de expectativas. Sob a direção de Paulo Silvestrini e com roteiro de Manuela Dias, a trama se renova com um elenco estelar que inclui Taís Araújo, Cauã Reymond e Deborah Bloch.

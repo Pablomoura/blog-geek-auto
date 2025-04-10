@@ -1,13 +1,26 @@
 ---
-title: "Cabo do Medo | Apple TV+ anuncia diretor de Silo na nova adaptação"
-slug: "cabo-do-medo-apple-tv-anuncia-diretor-de-silo-na-nova-adaptao"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/njKQk1DAe_pM2pSV8F8mS-y07rg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-07T202943.675.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ymn9u4_Paao-74yPjVZEJ4Xrz7U=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-07T202943.675.png"
-tags: ["Apple TV+", "Cabo do Medo", "thriller", "adaptação literária", "Morten Tyldum", "CHH Pounder", "crimes reais", "hitchcockiano"]
-keywords: "Apple TV+, Cabo do Medo, thriller, adaptação literária, Morten Tyldum, CHH Pounder, crimes reais, hitchcockiano"
-data: "2025-04-08T02:23:12.955Z"
+title: Cabo do Medo | Apple TV+ anuncia diretor de Silo na nova adaptação
+slug: cabo-do-medo-apple-tv-anuncia-diretor-de-silo-na-nova-adaptao
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/njKQk1DAe_pM2pSV8F8mS-y07rg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-07T202943.675.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ymn9u4_Paao-74yPjVZEJ4Xrz7U=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-07T202943.675.png
+tags:
+  - Apple TV+
+  - Cabo do Medo
+  - thriller
+  - adaptação literária
+  - Morten Tyldum
+  - CHH Pounder
+  - crimes reais
+  - hitchcockiano
+keywords: >-
+  Apple TV+, Cabo do Medo, thriller, adaptação literária, Morten Tyldum, CHH
+  Pounder, crimes reais, hitchcockiano
+data: '2025-04-08T02:23:12.955Z'
+author: Ana Luiza
 ---
 
 Apple TV+ confirmou nesta segunda-feira (07) novidades sobre a adaptação de 'Cabo do Medo'. A atriz CHH Pounder foi escalada para o elenco, e Morten Tyldum, conhecido por dirigir 'Silo', será o responsável pela direção do episódio piloto, além de assumir o papel de produtor executivo.

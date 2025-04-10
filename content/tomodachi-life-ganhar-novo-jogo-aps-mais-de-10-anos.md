@@ -14,6 +14,7 @@ tags:
   - personagens mii
   - jogos de simulação
   - interação social
+author: Ana Luiza
 ---
 
 Depois de uma espera de 12 anos, a franquia Tomodachi Life está de volta com um novo título. Anunciado para lançamento em 2026, Tomodachi Life: Living the Dream promete trazer novas aventuras no Nintendo Switch com personagens Mii em interações únicas e envolventes.

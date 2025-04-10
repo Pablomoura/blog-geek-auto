@@ -1,14 +1,29 @@
 ---
-title: "As Transformações Mais Impactantes de Kafka e Seus Aliados na Literatura"
-slug: "as-transformacoes-mais-impactantes-de-kafka-e-seus-aliados-na-literatura"
-resumo: "Explore as transformações mais notáveis e simbólicas nas obras de Franz Kafka, focando em como elas refletem os dilemas internos e sociais dos personagens. Este artigo detalha essas metamorfoses e suas implicações na literatura moderna."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Franz Kafka, literatura, metamorfose, transformação, alienação, burocracia, absurdo, condição humana"
-tags: ["Franz Kafka", "literatura", "metamorfose", "transformação", "alienação", "burocracia", "absurdo", "condição humana"]
-data: "2025-04-08T22:18:44.040Z"
+title: As Transformações Mais Impactantes de Kafka e Seus Aliados na Literatura
+slug: as-transformacoes-mais-impactantes-de-kafka-e-seus-aliados-na-literatura
+resumo: >-
+  Explore as transformações mais notáveis e simbólicas nas obras de Franz Kafka,
+  focando em como elas refletem os dilemas internos e sociais dos personagens.
+  Este artigo detalha essas metamorfoses e suas implicações na literatura
+  moderna.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Franz Kafka, literatura, metamorfose, transformação, alienação, burocracia,
+  absurdo, condição humana
+tags:
+  - Franz Kafka
+  - literatura
+  - metamorfose
+  - transformação
+  - alienação
+  - burocracia
+  - absurdo
+  - condição humana
+data: '2025-04-08T22:18:44.040Z'
+author: Ana Luiza
 ---
 
 ## Introdução

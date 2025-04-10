@@ -1,14 +1,30 @@
 ---
-title: "O que Significa Ser Geek Hoje: Uma Exploração Cultural e Comunitária"
-slug: "o-que-significa-ser-geek-hoje-uma-exploracao-cultural-e-comunitaria"
-resumo: "Explorar o significado de ser geek no mundo contemporâneo é mergulhar em uma cultura rica e diversificada. Este artigo analisa as várias facetas do ser geek, desde o consumo de tecnologia até a paixão por histórias em quadrinhos, destacando como essa identidade evoluiu e o que ela representa na sociedade atual."
-categoria: "Cultura"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "cultura geek, tecnologia, comunidade geek, eventos geek, mídias sociais, inovação, cultura pop, tendências"
-tags: ["cultura geek", "tecnologia", "comunidade geek", "eventos geek", "mídias sociais", "inovação", "cultura pop", "tendências"]
-data: "2025-04-05T00:49:29.169Z"
+title: 'O que Significa Ser Geek Hoje: Uma Exploração Cultural e Comunitária'
+slug: o-que-significa-ser-geek-hoje-uma-exploracao-cultural-e-comunitaria
+resumo: >-
+  Explorar o significado de ser geek no mundo contemporâneo é mergulhar em uma
+  cultura rica e diversificada. Este artigo analisa as várias facetas do ser
+  geek, desde o consumo de tecnologia até a paixão por histórias em quadrinhos,
+  destacando como essa identidade evoluiu e o que ela representa na sociedade
+  atual.
+categoria: Cultura
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  cultura geek, tecnologia, comunidade geek, eventos geek, mídias sociais,
+  inovação, cultura pop, tendências
+tags:
+  - cultura geek
+  - tecnologia
+  - comunidade geek
+  - eventos geek
+  - mídias sociais
+  - inovação
+  - cultura pop
+  - tendências
+data: '2025-04-05T00:49:29.169Z'
+author: Pablo Moura
 ---
 
 ## Introdução

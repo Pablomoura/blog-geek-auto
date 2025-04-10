@@ -1,14 +1,31 @@
 ---
-title: "Marvel ou DC? Entenda as Diferenças e Similaridades no Universo Cinematográfico"
-slug: "marvel-ou-dc-entenda-as-diferencas-e-similaridades-no-universo-cinematografico"
-resumo: "O debate entre Marvel e DC tem sido uma constante entre os fãs de super-heróis. Este artigo explora as características distintas que definem cada universo, bem como os aspectos que unem essas duas gigantes das histórias em quadrinhos nas telonas."
-categoria: "Entretenimento"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "Marvel, DC, Cinema, Super-heróis, Filmes, Quadrinhos, Cultura Pop, Entretenimento"
-tags: ["Marvel", "DC", "Cinema", "Super-heróis", "Filmes", "Quadrinhos", "Cultura Pop", "Entretenimento"]
-data: "2025-04-03T00:59:06.925Z"
+title: >-
+  Marvel ou DC? Entenda as Diferenças e Similaridades no Universo
+  Cinematográfico
+slug: marvel-ou-dc-entenda-as-diferencas-e-similaridades-no-universo-cinematografico
+resumo: >-
+  O debate entre Marvel e DC tem sido uma constante entre os fãs de
+  super-heróis. Este artigo explora as características distintas que definem
+  cada universo, bem como os aspectos que unem essas duas gigantes das histórias
+  em quadrinhos nas telonas.
+categoria: Entretenimento
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  Marvel, DC, Cinema, Super-heróis, Filmes, Quadrinhos, Cultura Pop,
+  Entretenimento
+tags:
+  - Marvel
+  - DC
+  - Cinema
+  - Super-heróis
+  - Filmes
+  - Quadrinhos
+  - Cultura Pop
+  - Entretenimento
+data: '2025-04-03T00:59:06.925Z'
+author: Luana Souza
 ---
 
 ## Marvel vs. DC: Uma Rivalidade Histórica

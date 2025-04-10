@@ -1,14 +1,29 @@
 ---
-title: "Cenas Melhores no Anime vs. Mangá: Uma Análise Comparativa"
-slug: "cenas-melhores-no-anime-vs-manga-uma-analise-comparativa"
-resumo: "Este artigo explora as diferenças entre cenas de animes e seus correspondentes no mangá, destacando quais se sobressaem em cada formato e por quê. Analisaremos exemplos notáveis que demonstram como a animação ou a arte estática podem realçar diferentes aspectos de uma história."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "anime, mangá, adaptação, cenas icônicas, animação vs estático, efeitos sonoros, arte visual, narrativa"
-tags: ["anime", "mangá", "adaptação", "cenas icônicas", "animação vs estático", "efeitos sonoros", "arte visual", "narrativa"]
-data: "2025-04-07T22:14:08.833Z"
+title: 'Cenas Melhores no Anime vs. Mangá: Uma Análise Comparativa'
+slug: cenas-melhores-no-anime-vs-manga-uma-analise-comparativa
+resumo: >-
+  Este artigo explora as diferenças entre cenas de animes e seus correspondentes
+  no mangá, destacando quais se sobressaem em cada formato e por quê.
+  Analisaremos exemplos notáveis que demonstram como a animação ou a arte
+  estática podem realçar diferentes aspectos de uma história.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  anime, mangá, adaptação, cenas icônicas, animação vs estático, efeitos
+  sonoros, arte visual, narrativa
+tags:
+  - anime
+  - mangá
+  - adaptação
+  - cenas icônicas
+  - animação vs estático
+  - efeitos sonoros
+  - arte visual
+  - narrativa
+data: '2025-04-07T22:14:08.833Z'
+author: Luana Souza
 ---
 
 ## Introdução

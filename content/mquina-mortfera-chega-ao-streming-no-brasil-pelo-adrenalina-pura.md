@@ -1,13 +1,25 @@
 ---
-title: "Máquina Mortífera chega ao streaming no Brasil pelo Adrenalina Pura+"
-slug: "mquina-mortfera-chega-ao-streming-no-brasil-pelo-adrenalina-pura"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/pnvEqlx7drQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/V_-RbQVHWhsa3_IsFs9Dp8tzElM=/480x360/smart/extras/conteudos/maquina-mortifera.webp"
-tags: ["Máquina Mortífera", "streaming", "Adrenalina Pura+", "série policial", "Damon Wayans", "Clayne Crawford", "Seann William Scott", "lançamento em abril"]
-keywords: "Máquina Mortífera, streaming, Adrenalina Pura+, série policial, Damon Wayans, Clayne Crawford, Seann William Scott, lançamento em abril"
-data: "2025-04-04T12:16:52.015Z"
+title: Máquina Mortífera chega ao streaming no Brasil pelo Adrenalina Pura+
+slug: mquina-mortfera-chega-ao-streming-no-brasil-pelo-adrenalina-pura
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/pnvEqlx7drQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/V_-RbQVHWhsa3_IsFs9Dp8tzElM=/480x360/smart/extras/conteudos/maquina-mortifera.webp
+tags:
+  - Máquina Mortífera
+  - streaming
+  - Adrenalina Pura+
+  - série policial
+  - Damon Wayans
+  - Clayne Crawford
+  - Seann William Scott
+  - lançamento em abril
+keywords: >-
+  Máquina Mortífera, streaming, Adrenalina Pura+, série policial, Damon Wayans,
+  Clayne Crawford, Seann William Scott, lançamento em abril
+data: '2025-04-04T12:16:52.015Z'
+author: Ana Luiza
 ---
 
 A aclamada série 'Máquina Mortífera', que serve como remake dos icônicos filmes dos anos 1980 e 1990 protagonizados por Mel Gibson e Danny Glover, está prestes a ser lançada no serviço de streaming brasileiro Adrenalina Pura+. A plataforma confirmou que as três temporadas da série estarão disponíveis a partir de abril. Uma cena exclusiva já pode ser vista acima!

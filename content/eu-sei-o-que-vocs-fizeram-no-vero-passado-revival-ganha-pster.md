@@ -16,6 +16,7 @@ tags:
   - revival
   - pôster
   - eu sei o que vocês fizeram no verão passado
+author: Ana Luiza
 ---
 
 O aguardado revival do filme 'Eu Sei o Que Vocês Fizeram no Verão Passado' acaba de ser agraciado com um novo pôster, que promete reviver o suspense que cativou tantos fãs. A arte do pôster foi divulgada recentemente e já está gerando expectativas.

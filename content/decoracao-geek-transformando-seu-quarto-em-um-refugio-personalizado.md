@@ -1,14 +1,29 @@
 ---
-title: "Decoração Geek: Transformando Seu Quarto em um Refúgio Personalizado"
-slug: "decoracao-geek-transformando-seu-quarto-em-um-refugio-personalizado"
-resumo: "Descubra como incorporar a cultura geek em seu quarto com ideias criativas e personalizadas. Desde escolher o tema ideal até selecionar acessórios e móveis, este guia oferece dicas práticas para criar um espaço único que reflita sua paixão por filmes, séries, jogos e mais."
-categoria: "Decoração de Interiores"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "decoração geek, quarto temático, DIY decoração, cultura geek, ideias de decoração, personalização de quarto, decoração de interiores, temas geek"
-tags: ["decoração geek", "quarto temático", "DIY decoração", "cultura geek", "ideias de decoração", "personalização de quarto", "decoração de interiores", "temas geek"]
-data: "2025-04-01T01:05:36.092Z"
+title: 'Decoração Geek: Transformando Seu Quarto em um Refúgio Personalizado'
+slug: decoracao-geek-transformando-seu-quarto-em-um-refugio-personalizado
+resumo: >-
+  Descubra como incorporar a cultura geek em seu quarto com ideias criativas e
+  personalizadas. Desde escolher o tema ideal até selecionar acessórios e
+  móveis, este guia oferece dicas práticas para criar um espaço único que
+  reflita sua paixão por filmes, séries, jogos e mais.
+categoria: Decoração de Interiores
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  decoração geek, quarto temático, DIY decoração, cultura geek, ideias de
+  decoração, personalização de quarto, decoração de interiores, temas geek
+tags:
+  - decoração geek
+  - quarto temático
+  - DIY decoração
+  - cultura geek
+  - ideias de decoração
+  - personalização de quarto
+  - decoração de interiores
+  - temas geek
+data: '2025-04-01T01:05:36.092Z'
+author: Luana Souza
 ---
 
 ## Introdução

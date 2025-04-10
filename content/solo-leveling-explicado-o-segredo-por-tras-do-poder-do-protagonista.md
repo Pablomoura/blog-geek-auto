@@ -1,14 +1,29 @@
 ---
-title: "Solo Leveling Explicado: O Segredo por Trás do Poder do Protagonista"
-slug: "solo-leveling-explicado-o-segredo-por-tras-do-poder-do-protagonista"
-resumo: "Descubra o que torna Sung Jin-Woo, o personagem principal de Solo Leveling, extraordinariamente poderoso. Este guia detalha os aspectos únicos do sistema de poder, as habilidades especiais e a evolução do personagem ao longo da série."
-categoria: "Análise de Personagens"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, Sung Jin-Woo, poderes, narrativa, sistema de RPG, necromancia, evolução de personagem, mangá"
-tags: ["Solo Leveling", "Sung Jin-Woo", "poderes", "narrativa", "sistema de RPG", "necromancia", "evolução de personagem", "mangá"]
-data: "2025-04-06T01:33:25.217Z"
+title: 'Solo Leveling Explicado: O Segredo por Trás do Poder do Protagonista'
+slug: solo-leveling-explicado-o-segredo-por-tras-do-poder-do-protagonista
+resumo: >-
+  Descubra o que torna Sung Jin-Woo, o personagem principal de Solo Leveling,
+  extraordinariamente poderoso. Este guia detalha os aspectos únicos do sistema
+  de poder, as habilidades especiais e a evolução do personagem ao longo da
+  série.
+categoria: Análise de Personagens
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, Sung Jin-Woo, poderes, narrativa, sistema de RPG, necromancia,
+  evolução de personagem, mangá
+tags:
+  - Solo Leveling
+  - Sung Jin-Woo
+  - poderes
+  - narrativa
+  - sistema de RPG
+  - necromancia
+  - evolução de personagem
+  - mangá
+data: '2025-04-06T01:33:25.217Z'
+author: Ana Luiza
 ---
 
 ## Introdução

@@ -1,14 +1,29 @@
 ---
-title: "Explorando o Universo de Frieren: Magia, Heróis e a Jornada Além"
-slug: "explorando-o-universo-de-frieren-magia-herois-e-a-jornada-alem"
-resumo: "Descubra o fascinante universo de Frieren, um mundo onde a magia e os heróis se entrelaçam em uma narrativa épica. Este artigo oferece uma visão detalhada sobre os elementos mágicos, os personagens heroicos e a jornada que continua mesmo após o suposto final da aventura."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, Magia, Heróis, Fantasia, Narrativa, Universo, Legado, Crescimento pessoal"
-tags: ["Frieren", "Magia", "Heróis", "Fantasia", "Narrativa", "Universo", "Legado", "Crescimento pessoal"]
-data: "2025-04-08T01:09:30.547Z"
+title: 'Explorando o Universo de Frieren: Magia, Heróis e a Jornada Além'
+slug: explorando-o-universo-de-frieren-magia-herois-e-a-jornada-alem
+resumo: >-
+  Descubra o fascinante universo de Frieren, um mundo onde a magia e os heróis
+  se entrelaçam em uma narrativa épica. Este artigo oferece uma visão detalhada
+  sobre os elementos mágicos, os personagens heroicos e a jornada que continua
+  mesmo após o suposto final da aventura.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, Magia, Heróis, Fantasia, Narrativa, Universo, Legado, Crescimento
+  pessoal
+tags:
+  - Frieren
+  - Magia
+  - Heróis
+  - Fantasia
+  - Narrativa
+  - Universo
+  - Legado
+  - Crescimento pessoal
+data: '2025-04-08T01:09:30.547Z'
+author: Ana Luiza
 ---
 
 ## Introdução ao Universo de Frieren

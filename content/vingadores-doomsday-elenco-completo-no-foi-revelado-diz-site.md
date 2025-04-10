@@ -14,6 +14,7 @@ tags:
   - elenco
   - surpresas
   - filme
+author: Ana Luiza
 ---
 
 De acordo com o The Hollywood Reporter, os 26 atores divulgados para o filme 'Vingadores: Doomsday' na última quarta-feira (26) podem não ser os únicos participantes do projeto. Segundo fontes, a Marvel ainda não completou a divulgação de todos os envolvidos, mas detalhes sobre como ou quando os anúncios serão feitos ainda são incertos. É possível que a produtora reserve algumas surpresas para o lançamento nos cinemas.

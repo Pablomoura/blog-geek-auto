@@ -16,6 +16,7 @@ tags:
   - donkey kong bananza
   - lançamento de console
   - nintendo direct
+author: Luana Souza
 ---
 
 Durante a Nintendo Direct de hoje, evento anual da empresa, foram reveladas novidades significativas sobre o Nintendo Switch 2, incluindo os preços dos jogos que acompanharão o lançamento do console. Os jogos Mario Kart World e Donkey Kong Bananza, os primeiros títulos para o novo console, serão vendidos por € 80 na versão digital e € 90 na versão física. Embora a Nintendo não tenha confirmado se esses preços serão padrão para futuros jogos, é esperado que se mantenham. A conversão direta desses valores para o real seria de aproximadamente R$ 500 e R$ 550, respectivamente, mas os preços podem ser ajustados quando os jogos chegarem ao mercado brasileiro.

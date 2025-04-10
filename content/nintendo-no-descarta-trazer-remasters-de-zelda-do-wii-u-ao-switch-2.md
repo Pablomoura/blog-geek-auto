@@ -1,13 +1,25 @@
 ---
-title: "Nintendo não descarta trazer remasters de Zelda do Wii U ao Switch 2"
-slug: "nintendo-no-descarta-trazer-remasters-de-zelda-do-wii-u-ao-switch-2"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/xCY-bwivPRc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Kor8lskIhm6HU4QvHvBI_dWCBXw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T184410.121.png"
-tags: ["Nintendo Switch 2", "Zelda remasters", "Wind Waker HD", "Twilight Princess", "Wii U", "Switch Online", "GameCube", "remakes de jogos"]
-keywords: "Nintendo Switch 2, Zelda remasters, Wind Waker HD, Twilight Princess, Wii U, Switch Online, GameCube, remakes de jogos"
-data: "2025-04-09T22:09:45.746Z"
+title: Nintendo não descarta trazer remasters de Zelda do Wii U ao Switch 2
+slug: nintendo-no-descarta-trazer-remasters-de-zelda-do-wii-u-ao-switch-2
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/xCY-bwivPRc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Kor8lskIhm6HU4QvHvBI_dWCBXw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T184410.121.png
+tags:
+  - Nintendo Switch 2
+  - Zelda remasters
+  - Wind Waker HD
+  - Twilight Princess
+  - Wii U
+  - Switch Online
+  - GameCube
+  - remakes de jogos
+keywords: >-
+  Nintendo Switch 2, Zelda remasters, Wind Waker HD, Twilight Princess, Wii U,
+  Switch Online, GameCube, remakes de jogos
+data: '2025-04-09T22:09:45.746Z'
+author: Ana Luiza
 ---
 
 Durante uma participação no programa Kinda Funny Games na última quinta-feira (08), Tim Gettys, o apresentador, revelou ter conversado com Nate Bihldorff, vice-presidente sênior da Nintendo of America. Gettys, que encontrou Bihldorff em um evento dedicado ao Switch 2 em Nova Iorque, indagou o executivo sobre a possibilidade de trazer os remasters de The Legend of Zelda: Wind Waker e The Legend of Zelda: Twilight Princess, originalmente lançados para Wii U, para o novo console, o Nintendo Switch 2.

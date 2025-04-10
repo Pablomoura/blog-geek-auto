@@ -1,13 +1,26 @@
 ---
-title: "As Crônicas de Nárnia | Netflix negocia para Meryl Streep interpretar Aslan"
-slug: "as-crnicas-de-nrnia-netflix-negocia-para-meryl-streep-interpretar-aslan"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/5Ri-SGGb7O_UaEsfdOdACBQCRtE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T141032.766.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/yaHNWukOLlaJ_gmgWTlnFftUqwI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T141004.063.png"
-tags: ["Netflix", "Meryl Streep", "As Crônicas de Nárnia", "Greta Gerwig", "Charli XCX", "adaptação cinematográfica", "IMAX", "streaming"]
-keywords: "Netflix, Meryl Streep, As Crônicas de Nárnia, Greta Gerwig, Charli XCX, adaptação cinematográfica, IMAX, streaming"
-data: "2025-04-03T17:11:22.617Z"
+title: As Crônicas de Nárnia | Netflix negocia para Meryl Streep interpretar Aslan
+slug: as-crnicas-de-nrnia-netflix-negocia-para-meryl-streep-interpretar-aslan
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/5Ri-SGGb7O_UaEsfdOdACBQCRtE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-31T141032.766.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/yaHNWukOLlaJ_gmgWTlnFftUqwI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-31T141004.063.png
+tags:
+  - Netflix
+  - Meryl Streep
+  - As Crônicas de Nárnia
+  - Greta Gerwig
+  - Charli XCX
+  - adaptação cinematográfica
+  - IMAX
+  - streaming
+keywords: >-
+  Netflix, Meryl Streep, As Crônicas de Nárnia, Greta Gerwig, Charli XCX,
+  adaptação cinematográfica, IMAX, streaming
+data: '2025-04-03T17:11:22.617Z'
+author: Ana Luiza
 ---
 
 Um burburinho recente envolve a comunidade de fãs de As Crônicas de Nárnia. De acordo com informações do NexusPointNews, a renomada atriz Meryl Streep está em negociações preliminares com a Netflix para encarnar Aslan no próximo filme dirigido por Greta Gerwig. A proposta já teria sido apresentada à atriz, que discute atualmente os termos com o serviço de streaming. Aslan, que é uma figura central na narrativa de C. S. Lewis, serve como guia das crianças no mundo encantado de Nárnia e é frequentemente comparado a Jesus Cristo. Tradicionalmente, o personagem tem sido retratado por figuras masculinas.

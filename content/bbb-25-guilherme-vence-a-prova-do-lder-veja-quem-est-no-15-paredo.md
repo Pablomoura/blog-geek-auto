@@ -1,13 +1,26 @@
 ---
-title: "BBB 25: Guilherme conquista a liderança e define o 15º Paredão"
-slug: "bbb-25-guilherme-vence-a-prova-do-lder-veja-quem-est-no-15-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/1Mi6oX4035W8H8uQAA0987VID3U=/480x360/smart/extras/conteudos/bbb25-guilherme-15-lider-peq.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/1Mi6oX4035W8H8uQAA0987VID3U=/480x360/smart/extras/conteudos/bbb25-guilherme-15-lider-peq.jpg"
-tags: ["BBB 25", "Guilherme líder", "15º Paredão", "prova de liderança", "votação BBB", "eliminação BBB", "reality show", "TV Globo"]
-keywords: "BBB 25, Guilherme líder, 15º Paredão, prova de liderança, votação BBB, eliminação BBB, reality show, TV Globo"
-data: "2025-04-09T03:29:00.245Z"
+title: 'BBB 25: Guilherme conquista a liderança e define o 15º Paredão'
+slug: bbb-25-guilherme-vence-a-prova-do-lder-veja-quem-est-no-15-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/1Mi6oX4035W8H8uQAA0987VID3U=/480x360/smart/extras/conteudos/bbb25-guilherme-15-lider-peq.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/1Mi6oX4035W8H8uQAA0987VID3U=/480x360/smart/extras/conteudos/bbb25-guilherme-15-lider-peq.jpg
+tags:
+  - BBB 25
+  - Guilherme líder
+  - 15º Paredão
+  - prova de liderança
+  - votação BBB
+  - eliminação BBB
+  - reality show
+  - TV Globo
+keywords: >-
+  BBB 25, Guilherme líder, 15º Paredão, prova de liderança, votação BBB,
+  eliminação BBB, reality show, TV Globo
+data: '2025-04-09T03:29:00.245Z'
+author: Luana Souza
 ---
 
 O Big Brother Brasil 25 viu a ascensão de um novo líder e a formação imediata de um Paredão nesta terça-feira. Com oito competidores ainda no jogo, a disputa pela liderança foi intensa. Guilherme emergiu como o vencedor da prova, garantindo sua segurança na casa por mais uma semana.

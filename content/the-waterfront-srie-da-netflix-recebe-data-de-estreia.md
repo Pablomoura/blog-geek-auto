@@ -1,13 +1,28 @@
 ---
-title: "The Waterfront | Netflix anuncia data de lançamento para nova série de Kevin Williamson"
-slug: "the-waterfront-srie-da-netflix-recebe-data-de-estreia"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/M1XSUC8N9_MYrSCa3IkfowYTVGo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-09T191304.583.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Vi5NMcVlOe3p-gXa1e8Zi8eJfig=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T191304.583.png"
-tags: ["Netflix", "Kevin Williamson", "The Waterfront", "série de TV", "drama familiar", "Carolina do Norte", "lançamento de série", "elenco estelar"]
-keywords: "Netflix, Kevin Williamson, The Waterfront, série de TV, drama familiar, Carolina do Norte, lançamento de série, elenco estelar"
-data: "2025-04-09T23:10:43.008Z"
+title: >-
+  The Waterfront | Netflix anuncia data de lançamento para nova série de Kevin
+  Williamson
+slug: the-waterfront-srie-da-netflix-recebe-data-de-estreia
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/M1XSUC8N9_MYrSCa3IkfowYTVGo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-09T191304.583.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Vi5NMcVlOe3p-gXa1e8Zi8eJfig=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T191304.583.png
+tags:
+  - Netflix
+  - Kevin Williamson
+  - The Waterfront
+  - série de TV
+  - drama familiar
+  - Carolina do Norte
+  - lançamento de série
+  - elenco estelar
+keywords: >-
+  Netflix, Kevin Williamson, The Waterfront, série de TV, drama familiar,
+  Carolina do Norte, lançamento de série, elenco estelar
+data: '2025-04-09T23:10:43.008Z'
+author: Ana Luiza
 ---
 
 A Netflix finalmente anunciou a data de estreia de 'The Waterfront', o mais recente trabalho do aclamado roteirista Kevin Williamson, conhecido por 'Dawson's Creek'. A série, que representa o retorno de Williamson ao campo das séries de TV, estará disponível a partir de 19 de junho. 

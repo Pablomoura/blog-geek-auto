@@ -15,6 +15,7 @@ tags:
   - bilheteria
   - estreia de filme
   - box office
+author: Pablo Moura
 ---
 
 O filme 'Thunderbolts' da Marvel Studios está projetado para uma estreia moderada nas bilheterias dos Estados Unidos. Segundo análises do site Box Office Theory, a expectativa é que o filme arrecade entre US$ 67 e US$ 82 milhões em seu primeiro fim de semana. Considerando um orçamento de US$ 180 milhões, esses números representam um começo estável.

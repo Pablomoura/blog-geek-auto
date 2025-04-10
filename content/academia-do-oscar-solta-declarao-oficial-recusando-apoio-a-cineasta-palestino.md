@@ -15,6 +15,7 @@ tags:
   - academia de artes e ciências cinematográficas
   - hamdan ballal
   - documentário
+author: Luana Souza
 ---
 
 A Academia de Artes e Ciências Cinematográficas, entidade por trás do prestigiado Oscar, emitiu um comunicado a respeito dos recentes episódios de violência envolvendo o cineasta palestino Hamdan Ballal, vencedor do Oscar de Melhor Documentário pelo filme 'Sem Chão'. A declaração foi divulgada após o cineasta ter sido agredido e sequestrado. 

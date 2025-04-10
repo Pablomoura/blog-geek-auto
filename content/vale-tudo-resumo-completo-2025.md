@@ -1,12 +1,17 @@
 ---
-title: "Vale Tudo (1988): resumo completo da novela que inspirou o remake da Globo em 2025"
-slug: "vale-tudo-resumo-completo-2025"
-categoria: "Séries e TV"
-resumo: "Entenda tudo sobre Vale Tudo, o clássico da teledramaturgia brasileira que voltou à TV em 2025 com um remake. Veja o resumo completo da novela original, os personagens mais marcantes e o mistério que parou o Brasil."
-data: "2025-04-05T12:00:00.000Z"
-thumb: "/images/Thumb-vale-tudo-original.jpg"
-midia: "/images/vale-tudo-original.jpg"
-tipoMidia: "imagem"
+title: >-
+  Vale Tudo (1988): resumo completo da novela que inspirou o remake da Globo em
+  2025
+slug: vale-tudo-resumo-completo-2025
+categoria: Séries e TV
+resumo: >-
+  Entenda tudo sobre Vale Tudo, o clássico da teledramaturgia brasileira que
+  voltou à TV em 2025 com um remake. Veja o resumo completo da novela original,
+  os personagens mais marcantes e o mistério que parou o Brasil.
+data: '2025-04-05T12:00:00.000Z'
+thumb: /images/Thumb-vale-tudo-original.jpg
+midia: /images/vale-tudo-original.jpg
+tipoMidia: imagem
 story: true
 tags:
   - vale tudo
@@ -15,7 +20,10 @@ tags:
   - remake vale tudo
   - odete roitman
   - séries e tv
-keywords: "resumo vale tudo, remake vale tudo 2025, quem matou odete roitman, novela globo clássica, vale tudo 1988, personagens vale tudo"
+keywords: >-
+  resumo vale tudo, remake vale tudo 2025, quem matou odete roitman, novela
+  globo clássica, vale tudo 1988, personagens vale tudo
+author: Pablo Moura
 ---
 
 A novela **Vale Tudo**, exibida originalmente pela TV Globo entre maio de 1988 e janeiro de 1989, é considerada um dos maiores marcos da teledramaturgia brasileira. Escrita por Gilberto Braga, Aguinaldo Silva e Leonor Bassères, a obra se tornou inesquecível por misturar crítica social, personagens carismáticos e um dos maiores mistérios já apresentados em uma novela: **quem matou Odete Roitman?**

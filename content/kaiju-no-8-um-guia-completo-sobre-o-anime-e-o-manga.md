@@ -1,14 +1,29 @@
 ---
-title: "Kaiju No. 8: Um Guia Completo Sobre o Anime e o Mangá"
-slug: "kaiju-no-8-um-guia-completo-sobre-o-anime-e-o-manga"
-resumo: "Descubra tudo sobre Kaiju No. 8, desde seus conceitos únicos até sua popularidade crescente. Este guia abrangente explora os personagens principais, o enredo, e as diferenças entre o mangá e o anime, proporcionando uma visão profunda para novos fãs e veteranos."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No 8, mangá, anime, Kafka Hibino, monstros, cultura japonesa, mangá popular, animação"
-tags: ["Kaiju No 8", "mangá", "anime", "Kafka Hibino", "monstros", "cultura japonesa", "mangá popular", "animação"]
-data: "2025-04-03T22:07:02.849Z"
+title: 'Kaiju No. 8: Um Guia Completo Sobre o Anime e o Mangá'
+slug: kaiju-no-8-um-guia-completo-sobre-o-anime-e-o-manga
+resumo: >-
+  Descubra tudo sobre Kaiju No. 8, desde seus conceitos únicos até sua
+  popularidade crescente. Este guia abrangente explora os personagens
+  principais, o enredo, e as diferenças entre o mangá e o anime, proporcionando
+  uma visão profunda para novos fãs e veteranos.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No 8, mangá, anime, Kafka Hibino, monstros, cultura japonesa, mangá
+  popular, animação
+tags:
+  - Kaiju No 8
+  - mangá
+  - anime
+  - Kafka Hibino
+  - monstros
+  - cultura japonesa
+  - mangá popular
+  - animação
+data: '2025-04-03T22:07:02.849Z'
+author: Ana Luiza
 ---
 
 ## Introdução ao Mundo de Kaiju No. 8

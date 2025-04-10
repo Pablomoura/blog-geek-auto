@@ -1,13 +1,28 @@
 ---
-title: "The Studio | Produtor revela interesse em transformar filme fictício de Zac Efron em realidade"
-slug: "the-studio-produtor-conta-que-gostaria-de-ver-filme-de-zac-efron-fora-da-srie"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/TcUw3DDIroJaXBkvfMjEliPJom4=/987x0/smart/uploads/conteudo/fotos/zac-efron-the-studio-capa.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/skbfChzKLmJeovh-qJEAcWRO-T8=/480x360/smart/extras/conteudos/zac-efron-the-studio.png"
-tags: ["The Studio", "Apple TV+", "Zac Efron", "filmes fictícios", "Evan Goldberg", "Rolling Blackout", "cinema", "série original"]
-keywords: "The Studio, Apple TV+, Zac Efron, filmes fictícios, Evan Goldberg, Rolling Blackout, cinema, série original"
-data: "2025-04-09T10:12:56.181Z"
+title: >-
+  The Studio | Produtor revela interesse em transformar filme fictício de Zac
+  Efron em realidade
+slug: the-studio-produtor-conta-que-gostaria-de-ver-filme-de-zac-efron-fora-da-srie
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/TcUw3DDIroJaXBkvfMjEliPJom4=/987x0/smart/uploads/conteudo/fotos/zac-efron-the-studio-capa.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/skbfChzKLmJeovh-qJEAcWRO-T8=/480x360/smart/extras/conteudos/zac-efron-the-studio.png
+tags:
+  - The Studio
+  - Apple TV+
+  - Zac Efron
+  - filmes fictícios
+  - Evan Goldberg
+  - Rolling Blackout
+  - cinema
+  - série original
+keywords: >-
+  The Studio, Apple TV+, Zac Efron, filmes fictícios, Evan Goldberg, Rolling
+  Blackout, cinema, série original
+data: '2025-04-09T10:12:56.181Z'
+author: Pablo Moura
 ---
 
 A nova série original da Apple TV+, 'The Studio', oferece aos espectadores uma visão intrigante do mundo interno de uma produtora de cinema fictícia, o Continental Studios, com Seth Rogen interpretando o papel principal. Entre os destaques estão as participações de renomados cineastas e atores como Martin Scorsese, Greta Lee, Sarah Polley, Ron Howard e Anthony Mackie, que aparecem nos três primeiros episódios. O quarto episódio introduz Zac Efron e Olivia Wilde, adicionando mais estrelas ao projeto.

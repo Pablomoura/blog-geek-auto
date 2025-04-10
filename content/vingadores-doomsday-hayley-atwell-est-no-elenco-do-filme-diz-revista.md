@@ -1,13 +1,28 @@
 ---
-title: "Vingadores: Doomsday | Hayley Atwell confirmada no elenco do próximo filme da Marvel"
-slug: "vingadores-doomsday-hayley-atwell-est-no-elenco-do-filme-diz-revista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/4yektSuzzljm_zCmd4utQg1bNGM=/987x0/smart/uploads/conteudo/fotos/agentecarter.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/FDIlJPOXhPTbGM7vUAbAmCfFhWM=/480x360/smart/extras/conteudos/agentecarter.jpg"
-tags: ["Vingadores: Doomsday", "Marvel", "Hayley Atwell", "Doutor Destino", "X-Men", "multiverso", "elenco estelar", "estreia 2026"]
-keywords: "Vingadores: Doomsday, Marvel, Hayley Atwell, Doutor Destino, X-Men, multiverso, elenco estelar, estreia 2026"
-data: "2025-04-06T21:09:11.687Z"
+title: >-
+  Vingadores: Doomsday | Hayley Atwell confirmada no elenco do próximo filme da
+  Marvel
+slug: vingadores-doomsday-hayley-atwell-est-no-elenco-do-filme-diz-revista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/4yektSuzzljm_zCmd4utQg1bNGM=/987x0/smart/uploads/conteudo/fotos/agentecarter.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/FDIlJPOXhPTbGM7vUAbAmCfFhWM=/480x360/smart/extras/conteudos/agentecarter.jpg
+tags:
+  - 'Vingadores: Doomsday'
+  - Marvel
+  - Hayley Atwell
+  - Doutor Destino
+  - X-Men
+  - multiverso
+  - elenco estelar
+  - estreia 2026
+keywords: >-
+  Vingadores: Doomsday, Marvel, Hayley Atwell, Doutor Destino, X-Men,
+  multiverso, elenco estelar, estreia 2026
+data: '2025-04-06T21:09:11.687Z'
+author: Pablo Moura
 ---
 
 Hayley Atwell está confirmada no elenco de 'Vingadores: Doomsday', apesar de seu nome não ter sido mencionado no anúncio oficial do elenco realizado pelo Marvel Studios no mês passado. A informação foi divulgada pelo The Hollywood Reporter, que detalhou o acordo da atriz com o estúdio em uma reportagem sobre as negociações legais em Hollywood. Segundo a publicação, o advogado Julian Zaifen foi responsável por finalizar o contrato de Atwell, que inclui sua participação tanto em 'Doomsday' quanto na sequência 'Vingadores: Guerras Secretas'. Atwell é conhecida por seu papel como Peggy Carter, tendo aparecido pela última vez no universo Marvel em 'Doutor Estranho no Multiverso da Loucura', em 2022.

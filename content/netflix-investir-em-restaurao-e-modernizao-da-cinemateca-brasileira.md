@@ -1,13 +1,27 @@
 ---
-title: "Netflix investirá em restauração e modernização da Cinemateca Brasileira"
-slug: "netflix-investir-em-restaurao-e-modernizao-da-cinemateca-brasileira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/55d6u_100A4haas-F21HBzJGVvM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T215118.902.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/bEYyDXiqbj49wL-SlqnRIf-e5eI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T215102.915.png"
-tags: ["Netflix", "Cinemateca Brasileira", "restauração cultural", "modernização", "cinema brasileiro", "preservação audiovisual", "tecnologia em cinema", "investimento cultural"]
-keywords: "Netflix, Cinemateca Brasileira, restauração cultural, modernização, cinema brasileiro, preservação audiovisual, tecnologia em cinema, investimento cultural"
-data: "2025-04-03T01:05:08.924Z"
+title: Netflix investirá em restauração e modernização da Cinemateca Brasileira
+slug: netflix-investir-em-restaurao-e-modernizao-da-cinemateca-brasileira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/55d6u_100A4haas-F21HBzJGVvM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T215118.902.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/bEYyDXiqbj49wL-SlqnRIf-e5eI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T215102.915.png
+tags:
+  - Netflix
+  - Cinemateca Brasileira
+  - restauração cultural
+  - modernização
+  - cinema brasileiro
+  - preservação audiovisual
+  - tecnologia em cinema
+  - investimento cultural
+keywords: >-
+  Netflix, Cinemateca Brasileira, restauração cultural, modernização, cinema
+  brasileiro, preservação audiovisual, tecnologia em cinema, investimento
+  cultural
+data: '2025-04-03T01:05:08.924Z'
+author: Ana Luiza
 ---
 
 A Netflix revelou nesta quarta-feira (2) o estabelecimento de uma nova parceria com a Cinemateca Brasileira, prometendo um investimento de R$ 5 milhões para a restauração e modernização da sede desta renomada instituição cultural. O montante será utilizado especificamente na reestruturação da Sala Oscarito, primeiro espaço de projeção da atual sede, inaugurada em 1997. Este projeto também envolve a atualização das instalações técnicas e a modernização do sistema de climatização, objetivando a melhoria da acessibilidade e a incorporação de tecnologias mais avançadas para uma experiência otimizada.

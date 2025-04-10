@@ -1,14 +1,30 @@
 ---
-title: "Estilo Geek: Como Incorporar Referências Pop no Seu Visual Diário"
-slug: "estilo-geek-como-incorporar-referencias-pop-no-seu-visual-diario"
-resumo: "Explorar o mundo geek no dia a dia pode ser desafiador sem parecer que você está usando uma fantasia. Este artigo fornece dicas práticas para você usar referências pop de forma sutil e estilosa em seu guarda-roupa, mantendo sua identidade e sem exagerar. Aprenda a balancear seu amor por cultura geek com a moda contemporânea."
-categoria: "Moda e Estilo"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "moda geek, estilo pessoal, cultura pop, moda, dicas de estilo, geek chic, acessórios geek, vestuário temático"
-tags: ["moda geek", "estilo pessoal", "cultura pop", "moda", "dicas de estilo", "geek chic", "acessórios geek", "vestuário temático"]
-data: "2025-04-01T01:07:08.649Z"
+title: 'Estilo Geek: Como Incorporar Referências Pop no Seu Visual Diário'
+slug: estilo-geek-como-incorporar-referencias-pop-no-seu-visual-diario
+resumo: >-
+  Explorar o mundo geek no dia a dia pode ser desafiador sem parecer que você
+  está usando uma fantasia. Este artigo fornece dicas práticas para você usar
+  referências pop de forma sutil e estilosa em seu guarda-roupa, mantendo sua
+  identidade e sem exagerar. Aprenda a balancear seu amor por cultura geek com a
+  moda contemporânea.
+categoria: Moda e Estilo
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  moda geek, estilo pessoal, cultura pop, moda, dicas de estilo, geek chic,
+  acessórios geek, vestuário temático
+tags:
+  - moda geek
+  - estilo pessoal
+  - cultura pop
+  - moda
+  - dicas de estilo
+  - geek chic
+  - acessórios geek
+  - vestuário temático
+data: '2025-04-01T01:07:08.649Z'
+author: Luana Souza
 ---
 
 ## Introdução ao Estilo Geek

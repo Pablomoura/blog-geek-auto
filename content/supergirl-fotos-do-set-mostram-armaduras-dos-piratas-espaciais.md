@@ -14,6 +14,7 @@ tags:
   - filme
   - armaduras
   - quadrinhos
+author: Pablo Moura
 ---
 
 Imagens recentes do set de filmagem de 'Supergirl: A Mulher do Amanhã' começaram a circular online, revelando uma arara repleta de armaduras. Essa descoberta indica que o filme pode incluir o grupo de vilões piratas espaciais, conhecidos dos quadrinhos que servem de base para a trama.

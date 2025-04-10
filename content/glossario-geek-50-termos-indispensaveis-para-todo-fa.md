@@ -1,14 +1,28 @@
 ---
-title: "Glossário Geek: 50 Termos Indispensáveis para Todo Fã"
-slug: "glossario-geek-50-termos-indispensaveis-para-todo-fa"
-resumo: "Explore o mundo geek com este glossário abrangente. De 'Anime' a 'Zine', conheça os 50 termos essenciais que todo aficionado por cultura pop, tecnologia e ficção científica deveria saber."
-categoria: "Cultura Geek"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "geek, cultura pop, tecnologia, ficção científica, anime, cosplay, esports, gadgets"
-tags: ["geek", "cultura pop", "tecnologia", "ficção científica", "anime", "cosplay", "esports", "gadgets"]
-data: "2025-04-04T00:50:34.339Z"
+title: 'Glossário Geek: 50 Termos Indispensáveis para Todo Fã'
+slug: glossario-geek-50-termos-indispensaveis-para-todo-fa
+resumo: >-
+  Explore o mundo geek com este glossário abrangente. De 'Anime' a 'Zine',
+  conheça os 50 termos essenciais que todo aficionado por cultura pop,
+  tecnologia e ficção científica deveria saber.
+categoria: Cultura Geek
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  geek, cultura pop, tecnologia, ficção científica, anime, cosplay, esports,
+  gadgets
+tags:
+  - geek
+  - cultura pop
+  - tecnologia
+  - ficção científica
+  - anime
+  - cosplay
+  - esports
+  - gadgets
+data: '2025-04-04T00:50:34.339Z'
+author: Pablo Moura
 ---
 
 ## Introdução

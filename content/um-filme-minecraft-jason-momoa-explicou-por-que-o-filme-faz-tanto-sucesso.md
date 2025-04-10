@@ -1,13 +1,25 @@
 ---
-title: "Um Filme Minecraft | Jason Momoa explica sucesso da parceria com Jack Black"
-slug: "um-filme-minecraft-jason-momoa-explicou-por-que-o-filme-faz-tanto-sucesso"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/Guzfs8wnJBc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/fhCrN7AayLmWVYHwKJf1W0Y17GY=/480x360/smart/extras/conteudos/MCR-T3-0014_High_Res_JPEG_custom-proxy.jpeg"
-tags: ["Jason Momoa", "Jack Black", "Minecraft", "Warner Bros", "filme de aventura", "sucesso de bilheteria", "colaboração de atores", "crítica de cinema"]
-keywords: "Jason Momoa, Jack Black, Minecraft, Warner Bros, filme de aventura, sucesso de bilheteria, colaboração de atores, crítica de cinema"
-data: "2025-04-07T15:13:00.294Z"
+title: Um Filme Minecraft | Jason Momoa explica sucesso da parceria com Jack Black
+slug: um-filme-minecraft-jason-momoa-explicou-por-que-o-filme-faz-tanto-sucesso
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/Guzfs8wnJBc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/fhCrN7AayLmWVYHwKJf1W0Y17GY=/480x360/smart/extras/conteudos/MCR-T3-0014_High_Res_JPEG_custom-proxy.jpeg
+tags:
+  - Jason Momoa
+  - Jack Black
+  - Minecraft
+  - Warner Bros
+  - filme de aventura
+  - sucesso de bilheteria
+  - colaboração de atores
+  - crítica de cinema
+keywords: >-
+  Jason Momoa, Jack Black, Minecraft, Warner Bros, filme de aventura, sucesso de
+  bilheteria, colaboração de atores, crítica de cinema
+data: '2025-04-07T15:13:00.294Z'
+author: Ana Luiza
 ---
 
 A Warner Bros. Pictures estreou o aguardado 'Um Filme Minecraft' em cinemas globais, e a crítica você pode conferir em nossa plataforma. O filme já alcançou um sucesso notável nos primeiros dias de lançamento, muito devido à dinâmica entre Jason Momoa e Jack Black. Em uma entrevista pré-lançamento, Momoa, famoso por seu papel como Aquaman, compartilhou sua previsão sobre a química bem-sucedida com Black.

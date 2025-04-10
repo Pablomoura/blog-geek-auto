@@ -16,6 +16,7 @@ tags:
   - teaser
   - série de fantasia
   - nova temporada
+author: Luana Souza
 ---
 
 A aguardada quarta temporada de Re:ZERO - Starting Life in Another World já está em produção. Recentemente, foi divulgado um teaser emocionante, acompanhado de uma foto exclusiva do próximo capítulo da série. Confira o teaser no vídeo acima e a imagem logo abaixo!

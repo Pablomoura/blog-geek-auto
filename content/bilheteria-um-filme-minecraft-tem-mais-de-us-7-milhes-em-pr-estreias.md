@@ -1,13 +1,27 @@
 ---
-title: "Bilheteria | 'Um Filme Minecraft' arrecada mais de US$ 7 milhões em pré-estreias"
-slug: "bilheteria-um-filme-minecraft-tem-mais-de-us-7-milhes-em-pr-estreias"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg"
-tags: ["Minecraft", "bilheteria", "filme de videogame", "Jason Momoa", "Jack Black", "pré-estreia", "recorde de bilheteria", "adaptação de jogo"]
-keywords: "Minecraft, bilheteria, filme de videogame, Jason Momoa, Jack Black, pré-estreia, recorde de bilheteria, adaptação de jogo"
-data: "2025-04-04T11:09:17.845Z"
+title: >-
+  Bilheteria | 'Um Filme Minecraft' arrecada mais de US$ 7 milhões em
+  pré-estreias
+slug: bilheteria-um-filme-minecraft-tem-mais-de-us-7-milhes-em-pr-estreias
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg
+tags:
+  - Minecraft
+  - bilheteria
+  - filme de videogame
+  - Jason Momoa
+  - Jack Black
+  - pré-estreia
+  - recorde de bilheteria
+  - adaptação de jogo
+keywords: >-
+  Minecraft, bilheteria, filme de videogame, Jason Momoa, Jack Black,
+  pré-estreia, recorde de bilheteria, adaptação de jogo
+data: '2025-04-04T11:09:17.845Z'
+author: Luana Souza
 ---
 
 Segundo informações do Deadline, 'Um Filme Minecraft' já começou a fazer sucesso nas bilheterias dos Estados Unidos, onde as sessões de pré-estreia acumularam aproximadamente US$ 7 milhões. Inicialmente, as expectativas para o primeiro fim de semana apontavam para uma arrecadação de até US$ 60 milhões. No entanto, após a pré-estreia, essas previsões foram ajustadas para US$ 75 milhões.

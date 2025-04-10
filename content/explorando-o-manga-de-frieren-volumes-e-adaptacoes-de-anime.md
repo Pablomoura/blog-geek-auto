@@ -1,14 +1,26 @@
 ---
-title: "Explorando o Mangá de Frieren: Volumes e Adaptações de Anime"
-slug: "explorando-o-manga-de-frieren-volumes-e-adaptacoes-de-anime"
-resumo: "Este artigo fornece uma visão detalhada sobre o mangá 'Frieren: Beyond Journey's End', abordando o número atual de volumes publicados e até onde a adaptação para anime cobriu a história original."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, manga, anime, volumes, adaptação, fantasia, imortalidade, narrativa"
-tags: ["Frieren", "manga", "anime", "volumes", "adaptação", "fantasia", "imortalidade", "narrativa"]
-data: "2025-04-05T21:33:00.922Z"
+title: 'Explorando o Mangá de Frieren: Volumes e Adaptações de Anime'
+slug: explorando-o-manga-de-frieren-volumes-e-adaptacoes-de-anime
+resumo: >-
+  Este artigo fornece uma visão detalhada sobre o mangá 'Frieren: Beyond
+  Journey's End', abordando o número atual de volumes publicados e até onde a
+  adaptação para anime cobriu a história original.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: 'Frieren, manga, anime, volumes, adaptação, fantasia, imortalidade, narrativa'
+tags:
+  - Frieren
+  - manga
+  - anime
+  - volumes
+  - adaptação
+  - fantasia
+  - imortalidade
+  - narrativa
+data: '2025-04-05T21:33:00.922Z'
+author: Ana Luiza
 ---
 
 ## Introdução ao Mangá de Frieren

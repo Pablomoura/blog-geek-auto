@@ -16,6 +16,7 @@ tags:
   - vitória strada
   - preferência do público
   - paredão
+author: Luana Souza
 ---
 
 O Big Brother Brasil 25 presenciou seu 11º Paredão recentemente, resultando na eliminação de Vilma. Com sua saída, a dinâmica do jogo foi alterada e também a preferência do público quanto ao favorito para levar o prêmio de R$ 2,53 milhões. Segundo uma pesquisa realizada pelo UOL, Vitória Strada emerge como a principal candidata ao título, detendo 34,74% da preferência dos votos.

@@ -15,6 +15,7 @@ tags:
   - lançamento 2024
   - retrocompatibilidade
   - nintendo
+author: Ana Luiza
 ---
 
 A Nintendo insinuou que o Nintendo Switch 2, seu mais recente console programado para ser revelado no final de 2024, poderá oferecer versões aprimoradas de jogos lançados originalmente para o seu antecessor de 2017.

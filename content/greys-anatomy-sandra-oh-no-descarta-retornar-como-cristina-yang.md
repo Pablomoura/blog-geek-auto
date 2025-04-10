@@ -17,6 +17,7 @@ tags:
   - retorno de personagem
   - série de tv
   - drama médico
+author: Ana Luiza
 ---
 
 Sandra Oh, que interpretou a médica Cristina Yang desde a estreia de 'Grey's Anatomy' até a décima temporada, recentemente declarou que está aberta à possibilidade de retornar à série. Cristina Yang, uma das personagens centrais e mais amadas nas primeiras temporadas, teve um arco marcante envolvendo seu relacionamento com o médico Preston Burke, interpretado por Isaiah Washington. Washington deixou a série devido a desentendimentos nos bastidores com o ator T.R. Knight.

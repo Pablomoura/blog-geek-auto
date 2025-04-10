@@ -1,13 +1,26 @@
 ---
-title: "Madonna e Elton John fazem as pazes após quase 25 anos brigados"
-slug: "madonna-e-elton-john-fazem-as-pazes-aps-quase-25-anos-brigados"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/bu_QS1E_20coYVkbv6gCTR9VbkI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T102621.872.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/gwzqfDD0QJrzlu-8CdqQDKr7gJs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T102605.675.png"
-tags: ["Madonna", "Elton John", "reconciliação", "música", "SNL", "perdão", "colaboração", "ícones da música"]
-keywords: "Madonna, Elton John, reconciliação, música, SNL, perdão, colaboração, ícones da música"
-data: "2025-04-08T14:12:49.010Z"
+title: Madonna e Elton John fazem as pazes após quase 25 anos brigados
+slug: madonna-e-elton-john-fazem-as-pazes-aps-quase-25-anos-brigados
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/bu_QS1E_20coYVkbv6gCTR9VbkI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T102621.872.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/gwzqfDD0QJrzlu-8CdqQDKr7gJs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T102605.675.png
+tags:
+  - Madonna
+  - Elton John
+  - reconciliação
+  - música
+  - SNL
+  - perdão
+  - colaboração
+  - ícones da música
+keywords: >-
+  Madonna, Elton John, reconciliação, música, SNL, perdão, colaboração, ícones
+  da música
+data: '2025-04-08T14:12:49.010Z'
+author: Ana Luiza
 ---
 
 Uma ótima notícia para os fãs de Madonna e Elton John. Após quase 25 anos de desavenças, os dois ícones da música internacional reconciliaram-se e retomaram sua amizade. A revelação veio de Madonna, que compartilhou a novidade em uma publicação em suas redes sociais.

@@ -1,13 +1,25 @@
 ---
-title: "The White Lotus | Criador da série comenta sobre cena deletada"
-slug: "the-white-lotus-criador-da-srie-comenta-sobre-cena-deletada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/qZxhAM0TUO4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/w6K4-cWe8KRLB8c3OxXrQfBX2mY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-07T213452.240.png"
-tags: ["The White Lotus", "Mike White", "cena deletada", "série de TV", "HBO", "temporada 3", "drama", "comédia romântica"]
-keywords: "The White Lotus, Mike White, cena deletada, série de TV, HBO, temporada 3, drama, comédia romântica"
-data: "2025-04-08T02:21:43.385Z"
+title: The White Lotus | Criador da série comenta sobre cena deletada
+slug: the-white-lotus-criador-da-srie-comenta-sobre-cena-deletada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/qZxhAM0TUO4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/w6K4-cWe8KRLB8c3OxXrQfBX2mY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-07T213452.240.png
+tags:
+  - The White Lotus
+  - Mike White
+  - cena deletada
+  - série de TV
+  - HBO
+  - temporada 3
+  - drama
+  - comédia romântica
+keywords: >-
+  The White Lotus, Mike White, cena deletada, série de TV, HBO, temporada 3,
+  drama, comédia romântica
+data: '2025-04-08T02:21:43.385Z'
+author: Luana Souza
 ---
 
 Durante sua participação no podcast oficial de The White Lotus, Mike White, o criador e diretor da série, discutiu o desfecho do programa e mencionou uma cena importante que foi cortada do final. White expressou que, apesar das críticas sobre a falta de enredo, ele acredita que a 'vibe' da série é um elemento crucial. 'Estou criando um universo. Se você não quer dormir comigo, então saia da minha cama. Estou te provocando! Aproveite a provocação,' disse ele, enfatizando a experiência provocativa que deseja oferecer ao público.

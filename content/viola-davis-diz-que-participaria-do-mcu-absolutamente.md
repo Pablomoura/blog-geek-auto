@@ -15,6 +15,7 @@ tags:
   - cinema
   - entrevista
   - entretenimento
+author: Luana Souza
 ---
 
 

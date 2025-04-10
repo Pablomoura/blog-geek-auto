@@ -1,13 +1,25 @@
 ---
-title: "Switch 2 no Brasil: Intenção da Nintendo é lançar console no país em junho"
-slug: "switch-2-no-brasil-inteno-da-nintendo-lanar-console-no-pas-em-junho"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ny8iGHFpgbY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/1SHbiYtE9trp2A22NKl-FQLpgbs=/480x360/smart/extras/conteudos/switch-2-brasil-header.jpg"
-tags: ["Nintendo Switch 2", "lançamento no Brasil", "console de videogame", "jogos em 4K", "Joy-Con magnético", "lançamento global", "preço do console", "atualizações de jogos"]
-keywords: "Nintendo Switch 2, lançamento no Brasil, console de videogame, jogos em 4K, Joy-Con magnético, lançamento global, preço do console, atualizações de jogos"
-data: "2025-04-03T13:21:45.787Z"
+title: 'Switch 2 no Brasil: Intenção da Nintendo é lançar console no país em junho'
+slug: switch-2-no-brasil-inteno-da-nintendo-lanar-console-no-pas-em-junho
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ny8iGHFpgbY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/1SHbiYtE9trp2A22NKl-FQLpgbs=/480x360/smart/extras/conteudos/switch-2-brasil-header.jpg
+tags:
+  - Nintendo Switch 2
+  - lançamento no Brasil
+  - console de videogame
+  - jogos em 4K
+  - Joy-Con magnético
+  - lançamento global
+  - preço do console
+  - atualizações de jogos
+keywords: >-
+  Nintendo Switch 2, lançamento no Brasil, console de videogame, jogos em 4K,
+  Joy-Con magnético, lançamento global, preço do console, atualizações de jogos
+data: '2025-04-03T13:21:45.787Z'
+author: Luana Souza
 ---
 
 A Nintendo planeja lançar o Nintendo Switch 2 no Brasil ao mesmo tempo que nos Estados Unidos, especificamente em 5 de junho. Contudo, a data exata de chegada do dispositivo às lojas brasileiras ainda não está confirmada. A informação foi confirmada por Pilar Pueblita, gerente de relações públicas e eventos para a América Latina da Nintendo of America, em entrevista concedida ao Omelete na última quarta-feira (2). Durante o evento, a empresa divulgou detalhes significativos sobre o Switch 2.

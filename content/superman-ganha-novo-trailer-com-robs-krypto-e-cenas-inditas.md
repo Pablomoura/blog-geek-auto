@@ -1,13 +1,25 @@
 ---
-title: "Superman ganha novo trailer com robôs, Krypto e cenas inéditas"
-slug: "superman-ganha-novo-trailer-com-robs-krypto-e-cenas-inditas"
-categoria: "FILMES EM CARTAZ"
-midia: "https://www.youtube.com/embed/KgvHHta96CM?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/GM_MqzhaVztndyhkXGVstJIXDrY=/480x360/smart/extras/conteudos/superman-2025.jpg"
-tags: ["Superman", "James Gunn", "DC Studios", "Krypto", "CinemaCon 2025", "robôs", "novo trailer", "DCU"]
-keywords: "Superman, James Gunn, DC Studios, Krypto, CinemaCon 2025, robôs, novo trailer, DCU"
-data: "2025-04-03T22:10:35.372Z"
+title: 'Superman ganha novo trailer com robôs, Krypto e cenas inéditas'
+slug: superman-ganha-novo-trailer-com-robs-krypto-e-cenas-inditas
+categoria: FILMES EM CARTAZ
+midia: 'https://www.youtube.com/embed/KgvHHta96CM?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/GM_MqzhaVztndyhkXGVstJIXDrY=/480x360/smart/extras/conteudos/superman-2025.jpg
+tags:
+  - Superman
+  - James Gunn
+  - DC Studios
+  - Krypto
+  - CinemaCon 2025
+  - robôs
+  - novo trailer
+  - DCU
+keywords: >-
+  Superman, James Gunn, DC Studios, Krypto, CinemaCon 2025, robôs, novo trailer,
+  DCU
+data: '2025-04-03T22:10:35.372Z'
+author: Luana Souza
 ---
 
 James Gunn, o renomado diretor, divulgou nesta quinta-feira (03) em perfis oficiais da DC Studios, uma cena impactante de Superman apresentada inicialmente no painel da CinemaCon 2025. Nesta cena, Krypto, o supercão, é visto transportando um ferido Superman para a Fortaleza da Solidão, onde o herói é tratado com raios solares para curar suas lesões, resultantes de um confronto ainda não revelado. Seguidamente, o trailer apresenta cenas similares às do primeiro trailer do filme.

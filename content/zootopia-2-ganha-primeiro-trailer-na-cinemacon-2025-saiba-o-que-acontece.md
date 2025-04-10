@@ -1,13 +1,26 @@
 ---
-title: "Zootopia 2 ganha primeiro trailer na CinemaCon 2025; saiba o que acontece"
-slug: "zootopia-2-ganha-primeiro-trailer-na-cinemacon-2025-saiba-o-que-acontece"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/-gBQRtw4cwoSdmp5uNABk3CiNU0=/987x0/smart/uploads/conteudo/fotos/image_-_2025-04-03T200608.532.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7MEdcuH5webhzICGo0FwEs0eqno=/480x360/smart/extras/conteudos/image_-_2025-04-03T200608.532.png"
-tags: ["Zootopia 2", "CinemaCon 2025", "trailer", "Quinta Brunson", "animais antropomórficos", "Disney", "aventuras animadas", "sucesso de bilheteria"]
-keywords: "Zootopia 2, CinemaCon 2025, trailer, Quinta Brunson, animais antropomórficos, Disney, aventuras animadas, sucesso de bilheteria"
-data: "2025-04-04T00:44:57.193Z"
+title: Zootopia 2 ganha primeiro trailer na CinemaCon 2025; saiba o que acontece
+slug: zootopia-2-ganha-primeiro-trailer-na-cinemacon-2025-saiba-o-que-acontece
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/-gBQRtw4cwoSdmp5uNABk3CiNU0=/987x0/smart/uploads/conteudo/fotos/image_-_2025-04-03T200608.532.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7MEdcuH5webhzICGo0FwEs0eqno=/480x360/smart/extras/conteudos/image_-_2025-04-03T200608.532.png
+tags:
+  - Zootopia 2
+  - CinemaCon 2025
+  - trailer
+  - Quinta Brunson
+  - animais antropomórficos
+  - Disney
+  - aventuras animadas
+  - sucesso de bilheteria
+keywords: >-
+  Zootopia 2, CinemaCon 2025, trailer, Quinta Brunson, animais antropomórficos,
+  Disney, aventuras animadas, sucesso de bilheteria
+data: '2025-04-04T00:44:57.193Z'
+author: Luana Souza
 ---
 
 A CinemaCon 2025 foi palco para o lançamento do aguardado primeiro trailer de 'Zootopia 2'. Durante o evento, foi revelada também a participação de Quinta Brunson, que emprestará sua voz a uma nova personagem, aparentemente uma Chinchila. O filme promete trazer de volta a vibrante bicharada em novas aventuras.

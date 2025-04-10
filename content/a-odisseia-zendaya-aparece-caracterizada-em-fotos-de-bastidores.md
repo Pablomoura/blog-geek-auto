@@ -16,6 +16,7 @@ tags:
   - a odisseia
   - bastidores do filme
   - cinema
+author: Pablo Moura
 ---
 
 Foram divulgadas novas imagens das filmagens de 'A Odisseia', o mais recente projeto do aclamado diretor Christopher Nolan. As fotos destacam pela primeira vez a atriz Zendaya em seu papel, ainda não oficialmente confirmado, durante as gravações do filme.

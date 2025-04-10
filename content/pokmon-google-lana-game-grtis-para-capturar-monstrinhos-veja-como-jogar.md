@@ -1,13 +1,28 @@
 ---
-title: "Pokémon | Google introduz jogo gratuito para captura de monstrinhos; saiba como participar"
-slug: "pokmon-google-lana-game-grtis-para-capturar-monstrinhos-veja-como-jogar"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/q4oXuLtO73aLZoTWYecaAYvrumI=/987x0/smart/uploads/conteudo/fotos/02_liQK843.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/_lTx-4CHHSCgbtBoWM9QOYhiUmk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_150915.png"
-tags: ["Google", "Pokémon", "jogo gratuito", "easter egg", "captura de Pokémon", "Pokédex", "versão móvel", "interações lúdicas"]
-keywords: "Google, Pokémon, jogo gratuito, easter egg, captura de Pokémon, Pokédex, versão móvel, interações lúdicas"
-data: "2025-04-08T19:10:21.828Z"
+title: >-
+  Pokémon | Google introduz jogo gratuito para captura de monstrinhos; saiba
+  como participar
+slug: pokmon-google-lana-game-grtis-para-capturar-monstrinhos-veja-como-jogar
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/q4oXuLtO73aLZoTWYecaAYvrumI=/987x0/smart/uploads/conteudo/fotos/02_liQK843.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/_lTx-4CHHSCgbtBoWM9QOYhiUmk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_150915.png
+tags:
+  - Google
+  - Pokémon
+  - jogo gratuito
+  - easter egg
+  - captura de Pokémon
+  - Pokédex
+  - versão móvel
+  - interações lúdicas
+keywords: >-
+  Google, Pokémon, jogo gratuito, easter egg, captura de Pokémon, Pokédex,
+  versão móvel, interações lúdicas
+data: '2025-04-08T19:10:21.828Z'
+author: Luana Souza
 ---
 
 O Google recentemente inovou ao incluir um easter egg em seu mecanismo de busca, apresentando um jogo que permite aos usuários capturar os 151 Pokémon originais. Para entrar na divertida caçada, os interessados devem buscar pelo nome do Pokémon desejado, como 'Pikachu', por exemplo, e utilizar a Pokébola exibida na tela para capturá-lo. Esse jogo está disponível tanto na versão desktop quanto na versão móvel do buscador.

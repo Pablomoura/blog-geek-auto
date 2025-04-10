@@ -15,6 +15,7 @@ tags:
   - eliminação
   - festa da líder
   - horário do bbb
+author: Luana Souza
 ---
 
 A transmissão ao vivo do BBB 25 ocorre hoje, quarta-feira, 26 de março, às 22h25, logo após a novela 'Mania de Você'. O episódio de hoje promete revelar as consequências da recente eliminação de Aline e os preparativos para a festa da líder Renata, que excluirá um dos participantes da celebração.

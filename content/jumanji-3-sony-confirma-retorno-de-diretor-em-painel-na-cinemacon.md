@@ -18,6 +18,7 @@ tags:
   - cinemacon
   - direção de filmes
   - franquia de filmes
+author: Ana Luiza
 ---
 
 A Sony confirmou o desenvolvimento de 'Jumanji 3' durante o evento CinemaCon, anunciando que Jake Kasdan, diretor dos dois filmes anteriores da franquia, retornará para dirigir o terceiro capítulo. 

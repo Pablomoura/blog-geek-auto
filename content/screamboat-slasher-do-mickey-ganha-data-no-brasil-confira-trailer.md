@@ -20,6 +20,7 @@ tags:
   - estreia no brasil
   - trailer oficial
   - imagem filmes
+author: Pablo Moura
 ---
 
 A distribuidora Imagem Filmes confirmou na terça-feira (01) que o filme 'Screamboat: Terror a Bordo' estará disponível nos cinemas brasileiros a partir de 1º de maio. O anúncio veio acompanhado do lançamento do trailer oficial do filme. Até então, a data de estreia nos Estados Unidos estava marcada para a próxima quarta-feira (02).

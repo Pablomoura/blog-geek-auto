@@ -18,6 +18,7 @@ tags:
   - elenco
   - leitura de roteiro
   - sequência
+author: Luana Souza
 ---
 
 A aguardada série 'The Testaments', sequência direta de 'The Handmaid’s Tale', foi oficialmente confirmada pelo serviço de streaming Hulu. Recentemente, uma foto do elenco reunido para a primeira leitura do roteiro foi divulgada pela Deadline, marcando o início dos preparativos para a produção que começará em 7 de abril.

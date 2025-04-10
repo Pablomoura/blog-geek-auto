@@ -1,13 +1,26 @@
 ---
-title: "SOULM8TE ganha trailer impactante na CinemaCon"
-slug: "soulm8te-recebe-trailer-durante-a-cinemacon-leia-descrio"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/VxdOW7TuR23dEDJQOyjRQEzb9Ak=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-02T212659.147.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pGRQsb4R3FoLzWDBleUDy3npgDs=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-02T212659.147.png"
-tags: ["CinemaCon", "SOULM8TE", "filme de terror", "robô", "inteligência artificial", "thriller doméstico", "Kate Dolan", "Rafael Jordan"]
-keywords: "CinemaCon, SOULM8TE, filme de terror, robô, inteligência artificial, thriller doméstico, Kate Dolan, Rafael Jordan"
-data: "2025-04-03T00:31:11.475Z"
+title: SOULM8TE ganha trailer impactante na CinemaCon
+slug: soulm8te-recebe-trailer-durante-a-cinemacon-leia-descrio
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/VxdOW7TuR23dEDJQOyjRQEzb9Ak=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-02T212659.147.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pGRQsb4R3FoLzWDBleUDy3npgDs=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-02T212659.147.png
+tags:
+  - CinemaCon
+  - SOULM8TE
+  - filme de terror
+  - robô
+  - inteligência artificial
+  - thriller doméstico
+  - Kate Dolan
+  - Rafael Jordan
+keywords: >-
+  CinemaCon, SOULM8TE, filme de terror, robô, inteligência artificial, thriller
+  doméstico, Kate Dolan, Rafael Jordan
+data: '2025-04-03T00:31:11.475Z'
+author: Pablo Moura
 ---
 
 A Universal apresentou, em seu painel na CinemaCon nesta quarta-feira (02), o primeiro trailer de SOULM8TE, um novo filme de terror que introduz uma robô chamada Sarah. 

@@ -1,14 +1,29 @@
 ---
-title: "De Fracassos a Ícones: Filmes Geek que Viraram Cult"
-slug: "de-fracassos-a-icones-filmes-geek-que-viraram-cult"
-resumo: "Explore como alguns filmes geek inicialmente recebidos com críticas negativas e baixa bilheteria transformaram-se em clássicos cultuados com o tempo. Este artigo desvenda a jornada dessas obras peculiares, desde o lançamento até o reconhecimento tardio no mundo cinematográfico."
-categoria: "Cinema"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "cinema, filmes cult, geek, clássicos, redescoberta, ficção científica, cinema geek, fracassos"
-tags: ["cinema", "filmes cult", "geek", "clássicos", "redescoberta", "ficção científica", "cinema geek", "fracassos"]
-data: "2025-04-02T00:59:59.164Z"
+title: 'De Fracassos a Ícones: Filmes Geek que Viraram Cult'
+slug: de-fracassos-a-icones-filmes-geek-que-viraram-cult
+resumo: >-
+  Explore como alguns filmes geek inicialmente recebidos com críticas negativas
+  e baixa bilheteria transformaram-se em clássicos cultuados com o tempo. Este
+  artigo desvenda a jornada dessas obras peculiares, desde o lançamento até o
+  reconhecimento tardio no mundo cinematográfico.
+categoria: Cinema
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  cinema, filmes cult, geek, clássicos, redescoberta, ficção científica, cinema
+  geek, fracassos
+tags:
+  - cinema
+  - filmes cult
+  - geek
+  - clássicos
+  - redescoberta
+  - ficção científica
+  - cinema geek
+  - fracassos
+data: '2025-04-02T00:59:59.164Z'
+author: Pablo Moura
 ---
 
 ## Introdução

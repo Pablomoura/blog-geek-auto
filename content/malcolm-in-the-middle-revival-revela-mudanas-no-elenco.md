@@ -15,6 +15,7 @@ tags:
   - disney branded television
   - christopher masterson
   - justin berfield
+author: Pablo Moura
 ---
 
 A Disney Branded Television anunciou detalhes sobre o elenco do revival de 'Malcolm in the Middle', que será composto por quatro episódios. A nova temporada incluirá a revelação do gênero e do nome do sexto filho da família. 

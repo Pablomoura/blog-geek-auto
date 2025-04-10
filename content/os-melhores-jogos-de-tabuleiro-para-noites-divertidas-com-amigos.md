@@ -1,15 +1,29 @@
 ---
-title: "Os Melhores Jogos de Tabuleiro para Noites Divertidas com Amigos"
-slug: "os-melhores-jogos-de-tabuleiro-para-noites-divertidas-com-amigos"
-resumo: "Explorar jogos de tabuleiro é uma maneira excelente de fortalecer laços e garantir diversão. Este artigo fornece um guia completo dos melhores jogos para desfrutar com seus amigos, desde clássicos até novidades."
-categoria: "Jogos de Tabuleiro"
-midia: "/images/jogos-de-tabuleiro.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-jogos-de-tabuleiro.jpg"
-keywords: "jogos de tabuleiro, entretenimento, jogos com amigos, jogos clássicos, jogos de estratégia, jogos cooperativos, jogos em grupo, noite de jogos"
-tags: ["jogos de tabuleiro", "entretenimento", "jogos com amigos", "jogos clássicos", "jogos de estratégia", "jogos cooperativos", "jogos em grupo", "noite de jogos"]
-data: "2025-04-03T17:27:49.218Z"
+title: Os Melhores Jogos de Tabuleiro para Noites Divertidas com Amigos
+slug: os-melhores-jogos-de-tabuleiro-para-noites-divertidas-com-amigos
+resumo: >-
+  Explorar jogos de tabuleiro é uma maneira excelente de fortalecer laços e
+  garantir diversão. Este artigo fornece um guia completo dos melhores jogos
+  para desfrutar com seus amigos, desde clássicos até novidades.
+categoria: Jogos de Tabuleiro
+midia: /images/jogos-de-tabuleiro.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-jogos-de-tabuleiro.jpg
+keywords: >-
+  jogos de tabuleiro, entretenimento, jogos com amigos, jogos clássicos, jogos
+  de estratégia, jogos cooperativos, jogos em grupo, noite de jogos
+tags:
+  - jogos de tabuleiro
+  - entretenimento
+  - jogos com amigos
+  - jogos clássicos
+  - jogos de estratégia
+  - jogos cooperativos
+  - jogos em grupo
+  - noite de jogos
+data: '2025-04-03T17:27:49.218Z'
 story: true
+author: Luana Souza
 ---
 
 ## Introdução

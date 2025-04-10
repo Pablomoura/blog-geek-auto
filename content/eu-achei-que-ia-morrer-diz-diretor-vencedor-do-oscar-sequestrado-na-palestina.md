@@ -15,6 +15,7 @@ tags:
   - oscar
   - documentário
   - palestina
+author: Ana Luiza
 ---
 
 Hamdan Ballal, co-diretor do aclamado documentário 'Sem Chão', vencedor do Oscar, foi vítima de um violento ataque por colonos israelenses em Susiya, na última segunda-feira (24). Em entrevista à Al Jazeera nesta quarta-feira (26), Ballal expressou seu temor durante o incidente: 'Eu achei que ia morrer'.

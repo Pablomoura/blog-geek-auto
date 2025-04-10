@@ -1,14 +1,25 @@
 ---
-title: "Onde Ler o Mangá de Frieren em Português de Forma Legal"
-slug: "onde-ler-o-manga-de-frieren-em-portugues-de-forma-legal"
-resumo: "Descubra as plataformas legais para ler o mangá de Frieren em português, explorando opções variadas para aproveitar ao máximo essa obra aclamada."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, mangá, leitura, português, legal, plataformas, Crunchyroll, Kindle"
-tags: ["Frieren", "mangá", "leitura", "português", "legal", "plataformas", "Crunchyroll", "Kindle"]
-data: "2025-04-07T21:32:34.702Z"
+title: Onde Ler o Mangá de Frieren em Português de Forma Legal
+slug: onde-ler-o-manga-de-frieren-em-portugues-de-forma-legal
+resumo: >-
+  Descubra as plataformas legais para ler o mangá de Frieren em português,
+  explorando opções variadas para aproveitar ao máximo essa obra aclamada.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: 'Frieren, mangá, leitura, português, legal, plataformas, Crunchyroll, Kindle'
+tags:
+  - Frieren
+  - mangá
+  - leitura
+  - português
+  - legal
+  - plataformas
+  - Crunchyroll
+  - Kindle
+data: '2025-04-07T21:32:34.702Z'
+author: Pablo Moura
 ---
 
 ## Introdução

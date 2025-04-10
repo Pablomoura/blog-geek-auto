@@ -1,13 +1,25 @@
 ---
-title: "Five Nights at Freddy's 2 ganha primeiro trailer na CinemaCon"
-slug: "five-nights-at-freddys-2-ganha-primeiro-trailer-na-cinemacon"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/_zEBy_vEbOM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/JIpddKVsmCPK2-NBsg-4w8W2ySo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-24T140025.061.png"
-tags: ["Five Nights at Freddy's 2", "CinemaCon", "Universal Pictures", "terror", "lançamento de trailer", "Matthew Lillard", "adaptação de videogame", "Halloween"]
-keywords: "Five Nights at Freddy's 2, CinemaCon, Universal Pictures, terror, lançamento de trailer, Matthew Lillard, adaptação de videogame, Halloween"
-data: "2025-04-03T00:11:52.308Z"
+title: Five Nights at Freddy's 2 ganha primeiro trailer na CinemaCon
+slug: five-nights-at-freddys-2-ganha-primeiro-trailer-na-cinemacon
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/_zEBy_vEbOM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/JIpddKVsmCPK2-NBsg-4w8W2ySo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-24T140025.061.png
+tags:
+  - Five Nights at Freddy's 2
+  - CinemaCon
+  - Universal Pictures
+  - terror
+  - lançamento de trailer
+  - Matthew Lillard
+  - adaptação de videogame
+  - Halloween
+keywords: >-
+  Five Nights at Freddy's 2, CinemaCon, Universal Pictures, terror, lançamento
+  de trailer, Matthew Lillard, adaptação de videogame, Halloween
+data: '2025-04-03T00:11:52.308Z'
+author: Ana Luiza
 ---
 
 O aguardado terror 'Five Nights at Freddy's 2' teve seu primeiro trailer divulgado pela Universal Pictures na CinemaCon deste ano. Durante o evento, Jason Blum subiu ao palco e destacou que o primeiro filme foi o maior sucesso da Blumhouse, marcando a história do estúdio. Ele ressaltou ainda que, diferentemente do primeiro filme, que foi lançado em plataformas de streaming, 'FNAF 2' será exclusivo para os cinemas.

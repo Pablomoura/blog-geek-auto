@@ -1,14 +1,29 @@
 ---
-title: "Entendendo a Numeração Kaiju: O Significado de Ser o Kaiju Nº 8"
-slug: "entendendo-a-numeracao-kaiju-o-significado-de-ser-o-kaiju-no-8"
-resumo: "Este artigo explora o sistema de numeração Kaiju, com foco especial no significado e na importância do Kaiju Nº 8. Descubra como essas criaturas são classificadas e o que particularmente faz o Kaiju Nº 8 tão único e central na cultura pop."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju, Numeração Kaiju, Kaiju Nº 8, Cultura Pop, Filmes de Monstros, Godzilla, Mitologia Kaiju, Criaturas Gigantes"
-tags: ["Kaiju", "Numeração Kaiju", "Kaiju Nº 8", "Cultura Pop", "Filmes de Monstros", "Godzilla", "Mitologia Kaiju", "Criaturas Gigantes"]
-data: "2025-04-06T22:08:20.085Z"
+title: 'Entendendo a Numeração Kaiju: O Significado de Ser o Kaiju Nº 8'
+slug: entendendo-a-numeracao-kaiju-o-significado-de-ser-o-kaiju-no-8
+resumo: >-
+  Este artigo explora o sistema de numeração Kaiju, com foco especial no
+  significado e na importância do Kaiju Nº 8. Descubra como essas criaturas são
+  classificadas e o que particularmente faz o Kaiju Nº 8 tão único e central na
+  cultura pop.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju, Numeração Kaiju, Kaiju Nº 8, Cultura Pop, Filmes de Monstros, Godzilla,
+  Mitologia Kaiju, Criaturas Gigantes
+tags:
+  - Kaiju
+  - Numeração Kaiju
+  - Kaiju Nº 8
+  - Cultura Pop
+  - Filmes de Monstros
+  - Godzilla
+  - Mitologia Kaiju
+  - Criaturas Gigantes
+data: '2025-04-06T22:08:20.085Z'
+author: Luana Souza
 ---
 
 ## Introdução

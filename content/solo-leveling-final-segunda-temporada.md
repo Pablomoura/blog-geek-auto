@@ -1,19 +1,25 @@
 ---
-title: "Solo Leveling: entenda o final da 2ª temporada e o que esperar da continuação"
-slug: "solo-leveling-final-segunda-temporada"
-categoria: "MANGÁS E ANIMES"
-resumo: "A segunda temporada de Solo Leveling chegou ao fim com muita ação e revelações importantes. Saiba o que significa o final e o que já sabemos sobre a continuação mais aguardada da Crunchyroll."
-data: "2025-04-05T12:00:00.000Z"
-thumb: "/images/solo-leveling-final.jpg"
-midia: "/images/solo-leveling-capa.jpg"
-tipoMidia: "imagem"
+title: 'Solo Leveling: entenda o final da 2ª temporada e o que esperar da continuação'
+slug: solo-leveling-final-segunda-temporada
+categoria: MANGÁS E ANIMES
+resumo: >-
+  A segunda temporada de Solo Leveling chegou ao fim com muita ação e revelações
+  importantes. Saiba o que significa o final e o que já sabemos sobre a
+  continuação mais aguardada da Crunchyroll.
+data: '2025-04-05T12:00:00.000Z'
+thumb: /images/solo-leveling-final.jpg
+midia: /images/solo-leveling-capa.jpg
+tipoMidia: imagem
 tags:
   - solo leveling
   - sung jin-woo
   - animes 2025
   - crunchyroll
   - anime de ação
-keywords: "final solo leveling, solo leveling segunda temporada, crunchyroll anime 2025, sung jin-woo, solo leveling terceira temporada, continuação solo leveling"
+keywords: >-
+  final solo leveling, solo leveling segunda temporada, crunchyroll anime 2025,
+  sung jin-woo, solo leveling terceira temporada, continuação solo leveling
+author: Pablo Moura
 ---
 
 O anime **Solo Leveling** chegou ao fim da sua segunda temporada e consolidou seu lugar como um dos maiores fenômenos recentes da Crunchyroll. Com batalhas épicas, animação de alto nível e uma história envolvente, a série alcançou o topo da audiência da plataforma e se tornou a temporada mais assistida de 2025 até agora.

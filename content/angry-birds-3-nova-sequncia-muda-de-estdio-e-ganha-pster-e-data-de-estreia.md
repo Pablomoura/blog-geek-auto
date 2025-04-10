@@ -1,13 +1,28 @@
 ---
-title: "Angry Birds 3 | Nova sequência muda de estúdio e ganha pôster e data de estreia"
-slug: "angry-birds-3-nova-sequncia-muda-de-estdio-e-ganha-pster-e-data-de-estreia"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/hx8HjgCei_KIhVvlc_5mNr5O5Ns=/987x0/smart/uploads/conteudo/fotos/angrybirds.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fX29hICHiKsH1_I8kIBY-PIWYAk=/480x360/smart/extras/conteudos/angrybirds.jpg"
-tags: ["Angry Birds 3", "Paramount", "Sony Pictures", "Jason Sudeikis", "estreia 2027", "filmes de animação", "jogos para filmes", "franquia Angry Birds"]
-keywords: "Angry Birds 3, Paramount, Sony Pictures, Jason Sudeikis, estreia 2027, filmes de animação, jogos para filmes, franquia Angry Birds"
-data: "2025-04-08T18:13:04.511Z"
+title: >-
+  Angry Birds 3 | Nova sequência muda de estúdio e ganha pôster e data de
+  estreia
+slug: angry-birds-3-nova-sequncia-muda-de-estdio-e-ganha-pster-e-data-de-estreia
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/hx8HjgCei_KIhVvlc_5mNr5O5Ns=/987x0/smart/uploads/conteudo/fotos/angrybirds.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fX29hICHiKsH1_I8kIBY-PIWYAk=/480x360/smart/extras/conteudos/angrybirds.jpg
+tags:
+  - Angry Birds 3
+  - Paramount
+  - Sony Pictures
+  - Jason Sudeikis
+  - estreia 2027
+  - filmes de animação
+  - jogos para filmes
+  - franquia Angry Birds
+keywords: >-
+  Angry Birds 3, Paramount, Sony Pictures, Jason Sudeikis, estreia 2027, filmes
+  de animação, jogos para filmes, franquia Angry Birds
+data: '2025-04-08T18:13:04.511Z'
+author: Pablo Moura
 ---
 
 A franquia de filmes baseada no popular jogo Angry Birds prepara-se para lançar sua terceira sequência, trazendo de volta vozes conhecidas como Jason Sudeikis, Rachel Bloom, Josh Gad e Danny McBride. Segundo informações do The Hollywood Reporter, o novo filme não será mais produzido pela Sony Pictures, mas sim pela Paramount, com lançamento previsto para 29 de janeiro de 2027.

@@ -17,6 +17,7 @@ tags:
   - fim das filmagens
   - cinema
   - instagram
+author: Luana Souza
 ---
 
 Glen Powell, ator conhecido por seus papéis em Hollywood, usou seu Instagram na última sexta-feira (28) para anunciar o fim das gravações de 'The Running Man'. A foto postada por Powell mostra-o ao lado do diretor Edgar Wright, ambos aparentemente contentes com a conclusão do projeto.

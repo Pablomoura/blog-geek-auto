@@ -17,6 +17,7 @@ tags:
   - espn
   - disney+
   - superbowl
+author: Pablo Moura
 ---
 
 A ESPN e o Disney+ anunciaram o lançamento de uma série documental dedicada ao Kansas City Chiefs, renomado time da NFL, prevista para estrear em 2025. A produção em seis partes destacará a temporada de 2024 do time, que culminou com a derrota no Superbowl frente ao Philadelphia Eagles, impedindo o histórico tricampeonato.

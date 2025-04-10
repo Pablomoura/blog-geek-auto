@@ -1,13 +1,28 @@
 ---
-title: "Nova data e pôsteres revelados para 'Regras do Amor na Cidade Grande' com Kim Go-eun"
-slug: "regras-do-amor-na-cidade-grande-ganha-nova-data-e-psteres-com-kim-go-eun-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/znmkL-XgwLL8OmFZBi8Kr2xeH7w=/987x0/smart/uploads/conteudo/fotos/regras_topo.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NKEyBs6h2EnagNRSb-qPYDzXmDk=/480x360/smart/extras/conteudos/regras_topo.png"
-tags: ["comédia romântica", "Kim Go-eun", "cinema sul-coreano", "estreia de filme", "adaptação de livro", "pôsteres de filme", "A2 Filmes", "cultura pop"]
-keywords: "comédia romântica, Kim Go-eun, cinema sul-coreano, estreia de filme, adaptação de livro, pôsteres de filme, A2 Filmes, cultura pop"
-data: "2025-04-04T14:13:08.511Z"
+title: >-
+  Nova data e pôsteres revelados para 'Regras do Amor na Cidade Grande' com Kim
+  Go-eun
+slug: regras-do-amor-na-cidade-grande-ganha-nova-data-e-psteres-com-kim-go-eun-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/znmkL-XgwLL8OmFZBi8Kr2xeH7w=/987x0/smart/uploads/conteudo/fotos/regras_topo.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NKEyBs6h2EnagNRSb-qPYDzXmDk=/480x360/smart/extras/conteudos/regras_topo.png
+tags:
+  - comédia romântica
+  - Kim Go-eun
+  - cinema sul-coreano
+  - estreia de filme
+  - adaptação de livro
+  - pôsteres de filme
+  - A2 Filmes
+  - cultura pop
+keywords: >-
+  comédia romântica, Kim Go-eun, cinema sul-coreano, estreia de filme, adaptação
+  de livro, pôsteres de filme, A2 Filmes, cultura pop
+data: '2025-04-04T14:13:08.511Z'
+author: Ana Luiza
 ---
 
 A comédia romântica sul-coreana 'Regras do Amor na Cidade Grande', baseada no best-seller homônimo, teve sua estreia nos cinemas brasileiros reprogramada para o dia 10 de abril. A distribuição do filme será realizada pela A2 Filmes.

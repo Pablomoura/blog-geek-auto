@@ -1,13 +1,25 @@
 ---
-title: "Minecraft | Streamer que acusou Jason Momoa de má conduta foi cortada do filme"
-slug: "minecraft-streamer-que-acusou-jason-momoa-de-m-conduta-foi-cortada-do-filme"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/Guzfs8wnJBc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/W1aDQTZvaklK8yPlVK9O8_rGZ1E=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_173148.png"
-tags: ["Minecraft", "Jason Momoa", "Valkyrae", "filme", "streamer", "acusação", "elenco", "indústria de jogos"]
-keywords: "Minecraft, Jason Momoa, Valkyrae, filme, streamer, acusação, elenco, indústria de jogos"
-data: "2025-04-08T21:11:21.215Z"
+title: Minecraft | Streamer que acusou Jason Momoa de má conduta foi cortada do filme
+slug: minecraft-streamer-que-acusou-jason-momoa-de-m-conduta-foi-cortada-do-filme
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/Guzfs8wnJBc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/W1aDQTZvaklK8yPlVK9O8_rGZ1E=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_173148.png
+tags:
+  - Minecraft
+  - Jason Momoa
+  - Valkyrae
+  - filme
+  - streamer
+  - acusação
+  - elenco
+  - indústria de jogos
+keywords: >-
+  Minecraft, Jason Momoa, Valkyrae, filme, streamer, acusação, elenco, indústria
+  de jogos
+data: '2025-04-08T21:11:21.215Z'
+author: Luana Souza
 ---
 
 A streamer Rachell Marie, conhecida como Valkyrae, revelou ter sido excluída do elenco de 'Um Filme Minecraft'. Durante uma transmissão ao vivo, a influenciadora digital de 33 anos compartilhou que sua participação no filme foi removida, limitando-se a dizer: 'Não vou falar muito sobre isso, mas seria tipo uns 30 segundos. Prefiro não ter esses 30 segundos e não ser processada'.

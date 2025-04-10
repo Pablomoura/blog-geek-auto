@@ -1,13 +1,26 @@
 ---
-title: "Um Filme Minecraft | Quando sai a continuação?"
-slug: "um-filme-minecraft-quando-sai-a-continuao"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/atiCB6o_HtV8givW3gxTiGGQNWs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-07T130804.123.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/LCDf82DYHtj5GlqLUQVgl3BEcns=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T130745.942.png"
-tags: ["Minecraft", "bilheteria", "sequência de filme", "Jared Hess", "Jason Momoa", "Jack Black", "videogames", "Warner Bros"]
-keywords: "Minecraft, bilheteria, sequência de filme, Jared Hess, Jason Momoa, Jack Black, videogames, Warner Bros"
-data: "2025-04-07T16:11:35.620Z"
+title: Um Filme Minecraft | Quando sai a continuação?
+slug: um-filme-minecraft-quando-sai-a-continuao
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/atiCB6o_HtV8givW3gxTiGGQNWs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-07T130804.123.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/LCDf82DYHtj5GlqLUQVgl3BEcns=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T130745.942.png
+tags:
+  - Minecraft
+  - bilheteria
+  - sequência de filme
+  - Jared Hess
+  - Jason Momoa
+  - Jack Black
+  - videogames
+  - Warner Bros
+keywords: >-
+  Minecraft, bilheteria, sequência de filme, Jared Hess, Jason Momoa, Jack
+  Black, videogames, Warner Bros
+data: '2025-04-07T16:11:35.620Z'
+author: Pablo Moura
 ---
 
 O recente sucesso de bilheteria, Um Filme Minecraft, surpreendeu o mercado cinematográfico ao arrecadar impressionantes US$ 300 milhões em seu fim de semana de estreia, um feito que não era visto desde as estreias de Deadpool & Wolverine. Diante deste sucesso estrondoso, a pergunta que fica é: teremos uma sequência? E quando será lançada? Ainda não há uma confirmação oficial de uma continuação, mas o diretor Jared Hess já manifestou seu interesse em retornar ao universo de Minecraft. Em entrevista ao GamesRadar+, Hess revelou seu entusiasmo: 'Seria muito divertido. Digo, olha, esse mundo é infinito, e há tantas coisas incríveis e personagens e biomas que não exploramos, então seria incrível.'

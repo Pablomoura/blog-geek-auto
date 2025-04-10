@@ -1,13 +1,25 @@
 ---
-title: "Arcane | Ma Meilleure Ennemie ganha versão com Coldplay"
-slug: "arcane-ma-meilleure-ennemie-ganha-verso-com-coldplay"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/XbLemOwzdxk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/AZcyufiFseog3EIjH8V1cw_nOUI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T125142.388.png"
-tags: ["Arcane", "Coldplay", "League of Legends", "Riot Games", "música", "colaboração", "animação", "Netflix"]
-keywords: "Arcane, Coldplay, League of Legends, Riot Games, música, colaboração, animação, Netflix"
-data: "2025-04-04T16:11:57.099Z"
+title: Arcane | Ma Meilleure Ennemie ganha versão com Coldplay
+slug: arcane-ma-meilleure-ennemie-ganha-verso-com-coldplay
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/XbLemOwzdxk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/AZcyufiFseog3EIjH8V1cw_nOUI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T125142.388.png
+tags:
+  - Arcane
+  - Coldplay
+  - League of Legends
+  - Riot Games
+  - música
+  - colaboração
+  - animação
+  - Netflix
+keywords: >-
+  Arcane, Coldplay, League of Legends, Riot Games, música, colaboração,
+  animação, Netflix
+data: '2025-04-04T16:11:57.099Z'
+author: Ana Luiza
 ---
 
 Em uma colaboração inovadora entre a Riot Games e a Virgin Music Group, foi lançada uma nova versão da música 'Ma Meilleure Ennemie', originalmente de Stromae e Pomme, agora com a participação da banda britânica Coldplay. A música faz parte da promoção da série animada Arcane, baseada no universo de League of Legends (LoL).

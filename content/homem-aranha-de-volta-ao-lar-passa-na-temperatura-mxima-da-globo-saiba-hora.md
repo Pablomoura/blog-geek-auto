@@ -1,13 +1,25 @@
 ---
-title: "Homem-Aranha: De Volta ao Lar é destaque na Temperatura Máxima da Globo"
-slug: "homem-aranha-de-volta-ao-lar-passa-na-temperatura-mxima-da-globo-saiba-hora"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/2x-2iYxgMFU?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/GrUCFZAxW2NqTcpy2b3Xc_wR9Oc=/480x360/smart/extras/conteudos/homemaranhadevoltaolar_WkCUDea.jpg"
-tags: ["Homem-Aranha", "Temperatura Máxima", "Globo", "Tom Holland", "Tony Stark", "Vingadores", "Abutre", "super-herói"]
-keywords: "Homem-Aranha, Temperatura Máxima, Globo, Tom Holland, Tony Stark, Vingadores, Abutre, super-herói"
-data: "2025-04-06T07:09:04.472Z"
+title: 'Homem-Aranha: De Volta ao Lar é destaque na Temperatura Máxima da Globo'
+slug: homem-aranha-de-volta-ao-lar-passa-na-temperatura-mxima-da-globo-saiba-hora
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/2x-2iYxgMFU?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/GrUCFZAxW2NqTcpy2b3Xc_wR9Oc=/480x360/smart/extras/conteudos/homemaranhadevoltaolar_WkCUDea.jpg
+tags:
+  - Homem-Aranha
+  - Temperatura Máxima
+  - Globo
+  - Tom Holland
+  - Tony Stark
+  - Vingadores
+  - Abutre
+  - super-herói
+keywords: >-
+  Homem-Aranha, Temperatura Máxima, Globo, Tom Holland, Tony Stark, Vingadores,
+  Abutre, super-herói
+data: '2025-04-06T07:09:04.472Z'
+author: Luana Souza
 ---
 
 Neste domingo, a sessão Temperatura Máxima da Rede Globo traz o filme 'Homem-Aranha: De Volta ao Lar', lançado em 2017. A transmissão está programada para começar às 12h30, horário de Brasília. Com duração de 2h15, o filme é dirigido por Jon Watts e apresenta a jornada de Peter Parker em sua volta a Nova York após a experiência com os Vingadores.

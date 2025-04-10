@@ -16,6 +16,7 @@ tags:
   - música em coreano
   - marketing
   - iu
+author: Luana Souza
 ---
 
 Em uma estratégia de marketing inovadora, a Netflix divulgou um vídeo de Alcione performando seu hit 'Você Me Vira a Cabeça' em coreano. A iniciativa visa promover o lançamento do k-drama 'Se a Vida Te Der Tangerinas'.

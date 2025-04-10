@@ -1,14 +1,28 @@
 ---
-title: "Guia Completo dos Personagens de Kaiju No. 8: Aliados, Rivais e Antagonistas"
-slug: "guia-completo-dos-personagens-de-kaiju-no-8-aliados-rivais-e-antagonistas"
-resumo: "Explore o mundo de Kaiju No. 8 através de um guia detalhado sobre seus personagens principais. Conheça os aliados, rivais e antagonistas que tornam esta série de mangá tão cativante."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, manga, personagens, Kafka Hibino, Mina Ashiro, antagonistas, aliados, rivalidades"
-tags: ["Kaiju No. 8", "manga", "personagens", "Kafka Hibino", "Mina Ashiro", "antagonistas", "aliados", "rivalidades"]
-data: "2025-04-05T22:09:04.651Z"
+title: 'Guia Completo dos Personagens de Kaiju No. 8: Aliados, Rivais e Antagonistas'
+slug: guia-completo-dos-personagens-de-kaiju-no-8-aliados-rivais-e-antagonistas
+resumo: >-
+  Explore o mundo de Kaiju No. 8 através de um guia detalhado sobre seus
+  personagens principais. Conheça os aliados, rivais e antagonistas que tornam
+  esta série de mangá tão cativante.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, manga, personagens, Kafka Hibino, Mina Ashiro, antagonistas,
+  aliados, rivalidades
+tags:
+  - Kaiju No. 8
+  - manga
+  - personagens
+  - Kafka Hibino
+  - Mina Ashiro
+  - antagonistas
+  - aliados
+  - rivalidades
+data: '2025-04-05T22:09:04.651Z'
+author: Pablo Moura
 ---
 
 ## Introdução

@@ -1,14 +1,29 @@
 ---
-title: "Desvendando o Poder de Kafka Hibino: Uma Análise Profunda"
-slug: "desvendando-o-poder-de-kafka-hibino-uma-analise-profunda"
-resumo: "Explore as teorias que cercam o misterioso poder de Kafka Hibino, protagonista de 'Kaiju No. 8'. Este artigo detalha as especulações sobre suas habilidades, sua origem e como isso se relaciona com os Kaijus e o desenvolvimento da trama."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kafka Hibino, Kaiju No. 8, poderes, teorias, transformação, Kaiju, manga, força de defesa"
-tags: ["Kafka Hibino", "Kaiju No. 8", "poderes", "teorias", "transformação", "Kaiju", "manga", "força de defesa"]
-data: "2025-04-09T22:19:26.835Z"
+title: 'Desvendando o Poder de Kafka Hibino: Uma Análise Profunda'
+slug: desvendando-o-poder-de-kafka-hibino-uma-analise-profunda
+resumo: >-
+  Explore as teorias que cercam o misterioso poder de Kafka Hibino, protagonista
+  de 'Kaiju No. 8'. Este artigo detalha as especulações sobre suas habilidades,
+  sua origem e como isso se relaciona com os Kaijus e o desenvolvimento da
+  trama.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kafka Hibino, Kaiju No. 8, poderes, teorias, transformação, Kaiju, manga,
+  força de defesa
+tags:
+  - Kafka Hibino
+  - Kaiju No. 8
+  - poderes
+  - teorias
+  - transformação
+  - Kaiju
+  - manga
+  - força de defesa
+data: '2025-04-09T22:19:26.835Z'
+author: Pablo Moura
 ---
 
 ## Desvendando o poder de Kafka Hibino: uma análise profunda

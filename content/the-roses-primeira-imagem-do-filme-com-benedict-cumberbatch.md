@@ -1,13 +1,26 @@
 ---
-title: "The Roses | Primeira imagem do filme com Benedict Cumberbatch"
-slug: "the-roses-primeira-imagem-do-filme-com-benedict-cumberbatch"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/nQko9tseDgpZuz_SBQsv3MehWdo=/987x0/smart/uploads/conteudo/fotos/image_15_f9LzjfN.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/kg4DTEbfpd60VaxJvDVhlEtoRCs=/480x360/smart/extras/conteudos/image_15_XAhlR2i.png"
-tags: ["Benedict Cumberbatch", "Olivia Coleman", "The Roses", "CinemaCon", "comédia", "Guerra das Rosas", "filme", "Disney"]
-keywords: "Benedict Cumberbatch, Olivia Coleman, The Roses, CinemaCon, comédia, Guerra das Rosas, filme, Disney"
-data: "2025-04-03T23:12:37.975Z"
+title: The Roses | Primeira imagem do filme com Benedict Cumberbatch
+slug: the-roses-primeira-imagem-do-filme-com-benedict-cumberbatch
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/nQko9tseDgpZuz_SBQsv3MehWdo=/987x0/smart/uploads/conteudo/fotos/image_15_f9LzjfN.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/kg4DTEbfpd60VaxJvDVhlEtoRCs=/480x360/smart/extras/conteudos/image_15_XAhlR2i.png
+tags:
+  - Benedict Cumberbatch
+  - Olivia Coleman
+  - The Roses
+  - CinemaCon
+  - comédia
+  - Guerra das Rosas
+  - filme
+  - Disney
+keywords: >-
+  Benedict Cumberbatch, Olivia Coleman, The Roses, CinemaCon, comédia, Guerra
+  das Rosas, filme, Disney
+data: '2025-04-03T23:12:37.975Z'
+author: Luana Souza
 ---
 
 Durante a CinemaCon, a Disney divulgou a primeira imagem oficial de 'The Roses', filme que conta com Olivia Coleman e Benedict Cumberbatch nos papéis principais. Esta comédia é inspirada na Guerra das Rosas, um notório conflito histórico que sacudiu a Inglaterra entre 1455 e 1485.

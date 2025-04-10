@@ -1,14 +1,28 @@
 ---
-title: "Hunter Cha Hae-In: A Caçadora Mais Forte da Coreia?"
-slug: "hunter-cha-hae-in-a-cacadora-mais-forte-da-coreia"
-resumo: "Exploramos a trajetória e habilidades de Cha Hae-In, uma das personagens mais icônicas do universo dos caçadores na Coreia, destacando suas características e questionando se ela é realmente a mais forte entre todos."
-categoria: "Personagens Fictícios"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Cha Hae-In, caçadora, Coreia, força, habilidades, liderança, cultura pop, influência"
-tags: ["Cha Hae-In", "caçadora", "Coreia", "força", "habilidades", "liderança", "cultura pop", "influência"]
-data: "2025-03-07T01:39:54.028Z"
+title: 'Hunter Cha Hae-In: A Caçadora Mais Forte da Coreia?'
+slug: hunter-cha-hae-in-a-cacadora-mais-forte-da-coreia
+resumo: >-
+  Exploramos a trajetória e habilidades de Cha Hae-In, uma das personagens mais
+  icônicas do universo dos caçadores na Coreia, destacando suas características
+  e questionando se ela é realmente a mais forte entre todos.
+categoria: Personagens Fictícios
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Cha Hae-In, caçadora, Coreia, força, habilidades, liderança, cultura pop,
+  influência
+tags:
+  - Cha Hae-In
+  - caçadora
+  - Coreia
+  - força
+  - habilidades
+  - liderança
+  - cultura pop
+  - influência
+data: '2025-03-07T01:39:54.028Z'
+author: Ana Luiza
 ---
 
 ## Introdução

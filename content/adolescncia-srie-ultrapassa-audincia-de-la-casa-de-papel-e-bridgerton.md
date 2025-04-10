@@ -1,13 +1,25 @@
 ---
-title: "Adolescência | Série ultrapassa audiência de La Casa de Papel e Bridgerton"
-slug: "adolescncia-srie-ultrapassa-audincia-de-la-casa-de-papel-e-bridgerton"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/Cyc5QfdZMmQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Tfat3wY5GJM1e9TMs7Ih6V7vCy8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_165418.png"
-tags: ["Netflix", "Adolescência série", "plano-sequência", "audiência recorde", "Jack Thorne", "Stephen Graham", "séries populares", "streaming"]
-keywords: "Netflix, Adolescência série, plano-sequência, audiência recorde, Jack Thorne, Stephen Graham, séries populares, streaming"
-data: "2025-04-08T20:11:25.610Z"
+title: Adolescência | Série ultrapassa audiência de La Casa de Papel e Bridgerton
+slug: adolescncia-srie-ultrapassa-audincia-de-la-casa-de-papel-e-bridgerton
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/Cyc5QfdZMmQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Tfat3wY5GJM1e9TMs7Ih6V7vCy8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_165418.png
+tags:
+  - Netflix
+  - Adolescência série
+  - plano-sequência
+  - audiência recorde
+  - Jack Thorne
+  - Stephen Graham
+  - séries populares
+  - streaming
+keywords: >-
+  Netflix, Adolescência série, plano-sequência, audiência recorde, Jack Thorne,
+  Stephen Graham, séries populares, streaming
+data: '2025-04-08T20:11:25.610Z'
+author: Luana Souza
 ---
 
 A nova minissérie da Netflix, 'Adolescência', tem alcançado marcos notáveis em termos de audiência desde sua estreia em março. Segundo informações do UOL que cita a plataforma de streaming, a série já acumulou mais de 114,5 milhões de visualizações. Apenas na última semana, registrou mais de 17,8 milhões de visualizações completas, referentes a espectadores que assistiram todos os episódios.

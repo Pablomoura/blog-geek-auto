@@ -15,6 +15,7 @@ tags:
   - ricardo darin
   - trailer
   - graphic novel
+author: Pablo Moura
 ---
 
 Acaba de ser divulgado o trailer final da série argentina 'O Eternauta', estrelada pelo renomado ator Ricardo Darin. Confira a emocionante prévia no site da Netflix.

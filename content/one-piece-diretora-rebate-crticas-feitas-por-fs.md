@@ -1,13 +1,26 @@
 ---
-title: "One Piece | Diretora Megumi Ishitani Responde a Críticas dos Fãs"
-slug: "one-piece-diretora-rebate-crticas-feitas-por-fs"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/gf13cAvZ85p3Qt4f9Hi8dxwEm_w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T115717.263.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/GCvpUPCHD4xsYMQKVxTSNH9p1Q4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T115706.194.png"
-tags: ["One Piece", "Megumi Ishitani", "críticas de fãs", "Zoro e Sanji", "anime", "mangá", "live-action Netflix", "adaptação televisiva"]
-keywords: "One Piece, Megumi Ishitani, críticas de fãs, Zoro e Sanji, anime, mangá, live-action Netflix, adaptação televisiva"
-data: "2025-04-08T15:11:09.690Z"
+title: One Piece | Diretora Megumi Ishitani Responde a Críticas dos Fãs
+slug: one-piece-diretora-rebate-crticas-feitas-por-fs
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/gf13cAvZ85p3Qt4f9Hi8dxwEm_w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T115717.263.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/GCvpUPCHD4xsYMQKVxTSNH9p1Q4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T115706.194.png
+tags:
+  - One Piece
+  - Megumi Ishitani
+  - críticas de fãs
+  - Zoro e Sanji
+  - anime
+  - mangá
+  - live-action Netflix
+  - adaptação televisiva
+keywords: >-
+  One Piece, Megumi Ishitani, críticas de fãs, Zoro e Sanji, anime, mangá,
+  live-action Netflix, adaptação televisiva
+data: '2025-04-08T15:11:09.690Z'
+author: Pablo Moura
 ---
 
 O renomado anime One Piece, após um hiato de seis meses, regressou com episódios inéditos, especificamente os capítulos 1123 e 1124, lançados simultaneamente. No entanto, nem todos os fãs ficaram satisfeitos com os novos capítulos, e a diretora Megumi Ishitani foi alvo de críticas. Um fã expressou descontentamento nas redes sociais, acusando a diretora de dar preferência ao personagem Zoro em detrimento de Sanji, alegando que este último foi retratado de forma simplificada. Em resposta, Ishitani esclareceu: 'Por favor, não me diga isso, pois não estou envolvida, e claro que outros membros também não. Por favor, evite descontar sua insatisfação com todo o projeto em indivíduos no futuro'.

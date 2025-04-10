@@ -1,13 +1,26 @@
 ---
-title: "Thunderbolts ganha trailer final na CinemaCon; leia a descrição"
-slug: "thunderbolts-ganha-trailer-final-na-cinemacon-leia-a-descrio"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/xTDt7lgoS_UwLSFwSCGYEqYIDRw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_11_xfsqlAU.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pvCxjSQoY1-jjL-VuJoFu5joNtM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-19_160545.png"
-tags: ["Marvel Studios", "Thunderbolts", "CinemaCon 2025", "Bucky Barnes", "Yelena Belova", "MCU Fase 6", "ação e super-heróis", "trailer final"]
-keywords: "Marvel Studios, Thunderbolts, CinemaCon 2025, Bucky Barnes, Yelena Belova, MCU Fase 6, ação e super-heróis, trailer final"
-data: "2025-04-03T23:11:34.115Z"
+title: Thunderbolts ganha trailer final na CinemaCon; leia a descrição
+slug: thunderbolts-ganha-trailer-final-na-cinemacon-leia-a-descrio
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/xTDt7lgoS_UwLSFwSCGYEqYIDRw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_11_xfsqlAU.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pvCxjSQoY1-jjL-VuJoFu5joNtM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-19_160545.png
+tags:
+  - Marvel Studios
+  - Thunderbolts
+  - CinemaCon 2025
+  - Bucky Barnes
+  - Yelena Belova
+  - MCU Fase 6
+  - ação e super-heróis
+  - trailer final
+keywords: >-
+  Marvel Studios, Thunderbolts, CinemaCon 2025, Bucky Barnes, Yelena Belova, MCU
+  Fase 6, ação e super-heróis, trailer final
+data: '2025-04-03T23:11:34.115Z'
+author: Luana Souza
 ---
 
 Durante a CinemaCon 2025, a Marvel Studios apresentou o último trailer de 'Thunderbolts', que promete ser um dos grandes lançamentos do estúdio nos cinemas. O trailer começa com uma música animada enquanto mostra Nova York. Bucky e Guardião Vermelho discutem sobre soros dentro de uma van, com Guardião mostrando admiração e fazendo piadas sobre formarem uma dupla. Em outro canto, Agente Americano e Yelena Belova conversam sobre seus uniformes, com uma troca divertida sobre o 'chapéu' que na verdade é um capacete. A equipe então irrompe em um prédio dirigindo o carro, começando uma intensa cena de ação onde enfrentam vários guardas.

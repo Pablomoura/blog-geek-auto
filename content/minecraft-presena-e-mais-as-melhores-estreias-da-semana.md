@@ -20,6 +20,7 @@ tags:
   - jason momoa
   - filmes de videogame
   - cinema brasileiro
+author: Pablo Moura
 ---
 
 Esta semana promete ser movimentada nos cinemas brasileiros com a estreia de 'Minecraft', uma adaptação do popular jogo da Microsoft. Estrelado por Jack Black e Jason Momoa, o filme é uma homenagem ao universo do jogo e promete cativar os fãs com uma narrativa vibrante.

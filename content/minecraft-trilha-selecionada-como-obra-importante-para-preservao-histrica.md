@@ -1,13 +1,28 @@
 ---
-title: "Minecraft | Trilha é selecionada como obra importante para preservação histórica"
-slug: "minecraft-trilha-selecionada-como-obra-importante-para-preservao-histrica"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/Lm7GQ8MPmjeaO2RSmpaq8tjXTuU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T132607.996.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/FXm4ZvT9qOUTP0jdJ9zISrOMNU0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T132557.545.png"
-tags: ["Minecraft", "preservação histórica", "trilha sonora", "Biblioteca do Congresso", "filme Minecraft", "cultura pop", "videogames", "registro histórico"]
-keywords: "Minecraft, preservação histórica, trilha sonora, Biblioteca do Congresso, filme Minecraft, cultura pop, videogames, registro histórico"
-data: "2025-04-09T17:12:53.202Z"
+title: >-
+  Minecraft | Trilha é selecionada como obra importante para preservação
+  histórica
+slug: minecraft-trilha-selecionada-como-obra-importante-para-preservao-histrica
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/Lm7GQ8MPmjeaO2RSmpaq8tjXTuU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T132607.996.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/FXm4ZvT9qOUTP0jdJ9zISrOMNU0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T132557.545.png
+tags:
+  - Minecraft
+  - preservação histórica
+  - trilha sonora
+  - Biblioteca do Congresso
+  - filme Minecraft
+  - cultura pop
+  - videogames
+  - registro histórico
+keywords: >-
+  Minecraft, preservação histórica, trilha sonora, Biblioteca do Congresso,
+  filme Minecraft, cultura pop, videogames, registro histórico
+data: '2025-04-09T17:12:53.202Z'
+author: Ana Luiza
 ---
 
 A Biblioteca do Congresso dos Estados Unidos anunciou recentemente as novas adições ao seu registro de preservação histórica para o ano de 2025. Dentre os selecionados, destaca-se a trilha sonora Minecraft: Volume Alpha, acompanhando outras obras icônicas como o álbum Goodbye Yellow Brick Road de Elton John e a aclamada peça musical Hamilton.

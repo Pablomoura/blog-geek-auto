@@ -1,13 +1,28 @@
 ---
-title: "Nintendo Switch 2 pode custar até US$ 530 após tarifas de Trump, dizem analistas"
-slug: "nintendo-switch-2-pode-custar-at-us-530-aps-tarifas-de-trump-dizem-analistas"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/XGIpLdfku3hx1_JFaXEAd4ZDKoc=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T123918.885.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/J4TGHUj2B8104YwBr9UnR8g9yaU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T121459.352_KAjaYtW.png"
-tags: ["Nintendo Switch 2", "tarifas Trump", "aumento de preço", "lançamento de console", "funcionalidades de jogo", "HDR e 4K", "jogos novos", "mercado de videogames"]
-keywords: "Nintendo Switch 2, tarifas Trump, aumento de preço, lançamento de console, funcionalidades de jogo, HDR e 4K, jogos novos, mercado de videogames"
-data: "2025-04-08T16:14:46.936Z"
+title: >-
+  Nintendo Switch 2 pode custar até US$ 530 após tarifas de Trump, dizem
+  analistas
+slug: nintendo-switch-2-pode-custar-at-us-530-aps-tarifas-de-trump-dizem-analistas
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/XGIpLdfku3hx1_JFaXEAd4ZDKoc=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T123918.885.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/J4TGHUj2B8104YwBr9UnR8g9yaU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T121459.352_KAjaYtW.png
+tags:
+  - Nintendo Switch 2
+  - tarifas Trump
+  - aumento de preço
+  - lançamento de console
+  - funcionalidades de jogo
+  - HDR e 4K
+  - jogos novos
+  - mercado de videogames
+keywords: >-
+  Nintendo Switch 2, tarifas Trump, aumento de preço, lançamento de console,
+  funcionalidades de jogo, HDR e 4K, jogos novos, mercado de videogames
+data: '2025-04-08T16:14:46.936Z'
+author: Pablo Moura
 ---
 
 De acordo com uma análise realizada pela DFC Intelligence, o preço do Nintendo Switch 2 pode chegar a US$ 530 nos Estados Unidos. Inicialmente anunciado por US$ 450, o aumento significativo no preço é atribuído às tarifas impostas recentemente. A DFC Intelligence destaca que, além de elevar o custo para o consumidor, estas tarifas poderão resultar em uma redução nas vendas, com uma previsão de 15 milhões de unidades vendidas nos EUA, contra os 17 milhões anteriormente estimados. A agência prevê que este aumento de 20% no preço se mantenha pelos próximos dois anos.

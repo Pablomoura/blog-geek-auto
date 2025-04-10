@@ -17,6 +17,7 @@ tags:
   - burbank
   - hbo
   - produções cinematográficas
+author: Pablo Moura
 ---
 
 A Warner Bros. Discovery está em processo de demolição do Edifício 131 em Burbank, Califórnia, conhecido por ser o local de criação dos clássicos desenhos dos Looney Tunes. A decisão visa criar mais espaço para as crescentes produções da HBO no local. 

@@ -1,14 +1,27 @@
 ---
-title: "Geek Romântico? 10 Ideias de Encontro Perfeitas para Casais Nerds"
-slug: "geek-romantico-10-ideias-de-encontro-perfeitas-para-casais-nerds"
-resumo: "Explorar o universo nerd pode ser uma forma incrível de conectar casais com interesses comuns. Este artigo traz dez ideias criativas de encontros que vão desde noites de jogos até visitas a exposições de ciências, perfeitas para casais que amam cultura geek."
-categoria: "Relacionamentos"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "geek, nerd, romance, encontros, jogos, ciência, cosplay, DIY"
-tags: ["geek", "nerd", "romance", "encontros", "jogos", "ciência", "cosplay", "DIY"]
-data: "2025-04-02T01:06:18.747Z"
+title: Geek Romântico? 10 Ideias de Encontro Perfeitas para Casais Nerds
+slug: geek-romantico-10-ideias-de-encontro-perfeitas-para-casais-nerds
+resumo: >-
+  Explorar o universo nerd pode ser uma forma incrível de conectar casais com
+  interesses comuns. Este artigo traz dez ideias criativas de encontros que vão
+  desde noites de jogos até visitas a exposições de ciências, perfeitas para
+  casais que amam cultura geek.
+categoria: Relacionamentos
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: 'geek, nerd, romance, encontros, jogos, ciência, cosplay, DIY'
+tags:
+  - geek
+  - nerd
+  - romance
+  - encontros
+  - jogos
+  - ciência
+  - cosplay
+  - DIY
+data: '2025-04-02T01:06:18.747Z'
+author: Luana Souza
 ---
 
 ## Introdução

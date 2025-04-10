@@ -14,6 +14,7 @@ tags:
   - atualização
   - mapa
   - nostalgia
+author: Pablo Moura
 ---
 
 A Activision anunciou grandes novidades para a 3ª temporada de Call of Duty: Warzone, que incluem o retorno do adorado mapa Verdansk. A atualização está prevista para o dia 3 de abril e promete reviver a nostalgia dos jogadores com esse cenário icônico. Confira acima a prévia divulgada.

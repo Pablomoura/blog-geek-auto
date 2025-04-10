@@ -1,14 +1,29 @@
 ---
-title: "Frieren e Himmel: Amor ou Amizade? Explorando a Complexidade da Relação"
-slug: "frieren-e-himmel-amor-ou-amizade-explorando-a-complexidade-da-relacao"
-resumo: "A relação entre Frieren e Himmel no universo dos mangás tem sido objeto de debate entre os fãs. Este artigo explora a dinâmica entre esses dois personagens, analisando se o que compartilham é um profundo laço de amizade ou algo mais."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, Himmel, amizade, amor, mangá, relacionamento, análise de personagens, cultura"
-tags: ["Frieren", "Himmel", "amizade", "amor", "mangá", "relacionamento", "análise de personagens", "cultura"]
-data: "2025-04-08T21:27:09.102Z"
+title: 'Frieren e Himmel: Amor ou Amizade? Explorando a Complexidade da Relação'
+slug: frieren-e-himmel-amor-ou-amizade-explorando-a-complexidade-da-relacao
+resumo: >-
+  A relação entre Frieren e Himmel no universo dos mangás tem sido objeto de
+  debate entre os fãs. Este artigo explora a dinâmica entre esses dois
+  personagens, analisando se o que compartilham é um profundo laço de amizade ou
+  algo mais.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, Himmel, amizade, amor, mangá, relacionamento, análise de personagens,
+  cultura
+tags:
+  - Frieren
+  - Himmel
+  - amizade
+  - amor
+  - mangá
+  - relacionamento
+  - análise de personagens
+  - cultura
+data: '2025-04-08T21:27:09.102Z'
+author: Pablo Moura
 ---
 
 ## Introdução

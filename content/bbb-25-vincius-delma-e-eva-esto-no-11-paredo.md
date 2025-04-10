@@ -15,6 +15,7 @@ tags:
   - delma
   - eva
   - prova do líder
+author: Luana Souza
 ---
 
 O 11º Paredão do Big Brother Brasil 25 já está definido, trazendo Vinícius, Delma e Eva para a zona de risco. A decisão de quem deixará o programa será no próximo domingo, dia 30. 

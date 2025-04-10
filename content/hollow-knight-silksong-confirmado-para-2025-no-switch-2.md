@@ -18,6 +18,7 @@ tags:
   - nintendo
   - jogos
   - plataformas
+author: Pablo Moura
 ---
 
 Durante a recente transmissão oficial da Nintendo, foi confirmado que o aguardado jogo Hollow Knight: Silksong estará disponível em 2025 no novo console Switch 2. Ainda não foi divulgada uma data mais precisa para o lançamento, e permanece incerta a disponibilidade do jogo em outras plataformas neste mesmo ano, embora existam rumores fortes nesse sentido.

@@ -1,14 +1,26 @@
 ---
-title: "Conheça os Personagens Principais de Frieren e Seus Papéis na História"
-slug: "conheca-os-personagens-principais-de-frieren-e-seus-papeis-na-historia"
-resumo: "Explore o mundo mágico de Frieren através de seus personagens fascinantes. Este artigo detalha os principais personagens do mangá e como cada um contribui para a narrativa envolvente e emocionante."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, mangá, personagens, narrativa, feiticeira, aprendiz, herói, guerreiro"
-tags: ["Frieren", "mangá", "personagens", "narrativa", "feiticeira", "aprendiz", "herói", "guerreiro"]
-data: "2025-04-08T21:25:51.801Z"
+title: Conheça os Personagens Principais de Frieren e Seus Papéis na História
+slug: conheca-os-personagens-principais-de-frieren-e-seus-papeis-na-historia
+resumo: >-
+  Explore o mundo mágico de Frieren através de seus personagens fascinantes.
+  Este artigo detalha os principais personagens do mangá e como cada um
+  contribui para a narrativa envolvente e emocionante.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: 'Frieren, mangá, personagens, narrativa, feiticeira, aprendiz, herói, guerreiro'
+tags:
+  - Frieren
+  - mangá
+  - personagens
+  - narrativa
+  - feiticeira
+  - aprendiz
+  - herói
+  - guerreiro
+data: '2025-04-08T21:25:51.801Z'
+author: Luana Souza
 ---
 
 ## Introdução

@@ -14,6 +14,7 @@ tags:
   - português do brasil
   - jogos em português
   - nintendo
+author: Luana Souza
 ---
 
 A aguardada sequência da saga Metroid, Metroid Prime 4: Beyond, será lançada com suporte ao idioma português do Brasil, de acordo com anúncio feito pela Nintendo em suas redes sociais. A empresa japonesa revelou que o jogo estará disponível para o console Nintendo Switch a partir de 2025.

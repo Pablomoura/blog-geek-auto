@@ -1,13 +1,26 @@
 ---
-title: "9-1-1 | Série é renovada para 9ª temporada"
-slug: "9-1-1-srie-renovada-para-9-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/lfgGoqUBFBg1quZy9bz-yS9RckY=/480x360/smart/extras/conteudos/911_hgBGRX1.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/lfgGoqUBFBg1quZy9bz-yS9RckY=/480x360/smart/extras/conteudos/911_hgBGRX1.png"
-tags: ["9-1-1", "renovação de série", "nona temporada", "spin-off", "Ryan Murphy", "Angela Bassett", "primeiros respondentes", "Disney streaming"]
-keywords: "9-1-1, renovação de série, nona temporada, spin-off, Ryan Murphy, Angela Bassett, primeiros respondentes, Disney streaming"
-data: "2025-04-03T20:13:09.251Z"
+title: 9-1-1 | Série é renovada para 9ª temporada
+slug: 9-1-1-srie-renovada-para-9-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/lfgGoqUBFBg1quZy9bz-yS9RckY=/480x360/smart/extras/conteudos/911_hgBGRX1.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/lfgGoqUBFBg1quZy9bz-yS9RckY=/480x360/smart/extras/conteudos/911_hgBGRX1.png
+tags:
+  - 9-1-1
+  - renovação de série
+  - nona temporada
+  - spin-off
+  - Ryan Murphy
+  - Angela Bassett
+  - primeiros respondentes
+  - Disney streaming
+keywords: >-
+  9-1-1, renovação de série, nona temporada, spin-off, Ryan Murphy, Angela
+  Bassett, primeiros respondentes, Disney streaming
+data: '2025-04-03T20:13:09.251Z'
+author: Ana Luiza
 ---
 
 A popular série '9-1-1' foi oficialmente renovada para sua nona temporada, garantindo a continuação das narrativas envolvendo policiais, bombeiros e paramédicos de Los Angeles. A confirmação veio antes mesmo da conclusão da oitava temporada, que ainda está sendo exibida. A renovação é parte de um amplo pacote de produções que inclui séries como 'The Rookie', 'Will Trent', 'Shifting Gears' e 'Grey's Anatomy'.

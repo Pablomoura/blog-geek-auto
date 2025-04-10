@@ -1,14 +1,28 @@
 ---
-title: "Explorando as Séries Mais Amadas pela Comunidade Geek: Um Guia Completo"
-slug: "explorando-as-series-mais-amadas-pela-comunidade-geek-um-guia-completo"
-resumo: "Descubra as séries que conquistaram os corações dos geeks ao redor do mundo. Este artigo detalha as características, histórias e o impacto cultural de cada série, mergulhando nas razões por trás de sua popularidade duradoura."
-categoria: "Entretenimento"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "cultura geek, séries de TV, Star Trek, Doctor Who, Game of Thrones, The Mandalorian, Stranger Things, ficção científica"
-tags: ["cultura geek", "séries de TV", "Star Trek", "Doctor Who", "Game of Thrones", "The Mandalorian", "Stranger Things", "ficção científica"]
-data: "2025-04-01T00:58:38.626Z"
+title: 'Explorando as Séries Mais Amadas pela Comunidade Geek: Um Guia Completo'
+slug: explorando-as-series-mais-amadas-pela-comunidade-geek-um-guia-completo
+resumo: >-
+  Descubra as séries que conquistaram os corações dos geeks ao redor do mundo.
+  Este artigo detalha as características, histórias e o impacto cultural de cada
+  série, mergulhando nas razões por trás de sua popularidade duradoura.
+categoria: Entretenimento
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  cultura geek, séries de TV, Star Trek, Doctor Who, Game of Thrones, The
+  Mandalorian, Stranger Things, ficção científica
+tags:
+  - cultura geek
+  - séries de TV
+  - Star Trek
+  - Doctor Who
+  - Game of Thrones
+  - The Mandalorian
+  - Stranger Things
+  - ficção científica
+data: '2025-04-01T00:58:38.626Z'
+author: Pablo Moura
 ---
 
 ## Introdução

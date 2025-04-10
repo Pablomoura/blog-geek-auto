@@ -18,6 +18,7 @@ tags:
   - nintendo
   - lançamento de console
   - split fiction
+author: Luana Souza
 ---
 
 Durante a Direct deste ano, a Nintendo revelou a lista de jogos de outros estúdios que acompanharão o lançamento do Switch 2, o novo console da empresa. Entre as novidades técnicas do Switch 2, destacam-se uma tela de 7.9 polegadas com definição 1080p, suporte a HDR e o dobro de pixels em comparação ao modelo anterior. A tela será de tecnologia LCD. Além disso, os cartões de jogo manterão o formato do Switch original, porém com processamento mais ágil. O console também será compatível apenas com cartões MicroSD Express.

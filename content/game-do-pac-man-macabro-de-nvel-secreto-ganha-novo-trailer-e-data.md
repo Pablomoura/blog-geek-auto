@@ -16,6 +16,7 @@ tags:
   - data de lançamento
   - jogos de terror
   - nintendo switch
+author: Ana Luiza
 ---
 
 O jogo 'Shadow Labyrinth', que traz uma versão macabra do icônico Pac-Man, acaba de receber um novo trailer e data de lançamento. O jogo será disponibilizado em 18 de julho para Nintendo Switch, Xbox, PlayStation e PC.

@@ -16,6 +16,7 @@ tags:
   - lançamento de filme
   - cartaz de filme
   - suspense
+author: Pablo Moura
 ---
 
 Durante a CinemaCon 2025, o primeiro cartaz de O Telefone Preto 2 foi oficialmente revelado. O banner, que adota um design simples, destaca o tom sombrio do filme e anuncia a data de lançamento, sem revelar detalhes sobre o elenco ou apresentar imagens de personagens.

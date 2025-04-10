@@ -17,6 +17,7 @@ tags:
   - teaser
   - '2026'
   - bastidores
+author: Pablo Moura
 ---
 
 A Marvel Studios anunciou o início das filmagens de 'Vingadores: Doomsday', o mais recente capítulo da sua série de sucessos, que segue após 'Vingadores: Ultimato' de 2019. Um teaser de bastidores foi divulgado para marcar o começo da produção.

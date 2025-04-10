@@ -19,6 +19,7 @@ tags:
   - videoclipe
   - thierry mugler
   - alta costura
+author: Pablo Moura
 ---
 
 A renomada cantora americana Miley Cyrus apresentou o novo videoclipe para a música 'Prelude', que faz parte de seu próximo álbum 'Something Beautiful'. O vídeo já está disponível para visualização.

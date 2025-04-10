@@ -19,6 +19,7 @@ tags:
   - studio ghibli
   - animação
   - tecnologia
+author: Ana Luiza
 ---
 
 O impacto das criações de Inteligência Artificial, que imitam o estilo do Studio Ghibli, tem gerado intensas discussões online. Diante disso, muitos se perguntam qual é a posição de Hayao Miyazaki, figura icônica por trás do estúdio, sobre essa tecnologia.

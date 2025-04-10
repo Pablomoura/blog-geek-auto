@@ -16,6 +16,7 @@ tags:
   - paramount+
   - showtime
   - renovação de série
+author: Pablo Moura
 ---
 
 A série prelúdio Dexter: Pecado Original acaba de ser oficialmente renovada para sua segunda temporada, conforme anunciado pelo Deadline. Paramount+ e Showtime já confirmaram a continuação da produção.

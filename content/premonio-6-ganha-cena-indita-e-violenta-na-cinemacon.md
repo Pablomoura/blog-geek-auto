@@ -16,6 +16,7 @@ tags:
   - new line cinema
   - cena inédita
   - humor
+author: Luana Souza
 ---
 
 Durante o painel da Warner Bros. na CinemaCon, 'Premonição 6: Laços de Sangue' foi um dos destaques apresentados pela New Line Cinema, com a exibição de uma cena inédita que mistura violência e humor. A equipe do Omelete esteve presente e compartilha detalhes do que foi visto. 

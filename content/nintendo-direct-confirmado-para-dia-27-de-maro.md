@@ -14,6 +14,7 @@ tags:
   - jogos
   - evento de jogos
   - transmissão ao vivo
+author: Luana Souza
 ---
 
 A Nintendo anunciou que realizará um evento Nintendo Direct na próxima quinta-feira, 27 de março. A transmissão está marcada para começar às 11h, horário de Brasília, e terá duração de aproximadamente trinta minutos. 

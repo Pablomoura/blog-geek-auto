@@ -16,6 +16,7 @@ tags:
   - streaming
   - dublado
   - legendado
+author: Luana Souza
 ---
 
 A Netflix anunciou nesta terça-feira (01) a inclusão de 'Diários de uma Apotecária' em seu catálogo. O anime, que já se encontra disponível na plataforma, apresenta sua primeira temporada completa, composta por 24 episódios, todos eles acessíveis tanto em versão dublada quanto legendada em português.

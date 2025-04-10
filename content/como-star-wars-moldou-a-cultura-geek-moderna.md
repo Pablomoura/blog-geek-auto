@@ -1,14 +1,28 @@
 ---
-title: "Como Star Wars Moldou a Cultura Geek Moderna"
-slug: "como-star-wars-moldou-a-cultura-geek-moderna"
-resumo: "Explore como a saga Star Wars não apenas revolucionou o cinema, mas também teve um impacto profundo na cultura geek, influenciando desde a indústria de jogos até a moda e a literatura."
-categoria: "Cultura Pop"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "Star Wars, Cultura Geek, Cinema, Jogos, Moda, Tecnologia, Mídias Sociais, Fandom"
-tags: ["Star Wars", "Cultura Geek", "Cinema", "Jogos", "Moda", "Tecnologia", "Mídias Sociais", "Fandom"]
-data: "2025-04-01T00:59:31.374Z"
+title: Como Star Wars Moldou a Cultura Geek Moderna
+slug: como-star-wars-moldou-a-cultura-geek-moderna
+resumo: >-
+  Explore como a saga Star Wars não apenas revolucionou o cinema, mas também
+  teve um impacto profundo na cultura geek, influenciando desde a indústria de
+  jogos até a moda e a literatura.
+categoria: Cultura Pop
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  Star Wars, Cultura Geek, Cinema, Jogos, Moda, Tecnologia, Mídias Sociais,
+  Fandom
+tags:
+  - Star Wars
+  - Cultura Geek
+  - Cinema
+  - Jogos
+  - Moda
+  - Tecnologia
+  - Mídias Sociais
+  - Fandom
+data: '2025-04-01T00:59:31.374Z'
+author: Ana Luiza
 ---
 
 ## Introdução

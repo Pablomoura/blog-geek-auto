@@ -1,14 +1,29 @@
 ---
-title: "10 Curiosidades Surpreendentes Sobre Kaiju No. 8"
-slug: "10-curiosidades-surpreendentes-sobre-kaiju-no-8"
-resumo: "Descubra 10 fatos fascinantes sobre Kaiju No. 8, o popular mangá japonês que capturou a imaginação de leitores ao redor do mundo. De inspirações ocultas a referências culturais, explore aspectos pouco conhecidos desta obra intrigante."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, Manga, Cultura Japonesa, Monstros, Naoya Matsumoto, Mangá de ação, Fãs de Kaiju, Adaptação para anime"
-tags: ["Kaiju No. 8", "Manga", "Cultura Japonesa", "Monstros", "Naoya Matsumoto", "Mangá de ação", "Fãs de Kaiju", "Adaptação para anime"]
-data: "2025-04-08T22:17:05.901Z"
+title: 10 Curiosidades Surpreendentes Sobre Kaiju No. 8
+slug: 10-curiosidades-surpreendentes-sobre-kaiju-no-8
+resumo: >-
+  Descubra 10 fatos fascinantes sobre Kaiju No. 8, o popular mangá japonês que
+  capturou a imaginação de leitores ao redor do mundo. De inspirações ocultas a
+  referências culturais, explore aspectos pouco conhecidos desta obra
+  intrigante.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, Manga, Cultura Japonesa, Monstros, Naoya Matsumoto, Mangá de
+  ação, Fãs de Kaiju, Adaptação para anime
+tags:
+  - Kaiju No. 8
+  - Manga
+  - Cultura Japonesa
+  - Monstros
+  - Naoya Matsumoto
+  - Mangá de ação
+  - Fãs de Kaiju
+  - Adaptação para anime
+data: '2025-04-08T22:17:05.901Z'
+author: Pablo Moura
 ---
 
 ## Introdução

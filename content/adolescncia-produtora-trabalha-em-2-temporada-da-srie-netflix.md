@@ -1,13 +1,26 @@
 ---
-title: "Adolescência | Produtora trabalha em 2ª temporada da série Netflix"
-slug: "adolescncia-produtora-trabalha-em-2-temporada-da-srie-netflix"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/jBbElG-GPOZhxU7Q8m5TDb93WY4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T125016.461.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/-_14cW2EiQ0FA-EHZsXuSplOcD0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T125004.841.png"
-tags: ["Netflix", "Adolescência série", "segunda temporada", "plano-sequência", "Brad Pitt", "visualizações recordes", "Stephen Graham", "drama adolescente"]
-keywords: "Netflix, Adolescência série, segunda temporada, plano-sequência, Brad Pitt, visualizações recordes, Stephen Graham, drama adolescente"
-data: "2025-04-09T16:14:03.685Z"
+title: Adolescência | Produtora trabalha em 2ª temporada da série Netflix
+slug: adolescncia-produtora-trabalha-em-2-temporada-da-srie-netflix
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/jBbElG-GPOZhxU7Q8m5TDb93WY4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T125016.461.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/-_14cW2EiQ0FA-EHZsXuSplOcD0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T125004.841.png
+tags:
+  - Netflix
+  - Adolescência série
+  - segunda temporada
+  - plano-sequência
+  - Brad Pitt
+  - visualizações recordes
+  - Stephen Graham
+  - drama adolescente
+keywords: >-
+  Netflix, Adolescência série, segunda temporada, plano-sequência, Brad Pitt,
+  visualizações recordes, Stephen Graham, drama adolescente
+data: '2025-04-09T16:14:03.685Z'
+author: Luana Souza
 ---
 
 A série 'Adolescência' da Netflix pode estar se preparando para uma segunda temporada. A produtora por trás do projeto, Plan B, que tem Brad Pitt entre seus fundadores, está em discussões para expandir a narrativa da minissérie que rapidamente capturou a atenção global desde seu lançamento em março.

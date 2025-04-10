@@ -14,6 +14,7 @@ tags:
   - rei herodes
   - the wire
   - série bíblica
+author: Ana Luiza
 ---
 
 Paul Ben-Victor, conhecido por seu papel como o antagonista Spiros Vondas em The Wire, agora captura a atenção dos espectadores em The Chosen, interpretando o Rei Herodes. A série, que narra a história de Jesus Cristo, é uma produção de Angel Studios e tem Ben-Victor como uma das figuras centrais na temporada mais recente, onde ele retrata o governante da Judeia durante o período do nascimento de Jesus.

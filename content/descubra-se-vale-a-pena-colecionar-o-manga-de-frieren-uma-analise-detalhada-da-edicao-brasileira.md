@@ -1,14 +1,32 @@
 ---
-title: "Descubra se Vale a Pena Colecionar o Mangá de Frieren: Uma Análise Detalhada da Edição Brasileira"
-slug: "descubra-se-vale-a-pena-colecionar-o-manga-de-frieren-uma-analise-detalhada-da-edicao-brasileira"
-resumo: "Este artigo oferece uma análise profunda sobre o mangá de Frieren, focando na edição brasileira. Exploramos aspectos como qualidade de impressão, tradução, custo-benefício e o valor de colecionar esta obra, ajudando você a decidir se deve ou não adicionar Frieren à sua coleção."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "mangá, Frieren, edição brasileira, colecionáveis, tradução, qualidade de impressão, custo-benefício, valor de coleção"
-tags: ["mangá", "Frieren", "edição brasileira", "colecionáveis", "tradução", "qualidade de impressão", "custo-benefício", "valor de coleção"]
-data: "2025-04-02T21:33:49.753Z"
+title: >-
+  Descubra se Vale a Pena Colecionar o Mangá de Frieren: Uma Análise Detalhada
+  da Edição Brasileira
+slug: >-
+  descubra-se-vale-a-pena-colecionar-o-manga-de-frieren-uma-analise-detalhada-da-edicao-brasileira
+resumo: >-
+  Este artigo oferece uma análise profunda sobre o mangá de Frieren, focando na
+  edição brasileira. Exploramos aspectos como qualidade de impressão, tradução,
+  custo-benefício e o valor de colecionar esta obra, ajudando você a decidir se
+  deve ou não adicionar Frieren à sua coleção.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  mangá, Frieren, edição brasileira, colecionáveis, tradução, qualidade de
+  impressão, custo-benefício, valor de coleção
+tags:
+  - mangá
+  - Frieren
+  - edição brasileira
+  - colecionáveis
+  - tradução
+  - qualidade de impressão
+  - custo-benefício
+  - valor de coleção
+data: '2025-04-02T21:33:49.753Z'
+author: Ana Luiza
 ---
 
 ## Introdução

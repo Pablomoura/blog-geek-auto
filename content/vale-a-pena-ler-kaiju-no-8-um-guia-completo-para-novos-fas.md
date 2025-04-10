@@ -1,14 +1,28 @@
 ---
-title: "Vale a Pena Ler Kaiju No. 8? Um Guia Completo para Novos Fãs"
-slug: "vale-a-pena-ler-kaiju-no-8-um-guia-completo-para-novos-fas"
-resumo: "Descubra se agora é o momento certo para começar a ler o mangá Kaiju No. 8, um fenômeno recente no mundo dos mangás. Este guia oferece um panorama da trama, personagens, e dicas para novos leitores."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "mangá, Kaiju No. 8, leitura de mangá, novos fãs, guia de mangá, monstros gigantes, quadrinhos japoneses, dicas de mangá"
-tags: ["mangá", "Kaiju No. 8", "leitura de mangá", "novos fãs", "guia de mangá", "monstros gigantes", "quadrinhos japoneses", "dicas de mangá"]
-data: "2025-04-02T22:23:19.278Z"
+title: Vale a Pena Ler Kaiju No. 8? Um Guia Completo para Novos Fãs
+slug: vale-a-pena-ler-kaiju-no-8-um-guia-completo-para-novos-fas
+resumo: >-
+  Descubra se agora é o momento certo para começar a ler o mangá Kaiju No. 8, um
+  fenômeno recente no mundo dos mangás. Este guia oferece um panorama da trama,
+  personagens, e dicas para novos leitores.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  mangá, Kaiju No. 8, leitura de mangá, novos fãs, guia de mangá, monstros
+  gigantes, quadrinhos japoneses, dicas de mangá
+tags:
+  - mangá
+  - Kaiju No. 8
+  - leitura de mangá
+  - novos fãs
+  - guia de mangá
+  - monstros gigantes
+  - quadrinhos japoneses
+  - dicas de mangá
+data: '2025-04-02T22:23:19.278Z'
+author: Ana Luiza
 ---
 
 ## Introdução ao Mundo de Kaiju No. 8

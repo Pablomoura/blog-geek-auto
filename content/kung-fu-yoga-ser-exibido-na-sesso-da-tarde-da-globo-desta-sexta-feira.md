@@ -14,6 +14,7 @@ tags:
   - sessão da tarde
   - filme de ação
   - tv globo
+author: Ana Luiza
 ---
 
 Nesta sexta-feira, 28 de abril, a Sessão da Tarde traz o filme ‘Kung Fu Yoga’, lançado em 2017. A transmissão ocorrerá às 15h25, horário de Brasília, pela TV Globo. 

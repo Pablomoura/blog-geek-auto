@@ -1,13 +1,26 @@
 ---
-title: "Uma Família Normal | Suspense sul-coreano ganha trailer exclusivo; confira"
-slug: "uma-famlia-normal-suspense-sul-coreano-ganha-trailer-exclusivo-confira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/1J4CQlvS6x4VXmxNvVyMfjDICkc=/987x0/smart/uploads/conteudo/fotos/sul.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/n3Ei3dRRLR3zjAR2rBm5iLcQIhc=/480x360/smart/extras/conteudos/sul.png"
-tags: ["suspense sul-coreano", "trailer exclusivo", "adaptação literária", "Herman Koch", "cinema sul-coreano", "Pandora Filmes", "elenco estrelado", "estreia em maio"]
-keywords: "suspense sul-coreano, trailer exclusivo, adaptação literária, Herman Koch, cinema sul-coreano, Pandora Filmes, elenco estrelado, estreia em maio"
-data: "2025-04-09T12:17:14.338Z"
+title: Uma Família Normal | Suspense sul-coreano ganha trailer exclusivo; confira
+slug: uma-famlia-normal-suspense-sul-coreano-ganha-trailer-exclusivo-confira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/1J4CQlvS6x4VXmxNvVyMfjDICkc=/987x0/smart/uploads/conteudo/fotos/sul.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/n3Ei3dRRLR3zjAR2rBm5iLcQIhc=/480x360/smart/extras/conteudos/sul.png
+tags:
+  - suspense sul-coreano
+  - trailer exclusivo
+  - adaptação literária
+  - Herman Koch
+  - cinema sul-coreano
+  - Pandora Filmes
+  - elenco estrelado
+  - estreia em maio
+keywords: >-
+  suspense sul-coreano, trailer exclusivo, adaptação literária, Herman Koch,
+  cinema sul-coreano, Pandora Filmes, elenco estrelado, estreia em maio
+data: '2025-04-09T12:17:14.338Z'
+author: Ana Luiza
 ---
 
 A nova produção cinematográfica sul-coreana, 'Uma Família Normal', que traz uma adaptação do aclamado livro 'O Jantar' de Herman Koch, acaba de ter seu trailer exclusivo divulgado. Este foi gentilmente disponibilizado pela Pandora Filmes ao site Omelete. 

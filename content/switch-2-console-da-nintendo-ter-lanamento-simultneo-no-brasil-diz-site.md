@@ -15,6 +15,7 @@ tags:
   - estados unidos
   - combo infinito
   - jogos eletrônicos
+author: Ana Luiza
 ---
 
 Segundo informações apuradas pelo site Combo Infinito, o aguardado Nintendo Switch 2 será lançado no Brasil simultaneamente com os Estados Unidos. A previsão inicial apontava junho como mês de lançamento, mas avanços significativos no planejamento podem antecipar a data para o final de abril ou início de maio. 

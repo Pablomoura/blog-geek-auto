@@ -1,12 +1,16 @@
 ---
-title: "O que é Soulslike? Guia completo do gênero + os 15 melhores jogos para começar"
-slug: "o-que-e-soulslike-guia-completo"
-categoria: "Games"
-resumo: "Descubra o que significa 'soulslike', quais as características desse subgênero desafiador, e conheça os melhores jogos para iniciantes e veteranos. De Dark Souls a Lies of P, este guia completo vai te preparar para enfrentar qualquer boss."
-data: "2025-04-06T17:30:00.000Z"
-thumb: "/images/Thumb-elden-ring-boss.jpg"
-midia: "/images/soulslike.png"
-tipoMidia: "imagem"
+title: O que é Soulslike? Guia completo do gênero + os 15 melhores jogos para começar
+slug: o-que-e-soulslike-guia-completo
+categoria: Games
+resumo: >-
+  Descubra o que significa 'soulslike', quais as características desse subgênero
+  desafiador, e conheça os melhores jogos para iniciantes e veteranos. De Dark
+  Souls a Lies of P, este guia completo vai te preparar para enfrentar qualquer
+  boss.
+data: '2025-04-06T17:30:00.000Z'
+thumb: /images/Thumb-elden-ring-boss.jpg
+midia: /images/soulslike.png
+tipoMidia: imagem
 tags:
   - soulslike
   - dark souls
@@ -14,7 +18,10 @@ tags:
   - fromsoftware
   - jogos difíceis
   - action rpg
-keywords: "o que é soulslike, melhores jogos soulslike, jogos estilo dark souls, guia soulslike iniciantes, jogos difíceis ps5 pc xbox"
+keywords: >-
+  o que é soulslike, melhores jogos soulslike, jogos estilo dark souls, guia
+  soulslike iniciantes, jogos difíceis ps5 pc xbox
+author: Luana Souza
 ---
 ## O que é Soulslike? Entenda o subgênero que conquistou os gamers mais corajosos
 

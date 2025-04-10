@@ -1,14 +1,29 @@
 ---
-title: "20 Filmes Essenciais para Todo Geek: Uma Lista Definitiva"
-slug: "20-filmes-essenciais-para-todo-geek-uma-lista-definitiva"
-resumo: "Explore nossa lista cuidadosamente selecionada de 20 filmes que todo geek deve assistir. Desde clássicos da ficção científica até obras-primas da fantasia e do suspense, esta lista é um guia essencial para qualquer aficionado por cultura pop que queira ampliar seus horizontes cinematográficos."
-categoria: "Cinema"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "filmes geek, ficção científica, filmes cult, cinema fantasia, filmes de animação, clássicos do cinema, filmes de suspense, cinema de aventura"
-tags: ["filmes geek", "ficção científica", "filmes cult", "cinema fantasia", "filmes de animação", "clássicos do cinema", "filmes de suspense", "cinema de aventura"]
-data: "2025-04-05T00:58:13.335Z"
+title: '20 Filmes Essenciais para Todo Geek: Uma Lista Definitiva'
+slug: 20-filmes-essenciais-para-todo-geek-uma-lista-definitiva
+resumo: >-
+  Explore nossa lista cuidadosamente selecionada de 20 filmes que todo geek deve
+  assistir. Desde clássicos da ficção científica até obras-primas da fantasia e
+  do suspense, esta lista é um guia essencial para qualquer aficionado por
+  cultura pop que queira ampliar seus horizontes cinematográficos.
+categoria: Cinema
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  filmes geek, ficção científica, filmes cult, cinema fantasia, filmes de
+  animação, clássicos do cinema, filmes de suspense, cinema de aventura
+tags:
+  - filmes geek
+  - ficção científica
+  - filmes cult
+  - cinema fantasia
+  - filmes de animação
+  - clássicos do cinema
+  - filmes de suspense
+  - cinema de aventura
+data: '2025-04-05T00:58:13.335Z'
+author: Ana Luiza
 ---
 
 ## Introdução

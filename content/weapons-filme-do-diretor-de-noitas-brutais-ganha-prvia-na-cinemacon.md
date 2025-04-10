@@ -18,6 +18,7 @@ tags:
   - thriller de terror
   - trailer
   - warner bros.
+author: Luana Souza
 ---
 
 Durante a CinemaCon 2025, a Warner Bros. e a New Line apresentaram o aguardado primeiro trailer de 'Weapons', o mais recente filme de terror dirigido por Zach Cregger, conhecido por 'Noites Brutais'. Embora o trailer ainda não esteja disponível online, o portal Omelete esteve no evento e oferece uma descrição detalhada do que foi mostrado.

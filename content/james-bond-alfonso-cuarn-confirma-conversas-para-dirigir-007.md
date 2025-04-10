@@ -1,13 +1,26 @@
 ---
-title: "James Bond | Alfonso Cuarón confirma conversas para dirigir 007"
-slug: "james-bond-alfonso-cuarn-confirma-conversas-para-dirigir-007"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/4Y3aVEHKQxaGf8fl6Fgfp8KEjog=/987x0/smart/uploads/conteudo/fotos/007spectre_tTvWW86.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/8dQMCiM8ua7VKFFFe1IcNEoLhz8=/480x360/smart/extras/conteudos/007spectre_1obPxtH.jpg"
-tags: ["James Bond", "Alfonso Cuarón", "Amazon", "007", "cinema", "Hollywood", "direção de filme", "franquia cinematográfica"]
-keywords: "James Bond, Alfonso Cuarón, Amazon, 007, cinema, Hollywood, direção de filme, franquia cinematográfica"
-data: "2025-04-06T14:09:03.483Z"
+title: James Bond | Alfonso Cuarón confirma conversas para dirigir 007
+slug: james-bond-alfonso-cuarn-confirma-conversas-para-dirigir-007
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/4Y3aVEHKQxaGf8fl6Fgfp8KEjog=/987x0/smart/uploads/conteudo/fotos/007spectre_tTvWW86.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/8dQMCiM8ua7VKFFFe1IcNEoLhz8=/480x360/smart/extras/conteudos/007spectre_1obPxtH.jpg
+tags:
+  - James Bond
+  - Alfonso Cuarón
+  - Amazon
+  - '007'
+  - cinema
+  - Hollywood
+  - direção de filme
+  - franquia cinematográfica
+keywords: >-
+  James Bond, Alfonso Cuarón, Amazon, 007, cinema, Hollywood, direção de filme,
+  franquia cinematográfica
+data: '2025-04-06T14:09:03.483Z'
+author: Ana Luiza
 ---
 
 Alfonso Cuarón está em negociações para dirigir o próximo filme de James Bond, conforme revelado durante uma palestra em Paris, na França. O diretor de sucessos como Roma e Gravidade expressou seu interesse no projeto, afirmando que gostaria de abordar a história à sua maneira. Esta informação foi compartilhada por um espectador através da plataforma X, anteriormente conhecida como Twitter.

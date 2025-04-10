@@ -1,18 +1,21 @@
 ---
-title: "Rodrigo Santoro enfrentará Alan Ritchson em 'Runner', novo thriller de ação"
-slug: "rodrigo-santoro-vs-reacher-brasileiro-ser-vilo-de-filme-com-alan-ritchson"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FKNo-dtHbtruM6oUMkxuMUdZJNQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T183748.203.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SNm_IzffYa3UCPWMuJHuxOmAso4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T183716.313.png"
-keywords: "Rodrigo Santoro, Alan Ritchson, Runner, filme de ação, thriller"
-data: "2025-04-02T22:10:40.545Z"
+title: 'Rodrigo Santoro enfrentará Alan Ritchson em ''Runner'', novo thriller de ação'
+slug: rodrigo-santoro-vs-reacher-brasileiro-ser-vilo-de-filme-com-alan-ritchson
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FKNo-dtHbtruM6oUMkxuMUdZJNQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T183748.203.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SNm_IzffYa3UCPWMuJHuxOmAso4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T183716.313.png
+keywords: 'Rodrigo Santoro, Alan Ritchson, Runner, filme de ação, thriller'
+data: '2025-04-02T22:10:40.545Z'
 tags:
   - Rodrigo Santoro
   - Alan Ritchson
   - Runner
   - filme de ação
   - thriller
+author: Luana Souza
 ---
 
 O cenário cinematográfico se prepara para receber o thriller de ação 'Runner', protagonizado por Alan Ritchson, conhecido por seu papel em 'Reacher'. A novidade é que o ator brasileiro Rodrigo Santoro foi escolhido para interpretar o antagonista do filme. O roteiro, que estava arquivado anteriormente, é uma criação de Tommy White e Miles Hubley e promete fortes emoções.

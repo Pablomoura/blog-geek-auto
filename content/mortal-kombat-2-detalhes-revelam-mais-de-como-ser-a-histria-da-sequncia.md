@@ -15,6 +15,7 @@ tags:
   - johnny cage
   - shao kahn
   - filmes de ação
+author: Luana Souza
 ---
 
 A sequência do filme 'Mortal Kombat', prevista para chegar aos cinemas em outubro, contará com a participação de Karl Urban no papel de Johnny Cage, além de incorporar outros icônicos personagens dos jogos, como Shao Kahn. Embora muitos detalhes da trama permaneçam sob sigilo, uma recente entrevista de Ed Boon, criador do jogo, à Entertainment Weekly, forneceu pistas sobre o que esperar do enredo.

@@ -15,6 +15,7 @@ tags:
   - bucky barnes
   - teaser
   - vingadores
+author: Pablo Moura
 ---
 
 Marvel Studios revelou um emocionante novo teaser de 'Thunderbolts', o próximo grande lançamento do MCU, neste sábado (29). A prévia ressalta que o filme narra a saga de um novo grupo de heróis. No teaser, Bucky Barnes, interpretado por Sebastian Stan, informa aos seus companheiros de equipe que eles são os 'Vingadores da vez'.

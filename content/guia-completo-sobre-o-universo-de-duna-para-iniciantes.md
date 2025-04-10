@@ -1,12 +1,15 @@
 ---
-title: "Guia completo sobre o universo de Duna para iniciantes"
-slug: "guia-completo-sobre-o-universo-de-duna-para-iniciantes"
-categoria: "Filmes"
-resumo: "Explore o universo de Duna com este guia definitivo: entenda a história, as facções, os personagens principais, as adaptações em filmes e séries, e descubra como começar a saga que influenciou gerações."
-data: "2025-04-05T12:00:00.000Z"
-thumb: "/images/Thumb-Duna.jpg"
-midia: "/images/Capa-Duna.jpg"
-tipoMidia: "imagem"
+title: Guia completo sobre o universo de Duna para iniciantes
+slug: guia-completo-sobre-o-universo-de-duna-para-iniciantes
+categoria: Filmes
+resumo: >-
+  Explore o universo de Duna com este guia definitivo: entenda a história, as
+  facções, os personagens principais, as adaptações em filmes e séries, e
+  descubra como começar a saga que influenciou gerações.
+data: '2025-04-05T12:00:00.000Z'
+thumb: /images/Thumb-Duna.jpg
+midia: /images/Capa-Duna.jpg
+tipoMidia: imagem
 tags:
   - duna
   - paul atreides
@@ -14,7 +17,10 @@ tags:
   - bene gesserit
   - ficção científica
   - duna a irmandade
-keywords: "guia Duna, universo de Duna, entender Duna, filmes de Duna, série Duna A Irmandade, Paul Atreides, Arrakis, Bene Gesserit"
+keywords: >-
+  guia Duna, universo de Duna, entender Duna, filmes de Duna, série Duna A
+  Irmandade, Paul Atreides, Arrakis, Bene Gesserit
+author: Ana Luiza
 ---
 
 **Duna** é uma das maiores epopeias da ficção científica. Escrita por Frank Herbert, a saga começou em 1965 e continua influenciando o cinema, a literatura e os games até hoje. Com a nova adaptação de Denis Villeneuve e a série *Duna: A Irmandade* na HBO Max, esse é o momento perfeito para explorar o universo.

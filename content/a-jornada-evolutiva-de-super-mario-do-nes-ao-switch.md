@@ -1,14 +1,28 @@
 ---
-title: "A Jornada Evolutiva de Super Mario: Do NES ao Switch"
-slug: "a-jornada-evolutiva-de-super-mario-do-nes-ao-switch"
-resumo: "Explore a fascinante história de Super Mario, um dos personagens mais icônicos da indústria de videogames. Desde sua estreia no NES até suas aventuras no Nintendo Switch, descubra como Mario se tornou um símbolo cultural global."
-categoria: "GAMES"
-midia: "/images/a-jornada-evolutiva-de-super-mario-do-nes-ao-switch.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-jogos-do-super-mario.jpg"
-keywords: "Super Mario, Nintendo, NES, SNES, Nintendo 64, Wii, Nintendo Switch, História dos videogames"
-tags: ["Super Mario", "Nintendo", "NES", "SNES", "Nintendo 64", "Wii", "Nintendo Switch", "História dos videogames"]
-data: "2025-04-03T17:28:25.692Z"
+title: 'A Jornada Evolutiva de Super Mario: Do NES ao Switch'
+slug: a-jornada-evolutiva-de-super-mario-do-nes-ao-switch
+resumo: >-
+  Explore a fascinante história de Super Mario, um dos personagens mais icônicos
+  da indústria de videogames. Desde sua estreia no NES até suas aventuras no
+  Nintendo Switch, descubra como Mario se tornou um símbolo cultural global.
+categoria: GAMES
+midia: /images/a-jornada-evolutiva-de-super-mario-do-nes-ao-switch.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-jogos-do-super-mario.jpg
+keywords: >-
+  Super Mario, Nintendo, NES, SNES, Nintendo 64, Wii, Nintendo Switch, História
+  dos videogames
+tags:
+  - Super Mario
+  - Nintendo
+  - NES
+  - SNES
+  - Nintendo 64
+  - Wii
+  - Nintendo Switch
+  - História dos videogames
+data: '2025-04-03T17:28:25.692Z'
+author: Ana Luiza
 ---
 
 ## Introdução

@@ -18,6 +18,7 @@ tags:
   - filmes inéditos
   - cultura europeia
   - cinema no brasil
+author: Luana Souza
 ---
 
 A Imovision tem o prazer de anunciar a primeira edição do Festival de Cinema Europeu Imovision, um evento inédito que pretende celebrar a diversidade e excelência do cinema europeu no Brasil. Este festival ocorrerá de 24 a 30 de abril e apresentará uma seleção exclusiva de 14 filmes inéditos e premiados, provenientes de renomadas cinematografias da Europa.

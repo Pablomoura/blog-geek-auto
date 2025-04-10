@@ -1,14 +1,29 @@
 ---
-title: "Guia Definitivo: Como Acompanhar Anime, Webtoon e Novel na Ordem Correta"
-slug: "guia-definitivo-como-acompanhar-anime-webtoon-e-novel-na-ordem-correta"
-resumo: "Explorar o mundo dos animes, webtoons e novels pode ser uma jornada empolgante, mas muitas vezes confusa devido às múltiplas formas de mídia e suas cronologias. Este artigo fornece um guia claro e detalhado sobre como seguir essas histórias na ordem correta para maximizar sua experiência."
-categoria: "Entretenimento e Mídia"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "anime, webtoon, novel, ordem cronológica, guia de mídia, leitura, assistir anime, light novel"
-tags: ["anime", "webtoon", "novel", "ordem cronológica", "guia de mídia", "leitura", "assistir anime", "light novel"]
-data: "2025-04-05T01:32:18.563Z"
+title: 'Guia Definitivo: Como Acompanhar Anime, Webtoon e Novel na Ordem Correta'
+slug: guia-definitivo-como-acompanhar-anime-webtoon-e-novel-na-ordem-correta
+resumo: >-
+  Explorar o mundo dos animes, webtoons e novels pode ser uma jornada
+  empolgante, mas muitas vezes confusa devido às múltiplas formas de mídia e
+  suas cronologias. Este artigo fornece um guia claro e detalhado sobre como
+  seguir essas histórias na ordem correta para maximizar sua experiência.
+categoria: Entretenimento e Mídia
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  anime, webtoon, novel, ordem cronológica, guia de mídia, leitura, assistir
+  anime, light novel
+tags:
+  - anime
+  - webtoon
+  - novel
+  - ordem cronológica
+  - guia de mídia
+  - leitura
+  - assistir anime
+  - light novel
+data: '2025-04-05T01:32:18.563Z'
+author: Luana Souza
 ---
 
 ## Introdução

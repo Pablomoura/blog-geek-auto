@@ -15,6 +15,7 @@ tags:
   - segunda temporada
   - wilson fisk
   - série de super-heróis
+author: Ana Luiza
 ---
 
 A Disney+ confirmou a adição de Lili Taylor ao elenco da segunda temporada da série 'Demolidor: Renascido', que já está em produção em Nova York. Segundo informações do Deadline, Taylor assumirá um papel significativo como oponente política de Wilson Fisk, interpretado por Vincent D'Onofrio, embora detalhes específicos sobre sua personagem ainda sejam escassos.

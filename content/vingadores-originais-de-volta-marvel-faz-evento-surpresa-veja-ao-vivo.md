@@ -15,6 +15,7 @@ tags:
   - filmes
   - mcu
   - surpresas
+author: Pablo Moura
 ---
 
 A Marvel iniciou uma transmissão ao vivo inesperada em suas plataformas digitais, gerando expectativa entre os fãs do Universo Cinematográfico Marvel (MCU) com a promessa de revelações importantes.

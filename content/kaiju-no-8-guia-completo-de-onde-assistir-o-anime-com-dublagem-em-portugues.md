@@ -1,14 +1,28 @@
 ---
-title: "Kaiju No. 8: Guia Completo de Onde Assistir o Anime com Dublagem em Português"
-slug: "kaiju-no-8-guia-completo-de-onde-assistir-o-anime-com-dublagem-em-portugues"
-resumo: "Confira onde você pode assistir ao emocionante anime Kaiju No. 8 dublado em português. Descubra as plataformas de streaming que oferecem acesso a essa popular série japonesa e mergulhe no mundo dos kaijus e da ação!"
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, anime dublado, streaming de anime, Crunchyroll, Funimation, animes em português, Kafka Hibino, séries japonesas"
-tags: ["Kaiju No. 8", "anime dublado", "streaming de anime", "Crunchyroll", "Funimation", "animes em português", "Kafka Hibino", "séries japonesas"]
-data: "2025-04-04T22:22:04.950Z"
+title: 'Kaiju No. 8: Guia Completo de Onde Assistir o Anime com Dublagem em Português'
+slug: kaiju-no-8-guia-completo-de-onde-assistir-o-anime-com-dublagem-em-portugues
+resumo: >-
+  Confira onde você pode assistir ao emocionante anime Kaiju No. 8 dublado em
+  português. Descubra as plataformas de streaming que oferecem acesso a essa
+  popular série japonesa e mergulhe no mundo dos kaijus e da ação!
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, anime dublado, streaming de anime, Crunchyroll, Funimation,
+  animes em português, Kafka Hibino, séries japonesas
+tags:
+  - Kaiju No. 8
+  - anime dublado
+  - streaming de anime
+  - Crunchyroll
+  - Funimation
+  - animes em português
+  - Kafka Hibino
+  - séries japonesas
+data: '2025-04-04T22:22:04.950Z'
+author: Ana Luiza
 ---
 
 ## Introdução ao Universo de Kaiju No. 8

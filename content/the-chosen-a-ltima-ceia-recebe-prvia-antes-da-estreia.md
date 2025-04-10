@@ -15,6 +15,7 @@ tags:
   - jesus
   - série religiosa
   - estreia
+author: Luana Souza
 ---
 
 O perfil oficial da série The Chosen: Os Escolhidos divulgou um vídeo nesta sexta-feira (28), celebrando a estreia de The Chosen: A Última Ceia nos cinemas americanos e canadenses. No clipe, Jesus aparece empunhando um chicote e avançando em direção à câmera.

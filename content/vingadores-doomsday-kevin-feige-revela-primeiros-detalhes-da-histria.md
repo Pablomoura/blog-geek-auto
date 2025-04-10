@@ -1,13 +1,26 @@
 ---
-title: "Vingadores: Doomsday | Kevin Feige revela primeiros detalhes da história"
-slug: "vingadores-doomsday-kevin-feige-revela-primeiros-detalhes-da-histria"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/5PnTZp0gVqZtaTgETe6nXCN0MMU=/987x0/smart/uploads/conteudo/fotos/vingadores-doomsday_cb0mS8M.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/GUTJOitHXCnp_vSiOAQDZ4K9g7I=/480x360/smart/extras/conteudos/vingadores-doomsday-capa_yyqEAEM.png"
-tags: ["Vingadores: Doomsday", "Kevin Feige", "Marvel", "CinemaCon 2025", "Doutor Destino", "Multiverso", "elenco estelar", "Saga do Multiverso"]
-keywords: "Vingadores: Doomsday, Kevin Feige, Marvel, CinemaCon 2025, Doutor Destino, Multiverso, elenco estelar, Saga do Multiverso"
-data: "2025-04-03T23:13:08.451Z"
+title: 'Vingadores: Doomsday | Kevin Feige revela primeiros detalhes da história'
+slug: vingadores-doomsday-kevin-feige-revela-primeiros-detalhes-da-histria
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/5PnTZp0gVqZtaTgETe6nXCN0MMU=/987x0/smart/uploads/conteudo/fotos/vingadores-doomsday_cb0mS8M.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/GUTJOitHXCnp_vSiOAQDZ4K9g7I=/480x360/smart/extras/conteudos/vingadores-doomsday-capa_yyqEAEM.png
+tags:
+  - 'Vingadores: Doomsday'
+  - Kevin Feige
+  - Marvel
+  - CinemaCon 2025
+  - Doutor Destino
+  - Multiverso
+  - elenco estelar
+  - Saga do Multiverso
+keywords: >-
+  Vingadores: Doomsday, Kevin Feige, Marvel, CinemaCon 2025, Doutor Destino,
+  Multiverso, elenco estelar, Saga do Multiverso
+data: '2025-04-03T23:13:08.451Z'
+author: Ana Luiza
 ---
 
 No recente painel da Disney na CinemaCon 2025, Kevin Feige, notório produtor da Marvel, compartilhou informações diretamente do set de filmagem de 'Vingadores: Doomsday' na Inglaterra. Ele anunciou que o filme integrará um elenco diverso de heróis, incluindo os Vingadores, Wakandanos, o Quarteto Fantástico, os Thunderbolts e os X-Men originais, todos unidos contra o antagonista Doutor Destino, interpretado por Robert Downey Jr.

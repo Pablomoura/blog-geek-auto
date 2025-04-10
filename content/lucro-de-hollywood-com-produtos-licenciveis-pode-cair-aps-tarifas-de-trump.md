@@ -1,13 +1,29 @@
 ---
-title: "Tarifas de Trump Podem Impactar Lucratividade de Produtos Licenciados de Hollywood"
-slug: "lucro-de-hollywood-com-produtos-licenciveis-pode-cair-aps-tarifas-de-trump"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/MeFv6hRo46WEDy3NDsTNkW3YyiM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T115700.082.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pGQqX8pnLQO5acD45yyETJwFYQU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T115757.512.png"
-tags: ["tarifas de Trump", "produtos licenciados", "Hollywood", "Nintendo Switch 2", "indústria cinematográfica", "aumento de preços", "mercado de brinquedos", "jogos para console"]
-keywords: "tarifas de Trump, produtos licenciados, Hollywood, Nintendo Switch 2, indústria cinematográfica, aumento de preços, mercado de brinquedos, jogos para console"
-data: "2025-04-09T15:12:40.925Z"
+title: >-
+  Tarifas de Trump Podem Impactar Lucratividade de Produtos Licenciados de
+  Hollywood
+slug: lucro-de-hollywood-com-produtos-licenciveis-pode-cair-aps-tarifas-de-trump
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/MeFv6hRo46WEDy3NDsTNkW3YyiM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T115700.082.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pGQqX8pnLQO5acD45yyETJwFYQU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T115757.512.png
+tags:
+  - tarifas de Trump
+  - produtos licenciados
+  - Hollywood
+  - Nintendo Switch 2
+  - indústria cinematográfica
+  - aumento de preços
+  - mercado de brinquedos
+  - jogos para console
+keywords: >-
+  tarifas de Trump, produtos licenciados, Hollywood, Nintendo Switch 2,
+  indústria cinematográfica, aumento de preços, mercado de brinquedos, jogos
+  para console
+data: '2025-04-09T15:12:40.925Z'
+author: Ana Luiza
 ---
 
 A recente imposição de tarifas pelo presidente Donald Trump está ameaçando significativamente o mercado de produtos licenciados de Hollywood. Itens variados como bonecos, camisetas e maquiagens, que são essenciais para a lucratividade da indústria cinematográfica, provavelmente verão um aumento considerável em seus preços. Estes produtos, que frequentemente dependem de taxas de importação e exportação competitivas para serem viáveis financeiramente, podem não mais sustentar as margens de lucro anteriores.

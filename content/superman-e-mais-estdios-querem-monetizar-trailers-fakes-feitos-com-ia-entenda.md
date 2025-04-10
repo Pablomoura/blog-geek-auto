@@ -17,6 +17,7 @@ tags:
   - monetização
   - superman
   - trailers falsos
+author: Ana Luiza
 ---
 
 Os trailers criados por inteligência artificial (IA) para grandes filmes têm se popularizado na internet. Diante disso, estúdios de cinema estão explorando formas de monetizar essas falsificações. Conforme reportado pelo Deadline, a ideia seria aproveitar a monetização das visualizações e propagandas em vez de solicitar a remoção dos vídeos por violação de direitos autorais. Representantes de grandes estúdios, incluindo Sony Pictures, Warner Bros, Paramount Pictures e Disney, optaram por não comentar sobre o assunto.

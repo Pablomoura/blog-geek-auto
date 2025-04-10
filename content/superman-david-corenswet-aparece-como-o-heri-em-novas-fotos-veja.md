@@ -15,6 +15,7 @@ tags:
   - james gunn
   - fortaleza da solidão
   - filme de super-herói
+author: Ana Luiza
 ---
 
 A Warner Bros. divulgou neste domingo (30) imagens inéditas de David Corenswet encarnando Superman, em material promocional do novo filme dirigido por James Gunn. Nas fotos, o ator é visto voando e exibindo uma postura confiante, possivelmente na Fortaleza da Solidão.

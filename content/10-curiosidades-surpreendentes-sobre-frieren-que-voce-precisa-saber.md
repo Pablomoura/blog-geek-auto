@@ -1,14 +1,26 @@
 ---
-title: "10 Curiosidades Surpreendentes Sobre Frieren Que Você Precisa Saber"
-slug: "10-curiosidades-surpreendentes-sobre-frieren-que-voce-precisa-saber"
-resumo: "Descubra fatos fascinantes sobre Frieren, uma série de mangá que cativou fãs ao redor do mundo. Este artigo traz dez curiosidades que podem ter passado despercebidas até pelos mais dedicados seguidores da série."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, manga, curiosidades, literatura, arte, filosofia, premiações, anime"
-tags: ["Frieren", "manga", "curiosidades", "literatura", "arte", "filosofia", "premiações", "anime"]
-data: "2025-04-06T21:38:34.924Z"
+title: 10 Curiosidades Surpreendentes Sobre Frieren Que Você Precisa Saber
+slug: 10-curiosidades-surpreendentes-sobre-frieren-que-voce-precisa-saber
+resumo: >-
+  Descubra fatos fascinantes sobre Frieren, uma série de mangá que cativou fãs
+  ao redor do mundo. Este artigo traz dez curiosidades que podem ter passado
+  despercebidas até pelos mais dedicados seguidores da série.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: 'Frieren, manga, curiosidades, literatura, arte, filosofia, premiações, anime'
+tags:
+  - Frieren
+  - manga
+  - curiosidades
+  - literatura
+  - arte
+  - filosofia
+  - premiações
+  - anime
+data: '2025-04-06T21:38:34.924Z'
+author: Ana Luiza
 ---
 
 ## Introdução

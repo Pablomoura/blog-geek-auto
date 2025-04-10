@@ -15,6 +15,7 @@ tags:
   - a vida é agora
   - filme 2021
   - tv globo
+author: Pablo Moura
 ---
 
 Nesta terça-feira, 1° de outubro, a Sessão da Tarde da TV Globo apresenta o filme 'A Vida É Agora', lançado em 2021. Com início previsto para as 15h25, horário de Brasília, o longa possui uma duração total de duas horas.

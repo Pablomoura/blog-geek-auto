@@ -1,13 +1,26 @@
 ---
-title: "My Hero Academia: Vigilantes | Posicionamento na Cronologia da Série"
-slug: "my-hero-academia-vigilantes-onde-o-anime-se-encaixa-na-timeline"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/cu5PCPzq6PHTVh7hzulV6VGRWuA=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T213454.779.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/DXT4j6N5KefORJgE3LgV-Il6LX8=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T213454.779.png"
-tags: ["My Hero Academia", "Vigilantes", "anime", "spin-off", "Koichi Haimawari", "Crunchyroll", "mangá", "super-heróis"]
-keywords: "My Hero Academia, Vigilantes, anime, spin-off, Koichi Haimawari, Crunchyroll, mangá, super-heróis"
-data: "2025-04-09T00:42:49.398Z"
+title: 'My Hero Academia: Vigilantes | Posicionamento na Cronologia da Série'
+slug: my-hero-academia-vigilantes-onde-o-anime-se-encaixa-na-timeline
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/cu5PCPzq6PHTVh7hzulV6VGRWuA=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T213454.779.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/DXT4j6N5KefORJgE3LgV-Il6LX8=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T213454.779.png
+tags:
+  - My Hero Academia
+  - Vigilantes
+  - anime
+  - spin-off
+  - Koichi Haimawari
+  - Crunchyroll
+  - mangá
+  - super-heróis
+keywords: >-
+  My Hero Academia, Vigilantes, anime, spin-off, Koichi Haimawari, Crunchyroll,
+  mangá, super-heróis
+data: '2025-04-09T00:42:49.398Z'
+author: Luana Souza
 ---
 
 O universo de My Hero Academia continua a expandir-se com a estreia do novo anime, My Hero Academia: Vigilantes, que foi ao ar na última segunda-feira (07). Este spin-off introduz uma nova perspectiva ao apresentar eventos que ocorrem cinco anos antes de Izuku Midoriya, conhecido como Deku, ingressar na Academia UA. 

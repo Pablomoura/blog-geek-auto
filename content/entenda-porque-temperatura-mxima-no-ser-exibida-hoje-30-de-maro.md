@@ -17,6 +17,7 @@ tags:
   - the masked singer brasil
   - cancelamento
   - filmes
+author: Pablo Moura
 ---
 
 Neste domingo, 30 de março, a sessão 'Temperatura Máxima', tradicionalmente reservada para a exibição de filmes na Rede Globo, não será transmitida. A mudança ocorre devido à programação especial da emissora, que inclui a transmissão do 'The Masked Singer Brasil' às 13h55, seguido pelo confronto entre Palmeiras e Botafogo no Campeonato Brasileiro, que começa às 15h30.

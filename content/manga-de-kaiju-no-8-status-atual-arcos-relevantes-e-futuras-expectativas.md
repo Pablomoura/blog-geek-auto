@@ -1,14 +1,29 @@
 ---
-title: "Mangá de Kaiju No. 8: Status Atual, Arcos Relevantes e Futuras Expectativas"
-slug: "manga-de-kaiju-no-8-status-atual-arcos-relevantes-e-futuras-expectativas"
-resumo: "Descubra tudo sobre o mangá Kaiju No. 8, incluindo seu status atual, os principais arcos da história e o que os fãs podem esperar no futuro. Este artigo analisa detalhadamente as razões por trás do sucesso contínuo da série e explora as perspectivas futuras para este emocionante mangá."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, mangá, Naoya Matsumoto, Shonen Jump+, história de Kaiju, mangá em andamento, arco de manga, Kafka Hibino"
-tags: ["Kaiju No. 8", "mangá", "Naoya Matsumoto", "Shonen Jump+", "história de Kaiju", "mangá em andamento", "arco de manga", "Kafka Hibino"]
-data: "2025-04-03T22:13:40.418Z"
+title: 'Mangá de Kaiju No. 8: Status Atual, Arcos Relevantes e Futuras Expectativas'
+slug: manga-de-kaiju-no-8-status-atual-arcos-relevantes-e-futuras-expectativas
+resumo: >-
+  Descubra tudo sobre o mangá Kaiju No. 8, incluindo seu status atual, os
+  principais arcos da história e o que os fãs podem esperar no futuro. Este
+  artigo analisa detalhadamente as razões por trás do sucesso contínuo da série
+  e explora as perspectivas futuras para este emocionante mangá.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, mangá, Naoya Matsumoto, Shonen Jump+, história de Kaiju, mangá em
+  andamento, arco de manga, Kafka Hibino
+tags:
+  - Kaiju No. 8
+  - mangá
+  - Naoya Matsumoto
+  - Shonen Jump+
+  - história de Kaiju
+  - mangá em andamento
+  - arco de manga
+  - Kafka Hibino
+data: '2025-04-03T22:13:40.418Z'
+author: Luana Souza
 ---
 
 ## Introdução ao Mangá de Kaiju No. 8

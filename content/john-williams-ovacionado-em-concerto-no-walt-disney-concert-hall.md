@@ -1,13 +1,26 @@
 ---
-title: "John Williams é ovacionado em concerto no Walt Disney Concert Hall"
-slug: "john-williams-ovacionado-em-concerto-no-walt-disney-concert-hall"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/-nXrhfIyszdV2LCxk0NLDCa_LX8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-07T115316.472.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/w9omIbDlNhq-WeDp-fqeGvR7swI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T115301.864.png"
-tags: ["John Williams", "Walt Disney Concert Hall", "concerto", "Star Wars", "Andor", "Estrela da Morte", "música de cinema", "Disney+"]
-keywords: "John Williams, Walt Disney Concert Hall, concerto, Star Wars, Andor, Estrela da Morte, música de cinema, Disney+"
-data: "2025-04-07T15:13:26.268Z"
+title: John Williams é ovacionado em concerto no Walt Disney Concert Hall
+slug: john-williams-ovacionado-em-concerto-no-walt-disney-concert-hall
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/-nXrhfIyszdV2LCxk0NLDCa_LX8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-07T115316.472.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/w9omIbDlNhq-WeDp-fqeGvR7swI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T115301.864.png
+tags:
+  - John Williams
+  - Walt Disney Concert Hall
+  - concerto
+  - Star Wars
+  - Andor
+  - Estrela da Morte
+  - música de cinema
+  - Disney+
+keywords: >-
+  John Williams, Walt Disney Concert Hall, concerto, Star Wars, Andor, Estrela
+  da Morte, música de cinema, Disney+
+data: '2025-04-07T15:13:26.268Z'
+author: Ana Luiza
 ---
 
 Em uma noite memorável, John Williams, aclamado compositor e vencedor de cinco Oscars, foi calorosamente ovacionado em um concerto realizado no Walt Disney Concert Hall. Williams, que se aposentou recentemente após uma carreira ilustre no cinema americano, marcou presença e encantou o público com sua presença.

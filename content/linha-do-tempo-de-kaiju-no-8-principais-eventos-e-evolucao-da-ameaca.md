@@ -1,14 +1,29 @@
 ---
-title: "Linha do Tempo de Kaiju No. 8: Principais Eventos e Evolução da Ameaça"
-slug: "linha-do-tempo-de-kaiju-no-8-principais-eventos-e-evolucao-da-ameaca"
-resumo: "Explore a emocionante linha do tempo de 'Kaiju No. 8', um dos mangás mais populares da atualidade. Este artigo detalha os principais eventos e a evolução das ameaças kaiju, fornecendo uma visão abrangente do enredo e das reviravoltas da série."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, mangá, Kafka Hibino, ameaça kaiju, evolução, linha do tempo, monstros, narrativa"
-tags: ["Kaiju No. 8", "mangá", "Kafka Hibino", "ameaça kaiju", "evolução", "linha do tempo", "monstros", "narrativa"]
-data: "2025-04-03T22:08:40.151Z"
+title: 'Linha do Tempo de Kaiju No. 8: Principais Eventos e Evolução da Ameaça'
+slug: linha-do-tempo-de-kaiju-no-8-principais-eventos-e-evolucao-da-ameaca
+resumo: >-
+  Explore a emocionante linha do tempo de 'Kaiju No. 8', um dos mangás mais
+  populares da atualidade. Este artigo detalha os principais eventos e a
+  evolução das ameaças kaiju, fornecendo uma visão abrangente do enredo e das
+  reviravoltas da série.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, mangá, Kafka Hibino, ameaça kaiju, evolução, linha do tempo,
+  monstros, narrativa
+tags:
+  - Kaiju No. 8
+  - mangá
+  - Kafka Hibino
+  - ameaça kaiju
+  - evolução
+  - linha do tempo
+  - monstros
+  - narrativa
+data: '2025-04-03T22:08:40.151Z'
+author: Ana Luiza
 ---
 
 ## Introdução ao Universo de Kaiju No. 8

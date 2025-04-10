@@ -1,14 +1,29 @@
 ---
-title: "Ascensão de Kaiju No. 8: Como Conquistou o Coração dos Leitores Japoneses"
-slug: "ascensao-de-kaiju-no-8-como-conquistou-o-coracao-dos-leitores-japoneses"
-resumo: "Kaiju No. 8 rapidamente se tornou um dos mangás mais vendidos no Japão. Explore as razões por trás do sucesso fenomenal deste mangá, desde seu enredo inovador e personagens cativantes até o marketing estratégico e o timing perfeito de seu lançamento."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, mangá, cultura japonesa, literatura japonesa, histórias em quadrinhos, best-seller, arte japonesa, entretenimento"
-tags: ["Kaiju No. 8", "mangá", "cultura japonesa", "literatura japonesa", "histórias em quadrinhos", "best-seller", "arte japonesa", "entretenimento"]
-data: "2025-04-07T22:22:28.134Z"
+title: 'Ascensão de Kaiju No. 8: Como Conquistou o Coração dos Leitores Japoneses'
+slug: ascensao-de-kaiju-no-8-como-conquistou-o-coracao-dos-leitores-japoneses
+resumo: >-
+  Kaiju No. 8 rapidamente se tornou um dos mangás mais vendidos no Japão.
+  Explore as razões por trás do sucesso fenomenal deste mangá, desde seu enredo
+  inovador e personagens cativantes até o marketing estratégico e o timing
+  perfeito de seu lançamento.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, mangá, cultura japonesa, literatura japonesa, histórias em
+  quadrinhos, best-seller, arte japonesa, entretenimento
+tags:
+  - Kaiju No. 8
+  - mangá
+  - cultura japonesa
+  - literatura japonesa
+  - histórias em quadrinhos
+  - best-seller
+  - arte japonesa
+  - entretenimento
+data: '2025-04-07T22:22:28.134Z'
+author: Pablo Moura
 ---
 
 ## A Trama Inovadora e Apelo Universal

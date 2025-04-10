@@ -16,6 +16,7 @@ tags:
   - mad max
   - cinema de ação
   - hollywood
+author: Pablo Moura
 ---
 
 O renomado coreógrafo de dublês e ator Richard Norton faleceu aos 75 anos neste domingo (30), conforme anunciado por sua esposa, Judy Green, em uma publicação nas redes sociais. A causa da morte ainda não foi revelada. 

@@ -1,14 +1,29 @@
 ---
-title: "Guia Completo dos Filmes do Universo DC: Ordem de Lançamento e Detalhes"
-slug: "guia-completo-dos-filmes-do-universo-dc-ordem-de-lancamento-e-detalhes"
-resumo: "Explore a linha do tempo dos filmes do Universo DC, desde 'Homem de Aço' até os mais recentes lançamentos. Este guia detalha todos os filmes em ordem cronológica de lançamento, oferecendo um panorama para novos fãs e aficionados de longa data."
-categoria: "FILMES"
-midia: "/images/guia-de-filmes-dc.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-guia-de-filmes-dc.jpg"
-keywords: "DC, filmes DC, DCEU, Homem de Aço, Batman vs Superman, Mulher-Maravilha, Liga da Justiça, ordem de lançamento"
-tags: ["DC", "filmes DC", "DCEU", "Homem de Aço", "Batman vs Superman", "Mulher-Maravilha", "Liga da Justiça", "ordem de lançamento"]
-data: "2025-04-03T22:59:50.312Z"
+title: 'Guia Completo dos Filmes do Universo DC: Ordem de Lançamento e Detalhes'
+slug: guia-completo-dos-filmes-do-universo-dc-ordem-de-lancamento-e-detalhes
+resumo: >-
+  Explore a linha do tempo dos filmes do Universo DC, desde 'Homem de Aço' até
+  os mais recentes lançamentos. Este guia detalha todos os filmes em ordem
+  cronológica de lançamento, oferecendo um panorama para novos fãs e aficionados
+  de longa data.
+categoria: FILMES
+midia: /images/guia-de-filmes-dc.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-guia-de-filmes-dc.jpg
+keywords: >-
+  DC, filmes DC, DCEU, Homem de Aço, Batman vs Superman, Mulher-Maravilha, Liga
+  da Justiça, ordem de lançamento
+tags:
+  - DC
+  - filmes DC
+  - DCEU
+  - Homem de Aço
+  - Batman vs Superman
+  - Mulher-Maravilha
+  - Liga da Justiça
+  - ordem de lançamento
+data: '2025-04-03T22:59:50.312Z'
+author: Ana Luiza
 ---
 
 ## Introdução ao Universo Cinematográfico da DC

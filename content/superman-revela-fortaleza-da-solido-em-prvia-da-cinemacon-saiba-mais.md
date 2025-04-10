@@ -15,6 +15,7 @@ tags:
   - fortaleza da solidão
   - filme
   - homem de aço
+author: Pablo Moura
 ---
 
 A CinemaCon deste ano foi palco de uma revelação significativa para os fãs de Superman, com a exibição de uma prévia exclusiva do próximo filme do Homem de Aço, programado para estrear em julho. A apresentação destacou uma das cenas mais aguardadas: a primeira visão da Fortaleza da Solidão na nova era do Superman, com David Corenswet assumindo o icônico manto azul e vermelho.

@@ -16,6 +16,7 @@ tags:
   - mcu
   - 1º de abril
   - campanha de marketing
+author: Ana Luiza
 ---
 
 Ronaldinho Gaúcho, o lendário jogador de futebol, acaba de participar de uma inusitada campanha de marketing para o lançamento do novo filme do MCU, 'Thunderbolts', divulgada neste 1º de abril. O filme promete ser um grande destaque em 2025, reunindo um time de anti-heróis memoráveis do universo Marvel.

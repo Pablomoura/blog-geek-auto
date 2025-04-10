@@ -1,14 +1,29 @@
 ---
-title: "Conceituando um MMORPG de Solo Leveling: Ideias e Possibilidades"
-slug: "conceituando-um-mmorpg-de-solo-leveling-ideias-e-possibilidades"
-resumo: "Solo Leveling, uma das webtoons mais populares, poderia se transformar em um mundo de MMORPG incrível. Este artigo explora as características únicas e ideias que poderiam ser integradas para criar uma experiência de jogo imersiva e envolvente, baseada no universo de Solo Leveling."
-categoria: "Jogos"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, MMORPG, Jogos Online, Design de Jogos, Progressão de Personagem, Guildas, Realidade Aumentada, Inteligência Artificial"
-tags: ["Solo Leveling", "MMORPG", "Jogos Online", "Design de Jogos", "Progressão de Personagem", "Guildas", "Realidade Aumentada", "Inteligência Artificial"]
-data: "2025-04-04T01:55:02.108Z"
+title: 'Conceituando um MMORPG de Solo Leveling: Ideias e Possibilidades'
+slug: conceituando-um-mmorpg-de-solo-leveling-ideias-e-possibilidades
+resumo: >-
+  Solo Leveling, uma das webtoons mais populares, poderia se transformar em um
+  mundo de MMORPG incrível. Este artigo explora as características únicas e
+  ideias que poderiam ser integradas para criar uma experiência de jogo imersiva
+  e envolvente, baseada no universo de Solo Leveling.
+categoria: Jogos
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, MMORPG, Jogos Online, Design de Jogos, Progressão de
+  Personagem, Guildas, Realidade Aumentada, Inteligência Artificial
+tags:
+  - Solo Leveling
+  - MMORPG
+  - Jogos Online
+  - Design de Jogos
+  - Progressão de Personagem
+  - Guildas
+  - Realidade Aumentada
+  - Inteligência Artificial
+data: '2025-04-04T01:55:02.108Z'
+author: Ana Luiza
 ---
 
 ## Introdução

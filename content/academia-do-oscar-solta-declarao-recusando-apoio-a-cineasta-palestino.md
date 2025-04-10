@@ -15,6 +15,7 @@ tags:
   - cineastas
   - documentário
   - hamdan ballal
+author: Ana Luiza
 ---
 
 A Academia de Artes e Ciências Cinematográficas, responsável pela cerimônia do Oscar, pronunciou-se oficialmente sobre o incidente envolvendo o cineasta palestino Hamdan Ballal, laureado com o Oscar de Melhor Documentário por 'Sem Chão'. A declaração da Academia reitera seu compromisso com a excelência cinematográfica e o poder do cinema em conectar culturas e perspectivas diversas.

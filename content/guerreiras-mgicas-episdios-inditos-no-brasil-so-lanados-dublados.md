@@ -15,6 +15,7 @@ tags:
   - anime
   - tms
   - dublagem em português
+author: Pablo Moura
 ---
 
 Em comemoração ao CLAMP DAY, a distribuidora TMS disponibilizou através de seu canal no YouTube a série de OVAs 'Guerreiras Mágicas de Rayearth', totalmente dublada em português. Esta data celebra anualmente no dia 1 de abril as contribuições do estúdio CLAMP, conhecido por sucessos como 'Cardcaptor Sakura' e 'X'.

@@ -1,13 +1,25 @@
 ---
-title: "Lazarus estreia como grande aposta dos animes de 2025; veja o que achamos"
-slug: "lazarus-estreia-como-grande-aposta-dos-animes-de-2025-veja-o-que-achamos"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/h39VVif_TBo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/6fpd5igwPeE1v4BC9hXE56qoI2Y=/480x360/smart/extras/conteudos/lazarus_header_1.png"
-tags: ["anime de 2025", "Lazarus", "Shinichiro Watanabe", "Chad Stahelski", "suspense", "ação", "ficção científica", "crise global"]
-keywords: "anime de 2025, Lazarus, Shinichiro Watanabe, Chad Stahelski, suspense, ação, ficção científica, crise global"
-data: "2025-04-08T17:11:35.434Z"
+title: Lazarus estreia como grande aposta dos animes de 2025; veja o que achamos
+slug: lazarus-estreia-como-grande-aposta-dos-animes-de-2025-veja-o-que-achamos
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/h39VVif_TBo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/6fpd5igwPeE1v4BC9hXE56qoI2Y=/480x360/smart/extras/conteudos/lazarus_header_1.png
+tags:
+  - anime de 2025
+  - Lazarus
+  - Shinichiro Watanabe
+  - Chad Stahelski
+  - suspense
+  - ação
+  - ficção científica
+  - crise global
+keywords: >-
+  anime de 2025, Lazarus, Shinichiro Watanabe, Chad Stahelski, suspense, ação,
+  ficção científica, crise global
+data: '2025-04-08T17:11:35.434Z'
+author: Pablo Moura
 ---
 
 O ano de 2025 promete grandes novidades para os fãs de anime, e uma das obras mais esperadas é 'Lazarus', que já causou grande impressão com os seus três primeiros episódios disponíveis na plataforma Max. Sob a direção criativa de Shinichiro Watanabe, conhecido por seu trabalho inovador, e a colaboração de Chad Stahelski, diretor dos filmes 'John Wick', na concepção das cenas de ação, 'Lazarus' apresenta uma trama envolvente e promissora.

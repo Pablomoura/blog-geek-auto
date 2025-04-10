@@ -1,13 +1,26 @@
 ---
-title: "A Vida de Chuck | Filme com Tom Hiddleston ganha pôster e data"
-slug: "a-vida-de-chuck-filme-com-tom-hiddleston-ganha-pster-e-data"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/486yNhAajg5wo3FR0B5FHGHrxPs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T151410.904.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hHt2anDmESrdfOl7VMsKGVh54mI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T151403.004.png"
-tags: ["Tom Hiddleston", "Mike Flanagan", "Stephen King", "filme invertido", "Festival de Toronto", "People's Choice Award", "adaptação literária", "elenco estelar"]
-keywords: "Tom Hiddleston, Mike Flanagan, Stephen King, filme invertido, Festival de Toronto, People's Choice Award, adaptação literária, elenco estelar"
-data: "2025-04-03T19:10:46.084Z"
+title: A Vida de Chuck | Filme com Tom Hiddleston ganha pôster e data
+slug: a-vida-de-chuck-filme-com-tom-hiddleston-ganha-pster-e-data
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/486yNhAajg5wo3FR0B5FHGHrxPs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T151410.904.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hHt2anDmESrdfOl7VMsKGVh54mI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T151403.004.png
+tags:
+  - Tom Hiddleston
+  - Mike Flanagan
+  - Stephen King
+  - filme invertido
+  - Festival de Toronto
+  - People's Choice Award
+  - adaptação literária
+  - elenco estelar
+keywords: >-
+  Tom Hiddleston, Mike Flanagan, Stephen King, filme invertido, Festival de
+  Toronto, People's Choice Award, adaptação literária, elenco estelar
+data: '2025-04-03T19:10:46.084Z'
+author: Luana Souza
 ---
 
 Foi recentemente revelado o novo pôster do filme 'A Vida de Chuck', uma obra premiada dirigida e roteirizada por Mike Flanagan, com a estrela Tom Hiddleston no papel principal. O filme, que foi aclamado no Festival de Toronto de 2024, onde recebeu o People's Choice Award, oferece uma narrativa invertida da vida de Charles Krantz, iniciando com sua morte causada por um tumor cerebral aos 39 anos e retrocedendo até sua infância em uma casa mal assombrada. A obra é uma adaptação de um conto de Stephen King.

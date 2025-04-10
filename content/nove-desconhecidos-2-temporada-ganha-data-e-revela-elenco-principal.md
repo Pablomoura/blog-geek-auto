@@ -17,6 +17,7 @@ tags:
   - nicole kidman
   - data de estreia
   - elenco novo
+author: Luana Souza
 ---
 
 O Hulu confirmou nesta terça-feira (25) que a segunda temporada de 'Nove Desconhecidos' estará disponível entre março e junho de 2025. A série, que foi renovada em 2023, traz de volta Nicole Kidman no papel de Masha Dmitrichenko.

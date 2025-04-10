@@ -15,6 +15,7 @@ tags:
   - críticas
   - xepa
   - reality show
+author: Pablo Moura
 ---
 
 Daniele Hypólito, cansada das críticas por sua postura pacífica no Big Brother Brasil 25, decidiu mudar sua estratégia de jogo. Tradicionalmente vista cozinhando para os outros participantes, especialmente quando na Xepa, Hypólito revelou que sua motivação era apenas o prazer de cozinhar, mas isso vai mudar.

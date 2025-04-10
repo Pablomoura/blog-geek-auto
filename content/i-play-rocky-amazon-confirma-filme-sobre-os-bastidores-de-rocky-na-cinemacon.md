@@ -1,13 +1,26 @@
 ---
-title: "I Play Rocky | Amazon confirma filme sobre os bastidores de Rocky na CinemaCon"
-slug: "i-play-rocky-amazon-confirma-filme-sobre-os-bastidores-de-rocky-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/o9Wt9CeqA0cfw729nmJQKzTQ28w=/987x0/smart/uploads/conteudo/fotos/i-play-rocky.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/y-PGG9o6haG9S6W_MzydEsqBR10=/480x360/smart/extras/conteudos/rocky_uP63kMW.jpg"
-tags: ["Rocky Balboa", "Sylvester Stallone", "CinemaCon", "Amazon MGM Studios", "Peter Farrelly", "filme biográfico", "bastidores de cinema", "Oscar"]
-keywords: "Rocky Balboa, Sylvester Stallone, CinemaCon, Amazon MGM Studios, Peter Farrelly, filme biográfico, bastidores de cinema, Oscar"
-data: "2025-04-03T05:11:19.373Z"
+title: I Play Rocky | Amazon confirma filme sobre os bastidores de Rocky na CinemaCon
+slug: i-play-rocky-amazon-confirma-filme-sobre-os-bastidores-de-rocky-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/o9Wt9CeqA0cfw729nmJQKzTQ28w=/987x0/smart/uploads/conteudo/fotos/i-play-rocky.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/y-PGG9o6haG9S6W_MzydEsqBR10=/480x360/smart/extras/conteudos/rocky_uP63kMW.jpg
+tags:
+  - Rocky Balboa
+  - Sylvester Stallone
+  - CinemaCon
+  - Amazon MGM Studios
+  - Peter Farrelly
+  - filme biográfico
+  - bastidores de cinema
+  - Oscar
+keywords: >-
+  Rocky Balboa, Sylvester Stallone, CinemaCon, Amazon MGM Studios, Peter
+  Farrelly, filme biográfico, bastidores de cinema, Oscar
+data: '2025-04-03T05:11:19.373Z'
+author: Luana Souza
 ---
 
 Durante a CinemaCon 2025, a Amazon revelou detalhes sobre a produção do filme 'I Play Rocky', dirigido por Peter Farrelly (Green Book), que promete desvendar os desafios enfrentados por Sylvester Stallone na criação de seu personagem icônico, Rocky Balboa, e os bastidores do filme 'Rocky, um Lutador'. A apresentação ocorreu no painel do Amazon MGM Studios, onde foi exibida a logo oficial do filme. 

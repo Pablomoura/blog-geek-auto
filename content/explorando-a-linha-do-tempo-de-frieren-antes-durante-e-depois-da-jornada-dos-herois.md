@@ -1,14 +1,32 @@
 ---
-title: "Explorando a Linha do Tempo de Frieren: Antes, Durante e Depois da Jornada dos Heróis"
-slug: "explorando-a-linha-do-tempo-de-frieren-antes-durante-e-depois-da-jornada-dos-herois"
-resumo: "Este artigo detalha a jornada da personagem Frieren na famosa série de mangá, explorando sua vida antes, durante e após a aventura épica com seus companheiros heróis. A linha do tempo é essencial para entender a evolução do personagem e o impacto de suas experiências ao longo dos anos."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, manga, linha do tempo, aventura heróica, desenvolvimento de personagem, legado, feiticeira, jornada dos heróis"
-tags: ["Frieren", "manga", "linha do tempo", "aventura heróica", "desenvolvimento de personagem", "legado", "feiticeira", "jornada dos heróis"]
-data: "2025-04-08T01:10:06.351Z"
+title: >-
+  Explorando a Linha do Tempo de Frieren: Antes, Durante e Depois da Jornada dos
+  Heróis
+slug: >-
+  explorando-a-linha-do-tempo-de-frieren-antes-durante-e-depois-da-jornada-dos-herois
+resumo: >-
+  Este artigo detalha a jornada da personagem Frieren na famosa série de mangá,
+  explorando sua vida antes, durante e após a aventura épica com seus
+  companheiros heróis. A linha do tempo é essencial para entender a evolução do
+  personagem e o impacto de suas experiências ao longo dos anos.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, manga, linha do tempo, aventura heróica, desenvolvimento de
+  personagem, legado, feiticeira, jornada dos heróis
+tags:
+  - Frieren
+  - manga
+  - linha do tempo
+  - aventura heróica
+  - desenvolvimento de personagem
+  - legado
+  - feiticeira
+  - jornada dos heróis
+data: '2025-04-08T01:10:06.351Z'
+author: Luana Souza
 ---
 
 ## Introdução

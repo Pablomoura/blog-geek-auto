@@ -14,6 +14,7 @@ tags:
   - sony
   - quadrinhos
   - filme aracnídeo
+author: Ana Luiza
 ---
 
 A Sony e a Marvel Studios anunciaram oficialmente o título do próximo filme do universo aracnídeo: 'Homem-Aranha: Um Novo Dia', com lançamento programado para 30 de julho de 2026. Este título compartilha seu nome com um notório arco dos quadrinhos do Homem-Aranha, levantando especulações sobre a possível adaptação dessa fase.

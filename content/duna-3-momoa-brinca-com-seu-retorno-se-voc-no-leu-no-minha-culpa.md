@@ -17,6 +17,7 @@ tags:
   - entrevista
   - retorno
   - saga
+author: Pablo Moura
 ---
 
 Jason Momoa confirmou sua participação em 'Duna: Messias' no papel de Duncan Idaho. Em entrevista ao programa TODAY, nos Estados Unidos, Momoa discutiu seu retorno à saga e brincou com o apresentador Craig Melvin sobre a antecipação da notícia.

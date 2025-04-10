@@ -18,6 +18,7 @@ tags:
   - destin daniel cretton
   - um novo dia
   - filme de super-herói
+author: Ana Luiza
 ---
 
 O tão esperado quarto filme da franquia Homem-Aranha, protagonizado por Tom Holland, foi destaque na CinemaCon, onde o título oficial, 'Um Novo Dia' ('Brand New Day' em inglês), foi anunciado. A revelação incluiu a exibição da logo oficial em português.

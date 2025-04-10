@@ -1,13 +1,26 @@
 ---
-title: "Vingadores: Doomsday | Florence Pugh e David Harbour ainda não leram o roteiro"
-slug: "vingadores-doomsday-florence-pugh-e-david-harbour-ainda-no-leram-o-roteiro"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/ES5rMfevisHxUbvsP0-IdVmaZ3g=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T133214.667.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/BRfvOf_XF_rcRCCHPANI0lM6Lsk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T133159.578.png"
-tags: ["Vingadores: Doomsday", "Florence Pugh", "David Harbour", "MCU", "Thunderbolts", "Irmãos Russo", "Marvel 2025", "Anti-heróis"]
-keywords: "Vingadores: Doomsday, Florence Pugh, David Harbour, MCU, Thunderbolts, Irmãos Russo, Marvel 2025, Anti-heróis"
-data: "2025-04-04T17:09:51.108Z"
+title: 'Vingadores: Doomsday | Florence Pugh e David Harbour ainda não leram o roteiro'
+slug: vingadores-doomsday-florence-pugh-e-david-harbour-ainda-no-leram-o-roteiro
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/ES5rMfevisHxUbvsP0-IdVmaZ3g=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T133214.667.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/BRfvOf_XF_rcRCCHPANI0lM6Lsk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T133159.578.png
+tags:
+  - 'Vingadores: Doomsday'
+  - Florence Pugh
+  - David Harbour
+  - MCU
+  - Thunderbolts
+  - Irmãos Russo
+  - Marvel 2025
+  - Anti-heróis
+keywords: >-
+  Vingadores: Doomsday, Florence Pugh, David Harbour, MCU, Thunderbolts, Irmãos
+  Russo, Marvel 2025, Anti-heróis
+data: '2025-04-04T17:09:51.108Z'
+author: Ana Luiza
 ---
 
 Florence Pugh e David Harbour, ambos protagonistas de Thunderbolts e confirmados no elenco de Vingadores: Doomsday, afirmaram em entrevista ao Entertainment Now que ainda não tiveram acesso ao roteiro do próximo grande lançamento dos irmãos Russo. As filmagens estão programadas para iniciar em breve nos Estados Unidos, e a declaração pode ser uma estratégia para evitar vazamentos de detalhes da trama.

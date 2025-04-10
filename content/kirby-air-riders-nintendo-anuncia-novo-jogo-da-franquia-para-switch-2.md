@@ -16,6 +16,7 @@ tags:
   - jogo de kirby
   - lançamento de jogo
   - nintendo direct
+author: Luana Souza
 ---
 
 A Nintendo anunciou hoje, durante o evento Direct, o lançamento de um novo jogo da popular franquia Kirby, intitulado Kirby Air Riders, exclusivamente para o seu próximo console, o Switch 2. O título está sendo desenvolvido por Masahiro Sakurai, conhecido por seu trabalho em Smash Bros, e promete ser um remake/continuação do jogo Kirby Air Ride, que foi lançado para o GameCube em 2003.

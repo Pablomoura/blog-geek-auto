@@ -17,6 +17,7 @@ tags:
   - filme de terror
   - universal pictures
   - him
+author: Pablo Moura
 ---
 
 A Universal Pictures divulgou o primeiro pôster de 'Him', o mais recente filme de terror com produção de Jordan Peele, conhecido por 'Corra!', e atuação de Marlon Wayans. O cartaz, que foi apresentado neste sábado (29), destaca o elevador de um hotel em Las Vegas, local que sediará a CinemaCon a partir desta segunda-feira (31). Este evento é considerado o principal encontro de exibidores de cinema dos Estados Unidos.

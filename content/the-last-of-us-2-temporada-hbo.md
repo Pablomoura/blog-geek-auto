@@ -1,12 +1,17 @@
 ---
-title: "The Last of Us 2ª temporada: tudo o que já sabemos sobre a nova fase da série da HBO"
-slug: "the-last-of-us-2-temporada-hbo"
-categoria: "Séries e TV"
-resumo: "A segunda temporada de The Last of Us está em produção e promete adaptar os eventos emocionantes (e polêmicos) do segundo jogo. Veja elenco confirmado, previsões de estreia, mudanças e tudo o que já sabemos até agora."
-data: "2025-04-05T12:00:00.000Z"
-thumb: "/images/Thumb-the-last-of-us-2temporada.jpg"
-midia: "/images/the-last-of-us-2temporada.jpg"
-tipoMidia: "imagem"
+title: >-
+  The Last of Us 2ª temporada: tudo o que já sabemos sobre a nova fase da série
+  da HBO
+slug: the-last-of-us-2-temporada-hbo
+categoria: Séries e TV
+resumo: >-
+  A segunda temporada de The Last of Us está em produção e promete adaptar os
+  eventos emocionantes (e polêmicos) do segundo jogo. Veja elenco confirmado,
+  previsões de estreia, mudanças e tudo o que já sabemos até agora.
+data: '2025-04-05T12:00:00.000Z'
+thumb: /images/Thumb-the-last-of-us-2temporada.jpg
+midia: /images/the-last-of-us-2temporada.jpg
+tipoMidia: imagem
 story: true
 tags:
   - the last of us
@@ -15,7 +20,10 @@ tags:
   - bella ramsey
   - abby
   - séries e tv
-keywords: "the last of us segunda temporada, hbo the last of us 2 temporada, elenco the last of us 2025, abby the last of us atriz, série the last of us parte 2"
+keywords: >-
+  the last of us segunda temporada, hbo the last of us 2 temporada, elenco the
+  last of us 2025, abby the last of us atriz, série the last of us parte 2
+author: Ana Luiza
 ---
 
 A série *The Last of Us* foi um dos maiores sucessos da HBO em 2023, conquistando crítica e público com uma adaptação fiel, emocionante e visualmente impecável do clássico game da Naughty Dog. Agora, com a **segunda temporada em produção ativa**, a expectativa está nas alturas — especialmente entre os fãs que já conhecem o segundo jogo e sabem que a história vai tomar rumos ainda mais intensos.

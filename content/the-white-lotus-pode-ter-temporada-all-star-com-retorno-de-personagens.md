@@ -1,13 +1,26 @@
 ---
-title: "The White Lotus pode ter temporada 'all star' com retorno de personagens"
-slug: "the-white-lotus-pode-ter-temporada-all-star-com-retorno-de-personagens"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/NvcL5heAGJJLlosVXq1gAjgObcQ=/987x0/smart/uploads/conteudo/fotos/thewhitelotus_mNUgwoV.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/E0hny1geOcPuELeFS39vCLB2CoM=/480x360/smart/extras/conteudos/thewhitelotus_URp5oCB.jpg"
-tags: ["The White Lotus", "temporada all star", "retorno de personagens", "Mike White", "Patrick Schwarzenegger", "HBO", "elenco estelar", "filmagens na Tailândia"]
-keywords: "The White Lotus, temporada all star, retorno de personagens, Mike White, Patrick Schwarzenegger, HBO, elenco estelar, filmagens na Tailândia"
-data: "2025-04-06T22:09:07.925Z"
+title: The White Lotus pode ter temporada 'all star' com retorno de personagens
+slug: the-white-lotus-pode-ter-temporada-all-star-com-retorno-de-personagens
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/NvcL5heAGJJLlosVXq1gAjgObcQ=/987x0/smart/uploads/conteudo/fotos/thewhitelotus_mNUgwoV.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/E0hny1geOcPuELeFS39vCLB2CoM=/480x360/smart/extras/conteudos/thewhitelotus_URp5oCB.jpg
+tags:
+  - The White Lotus
+  - temporada all star
+  - retorno de personagens
+  - Mike White
+  - Patrick Schwarzenegger
+  - HBO
+  - elenco estelar
+  - filmagens na Tailândia
+keywords: >-
+  The White Lotus, temporada all star, retorno de personagens, Mike White,
+  Patrick Schwarzenegger, HBO, elenco estelar, filmagens na Tailândia
+data: '2025-04-06T22:09:07.925Z'
+author: Luana Souza
 ---
 
 A aclamada série 'The White Lotus' pode estar planejando futuras temporadas com um retorno de personagens icônicos, além de Jennifer Coolidge, Natasha Rothwell e Jon Gries. Patrick Schwarzenegger, parte do elenco do terceiro ano, revelou em uma entrevista ao The Hollywood Reporter a discussão sobre uma possível temporada 'all star'. 'Eles poderiam reunir todos os babacas em um mesmo hotel', comentou Schwarzenegger, referindo-se a uma conversa com Mike White, o criador da série. 'Mike me disse um dia no set algo como 'Meu Deus, seria tão bom ter você, Jake Lacy e Theo James na mesma sala'.

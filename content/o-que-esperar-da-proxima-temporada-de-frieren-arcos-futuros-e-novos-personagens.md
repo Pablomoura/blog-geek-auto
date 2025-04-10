@@ -1,14 +1,32 @@
 ---
-title: "O que esperar da próxima temporada de Frieren? Arcos futuros e novos personagens"
-slug: "o-que-esperar-da-proxima-temporada-de-frieren-arcos-futuros-e-novos-personagens"
-resumo: "À medida que a popularidade de Frieren continua a crescer, fãs por todo o mundo estão ansiosos pelo que está por vir. Neste artigo, exploramos os futuros arcos narrativos e os novos personagens que prometem enriquecer ainda mais o universo desta fascinante série de mangá."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, Mangá, Próxima Temporada, Personagens Novos, Arcos Narrativos, Cultura Pop, Desenvolvimento de Personagens, Fantasia"
-tags: ["Frieren", "Mangá", "Próxima Temporada", "Personagens Novos", "Arcos Narrativos", "Cultura Pop", "Desenvolvimento de Personagens", "Fantasia"]
-data: "2025-04-06T21:40:22.555Z"
+title: >-
+  O que esperar da próxima temporada de Frieren? Arcos futuros e novos
+  personagens
+slug: >-
+  o-que-esperar-da-proxima-temporada-de-frieren-arcos-futuros-e-novos-personagens
+resumo: >-
+  À medida que a popularidade de Frieren continua a crescer, fãs por todo o
+  mundo estão ansiosos pelo que está por vir. Neste artigo, exploramos os
+  futuros arcos narrativos e os novos personagens que prometem enriquecer ainda
+  mais o universo desta fascinante série de mangá.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, Mangá, Próxima Temporada, Personagens Novos, Arcos Narrativos,
+  Cultura Pop, Desenvolvimento de Personagens, Fantasia
+tags:
+  - Frieren
+  - Mangá
+  - Próxima Temporada
+  - Personagens Novos
+  - Arcos Narrativos
+  - Cultura Pop
+  - Desenvolvimento de Personagens
+  - Fantasia
+data: '2025-04-06T21:40:22.555Z'
+author: Ana Luiza
 ---
 
 ## Introdução

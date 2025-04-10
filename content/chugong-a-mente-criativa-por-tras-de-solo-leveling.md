@@ -1,14 +1,29 @@
 ---
-title: "Chugong: A Mente Criativa por Trás de Solo Leveling"
-slug: "chugong-a-mente-criativa-por-tras-de-solo-leveling"
-resumo: "Descubra a trajetória de Chugong, o pseudônimo do autor sul-coreano por trás do fenômeno de webtoon e light novel 'Solo Leveling'. Explore detalhes sobre sua carreira, o processo criativo e como Solo Leveling se tornou um sucesso global."
-categoria: "Literatura"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Chugong, Solo Leveling, webtoon, light novel, literatura coreana, fantasia, história de sucesso, criatividade"
-tags: ["Chugong", "Solo Leveling", "webtoon", "light novel", "literatura coreana", "fantasia", "história de sucesso", "criatividade"]
-data: "2025-02-07T01:57:02.813Z"
+title: 'Chugong: A Mente Criativa por Trás de Solo Leveling'
+slug: chugong-a-mente-criativa-por-tras-de-solo-leveling
+resumo: >-
+  Descubra a trajetória de Chugong, o pseudônimo do autor sul-coreano por trás
+  do fenômeno de webtoon e light novel 'Solo Leveling'. Explore detalhes sobre
+  sua carreira, o processo criativo e como Solo Leveling se tornou um sucesso
+  global.
+categoria: Literatura
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Chugong, Solo Leveling, webtoon, light novel, literatura coreana, fantasia,
+  história de sucesso, criatividade
+tags:
+  - Chugong
+  - Solo Leveling
+  - webtoon
+  - light novel
+  - literatura coreana
+  - fantasia
+  - história de sucesso
+  - criatividade
+data: '2025-02-07T01:57:02.813Z'
+author: Ana Luiza
 ---
 
 ## Quem é Chugong?

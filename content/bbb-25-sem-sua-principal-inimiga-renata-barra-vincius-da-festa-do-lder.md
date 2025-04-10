@@ -15,6 +15,7 @@ tags:
   - festa do líder
   - barrado no baile
   - reality show
+author: Ana Luiza
 ---
 
 O 'Big Brother Brasil 25' introduziu uma nova dinâmica chamada 'Barrado no Baile', onde o líder da semana tem o poder de vetar um participante de sua festa de liderança. Nesta semana, a líder Renata escolheu excluir Vinícius da celebração, que ocorre todas as quartas-feiras.

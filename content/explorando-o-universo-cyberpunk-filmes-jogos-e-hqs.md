@@ -1,14 +1,27 @@
 ---
-title: "Explorando o Universo Cyberpunk: Filmes, Jogos e HQs"
-slug: "explorando-o-universo-cyberpunk-filmes-jogos-e-hqs"
-resumo: "Este artigo oferece uma visão abrangente do gênero cyberpunk, destacando sua influência em filmes, jogos e histórias em quadrinhos. Descubra os principais elementos que definem o cyberpunk e explore algumas das obras mais icônicas que moldaram o gênero."
-categoria: "Cultura Pop"
-midia: "/images/cyberpunk.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-cyberpunk.jpg"
-keywords: "cyberpunk, ficção científica, filmes, jogos, HQs, Blade Runner, Matrix, Akira"
-tags: ["cyberpunk", "ficção científica", "filmes", "jogos", "HQs", "Blade Runner", "Matrix", "Akira"]
-data: "2025-04-04T21:46:01.584Z"
+title: 'Explorando o Universo Cyberpunk: Filmes, Jogos e HQs'
+slug: explorando-o-universo-cyberpunk-filmes-jogos-e-hqs
+resumo: >-
+  Este artigo oferece uma visão abrangente do gênero cyberpunk, destacando sua
+  influência em filmes, jogos e histórias em quadrinhos. Descubra os principais
+  elementos que definem o cyberpunk e explore algumas das obras mais icônicas
+  que moldaram o gênero.
+categoria: Cultura Pop
+midia: /images/cyberpunk.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-cyberpunk.jpg
+keywords: 'cyberpunk, ficção científica, filmes, jogos, HQs, Blade Runner, Matrix, Akira'
+tags:
+  - cyberpunk
+  - ficção científica
+  - filmes
+  - jogos
+  - HQs
+  - Blade Runner
+  - Matrix
+  - Akira
+data: '2025-04-04T21:46:01.584Z'
+author: Luana Souza
 ---
 
 ## O Que é Cyberpunk?

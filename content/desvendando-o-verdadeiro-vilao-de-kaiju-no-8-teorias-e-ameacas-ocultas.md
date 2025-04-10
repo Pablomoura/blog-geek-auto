@@ -1,14 +1,29 @@
 ---
-title: "Desvendando o Verdadeiro Vilão de Kaiju No. 8: Teorias e Ameaças Ocultas"
-slug: "desvendando-o-verdadeiro-vilao-de-kaiju-no-8-teorias-e-ameacas-ocultas"
-resumo: "Explore as teorias mais intrigantes sobre quem pode ser o verdadeiro vilão em Kaiju No. 8, uma série de mangá que capturou a imaginação de muitos. Analisaremos pistas ocultas e discutiremos possíveis ameaças que podem mudar a narrativa que conhecemos."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Mangá, Kaiju No. 8, Teorias, Vilões, Kaijus, Personagens, Mistério, Conflitos Internos"
-tags: ["Mangá", "Kaiju No. 8", "Teorias", "Vilões", "Kaijus", "Personagens", "Mistério", "Conflitos Internos"]
-data: "2025-04-07T22:10:37.323Z"
+title: 'Desvendando o Verdadeiro Vilão de Kaiju No. 8: Teorias e Ameaças Ocultas'
+slug: desvendando-o-verdadeiro-vilao-de-kaiju-no-8-teorias-e-ameacas-ocultas
+resumo: >-
+  Explore as teorias mais intrigantes sobre quem pode ser o verdadeiro vilão em
+  Kaiju No. 8, uma série de mangá que capturou a imaginação de muitos.
+  Analisaremos pistas ocultas e discutiremos possíveis ameaças que podem mudar a
+  narrativa que conhecemos.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Mangá, Kaiju No. 8, Teorias, Vilões, Kaijus, Personagens, Mistério, Conflitos
+  Internos
+tags:
+  - Mangá
+  - Kaiju No. 8
+  - Teorias
+  - Vilões
+  - Kaijus
+  - Personagens
+  - Mistério
+  - Conflitos Internos
+data: '2025-04-07T22:10:37.323Z'
+author: Ana Luiza
 ---
 
 ## Introdução

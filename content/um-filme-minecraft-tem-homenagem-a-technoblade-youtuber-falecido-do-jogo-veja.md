@@ -1,13 +1,26 @@
 ---
-title: "Um Filme Minecraft Presta Homenagem ao Falecido Youtuber Technoblade"
-slug: "um-filme-minecraft-tem-homenagem-a-technoblade-youtuber-falecido-do-jogo-veja"
-categoria: "FILMES"
-midia: "https://td.doubleclick.net/td/rul/10955670600?random=1743855285032&cv=11&fst=1743855285032&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be5421v896288557za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=102788824~102803279~102813109~102887800~102926062~102975949~103016951~103021830~103027016&u_w=800&u_h=600&url=https%3A%2F%2Fwww.omelete.com.br%2Ffilmes%2Fum-filme-minecraft-homenagem-technoblade-explicado&hn=www.googleadservices.com&frm=0&tiba=Um%20Filme%20Minecraft%20homenageia%20youtuber%20falecido%20Technoblade&npa=0&auid=1200494292.1743855285&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&fledge=1&data=event%3Dgtag.config&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/bG7tMuBGprHSg7oMFXtoXxj0kqA=/480x360/smart/extras/conteudos/minecraft_AZBm6Nt.jpg"
-tags: ["Minecraft", "Technoblade", "homenagem", "filme", "câncer", "comunidade", "Youtuber", "Dream SMP"]
-keywords: "Minecraft, Technoblade, homenagem, filme, câncer, comunidade, Youtuber, Dream SMP"
-data: "2025-04-05T12:15:07.130Z"
+title: Um Filme Minecraft Presta Homenagem ao Falecido Youtuber Technoblade
+slug: um-filme-minecraft-tem-homenagem-a-technoblade-youtuber-falecido-do-jogo-veja
+categoria: FILMES
+midia: >-
+  https://td.doubleclick.net/td/rul/10955670600?random=1743855285032&cv=11&fst=1743855285032&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be5421v896288557za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=102788824~102803279~102813109~102887800~102926062~102975949~103016951~103021830~103027016&u_w=800&u_h=600&url=https%3A%2F%2Fwww.omelete.com.br%2Ffilmes%2Fum-filme-minecraft-homenagem-technoblade-explicado&hn=www.googleadservices.com&frm=0&tiba=Um%20Filme%20Minecraft%20homenageia%20youtuber%20falecido%20Technoblade&npa=0&auid=1200494292.1743855285&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&fledge=1&data=event%3Dgtag.config&enablejsapi=1
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/bG7tMuBGprHSg7oMFXtoXxj0kqA=/480x360/smart/extras/conteudos/minecraft_AZBm6Nt.jpg
+tags:
+  - Minecraft
+  - Technoblade
+  - homenagem
+  - filme
+  - câncer
+  - comunidade
+  - Youtuber
+  - Dream SMP
+keywords: >-
+  Minecraft, Technoblade, homenagem, filme, câncer, comunidade, Youtuber, Dream
+  SMP
+data: '2025-04-05T12:15:07.130Z'
+author: Ana Luiza
 ---
 
 Conhecido no mundo do Minecraft como Technoblade, Alexander deixou um legado incontestável. Destacando-se inicialmente no servidor Hypixel, reconhecido pelo Guinness como o mais popular do jogo, ele alcançou fama ainda maior ao se juntar ao Dream SMP em 2020, período em que seu canal no YouTube experimentou um crescimento exponencial de inscritos. Em 2021, o jovem foi diagnosticado com câncer, uma batalha que, tristemente, culminou em seu falecimento em 2022, quando tinha apenas 23 anos.

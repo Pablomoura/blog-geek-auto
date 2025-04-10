@@ -18,6 +18,7 @@ tags:
   - capitão pátria
   - entrevista
   - collider
+author: Ana Luiza
 ---
 
 Em uma recente entrevista ao site Collider, Antony Starr, conhecido por seu papel como Capitão Pátria em The Boys, discutiu suas expectativas para o final da série, que conclui na quinta temporada. Starr, que ainda não assistiu ao último episódio, expressou sua surpresa com os roteiros finais, destacando a imprevisibilidade da série: 'Os roteiros são incrivelmente imprevisíveis. Mesmo avançado na leitura, cada novo script traz uma surpresa', disse o ator.

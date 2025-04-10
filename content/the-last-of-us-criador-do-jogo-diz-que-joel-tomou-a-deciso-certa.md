@@ -18,6 +18,7 @@ tags:
   - entrevista ign
   - franquia de jogos
   - debate entre fãs
+author: Luana Souza
 ---
 
 O desfecho do primeiro jogo de The Last of Us continua a ser um tópico de amplo debate entre os fãs. Recentemente, Neil Druckmann, o criador da franquia, expressou seu apoio à decisão de Joel durante uma entrevista à IGN. "Eu acredito que Joel agiu corretamente. No lugar dele, eu também gostaria de ter a opção de salvar minha filha", declarou Druckmann. No jogo, Ellie é submetida a um procedimento médico pelos Vagalumes que poderia desenvolver uma cura para o vírus devastador, mas isso resultaria em sua morte. Joel, em uma resposta violenta, salva Ellie, sacrificando a chance de cura para a humanidade.

@@ -1,13 +1,26 @@
 ---
-title: "Promoções LEGO | Confira descontos de Harry Potter, Batman, Minecraft e mais"
-slug: "promoes-lego-confira-descontos-de-harry-potter-batman-minecraft-e-mais"
-categoria: "OFERTAS"
-midia: "https://cdn.ome.lt/g2nUsq1jxwDpuggZialBoYQ3KD0=/987x0/smart/uploads/conteudo/fotos/02_CDGZCa3.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/BWHe0eaggHmspQpOuAA1CPZYmmQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-03_161537.png"
-tags: ["LEGO", "promoções LEGO", "Harry Potter LEGO", "Batman LEGO", "Minecraft LEGO", "Sonic LEGO", "Animal Crossing LEGO", "Speed Champions LEGO"]
-keywords: "LEGO, promoções LEGO, Harry Potter LEGO, Batman LEGO, Minecraft LEGO, Sonic LEGO, Animal Crossing LEGO, Speed Champions LEGO"
-data: "2025-04-04T13:21:40.730Z"
+title: 'Promoções LEGO | Confira descontos de Harry Potter, Batman, Minecraft e mais'
+slug: promoes-lego-confira-descontos-de-harry-potter-batman-minecraft-e-mais
+categoria: OFERTAS
+midia: >-
+  https://cdn.ome.lt/g2nUsq1jxwDpuggZialBoYQ3KD0=/987x0/smart/uploads/conteudo/fotos/02_CDGZCa3.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/BWHe0eaggHmspQpOuAA1CPZYmmQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-03_161537.png
+tags:
+  - LEGO
+  - promoções LEGO
+  - Harry Potter LEGO
+  - Batman LEGO
+  - Minecraft LEGO
+  - Sonic LEGO
+  - Animal Crossing LEGO
+  - Speed Champions LEGO
+keywords: >-
+  LEGO, promoções LEGO, Harry Potter LEGO, Batman LEGO, Minecraft LEGO, Sonic
+  LEGO, Animal Crossing LEGO, Speed Champions LEGO
+data: '2025-04-04T13:21:40.730Z'
+author: Luana Souza
 ---
 
 Os colecionáveis LEGO são não apenas uma fonte de diversão, mas também um excelente meio de desenvolver o raciocínio lógico através do desafio que é montar suas peças. Para os aficionados por LEGO, uma boa notícia: o Mercado Livre está com promoções imperdíveis em diversos temas populares. 

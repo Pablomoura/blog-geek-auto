@@ -15,6 +15,7 @@ tags:
   - tadeu schmidt
   - modo turbo
   - reviravoltas
+author: Ana Luiza
 ---
 
 Na edição ao vivo desta quarta-feira (27), Tadeu Schmidt anunciou novidades para o Big Brother Brasil 25, que agora entra no chamado 'modo turbo'. A semana será marcada por rápidas reviravoltas, começando pela Prova do Líder de quinta-feira (27), onde Maike saiu vitorioso e indicou Delma, Diego e Daniele Hypólito ao Paredão, enquanto Vinícius foi automaticamente emparedado devido à dinâmica da prova.

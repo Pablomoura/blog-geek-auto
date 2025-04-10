@@ -1,13 +1,25 @@
 ---
-title: "Marvel Rivals | Segunda Temporada Introduz Evento Icônico dos Quadrinhos"
-slug: "marvel-rivals-temporada-2-ter-evento-marcante-dos-quadrinhos"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/thyG51IdChc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/nf9quiVSpTqDPVsfCtshb6sqrn4=/480x360/smart/extras/conteudos/imagem_2025-04-04_154744042.png"
-tags: ["Marvel Rivals", "Hellfire Gala", "Emma Frost", "Ultron", "quadrinhos", "jogos de super-heróis", "PlayStation 5", "Xbox Series X"]
-keywords: "Marvel Rivals, Hellfire Gala, Emma Frost, Ultron, quadrinhos, jogos de super-heróis, PlayStation 5, Xbox Series X"
-data: "2025-04-04T19:08:37.561Z"
+title: Marvel Rivals | Segunda Temporada Introduz Evento Icônico dos Quadrinhos
+slug: marvel-rivals-temporada-2-ter-evento-marcante-dos-quadrinhos
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/thyG51IdChc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/nf9quiVSpTqDPVsfCtshb6sqrn4=/480x360/smart/extras/conteudos/imagem_2025-04-04_154744042.png
+tags:
+  - Marvel Rivals
+  - Hellfire Gala
+  - Emma Frost
+  - Ultron
+  - quadrinhos
+  - jogos de super-heróis
+  - PlayStation 5
+  - Xbox Series X
+keywords: >-
+  Marvel Rivals, Hellfire Gala, Emma Frost, Ultron, quadrinhos, jogos de
+  super-heróis, PlayStation 5, Xbox Series X
+data: '2025-04-04T19:08:37.561Z'
+author: Ana Luiza
 ---
 
 A aguardada segunda temporada de Marvel Rivals já tem data marcada para começar: 11 de abril. O evento principal desta atualização será o Hellfire Gala, conhecido nos quadrinhos como Baile do Inferno, que introduzirá novos personagens jogáveis, incluindo Emma Frost e Ultron. 

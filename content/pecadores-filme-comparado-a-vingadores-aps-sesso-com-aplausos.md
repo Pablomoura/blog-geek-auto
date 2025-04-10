@@ -17,6 +17,7 @@ tags:
   - michael b. jordan
   - pecadores filme
   - comparação com vingadores
+author: Pablo Moura
 ---
 
 ‘Pecadores’, o novo thriller de terror dirigido por Ryan Coogler (‘Pantera Negra’), protagonizado por Michael B. Jordan (‘Creed’), já está causando grande expectativa após suas primeiras exibições nos Estados Unidos. O filme recebeu aplausos entusiasmados da audiência e foi até comparado à franquia ‘Vingadores’ por sua capacidade de engajar o público.

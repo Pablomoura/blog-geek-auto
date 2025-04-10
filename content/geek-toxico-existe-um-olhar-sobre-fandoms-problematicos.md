@@ -1,14 +1,28 @@
 ---
-title: "Geek Tóxico Existe? Um Olhar sobre Fandoms Problemáticos"
-slug: "geek-toxico-existe-um-olhar-sobre-fandoms-problematicos"
-resumo: "Este artigo explora a existência de comportamentos tóxicos dentro dos fandoms geek. Discutiremos as causas, as consequências e as possíveis soluções para reduzir a toxicidade nesses espaços."
-categoria: "Cultura Pop"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "geek, fandom, toxicidade, inclusão, comportamento, cultura pop, fan culture, comunidade"
-tags: ["geek", "fandom", "toxicidade", "inclusão", "comportamento", "cultura pop", "fan culture", "comunidade"]
-data: "2025-04-03T01:10:44.583Z"
+title: Geek Tóxico Existe? Um Olhar sobre Fandoms Problemáticos
+slug: geek-toxico-existe-um-olhar-sobre-fandoms-problematicos
+resumo: >-
+  Este artigo explora a existência de comportamentos tóxicos dentro dos fandoms
+  geek. Discutiremos as causas, as consequências e as possíveis soluções para
+  reduzir a toxicidade nesses espaços.
+categoria: Cultura Pop
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  geek, fandom, toxicidade, inclusão, comportamento, cultura pop, fan culture,
+  comunidade
+tags:
+  - geek
+  - fandom
+  - toxicidade
+  - inclusão
+  - comportamento
+  - cultura pop
+  - fan culture
+  - comunidade
+data: '2025-04-03T01:10:44.583Z'
+author: Ana Luiza
 ---
 
 ## Introdução

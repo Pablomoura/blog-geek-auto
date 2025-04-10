@@ -20,6 +20,7 @@ tags:
   - exclusão de personagem
   - terceira temporada
   - eleição donald trump
+author: Ana Luiza
 ---
 
 A série The White Lotus teve uma alteração significativa em sua terceira temporada devido à eleição de Donald Trump como presidente dos Estados Unidos, conforme revelado por Carrie Coon em entrevista à Harper's Bazaar. Durante a pós-produção, foi decidido remover a trama de um personagem não binário que seria filho de Laurie, personagem de Coon.

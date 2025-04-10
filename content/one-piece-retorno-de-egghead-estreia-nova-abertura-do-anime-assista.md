@@ -1,13 +1,25 @@
 ---
-title: "One Piece | Retorno de Egghead estreia nova abertura do anime; assista"
-slug: "one-piece-retorno-de-egghead-estreia-nova-abertura-do-anime-assista"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/VHxeuLf_eRs?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/iTmlU8YoADXSDW4-GqBYwm78sPc=/480x360/smart/extras/conteudos/onepieceanime_HUGG0vi.jpg"
-tags: ["One Piece", "Egghead", "anime", "Monkey D. Luffy", "nova abertura", "Netflix", "live-action", "Crunchyroll"]
-keywords: "One Piece, Egghead, anime, Monkey D. Luffy, nova abertura, Netflix, live-action, Crunchyroll"
-data: "2025-04-05T20:09:56.524Z"
+title: One Piece | Retorno de Egghead estreia nova abertura do anime; assista
+slug: one-piece-retorno-de-egghead-estreia-nova-abertura-do-anime-assista
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/VHxeuLf_eRs?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/iTmlU8YoADXSDW4-GqBYwm78sPc=/480x360/smart/extras/conteudos/onepieceanime_HUGG0vi.jpg
+tags:
+  - One Piece
+  - Egghead
+  - anime
+  - Monkey D. Luffy
+  - nova abertura
+  - Netflix
+  - live-action
+  - Crunchyroll
+keywords: >-
+  One Piece, Egghead, anime, Monkey D. Luffy, nova abertura, Netflix,
+  live-action, Crunchyroll
+data: '2025-04-05T20:09:56.524Z'
+author: Ana Luiza
 ---
 
 Após um período de pausa na produção, a aclamada série de anime 'One Piece' retomou com novos episódios no Japão esta semana. O destaque deste retorno é a continuação do arco de Egghead, que promete trazer novas aventuras e desafios para Monkey D. Luffy e sua tripulação. Além disso, a retomada foi marcada pela estreia de uma nova vinheta de abertura, que já está disponível para o público. 

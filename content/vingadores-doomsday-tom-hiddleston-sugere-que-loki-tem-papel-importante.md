@@ -1,13 +1,26 @@
 ---
-title: "Vingadores: Doomsday | Tom Hiddleston sugere que Loki tem papel importante"
-slug: "vingadores-doomsday-tom-hiddleston-sugere-que-loki-tem-papel-importante"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/a2iCBDE9ZXKv7OTr4y5dy4X-pEA=/987x0/smart/uploads/conteudo/fotos/02_ZxV9S1H.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/5mhtqtftbA_zj9YNatMhWINaZjc=/480x360/smart/extras/conteudos/01_9IqkD5h.jpg"
-tags: ["Vingadores: Doomsday", "Loki", "Tom Hiddleston", "Marvel", "Doutor Destino", "crise multiversal", "X-Men", "Saga do Multiverso"]
-keywords: "Vingadores: Doomsday, Loki, Tom Hiddleston, Marvel, Doutor Destino, crise multiversal, X-Men, Saga do Multiverso"
-data: "2025-04-08T20:10:50.679Z"
+title: 'Vingadores: Doomsday | Tom Hiddleston sugere que Loki tem papel importante'
+slug: vingadores-doomsday-tom-hiddleston-sugere-que-loki-tem-papel-importante
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/a2iCBDE9ZXKv7OTr4y5dy4X-pEA=/987x0/smart/uploads/conteudo/fotos/02_ZxV9S1H.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/5mhtqtftbA_zj9YNatMhWINaZjc=/480x360/smart/extras/conteudos/01_9IqkD5h.jpg
+tags:
+  - 'Vingadores: Doomsday'
+  - Loki
+  - Tom Hiddleston
+  - Marvel
+  - Doutor Destino
+  - crise multiversal
+  - X-Men
+  - Saga do Multiverso
+keywords: >-
+  Vingadores: Doomsday, Loki, Tom Hiddleston, Marvel, Doutor Destino, crise
+  multiversal, X-Men, Saga do Multiverso
+data: '2025-04-08T20:10:50.679Z'
+author: Ana Luiza
 ---
 
 Tom Hiddleston, conhecido por seu papel como Loki, confirmou sua participação em 'Vingadores: Doomsday', embora os detalhes de seu papel permaneçam sob sigilo. Durante sua aparição nos Olivier Awards 2025, Hiddleston insinuou que sua atuação no filme será significativa, destacando que 'interpretar Loki tem sido um capítulo extraordinário da minha vida e ainda não acabou'. Ele acrescentou que seu papel em 'Doomsday' é 'notável' em comparação com os anteriores.

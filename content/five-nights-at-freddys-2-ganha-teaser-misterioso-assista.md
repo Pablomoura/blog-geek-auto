@@ -15,6 +15,7 @@ tags:
   - jason blum
   - filme de terror
   - sequência
+author: Pablo Moura
 ---
 
 Jason Blum, produtor de 'Five Nights at Freddy's 2', anunciou que a sequência do filme receberá seu primeiro teaser oficial no dia 2 de abril. A prévia será inicialmente apresentada na CinemaCon, com a expectativa de ser liberada ao público em geral logo em seguida.

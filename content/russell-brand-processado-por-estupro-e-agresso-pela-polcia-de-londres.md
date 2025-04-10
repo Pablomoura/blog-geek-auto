@@ -1,13 +1,27 @@
 ---
-title: "Russell Brand é processado por estupro e agressão pela polícia de Londres"
-slug: "russell-brand-processado-por-estupro-e-agresso-pela-polcia-de-londres"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/iatGHX_Z6v8dv-JS6oKhkWYUoQQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T103612.269.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nQdRU06AYDDsMTT-74qsw0rOftI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T103602.301.png"
-tags: ["Russell Brand", "estupro", "agressão sexual", "Polícia Metropolitana de Londres", "investigação", "abuso de poder", "violência contra mulheres", "indústria do entretenimento"]
-keywords: "Russell Brand, estupro, agressão sexual, Polícia Metropolitana de Londres, investigação, abuso de poder, violência contra mulheres, indústria do entretenimento"
-data: "2025-04-04T14:12:38.276Z"
+title: Russell Brand é processado por estupro e agressão pela polícia de Londres
+slug: russell-brand-processado-por-estupro-e-agresso-pela-polcia-de-londres
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/iatGHX_Z6v8dv-JS6oKhkWYUoQQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T103612.269.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nQdRU06AYDDsMTT-74qsw0rOftI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T103602.301.png
+tags:
+  - Russell Brand
+  - estupro
+  - agressão sexual
+  - Polícia Metropolitana de Londres
+  - investigação
+  - abuso de poder
+  - violência contra mulheres
+  - indústria do entretenimento
+keywords: >-
+  Russell Brand, estupro, agressão sexual, Polícia Metropolitana de Londres,
+  investigação, abuso de poder, violência contra mulheres, indústria do
+  entretenimento
+data: '2025-04-04T14:12:38.276Z'
+author: Pablo Moura
 ---
 
 O ator e comediante Russell Brand enfrenta acusações formais de estupro, agressão sexual e agressão indecente pela Polícia Metropolitana de Londres. A investigação, que teve início há 18 meses, foi motivada por alegações detalhadas em reportagens do Channel 4 e do The Sunday Times, envolvendo quatro mulheres distintas. 

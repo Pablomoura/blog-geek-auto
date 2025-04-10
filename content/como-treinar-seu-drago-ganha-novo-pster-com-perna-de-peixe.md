@@ -15,6 +15,7 @@ tags:
   - dreamworks
   - mason thames
   - gerard butler
+author: Pablo Moura
 ---
 
 A DreamWorks lançou uma nova coleção de pôsteres para o aguardado remake em live-action de 'Como Treinar Seu Dragão'. Confira as artes que destacam os principais personagens!

@@ -1,14 +1,29 @@
 ---
-title: "As Lutas Mais Épicas de Kaiju No. 8: Uma Análise Detalhada"
-slug: "as-lutas-mais-epicas-de-kaiju-no-8-uma-analise-detalhada"
-resumo: "Explore as batalhas mais emocionantes e impactantes de Kaiju No. 8, uma série que redefine o gênero de monstros com sua narrativa envolvente e personagens carismáticos. Este artigo detalha as lutas chave que não só são cruciais para a trama, mas também demonstram a evolução artística e temática da série."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, Mangá, Lutas Épicas, Análise de Batalhas, Desenvolvimento de Personagem, Kaiju, Ação, Narrativa"
-tags: ["Kaiju No. 8", "Mangá", "Lutas Épicas", "Análise de Batalhas", "Desenvolvimento de Personagem", "Kaiju", "Ação", "Narrativa"]
-data: "2025-04-08T22:17:43.113Z"
+title: 'As Lutas Mais Épicas de Kaiju No. 8: Uma Análise Detalhada'
+slug: as-lutas-mais-epicas-de-kaiju-no-8-uma-analise-detalhada
+resumo: >-
+  Explore as batalhas mais emocionantes e impactantes de Kaiju No. 8, uma série
+  que redefine o gênero de monstros com sua narrativa envolvente e personagens
+  carismáticos. Este artigo detalha as lutas chave que não só são cruciais para
+  a trama, mas também demonstram a evolução artística e temática da série.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, Mangá, Lutas Épicas, Análise de Batalhas, Desenvolvimento de
+  Personagem, Kaiju, Ação, Narrativa
+tags:
+  - Kaiju No. 8
+  - Mangá
+  - Lutas Épicas
+  - Análise de Batalhas
+  - Desenvolvimento de Personagem
+  - Kaiju
+  - Ação
+  - Narrativa
+data: '2025-04-08T22:17:43.113Z'
+author: Luana Souza
 ---
 
 ## Introdução

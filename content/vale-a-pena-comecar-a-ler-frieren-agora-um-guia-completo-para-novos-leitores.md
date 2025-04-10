@@ -1,14 +1,27 @@
 ---
-title: "Vale a Pena Começar a Ler Frieren Agora? Um Guia Completo para Novos Leitores"
-slug: "vale-a-pena-comecar-a-ler-frieren-agora-um-guia-completo-para-novos-leitores"
-resumo: "Explorando se é o momento certo para começar a ler o mangá 'Frieren', este guia oferece uma análise detalhada sobre a trama, estilo de arte e impacto emocional, ajudando novos leitores a decidir se devem ou não embarcar nesta jornada fantástica."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "mangá, Frieren, leitura, guia, fantasia, arte, narrativa, emocional"
-tags: ["mangá", "Frieren", "leitura", "guia", "fantasia", "arte", "narrativa", "emocional"]
-data: "2025-04-08T21:25:22.658Z"
+title: Vale a Pena Começar a Ler Frieren Agora? Um Guia Completo para Novos Leitores
+slug: vale-a-pena-comecar-a-ler-frieren-agora-um-guia-completo-para-novos-leitores
+resumo: >-
+  Explorando se é o momento certo para começar a ler o mangá 'Frieren', este
+  guia oferece uma análise detalhada sobre a trama, estilo de arte e impacto
+  emocional, ajudando novos leitores a decidir se devem ou não embarcar nesta
+  jornada fantástica.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: 'mangá, Frieren, leitura, guia, fantasia, arte, narrativa, emocional'
+tags:
+  - mangá
+  - Frieren
+  - leitura
+  - guia
+  - fantasia
+  - arte
+  - narrativa
+  - emocional
+data: '2025-04-08T21:25:22.658Z'
+author: Luana Souza
 ---
 
 ## Introdução

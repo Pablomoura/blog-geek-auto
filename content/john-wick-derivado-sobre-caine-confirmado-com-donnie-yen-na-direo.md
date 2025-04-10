@@ -18,6 +18,7 @@ tags:
   - direção
   - cinemacon
   - cinema de ação
+author: Pablo Moura
 ---
 
 A franquia 'John Wick' está se expandindo com um novo spin-off centrado no personagem Caine, interpretado por Donnie Yen, que também assumirá a direção do filme. A confirmação veio durante a CinemaCon, onde foi revelado que o estilo do filme será fortemente influenciado pelo cinema de ação de Hong Kong, uma marca registrada de Yen em obras como 'O Grande Mestre'.

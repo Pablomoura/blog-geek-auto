@@ -15,6 +15,7 @@ tags:
   - anime
   - segunda temporada
   - eventos de exibição coletiva
+author: Pablo Moura
 ---
 
 O Crunchyroll disponibilizará hoje, sábado (29), às 14h30 no horário de Brasília, o último episódio da segunda temporada do anime Solo Leveling. A série tem se destacado como uma das principais atrações da plataforma.

@@ -1,13 +1,26 @@
 ---
-title: "BBB 25 | Vitória Strada conquista a liderança após vencer a 13ª Prova do Líder"
-slug: "bbb-25-vitria-strada-desbanca-maike-e-vence-a-13-prova-do-lder"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/aeIIwNpgz83Hf_RhEkl98_C7894=/987x0/smart/uploads/conteudo/fotos/bbb25-vitoria-strada-13-prova-lider.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/TfZbD6YLvksDy9RIZEdSgeutHGg=/480x360/smart/extras/conteudos/bbb25-vitoria-strada-13-prova-lider-peq.jpg"
-tags: ["BBB 25", "Vitória Strada", "Prova do Líder", "Paredão", "Tadeu Schmidt", "Rodrigo Dourado", "Globoplay", "votação online"]
-keywords: "BBB 25, Vitória Strada, Prova do Líder, Paredão, Tadeu Schmidt, Rodrigo Dourado, Globoplay, votação online"
-data: "2025-04-04T03:27:19.597Z"
+title: BBB 25 | Vitória Strada conquista a liderança após vencer a 13ª Prova do Líder
+slug: bbb-25-vitria-strada-desbanca-maike-e-vence-a-13-prova-do-lder
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/aeIIwNpgz83Hf_RhEkl98_C7894=/987x0/smart/uploads/conteudo/fotos/bbb25-vitoria-strada-13-prova-lider.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/TfZbD6YLvksDy9RIZEdSgeutHGg=/480x360/smart/extras/conteudos/bbb25-vitoria-strada-13-prova-lider-peq.jpg
+tags:
+  - BBB 25
+  - Vitória Strada
+  - Prova do Líder
+  - Paredão
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - Globoplay
+  - votação online
+keywords: >-
+  BBB 25, Vitória Strada, Prova do Líder, Paredão, Tadeu Schmidt, Rodrigo
+  Dourado, Globoplay, votação online
+data: '2025-04-04T03:27:19.597Z'
+author: Pablo Moura
 ---
 
 O Big Brother Brasil 25 tem uma nova líder. Na noite de quinta-feira, 03, a atriz Vitória Strada emergiu como vencedora da 13ª Prova do Líder, superando outros competidores. Neste desafio, todos, exceto Vinícius que foi vetado pelo então líder Maike, tiveram a chance de competir pela liderança. A prova exigiu dos participantes habilidades de atenção e rapidez ao montarem manequins para replicar um modelo previamente exibido.

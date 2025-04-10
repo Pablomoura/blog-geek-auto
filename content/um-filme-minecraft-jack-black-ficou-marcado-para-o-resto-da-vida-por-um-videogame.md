@@ -1,13 +1,28 @@
 ---
-title: "Jack Black Revela o Videogame que Marcou sua Vida Durante Lançamento de 'Um Filme Minecraft'"
-slug: "um-filme-minecraft-jack-black-ficou-marcado-para-o-resto-da-vida-por-um-videogame"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/Guzfs8wnJBc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/x62WE5T6jPtSdPYentFVpQkK2y8=/480x360/smart/extras/conteudos/MCR-01558_proxy.png"
-tags: ["Jack Black", "Minecraft", "filme Minecraft", "videogames", "Space Invaders", "Jason Momoa", "Warner Bros", "adaptação cinematográfica"]
-keywords: "Jack Black, Minecraft, filme Minecraft, videogames, Space Invaders, Jason Momoa, Warner Bros, adaptação cinematográfica"
-data: "2025-04-07T15:10:57.888Z"
+title: >-
+  Jack Black Revela o Videogame que Marcou sua Vida Durante Lançamento de 'Um
+  Filme Minecraft'
+slug: >-
+  um-filme-minecraft-jack-black-ficou-marcado-para-o-resto-da-vida-por-um-videogame
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/Guzfs8wnJBc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/x62WE5T6jPtSdPYentFVpQkK2y8=/480x360/smart/extras/conteudos/MCR-01558_proxy.png
+tags:
+  - Jack Black
+  - Minecraft
+  - filme Minecraft
+  - videogames
+  - Space Invaders
+  - Jason Momoa
+  - Warner Bros
+  - adaptação cinematográfica
+keywords: >-
+  Jack Black, Minecraft, filme Minecraft, videogames, Space Invaders, Jason
+  Momoa, Warner Bros, adaptação cinematográfica
+data: '2025-04-07T15:10:57.888Z'
+author: Pablo Moura
 ---
 
 Com a estreia global de 'Um Filme Minecraft', a Warner Bros. Pictures apresenta uma adaptação cinematográfica aguardada de uma das maiores franquias de videogame. Jack Black, um dos protagonistas, expressou sua alegria em fazer parte do projeto e relembrou os momentos marcantes de sua infância ligados aos jogos eletrônicos. Em entrevista à Radio 10, Black disse: 'Desde pequeno, eu era fascinado por BMX e videogames. Confesso que fingia estar doente só para ficar em casa jogando ao invés de ir à escola, onde muitas vezes adormecia.'

@@ -1,14 +1,28 @@
 ---
-title: "Entenda o Universo de Solo Leveling: Caçadores, Ranks e Portais"
-slug: "entenda-o-universo-de-solo-leveling-cacadores-ranks-e-portais"
-resumo: "Explore o emocionante mundo de Solo Leveling, um universo único de caçadores, ranks e portais misteriosos. Descubra como os caçadores são classificados, a importância dos portais e os desafios que enfrentam."
-categoria: "Webtoons e Mangás"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, caçadores, ranks, portais, webtoon, masmorras, monstros, aventura"
-tags: ["Solo Leveling", "caçadores", "ranks", "portais", "webtoon", "masmorras", "monstros", "aventura"]
-data: "2025-04-04T01:30:49.354Z"
+title: 'Entenda o Universo de Solo Leveling: Caçadores, Ranks e Portais'
+slug: entenda-o-universo-de-solo-leveling-cacadores-ranks-e-portais
+resumo: >-
+  Explore o emocionante mundo de Solo Leveling, um universo único de caçadores,
+  ranks e portais misteriosos. Descubra como os caçadores são classificados, a
+  importância dos portais e os desafios que enfrentam.
+categoria: Webtoons e Mangás
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, caçadores, ranks, portais, webtoon, masmorras, monstros,
+  aventura
+tags:
+  - Solo Leveling
+  - caçadores
+  - ranks
+  - portais
+  - webtoon
+  - masmorras
+  - monstros
+  - aventura
+data: '2025-04-04T01:30:49.354Z'
+author: Ana Luiza
 ---
 
 ## Introdução ao Universo de Solo Leveling

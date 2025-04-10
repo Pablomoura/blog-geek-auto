@@ -1,14 +1,30 @@
 ---
-title: "A Magia das Memórias em Frieren: Como Elas Transformam Perspectivas e Relações"
-slug: "a-magia-das-memorias-em-frieren-como-elas-transformam-perspectivas-e-relacoes"
-resumo: "Este artigo explora como a magia das memórias afeta profundamente os personagens e a narrativa no universo de Frieren. Analisaremos as maneiras pelas quais as memórias moldam as interações, o crescimento pessoal e as jornadas emocionais dos personagens, proporcionando uma visão mais profunda de como esses elementos são essenciais para a evolução da história."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, memórias, desenvolvimento de personagens, narrativa, transformação, crescimento pessoal, relações, magia"
-tags: ["Frieren", "memórias", "desenvolvimento de personagens", "narrativa", "transformação", "crescimento pessoal", "relações", "magia"]
-data: "2025-04-06T21:41:53.385Z"
+title: 'A Magia das Memórias em Frieren: Como Elas Transformam Perspectivas e Relações'
+slug: a-magia-das-memorias-em-frieren-como-elas-transformam-perspectivas-e-relacoes
+resumo: >-
+  Este artigo explora como a magia das memórias afeta profundamente os
+  personagens e a narrativa no universo de Frieren. Analisaremos as maneiras
+  pelas quais as memórias moldam as interações, o crescimento pessoal e as
+  jornadas emocionais dos personagens, proporcionando uma visão mais profunda de
+  como esses elementos são essenciais para a evolução da história.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, memórias, desenvolvimento de personagens, narrativa, transformação,
+  crescimento pessoal, relações, magia
+tags:
+  - Frieren
+  - memórias
+  - desenvolvimento de personagens
+  - narrativa
+  - transformação
+  - crescimento pessoal
+  - relações
+  - magia
+data: '2025-04-06T21:41:53.385Z'
+author: Luana Souza
 ---
 
 ## Introdução

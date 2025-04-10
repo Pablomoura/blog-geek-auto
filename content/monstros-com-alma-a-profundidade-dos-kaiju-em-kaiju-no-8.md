@@ -1,14 +1,28 @@
 ---
-title: "Monstros com Alma: A Profundidade dos Kaiju em Kaiju No. 8"
-slug: "monstros-com-alma-a-profundidade-dos-kaiju-em-kaiju-no-8"
-resumo: "Explore a complexidade e a humanização dos kaiju em 'Kaiju No. 8', uma série que transforma monstros gigantes de vilões simples em personagens com profundas camadas emocionais e motivacionais."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, mangá, kaiju, humanização, empatia, monstros, análise cultural, narrativa"
-tags: ["Kaiju No. 8", "mangá", "kaiju", "humanização", "empatia", "monstros", "análise cultural", "narrativa"]
-data: "2025-04-03T22:16:12.036Z"
+title: 'Monstros com Alma: A Profundidade dos Kaiju em Kaiju No. 8'
+slug: monstros-com-alma-a-profundidade-dos-kaiju-em-kaiju-no-8
+resumo: >-
+  Explore a complexidade e a humanização dos kaiju em 'Kaiju No. 8', uma série
+  que transforma monstros gigantes de vilões simples em personagens com
+  profundas camadas emocionais e motivacionais.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, mangá, kaiju, humanização, empatia, monstros, análise cultural,
+  narrativa
+tags:
+  - Kaiju No. 8
+  - mangá
+  - kaiju
+  - humanização
+  - empatia
+  - monstros
+  - análise cultural
+  - narrativa
+data: '2025-04-03T22:16:12.036Z'
+author: Luana Souza
 ---
 
 ## Introdução

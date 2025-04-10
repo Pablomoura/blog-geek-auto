@@ -13,6 +13,7 @@ tags:
   - snk
   - games de luta
   - crossover de celebridades
+author: Ana Luiza
 ---
 
 A desenvolvedora SNK acaba de lançar o trailer oficial apresentando Cristiano Ronaldo como personagem jogável no novo jogo Fatal Fury: City of the Wolves. O astro do futebol mundial agora faz parte do universo dos games de luta.

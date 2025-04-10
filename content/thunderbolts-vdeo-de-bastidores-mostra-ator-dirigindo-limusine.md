@@ -1,13 +1,28 @@
 ---
-title: "Thunderbolts | David Harbour enfrenta desafio ao pilotar limusine em vídeo de bastidores"
-slug: "thunderbolts-vdeo-de-bastidores-mostra-ator-dirigindo-limusine"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/V4KQUohrrcQOrIGJ6eLO1z1pLqs=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T181514.148.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/RBa9ZzrrIfw0ASRcO2z-GojFfCc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T181514.148.png"
-tags: ["Thunderbolts", "David Harbour", "Guardião Vermelho", "MCU", "anti-heróis", "CinemaCon 2025", "Marvel", "bastidores"]
-keywords: "Thunderbolts, David Harbour, Guardião Vermelho, MCU, anti-heróis, CinemaCon 2025, Marvel, bastidores"
-data: "2025-04-04T22:10:14.477Z"
+title: >-
+  Thunderbolts | David Harbour enfrenta desafio ao pilotar limusine em vídeo de
+  bastidores
+slug: thunderbolts-vdeo-de-bastidores-mostra-ator-dirigindo-limusine
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/V4KQUohrrcQOrIGJ6eLO1z1pLqs=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T181514.148.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/RBa9ZzrrIfw0ASRcO2z-GojFfCc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T181514.148.png
+tags:
+  - Thunderbolts
+  - David Harbour
+  - Guardião Vermelho
+  - MCU
+  - anti-heróis
+  - CinemaCon 2025
+  - Marvel
+  - bastidores
+keywords: >-
+  Thunderbolts, David Harbour, Guardião Vermelho, MCU, anti-heróis, CinemaCon
+  2025, Marvel, bastidores
+data: '2025-04-04T22:10:14.477Z'
+author: Luana Souza
 ---
 
 Um vídeo recentemente divulgado na página oficial do filme Thunderbolts no X (antigo Twitter) nesta sexta-feira (04) capturou a atenção dos fãs ao mostrar David Harbour, caracterizado como Guardião Vermelho, dirigindo uma limusine vermelha. Durante o trajeto, Harbour entretém seus colegas de elenco com o sotaque do personagem enquanto se dirigem à CinemaCon 2025.

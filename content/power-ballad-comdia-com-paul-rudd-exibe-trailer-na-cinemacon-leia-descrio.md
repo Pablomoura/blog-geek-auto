@@ -18,6 +18,7 @@ tags:
   - power ballad
   - trailer
   - música
+author: Pablo Moura
 ---
 
 Durante a CinemaCon, foi revelado o primeiro trailer de 'Power Ballad', comédia que conta com Paul Rudd e Nick Jonas, sob a direção de John Carney. A prévia do filme mistura elementos musicais e temáticas de crise de meia idade, apresentando a história de um compositor cuja obra é usurpada por um artista mais jovem. Decidido a reivindicar seus direitos, o protagonista parte da Inglaterra em busca de justiça e da realização de seus sonhos.

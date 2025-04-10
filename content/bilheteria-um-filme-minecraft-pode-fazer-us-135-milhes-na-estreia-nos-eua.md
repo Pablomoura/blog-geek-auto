@@ -1,13 +1,25 @@
 ---
-title: "Bilheteria | Um Filme Minecraft pode fazer US$ 135 milhões na estreia nos EUA"
-slug: "bilheteria-um-filme-minecraft-pode-fazer-us-135-milhes-na-estreia-nos-eua"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg"
-tags: ["Minecraft", "bilheteria", "estreia cinematográfica", "adaptação de jogo", "Jason Momoa", "Jared Hess", "recordes de bilheteria", "Warner Bros"]
-keywords: "Minecraft, bilheteria, estreia cinematográfica, adaptação de jogo, Jason Momoa, Jared Hess, recordes de bilheteria, Warner Bros"
-data: "2025-04-05T20:10:29.359Z"
+title: Bilheteria | Um Filme Minecraft pode fazer US$ 135 milhões na estreia nos EUA
+slug: bilheteria-um-filme-minecraft-pode-fazer-us-135-milhes-na-estreia-nos-eua
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg
+tags:
+  - Minecraft
+  - bilheteria
+  - estreia cinematográfica
+  - adaptação de jogo
+  - Jason Momoa
+  - Jared Hess
+  - recordes de bilheteria
+  - Warner Bros
+keywords: >-
+  Minecraft, bilheteria, estreia cinematográfica, adaptação de jogo, Jason
+  Momoa, Jared Hess, recordes de bilheteria, Warner Bros
+data: '2025-04-05T20:10:29.359Z'
+author: Pablo Moura
 ---
 
 A adaptação cinematográfica de 'Um Filme Minecraft' pode ultrapassar US$ 135 milhões em bilheteria nos Estados Unidos e atingir globalmente US$ 260 milhões já em seu lançamento. Segundo informações do Deadline, o filme tem potencial para se tornar a maior estreia de 2025 até agora, superando os US$ 40,9 milhões arrecadados por 'Capitão América: Admirável Mundo Novo' em fevereiro nos EUA.

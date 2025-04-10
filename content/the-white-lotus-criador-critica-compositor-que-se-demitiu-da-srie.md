@@ -1,13 +1,28 @@
 ---
-title: "The White Lotus | Criador responde às críticas do compositor que deixou a série"
-slug: "the-white-lotus-criador-critica-compositor-que-se-demitiu-da-srie"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/0_AZVvRgZK3wxKVNXFSUVb9nBzM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T134446.470.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/FbjsThLVLO1Dke0FEmv24k6-_RY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T134421.748.png"
-tags: ["The White Lotus", "Mike White", "Cristobal Tapia de Veer", "controvérsia", "compositor", "série de TV", "HBO", "drama"]
-keywords: "The White Lotus, Mike White, Cristobal Tapia de Veer, controvérsia, compositor, série de TV, HBO, drama"
-data: "2025-04-08T17:10:51.847Z"
+title: >-
+  The White Lotus | Criador responde às críticas do compositor que deixou a
+  série
+slug: the-white-lotus-criador-critica-compositor-que-se-demitiu-da-srie
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/0_AZVvRgZK3wxKVNXFSUVb9nBzM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T134446.470.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/FbjsThLVLO1Dke0FEmv24k6-_RY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T134421.748.png
+tags:
+  - The White Lotus
+  - Mike White
+  - Cristobal Tapia de Veer
+  - controvérsia
+  - compositor
+  - série de TV
+  - HBO
+  - drama
+keywords: >-
+  The White Lotus, Mike White, Cristobal Tapia de Veer, controvérsia,
+  compositor, série de TV, HBO, drama
+data: '2025-04-08T17:10:51.847Z'
+author: Ana Luiza
 ---
 
 A controvérsia envolvendo Mike White, criador de 'The White Lotus', e o compositor Cristobal Tapia de Veer ganhou novos capítulos. Após Tapia de Veer renunciar ao seu papel na série e expressar críticas públicas a White, o criador da série não hesitou em responder. Em uma recente entrevista ao Howard Stern Show, conforme relatado pela Variety, White expressou seu desconcerto com a situação: 'Eu honestamente não sei o que aconteceu, exceto que agora estou lendo suas entrevistas porque ele decidiu fazer uma campanha de relações públicas sobre ele sair da série. Eu não acho que ele me respeitou.' White detalhou que as interações entre eles raramente incluíam confrontos diretos, limitando-se a trocas de emails relacionados ao trabalho, nas quais ele enviava notas e sugestões para Tapia de Veer.

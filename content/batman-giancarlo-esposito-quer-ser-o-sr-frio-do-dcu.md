@@ -18,6 +18,7 @@ tags:
   - dcu
   - vilão
   - cinema
+author: Pablo Moura
 ---
 
 Giancarlo Esposito, famoso por seu papel de Gus Fring em 'Breaking Bad' e recentemente como antagonista em 'Capitão América: Admirável Mundo Novo', manifestou interesse em participar do DCU (Universo Cinematográfico da DC). O ator revelou que gostaria de encarnar o vilão Sr. Frio sob a direção de James Gunn. 

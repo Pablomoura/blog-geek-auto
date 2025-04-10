@@ -16,6 +16,7 @@ tags:
   - batman eternamente
   - ator
   - cinema
+author: Pablo Moura
 ---
 
 Faleceu na última terça-feira, dia 1º, o renomado ator Val Kilmer, aos 65 anos, conhecido pelos seus papéis em filmes como 'Batman Eternamente', 'Fogo Contra Fogo' e 'Top Gun'. Segundo o New York Times, que obteve a confirmação através de Mercedes Kilmer, filha do ator, a causa da morte foi uma pneumonia.

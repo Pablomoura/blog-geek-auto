@@ -1,14 +1,28 @@
 ---
-title: "Magos Lendários do Mundo de Frieren: Conheça os Mais Poderosos"
-slug: "magos-lendarios-do-mundo-de-frieren-conheca-os-mais-poderosos"
-resumo: "Explore o mundo fascinante de Frieren através dos seus magos mais lendários e poderosos. Descubra quem são, suas habilidades únicas e o impacto que tiveram em suas terras místicas."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "magia, Frieren, magos poderosos, lendas, história, fantasia, elementos mágicos, cultura"
-tags: ["magia", "Frieren", "magos poderosos", "lendas", "história", "fantasia", "elementos mágicos", "cultura"]
-data: "2025-04-08T21:27:39.649Z"
+title: 'Magos Lendários do Mundo de Frieren: Conheça os Mais Poderosos'
+slug: magos-lendarios-do-mundo-de-frieren-conheca-os-mais-poderosos
+resumo: >-
+  Explore o mundo fascinante de Frieren através dos seus magos mais lendários e
+  poderosos. Descubra quem são, suas habilidades únicas e o impacto que tiveram
+  em suas terras místicas.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  magia, Frieren, magos poderosos, lendas, história, fantasia, elementos
+  mágicos, cultura
+tags:
+  - magia
+  - Frieren
+  - magos poderosos
+  - lendas
+  - história
+  - fantasia
+  - elementos mágicos
+  - cultura
+data: '2025-04-08T21:27:39.649Z'
+author: Ana Luiza
 ---
 
 ## Introdução

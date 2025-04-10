@@ -1,14 +1,29 @@
 ---
-title: "Cavaleiro de Sangue, Baran: O Vilão Inesquecível da Primeira Fase"
-slug: "cavaleiro-de-sangue-baran-o-vilao-inesquecivel-da-primeira-fase"
-resumo: "Explore a complexidade de Baran, o Cavaleiro de Sangue, conhecido como um dos maiores vilões da primeira fase. Este artigo analisa suas motivações, estratégias e impacto no enredo, proporcionando uma visão detalhada sobre por que ele é considerado um antagonista memorável."
-categoria: "Análise de Personagens"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Baran, Cavaleiro de Sangue, Vilões de Fantasia, Antagonistas, Desenvolvimento de Personagem, Conflitos Épicos, Narrativa de Fantasia, Vilões Memoráveis"
-tags: ["Baran", "Cavaleiro de Sangue", "Vilões de Fantasia", "Antagonistas", "Desenvolvimento de Personagem", "Conflitos Épicos", "Narrativa de Fantasia", "Vilões Memoráveis"]
-data: "2025-04-01T01:41:21.823Z"
+title: 'Cavaleiro de Sangue, Baran: O Vilão Inesquecível da Primeira Fase'
+slug: cavaleiro-de-sangue-baran-o-vilao-inesquecivel-da-primeira-fase
+resumo: >-
+  Explore a complexidade de Baran, o Cavaleiro de Sangue, conhecido como um dos
+  maiores vilões da primeira fase. Este artigo analisa suas motivações,
+  estratégias e impacto no enredo, proporcionando uma visão detalhada sobre por
+  que ele é considerado um antagonista memorável.
+categoria: Análise de Personagens
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Baran, Cavaleiro de Sangue, Vilões de Fantasia, Antagonistas, Desenvolvimento
+  de Personagem, Conflitos Épicos, Narrativa de Fantasia, Vilões Memoráveis
+tags:
+  - Baran
+  - Cavaleiro de Sangue
+  - Vilões de Fantasia
+  - Antagonistas
+  - Desenvolvimento de Personagem
+  - Conflitos Épicos
+  - Narrativa de Fantasia
+  - Vilões Memoráveis
+data: '2025-04-01T01:41:21.823Z'
+author: Pablo Moura
 ---
 
 ## Introdução

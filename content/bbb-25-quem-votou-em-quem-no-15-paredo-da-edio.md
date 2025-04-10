@@ -1,13 +1,26 @@
 ---
-title: "BBB 25 | Detalhes da Formação do 15º Paredão"
-slug: "bbb-25-quem-votou-em-quem-no-15-paredo-da-edio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/tBpMG7EL0ik8OBDktUl4C8kzfo8=/987x0/smart/uploads/conteudo/fotos/bbb25-quem-votou-quem-15-paredao.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/93lIcjIqLGVzm3xwcJUJOqq082o=/480x360/smart/extras/conteudos/bbb25-quem-votou-quem-15-paredao-peq.jpg"
-tags: ["BBB 25", "Paredão", "Tadeu Schmidt", "Guilherme", "Maike", "Renata", "Vinícius", "Votação Popular"]
-keywords: "BBB 25, Paredão, Tadeu Schmidt, Guilherme, Maike, Renata, Vinícius, Votação Popular"
-data: "2025-04-09T03:28:31.587Z"
+title: BBB 25 | Detalhes da Formação do 15º Paredão
+slug: bbb-25-quem-votou-em-quem-no-15-paredo-da-edio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/tBpMG7EL0ik8OBDktUl4C8kzfo8=/987x0/smart/uploads/conteudo/fotos/bbb25-quem-votou-quem-15-paredao.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/93lIcjIqLGVzm3xwcJUJOqq082o=/480x360/smart/extras/conteudos/bbb25-quem-votou-quem-15-paredao-peq.jpg
+tags:
+  - BBB 25
+  - Paredão
+  - Tadeu Schmidt
+  - Guilherme
+  - Maike
+  - Renata
+  - Vinícius
+  - Votação Popular
+keywords: >-
+  BBB 25, Paredão, Tadeu Schmidt, Guilherme, Maike, Renata, Vinícius, Votação
+  Popular
+data: '2025-04-09T03:28:31.587Z'
+author: Pablo Moura
 ---
 
 Na noite desta terça-feira, o 15º paredão do Big Brother Brasil 25 foi estabelecido sob a condução do apresentador Tadeu Schmidt. A formação do paredão desta semana não contou com a Prova do Anjo devido ao modo turbo do programa, o que eliminou a possibilidade de imunização.

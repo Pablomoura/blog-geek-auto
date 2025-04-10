@@ -18,6 +18,7 @@ tags:
   - favoritos
   - enquete uol
   - paredão
+author: Ana Luiza
 ---
 
 No último Paredão do BBB 25, Eva foi eliminada, alterando significativamente a percepção do público sobre os competidores. Com 11 participantes ainda na disputa pelo prêmio milionário, a enquete realizada pelo UOL aponta Vitória Strada como a grande favorita, detendo 34,09% da preferência dos votos.

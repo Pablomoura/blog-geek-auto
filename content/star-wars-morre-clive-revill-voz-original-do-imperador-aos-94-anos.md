@@ -15,6 +15,7 @@ tags:
   - falecimento
   - demência
   - cinema
+author: Luana Souza
 ---
 
 Clive Revill, renomado ator que emprestou sua voz ao Imperador Palpatine no filme 'Star Wars Episódio 5: O Império Contra-Ataca', faleceu aos 94 anos em 11 de março. De acordo com sua filha, Kate Revill, ele enfrentava uma longa batalha contra a demência e estava internado em uma unidade de saúde em Sherman Oaks, Los Angeles.

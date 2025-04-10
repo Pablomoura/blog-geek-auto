@@ -17,6 +17,7 @@ tags:
   - festival de música
   - line-up
   - são paulo
+author: Luana Souza
 ---
 
 Shawn Mendes é o grande destaque deste sábado (29) no Lollapalooza 2025, que acontece no Autódromo de Interlagos, em São Paulo. Além dele, nomes como Alanis Morissette, Tate McRae, Marina Lima e Zedd estão entre as principais atrações.

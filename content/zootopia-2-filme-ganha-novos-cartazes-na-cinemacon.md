@@ -1,13 +1,26 @@
 ---
-title: "Zootopia 2 | Novos cartazes são revelados na CinemaCon"
-slug: "zootopia-2-filme-ganha-novos-cartazes-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/_hYCxGcd6f1_9POMjsUbcgYG8qs=/987x0/smart/uploads/conteudo/fotos/021_nTSUuCL.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/aNHLdrHsI5he0_X-gjUcodqKbbk=/480x360/smart/extras/conteudos/01_oc8ieSL.jpg"
-tags: ["Zootopia 2", "CinemaCon 2025", "Disney", "cartazes de filmes", "animais antropomórficos", "sucesso de bilheteria", "streaming Disney+", "elenco estelar"]
-keywords: "Zootopia 2, CinemaCon 2025, Disney, cartazes de filmes, animais antropomórficos, sucesso de bilheteria, streaming Disney+, elenco estelar"
-data: "2025-04-03T21:10:40.350Z"
+title: Zootopia 2 | Novos cartazes são revelados na CinemaCon
+slug: zootopia-2-filme-ganha-novos-cartazes-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/_hYCxGcd6f1_9POMjsUbcgYG8qs=/987x0/smart/uploads/conteudo/fotos/021_nTSUuCL.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/aNHLdrHsI5he0_X-gjUcodqKbbk=/480x360/smart/extras/conteudos/01_oc8ieSL.jpg
+tags:
+  - Zootopia 2
+  - CinemaCon 2025
+  - Disney
+  - cartazes de filmes
+  - animais antropomórficos
+  - sucesso de bilheteria
+  - streaming Disney+
+  - elenco estelar
+keywords: >-
+  Zootopia 2, CinemaCon 2025, Disney, cartazes de filmes, animais
+  antropomórficos, sucesso de bilheteria, streaming Disney+, elenco estelar
+data: '2025-04-03T21:10:40.350Z'
+author: Ana Luiza
 ---
 
 O aguardado filme 'Zootopia 2' teve um novo cartaz divulgado durante a CinemaCon 2025, aumentando a expectativa dos fãs para o que está por vir. A revelação ocorreu nas redes sociais do site CinePop, onde o público pode conferir a nova arte promocional.

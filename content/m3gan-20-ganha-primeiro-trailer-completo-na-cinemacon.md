@@ -1,13 +1,26 @@
 ---
-title: "M3GAN 2.0 ganha primeiro trailer completo na CinemaCon"
-slug: "m3gan-20-ganha-primeiro-trailer-completo-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/exgqTtdUWWWLOlh5EF70-MNXgoQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T211211.815.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/iouP4mijC3N2ZDFmAhlCRDQj9pQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-24T134919.493.png"
-tags: ["CinemaCon", "M3GAN 2.0", "trailer", "filme de terror", "inteligência artificial", "sequência de filme", "Universal Studios", "ação e terror"]
-keywords: "CinemaCon, M3GAN 2.0, trailer, filme de terror, inteligência artificial, sequência de filme, Universal Studios, ação e terror"
-data: "2025-04-03T00:31:44.377Z"
+title: M3GAN 2.0 ganha primeiro trailer completo na CinemaCon
+slug: m3gan-20-ganha-primeiro-trailer-completo-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/exgqTtdUWWWLOlh5EF70-MNXgoQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T211211.815.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/iouP4mijC3N2ZDFmAhlCRDQj9pQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-24T134919.493.png
+tags:
+  - CinemaCon
+  - M3GAN 2.0
+  - trailer
+  - filme de terror
+  - inteligência artificial
+  - sequência de filme
+  - Universal Studios
+  - ação e terror
+keywords: >-
+  CinemaCon, M3GAN 2.0, trailer, filme de terror, inteligência artificial,
+  sequência de filme, Universal Studios, ação e terror
+data: '2025-04-03T00:31:44.377Z'
+author: Luana Souza
 ---
 
 Durante o evento CinemaCon, a Universal Studios revelou o primeiro trailer completo de 'M3GAN 2.0', a sequência do aclamado filme de terror de 2022. O lançamento, muito aguardado, ocorre após o sucesso estrondoso do primeiro filme. O trailer foi introduzido após uma performance breve de uma orquestra, e abre com a boneca M3GAN observando pela janela enquanto corpos são removidos pela polícia. Ela declara seu compromisso contínuo em proteger sua família, enquanto sua consciência opera dentro de um robô.

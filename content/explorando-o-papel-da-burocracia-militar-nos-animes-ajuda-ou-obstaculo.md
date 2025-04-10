@@ -1,14 +1,29 @@
 ---
-title: "Explorando o Papel da Burocracia Militar nos Animes: Ajuda ou Obstáculo?"
-slug: "explorando-o-papel-da-burocracia-militar-nos-animes-ajuda-ou-obstaculo"
-resumo: "Este artigo examina como a burocracia militar é retratada em diversos animes e discute se ela serve mais como um auxílio ou um entrave para os personagens e a narrativa. Através de exemplos populares, exploramos as nuances e implicações dessa representação."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "anime, burocracia militar, desenvolvimento de personagem, narrativa, Fullmetal Alchemist, Attack on Titan, Code Geass, estrutura militar"
-tags: ["anime", "burocracia militar", "desenvolvimento de personagem", "narrativa", "Fullmetal Alchemist", "Attack on Titan", "Code Geass", "estrutura militar"]
-data: "2025-04-05T22:16:39.360Z"
+title: 'Explorando o Papel da Burocracia Militar nos Animes: Ajuda ou Obstáculo?'
+slug: explorando-o-papel-da-burocracia-militar-nos-animes-ajuda-ou-obstaculo
+resumo: >-
+  Este artigo examina como a burocracia militar é retratada em diversos animes e
+  discute se ela serve mais como um auxílio ou um entrave para os personagens e
+  a narrativa. Através de exemplos populares, exploramos as nuances e
+  implicações dessa representação.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  anime, burocracia militar, desenvolvimento de personagem, narrativa, Fullmetal
+  Alchemist, Attack on Titan, Code Geass, estrutura militar
+tags:
+  - anime
+  - burocracia militar
+  - desenvolvimento de personagem
+  - narrativa
+  - Fullmetal Alchemist
+  - Attack on Titan
+  - Code Geass
+  - estrutura militar
+data: '2025-04-05T22:16:39.360Z'
+author: Luana Souza
 ---
 
 ## Introdução

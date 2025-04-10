@@ -1,14 +1,28 @@
 ---
-title: "Os Eventos Geek Mais Importantes do Mundo e Como Participar"
-slug: "os-eventos-geek-mais-importantes-do-mundo-e-como-participar"
-resumo: "Descubra os principais eventos geek globais, desde a Comic-Con até a Gamescom, e aprenda como você pode ser parte dessas incríveis convenções. Seja você um fã de quadrinhos, videogames ou tecnologia, este guia é para você!"
-categoria: "Eventos Culturais"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen1.jpg"
-keywords: "eventos geek, Comic-Con, Gamescom, Tokyo Game Show, Dragon Con, cultura pop, cosplay, videogames"
-tags: ["eventos geek", "Comic-Con", "Gamescom", "Tokyo Game Show", "Dragon Con", "cultura pop", "cosplay", "videogames"]
-data: "2025-04-07T00:51:02.524Z"
+title: Os Eventos Geek Mais Importantes do Mundo e Como Participar
+slug: os-eventos-geek-mais-importantes-do-mundo-e-como-participar
+resumo: >-
+  Descubra os principais eventos geek globais, desde a Comic-Con até a Gamescom,
+  e aprenda como você pode ser parte dessas incríveis convenções. Seja você um
+  fã de quadrinhos, videogames ou tecnologia, este guia é para você!
+categoria: Eventos Culturais
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen1.jpg
+keywords: >-
+  eventos geek, Comic-Con, Gamescom, Tokyo Game Show, Dragon Con, cultura pop,
+  cosplay, videogames
+tags:
+  - eventos geek
+  - Comic-Con
+  - Gamescom
+  - Tokyo Game Show
+  - Dragon Con
+  - cultura pop
+  - cosplay
+  - videogames
+data: '2025-04-07T00:51:02.524Z'
+author: Pablo Moura
 ---
 
 ## Introdução aos Eventos Geek

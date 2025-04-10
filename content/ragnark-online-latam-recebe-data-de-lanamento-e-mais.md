@@ -1,13 +1,26 @@
 ---
-title: "Ragnarök Online LATAM anuncia data de lançamento e novidades"
-slug: "ragnark-online-latam-recebe-data-de-lanamento-e-mais"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/iVnC0UEUYmOJlq-UYRhXUWEViIw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T184639.330.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/AlVjOJzJHATXGmYaesx9zH1ks6k=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T184639.330.png"
-tags: ["Ragnarök Online", "MMORPG", "servidor LATAM", "lançamento de jogo", "Gravity", "itens cosméticos", "adaptações culturais", "Ragnarök 3"]
-keywords: "Ragnarök Online, MMORPG, servidor LATAM, lançamento de jogo, Gravity, itens cosméticos, adaptações culturais, Ragnarök 3"
-data: "2025-04-08T22:09:29.059Z"
+title: Ragnarök Online LATAM anuncia data de lançamento e novidades
+slug: ragnark-online-latam-recebe-data-de-lanamento-e-mais
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/iVnC0UEUYmOJlq-UYRhXUWEViIw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T184639.330.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/AlVjOJzJHATXGmYaesx9zH1ks6k=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T184639.330.png
+tags:
+  - Ragnarök Online
+  - MMORPG
+  - servidor LATAM
+  - lançamento de jogo
+  - Gravity
+  - itens cosméticos
+  - adaptações culturais
+  - Ragnarök 3
+keywords: >-
+  Ragnarök Online, MMORPG, servidor LATAM, lançamento de jogo, Gravity, itens
+  cosméticos, adaptações culturais, Ragnarök 3
+data: '2025-04-08T22:09:29.059Z'
+author: Ana Luiza
 ---
 
 Em uma recente coletiva de imprensa, a Gravity, responsável pelo renomado MMORPG Ragnarök Online, divulgou importantes atualizações sobre o futuro do jogo no Brasil e na América Latina. A grande revelação foi a data de estreia do servidor LATAM, marcada para 28 de maio.

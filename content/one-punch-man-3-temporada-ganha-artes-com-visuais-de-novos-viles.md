@@ -1,13 +1,26 @@
 ---
-title: "One-Punch Man | 3ª temporada ganha artes com visuais de novos vilões"
-slug: "one-punch-man-3-temporada-ganha-artes-com-visuais-de-novos-viles"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/6_qSu0svfnsr8A4bU1tjlVCHg4M=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T105458.710.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/wXIbn8H-oLPeI7X2Lma1MIPvkbI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T105445.071.png"
-tags: ["One-Punch Man", "terceira temporada", "novos vilões", "anime", "Kenichiro Aoki", "Kazunori Ozawa", "Netflix", "adaptação de mangá"]
-keywords: "One-Punch Man, terceira temporada, novos vilões, anime, Kenichiro Aoki, Kazunori Ozawa, Netflix, adaptação de mangá"
-data: "2025-04-04T14:10:51.000Z"
+title: One-Punch Man | 3ª temporada ganha artes com visuais de novos vilões
+slug: one-punch-man-3-temporada-ganha-artes-com-visuais-de-novos-viles
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/6_qSu0svfnsr8A4bU1tjlVCHg4M=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T105458.710.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/wXIbn8H-oLPeI7X2Lma1MIPvkbI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T105445.071.png
+tags:
+  - One-Punch Man
+  - terceira temporada
+  - novos vilões
+  - anime
+  - Kenichiro Aoki
+  - Kazunori Ozawa
+  - Netflix
+  - adaptação de mangá
+keywords: >-
+  One-Punch Man, terceira temporada, novos vilões, anime, Kenichiro Aoki,
+  Kazunori Ozawa, Netflix, adaptação de mangá
+data: '2025-04-04T14:10:51.000Z'
+author: Pablo Moura
 ---
 
 A terceira temporada de 'One-Punch Man' apresentou recentemente artes visuais que introduzem os novos antagonistas da série. Essas novidades foram compartilhadas com entusiasmo pelos fãs, ansiosos pelos próximos capítulos do anime.

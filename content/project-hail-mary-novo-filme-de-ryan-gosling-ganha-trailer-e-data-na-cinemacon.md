@@ -1,13 +1,28 @@
 ---
-title: "Project Hail Mary | Novo filme de Ryan Gosling ganha trailer e data na CinemaCon"
-slug: "project-hail-mary-novo-filme-de-ryan-gosling-ganha-trailer-e-data-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/iuMpw_-AJdz434GLEBj2ZEwcolU=/987x0/smart/uploads/conteudo/fotos/ryan-gosling.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/gaZ_9XeALXUvGPkqkS4IABsLFFk=/480x360/smart/extras/conteudos/ryan-gosling.png"
-tags: ["Ryan Gosling", "CinemaCon", "Project Hail Mary", "filme de ficção científica", "Phill Lord e Chris Miller", "trailer de filme", "exploração espacial", "Andy Weir"]
-keywords: "Ryan Gosling, CinemaCon, Project Hail Mary, filme de ficção científica, Phill Lord e Chris Miller, trailer de filme, exploração espacial, Andy Weir"
-data: "2025-04-03T04:13:56.852Z"
+title: >-
+  Project Hail Mary | Novo filme de Ryan Gosling ganha trailer e data na
+  CinemaCon
+slug: project-hail-mary-novo-filme-de-ryan-gosling-ganha-trailer-e-data-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/iuMpw_-AJdz434GLEBj2ZEwcolU=/987x0/smart/uploads/conteudo/fotos/ryan-gosling.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/gaZ_9XeALXUvGPkqkS4IABsLFFk=/480x360/smart/extras/conteudos/ryan-gosling.png
+tags:
+  - Ryan Gosling
+  - CinemaCon
+  - Project Hail Mary
+  - filme de ficção científica
+  - Phill Lord e Chris Miller
+  - trailer de filme
+  - exploração espacial
+  - Andy Weir
+keywords: >-
+  Ryan Gosling, CinemaCon, Project Hail Mary, filme de ficção científica, Phill
+  Lord e Chris Miller, trailer de filme, exploração espacial, Andy Weir
+data: '2025-04-03T04:13:56.852Z'
+author: Pablo Moura
 ---
 
 O aguardado filme 'Project Hail Mary', dirigido pela dupla Phill Lord e Chris Miller, conhecidos por 'Homem-Aranha no Aranhaverso', foi destaque na CinemaCon 2025 com a revelação de seu primeiro trailer. Este evento marcou a primeira vez que o Prime Video participou da CinemaCon, destacando a importância crescente do filme no cenário cinematográfico.

@@ -1,13 +1,26 @@
 ---
-title: "The Pitt | Segunda Temporada Estreará em Janeiro de 2026 e Promete Anualidade"
-slug: "the-pitt-2-ganha-previso-de-estreia-e-seriado-deve-ser-anual"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/X-_fMbvAzvgRulXWDlzwIzHkBHE=/987x0/smart/uploads/conteudo/fotos/02_KPHnkab.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/3fOEL1fdAwLw1fG_NUuGvO5Dzpc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_140252.png"
-tags: ["The Pitt", "segunda temporada", "série de TV", "Noah Wyle", "saúde", "medicina moderna", "cultura americana", "streaming"]
-keywords: "The Pitt, segunda temporada, série de TV, Noah Wyle, saúde, medicina moderna, cultura americana, streaming"
-data: "2025-04-09T17:09:46.119Z"
+title: The Pitt | Segunda Temporada Estreará em Janeiro de 2026 e Promete Anualidade
+slug: the-pitt-2-ganha-previso-de-estreia-e-seriado-deve-ser-anual
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/X-_fMbvAzvgRulXWDlzwIzHkBHE=/987x0/smart/uploads/conteudo/fotos/02_KPHnkab.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/3fOEL1fdAwLw1fG_NUuGvO5Dzpc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_140252.png
+tags:
+  - The Pitt
+  - segunda temporada
+  - série de TV
+  - Noah Wyle
+  - saúde
+  - medicina moderna
+  - cultura americana
+  - streaming
+keywords: >-
+  The Pitt, segunda temporada, série de TV, Noah Wyle, saúde, medicina moderna,
+  cultura americana, streaming
+data: '2025-04-09T17:09:46.119Z'
+author: Pablo Moura
 ---
 
 A aclamada série 'The Pitt' está confirmada para retornar com sua segunda temporada em janeiro de 2026. Conforme divulgado pela Variety em uma entrevista exclusiva com Noah Wyle, protagonista da série, o retorno já é muito aguardado pelos fãs. Além disso, foi revelado que a Max pretende transformar a série em uma tradição anual, planejando lançar novas temporadas a cada início de ano.

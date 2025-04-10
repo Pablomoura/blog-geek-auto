@@ -1,14 +1,26 @@
 ---
-title: "Explorando o Fandom de Solo Leveling: Principais Fóruns e Grupos no Brasil"
-slug: "explorando-o-fandom-de-solo-leveling-principais-foruns-e-grupos-no-brasil"
-resumo: "Descubra os maiores e mais ativos fóruns e grupos brasileiros dedicados ao fenômeno Solo Leveling. Saiba onde os fãs se reúnem para discutir teorias, compartilhar arte e muito mais sobre este popular manhwa."
-categoria: "Cultura Pop"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, fandom, fóruns, grupos, Brasil, manhwa, comunidade, discussões"
-tags: ["Solo Leveling", "fandom", "fóruns", "grupos", "Brasil", "manhwa", "comunidade", "discussões"]
-data: "2025-03-07T01:57:26.080Z"
+title: 'Explorando o Fandom de Solo Leveling: Principais Fóruns e Grupos no Brasil'
+slug: explorando-o-fandom-de-solo-leveling-principais-foruns-e-grupos-no-brasil
+resumo: >-
+  Descubra os maiores e mais ativos fóruns e grupos brasileiros dedicados ao
+  fenômeno Solo Leveling. Saiba onde os fãs se reúnem para discutir teorias,
+  compartilhar arte e muito mais sobre este popular manhwa.
+categoria: Cultura Pop
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: 'Solo Leveling, fandom, fóruns, grupos, Brasil, manhwa, comunidade, discussões'
+tags:
+  - Solo Leveling
+  - fandom
+  - fóruns
+  - grupos
+  - Brasil
+  - manhwa
+  - comunidade
+  - discussões
+data: '2025-03-07T01:57:26.080Z'
+author: Pablo Moura
 ---
 
 ## Introdução ao Fandom de Solo Leveling

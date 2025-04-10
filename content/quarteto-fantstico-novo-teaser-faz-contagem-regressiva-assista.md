@@ -17,6 +17,7 @@ tags:
   - contagem regressiva
   - lançamento de filme
   - trailer
+author: Luana Souza
 ---
 
 A Marvel Entertainment divulgou na última terça-feira (25) um novo teaser de 'Quarteto Fantástico', marcando a contagem regressiva de quatro meses até o lançamento do filme, previsto para 25 de julho. O vídeo apresenta cenas já conhecidas do trailer anterior, reforçando a proximidade do lançamento.

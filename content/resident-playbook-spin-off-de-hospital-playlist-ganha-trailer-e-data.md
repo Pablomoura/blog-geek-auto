@@ -14,6 +14,7 @@ tags:
   - série coreana
   - netflix
   - trailer inédito
+author: Ana Luiza
 ---
 
 A espera por Resident Playbook está chegando ao fim. Marcado inicialmente para março do ano passado, o lançamento foi adiado devido a uma crise médica na Coreia do Sul, com demissões em massa de profissionais da saúde em protesto a políticas governamentais. Agora, a Netflix confirmou que a série estreará em 21 de abril.

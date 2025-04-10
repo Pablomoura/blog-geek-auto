@@ -15,6 +15,7 @@ tags:
   - são paulo
   - produção teatral
   - criança amaldiçoada
+author: Luana Souza
 ---
 
 Foi anunciado nesta terça-feira (25) que a estreia da peça 'Harry Potter e a Criança Amaldiçoada' no Brasil foi adiada. A produtora global cancelou o contrato com a VME, responsável pela produção local em São Paulo.

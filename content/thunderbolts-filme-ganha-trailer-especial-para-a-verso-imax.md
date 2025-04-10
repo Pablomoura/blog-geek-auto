@@ -1,13 +1,25 @@
 ---
-title: "Thunderbolts | Filme ganha trailer especial para a versão IMAX"
-slug: "thunderbolts-filme-ganha-trailer-especial-para-a-verso-imax"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/-JVK4QE3ps0?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/sxoil7WEWVH8xYkyW2uL9z2_PLk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_164128.png"
-tags: ["Thunderbolts", "IMAX", "Marvel", "MCU", "Filme de super-heróis", "Anti-heróis", "Fase 6 do MCU", "Estreias 2025"]
-keywords: "Thunderbolts, IMAX, Marvel, MCU, Filme de super-heróis, Anti-heróis, Fase 6 do MCU, Estreias 2025"
-data: "2025-04-09T20:12:34.053Z"
+title: Thunderbolts | Filme ganha trailer especial para a versão IMAX
+slug: thunderbolts-filme-ganha-trailer-especial-para-a-verso-imax
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/-JVK4QE3ps0?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/sxoil7WEWVH8xYkyW2uL9z2_PLk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_164128.png
+tags:
+  - Thunderbolts
+  - IMAX
+  - Marvel
+  - MCU
+  - Filme de super-heróis
+  - Anti-heróis
+  - Fase 6 do MCU
+  - Estreias 2025
+keywords: >-
+  Thunderbolts, IMAX, Marvel, MCU, Filme de super-heróis, Anti-heróis, Fase 6 do
+  MCU, Estreias 2025
+data: '2025-04-09T20:12:34.053Z'
+author: Ana Luiza
 ---
 
 À medida que a data de lançamento se aproxima, a Marvel intensifica a divulgação de seu novo filme, Thunderbolts, que acaba de receber um trailer especial para a versão IMAX. Este novo trailer não apenas destaca cenas intensas de ação, mas também oferece um vislumbre dos bastidores, mostrando interações entre o elenco e a equipe de produção, com destaque para a diretora Florence Pugh, Sebastian Stan e o diretor Jake Scherier.

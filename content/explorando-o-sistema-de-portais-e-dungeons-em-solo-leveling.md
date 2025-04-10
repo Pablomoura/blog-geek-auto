@@ -1,14 +1,28 @@
 ---
-title: "Explorando o Sistema de Portais e Dungeons em Solo Leveling"
-slug: "explorando-o-sistema-de-portais-e-dungeons-em-solo-leveling"
-resumo: "Este artigo detalha o intrigante sistema de portais e dungeons no universo de Solo Leveling, explorando como eles funcionam, os tipos de dungeons, e a importância dos caçadores."
-categoria: "Literatura e Fantasia"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, Portais, Dungeons, Caçadores, Webtoon, Light Novel, Fantasia, Monstros"
-tags: ["Solo Leveling", "Portais", "Dungeons", "Caçadores", "Webtoon", "Light Novel", "Fantasia", "Monstros"]
-data: "2025-04-03T01:35:17.194Z"
+title: Explorando o Sistema de Portais e Dungeons em Solo Leveling
+slug: explorando-o-sistema-de-portais-e-dungeons-em-solo-leveling
+resumo: >-
+  Este artigo detalha o intrigante sistema de portais e dungeons no universo de
+  Solo Leveling, explorando como eles funcionam, os tipos de dungeons, e a
+  importância dos caçadores.
+categoria: Literatura e Fantasia
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, Portais, Dungeons, Caçadores, Webtoon, Light Novel, Fantasia,
+  Monstros
+tags:
+  - Solo Leveling
+  - Portais
+  - Dungeons
+  - Caçadores
+  - Webtoon
+  - Light Novel
+  - Fantasia
+  - Monstros
+data: '2025-04-03T01:35:17.194Z'
+author: Ana Luiza
 ---
 
 ## Introdução ao Mundo de Solo Leveling

@@ -1,14 +1,28 @@
 ---
-title: "Da Página à Tela: Explorando as Diferenças entre Novels e Animes"
-slug: "da-pagina-a-tela-explorando-as-diferencas-entre-novels-e-animes"
-resumo: "Este artigo detalha as transformações que ocorrem quando uma novel é adaptada para anime, explorando os aspectos de enredo, desenvolvimento de personagens, efeitos visuais e sonoros, além das razões por trás das mudanças criativas."
-categoria: "Cultura Pop"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "anime, novel, adaptação, enredo, personagens, efeitos visuais, trilha sonora, audiência"
-tags: ["anime", "novel", "adaptação", "enredo", "personagens", "efeitos visuais", "trilha sonora", "audiência"]
-data: "2025-04-04T01:48:25.510Z"
+title: 'Da Página à Tela: Explorando as Diferenças entre Novels e Animes'
+slug: da-pagina-a-tela-explorando-as-diferencas-entre-novels-e-animes
+resumo: >-
+  Este artigo detalha as transformações que ocorrem quando uma novel é adaptada
+  para anime, explorando os aspectos de enredo, desenvolvimento de personagens,
+  efeitos visuais e sonoros, além das razões por trás das mudanças criativas.
+categoria: Cultura Pop
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  anime, novel, adaptação, enredo, personagens, efeitos visuais, trilha sonora,
+  audiência
+tags:
+  - anime
+  - novel
+  - adaptação
+  - enredo
+  - personagens
+  - efeitos visuais
+  - trilha sonora
+  - audiência
+data: '2025-04-04T01:48:25.510Z'
+author: Ana Luiza
 ---
 
 ## Introdução

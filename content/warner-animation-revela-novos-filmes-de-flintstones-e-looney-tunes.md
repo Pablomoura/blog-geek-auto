@@ -18,6 +18,7 @@ tags:
   - cinemacon 2025
   - filmes animados
   - warner bros.
+author: Luana Souza
 ---
 
 No evento CinemaCon 2025, a Warner Animation, uma divisão da Warner Bros., apresentou detalhes emocionantes sobre seus próximos projetos. Segundo cobertura do portal Omelete, que esteve presente no evento, o estúdio preparou uma apresentação vibrante que incluiu um clipe compilando desde os clássicos como Pernalonga até os mais recentes filmes da franquia LEGO, bem como futuros lançamentos.

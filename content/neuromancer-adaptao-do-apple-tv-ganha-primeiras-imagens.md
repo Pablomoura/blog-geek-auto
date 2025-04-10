@@ -1,13 +1,26 @@
 ---
-title: "Neuromancer | Adaptação do Apple TV+ ganha primeiras imagens"
-slug: "neuromancer-adaptao-do-apple-tv-ganha-primeiras-imagens"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/2c_IyhvgFUo8ATXjMQfrcYzPH0E=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-07T124221.184.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0Z1MW6sSGJ-0kCJ5dHo6z_nULBI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T124211.131.png"
-tags: ["Neuromancer", "Apple TV+", "ficção científica", "ciberpunk", "hacker", "espionagem digital", "adaptação literária", "elenco estrelado"]
-keywords: "Neuromancer, Apple TV+, ficção científica, ciberpunk, hacker, espionagem digital, adaptação literária, elenco estrelado"
-data: "2025-04-07T16:13:48.312Z"
+title: Neuromancer | Adaptação do Apple TV+ ganha primeiras imagens
+slug: neuromancer-adaptao-do-apple-tv-ganha-primeiras-imagens
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/2c_IyhvgFUo8ATXjMQfrcYzPH0E=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-07T124221.184.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0Z1MW6sSGJ-0kCJ5dHo6z_nULBI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T124211.131.png
+tags:
+  - Neuromancer
+  - Apple TV+
+  - ficção científica
+  - ciberpunk
+  - hacker
+  - espionagem digital
+  - adaptação literária
+  - elenco estrelado
+keywords: >-
+  Neuromancer, Apple TV+, ficção científica, ciberpunk, hacker, espionagem
+  digital, adaptação literária, elenco estrelado
+data: '2025-04-07T16:13:48.312Z'
+author: Luana Souza
 ---
 
 A aguardada série do Apple TV+ que adapta o icônico Neuromancer finalmente teve suas primeiras imagens oficiais divulgadas. A produção, que promete ser um marco no gênero de ficção científica, inclui no elenco nomes como Max Irons, André De Shields e Marc Menchaca, que foram confirmados anteriormente. Recentemente, foi anunciado que Peter Sarsgaard também fará parte da série, aumentando as expectativas em torno do projeto.

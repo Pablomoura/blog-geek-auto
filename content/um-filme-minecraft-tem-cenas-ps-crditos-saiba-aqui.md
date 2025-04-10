@@ -1,13 +1,26 @@
 ---
-title: "Descubra as Cenas Pós-Créditos de 'Um Filme Minecraft'"
-slug: "um-filme-minecraft-tem-cenas-ps-crditos-saiba-aqui"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Fi6JmBNvs70ptrkViMK1amTiVto=/987x0/smart/uploads/conteudo/fotos/mine_fEZ6gDb.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fUHJJewi9HKY4rebILh5TdWer-c=/480x360/smart/extras/conteudos/mine_Bo7igtf.jpg"
-tags: ["Minecraft", "cenas pós-créditos", "Jack Black", "Jason Momoa", "cinema", "videogames", "surpresas nos créditos", "estreia de filme"]
-keywords: "Minecraft, cenas pós-créditos, Jack Black, Jason Momoa, cinema, videogames, surpresas nos créditos, estreia de filme"
-data: "2025-04-05T10:09:01.505Z"
+title: Descubra as Cenas Pós-Créditos de 'Um Filme Minecraft'
+slug: um-filme-minecraft-tem-cenas-ps-crditos-saiba-aqui
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Fi6JmBNvs70ptrkViMK1amTiVto=/987x0/smart/uploads/conteudo/fotos/mine_fEZ6gDb.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fUHJJewi9HKY4rebILh5TdWer-c=/480x360/smart/extras/conteudos/mine_Bo7igtf.jpg
+tags:
+  - Minecraft
+  - cenas pós-créditos
+  - Jack Black
+  - Jason Momoa
+  - cinema
+  - videogames
+  - surpresas nos créditos
+  - estreia de filme
+keywords: >-
+  Minecraft, cenas pós-créditos, Jack Black, Jason Momoa, cinema, videogames,
+  surpresas nos créditos, estreia de filme
+data: '2025-04-05T10:09:01.505Z'
+author: Luana Souza
 ---
 
 O aguardado 'Um Filme Minecraft' chegou aos cinemas, trazendo não apenas uma trama envolvente com a participação de Jack Black e Jason Momoa, mas também duas cenas extras que são exibidas durante os créditos. Estas sequências adicionam elementos interessantes à narrativa e são imperdíveis para os fãs.

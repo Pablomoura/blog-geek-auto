@@ -1,13 +1,26 @@
 ---
-title: "CCXP25 celebra 20 anos de Supernatural com presença de estrelas da série"
-slug: "ccxp25-ter-astros-de-supernatural-para-celebrar-aniversrio-de-20-anos-da-srie"
-categoria: "CCXP"
-midia: "https://cdn.ome.lt/03S2isJJzQNVzL1WIKEvMACTfqw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_1_JdUOhDr.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/G0NfoyjlfJlFroGNMCiqHaE2LMg=/480x360/smart/extras/conteudos/Design_sem_nome_1_GPyD6pj.jpg"
-tags: ["CCXP25", "Supernatural", "Misha Collins", "Kathryn Newton", "painéis de série", "interação com fãs", "venda de ingressos", "aniversário de série"]
-keywords: "CCXP25, Supernatural, Misha Collins, Kathryn Newton, painéis de série, interação com fãs, venda de ingressos, aniversário de série"
-data: "2025-04-07T16:14:27.419Z"
+title: CCXP25 celebra 20 anos de Supernatural com presença de estrelas da série
+slug: ccxp25-ter-astros-de-supernatural-para-celebrar-aniversrio-de-20-anos-da-srie
+categoria: CCXP
+midia: >-
+  https://cdn.ome.lt/03S2isJJzQNVzL1WIKEvMACTfqw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_1_JdUOhDr.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/G0NfoyjlfJlFroGNMCiqHaE2LMg=/480x360/smart/extras/conteudos/Design_sem_nome_1_GPyD6pj.jpg
+tags:
+  - CCXP25
+  - Supernatural
+  - Misha Collins
+  - Kathryn Newton
+  - painéis de série
+  - interação com fãs
+  - venda de ingressos
+  - aniversário de série
+keywords: >-
+  CCXP25, Supernatural, Misha Collins, Kathryn Newton, painéis de série,
+  interação com fãs, venda de ingressos, aniversário de série
+data: '2025-04-07T16:14:27.419Z'
+author: Ana Luiza
 ---
 
 A CCXP25, marcada para este ano, promoverá um evento especial em homenagem aos 20 anos da série Supernatural. Chamado Road to Hell, o evento reunirá atores como Misha Collins, Kathryn Newton, Jim Beaver, Rob Benedict e Richard Speight Jr. Durante o evento, os fãs terão a oportunidade de interagir com os atores por meio de fotos, selfies e autógrafos, além de participarem de atividades exclusivas que serão divulgadas em breve. Um pacote especial estará disponível para aqueles que desejam uma experiência completa.

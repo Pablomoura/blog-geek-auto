@@ -15,6 +15,7 @@ tags:
   - seleção brasileira
   - jogo brasil argentina
   - eliminatórias da copa
+author: Ana Luiza
 ---
 
 O Big Brother Brasil 25 será transmitido excepcionalmente às 23h (horário de Brasília) nesta terça-feira, 25 de março, devido à partida de futebol entre Brasil e Argentina pelas Eliminatórias da Copa. A transmissão ocorrerá logo após o jogo.

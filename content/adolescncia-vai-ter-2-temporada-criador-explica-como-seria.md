@@ -15,6 +15,7 @@ tags:
   - stephen graham
   - minissérie
   - expansão de universo
+author: Ana Luiza
 ---
 
 A minissérie Adolescência conquistou rapidamente um lugar de destaque entre os lançamentos recentes da Netflix. O criador da série, Stephen Graham, juntamente com a atriz Hannah Walters, sua esposa, discutiram sobre a possibilidade de expandir o universo da série em novas produções durante uma entrevista com a Variety. Ambos descartaram a ideia de um prelúdio, focando na possibilidade de explorar novas narrativas dentro da temática da natureza humana.

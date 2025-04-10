@@ -1,13 +1,26 @@
 ---
-title: "Pierce Brosnan apoia Aaron Taylor-Johnson para o papel de James Bond"
-slug: "pierce-brosnan-quer-aaron-taylor-johnson-como-novo-007"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/TkcIXs_Zs9YOHrNCoA38-Fndl4U=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T115203.733.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/jzOcIszhSSEnvo2avSS9pNBT-ds=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T115148.008.png"
-tags: ["Pierce Brosnan", "Aaron Taylor-Johnson", "James Bond", "007", "Amazon", "Eon Productions", "Ian Fleming", "franquia cinematográfica"]
-keywords: "Pierce Brosnan, Aaron Taylor-Johnson, James Bond, 007, Amazon, Eon Productions, Ian Fleming, franquia cinematográfica"
-data: "2025-04-04T15:11:37.078Z"
+title: Pierce Brosnan apoia Aaron Taylor-Johnson para o papel de James Bond
+slug: pierce-brosnan-quer-aaron-taylor-johnson-como-novo-007
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/TkcIXs_Zs9YOHrNCoA38-Fndl4U=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T115203.733.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/jzOcIszhSSEnvo2avSS9pNBT-ds=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T115148.008.png
+tags:
+  - Pierce Brosnan
+  - Aaron Taylor-Johnson
+  - James Bond
+  - '007'
+  - Amazon
+  - Eon Productions
+  - Ian Fleming
+  - franquia cinematográfica
+keywords: >-
+  Pierce Brosnan, Aaron Taylor-Johnson, James Bond, 007, Amazon, Eon
+  Productions, Ian Fleming, franquia cinematográfica
+data: '2025-04-04T15:11:37.078Z'
+author: Ana Luiza
 ---
 
 Enquanto o futuro da franquia 007 permanece incerto, Pierce Brosnan, o renomado ator irlandês que deu vida a James Bond em quatro ocasiões, expressou seu apoio para que Aaron Taylor-Johnson assuma o icônico papel do espião. Em recente entrevista concedida ao Deadline, Brosnan relembrou sua experiência com Taylor-Johnson no filme 'Em Busca de Uma Nova Chance' (2009), destacando a paixão e energia que o jovem ator trouxe ao set. 'Se ele quisesse, ele seria excelente como Bond', afirmou Brosnan.

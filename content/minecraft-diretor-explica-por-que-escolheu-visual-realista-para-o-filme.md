@@ -1,13 +1,25 @@
 ---
-title: "Minecraft | Diretor Jared Hess Escolhe Realismo para o Filme"
-slug: "minecraft-diretor-explica-por-que-escolheu-visual-realista-para-o-filme"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/Guzfs8wnJBc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Sze-Ctk_d5F_J5Adw__YyF8mAHg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_121806.png"
-tags: ["Minecraft", "filme realista", "Jared Hess", "Jason Momoa", "Jack Black", "adaptação de jogo", "criaturas cúbicas", "Overworld"]
-keywords: "Minecraft, filme realista, Jared Hess, Jason Momoa, Jack Black, adaptação de jogo, criaturas cúbicas, Overworld"
-data: "2025-04-09T16:13:24.599Z"
+title: Minecraft | Diretor Jared Hess Escolhe Realismo para o Filme
+slug: minecraft-diretor-explica-por-que-escolheu-visual-realista-para-o-filme
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/Guzfs8wnJBc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Sze-Ctk_d5F_J5Adw__YyF8mAHg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_121806.png
+tags:
+  - Minecraft
+  - filme realista
+  - Jared Hess
+  - Jason Momoa
+  - Jack Black
+  - adaptação de jogo
+  - criaturas cúbicas
+  - Overworld
+keywords: >-
+  Minecraft, filme realista, Jared Hess, Jason Momoa, Jack Black, adaptação de
+  jogo, criaturas cúbicas, Overworld
+data: '2025-04-09T16:13:24.599Z'
+author: Ana Luiza
 ---
 
 Em entrevista ao DiscussingFilm, Jared Hess, diretor do filme 'Um Filme Minecraft', detalhou sua escolha por um cenário mais realista na adaptação cinematográfica do famoso jogo de construção e sobrevivência. Segundo Hess, o objetivo era conferir uma textura orgânica e realista ao universo do filme, mantendo a essência cúbica das criaturas. 'Estas são criaturas reais, então precisávamos que elas tivessem músculos, mas ainda preservando a forma cúbica característica', explicou Hess.

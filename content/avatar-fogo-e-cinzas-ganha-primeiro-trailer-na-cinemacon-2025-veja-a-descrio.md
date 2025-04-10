@@ -1,13 +1,28 @@
 ---
-title: "Avatar: Fogo e Cinzas ganha primeiro trailer na CinemaCon 2025; veja a descrição"
-slug: "avatar-fogo-e-cinzas-ganha-primeiro-trailer-na-cinemacon-2025-veja-a-descrio"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/WZX1DSy6DnQx5mqMCKGp080mx_A=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_12_vAr4XkE.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/1861KDw986gfKZ9kLqhQYTp5xC8=/480x360/smart/extras/conteudos/01_KtR6KeF.jpg"
-tags: ["Avatar: Fogo e Cinzas", "CinemaCon 2025", "James Cameron", "Pandora", "tribo Na'vi", "Povo das Cinzas", "Jake Sully", "saga Avatar"]
-keywords: "Avatar: Fogo e Cinzas, CinemaCon 2025, James Cameron, Pandora, tribo Na'vi, Povo das Cinzas, Jake Sully, saga Avatar"
-data: "2025-04-04T00:44:17.995Z"
+title: >-
+  Avatar: Fogo e Cinzas ganha primeiro trailer na CinemaCon 2025; veja a
+  descrição
+slug: avatar-fogo-e-cinzas-ganha-primeiro-trailer-na-cinemacon-2025-veja-a-descrio
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/WZX1DSy6DnQx5mqMCKGp080mx_A=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_12_vAr4XkE.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/1861KDw986gfKZ9kLqhQYTp5xC8=/480x360/smart/extras/conteudos/01_KtR6KeF.jpg
+tags:
+  - 'Avatar: Fogo e Cinzas'
+  - CinemaCon 2025
+  - James Cameron
+  - Pandora
+  - tribo Na'vi
+  - Povo das Cinzas
+  - Jake Sully
+  - saga Avatar
+keywords: >-
+  Avatar: Fogo e Cinzas, CinemaCon 2025, James Cameron, Pandora, tribo Na'vi,
+  Povo das Cinzas, Jake Sully, saga Avatar
+data: '2025-04-04T00:44:17.995Z'
+author: Ana Luiza
 ---
 
 Durante a CinemaCon 2025, foi revelado o primeiro trailer de 'Avatar: Fogo e Cinzas', o terceiro filme da célebre franquia dirigida por James Cameron. O trailer inicia com uma imersão nas águas de Pandora, reencontrando a tribo aquática introduzida em 'O Caminho da Água'. A seguir, a cena sobe aos céus, apresentando a Tribo dos Vento entre as montanhas voadoras e barcos aéreos de design impressionante.

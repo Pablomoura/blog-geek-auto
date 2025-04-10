@@ -1,13 +1,26 @@
 ---
-title: "As Marvels | Diretora revela mudanças significativas durante as filmagens"
-slug: "as-marvels-estdio-mudou-filme-completamente-durante-filmagens-diz-diretora"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/TtoiJUtDH67g_MuvLVUU8TvIs0w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T101859.165.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/xvnnG01yyBmdK-z7FEkKcFV1gHc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T101848.545.png"
-tags: ["MCU", "As Marvels", "Nia DaCosta", "Thunderbolts", "Capitão América", "Quarteto Fantástico", "bilheteria", "mudanças no filme"]
-keywords: "MCU, As Marvels, Nia DaCosta, Thunderbolts, Capitão América, Quarteto Fantástico, bilheteria, mudanças no filme"
-data: "2025-04-04T14:13:53.033Z"
+title: As Marvels | Diretora revela mudanças significativas durante as filmagens
+slug: as-marvels-estdio-mudou-filme-completamente-durante-filmagens-diz-diretora
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/TtoiJUtDH67g_MuvLVUU8TvIs0w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T101859.165.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/xvnnG01yyBmdK-z7FEkKcFV1gHc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T101848.545.png
+tags:
+  - MCU
+  - As Marvels
+  - Nia DaCosta
+  - Thunderbolts
+  - Capitão América
+  - Quarteto Fantástico
+  - bilheteria
+  - mudanças no filme
+keywords: >-
+  MCU, As Marvels, Nia DaCosta, Thunderbolts, Capitão América, Quarteto
+  Fantástico, bilheteria, mudanças no filme
+data: '2025-04-04T14:13:53.033Z'
+author: Ana Luiza
 ---
 
 O filme As Marvels, parte do universo cinematográfico da Marvel (MCU), não alcançou o sucesso esperado nas bilheterias, e a diretora Nia DaCosta recentemente compartilhou insights que podem esclarecer as razões por trás desse resultado. Em uma entrevista ao Deadline, DaCosta explicou que o filme sofreu alterações substanciais durante as filmagens, divergindo significativamente do seu conceito original. 'Eles tinham uma data definida e estavam preparando certos elementos, o que me obrigou a mergulhar de cabeça no processo', comentou DaCosta. Ela acrescentou que, em determinado momento, percebeu que o filme estava se desviando de sua visão inicial, transformando-se em uma experiência de aprendizado e fortalecimento de suas habilidades como cineasta.

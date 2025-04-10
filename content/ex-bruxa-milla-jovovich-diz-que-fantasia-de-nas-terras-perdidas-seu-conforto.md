@@ -1,13 +1,28 @@
 ---
-title: "Milla Jovovich em 'Nas Terras Perdidas': A Confortável Fantasia de Uma Ex-Bruxa"
-slug: "ex-bruxa-milla-jovovich-diz-que-fantasia-de-nas-terras-perdidas-seu-conforto"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/-aQh38DFb7NpmURl99QATjyY_eo=/987x0/smart/uploads/conteudo/fotos/inthelostlandstopo.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/HF0kscGuHNWPUc1iHdRu-esdz-w=/480x360/smart/extras/conteudos/inthelostlandstb.jpg"
-tags: ["Milla Jovovich", "George R.R. Martin", "fantasia", "bruxa", "cinema", "adaptação literária", "ação", "Nas Terras Perdidas"]
-keywords: "Milla Jovovich, George R.R. Martin, fantasia, bruxa, cinema, adaptação literária, ação, Nas Terras Perdidas"
-data: "2025-04-09T19:08:48.131Z"
+title: >-
+  Milla Jovovich em 'Nas Terras Perdidas': A Confortável Fantasia de Uma
+  Ex-Bruxa
+slug: ex-bruxa-milla-jovovich-diz-que-fantasia-de-nas-terras-perdidas-seu-conforto
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/-aQh38DFb7NpmURl99QATjyY_eo=/987x0/smart/uploads/conteudo/fotos/inthelostlandstopo.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/HF0kscGuHNWPUc1iHdRu-esdz-w=/480x360/smart/extras/conteudos/inthelostlandstb.jpg
+tags:
+  - Milla Jovovich
+  - George R.R. Martin
+  - fantasia
+  - bruxa
+  - cinema
+  - adaptação literária
+  - ação
+  - Nas Terras Perdidas
+keywords: >-
+  Milla Jovovich, George R.R. Martin, fantasia, bruxa, cinema, adaptação
+  literária, ação, Nas Terras Perdidas
+data: '2025-04-09T19:08:48.131Z'
+author: Ana Luiza
 ---
 
 A adaptação cinematográfica de 'Nas Terras Perdidas', baseada no conto de George R.R. Martin, famoso autor de 'As Crônicas de Gelo e Fogo', traz Milla Jovovich em mais um papel marcante. Sob a direção de Paul W.S. Anderson, com quem Jovovich já colaborou em diversos projetos como 'Resident Evil', 'Os Três Mosqueteiros' e 'Monster Hunter', a atriz se aventura novamente em um universo de fantasia e ação.

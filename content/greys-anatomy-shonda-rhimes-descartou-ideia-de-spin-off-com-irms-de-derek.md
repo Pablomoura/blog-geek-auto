@@ -17,6 +17,7 @@ tags:
   - irmãs shepherd
   - séries de tv
   - private practice
+author: Pablo Moura
 ---
 
 Com duas décadas de sucesso, 'Grey's Anatomy' consolidou-se como um dos maiores fenômenos televisivos dos Estados Unidos, gerando spin-offs de sucesso como 'Private Practice' e 'Station 19'. No entanto, o universo da série poderia ter se expandido ainda mais. 

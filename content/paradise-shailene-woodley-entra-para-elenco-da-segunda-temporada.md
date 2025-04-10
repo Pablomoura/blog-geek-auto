@@ -18,6 +18,7 @@ tags:
   - elenco
   - série de tv
   - deadline
+author: Pablo Moura
 ---
 
 A produção da segunda temporada de 'Paradise' avança a todo vapor, e novos detalhes sobre o elenco começam a emergir. Segundo informações do Deadline, Shailene Woodley, conhecida por seus papéis em 'Big Little Lies' e na franquia 'Divergente', foi escalada para um papel recorrente e significativo na próxima temporada deste sucesso de crítica.

@@ -1,13 +1,26 @@
 ---
-title: "Superman | Produtos oficiais revelam detalhes de personagens icônicos"
-slug: "superman-produtos-oficiais-mostram-metamorfo-lex-luthor-e-mais"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/3E54xdtMJfsxXon3ew9jDYWMvy8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T183615.622.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4g-z3PNlI2hQohVzABIYLuel30E=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T183615.622.png"
-tags: ["Superman", "produtos oficiais", "James Gunn", "DCU", "Lex Luthor", "Metamorfo", "Sr. Incrível", "personagens DC"]
-keywords: "Superman, produtos oficiais, James Gunn, DCU, Lex Luthor, Metamorfo, Sr. Incrível, personagens DC"
-data: "2025-04-04T22:09:37.324Z"
+title: Superman | Produtos oficiais revelam detalhes de personagens icônicos
+slug: superman-produtos-oficiais-mostram-metamorfo-lex-luthor-e-mais
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/3E54xdtMJfsxXon3ew9jDYWMvy8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T183615.622.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4g-z3PNlI2hQohVzABIYLuel30E=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T183615.622.png
+tags:
+  - Superman
+  - produtos oficiais
+  - James Gunn
+  - DCU
+  - Lex Luthor
+  - Metamorfo
+  - Sr. Incrível
+  - personagens DC
+keywords: >-
+  Superman, produtos oficiais, James Gunn, DCU, Lex Luthor, Metamorfo, Sr.
+  Incrível, personagens DC
+data: '2025-04-04T22:09:37.324Z'
+author: Ana Luiza
 ---
 
 Recentemente, foram divulgados na internet produtos oficiais relacionados ao novo filme de Superman, proporcionando aos fãs uma visão mais clara dos personagens que foram brevemente introduzidos nos trailers já lançados. Entre os itens revelados, destacam-se colecionáveis representando não só o Superman e Lex Luthor, mas também Metamorfo e o Sr. Incrível, este último fielmente retratado com seu visual característico dos quadrinhos, apresentando cores distintas em diferentes partes do corpo.

@@ -1,13 +1,28 @@
 ---
-title: "Minecraft | Polícia interrompe exibição de filme devido à empolgação excessiva dos jovens"
-slug: "minecraft-polcia-expulsa-jovens-de-sesso-por-cena-do-chicken-jockey"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/YrL2wKtcbxuwujyn8snHRydT4us=/987x0/smart/uploads/conteudo/fotos/minecraftfilmechickenjockey.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7eBr9_l2NxA6SWxtvs_KGP292To=/480x360/smart/extras/conteudos/minecraftfilmechickenjockey.jpg"
-tags: ["Minecraft", "filme", "polícia", "cinema", "Jason Momoa", "Jack Black", "distúrbios", "videogames"]
-keywords: "Minecraft, filme, polícia, cinema, Jason Momoa, Jack Black, distúrbios, videogames"
-data: "2025-04-06T19:05:53.245Z"
+title: >-
+  Minecraft | Polícia interrompe exibição de filme devido à empolgação excessiva
+  dos jovens
+slug: minecraft-polcia-expulsa-jovens-de-sesso-por-cena-do-chicken-jockey
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/YrL2wKtcbxuwujyn8snHRydT4us=/987x0/smart/uploads/conteudo/fotos/minecraftfilmechickenjockey.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7eBr9_l2NxA6SWxtvs_KGP292To=/480x360/smart/extras/conteudos/minecraftfilmechickenjockey.jpg
+tags:
+  - Minecraft
+  - filme
+  - polícia
+  - cinema
+  - Jason Momoa
+  - Jack Black
+  - distúrbios
+  - videogames
+keywords: >-
+  Minecraft, filme, polícia, cinema, Jason Momoa, Jack Black, distúrbios,
+  videogames
+data: '2025-04-06T19:05:53.245Z'
+author: Ana Luiza
 ---
 
 A animação do público com 'Um Filme Minecraft' tem alcançado patamares surpreendentes. Nos Estados Unidos, durante uma sessão do filme no último sábado, a polícia foi chamada para intervir após alguns jovens espectadores causarem distúrbios no cinema. O incidente ocorreu quando uma cena envolvendo um 'chicken jockey' — um zumbi criança montado em uma galinha, muito conhecido entre os jogadores do jogo de 2011 — apareceu na tela, levando a plateia ao delírio.

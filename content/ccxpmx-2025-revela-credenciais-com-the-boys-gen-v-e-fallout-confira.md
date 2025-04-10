@@ -17,6 +17,7 @@ tags:
   - gen v
   - fallout
   - credenciais
+author: Pablo Moura
 ---
 
 A CCXP MX, em parceria recente com o Prime Video, divulgou nesta quinta-feira (27) as artes das credenciais para sua edição de 2025, destacando séries populares como The Boys, Gen V e Fallout. As imagens prometem encantar os fãs ansiosos pelo evento.

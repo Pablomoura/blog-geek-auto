@@ -1,13 +1,26 @@
 ---
-title: "BBB 25 | Confira os votos do 14º Paredão do reality"
-slug: "bbb-25-quem-votou-em-quem-no-14-paredo-da-edio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/ue4vA3j5Ep_Z2sVcY4YrbL_Am2E=/987x0/smart/uploads/conteudo/fotos/bbb25-quem-votou-quem-14-paredao.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/9ifokMH231qsSq20Rl1bpLx6Cx0=/480x360/smart/extras/conteudos/bbb25-quem-votou-quem-14-paredao-peq.jpg"
-tags: ["BBB 25", "Paredão", "Tadeu Schmidt", "Diego Hypólito", "João Gabriel", "Vitória Strada", "Votação", "Globo"]
-keywords: "BBB 25, Paredão, Tadeu Schmidt, Diego Hypólito, João Gabriel, Vitória Strada, Votação, Globo"
-data: "2025-04-07T04:12:54.688Z"
+title: BBB 25 | Confira os votos do 14º Paredão do reality
+slug: bbb-25-quem-votou-em-quem-no-14-paredo-da-edio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/ue4vA3j5Ep_Z2sVcY4YrbL_Am2E=/987x0/smart/uploads/conteudo/fotos/bbb25-quem-votou-quem-14-paredao.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/9ifokMH231qsSq20Rl1bpLx6Cx0=/480x360/smart/extras/conteudos/bbb25-quem-votou-quem-14-paredao-peq.jpg
+tags:
+  - BBB 25
+  - Paredão
+  - Tadeu Schmidt
+  - Diego Hypólito
+  - João Gabriel
+  - Vitória Strada
+  - Votação
+  - Globo
+keywords: >-
+  BBB 25, Paredão, Tadeu Schmidt, Diego Hypólito, João Gabriel, Vitória Strada,
+  Votação, Globo
+data: '2025-04-07T04:12:54.688Z'
+author: Ana Luiza
 ---
 
 A formação do 14º paredão do BBB 25 aconteceu na noite deste domingo, dia 06 de abril, seguindo a dinâmica apresentada por Tadeu Schmidt. Sem a Prova do Anjo devido ao modo turbo, ninguém recebeu imunidade esta semana. Maike, o líder da semana, indicou Diego Hypólito diretamente para o paredão. Na votação da casa, João Gabriel e Vitória Strada foram os mais votados pelos colegas, completando assim a berlinda, sem chance de escape pela Prova Bate-Volta.

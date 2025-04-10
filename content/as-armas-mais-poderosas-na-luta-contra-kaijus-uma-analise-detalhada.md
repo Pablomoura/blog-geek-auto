@@ -1,14 +1,29 @@
 ---
-title: "As Armas Mais Poderosas na Luta Contra Kaijus: Uma Análise Detalhada"
-slug: "as-armas-mais-poderosas-na-luta-contra-kaijus-uma-analise-detalhada"
-resumo: "Este artigo explora as armas mais eficazes usadas na ficção para combater os gigantes e temíveis kaijus. Desde robôs gigantes a armas bioquímicas, descubra como a humanidade se defende dessas ameaças monstruosas nas telas e páginas dos livros."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "kaijus, armas, robôs gigantes, bioquímica, tecnologia, misticismo, ficção, cinema"
-tags: ["kaijus", "armas", "robôs gigantes", "bioquímica", "tecnologia", "misticismo", "ficção", "cinema"]
-data: "2025-04-08T22:18:08.990Z"
+title: 'As Armas Mais Poderosas na Luta Contra Kaijus: Uma Análise Detalhada'
+slug: as-armas-mais-poderosas-na-luta-contra-kaijus-uma-analise-detalhada
+resumo: >-
+  Este artigo explora as armas mais eficazes usadas na ficção para combater os
+  gigantes e temíveis kaijus. Desde robôs gigantes a armas bioquímicas, descubra
+  como a humanidade se defende dessas ameaças monstruosas nas telas e páginas
+  dos livros.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  kaijus, armas, robôs gigantes, bioquímica, tecnologia, misticismo, ficção,
+  cinema
+tags:
+  - kaijus
+  - armas
+  - robôs gigantes
+  - bioquímica
+  - tecnologia
+  - misticismo
+  - ficção
+  - cinema
+data: '2025-04-08T22:18:08.990Z'
+author: Pablo Moura
 ---
 
 ## Introdução

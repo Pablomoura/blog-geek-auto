@@ -17,6 +17,7 @@ tags:
   - elenco vocal
   - filmes animados
   - série aclamada
+author: Pablo Moura
 ---
 
 A aclamada série 'Avatar: O Último Mestre do Ar' está expandindo seu universo com uma trilogia de filmes animados. Segundo a Variety, Steven Yeun, conhecido por seu trabalho em 'Invencível', fará parte do elenco vocal deste projeto ainda sem título oficial.

@@ -16,6 +16,7 @@ tags:
   - academia de cinema
   - diretor palestino
   - conflito israel-palestina
+author: Pablo Moura
 ---
 
 A Academia de Artes e Ciências Cinematográficas enfrenta críticas após se recusar a apoiar o cineasta palestino Hamdan Ballal, que sofreu um linchamento e foi sequestrado pelo exército de Israel. AJ Schnack, conhecido por seu trabalho em 'Kurt Cobain: Retrato de uma Ausência', foi o primeiro a reagir, enviando um e-mail contundente para Bill Kramer, CEO da Academia, e Janet Yang, presidente da organização.

@@ -1,13 +1,26 @@
 ---
-title: "Suits L.A. deve ganhar 2ª temporada, apesar da audiência abaixo do esperado"
-slug: "suits-la-deve-ganhar-2-temporada-apesar-da-audincia-abaixo-do-esperado"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/2nrpQqqHlU6KKEy6wkENimw34-s=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T113942.342.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/gI4ipICrWhRl31UE1Tka2PLqZ0Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T113903.359.png"
-tags: ["Suits L.A.", "segunda temporada", "NBC", "audiência", "série derivada", "streaming", "direito criminal", "entretenimento legal"]
-keywords: "Suits L.A., segunda temporada, NBC, audiência, série derivada, streaming, direito criminal, entretenimento legal"
-data: "2025-04-09T15:14:32.508Z"
+title: 'Suits L.A. deve ganhar 2ª temporada, apesar da audiência abaixo do esperado'
+slug: suits-la-deve-ganhar-2-temporada-apesar-da-audincia-abaixo-do-esperado
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/2nrpQqqHlU6KKEy6wkENimw34-s=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T113942.342.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/gI4ipICrWhRl31UE1Tka2PLqZ0Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T113903.359.png
+tags:
+  - Suits L.A.
+  - segunda temporada
+  - NBC
+  - audiência
+  - série derivada
+  - streaming
+  - direito criminal
+  - entretenimento legal
+keywords: >-
+  Suits L.A., segunda temporada, NBC, audiência, série derivada, streaming,
+  direito criminal, entretenimento legal
+data: '2025-04-09T15:14:32.508Z'
+author: Pablo Moura
 ---
 
 A série 'Suits L.A.', derivada de 'Suits', está prestes a ter sua segunda temporada confirmada, conforme informações do portal Deadline. Apesar de uma recepção inicial não tão positiva em termos de audiência, a NBC mantém expectativas elevadas para o futuro da produção. A franquia é vista como uma aposta de alto valor para a emissora, que acredita na possibilidade de retorno significativo dos investimentos realizados até o momento.

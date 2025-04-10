@@ -1,13 +1,26 @@
 ---
-title: "Crime 101 | Suspense de assalto com Chris Hemsworth ganha trailer na CinemaCon"
-slug: "crime-101-suspense-de-assalto-com-chris-hemsworth-ganha-trailer-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/S99mUP1aQF9zfQBLSWTIWs4tXJg=/987x0/smart/uploads/conteudo/fotos/chris-hemsworth.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/vg3zZePDe23aSzeOgU4GR2qqx1c=/480x360/smart/extras/conteudos/chris-hemsworth.png"
-tags: ["Chris Hemsworth", "CinemaCon 2025", "suspense", "assalto", "trailer", "Halle Berry", "Barry Keoghan", "thriller policial"]
-keywords: "Chris Hemsworth, CinemaCon 2025, suspense, assalto, trailer, Halle Berry, Barry Keoghan, thriller policial"
-data: "2025-04-03T05:12:57.291Z"
+title: Crime 101 | Suspense de assalto com Chris Hemsworth ganha trailer na CinemaCon
+slug: crime-101-suspense-de-assalto-com-chris-hemsworth-ganha-trailer-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/S99mUP1aQF9zfQBLSWTIWs4tXJg=/987x0/smart/uploads/conteudo/fotos/chris-hemsworth.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/vg3zZePDe23aSzeOgU4GR2qqx1c=/480x360/smart/extras/conteudos/chris-hemsworth.png
+tags:
+  - Chris Hemsworth
+  - CinemaCon 2025
+  - suspense
+  - assalto
+  - trailer
+  - Halle Berry
+  - Barry Keoghan
+  - thriller policial
+keywords: >-
+  Chris Hemsworth, CinemaCon 2025, suspense, assalto, trailer, Halle Berry,
+  Barry Keoghan, thriller policial
+data: '2025-04-03T05:12:57.291Z'
+author: Pablo Moura
 ---
 
 Durante a CinemaCon 2025, foi revelado o primeiro trailer de 'Crime 101', um suspense baseado no livro homônimo de Don Winslow, estrelado por Chris Hemsworth. O filme, que também conta com a participação de Halle Berry e Barry Keoghan, tem previsão de lançamento anunciada no evento.

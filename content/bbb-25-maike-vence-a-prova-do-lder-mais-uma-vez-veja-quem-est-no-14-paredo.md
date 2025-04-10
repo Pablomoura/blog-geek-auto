@@ -1,13 +1,28 @@
 ---
-title: "BBB 25: Maike conquista liderança novamente e define os competidores do 14º Paredão"
-slug: "bbb-25-maike-vence-a-prova-do-lder-mais-uma-vez-veja-quem-est-no-14-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/McowCyCNJTduVMKREcje1RlcN_o=/987x0/smart/uploads/conteudo/fotos/bbb25-maike-14-lider.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ZiIck_0kDh4g7xYVPxGJy-LZ7ww=/480x360/smart/extras/conteudos/bbb25-maike-14-lider-peq.jpg"
-tags: ["BBB 25", "Maike liderança", "14º Paredão", "prova de liderança", "Diego Hypólito", "João Gabriel", "Vitória Strada", "votação pública."]
-keywords: "BBB 25, Maike liderança, 14º Paredão, prova de liderança, Diego Hypólito, João Gabriel, Vitória Strada, votação pública."
-data: "2025-04-07T04:12:28.531Z"
+title: >-
+  BBB 25: Maike conquista liderança novamente e define os competidores do 14º
+  Paredão
+slug: bbb-25-maike-vence-a-prova-do-lder-mais-uma-vez-veja-quem-est-no-14-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/McowCyCNJTduVMKREcje1RlcN_o=/987x0/smart/uploads/conteudo/fotos/bbb25-maike-14-lider.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ZiIck_0kDh4g7xYVPxGJy-LZ7ww=/480x360/smart/extras/conteudos/bbb25-maike-14-lider-peq.jpg
+tags:
+  - BBB 25
+  - Maike liderança
+  - 14º Paredão
+  - prova de liderança
+  - Diego Hypólito
+  - João Gabriel
+  - Vitória Strada
+  - votação pública.
+keywords: >-
+  BBB 25, Maike liderança, 14º Paredão, prova de liderança, Diego Hypólito, João
+  Gabriel, Vitória Strada, votação pública.
+data: '2025-04-07T04:12:28.531Z'
+author: Pablo Moura
 ---
 
 O Big Brother Brasil 25 presenciou mais uma emocionante disputa pela liderança neste domingo, dia 06, com Maike emergindo como o grande vencedor. Com oito dos nove participantes restantes competindo, a prova exigiu não apenas velocidade, mas também coordenação e sorte. A atual líder, Vitória Strada, excluiu João Pedro da competição, e os competidores foram organizados em quatro duplas: Vinícius e João Gabriel, Maike e Renata, Delma e Guilherme, além de Vitória e Diego Hypólito.

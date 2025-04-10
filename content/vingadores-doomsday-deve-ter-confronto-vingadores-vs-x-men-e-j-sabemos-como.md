@@ -15,6 +15,7 @@ tags:
   - confronto épico
   - marvel
   - guerras secretas
+author: Pablo Moura
 ---
 
 A revelação de que o elenco original dos X-Men, provenientes dos filmes da antiga Fox, fará parte de 'Vingadores: Doomsday', confirma a possibilidade de um embate entre Vingadores e X-Men no filme. Essa integração parece ser um prelúdio para 'Vingadores: Guerras Secretas', o filme que conclui a Saga do Multiverso da Marvel. 

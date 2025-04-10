@@ -18,6 +18,7 @@ tags:
   - sony pictures
   - cinemacon
   - lançamento simultâneo
+author: Ana Luiza
 ---
 
 A espera acabou para os fãs dos Beatles! Durante a CinemaCon em Las Vegas, Sam Mendes revelou que os quatro filmes biográficos sobre os membros da icônica banda de Liverpool serão lançados simultaneamente. A Sony Pictures confirmou que esta estreia única ocorrerá em 6 de abril de 2028, proporcionando uma verdadeira maratona cinematográfica.

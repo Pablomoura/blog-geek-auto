@@ -18,6 +18,7 @@ tags:
   - mangá
   - sony pictures
   - tatsuki fujimoto
+author: Ana Luiza
 ---
 
 A Sony Pictures anunciou, conforme reportagem do Portal Exibidor, que o filme 'Chainsaw Man: Reze Arc' será lançado no Brasil em 30 de outubro. O lançamento no Japão ocorrerá anteriormente, em 19 de setembro.

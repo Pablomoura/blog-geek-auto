@@ -1,13 +1,26 @@
 ---
-title: "GTA 5 retorna ao Game Pass com versão melhorada no PC"
-slug: "gta-5-retorna-ao-game-pass-com-verso-melhorada-no-pc"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/15rWiZCj7ZkrkRLMsZber7Nt1HA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T130943.019.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/MEHlJ0BqDjOGnMyQoIWAv2JUPLg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T131632.631.png"
-tags: ["GTA 5", "Game Pass", "PC gaming", "Rockstar Games", "Xbox", "versão melhorada", "GTA Online", "GTA 6"]
-keywords: "GTA 5, Game Pass, PC gaming, Rockstar Games, Xbox, versão melhorada, GTA Online, GTA 6"
-data: "2025-04-03T17:11:49.574Z"
+title: GTA 5 retorna ao Game Pass com versão melhorada no PC
+slug: gta-5-retorna-ao-game-pass-com-verso-melhorada-no-pc
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/15rWiZCj7ZkrkRLMsZber7Nt1HA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T130943.019.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/MEHlJ0BqDjOGnMyQoIWAv2JUPLg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T131632.631.png
+tags:
+  - GTA 5
+  - Game Pass
+  - PC gaming
+  - Rockstar Games
+  - Xbox
+  - versão melhorada
+  - GTA Online
+  - GTA 6
+keywords: >-
+  GTA 5, Game Pass, PC gaming, Rockstar Games, Xbox, versão melhorada, GTA
+  Online, GTA 6
+data: '2025-04-03T17:11:49.574Z'
+author: Pablo Moura
 ---
 
 Grand Theft Auto 5, o renomado título da Rockstar Games, marca seu retorno ao Game Pass apresentando uma versão aprimorada para PC. 'Estou muito feliz de anunciar que GTA 5 Enhanced será jogável nos PCs via Game Pass, incluindo as últimas atualizações como Hao's Special Works Vehicles e mais', anunciou Megan Sputt, chefe de comunicação do Xbox Game Pass. O jogo estará disponível a partir de 15 de abril. Embora também disponível para Xbox, esta plataforma manterá a versão padrão do jogo.

@@ -16,6 +16,7 @@ tags:
   - hbo max
   - série tv
   - entertainment weekly
+author: Luana Souza
 ---
 
 Segundo informações da Entertainment Weekly, Nathan Fillion está confirmado no elenco de 'Lanternas', nova série da HBO Max que trará os Lanternas Verdes para as telas de TV. Fillion reprisará o papel de Guy Gardner, conhecido de suas atuações anteriores em projetos relacionados ao universo Superman.

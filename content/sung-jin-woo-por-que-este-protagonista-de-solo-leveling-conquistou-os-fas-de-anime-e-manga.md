@@ -1,14 +1,32 @@
 ---
-title: "Sung Jin-Woo: Por Que Este Protagonista de Solo Leveling Conquistou os Fãs de Anime e Mangá?"
-slug: "sung-jin-woo-por-que-este-protagonista-de-solo-leveling-conquistou-os-fas-de-anime-e-manga"
-resumo: "Explorando as razões pelas quais Sung Jin-Woo, protagonista do webtoon e light novel 'Solo Leveling', tornou-se um ícone entre os personagens 'overpowered' (OP) do universo de animes e mangás. Analisaremos os aspectos de sua jornada, desenvolvimento de personagem e impacto cultural."
-categoria: "Cultura Pop"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, Sung Jin-Woo, Protagonista OP, Webtoon, Light Novel, Anime, Mangá, Cultura Pop"
-tags: ["Solo Leveling", "Sung Jin-Woo", "Protagonista OP", "Webtoon", "Light Novel", "Anime", "Mangá", "Cultura Pop"]
-data: "2025-04-02T01:57:46.549Z"
+title: >-
+  Sung Jin-Woo: Por Que Este Protagonista de Solo Leveling Conquistou os Fãs de
+  Anime e Mangá?
+slug: >-
+  sung-jin-woo-por-que-este-protagonista-de-solo-leveling-conquistou-os-fas-de-anime-e-manga
+resumo: >-
+  Explorando as razões pelas quais Sung Jin-Woo, protagonista do webtoon e light
+  novel 'Solo Leveling', tornou-se um ícone entre os personagens 'overpowered'
+  (OP) do universo de animes e mangás. Analisaremos os aspectos de sua jornada,
+  desenvolvimento de personagem e impacto cultural.
+categoria: Cultura Pop
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, Sung Jin-Woo, Protagonista OP, Webtoon, Light Novel, Anime,
+  Mangá, Cultura Pop
+tags:
+  - Solo Leveling
+  - Sung Jin-Woo
+  - Protagonista OP
+  - Webtoon
+  - Light Novel
+  - Anime
+  - Mangá
+  - Cultura Pop
+data: '2025-04-02T01:57:46.549Z'
+author: Ana Luiza
 ---
 
 ## Introdução

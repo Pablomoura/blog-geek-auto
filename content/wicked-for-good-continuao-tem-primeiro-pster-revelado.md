@@ -17,6 +17,7 @@ tags:
   - terra de oz
   - cinepop
   - dezembro
+author: Pablo Moura
 ---
 
 O universo de 'Wicked' se expande com a revelação do primeiro pôster de 'Wicked: For Good', a aguardada continuação do filme que conquistou o público mundial. O pôster foi divulgado pela CinePop, antecipando o lançamento do filme em dezembro deste ano.

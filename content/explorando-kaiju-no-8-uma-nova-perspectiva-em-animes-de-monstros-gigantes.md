@@ -1,14 +1,29 @@
 ---
-title: "Explorando Kaiju No. 8: Uma Nova Perspectiva em Animes de Monstros Gigantes"
-slug: "explorando-kaiju-no-8-uma-nova-perspectiva-em-animes-de-monstros-gigantes"
-resumo: "Kaiju No. 8 destaca-se no gênero de animes de monstros gigantes com sua abordagem única em narrativa e desenvolvimento de personagem. Este artigo explora as características que tornam Kaiju No. 8 diferente e intrigante em comparação com outros animes do mesmo gênero."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "anime, Kaiju No. 8, monstros gigantes, narrativa, desenvolvimento de personagem, temas filosóficos, crítica social, design de monstros"
-tags: ["anime", "Kaiju No. 8", "monstros gigantes", "narrativa", "desenvolvimento de personagem", "temas filosóficos", "crítica social", "design de monstros"]
-data: "2025-04-06T22:15:22.338Z"
+title: 'Explorando Kaiju No. 8: Uma Nova Perspectiva em Animes de Monstros Gigantes'
+slug: explorando-kaiju-no-8-uma-nova-perspectiva-em-animes-de-monstros-gigantes
+resumo: >-
+  Kaiju No. 8 destaca-se no gênero de animes de monstros gigantes com sua
+  abordagem única em narrativa e desenvolvimento de personagem. Este artigo
+  explora as características que tornam Kaiju No. 8 diferente e intrigante em
+  comparação com outros animes do mesmo gênero.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  anime, Kaiju No. 8, monstros gigantes, narrativa, desenvolvimento de
+  personagem, temas filosóficos, crítica social, design de monstros
+tags:
+  - anime
+  - Kaiju No. 8
+  - monstros gigantes
+  - narrativa
+  - desenvolvimento de personagem
+  - temas filosóficos
+  - crítica social
+  - design de monstros
+data: '2025-04-06T22:15:22.338Z'
+author: Ana Luiza
 ---
 
 ## Introdução

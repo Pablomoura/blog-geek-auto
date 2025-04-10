@@ -1,14 +1,28 @@
 ---
-title: "Como Montar um Setup Gamer Barato em 2025"
-slug: "como-montar-um-setup-gamer-barato-em-2025"
-resumo: "Descubra como montar um setup gamer eficiente e acessível em 2025, aproveitando as melhores dicas para escolher componentes de qualidade com preços que não vão esvaziar seu bolso."
-categoria: "Games"
-midia: "/images/setup-gamer-baratinho.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-setup-gamer-barato-2025.jpg"
-keywords: "setup gamer, gaming econômico, 2025, hardware, acessórios gamer, tecnologia acessível, dicas de economia, componentes"
-tags: ["setup gamer", "gaming econômico", "2025", "hardware", "acessórios gamer", "tecnologia acessível", "dicas de economia", "componentes"]
-data: "2025-04-03T17:08:43.330Z"
+title: Como Montar um Setup Gamer Barato em 2025
+slug: como-montar-um-setup-gamer-barato-em-2025
+resumo: >-
+  Descubra como montar um setup gamer eficiente e acessível em 2025,
+  aproveitando as melhores dicas para escolher componentes de qualidade com
+  preços que não vão esvaziar seu bolso.
+categoria: Games
+midia: /images/setup-gamer-baratinho.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-setup-gamer-barato-2025.jpg
+keywords: >-
+  setup gamer, gaming econômico, 2025, hardware, acessórios gamer, tecnologia
+  acessível, dicas de economia, componentes
+tags:
+  - setup gamer
+  - gaming econômico
+  - '2025'
+  - hardware
+  - acessórios gamer
+  - tecnologia acessível
+  - dicas de economia
+  - componentes
+data: '2025-04-03T17:08:43.330Z'
+author: Luana Souza
 ---
 
 ## Introdução

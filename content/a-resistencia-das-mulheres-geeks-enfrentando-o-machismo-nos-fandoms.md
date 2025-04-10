@@ -1,14 +1,29 @@
 ---
-title: "A Resistência das Mulheres Geeks: Enfrentando o Machismo nos Fandoms"
-slug: "a-resistencia-das-mulheres-geeks-enfrentando-o-machismo-nos-fandoms"
-resumo: "Este artigo explora as experiências das mulheres dentro da cultura geek e como elas enfrentam o machismo nos diversos fandoms. Discutiremos as barreiras e os desafios enfrentados, bem como as estratégias de resistência e inclusão adotadas por elas para transformar esses espaços."
-categoria: "Cultura Geek"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "mulheres geeks, machismo, fandoms, cultura geek, inclusão, assédio online, cosplay, videogames"
-tags: ["mulheres geeks", "machismo", "fandoms", "cultura geek", "inclusão", "assédio online", "cosplay", "videogames"]
-data: "2025-04-03T01:11:14.057Z"
+title: 'A Resistência das Mulheres Geeks: Enfrentando o Machismo nos Fandoms'
+slug: a-resistencia-das-mulheres-geeks-enfrentando-o-machismo-nos-fandoms
+resumo: >-
+  Este artigo explora as experiências das mulheres dentro da cultura geek e como
+  elas enfrentam o machismo nos diversos fandoms. Discutiremos as barreiras e os
+  desafios enfrentados, bem como as estratégias de resistência e inclusão
+  adotadas por elas para transformar esses espaços.
+categoria: Cultura Geek
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  mulheres geeks, machismo, fandoms, cultura geek, inclusão, assédio online,
+  cosplay, videogames
+tags:
+  - mulheres geeks
+  - machismo
+  - fandoms
+  - cultura geek
+  - inclusão
+  - assédio online
+  - cosplay
+  - videogames
+data: '2025-04-03T01:11:14.057Z'
+author: Ana Luiza
 ---
 
 ## Introdução

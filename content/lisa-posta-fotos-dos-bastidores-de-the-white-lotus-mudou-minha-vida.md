@@ -1,13 +1,26 @@
 ---
-title: "Lisa posta fotos dos bastidores de The White Lotus: 'Mudou minha vida'"
-slug: "lisa-posta-fotos-dos-bastidores-de-the-white-lotus-mudou-minha-vida"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/RxYHoCLc5dWZBXWGXSa9VfxnpEE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T124136.807.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/6iM0cU6_8swXsdNdXeRTLCnnRqE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T124122.462.png"
-tags: ["Lisa", "The White Lotus", "Blackpink", "atuação", "televisão", "HBO", "Thailândia", "carreira"]
-keywords: "Lisa, The White Lotus, Blackpink, atuação, televisão, HBO, Thailândia, carreira"
-data: "2025-04-09T16:15:12.524Z"
+title: 'Lisa posta fotos dos bastidores de The White Lotus: ''Mudou minha vida'''
+slug: lisa-posta-fotos-dos-bastidores-de-the-white-lotus-mudou-minha-vida
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/RxYHoCLc5dWZBXWGXSa9VfxnpEE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T124136.807.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/6iM0cU6_8swXsdNdXeRTLCnnRqE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T124122.462.png
+tags:
+  - Lisa
+  - The White Lotus
+  - Blackpink
+  - atuação
+  - televisão
+  - HBO
+  - Thailândia
+  - carreira
+keywords: >-
+  Lisa, The White Lotus, Blackpink, atuação, televisão, HBO, Thailândia,
+  carreira
+data: '2025-04-09T16:15:12.524Z'
+author: Ana Luiza
 ---
 
 A cantora tailandesa Lisa, do Blackpink, teve uma destacada participação na terceira temporada de The White Lotus, cujo último episódio foi ao ar neste domingo. Após o encerramento da temporada, Lisa compartilhou uma foto em suas redes sociais e expressou sua gratidão pela oportunidade de atuar na série. Em uma mensagem emocionante, ela agradeceu ao criador da série, Mike White, por confiar-lhe o papel de Mook, uma personagem que, segundo Lisa, transformou sua vida.

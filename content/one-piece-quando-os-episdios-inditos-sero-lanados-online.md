@@ -15,6 +15,7 @@ tags:
   - arco egghead
   - anime online
   - datas de lançamento
+author: Luana Souza
 ---
 
 A Toei Animation anunciou as datas oficiais para o retorno do anime One Piece, dando continuidade à segunda parte do arco Egghead. A série será retomada online no dia 5 de abril com um episódio especial de 83 minutos, que recapitulará a primeira parte do arco Egghead. Já o episódio inédito, número 1124, será transmitido em 6 de abril.

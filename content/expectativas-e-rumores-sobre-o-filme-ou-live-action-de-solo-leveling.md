@@ -1,14 +1,29 @@
 ---
-title: "Expectativas e Rumores sobre o Filme ou Live-action de Solo Leveling"
-slug: "expectativas-e-rumores-sobre-o-filme-ou-live-action-de-solo-leveling"
-resumo: "Descubra tudo o que sabemos até agora sobre a possível adaptação para filme ou live-action do webtoon de sucesso, Solo Leveling. Conheça os rumores, as expectativas dos fãs e os desafios que podem surgir nessa transição do mangá para a tela."
-categoria: "Entretenimento"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, filme, live-action, webtoon, adaptação, rumores, cinema, Sung Jin-Woo"
-tags: ["Solo Leveling", "filme", "live-action", "webtoon", "adaptação", "rumores", "cinema", "Sung Jin-Woo"]
-data: "2025-03-07T01:54:30.571Z"
+title: Expectativas e Rumores sobre o Filme ou Live-action de Solo Leveling
+slug: expectativas-e-rumores-sobre-o-filme-ou-live-action-de-solo-leveling
+resumo: >-
+  Descubra tudo o que sabemos até agora sobre a possível adaptação para filme ou
+  live-action do webtoon de sucesso, Solo Leveling. Conheça os rumores, as
+  expectativas dos fãs e os desafios que podem surgir nessa transição do mangá
+  para a tela.
+categoria: Entretenimento
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, filme, live-action, webtoon, adaptação, rumores, cinema, Sung
+  Jin-Woo
+tags:
+  - Solo Leveling
+  - filme
+  - live-action
+  - webtoon
+  - adaptação
+  - rumores
+  - cinema
+  - Sung Jin-Woo
+data: '2025-03-07T01:54:30.571Z'
+author: Pablo Moura
 ---
 
 ## Introdução

@@ -1,13 +1,27 @@
 ---
-title: "Nintendo traduziu Zelda do Switch em português para agradecer aos fãs do Brasil"
-slug: "nintendo-traduziu-zelda-do-switch-em-portugus-para-agradecer-aos-fs-do-brasil"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ny8iGHFpgbY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/x6Za4ZH1BTKizf_W6MieLhypQfc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-03_174834.png"
-tags: ["Nintendo Switch 2", "Zelda em português", "fãs brasileiros", "atualizações gratuitas", "lançamento global", "tradução de jogos", "Joy-Con magnético", "HDR e 4K"]
-keywords: "Nintendo Switch 2, Zelda em português, fãs brasileiros, atualizações gratuitas, lançamento global, tradução de jogos, Joy-Con magnético, HDR e 4K"
-data: "2025-04-03T21:09:54.534Z"
+title: >-
+  Nintendo traduziu Zelda do Switch em português para agradecer aos fãs do
+  Brasil
+slug: nintendo-traduziu-zelda-do-switch-em-portugus-para-agradecer-aos-fs-do-brasil
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ny8iGHFpgbY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/x6Za4ZH1BTKizf_W6MieLhypQfc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-03_174834.png
+tags:
+  - Nintendo Switch 2
+  - Zelda em português
+  - fãs brasileiros
+  - atualizações gratuitas
+  - lançamento global
+  - tradução de jogos
+  - Joy-Con magnético
+  - HDR e 4K
+keywords: >-
+  Nintendo Switch 2, Zelda em português, fãs brasileiros, atualizações
+  gratuitas, lançamento global, tradução de jogos, Joy-Con magnético, HDR e 4K
+data: '2025-04-03T21:09:54.534Z'
+author: Ana Luiza
 ---
 
 Em conversa com a equipe do Omelete durante o lançamento do Nintendo Switch 2 nos Estados Unidos, Pilar Pueblita, gerente de relações públicas e eventos para a América Latina da Nintendo of America, expressou gratidão aos admiradores brasileiros da série Zelda. 'É uma maneira de agradecer e mostrar que estamos atentos aos desejos dos fãs', afirmou Pueblita. Ela também destacou a intensa paixão dos brasileiros pelo universo de Zelda, ressaltando o entusiasmo da empresa com a recepção positiva ao anúncio da tradução dos jogos.

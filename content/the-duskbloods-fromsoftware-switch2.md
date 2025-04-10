@@ -1,12 +1,17 @@
 ---
-title: "The Duskbloods: tudo sobre o novo jogo da FromSoftware exclusivo para o Switch 2"
-slug: "the-duskbloods-fromsoftware-switch2"
-categoria: "Games"
-resumo: "The Duskbloods é o novo projeto da FromSoftware com exclusividade para o Switch 2. Descubra tudo sobre a história, gameplay PvPvE, estética gótica e o que já foi revelado sobre esse universo sombrio e ambicioso."
-data: "2025-04-06T22:00:00.000Z"
-thumb: "/images/Thumb-Duskbloods.jpg"
-midia: "https://www.youtube.com/embed/niKHDEKQ7xA?si=TJpFwkChFokIBMRO"
-tipoMidia: "video"
+title: >-
+  The Duskbloods: tudo sobre o novo jogo da FromSoftware exclusivo para o Switch
+  2
+slug: the-duskbloods-fromsoftware-switch2
+categoria: Games
+resumo: >-
+  The Duskbloods é o novo projeto da FromSoftware com exclusividade para o
+  Switch 2. Descubra tudo sobre a história, gameplay PvPvE, estética gótica e o
+  que já foi revelado sobre esse universo sombrio e ambicioso.
+data: '2025-04-06T22:00:00.000Z'
+thumb: /images/Thumb-Duskbloods.jpg
+midia: 'https://www.youtube.com/embed/niKHDEKQ7xA?si=TJpFwkChFokIBMRO'
+tipoMidia: video
 story: true
 tags:
   - the duskbloods
@@ -15,7 +20,10 @@ tags:
   - bloodborne
   - jogos exclusivos
   - nintendo
-keywords: "the duskbloods switch 2, novo jogo fromsoftware, multiplayer PvPvE, exclusivo nintendo switch 2, bloodborne switch, novo jogo dark switch"
+keywords: >-
+  the duskbloods switch 2, novo jogo fromsoftware, multiplayer PvPvE, exclusivo
+  nintendo switch 2, bloodborne switch, novo jogo dark switch
+author: Luana Souza
 ---
 ## A chegada de The Duskbloods: o novo pesadelo da FromSoftware
 

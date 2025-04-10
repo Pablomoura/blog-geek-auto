@@ -20,6 +20,7 @@ tags:
   - mike de luca
   - pam abdy
   - david zaslav
+author: Ana Luiza
 ---
 
 A Warner Bros. já deu início ao processo de escolha dos novos líderes para sua divisão de cinema, com Mike De Luca e Pam Abdy programados para deixar seus cargos em 2025. De acordo com o The Hollywood Reporter, David Zaslav, CEO da Warner Bros. Discovery, já agendou reuniões com potenciais candidatos. Fontes da Bloomberg indicam que essas discussões ainda estão nos estágios iniciais e que a saída de De Luca e Abdy ainda não foi oficialmente decidida. Robert Gibbs, porta-voz da Warner Bros. Discovery, comunicou à Bloomberg que os rumores sobre as mudanças na liderança não são completamente precisos.

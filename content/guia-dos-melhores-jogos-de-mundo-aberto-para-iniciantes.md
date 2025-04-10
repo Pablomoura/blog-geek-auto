@@ -1,14 +1,27 @@
 ---
-title: "Guia dos Melhores Jogos de Mundo Aberto para Iniciantes"
-slug: "guia-dos-melhores-jogos-de-mundo-aberto-para-iniciantes"
-resumo: "Explorar um mundo virtual sem limites pode ser uma experiência extraordinária. Este artigo é um guia para aqueles que estão começando no universo dos jogos de mundo aberto, destacando os melhores jogos que combinam acessibilidade, diversão e aventura."
-categoria: "Games"
-midia: "/images/jogos-de-mundo-aberto.jpg"
-tipoMidia: "imagem"
-thumb: "/images/melhores-jogos-de-mundo-aberto.jpg"
-keywords: "jogos,mundo aberto,iniciantes,gaming,videogame,Zelda,Skyrim,GTA V"
-tags: ["jogos", "mundo aberto", "iniciantes", "gaming", "videogame", "Zelda", "Skyrim", "GTA V"]
-data: "2025-04-03T11:40:40.577Z"
+title: Guia dos Melhores Jogos de Mundo Aberto para Iniciantes
+slug: guia-dos-melhores-jogos-de-mundo-aberto-para-iniciantes
+resumo: >-
+  Explorar um mundo virtual sem limites pode ser uma experiência extraordinária.
+  Este artigo é um guia para aqueles que estão começando no universo dos jogos
+  de mundo aberto, destacando os melhores jogos que combinam acessibilidade,
+  diversão e aventura.
+categoria: Games
+midia: /images/jogos-de-mundo-aberto.jpg
+tipoMidia: imagem
+thumb: /images/melhores-jogos-de-mundo-aberto.jpg
+keywords: 'jogos,mundo aberto,iniciantes,gaming,videogame,Zelda,Skyrim,GTA V'
+tags:
+  - jogos
+  - mundo aberto
+  - iniciantes
+  - gaming
+  - videogame
+  - Zelda
+  - Skyrim
+  - GTA V
+data: '2025-04-03T11:40:40.577Z'
+author: Pablo Moura
 ---
 
 ## Introdução aos Jogos de Mundo Aberto

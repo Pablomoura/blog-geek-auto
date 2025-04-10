@@ -1,13 +1,25 @@
 ---
-title: "The Handmaid’s Tale chega ao fim entendendo a urgência necessária para a trama"
-slug: "the-handmaids-tale-chega-ao-fim-entendendo-a-urgncia-necessria-para-a-trama"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/hyVDq2bQlnU?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/LPQW0Z36E8oXDoxUby7XvUGEyPw=/480x360/smart/extras/conteudos/handmaids-tale-capa.jpg"
-tags: ["The Handmaid's Tale", "fim da série", "direitos humanos", "resistência", "teocracia", "Gilead", "The Testaments", "autoritarismo"]
-keywords: "The Handmaid's Tale, fim da série, direitos humanos, resistência, teocracia, Gilead, The Testaments, autoritarismo"
-data: "2025-04-08T10:12:10.236Z"
+title: The Handmaid’s Tale chega ao fim entendendo a urgência necessária para a trama
+slug: the-handmaids-tale-chega-ao-fim-entendendo-a-urgncia-necessria-para-a-trama
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/hyVDq2bQlnU?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/LPQW0Z36E8oXDoxUby7XvUGEyPw=/480x360/smart/extras/conteudos/handmaids-tale-capa.jpg
+tags:
+  - The Handmaid's Tale
+  - fim da série
+  - direitos humanos
+  - resistência
+  - teocracia
+  - Gilead
+  - The Testaments
+  - autoritarismo
+keywords: >-
+  The Handmaid's Tale, fim da série, direitos humanos, resistência, teocracia,
+  Gilead, The Testaments, autoritarismo
+data: '2025-04-08T10:12:10.236Z'
+author: Pablo Moura
 ---
 
 The Handmaid’s Tale, série que estreou simultaneamente ao início do mandato de Donald Trump, destacou-se por sua crítica aguda aos retrocessos em direitos humanos e seu paralelo com um governo teocrático e patriarcal. A narrativa, baseada no livro de Margaret Atwood de 1985, tornou-se um ícone de resistência, especialmente diante de políticas anti-femininas e contra a comunidade LGBTQIA+. A série apresenta Gilead, um regime autoritário que emerge nos EUA pós uma segunda Guerra Civil, trazendo à tona temores reais de regressão social e política.

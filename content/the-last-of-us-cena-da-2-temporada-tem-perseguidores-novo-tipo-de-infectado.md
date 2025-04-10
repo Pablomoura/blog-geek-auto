@@ -1,13 +1,28 @@
 ---
-title: "The Last of Us | Segunda temporada introduz novo tipo de infectado: os Perseguidores"
-slug: "the-last-of-us-cena-da-2-temporada-tem-perseguidores-novo-tipo-de-infectado"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/NPkzhJL56NF9B39OwbQyOR30LKk=/987x0/smart/uploads/conteudo/fotos/the-last-of-us-2-pedro-pascal_SxybuCZ.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/R7knPUhctxFGlrOoMUsiG9bGWcw=/480x360/smart/extras/conteudos/bella-ramsey-the-last-of-us-2.jpg"
-tags: ["The Last of Us", "segunda temporada", "Perseguidores", "infectados", "HBO", "Ellie", "adaptação de jogo", "série de TV"]
-keywords: "The Last of Us, segunda temporada, Perseguidores, infectados, HBO, Ellie, adaptação de jogo, série de TV"
-data: "2025-04-08T19:10:54.474Z"
+title: >-
+  The Last of Us | Segunda temporada introduz novo tipo de infectado: os
+  Perseguidores
+slug: the-last-of-us-cena-da-2-temporada-tem-perseguidores-novo-tipo-de-infectado
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/NPkzhJL56NF9B39OwbQyOR30LKk=/987x0/smart/uploads/conteudo/fotos/the-last-of-us-2-pedro-pascal_SxybuCZ.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/R7knPUhctxFGlrOoMUsiG9bGWcw=/480x360/smart/extras/conteudos/bella-ramsey-the-last-of-us-2.jpg
+tags:
+  - The Last of Us
+  - segunda temporada
+  - Perseguidores
+  - infectados
+  - HBO
+  - Ellie
+  - adaptação de jogo
+  - série de TV
+keywords: >-
+  The Last of Us, segunda temporada, Perseguidores, infectados, HBO, Ellie,
+  adaptação de jogo, série de TV
+data: '2025-04-08T19:10:54.474Z'
+author: Pablo Moura
 ---
 
 Uma recente prévia divulgada nesta terça-feira (08) anuncia uma empolgante adição à segunda temporada de The Last of Us: a introdução dos Perseguidores, um novo tipo de infectado. A cena destaca Ellie, interpretada por Bella Ramsey, enfrentando essas novas ameaças.

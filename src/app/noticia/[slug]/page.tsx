@@ -241,7 +241,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">{data.categoria}</span>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mt-2 mb-6">{data.title}</h1>
                 <p className="text-neutral-600 dark:text-gray-400 text-sm mb-6">
-                  Publicado em {publicadoEm} • {tempoLeitura} min de leitura
+                  Por <span className="font-medium text-black dark:text-white">{data.author}</span> • Publicado em {publicadoEm} • {tempoLeitura} min de leitura
                 </p>
   
                 {data.tipoMidia === "imagem" && (

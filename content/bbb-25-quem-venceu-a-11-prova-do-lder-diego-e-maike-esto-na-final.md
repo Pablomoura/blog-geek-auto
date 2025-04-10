@@ -15,6 +15,7 @@ tags:
   - reality show
   - liderança
   - competição
+author: Ana Luiza
 ---
 
 O BBB 25 já tem seus novos líderes! Na noite de quinta-feira, 27, os 12 participantes do reality show se enfrentaram em mais uma emocionante Prova do Líder. A competição foi dividida em duas fases, começando com a formação de duplas através de um sorteio.

@@ -1,13 +1,26 @@
 ---
-title: "Jogos Vorazes | Ralph Fiennes pode viver Coriolanus Snow em novo filme"
-slug: "jogos-vorazes-ralph-fiennes-pode-viver-coriolanus-snow-em-novo-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/5hl-LI5LjCe0XhLkxguu_8iPUuo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T192626.240.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/85HZp3CbH__hXSh8EeAtbN6YlKE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T192626.240.png"
-tags: ["Jogos Vorazes", "Ralph Fiennes", "Coriolanus Snow", "Francis Lawrence", "Massacre Quaternário", "Haymitch Abernathy", "Panem", "estreia 2026"]
-keywords: "Jogos Vorazes, Ralph Fiennes, Coriolanus Snow, Francis Lawrence, Massacre Quaternário, Haymitch Abernathy, Panem, estreia 2026"
-data: "2025-04-04T23:11:09.641Z"
+title: Jogos Vorazes | Ralph Fiennes pode viver Coriolanus Snow em novo filme
+slug: jogos-vorazes-ralph-fiennes-pode-viver-coriolanus-snow-em-novo-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/5hl-LI5LjCe0XhLkxguu_8iPUuo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T192626.240.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/85HZp3CbH__hXSh8EeAtbN6YlKE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T192626.240.png
+tags:
+  - Jogos Vorazes
+  - Ralph Fiennes
+  - Coriolanus Snow
+  - Francis Lawrence
+  - Massacre Quaternário
+  - Haymitch Abernathy
+  - Panem
+  - estreia 2026
+keywords: >-
+  Jogos Vorazes, Ralph Fiennes, Coriolanus Snow, Francis Lawrence, Massacre
+  Quaternário, Haymitch Abernathy, Panem, estreia 2026
+data: '2025-04-04T23:11:09.641Z'
+author: Ana Luiza
 ---
 
 A franquia Jogos Vorazes está prestes a receber um novo capítulo com o filme 'Jogos Vorazes: Amanhecer na Colheita', e rumores circulam de que Ralph Fiennes poderia interpretar Coriolanus Snow, conforme informações do insider DanielRPK.

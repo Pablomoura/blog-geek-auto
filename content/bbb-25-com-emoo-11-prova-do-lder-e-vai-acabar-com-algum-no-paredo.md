@@ -17,6 +17,7 @@ tags:
   - tadeu schmidt
   - reality show
   - competição
+author: Luana Souza
 ---
 
 A próxima quinta-feira, 27 de abril, será palco da 11ª Prova do Líder do Big Brother Brasil 25. Segundo o apresentador Tadeu Schmidt, a competição entre os 12 participantes remanescentes será intensa e emocional.

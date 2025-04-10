@@ -13,6 +13,7 @@ tags:
   - '2027'
   - jason schreier
   - 'the last of us: part ii'
+author: Ana Luiza
 ---
 
 O aguardado jogo Intergalactic: The Heretic Prophet, desenvolvido pela Naughty Dog, tem previsão de lançamento apenas para 2027, conforme divulgado pelo renomado jornalista Jason Schreier. Este título é o primeiro grande projeto do estúdio desde o sucesso de The Last of Us: Part II. Até o momento, nem a Naughty Dog nem a Sony confirmaram uma data oficial de lançamento.

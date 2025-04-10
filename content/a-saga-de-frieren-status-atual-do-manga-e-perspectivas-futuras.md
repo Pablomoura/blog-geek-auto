@@ -1,14 +1,27 @@
 ---
-title: "A Saga de Frieren: Status Atual do Mangá e Perspectivas Futuras"
-slug: "a-saga-de-frieren-status-atual-do-manga-e-perspectivas-futuras"
-resumo: "Descubra se a história original de Frieren já terminou, o que esperar do mangá nos próximos anos e como essa obra tem impactado os fãs de quadrinhos."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, Mangá, Atualizações de Mangá, Quadrinhos, Anime, História de Frieren, Leitura de Mangá, Cultura Pop Japonesa"
-tags: ["Frieren", "Mangá", "Atualizações de Mangá", "Quadrinhos", "Anime", "História de Frieren", "Leitura de Mangá", "Cultura Pop Japonesa"]
-data: "2025-04-07T21:33:25.643Z"
+title: 'A Saga de Frieren: Status Atual do Mangá e Perspectivas Futuras'
+slug: a-saga-de-frieren-status-atual-do-manga-e-perspectivas-futuras
+resumo: >-
+  Descubra se a história original de Frieren já terminou, o que esperar do mangá
+  nos próximos anos e como essa obra tem impactado os fãs de quadrinhos.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, Mangá, Atualizações de Mangá, Quadrinhos, Anime, História de Frieren,
+  Leitura de Mangá, Cultura Pop Japonesa
+tags:
+  - Frieren
+  - Mangá
+  - Atualizações de Mangá
+  - Quadrinhos
+  - Anime
+  - História de Frieren
+  - Leitura de Mangá
+  - Cultura Pop Japonesa
+data: '2025-04-07T21:33:25.643Z'
+author: Luana Souza
 ---
 
 ## Introdução

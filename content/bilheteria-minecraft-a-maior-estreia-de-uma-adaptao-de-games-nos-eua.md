@@ -1,13 +1,26 @@
 ---
-title: "Bilheteria | Minecraft é a maior estreia de uma adaptação de games nos EUA"
-slug: "bilheteria-minecraft-a-maior-estreia-de-uma-adaptao-de-games-nos-eua"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FKv9hW0JSoSGt2QrC5GDHT2cybI=/987x0/smart/uploads/conteudo/fotos/minecraftfilme_reXbGak.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/72XhKu9W_7go21T4ZcPB5384BnE=/480x360/smart/extras/conteudos/minecraftfilme_3DwHlYW.jpg"
-tags: ["Minecraft", "bilheteria recorde", "adaptação de videogame", "estreia nos EUA", "elenco estelar", "Jared Hess", "recorde de vendas", "fenômeno global"]
-keywords: "Minecraft, bilheteria recorde, adaptação de videogame, estreia nos EUA, elenco estelar, Jared Hess, recorde de vendas, fenômeno global"
-data: "2025-04-06T16:10:11.983Z"
+title: Bilheteria | Minecraft é a maior estreia de uma adaptação de games nos EUA
+slug: bilheteria-minecraft-a-maior-estreia-de-uma-adaptao-de-games-nos-eua
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FKv9hW0JSoSGt2QrC5GDHT2cybI=/987x0/smart/uploads/conteudo/fotos/minecraftfilme_reXbGak.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/72XhKu9W_7go21T4ZcPB5384BnE=/480x360/smart/extras/conteudos/minecraftfilme_3DwHlYW.jpg
+tags:
+  - Minecraft
+  - bilheteria recorde
+  - adaptação de videogame
+  - estreia nos EUA
+  - elenco estelar
+  - Jared Hess
+  - recorde de vendas
+  - fenômeno global
+keywords: >-
+  Minecraft, bilheteria recorde, adaptação de videogame, estreia nos EUA, elenco
+  estelar, Jared Hess, recorde de vendas, fenômeno global
+data: '2025-04-06T16:10:11.983Z'
+author: Ana Luiza
 ---
 
 O novo sucesso de bilheteria, 'Um Filme Minecraft', estabeleceu um novo recorde neste fim de semana nos Estados Unidos ao se tornar a maior estreia para uma adaptação de videogames, arrecadando impressionantes US$ 157 milhões. Este valor ultrapassa os US$ 146,4 milhões alcançados por 'Super Mario Bros. - O Filme', apesar deste último ter tido o benefício de estrear durante um feriado de cinco dias, período no qual acumulou US$ 191 milhões.

@@ -13,6 +13,7 @@ tags:
   - filme de super-heróis
   - duração do filme
   - lançamento cinematográfico
+author: Ana Luiza
 ---
 
 O filme Thunderbolts, aguardado lançamento da Marvel Studios, terá uma duração total de 126 minutos, ou seja, 2 horas e 6 minutos. Essa informação foi confirmada pelo CBR e segue a tendência de recentes produções do estúdio, como Capitão América: Admirável Mundo Novo, que também alcançou a marca dos 120 minutos de exibição.

@@ -1,14 +1,32 @@
 ---
-title: "Conheça os Monarcas e Governantes em Solo Leveling: Figuras Poderosas do Universo"
-slug: "conheca-os-monarcas-e-governantes-em-solo-leveling-figuras-poderosas-do-universo"
-resumo: "Descubra quem são os Monarcas e os Governantes no universo de Solo Leveling, uma série sul-coreana de webnovel e webtoon que captura a imaginação de leitores ao redor do mundo. Este artigo explora as características, habilidades e a importância dessas entidades poderosas dentro da narrativa."
-categoria: "Literatura e Mangá"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, Monarcas, Governantes, Webnovel, Webtoon, Fantasia, Manga, Sung Jin-Woo"
-tags: ["Solo Leveling", "Monarcas", "Governantes", "Webnovel", "Webtoon", "Fantasia", "Manga", "Sung Jin-Woo"]
-data: "2025-04-06T01:34:32.173Z"
+title: >-
+  Conheça os Monarcas e Governantes em Solo Leveling: Figuras Poderosas do
+  Universo
+slug: >-
+  conheca-os-monarcas-e-governantes-em-solo-leveling-figuras-poderosas-do-universo
+resumo: >-
+  Descubra quem são os Monarcas e os Governantes no universo de Solo Leveling,
+  uma série sul-coreana de webnovel e webtoon que captura a imaginação de
+  leitores ao redor do mundo. Este artigo explora as características,
+  habilidades e a importância dessas entidades poderosas dentro da narrativa.
+categoria: Literatura e Mangá
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, Monarcas, Governantes, Webnovel, Webtoon, Fantasia, Manga, Sung
+  Jin-Woo
+tags:
+  - Solo Leveling
+  - Monarcas
+  - Governantes
+  - Webnovel
+  - Webtoon
+  - Fantasia
+  - Manga
+  - Sung Jin-Woo
+data: '2025-04-06T01:34:32.173Z'
+author: Pablo Moura
 ---
 
 ## Introdução

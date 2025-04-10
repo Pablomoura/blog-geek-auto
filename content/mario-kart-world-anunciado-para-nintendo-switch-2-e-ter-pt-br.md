@@ -14,6 +14,7 @@ tags:
   - jogo de mundo aberto
   - lançamento
   - suporte pt-br
+author: Pablo Moura
 ---
 
 Em um evento recente, a Nintendo anunciou o lançamento do Nintendo Switch 2, juntamente com uma série de novos jogos, destacando-se o Mario Kart World, exclusivo para essa nova plataforma. O jogo, que introduz o conceito de mundo aberto na franquia Mario Kart, também será lançado com suporte ao idioma português brasileiro, ampliando sua acessibilidade no Brasil.

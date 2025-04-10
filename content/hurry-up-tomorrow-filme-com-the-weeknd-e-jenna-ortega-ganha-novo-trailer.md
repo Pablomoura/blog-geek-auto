@@ -1,13 +1,25 @@
 ---
-title: "Hurry Up Tomorrow | Filme com The Weeknd e Jenna Ortega ganha novo trailer"
-slug: "hurry-up-tomorrow-filme-com-the-weeknd-e-jenna-ortega-ganha-novo-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/jcvSpRpnkvY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/aTZpNjIOKrm0ehxDXL5HmSkdzE4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-19T134932.057.png"
-tags: ["The Weeknd", "Jenna Ortega", "Hurry Up Tomorrow", "filme musical", "trailer de filme", "Trey Edward Shults", "insônia", "estreia 2025"]
-keywords: "The Weeknd, Jenna Ortega, Hurry Up Tomorrow, filme musical, trailer de filme, Trey Edward Shults, insônia, estreia 2025"
-data: "2025-04-09T17:11:00.229Z"
+title: Hurry Up Tomorrow | Filme com The Weeknd e Jenna Ortega ganha novo trailer
+slug: hurry-up-tomorrow-filme-com-the-weeknd-e-jenna-ortega-ganha-novo-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/jcvSpRpnkvY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/aTZpNjIOKrm0ehxDXL5HmSkdzE4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-19T134932.057.png
+tags:
+  - The Weeknd
+  - Jenna Ortega
+  - Hurry Up Tomorrow
+  - filme musical
+  - trailer de filme
+  - Trey Edward Shults
+  - insônia
+  - estreia 2025
+keywords: >-
+  The Weeknd, Jenna Ortega, Hurry Up Tomorrow, filme musical, trailer de filme,
+  Trey Edward Shults, insônia, estreia 2025
+data: '2025-04-09T17:11:00.229Z'
+author: Pablo Moura
 ---
 
 O aguardado filme 'Hurry Up Tomorrow', estrelado por The Weeknd e Jenna Ortega, acaba de lançar um emocionante novo trailer. The Weeknd, no papel de um cantor famoso, e Jenna Ortega, interpretando uma fã obsessiva, prometem uma narrativa intensa e envolvente. A trama é descrita como a jornada de um músico lutando contra a insônia, cuja vida toma um rumo inesperado ao conhecer um enigmático estranho que o faz confrontar a essência de sua própria existência.

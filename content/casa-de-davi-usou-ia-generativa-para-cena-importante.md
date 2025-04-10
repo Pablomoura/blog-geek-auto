@@ -14,6 +14,7 @@ tags:
   - tecnologia em tv
   - ia generativa
   - série de tv
+author: Pablo Moura
 ---
 
 Durante uma entrevista exclusiva com a Variety, Jon Erwin, criador e co-showrunner da série 'Casa de Davi', discutiu a aplicação de inteligência artificial generativa em uma cena crucial do sexto episódio. Segundo Erwin, a tecnologia foi essencial para realizar a cena, permitindo uma combinação eficaz com métodos tradicionais de produção. 'A cena inicial, que era modesta em sua concepção original, ganhou uma nova dimensão com visuais ambiciosos graças à IA', explicou Erwin.

@@ -15,6 +15,7 @@ tags:
   - danny e michael philippou
   - bring her back
   - horror explícito
+author: Luana Souza
 ---
 
 O estúdio A24 revelou o primeiro trailer completo de 'Bring Her Back', o mais recente projeto de horror dirigido por Danny e Michael Philippou, conhecidos pelo filme 'Fale Comigo'. O trailer promete uma experiência repleta de tensão, sons perturbadores e violência explícita.

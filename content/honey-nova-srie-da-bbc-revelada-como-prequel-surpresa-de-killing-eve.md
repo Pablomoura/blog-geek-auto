@@ -1,13 +1,26 @@
 ---
-title: "Honey | BBC anuncia prequel surpresa de Killing Eve"
-slug: "honey-nova-srie-da-bbc-revelada-como-prequel-surpresa-de-killing-eve"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/0KeuWHnZDqp-xWQIxVCbF9XBzQA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T110409.842.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/bwc5n-8gKdaJKCkpkueLtewohdM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T110358.516.png"
-tags: ["Killing Eve", "prequel", "Honey", "BBC", "Guerra Fria", "espionagem", "MI6", "drama de espionagem"]
-keywords: "Killing Eve, prequel, Honey, BBC, Guerra Fria, espionagem, MI6, drama de espionagem"
-data: "2025-04-03T14:10:08.855Z"
+title: Honey | BBC anuncia prequel surpresa de Killing Eve
+slug: honey-nova-srie-da-bbc-revelada-como-prequel-surpresa-de-killing-eve
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/0KeuWHnZDqp-xWQIxVCbF9XBzQA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T110409.842.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/bwc5n-8gKdaJKCkpkueLtewohdM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T110358.516.png
+tags:
+  - Killing Eve
+  - prequel
+  - Honey
+  - BBC
+  - Guerra Fria
+  - espionagem
+  - MI6
+  - drama de espionagem
+keywords: >-
+  Killing Eve, prequel, Honey, BBC, Guerra Fria, espionagem, MI6, drama de
+  espionagem
+data: '2025-04-03T14:10:08.855Z'
+author: Luana Souza
 ---
 
 A BBC revelou a produção de uma nova série intitulada 'Honey', que servirá como prelúdio para o aclamado thriller 'Killing Eve'. A série, ambientada durante a tensa época da Guerra Fria em 1982, focará na trajetória de uma agente secreta do MI6 chamada Marta. Descrita como um drama de espionagem, a série mostrará Marta em constante perigo, lutando para manter sua identidade em segredo enquanto enfrenta o perspicaz Friedrich Bauman, novo Chefe de Contra Espionagem da Stasi.

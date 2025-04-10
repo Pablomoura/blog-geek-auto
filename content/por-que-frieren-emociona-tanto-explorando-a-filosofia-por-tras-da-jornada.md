@@ -1,14 +1,28 @@
 ---
-title: "Por que Frieren emociona tanto? Explorando a filosofia por trás da jornada"
-slug: "por-que-frieren-emociona-tanto-explorando-a-filosofia-por-tras-da-jornada"
-resumo: "Neste artigo, exploramos as profundas emoções e mensagens filosóficas que emergem na jornada de Frieren, um mangá que tem capturado corações ao redor do mundo. Analisaremos como temas como o tempo, a morte e as relações interpessoais são tratados de maneira única, contribuindo para o impacto emocional da obra."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, manga, filosofia, emoção, tempo, morte, relações, legado"
-tags: ["Frieren", "manga", "filosofia", "emoção", "tempo", "morte", "relações", "legado"]
-data: "2025-04-05T21:34:39.729Z"
+title: Por que Frieren emociona tanto? Explorando a filosofia por trás da jornada
+slug: por-que-frieren-emociona-tanto-explorando-a-filosofia-por-tras-da-jornada
+resumo: >-
+  Neste artigo, exploramos as profundas emoções e mensagens filosóficas que
+  emergem na jornada de Frieren, um mangá que tem capturado corações ao redor do
+  mundo. Analisaremos como temas como o tempo, a morte e as relações
+  interpessoais são tratados de maneira única, contribuindo para o impacto
+  emocional da obra.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: 'Frieren, manga, filosofia, emoção, tempo, morte, relações, legado'
+tags:
+  - Frieren
+  - manga
+  - filosofia
+  - emoção
+  - tempo
+  - morte
+  - relações
+  - legado
+data: '2025-04-05T21:34:39.729Z'
+author: Pablo Moura
 ---
 
 ## Introdução

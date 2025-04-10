@@ -1,13 +1,26 @@
 ---
-title: "F1 | Programação completa para o GP do Japão e detalhes sobre a transmissão"
-slug: "f1-onde-e-quando-assistir-ao-gp-do-japo-e-classificao"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/AjftNr166yI-effAJM5I9V_ZRfM=/987x0/smart/uploads/conteudo/fotos/f1-japao.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hctcY1Lu1KiLWPzW0nx_xnj_LBs=/480x360/smart/extras/conteudos/f1-japao.png"
-tags: ["F1", "GP do Japão", "Suzuka", "transmissão ao vivo", "Oscar Piastri", "Yuki Tsunoda", "Red Bull", "Bandsports"]
-keywords: "F1, GP do Japão, Suzuka, transmissão ao vivo, Oscar Piastri, Yuki Tsunoda, Red Bull, Bandsports"
-data: "2025-04-04T19:09:14.172Z"
+title: F1 | Programação completa para o GP do Japão e detalhes sobre a transmissão
+slug: f1-onde-e-quando-assistir-ao-gp-do-japo-e-classificao
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/AjftNr166yI-effAJM5I9V_ZRfM=/987x0/smart/uploads/conteudo/fotos/f1-japao.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hctcY1Lu1KiLWPzW0nx_xnj_LBs=/480x360/smart/extras/conteudos/f1-japao.png
+tags:
+  - F1
+  - GP do Japão
+  - Suzuka
+  - transmissão ao vivo
+  - Oscar Piastri
+  - Yuki Tsunoda
+  - Red Bull
+  - Bandsports
+keywords: >-
+  F1, GP do Japão, Suzuka, transmissão ao vivo, Oscar Piastri, Yuki Tsunoda, Red
+  Bull, Bandsports
+data: '2025-04-04T19:09:14.172Z'
+author: Luana Souza
 ---
 
 A temporada de Fórmula 1 deste ano iniciou com um evento memorável no GP da Austrália, realizado em Melbourne, que viu vários carros abandonarem a prova já nas primeiras voltas, inclusive durante a volta de apresentação. Em contraste, o GP da China foi menos tumultuado, destacando-se pela primeira vitória de Oscar Piastri, piloto da McLaren.

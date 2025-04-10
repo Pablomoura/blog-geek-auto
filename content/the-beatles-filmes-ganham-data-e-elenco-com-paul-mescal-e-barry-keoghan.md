@@ -18,6 +18,7 @@ tags:
   - paul mescal
   - barry keoghan
   - cinemacon
+author: Luana Souza
 ---
 
 Durante a CinemaCon em Las Vegas, o renomado diretor Sam Mendes anunciou uma audaciosa abordagem para as cinebiografias dos Beatles, com um filme dedicado a cada um dos quatro membros da icônica banda. Mendes revelou que os filmes serão lançados todos no mesmo dia, descrevendo o evento como 'a primeira experiência de cinema para maratonar'.

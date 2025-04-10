@@ -20,6 +20,7 @@ tags:
   - pôster oficial
   - a24
   - trailer
+author: Pablo Moura
 ---
 
 A produtora A24 divulgou neste domingo (30) o pôster oficial do novo filme de terror 'Faça Ela Voltar', dirigido por Danny e Michael Philippou, também conhecidos como RackaRacka. Os irmãos Philippou ganharam destaque com o filme 'Fale Comigo'.

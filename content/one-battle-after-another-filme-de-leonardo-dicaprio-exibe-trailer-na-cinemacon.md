@@ -20,6 +20,7 @@ tags:
   - warner bros.
   - novo filme
   - colaboração cinematográfica
+author: Pablo Moura
 ---
 
 Durante o painel da Warner Bros. na CinemaCon, o novo filme 'One Battle After Another', estrelado por Leonardo DiCaprio, foi um dos destaques. DiCaprio compartilhou seu desejo de longa data de trabalhar com o diretor Paul Thomas Anderson, algo que ele almeja há mais de duas décadas. Após sua fala, foi exibida uma prévia do filme, que ainda não está disponível online, mas foi detalhada pelo site Omelete.

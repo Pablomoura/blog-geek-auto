@@ -1,14 +1,29 @@
 ---
-title: "Geek e Religião: Como Conciliar Fé e Fandom?"
-slug: "geek-e-religiao-como-conciliar-fe-e-fandom"
-resumo: "Explorar o universo geek enquanto mantém convicções religiosas pode parecer desafiador. Este artigo investiga como a fé e o fandom podem coexistir harmoniosamente, discutindo pontos de intersecção e oferecendo dicas para manter um equilíbrio saudável entre ambos."
-categoria: "Cultura e Religião"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "geek, religião, fandom, fé, cultura pop, valores morais, equilíbrio, identidade"
-tags: ["geek", "religião", "fandom", "fé", "cultura pop", "valores morais", "equilíbrio", "identidade"]
-data: "2025-04-04T01:12:14.226Z"
+title: 'Geek e Religião: Como Conciliar Fé e Fandom?'
+slug: geek-e-religiao-como-conciliar-fe-e-fandom
+resumo: >-
+  Explorar o universo geek enquanto mantém convicções religiosas pode parecer
+  desafiador. Este artigo investiga como a fé e o fandom podem coexistir
+  harmoniosamente, discutindo pontos de intersecção e oferecendo dicas para
+  manter um equilíbrio saudável entre ambos.
+categoria: Cultura e Religião
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  geek, religião, fandom, fé, cultura pop, valores morais, equilíbrio,
+  identidade
+tags:
+  - geek
+  - religião
+  - fandom
+  - fé
+  - cultura pop
+  - valores morais
+  - equilíbrio
+  - identidade
+data: '2025-04-04T01:12:14.226Z'
+author: Pablo Moura
 ---
 
 ## Introdução

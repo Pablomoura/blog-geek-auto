@@ -1,13 +1,26 @@
 ---
-title: "SNL | Kenan Thompson revela luta contra doença após anos de silêncio"
-slug: "snl-kenan-thompson-revela-doena-aps-sofrer-em-silncio-por-anos"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/bfOI6ZlHrFZdo9lNfCT8JDiF7NI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T214443.921.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/yfRSTAG_iY2f9wGsA_UyTIMmS_c=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T214443.921.png"
-tags: ["Kenan Thompson", "SNL", "Refluxo Gastroesofágico", "saúde", "tratamento de DRGE", "Voquezna", "conscientização sobre saúde", "Phantom Pharmaceuticals"]
-keywords: "Kenan Thompson, SNL, Refluxo Gastroesofágico, saúde, tratamento de DRGE, Voquezna, conscientização sobre saúde, Phantom Pharmaceuticals"
-data: "2025-04-05T01:06:40.058Z"
+title: SNL | Kenan Thompson revela luta contra doença após anos de silêncio
+slug: snl-kenan-thompson-revela-doena-aps-sofrer-em-silncio-por-anos
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/bfOI6ZlHrFZdo9lNfCT8JDiF7NI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T214443.921.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/yfRSTAG_iY2f9wGsA_UyTIMmS_c=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T214443.921.png
+tags:
+  - Kenan Thompson
+  - SNL
+  - Refluxo Gastroesofágico
+  - saúde
+  - tratamento de DRGE
+  - Voquezna
+  - conscientização sobre saúde
+  - Phantom Pharmaceuticals
+keywords: >-
+  Kenan Thompson, SNL, Refluxo Gastroesofágico, saúde, tratamento de DRGE,
+  Voquezna, conscientização sobre saúde, Phantom Pharmaceuticals
+data: '2025-04-05T01:06:40.058Z'
+author: Luana Souza
 ---
 
 Kenan Thompson, conhecido por seu trabalho no programa Saturday Night Live, abriu o coração em uma entrevista à People Magazine sobre sua batalha contra o Refluxo Gastroesofágico (DRGE), condição que ele enfrentou em silêncio por vários anos. O ator revelou que os sintomas começaram a se manifestar em 2022, caracterizados por uma azia intensa após a ingestão de alimentos ácidos, impactando significativamente sua rotina e performances no SNL.

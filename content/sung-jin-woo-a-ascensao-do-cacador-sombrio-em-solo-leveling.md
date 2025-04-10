@@ -1,14 +1,29 @@
 ---
-title: "Sung Jin-Woo: A Ascensão do Caçador Sombrio em Solo Leveling"
-slug: "sung-jin-woo-a-ascensao-do-cacador-sombrio-em-solo-leveling"
-resumo: "Descubra quem é Sung Jin-Woo, o protagonista dinâmico de Solo Leveling, uma série de webtoon e light novel sul-coreana que cativou leitores ao redor do mundo. Explore a jornada, as habilidades e os desafios enfrentados por este personagem intrigante."
-categoria: "Personagens de Ficção"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Sung Jin-Woo, Solo Leveling, Webtoon, Light Novel, Caçador Sombrio, Fantasia, Literatura Coreana, Mangá"
-tags: ["Sung Jin-Woo", "Solo Leveling", "Webtoon", "Light Novel", "Caçador Sombrio", "Fantasia", "Literatura Coreana", "Mangá"]
-data: "2025-04-01T01:31:18.125Z"
+title: 'Sung Jin-Woo: A Ascensão do Caçador Sombrio em Solo Leveling'
+slug: sung-jin-woo-a-ascensao-do-cacador-sombrio-em-solo-leveling
+resumo: >-
+  Descubra quem é Sung Jin-Woo, o protagonista dinâmico de Solo Leveling, uma
+  série de webtoon e light novel sul-coreana que cativou leitores ao redor do
+  mundo. Explore a jornada, as habilidades e os desafios enfrentados por este
+  personagem intrigante.
+categoria: Personagens de Ficção
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Sung Jin-Woo, Solo Leveling, Webtoon, Light Novel, Caçador Sombrio, Fantasia,
+  Literatura Coreana, Mangá
+tags:
+  - Sung Jin-Woo
+  - Solo Leveling
+  - Webtoon
+  - Light Novel
+  - Caçador Sombrio
+  - Fantasia
+  - Literatura Coreana
+  - Mangá
+data: '2025-04-01T01:31:18.125Z'
+author: Luana Souza
 ---
 
 ## Introdução

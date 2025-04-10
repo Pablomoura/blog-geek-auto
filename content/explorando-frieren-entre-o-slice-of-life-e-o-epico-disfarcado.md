@@ -1,14 +1,29 @@
 ---
-title: "Explorando 'Frieren': Entre o Slice of Life e o Épico Disfarçado"
-slug: "explorando-frieren-entre-o-slice-of-life-e-o-epico-disfarcado"
-resumo: "Este artigo investiga a natureza do mangá 'Frieren', analisando se ele se enquadra mais como um slice of life ou como um épico disfarçado. Através de uma análise detalhada da narrativa, personagens e temáticas, desvendamos a complexidade e o charme deste trabalho aclamado."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, Manga, Slice of Life, Épico, Análise de Mangá, Fantasia, Narrativa, Crescimento Pessoal"
-tags: ["Frieren", "Manga", "Slice of Life", "Épico", "Análise de Mangá", "Fantasia", "Narrativa", "Crescimento Pessoal"]
-data: "2025-04-05T21:35:49.346Z"
+title: 'Explorando ''Frieren'': Entre o Slice of Life e o Épico Disfarçado'
+slug: explorando-frieren-entre-o-slice-of-life-e-o-epico-disfarcado
+resumo: >-
+  Este artigo investiga a natureza do mangá 'Frieren', analisando se ele se
+  enquadra mais como um slice of life ou como um épico disfarçado. Através de
+  uma análise detalhada da narrativa, personagens e temáticas, desvendamos a
+  complexidade e o charme deste trabalho aclamado.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, Manga, Slice of Life, Épico, Análise de Mangá, Fantasia, Narrativa,
+  Crescimento Pessoal
+tags:
+  - Frieren
+  - Manga
+  - Slice of Life
+  - Épico
+  - Análise de Mangá
+  - Fantasia
+  - Narrativa
+  - Crescimento Pessoal
+data: '2025-04-05T21:35:49.346Z'
+author: Luana Souza
 ---
 
 ## Introdução

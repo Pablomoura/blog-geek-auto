@@ -1,13 +1,26 @@
 ---
-title: "The White Lotus | Terceira temporada conclui o arco sobre a morte de Tanya?"
-slug: "the-white-lotus-final-da-3-temporada-encerra-histria-sobre-morte-de-tanya"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/pBMAURxuEnh-1HaWcWCH24Lo7qk=/480x360/smart/extras/conteudos/white-lotus-final-belinda.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pBMAURxuEnh-1HaWcWCH24Lo7qk=/480x360/smart/extras/conteudos/white-lotus-final-belinda.png"
-tags: ["The White Lotus", "terceira temporada", "morte de Tanya", "série de antologia", "crítica social", "resorts luxuosos", "Mike White", "destino de personagens"]
-keywords: "The White Lotus, terceira temporada, morte de Tanya, série de antologia, crítica social, resorts luxuosos, Mike White, destino de personagens"
-data: "2025-04-07T03:30:44.340Z"
+title: The White Lotus | Terceira temporada conclui o arco sobre a morte de Tanya?
+slug: the-white-lotus-final-da-3-temporada-encerra-histria-sobre-morte-de-tanya
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/pBMAURxuEnh-1HaWcWCH24Lo7qk=/480x360/smart/extras/conteudos/white-lotus-final-belinda.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pBMAURxuEnh-1HaWcWCH24Lo7qk=/480x360/smart/extras/conteudos/white-lotus-final-belinda.png
+tags:
+  - The White Lotus
+  - terceira temporada
+  - morte de Tanya
+  - série de antologia
+  - crítica social
+  - resorts luxuosos
+  - Mike White
+  - destino de personagens
+keywords: >-
+  The White Lotus, terceira temporada, morte de Tanya, série de antologia,
+  crítica social, resorts luxuosos, Mike White, destino de personagens
+data: '2025-04-07T03:30:44.340Z'
+author: Ana Luiza
 ---
 
 Na noite de domingo, o último episódio da terceira temporada de 'The White Lotus' foi ao ar, trazendo grandes expectativas sobre o desfecho de várias tramas. A série, conhecida por seu humor ácido e crítica social, tem seguido diferentes grupos de hóspedes em resorts luxuosos, explorando suas vidas e segredos.

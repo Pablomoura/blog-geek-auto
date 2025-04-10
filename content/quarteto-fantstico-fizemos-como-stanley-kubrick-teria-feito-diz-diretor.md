@@ -1,13 +1,28 @@
 ---
-title: "Quarteto Fantástico | 'Fizemos como Stanley Kubrick teria feito', afirma diretor Matt Shakman"
-slug: "quarteto-fantstico-fizemos-como-stanley-kubrick-teria-feito-diz-diretor"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/cSdSxwGL0bNnq6whDYkDrgyXU3g=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T121217.194.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/omr_03noSUuiqN0padD_buqv5XQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T121155.314.png"
-tags: ["Quarteto Fantástico", "MCU", "Matt Shakman", "Stanley Kubrick", "Cinema Retro", "CGI", "Marvel Comics", "Estreia 2025"]
-keywords: "Quarteto Fantástico, MCU, Matt Shakman, Stanley Kubrick, Cinema Retro, CGI, Marvel Comics, Estreia 2025"
-data: "2025-04-04T16:13:27.169Z"
+title: >-
+  Quarteto Fantástico | 'Fizemos como Stanley Kubrick teria feito', afirma
+  diretor Matt Shakman
+slug: quarteto-fantstico-fizemos-como-stanley-kubrick-teria-feito-diz-diretor
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/cSdSxwGL0bNnq6whDYkDrgyXU3g=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T121217.194.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/omr_03noSUuiqN0padD_buqv5XQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T121155.314.png
+tags:
+  - Quarteto Fantástico
+  - MCU
+  - Matt Shakman
+  - Stanley Kubrick
+  - Cinema Retro
+  - CGI
+  - Marvel Comics
+  - Estreia 2025
+keywords: >-
+  Quarteto Fantástico, MCU, Matt Shakman, Stanley Kubrick, Cinema Retro, CGI,
+  Marvel Comics, Estreia 2025
+data: '2025-04-04T16:13:27.169Z'
+author: Ana Luiza
 ---
 
 Em recente entrevista concedida à revista Empire, Matt Shakman, diretor de 'Quarteto Fantástico: Primeiros Passos', compartilhou insights sobre sua fonte de inspiração para o comando do novo filme do Marvel Cinematic Universe (MCU). Shakman expressou seu desejo de recriar uma atmosfera que remetesse ao ano de 1965, conforme seria feito pelo renomado diretor Stanley Kubrick. 'Eu realmente queria fazer que o filme parecesse feito em 1965, da forma que Stanley Kubrick teria feito', explicou o diretor. Para alcançar essa estética, Shakman e sua equipe optaram pelo uso de lentes antigas e uma abordagem cinematográfica diferenciada, visando a uma maior imersão temporal, embora não tenham dispensado o uso extensivo de CGI.

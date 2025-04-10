@@ -1,13 +1,28 @@
 ---
-title: "Vingadores: Doomsday | Kevin Feige confirma que elenco completo não foi revelado"
-slug: "vingadores-doomsday-kevin-feige-confirma-que-elenco-completo-no-foi-revelado"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/eRVCqnlgJj_MiOk-yFG9Vv42KuA=/987x0/smart/uploads/conteudo/fotos/vingadores-doomsday-elenco-2.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fMZmiCeAdUf_skGTGZOK9psLFz8=/480x360/smart/extras/conteudos/vingadores-doomsday-elenco_RZ3X7u7.jpg"
-tags: ["Vingadores: Doomsday", "Kevin Feige", "CinemaCon 2025", "Doutor Destino", "Robert Downey Jr.", "multiverso", "X-Men", "Quarteto Fantástico"]
-keywords: "Vingadores: Doomsday, Kevin Feige, CinemaCon 2025, Doutor Destino, Robert Downey Jr., multiverso, X-Men, Quarteto Fantástico"
-data: "2025-04-03T23:10:58.898Z"
+title: >-
+  Vingadores: Doomsday | Kevin Feige confirma que elenco completo não foi
+  revelado
+slug: vingadores-doomsday-kevin-feige-confirma-que-elenco-completo-no-foi-revelado
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/eRVCqnlgJj_MiOk-yFG9Vv42KuA=/987x0/smart/uploads/conteudo/fotos/vingadores-doomsday-elenco-2.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fMZmiCeAdUf_skGTGZOK9psLFz8=/480x360/smart/extras/conteudos/vingadores-doomsday-elenco_RZ3X7u7.jpg
+tags:
+  - 'Vingadores: Doomsday'
+  - Kevin Feige
+  - CinemaCon 2025
+  - Doutor Destino
+  - Robert Downey Jr.
+  - multiverso
+  - X-Men
+  - Quarteto Fantástico
+keywords: >-
+  Vingadores: Doomsday, Kevin Feige, CinemaCon 2025, Doutor Destino, Robert
+  Downey Jr., multiverso, X-Men, Quarteto Fantástico
+data: '2025-04-03T23:10:58.898Z'
+author: Luana Souza
 ---
 
 Em recente apresentação na CinemaCon 2025, Kevin Feige, direto do set na Inglaterra, compartilhou novidades sobre 'Vingadores: Doomsday'. O produtor revelou que ainda há atores a serem anunciados para o elenco, cujas filmagens iniciarão em breve, neste mês de abril. Feige também adiantou que o enredo envolverá uma complexa narrativa multiversal, com o Doutor Destino, interpretado por Robert Downey Jr., desempenhando um papel central.

@@ -1,13 +1,26 @@
 ---
-title: "BBB 25 | Quem lidera as preferências após a eliminação de Dani Hypólito?"
-slug: "bbb-25-aps-eliminao-de-dani-hyplito-quem-o-favorito-ao-prmio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/tSl-dEJimHh-ArECGV3Zs9Qm6vA=/987x0/smart/uploads/conteudo/fotos/bbb25-favorito.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/l2twUw4n8qdDw0GXMbw77rIWTQE=/480x360/smart/extras/conteudos/bbb25-favorito-peq.jpg"
-tags: ["BBB 25", "Vitória Strada", "eliminação", "Daniele Hypólito", "Tadeu Schmidt", "Rodrigo Dourado", "votação", "reality show"]
-keywords: "BBB 25, Vitória Strada, eliminação, Daniele Hypólito, Tadeu Schmidt, Rodrigo Dourado, votação, reality show"
-data: "2025-04-07T05:11:05.728Z"
+title: BBB 25 | Quem lidera as preferências após a eliminação de Dani Hypólito?
+slug: bbb-25-aps-eliminao-de-dani-hyplito-quem-o-favorito-ao-prmio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/tSl-dEJimHh-ArECGV3Zs9Qm6vA=/987x0/smart/uploads/conteudo/fotos/bbb25-favorito.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/l2twUw4n8qdDw0GXMbw77rIWTQE=/480x360/smart/extras/conteudos/bbb25-favorito-peq.jpg
+tags:
+  - BBB 25
+  - Vitória Strada
+  - eliminação
+  - Daniele Hypólito
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - votação
+  - reality show
+keywords: >-
+  BBB 25, Vitória Strada, eliminação, Daniele Hypólito, Tadeu Schmidt, Rodrigo
+  Dourado, votação, reality show
+data: '2025-04-07T05:11:05.728Z'
+author: Luana Souza
 ---
 
 O Big Brother Brasil 25 avança e, após o 13º Paredão que resultou na eliminação de Daniele Hypólito, o jogo segue acirrado com nove competidores ainda na disputa pelo prêmio milionário. Segundo uma recente pesquisa realizada pelo portal UOL, Vitória Strada destaca-se como a principal favorita para ganhar a competição, recebendo 34,65% dos votos na enquete, marcando sua liderança pelo terceiro levantamento consecutivo.

@@ -1,13 +1,26 @@
 ---
-title: "The Rookie | Série de Nathan Fillion é renovada para 8ª temporada"
-slug: "the-rookie-srie-de-nathan-fillion-renovada-para-8-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/kHdUM8aa4SVZwSbR2D9HF_xDijQ=/987x0/smart/uploads/conteudo/fotos/the-rookie-renovada.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Mtc3KfKS-m16GRGdyv0T1q5V6sA=/480x360/smart/extras/conteudos/rookie.webp"
-tags: ["The Rookie", "Nathan Fillion", "renovação de série", "LAPD", "policial", "crise de meia-idade", "elenco estrelado", "Universal+"]
-keywords: "The Rookie, Nathan Fillion, renovação de série, LAPD, policial, crise de meia-idade, elenco estrelado, Universal+"
-data: "2025-04-03T20:12:42.545Z"
+title: The Rookie | Série de Nathan Fillion é renovada para 8ª temporada
+slug: the-rookie-srie-de-nathan-fillion-renovada-para-8-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/kHdUM8aa4SVZwSbR2D9HF_xDijQ=/987x0/smart/uploads/conteudo/fotos/the-rookie-renovada.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Mtc3KfKS-m16GRGdyv0T1q5V6sA=/480x360/smart/extras/conteudos/rookie.webp
+tags:
+  - The Rookie
+  - Nathan Fillion
+  - renovação de série
+  - LAPD
+  - policial
+  - crise de meia-idade
+  - elenco estrelado
+  - Universal+
+keywords: >-
+  The Rookie, Nathan Fillion, renovação de série, LAPD, policial, crise de
+  meia-idade, elenco estrelado, Universal+
+data: '2025-04-03T20:12:42.545Z'
+author: Ana Luiza
 ---
 
 Alegria para os admiradores de John Nolan: a série 'The Rookie', com Nathan Fillion no papel principal, garantiu renovação para sua oitava temporada, conforme anunciado antes da conclusão da temporada atual em exibição. Este anúncio foi feito pela Variety, que também incluiu outras produções como 'Grey's Anatomy', 'Will Trent', 'Shifting Gears' e '9-1-1' na lista de renovações.

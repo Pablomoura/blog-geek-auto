@@ -1,13 +1,25 @@
 ---
-title: "Adolescência | Filme com astro da série disponível gratuitamente no YouTube"
-slug: "adolescncia-filme-com-astro-da-srie-est-gratuito-no-youtube"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/MHHIfwk5ZZQ?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/PdbhLL8nsyZgv-M7JHIeIVgFLbo=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T193513.235.png"
-tags: ["Stephen Graham", "Adolescência", "Filme grátis", "YouTube", "Plano sequência", "Filmelier TV BR", "Netflix", "O Chef"]
-keywords: "Stephen Graham, Adolescência, Filme grátis, YouTube, Plano sequência, Filmelier TV BR, Netflix, O Chef"
-data: "2025-04-04T23:10:24.578Z"
+title: Adolescência | Filme com astro da série disponível gratuitamente no YouTube
+slug: adolescncia-filme-com-astro-da-srie-est-gratuito-no-youtube
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/MHHIfwk5ZZQ?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/PdbhLL8nsyZgv-M7JHIeIVgFLbo=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T193513.235.png
+tags:
+  - Stephen Graham
+  - Adolescência
+  - Filme grátis
+  - YouTube
+  - Plano sequência
+  - Filmelier TV BR
+  - Netflix
+  - O Chef
+keywords: >-
+  Stephen Graham, Adolescência, Filme grátis, YouTube, Plano sequência,
+  Filmelier TV BR, Netflix, O Chef
+data: '2025-04-04T23:10:24.578Z'
+author: Ana Luiza
 ---
 
 A partir desta sexta-feira (04), o canal Filmelier TV BR no YouTube disponibiliza gratuitamente o filme 'O Chef', estrelado por Stephen Graham, conhecido por seu papel como Eddie Miller na série 'Adolescência' da Netflix. No filme, Graham interpreta um chef de cozinha que luta para manter o controle de seu restaurante durante uma noite particularmente caótica. Assim como 'Adolescência', 'O Chef' foi inteiramente filmado em plano sequência.

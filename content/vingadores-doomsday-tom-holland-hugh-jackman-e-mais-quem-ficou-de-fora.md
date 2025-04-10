@@ -14,6 +14,7 @@ tags:
   - marvel studios
   - x-men
   - super-heróis
+author: Pablo Moura
 ---
 
 A Marvel Studios promoveu um evento online nesta quarta-feira, 26, para anunciar o elenco principal do aguardado filme 'Vingadores: Doomsday'. A produção do novo longa da saga de super-heróis já está a todo vapor, e a lista inclui o retorno dos X-Men originais da era Fox.

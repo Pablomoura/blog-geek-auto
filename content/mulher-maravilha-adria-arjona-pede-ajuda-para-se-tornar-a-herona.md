@@ -16,6 +16,7 @@ tags:
   - james gunn
   - dc comics
   - cinema
+author: Luana Souza
 ---
 
 Em recente aparição na estreia de 'Um Filme Minecraft', a atriz Adria Arjona revelou seu interesse em interpretar a icônica Mulher-Maravilha nos cinemas. Ela até incentivou os fãs a entrarem em contato com James Gunn, um dos responsáveis pelo universo cinematográfico da DC na Warner Bros, para apoiá-la nessa jornada.

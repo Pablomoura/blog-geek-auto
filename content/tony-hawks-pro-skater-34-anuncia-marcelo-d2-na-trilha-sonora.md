@@ -14,6 +14,7 @@ tags:
   - música brasileira
   - skate
   - activision
+author: Pablo Moura
 ---
 
 A Activision revelou novidades para a trilha sonora de Tony Hawk's Pro Skater 3+4, destacando a inclusão da música 'Vai Vendo' de Marcelo D2. Esta faixa faz parte do álbum 'A Procura da Batida Perfeita', lançado em 2003. Além de Marcelo D2, a lista de artistas recentemente confirmados inclui Memo PST, X-Ray Spex, Iron Maiden, Cold Cave e Travis Barker com JFA.

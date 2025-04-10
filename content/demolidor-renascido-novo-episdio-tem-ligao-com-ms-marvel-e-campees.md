@@ -17,6 +17,7 @@ tags:
   - campeões
   - conexões marvel
   - spoilers série
+author: Luana Souza
 ---
 
 [Alerta de spoilers do episódio 5 de 'Demolidor: Renascido' a seguir]

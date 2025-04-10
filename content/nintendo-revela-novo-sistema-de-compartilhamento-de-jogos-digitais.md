@@ -13,6 +13,7 @@ tags:
   - compartilhamento
   - cartões virtuais
   - nintendo direct
+author: Pablo Moura
 ---
 
 A Nintendo revelou um inovador sistema para compartilhamento de jogos digitais. Denominado Cartões Virtuais, o recurso visa facilitar o empréstimo de jogos entre diferentes consoles e usuários. A funcionalidade está prevista para ser lançada em abril.

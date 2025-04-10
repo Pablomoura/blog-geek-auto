@@ -18,6 +18,7 @@ tags:
   - trailer
   - francis lawrence
   - adaptação literária
+author: Pablo Moura
 ---
 
 O aguardado filme 'The Long Walk', baseado no livro de Stephen King e dirigido por Francis Lawrence (conhecido por 'Constantine' e 'Jogos Vorazes'), teve seu primeiro trailer exibido na CinemaCon nesta terça-feira. O trailer apresenta um grupo de jovens, incluindo Ben Wang e Cooper Hoffman, em uma marcha forçada onde a parada significa a morte. A trama intensifica-se rapidamente, com a voz de Mark Hamill narrando sua função como líder da organização que administra a competição mortal.

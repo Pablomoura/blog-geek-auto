@@ -15,6 +15,7 @@ tags:
   - jogos para ps4
   - jogos para ps5
   - sony
+author: Pablo Moura
 ---
 
 A Sony divulgou a lista de jogos para abril da PS Plus Essentials, a versão mais acessível da assinatura da PS Plus. Entre os destaques estão Robocop, para PS4 e PS5, que permite aos jogadores encarnar o icônico policial ciborgue em uma aventura em primeira pessoa.

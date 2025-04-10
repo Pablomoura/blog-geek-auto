@@ -16,6 +16,7 @@ tags:
   - tv globo
   - filme brasileiro
   - milena ribeiro
+author: Ana Luiza
 ---
 
 A sessão Tela Quente da próxima segunda-feira, 31 de julho, trará o filme 'Levanta, Regiane', lançado em 2025. Com uma duração de 41 minutos, o filme será transmitido na TV Globo às 23h25, horário de Brasília.

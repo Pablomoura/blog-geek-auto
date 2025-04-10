@@ -1,13 +1,28 @@
 ---
-title: "One Piece | Ty Keogh comenta sobre seu papel como Dalton na adaptação live-action"
-slug: "one-piece-ty-keogh-fala-sobre-interpretar-dalton-na-srie-live-action"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/QXl7LvgRAVh900IqAo__x1ROfZE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T130522.019.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/mCWK_kkWT0VAtGM1ZwwT2S3O1xI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T130449.479.png"
-tags: ["One Piece", "Ty Keogh", "Dalton", "live-action", "Netflix", "Drum Island", "adaptação de anime", "elenco principal"]
-keywords: "One Piece, Ty Keogh, Dalton, live-action, Netflix, Drum Island, adaptação de anime, elenco principal"
-data: "2025-04-09T16:12:16.386Z"
+title: >-
+  One Piece | Ty Keogh comenta sobre seu papel como Dalton na adaptação
+  live-action
+slug: one-piece-ty-keogh-fala-sobre-interpretar-dalton-na-srie-live-action
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/QXl7LvgRAVh900IqAo__x1ROfZE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T130522.019.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/mCWK_kkWT0VAtGM1ZwwT2S3O1xI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T130449.479.png
+tags:
+  - One Piece
+  - Ty Keogh
+  - Dalton
+  - live-action
+  - Netflix
+  - Drum Island
+  - adaptação de anime
+  - elenco principal
+keywords: >-
+  One Piece, Ty Keogh, Dalton, live-action, Netflix, Drum Island, adaptação de
+  anime, elenco principal
+data: '2025-04-09T16:12:16.386Z'
+author: Ana Luiza
 ---
 
 O ator Ty Keogh compartilhou suas impressões sobre interpretar Dalton na adaptação live-action de One Piece da Netflix através de um vídeo recente. Em suas palavras, 'A equipe está totalmente dedicada. Drum Island, onde a história se passa, é incrivelmente detalhada e rica em texturas... Aprendi muito nos últimos meses e acredito que a segunda temporada superará todas as expectativas.'

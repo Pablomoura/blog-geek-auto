@@ -1,13 +1,25 @@
 ---
-title: "Chicago Fire | Eamonn Walker retorna como Wallace Boden na 13ª temporada"
-slug: "chicago-fire-retorno-de-eamonn-walker-na-13-temporada-ganha-foto"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/P4NGMUeGmrw?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Ysv2YpML6lPICq1DpgxcM66HKMs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_165215.png"
-tags: ["Chicago Fire", "Eamonn Walker", "Wallace Boden", "13ª temporada", "série de TV", "retorno de personagem", "Universal TV", "streaming"]
-keywords: "Chicago Fire, Eamonn Walker, Wallace Boden, 13ª temporada, série de TV, retorno de personagem, Universal TV, streaming"
-data: "2025-04-09T20:11:56.663Z"
+title: Chicago Fire | Eamonn Walker retorna como Wallace Boden na 13ª temporada
+slug: chicago-fire-retorno-de-eamonn-walker-na-13-temporada-ganha-foto
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/P4NGMUeGmrw?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Ysv2YpML6lPICq1DpgxcM66HKMs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_165215.png
+tags:
+  - Chicago Fire
+  - Eamonn Walker
+  - Wallace Boden
+  - 13ª temporada
+  - série de TV
+  - retorno de personagem
+  - Universal TV
+  - streaming
+keywords: >-
+  Chicago Fire, Eamonn Walker, Wallace Boden, 13ª temporada, série de TV,
+  retorno de personagem, Universal TV, streaming
+data: '2025-04-09T20:11:56.663Z'
+author: Luana Souza
 ---
 
 A série 'Chicago Fire' está prestes a reacolher um de seus mais carismáticos personagens, Wallace Boden, interpretado pelo ator Eamonn Walker. A primeira imagem de seu retorno já foi divulgada e mostra Boden ao lado de importantes personagens como o chefe Dom Pascal, Stella Kidd e Christopher Hermann, em uma foto cortesia do Deadline.

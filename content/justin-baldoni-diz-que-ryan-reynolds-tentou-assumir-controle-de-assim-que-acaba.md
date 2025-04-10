@@ -1,13 +1,29 @@
 ---
-title: "Justin Baldoni acusa Ryan Reynolds de tentar dominar produção do filme 'É Assim que Acaba'"
-slug: "justin-baldoni-diz-que-ryan-reynolds-tentou-assumir-controle-de-assim-que-acaba"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/BSM0iPPhqo6cNIlvlpUGJEDJOpo=/987x0/smart/uploads/conteudo/fotos/02_rVjBN9N_JpoARps.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/iwFFp_y2Y4zUnGL8x_6XvQE3O3c=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-04_090921.png"
-tags: ["Justin Baldoni", "Ryan Reynolds", "Blake Lively", "disputa legal", "É Assim que Acaba", "assédio sexual", "Deadpool & Wolverine", "Wayfarer Studios"]
-keywords: "Justin Baldoni, Ryan Reynolds, Blake Lively, disputa legal, É Assim que Acaba, assédio sexual, Deadpool & Wolverine, Wayfarer Studios"
-data: "2025-04-04T13:22:45.173Z"
+title: >-
+  Justin Baldoni acusa Ryan Reynolds de tentar dominar produção do filme 'É
+  Assim que Acaba'
+slug: >-
+  justin-baldoni-diz-que-ryan-reynolds-tentou-assumir-controle-de-assim-que-acaba
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/BSM0iPPhqo6cNIlvlpUGJEDJOpo=/987x0/smart/uploads/conteudo/fotos/02_rVjBN9N_JpoARps.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/iwFFp_y2Y4zUnGL8x_6XvQE3O3c=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-04_090921.png
+tags:
+  - Justin Baldoni
+  - Ryan Reynolds
+  - Blake Lively
+  - disputa legal
+  - É Assim que Acaba
+  - assédio sexual
+  - Deadpool & Wolverine
+  - Wayfarer Studios
+keywords: >-
+  Justin Baldoni, Ryan Reynolds, Blake Lively, disputa legal, É Assim que Acaba,
+  assédio sexual, Deadpool & Wolverine, Wayfarer Studios
+data: '2025-04-04T13:22:45.173Z'
+author: Ana Luiza
 ---
 
 A disputa legal envolvendo Justin Baldoni e Blake Lively ganha novos contornos com a inclusão de Ryan Reynolds. Em março, Reynolds solicitou ser removido de um processo de difamação, no valor de US$ 400 milhões, iniciado por Justin Baldoni. No entanto, Baldoni está contestando essa exclusão e acusa Reynolds de manipular acusações de assédio para se fortalecer nos bastidores durante a produção do filme 'É Assim que Acaba'.

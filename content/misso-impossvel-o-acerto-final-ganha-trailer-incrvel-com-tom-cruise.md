@@ -1,13 +1,25 @@
 ---
-title: "Missão: Impossível - O Acerto Final ganha trailer incrível com Tom Cruise"
-slug: "misso-impossvel-o-acerto-final-ganha-trailer-incrvel-com-tom-cruise"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/fsQgc9pCyDU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Rl_2R-Vz437N-oo0E_zMV7Z3H1k=/480x360/smart/extras/conteudos/mission-impossible.jpg"
-tags: ["Missão: Impossível", "Tom Cruise", "trailer", "Christopher McQuarrie", "Ethan Hunt", "filme de ação", "Paramount Pictures", "estreia 2025"]
-keywords: "Missão: Impossível, Tom Cruise, trailer, Christopher McQuarrie, Ethan Hunt, filme de ação, Paramount Pictures, estreia 2025"
-data: "2025-04-07T13:23:09.559Z"
+title: 'Missão: Impossível - O Acerto Final ganha trailer incrível com Tom Cruise'
+slug: misso-impossvel-o-acerto-final-ganha-trailer-incrvel-com-tom-cruise
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/fsQgc9pCyDU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Rl_2R-Vz437N-oo0E_zMV7Z3H1k=/480x360/smart/extras/conteudos/mission-impossible.jpg
+tags:
+  - 'Missão: Impossível'
+  - Tom Cruise
+  - trailer
+  - Christopher McQuarrie
+  - Ethan Hunt
+  - filme de ação
+  - Paramount Pictures
+  - estreia 2025
+keywords: >-
+  Missão: Impossível, Tom Cruise, trailer, Christopher McQuarrie, Ethan Hunt,
+  filme de ação, Paramount Pictures, estreia 2025
+data: '2025-04-07T13:23:09.559Z'
+author: Pablo Moura
 ---
 
 A Paramount Pictures revelou nesta segunda-feira o aguardado trailer de ‘Missão: Impossível - O Acerto Final’. O filme promete ser o grande encerramento das aventuras de Ethan Hunt, interpretado por Tom Cruise.

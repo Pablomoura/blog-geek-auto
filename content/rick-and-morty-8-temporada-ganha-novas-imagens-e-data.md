@@ -18,6 +18,7 @@ tags:
   - adult swim
   - imagens oficiais
   - dia da mentira
+author: Pablo Moura
 ---
 
 A oitava temporada de Rick and Morty, série de grande sucesso, acaba de ter sua data de estreia anunciada, juntamente com a divulgação de duas novas imagens oficiais. Estas foram apresentadas durante um especial do Adult Swim no último 31 de março, que celebrou o Dia da Mentira com um segmento em live-action de cenas icônicas da série.

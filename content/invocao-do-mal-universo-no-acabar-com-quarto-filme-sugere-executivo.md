@@ -1,13 +1,28 @@
 ---
-title: "Invocação do Mal | Futuro do universo cinematográfico além do quarto filme é promissor, afirma executivo"
-slug: "invocao-do-mal-universo-no-acabar-com-quarto-filme-sugere-executivo"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/YHCQWc7uuj0ZUSuEikUk14KhVYA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T102937.356.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ewONYVnXR5J3OF71I6085w0cSxE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T102918.602.png"
-tags: ["Invocação do Mal", "universo cinematográfico", "James Wan", "New Line Cinema", "filmes de terror", "sequências de filmes", "bilheteria", "investigadores paranormais"]
-keywords: "Invocação do Mal, universo cinematográfico, James Wan, New Line Cinema, filmes de terror, sequências de filmes, bilheteria, investigadores paranormais"
-data: "2025-04-03T14:11:24.881Z"
+title: >-
+  Invocação do Mal | Futuro do universo cinematográfico além do quarto filme é
+  promissor, afirma executivo
+slug: invocao-do-mal-universo-no-acabar-com-quarto-filme-sugere-executivo
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/YHCQWc7uuj0ZUSuEikUk14KhVYA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T102937.356.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ewONYVnXR5J3OF71I6085w0cSxE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T102918.602.png
+tags:
+  - Invocação do Mal
+  - universo cinematográfico
+  - James Wan
+  - New Line Cinema
+  - filmes de terror
+  - sequências de filmes
+  - bilheteria
+  - investigadores paranormais
+keywords: >-
+  Invocação do Mal, universo cinematográfico, James Wan, New Line Cinema, filmes
+  de terror, sequências de filmes, bilheteria, investigadores paranormais
+data: '2025-04-03T14:11:24.881Z'
+author: Pablo Moura
 ---
 
 Embora 'Invocação do Mal 4' seja o último filme anunciado com os personagens Ed e Lorraine Warren, interpretados por Patrick Wilson e Vera Farmiga, o universo estabelecido por James Wan pode não chegar ao fim. Richard Brener, chefe da New Line Cinema, destacou em entrevista ao The Hollywood Reporter que a empresa busca inovar em suas sequências para evitar a sensação de repetição. 'Tentamos sempre apresentar algo novo, e acredito que temos conseguido isso com êxito em nossas franquias', afirmou.

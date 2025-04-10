@@ -1,14 +1,29 @@
 ---
-title: "Guia Completo dos Filmes do Studio Ghibli: Uma Jornada Mágica no Cinema"
-slug: "guia-completo-dos-filmes-do-studio-ghibli-uma-jornada-magica-no-cinema"
-resumo: "Explore o maravilhoso mundo do Studio Ghibli, desde seus primórdios com 'O Castelo no Céu' até obras recentes como 'Aya e a Bruxa'. Descubra os temas recorrentes, a evolução dos personagens e dicas de como iniciar sua jornada pelo universo de Hayao Miyazaki e Isao Takahata."
-categoria: "Cinema"
-midia: "/images/guia-Studio-Ghibli.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-guia-Studio-Ghibli.jpg"
-keywords: "Studio Ghibli, Hayao Miyazaki, Animação Japonesa, Filmes Cult, Cinema de Animação, Isao Takahata, Fantasia, Ecológico"
-tags: ["Studio Ghibli", "Hayao Miyazaki", "Animação Japonesa", "Filmes Cult", "Cinema de Animação", "Isao Takahata", "Fantasia", "Ecológico"]
-data: "2025-04-04T21:46:18.478Z"
+title: 'Guia Completo dos Filmes do Studio Ghibli: Uma Jornada Mágica no Cinema'
+slug: guia-completo-dos-filmes-do-studio-ghibli-uma-jornada-magica-no-cinema
+resumo: >-
+  Explore o maravilhoso mundo do Studio Ghibli, desde seus primórdios com 'O
+  Castelo no Céu' até obras recentes como 'Aya e a Bruxa'. Descubra os temas
+  recorrentes, a evolução dos personagens e dicas de como iniciar sua jornada
+  pelo universo de Hayao Miyazaki e Isao Takahata.
+categoria: Cinema
+midia: /images/guia-Studio-Ghibli.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-guia-Studio-Ghibli.jpg
+keywords: >-
+  Studio Ghibli, Hayao Miyazaki, Animação Japonesa, Filmes Cult, Cinema de
+  Animação, Isao Takahata, Fantasia, Ecológico
+tags:
+  - Studio Ghibli
+  - Hayao Miyazaki
+  - Animação Japonesa
+  - Filmes Cult
+  - Cinema de Animação
+  - Isao Takahata
+  - Fantasia
+  - Ecológico
+data: '2025-04-04T21:46:18.478Z'
+author: Luana Souza
 ---
 
 ## Introdução ao Studio Ghibli

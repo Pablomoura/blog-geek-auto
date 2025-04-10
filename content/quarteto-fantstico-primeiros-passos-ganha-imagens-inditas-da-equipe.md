@@ -1,13 +1,25 @@
 ---
-title: "Quarteto Fantástico: Primeiros Passos apresenta novas imagens da equipe"
-slug: "quarteto-fantstico-primeiros-passos-ganha-imagens-inditas-da-equipe"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/6y106tPooQg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/MF1o1hx6tB1AA0qOOy4PmkkpaUg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T111749.744.png"
-tags: ["Quarteto Fantástico", "MCU", "Marvel", "cinema", "super-heróis", "Pedro Pascal", "estreia 2025", "Robert Downey Jr."]
-keywords: "Quarteto Fantástico, MCU, Marvel, cinema, super-heróis, Pedro Pascal, estreia 2025, Robert Downey Jr."
-data: "2025-04-04T15:13:22.010Z"
+title: 'Quarteto Fantástico: Primeiros Passos apresenta novas imagens da equipe'
+slug: quarteto-fantstico-primeiros-passos-ganha-imagens-inditas-da-equipe
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/6y106tPooQg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/MF1o1hx6tB1AA0qOOy4PmkkpaUg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T111749.744.png
+tags:
+  - Quarteto Fantástico
+  - MCU
+  - Marvel
+  - cinema
+  - super-heróis
+  - Pedro Pascal
+  - estreia 2025
+  - Robert Downey Jr.
+keywords: >-
+  Quarteto Fantástico, MCU, Marvel, cinema, super-heróis, Pedro Pascal, estreia
+  2025, Robert Downey Jr.
+data: '2025-04-04T15:13:22.010Z'
+author: Luana Souza
 ---
 
 O aguardado filme 'Quarteto Fantástico: Primeiros Passos', que marca a reintrodução da família de super-heróis no Universo Cinematográfico Marvel (MCU), divulgou recentemente duas novas imagens através da revista Empire. Este é o primeiro filme do Quarteto Fantástico produzido pelo estúdio, após a aquisição dos direitos pela Disney, e a terceira adaptação cinematográfica do grupo, amplamente reconhecido como a 'primeira família da Marvel' devido ao seu papel crucial no sucesso inicial dos quadrinhos.

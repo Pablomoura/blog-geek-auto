@@ -1,13 +1,26 @@
 ---
-title: "Eu Sei o Que Vocês Fizeram | Diretora indica que Brandy pode voltar no reboot"
-slug: "eu-sei-o-que-vocs-fizeram-diretora-indica-que-brandy-pode-voltar-no-reboot"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/7NkatGjxlnnS_FWFWQUti-UiAoE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T110002.006.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QYTY4Xqu6hg0OhA-NpZCAZZ4SXI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T105949.640.png"
-tags: ["Brandy Norwood", "reboot", "terror adolescente", "filmes dos anos 90", "sequências de filmes", "retorno de elenco", "estreia 2025", "adaptação moderna"]
-keywords: "Brandy Norwood, reboot, terror adolescente, filmes dos anos 90, sequências de filmes, retorno de elenco, estreia 2025, adaptação moderna"
-data: "2025-04-09T14:04:02.186Z"
+title: Eu Sei o Que Vocês Fizeram | Diretora indica que Brandy pode voltar no reboot
+slug: eu-sei-o-que-vocs-fizeram-diretora-indica-que-brandy-pode-voltar-no-reboot
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/7NkatGjxlnnS_FWFWQUti-UiAoE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T110002.006.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QYTY4Xqu6hg0OhA-NpZCAZZ4SXI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T105949.640.png
+tags:
+  - Brandy Norwood
+  - reboot
+  - terror adolescente
+  - filmes dos anos 90
+  - sequências de filmes
+  - retorno de elenco
+  - estreia 2025
+  - adaptação moderna
+keywords: >-
+  Brandy Norwood, reboot, terror adolescente, filmes dos anos 90, sequências de
+  filmes, retorno de elenco, estreia 2025, adaptação moderna
+data: '2025-04-09T14:04:02.186Z'
+author: Pablo Moura
 ---
 
 A possibilidade de Brandy Norwood retornar ao universo de 'Eu Sei O Que Vocês Fizeram no Verão Passado' está ganhando força. A diretora Jennifer Kaytin Robinson, em entrevista à revista People, deixou em aberto o retorno da atriz ao mencionar que os fãs "vão precisar ir assistir ao filme" para descobrir. Norwood, que interpretou Karla Wilson na sequência de 1998, também comentou sobre a possibilidade de sua volta em uma conversa com o Entertainment Tonight, expressando seu entusiasmo e esperança de que isso aconteça.

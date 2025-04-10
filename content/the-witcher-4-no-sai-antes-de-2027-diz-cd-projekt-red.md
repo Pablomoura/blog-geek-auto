@@ -15,6 +15,7 @@ tags:
   - lançamento de jogos
   - '2027'
   - desenvolvimento de jogos
+author: Pablo Moura
 ---
 
 Durante uma recente reunião com acionistas, a CD Projekt Red esclareceu as expectativas quanto ao lançamento de The Witcher 4. Segundo a empresa, o jogo não chegará ao mercado antes de 2027.

@@ -1,13 +1,28 @@
 ---
-title: "The White Lotus | Compositor anuncia sua saída e não retornará para a 4ª temporada"
-slug: "the-white-lotus-compositor-revela-briga-e-diz-que-no-volta-na-4-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/NqZk4Ft8O29LoyFLRQZKE1qSmsA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T123546.634.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/UVJrg6HQfnSATj9KT8rAUFIh7xY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T123533.294.png"
-tags: ["The White Lotus", "Cristobal Tapia de Veer", "saída de compositor", "Mike White", "trilha sonora", "conflitos criativos", "temporada 4", "HBO"]
-keywords: "The White Lotus, Cristobal Tapia de Veer, saída de compositor, Mike White, trilha sonora, conflitos criativos, temporada 4, HBO"
-data: "2025-04-03T16:12:40.596Z"
+title: >-
+  The White Lotus | Compositor anuncia sua saída e não retornará para a 4ª
+  temporada
+slug: the-white-lotus-compositor-revela-briga-e-diz-que-no-volta-na-4-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/NqZk4Ft8O29LoyFLRQZKE1qSmsA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T123546.634.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/UVJrg6HQfnSATj9KT8rAUFIh7xY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T123533.294.png
+tags:
+  - The White Lotus
+  - Cristobal Tapia de Veer
+  - saída de compositor
+  - Mike White
+  - trilha sonora
+  - conflitos criativos
+  - temporada 4
+  - HBO
+keywords: >-
+  The White Lotus, Cristobal Tapia de Veer, saída de compositor, Mike White,
+  trilha sonora, conflitos criativos, temporada 4, HBO
+data: '2025-04-03T16:12:40.596Z'
+author: Luana Souza
 ---
 
 Cristobal Tapia de Veer, renomado compositor responsável pela trilha sonora da aclamada série The White Lotus, anunciou que não retornará para a quarta temporada do show produzido pela Max. O artista, que já foi laureado com três Emmys por seu trabalho na série, citou desavenças prolongadas com Mike White, o criador e roteirista da série, como o principal motivo para sua saída.

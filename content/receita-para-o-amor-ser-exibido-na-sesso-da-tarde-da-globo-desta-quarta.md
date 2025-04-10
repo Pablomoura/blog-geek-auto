@@ -15,6 +15,7 @@ tags:
   - tv globo
   - filme romântico
   - eric winter
+author: Luana Souza
 ---
 
 Nesta quarta-feira, dia 2, a Sessão da Tarde traz para seus telespectadores o filme 'Receita para o Amor', lançado em 2019. A transmissão ocorrerá na TV Globo, às 15h30, horário de Brasília, com a duração de 1h22.

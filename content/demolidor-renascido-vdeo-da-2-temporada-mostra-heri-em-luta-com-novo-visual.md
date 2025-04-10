@@ -15,6 +15,7 @@ tags:
   - cena de ação
   - uniforme preto
   - vídeo de bastidores
+author: Luana Souza
 ---
 
 Recentemente foi divulgado um emocionante vídeo de bastidores da segunda temporada de 'Demolidor: Renascido', exibindo o protagonista em combate enquanto usa seu renovado uniforme preto. O vídeo, capturado durante as filmagens, apresenta o Demolidor em plena ação e pode ser assistido no início deste artigo.

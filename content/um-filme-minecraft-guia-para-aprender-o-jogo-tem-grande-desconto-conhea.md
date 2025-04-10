@@ -1,13 +1,26 @@
 ---
-title: "Guia Oficial de Minecraft em Promoção com o Lançamento do Filme"
-slug: "um-filme-minecraft-guia-para-aprender-o-jogo-tem-grande-desconto-conhea"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FIjRAQwBqc7FpCwGM4rGgnFyTs8=/987x0/smart/uploads/conteudo/fotos/02_tKZPrO8.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/W5rAK3KhSDvU3Tgi3yEAUWeSgrw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_122119.png"
-tags: ["Minecraft", "promoção de livros", "filme Minecraft", "guias de jogo", "Mojang", "desconto Amazon", "estratégia de jogo", "cultura gamer"]
-keywords: "Minecraft, promoção de livros, filme Minecraft, guias de jogo, Mojang, desconto Amazon, estratégia de jogo, cultura gamer"
-data: "2025-04-08T16:12:34.422Z"
+title: Guia Oficial de Minecraft em Promoção com o Lançamento do Filme
+slug: um-filme-minecraft-guia-para-aprender-o-jogo-tem-grande-desconto-conhea
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FIjRAQwBqc7FpCwGM4rGgnFyTs8=/987x0/smart/uploads/conteudo/fotos/02_tKZPrO8.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/W5rAK3KhSDvU3Tgi3yEAUWeSgrw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_122119.png
+tags:
+  - Minecraft
+  - promoção de livros
+  - filme Minecraft
+  - guias de jogo
+  - Mojang
+  - desconto Amazon
+  - estratégia de jogo
+  - cultura gamer
+keywords: >-
+  Minecraft, promoção de livros, filme Minecraft, guias de jogo, Mojang,
+  desconto Amazon, estratégia de jogo, cultura gamer
+data: '2025-04-08T16:12:34.422Z'
+author: Ana Luiza
 ---
 
 Coincidindo com a estreia do filme 'Um Filme Minecraft' nos cinemas, o jogo Minecraft continua a capturar a imaginação de milhões. Para aqueles interessados em mergulhar neste universo, o Guia Oficial de Minecraft é uma ferramenta indispensável. A coleção, intitulada 'Minecraft: A coleção definitiva de guias', é composta por cinco volumes de capa dura produzidos pela Mojang, criadora do jogo. Cada guia aborda diferentes aspectos do jogo: Modo Criativo, Combate, Exploração, Modo de Sobrevivência e um guia dedicado à Redstone, um material que permite construções complexas no jogo.

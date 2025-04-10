@@ -17,6 +17,7 @@ tags:
   - cinemacon
   - jared leto
   - filme de ficção científica
+author: Pablo Moura
 ---
 
 De acordo com o The Hollywood Handle, o trailer de 'Tron: Ares' já recebeu classificação indicativa e está pronto para ser divulgado. A expectativa é que o lançamento ocorra durante a CinemaCon.

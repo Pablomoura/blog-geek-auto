@@ -1,13 +1,26 @@
 ---
-title: "Thunderbolts | Novo Trailer Revela Ameaça do Sentinela"
-slug: "thunderbolts-ameaa-do-sentinela-destaque-em-novo-trailer"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/6e9W9LsZO53hATvcUi2pXGcev4A=/987x0/smart/uploads/conteudo/fotos/thunderboltsvarianteposter_Gz4XpFY.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/X8qN8KDNue75YcBrjmPmvjXImBM=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_dEOf8Y7.jpg"
-tags: ["Thunderbolts", "Sentinela", "Marvel Studios", "MCU", "anti-heróis", "Lewis Pullman", "filme de super-heróis", "trailer"]
-keywords: "Thunderbolts, Sentinela, Marvel Studios, MCU, anti-heróis, Lewis Pullman, filme de super-heróis, trailer"
-data: "2025-04-05T17:07:51.623Z"
+title: Thunderbolts | Novo Trailer Revela Ameaça do Sentinela
+slug: thunderbolts-ameaa-do-sentinela-destaque-em-novo-trailer
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/6e9W9LsZO53hATvcUi2pXGcev4A=/987x0/smart/uploads/conteudo/fotos/thunderboltsvarianteposter_Gz4XpFY.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/X8qN8KDNue75YcBrjmPmvjXImBM=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_dEOf8Y7.jpg
+tags:
+  - Thunderbolts
+  - Sentinela
+  - Marvel Studios
+  - MCU
+  - anti-heróis
+  - Lewis Pullman
+  - filme de super-heróis
+  - trailer
+keywords: >-
+  Thunderbolts, Sentinela, Marvel Studios, MCU, anti-heróis, Lewis Pullman,
+  filme de super-heróis, trailer
+data: '2025-04-05T17:07:51.623Z'
+author: Ana Luiza
 ---
 
 O Marvel Studios lançou um novo trailer para o aguardado filme 'Thunderbolts' neste sábado (5), colocando em destaque o antagonista da trama, o Sentinela, interpretado por Lewis Pullman. O vídeo mostra o grupo de anti-heróis debatendo como enfrentar essa nova ameaça.

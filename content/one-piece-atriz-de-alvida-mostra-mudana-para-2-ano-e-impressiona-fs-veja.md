@@ -17,6 +17,7 @@ tags:
   - transformação
   - ilia isorelýs
   - fãs
+author: Ana Luiza
 ---
 
 Ilia Isorelýs, a atriz que interpreta Alvida no live-action de One Piece, causou grande agitação nas redes sociais na última sexta-feira. Participando de uma convenção na Virgínia, EUA, Isorelýs exibiu uma notável perda de peso, surpreendendo os fãs. Esta mudança é particularmente significativa, considerando a garantia de sua participação na segunda temporada da série.

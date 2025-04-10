@@ -1,13 +1,28 @@
 ---
-title: "Power Rangers | Atriz demitida expressa arrependimento após solicitar aumento salarial"
-slug: "power-rangers-atriz-demitida-se-arrependeu-de-pedir-aumento-a-produtores"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/expLbujvNlR0cRozM_RjRbN2lto=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T123333.178.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/BwJOl3CjVcXs1x9p_Y0cTSkJq4M=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T123248.885.png"
-tags: ["Power Rangers", "Thuy Trang", "aumento salarial", "demissão", "Mighty Morphin", "TV Globo", "Hollywood", "dublês"]
-keywords: "Power Rangers, Thuy Trang, aumento salarial, demissão, Mighty Morphin, TV Globo, Hollywood, dublês"
-data: "2025-04-09T16:15:39.400Z"
+title: >-
+  Power Rangers | Atriz demitida expressa arrependimento após solicitar aumento
+  salarial
+slug: power-rangers-atriz-demitida-se-arrependeu-de-pedir-aumento-a-produtores
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/expLbujvNlR0cRozM_RjRbN2lto=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-09T123333.178.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/BwJOl3CjVcXs1x9p_Y0cTSkJq4M=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T123248.885.png
+tags:
+  - Power Rangers
+  - Thuy Trang
+  - aumento salarial
+  - demissão
+  - Mighty Morphin
+  - TV Globo
+  - Hollywood
+  - dublês
+keywords: >-
+  Power Rangers, Thuy Trang, aumento salarial, demissão, Mighty Morphin, TV
+  Globo, Hollywood, dublês
+data: '2025-04-09T16:15:39.400Z'
+author: Luana Souza
 ---
 
 Thuy Trang, conhecida por sua participação na formação original dos Power Rangers, foi excluída da segunda temporada da série americana depois de solicitar um aumento salarial. Jeff Pruitt, coordenador de dublês do projeto, compartilhou que a atriz se arrependeu amargamente de sua decisão. Na ocasião, Thuy Trang, junto a Walter Emanuel Jones e Austin St. John, reivindicou melhores salários devido ao sucesso inicial da série em 1993. Enquanto seus colegas foram atendidos, Trang ficou sem o aumento desejado. Durante um evento para afiliadas da série, ela fez um discurso apaixonado que resultou em sua demissão imediata.

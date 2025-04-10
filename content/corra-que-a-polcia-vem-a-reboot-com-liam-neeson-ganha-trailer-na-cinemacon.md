@@ -1,13 +1,25 @@
 ---
-title: "Corra Que A Polícia Vem Aí | Reboot com Liam Neeson ganha trailer na CinemaCon"
-slug: "corra-que-a-polcia-vem-a-reboot-com-liam-neeson-ganha-trailer-na-cinemacon"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/4LOHjMMjalY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/lpFmHMkpPN7TSzZmkVLT-kQYkCA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T141042.579.png"
-tags: ["CinemaCon", "Liam Neeson", "reboot", "trailer", "comédia", "elenco estelar", "Paramount Pictures", "estreia em agosto"]
-keywords: "CinemaCon, Liam Neeson, reboot, trailer, comédia, elenco estelar, Paramount Pictures, estreia em agosto"
-data: "2025-04-03T18:17:07.668Z"
+title: Corra Que A Polícia Vem Aí | Reboot com Liam Neeson ganha trailer na CinemaCon
+slug: corra-que-a-polcia-vem-a-reboot-com-liam-neeson-ganha-trailer-na-cinemacon
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/4LOHjMMjalY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/lpFmHMkpPN7TSzZmkVLT-kQYkCA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T141042.579.png
+tags:
+  - CinemaCon
+  - Liam Neeson
+  - reboot
+  - trailer
+  - comédia
+  - elenco estelar
+  - Paramount Pictures
+  - estreia em agosto
+keywords: >-
+  CinemaCon, Liam Neeson, reboot, trailer, comédia, elenco estelar, Paramount
+  Pictures, estreia em agosto
+data: '2025-04-03T18:17:07.668Z'
+author: Pablo Moura
 ---
 
 Durante a CinemaCon, realizada nesta quinta-feira (3), o público teve a oportunidade de assistir ao primeiro trailer do reboot de 'Corra Que A Polícia Vem Aí'. O evento também foi palco para a divulgação do primeiro pôster do filme.

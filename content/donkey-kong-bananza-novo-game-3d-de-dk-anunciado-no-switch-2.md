@@ -16,6 +16,7 @@ tags:
   - mundo aberto
   - nintendo
   - lançamento 2027
+author: Ana Luiza
 ---
 
 A Nintendo revelou detalhes sobre o lançamento de um novo título de Donkey Kong, nomeado 'Donkey Kong Bananza', que chegará exclusivamente ao Switch 2 em 17 de julho de 2027. O jogo promete inovar com uma jogabilidade que combina elementos de plataforma tradicional com aspectos de mundo aberto, permitindo uma exploração mais ampla dos cenários.

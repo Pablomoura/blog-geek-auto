@@ -1,14 +1,28 @@
 ---
-title: "Soshiro Hoshina: Um Mestre entre os Caçadores de Kaiju"
-slug: "soshiro-hoshina-um-mestre-entre-os-cacadores-de-kaiju"
-resumo: "Explore o mundo fascinante de Soshiro Hoshina, um proeminente caçador de Kaiju no universo dos mangás. Descubra suas habilidades únicas, estratégias de combate e o impacto de suas ações na luta contra monstros gigantes."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Soshiro Hoshina, Caçadores de Kaiju, Habilidades de Combate, Liderança, Mangá, Monstros Gigantes, Kenjutsu, Estratégias de Batalha"
-tags: ["Soshiro Hoshina", "Caçadores de Kaiju", "Habilidades de Combate", "Liderança", "Mangá", "Monstros Gigantes", "Kenjutsu", "Estratégias de Batalha"]
-data: "2025-04-03T22:09:57.693Z"
+title: 'Soshiro Hoshina: Um Mestre entre os Caçadores de Kaiju'
+slug: soshiro-hoshina-um-mestre-entre-os-cacadores-de-kaiju
+resumo: >-
+  Explore o mundo fascinante de Soshiro Hoshina, um proeminente caçador de Kaiju
+  no universo dos mangás. Descubra suas habilidades únicas, estratégias de
+  combate e o impacto de suas ações na luta contra monstros gigantes.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Soshiro Hoshina, Caçadores de Kaiju, Habilidades de Combate, Liderança, Mangá,
+  Monstros Gigantes, Kenjutsu, Estratégias de Batalha
+tags:
+  - Soshiro Hoshina
+  - Caçadores de Kaiju
+  - Habilidades de Combate
+  - Liderança
+  - Mangá
+  - Monstros Gigantes
+  - Kenjutsu
+  - Estratégias de Batalha
+data: '2025-04-03T22:09:57.693Z'
+author: Ana Luiza
 ---
 
 ## Quem é Soshiro Hoshina?

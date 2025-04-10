@@ -1,13 +1,26 @@
 ---
-title: "He-Man | Fotos do set de Mestres do Universo mostram Esqueleto"
-slug: "he-man-fotos-do-set-de-mestres-do-universo-mostram-esqueleto"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/JV015Rbw2k_lTzYP77JpvbTlPAQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T203708.198.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/tbf8FqMj06HGAQNc6SP9c3VqeTI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T203708.198.png"
-tags: ["He-Man", "Mestres do Universo", "Esqueleto", "filme", "adaptação", "Nicholas Galitzine", "Jared Leto", "Travis Knight"]
-keywords: "He-Man, Mestres do Universo, Esqueleto, filme, adaptação, Nicholas Galitzine, Jared Leto, Travis Knight"
-data: "2025-04-09T00:43:47.074Z"
+title: He-Man | Fotos do set de Mestres do Universo mostram Esqueleto
+slug: he-man-fotos-do-set-de-mestres-do-universo-mostram-esqueleto
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/JV015Rbw2k_lTzYP77JpvbTlPAQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T203708.198.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/tbf8FqMj06HGAQNc6SP9c3VqeTI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T203708.198.png
+tags:
+  - He-Man
+  - Mestres do Universo
+  - Esqueleto
+  - filme
+  - adaptação
+  - Nicholas Galitzine
+  - Jared Leto
+  - Travis Knight
+keywords: >-
+  He-Man, Mestres do Universo, Esqueleto, filme, adaptação, Nicholas Galitzine,
+  Jared Leto, Travis Knight
+data: '2025-04-09T00:43:47.074Z'
+author: Pablo Moura
 ---
 
 As gravações do filme Mestres do Universo, que reimagina o icônico desenho He-Man e os Mestres do Universo, revelaram novas imagens diretamente do set. Nessas imagens, surgem em destaque personagens como Esqueleto e Maligna, além de figuras que parecem ser capangas do notório antagonista de Eternia. 

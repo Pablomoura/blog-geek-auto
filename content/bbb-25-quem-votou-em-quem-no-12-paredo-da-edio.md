@@ -16,6 +16,7 @@ tags:
   - diego hypólito
   - tadeu schmidt
   - modo turbo
+author: Pablo Moura
 ---
 
 O 12º paredão do Big Brother Brasil 25 foi definido na noite de domingo (30), sob a condução do apresentador Tadeu Schmidt. Com a ausência da Prova do Anjo devido ao modo turbo, nenhum participante recebeu imunidade. Maike, o líder da semana, indicou Diego Hypólito ao paredão. Na sequência, Vilma foi a mais votada pela casa e, em um contra-golpe, escolheu Vinícius para acompanhá-la. Não houve Prova Bate-Volta, consolidando os emparedados.

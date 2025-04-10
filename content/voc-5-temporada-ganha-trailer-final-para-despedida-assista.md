@@ -14,6 +14,7 @@ tags:
   - trailer final
   - última temporada
   - penn badgley
+author: Ana Luiza
 ---
 
 A série de suspense da Netflix, 'Você', revelou o trailer final de sua quinta e última temporada, trazendo à tona os eventos cruciais das temporadas anteriores. Assista ao emocionante desfecho no vídeo disponibilizado acima.

@@ -1,13 +1,26 @@
 ---
-title: "Dire Wolf Explicado: Qual o papel dos Lobos-Terríveis em Game of Thrones?"
-slug: "dire-wolf-explicado-qual-o-papel-dos-lobos-terrveis-em-game-of-thrones"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Yofo-Ke2QS2txreuekgJh-4TGCY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T111630.058.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/U8lVwSIag2k6myv50ry_nW5AMfA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T111641.829.png"
-tags: ["Game of Thrones", "lobos-terríveis", "Stark", "Fantasma", "Nymeria", "Vento Cinzento", "George R. R. Martin", "A Casa do Dragão"]
-keywords: "Game of Thrones, lobos-terríveis, Stark, Fantasma, Nymeria, Vento Cinzento, George R. R. Martin, A Casa do Dragão"
-data: "2025-04-08T15:12:21.278Z"
+title: 'Dire Wolf Explicado: Qual o papel dos Lobos-Terríveis em Game of Thrones?'
+slug: dire-wolf-explicado-qual-o-papel-dos-lobos-terrveis-em-game-of-thrones
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Yofo-Ke2QS2txreuekgJh-4TGCY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T111630.058.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/U8lVwSIag2k6myv50ry_nW5AMfA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T111641.829.png
+tags:
+  - Game of Thrones
+  - lobos-terríveis
+  - Stark
+  - Fantasma
+  - Nymeria
+  - Vento Cinzento
+  - George R. R. Martin
+  - A Casa do Dragão
+keywords: >-
+  Game of Thrones, lobos-terríveis, Stark, Fantasma, Nymeria, Vento Cinzento,
+  George R. R. Martin, A Casa do Dragão
+data: '2025-04-08T15:12:21.278Z'
+author: Pablo Moura
 ---
 
 À medida que a ciência no mundo real trabalha para trazer de volta o extinto lobo-terrível, os entusiastas de Game of Thrones são lembrados das marcantes presenças desses animais na série. No início da saga, seis direwolves foram adotados pelos irmãos Stark e desempenharam papéis cruciais ao longo da história. Esses lobos não apenas acompanharam a família Stark, mas também serviram como seus protetores. Um exemplo disso é na primeira temporada, quando Bran Stark, incapacitado após cair de uma torre em Winterfell, é salvo de um assassino pelo seu lobo, Verão.

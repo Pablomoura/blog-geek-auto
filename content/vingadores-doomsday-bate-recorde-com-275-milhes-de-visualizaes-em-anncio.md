@@ -15,6 +15,7 @@ tags:
   - recorde de visualizações
   - transmissão ao vivo
   - novo marco
+author: Ana Luiza
 ---
 
 O lançamento do elenco de Vingadores: Doomsday estabeleceu um novo marco para a Marvel. O anúncio, divulgado pelo próprio estúdio, alcançou impressionantes 275 milhões de visualizações, tornando-se a maior transmissão ao vivo já realizada pela empresa. Essa marca supera em mais de cinco vezes as visualizações do trailer de Deadpool e Wolverine durante o Super Bowl do ano passado, que era o recordista anterior segundo informações do Deadline.

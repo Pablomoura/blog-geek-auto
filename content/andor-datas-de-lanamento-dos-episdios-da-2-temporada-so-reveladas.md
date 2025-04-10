@@ -1,13 +1,26 @@
 ---
-title: "Andor | Datas de lançamento dos episódios da 2ª temporada são reveladas"
-slug: "andor-datas-de-lanamento-dos-episdios-da-2-temporada-so-reveladas"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/RsOXE60bb8rZFebHK84ruhxcGks=/987x0/smart/uploads/conteudo/fotos/andor_0m4OBeO.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/e_XJpsX7AUWVzjFCad1uxU-Z-WY=/480x360/smart/extras/conteudos/andor_5u93JLE.jpg"
-tags: ["Andor", "Disney+", "Star Wars", "segunda temporada", "Cassian Andor", "lançamento de episódios", "Estrela da Morte", "streaming"]
-keywords: "Andor, Disney+, Star Wars, segunda temporada, Cassian Andor, lançamento de episódios, Estrela da Morte, streaming"
-data: "2025-04-08T22:09:59.594Z"
+title: Andor | Datas de lançamento dos episódios da 2ª temporada são reveladas
+slug: andor-datas-de-lanamento-dos-episdios-da-2-temporada-so-reveladas
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/RsOXE60bb8rZFebHK84ruhxcGks=/987x0/smart/uploads/conteudo/fotos/andor_0m4OBeO.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/e_XJpsX7AUWVzjFCad1uxU-Z-WY=/480x360/smart/extras/conteudos/andor_5u93JLE.jpg
+tags:
+  - Andor
+  - Disney+
+  - Star Wars
+  - segunda temporada
+  - Cassian Andor
+  - lançamento de episódios
+  - Estrela da Morte
+  - streaming
+keywords: >-
+  Andor, Disney+, Star Wars, segunda temporada, Cassian Andor, lançamento de
+  episódios, Estrela da Morte, streaming
+data: '2025-04-08T22:09:59.594Z'
+author: Ana Luiza
 ---
 
 A aguardada segunda temporada da série 'Andor' está programada para estrear em abril no Disney+, apresentando um formato de lançamento inovador com episódios disponibilizados em grupos de três por semana. Confira a seguir o calendário completo divulgado pelo serviço de streaming.

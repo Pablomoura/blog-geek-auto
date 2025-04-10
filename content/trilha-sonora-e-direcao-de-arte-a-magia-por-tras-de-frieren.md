@@ -1,14 +1,28 @@
 ---
-title: "Trilha Sonora e Direção de Arte: A Magia por Trás de Frieren"
-slug: "trilha-sonora-e-direcao-de-arte-a-magia-por-tras-de-frieren"
-resumo: "Descubra como a trilha sonora e a direção de arte transformam Frieren em uma experiência audiovisual imersiva e emocionante, destacando-se como uma obra de arte em movimento."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "trilha sonora, direção de arte, Frieren, arte em movimento, narrativa audiovisual, design de personagem, música em filmes, análise de arte"
-tags: ["trilha sonora", "direção de arte", "Frieren", "arte em movimento", "narrativa audiovisual", "design de personagem", "música em filmes", "análise de arte"]
-data: "2025-04-04T21:35:27.650Z"
+title: 'Trilha Sonora e Direção de Arte: A Magia por Trás de Frieren'
+slug: trilha-sonora-e-direcao-de-arte-a-magia-por-tras-de-frieren
+resumo: >-
+  Descubra como a trilha sonora e a direção de arte transformam Frieren em uma
+  experiência audiovisual imersiva e emocionante, destacando-se como uma obra de
+  arte em movimento.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  trilha sonora, direção de arte, Frieren, arte em movimento, narrativa
+  audiovisual, design de personagem, música em filmes, análise de arte
+tags:
+  - trilha sonora
+  - direção de arte
+  - Frieren
+  - arte em movimento
+  - narrativa audiovisual
+  - design de personagem
+  - música em filmes
+  - análise de arte
+data: '2025-04-04T21:35:27.650Z'
+author: Ana Luiza
 ---
 
 ## A Importância da Trilha Sonora e Direção de Arte em Frieren

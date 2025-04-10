@@ -14,6 +14,7 @@ tags:
   - preço
   - console
   - mercado de games
+author: Pablo Moura
 ---
 
 A Nintendo anunciou oficialmente que o Nintendo Switch 2, seu mais novo console, será lançado globalmente em 5 de junho de 2025. O lançamento simultâneo no Brasil também foi confirmado, alinhando a disponibilidade do produto com o mercado internacional. O preço estipulado para o mercado norte-americano será de US$ 450, enquanto o valor para o mercado brasileiro ainda não foi divulgado.

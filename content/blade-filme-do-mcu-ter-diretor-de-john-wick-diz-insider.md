@@ -15,6 +15,7 @@ tags:
   - diretor
   - marvel
   - cinema
+author: Luana Souza
 ---
 
 O tão esperado filme 'Blade' do Universo Cinematográfico Marvel (MCU) parece finalmente ter encontrado um novo diretor. De acordo com o insider Jeff Sneider, conhecido por seus vazamentos confiáveis na indústria cinematográfica, Chad Stahelski, diretor da franquia 'John Wick', será o responsável pelo comando do filme estrelado por Mahershala Ali.

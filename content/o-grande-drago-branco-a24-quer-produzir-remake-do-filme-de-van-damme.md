@@ -1,13 +1,28 @@
 ---
-title: "O Grande Dragão Branco | A24 em negociações para produzir remake do clássico de Van Damme"
-slug: "o-grande-drago-branco-a24-quer-produzir-remake-do-filme-de-van-damme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/AOZJU83lmWtbraxoSMiEaOvYBb8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T113940.997.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/rBYQLydNyHuPStb-A6Gh52eBFjY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T113900.812.png"
-tags: ["A24", "remake", "Jean-Claude Van Damme", "artes marciais", "filmes dos anos 80", "Kumite", "cinema de ação", "streaming"]
-keywords: "A24, remake, Jean-Claude Van Damme, artes marciais, filmes dos anos 80, Kumite, cinema de ação, streaming"
-data: "2025-04-08T15:11:45.743Z"
+title: >-
+  O Grande Dragão Branco | A24 em negociações para produzir remake do clássico
+  de Van Damme
+slug: o-grande-drago-branco-a24-quer-produzir-remake-do-filme-de-van-damme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/AOZJU83lmWtbraxoSMiEaOvYBb8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T113940.997.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/rBYQLydNyHuPStb-A6Gh52eBFjY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T113900.812.png
+tags:
+  - A24
+  - remake
+  - Jean-Claude Van Damme
+  - artes marciais
+  - filmes dos anos 80
+  - Kumite
+  - cinema de ação
+  - streaming
+keywords: >-
+  A24, remake, Jean-Claude Van Damme, artes marciais, filmes dos anos 80,
+  Kumite, cinema de ação, streaming
+data: '2025-04-08T15:11:45.743Z'
+author: Luana Souza
 ---
 
 Um dos filmes mais emblemáticos dos anos 80, O Grande Dragão Branco, estrelado por Jean-Claude Van Damme, pode estar prestes a ser reinventado pelo estúdio A24. De acordo com informações do insider Jeff Sneider, o estúdio ainda está em fase de negociação para a aquisição dos direitos do filme. Até o momento, não foram revelados detalhes sobre a direção ou o elenco da nova versão.

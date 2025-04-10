@@ -1,19 +1,27 @@
 ---
-title: "Solo Leveling (Light Novel): análise completa dos livros e por que vale a pena ler"
-slug: "solo-leveling-light-novel-analise-livros"
-categoria: "MANGÁS E ANIMES"
-resumo: "Descubra por que os livros de Solo Leveling vão além do anime e do webtoon. Análise completa da light novel, com ordem de leitura, diferenças entre formatos e links para comprar com segurança na Amazon."
-data: "2025-04-08T15:20:00.000Z"
-thumb: "/images/ThumbSoloLevgeling.webp"
-midia: "/images/sololeveling.webp"
-tipoMidia: "imagem"
+title: >-
+  Solo Leveling (Light Novel): análise completa dos livros e por que vale a pena
+  ler
+slug: solo-leveling-light-novel-analise-livros
+categoria: MANGÁS E ANIMES
+resumo: >-
+  Descubra por que os livros de Solo Leveling vão além do anime e do webtoon.
+  Análise completa da light novel, com ordem de leitura, diferenças entre
+  formatos e links para comprar com segurança na Amazon.
+data: '2025-04-08T15:20:00.000Z'
+thumb: /images/ThumbSoloLevgeling.webp
+midia: /images/sololeveling.webp
+tipoMidia: imagem
 tags:
   - solo leveling
   - light novel
   - livros de solo leveling
   - leitura geek
   - afiliados amazon
-keywords: "solo leveling livros, solo leveling light novel onde comprar, análise solo leveling amazon, ordem livros solo leveling"
+keywords: >-
+  solo leveling livros, solo leveling light novel onde comprar, análise solo
+  leveling amazon, ordem livros solo leveling
+author: Pablo Moura
 ---
 ## Solo Leveling em forma de livro? Sim — e vale MUITO a pena
 

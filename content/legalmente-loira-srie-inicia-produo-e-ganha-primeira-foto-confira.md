@@ -16,6 +16,7 @@ tags:
   - elle woods
   - produção de série
   - primeira foto
+author: Luana Souza
 ---
 
 A aguardada série derivada do sucesso 'Legalmente Loira' divulgou sua primeira imagem oficial nesta quarta-feira (2). A foto apresenta a atriz Lexi Minetree interpretando a icônica Elle Woods. Veja a imagem abaixo:

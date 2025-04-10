@@ -1,13 +1,25 @@
 ---
-title: "Uma Família em Apuros é a atração da Sessão da Tarde na Globo"
-slug: "uma-famlia-em-apuros-passa-na-sesso-da-tarde-da-globo-desta-tera"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/4NYTzbAQ7p4?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/n0rXLVDwJ1OcHCKAUIhkY7l2XcM=/480x360/smart/extras/conteudos/umafamiliaemapuros.jpg"
-tags: ["Sessão da Tarde", "Uma Família em Apuros", "comédia familiar", "Billy Cristal", "choque de gerações", "educação infantil", "métodos disciplinares", "Rede Globo"]
-keywords: "Sessão da Tarde, Uma Família em Apuros, comédia familiar, Billy Cristal, choque de gerações, educação infantil, métodos disciplinares, Rede Globo"
-data: "2025-04-08T07:10:32.051Z"
+title: Uma Família em Apuros é a atração da Sessão da Tarde na Globo
+slug: uma-famlia-em-apuros-passa-na-sesso-da-tarde-da-globo-desta-tera
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/4NYTzbAQ7p4?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/n0rXLVDwJ1OcHCKAUIhkY7l2XcM=/480x360/smart/extras/conteudos/umafamiliaemapuros.jpg
+tags:
+  - Sessão da Tarde
+  - Uma Família em Apuros
+  - comédia familiar
+  - Billy Cristal
+  - choque de gerações
+  - educação infantil
+  - métodos disciplinares
+  - Rede Globo
+keywords: >-
+  Sessão da Tarde, Uma Família em Apuros, comédia familiar, Billy Cristal,
+  choque de gerações, educação infantil, métodos disciplinares, Rede Globo
+data: '2025-04-08T07:10:32.051Z'
+author: Luana Souza
 ---
 
 A Rede Globo programou para a Sessão da Tarde desta terça-feira, às 15h25, o filme 'Uma Família em Apuros', lançado originalmente em 2012. Com duração de 1h45, a comédia familiar promete entreter o público com uma história envolvente e divertida.

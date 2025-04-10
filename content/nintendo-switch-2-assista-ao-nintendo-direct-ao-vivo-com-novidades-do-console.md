@@ -16,6 +16,7 @@ tags:
   - lançamento de console
   - jogos nintendo
   - transmissão ao vivo
+author: Pablo Moura
 ---
 
 A Nintendo está realizando uma transmissão ao vivo para apresentar oficialmente o Nintendo Switch 2, revelando detalhes cruciais como o preço, a data de lançamento, os jogos disponíveis e outras informações relevantes. 

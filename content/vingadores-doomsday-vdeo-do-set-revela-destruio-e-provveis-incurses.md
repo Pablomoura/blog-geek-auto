@@ -1,13 +1,26 @@
 ---
-title: "Vingadores: Doomsday | Vídeo do set revela destruição e prováveis incursões"
-slug: "vingadores-doomsday-vdeo-do-set-revela-destruio-e-provveis-incurses"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/QgEJlmwfRLD3rGgv-qezHinBB_4=/987x0/smart/uploads/conteudo/fotos/02_PClOB2i.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/lspDahMv_aZXzHYaZsS-xZS_aC8=/480x360/smart/extras/conteudos/01_PmTGphV.jpg"
-tags: ["Vingadores: Doomsday", "incursões multiversais", "Doutor Destino", "confronto Vingadores X-Men", "MCU", "retorno elenco X-Men", "Saga do Multiverso", "estreia 2026"]
-keywords: "Vingadores: Doomsday, incursões multiversais, Doutor Destino, confronto Vingadores X-Men, MCU, retorno elenco X-Men, Saga do Multiverso, estreia 2026"
-data: "2025-04-08T21:12:00.921Z"
+title: 'Vingadores: Doomsday | Vídeo do set revela destruição e prováveis incursões'
+slug: vingadores-doomsday-vdeo-do-set-revela-destruio-e-provveis-incurses
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/QgEJlmwfRLD3rGgv-qezHinBB_4=/987x0/smart/uploads/conteudo/fotos/02_PClOB2i.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/lspDahMv_aZXzHYaZsS-xZS_aC8=/480x360/smart/extras/conteudos/01_PmTGphV.jpg
+tags:
+  - 'Vingadores: Doomsday'
+  - incursões multiversais
+  - Doutor Destino
+  - confronto Vingadores X-Men
+  - MCU
+  - retorno elenco X-Men
+  - Saga do Multiverso
+  - estreia 2026
+keywords: >-
+  Vingadores: Doomsday, incursões multiversais, Doutor Destino, confronto
+  Vingadores X-Men, MCU, retorno elenco X-Men, Saga do Multiverso, estreia 2026
+data: '2025-04-08T21:12:00.921Z'
+author: Ana Luiza
 ---
 
 Um novo vídeo do set de filmagens de Vingadores: Doomsday foi divulgado recentemente, exibindo várias crateras notáveis em um único cenário. A natureza exata do local ainda é incerta, porém specula-se que as crateras sejam resultado de quedas de meteoros ou objetos espaciais, indicando uma possível incursão, onde duas realidades se fundem em destruição.

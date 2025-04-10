@@ -18,6 +18,7 @@ tags:
   - corra que a polícia vem aí
   - cartaz de filme
   - comédia
+author: Luana Souza
 ---
 
 A agitação toma conta do Caesars Palace em Las Vegas, onde a CinemaCon ocorre esta semana. Um dos destaques do evento é a revelação do primeiro cartaz e logo do filme 'Corra Que A Polícia Vem Aí', que traz Liam Neeson no papel principal, anteriormente interpretado por Leslie Nielsen.

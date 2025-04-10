@@ -1,13 +1,26 @@
 ---
-title: "Superman | Design do anel do Lanterna Verde do filme é revelado"
-slug: "superman-design-do-anel-do-lanterna-verde-do-filme-revelado"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/kyDIK104LBXccQDzUuahzOiBInU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T190911.289.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/kyDIK104LBXccQDzUuahzOiBInU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T190911.289.png"
-tags: ["Superman", "Lanterna Verde", "DC Comics", "GameStop", "colecionáveis", "merchandising de filmes", "Guy Gardner", "réplica de anel"]
-keywords: "Superman, Lanterna Verde, DC Comics, GameStop, colecionáveis, merchandising de filmes, Guy Gardner, réplica de anel"
-data: "2025-04-04T23:11:54.809Z"
+title: Superman | Design do anel do Lanterna Verde do filme é revelado
+slug: superman-design-do-anel-do-lanterna-verde-do-filme-revelado
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/kyDIK104LBXccQDzUuahzOiBInU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T190911.289.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/kyDIK104LBXccQDzUuahzOiBInU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T190911.289.png
+tags:
+  - Superman
+  - Lanterna Verde
+  - DC Comics
+  - GameStop
+  - colecionáveis
+  - merchandising de filmes
+  - Guy Gardner
+  - réplica de anel
+keywords: >-
+  Superman, Lanterna Verde, DC Comics, GameStop, colecionáveis, merchandising de
+  filmes, Guy Gardner, réplica de anel
+data: '2025-04-04T23:11:54.809Z'
+author: Luana Souza
 ---
 
 Em uma revelação aguardada pelos fãs da DC Comics, o design do anel do Lanterna Verde, usado por Guy Gardner no novo filme de Superman, foi oficialmente divulgado. A peça, que tem capturado a imaginação de muitos entusiastas do universo DC, será comercializada exclusivamente pela GameStop. 

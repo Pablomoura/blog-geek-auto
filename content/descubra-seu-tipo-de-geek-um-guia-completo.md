@@ -1,14 +1,26 @@
 ---
-title: "Descubra Seu Tipo de Geek: Um Guia Completo"
-slug: "descubra-seu-tipo-de-geek-um-guia-completo"
-resumo: "O termo 'geek' abrange uma gama de paixões e hobbies. Neste artigo, exploramos os diferentes tipos de geeks - do pop ao tech, passando pelo otaku e gamer - e oferecemos um teste para você descobrir qual tipo de geek você é."
-categoria: "Cultura Pop"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "geek, pop, tech, otaku, gamer, teste de personalidade, cultura geek, hobbies"
-tags: ["geek", "pop", "tech", "otaku", "gamer", "teste de personalidade", "cultura geek", "hobbies"]
-data: "2025-02-07T01:21:32.202Z"
+title: 'Descubra Seu Tipo de Geek: Um Guia Completo'
+slug: descubra-seu-tipo-de-geek-um-guia-completo
+resumo: >-
+  O termo 'geek' abrange uma gama de paixões e hobbies. Neste artigo, exploramos
+  os diferentes tipos de geeks - do pop ao tech, passando pelo otaku e gamer - e
+  oferecemos um teste para você descobrir qual tipo de geek você é.
+categoria: Cultura Pop
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: 'geek, pop, tech, otaku, gamer, teste de personalidade, cultura geek, hobbies'
+tags:
+  - geek
+  - pop
+  - tech
+  - otaku
+  - gamer
+  - teste de personalidade
+  - cultura geek
+  - hobbies
+data: '2025-02-07T01:21:32.202Z'
+author: Pablo Moura
 ---
 
 ## Introdução

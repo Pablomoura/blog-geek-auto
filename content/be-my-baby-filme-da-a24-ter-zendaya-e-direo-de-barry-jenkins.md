@@ -14,6 +14,7 @@ tags:
   - be my baby
   - cinema
   - ronettes
+author: Luana Souza
 ---
 
 A produtora A24 confirma seu novo projeto cinematográfico, 'Be My Baby', que será dirigido por Barry Jenkins, conhecido por seu aclamado filme 'Moonlight: Sob a Luz do Luar'. A estrela do filme será Zendaya, que interpretará Ronnie Spector, a icônica cantora do grupo Ronettes.

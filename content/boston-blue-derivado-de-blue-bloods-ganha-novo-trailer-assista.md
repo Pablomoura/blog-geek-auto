@@ -15,6 +15,7 @@ tags:
   - trailer
   - spin-off
   - série policial
+author: Ana Luiza
 ---
 
 O aguardado spin-off de Blue Bloods, intitulado Boston Blue, protagonizado por Donnie Wahlberg, acaba de ganhar um novo trailer emocionante. O próprio ator foi o responsável por compartilhar a prévia juntamente com uma mensagem entusiasmada aos fãs. 

@@ -1,13 +1,26 @@
 ---
-title: "Ainda Estou Aqui | Walter Salles analisa campanha do filme no Oscar"
-slug: "ainda-estou-aqui-walter-salles-analisa-campanha-do-filme-no-oscar"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/_0xZmWQPZlIbcaTPsPgeU_VzUa0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-07T110517.947.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Adec0Hp0DR3iEtIO5O-zIDLJoZQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T110504.736.png"
-tags: ["Walter Salles", "Oscar 2025", "cinema brasileiro", "filme internacional", "Sony Classics", "ditadura militar", "Melhor Filme Internacional", "campanha Oscar"]
-keywords: "Walter Salles, Oscar 2025, cinema brasileiro, filme internacional, Sony Classics, ditadura militar, Melhor Filme Internacional, campanha Oscar"
-data: "2025-04-07T14:10:53.189Z"
+title: Ainda Estou Aqui | Walter Salles analisa campanha do filme no Oscar
+slug: ainda-estou-aqui-walter-salles-analisa-campanha-do-filme-no-oscar
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/_0xZmWQPZlIbcaTPsPgeU_VzUa0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-07T110517.947.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Adec0Hp0DR3iEtIO5O-zIDLJoZQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T110504.736.png
+tags:
+  - Walter Salles
+  - Oscar 2025
+  - cinema brasileiro
+  - filme internacional
+  - Sony Classics
+  - ditadura militar
+  - Melhor Filme Internacional
+  - campanha Oscar
+keywords: >-
+  Walter Salles, Oscar 2025, cinema brasileiro, filme internacional, Sony
+  Classics, ditadura militar, Melhor Filme Internacional, campanha Oscar
+data: '2025-04-07T14:10:53.189Z'
+author: Pablo Moura
 ---
 
 Em uma reveladora entrevista ao Deadline, o renomado cineasta brasileiro Walter Salles discutiu a trajetória e a estratégia por trás da campanha do filme 'Ainda Estou Aqui' no Oscar de 2025, evento que marcou uma vitória histórica para o cinema brasileiro com a conquista de sua primeira estatueta.

@@ -1,14 +1,29 @@
 ---
-title: "Descubra as Maravilhas Escondidas do Estúdio Ghibli"
-slug: "descubra-as-maravilhas-escondidas-do-estudio-ghibli"
-resumo: "Explore as curiosidades fascinantes sobre o Estúdio Ghibli, desde suas inspirações únicas até os segredos por trás de suas animações mais adoradas. Este artigo revela detalhes que todo fã e novo espectador deveriam conhecer sobre este icônico estúdio de animação japonês."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/EstUdio-Ghibli.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-EstUdio-Ghibli.jpg"
-keywords: "Estúdio Ghibli, Hayao Miyazaki, Animação Japonesa, Totoro, Filmes de Animação, Cultura Pop, Arte e Cultura, Cinema Japonês"
-tags: ["Estúdio Ghibli", "Hayao Miyazaki", "Animação Japonesa", "Totoro", "Filmes de Animação", "Cultura Pop", "Arte e Cultura", "Cinema Japonês"]
-data: "2025-04-03T17:28:59.799Z"
+title: Descubra as Maravilhas Escondidas do Estúdio Ghibli
+slug: descubra-as-maravilhas-escondidas-do-estudio-ghibli
+resumo: >-
+  Explore as curiosidades fascinantes sobre o Estúdio Ghibli, desde suas
+  inspirações únicas até os segredos por trás de suas animações mais adoradas.
+  Este artigo revela detalhes que todo fã e novo espectador deveriam conhecer
+  sobre este icônico estúdio de animação japonês.
+categoria: MANGÁS E ANIMES
+midia: /images/EstUdio-Ghibli.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-EstUdio-Ghibli.jpg
+keywords: >-
+  Estúdio Ghibli, Hayao Miyazaki, Animação Japonesa, Totoro, Filmes de Animação,
+  Cultura Pop, Arte e Cultura, Cinema Japonês
+tags:
+  - Estúdio Ghibli
+  - Hayao Miyazaki
+  - Animação Japonesa
+  - Totoro
+  - Filmes de Animação
+  - Cultura Pop
+  - Arte e Cultura
+  - Cinema Japonês
+data: '2025-04-03T17:28:59.799Z'
+author: Pablo Moura
 ---
 
 ## A Origem do Nome Ghibli

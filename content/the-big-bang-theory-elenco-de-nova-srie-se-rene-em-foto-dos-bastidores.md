@@ -17,6 +17,7 @@ tags:
   - bastidores
   - elenco
   - série nova
+author: Luana Souza
 ---
 
 O novo spin-off de The Big Bang Theory, intitulado 'Stuart Fails To Save The Universe', revelou sua primeira imagem dos bastidores, mostrando o elenco principal reunido na primeira leitura do roteiro. Entre os presentes estão Kevin Sussman (Stuart), Lauren Lapkus (Denise), John Ross Bowie (Barry Kripke) e Brian Posehn (Bert Kibbler).

@@ -15,6 +15,7 @@ tags:
   - enquete uol
   - diego hypólito
   - maike
+author: Pablo Moura
 ---
 
 O décimo Paredão do BBB 25, formado na última noite de domingo, 23, coloca Aline, Maike e Diego Hypólito na berlinda. A eliminação será na próxima terça-feira, dia 25.

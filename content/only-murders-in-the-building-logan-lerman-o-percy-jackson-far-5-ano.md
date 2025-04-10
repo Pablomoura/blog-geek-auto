@@ -1,13 +1,28 @@
 ---
-title: "Only Murders in the Building | Logan Lerman, o Percy Jackson, entra para o elenco da 5ª temporada"
-slug: "only-murders-in-the-building-logan-lerman-o-percy-jackson-far-5-ano"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/OaT1dP3tvxbIxR2jlWzL7RHyCOg=/987x0/smart/uploads/conteudo/fotos/percyjackson2010loganlerman.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/YvbMid30GvRZsphAmDW9uaRxWVA=/480x360/smart/extras/conteudos/percyjackson2010loganlerman.jpg"
-tags: ["Only Murders in the Building", "Logan Lerman", "Selena Gomez", "elenco estelar", "série de mistério", "Disney+", "streaming", "estreia em outubro"]
-keywords: "Only Murders in the Building, Logan Lerman, Selena Gomez, elenco estelar, série de mistério, Disney+, streaming, estreia em outubro"
-data: "2025-04-06T20:10:18.923Z"
+title: >-
+  Only Murders in the Building | Logan Lerman, o Percy Jackson, entra para o
+  elenco da 5ª temporada
+slug: only-murders-in-the-building-logan-lerman-o-percy-jackson-far-5-ano
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/OaT1dP3tvxbIxR2jlWzL7RHyCOg=/987x0/smart/uploads/conteudo/fotos/percyjackson2010loganlerman.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/YvbMid30GvRZsphAmDW9uaRxWVA=/480x360/smart/extras/conteudos/percyjackson2010loganlerman.jpg
+tags:
+  - Only Murders in the Building
+  - Logan Lerman
+  - Selena Gomez
+  - elenco estelar
+  - série de mistério
+  - Disney+
+  - streaming
+  - estreia em outubro
+keywords: >-
+  Only Murders in the Building, Logan Lerman, Selena Gomez, elenco estelar,
+  série de mistério, Disney+, streaming, estreia em outubro
+data: '2025-04-06T20:10:18.923Z'
+author: Luana Souza
 ---
 
 A quinta temporada de 'Only Murders in the Building' acaba de ganhar um reforço de peso com a confirmação de Logan Lerman no elenco. A revelação foi feita por Selena Gomez em suas redes sociais no último sábado (5). Lerman, conhecido por seu papel como Percy Jackson nos cinemas, junta-se a um elenco estelar que inclui nomes como Renée Zellweger, conhecida por 'O Diário de Bridget Jones', e Christoph Waltz, de 'Bastardos Inglórios'.

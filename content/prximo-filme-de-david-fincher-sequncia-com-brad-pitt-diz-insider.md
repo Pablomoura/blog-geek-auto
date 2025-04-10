@@ -16,6 +16,7 @@ tags:
   - filme novo
   - colaboração
   - rumores
+author: Ana Luiza
 ---
 
 A carreira de David Fincher continua a ser um tema de especulação intensa. Recentemente, o diretor foi associado a diversos projetos, incluindo um remake de 'Round 6', um faroeste, e até uma possível continuação de 'Chinatown'. No entanto, informações recentes apontam para uma nova direção, com Brad Pitt novamente ao seu lado.

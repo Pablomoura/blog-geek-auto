@@ -1,13 +1,29 @@
 ---
-title: "Emmanuelle, Dreams e mais: Veja seleção do Festival de Cinema Europeu Imovision"
-slug: "emmanuelle-dreams-e-mais-veja-seleo-do-festival-de-cinema-europeu-imovision"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FNxbWV06olexh303Fm7iajDvWpU=/987x0/smart/uploads/conteudo/fotos/EMMANUELLE_J14_MIRADORMANSIONB_21.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NUoXr8_FFFY-dsnhOaowCYIlcqI=/480x360/smart/extras/conteudos/EMMANUELLE_J14_MIRADORMANSIONB_21.jpg"
-tags: ["Festival de Cinema Europeu", "filmes europeus", "cinema independente", "filmes inéditos", "cinema erótico", "dramas biográficos", "filmes de suspense", "cinema contemporâneo"]
-keywords: "Festival de Cinema Europeu, filmes europeus, cinema independente, filmes inéditos, cinema erótico, dramas biográficos, filmes de suspense, cinema contemporâneo"
-data: "2025-04-04T13:21:00.089Z"
+title: >-
+  Emmanuelle, Dreams e mais: Veja seleção do Festival de Cinema Europeu
+  Imovision
+slug: emmanuelle-dreams-e-mais-veja-seleo-do-festival-de-cinema-europeu-imovision
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FNxbWV06olexh303Fm7iajDvWpU=/987x0/smart/uploads/conteudo/fotos/EMMANUELLE_J14_MIRADORMANSIONB_21.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NUoXr8_FFFY-dsnhOaowCYIlcqI=/480x360/smart/extras/conteudos/EMMANUELLE_J14_MIRADORMANSIONB_21.jpg
+tags:
+  - Festival de Cinema Europeu
+  - filmes europeus
+  - cinema independente
+  - filmes inéditos
+  - cinema erótico
+  - dramas biográficos
+  - filmes de suspense
+  - cinema contemporâneo
+keywords: >-
+  Festival de Cinema Europeu, filmes europeus, cinema independente, filmes
+  inéditos, cinema erótico, dramas biográficos, filmes de suspense, cinema
+  contemporâneo
+data: '2025-04-04T13:21:00.089Z'
+author: Luana Souza
 ---
 
 A 1ª edição do Festival de Cinema Europeu Imovision, que ocorrerá de 24 a 30 de abril, revelou hoje (4) sua seleção completa de filmes, englobando 14 produções inéditas de oito diferentes países europeus. Entre as obras destacadas está 'Dreams', do cineasta Dag Johan Hauregard, vencedor do Urso de Ouro no Festival de Berlim 2025. Este filme faz parte da trilogia 'Sex, Love & Dreams', já parcialmente exibida nos cinemas brasileiros.

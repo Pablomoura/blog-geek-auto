@@ -1,14 +1,26 @@
 ---
-title: "Entenda a Diferença entre Remake, Reboot e Spin-off no Mundo do Entretenimento"
-slug: "entenda-a-diferenca-entre-remake-reboot-e-spin-off-no-mundo-do-entretenimento"
-resumo: "Explorando as nuances do mundo do cinema e televisão, este artigo esclarece as diferenças entre remake, reboot e spin-off, termos frequentemente utilizados mas muitas vezes confundidos."
-categoria: "Cinema e Televisão"
-midia: "/images/remake-reboot.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-remake-reboot.jpg"
-keywords: "cinema, TV, remake, reboot, spin-off, entretenimento, franquias, filmes"
-tags: ["cinema", "TV", "remake", "reboot", "spin-off", "entretenimento", "franquias", "filmes"]
-data: "2025-04-04T21:45:04.147Z"
+title: 'Entenda a Diferença entre Remake, Reboot e Spin-off no Mundo do Entretenimento'
+slug: entenda-a-diferenca-entre-remake-reboot-e-spin-off-no-mundo-do-entretenimento
+resumo: >-
+  Explorando as nuances do mundo do cinema e televisão, este artigo esclarece as
+  diferenças entre remake, reboot e spin-off, termos frequentemente utilizados
+  mas muitas vezes confundidos.
+categoria: Cinema e Televisão
+midia: /images/remake-reboot.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-remake-reboot.jpg
+keywords: 'cinema, TV, remake, reboot, spin-off, entretenimento, franquias, filmes'
+tags:
+  - cinema
+  - TV
+  - remake
+  - reboot
+  - spin-off
+  - entretenimento
+  - franquias
+  - filmes
+data: '2025-04-04T21:45:04.147Z'
+author: Pablo Moura
 ---
 
 ## Remake, Reboot e Spin-off: Decifrando os Termos do Entretenimento

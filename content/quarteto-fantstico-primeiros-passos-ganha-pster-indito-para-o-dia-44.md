@@ -1,13 +1,27 @@
 ---
-title: "Quarteto Fantástico: Primeiros Passos apresenta pôster temático em celebração ao dia 4/4"
-slug: "quarteto-fantstico-primeiros-passos-ganha-pster-indito-para-o-dia-44"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/6y106tPooQg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/EuqZIvi4N5cni3hoCOO8lFoOkOE=/480x360/smart/extras/conteudos/quarteto-poster-.jpg"
-tags: ["Quarteto Fantástico", "Marvel Studios", "Pedro Pascal", "Galactus", "Surfista Prateado", "MCU Fase 6", "Doutor Destino", "Estreia 2025"]
-keywords: "Quarteto Fantástico, Marvel Studios, Pedro Pascal, Galactus, Surfista Prateado, MCU Fase 6, Doutor Destino, Estreia 2025"
-data: "2025-04-04T15:14:50.185Z"
+title: >-
+  Quarteto Fantástico: Primeiros Passos apresenta pôster temático em celebração
+  ao dia 4/4
+slug: quarteto-fantstico-primeiros-passos-ganha-pster-indito-para-o-dia-44
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/6y106tPooQg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/EuqZIvi4N5cni3hoCOO8lFoOkOE=/480x360/smart/extras/conteudos/quarteto-poster-.jpg
+tags:
+  - Quarteto Fantástico
+  - Marvel Studios
+  - Pedro Pascal
+  - Galactus
+  - Surfista Prateado
+  - MCU Fase 6
+  - Doutor Destino
+  - Estreia 2025
+keywords: >-
+  Quarteto Fantástico, Marvel Studios, Pedro Pascal, Galactus, Surfista
+  Prateado, MCU Fase 6, Doutor Destino, Estreia 2025
+data: '2025-04-04T15:14:50.185Z'
+author: Pablo Moura
 ---
 
 Em uma jogada de marketing temática, o Marvel Studios aproveitou o dia 4 de abril para lançar um novo pôster de 'Quarteto Fantástico: Primeiros Passos'. O design criativo destaca as silhuetas dos quatro protagonistas cercadas por inúmeros algarismos '4', reforçando a identidade visual da equipe.

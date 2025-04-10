@@ -1,12 +1,23 @@
 ---
-title: "Demolidor | Série da Netflix teria vilã inédita no MCU"
-slug: "demolidor-srie-da-netflix-teria-vil-indita-no-mcu"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/yiskgpEvEb0zBj0LA9vflcO6znA=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-02T191521.110.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/FSTn_pguVVYQGT7tJ-tBPkMhVcQ=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-02T191521.110.png"
-tags: ["Demolidor", "Netflix", "MCU", "Mary Tyfoid", "Erik Oleson", "Disney+", "vilã inédita", "série cancelada"]
-data: "2025-04-02T22:49:17.197Z"
+title: Demolidor | Série da Netflix teria vilã inédita no MCU
+slug: demolidor-srie-da-netflix-teria-vil-indita-no-mcu
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/yiskgpEvEb0zBj0LA9vflcO6znA=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-02T191521.110.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/FSTn_pguVVYQGT7tJ-tBPkMhVcQ=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-02T191521.110.png
+tags:
+  - Demolidor
+  - Netflix
+  - MCU
+  - Mary Tyfoid
+  - Erik Oleson
+  - Disney+
+  - vilã inédita
+  - série cancelada
+data: '2025-04-02T22:49:17.197Z'
+author: Pablo Moura
 ---
 
 Em uma reveladora entrevista ao The Wrap, Erik Oleson, showrunner de Demolidor da Netflix, compartilhou os planos que tinha para a série após a terceira temporada, que foram interrompidos pelo cancelamento em 2018. Oleson expressou que a quarta temporada apresentaria uma narrativa distinta, introduzindo Mary Tyfoid como a vilã central, antes de retornar ao enredo envolvendo o Mercenário na quinta temporada. 'A quarta temporada que eu planejei era bem diferente. Seria uma história com a Mary Tyfoid. Eu estava indo em uma direção diferente. E depois eu voltaria para a trama com o Mercenário na quinta temporada', explicou Oleson.

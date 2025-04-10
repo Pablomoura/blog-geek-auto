@@ -1,13 +1,28 @@
 ---
-title: "He-Man | Nicholas Galitzine e Jared Leto surgem caracterizados em vídeo na CinemaCon"
-slug: "he-man-nicholas-galitzine-e-jared-leto-aparecem-caracterizados-em-vdeo"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/LMH3GRpWynU9M_AzgOt0xYuI-DU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-25T110213.549.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SQ89pyfj2pym0D0yke2cy_w8cGw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T110140.653.png"
-tags: ["He-Man", "CinemaCon", "Jared Leto", "Nicholas Galitzine", "live-action", "Mestres do Universo", "adaptação cinematográfica", "Eternia"]
-keywords: "He-Man, CinemaCon, Jared Leto, Nicholas Galitzine, live-action, Mestres do Universo, adaptação cinematográfica, Eternia"
-data: "2025-04-03T05:12:27.589Z"
+title: >-
+  He-Man | Nicholas Galitzine e Jared Leto surgem caracterizados em vídeo na
+  CinemaCon
+slug: he-man-nicholas-galitzine-e-jared-leto-aparecem-caracterizados-em-vdeo
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/LMH3GRpWynU9M_AzgOt0xYuI-DU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-03-25T110213.549.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SQ89pyfj2pym0D0yke2cy_w8cGw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-03-25T110140.653.png
+tags:
+  - He-Man
+  - CinemaCon
+  - Jared Leto
+  - Nicholas Galitzine
+  - live-action
+  - Mestres do Universo
+  - adaptação cinematográfica
+  - Eternia
+keywords: >-
+  He-Man, CinemaCon, Jared Leto, Nicholas Galitzine, live-action, Mestres do
+  Universo, adaptação cinematográfica, Eternia
+data: '2025-04-03T05:12:27.589Z'
+author: Ana Luiza
 ---
 
 Durante a recente CinemaCon, foram divulgadas as primeiras cenas do aguardado live-action de He-Man e os Mestres do Universo. A prévia apresentou um vislumbre empolgante dos personagens icônicos, que foram meticulosamente recriados para a tela grande. Os fãs da franquia ficarão entusiasmados ao ver Jared Leto na pele do vilão Esqueleto, enquanto Nicholas Galitzine encarna o heróico He-Man. As reações destacam a incrível semelhança dos atores com os personagens originais do desenho animado, além do uso extensivo de maquiagem e efeitos práticos para trazer o mundo de Eternia à vida.

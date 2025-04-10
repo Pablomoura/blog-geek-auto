@@ -18,6 +18,7 @@ tags:
   - netflix
   - greta gerwig
   - adaptação cinematográfica
+author: Luana Souza
 ---
 
 Um rumor recente agitou os fãs de 'As Crônicas de Nárnia'. De acordo com o NexusPointNews, a renomada atriz Meryl Streep pode estar em conversas para assumir o papel de Aslan na nova adaptação de Greta Gerwig para a Netflix. A proposta já teria sido realizada, e discussões estão em andamento para trazer Streep para o papel do leão, figura central e mentor das crianças no mundo mágico de Nárnia, tradicionalmente retratado como uma representação de Jesus Cristo.

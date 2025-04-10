@@ -1,14 +1,27 @@
 ---
-title: "Guia Definitivo de Presentes Criativos para Geeks em Datas Especiais"
-slug: "guia-definitivo-de-presentes-criativos-para-geeks-em-datas-especiais"
-resumo: "Descubra ideias únicas e inspiradoras para presentear geeks em ocasiões especiais. Desde gadgets inovadores até colecionáveis raros, explore uma variedade de opções que certamente irão surpreender e encantar qualquer aficionado por tecnologia e cultura pop."
-categoria: "Presentes"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "presentes, geeks, gadgets, colecionáveis, tecnologia, jogos, livros, cursos"
-tags: ["presentes", "geeks", "gadgets", "colecionáveis", "tecnologia", "jogos", "livros", "cursos"]
-data: "2025-04-03T01:05:56.980Z"
+title: Guia Definitivo de Presentes Criativos para Geeks em Datas Especiais
+slug: guia-definitivo-de-presentes-criativos-para-geeks-em-datas-especiais
+resumo: >-
+  Descubra ideias únicas e inspiradoras para presentear geeks em ocasiões
+  especiais. Desde gadgets inovadores até colecionáveis raros, explore uma
+  variedade de opções que certamente irão surpreender e encantar qualquer
+  aficionado por tecnologia e cultura pop.
+categoria: Presentes
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: 'presentes, geeks, gadgets, colecionáveis, tecnologia, jogos, livros, cursos'
+tags:
+  - presentes
+  - geeks
+  - gadgets
+  - colecionáveis
+  - tecnologia
+  - jogos
+  - livros
+  - cursos
+data: '2025-04-03T01:05:56.980Z'
+author: Luana Souza
 ---
 
 ## Por Que Presentes Criativos para Geeks?

@@ -1,13 +1,28 @@
 ---
-title: "Vingadores Doomsday | Robert Downey Jr. revela possível visual de Doutor Destino"
-slug: "vingadores-doomsday-robert-downey-jr-revela-possvel-visual-de-doutor-destino"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/2w37ppIKPJ6HjApXXh4mYWT-xew=/987x0/smart/uploads/conteudo/fotos/robertdowneyjrdoutordestinolow_jkcVBsz.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/LdWS-OcCRn_aXBnqETBLhRnizwA=/480x360/smart/extras/conteudos/robertdowneyjrdoutordestinoconvitefesta.jpg"
-tags: ["Vingadores Doomsday", "Robert Downey Jr.", "Doutor Destino", "Marvel", "Universo Cinematográfico Marvel", "Saga do Multiverso", "X-Men", "Quarteto Fantástico"]
-keywords: "Vingadores Doomsday, Robert Downey Jr., Doutor Destino, Marvel, Universo Cinematográfico Marvel, Saga do Multiverso, X-Men, Quarteto Fantástico"
-data: "2025-04-06T14:08:33.372Z"
+title: >-
+  Vingadores Doomsday | Robert Downey Jr. revela possível visual de Doutor
+  Destino
+slug: vingadores-doomsday-robert-downey-jr-revela-possvel-visual-de-doutor-destino
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/2w37ppIKPJ6HjApXXh4mYWT-xew=/987x0/smart/uploads/conteudo/fotos/robertdowneyjrdoutordestinolow_jkcVBsz.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/LdWS-OcCRn_aXBnqETBLhRnizwA=/480x360/smart/extras/conteudos/robertdowneyjrdoutordestinoconvitefesta.jpg
+tags:
+  - Vingadores Doomsday
+  - Robert Downey Jr.
+  - Doutor Destino
+  - Marvel
+  - Universo Cinematográfico Marvel
+  - Saga do Multiverso
+  - X-Men
+  - Quarteto Fantástico
+keywords: >-
+  Vingadores Doomsday, Robert Downey Jr., Doutor Destino, Marvel, Universo
+  Cinematográfico Marvel, Saga do Multiverso, X-Men, Quarteto Fantástico
+data: '2025-04-06T14:08:33.372Z'
+author: Luana Souza
 ---
 
 Robert Downey Jr., conhecido por seus papéis icônicos em Hollywood, pode ter dado aos fãs um vislumbre do visual de seu próximo personagem, Doutor Destino, durante sua festa de aniversário neste fim de semana. O ator foi visto com um penteado cacheado, que segundo o convite distribuído aos convidados, será parte de sua caracterização no filme 'Vingadores: Doomsday'.

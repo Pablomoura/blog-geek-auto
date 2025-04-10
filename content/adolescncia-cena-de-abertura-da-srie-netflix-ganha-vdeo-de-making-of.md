@@ -1,13 +1,28 @@
 ---
-title: "Adolescência | Bastidores da cena de abertura da série Netflix revelados em vídeo"
-slug: "adolescncia-cena-de-abertura-da-srie-netflix-ganha-vdeo-de-making-of"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/a0lKieOOa_7facsIzHWI7cia1mo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T131038.672.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/PzqwXxOidYkWaFDOfoj9etoXekQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T131018.935.png"
-tags: ["Netflix", "Adolescência", "making-of", "plano sequência", "Stephen Graham", "filmagem contínua", "delinquência juvenil", "série dramática"]
-keywords: "Netflix, Adolescência, making-of, plano sequência, Stephen Graham, filmagem contínua, delinquência juvenil, série dramática"
-data: "2025-04-08T17:12:30.892Z"
+title: >-
+  Adolescência | Bastidores da cena de abertura da série Netflix revelados em
+  vídeo
+slug: adolescncia-cena-de-abertura-da-srie-netflix-ganha-vdeo-de-making-of
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/a0lKieOOa_7facsIzHWI7cia1mo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T131038.672.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/PzqwXxOidYkWaFDOfoj9etoXekQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-08T131018.935.png
+tags:
+  - Netflix
+  - Adolescência
+  - making-of
+  - plano sequência
+  - Stephen Graham
+  - filmagem contínua
+  - delinquência juvenil
+  - série dramática
+keywords: >-
+  Netflix, Adolescência, making-of, plano sequência, Stephen Graham, filmagem
+  contínua, delinquência juvenil, série dramática
+data: '2025-04-08T17:12:30.892Z'
+author: Pablo Moura
 ---
 
 A Netflix divulgou recentemente um vídeo de making-of mostrando os bastidores da cena de abertura da minissérie 'Adolescência'. O vídeo apresenta uma tela dividida que exibe simultaneamente a cena finalizada e o processo de gravação, destacando o desafiador plano sequência utilizado.

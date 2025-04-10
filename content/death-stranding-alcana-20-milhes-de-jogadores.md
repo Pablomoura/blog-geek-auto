@@ -15,6 +15,7 @@ tags:
   - 20 milhões de jogadores
   - sucesso de jogos
   - indústria de videogames
+author: Ana Luiza
 ---
 
 O jogo Death Stranding, lançado em 2019 e desenvolvido por Hideo Kojima, atingiu a impressionante marca de 20 milhões de jogadores em todo o mundo. A Kojima Productions anunciou esse feito através de suas redes sociais, onde expressou gratidão a todos os jogadores que contribuíram para esse sucesso. 

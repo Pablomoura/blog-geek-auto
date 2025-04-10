@@ -1,14 +1,29 @@
 ---
-title: "De Anime para Mangá: Um Guia Completo para Continuar a História"
-slug: "de-anime-para-manga-um-guia-completo-para-continuar-a-historia"
-resumo: "Descubra como fazer a transição do anime para o mangá, identificando exatamente em que capítulo do mangá o anime parou. Este guia detalhado facilita para os fãs continuarem a explorar seus mundos e personagens favoritos sem perder nenhum detalhe."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "anime, mangá, guia de transição, leitura de mangá, adaptação anime, capítulo de mangá, continuar história, fãs de anime"
-tags: ["anime", "mangá", "guia de transição", "leitura de mangá", "adaptação anime", "capítulo de mangá", "continuar história", "fãs de anime"]
-data: "2025-04-08T22:12:55.706Z"
+title: 'De Anime para Mangá: Um Guia Completo para Continuar a História'
+slug: de-anime-para-manga-um-guia-completo-para-continuar-a-historia
+resumo: >-
+  Descubra como fazer a transição do anime para o mangá, identificando
+  exatamente em que capítulo do mangá o anime parou. Este guia detalhado
+  facilita para os fãs continuarem a explorar seus mundos e personagens
+  favoritos sem perder nenhum detalhe.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  anime, mangá, guia de transição, leitura de mangá, adaptação anime, capítulo
+  de mangá, continuar história, fãs de anime
+tags:
+  - anime
+  - mangá
+  - guia de transição
+  - leitura de mangá
+  - adaptação anime
+  - capítulo de mangá
+  - continuar história
+  - fãs de anime
+data: '2025-04-08T22:12:55.706Z'
+author: Ana Luiza
 ---
 
 ## Introdução

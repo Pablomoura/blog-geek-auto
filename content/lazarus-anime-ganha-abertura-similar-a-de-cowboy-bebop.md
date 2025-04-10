@@ -14,6 +14,7 @@ tags:
   - kamasi washington
   - jazz
   - adult swim
+author: Ana Luiza
 ---
 
 Adult Swim revelou na última quinta-feira (27) a abertura do anime 'Lazarus', a mais recente criação de Shinichiro Watanabe, conhecido por Cowboy Bebop. Intitulada 'VORTEX', a abertura foi desenvolvida pelo renomado músico de jazz norte-americano Kamasi Washington, e apresenta uma forte influência jazzística, similar à icônica abertura de Cowboy Bebop, além de compartilhar um estilo visual e direção artística semelhantes ao famoso anime de 1998.

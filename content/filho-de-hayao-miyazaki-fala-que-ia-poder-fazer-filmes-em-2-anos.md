@@ -1,13 +1,26 @@
 ---
-title: "Filho de Hayao Miyazaki prevê que IA poderá criar filmes em dois anos"
-slug: "filho-de-hayao-miyazaki-fala-que-ia-poder-fazer-filmes-em-2-anos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/_iegNC7Ekfu43rqdR0ml6t0FJPI=/987x0/smart/uploads/conteudo/fotos/02_qatFWUJ.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/qz-buwgFjpeAFNX7N-oPr8RPG8k=/480x360/smart/extras/conteudos/01_QbwDhyr.jpg"
-tags: ["IA em cinema", "Studio Ghibli", "Hayao Miyazaki", "Goro Miyazaki", "animação", "futuro da tecnologia", "ética em IA", "inteligência artificial"]
-keywords: "IA em cinema, Studio Ghibli, Hayao Miyazaki, Goro Miyazaki, animação, futuro da tecnologia, ética em IA, inteligência artificial"
-data: "2025-04-04T12:17:56.609Z"
+title: Filho de Hayao Miyazaki prevê que IA poderá criar filmes em dois anos
+slug: filho-de-hayao-miyazaki-fala-que-ia-poder-fazer-filmes-em-2-anos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/_iegNC7Ekfu43rqdR0ml6t0FJPI=/987x0/smart/uploads/conteudo/fotos/02_qatFWUJ.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/qz-buwgFjpeAFNX7N-oPr8RPG8k=/480x360/smart/extras/conteudos/01_QbwDhyr.jpg
+tags:
+  - IA em cinema
+  - Studio Ghibli
+  - Hayao Miyazaki
+  - Goro Miyazaki
+  - animação
+  - futuro da tecnologia
+  - ética em IA
+  - inteligência artificial
+keywords: >-
+  IA em cinema, Studio Ghibli, Hayao Miyazaki, Goro Miyazaki, animação, futuro
+  da tecnologia, ética em IA, inteligência artificial
+data: '2025-04-04T12:17:56.609Z'
+author: Ana Luiza
 ---
 
 Goro Miyazaki, filho do renomado Hayao Miyazaki e também integrante do Studio Ghibli, compartilhou suas perspectivas sobre a inteligência artificial em uma entrevista à Agence France-Presse. Ele expressou admiração pela capacidade tecnológica atual, sugerindo que em breve, possivelmente em dois anos, poderemos ver um filme totalmente produzido por IA.

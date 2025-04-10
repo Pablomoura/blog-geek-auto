@@ -1,14 +1,27 @@
 ---
-title: "Como Frieren Conquistou os Fãs Após o Clímax da História"
-slug: "como-frieren-conquistou-os-fas-apos-o-climax-da-historia"
-resumo: "Explorando o fenômeno de 'Frieren: Beyond Journey's End', este artigo desvenda como a série de mangá capturou os corações dos fãs mesmo se desenrolando após o clímax épico da jornada dos heróis. Discutiremos os elementos chave que contribuíram para seu sucesso duradouro."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "manga, Frieren, narrativa, personagem, temas, arte, emoção, cultura pop"
-tags: ["manga", "Frieren", "narrativa", "personagem", "temas", "arte", "emoção", "cultura pop"]
-data: "2025-04-08T21:24:42.304Z"
+title: Como Frieren Conquistou os Fãs Após o Clímax da História
+slug: como-frieren-conquistou-os-fas-apos-o-climax-da-historia
+resumo: >-
+  Explorando o fenômeno de 'Frieren: Beyond Journey's End', este artigo desvenda
+  como a série de mangá capturou os corações dos fãs mesmo se desenrolando após
+  o clímax épico da jornada dos heróis. Discutiremos os elementos chave que
+  contribuíram para seu sucesso duradouro.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: 'manga, Frieren, narrativa, personagem, temas, arte, emoção, cultura pop'
+tags:
+  - manga
+  - Frieren
+  - narrativa
+  - personagem
+  - temas
+  - arte
+  - emoção
+  - cultura pop
+data: '2025-04-08T21:24:42.304Z'
+author: Pablo Moura
 ---
 
 ## O Fenômeno Pós-Final em Mangás: O Caso de Frieren

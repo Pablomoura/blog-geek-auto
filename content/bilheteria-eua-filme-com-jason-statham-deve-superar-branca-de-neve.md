@@ -17,6 +17,7 @@ tags:
   - branca de neve
   - filmes
   - deadline
+author: Luana Souza
 ---
 
 Parece que o domínio de 'Branca de Neve' nas bilheterias americanas será breve. Segundo informações do Deadline, o filme 'Resgate Implacável', estrelado por Jason Statham, é esperado para assumir a liderança neste fim de semana, desbancando 'Branca de Neve' da Disney em sua segunda semana de exibição.

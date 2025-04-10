@@ -1,14 +1,29 @@
 ---
-title: "Explorando o Mundo do Mistério e Sci-Fi: O que Assistir Após Stranger Things"
-slug: "explorando-o-mundo-do-misterio-e-sci-fi-o-que-assistir-apos-stranger-things"
-resumo: "Se você ficou fascinado pelo mundo enigmático de Stranger Things, este artigo é para você. Descubra séries que capturam a mesma essência de mistério, ficção científica e aventuras emocionantes para continuar sua jornada no universo do entretenimento."
-categoria: "SÉRIES E TV"
-midia: "/images/stranger-things.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-strangerthings.jpg"
-keywords: "séries, Stranger Things, ficção científica, mistério, TV shows, entretenimento, dicas de séries, sobrenatural"
-tags: ["séries", "Stranger Things", "ficção científica", "mistério", "TV shows", "entretenimento", "dicas de séries", "sobrenatural"]
-data: "2025-04-03T22:59:22.320Z"
+title: 'Explorando o Mundo do Mistério e Sci-Fi: O que Assistir Após Stranger Things'
+slug: explorando-o-mundo-do-misterio-e-sci-fi-o-que-assistir-apos-stranger-things
+resumo: >-
+  Se você ficou fascinado pelo mundo enigmático de Stranger Things, este artigo
+  é para você. Descubra séries que capturam a mesma essência de mistério, ficção
+  científica e aventuras emocionantes para continuar sua jornada no universo do
+  entretenimento.
+categoria: SÉRIES E TV
+midia: /images/stranger-things.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-strangerthings.jpg
+keywords: >-
+  séries, Stranger Things, ficção científica, mistério, TV shows,
+  entretenimento, dicas de séries, sobrenatural
+tags:
+  - séries
+  - Stranger Things
+  - ficção científica
+  - mistério
+  - TV shows
+  - entretenimento
+  - dicas de séries
+  - sobrenatural
+data: '2025-04-03T22:59:22.320Z'
+author: Pablo Moura
 ---
 
 ## Introdução ao Universo Após Stranger Things

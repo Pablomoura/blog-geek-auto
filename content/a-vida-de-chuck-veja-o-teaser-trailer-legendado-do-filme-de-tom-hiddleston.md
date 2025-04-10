@@ -1,13 +1,25 @@
 ---
-title: "A Vida de Chuck | Confira o teaser trailer legendado com Tom Hiddleston"
-slug: "a-vida-de-chuck-veja-o-teaser-trailer-legendado-do-filme-de-tom-hiddleston"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/ZsIWuueCDgI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/DB8QCgn8KvctSLkyG1l7IvaNM2o=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-13_145003.png"
-tags: ["Tom Hiddleston", "Mike Flanagan", "Stephen King", "filme de drama", "teaser trailer", "adaptação literária", "Festival de Toronto", "elenco estelar"]
-keywords: "Tom Hiddleston, Mike Flanagan, Stephen King, filme de drama, teaser trailer, adaptação literária, Festival de Toronto, elenco estelar"
-data: "2025-04-08T18:12:37.464Z"
+title: A Vida de Chuck | Confira o teaser trailer legendado com Tom Hiddleston
+slug: a-vida-de-chuck-veja-o-teaser-trailer-legendado-do-filme-de-tom-hiddleston
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/ZsIWuueCDgI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/DB8QCgn8KvctSLkyG1l7IvaNM2o=/480x360/smart/extras/conteudos/Captura_de_tela_2025-03-13_145003.png
+tags:
+  - Tom Hiddleston
+  - Mike Flanagan
+  - Stephen King
+  - filme de drama
+  - teaser trailer
+  - adaptação literária
+  - Festival de Toronto
+  - elenco estelar
+keywords: >-
+  Tom Hiddleston, Mike Flanagan, Stephen King, filme de drama, teaser trailer,
+  adaptação literária, Festival de Toronto, elenco estelar
+data: '2025-04-08T18:12:37.464Z'
+author: Ana Luiza
 ---
 
 O aguardado filme 'A Vida de Chuck', dirigido e roteirizado por Mike Flanagan e estrelado por Tom Hiddleston, acaba de lançar seu primeiro teaser trailer legendado. O vídeo, breve em sua duração, oferece um vislumbre de algumas cenas, estabelecendo imediatamente o clima de drama emocionante que permeia a produção.

@@ -1,13 +1,26 @@
 ---
-title: "Detetive Chinatown | Novo filme da franquia bilionária ganha data no Brasil"
-slug: "detetive-chinatown-novo-filme-da-franquia-bilionria-ganha-data-no-brasil"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/vfAK7oVylgoh1h-e0qY-jg0madk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T125211.715.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fbAhNQiv-ssLVH4yM-Pro_6xJDc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T125155.905.png"
-tags: ["Detetive Chinatown", "cinema chinês", "estreia no Brasil", "bilheteria", "Chen Sicheng", "Dai Mo", "franquia bilionária", "filmes de mistério"]
-keywords: "Detetive Chinatown, cinema chinês, estreia no Brasil, bilheteria, Chen Sicheng, Dai Mo, franquia bilionária, filmes de mistério"
-data: "2025-04-03T16:11:50.669Z"
+title: Detetive Chinatown | Novo filme da franquia bilionária ganha data no Brasil
+slug: detetive-chinatown-novo-filme-da-franquia-bilionria-ganha-data-no-brasil
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/vfAK7oVylgoh1h-e0qY-jg0madk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T125211.715.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fbAhNQiv-ssLVH4yM-Pro_6xJDc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T125155.905.png
+tags:
+  - Detetive Chinatown
+  - cinema chinês
+  - estreia no Brasil
+  - bilheteria
+  - Chen Sicheng
+  - Dai Mo
+  - franquia bilionária
+  - filmes de mistério
+keywords: >-
+  Detetive Chinatown, cinema chinês, estreia no Brasil, bilheteria, Chen
+  Sicheng, Dai Mo, franquia bilionária, filmes de mistério
+data: '2025-04-03T16:11:50.669Z'
+author: Pablo Moura
 ---
 
 A aguardada continuação da série cinematográfica Detetive Chinatown, intitulada Detetive Chinatown: O Mistério de 1900, finalmente tem sua data de estreia confirmada no Brasil. O filme, que é parte de uma franquia de enorme sucesso na China, já acumulou quase US$ 2 bilhões em receitas de bilheteria globalmente. A distribuição no Brasil ficará por conta da Sato Company, com previsão de lançamento para o primeiro semestre deste ano.

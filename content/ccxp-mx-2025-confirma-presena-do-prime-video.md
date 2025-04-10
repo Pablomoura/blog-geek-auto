@@ -15,6 +15,7 @@ tags:
   - produções originais
   - streaming
   - eventos
+author: Luana Souza
 ---
 
 O Prime Video acaba de anunciar sua participação na CCXP MX 2025, a versão mexicana da aclamada Comic Con Experience. A confirmação aumenta a expectativa de anúncios significativos durante o evento.

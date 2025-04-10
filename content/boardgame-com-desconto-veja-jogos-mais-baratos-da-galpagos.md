@@ -15,6 +15,7 @@ tags:
   - descontos boardgames
   - jogos de tabuleiro
   - omelete
+author: Ana Luiza
 ---
 
 A Galápagos Jogos lançou uma promoção especial na Amazon, oferecendo descontos significativos em uma ampla seleção de seus boardgames. Confira alguns dos destaques escolhidos para você aproveitar: 

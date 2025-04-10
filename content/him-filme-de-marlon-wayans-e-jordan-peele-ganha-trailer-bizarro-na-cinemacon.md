@@ -1,13 +1,26 @@
 ---
-title: "HIM | Filme de Marlon Wayans e Jordan Peele ganha trailer bizarro na CinemaCon"
-slug: "him-filme-de-marlon-wayans-e-jordan-peele-ganha-trailer-bizarro-na-cinemacon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/f9XaceFJ5MonIzUhTD50uvrrK5o=/987x0/smart/uploads/conteudo/fotos/jordanpeele_8jvJlwN.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/rw6YjZeOG72KpByZiW9TEd_AWuE=/480x360/smart/extras/conteudos/jordanpeele_8jvJlwN.png"
-tags: ["CinemaCon", "Marlon Wayans", "Jordan Peele", "filme de terror", "esporte", "trailer bizarro", "Universal Pictures", "mistério"]
-keywords: "CinemaCon, Marlon Wayans, Jordan Peele, filme de terror, esporte, trailer bizarro, Universal Pictures, mistério"
-data: "2025-04-03T00:13:54.411Z"
+title: HIM | Filme de Marlon Wayans e Jordan Peele ganha trailer bizarro na CinemaCon
+slug: him-filme-de-marlon-wayans-e-jordan-peele-ganha-trailer-bizarro-na-cinemacon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/f9XaceFJ5MonIzUhTD50uvrrK5o=/987x0/smart/uploads/conteudo/fotos/jordanpeele_8jvJlwN.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/rw6YjZeOG72KpByZiW9TEd_AWuE=/480x360/smart/extras/conteudos/jordanpeele_8jvJlwN.png
+tags:
+  - CinemaCon
+  - Marlon Wayans
+  - Jordan Peele
+  - filme de terror
+  - esporte
+  - trailer bizarro
+  - Universal Pictures
+  - mistério
+keywords: >-
+  CinemaCon, Marlon Wayans, Jordan Peele, filme de terror, esporte, trailer
+  bizarro, Universal Pictures, mistério
+data: '2025-04-03T00:13:54.411Z'
+author: Ana Luiza
 ---
 
 Durante a CinemaCon, um evento destinado à indústria cinematográfica, foi apresentado o primeiro trailer do filme 'HIM', uma produção estrelada por Marlon Wayans e sob a batuta do produtor Jordan Peele. O lançamento ocorreu no painel da Universal Pictures, capturando a atenção do público presente.

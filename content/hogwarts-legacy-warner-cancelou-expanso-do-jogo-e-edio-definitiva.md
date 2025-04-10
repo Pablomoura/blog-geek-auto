@@ -17,6 +17,7 @@ tags:
   - expansão de jogo
   - vendas altas
   - indústria de jogos
+author: Ana Luiza
 ---
 
 Segundo informações de Jason Schreier, da Bloomberg, a Warner Bros. decidiu cancelar conteúdo adicional planejado para o jogo Hogwarts Legacy. A Bloomberg tentou obter um posicionamento oficial da empresa, que optou por não comentar sobre o cancelamento.

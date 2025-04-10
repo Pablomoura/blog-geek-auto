@@ -13,6 +13,7 @@ tags:
   - shang-chi
   - mcu
   - marvel
+author: Luana Souza
 ---
 
 Simu Liu, conhecido por seu papel como Shang-Chi, foi oficialmente confirmado no elenco de 'Vingadores: Doomsday'. O ator expressou seu entusiasmo de forma bem-humorada nas redes sociais, brincando sobre o longo período sem aparições de Shang-Chi no Universo Cinematográfico Marvel (MCU) desde o seu filme solo.

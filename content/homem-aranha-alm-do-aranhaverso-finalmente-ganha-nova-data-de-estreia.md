@@ -16,6 +16,7 @@ tags:
   - miles morales
   - estreia 2027
   - jharrel jerome
+author: Ana Luiza
 ---
 
 A aguardada continuação da saga Aranhaverso, 'Homem-Aranha: Além do Aranhaverso', já tem data de lançamento confirmada. O anúncio foi feito durante a CinemaCon deste ano, trazendo alívio aos fãs ansiosos por novidades.

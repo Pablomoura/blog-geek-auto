@@ -1,13 +1,26 @@
 ---
-title: "Estúdio de Turma da Mônica tomará medidas contra tirinhas de IA"
-slug: "estdio-de-turma-da-mnica-tomar-medidas-contra-tirinhas-de-ia"
-categoria: "HQ/LIVROS"
-midia: "https://cdn.ome.lt/EVR6E-3W-mYX1d290JsjmNhMCaQ=/987x0/smart/uploads/conteudo/fotos/02_EHygd3J.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/rs1vC302DIBYd3pjiZy3AtyYgZ0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_120017.png"
-tags: ["Turma da Mônica", "inteligência artificial", "direitos autorais", "MSP Estúdios", "criação artística", "propriedade intelectual", "ética em IA", "inovação tecnológica"]
-keywords: "Turma da Mônica, inteligência artificial, direitos autorais, MSP Estúdios, criação artística, propriedade intelectual, ética em IA, inovação tecnológica"
-data: "2025-04-09T15:13:21.374Z"
+title: Estúdio de Turma da Mônica tomará medidas contra tirinhas de IA
+slug: estdio-de-turma-da-mnica-tomar-medidas-contra-tirinhas-de-ia
+categoria: HQ/LIVROS
+midia: >-
+  https://cdn.ome.lt/EVR6E-3W-mYX1d290JsjmNhMCaQ=/987x0/smart/uploads/conteudo/fotos/02_EHygd3J.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/rs1vC302DIBYd3pjiZy3AtyYgZ0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_120017.png
+tags:
+  - Turma da Mônica
+  - inteligência artificial
+  - direitos autorais
+  - MSP Estúdios
+  - criação artística
+  - propriedade intelectual
+  - ética em IA
+  - inovação tecnológica
+keywords: >-
+  Turma da Mônica, inteligência artificial, direitos autorais, MSP Estúdios,
+  criação artística, propriedade intelectual, ética em IA, inovação tecnológica
+data: '2025-04-09T15:13:21.374Z'
+author: Pablo Moura
 ---
 
 Recentemente, a Turma da Mônica entrou para a lista de conteúdos reinterpretados por meio de inteligência artificial, seguindo o exemplo de outras produções como as do Studio Ghibli. Nas redes sociais, é possível encontrar uma variedade de montagens que utilizam os personagens criados por Mauricio de Sousa, geradas por ferramentas como ChatGPT. Em resposta a essa tendência, o estúdio responsável pelos personagens anunciou que tomará medidas legais para proteger sua propriedade intelectual.

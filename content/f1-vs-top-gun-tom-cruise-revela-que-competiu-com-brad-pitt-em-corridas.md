@@ -1,13 +1,26 @@
 ---
-title: "F1 vs. Top Gun | Tom Cruise revela que competiu com Brad Pitt em corridas"
-slug: "f1-vs-top-gun-tom-cruise-revela-que-competiu-com-brad-pitt-em-corridas"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/yt3AxJlfh7gA25gDQ0T5NubY82w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T152352.865.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Zo3YYn9qQwL7QoRXQP4-F5x00nM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T152334.548.png"
-tags: ["F1", "Tom Cruise", "Brad Pitt", "CinemaCon", "Joseph Kosinski", "Missão: Impossível", "Oscar 2025", "corrida de kart"]
-keywords: "F1, Tom Cruise, Brad Pitt, CinemaCon, Joseph Kosinski, Missão: Impossível, Oscar 2025, corrida de kart"
-data: "2025-04-03T19:10:11.148Z"
+title: F1 vs. Top Gun | Tom Cruise revela que competiu com Brad Pitt em corridas
+slug: f1-vs-top-gun-tom-cruise-revela-que-competiu-com-brad-pitt-em-corridas
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/yt3AxJlfh7gA25gDQ0T5NubY82w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T152352.865.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Zo3YYn9qQwL7QoRXQP4-F5x00nM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T152334.548.png
+tags:
+  - F1
+  - Tom Cruise
+  - Brad Pitt
+  - CinemaCon
+  - Joseph Kosinski
+  - 'Missão: Impossível'
+  - Oscar 2025
+  - corrida de kart
+keywords: >-
+  F1, Tom Cruise, Brad Pitt, CinemaCon, Joseph Kosinski, Missão: Impossível,
+  Oscar 2025, corrida de kart
+data: '2025-04-03T19:10:11.148Z'
+author: Ana Luiza
 ---
 
 Durante a CinemaCon, Tom Cruise compartilhou sua empolgação pelo novo filme da Fórmula 1, estrelado por Brad Pitt, chamado simplesmente de 'F1'. Cruise relembrou: 'Brad Pitt é um grande piloto, eu já corri com ele antes! Nós fomos para uma corrida de kart enquanto filmávamos Entrevista Com o Vampiro.' Ambos os atores têm trabalhado com o cineasta Joseph Kosinski, que dirigiu Cruise em 'Top Gun: Maverick' e agora dirige Pitt em 'F1'.

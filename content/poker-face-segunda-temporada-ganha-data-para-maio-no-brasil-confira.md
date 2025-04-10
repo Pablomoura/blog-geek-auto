@@ -16,6 +16,7 @@ tags:
   - brasil
   - universal+
   - série tv
+author: Pablo Moura
 ---
 
 A espera acabou para os fãs de 'Poker Face'. A Universal+ anunciou, em exclusividade ao Omelete, que a segunda temporada da série estreará no Brasil em maio. A data de lançamento foi confirmada para o dia 9 de maio, apenas um dia depois da estreia nos Estados Unidos.

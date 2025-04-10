@@ -1,13 +1,26 @@
 ---
-title: "The Rose retorna a São Paulo para concerto exclusivo; confira os detalhes"
-slug: "the-rose-volta-ao-brasil-para-show-em-so-paulo-saiba-tudo"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/-soyml1sgbvb_ZS0BXCMA5MZQ6A=/987x0/smart/uploads/conteudo/fotos/the_rose.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4Vjfj-PYfdTmqrLDEC-cg3A8UeI=/480x360/smart/extras/conteudos/the_rose.png"
-tags: ["The Rose", "São Paulo", "concerto", "K-pop", "Once Upon a WRLD Tour", "Tickets For Fun", "música alternativa", "Dual album"]
-keywords: "The Rose, São Paulo, concerto, K-pop, Once Upon a WRLD Tour, Tickets For Fun, música alternativa, Dual album"
-data: "2025-04-04T14:10:22.188Z"
+title: The Rose retorna a São Paulo para concerto exclusivo; confira os detalhes
+slug: the-rose-volta-ao-brasil-para-show-em-so-paulo-saiba-tudo
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/-soyml1sgbvb_ZS0BXCMA5MZQ6A=/987x0/smart/uploads/conteudo/fotos/the_rose.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4Vjfj-PYfdTmqrLDEC-cg3A8UeI=/480x360/smart/extras/conteudos/the_rose.png
+tags:
+  - The Rose
+  - São Paulo
+  - concerto
+  - K-pop
+  - Once Upon a WRLD Tour
+  - Tickets For Fun
+  - música alternativa
+  - Dual album
+keywords: >-
+  The Rose, São Paulo, concerto, K-pop, Once Upon a WRLD Tour, Tickets For Fun,
+  música alternativa, Dual album
+data: '2025-04-04T14:10:22.188Z'
+author: Pablo Moura
 ---
 
 A aclamada banda sul-coreana The Rose confirmou uma nova apresentação em território brasileiro. Após uma passagem bem-sucedida pelo país, incluindo uma performance marcante no Lollapalooza, o grupo retorna para um show único no Vibra São Paulo, marcado para o dia 8 de agosto de 2023.

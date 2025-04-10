@@ -1,13 +1,26 @@
 ---
-title: "1923 | Detalhes do final dramático e as perdas na 2ª temporada"
-slug: "1923-saiba-como-termina-e-quem-morre-no-final-da-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/g9gMAPFFzyEnfo54FJWXXqM3at4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-07T114207.708.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pSauRl9IS8V3d54ZUTvRUmQPb5c=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T114154.680.png"
-tags: ["1923 série", "Paramount+", "Harrison Ford", "Helen Mirren", "final dramático", "perdas significativas", "Taylor Sheridan", "saga Dutton"]
-keywords: "1923 série, Paramount+, Harrison Ford, Helen Mirren, final dramático, perdas significativas, Taylor Sheridan, saga Dutton"
-data: "2025-04-07T15:11:43.747Z"
+title: 1923 | Detalhes do final dramático e as perdas na 2ª temporada
+slug: 1923-saiba-como-termina-e-quem-morre-no-final-da-2-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/g9gMAPFFzyEnfo54FJWXXqM3at4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-07T114207.708.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pSauRl9IS8V3d54ZUTvRUmQPb5c=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T114154.680.png
+tags:
+  - 1923 série
+  - Paramount+
+  - Harrison Ford
+  - Helen Mirren
+  - final dramático
+  - perdas significativas
+  - Taylor Sheridan
+  - saga Dutton
+keywords: >-
+  1923 série, Paramount+, Harrison Ford, Helen Mirren, final dramático, perdas
+  significativas, Taylor Sheridan, saga Dutton
+data: '2025-04-07T15:11:43.747Z'
+author: Pablo Moura
 ---
 
 A aguardada segunda temporada de 1923, disponível no serviço de streaming Paramount+, culminou em um episódio especial de mais de duas horas repleto de momentos intensos e decisivos para os personagens da saga Dutton. Para aqueles que não temem spoilers, este artigo detalha os eventos finais e as perdas que moldaram o desfecho da temporada.

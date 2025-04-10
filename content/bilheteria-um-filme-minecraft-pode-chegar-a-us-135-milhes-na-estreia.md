@@ -1,13 +1,25 @@
 ---
-title: "Bilheteria | 'Um Filme Minecraft' pode alcançar US$ 135 milhões na estreia"
-slug: "bilheteria-um-filme-minecraft-pode-chegar-a-us-135-milhes-na-estreia"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg"
-tags: ["Minecraft", "bilheteria", "estreia de filme", "Jason Momoa", "Jack Black", "Warner Bros", "videogames", "recorde de bilheteria"]
-keywords: "Minecraft, bilheteria, estreia de filme, Jason Momoa, Jack Black, Warner Bros, videogames, recorde de bilheteria"
-data: "2025-04-05T16:11:14.113Z"
+title: Bilheteria | 'Um Filme Minecraft' pode alcançar US$ 135 milhões na estreia
+slug: bilheteria-um-filme-minecraft-pode-chegar-a-us-135-milhes-na-estreia
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg
+tags:
+  - Minecraft
+  - bilheteria
+  - estreia de filme
+  - Jason Momoa
+  - Jack Black
+  - Warner Bros
+  - videogames
+  - recorde de bilheteria
+keywords: >-
+  Minecraft, bilheteria, estreia de filme, Jason Momoa, Jack Black, Warner Bros,
+  videogames, recorde de bilheteria
+data: '2025-04-05T16:11:14.113Z'
+author: Ana Luiza
 ---
 
 A estreia de 'Um Filme Minecraft' promete marcar a história da bilheteria global com uma projeção de arrecadação que pode ultrapassar os US$ 135 milhões. Segundo informações do Deadline, somente nos Estados Unidos, o filme está projetado para ganhar cerca de US$ 58 milhões, posicionando-se como a maior estreia do ano de 2025 até agora, superando os US$ 40,9 milhões arrecadados por 'Capitão América: Admirável Mundo Novo' em fevereiro.

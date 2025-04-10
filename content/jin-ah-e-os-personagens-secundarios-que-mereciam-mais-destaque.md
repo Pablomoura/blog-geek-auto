@@ -1,14 +1,29 @@
 ---
-title: "Jin Ah e os Personagens Secundários que Mereciam Mais Destaque"
-slug: "jin-ah-e-os-personagens-secundarios-que-mereciam-mais-destaque"
-resumo: "Explore o mundo fascinante dos personagens secundários em séries e filmes, focando em Jin Ah e outros que poderiam ter tido mais tempo de tela e desenvolvimento. Descubra como esses personagens enriquecem as narrativas e por que merecem mais atenção."
-categoria: "Cinema e TV"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Jin Ah, personagens secundários, desenvolvimento de personagem, narrativa, spin-off, séries e filmes, potencial de personagem, histórias não contadas"
-tags: ["Jin Ah", "personagens secundários", "desenvolvimento de personagem", "narrativa", "spin-off", "séries e filmes", "potencial de personagem", "histórias não contadas"]
-data: "2025-04-06T01:41:50.936Z"
+title: Jin Ah e os Personagens Secundários que Mereciam Mais Destaque
+slug: jin-ah-e-os-personagens-secundarios-que-mereciam-mais-destaque
+resumo: >-
+  Explore o mundo fascinante dos personagens secundários em séries e filmes,
+  focando em Jin Ah e outros que poderiam ter tido mais tempo de tela e
+  desenvolvimento. Descubra como esses personagens enriquecem as narrativas e
+  por que merecem mais atenção.
+categoria: Cinema e TV
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Jin Ah, personagens secundários, desenvolvimento de personagem, narrativa,
+  spin-off, séries e filmes, potencial de personagem, histórias não contadas
+tags:
+  - Jin Ah
+  - personagens secundários
+  - desenvolvimento de personagem
+  - narrativa
+  - spin-off
+  - séries e filmes
+  - potencial de personagem
+  - histórias não contadas
+data: '2025-04-06T01:41:50.936Z'
+author: Pablo Moura
 ---
 
 ## Introdução

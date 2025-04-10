@@ -17,6 +17,7 @@ tags:
   - netflix
   - charlie brooker
   - tecnologia
+author: Ana Luiza
 ---
 
 A espera acabou para os fãs de Black Mirror, pois a Netflix acaba de lançar o trailer da sétima temporada da série antológica. Confira já o trailer no site da Netflix!

@@ -14,6 +14,7 @@ tags:
   - estação autódromo
   - linha 9-esmeralda
   - planejamento de viagem
+author: Luana Souza
 ---
 
 O Lollapalooza 2025 está próximo e muitos já estão com ingressos em mãos, mas ainda há dúvidas sobre como chegar ao Autódromo de Interlagos, em São Paulo, local do evento. Acompanhe nossas dicas e planeje sua ida.

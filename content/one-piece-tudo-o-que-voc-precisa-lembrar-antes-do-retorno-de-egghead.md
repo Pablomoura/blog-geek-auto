@@ -14,6 +14,7 @@ tags:
   - anime
   - andré zuliani
   - pedrinho
+author: Luana Souza
 ---
 
 Após um hiato, One Piece está de volta com novos episódios focados no emocionante Arco de Egghead. André Zuliani e Pedrinho trazem um resumo detalhado dos acontecimentos cruciais da primeira parte deste arco. Confira o vídeo no link acima para não perder nenhum detalhe.

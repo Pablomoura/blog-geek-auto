@@ -17,6 +17,7 @@ tags:
   - banguela
   - soluço
   - astrid
+author: Luana Souza
 ---
 
 A nova versão live-action de 'Como Treinar o Seu Dragão' acaba de lançar uma coleção exclusiva de Funko Pop. Os colecionáveis, com preço de US$ 12 cada (aproximadamente R$ 60 na conversão direta), ainda não têm data confirmada para começarem a ser vendidos.

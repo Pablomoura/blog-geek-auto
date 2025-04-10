@@ -1,14 +1,29 @@
 ---
-title: "10 Frases Geek Que Transformaram Culturas e Inspiram Gerações"
-slug: "10-frases-geek-que-transformaram-culturas-e-inspiram-geracoes"
-resumo: "Este artigo explora 10 icônicas frases geek que transcendem suas origens em filmes, séries e jogos, tornando-se lemas de vida para muitos fãs ao redor do mundo. Descubra como essas expressões influenciam comportamentos, inspiram ações e moldam identidades."
-categoria: "Cultura Pop"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "cultura geek, frases inspiradoras, vida geek, filmes e séries, citações famosas, lema de vida, inspiração geek, comportamento e atitude"
-tags: ["cultura geek", "frases inspiradoras", "vida geek", "filmes e séries", "citações famosas", "lema de vida", "inspiração geek", "comportamento e atitude"]
-data: "2025-02-07T01:21:58.955Z"
+title: 10 Frases Geek Que Transformaram Culturas e Inspiram Gerações
+slug: 10-frases-geek-que-transformaram-culturas-e-inspiram-geracoes
+resumo: >-
+  Este artigo explora 10 icônicas frases geek que transcendem suas origens em
+  filmes, séries e jogos, tornando-se lemas de vida para muitos fãs ao redor do
+  mundo. Descubra como essas expressões influenciam comportamentos, inspiram
+  ações e moldam identidades.
+categoria: Cultura Pop
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  cultura geek, frases inspiradoras, vida geek, filmes e séries, citações
+  famosas, lema de vida, inspiração geek, comportamento e atitude
+tags:
+  - cultura geek
+  - frases inspiradoras
+  - vida geek
+  - filmes e séries
+  - citações famosas
+  - lema de vida
+  - inspiração geek
+  - comportamento e atitude
+data: '2025-02-07T01:21:58.955Z'
+author: Luana Souza
 ---
 
 ## Introdução

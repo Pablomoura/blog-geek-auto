@@ -1,14 +1,30 @@
 ---
-title: "Entenda o Universo de Kaiju No. 8: Monstros, Forças de Defesa e a Ameaça Kaiju"
-slug: "entenda-o-universo-de-kaiju-no-8-monstros-forcas-de-defesa-e-a-ameaca-kaiju"
-resumo: "Explore o mundo fascinante de Kaiju No. 8, onde monstros gigantes desafiam a humanidade e heroicas forças de defesa lutam para proteger a Terra. Este artigo detalha os principais elementos da série, incluindo a origem dos kaijus, as estratégias de combate e os personagens chave que tornam esta história única."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, mangá, monstros gigantes, forças de defesa, Kafka Hibino, cultura japonesa, ficção científica, batalhas épicas"
-tags: ["Kaiju No. 8", "mangá", "monstros gigantes", "forças de defesa", "Kafka Hibino", "cultura japonesa", "ficção científica", "batalhas épicas"]
-data: "2025-04-07T22:07:28.415Z"
+title: 'Entenda o Universo de Kaiju No. 8: Monstros, Forças de Defesa e a Ameaça Kaiju'
+slug: entenda-o-universo-de-kaiju-no-8-monstros-forcas-de-defesa-e-a-ameaca-kaiju
+resumo: >-
+  Explore o mundo fascinante de Kaiju No. 8, onde monstros gigantes desafiam a
+  humanidade e heroicas forças de defesa lutam para proteger a Terra. Este
+  artigo detalha os principais elementos da série, incluindo a origem dos
+  kaijus, as estratégias de combate e os personagens chave que tornam esta
+  história única.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, mangá, monstros gigantes, forças de defesa, Kafka Hibino, cultura
+  japonesa, ficção científica, batalhas épicas
+tags:
+  - Kaiju No. 8
+  - mangá
+  - monstros gigantes
+  - forças de defesa
+  - Kafka Hibino
+  - cultura japonesa
+  - ficção científica
+  - batalhas épicas
+data: '2025-04-07T22:07:28.415Z'
+author: Luana Souza
 ---
 
 ## Introdução ao Mundo de Kaiju No. 8

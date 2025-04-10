@@ -18,6 +18,7 @@ tags:
   - crossover
   - estúdios
   - políticas internas
+author: Pablo Moura
 ---
 
 A possibilidade de um crossover entre o Homem-Aranha, interpretado por Tom Holland, e o Venom de Tom Hardy foi muito discutida, mas acabou não se concretizando. Segundo Hardy, o principal obstáculo foram as 'políticas internas dos estúdios'.

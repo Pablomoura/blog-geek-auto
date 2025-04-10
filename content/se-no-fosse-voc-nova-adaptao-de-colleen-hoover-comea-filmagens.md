@@ -1,13 +1,26 @@
 ---
-title: "Se Não Fosse Você | Início das Filmagens da Nova Adaptação de Colleen Hoover"
-slug: "se-no-fosse-voc-nova-adaptao-de-colleen-hoover-comea-filmagens"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Uu2uun_SGjY8ZoIqOe0ji_WPM5M=/987x0/smart/uploads/conteudo/fotos/se-nao-fosse-voce.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/2wWKeSNvFR1ZOYFVIx71yXS8DMg=/480x360/smart/extras/conteudos/se-nao-fosse-voce.png"
-tags: ["Colleen Hoover", "adaptação cinematográfica", "Josh Boone", "elenco estelar", "drama emocional", "segredos familiares", "CinemaCon 2025", "estreia 2025"]
-keywords: "Colleen Hoover, adaptação cinematográfica, Josh Boone, elenco estelar, drama emocional, segredos familiares, CinemaCon 2025, estreia 2025"
-data: "2025-04-04T02:20:48.705Z"
+title: Se Não Fosse Você | Início das Filmagens da Nova Adaptação de Colleen Hoover
+slug: se-no-fosse-voc-nova-adaptao-de-colleen-hoover-comea-filmagens
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Uu2uun_SGjY8ZoIqOe0ji_WPM5M=/987x0/smart/uploads/conteudo/fotos/se-nao-fosse-voce.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/2wWKeSNvFR1ZOYFVIx71yXS8DMg=/480x360/smart/extras/conteudos/se-nao-fosse-voce.png
+tags:
+  - Colleen Hoover
+  - adaptação cinematográfica
+  - Josh Boone
+  - elenco estelar
+  - drama emocional
+  - segredos familiares
+  - CinemaCon 2025
+  - estreia 2025
+keywords: >-
+  Colleen Hoover, adaptação cinematográfica, Josh Boone, elenco estelar, drama
+  emocional, segredos familiares, CinemaCon 2025, estreia 2025
+data: '2025-04-04T02:20:48.705Z'
+author: Luana Souza
 ---
 
 A CinemaCon 2025 foi palco de anúncios importantes, entre eles, o início das filmagens de 'Se Não Fosse Você', adaptação da aclamada obra de Colleen Hoover, conhecida por 'É Assim Que Acaba'. O anúncio foi feito durante o painel da Paramount, onde um vídeo com participação do elenco revelou que as gravações já estão a todo vapor. A direção fica a cargo de Josh Boone, renomado por seu trabalho em 'A Culpa É das Estrelas'.

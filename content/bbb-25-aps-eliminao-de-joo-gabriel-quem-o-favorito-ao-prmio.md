@@ -1,13 +1,26 @@
 ---
-title: "BBB 25 | Após eliminação de João Gabriel, quem é o favorito ao prêmio?"
-slug: "bbb-25-aps-eliminao-de-joo-gabriel-quem-o-favorito-ao-prmio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/tSl-dEJimHh-ArECGV3Zs9Qm6vA=/987x0/smart/uploads/conteudo/fotos/bbb25-favorito.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/l2twUw4n8qdDw0GXMbw77rIWTQE=/480x360/smart/extras/conteudos/bbb25-favorito-peq.jpg"
-tags: ["BBB 25", "eliminação", "João Gabriel", "Vitória Strada", "favoritismo", "Tadeu Schmidt", "Rodrigo Dourado", "votação online"]
-keywords: "BBB 25, eliminação, João Gabriel, Vitória Strada, favoritismo, Tadeu Schmidt, Rodrigo Dourado, votação online"
-data: "2025-04-09T03:27:59.380Z"
+title: 'BBB 25 | Após eliminação de João Gabriel, quem é o favorito ao prêmio?'
+slug: bbb-25-aps-eliminao-de-joo-gabriel-quem-o-favorito-ao-prmio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/tSl-dEJimHh-ArECGV3Zs9Qm6vA=/987x0/smart/uploads/conteudo/fotos/bbb25-favorito.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/l2twUw4n8qdDw0GXMbw77rIWTQE=/480x360/smart/extras/conteudos/bbb25-favorito-peq.jpg
+tags:
+  - BBB 25
+  - eliminação
+  - João Gabriel
+  - Vitória Strada
+  - favoritismo
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - votação online
+keywords: >-
+  BBB 25, eliminação, João Gabriel, Vitória Strada, favoritismo, Tadeu Schmidt,
+  Rodrigo Dourado, votação online
+data: '2025-04-09T03:27:59.380Z'
+author: Pablo Moura
 ---
 
 Após a recente eliminação de João Gabriel no 15º Paredão do BBB 25, o programa revela que há um competidor que se destaca como o favorito para ganhar. Com nove participantes ainda na disputa pelo prêmio de R$ 2,63 milhões, Vitória Strada surge como a favorita pelo público pela terceira semana consecutiva, de acordo com uma enquete realizada pelo UOL, obtendo 36,76% dos votos.

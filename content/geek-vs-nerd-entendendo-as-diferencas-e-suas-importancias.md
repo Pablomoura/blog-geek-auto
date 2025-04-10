@@ -1,14 +1,29 @@
 ---
-title: "Geek vs. Nerd: Entendendo as Diferenças e Suas Importâncias"
-slug: "geek-vs-nerd-entendendo-as-diferencas-e-suas-importancias"
-resumo: "Este artigo explora as diferenças e semelhanças entre geeks e nerds, discutindo como esses rótulos evoluíram ao longo do tempo e o que cada um representa na cultura contemporânea. Além disso, abordaremos por que entender essas diferenças é relevante para a comunicação e inclusão social."
-categoria: "Cultura"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "geek, nerd, cultura pop, tecnologia, educação, comunicação, inclusão social, identidade cultural"
-tags: ["geek", "nerd", "cultura pop", "tecnologia", "educação", "comunicação", "inclusão social", "identidade cultural"]
-data: "2025-04-03T00:49:44.604Z"
+title: 'Geek vs. Nerd: Entendendo as Diferenças e Suas Importâncias'
+slug: geek-vs-nerd-entendendo-as-diferencas-e-suas-importancias
+resumo: >-
+  Este artigo explora as diferenças e semelhanças entre geeks e nerds,
+  discutindo como esses rótulos evoluíram ao longo do tempo e o que cada um
+  representa na cultura contemporânea. Além disso, abordaremos por que entender
+  essas diferenças é relevante para a comunicação e inclusão social.
+categoria: Cultura
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  geek, nerd, cultura pop, tecnologia, educação, comunicação, inclusão social,
+  identidade cultural
+tags:
+  - geek
+  - nerd
+  - cultura pop
+  - tecnologia
+  - educação
+  - comunicação
+  - inclusão social
+  - identidade cultural
+data: '2025-04-03T00:49:44.604Z'
+author: Pablo Moura
 ---
 
 ## Introdução

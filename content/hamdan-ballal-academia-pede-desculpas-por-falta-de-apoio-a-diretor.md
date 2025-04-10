@@ -17,6 +17,7 @@ tags:
   - desculpas
   - omissão
   - hollywood
+author: Luana Souza
 ---
 
 A liderança da Academia de Artes e Ciências Cinematográficas dos EUA expressou suas desculpas por não ter mencionado o diretor Hamdan Ballal e seu filme 'Sem Chão' em um comunicado anterior. O pedido de desculpas veio após uma reunião de emergência do Conselho de Governadores para discutir a resposta inadequada ao incidente envolvendo Ballal, que foi sequestrado pelo exército israelense.

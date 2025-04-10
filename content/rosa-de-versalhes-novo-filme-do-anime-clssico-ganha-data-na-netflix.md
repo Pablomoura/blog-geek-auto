@@ -15,6 +15,7 @@ tags:
   - estúdio mappa
   - lançamento de filme
   - dublagem em português
+author: Pablo Moura
 ---
 
 O aguardado filme 'A Rosa de Versalhes', produzido pelo renomado estúdio MAPPA, conhecido por seus trabalhos em 'Attack on Titan' e 'Jujutsu Kaisen', será lançado na plataforma Netflix no dia 30 de abril. A produção estará disponível com opções de dublagem e legendas em português, após sua estreia original no Japão no final de janeiro deste ano.

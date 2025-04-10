@@ -18,6 +18,7 @@ tags:
   - animação
   - nba
   - goat
+author: Luana Souza
 ---
 
 A CinemaCon 2025 foi palco para a Sony Pictures divulgar detalhes de 'GOAT', uma inovadora animação desenvolvida em parceria com a NBA e o renomado jogador Stephen Curry, do Golden State Warriors. 

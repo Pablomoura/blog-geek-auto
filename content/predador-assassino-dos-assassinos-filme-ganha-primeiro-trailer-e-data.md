@@ -1,13 +1,27 @@
 ---
-title: "Predador: Assassino dos Assassinos | Primeiro Trailer e Data de Estreia Anunciados"
-slug: "predador-assassino-dos-assassinos-filme-ganha-primeiro-trailer-e-data"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/eWzPKrNoSyM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Gmc7ZJ_q2hqdhtM5GxIeo64Sf3I=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_131249.png"
-tags: ["Predador: Assassino dos Assassinos", "trailer", "Disney+", "animação", "Dan Trachtenberg", "Predador: Badlands", "franquia Predador", "antologia animada"]
-keywords: "Predador: Assassino dos Assassinos, trailer, Disney+, animação, Dan Trachtenberg, Predador: Badlands, franquia Predador, antologia animada"
-data: "2025-04-08T19:09:06.428Z"
+title: >-
+  Predador: Assassino dos Assassinos | Primeiro Trailer e Data de Estreia
+  Anunciados
+slug: predador-assassino-dos-assassinos-filme-ganha-primeiro-trailer-e-data
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/eWzPKrNoSyM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Gmc7ZJ_q2hqdhtM5GxIeo64Sf3I=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_131249.png
+tags:
+  - 'Predador: Assassino dos Assassinos'
+  - trailer
+  - Disney+
+  - animação
+  - Dan Trachtenberg
+  - 'Predador: Badlands'
+  - franquia Predador
+  - antologia animada
+keywords: >-
+  Predador: Assassino dos Assassinos, trailer, Disney+, animação, Dan
+  Trachtenberg, Predador: Badlands, franquia Predador, antologia animada
+data: '2025-04-08T19:09:06.428Z'
+author: Luana Souza
 ---
 
 A aguardada animação 'Predador: Assassino dos Assassinos' acaba de lançar seu primeiro trailer e revelar a data de estreia, marcada para 6 de junho deste ano, exclusivamente no Disney+. O pôster oficial do filme também foi divulgado, complementando a atmosfera de suspense e ação.

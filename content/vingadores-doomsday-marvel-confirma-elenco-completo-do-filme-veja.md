@@ -15,6 +15,7 @@ tags:
   - crossover
   - x-men
   - universo cinematográfico
+author: Luana Souza
 ---
 
 A Marvel Studios acaba de revelar oficialmente o elenco completo para o aguardado filme 'Vingadores: Doomsday'. A produção promete ser um dos maiores crossovers do universo cinematográfico da Marvel até hoje.

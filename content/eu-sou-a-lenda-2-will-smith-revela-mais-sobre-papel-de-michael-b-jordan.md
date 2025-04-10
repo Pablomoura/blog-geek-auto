@@ -1,13 +1,26 @@
 ---
-title: "Eu sou a Lenda 2 | Will Smith revela mais sobre papel de Michael B. Jordan"
-slug: "eu-sou-a-lenda-2-will-smith-revela-mais-sobre-papel-de-michael-b-jordan"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/8xnc0TotOzeFVh8xVOdzR56-WAQ=/987x0/smart/uploads/conteudo/fotos/02_WLKwCNd.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/BvarP9yq7fBTwWQbmfQAgWHdTg0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_160553.png"
-tags: ["Eu Sou a Lenda 2", "Will Smith", "Michael B. Jordan", "sequência de filme", "final alternativo", "filme pós-apocalíptico", "vampiros", "bilheteria"]
-keywords: "Eu Sou a Lenda 2, Will Smith, Michael B. Jordan, sequência de filme, final alternativo, filme pós-apocalíptico, vampiros, bilheteria"
-data: "2025-04-08T20:11:51.907Z"
+title: Eu sou a Lenda 2 | Will Smith revela mais sobre papel de Michael B. Jordan
+slug: eu-sou-a-lenda-2-will-smith-revela-mais-sobre-papel-de-michael-b-jordan
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/8xnc0TotOzeFVh8xVOdzR56-WAQ=/987x0/smart/uploads/conteudo/fotos/02_WLKwCNd.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/BvarP9yq7fBTwWQbmfQAgWHdTg0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-08_160553.png
+tags:
+  - Eu Sou a Lenda 2
+  - Will Smith
+  - Michael B. Jordan
+  - sequência de filme
+  - final alternativo
+  - filme pós-apocalíptico
+  - vampiros
+  - bilheteria
+keywords: >-
+  Eu Sou a Lenda 2, Will Smith, Michael B. Jordan, sequência de filme, final
+  alternativo, filme pós-apocalíptico, vampiros, bilheteria
+data: '2025-04-08T20:11:51.907Z'
+author: Luana Souza
 ---
 
 O aguardado filme 'Eu Sou a Lenda 2' está avançando em seu desenvolvimento, e Will Smith compartilhou novos detalhes sobre o envolvimento de Michael B. Jordan no projeto durante uma entrevista com o site Gazette Sci-Fi. Smith esclareceu que Jordan não interpretará seu filho, mas terá um papel crucial na sequência. 'Inicialmente, consideramos um prólogo, mas Akiva Goldsman sugeriu adotarmos uma nova abordagem baseada no final alternativo do primeiro filme, onde meu personagem sobrevive. Neste contexto, o personagem de Jordan liderará uma nova base humana', explicou Smith.

@@ -1,13 +1,26 @@
 ---
-title: "Missão: Impossível - O Acerto Final anuncia novo trailer; veja teaser"
-slug: "misso-impossvel-o-acerto-final-anuncia-novo-trailer-veja-teaser"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/0bXCNX_mcznQnYfzF7sPPBcEF78=/987x0/smart/uploads/conteudo/fotos/missaoimpossivel8.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/huM2TfCkfDmCxVaq0JSTUL-rS5A=/480x360/smart/extras/conteudos/missaoimpossivel8.jpg"
-tags: ["Missão: Impossível", "Tom Cruise", "trailer", "Christopher McQuarrie", "Paramount Pictures", "franquia de ação", "estreia 2025", "Festival de Cannes"]
-keywords: "Missão: Impossível, Tom Cruise, trailer, Christopher McQuarrie, Paramount Pictures, franquia de ação, estreia 2025, Festival de Cannes"
-data: "2025-04-06T15:05:17.090Z"
+title: 'Missão: Impossível - O Acerto Final anuncia novo trailer; veja teaser'
+slug: misso-impossvel-o-acerto-final-anuncia-novo-trailer-veja-teaser
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/0bXCNX_mcznQnYfzF7sPPBcEF78=/987x0/smart/uploads/conteudo/fotos/missaoimpossivel8.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/huM2TfCkfDmCxVaq0JSTUL-rS5A=/480x360/smart/extras/conteudos/missaoimpossivel8.jpg
+tags:
+  - 'Missão: Impossível'
+  - Tom Cruise
+  - trailer
+  - Christopher McQuarrie
+  - Paramount Pictures
+  - franquia de ação
+  - estreia 2025
+  - Festival de Cannes
+keywords: >-
+  Missão: Impossível, Tom Cruise, trailer, Christopher McQuarrie, Paramount
+  Pictures, franquia de ação, estreia 2025, Festival de Cannes
+data: '2025-04-06T15:05:17.090Z'
+author: Pablo Moura
 ---
 
 A Paramount Pictures anunciou neste domingo (6) o lançamento de um novo trailer para 'Missão: Impossível - O Acerto Final', que será revelado na próxima segunda-feira, 7 de abril. Um teaser com a participação de Tom Cruise foi liberado como aperitivo para os fãs.

@@ -15,6 +15,7 @@ tags:
   - festival de música
   - merchandise oficial
   - omelete
+author: Luana Souza
 ---
 
 A Lolla Store, loja oficial do Lollapalooza Brasil 2025 com produtos disponíveis e seus respectivos preços.

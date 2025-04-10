@@ -1,14 +1,29 @@
 ---
-title: "As Frases Mais Marcantes de Frieren: Um Mergulho na Melancolia e Sabedoria"
-slug: "as-frases-mais-marcantes-de-frieren-um-mergulho-na-melancolia-e-sabedoria"
-resumo: "Explore as frases mais impactantes de Frieren, personagem central do mangá 'Frieren: Beyond Journey's End'. Este artigo desvenda como suas falas encapsulam uma profunda melancolia e sabedoria, refletindo sobre a vida, morte e o tempo."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, Mangá, Sabedoria, Melancolia, Frases Marcantes, Reflexão, Vida e Morte, Crescimento Pessoal"
-tags: ["Frieren", "Mangá", "Sabedoria", "Melancolia", "Frases Marcantes", "Reflexão", "Vida e Morte", "Crescimento Pessoal"]
-data: "2025-04-01T21:38:51.967Z"
+title: 'As Frases Mais Marcantes de Frieren: Um Mergulho na Melancolia e Sabedoria'
+slug: as-frases-mais-marcantes-de-frieren-um-mergulho-na-melancolia-e-sabedoria
+resumo: >-
+  Explore as frases mais impactantes de Frieren, personagem central do mangá
+  'Frieren: Beyond Journey's End'. Este artigo desvenda como suas falas
+  encapsulam uma profunda melancolia e sabedoria, refletindo sobre a vida, morte
+  e o tempo.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, Mangá, Sabedoria, Melancolia, Frases Marcantes, Reflexão, Vida e
+  Morte, Crescimento Pessoal
+tags:
+  - Frieren
+  - Mangá
+  - Sabedoria
+  - Melancolia
+  - Frases Marcantes
+  - Reflexão
+  - Vida e Morte
+  - Crescimento Pessoal
+data: '2025-04-01T21:38:51.967Z'
+author: Pablo Moura
 ---
 
 ## Introdução

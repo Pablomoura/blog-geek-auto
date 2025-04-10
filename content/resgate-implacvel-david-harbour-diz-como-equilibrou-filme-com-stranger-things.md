@@ -17,6 +17,7 @@ tags:
   - resgate implacável
   - cinema
   - séries tv
+author: Pablo Moura
 ---
 
 A agenda de David Harbour em 2024 é um verdadeiro teste de resistência. Entre maio e junho, o ator se desdobrou entre três diferentes sets de filmagem nos Estados Unidos, participando simultaneamente de 'Stranger Things', 'Thunderbolts' e 'Resgate Implacável'.

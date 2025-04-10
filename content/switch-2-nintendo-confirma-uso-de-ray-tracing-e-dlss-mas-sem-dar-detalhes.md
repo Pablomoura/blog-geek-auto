@@ -1,13 +1,26 @@
 ---
-title: "Switch 2 | Nintendo confirma uso de Ray Tracing e DLSS, mas sem dar detalhes"
-slug: "switch-2-nintendo-confirma-uso-de-ray-tracing-e-dlss-mas-sem-dar-detalhes"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/_MyXRPy-IPHIdIZM_7Sjm2hf9j8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T105137.831.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/iLNnEjUbfjUHmWxEx30oFmGZGJU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T105247.812.png"
-tags: ["Nintendo Switch 2", "Ray Tracing", "DLSS", "4K gaming", "Nvidia", "console gaming", "game development", "next-gen console"]
-keywords: "Nintendo Switch 2, Ray Tracing, DLSS, 4K gaming, Nvidia, console gaming, game development, next-gen console"
-data: "2025-04-03T14:10:54.078Z"
+title: 'Switch 2 | Nintendo confirma uso de Ray Tracing e DLSS, mas sem dar detalhes'
+slug: switch-2-nintendo-confirma-uso-de-ray-tracing-e-dlss-mas-sem-dar-detalhes
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/_MyXRPy-IPHIdIZM_7Sjm2hf9j8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T105137.831.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/iLNnEjUbfjUHmWxEx30oFmGZGJU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T105247.812.png
+tags:
+  - Nintendo Switch 2
+  - Ray Tracing
+  - DLSS
+  - 4K gaming
+  - Nvidia
+  - console gaming
+  - game development
+  - next-gen console
+keywords: >-
+  Nintendo Switch 2, Ray Tracing, DLSS, 4K gaming, Nvidia, console gaming, game
+  development, next-gen console
+data: '2025-04-03T14:10:54.078Z'
+author: Pablo Moura
 ---
 
 Durante a apresentação da Direct na manhã da última quarta-feira, a Nintendo forneceu mais informações sobre o aguardado Switch 2. Confirmou-se que o sistema incluirá tecnologias avançadas como Ray Tracing e DLSS, porém detalhes específicos ainda não foram divulgados.

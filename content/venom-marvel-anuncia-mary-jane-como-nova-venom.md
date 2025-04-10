@@ -15,6 +15,7 @@ tags:
   - mary jane watson
   - simbionte
   - quadrinhos
+author: Ana Luiza
 ---
 
 A Marvel surpreendeu os fãs ao anunciar nesta segunda-feira (31) que Mary Jane Watson é a nova hospedeira do simbionte Venom. A revelação ocorreu na quinta edição de 'All New Venom', contrariando as expectativas que apontavam outros personagens como possíveis sucessores.

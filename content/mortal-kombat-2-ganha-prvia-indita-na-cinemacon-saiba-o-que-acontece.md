@@ -16,6 +16,7 @@ tags:
   - karl urban
   - videogame
   - prévia exclusiva
+author: Ana Luiza
 ---
 
 Durante o painel da Warner na CinemaCon deste ano, uma prévia exclusiva de 'Mortal Kombat 2' foi apresentada, gerando grande expectativa entre os fãs. O site THR revelou que o sizzle reel exibido destacou os personagens principais da nova adaptação do famoso videogame, com destaque para Karl Urban encarnando Johnny Cage. No clipe, Urban pronuncia com confiança: 'Eu sou Johnny Cage, porra. É hora do show.'Richard Brenner, chefe da New Line, prometeu ao público 'lutas incríveis, batalhas épicas e algumas fatalidades'. 

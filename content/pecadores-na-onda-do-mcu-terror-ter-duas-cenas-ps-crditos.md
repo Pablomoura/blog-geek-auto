@@ -18,6 +18,7 @@ tags:
   - cenas pós-créditos
   - mcu
   - michael b. jordan
+author: Ana Luiza
 ---
 
 Emulando a estratégia de sucesso do MCU, o filme de terror 'Pecadores', sob a direção de Ryan Coogler e com a atuação de Michael B. Jordan, promete engajar o público com duas cenas pós-créditos. Essas cenas foram confirmadas por espectadores das sessões prévias nos Estados Unidos, conforme relatos ao The Wrap. Ainda não está claro se as cenas indicam uma possível sequência, mas comparações com 'Vingadores' sugerem que pode haver continuidade.

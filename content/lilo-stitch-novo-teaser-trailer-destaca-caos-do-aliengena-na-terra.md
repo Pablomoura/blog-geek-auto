@@ -1,13 +1,26 @@
 ---
-title: "Lilo & Stitch | Novo teaser trailer destaca caos do alienígena na Terra"
-slug: "lilo-stitch-novo-teaser-trailer-destaca-caos-do-aliengena-na-terra"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/GMWBUZ7FXabBqoGb2mDlAeCIAZU=/987x0/smart/uploads/conteudo/fotos/lilo-e-stitch-live-action_YsPfbov.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/HGvChbYzuSCzFOBJq7wHr2kkUGE=/480x360/smart/extras/conteudos/lilo-e-stitch-live-action_AXCXPeI.jpg"
-tags: ["Lilo & Stitch", "live-action", "Disney", "teaser trailer", "alienígena", "cinema", "animação", "adaptação live-action"]
-keywords: "Lilo & Stitch, live-action, Disney, teaser trailer, alienígena, cinema, animação, adaptação live-action"
-data: "2025-04-04T19:10:24.458Z"
+title: Lilo & Stitch | Novo teaser trailer destaca caos do alienígena na Terra
+slug: lilo-stitch-novo-teaser-trailer-destaca-caos-do-aliengena-na-terra
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/GMWBUZ7FXabBqoGb2mDlAeCIAZU=/987x0/smart/uploads/conteudo/fotos/lilo-e-stitch-live-action_YsPfbov.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/HGvChbYzuSCzFOBJq7wHr2kkUGE=/480x360/smart/extras/conteudos/lilo-e-stitch-live-action_AXCXPeI.jpg
+tags:
+  - Lilo & Stitch
+  - live-action
+  - Disney
+  - teaser trailer
+  - alienígena
+  - cinema
+  - animação
+  - adaptação live-action
+keywords: >-
+  Lilo & Stitch, live-action, Disney, teaser trailer, alienígena, cinema,
+  animação, adaptação live-action
+data: '2025-04-04T19:10:24.458Z'
+author: Luana Souza
 ---
 
 A aguardada versão live-action de 'Lilo e Stitch', que recria a clássica animação da Disney, acaba de lançar seu novo teaser trailer. O vídeo ressalta o tumulto que o alienígena Stitch promete trazer após desembarcar na vida da jovem havaiana Lilo. O filme, com direção de Dean Fleischer Camp, conhecido por 'Marcel, a Concha de Sapatos', traz de volta Chris Sanders, a voz original de Stitch, confirmando a fidelidade ao personagem que encantou o público na animação original.

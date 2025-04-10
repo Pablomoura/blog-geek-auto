@@ -1,13 +1,26 @@
 ---
-title: "Pânico 7 | Diretor Christopher Landon Revela Motivo de Abandonar o Projeto"
-slug: "panico-7-diretor-revela-motivo-chocante-de-ter-abandonado-o-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/LfvjGWUa3ELAtw6lwAsUrjjVev8=/987x0/smart/uploads/conteudo/fotos/02_YlEFgKg.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SnpjXrE8CxDV8NXUH3JilHutq54=/480x360/smart/extras/conteudos/01_Riondv4.jpg"
-tags: ["Pânico 7", "Christopher Landon", "ameaças de morte", "Melissa Barrera", "Kevin Williamson", "Neve Campbell", "suspense", "franquia de terror"]
-keywords: "Pânico 7, Christopher Landon, ameaças de morte, Melissa Barrera, Kevin Williamson, Neve Campbell, suspense, franquia de terror"
-data: "2025-04-09T18:13:40.907Z"
+title: Pânico 7 | Diretor Christopher Landon Revela Motivo de Abandonar o Projeto
+slug: panico-7-diretor-revela-motivo-chocante-de-ter-abandonado-o-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/LfvjGWUa3ELAtw6lwAsUrjjVev8=/987x0/smart/uploads/conteudo/fotos/02_YlEFgKg.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SnpjXrE8CxDV8NXUH3JilHutq54=/480x360/smart/extras/conteudos/01_Riondv4.jpg
+tags:
+  - Pânico 7
+  - Christopher Landon
+  - ameaças de morte
+  - Melissa Barrera
+  - Kevin Williamson
+  - Neve Campbell
+  - suspense
+  - franquia de terror
+keywords: >-
+  Pânico 7, Christopher Landon, ameaças de morte, Melissa Barrera, Kevin
+  Williamson, Neve Campbell, suspense, franquia de terror
+data: '2025-04-09T18:13:40.907Z'
+author: Pablo Moura
 ---
 
 O cenário de produção de 'Pânico 7' foi marcado por uma reviravolta surpreendente com a saída do diretor Christopher Landon. Em entrevista à Vanity Fair, Landon revelou que decidiu deixar o projeto após receber ameaças de morte. Segundo ele, as mensagens ameaçadoras incluíam avisos de que sua família seria encontrada e morta. Essas ameaças surgiram em meio à controvérsia envolvendo a demissão da atriz Melissa Barrera, que apoiou publicamente a Palestina no conflito com Israel.

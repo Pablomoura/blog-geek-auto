@@ -15,6 +15,7 @@ tags:
   - caçadores
   - episódio final
   - redes sociais
+author: Ana Luiza
 ---
 
 A segunda temporada de Solo Leveling chegou ao fim neste sábado (29) com um episódio final marcante. A temporada concluiu o emocionante arco da ilha Jeju, destacando-se por suas reviravoltas impactantes e cenas surpreendentes que envolveram os personagens principais, os caçadores.

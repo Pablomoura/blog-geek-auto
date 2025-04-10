@@ -1,14 +1,29 @@
 ---
-title: "Explorando 'Beyond Journey’s End': Significados e Simbolismos Intrínsecos"
-slug: "explorando-beyond-journeys-end-significados-e-simbolismos-intrinsecos"
-resumo: "O artigo desvenda os múltiplos significados e simbolismos do termo 'Beyond Journey’s End'. Analisamos como essa expressão pode ser interpretada em diferentes contextos, incluindo literatura, cinema e vida pessoal, oferecendo uma perspectiva ampla sobre seu impacto e relevância cultural."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "literatura, cinema, filosofia, crescimento pessoal, simbolismo, cultura, redenção, transcendência"
-tags: ["literatura", "cinema", "filosofia", "crescimento pessoal", "simbolismo", "cultura", "redenção", "transcendência"]
-data: "2025-04-08T01:09:51.383Z"
+title: 'Explorando ''Beyond Journey’s End'': Significados e Simbolismos Intrínsecos'
+slug: explorando-beyond-journeys-end-significados-e-simbolismos-intrinsecos
+resumo: >-
+  O artigo desvenda os múltiplos significados e simbolismos do termo 'Beyond
+  Journey’s End'. Analisamos como essa expressão pode ser interpretada em
+  diferentes contextos, incluindo literatura, cinema e vida pessoal, oferecendo
+  uma perspectiva ampla sobre seu impacto e relevância cultural.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  literatura, cinema, filosofia, crescimento pessoal, simbolismo, cultura,
+  redenção, transcendência
+tags:
+  - literatura
+  - cinema
+  - filosofia
+  - crescimento pessoal
+  - simbolismo
+  - cultura
+  - redenção
+  - transcendência
+data: '2025-04-08T01:09:51.383Z'
+author: Ana Luiza
 ---
 
 ## Introdução

@@ -17,6 +17,7 @@ tags:
   - são paulo
   - brasília
   - turnê musical
+author: Pablo Moura
 ---
 
 A produtora Live Nation anunciou hoje as cidades brasileiras que farão parte da nova turnê do Linkin Park. A agenda confirma shows no Estádio Couto Pereira, em Curitiba, no Estádio Morumbi, em São Paulo, e na Arena BRB Mané Garrincha, em Brasília.

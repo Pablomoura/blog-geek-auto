@@ -1,14 +1,29 @@
 ---
-title: "Explorando os Possíveis Finais de Kaiju No. 8: Teorias e Perspectivas"
-slug: "explorando-os-possiveis-finais-de-kaiju-no-8-teorias-e-perspectivas"
-resumo: "À medida que Kaiju No. 8 se aproxima do seu clímax, fãs por todo o mundo especulam sobre como essa emocionante série de mangá poderia terminar. Este artigo explora várias teorias e possíveis caminhos que a narrativa pode tomar, analisando elementos chave da série e expectativas dos fãs."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, mangá, final de série, teorias de fãs, Kafka Hibino, batalha de Kaiju, cultura pop, análise de mangá"
-tags: ["Kaiju No. 8", "mangá", "final de série", "teorias de fãs", "Kafka Hibino", "batalha de Kaiju", "cultura pop", "análise de mangá"]
-data: "2025-04-05T22:20:15.012Z"
+title: 'Explorando os Possíveis Finais de Kaiju No. 8: Teorias e Perspectivas'
+slug: explorando-os-possiveis-finais-de-kaiju-no-8-teorias-e-perspectivas
+resumo: >-
+  À medida que Kaiju No. 8 se aproxima do seu clímax, fãs por todo o mundo
+  especulam sobre como essa emocionante série de mangá poderia terminar. Este
+  artigo explora várias teorias e possíveis caminhos que a narrativa pode tomar,
+  analisando elementos chave da série e expectativas dos fãs.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, mangá, final de série, teorias de fãs, Kafka Hibino, batalha de
+  Kaiju, cultura pop, análise de mangá
+tags:
+  - Kaiju No. 8
+  - mangá
+  - final de série
+  - teorias de fãs
+  - Kafka Hibino
+  - batalha de Kaiju
+  - cultura pop
+  - análise de mangá
+data: '2025-04-05T22:20:15.012Z'
+author: Luana Souza
 ---
 
 ## Introdução ao Universo de Kaiju No. 8

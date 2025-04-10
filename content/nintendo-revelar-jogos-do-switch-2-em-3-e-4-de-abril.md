@@ -15,6 +15,7 @@ tags:
   - evento de lançamento
   - anúncio de jogos
   - transmissão ao vivo
+author: Luana Souza
 ---
 
 A Nintendo confirmou que realizará apresentações consecutivas nos dias 3 e 4 de abril para anunciar os jogos originais do aguardado Nintendo Switch 2. O evento, que será transmitido globalmente via YouTube, promete revelar títulos inéditos e muito esperados pelo público.

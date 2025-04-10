@@ -1,14 +1,26 @@
 ---
-title: "Frieren: A Enigmática Elfa Milenar do Mundo dos Animes"
-slug: "frieren-a-enigmatica-elfa-milenar-do-mundo-dos-animes"
-resumo: "Descubra quem é Frieren, a personagem elfa que vem encantando os fãs de anime ao redor do mundo. Explore sua biografia, origens e as peculiaridades que a tornam tão cativante."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, Anime, Elfa, Milenar, Magia, Aventura, Cultura Elfa, Imortalidade"
-tags: ["Frieren", "Anime", "Elfa", "Milenar", "Magia", "Aventura", "Cultura Elfa", "Imortalidade"]
-data: "2025-04-08T01:09:13.429Z"
+title: 'Frieren: A Enigmática Elfa Milenar do Mundo dos Animes'
+slug: frieren-a-enigmatica-elfa-milenar-do-mundo-dos-animes
+resumo: >-
+  Descubra quem é Frieren, a personagem elfa que vem encantando os fãs de anime
+  ao redor do mundo. Explore sua biografia, origens e as peculiaridades que a
+  tornam tão cativante.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: 'Frieren, Anime, Elfa, Milenar, Magia, Aventura, Cultura Elfa, Imortalidade'
+tags:
+  - Frieren
+  - Anime
+  - Elfa
+  - Milenar
+  - Magia
+  - Aventura
+  - Cultura Elfa
+  - Imortalidade
+data: '2025-04-08T01:09:13.429Z'
+author: Pablo Moura
 ---
 
 ## Introdução

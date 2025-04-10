@@ -1,14 +1,30 @@
 ---
-title: "Solo Leveling vs. Outros Animes de RPG: Explorando Suas Singularidades"
-slug: "solo-leveling-vs-outros-animes-de-rpg-explorando-suas-singularidades"
-resumo: "O universo dos animes de RPG é vasto e diversificado, com muitas séries capturando a imaginação dos fãs. Entre eles, Solo Leveling se destaca por várias razões. Este artigo explora o que torna Solo Leveling único em comparação com outros animes de RPG e por que ele continua a cativar uma audiência global."
-categoria: "Animes e Mangás"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, animes de RPG, Sword Art Online, Overlord, Log Horizon, crescimento de personagem, animação, estilo visual"
-tags: ["Solo Leveling", "animes de RPG", "Sword Art Online", "Overlord", "Log Horizon", "crescimento de personagem", "animação", "estilo visual"]
-data: "2025-04-06T01:46:32.097Z"
+title: 'Solo Leveling vs. Outros Animes de RPG: Explorando Suas Singularidades'
+slug: solo-leveling-vs-outros-animes-de-rpg-explorando-suas-singularidades
+resumo: >-
+  O universo dos animes de RPG é vasto e diversificado, com muitas séries
+  capturando a imaginação dos fãs. Entre eles, Solo Leveling se destaca por
+  várias razões. Este artigo explora o que torna Solo Leveling único em
+  comparação com outros animes de RPG e por que ele continua a cativar uma
+  audiência global.
+categoria: Animes e Mangás
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, animes de RPG, Sword Art Online, Overlord, Log Horizon,
+  crescimento de personagem, animação, estilo visual
+tags:
+  - Solo Leveling
+  - animes de RPG
+  - Sword Art Online
+  - Overlord
+  - Log Horizon
+  - crescimento de personagem
+  - animação
+  - estilo visual
+data: '2025-04-06T01:46:32.097Z'
+author: Pablo Moura
 ---
 
 ## Introdução

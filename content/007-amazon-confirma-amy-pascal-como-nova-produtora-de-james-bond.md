@@ -1,13 +1,26 @@
 ---
-title: "007 | Amazon confirma Amy Pascal como nova produtora de James Bond"
-slug: "007-amazon-confirma-amy-pascal-como-nova-produtora-de-james-bond"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/zssEa64bAqKaBnj-7R8m6HsP-dw=/987x0/smart/uploads/conteudo/fotos/007-amazon-briga_xPeCZSa.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/gcZXA2K6YmEM5AP8mGmLRSUMF40=/480x360/smart/extras/conteudos/007-amazon-briga_VqZUH0L.png"
-tags: ["007", "Amazon", "Amy Pascal", "James Bond", "CinemaCon", "MGM Studios", "Franquia de Cinema", "Produtora"]
-keywords: "007, Amazon, Amy Pascal, James Bond, CinemaCon, MGM Studios, Franquia de Cinema, Produtora"
-data: "2025-04-03T05:11:49.332Z"
+title: 007 | Amazon confirma Amy Pascal como nova produtora de James Bond
+slug: 007-amazon-confirma-amy-pascal-como-nova-produtora-de-james-bond
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/zssEa64bAqKaBnj-7R8m6HsP-dw=/987x0/smart/uploads/conteudo/fotos/007-amazon-briga_xPeCZSa.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/gcZXA2K6YmEM5AP8mGmLRSUMF40=/480x360/smart/extras/conteudos/007-amazon-briga_VqZUH0L.png
+tags:
+  - '007'
+  - Amazon
+  - Amy Pascal
+  - James Bond
+  - CinemaCon
+  - MGM Studios
+  - Franquia de Cinema
+  - Produtora
+keywords: >-
+  007, Amazon, Amy Pascal, James Bond, CinemaCon, MGM Studios, Franquia de
+  Cinema, Produtora
+data: '2025-04-03T05:11:49.332Z'
+author: Pablo Moura
 ---
 
 Durante a CinemaCon deste ano, o painel da Amazon MGM Studios revelou novidades significativas sobre a saga 007, uma das franquias mais antigas e amadas do cinema. A principal notícia foi a confirmação de Amy Pascal como produtora do próximo filme de James Bond. Pascal é conhecida por seu envolvimento nas produções da franquia Homem-Aranha e outros filmes notáveis como 'Rivais' de Luca Guadagnino, 'Adoráveis Mulheres' de Greta Gerwig e 'The Post' de Steven Spielberg.

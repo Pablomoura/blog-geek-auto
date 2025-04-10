@@ -1,13 +1,26 @@
 ---
-title: "Editora Jangada vai publicar livro de Keanu Reeves no Brasil"
-slug: "editora-jangada-vai-publicar-livro-de-keanu-reeves-no-brasil"
-categoria: "HQ/LIVROS"
-midia: "https://cdn.ome.lt/9ncqBxJqjExSb2kwCxZi4AGI2n8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T201955.231.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/oEnPfl3zbFoKnVmWCv2E4Md2ilo=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T201955.231.png"
-tags: ["Keanu Reeves", "Editora Jangada", "BRZRKR", "ficção científica", "mitologia nórdica", "China Miéville", "quadrinhos", "literatura fantástica"]
-keywords: "Keanu Reeves, Editora Jangada, BRZRKR, ficção científica, mitologia nórdica, China Miéville, quadrinhos, literatura fantástica"
-data: "2025-04-05T01:08:45.303Z"
+title: Editora Jangada vai publicar livro de Keanu Reeves no Brasil
+slug: editora-jangada-vai-publicar-livro-de-keanu-reeves-no-brasil
+categoria: HQ/LIVROS
+midia: >-
+  https://cdn.ome.lt/9ncqBxJqjExSb2kwCxZi4AGI2n8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T201955.231.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/oEnPfl3zbFoKnVmWCv2E4Md2ilo=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T201955.231.png
+tags:
+  - Keanu Reeves
+  - Editora Jangada
+  - BRZRKR
+  - ficção científica
+  - mitologia nórdica
+  - China Miéville
+  - quadrinhos
+  - literatura fantástica
+keywords: >-
+  Keanu Reeves, Editora Jangada, BRZRKR, ficção científica, mitologia nórdica,
+  China Miéville, quadrinhos, literatura fantástica
+data: '2025-04-05T01:08:45.303Z'
+author: Ana Luiza
 ---
 
 A Editora Jangada anunciou que irá publicar no Brasil o novo livro de Keanu Reeves, intitulado 'O Livro de Algum Outro Lugar', que expande o universo da série de quadrinhos BRZRKR, escrita pelo ator. Esta obra, ambientada em um universo alternativo ao da série original, explora a saga de Unute, um guerreiro imortal que transita entre super-herói e anti-herói, em sua busca milenar para compreender sua própria imortalidade através de elementos de ficção científica, fantasia, ficção histórica e mitologia.

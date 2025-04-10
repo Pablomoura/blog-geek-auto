@@ -1,13 +1,27 @@
 ---
-title: "My Hero Academia: Vigilantes | Revelada a abertura do novo anime e apresentada arte exclusiva"
-slug: "my-hero-academia-vigilantes-anime-tem-abertura-revelada-e-ganha-arte-indita"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/PaXXwyA9aYE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/GBxQbbj3xyA83Zm1LJjJ7GcEq_A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T124855.391.png"
-tags: ["My Hero Academia", "anime", "Vigilantes", "spin-off", "Kohei Horikoshi", "Crunchyroll", "streaming", "super-heróis"]
-keywords: "My Hero Academia, anime, Vigilantes, spin-off, Kohei Horikoshi, Crunchyroll, streaming, super-heróis"
-data: "2025-04-07T16:13:10.793Z"
+title: >-
+  My Hero Academia: Vigilantes | Revelada a abertura do novo anime e apresentada
+  arte exclusiva
+slug: my-hero-academia-vigilantes-anime-tem-abertura-revelada-e-ganha-arte-indita
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/PaXXwyA9aYE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/GBxQbbj3xyA83Zm1LJjJ7GcEq_A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-07T124855.391.png
+tags:
+  - My Hero Academia
+  - anime
+  - Vigilantes
+  - spin-off
+  - Kohei Horikoshi
+  - Crunchyroll
+  - streaming
+  - super-heróis
+keywords: >-
+  My Hero Academia, anime, Vigilantes, spin-off, Kohei Horikoshi, Crunchyroll,
+  streaming, super-heróis
+data: '2025-04-07T16:13:10.793Z'
+author: Pablo Moura
 ---
 
 Foi recentemente divulgada a abertura do novo anime 'My Hero Academia: Vigilantes'. O vídeo já está disponível para visualização online. Além da abertura, também foi lançada uma arte inédita, que pode ser apreciada abaixo.

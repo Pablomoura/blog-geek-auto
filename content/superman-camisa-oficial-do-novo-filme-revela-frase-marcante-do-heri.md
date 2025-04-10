@@ -14,6 +14,7 @@ tags:
   - david corenswet
   - jorge jimenez
   - dc comics
+author: Luana Souza
 ---
 
 Uma nova camisa infantil lançada no Canadá revela arte oficial do próximo filme de Superman, protagonizado por David Corenswet. Embora a arte não apresente uma nova fotografia do herói, ela exibe um desenho estilizado que parece ser obra de Jorge Jimenez, renomado artista dos quadrinhos da DC Comics.

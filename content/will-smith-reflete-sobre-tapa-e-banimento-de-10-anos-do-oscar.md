@@ -14,6 +14,7 @@ tags:
   - incidente
   - entrevista
   - academia
+author: Luana Souza
 ---
 
 Em uma entrevista recente com a Associated Press, Will Smith discutiu seu banimento de 10 anos dos eventos da Academia, incluindo o Oscar, uma penalidade decorrente de um incidente ocorrido há três anos. Na cerimônia em que ganhou seu primeiro Oscar por 'King Richard: Criando Campeãs', Smith agrediu fisicamente o comediante Chris Rock no palco, em resposta a uma piada sobre Jada Pinkett Smith, sua esposa.

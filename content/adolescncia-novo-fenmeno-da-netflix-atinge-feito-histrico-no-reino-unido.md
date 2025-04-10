@@ -16,6 +16,7 @@ tags:
   - reino unido
   - streaming
   - sucesso televisivo
+author: Pablo Moura
 ---
 
 A minissérie 'Adolescência', novo sucesso global da Netflix, alcançou um marco histórico no Reino Unido ao se tornar a primeira produção de streaming a liderar como a mais bem avaliada no país. Superando grandes nomes da televisão britânica como 'The Apprentice' e 'Death in Paradise' da BBC, 'Adolescência' registrou um recorde de 6,45 milhões de espectadores em sua semana de estreia, ultrapassando o recorde anterior de 6,3 milhões de 'A Grande Ilusão' da Netflix em janeiro de 2024.

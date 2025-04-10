@@ -15,6 +15,7 @@ tags:
   - computador
   - lançamento
   - tecnologia
+author: Ana Luiza
 ---
 
 Nesta quinta-feira (27), a Apple surpreendeu os fãs ao disponibilizar em sua loja o Lumon Terminal Pro, o mesmo modelo de computador usado pelos personagens da série 'Ruptura'. Ao visitar o site da empresa, os interessados podem visualizar o produto em destaque.

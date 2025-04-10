@@ -16,6 +16,7 @@ tags:
   - falecimento
   - ator
   - cinema
+author: Ana Luiza
 ---
 
 Val Kilmer, conhecido por seus marcantes papéis como Batman e no clássico filme 'Top Gun', faleceu aos 65 anos, conforme reportado pelo The New York Times. A causa da morte ainda não foi divulgada.

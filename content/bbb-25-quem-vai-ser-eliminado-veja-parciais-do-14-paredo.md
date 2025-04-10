@@ -1,13 +1,26 @@
 ---
-title: "BBB 25 | Quem será eliminado? Confira as parciais do 14º Paredão"
-slug: "bbb-25-quem-vai-ser-eliminado-veja-parciais-do-14-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/DvGmMWkJYJBB5hpXBPcluanWUWA=/987x0/smart/uploads/conteudo/fotos/bbb25-renata-alvo-parciais.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ZXsv23LbSq-v9s4K00jmEcUYc9Y=/480x360/smart/extras/conteudos/bbb25-renata-alvo-parciais-peq.jpg"
-tags: ["BBB 25", "Paredão", "eliminação", "Tadeu Schmidt", "Rodrigo Dourado", "votação BBB", "Globoplay", "reality show"]
-keywords: "BBB 25, Paredão, eliminação, Tadeu Schmidt, Rodrigo Dourado, votação BBB, Globoplay, reality show"
-data: "2025-04-07T03:31:10.730Z"
+title: BBB 25 | Quem será eliminado? Confira as parciais do 14º Paredão
+slug: bbb-25-quem-vai-ser-eliminado-veja-parciais-do-14-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/DvGmMWkJYJBB5hpXBPcluanWUWA=/987x0/smart/uploads/conteudo/fotos/bbb25-renata-alvo-parciais.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ZXsv23LbSq-v9s4K00jmEcUYc9Y=/480x360/smart/extras/conteudos/bbb25-renata-alvo-parciais-peq.jpg
+tags:
+  - BBB 25
+  - Paredão
+  - eliminação
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - votação BBB
+  - Globoplay
+  - reality show
+keywords: >-
+  BBB 25, Paredão, eliminação, Tadeu Schmidt, Rodrigo Dourado, votação BBB,
+  Globoplay, reality show
+data: '2025-04-07T03:31:10.730Z'
+author: Luana Souza
 ---
 
 O 14º Paredão do BBB 25 será configurado na noite de domingo, 06 de abril, envolvendo três competidores na disputa pela permanência na casa. O resultado será revelado na terça-feira, 08 de abril, quando um dos participantes será eliminado. 

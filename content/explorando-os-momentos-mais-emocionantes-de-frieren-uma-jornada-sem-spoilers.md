@@ -1,14 +1,29 @@
 ---
-title: "Explorando os Momentos Mais Emocionantes de Frieren: Uma Jornada Sem Spoilers"
-slug: "explorando-os-momentos-mais-emocionantes-de-frieren-uma-jornada-sem-spoilers"
-resumo: "O anime 'Frieren' é uma obra que captura corações com sua narrativa profunda e emocionante. Este artigo explora os momentos mais emocionantes do anime, mergulhando em suas nuances sem revelar spoilers graves. Acompanhe para sentir a essência deste belo anime!"
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "anime, Frieren, emocional, momentos marcantes, sem spoilers, narrativa, despedida, crescimento"
-tags: ["anime", "Frieren", "emocional", "momentos marcantes", "sem spoilers", "narrativa", "despedida", "crescimento"]
-data: "2025-04-06T21:39:13.350Z"
+title: 'Explorando os Momentos Mais Emocionantes de Frieren: Uma Jornada Sem Spoilers'
+slug: explorando-os-momentos-mais-emocionantes-de-frieren-uma-jornada-sem-spoilers
+resumo: >-
+  O anime 'Frieren' é uma obra que captura corações com sua narrativa profunda e
+  emocionante. Este artigo explora os momentos mais emocionantes do anime,
+  mergulhando em suas nuances sem revelar spoilers graves. Acompanhe para sentir
+  a essência deste belo anime!
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  anime, Frieren, emocional, momentos marcantes, sem spoilers, narrativa,
+  despedida, crescimento
+tags:
+  - anime
+  - Frieren
+  - emocional
+  - momentos marcantes
+  - sem spoilers
+  - narrativa
+  - despedida
+  - crescimento
+data: '2025-04-06T21:39:13.350Z'
+author: Pablo Moura
 ---
 
 ## Introdução ao Mundo de Frieren

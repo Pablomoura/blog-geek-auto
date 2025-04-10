@@ -1,13 +1,26 @@
 ---
-title: "Batman 2 | Com Pattinson em Duna 3, filmagens devem começar em 2026, diz site"
-slug: "batman-2-com-pattinson-em-duna-3-filmagens-devem-comear-em-2026-diz-site"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/3X43gtRcDkpW2qI_fH3ClW90pVA=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T182316.172.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ly97bgF0Yu2Xfq6dPM5etXqdLDw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T182316.172.png"
-tags: ["Batman 2", "Robert Pattinson", "Duna 3", "Matt Reeves", "DC Studios", "James Gunn", "filmagens atrasadas", "lançamento 2027"]
-keywords: "Batman 2, Robert Pattinson, Duna 3, Matt Reeves, DC Studios, James Gunn, filmagens atrasadas, lançamento 2027"
-data: "2025-04-08T22:10:38.400Z"
+title: 'Batman 2 | Com Pattinson em Duna 3, filmagens devem começar em 2026, diz site'
+slug: batman-2-com-pattinson-em-duna-3-filmagens-devem-comear-em-2026-diz-site
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/3X43gtRcDkpW2qI_fH3ClW90pVA=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-08T182316.172.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ly97bgF0Yu2Xfq6dPM5etXqdLDw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-08T182316.172.png
+tags:
+  - Batman 2
+  - Robert Pattinson
+  - Duna 3
+  - Matt Reeves
+  - DC Studios
+  - James Gunn
+  - filmagens atrasadas
+  - lançamento 2027
+keywords: >-
+  Batman 2, Robert Pattinson, Duna 3, Matt Reeves, DC Studios, James Gunn,
+  filmagens atrasadas, lançamento 2027
+data: '2025-04-08T22:10:38.400Z'
+author: Ana Luiza
 ---
 
 A continuação de Batman, protagonizado por Robert Pattinson, enfrenta um possível atraso nas filmagens, de acordo com informações do site Nexus Point News. A nova entrada na trilogia do Homem-Morcego, dirigida por Matt Reeves, está prevista para iniciar produção apenas no início de 2026, numa estimativa otimista.

@@ -1,13 +1,28 @@
 ---
-title: "Thunderbolts | Julia Louis-Dreyfus Comenta Sua Ausência no Elenco de Vingadores: Doomsday"
-slug: "thunderbolts-atriz-reage-a-ficar-fora-do-elenco-de-vingadores-doomsday"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/zB0Mxs1pqlQOuja4kQL1K9g5-Mc=/987x0/smart/uploads/conteudo/fotos/thunderbolts-1_NIQaBaT.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ItTi6dzW-JyeJYAOoL50N2w9fkc=/480x360/smart/extras/conteudos/thunderbolts-1_hWR1tJ2.jpg"
-tags: ["MCU", "Thunderbolts", "Julia Louis-Dreyfus", "Vingadores: Doomsday", "anti-heróis", "Marvel", "filmes de super-heróis", "elenco"]
-keywords: "MCU, Thunderbolts, Julia Louis-Dreyfus, Vingadores: Doomsday, anti-heróis, Marvel, filmes de super-heróis, elenco"
-data: "2025-04-09T19:09:27.811Z"
+title: >-
+  Thunderbolts | Julia Louis-Dreyfus Comenta Sua Ausência no Elenco de
+  Vingadores: Doomsday
+slug: thunderbolts-atriz-reage-a-ficar-fora-do-elenco-de-vingadores-doomsday
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/zB0Mxs1pqlQOuja4kQL1K9g5-Mc=/987x0/smart/uploads/conteudo/fotos/thunderbolts-1_NIQaBaT.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ItTi6dzW-JyeJYAOoL50N2w9fkc=/480x360/smart/extras/conteudos/thunderbolts-1_hWR1tJ2.jpg
+tags:
+  - MCU
+  - Thunderbolts
+  - Julia Louis-Dreyfus
+  - 'Vingadores: Doomsday'
+  - anti-heróis
+  - Marvel
+  - filmes de super-heróis
+  - elenco
+keywords: >-
+  MCU, Thunderbolts, Julia Louis-Dreyfus, Vingadores: Doomsday, anti-heróis,
+  Marvel, filmes de super-heróis, elenco
+data: '2025-04-09T19:09:27.811Z'
+author: Pablo Moura
 ---
 
 Em uma recente revelação que surpreendeu os fãs, quase todos os principais integrantes do elenco de Thunderbolts, o aguardado filme do MCU, foram confirmados para aparecer em Vingadores: Doomsday. A confirmação veio durante uma transmissão ao vivo no final de março. Contudo, nem todos os atores do grupo conseguiram um lugar no próximo grande lançamento da Marvel, incluindo Julia Louis-Dreyfus, conhecida por seu papel como Valentina Allegra de Fontaine, ou simplesmente Val, desde sua aparição em Falcão e o Soldado Invernal.

@@ -1,14 +1,29 @@
 ---
-title: "Thomas Andre: O Caçador Lendário dos Estados Unidos"
-slug: "thomas-andre-o-cacador-lendario-dos-estados-unidos"
-resumo: "Descubra a trajetória e os feitos de Thomas Andre, um dos caçadores mais renomados dos Estados Unidos. Conhecido por suas habilidades extraordinárias e contribuições significativas ao mundo da caça, este artigo explora sua vida, carreira e legado."
-categoria: "Perfil Biográfico"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "caça, conservação, Thomas Andre, caçador lendário, habilidades de caça, sustentabilidade, preservação ambiental, caça nos EUA"
-tags: ["caça", "conservação", "Thomas Andre", "caçador lendário", "habilidades de caça", "sustentabilidade", "preservação ambiental", "caça nos EUA"]
-data: "2025-04-05T01:40:15.411Z"
+title: 'Thomas Andre: O Caçador Lendário dos Estados Unidos'
+slug: thomas-andre-o-cacador-lendario-dos-estados-unidos
+resumo: >-
+  Descubra a trajetória e os feitos de Thomas Andre, um dos caçadores mais
+  renomados dos Estados Unidos. Conhecido por suas habilidades extraordinárias e
+  contribuições significativas ao mundo da caça, este artigo explora sua vida,
+  carreira e legado.
+categoria: Perfil Biográfico
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  caça, conservação, Thomas Andre, caçador lendário, habilidades de caça,
+  sustentabilidade, preservação ambiental, caça nos EUA
+tags:
+  - caça
+  - conservação
+  - Thomas Andre
+  - caçador lendário
+  - habilidades de caça
+  - sustentabilidade
+  - preservação ambiental
+  - caça nos EUA
+data: '2025-04-05T01:40:15.411Z'
+author: Luana Souza
 ---
 
 ## A Ascensão de um Caçador Lendário

@@ -1,13 +1,26 @@
 ---
-title: "Mountainhead | Filme do criador de Succession ganha data de lançamento"
-slug: "mountainhead-filme-do-criador-de-succession-ganha-data-de-lanamento"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/UIar6q7P7LfEFP6GqWNIXcUVUpQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T211607.508.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SfSCi6II3duBberstme9U4pR6W4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T211607.508.png"
-tags: ["Mountainhead", "Jesse Armstrong", "HBO", "lançamento de filme", "Succession", "Steve Carell", "crise internacional", "elenco estelar"]
-keywords: "Mountainhead, Jesse Armstrong, HBO, lançamento de filme, Succession, Steve Carell, crise internacional, elenco estelar"
-data: "2025-04-05T01:07:17.290Z"
+title: Mountainhead | Filme do criador de Succession ganha data de lançamento
+slug: mountainhead-filme-do-criador-de-succession-ganha-data-de-lanamento
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/UIar6q7P7LfEFP6GqWNIXcUVUpQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-04T211607.508.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SfSCi6II3duBberstme9U4pR6W4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-04T211607.508.png
+tags:
+  - Mountainhead
+  - Jesse Armstrong
+  - HBO
+  - lançamento de filme
+  - Succession
+  - Steve Carell
+  - crise internacional
+  - elenco estelar
+keywords: >-
+  Mountainhead, Jesse Armstrong, HBO, lançamento de filme, Succession, Steve
+  Carell, crise internacional, elenco estelar
+data: '2025-04-05T01:07:17.290Z'
+author: Luana Souza
 ---
 
 A HBO anunciou nesta sexta-feira (04) a primeira imagem de Mountainhead, o novo projeto de Jesse Armstrong, célebre criador de Succession. O lançamento do filme está previsto para 31 de maio, disponível na HBO e na plataforma Max.

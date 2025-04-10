@@ -1,14 +1,29 @@
 ---
-title: "Magia em Frieren: A Conexão Profunda entre Magia, Memórias e Sentimentos"
-slug: "magia-em-frieren-a-conexao-profunda-entre-magia-memorias-e-sentimentos"
-resumo: "Explore como o sistema mágico em Frieren não é apenas um conjunto de feitiços e encantamentos, mas uma intrincada ligação com as emoções e memórias dos personagens. Entenda como essa conexão enriquece a narrativa e oferece uma perspectiva única sobre o poder da magia."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "magia, frieren, sentimentos, memorias, sistema magico, desenvolvimento de personagem, narrativa, emoções"
-tags: ["magia", "frieren", "sentimentos", "memorias", "sistema magico", "desenvolvimento de personagem", "narrativa", "emoções"]
-data: "2025-04-08T21:35:05.074Z"
+title: 'Magia em Frieren: A Conexão Profunda entre Magia, Memórias e Sentimentos'
+slug: magia-em-frieren-a-conexao-profunda-entre-magia-memorias-e-sentimentos
+resumo: >-
+  Explore como o sistema mágico em Frieren não é apenas um conjunto de feitiços
+  e encantamentos, mas uma intrincada ligação com as emoções e memórias dos
+  personagens. Entenda como essa conexão enriquece a narrativa e oferece uma
+  perspectiva única sobre o poder da magia.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  magia, frieren, sentimentos, memorias, sistema magico, desenvolvimento de
+  personagem, narrativa, emoções
+tags:
+  - magia
+  - frieren
+  - sentimentos
+  - memorias
+  - sistema magico
+  - desenvolvimento de personagem
+  - narrativa
+  - emoções
+data: '2025-04-08T21:35:05.074Z'
+author: Pablo Moura
 ---
 
 ## Introdução

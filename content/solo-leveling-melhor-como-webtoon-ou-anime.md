@@ -1,14 +1,26 @@
 ---
-title: "Solo Leveling: Melhor como Webtoon ou Anime?"
-slug: "solo-leveling-melhor-como-webtoon-ou-anime"
-resumo: "Exploramos as diferenças entre Solo Leveling como webtoon e como anime, analisando os prós e contras de cada formato para ajudar os fãs a decidir qual experiência é superior."
-categoria: "Entretenimento"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, Webtoon, Anime, Comparação, Narrativa, Animação, Adaptação, Fãs"
-tags: ["Solo Leveling", "Webtoon", "Anime", "Comparação", "Narrativa", "Animação", "Adaptação", "Fãs"]
-data: "2025-04-06T01:47:11.689Z"
+title: 'Solo Leveling: Melhor como Webtoon ou Anime?'
+slug: solo-leveling-melhor-como-webtoon-ou-anime
+resumo: >-
+  Exploramos as diferenças entre Solo Leveling como webtoon e como anime,
+  analisando os prós e contras de cada formato para ajudar os fãs a decidir qual
+  experiência é superior.
+categoria: Entretenimento
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: 'Solo Leveling, Webtoon, Anime, Comparação, Narrativa, Animação, Adaptação, Fãs'
+tags:
+  - Solo Leveling
+  - Webtoon
+  - Anime
+  - Comparação
+  - Narrativa
+  - Animação
+  - Adaptação
+  - Fãs
+data: '2025-04-06T01:47:11.689Z'
+author: Ana Luiza
 ---
 
 ## Introdução

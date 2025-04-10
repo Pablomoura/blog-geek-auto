@@ -1,13 +1,26 @@
 ---
-title: "Godzilla e Kong 3 | Início das Filmagens na Austrália"
-slug: "godzilla-e-kong-3-sequncia-j-comeou-as-filmagens"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/WgT9voJE0F3TDRe_Sr6BbHw15gU=/987x0/smart/uploads/conteudo/fotos/godzillavskong2.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ML5_XFfrApG9fjkQWK7EwYlh3ds=/480x360/smart/extras/conteudos/godzillavskong2.jpg"
-tags: ["Godzilla e Kong 3", "filmagens na Austrália", "Monsterverse", "cinema de monstros", "estreia 2027", "elenco de estrelas", "nova ameaça global", "direção de Grant Sputore"]
-keywords: "Godzilla e Kong 3, filmagens na Austrália, Monsterverse, cinema de monstros, estreia 2027, elenco de estrelas, nova ameaça global, direção de Grant Sputore"
-data: "2025-04-06T22:10:03.587Z"
+title: Godzilla e Kong 3 | Início das Filmagens na Austrália
+slug: godzilla-e-kong-3-sequncia-j-comeou-as-filmagens
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/WgT9voJE0F3TDRe_Sr6BbHw15gU=/987x0/smart/uploads/conteudo/fotos/godzillavskong2.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ML5_XFfrApG9fjkQWK7EwYlh3ds=/480x360/smart/extras/conteudos/godzillavskong2.jpg
+tags:
+  - Godzilla e Kong 3
+  - filmagens na Austrália
+  - Monsterverse
+  - cinema de monstros
+  - estreia 2027
+  - elenco de estrelas
+  - nova ameaça global
+  - direção de Grant Sputore
+keywords: >-
+  Godzilla e Kong 3, filmagens na Austrália, Monsterverse, cinema de monstros,
+  estreia 2027, elenco de estrelas, nova ameaça global, direção de Grant Sputore
+data: '2025-04-06T22:10:03.587Z'
+author: Pablo Moura
 ---
 
 As filmagens do aguardado filme 'Godzilla e Kong 3' já estão em andamento na Austrália, conforme reportado pelo 7 News Australia. A equipe foi avistada durante o evento de lançamento da segunda temporada da série 'The Last of Us'.

@@ -1,13 +1,26 @@
 ---
-title: "Tron: Ares revela seu primeiro teaser; trailer completo será lançado amanhã"
-slug: "tron-ares-ganha-primeiro-teaser-e-trailer-sai-amanh-assista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/ueJ7MYxIu2nFB9Lyc-3n6Br2Ih4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T131415.295.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/b22DjwMJ7hqVWavCM33T6jH7QgA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T131259.507.png"
-tags: ["Tron: Ares", "teaser", "trailer", "Disney", "Jeff Bridges", "Jared Leto", "sequência de filme", "estreia em cinema"]
-keywords: "Tron: Ares, teaser, trailer, Disney, Jeff Bridges, Jared Leto, sequência de filme, estreia em cinema"
-data: "2025-04-04T17:10:22.110Z"
+title: 'Tron: Ares revela seu primeiro teaser; trailer completo será lançado amanhã'
+slug: tron-ares-ganha-primeiro-teaser-e-trailer-sai-amanh-assista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/ueJ7MYxIu2nFB9Lyc-3n6Br2Ih4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T131415.295.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/b22DjwMJ7hqVWavCM33T6jH7QgA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T131259.507.png
+tags:
+  - 'Tron: Ares'
+  - teaser
+  - trailer
+  - Disney
+  - Jeff Bridges
+  - Jared Leto
+  - sequência de filme
+  - estreia em cinema
+keywords: >-
+  Tron: Ares, teaser, trailer, Disney, Jeff Bridges, Jared Leto, sequência de
+  filme, estreia em cinema
+data: '2025-04-04T17:10:22.110Z'
+author: Luana Souza
 ---
 
 A Disney divulgou o primeiro teaser de Tron: Ares, a mais recente sequência da icônica franquia que teve Jeff Bridges como protagonista. O lançamento do trailer completo está agendado para este sábado, dia 5. O filme conta com um elenco estelar que inclui Jared Leto, Evan Peters e Jeff Bridges, além de novos nomes como Gillian Anderson, conhecida por seu papel em Arquivo X, Jodie Turner-Smith de Queen & Slim, Greta Lee de Vidas Passadas e Cameron Monaghan de Gotham.

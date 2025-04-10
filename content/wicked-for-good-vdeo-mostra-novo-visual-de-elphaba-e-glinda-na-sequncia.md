@@ -20,6 +20,7 @@ tags:
   - cinemacon
   - visual novo
   - sequência de filme
+author: Ana Luiza
 ---
 
 A CinemaCon, realizada esta semana em Las Vegas, foi palco da revelação do primeiro pôster de 'Wicked: For Good'. O evento contou com a presença do portal Omelete, que destacou os novos visuais de Elphaba e Glinda, interpretadas por Cynthia Erivo e Ariana Grande, respectivamente. A sequência é aguardada para novembro de 2024.

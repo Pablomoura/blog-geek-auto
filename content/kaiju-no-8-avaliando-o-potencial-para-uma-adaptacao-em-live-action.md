@@ -1,14 +1,29 @@
 ---
-title: "Kaiju No. 8: Avaliando o Potencial para uma Adaptação em Live-Action"
-slug: "kaiju-no-8-avaliando-o-potencial-para-uma-adaptacao-em-live-action"
-resumo: "Exploramos as possibilidades e desafios de transformar o popular mangá 'Kaiju No. 8' em um filme ou série live-action. Analisamos aspectos técnicos, demanda do público e exemplos de adaptações anteriores para prever o sucesso de uma possível adaptação."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, live-action, mangá, adaptação, filmes, séries, efeitos especiais, fãs"
-tags: ["Kaiju No. 8", "live-action", "mangá", "adaptação", "filmes", "séries", "efeitos especiais", "fãs"]
-data: "2025-04-04T22:20:49.556Z"
+title: 'Kaiju No. 8: Avaliando o Potencial para uma Adaptação em Live-Action'
+slug: kaiju-no-8-avaliando-o-potencial-para-uma-adaptacao-em-live-action
+resumo: >-
+  Exploramos as possibilidades e desafios de transformar o popular mangá 'Kaiju
+  No. 8' em um filme ou série live-action. Analisamos aspectos técnicos, demanda
+  do público e exemplos de adaptações anteriores para prever o sucesso de uma
+  possível adaptação.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, live-action, mangá, adaptação, filmes, séries, efeitos especiais,
+  fãs
+tags:
+  - Kaiju No. 8
+  - live-action
+  - mangá
+  - adaptação
+  - filmes
+  - séries
+  - efeitos especiais
+  - fãs
+data: '2025-04-04T22:20:49.556Z'
+author: Luana Souza
 ---
 
 ## Introdução

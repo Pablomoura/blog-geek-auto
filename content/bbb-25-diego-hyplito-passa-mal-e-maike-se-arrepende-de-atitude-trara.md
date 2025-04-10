@@ -15,6 +15,7 @@ tags:
   - saúde
   - maike
   - competição
+author: Luana Souza
 ---
 
 Diego Hypólito, sob pressão no BBB 25 após ser alvo de Maike, sentiu-se mal após participar da Prova do Líder. O ex-ginasta precisou de intervenção médica devido a problemas de saúde durante o jogo.

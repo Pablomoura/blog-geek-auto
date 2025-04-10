@@ -17,6 +17,7 @@ tags:
   - kung-fu
   - cinemacon 2025
   - filme de artes marciais
+author: Pablo Moura
 ---
 
 O mais recente pôster de 'Karate Kid: Lendas' traz em destaque o mestre de Kung-fu interpretado pelo icônico Jackie Chan. A arte promocional foi revelada e já está gerando grande expectativa entre os fãs.

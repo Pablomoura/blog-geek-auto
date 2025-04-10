@@ -14,6 +14,7 @@ tags:
   - paredão
   - reality show
   - big brother brasil
+author: Pablo Moura
 ---
 
 O Big Brother Brasil 25 iniciou em 13 de janeiro com 24 concorrentes, apresentando pela primeira vez inscrições e eliminações iniciais em duplas. Arleane e Marcelo foram os primeiros eliminados, seguidos por Edilberto e Raissa, um duo de pai e filha.

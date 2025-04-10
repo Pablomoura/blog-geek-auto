@@ -1,13 +1,26 @@
 ---
-title: "CCXP MX 25 | Mads Mikkelsen é confirmado como convidado especial"
-slug: "ccxp-mx-25-mads-mikkelsen-confirmado-como-convidado-especial"
-categoria: "CCXP"
-midia: "https://cdn.ome.lt/uAlhUjrEWwJlTlloatownXwIBC4=/987x0/smart/uploads/conteudo/fotos/WhatsApp_Image_2025-04-07_at_12.39.19_PM.jpeg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/6Ir8G_aElZTpFk02iR56ta4-Hlo=/480x360/smart/extras/conteudos/mads-mikkelsen-rogue-one-pic.jpg"
-tags: ["CCXP MX 25", "Mads Mikkelsen", "cultura pop", "Cidade do México", "convenção de fãs", "filmes e séries", "ator dinamarquês", "Comic Con"]
-keywords: "CCXP MX 25, Mads Mikkelsen, cultura pop, Cidade do México, convenção de fãs, filmes e séries, ator dinamarquês, Comic Con"
-data: "2025-04-07T16:12:10.557Z"
+title: CCXP MX 25 | Mads Mikkelsen é confirmado como convidado especial
+slug: ccxp-mx-25-mads-mikkelsen-confirmado-como-convidado-especial
+categoria: CCXP
+midia: >-
+  https://cdn.ome.lt/uAlhUjrEWwJlTlloatownXwIBC4=/987x0/smart/uploads/conteudo/fotos/WhatsApp_Image_2025-04-07_at_12.39.19_PM.jpeg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/6Ir8G_aElZTpFk02iR56ta4-Hlo=/480x360/smart/extras/conteudos/mads-mikkelsen-rogue-one-pic.jpg
+tags:
+  - CCXP MX 25
+  - Mads Mikkelsen
+  - cultura pop
+  - Cidade do México
+  - convenção de fãs
+  - filmes e séries
+  - ator dinamarquês
+  - Comic Con
+keywords: >-
+  CCXP MX 25, Mads Mikkelsen, cultura pop, Cidade do México, convenção de fãs,
+  filmes e séries, ator dinamarquês, Comic Con
+data: '2025-04-07T16:12:10.557Z'
+author: Ana Luiza
 ---
 
 A próxima edição do CCXP MX, que acontecerá em 2025 e que já atraiu 100 mil pessoas em sua estreia, promete ser um grande evento na Cidade do México. Entre os destaques, Mads Mikkelsen foi confirmado como convidado especial. O ator, conhecido por papéis icônicos como Hannibal Lecter, Galen Erso e Gellert Grindelwald, participará de diversas atividades no evento.

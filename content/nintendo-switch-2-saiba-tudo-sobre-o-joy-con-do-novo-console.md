@@ -14,6 +14,7 @@ tags:
   - controles magnéticos
   - inovação
   - videogames
+author: Pablo Moura
 ---
 
 A Nintendo revelou informações sobre o aguardado Nintendo Switch 2 e seus novos controles, os Joy-Cons. Estes controles inovam ao adotar um sistema de fixação magnética, substituindo os tradicionais trilhos de encaixe do modelo anterior. Este recurso permite que os controles 'grudem' no console através do magnetismo, além de serem ligeiramente maiores que os predecessores.

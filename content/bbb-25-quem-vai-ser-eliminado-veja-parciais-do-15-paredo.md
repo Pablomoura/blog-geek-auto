@@ -1,13 +1,26 @@
 ---
-title: "BBB 25 | Previsões do 15º Paredão indicam possível eliminado"
-slug: "bbb-25-quem-vai-ser-eliminado-veja-parciais-do-15-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/7uU6MFEqKkDJ45JKvXt9vpsxSuk=/987x0/smart/uploads/conteudo/fotos/bbb25-maike-renata-vinicius-parciais.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SAEIDgIeciRPq28hWvn2OPBf72U=/480x360/smart/extras/conteudos/bbb25-vinicius-15-parciais-peq.jpg"
-tags: ["BBB 25", "Paredão", "Vinícius", "eliminação", "Tadeu Schmidt", "Rodrigo Dourado", "votação", "reality show"]
-keywords: "BBB 25, Paredão, Vinícius, eliminação, Tadeu Schmidt, Rodrigo Dourado, votação, reality show"
-data: "2025-04-09T03:27:32.561Z"
+title: BBB 25 | Previsões do 15º Paredão indicam possível eliminado
+slug: bbb-25-quem-vai-ser-eliminado-veja-parciais-do-15-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/7uU6MFEqKkDJ45JKvXt9vpsxSuk=/987x0/smart/uploads/conteudo/fotos/bbb25-maike-renata-vinicius-parciais.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SAEIDgIeciRPq28hWvn2OPBf72U=/480x360/smart/extras/conteudos/bbb25-vinicius-15-parciais-peq.jpg
+tags:
+  - BBB 25
+  - Paredão
+  - Vinícius
+  - eliminação
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - votação
+  - reality show
+keywords: >-
+  BBB 25, Paredão, Vinícius, eliminação, Tadeu Schmidt, Rodrigo Dourado,
+  votação, reality show
+data: '2025-04-09T03:27:32.561Z'
+author: Ana Luiza
 ---
 
 O 15º Paredão do BBB 25 foi estabelecido na noite de terça-feira, dia 8, e colocou Maike, Renata e Vinícius na berlinda. O resultado, que determinará quem será eliminado, será revelado na próxima quinta-feira, dia 10.

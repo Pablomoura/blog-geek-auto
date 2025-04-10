@@ -18,6 +18,7 @@ tags:
   - venda de filme
   - lançamento de filme
   - indústria cinematográfica
+author: Ana Luiza
 ---
 
 A Warner Bros finalizou com sucesso a negociação para a venda do filme 'Coyote vs Acme' para a Ketchup Entertainment, com lançamento previsto para 2026. 

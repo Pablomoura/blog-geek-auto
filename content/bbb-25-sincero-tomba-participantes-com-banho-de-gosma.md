@@ -1,13 +1,28 @@
 ---
-title: "BBB 25 | Confronto Direto: Participantes enfrentam o 'banho de gosma' no 12º Sincerão"
-slug: "bbb-25-sincero-tomba-participantes-com-banho-de-gosma"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/eUqayN0hiTXl-scTqU8U8Ls42DU=/987x0/smart/uploads/conteudo/fotos/bbb25-diego-hypolito-12-sincerao.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/EfYr4523R_TNomaVb057YTAd4kU=/480x360/smart/extras/conteudos/bbb25-diego-hypolito-12-sincerao-peq.jpg"
-tags: ["BBB 25", "banho de gosma", "Sincerão", "dinâmica de jogo", "estratégias de participantes", "votação do público", "Tadeu Schmidt", "Rodrigo Dourado"]
-keywords: "BBB 25, banho de gosma, Sincerão, dinâmica de jogo, estratégias de participantes, votação do público, Tadeu Schmidt, Rodrigo Dourado"
-data: "2025-04-08T03:26:59.550Z"
+title: >-
+  BBB 25 | Confronto Direto: Participantes enfrentam o 'banho de gosma' no 12º
+  Sincerão
+slug: bbb-25-sincero-tomba-participantes-com-banho-de-gosma
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/eUqayN0hiTXl-scTqU8U8Ls42DU=/987x0/smart/uploads/conteudo/fotos/bbb25-diego-hypolito-12-sincerao.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/EfYr4523R_TNomaVb057YTAd4kU=/480x360/smart/extras/conteudos/bbb25-diego-hypolito-12-sincerao-peq.jpg
+tags:
+  - BBB 25
+  - banho de gosma
+  - Sincerão
+  - dinâmica de jogo
+  - estratégias de participantes
+  - votação do público
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+keywords: >-
+  BBB 25, banho de gosma, Sincerão, dinâmica de jogo, estratégias de
+  participantes, votação do público, Tadeu Schmidt, Rodrigo Dourado
+data: '2025-04-08T03:26:59.550Z'
+author: Pablo Moura
 ---
 
 Na noite desta segunda-feira (07), o Big Brother Brasil 25 apresentou seu 12º Sincerão, marcando outro momento de tensões e alianças entre os nove participantes ainda na disputa. A dinâmica desta vez envolveu um elemento surpresa: uma piscina de gosma vermelha, onde o participante escolhido na rodada era literalmente 'tombado'.

@@ -1,13 +1,25 @@
 ---
-title: "The Last of Us e Black Mirror! As melhores estreias da semana"
-slug: "the-last-of-us-e-black-mirror-as-melhores-estreias-da-semana"
-categoria: "FILMES EM CARTAZ"
-midia: "https://www.youtube.com/embed/_zHPsmXCjB0?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/wf9Op-07uzAAXqFZvDiqJCFHfAI=/480x360/smart/extras/conteudos/lastofussegundatemporada.jpg"
-tags: ["The Last of Us", "Black Mirror", "HBO Max", "Netflix", "estreias de séries", "filmes de suspense", "tecnologia distópica", "pós-apocalíptico"]
-keywords: "The Last of Us, Black Mirror, HBO Max, Netflix, estreias de séries, filmes de suspense, tecnologia distópica, pós-apocalíptico"
-data: "2025-04-07T13:24:08.980Z"
+title: The Last of Us e Black Mirror! As melhores estreias da semana
+slug: the-last-of-us-e-black-mirror-as-melhores-estreias-da-semana
+categoria: FILMES EM CARTAZ
+midia: 'https://www.youtube.com/embed/_zHPsmXCjB0?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/wf9Op-07uzAAXqFZvDiqJCFHfAI=/480x360/smart/extras/conteudos/lastofussegundatemporada.jpg
+tags:
+  - The Last of Us
+  - Black Mirror
+  - HBO Max
+  - Netflix
+  - estreias de séries
+  - filmes de suspense
+  - tecnologia distópica
+  - pós-apocalíptico
+keywords: >-
+  The Last of Us, Black Mirror, HBO Max, Netflix, estreias de séries, filmes de
+  suspense, tecnologia distópica, pós-apocalíptico
+data: '2025-04-07T13:24:08.980Z'
+author: Ana Luiza
 ---
 
 Este fim de semana marca o retorno triunfal de duas aclamadas séries ao mundo do streaming. Após longa expectativa, 'The Last of Us' e 'Black Mirror' estreiam novos episódios na HBO Max e na Netflix, respectivamente, explorando cenários pós-apocalípticos e distopias impulsionadas pela tecnologia. Paralelamente, as telonas recebem 'Drop', um thriller de terror, e 'Operação Vingança', um filme de suspense que envolve espionagem.

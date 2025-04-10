@@ -1,13 +1,26 @@
 ---
-title: "Minecraft | Homenagem a Technoblade foi ideia de ator, revela diretor"
-slug: "minecraft-homenagem-a-technoblade-foi-ideia-de-ator-revela-diretor"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/tqaNKaUW_TUIpE8gkzuWgwDhRlc=/987x0/smart/uploads/conteudo/fotos/minecraftfilmevariante.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/MBKsC0m4nzVGhBM3428JYJHDlqE=/480x360/smart/extras/conteudos/minecraftfilmevariante.jpg"
-tags: ["Minecraft", "Technoblade", "homenagem", "filme", "Sebastian Hansen", "Jared Hess", "adaptação cinematográfica", "cultura gamer"]
-keywords: "Minecraft, Technoblade, homenagem, filme, Sebastian Hansen, Jared Hess, adaptação cinematográfica, cultura gamer"
-data: "2025-04-06T16:11:21.910Z"
+title: 'Minecraft | Homenagem a Technoblade foi ideia de ator, revela diretor'
+slug: minecraft-homenagem-a-technoblade-foi-ideia-de-ator-revela-diretor
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/tqaNKaUW_TUIpE8gkzuWgwDhRlc=/987x0/smart/uploads/conteudo/fotos/minecraftfilmevariante.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/MBKsC0m4nzVGhBM3428JYJHDlqE=/480x360/smart/extras/conteudos/minecraftfilmevariante.jpg
+tags:
+  - Minecraft
+  - Technoblade
+  - homenagem
+  - filme
+  - Sebastian Hansen
+  - Jared Hess
+  - adaptação cinematográfica
+  - cultura gamer
+keywords: >-
+  Minecraft, Technoblade, homenagem, filme, Sebastian Hansen, Jared Hess,
+  adaptação cinematográfica, cultura gamer
+data: '2025-04-06T16:11:21.910Z'
+author: Luana Souza
 ---
 
 A adaptação cinematográfica de Minecraft inclui uma homenagem especial ao falecido jogador e influenciador Technoblade, graças a uma iniciativa do ator Sebastian Hansen, que interpreta um dos protagonistas do filme. Em entrevista ao Collider, o diretor Jared Hess explicou que a inclusão dessa referência foi uma sugestão de Hansen, motivada pela admiração e respeito que a comunidade de Minecraft tinha por Technoblade, que veio a falecer em 2022 devido a um câncer.

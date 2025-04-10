@@ -1,14 +1,26 @@
 ---
-title: "Guia Definitivo das Séries da Marvel: Uma Jornada Cronológica"
-slug: "guia-definitivo-das-series-da-marvel-uma-jornada-cronologica"
-resumo: "Explore o universo televisivo da Marvel em ordem cronológica com nosso guia detalhado. De 'Agent Carter' a 'Loki', entenda como cada série se encaixa na linha do tempo do MCU e prepare-se para uma maratona épica."
-categoria: "SÉRIES E TV"
-midia: "/images/Guia-Definitivo-das-Series-da-Marvel.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-series-marvel.jpg"
-keywords: "Marvel, Séries, MCU, Cronologia, Guia, Ordem, Heróis, TV"
-tags: ["Marvel", "Séries", "MCU", "Cronologia", "Guia", "Ordem", "Heróis", "TV"]
-data: "2025-04-03T17:27:14.305Z"
+title: 'Guia Definitivo das Séries da Marvel: Uma Jornada Cronológica'
+slug: guia-definitivo-das-series-da-marvel-uma-jornada-cronologica
+resumo: >-
+  Explore o universo televisivo da Marvel em ordem cronológica com nosso guia
+  detalhado. De 'Agent Carter' a 'Loki', entenda como cada série se encaixa na
+  linha do tempo do MCU e prepare-se para uma maratona épica.
+categoria: SÉRIES E TV
+midia: /images/Guia-Definitivo-das-Series-da-Marvel.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-series-marvel.jpg
+keywords: 'Marvel, Séries, MCU, Cronologia, Guia, Ordem, Heróis, TV'
+tags:
+  - Marvel
+  - Séries
+  - MCU
+  - Cronologia
+  - Guia
+  - Ordem
+  - Heróis
+  - TV
+data: '2025-04-03T17:27:14.305Z'
+author: Pablo Moura
 ---
 
 ## Introdução

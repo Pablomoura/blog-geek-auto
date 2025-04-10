@@ -20,6 +20,7 @@ tags:
   - trailer
   - cinemacon
   - indústria cinematográfica
+author: Pablo Moura
 ---
 
 O aguardado revival do filme 'Eu Sei o Que Vocês Fizeram no Verão Passado' estreou seu primeiro trailer na CinemaCon, evento que reúne os maiores nomes da indústria cinematográfica. Durante a apresentação, foi confirmada a participação de Jennifer Love Hewitt, que retorna à franquia que a consagrou.

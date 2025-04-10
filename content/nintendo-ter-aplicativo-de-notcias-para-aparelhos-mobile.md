@@ -14,6 +14,7 @@ tags:
   - shigeru miyamoto
   - notícias de jogos
   - dispositivos móveis
+author: Luana Souza
 ---
 
 Em um anúncio surpreendente no último Nintendo Direct, Shigeru Miyamoto, criador de Mario e figura icônica da Nintendo, introduziu o 'Nintendo Today'. Este aplicativo destinado a dispositivos móveis promete ser o hub principal para notícias relacionadas à empresa.

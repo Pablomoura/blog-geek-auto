@@ -1,13 +1,27 @@
 ---
-title: "Análise Completa do Nintendo Switch 2: Evolução Técnica com Surpresas no Controle"
-slug: "testamos-o-nintendo-switch-2-que-traz-evoluo-de-visual-sem-grandes-mudanas"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/tq26nfTVK_U?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/DkHMIZh5IY74iFWeFA5XNv6pUuM=/480x360/smart/extras/conteudos/nintendoswitch2-hw-11.jpg"
-tags: ["Nintendo Switch 2", "evolução técnica", "controle inovador", "jogos novos", "4K upscaling", "Joy-Con magnético", "lançamento de console", "HDR suporte"]
-keywords: "Nintendo Switch 2, evolução técnica, controle inovador, jogos novos, 4K upscaling, Joy-Con magnético, lançamento de console, HDR suporte"
-data: "2025-04-03T14:12:32.976Z"
+title: >-
+  Análise Completa do Nintendo Switch 2: Evolução Técnica com Surpresas no
+  Controle
+slug: testamos-o-nintendo-switch-2-que-traz-evoluo-de-visual-sem-grandes-mudanas
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/tq26nfTVK_U?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/DkHMIZh5IY74iFWeFA5XNv6pUuM=/480x360/smart/extras/conteudos/nintendoswitch2-hw-11.jpg
+tags:
+  - Nintendo Switch 2
+  - evolução técnica
+  - controle inovador
+  - jogos novos
+  - 4K upscaling
+  - Joy-Con magnético
+  - lançamento de console
+  - HDR suporte
+keywords: >-
+  Nintendo Switch 2, evolução técnica, controle inovador, jogos novos, 4K
+  upscaling, Joy-Con magnético, lançamento de console, HDR suporte
+data: '2025-04-03T14:12:32.976Z'
+author: Pablo Moura
 ---
 
 A Nintendo anunciou o lançamento do Nintendo Switch 2, trazendo consigo um design aprimorado e especificações técnicas superiores às do modelo anterior. Durante um evento exclusivo para a imprensa, ocorrido na última quarta-feira, a companhia compartilhou detalhes sobre as funcionalidades, os primeiros jogos disponíveis e o preço do novo console.

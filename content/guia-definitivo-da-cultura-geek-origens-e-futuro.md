@@ -1,14 +1,29 @@
 ---
-title: "Guia Definitivo da Cultura Geek: Origens e Futuro"
-slug: "guia-definitivo-da-cultura-geek-origens-e-futuro"
-resumo: "Explore a evolução da cultura geek, desde suas raízes nos hobbies de nicho até sua expansão como uma influência dominante na cultura popular. Este guia abrangente cobre a história, os desenvolvimentos significativos e prevê para onde essa cultura vibrante está se dirigindo."
-categoria: "Cultura Pop"
-midia: "/images/evergreen.jpg"
-tipoMidia: "imagem"
-thumb: "/images/evergreen.jpg"
-keywords: "cultura geek, história geek, futuro geek, tecnologia, video games, cosplay, ficção científica, quadrinhos"
-tags: ["cultura geek", "história geek", "futuro geek", "tecnologia", "video games", "cosplay", "ficção científica", "quadrinhos"]
-data: "2025-04-05T00:50:08.055Z"
+title: 'Guia Definitivo da Cultura Geek: Origens e Futuro'
+slug: guia-definitivo-da-cultura-geek-origens-e-futuro
+resumo: >-
+  Explore a evolução da cultura geek, desde suas raízes nos hobbies de nicho até
+  sua expansão como uma influência dominante na cultura popular. Este guia
+  abrangente cobre a história, os desenvolvimentos significativos e prevê para
+  onde essa cultura vibrante está se dirigindo.
+categoria: Cultura Pop
+midia: /images/evergreen.jpg
+tipoMidia: imagem
+thumb: /images/evergreen.jpg
+keywords: >-
+  cultura geek, história geek, futuro geek, tecnologia, video games, cosplay,
+  ficção científica, quadrinhos
+tags:
+  - cultura geek
+  - história geek
+  - futuro geek
+  - tecnologia
+  - video games
+  - cosplay
+  - ficção científica
+  - quadrinhos
+data: '2025-04-05T00:50:08.055Z'
+author: Ana Luiza
 ---
 
 ## Introdução à Cultura Geek

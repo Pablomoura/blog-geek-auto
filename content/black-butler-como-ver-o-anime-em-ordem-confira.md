@@ -1,13 +1,26 @@
 ---
-title: "Black Butler | Guia para assistir o anime em ordem cronológica na Crunchyroll"
-slug: "black-butler-como-ver-o-anime-em-ordem-confira"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/W-1z-4qgClW1ipHK7cVtXUS5Bkg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-03T220215.381.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/6wQTZxRURfltDMGx2UkYX7fGlbA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-03T220215.381.png"
-tags: ["Black Butler", "Crunchyroll", "anime", "ordem cronológica", "Yana Toboso", "Ciel Phantomhive", "Sebastian Michaelis", "mangá"]
-keywords: "Black Butler, Crunchyroll, anime, ordem cronológica, Yana Toboso, Ciel Phantomhive, Sebastian Michaelis, mangá"
-data: "2025-04-04T02:20:20.404Z"
+title: Black Butler | Guia para assistir o anime em ordem cronológica na Crunchyroll
+slug: black-butler-como-ver-o-anime-em-ordem-confira
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/W-1z-4qgClW1ipHK7cVtXUS5Bkg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-03T220215.381.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/6wQTZxRURfltDMGx2UkYX7fGlbA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-03T220215.381.png
+tags:
+  - Black Butler
+  - Crunchyroll
+  - anime
+  - ordem cronológica
+  - Yana Toboso
+  - Ciel Phantomhive
+  - Sebastian Michaelis
+  - mangá
+keywords: >-
+  Black Butler, Crunchyroll, anime, ordem cronológica, Yana Toboso, Ciel
+  Phantomhive, Sebastian Michaelis, mangá
+data: '2025-04-04T02:20:20.404Z'
+author: Ana Luiza
 ---
 
 Black Butler, uma criação de Yana Toboso, é uma série de anime que narra as aventuras de Ciel Phantomhive, um jovem nobre em busca de vingança após o trágico assassinato de sua família. Acompanhado por Sebastian Michaelis, seu mordomo demoníaco, o anime oscila entre cenas de humor e drama intenso.

@@ -1,13 +1,27 @@
 ---
-title: "Jujutsu Kaisen, My Hero Academia e mais: Globoplay anuncia novos animes para 2025"
-slug: "jujutsu-kaisen-my-hero-academia-e-mais-globoplay-ter-mais-animes-em-2025"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/E5VmnD0cLH8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/kLcffsiRnbJtDLWRhrSPBNGkMt4=/480x360/smart/extras/conteudos/Design_sem_nome_9_W994OyA.jpg"
-tags: ["Globoplay", "animes", "My Hero Academia", "Jujutsu Kaisen", "streaming", "cultura pop oriental", "mercado brasileiro", "expansão de catálogo"]
-keywords: "Globoplay, animes, My Hero Academia, Jujutsu Kaisen, streaming, cultura pop oriental, mercado brasileiro, expansão de catálogo"
-data: "2025-04-04T11:09:48.333Z"
+title: >-
+  Jujutsu Kaisen, My Hero Academia e mais: Globoplay anuncia novos animes para
+  2025
+slug: jujutsu-kaisen-my-hero-academia-e-mais-globoplay-ter-mais-animes-em-2025
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/E5VmnD0cLH8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/kLcffsiRnbJtDLWRhrSPBNGkMt4=/480x360/smart/extras/conteudos/Design_sem_nome_9_W994OyA.jpg
+tags:
+  - Globoplay
+  - animes
+  - My Hero Academia
+  - Jujutsu Kaisen
+  - streaming
+  - cultura pop oriental
+  - mercado brasileiro
+  - expansão de catálogo
+keywords: >-
+  Globoplay, animes, My Hero Academia, Jujutsu Kaisen, streaming, cultura pop
+  oriental, mercado brasileiro, expansão de catálogo
+data: '2025-04-04T11:09:48.333Z'
+author: Ana Luiza
 ---
 
 O Globoplay ampliará seu catálogo de animes em 2025, visando atender ao crescente interesse do público otaku no Brasil. Em uma entrevista exclusiva concedida ao Omelete, Tatiana Costa, Diretora de Canais de Entretenimento e Notícias & Conteúdo da Globo, destacou que os animes serão uma das prioridades do serviço de streaming no próximo ano. 

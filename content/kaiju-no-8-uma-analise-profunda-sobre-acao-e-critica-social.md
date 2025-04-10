@@ -1,14 +1,30 @@
 ---
-title: "Kaiju No. 8: Uma Análise Profunda Sobre Ação e Crítica Social"
-slug: "kaiju-no-8-uma-analise-profunda-sobre-acao-e-critica-social"
-resumo: "Embora à primeira vista possa parecer apenas mais uma série de ação, Kaiju No. 8, uma popular manga japonesa, vai além do entretenimento para tocar em temas profundos como envelhecimento e a realidade de ser descartado pela sociedade. Este artigo explora como a série usa a narrativa de monstros para refletir sobre questões sociais relevantes."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, crítica social, envelhecimento, manga, literatura, simbolismo, sociedade, ação"
-tags: ["Kaiju No. 8", "crítica social", "envelhecimento", "manga", "literatura", "simbolismo", "sociedade", "ação"]
-data: "2025-04-03T22:14:52.692Z"
+title: 'Kaiju No. 8: Uma Análise Profunda Sobre Ação e Crítica Social'
+slug: kaiju-no-8-uma-analise-profunda-sobre-acao-e-critica-social
+resumo: >-
+  Embora à primeira vista possa parecer apenas mais uma série de ação, Kaiju No.
+  8, uma popular manga japonesa, vai além do entretenimento para tocar em temas
+  profundos como envelhecimento e a realidade de ser descartado pela sociedade.
+  Este artigo explora como a série usa a narrativa de monstros para refletir
+  sobre questões sociais relevantes.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, crítica social, envelhecimento, manga, literatura, simbolismo,
+  sociedade, ação
+tags:
+  - Kaiju No. 8
+  - crítica social
+  - envelhecimento
+  - manga
+  - literatura
+  - simbolismo
+  - sociedade
+  - ação
+data: '2025-04-03T22:14:52.692Z'
+author: Pablo Moura
 ---
 
 ## Introdução

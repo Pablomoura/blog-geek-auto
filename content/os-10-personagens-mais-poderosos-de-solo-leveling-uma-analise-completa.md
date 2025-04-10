@@ -1,14 +1,29 @@
 ---
-title: "Os 10 Personagens Mais Poderosos de Solo Leveling: Uma Análise Completa"
-slug: "os-10-personagens-mais-poderosos-de-solo-leveling-uma-analise-completa"
-resumo: "Descubra quais são os 10 personagens mais poderosos do universo de Solo Leveling, tanto no anime quanto na light novel. Este artigo oferece uma análise detalhada sobre cada personagem e suas habilidades únicas que os destacam."
-categoria: "Análise de Personagens"
-midia: "/images/sololeveling.jpg"
-tipoMidia: "imagem"
-thumb: "/images/sololeveling.jpg"
-keywords: "Solo Leveling, personagens poderosos, anime, light novel, Sung Jin-Woo, Antares, caçadores, monstros"
-tags: ["Solo Leveling", "personagens poderosos", "anime", "light novel", "Sung Jin-Woo", "Antares", "caçadores", "monstros"]
-data: "2025-04-02T01:39:12.787Z"
+title: 'Os 10 Personagens Mais Poderosos de Solo Leveling: Uma Análise Completa'
+slug: os-10-personagens-mais-poderosos-de-solo-leveling-uma-analise-completa
+resumo: >-
+  Descubra quais são os 10 personagens mais poderosos do universo de Solo
+  Leveling, tanto no anime quanto na light novel. Este artigo oferece uma
+  análise detalhada sobre cada personagem e suas habilidades únicas que os
+  destacam.
+categoria: Análise de Personagens
+midia: /images/sololeveling.jpg
+tipoMidia: imagem
+thumb: /images/sololeveling.jpg
+keywords: >-
+  Solo Leveling, personagens poderosos, anime, light novel, Sung Jin-Woo,
+  Antares, caçadores, monstros
+tags:
+  - Solo Leveling
+  - personagens poderosos
+  - anime
+  - light novel
+  - Sung Jin-Woo
+  - Antares
+  - caçadores
+  - monstros
+data: '2025-04-02T01:39:12.787Z'
+author: Luana Souza
 ---
 
 ## Introdução

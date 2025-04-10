@@ -16,6 +16,7 @@ tags:
   - glossário nerd
   - fandom
   - linguagem geek
+author: Ana Luiza
 ---
 
 ## 📚 Dicionário Geek: 50 Termos que Todo Nerd Precisa Conhecer

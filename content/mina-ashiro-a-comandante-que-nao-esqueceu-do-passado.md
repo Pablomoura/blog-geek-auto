@@ -1,14 +1,29 @@
 ---
-title: "Mina Ashiro: A Comandante que Não Esqueceu do Passado"
-slug: "mina-ashiro-a-comandante-que-nao-esqueceu-do-passado"
-resumo: "Explore a trajetória inspiradora de Mina Ashiro, uma comandante militar que utiliza sua história e herança para liderar com compaixão e sabedoria. Este artigo detalha como o passado de Ashiro moldou suas táticas e filosofia de liderança."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Mina Ashiro, liderança militar, estratégia, história militar, comando, legado, educação militar, táticas"
-tags: ["Mina Ashiro", "liderança militar", "estratégia", "história militar", "comando", "legado", "educação militar", "táticas"]
-data: "2025-04-04T22:09:32.488Z"
+title: 'Mina Ashiro: A Comandante que Não Esqueceu do Passado'
+slug: mina-ashiro-a-comandante-que-nao-esqueceu-do-passado
+resumo: >-
+  Explore a trajetória inspiradora de Mina Ashiro, uma comandante militar que
+  utiliza sua história e herança para liderar com compaixão e sabedoria. Este
+  artigo detalha como o passado de Ashiro moldou suas táticas e filosofia de
+  liderança.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Mina Ashiro, liderança militar, estratégia, história militar, comando, legado,
+  educação militar, táticas
+tags:
+  - Mina Ashiro
+  - liderança militar
+  - estratégia
+  - história militar
+  - comando
+  - legado
+  - educação militar
+  - táticas
+data: '2025-04-04T22:09:32.488Z'
+author: Luana Souza
 ---
 
 ## A Infância e o Legado Familiar de Mina Ashiro

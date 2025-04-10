@@ -1,13 +1,26 @@
 ---
-title: "Ainda Estou Aqui | Onde assistir ao filme brasileiro vencedor do Oscar online"
-slug: "ainda-estou-aqui-onde-assistir-ao-filme-brasileiro-vencedor-do-oscar-online"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/8odnXV72ADmhM3TrTc7WTk7sVhQ=/987x0/smart/uploads/conteudo/fotos/aindaestouaqui_H0CHK0B.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Hs9LFEv1msmCqy1jGBGY-q_mda8=/480x360/smart/extras/conteudos/aindaestouaqui_trUtlWv.jpg"
-tags: ["Ainda Estou Aqui", "filme brasileiro", "Oscar", "Globoplay", "Walter Salles", "Fernanda Torres", "cinema nacional", "streaming online"]
-keywords: "Ainda Estou Aqui, filme brasileiro, Oscar, Globoplay, Walter Salles, Fernanda Torres, cinema nacional, streaming online"
-data: "2025-04-06T17:08:16.891Z"
+title: Ainda Estou Aqui | Onde assistir ao filme brasileiro vencedor do Oscar online
+slug: ainda-estou-aqui-onde-assistir-ao-filme-brasileiro-vencedor-do-oscar-online
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/8odnXV72ADmhM3TrTc7WTk7sVhQ=/987x0/smart/uploads/conteudo/fotos/aindaestouaqui_H0CHK0B.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Hs9LFEv1msmCqy1jGBGY-q_mda8=/480x360/smart/extras/conteudos/aindaestouaqui_trUtlWv.jpg
+tags:
+  - Ainda Estou Aqui
+  - filme brasileiro
+  - Oscar
+  - Globoplay
+  - Walter Salles
+  - Fernanda Torres
+  - cinema nacional
+  - streaming online
+keywords: >-
+  Ainda Estou Aqui, filme brasileiro, Oscar, Globoplay, Walter Salles, Fernanda
+  Torres, cinema nacional, streaming online
+data: '2025-04-06T17:08:16.891Z'
+author: Luana Souza
 ---
 
 O filme brasileiro 'Ainda Estou Aqui', dirigido por Walter Salles e estrelado por Fernanda Torres, marcou sua estreia no streaming brasileiro neste domingo (6). Após uma jornada de sucesso nos cinemas e um histórico Oscar, o filme está agora disponível no catálogo do Globoplay. O encerramento das exibições nas salas de cinema ocorreu na última quinta-feira (3).

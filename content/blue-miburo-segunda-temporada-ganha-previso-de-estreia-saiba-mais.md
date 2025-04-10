@@ -17,6 +17,7 @@ tags:
   - japão
   - arco do assassinato de serizawa
   - teaser
+author: Luana Souza
 ---
 
 A equipe de produção de Blue Miburo revelou, no último sábado (29), que a aguardada segunda temporada do anime estreará no Japão no fim de 2023. O anúncio foi acompanhado por um teaser que destacou a chegada dos novos episódios no 'próximo inverno', período correspondente ao segundo semestre no Japão.

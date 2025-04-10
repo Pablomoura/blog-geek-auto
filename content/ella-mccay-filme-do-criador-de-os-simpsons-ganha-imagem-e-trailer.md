@@ -1,13 +1,26 @@
 ---
-title: "Ella McCay | Filme do criador de Os Simpsons ganha imagem e trailer"
-slug: "ella-mccay-filme-do-criador-de-os-simpsons-ganha-imagem-e-trailer"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/hzEF8XDlPeOtthr6holky8wilMI=/987x0/smart/uploads/conteudo/fotos/image_14_Pd4Gylr.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/360iH6m3K6VHrtUlvWFlLn2xE8w=/480x360/smart/extras/conteudos/image_14.png"
-tags: ["Ella McCay", "James L. Brooks", "Os Simpsons", "CinemaCon 2025", "comédia dramática", "Emma Mackey", "Woody Harrelson", "filme político"]
-keywords: "Ella McCay, James L. Brooks, Os Simpsons, CinemaCon 2025, comédia dramática, Emma Mackey, Woody Harrelson, filme político"
-data: "2025-04-03T23:13:43.202Z"
+title: Ella McCay | Filme do criador de Os Simpsons ganha imagem e trailer
+slug: ella-mccay-filme-do-criador-de-os-simpsons-ganha-imagem-e-trailer
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/hzEF8XDlPeOtthr6holky8wilMI=/987x0/smart/uploads/conteudo/fotos/image_14_Pd4Gylr.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/360iH6m3K6VHrtUlvWFlLn2xE8w=/480x360/smart/extras/conteudos/image_14.png
+tags:
+  - Ella McCay
+  - James L. Brooks
+  - Os Simpsons
+  - CinemaCon 2025
+  - comédia dramática
+  - Emma Mackey
+  - Woody Harrelson
+  - filme político
+keywords: >-
+  Ella McCay, James L. Brooks, Os Simpsons, CinemaCon 2025, comédia dramática,
+  Emma Mackey, Woody Harrelson, filme político
+data: '2025-04-03T23:13:43.202Z'
+author: Pablo Moura
 ---
 
 No recente evento CinemaCon 2025, uma presença notável foi a de Jamie Lee Curtis e Emma Mackey, que apresentaram novidades sobre o filme 'Ella McCay', dirigido por James L. Brooks, conhecido como um dos criadores de 'Os Simpsons'. Durante o evento, foi exibido um trailer inovador, juntamente com uma imagem exclusiva do filme.

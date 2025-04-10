@@ -1,14 +1,32 @@
 ---
-title: "Vale a Pena Colecionar o Mangá de Kaiju No. 8? Uma Análise Detalhada da Edição Brasileira"
-slug: "vale-a-pena-colecionar-o-manga-de-kaiju-no-8-uma-analise-detalhada-da-edicao-brasileira"
-resumo: "Descubra se vale a pena investir na coleção do mangá Kaiju No. 8, uma série em crescimento de popularidade. Este artigo oferece uma análise profunda da edição brasileira, considerando aspectos como qualidade de impressão, tradução, custo-benefício e potencial de valorização."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "mangá, Kaiju No. 8, colecionadores, edição brasileira, análise, qualidade de impressão, tradução, valorização"
-tags: ["mangá", "Kaiju No. 8", "colecionadores", "edição brasileira", "análise", "qualidade de impressão", "tradução", "valorização"]
-data: "2025-04-03T22:12:13.603Z"
+title: >-
+  Vale a Pena Colecionar o Mangá de Kaiju No. 8? Uma Análise Detalhada da Edição
+  Brasileira
+slug: >-
+  vale-a-pena-colecionar-o-manga-de-kaiju-no-8-uma-analise-detalhada-da-edicao-brasileira
+resumo: >-
+  Descubra se vale a pena investir na coleção do mangá Kaiju No. 8, uma série em
+  crescimento de popularidade. Este artigo oferece uma análise profunda da
+  edição brasileira, considerando aspectos como qualidade de impressão,
+  tradução, custo-benefício e potencial de valorização.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  mangá, Kaiju No. 8, colecionadores, edição brasileira, análise, qualidade de
+  impressão, tradução, valorização
+tags:
+  - mangá
+  - Kaiju No. 8
+  - colecionadores
+  - edição brasileira
+  - análise
+  - qualidade de impressão
+  - tradução
+  - valorização
+data: '2025-04-03T22:12:13.603Z'
+author: Pablo Moura
 ---
 
 ## Introdução

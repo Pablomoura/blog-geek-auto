@@ -15,6 +15,7 @@ tags:
   - cinemacon
   - filme emocionante
   - bethlehem
+author: Luana Souza
 ---
 
 Foi divulgado hoje, durante a CinemaCon, o primeiro trailer do filme 'Zero A.D.', anteriormente conhecido como 'Bethlehem'. O vídeo oferece um vislumbre da emocionante narrativa em que Maria, interpretada por uma estrela em ascensão, foge com seu filho recém-nascido na tentativa de salvá-lo do perigoso rei Herodes, que busca eliminar o menino. Este enredo é uma adaptação moderna do episódio bíblico conhecido como o massacre dos inocentes, atribuído a Herodes.

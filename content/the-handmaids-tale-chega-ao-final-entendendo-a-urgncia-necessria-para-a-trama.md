@@ -1,13 +1,27 @@
 ---
-title: "The Handmaid's Tale chega ao final entendendo a urgência necessária para a trama"
-slug: "the-handmaids-tale-chega-ao-final-entendendo-a-urgncia-necessria-para-a-trama"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/hyVDq2bQlnU?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/LPQW0Z36E8oXDoxUby7XvUGEyPw=/480x360/smart/extras/conteudos/handmaids-tale-capa.jpg"
-tags: ["The Handmaid's Tale", "Margaret Atwood", "série final", "resistência feminina", "LGBTQIA+", "distopia", "revolução", "The Testaments"]
-keywords: "The Handmaid's Tale, Margaret Atwood, série final, resistência feminina, LGBTQIA+, distopia, revolução, The Testaments"
-data: "2025-04-08T17:10:13.714Z"
+title: >-
+  The Handmaid's Tale chega ao final entendendo a urgência necessária para a
+  trama
+slug: the-handmaids-tale-chega-ao-final-entendendo-a-urgncia-necessria-para-a-trama
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/hyVDq2bQlnU?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/LPQW0Z36E8oXDoxUby7XvUGEyPw=/480x360/smart/extras/conteudos/handmaids-tale-capa.jpg
+tags:
+  - The Handmaid's Tale
+  - Margaret Atwood
+  - série final
+  - resistência feminina
+  - LGBTQIA+
+  - distopia
+  - revolução
+  - The Testaments
+keywords: >-
+  The Handmaid's Tale, Margaret Atwood, série final, resistência feminina,
+  LGBTQIA+, distopia, revolução, The Testaments
+data: '2025-04-08T17:10:13.714Z'
+author: Luana Souza
 ---
 
 The Handmaid’s Tale, desde sua estreia durante o início da presidência de Donald Trump nos Estados Unidos, capturou a atenção global por sua narrativa perturbadora que ecoava realidades políticas e sociais contemporâneas. A série, baseada no livro de Margaret Atwood de 1985, tornou-se um símbolo de resistência contra as opressões enfrentadas pelas mulheres e pela comunidade LGBTQIA+, refletidas através da distópica Gilead. Quase oito anos após seu lançamento, a saga de June Osborne chega ao seu clímax na sexta e última temporada. 

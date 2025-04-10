@@ -1,12 +1,17 @@
 ---
-title: "To Be Hero X: entenda a história, o universo e por que esse anime está chamando tanta atenção"
-slug: "to-be-hero-x-explicacao-historia-universo"
-categoria: "MANGÁS E ANIMES"
-resumo: "O anime To Be Hero X estreou na Crunchyroll e já está dando o que falar. Neste guia, explicamos a história, o universo e os temas centrais da série — ideal para quem quer entender tudo sem esperar episódio por episódio."
-data: "2025-04-06T23:59:00.000Z"
-thumb: "/images/Thumb-to-be-hero-x.jpg"
-midia: "/images/to-be-hero-x.jpg"
-tipoMidia: "imagem"
+title: >-
+  To Be Hero X: entenda a história, o universo e por que esse anime está
+  chamando tanta atenção
+slug: to-be-hero-x-explicacao-historia-universo
+categoria: MANGÁS E ANIMES
+resumo: >-
+  O anime To Be Hero X estreou na Crunchyroll e já está dando o que falar. Neste
+  guia, explicamos a história, o universo e os temas centrais da série — ideal
+  para quem quer entender tudo sem esperar episódio por episódio.
+data: '2025-04-06T23:59:00.000Z'
+thumb: /images/Thumb-to-be-hero-x.jpg
+midia: /images/to-be-hero-x.jpg
+tipoMidia: imagem
 tags:
   - to be hero x
   - to be hero
@@ -14,7 +19,10 @@ tags:
   - anime 2025
   - animes da crunchryoll
   - crítica social anime
-keywords: "to be hero x explicado, história do anime to be hero x, onde assistir to be hero x, universo to be hero, to be hero x personagens"
+keywords: >-
+  to be hero x explicado, história do anime to be hero x, onde assistir to be
+  hero x, universo to be hero, to be hero x personagens
+author: Pablo Moura
 ---
 ## To Be Hero X: o anime que mistura crítica social, humor nonsense e heróis mascarados
 

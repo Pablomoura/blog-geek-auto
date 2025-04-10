@@ -1,12 +1,23 @@
 ---
-title: "Nintendo Switch 2 | Preços dos Jogos Anunciados"
-slug: "nintendo-switch-2-verses-de-jogos-para-o-console-vo-custar-us-80"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/T_sjJbmJeutTiS2X0PzyoA47Hfk=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-02T193207.126.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/K7c2LpBsprkrkC524Xke7FK5lc8=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-02T193207.126.png"
-tags: ["Nintendo Switch 2", "preços de jogos", "Mario Kart World", "Donkey Kong Bananza", "Zelda Breath of the Wild", "lançamento de console", "jogos 4K", "upgrades gratuitos"]
-data: "2025-04-02T22:47:48.197Z"
+title: Nintendo Switch 2 | Preços dos Jogos Anunciados
+slug: nintendo-switch-2-verses-de-jogos-para-o-console-vo-custar-us-80
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/T_sjJbmJeutTiS2X0PzyoA47Hfk=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-02T193207.126.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/K7c2LpBsprkrkC524Xke7FK5lc8=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-02T193207.126.png
+tags:
+  - Nintendo Switch 2
+  - preços de jogos
+  - Mario Kart World
+  - Donkey Kong Bananza
+  - Zelda Breath of the Wild
+  - lançamento de console
+  - jogos 4K
+  - upgrades gratuitos
+data: '2025-04-02T22:47:48.197Z'
+author: Ana Luiza
 ---
 
 No recente evento Nintendo Direct, que se focou no lançamento do Nintendo Switch 2, a Nintendo revelou os preços dos jogos para o novo console. Mario Kart World será comercializado por US$ 80 na versão física. Por outro lado, Donkey Kong Bananza terá o preço de US$ 70 na versão física e US$ 65 na digital, sem explicações da empresa sobre a diferença de preços. Em conversão direta, os valores oscilam entre R$ 367,84 e R$ 390,14 conforme a cotação atual do dólar.

@@ -20,6 +20,7 @@ tags:
   - cinemacon 2025
   - universal studios
   - pôster
+author: Pablo Moura
 ---
 
 Durante a CinemaCon 2025, a Universal Studios apresentará uma das atrações mais esperadas: o filme live-action de Como Treinar o Seu Dragão, que será exibido na íntegra antes do painel do estúdio em 2 de abril. Um novo pôster foi revelado, destacando o icônico dragão Banguela em sua versão live-action.

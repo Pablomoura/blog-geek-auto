@@ -1,13 +1,26 @@
 ---
-title: "Quarteto Fantástico: Primeiros Passos ganha primeiro pôster brasileiro"
-slug: "quarteto-fantstico-primeiros-passos-ganha-primeiro-pster-brasileiro"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/mNOcLX8b37OZlYmAaQnLXvzmQHI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T120634.823.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/VLwJcyquBEamRja57EXfWqMNJio=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T120616.220.png"
-tags: ["Quarteto Fantástico", "MCU", "Marvel Studios", "filme de super-heróis", "estreia no Brasil", "Pedro Pascal", "Galactus", "Fase 6 do MCU"]
-keywords: "Quarteto Fantástico, MCU, Marvel Studios, filme de super-heróis, estreia no Brasil, Pedro Pascal, Galactus, Fase 6 do MCU"
-data: "2025-04-04T15:10:26.420Z"
+title: 'Quarteto Fantástico: Primeiros Passos ganha primeiro pôster brasileiro'
+slug: quarteto-fantstico-primeiros-passos-ganha-primeiro-pster-brasileiro
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/mNOcLX8b37OZlYmAaQnLXvzmQHI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-04T120634.823.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/VLwJcyquBEamRja57EXfWqMNJio=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-04T120616.220.png
+tags:
+  - Quarteto Fantástico
+  - MCU
+  - Marvel Studios
+  - filme de super-heróis
+  - estreia no Brasil
+  - Pedro Pascal
+  - Galactus
+  - Fase 6 do MCU
+keywords: >-
+  Quarteto Fantástico, MCU, Marvel Studios, filme de super-heróis, estreia no
+  Brasil, Pedro Pascal, Galactus, Fase 6 do MCU
+data: '2025-04-04T15:10:26.420Z'
+author: Ana Luiza
 ---
 
 O aguardado filme 'Quarteto Fantástico: Primeiros Passos', que marca a reintrodução da icônica família de heróis no MCU, acaba de divulgar seu primeiro pôster voltado ao público brasileiro. Este é o primeiro filme do Quarteto Fantástico produzido pelo estúdio, que é frequentemente referido como 'a primeira família da Marvel' devido ao seu papel crucial no sucesso inicial dos quadrinhos.

@@ -1,14 +1,29 @@
 ---
-title: "O Que é Isekai? Uma Jornada ao Gênero Mais Popular dos Animes"
-slug: "o-que-e-isekai-uma-jornada-ao-genero-mais-popular-dos-animes"
-resumo: "Descubra o que é isekai, um gênero fascinante de anime que transporta personagens para mundos fantásticos. Explore as características, origens e exemplos populares que definem isekai e por que ele captura a imaginação de tantos fãs ao redor do mundo."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/o-que-e-um-anime-isekai.jpg"
-tipoMidia: "imagem"
-thumb: "/images/Thumb-o-que-e-isekai.jpg"
-keywords: "anime, isekai, mundo paralelo, crescimento pessoal, RPG, escapismo, magia, cultura japonesa"
-tags: ["anime", "isekai", "mundo paralelo", "crescimento pessoal", "RPG", "escapismo", "magia", "cultura japonesa"]
-data: "2025-04-03T17:26:28.860Z"
+title: O Que é Isekai? Uma Jornada ao Gênero Mais Popular dos Animes
+slug: o-que-e-isekai-uma-jornada-ao-genero-mais-popular-dos-animes
+resumo: >-
+  Descubra o que é isekai, um gênero fascinante de anime que transporta
+  personagens para mundos fantásticos. Explore as características, origens e
+  exemplos populares que definem isekai e por que ele captura a imaginação de
+  tantos fãs ao redor do mundo.
+categoria: MANGÁS E ANIMES
+midia: /images/o-que-e-um-anime-isekai.jpg
+tipoMidia: imagem
+thumb: /images/Thumb-o-que-e-isekai.jpg
+keywords: >-
+  anime, isekai, mundo paralelo, crescimento pessoal, RPG, escapismo, magia,
+  cultura japonesa
+tags:
+  - anime
+  - isekai
+  - mundo paralelo
+  - crescimento pessoal
+  - RPG
+  - escapismo
+  - magia
+  - cultura japonesa
+data: '2025-04-03T17:26:28.860Z'
+author: Pablo Moura
 ---
 
 ## Introdução ao Isekai

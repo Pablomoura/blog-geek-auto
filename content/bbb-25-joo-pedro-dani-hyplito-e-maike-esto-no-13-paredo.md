@@ -1,13 +1,26 @@
 ---
-title: "BBB 25 | João Pedro, Dani Hypólito e Maike enfrentam o 13º Paredão"
-slug: "bbb-25-joo-pedro-dani-hyplito-e-maike-esto-no-13-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/cFg3sZSs7HE7OcIZXJS4-fcpqrE=/987x0/smart/uploads/conteudo/fotos/bbb25-joao-pedro-dani-hypolito-maike-paredao_1.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/LmzpQNICe2hiPREEqnnY0BgvxcM=/480x360/smart/extras/conteudos/bbb25-dani-hypolito-13-paredao-peq.jpg"
-tags: ["BBB 25", "Paredão", "João Pedro", "Dani Hypólito", "Maike", "TV Globo", "votação", "reality show"]
-keywords: "BBB 25, Paredão, João Pedro, Dani Hypólito, Maike, TV Globo, votação, reality show"
-data: "2025-04-05T02:58:51.776Z"
+title: 'BBB 25 | João Pedro, Dani Hypólito e Maike enfrentam o 13º Paredão'
+slug: bbb-25-joo-pedro-dani-hyplito-e-maike-esto-no-13-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/cFg3sZSs7HE7OcIZXJS4-fcpqrE=/987x0/smart/uploads/conteudo/fotos/bbb25-joao-pedro-dani-hypolito-maike-paredao_1.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/LmzpQNICe2hiPREEqnnY0BgvxcM=/480x360/smart/extras/conteudos/bbb25-dani-hypolito-13-paredao-peq.jpg
+tags:
+  - BBB 25
+  - Paredão
+  - João Pedro
+  - Dani Hypólito
+  - Maike
+  - TV Globo
+  - votação
+  - reality show
+keywords: >-
+  BBB 25, Paredão, João Pedro, Dani Hypólito, Maike, TV Globo, votação, reality
+  show
+data: '2025-04-05T02:58:51.776Z'
+author: Pablo Moura
 ---
 
 O 13º Paredão do Big Brother Brasil 25 já está definido, marcando mais um momento crítico na competição. Após intensas atividades no modo turbo, João Pedro, Daniele Hypólito e Maike foram os indicados para a berlinda. A decisão de quem deixará o programa será no próximo domingo, dia 06. 

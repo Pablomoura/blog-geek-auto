@@ -15,6 +15,7 @@ tags:
   - gerard mcmurray
   - hollywood
   - cinema
+author: Pablo Moura
 ---
 
 Jonathan Majors foi confirmado como protagonista do novo filme de ação dirigido por Gerard McMurray, intitulado 'True Threat'. O ator, que também foi recentemente escalado para o filme 'Merciless' de Martin Villeneuve, continua a expandir seu portfólio em Hollywood.

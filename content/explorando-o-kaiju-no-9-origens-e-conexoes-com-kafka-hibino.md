@@ -1,14 +1,29 @@
 ---
-title: "Explorando o Kaiju Nº 9: Origens e Conexões com Kafka Hibino"
-slug: "explorando-o-kaiju-no-9-origens-e-conexoes-com-kafka-hibino"
-resumo: "Este artigo mergulha no misterioso Kaiju Nº 9 do universo de 'Kaiju No. 8', explorando suas origens, habilidades e a intrigante conexão com o protagonista Kafka Hibino. Descubra os segredos por trás deste antagonista formidável e sua influência na trama."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/kaijuno8.webp"
-tipoMidia: "imagem"
-thumb: "/images/kaijuno8.jpg"
-keywords: "Kaiju No. 8, Kaiju Nº 9, Kafka Hibino, manga, antagonista, Kaijus, mimetismo, regeneração"
-tags: ["Kaiju No. 8", "Kaiju Nº 9", "Kafka Hibino", "manga", "antagonista", "Kaijus", "mimetismo", "regeneração"]
-data: "2025-04-06T22:19:51.790Z"
+title: 'Explorando o Kaiju Nº 9: Origens e Conexões com Kafka Hibino'
+slug: explorando-o-kaiju-no-9-origens-e-conexoes-com-kafka-hibino
+resumo: >-
+  Este artigo mergulha no misterioso Kaiju Nº 9 do universo de 'Kaiju No. 8',
+  explorando suas origens, habilidades e a intrigante conexão com o protagonista
+  Kafka Hibino. Descubra os segredos por trás deste antagonista formidável e sua
+  influência na trama.
+categoria: MANGÁS E ANIMES
+midia: /images/kaijuno8.webp
+tipoMidia: imagem
+thumb: /images/kaijuno8.jpg
+keywords: >-
+  Kaiju No. 8, Kaiju Nº 9, Kafka Hibino, manga, antagonista, Kaijus, mimetismo,
+  regeneração
+tags:
+  - Kaiju No. 8
+  - Kaiju Nº 9
+  - Kafka Hibino
+  - manga
+  - antagonista
+  - Kaijus
+  - mimetismo
+  - regeneração
+data: '2025-04-06T22:19:51.790Z'
+author: Luana Souza
 ---
 
 ## Introdução ao Kaiju Nº 9

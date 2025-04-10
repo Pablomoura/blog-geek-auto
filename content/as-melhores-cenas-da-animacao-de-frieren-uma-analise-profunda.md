@@ -1,14 +1,29 @@
 ---
-title: "As Melhores Cenas da Animação de Frieren: Uma Análise Profunda"
-slug: "as-melhores-cenas-da-animacao-de-frieren-uma-analise-profunda"
-resumo: "Explore as cenas mais icônicas e emocionantes da animação de Frieren, detalhando os elementos que as tornam memoráveis. Desde a arte visual até a narrativa envolvente, descubra o que faz essas cenas se destacarem no mundo das animações."
-categoria: "MANGÁS E ANIMES"
-midia: "/images/Frieren.webp"
-tipoMidia: "imagem"
-thumb: "/images/Frieren.jpg"
-keywords: "Frieren, Animação, Cenas Memoráveis, Narrativa, Desenvolvimento de Personagem, Estilo Visual, Análise de Anime, Crítica de Animação"
-tags: ["Frieren", "Animação", "Cenas Memoráveis", "Narrativa", "Desenvolvimento de Personagem", "Estilo Visual", "Análise de Anime", "Crítica de Animação"]
-data: "2025-04-01T21:39:37.011Z"
+title: 'As Melhores Cenas da Animação de Frieren: Uma Análise Profunda'
+slug: as-melhores-cenas-da-animacao-de-frieren-uma-analise-profunda
+resumo: >-
+  Explore as cenas mais icônicas e emocionantes da animação de Frieren,
+  detalhando os elementos que as tornam memoráveis. Desde a arte visual até a
+  narrativa envolvente, descubra o que faz essas cenas se destacarem no mundo
+  das animações.
+categoria: MANGÁS E ANIMES
+midia: /images/Frieren.webp
+tipoMidia: imagem
+thumb: /images/Frieren.jpg
+keywords: >-
+  Frieren, Animação, Cenas Memoráveis, Narrativa, Desenvolvimento de Personagem,
+  Estilo Visual, Análise de Anime, Crítica de Animação
+tags:
+  - Frieren
+  - Animação
+  - Cenas Memoráveis
+  - Narrativa
+  - Desenvolvimento de Personagem
+  - Estilo Visual
+  - Análise de Anime
+  - Crítica de Animação
+data: '2025-04-01T21:39:37.011Z'
+author: Pablo Moura
 ---
 
 ## Introdução

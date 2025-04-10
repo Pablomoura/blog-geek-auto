@@ -18,6 +18,7 @@ tags:
   - críticas
   - retorno
   - laconve
+author: Luana Souza
 ---
 
 Durante sua participação na convenção LaConve no México, Finn Jones, conhecido por seu papel como Punho de Ferro na série da Netflix, manifestou seu interesse em voltar a interpretar o personagem. "Estou consciente das críticas que recebi", disse Jones. "Peço apenas uma chance para mostrar que podem estar errados. Estou pronto e ansioso para essa oportunidade."

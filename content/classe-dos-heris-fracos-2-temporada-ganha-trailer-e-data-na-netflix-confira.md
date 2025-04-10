@@ -1,13 +1,27 @@
 ---
-title: "Classe dos Heróis Fracos | 2ª temporada ganha trailer e data na Netflix; confira"
-slug: "classe-dos-heris-fracos-2-temporada-ganha-trailer-e-data-na-netflix-confira"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/G8Uk-8J2ZQo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/kBHYpDXr3r5aF37oCTvS_Brk0ks=/480x360/smart/extras/conteudos/classe-dos-herois-fracos-na-netflix.jpg"
-tags: ["Netflix", "K-drama", "trailer", "segunda temporada", "drama adolescente", "ação escolar", "bullies", "amizade"]
-keywords: "Netflix, K-drama, trailer, segunda temporada, drama adolescente, ação escolar, bullies, amizade"
-data: "2025-04-08T19:09:32.520Z"
+title: >-
+  Classe dos Heróis Fracos | 2ª temporada ganha trailer e data na Netflix;
+  confira
+slug: classe-dos-heris-fracos-2-temporada-ganha-trailer-e-data-na-netflix-confira
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/G8Uk-8J2ZQo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/kBHYpDXr3r5aF37oCTvS_Brk0ks=/480x360/smart/extras/conteudos/classe-dos-herois-fracos-na-netflix.jpg
+tags:
+  - Netflix
+  - K-drama
+  - trailer
+  - segunda temporada
+  - drama adolescente
+  - ação escolar
+  - bullies
+  - amizade
+keywords: >-
+  Netflix, K-drama, trailer, segunda temporada, drama adolescente, ação escolar,
+  bullies, amizade
+data: '2025-04-08T19:09:32.520Z'
+author: Luana Souza
 ---
 
 A aguardada segunda temporada do k-drama 'Classe dos Heróis Fracos' teve seu trailer revelado, trazendo novas emoções e confirmando sua data de estreia na Netflix. O vídeo já está disponível e eleva as expectativas dos fãs, prometendo mais drama adolescente e cenas de ação envolventes.
