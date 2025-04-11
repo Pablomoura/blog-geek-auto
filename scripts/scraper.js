@@ -336,7 +336,9 @@ async function buscarNoticiasOmelete() {
     novaNoticia.texto = inserirImagensNoTexto(reescrito.texto, imagensInternas);
     novaNoticia.reescrito = true;
 
-    const tags = await gerarTagsComIA(novaNoticia.titulo, novaNoticia.texto);
+    const tags = reescrito.keywords
+      ? reescrito.keywords.split(",").map((t) => t.trim()).filter(Boolean)
+      : [];
 
     const mdPath = path.join(contentDir, `${slug}.md`);
     // Distribui autores automaticamente
@@ -350,7 +352,7 @@ midia: "${novaNoticia.midia}"
 tipoMidia: "${novaNoticia.tipoMidia}"
 thumb: "${novaNoticia.thumb || ""}"
 tags: ["${tags.join('", "')}"]
-keywords: "${tags.join(', ')}"
+keywords: "${keywords}"
 author: "${autorEscolhido}"
 data: "${new Date().toISOString()}"
 ---\n\n`;
