@@ -338,8 +338,10 @@ async function buscarNoticiasOmelete() {
     novaNoticia.reescrito = true;
 
     const tags = reescrito.keywords
-      ? reescrito.keywords.split(",").map((t) => t.trim()).filter(Boolean)
-      : [];
+  ? reescrito.keywords.split(",").map((t) => t.trim()).filter(Boolean)
+  : [];
+
+    const keywords = tags.join(", ");
 
     const mdPath = path.join(contentDir, `${slug}.md`);
     // Distribui autores automaticamente
