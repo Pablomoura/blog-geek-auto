@@ -1,18 +1,6 @@
-export const config = {
-  compress: true,
-};
-module.exports = {
-  async rewrites() {
-    return [
-      {
-        source: "/sitemap.xml",
-        destination: "/api/sitemap",
-      },
-    ];
-  },
-};
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  compress: true,
   images: {
     domains: [
       "omelete.uol.com.br",
@@ -24,6 +12,14 @@ const nextConfig = {
   serverExternalPackages: ["puppeteer-extra", "puppeteer-extra-plugin-stealth"],
   experimental: {
     serverActions: true,
+  },
+  async rewrites() {
+    return [
+      {
+        source: "/sitemap.xml",
+        destination: "/api/sitemap",
+      },
+    ];
   },
   async headers() {
     return [
