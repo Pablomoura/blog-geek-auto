@@ -153,16 +153,15 @@ async function extrairConteudoNoticia(url) {
     await page.setUserAgent("Mozilla/5.0");
     await page.goto(url, { waitUntil: "networkidle2" });
     await autoScroll(page);
-    await page.waitForSelector("img", { timeout: 10000 });
+    await page.waitForSelector("p", { timeout: 10000 });
 
+    // 🎯 Extrair imagens internas
     const imagensInternas = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("div.media__wrapper__image img"))
         .map((img) => {
           let src = img.getAttribute("data-src") || img.getAttribute("src") || "";
-
           if (src.startsWith("//")) src = "https:" + src;
           if (src && !src.startsWith("http")) src = "https:" + src;
-
           return src;
         })
         .filter((src) =>
@@ -170,43 +169,41 @@ async function extrairConteudoNoticia(url) {
           !src.includes("loading.svg") &&
           !src.includes("data:image") &&
           !src.includes("pixel.mathtag.com") &&
-          !src.includes("analytics.yahoo.com") &&
           !src.includes("omelete_logo.svg") &&
-          !src.includes("icons/search") &&
-          !src.includes("navdmp.com") &&
           /\.(jpg|jpeg|png|webp)$/i.test(src)
         );
     });
 
+    // ✅ NOVO: extrair tweets a partir dos iframes
     const tweets = await page.evaluate(() => {
-      return Array.from(document.querySelectorAll("iframe[data-tweet-id]"))
+      return Array.from(document.querySelectorAll("div.twitter-tweet iframe"))
         .map((iframe) => {
-          const tweetId = iframe.getAttribute("data-tweet-id");
-          return tweetId ? `<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/${tweetId}"></a></blockquote>` : null;
+          const tweetId = iframe.getAttribute("data-tweet-id") || iframe.src.match(/id=(\\d{10,25})/)?.[1];
+          return tweetId
+            ? `<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/${tweetId}"></a></blockquote>`
+            : null;
         })
         .filter(Boolean);
-    });
+    });    
 
+    // 🎯 Extrair parágrafos de texto
     const texto = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("p"))
-      .map((p) => p.innerText.trim())
-      .filter((t) =>
-        t.length > 50 &&
-        !/Omelete|Política|Privacidade|Assine|comentários/i.test(t)
-      )
-        .join("\n");
+        .map((p) => p.innerText.trim())
+        .filter((t) =>
+          t.length > 50 &&
+          !/Omelete|Política|Privacidade|Assine|comentários/i.test(t)
+        )
+        .join("\\n");
     });
 
+    // 🎯 Extrair mídia principal (vídeo ou imagem)
     const midia = await page.evaluate(() => {
       const video = document.querySelector("iframe[src*='youtube']")?.getAttribute("src");
       let imagem =
         document.querySelector(".article__cover__image")?.getAttribute("src") ||
         document.querySelector(".article__cover__image")?.getAttribute("data-lazy-src-mob");
-
-      if (imagem && !imagem.startsWith("http")) {
-        imagem = `https:${imagem}`;
-      }
-
+      if (imagem && !imagem.startsWith("http")) imagem = `https:${imagem}`;
       return video || imagem || null;
     });
 
@@ -214,6 +211,7 @@ async function extrairConteudoNoticia(url) {
 
     await browser.close();
     return { texto, midia, tipoMidia, imagensInternas, tweets };
+
   } catch (err) {
     await browser.close();
     console.error("❌ Erro ao extrair notícia:", err.message);
@@ -333,7 +331,10 @@ async function buscarNoticiasOmelete() {
 
     novaNoticia.titulo = reescrito.titulo;
     novaNoticia.resumo = reescrito.resumo;
-    novaNoticia.texto = inserirImagensNoTexto(reescrito.texto, imagensInternas);
+    novaNoticia.texto = inserirTweetsNoTexto(
+      inserirImagensNoTexto(reescrito.texto, imagensInternas),
+      tweets
+    );    
     novaNoticia.reescrito = true;
 
     const tags = reescrito.keywords
