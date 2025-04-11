@@ -1,7 +1,16 @@
 export const config = {
   compress: true,
 };
-
+module.exports = {
+  async rewrites() {
+    return [
+      {
+        source: "/sitemap.xml",
+        destination: "/api/sitemap",
+      },
+    ];
+  },
+};
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {

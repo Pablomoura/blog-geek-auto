@@ -43,6 +43,7 @@ interface Post {
   resumo: string;
   story?: boolean; 
   tags?: string[];
+  autor: string;
 }
 
 export const metadata = {
@@ -87,7 +88,8 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
         tempoLeitura,
         resumo: resumoMap[data.slug] || "",
         story: data.story === true,
-        tags: data.tags || [], // ADICIONE ESTA LINHA
+        tags: data.tags || [], 
+        autor: data.author || "Equipe GeekNews",
       });      
     } else {
       console.warn(`Post ignorado: ${nomeArquivo} está com campos faltando no frontmatter.`);

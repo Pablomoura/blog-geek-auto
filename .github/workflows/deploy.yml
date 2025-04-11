@@ -35,3 +35,15 @@ jobs:
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
           working-directory: .
           vercel-args: '--prod'
+
+      - name: 📣 Ping buscadores com sitemap.xml
+        run: |
+          echo "🔁 Pingando Google..."
+          curl https://www.google.com/ping?sitemap=https://www.geeknews.com.br/sitemap.xml
+
+          echo "🔁 Pingando Bing..."
+          curl https://www.bing.com/ping?sitemap=https://www.geeknews.com.br/sitemap.xml
+
+          echo "🔁 Pingando Yandex..."
+          curl https://yandex.com/indexnow?url=https://www.geeknews.com.br/sitemap.xml
+  
