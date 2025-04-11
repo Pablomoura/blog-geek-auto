@@ -1,27 +1,20 @@
 ---
-title: BBB 25 | Confira a Lista de Participantes Eliminados Até Agora
-slug: bbb-25-quem-j-foi-eliminado-da-edio
-categoria: SÉRIES E TV
-midia: >-
-  https://cdn.ome.lt/SgKlxsai5j7RiQi1FvVscyFXNCg=/987x0/smart/uploads/conteudo/fotos/bbb25-edilberto-raissa-eliminados_wZsCQ54.jpg
-tipoMidia: imagem
-thumb: >-
-  https://cdn.ome.lt/dLry8p31Z0-eocvK0kbH8bTBweM=/480x360/smart/extras/conteudos/bbb25-edilberto-raissa-eliminados-peq_5jnF5tN.jpg
-data: '2025-03-26T11:27:49.641Z'
-tags:
-  - bbb 25
-  - participantes eliminados
-  - paredão
-  - reality show
-  - big brother brasil
-  - especial-BBB 25
-author: Pablo Moura
+title: "BBB 25 | Confira a lista de eliminados até agora"
+slug: "bbb-25-quem-j-foi-eliminado-da-edio"
+categoria: "SÉRIES E TV"
+midia: "https://cdn.ome.lt/SgKlxsai5j7RiQi1FvVscyFXNCg=/987x0/smart/uploads/conteudo/fotos/bbb25-edilberto-raissa-eliminados_wZsCQ54.jpg"
+tipoMidia: "imagem"
+thumb: "https://cdn.ome.lt/dLry8p31Z0-eocvK0kbH8bTBweM=/480x360/smart/extras/conteudos/bbb25-edilberto-raissa-eliminados-peq_5jnF5tN.jpg"
+tags: ["BBB 25", "eliminados", "Paredão", "Tadeu Schmidt", "Rodrigo Dourado", "Globo", "votação", "reality show"]
+keywords: "BBB 25, eliminados, Paredão, Tadeu Schmidt, Rodrigo Dourado, Globo, votação, reality show"
+author: "Pablo Moura"
+data: "2025-04-11T03:27:45.853Z"
 ---
 
-O Big Brother Brasil 25 iniciou em 13 de janeiro com 24 concorrentes, apresentando pela primeira vez inscrições e eliminações iniciais em duplas. Arleane e Marcelo foram os primeiros eliminados, seguidos por Edilberto e Raissa, um duo de pai e filha.
+O Big Brother Brasil 25 iniciou em 13 de janeiro com 24 competidores, marcando a primeira vez que as inscrições e as duas primeiras eliminações foram feitas em duplas. Arleane e Marcelo foram os primeiros eliminados, seguidos por Edilberto e Raissa, pai e filha, na semana subsequente. A terceira eliminação, que passou a ser individual sem aviso prévio aos participantes, resultou na saída de Giovanna, irmã de Gracyanne Barbosa.
 
-A partir do terceiro Paredão, as eliminações passaram a ser individuais, surpreendendo os participantes. Giovanna, irmã de Gracyanne Barbosa, foi a primeira a deixar o programa neste formato. Desde o quarto Paredão, todos os participantes já estavam cientes das eliminações individuais. Os eliminados foram: Gabriel (4º Paredão), Mateus (5º), Diogo Almeida (6º), Camilla (7º), Thamiris (8º), Gracyanne (9º) e Aline (10º).
+Desde o quarto Paredão, as regras foram esclarecidas e as eliminações continuaram sendo individuais. Os participantes eliminados em cada Paredão foram: Gabriel no 4º, Mateus no 5º, Diogo Almeida no 6º, Camilla no 7º, Thamiris no 8º, Gracyanne no 9º, Aline no 10º, Eva no 11º, Vilma no 12º, Daniele Hypólito no 13º, João Gabriel no 14º e Maike no 15º. O próximo Paredão será formado durante a edição ao vivo no domingo, 30 de abril, com 12 participantes ainda na disputa pelo grande prêmio.
 
-O próximo Paredão será definido ao vivo no domingo, 30 de janeiro, com 12 participantes ainda na disputa pelo prêmio. O BBB 25 é transmitido pela TV Globo e pelo Multishow, além de estar disponível para assinantes no Globoplay e Globo.com com câmeras exclusivas.
+O programa é transmitido diariamente pela TV Globo e pelo Multishow após a transmissão na rede aberta, com conteúdo adicional disponível para os assinantes do Globoplay e Globo.com através de câmeras exclusivas. Tadeu Schmidt, que substituiu Tiago Leifert, apresenta o BBB pela quarta vez. Esta edição também marca uma mudança significativa na direção, com Rodrigo Dourado substituindo Boninho, que dirigiu o programa desde o início. Dourado tem vasta experiência, tendo trabalhado em diversos programas de sucesso.
 
-Tadeu Schmidt segue como apresentador por sua quarta edição, após substituir Tiago Leifert. Esta edição também marca a substituição de Boninho por Rodrigo Dourado na direção. A votação continua em formato misto, combinando votos ilimitados no 'Voto da Torcida' e votos únicos por CPF em uma plataforma separada, com os resultados sendo uma média ponderada dos dois sistemas.
+O sistema de votação deste ano continua sendo misto. O 'Voto da Torcida' permite votos ilimitados, enquanto uma nova plataforma exige o CPF para validação de um voto por enquete. A decisão de quem deixa o programa é determinada por uma média ponderada, considerando 50% dos votos de cada sistema de votação, conforme informado pela Globo.
