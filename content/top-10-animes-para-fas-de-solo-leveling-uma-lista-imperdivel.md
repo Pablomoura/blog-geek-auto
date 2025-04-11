@@ -19,6 +19,7 @@ tags:
   - Aventura
   - Fantasia
   - Super-herói
+  - especial-Solo Leveling
 data: '2025-04-02T01:47:47.882Z'
 author: Luana Souza
 ---

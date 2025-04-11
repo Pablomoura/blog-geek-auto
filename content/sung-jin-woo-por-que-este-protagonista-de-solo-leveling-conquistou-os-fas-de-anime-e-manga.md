@@ -25,6 +25,7 @@ tags:
   - Anime
   - Mangá
   - Cultura Pop
+  - especial-Solo Leveling
 data: '2025-04-02T01:57:46.549Z'
 author: Ana Luiza
 ---

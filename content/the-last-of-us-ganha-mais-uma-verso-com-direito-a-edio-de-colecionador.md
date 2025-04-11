@@ -5,7 +5,7 @@ categoria: "GAMES"
 midia: "https://cdn.ome.lt/A3oycZhvLtFwU7VMSQI9FrsXq18=/987x0/smart/uploads/conteudo/fotos/02_zyEvy5h.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/EE2xg0HImGOh1zumIjx5r0PLf98=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_155655.png"
-tags: ["The Last of Us", "PlayStation 5", "edição de colecionador", "série televisiva", "Neil Druckmann", "Naughty Dog", "Pedro Pascal", "Bella Ramsey"]
+tags: ["The Last of Us", "PlayStation 5", "edição de colecionador", "série televisiva", "Neil Druckmann", "Naughty Dog", "Pedro Pascal", "Bella Ramsey", "especial-The Last of Us"]
 keywords: "The Last of Us, PlayStation 5, edição de colecionador, série televisiva, Neil Druckmann, Naughty Dog, Pedro Pascal, Bella Ramsey"
 author: "Luana Souza"
 data: "2025-04-10T19:08:48.315Z"

@@ -25,6 +25,7 @@ tags:
   - legado
   - feiticeira
   - jornada dos heróis
+  - especial-Frieren
 data: '2025-04-08T01:10:06.351Z'
 author: Luana Souza
 ---

@@ -21,6 +21,7 @@ tags:
   - eventos
   - personagem
   - narrativa
+  - especial-Frieren
 data: '2025-04-04T21:40:42.386Z'
 author: Luana Souza
 ---

@@ -22,6 +22,7 @@ tags:
   - arte gráfica
   - narrativa envolvente
   - fenômeno cultural
+  - especial-Solo Leveling
 data: '2025-04-01T01:56:38.246Z'
 author: Ana Luiza
 ---

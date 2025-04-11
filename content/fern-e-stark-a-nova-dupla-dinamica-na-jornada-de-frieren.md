@@ -22,6 +22,7 @@ tags:
   - aventura
   - conexão humana
   - auto-descoberta
+  - especial-Frieren
 data: '2025-04-07T21:26:39.081Z'
 author: Pablo Moura
 ---

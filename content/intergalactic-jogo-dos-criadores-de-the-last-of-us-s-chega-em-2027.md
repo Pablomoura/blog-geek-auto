@@ -13,6 +13,7 @@ tags:
   - '2027'
   - jason schreier
   - 'the last of us: part ii'
+  - especial-The Last of Us
 author: Ana Luiza
 ---
 

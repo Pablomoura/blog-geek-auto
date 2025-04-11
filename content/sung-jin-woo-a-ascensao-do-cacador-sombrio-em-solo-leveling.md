@@ -22,6 +22,7 @@ tags:
   - Fantasia
   - Literatura Coreana
   - Mangá
+  - especial-Solo Leveling
 data: '2025-04-01T01:31:18.125Z'
 author: Luana Souza
 ---

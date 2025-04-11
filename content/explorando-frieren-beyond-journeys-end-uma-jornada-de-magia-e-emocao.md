@@ -20,6 +20,7 @@ tags:
   - história
   - magia
   - emoção
+  - especial-Frieren
 data: '2025-04-08T01:08:51.763Z'
 author: Pablo Moura
 ---

@@ -20,6 +20,7 @@ tags:
   - bella ramsey
   - abby
   - séries e tv
+  - especial-The Last of Us
 keywords: >-
   the last of us segunda temporada, hbo the last of us 2 temporada, elenco the
   last of us 2025, abby the last of us atriz, série the last of us parte 2

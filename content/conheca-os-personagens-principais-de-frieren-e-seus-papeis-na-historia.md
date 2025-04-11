@@ -19,6 +19,7 @@ tags:
   - aprendiz
   - herói
   - guerreiro
+  - especial-Frieren
 data: '2025-04-08T21:25:51.801Z'
 author: Luana Souza
 ---

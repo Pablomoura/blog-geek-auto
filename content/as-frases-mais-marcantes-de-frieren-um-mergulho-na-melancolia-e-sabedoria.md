@@ -22,6 +22,7 @@ tags:
   - Reflexão
   - Vida e Morte
   - Crescimento Pessoal
+  - especial-Frieren
 data: '2025-04-01T21:38:51.967Z'
 author: Pablo Moura
 ---

@@ -22,6 +22,7 @@ tags:
   - Universo
   - Legado
   - Crescimento pessoal
+  - especial-Frieren
 data: '2025-04-08T01:09:30.547Z'
 author: Ana Luiza
 ---

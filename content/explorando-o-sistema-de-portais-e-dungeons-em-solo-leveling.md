@@ -21,6 +21,7 @@ tags:
   - Light Novel
   - Fantasia
   - Monstros
+  - especial-Solo Leveling
 data: '2025-04-03T01:35:17.194Z'
 author: Ana Luiza
 ---

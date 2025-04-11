@@ -16,6 +16,7 @@ tags:
   - elenco de Superman
   - estreia de filme
   - Universo Cinematográfico da DC
+  - especial-Superman
 keywords: >-
   Superman, David Corenswet, James Gunn, DC Universe, filme de super-heróis,
   elenco de Superman, estreia de filme, Universo Cinematográfico da DC

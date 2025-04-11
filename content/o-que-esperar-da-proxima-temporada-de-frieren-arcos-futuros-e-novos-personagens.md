@@ -25,6 +25,7 @@ tags:
   - Cultura Pop
   - Desenvolvimento de Personagens
   - Fantasia
+  - especial-Frieren
 data: '2025-04-06T21:40:22.555Z'
 author: Ana Luiza
 ---

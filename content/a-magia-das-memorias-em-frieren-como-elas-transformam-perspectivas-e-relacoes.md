@@ -23,6 +23,7 @@ tags:
   - crescimento pessoal
   - relações
   - magia
+  - especial-Frieren
 data: '2025-04-06T21:41:53.385Z'
 author: Luana Souza
 ---

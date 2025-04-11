@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/7uU6MFEqKkDJ45JKvXt9vpsxSuk=/987x0/smart/uploads/conteudo/fotos/bbb25-maike-renata-vinicius-parciais.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/SAEIDgIeciRPq28hWvn2OPBf72U=/480x360/smart/extras/conteudos/bbb25-vinicius-15-parciais-peq.jpg"
-tags: ["BBB 25", "Paredão", "eliminação", "Vinícius", "Maike", "Renata", "votação", "Tadeu Schmidt"]
+tags: ["BBB 25", "Paredão", "eliminação", "Vinícius", "Maike", "Renata", "votação", "Tadeu Schmidt", "especial-BBB 25"]
 keywords: "BBB 25, Paredão, eliminação, Vinícius, Maike, Renata, votação, Tadeu Schmidt"
 author: "Pablo Moura"
 data: "2025-04-11T02:48:08.460Z"

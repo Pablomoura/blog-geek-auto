@@ -15,6 +15,7 @@ tags:
   - equipamentos
   - jogo não-oficial
   - atualizações de códigos
+  - especial-Solo Leveling
 keywords: >-
   Solo Leveling, Roblox, Hunters, códigos promocionais, cristais, equipamentos,
   jogo não-oficial, atualizações de códigos

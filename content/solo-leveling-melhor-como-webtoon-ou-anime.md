@@ -19,6 +19,7 @@ tags:
   - Animação
   - Adaptação
   - Fãs
+  - especial-Solo Leveling
 data: '2025-04-06T01:47:11.689Z'
 author: Ana Luiza
 ---

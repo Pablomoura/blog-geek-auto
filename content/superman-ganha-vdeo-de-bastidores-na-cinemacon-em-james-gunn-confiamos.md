@@ -15,6 +15,7 @@ tags:
   - james gunn
   - bastidores
   - filme de super-herói
+  - especial-Superman
 author: Pablo Moura
 ---
 

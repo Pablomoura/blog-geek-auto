@@ -19,6 +19,7 @@ tags:
   - manhwa
   - comunidade
   - discussões
+  - especial-Solo Leveling
 data: '2025-03-07T01:57:26.080Z'
 author: Pablo Moura
 ---

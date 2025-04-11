@@ -15,6 +15,7 @@ tags:
   - CinemaCon
   - trailer de filme
   - heróis DC
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DC Studios, Krypto, Fortaleza da Solidão, CinemaCon,
   trailer de filme, heróis DC

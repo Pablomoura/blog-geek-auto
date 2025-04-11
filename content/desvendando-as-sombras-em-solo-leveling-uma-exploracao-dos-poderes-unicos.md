@@ -22,6 +22,7 @@ tags:
   - Sung Jin-Woo
   - caçadores
   - web novel
+  - especial-Solo Leveling
 data: '2025-03-07T01:31:55.109Z'
 author: Ana Luiza
 ---

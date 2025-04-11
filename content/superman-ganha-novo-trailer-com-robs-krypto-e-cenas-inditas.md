@@ -15,11 +15,12 @@ tags:
   - robôs
   - novo trailer
   - DCU
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DC Studios, Krypto, CinemaCon 2025, robôs, novo trailer,
   DCU
 data: '2025-04-03T22:10:35.372Z'
-author: Luana Souza
+author: Pablo Moura
 ---
 
 James Gunn, o renomado diretor, divulgou nesta quinta-feira (03) em perfis oficiais da DC Studios, uma cena impactante de Superman apresentada inicialmente no painel da CinemaCon 2025. Nesta cena, Krypto, o supercão, é visto transportando um ferido Superman para a Fortaleza da Solidão, onde o herói é tratado com raios solares para curar suas lesões, resultantes de um confronto ainda não revelado. Seguidamente, o trailer apresenta cenas similares às do primeiro trailer do filme.

@@ -23,6 +23,7 @@ tags:
   - crescimento de personagem
   - animação
   - estilo visual
+  - especial-Solo Leveling
 data: '2025-04-06T01:46:32.097Z'
 author: Pablo Moura
 ---

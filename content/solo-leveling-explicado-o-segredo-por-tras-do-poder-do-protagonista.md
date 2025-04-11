@@ -22,6 +22,7 @@ tags:
   - necromancia
   - evolução de personagem
   - mangá
+  - especial-Solo Leveling
 data: '2025-04-06T01:33:25.217Z'
 author: Ana Luiza
 ---

@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/bn7zH1gS6E3tnaSOZEKV-Hu72nU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T113211.813.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/OaUCDKN39WN94A64Q8PoiuchL8c=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T113156.841.png"
-tags: ["The Last of Us", "HBO", "segunda temporada", "Pedro Pascal", "Bella Ramsey", "adaptação de jogo", "personagens novos", "série de TV"]
+tags: ["The Last of Us", "HBO", "segunda temporada", "Pedro Pascal", "Bella Ramsey", "adaptação de jogo", "personagens novos", "série de TV", "especial-The Last of Us"]
 keywords: "The Last of Us, HBO, segunda temporada, Pedro Pascal, Bella Ramsey, adaptação de jogo, personagens novos, série de TV"
 author: "Luana Souza"
 data: "2025-04-11T15:13:29.295Z"

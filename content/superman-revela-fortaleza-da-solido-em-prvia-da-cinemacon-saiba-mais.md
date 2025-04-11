@@ -15,6 +15,7 @@ tags:
   - fortaleza da solidão
   - filme
   - homem de aço
+  - especial-Superman
 author: Pablo Moura
 ---
 

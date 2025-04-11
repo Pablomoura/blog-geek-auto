@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://cdn.ome.lt/0n4nzgk-J22Av4Tw-fEAcZUG9Gc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T191457.668.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/0n4nzgk-J22Av4Tw-fEAcZUG9Gc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T191457.668.png"
-tags: ["Superman", "Warner Bros", "CEO", "infância"]
+tags: ["Superman", "Warner Bros", "CEO", "infância", "especial-Superman"]
 keywords: "Superman, Warner Bros, CEO, infância"
 author: "Pablo Moura"
 data: "2025-04-11T22:55:01.469Z"

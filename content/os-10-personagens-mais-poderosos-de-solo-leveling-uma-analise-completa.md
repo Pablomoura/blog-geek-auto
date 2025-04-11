@@ -22,6 +22,7 @@ tags:
   - Antares
   - caçadores
   - monstros
+  - especial-Solo Leveling
 data: '2025-04-02T01:39:12.787Z'
 author: Luana Souza
 ---

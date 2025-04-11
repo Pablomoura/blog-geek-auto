@@ -15,6 +15,7 @@ tags:
   - anime
   - segunda temporada
   - eventos de exibição coletiva
+  - especial-Solo Leveling
 author: Pablo Moura
 ---
 

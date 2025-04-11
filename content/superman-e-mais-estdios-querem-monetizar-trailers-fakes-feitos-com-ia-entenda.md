@@ -17,6 +17,7 @@ tags:
   - monetização
   - superman
   - trailers falsos
+  - especial-Superman
 author: Ana Luiza
 ---
 

@@ -22,6 +22,7 @@ tags:
   - interpretação
   - personagem
   - narrativa
+  - especial-Frieren
 data: '2025-04-03T21:41:09.602Z'
 author: Luana Souza
 ---

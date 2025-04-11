@@ -22,6 +22,7 @@ tags:
   - narrativa
   - despedida
   - crescimento
+  - especial-Frieren
 data: '2025-04-06T21:39:13.350Z'
 author: Pablo Moura
 ---

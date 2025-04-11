@@ -19,6 +19,7 @@ tags:
   - reflexão
   - vida
   - emoção
+  - especial-Frieren
 data: '2025-04-05T21:34:16.753Z'
 author: Luana Souza
 ---

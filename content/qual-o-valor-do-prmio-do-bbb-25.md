@@ -16,6 +16,7 @@ tags:
   - Multishow
   - Globoplay
   - votação mista
+  - especial-BBB 25
 keywords: >-
   BBB 25, prêmio acumulado, Tadeu Schmidt, Rodrigo Dourado, Globo, Multishow,
   Globoplay, votação mista

@@ -16,11 +16,12 @@ tags:
   - Metamorfo
   - Sr. Incrível
   - personagens DC
+  - especial-Superman
 keywords: >-
   Superman, produtos oficiais, James Gunn, DCU, Lex Luthor, Metamorfo, Sr.
   Incrível, personagens DC
 data: '2025-04-04T22:09:37.324Z'
-author: Ana Luiza
+author: Pablo Moura
 ---
 
 Recentemente, foram divulgados na internet produtos oficiais relacionados ao novo filme de Superman, proporcionando aos fãs uma visão mais clara dos personagens que foram brevemente introduzidos nos trailers já lançados. Entre os itens revelados, destacam-se colecionáveis representando não só o Superman e Lex Luthor, mas também Metamorfo e o Sr. Incrível, este último fielmente retratado com seu visual característico dos quadrinhos, apresentando cores distintas em diferentes partes do corpo.

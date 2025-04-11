@@ -22,6 +22,7 @@ tags:
   - Cultura Coreana
   - Fenômeno
   - Curiosidades
+  - especial-Solo Leveling
 data: '2025-03-07T01:56:09.588Z'
 author: Luana Souza
 ---

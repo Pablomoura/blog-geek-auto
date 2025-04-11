@@ -22,6 +22,7 @@ tags:
   - Guildas
   - Realidade Aumentada
   - Inteligência Artificial
+  - especial-Solo Leveling
 data: '2025-04-04T01:55:02.108Z'
 author: Ana Luiza
 ---

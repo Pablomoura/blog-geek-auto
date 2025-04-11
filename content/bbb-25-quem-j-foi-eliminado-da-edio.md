@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/SgKlxsai5j7RiQi1FvVscyFXNCg=/987x0/smart/uploads/conteudo/fotos/bbb25-edilberto-raissa-eliminados_wZsCQ54.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/dLry8p31Z0-eocvK0kbH8bTBweM=/480x360/smart/extras/conteudos/bbb25-edilberto-raissa-eliminados-peq_5jnF5tN.jpg"
-tags: ["BBB 25", "eliminados", "Paredão", "Tadeu Schmidt", "Rodrigo Dourado", "Globo", "votação", "reality show"]
+tags: ["BBB 25", "eliminados", "Paredão", "Tadeu Schmidt", "Rodrigo Dourado", "Globo", "votação", "reality show", "especial-BBB 25"]
 keywords: "BBB 25, eliminados, Paredão, Tadeu Schmidt, Rodrigo Dourado, Globo, votação, reality show"
 author: "Pablo Moura"
 data: "2025-04-11T03:27:45.853Z"

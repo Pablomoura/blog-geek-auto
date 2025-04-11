@@ -22,6 +22,7 @@ tags:
   - Cultura Pop
   - Fantasia
   - Aventura
+  - especial-Solo Leveling
 data: '2025-04-06T01:48:07.320Z'
 author: Luana Souza
 ---

@@ -21,6 +21,7 @@ tags:
   - desenvolvimento de personagem
   - Pedras de Sangue
   - caçadores
+  - especial-Solo Leveling
 data: '2025-04-01T01:32:54.416Z'
 author: Ana Luiza
 ---

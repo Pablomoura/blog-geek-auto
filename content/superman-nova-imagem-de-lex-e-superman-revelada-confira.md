@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://cdn.ome.lt/wTfdaYY7NEiA0hhuuxODK2xTwO8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-11T181517.821.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/6c7zTD6Qg_mBYWaNY835jScSujc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T181517.821.png"
-tags: ["Superman", "James Gunn", "David Corenswet", "Nicholas Hoult", "DCU", "DC Comics", "filme Superman"]
+tags: ["Superman", "James Gunn", "David Corenswet", "Nicholas Hoult", "DCU", "DC Comics", "filme Superman", "especial-Superman"]
 keywords: "Superman, James Gunn, David Corenswet, Nicholas Hoult, DCU, DC Comics, filme Superman"
 author: "Luana Souza"
 data: "2025-04-11T22:10:20.648Z"

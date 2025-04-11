@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/J1joNZf7zHF9OfVeCNVPRM1yg4Y=/987x0/smart/uploads/conteudo/fotos/bbb25-joao-pedro-16-lider.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/xrWsMhtoc-yG_-0L6R9GyNrm9aA=/480x360/smart/extras/conteudos/bbb25-joao-pedro-16-lider-peq.jpg"
-tags: ["BBB 25", "Prova do Líder", "João Pedro", "Renata Paredão", "estratégia", "imunidade", "reality show", "votação online"]
+tags: ["BBB 25", "Prova do Líder", "João Pedro", "Renata Paredão", "estratégia", "imunidade", "reality show", "votação online", "especial-BBB 25"]
 keywords: "BBB 25, Prova do Líder, João Pedro, Renata Paredão, estratégia, imunidade, reality show, votação online"
 author: "Luana Souza"
 data: "2025-04-11T02:47:12.446Z"

@@ -15,6 +15,7 @@ tags:
   - temporada final
   - watch party
   - lançamento de episódio
+  - especial-Solo Leveling
 author: Luana Souza
 ---
 

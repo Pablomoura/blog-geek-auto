@@ -16,11 +16,12 @@ tags:
   - merchandising de filmes
   - Guy Gardner
   - réplica de anel
+  - especial-Superman
 keywords: >-
   Superman, Lanterna Verde, DC Comics, GameStop, colecionáveis, merchandising de
   filmes, Guy Gardner, réplica de anel
 data: '2025-04-04T23:11:54.809Z'
-author: Luana Souza
+author: Pablo Moura
 ---
 
 Em uma revelação aguardada pelos fãs da DC Comics, o design do anel do Lanterna Verde, usado por Guy Gardner no novo filme de Superman, foi oficialmente divulgado. A peça, que tem capturado a imaginação de muitos entusiastas do universo DC, será comercializada exclusivamente pela GameStop. 

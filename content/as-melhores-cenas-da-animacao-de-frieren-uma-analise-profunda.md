@@ -22,6 +22,7 @@ tags:
   - Estilo Visual
   - Análise de Anime
   - Crítica de Animação
+  - especial-Frieren
 data: '2025-04-01T21:39:37.011Z'
 author: Pablo Moura
 ---

@@ -22,6 +22,7 @@ tags:
   - rumores
   - cinema
   - Sung Jin-Woo
+  - especial-Solo Leveling
 data: '2025-03-07T01:54:30.571Z'
 author: Pablo Moura
 ---

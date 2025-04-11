@@ -15,6 +15,7 @@ tags:
   - Universo Cinematográfico da DC
   - Superman Day
   - elenco de Superman
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, trailer, DC Comics, CinemaCon 2025, Universo
   Cinematográfico da DC, Superman Day, elenco de Superman

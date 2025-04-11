@@ -22,6 +22,7 @@ tags:
   - Fantasia
   - Narrativa
   - Crescimento Pessoal
+  - especial-Frieren
 data: '2025-04-05T21:35:49.346Z'
 author: Luana Souza
 ---

@@ -21,6 +21,7 @@ tags:
   - masmorras
   - monstros
   - aventura
+  - especial-Solo Leveling
 data: '2025-04-04T01:30:49.354Z'
 author: Ana Luiza
 ---

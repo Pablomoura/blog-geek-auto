@@ -15,7 +15,8 @@ tags:
   - james gunn
   - warner bros.
   - fortaleza da solidão
-author: Luana Souza
+  - especial-Superman
+author: Pablo Moura
 ---
 
 A Warner Bros. apresentou novas imagens de 'Superman' com David Corenswet no papel principal durante a CinemaCon em Las Vegas, neste domingo (30). O material promocional mostra o ator em pleno voo sobre a icônica Fortaleza da Solidão.

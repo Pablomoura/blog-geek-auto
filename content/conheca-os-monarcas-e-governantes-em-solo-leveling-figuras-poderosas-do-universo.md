@@ -25,6 +25,7 @@ tags:
   - Fantasia
   - Manga
   - Sung Jin-Woo
+  - especial-Solo Leveling
 data: '2025-04-06T01:34:32.173Z'
 author: Pablo Moura
 ---

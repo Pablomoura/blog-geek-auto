@@ -21,6 +21,7 @@ tags:
   - morte
   - relações
   - legado
+  - especial-Frieren
 data: '2025-04-05T21:34:39.729Z'
 author: Pablo Moura
 ---

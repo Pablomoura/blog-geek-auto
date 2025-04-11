@@ -16,6 +16,7 @@ tags:
   - animes 2025
   - crunchyroll
   - anime de ação
+  - especial-Solo Leveling
 keywords: >-
   final solo leveling, solo leveling segunda temporada, crunchyroll anime 2025,
   sung jin-woo, solo leveling terceira temporada, continuação solo leveling

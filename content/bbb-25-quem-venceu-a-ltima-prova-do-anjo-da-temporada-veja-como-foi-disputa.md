@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/e6Sl_Klf5j8yXDn2eKsJH90g3ik=/987x0/smart/uploads/conteudo/fotos/prova-do-anjo-bbb.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/ZRnxXbzGBvYLL-iRbHA-dS5ltsE=/480x360/smart/extras/conteudos/prova-do-anjo-bbb.png"
-tags: ["BBB 25", "Prova do Anjo", "Vinícius", "paredão", "reality show", "TV Globo", "votação", "Globoplay"]
+tags: ["BBB 25", "Prova do Anjo", "Vinícius", "paredão", "reality show", "TV Globo", "votação", "Globoplay", "especial-BBB 25"]
 keywords: "BBB 25, Prova do Anjo, Vinícius, paredão, reality show, TV Globo, votação, Globoplay"
 author: "Ana Luiza"
 data: "2025-04-11T19:09:21.801Z"
