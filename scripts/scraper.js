@@ -65,15 +65,12 @@ function slugify(text) {
 
 // Função auxiliar para gerar tags com IA
 async function gerarTagsComIA(titulo, texto) {
-  const prompt = `
-Gere uma lista de até 8 tags curtas e relevantes separadas por vírgula com base no título e conteúdo da notícia abaixo:
+  const prompt = `Gere até 8 tags curtas e relevantes separadas por vírgula com base no título e texto:
 
-Título: ${titulo}
+  Título: ${titulo}
+  Texto: ${texto}
 
-Conteúdo:
-${texto}
-
-Responda apenas com as tags separadas por vírgula.`;
+  Responda apenas com as tags.`;
 
   try {
     const response = await axios.post(
@@ -192,13 +189,11 @@ async function extrairConteudoNoticia(url) {
 
     const texto = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("p"))
-        .map((p) => p.innerText.trim())
-        .filter((t) =>
-          t.length > 50 &&
-          !t.includes("Política de Privacidade") &&
-          !t.includes("Assine nossas notificações") &&
-          !t.includes("tratamento dos dados")
-        )
+      .map((p) => p.innerText.trim())
+      .filter((t) =>
+        t.length > 50 &&
+        !/Omelete|Política|Privacidade|Assine|comentários/i.test(t)
+      )
         .join("\n");
     });
 
@@ -227,30 +222,23 @@ async function extrairConteudoNoticia(url) {
 }
 
 async function reescreverNoticia(titulo, resumo, texto) {
-  const prompt = `
-Reescreva a seguinte notícia com ortografia e gramática corretas, em um tom jornalístico, direto e informativo.
-Mantenha todos os fatos e detalhes relevantes da matéria original, sem omitir informações importantes e sem parecer plagio. Utilize uma quantidade semelhante ou superior de palavras, garantindo no mínimo 500 palavras, e não resuma o conteúdo original.
-Se houver listas, cronogramas, tópicos organizados ou conteúdos segmentados, recrie-os com fidelidade e clareza.
-Não omita ou resuma seções. Mantenha o conteúdo o mais completo possível.
-Separe cada parágrafo com duas quebras de linha para garantir leitura adequada em Markdown.
-Evite parágrafos longos: limite cada bloco a 2 ou 3 frases para facilitar a leitura.
-Importante: não reescreva o paragrafo sobre os comentários do site ou recuperação de acesso a conta no Omelete. Evite também comentários sobre o site Omelente ou convidar o usuário a acompanhar ou acessar o Omelete
+  const systemPrompt = `Você é um redator profissional. Reescreva notícias em português do Brasil com tom jornalístico, direto e informativo.
+Corrija ortografia e gramática. Não resuma nem omita informações.
+Mantenha a estrutura original. Use parágrafos curtos com duas quebras de linha para Markdown.
+Ignore comentários e chamadas ao Omelete. Garanta que o texto seja autêntico e não pareça plágio.`;
 
-Título:
-${titulo}
+  const userPrompt = `Reescreva o seguinte conteúdo:
 
-Resumo:
-${resumo}
+Título: ${titulo}
+Resumo: ${resumo}
+Texto: ${texto}
 
-Texto:
-${texto}
-
-Responda em JSON neste formato:
+Responda em JSON com:
 {
   "titulo": "...",
   "resumo": "...",
-  "texto": "..."
-+  "keywords": "palavra1, palavra2, palavra3
+  "texto": "...",
+  "keywords": "..."
 }`;
 
   try {
@@ -258,7 +246,10 @@ Responda em JSON neste formato:
       "https://api.openai.com/v1/chat/completions",
       {
         model: "gpt-4-turbo",
-        messages: [{ role: "user", content: prompt }],
+        messages: [
+          { role: "system", content: systemPrompt },
+          { role: "user", content: userPrompt },
+        ],
         temperature: 0.7,
       },
       {
@@ -269,38 +260,19 @@ Responda em JSON neste formato:
       }
     );
 
-    let raw = response.data.choices[0].message.content;
+    let raw = response.data.choices[0].message.content.trim();
+    raw = raw.replace(/^[^{]+/, "{").replace(/}[^}]*$/, "}");
 
-    raw = raw.trim();
-    raw = raw.replace(/^[^]*?{/, '{');
-    raw = raw.replace(/}[^}]*$/, '}');
-    raw = raw.replace(/[\u0000-\u001F\u007F]/g, "");
-    raw = raw.replace(/\t/g, " ");
-
-    let reescrito;
-    try {
-      reescrito = JSON.parse(raw);
-
-      // Corrigir quebras escapadas
-      reescrito.texto = reescrito.texto.replace(/\\n/g, "\n");
-      reescrito.texto = reescrito.texto.replace(/(?<!\n)\n(?!\n)/g, "\n\n");
-    } catch (err) {
-      console.error("❌ Erro ao fazer JSON.parse:", err.message);
-      console.log("🧪 Conteúdo recebido:\n", raw);
-      return null;
-    }
-
-    console.log("\n🧪 RAW recebido da IA:\n", raw);
-
-    reescrito.texto = reescrito.texto.replace(/(?<!\n)\n(?!\n)/g, "\n\n");
+    const reescrito = JSON.parse(raw);
+    reescrito.texto = reescrito.texto.replace(/\\n/g, "\n").replace(/(?<!\n)\n(?!\n)/g, "\n\n");
 
     return reescrito;
-
   } catch (err) {
     console.error("❌ Erro ao reescrever notícia:", err.message);
     return null;
   }
 }
+
 
 async function buscarNoticiasOmelete() {
   const browser = await puppeteer.launch({ headless: "new", args: ["--no-sandbox"] });
