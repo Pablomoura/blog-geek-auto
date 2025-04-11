@@ -50,3 +50,8 @@ jobs:
       - name: 🔄 Notificar IndexNow com URLs recentes
         run: node scripts/ping-indexnow.js
 
+      - name: 🔍 Enviar URLs para o Google Indexing API
+        run: node scripts/send-to-indexing-api.js
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+

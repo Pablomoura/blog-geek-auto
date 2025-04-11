@@ -7,6 +7,7 @@
     "start": "next start",
     "gerar-cache": "node scripts/gerar-cache-posts.js",
     "lint": "next lint",
+    "publish-md": "node scripts/publish-md.js",
     "build:cache": "node scripts/build-html-cache.js",
     "build": "npm run build:cache && next build"
   },
