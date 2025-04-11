@@ -257,6 +257,28 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   dangerouslySetInnerHTML={{ __html: htmlContent }}
                 />
                 <TwitterLoader />
+                {/* ✅ Tags clicáveis */}
+                {Array.isArray(data.tags) && data.tags.length > 0 && (
+                  <div className="mt-10 border-t border-gray-700 pt-6">
+                    <h3 className="text-sm uppercase font-bold text-neutral-800 dark:text-white mb-3">Tags:</h3>
+                    <div className="flex flex-wrap gap-2">
+                      {data.tags.map((tag: string) => (
+                        <Link
+                          key={tag}
+                          href={`/tag/${tag
+                            .toLowerCase()
+                            .normalize("NFD")
+                            .replace(/[\u0300-\u036f]/g, "")  // remove acentos
+                            .replace(/[^a-z0-9]+/g, "-")      // remove tudo que não for letra/número e troca por "-"
+                            .replace(/^-+|-+$/g, "")}`}       // remove traços no início/fim                                                    
+                          className="bg-orange-100 dark:bg-gray-800 text-orange-600 dark:text-orange-400 text-xs px-3 py-1 rounded-full hover:bg-orange-200 dark:hover:bg-gray-700 transition"
+                        >
+                          #{tag}
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                )}
                 {relacionados.length > 0 && (
                 <section className="mt-12 border-t border-gray-700 pt-8">
                   <h2 className="text-2xl font-bold mb-6 text-neutral-900 dark:text-white">🔗 Posts relacionados</h2>
@@ -288,7 +310,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   </div>
                 </section>
               )}
-
+            
               <div id="disqus_thread" className="mt-12" />
               <LazyDisqus slug={slug} />
               <Script
