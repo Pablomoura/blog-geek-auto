@@ -462,6 +462,26 @@
     "textoLength": 2252
   },
   {
+    "slug": "a-mmia-elenco-do-reboot-revelado",
+    "titulo": "A Múmia | Elenco do reboot é revelado",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/sXW74u0hY13r_0QEvHOKiqdzL5c=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T133209.155.png",
+    "data": "2025-04-10T17:12:46.327Z",
+    "tags": [
+      "A Múmia",
+      "reboot",
+      "Blumhouse",
+      "Universal Monsters",
+      "Lee Cronin",
+      "elenco revelado",
+      "filme de terror",
+      "expedição arqueológica"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2139
+  },
+  {
     "slug": "a-mmia-protagonista-feminina-do-novo-filme-revelada",
     "titulo": "Revelada Protagonista Feminina do Novo Filme 'A Múmia'",
     "categoria": "FILMES",
@@ -1032,6 +1052,26 @@
     "textoLength": 740
   },
   {
+    "slug": "alm-do-switch-2-tarifas-de-trump-passam-a-afetar-pcs-gamers",
+    "titulo": "Além do Switch 2: Tarifas de Trump afetam mercado de PCs gamers",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/7E0taK1Kw4BAG15XndEAdSNWMvw=/480x360/smart/extras/conteudos/imagem_2025-04-10_114727653.png",
+    "data": "2025-04-10T15:13:16.368Z",
+    "tags": [
+      "Tarifas Trump",
+      "mercado de PCs gamers",
+      "Nintendo Switch 2",
+      "Razer Blade",
+      "eletrônicos afetados",
+      "política comercial",
+      "impacto nos jogos",
+      "incerteza no mercado"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1685
+  },
+  {
     "slug": "amazon-mgm-jennifer-salke-deixa-cargo-de-chefe-do-estdio",
     "titulo": "Jennifer Salke Deixa o Cargo de Chefe na Amazon MGM Studios",
     "categoria": "FILMES",
@@ -1245,6 +1285,26 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 2329
+  },
+  {
+    "slug": "as-bruxas-mayfair-renovada-para-3-temporada-e-ter-novo-showrunner",
+    "titulo": "As Bruxas Mayfair é renovada para 3ª temporada e terá novo showrunner",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/fjh_dmDcYWNyeNsiIOSl384Eu8M=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T115521.838.png",
+    "data": "2025-04-10T15:12:39.351Z",
+    "tags": [
+      "As Bruxas de Mayfair",
+      "Alexandra Daddario",
+      "Thomas Schnauz",
+      "AMC",
+      "Anne Rice",
+      "magia",
+      "showrunner",
+      "Prime Video"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1274
   },
   {
     "slug": "as-crnicas-de-nrnia-filme-netflix-pode-ter-meryl-streep-como-aslan-diz-site",
@@ -1600,6 +1660,26 @@
     "textoLength": 1766
   },
   {
+    "slug": "batman-vs-yakuza-league-tem-abertura-divulgada-assista",
+    "titulo": "Divulgada a abertura de Batman Ninja vs. Yakuza League; veja os detalhes",
+    "categoria": "MANGÁS E ANIMES",
+    "thumb": "https://cdn.ome.lt/oEVwKpz0b8O5qF0-eqAkqmL-bAc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T211201.208.png",
+    "data": "2025-04-11T02:49:55.141Z",
+    "tags": [
+      "Batman Ninja vs. Yakuza League",
+      "Warner Bros",
+      "filme digital",
+      "Japão feudal",
+      "vilões do Batman",
+      "Gorila Grodd",
+      "Batman",
+      "lançamento de filme"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 1,
+    "textoLength": 1203
+  },
+  {
     "slug": "bbb-25-acompanhe-o-11-sincero-ao-vivo",
     "titulo": "BBB 25 | Confira os Destaques do 11º Sincerão com os Participantes",
     "categoria": "SÉRIES E TV",
@@ -1611,7 +1691,8 @@
       "emparedados",
       "líder",
       "anjo",
-      "participantes"
+      "participantes",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -1629,7 +1710,8 @@
       "paredão",
       "eliminação",
       "fake news",
-      "reality show"
+      "reality show",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -1647,7 +1729,8 @@
       "favoritismo",
       "vitória strada",
       "paredão",
-      "pesquisa uol"
+      "pesquisa uol",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 1,
@@ -1667,7 +1750,8 @@
       "Tadeu Schmidt",
       "Rodrigo Dourado",
       "votação",
-      "reality show"
+      "reality show",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -1685,7 +1769,8 @@
       "eliminação",
       "favoritos",
       "enquete uol",
-      "paredão"
+      "paredão",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 1,
@@ -1705,11 +1790,32 @@
       "favoritismo",
       "Tadeu Schmidt",
       "Rodrigo Dourado",
-      "votação online"
+      "votação online",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1435
+  },
+  {
+    "slug": "bbb-25-aps-eliminao-de-maike-quem-o-favorito-ao-prmio",
+    "titulo": "BBB 25 | Após eliminação de Maike, quem é o favorito ao prêmio?",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/l2twUw4n8qdDw0GXMbw77rIWTQE=/480x360/smart/extras/conteudos/bbb25-favorito-peq.jpg",
+    "data": "2025-04-11T04:12:23.480Z",
+    "tags": [
+      "BBB 25",
+      "eliminação",
+      "Maike",
+      "Vitória Strada",
+      "Tadeu Schmidt",
+      "Rodrigo Dourado",
+      "votação",
+      "paredão"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1724
   },
   {
     "slug": "bbb-25-aps-eliminao-de-vilma-quem-o-favorito-ao-prmio",
@@ -1723,7 +1829,8 @@
       "vilma",
       "vitória strada",
       "preferência do público",
-      "paredão"
+      "paredão",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -1741,7 +1848,8 @@
       "décimo paredão",
       "disputa acirrada",
       "votação expressiva",
-      "reality show"
+      "reality show",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 1,
@@ -1761,7 +1869,8 @@
       "votação",
       "Tadeu Schmidt",
       "Rodrigo Dourado",
-      "Globo"
+      "Globo",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -1779,7 +1888,8 @@
       "paredão",
       "tadeu schmidt",
       "reality show",
-      "competição"
+      "competição",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -1797,7 +1907,8 @@
       "futebol",
       "seleção brasileira",
       "jogo brasil argentina",
-      "eliminatórias da copa"
+      "eliminatórias da copa",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -1815,7 +1926,8 @@
       "estratégia de jogo",
       "críticas",
       "xepa",
-      "reality show"
+      "reality show",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 1,
@@ -1833,7 +1945,8 @@
       "prova do líder",
       "saúde",
       "maike",
-      "competição"
+      "competição",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -1851,7 +1964,8 @@
       "prova do líder",
       "tadeu schmidt",
       "modo turbo",
-      "reviravoltas"
+      "reviravoltas",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -1869,7 +1983,8 @@
       "eliminação",
       "eva",
       "vinícius",
-      "emoção"
+      "emoção",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 1,
@@ -1889,7 +2004,8 @@
       "votação BBB",
       "eliminação BBB",
       "reality show",
-      "TV Globo"
+      "TV Globo",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -1909,7 +2025,8 @@
       "Vitória Strada",
       "Tadeu Schmidt",
       "sistema de votação",
-      "Rodrigo Dourado"
+      "Rodrigo Dourado",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -1929,11 +2046,72 @@
       "Maike",
       "TV Globo",
       "votação",
-      "reality show"
+      "reality show",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1996
+  },
+  {
+    "slug": "bbb-25-joo-pedro-vence-a-16-prova-do-lder-renata-est-no-paredo",
+    "titulo": "BBB 25 | João Pedro conquista a liderança na 16ª Prova do Líder; Renata é indicada ao Paredão",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/xrWsMhtoc-yG_-0L6R9GyNrm9aA=/480x360/smart/extras/conteudos/bbb25-joao-pedro-16-lider-peq.jpg",
+    "data": "2025-04-11T02:47:12.446Z",
+    "tags": [
+      "BBB 25",
+      "Prova do Líder",
+      "João Pedro",
+      "Renata Paredão",
+      "estratégia",
+      "imunidade",
+      "reality show",
+      "votação online"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2152
+  },
+  {
+    "slug": "bbb-25-maike-e-renata-so-chamados-ao-confessionrio-por-atitude-do-brother",
+    "titulo": "BBB 25 | Maike e Renata são chamados ao confessionário após incidente",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/gbaDsnfWeZujRMHGc9FRMuWC1y8=/480x360/smart/extras/conteudos/maike-mordida-bbb.png",
+    "data": "2025-04-10T19:10:08.525Z",
+    "tags": [
+      "BBB 25",
+      "Maike",
+      "Renata",
+      "confessionário",
+      "incidente",
+      "paredão",
+      "reality show",
+      "votação"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1655
+  },
+  {
+    "slug": "bbb-25-maike-eliminado-com-apenas-1-de-diferena-para-vincius",
+    "titulo": "BBB 25 | Maike é eliminado com apenas 1% de diferença para Vinícius",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/XLwPZW5yHg6lRj6RfllmyF0ZmKc=/480x360/smart/extras/conteudos/bbb25-maike-eliminado-peq.jpg",
+    "data": "2025-04-11T02:47:42.610Z",
+    "tags": [
+      "BBB 25",
+      "eliminação",
+      "Maike",
+      "Vinícius",
+      "votação acirrada",
+      "Tadeu Schmidt",
+      "Rodrigo Dourado",
+      "Globo"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1532
   },
   {
     "slug": "bbb-25-maike-vence-a-prova-do-lder-de-novo-veja-quem-est-no-12-paredo",
@@ -1947,7 +2125,8 @@
       "liderança",
       "paredão",
       "vinícius",
-      "diego hypólito"
+      "diego hypólito",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -1965,7 +2144,8 @@
       "liderança",
       "vinícius",
       "paredão",
-      "reality show"
+      "reality show",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -1985,7 +2165,8 @@
       "Diego Hypólito",
       "João Gabriel",
       "Vitória Strada",
-      "votação pública."
+      "votação pública.",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -2005,7 +2186,8 @@
       "eliminação dupla",
       "Paredão",
       "votação mista",
-      "Globoplay"
+      "Globoplay",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -2023,7 +2205,8 @@
       "diego hypólito",
       "vilma",
       "vinícius",
-      "reality show"
+      "reality show",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -2031,20 +2214,23 @@
   },
   {
     "slug": "bbb-25-quem-j-foi-eliminado-da-edio",
-    "titulo": "BBB 25 | Confira a Lista de Participantes Eliminados Até Agora",
+    "titulo": "BBB 25 | Confira a lista de eliminados até agora",
     "categoria": "SÉRIES E TV",
     "thumb": "https://cdn.ome.lt/dLry8p31Z0-eocvK0kbH8bTBweM=/480x360/smart/extras/conteudos/bbb25-edilberto-raissa-eliminados-peq_5jnF5tN.jpg",
-    "data": "2025-03-26T11:27:49.641Z",
+    "data": "2025-04-11T03:27:45.853Z",
     "tags": [
-      "bbb 25",
-      "participantes eliminados",
-      "paredão",
-      "reality show",
-      "big brother brasil"
+      "BBB 25",
+      "eliminados",
+      "Paredão",
+      "Tadeu Schmidt",
+      "Rodrigo Dourado",
+      "Globo",
+      "votação",
+      "reality show"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
-    "textoLength": 1315
+    "textoLength": 1779
   },
   {
     "slug": "bbb-25-quem-vai-ser-eliminado-veja-parciais-do-11-paredo",
@@ -2058,7 +2244,8 @@
       "eliminação",
       "vinícius",
       "formato turbo",
-      "tv globo"
+      "tv globo",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 1,
@@ -2076,7 +2263,8 @@
       "eliminação",
       "reality show",
       "tv globo",
-      "multishow"
+      "multishow",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 1,
@@ -2096,7 +2284,8 @@
       "Maike",
       "Votação acirrada",
       "Tadeu Schmidt",
-      "Rodrigo Dourado"
+      "Rodrigo Dourado",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -2116,7 +2305,8 @@
       "Rodrigo Dourado",
       "votação BBB",
       "Globoplay",
-      "reality show"
+      "reality show",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -2136,7 +2326,8 @@
       "Tadeu Schmidt",
       "Rodrigo Dourado",
       "votação",
-      "reality show"
+      "reality show",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -2154,7 +2345,8 @@
       "eliminação",
       "enquete uol",
       "diego hypólito",
-      "maike"
+      "maike",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 1,
@@ -2162,23 +2354,23 @@
   },
   {
     "slug": "bbb-25-quem-vai-ser-eliminado-veja-parciais-do-paredo",
-    "titulo": "BBB 25 | Previsões Indicam os Possíveis Resultados do 14º Paredão",
+    "titulo": "BBB 25 | Previsões do Paredão indicam possível eliminação",
     "categoria": "SÉRIES E TV",
-    "thumb": "https://cdn.ome.lt/wMGlvKdIUAx6mLNlkLdcttHLQos=/480x360/smart/extras/conteudos/bbb25-vitoria-strada-14-paredao-peq.jpg",
-    "data": "2025-04-08T19:09:58.319Z",
+    "thumb": "https://cdn.ome.lt/SAEIDgIeciRPq28hWvn2OPBf72U=/480x360/smart/extras/conteudos/bbb25-vinicius-15-parciais-peq.jpg",
+    "data": "2025-04-11T02:48:08.460Z",
     "tags": [
       "BBB 25",
       "Paredão",
-      "Diego Hypólito",
-      "João Gabriel",
-      "Vitória Strada",
-      "Enquete UOL",
-      "Tadeu Schmidt",
-      "Rodrigo Dourado"
+      "eliminação",
+      "Vinícius",
+      "Maike",
+      "Renata",
+      "votação",
+      "Tadeu Schmidt"
     ],
-    "author": "Luana Souza",
+    "author": "Pablo Moura",
     "tempoLeitura": 2,
-    "textoLength": 1597
+    "textoLength": 1599
   },
   {
     "slug": "bbb-25-quem-venceu-a-11-prova-do-lder-diego-e-maike-esto-na-final",
@@ -2192,7 +2384,8 @@
       "diego e maike",
       "reality show",
       "liderança",
-      "competição"
+      "competição",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -2212,7 +2405,8 @@
       "Globoplay",
       "Tadeu Schmidt",
       "Rodrigo Dourado",
-      "Voto da Torcida"
+      "Voto da Torcida",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -2230,7 +2424,8 @@
       "joão pedro",
       "imunidade",
       "semana turbo",
-      "paredão"
+      "paredão",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -2248,7 +2443,8 @@
       "tadeu schmidt",
       "prova do líder",
       "vinícius",
-      "maike"
+      "maike",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -2266,7 +2462,8 @@
       "votação",
       "diego hypólito",
       "tadeu schmidt",
-      "modo turbo"
+      "modo turbo",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 1,
@@ -2286,7 +2483,8 @@
       "Globo",
       "Globoplay",
       "Reality Show",
-      "Big Brother Brasil"
+      "Big Brother Brasil",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -2306,7 +2504,8 @@
       "João Gabriel",
       "Vitória Strada",
       "Votação",
-      "Globo"
+      "Globo",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -2326,7 +2525,8 @@
       "Maike",
       "Renata",
       "Vinícius",
-      "Votação Popular"
+      "Votação Popular",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -2344,7 +2544,8 @@
       "programa ao vivo",
       "eliminação",
       "festa da líder",
-      "horário do bbb"
+      "horário do bbb",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 1,
@@ -2362,7 +2563,8 @@
       "vinícius",
       "festa do líder",
       "barrado no baile",
-      "reality show"
+      "reality show",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 1,
@@ -2382,7 +2584,8 @@
       "estratégias de participantes",
       "votação do público",
       "Tadeu Schmidt",
-      "Rodrigo Dourado"
+      "Rodrigo Dourado",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -2400,7 +2603,8 @@
       "vinícius",
       "delma",
       "eva",
-      "prova do líder"
+      "prova do líder",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -2420,7 +2624,8 @@
       "Tadeu Schmidt",
       "Globoplay",
       "Voto da Torcida",
-      "Rodrigo Dourado"
+      "Rodrigo Dourado",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -2440,7 +2645,8 @@
       "Tadeu Schmidt",
       "Rodrigo Dourado",
       "Globoplay",
-      "votação online"
+      "votação online",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -2773,6 +2979,26 @@
     "textoLength": 1111
   },
   {
+    "slug": "black-mirror-conhea-balatro-game-que-aparece-na-7-temporada",
+    "titulo": "Black Mirror | Conheça Balatro, game que aparece na 7ª temporada",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/6-OXihtuMFAHXXXk02ZXWJF91DI=/480x360/smart/extras/conteudos/imagem_2025-04-10_112349990.png",
+    "data": "2025-04-10T15:15:03.415Z",
+    "tags": [
+      "Black Mirror",
+      "Balatro",
+      "jogos de cartas",
+      "Netflix",
+      "Charlie Brooker",
+      "The Game Awards",
+      "pôquer roguelike",
+      "cultura pop"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1740
+  },
+  {
     "slug": "black-mirror-explicado-entenda-o-episdio-especial-white-christmas",
     "titulo": "Black Mirror: Análise do Episódio Especial 'White Christmas'",
     "categoria": "SÉRIES E TV",
@@ -3059,6 +3285,26 @@
     "textoLength": 1224
   },
   {
+    "slug": "broke-filme-estrelado-por-wyatt-russell-ganha-trailer-confira",
+    "titulo": "Broke | Filme estrelado por Wyatt Russell ganha trailer; confira",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/MbafDg8N7rTLJUZuAQbYb25bNyc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T194936.884.png",
+    "data": "2025-04-10T23:10:46.745Z",
+    "tags": [
+      "Wyatt Russell",
+      "Broke filme",
+      "trailer lançado",
+      "drama de sobrevivência",
+      "nevasca",
+      "rodeio",
+      "Sony Pictures",
+      "estreia 2025"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1249
+  },
+  {
     "slug": "bugonia-recebe-trailer-durante-a-cinemacon",
     "titulo": "Bugonia recebe trailer durante a CinemaCon",
     "categoria": "FILMES",
@@ -3133,6 +3379,26 @@
     "author": "Luana Souza",
     "tempoLeitura": 1,
     "textoLength": 820
+  },
+  {
+    "slug": "camp-rock-3-est-em-desenvolvimento-no-disney-diz-site",
+    "titulo": "Camp Rock 3 está em desenvolvimento no Disney+, diz site",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/1f_NqlOO7Z1btL-b6lHvAM2tZ9s=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T203024.422.png",
+    "data": "2025-04-11T02:50:23.181Z",
+    "tags": [
+      "Disney+",
+      "Camp Rock 3",
+      "Jonas Brothers",
+      "Demi Lovato",
+      "Eydie Faye",
+      "streaming",
+      "filme musical",
+      "renovação de franquia"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1975
   },
   {
     "slug": "caos-e-destruio-netflix-revela-novo-trailer-de-filme-com-tom-hardy",
@@ -3211,6 +3477,26 @@
     "author": "Luana Souza",
     "tempoLeitura": 1,
     "textoLength": 780
+  },
+  {
+    "slug": "carrie-a-estranha-prime-video-confirma-lanamento-da-srie-de-mike-flanagan",
+    "titulo": "Carrie: A Estranha | Prime Video confirma lançamento da série de Mike Flanagan",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/NzKykaucmI2RWZOVRL49t2yJbX8=/480x360/smart/extras/conteudos/carrie.webp",
+    "data": "2025-04-10T18:14:15.999Z",
+    "tags": [
+      "Carrie A Estranha",
+      "Mike Flanagan",
+      "Prime Video",
+      "Stephen King",
+      "telecinésia",
+      "bullying",
+      "adaptação literária",
+      "série de terror"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1713
   },
   {
     "slug": "carrie-srie-do-prime-video-escala-atriz-de-chucky-para-protagonista",
@@ -4047,6 +4333,46 @@
     "textoLength": 1041
   },
   {
+    "slug": "criador-de-mario-no-queria-que-wii-sports-viesse-incluso-no-console",
+    "titulo": "Criador de Mario não queria que Wii Sports viesse incluso no console",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/5uJpwKB8q3REIw5JjSnT6W3sSyE=/480x360/smart/extras/conteudos/imagem_2025-04-10_121348728.png",
+    "data": "2025-04-10T16:15:00.739Z",
+    "tags": [
+      "Nintendo",
+      "Wii Sports",
+      "Reggie Fils-Aimé",
+      "Shigeru Miyamoto",
+      "Wiimote",
+      "console gaming",
+      "inclusão de jogos",
+      "estratégia de vendas"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1398
+  },
+  {
+    "slug": "criador-de-mario-no-queria-que-wii-sports-viesse-junto-com-o-console",
+    "titulo": "Criador de Mario não queria que Wii Sports viesse junto com o console",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/BnoRauyc9F6-8kgnEf3rA1cTGzg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T121216.643.png",
+    "data": "2025-04-10T16:14:33.232Z",
+    "tags": [
+      "Shigeru Miyamoto",
+      "Wii Sports",
+      "Nintendo Wii",
+      "Reggie Fils-Aime",
+      "Nintendo Switch 2",
+      "lançamento de console",
+      "inovação em jogos",
+      "franquias Nintendo"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1892
+  },
+  {
     "slug": "crime-101-suspense-de-assalto-com-chris-hemsworth-ganha-trailer-na-cinemacon",
     "titulo": "Crime 101 | Suspense de assalto com Chris Hemsworth ganha trailer na CinemaCon",
     "categoria": "FILMES",
@@ -4083,6 +4409,26 @@
     "author": "Luana Souza",
     "tempoLeitura": 1,
     "textoLength": 1130
+  },
+  {
+    "slug": "cristiano-ronaldo-lana-estdio-com-diretor-de-x-men-e-j-tem-filmes-produzidos",
+    "titulo": "Cristiano Ronaldo lança estúdio com diretor de X-Men e já tem filmes produzidos",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/TN8vqH-7lWvA35Eg34ERHh1yvvU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T124525.393.png",
+    "data": "2025-04-10T16:12:39.366Z",
+    "tags": [
+      "Cristiano Ronaldo",
+      "cinema",
+      "Matthew Vaughn",
+      "X-Men",
+      "filmes de ação",
+      "estúdio de cinema",
+      "Ur.Marv",
+      "filmes independentes"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 1,
+    "textoLength": 1112
   },
   {
     "slug": "crossover-entre-chicago-pd-chicago-fire-e-chicago-med-chega-em-breve",
@@ -5135,6 +5481,26 @@
     "textoLength": 2046
   },
   {
+    "slug": "dwayne-johnson-est-irreconhecvel-em-the-smashing-machine-veja-fotos",
+    "titulo": "Dwayne Johnson está irreconhecível em The Smashing Machine; veja fotos",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/QVO7XADtqsjUZeVPvWJQsz_OVD4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T214729.608.png",
+    "data": "2025-04-10T13:23:57.353Z",
+    "tags": [
+      "Dwayne Johnson",
+      "The Smashing Machine",
+      "transformação física",
+      "Mark Kerr",
+      "MMA",
+      "Benny Safdie",
+      "filme de luta",
+      "estreia no cinema"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1849
+  },
+  {
     "slug": "dwayne-johnson-est-irreconhecvel-em-the-smashing-machine-veja",
     "titulo": "Dwayne Johnson está irreconhecível em The Smashing Machine; veja",
     "categoria": "FILMES",
@@ -5211,6 +5577,26 @@
     "author": "Luana Souza",
     "tempoLeitura": 2,
     "textoLength": 2307
+  },
+  {
+    "slug": "eddington-joaquin-phoenix-e-pedro-pascal-so-rivais-em-imagem-do-filme-da-a24",
+    "titulo": "Eddington | Joaquin Phoenix e Pedro Pascal são rivais em imagem do filme da A24",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/2LK5yGFyYDsv6UKgEdvxS6vlrNg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T110241.940.png",
+    "data": "2025-04-10T14:10:39.704Z",
+    "tags": [
+      "Joaquin Phoenix",
+      "Pedro Pascal",
+      "Ari Aster",
+      "A24",
+      "Festival de Cannes",
+      "faroeste",
+      "pandemia",
+      "rivalidade política"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2020
   },
   {
     "slug": "editora-jangada-vai-publicar-livro-de-keanu-reeves-no-brasil",
@@ -5525,6 +5911,26 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 2324
+  },
+  {
+    "slug": "eric-dane-de-euphoria-diagnosticado-com-doena-degenerativa",
+    "titulo": "Eric Dane, de Euphoria, é diagnosticado com doença degenerativa",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/J24pQktn5U1TMtkWGFlClOiVRD0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T215553.582.png",
+    "data": "2025-04-11T02:48:35.497Z",
+    "tags": [
+      "Eric Dane",
+      "Euphoria",
+      "esclerose lateral amiotrófica",
+      "Grey's Anatomy",
+      "HBO",
+      "terceira temporada",
+      "diagnóstico",
+      "elenco"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1913
   },
   {
     "slug": "estdio-de-turma-da-mnica-tomar-medidas-contra-tirinhas-de-ia",
@@ -6160,6 +6566,26 @@
     "textoLength": 2021
   },
   {
+    "slug": "f1-25-my-team-promete-maior-atualizao-de-sua-histria",
+    "titulo": "F1 25 | My Team promete maior atualização de sua história",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/rz0ksLiTVQLvqd9oVv4xV_wVPno=/480x360/smart/extras/conteudos/imagem_2025-04-09_181229821.png",
+    "data": "2025-04-10T15:12:03.953Z",
+    "tags": [
+      "F1 25",
+      "My Team",
+      "EA Sports",
+      "simulação de corrida",
+      "gestão de equipe",
+      "atualização de jogo",
+      "Fórmula 1",
+      "lançamento de jogo"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1889
+  },
+  {
     "slug": "f1-onde-e-quando-assistir-ao-gp-do-japo-e-classificao",
     "titulo": "F1 | Programação completa para o GP do Japão e detalhes sobre a transmissão",
     "categoria": "SÉRIES E TV",
@@ -6274,6 +6700,26 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1891
+  },
+  {
+    "slug": "festival-de-cannes-ter-o-agente-secreto-de-kleber-mendona-filho-e-wagner-moura",
+    "titulo": "Festival de Cannes terá O Agente Secreto de Kleber Mendonça Filho e Wagner Moura",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/HPH8R4JqfkUj1qTb9m8xNLg2I_8=/480x360/smart/extras/conteudos/o-agente-secreto-cannes.jpg",
+    "data": "2025-04-10T10:11:29.429Z",
+    "tags": [
+      "Festival de Cannes",
+      "Kleber Mendonça Filho",
+      "Wagner Moura",
+      "cinema brasileiro",
+      "filme de suspense",
+      "O Agente Secreto",
+      "Palma de Ouro",
+      "cinema histórico"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1499
   },
   {
     "slug": "festival-de-cinema-europeu-imovision-anuncia-evento-no-final-do-ms",
@@ -6565,7 +7011,7 @@
     "titulo": "Frieren: Revolucionando o Gênero de Animes de Fantasia",
     "categoria": "MANGÁS E ANIMES",
     "resumo": "Explore como a série de anime 'Frieren' tem impactado o cenário dos animes de fantasia contemporâneos. Este artigo aborda as características únicas de Frieren e como ela se diferencia, influenciando o gênero e atraindo uma nova onda de fãs.",
-    "thumb": "/images/Frieren.jpg",
+    "thumb": "/images/Thumb-Frieren.jpg",
     "data": "2025-04-09T21:25:01.895Z",
     "tags": [
       "Frieren",
@@ -6575,7 +7021,8 @@
       "Imortalidade",
       "Emoções",
       "Inovação no Anime",
-      "Gênero de Fantasia"
+      "Gênero de Fantasia",
+      "especial-Frieren"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -6596,7 +7043,8 @@
       "desenvolvimento de personagens",
       "impacto emocional",
       "temas de anime",
-      "história de anime"
+      "história de anime",
+      "especial-Frieren"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -6714,6 +7162,26 @@
     "author": "Ana Luiza",
     "tempoLeitura": 1,
     "textoLength": 1319
+  },
+  {
+    "slug": "gamescom-latam2025-nintendo-confirma-participao-no-evento",
+    "titulo": "gamescom latam2025 | Nintendo confirma participação no evento",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/_YnqsrNeCm8go3UP9SaWZk-Dyeg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_101140.png",
+    "data": "2025-04-10T13:22:50.873Z",
+    "tags": [
+      "gamescom latam 2025",
+      "Nintendo",
+      "Nintendo Switch 2",
+      "Future Games Show Live",
+      "evento de games",
+      "São Paulo",
+      "indústria de jogos",
+      "anúncios de games"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 1,
+    "textoLength": 1379
   },
   {
     "slug": "geek-e-religiao-como-conciliar-fe-e-fandom",
@@ -7583,6 +8051,26 @@
     "textoLength": 3258
   },
   {
+    "slug": "highest-2-lowest-spike-lee-lanar-seu-novo-filme-no-festival-de-cannes",
+    "titulo": "Highest 2 Lowest | Spike Lee lançará seu novo filme no Festival de Cannes",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/3Qwb5NEDyDVD3_Ayy5HvU8GlaNQ=/480x360/smart/extras/conteudos/highest-2-lowest.jpg",
+    "data": "2025-04-10T12:17:29.264Z",
+    "tags": [
+      "Spike Lee",
+      "Denzel Washington",
+      "Festival de Cannes",
+      "remake",
+      "Akira Kurosawa",
+      "filme de suspense",
+      "colaboração cinematográfica",
+      "A24"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1964
+  },
+  {
     "slug": "him-filme-de-marlon-wayans-e-jordan-peele-ganha-trailer-bizarro-na-cinemacon",
     "titulo": "HIM | Filme de Marlon Wayans e Jordan Peele ganha trailer bizarro na CinemaCon",
     "categoria": "FILMES",
@@ -7836,6 +8324,26 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1788
+  },
+  {
+    "slug": "homem-com-h-filme-sobre-ney-matogrosso-com-jesuta-barbosa-ganha-trailer",
+    "titulo": "Homem com H | Filme sobre Ney Matogrosso com Jesuíta Barbosa ganha trailer",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/qlbj_oo_BIgSJ7wGWLl9bGO4ilM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T111737.322.png",
+    "data": "2025-04-10T15:15:46.123Z",
+    "tags": [
+      "Ney Matogrosso",
+      "Jesuíta Barbosa",
+      "cinebiografia",
+      "cinema brasileiro",
+      "música brasileira",
+      "ditadura militar",
+      "Secos e Molhados",
+      "cultura LGBTQIA+"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1619
   },
   {
     "slug": "honey-nova-srie-da-bbc-revelada-como-prequel-surpresa-de-killing-eve",
@@ -8632,6 +9140,46 @@
     "textoLength": 1445
   },
   {
+    "slug": "karat-kid-lendas-recebe-nova-prvia-confira",
+    "titulo": "Nova Prévia de 'Karatê Kid Lendas' Revela Mais Sobre os Personagens",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/uGDmP8NyUg4ymjvCAAAmFnL9bE4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T200518.397.png",
+    "data": "2025-04-10T23:10:22.370Z",
+    "tags": [
+      "Karatê Kid Lendas",
+      "Ben Wang",
+      "Ming-Na Wen",
+      "kung-fu",
+      "Jackie Chan",
+      "Ralph Macchio",
+      "filme de artes marciais",
+      "adaptação cultural"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1450
+  },
+  {
+    "slug": "karat-kid-lendas-vdeo-mostra-treinamento-de-ben-wang-para-filme",
+    "titulo": "Karatê Kid: Lendas | Ben Wang treina intensamente para novo filme",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/dZN_xaYx2efMjZIbkaUucvvBuJg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T104801.460.png",
+    "data": "2025-04-10T14:11:17.760Z",
+    "tags": [
+      "Karate Kid: Lendas",
+      "Ben Wang",
+      "treinamento de artes marciais",
+      "Ralph Macchio",
+      "Jackie Chan",
+      "filme de ação",
+      "saga cinematográfica",
+      "kung fu e karatê"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1334
+  },
+  {
     "slug": "karate-kid-lendas-ganha-trailer-apresentando-histria",
     "titulo": "Karate Kid: Lendas Revela Novo Trailer com História Envolvente",
     "categoria": "FILMES",
@@ -8831,6 +9379,26 @@
     "textoLength": 1657
   },
   {
+    "slug": "law-order-organized-crime-trailer-da-5-temporada-rene-benson-e-stabler",
+    "titulo": "Law & Order: Organized Crime | Trailer da 5ª temporada reúne Benson e Stabler",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/fgKs64ffvh3zs3-QWXCdWRb51b0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T114055.109.png",
+    "data": "2025-04-10T15:13:51.162Z",
+    "tags": [
+      "Law & Order: Organized Crime",
+      "temporada 5",
+      "Benson e Stabler",
+      "trailer",
+      "Peacock",
+      "Disney+",
+      "mudança de showrunner",
+      "spin-off"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1707
+  },
+  {
     "slug": "lazarus-anime-do-criador-de-cowboy-bebop-ganha-clipe-cheio-de-ao",
     "titulo": "Lazarus: Novo Anime de Shinichiro Watanabe Promete Alta Dose de Ação",
     "categoria": "MANGÁS E ANIMES",
@@ -8939,6 +9507,26 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1449
+  },
+  {
+    "slug": "lilo-e-stitch-stitch-fofo-surge-em-nova-imagem-do-filme",
+    "titulo": "Lilo e Stitch | Nova imagem revela Stitch adorável no filme live-action",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/t8ynLZYVR_f-pCb61hIu8lAm83I=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_171014.png",
+    "data": "2025-04-10T21:10:51.821Z",
+    "tags": [
+      "Lilo e Stitch",
+      "live-action",
+      "Disney",
+      "filme 2025",
+      "Stitch fofo",
+      "estreia nos cinemas",
+      "adaptações Disney",
+      "bilheteria"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2540
   },
   {
     "slug": "lilo-stitch-novo-teaser-trailer-destaca-caos-do-aliengena-na-terra",
@@ -9156,11 +9744,31 @@
     "textoLength": 2484
   },
   {
+    "slug": "mafia-the-old-country-recebe-data-de-lanamento",
+    "titulo": "Mafia: The Old Country recebe data de lançamento",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/kMU1kLfJMZNoyNJMQciWaf_a7lE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T212443.631.png",
+    "data": "2025-04-11T02:49:28.258Z",
+    "tags": [
+      "Mafia: The Old Country",
+      "lançamento de jogo",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC",
+      "Hangar 13",
+      "2K Games",
+      "vazamento de informação"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1265
+  },
+  {
     "slug": "magia-em-frieren-a-conexao-profunda-entre-magia-memorias-e-sentimentos",
     "titulo": "Magia em Frieren: A Conexão Profunda entre Magia, Memórias e Sentimentos",
     "categoria": "MANGÁS E ANIMES",
     "resumo": "Explore como o sistema mágico em Frieren não é apenas um conjunto de feitiços e encantamentos, mas uma intrincada ligação com as emoções e memórias dos personagens. Entenda como essa conexão enriquece a narrativa e oferece uma perspectiva única sobre o poder da magia.",
-    "thumb": "/images/Frieren.jpg",
+    "thumb": "/images/Anime-Frieren.jpg",
     "data": "2025-04-08T21:35:05.074Z",
     "tags": [
       "magia",
@@ -9170,7 +9778,8 @@
       "sistema magico",
       "desenvolvimento de personagem",
       "narrativa",
-      "emoções"
+      "emoções",
+      "especial-Frieren"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 3,
@@ -9201,7 +9810,7 @@
     "titulo": "Magos Lendários do Mundo de Frieren: Conheça os Mais Poderosos",
     "categoria": "MANGÁS E ANIMES",
     "resumo": "Explore o mundo fascinante de Frieren através dos seus magos mais lendários e poderosos. Descubra quem são, suas habilidades únicas e o impacto que tiveram em suas terras místicas.",
-    "thumb": "/images/Frieren.jpg",
+    "thumb": "/images/ThumbFrieren.jpg",
     "data": "2025-04-08T21:27:39.649Z",
     "tags": [
       "magia",
@@ -9211,7 +9820,8 @@
       "história",
       "fantasia",
       "elementos mágicos",
-      "cultura"
+      "cultura",
+      "especial-Frieren"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 3,
@@ -9234,6 +9844,26 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1499
+  },
+  {
+    "slug": "man-of-war-samuel-l-jackson-estrelar-filme-do-diretor-de-quarteto-fantstico",
+    "titulo": "Man of War | Samuel L. Jackson estrelará filme do diretor de Quarteto Fantástico",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/_MGAdkGRJg1LcSeEtozvtxaiXnc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T192333.015.png",
+    "data": "2025-04-10T23:11:14.245Z",
+    "tags": [
+      "Samuel L. Jackson",
+      "Tim Story",
+      "Man of War",
+      "corrupção",
+      "racismo",
+      "filme de ação",
+      "Paramount Pictures",
+      "Quarteto Fantástico"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1785
   },
   {
     "slug": "manga-de-kaiju-no-8-status-atual-arcos-relevantes-e-futuras-expectativas",
@@ -10082,6 +10712,46 @@
     "textoLength": 1805
   },
   {
+    "slug": "my-hero-academia-vigilantes-receber-captulo-especial",
+    "titulo": "My Hero Academia: Vigilantes receberá capítulo especial",
+    "categoria": "MANGÁS E ANIMES",
+    "thumb": "https://cdn.ome.lt/vFmlKx3EX_jcXcdinxSftaGRP4k=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T202332.140.png",
+    "data": "2025-04-11T00:44:48.808Z",
+    "tags": [
+      "My Hero Academia",
+      "Vigilantes",
+      "mangá",
+      "Shonen Jump Plus",
+      "Koichi Haimawari",
+      "Knuckleduster",
+      "anime",
+      "Crunchyroll"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1588
+  },
+  {
+    "slug": "naruto-kishimoto-revela-grande-arrependimento-com-sakura-entenda",
+    "titulo": "Naruto | Kishimoto expressa arrependimento em relação ao desenvolvimento de Sakura",
+    "categoria": "MANGÁS E ANIMES",
+    "thumb": "https://cdn.ome.lt/sZ7qsXgncUPu5RvzTixeYEPqi2w=/480x360/smart/extras/conteudos/omelete_THUMB_93_BiyRA0D.png",
+    "data": "2025-04-10T15:14:23.719Z",
+    "tags": [
+      "Naruto",
+      "Sakura Haruno",
+      "Kishimoto",
+      "desenvolvimento de personagem",
+      "mangá",
+      "Boruto",
+      "representação feminina",
+      "anime"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1562
+  },
+  {
     "slug": "netflix-investir-em-restaurao-e-modernizao-da-cinemateca-brasileira",
     "titulo": "Netflix investirá em restauração e modernização da Cinemateca Brasileira",
     "categoria": "FILMES",
@@ -10158,6 +10828,26 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 1695
+  },
+  {
+    "slug": "neverway-novo-game-dos-brasileiros-de-celeste-veja-o-trailer",
+    "titulo": "Neverway é novo game dos brasileiros de Celeste; veja o trailer",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/iB9qIJNY4aT-gPsjFjPH6y1qpRo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_150004.png",
+    "data": "2025-04-10T18:13:29.498Z",
+    "tags": [
+      "Neverway",
+      "jogo brasileiro",
+      "Celeste",
+      "RPG de ação",
+      "terror",
+      "simulação de vida",
+      "indie",
+      "Steam"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 1,
+    "textoLength": 1190
   },
   {
     "slug": "nintendo-defende-preo-alto-de-switch-2-e-sugere-comprem-o-1",
@@ -10716,6 +11406,26 @@
     "textoLength": 1220
   },
   {
+    "slug": "nuntius-games-influenciadores-formam-publicadora-de-jogos-brasileiros",
+    "titulo": "Nuntius Games: Influenciadores formam publicadora de jogos brasileiros",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/c2kfSIKtiLQ-arE73xWnu_o391U=/480x360/smart/extras/conteudos/nuntius-games.jpg",
+    "data": "2025-04-10T21:10:14.257Z",
+    "tags": [
+      "Nuntius Games",
+      "jogos independentes",
+      "publicadora brasileira",
+      "influenciadores",
+      "Rodrigo Coelho",
+      "Nintendo Switch 2",
+      "desenvolvimento de jogos",
+      "ecossistema de jogos no Brasil"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1821
+  },
+  {
     "slug": "o-chamado-da-floresta-passa-na-sesso-da-tarde-da-globo-desta-segunda",
     "titulo": "Sessão da Tarde apresenta 'O Chamado da Floresta' com Harrison Ford nesta segunda",
     "categoria": "SÉRIES E TV",
@@ -10773,6 +11483,26 @@
     "textoLength": 2066
   },
   {
+    "slug": "o-estdio-chefe-de-guerra-e-mais-apple-tv-destaca-novidades-em-trailer",
+    "titulo": "Apple TV+ anuncia lançamentos com destaque para 'O Estúdio' e 'Chefe de Guerra'",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/qbzEwMjoJBM0gqheMJkCAWTChUo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T103512.231.png",
+    "data": "2025-04-10T14:11:53.979Z",
+    "tags": [
+      "Apple TV+",
+      "O Estúdio",
+      "Chefe de Guerra",
+      "Seth Rogen",
+      "Jason Momoa",
+      "lançamentos de séries",
+      "streaming",
+      "indústria cinematográfica"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1257
+  },
+  {
     "slug": "o-eternauta-aguardada-srie-argentina-da-netflix-ganha-trailer-final-assista",
     "titulo": "O Eternauta: Série Argentina da Netflix Lança Trailer Final",
     "categoria": "SÉRIES E TV",
@@ -10809,6 +11539,46 @@
     "author": "Luana Souza",
     "tempoLeitura": 2,
     "textoLength": 1602
+  },
+  {
+    "slug": "o-impossvel-passa-na-sesso-da-tarde-da-globo-desta-quinta-feira",
+    "titulo": "O Impossível é destaque na Sessão da Tarde da Globo",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/Tqj1NhVPWmTWEwDNl5U285k2uNY=/480x360/smart/extras/conteudos/oimpossivel.jpg",
+    "data": "2025-04-10T07:10:24.751Z",
+    "tags": [
+      "Sessão da Tarde",
+      "O Impossível",
+      "Tom Holland",
+      "JA Bayona",
+      "filme de tsunami",
+      "sobrevivência",
+      "drama familiar",
+      "TV Globo"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 1,
+    "textoLength": 745
+  },
+  {
+    "slug": "o-ltimo-azul-recebe-mais-um-prmio-e-garante-espao-em-festivais-internacionais",
+    "titulo": "O Último Azul recebe mais um prêmio e garante espaço em festivais internacionais",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/QazfkEviiPvQsxPPV7DvTuPXAeg=/480x360/smart/extras/conteudos/The_Blue_Trail_Guilhermo_Garza__Desvia.jpg",
+    "data": "2025-04-10T15:11:20.934Z",
+    "tags": [
+      "Gabriel Mascaro",
+      "cinema brasileiro",
+      "festivais internacionais",
+      "Urso de Prata",
+      "Festival de Berlim",
+      "distribuição de filmes",
+      "cinema latino-americano",
+      "temas de resistência"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1609
   },
   {
     "slug": "o-poder-e-a-lei-4-temporada-ter-atriz-de-ncis-e-shameless-no-elenco",
@@ -10934,6 +11704,26 @@
     "textoLength": 2906
   },
   {
+    "slug": "o-rei-dos-reis-animao-sobre-histria-de-jesus-ganha-fotos-exclusivas",
+    "titulo": "O Rei dos Reis | Animação sobre história de Jesus ganha fotos exclusivas",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/9J6YqsHpmACwQCoskOWvasEyVoY=/480x360/smart/extras/conteudos/Snapins.ai_489774434_18516631816032660_7995374061637769418_n_1080.jpg",
+    "data": "2025-04-10T16:13:56.845Z",
+    "tags": [
+      "Jesus Cristo",
+      "animação",
+      "Charles Dickens",
+      "elenco estelar",
+      "estreia em cinema",
+      "história bíblica",
+      "fotos exclusivas",
+      "narrativa inovadora"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 1,
+    "textoLength": 890
+  },
+  {
     "slug": "o-sobrevivente-filme-com-glen-powell-ganha-trailer-na-cinemacon",
     "titulo": "O Sobrevivente | Filme com Glen Powell ganha trailer na CinemaCon",
     "categoria": "FILMES",
@@ -10990,6 +11780,26 @@
     "author": "Luana Souza",
     "tempoLeitura": 2,
     "textoLength": 1927
+  },
+  {
+    "slug": "o-tigre-e-o-drago-amazon-vai-adaptar-livro-para-srie-de-tv",
+    "titulo": "O Tigre e o Dragão | Amazon vai adaptar livro para série de TV",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/r61pleI2sC6o00afqtl01XqyHgo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_161100.png",
+    "data": "2025-04-10T20:11:44.486Z",
+    "tags": [
+      "Amazon Prime Video",
+      "adaptação de livro",
+      "série de TV",
+      "artes marciais",
+      "romance proibido",
+      "Crouching Tiger Hidden Dragon",
+      "ação espetacular",
+      "tradição vs modernidade"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1293
   },
   {
     "slug": "olivia-rodrigo-jo-e-mais-line-up-completo-de-hoje-28-no-lollapalooza-2025",
@@ -11331,6 +12141,26 @@
     "textoLength": 8554
   },
   {
+    "slug": "orgulho-e-preconceito-srie-da-netflix-escala-emma-corrin-e-olivia-colman",
+    "titulo": "Orgulho e Preconceito | Série da Netflix escala Emma Corrin e Olivia Colman",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/YjiXwVnvfq2us-NzHmoYcwvkbfg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T131559.410.png",
+    "data": "2025-04-10T17:13:57.210Z",
+    "tags": [
+      "Netflix",
+      "Orgulho e Preconceito",
+      "Emma Corrin",
+      "Olivia Colman",
+      "Jane Austen",
+      "adaptação literária",
+      "série de época",
+      "Dolly Alderton"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1653
+  },
+  {
     "slug": "os-10-personagens-mais-poderosos-de-solo-leveling-uma-analise-completa",
     "titulo": "Os 10 Personagens Mais Poderosos de Solo Leveling: Uma Análise Completa",
     "categoria": "Análise de Personagens",
@@ -11454,6 +12284,26 @@
     "textoLength": 1853
   },
   {
+    "slug": "oscar-academia-anuncia-prmio-para-dubls-em-2028-quando-completa-100-anos",
+    "titulo": "Oscar | Academia anuncia prêmio para dublês em 2028, quando completa 100 anos",
+    "categoria": "OSCAR",
+    "thumb": "https://cdn.ome.lt/KIipG-rndHTwvBs38yz4tIcKVR8=/480x360/smart/extras/conteudos/john-wick_DG4k9xr.png",
+    "data": "2025-04-10T22:11:19.312Z",
+    "tags": [
+      "Oscar 2028",
+      "prêmio para dublês",
+      "100 anos da Academia",
+      "filmes de ação",
+      "design de dublês",
+      "Melhor Elenco",
+      "cinema brasileiro",
+      "recordes no Oscar"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2403
+  },
+  {
     "slug": "pacificador-atriz-confirma-que-viver-vil-coelha-branca-na-2-temporada",
     "titulo": "Pacificador | Brey Noelle Confirmada como Vilã Coelha Branca na 2ª Temporada",
     "categoria": "SÉRIES E TV",
@@ -11529,6 +12379,26 @@
     "textoLength": 1495
   },
   {
+    "slug": "pantera-negra-chadwick-assustou-disney-com-sotaque-africano-diz-diretor",
+    "titulo": "Pantera Negra | Chadwick Boseman surpreendeu Disney com sotaque africano, revela Ryan Coogler",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/Bu3z9FiDYops_0H4PvperIs1mO8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_174447.png",
+    "data": "2025-04-10T21:09:48.070Z",
+    "tags": [
+      "Pantera Negra",
+      "Chadwick Boseman",
+      "Ryan Coogler",
+      "Disney",
+      "sotaque africano",
+      "Michael B. Jordan",
+      "Pecadores",
+      "cinema"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2114
+  },
+  {
     "slug": "paradise-2-temporada-anuncia-filmagens-com-foto-do-set-veja",
     "titulo": "Paradise | Início das filmagens da 2ª temporada é confirmado com nova foto do set",
     "categoria": "SÉRIES E TV",
@@ -11583,6 +12453,26 @@
     "author": "Luana Souza",
     "tempoLeitura": 2,
     "textoLength": 1601
+  },
+  {
+    "slug": "paul-ws-anderson-fala-da-tenso-de-mostrar-nas-terras-perdidas-a-grrm",
+    "titulo": "Paul W.S. Anderson fala da tensão de mostrar Nas Terras Perdidas a GRRM",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/Gu_YjT7WrTMJBXO2Oj9pILbmTPc=/480x360/smart/extras/conteudos/inthelostlandstb_qdOLcWV.jpg",
+    "data": "2025-04-10T19:09:36.338Z",
+    "tags": [
+      "Paul W.S. Anderson",
+      "Milla Jovovich",
+      "George R.R. Martin",
+      "Nas Terras Perdidas",
+      "cinema de ação",
+      "adaptação cinematográfica",
+      "filmes de fantasia",
+      "tecnologia em filmes"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 3024
   },
   {
     "slug": "pecadores-filme-com-michael-b-jordan-ter-modo-no-fortnite-confira",
@@ -11654,6 +12544,26 @@
     "author": "Ana Luiza",
     "tempoLeitura": 1,
     "textoLength": 1220
+  },
+  {
+    "slug": "pecadores-terror-de-ryan-coogler-estreia-com-100-de-aprovao-em-agregador",
+    "titulo": "Pecadores | Terror de Ryan Coogler estreia com 100% de aprovação em agregador",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/MRkTyHJ2n_Mvk7hgIS7qOb_kMjg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T135849.227.png",
+    "data": "2025-04-10T17:10:42.959Z",
+    "tags": [
+      "Ryan Coogler",
+      "Michael B. Jordan",
+      "Pecadores",
+      "100% Rotten Tomatoes",
+      "filme de terror",
+      "estreia cinematográfica",
+      "crítica positiva",
+      "mitos de vampiros"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1489
   },
   {
     "slug": "phineas-e-ferb-revival-ganha-trailer-data-no-disney-assista",
@@ -12276,6 +13186,26 @@
     "textoLength": 2391
   },
   {
+    "slug": "quarteto-fantstico-elenco-foi-o-maior-desafio-do-filme-diz-diretor",
+    "titulo": "Quarteto Fantástico | Desafios na escolha do elenco marcam nova produção, afirma diretor",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/2_W-BL412kj853jQAcKaFKbELB0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T134118.837.png",
+    "data": "2025-04-10T17:12:07.721Z",
+    "tags": [
+      "Quarteto Fantástico",
+      "MCU",
+      "Matt Shakman",
+      "elenco de cinema",
+      "heróis Marvel",
+      "Pedro Pascal",
+      "Vanessa Kirby",
+      "filmes de super-heróis"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2151
+  },
+  {
     "slug": "quarteto-fantstico-fizemos-como-stanley-kubrick-teria-feito-diz-diretor",
     "titulo": "Quarteto Fantástico | 'Fizemos como Stanley Kubrick teria feito', afirma diretor Matt Shakman",
     "categoria": "FILMES",
@@ -12294,6 +13224,46 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 2614
+  },
+  {
+    "slug": "quarteto-fantstico-galactus-usar-efeitos-prticos-e-digitais",
+    "titulo": "Quarteto Fantástico | Galactus usará efeitos práticos e digitais",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/hV3KQxm-Sp1xB9BSw50ynBbbI3M=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T182113.145.png",
+    "data": "2025-04-10T22:10:43.708Z",
+    "tags": [
+      "Quarteto Fantástico",
+      "Galactus",
+      "efeitos práticos",
+      "efeitos digitais",
+      "Marvel Studios",
+      "MCU Fase 6",
+      "cinema",
+      "super-heróis"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2052
+  },
+  {
+    "slug": "quarteto-fantstico-moss-bachrach-diz-que-nunca-trabalhou-com-time-to-grande",
+    "titulo": "Quarteto Fantástico | Moss-Bachrach destaca desafios e colaboração em grande equipe de produção",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/nVD3MT-wDYj0E_mdVOP_j0n3Gog=/480x360/smart/extras/conteudos/fantastic-four-first-steps-coisa.webp",
+    "data": "2025-04-10T18:15:18.160Z",
+    "tags": [
+      "Quarteto Fantástico",
+      "Marvel Studios",
+      "Ebon Moss-Bachrach",
+      "efeitos visuais",
+      "MCU Fase 6",
+      "elenco estrelado",
+      "produção cinematográfica",
+      "retrofuturismo"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2221
   },
   {
     "slug": "quarteto-fantstico-mostra-galactus-e-surfista-prateada-em-trailer-da-cinemacon",
@@ -12334,6 +13304,26 @@
     "textoLength": 1648
   },
   {
+    "slug": "quarteto-fantstico-novo-teaser-mostra-heris-com-uniformes",
+    "titulo": "Quarteto Fantástico | Novo teaser revela heróis em uniformes clássicos",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/oFalqCZGwoTCNuLwDg6-NF98S8Y=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_131322.png",
+    "data": "2025-04-10T17:14:44.656Z",
+    "tags": [
+      "Quarteto Fantástico",
+      "uniformes clássicos",
+      "Pedro Pascal",
+      "Vanessa Kirby",
+      "Marvel",
+      "MCU",
+      "Fase 6",
+      "filme de super-heróis"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1931
+  },
+  {
     "slug": "quarteto-fantstico-novo-trailer-mostra-galactus-e-surfista",
     "titulo": "Quarteto Fantástico | Novo trailer revela Galactus e Surfista Prateado",
     "categoria": "FILMES",
@@ -12369,6 +13359,26 @@
     "author": "Pablo Moura",
     "tempoLeitura": 1,
     "textoLength": 1232
+  },
+  {
+    "slug": "quarteto-fantstico-pedro-pascal-revela-momento-decisivo-para-topar-o-filme",
+    "titulo": "Quarteto Fantástico | Pedro Pascal revela momento decisivo para aceitar o filme",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/OgyEzysypLV2fp8KTm02AcE_loQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T135012.955.png",
+    "data": "2025-04-10T17:11:22.582Z",
+    "tags": [
+      "Pedro Pascal",
+      "Quarteto Fantástico",
+      "MCU",
+      "Reed Richards",
+      "Matt Shakman",
+      "Marvel Studios",
+      "Nova York retrofuturista",
+      "Fase 6 MCU"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2537
   },
   {
     "slug": "quarteto-fantstico-primeiros-passos-ganha-imagens-inditas-da-equipe",
@@ -12429,6 +13439,26 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 2300
+  },
+  {
+    "slug": "quem-vence-o-bbb-25-saiba-quando-ser-a-grande-final",
+    "titulo": "Quem vence o BBB 25? Saiba quando será a grande final",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/-bl_dq08ppYdjfhsoWLQO7epaIo=/480x360/smart/extras/conteudos/bbb25-tadeu-schmidt-data-final-peq.jpg",
+    "data": "2025-04-11T04:12:52.292Z",
+    "tags": [
+      "BBB 25",
+      "final do BBB",
+      "Tadeu Schmidt",
+      "Rodrigo Dourado",
+      "Globoplay",
+      "votação BBB",
+      "premiação BBB",
+      "reality show"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1675
   },
   {
     "slug": "ragnark-online-gravity-promete-acabar-com-servidores-piratas",
@@ -12526,6 +13556,26 @@
     "textoLength": 1119
   },
   {
+    "slug": "rematch-jogo-de-futebol-dos-criadores-de-sifu-ganha-trailer-e-data",
+    "titulo": "Rematch | Jogo de futebol dos criadores de Sifu ganha trailer e data",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/tfw7OtMl9QjAbYkFwoPOW4yIv2w=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_142505.png",
+    "data": "2025-04-10T18:14:48.920Z",
+    "tags": [
+      "Rematch",
+      "Sloclap",
+      "futebol",
+      "jogo de luta",
+      "PS5",
+      "Xbox Series X",
+      "Steam",
+      "teste aberto"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1383
+  },
+  {
     "slug": "resgate-implacvel-david-harbour-diz-como-equilibrou-filme-com-stranger-things",
     "titulo": "David Harbour Equilibra Gravações de 'Resgate Implacável' com 'Stranger Things' e 'Thunderbolts'",
     "categoria": "FILMES",
@@ -12560,6 +13610,26 @@
     "author": "Luana Souza",
     "tempoLeitura": 2,
     "textoLength": 1493
+  },
+  {
+    "slug": "resident-playbook-novo-trailer-apresenta-protagonistas-do-k-drama-veja",
+    "titulo": "Resident Playbook | Conheça os protagonistas do novo k-drama em trailer recém-divulgado",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/I3APBB2k2xMEUVFKfEidvwdKf_Y=/480x360/smart/extras/conteudos/resident_bwyFpKV.png",
+    "data": "2025-04-10T12:17:59.666Z",
+    "tags": [
+      "k-drama",
+      "Netflix",
+      "Resident Playbook",
+      "Hospital Playlist",
+      "médico",
+      "spin-off",
+      "série coreana",
+      "trailer"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1408
   },
   {
     "slug": "resident-playbook-spin-off-de-hospital-playlist-ganha-trailer-e-data",
@@ -12706,6 +13776,26 @@
     "author": "Pablo Moura",
     "tempoLeitura": 1,
     "textoLength": 1170
+  },
+  {
+    "slug": "rodrigo-santoro-e-reacher-juntos-ator-brasileiro-posta-foto-de-seu-novo-filme",
+    "titulo": "Rodrigo Santoro e Reacher juntos: Ator brasileiro posta foto de seu novo filme",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/hqJsjdylfxZW7MuKUi6xxrnmU3o=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T183716.313_LZ3xa7J.png",
+    "data": "2025-04-10T14:12:40.637Z",
+    "tags": [
+      "Rodrigo Santoro",
+      "Reacher",
+      "Runner",
+      "Alan Ritchson",
+      "filme de ação",
+      "suspense",
+      "elenco estelar",
+      "bastidores"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2072
   },
   {
     "slug": "rodrigo-santoro-vs-reacher-brasileiro-ser-vilo-de-filme-com-alan-ritchson",
@@ -12855,6 +13945,26 @@
     "textoLength": 1136
   },
   {
+    "slug": "screamboat-mickey-ataca-em-cena-exclusiva-do-filme-de-terror-veja",
+    "titulo": "Screamboat | Mickey surge como antagonista em nova cena do filme de terror",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/3uerrr_PW_gFjOBFv6yx4pFMjWo=/480x360/smart/extras/conteudos/scream_hfLu1Wl.jpg",
+    "data": "2025-04-10T13:22:23.969Z",
+    "tags": [
+      "Screamboat",
+      "Mickey Mouse",
+      "filme de terror",
+      "comédia",
+      "Steamboat Willie",
+      "estreia de filme",
+      "assassinatos",
+      "terror e comédia"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1488
+  },
+  {
     "slug": "screamboat-slasher-do-mickey-ganha-data-no-brasil-confira-trailer",
     "titulo": "Screamboat: Terror a Bordo | Estreia no Brasil é anunciada com lançamento de trailer oficial",
     "categoria": "FILMES",
@@ -12929,6 +14039,26 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1216
+  },
+  {
+    "slug": "sentimental-value-mubi-lanar-novo-filme-do-diretor-de-pior-pessoa-do-mundo",
+    "titulo": "Sentimental Value | MUBI lançará novo filme do diretor de Pior Pessoa do Mundo",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/YCpaSCi5TRKPogEqSci1A2VS6Wg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T130209.202.png",
+    "data": "2025-04-10T16:12:07.034Z",
+    "tags": [
+      "Sentimental Value",
+      "Joachim Trier",
+      "Festival de Cannes 2025",
+      "MUBI",
+      "cinema independente",
+      "distribuição de filmes",
+      "drama familiar",
+      "arte e emoção"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2249
   },
   {
     "slug": "sesso-de-terapia-6-temporada-ter-atriz-de-ainda-estou-aqui",
@@ -13116,7 +14246,8 @@
       "análise de desfecho",
       "Sung Jin-Woo",
       "desenvolvimento de personagens",
-      "enredo"
+      "enredo",
+      "especial-Solo Leveling"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -13193,7 +14324,8 @@
       "light novel",
       "livros de solo leveling",
       "leitura geek",
-      "afiliados amazon"
+      "afiliados amazon",
+      "especial-Solo Leveling"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 7,
@@ -13260,6 +14392,7 @@
     "slug": "solo-leveling-redes-sociais-reagem-ao-fim-da-segunda-temporada-veja",
     "titulo": "Solo Leveling: Fim da Segunda Temporada Provoca Frenesi nas Redes Sociais",
     "categoria": "MANGÁS E ANIMES",
+    "resumo": "A temporada concluiu o emocionante arco da ilha Jeju, destacando-se por suas reviravoltas impactantes e cenas surpreendentes que envolveram os personagens principais, os caçadores.",
     "thumb": "https://cdn.ome.lt/hFg-MB2CAIuJrTXs5kAJuSffT44=/480x360/smart/extras/conteudos/sololevelingvariante.jpg",
     "data": "2025-03-29T19:04:53.139Z",
     "tags": [
@@ -13268,7 +14401,8 @@
       "arco da ilha jeju",
       "caçadores",
       "episódio final",
-      "redes sociais"
+      "redes sociais",
+      "especial-Solo Leveling"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -13614,6 +14748,26 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 2228
+  },
+  {
+    "slug": "supergirl-de-milly-alcock-surge-uniformizada-em-foto-e-vdeo-do-set",
+    "titulo": "Supergirl de Milly Alcock surge uniformizada em foto e vídeo do set",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/6GfbI1Rfbc9fFx-6fv7zMeTECTQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_140444.png",
+    "data": "2025-04-10T17:10:13.503Z",
+    "tags": [
+      "Supergirl",
+      "Milly Alcock",
+      "DC Comics",
+      "filme de super-heróis",
+      "ficção científica",
+      "Jason Momoa",
+      "Tom King",
+      "estreia 2026"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2131
   },
   {
     "slug": "supergirl-fotos-do-set-mostram-armaduras-dos-piratas-espaciais",
@@ -14072,6 +15226,46 @@
     "textoLength": 1374
   },
   {
+    "slug": "tarifas-de-trump-china-confirma-que-reduzir-importao-de-filmes-dos-eua",
+    "titulo": "Tarifas de Trump: China confirma que reduzirá importação de filmes dos EUA",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/A49ouDhGisEFBLq705o0zE0_lS0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T101757.561.png",
+    "data": "2025-04-10T13:21:46.512Z",
+    "tags": [
+      "tarifas de Trump",
+      "importação de filmes",
+      "cinema chinês",
+      "Hollywood",
+      "restrições culturais",
+      "retalhação comercial",
+      "mercado cinematográfico",
+      "influência cultural"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2211
+  },
+  {
+    "slug": "terra-da-mfia-srie-de-guy-ritchie-passa-spinoffs-de-yellowstone-na-audincia",
+    "titulo": "Terra da Máfia | Série de Guy Ritchie ultrapassa spinoffs de Yellowstone em audiência",
+    "categoria": "SÉRIES E TV",
+    "thumb": "https://cdn.ome.lt/R0CbrRJ9jtJrR5GdcHsvdZJ8yuU=/480x360/smart/extras/conteudos/mobland.png",
+    "data": "2025-04-10T19:10:35.960Z",
+    "tags": [
+      "Guy Ritchie",
+      "Terra da Máfia",
+      "Paramount+",
+      "Tom Hardy",
+      "Pierce Brosnan",
+      "Helen Mirren",
+      "série de crime",
+      "audiência record"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1627
+  },
+  {
     "slug": "testamos-o-nintendo-switch-2-que-traz-evoluo-de-visual-sem-grandes-mudanas",
     "titulo": "Análise Completa do Nintendo Switch 2: Evolução Técnica com Surpresas no Controle",
     "categoria": "GAMES",
@@ -14347,6 +15541,26 @@
     "textoLength": 1660
   },
   {
+    "slug": "the-elder-scrolls-online-revela-novidades-para-2025-confira",
+    "titulo": "The Elder Scrolls Online revela novidades para 2025; confira",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/4NZkDsMjdQ9h3tAFu0OPd0aE0W0=/480x360/smart/extras/conteudos/unnamed_7_rIi4edR.jpg",
+    "data": "2025-04-10T22:10:11.136Z",
+    "tags": [
+      "The Elder Scrolls Online",
+      "ESO Direct 2025",
+      "ZeniMax Online Studios",
+      "Seasons of the Worm Cult",
+      "expansões de jogos",
+      "atualizações de jogos",
+      "Subclassing",
+      "Hero's Return"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2178
+  },
+  {
     "slug": "the-handmaids-tale-chega-ao-fim-entendendo-a-urgncia-necessria-para-a-trama",
     "titulo": "The Handmaid’s Tale chega ao fim entendendo a urgência necessária para a trama",
     "categoria": "SÉRIES E TV",
@@ -14419,7 +15633,8 @@
       "HBO",
       "Ellie",
       "adaptação de jogo",
-      "série de TV"
+      "série de TV",
+      "especial-The Last of Us"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -14437,7 +15652,8 @@
       "decisão de joel",
       "entrevista ign",
       "franquia de jogos",
-      "debate entre fãs"
+      "debate entre fãs",
+      "especial-The Last of Us"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -14464,6 +15680,26 @@
     "textoLength": 2291
   },
   {
+    "slug": "the-last-of-us-ganha-mais-uma-verso-com-direito-a-edio-de-colecionador",
+    "titulo": "The Last of Us ganha mais uma versão, com direito a edição de colecionador",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/EE2xg0HImGOh1zumIjx5r0PLf98=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_155655.png",
+    "data": "2025-04-10T19:08:48.315Z",
+    "tags": [
+      "The Last of Us",
+      "PlayStation 5",
+      "edição de colecionador",
+      "série televisiva",
+      "Neil Druckmann",
+      "Naughty Dog",
+      "Pedro Pascal",
+      "Bella Ramsey"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1985
+  },
+  {
     "slug": "the-last-of-us-terceira-temporada-anunciada-pela-hbo",
     "titulo": "The Last of Us | Terceira temporada é anunciada pela HBO",
     "categoria": "SÉRIES E TV",
@@ -14477,7 +15713,8 @@
       "Bella Ramsey",
       "streaming",
       "adaptação de jogo",
-      "série de TV"
+      "série de TV",
+      "especial-The Last of Us"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -14538,6 +15775,26 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1571
+  },
+  {
+    "slug": "the-new-boy-cate-blanchett-vive-freira-em-novo-filme-veja-fotos",
+    "titulo": "The New Boy | Cate Blanchett interpreta freira em novo thriller; confira as fotos",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/xrG_i2AdhRmmcq3PGRzt3YY_k7c=/480x360/smart/extras/conteudos/blanchett_topo.jpg",
+    "data": "2025-04-10T13:23:18.060Z",
+    "tags": [
+      "Cate Blanchett",
+      "thriller",
+      "freira",
+      "poderes sobrenaturais",
+      "Austrália",
+      "anos 1940",
+      "Festival de Cannes",
+      "filme australiano"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 1,
+    "textoLength": 995
   },
   {
     "slug": "the-phoenician-scheme-novo-filme-de-wes-anderson-ganha-trailer-na-cinemacon",
@@ -15180,6 +16437,26 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1720
+  },
+  {
+    "slug": "thunderbolts-novo-teaser-destaca-os-protagonistas-do-filme",
+    "titulo": "Thunderbolts | Novo teaser destaca os protagonistas do filme",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/y4DqVdfqhiCUeiab6ZfyDR97Re0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_131232.png",
+    "data": "2025-04-10T17:13:19.306Z",
+    "tags": [
+      "Thunderbolts",
+      "MCU",
+      "anti-heróis",
+      "Marvel",
+      "filme de super-heróis",
+      "estreia 2025",
+      "teaser",
+      "protagonistas"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2006
   },
   {
     "slug": "thunderbolts-novo-teaser-mostra-sentinela-e-fala-de-vingadores-doomsday",
@@ -15829,6 +17106,26 @@
     "textoLength": 572
   },
   {
+    "slug": "universal-ter-parque-com-jurassic-world-senhor-dos-anis-e-mais-diz-rumor",
+    "titulo": "Universal planeja novo parque temático no Reino Unido com atrações de Jurassic World e Senhor dos Anéis",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/iqc_xXcnhntJ6Lsg8OYvVhYzHQw=/480x360/smart/extras/conteudos/jurassic-world-logo.png",
+    "data": "2025-04-10T20:11:17.591Z",
+    "tags": [
+      "Universal",
+      "parque temático",
+      "Jurassic World",
+      "Senhor dos Anéis",
+      "Minions",
+      "James Bond",
+      "De Volta para o Futuro",
+      "Paddington"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1420
+  },
+  {
     "slug": "until-dawn-novo-teaser-exclusivo-revela-um-loop-temporal-aterrorizante-veja",
     "titulo": "Until Dawn | Novo teaser exclusivo revela um loop temporal aterrorizante; veja",
     "categoria": "FILMES",
@@ -15865,6 +17162,26 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 1316
+  },
+  {
+    "slug": "val-kilmer-causa-da-morte-do-ator-confirmada-pelas-autoridades",
+    "titulo": "Val Kilmer | Causa da morte do ator é confirmada pelas autoridades",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/N39UAyFEU0G8YIi_9KMYRpcosBo=/480x360/smart/extras/conteudos/val-kilmer-capa.png",
+    "data": "2025-04-11T02:49:01.098Z",
+    "tags": [
+      "Val Kilmer",
+      "morte",
+      "câncer de garganta",
+      "pneumonia",
+      "Top Gun",
+      "Batman Eternamente",
+      "The Doors",
+      "tributo Tom Cruise"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1418
   },
   {
     "slug": "val-kilmer-morre-ator-de-top-gun-e-batman-eternamente-tinha-65-anos",
@@ -16961,6 +18278,26 @@
     "author": "Luana Souza",
     "tempoLeitura": 2,
     "textoLength": 1994
+  },
+  {
+    "slug": "xbox-ganha-comercial-dirigido-por-david-fincher-assista",
+    "titulo": "David Fincher dirige novo comercial do Xbox; assista à prévia",
+    "categoria": "GAMES",
+    "thumb": "https://cdn.ome.lt/sCidhJc1EmXxUK0G9k3ChdpMZIY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T123302.836.png",
+    "data": "2025-04-10T16:13:25.822Z",
+    "tags": [
+      "David Fincher",
+      "Xbox",
+      "comercial",
+      "jogos eletrônicos",
+      "Era Uma Vez em Hollywood 2",
+      "Quentin Tarantino",
+      "Brad Pitt",
+      "Netflix"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1926
   },
   {
     "slug": "xbox-levar-jogos-para-a-gamescom-latam-2025-com-surpresas",
