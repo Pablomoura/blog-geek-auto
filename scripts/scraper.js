@@ -8,7 +8,14 @@ const { google } = require("googleapis");
 if (!process.env.GOOGLE_CREDENTIALS) {
   throw new Error("❌ GOOGLE_CREDENTIALS não definida. Verifique suas variáveis de ambiente no GitHub.");
 }
-const serviceAccount = JSON.parse(process.env.GOOGLE_CREDENTIALS);
+let serviceAccount;
+try {
+  const decoded = Buffer.from(process.env.GOOGLE_CREDENTIALS, "base64").toString("utf-8");
+  serviceAccount = JSON.parse(decoded);
+} catch (error) {
+  throw new Error("❌ GOOGLE_CREDENTIALS inválida. Certifique-se de que está em base64 e contém JSON válido.");
+}
+
 
 const auth = new google.auth.GoogleAuth({
   credentials: serviceAccount,
