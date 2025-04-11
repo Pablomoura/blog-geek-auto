@@ -46,4 +46,7 @@ jobs:
 
           echo "🔁 Pingando Yandex..."
           curl https://yandex.com/indexnow?url=https://www.geeknews.com.br/sitemap.xml
-  
+      
+      - name: 🔄 Notificar IndexNow com URLs recentes
+        run: node scripts/ping-indexnow.js
+
