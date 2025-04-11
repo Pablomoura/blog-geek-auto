@@ -333,8 +333,8 @@ async function buscarNoticiasOmelete() {
     novaNoticia.resumo = reescrito.resumo;
     novaNoticia.texto = inserirTweetsNoTexto(
       inserirImagensNoTexto(reescrito.texto, imagensInternas),
-      tweets
-    );    
+      typeof tweets !== "undefined" ? tweets : []
+    );        
     novaNoticia.reescrito = true;
 
     const tags = reescrito.keywords
