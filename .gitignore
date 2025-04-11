@@ -44,3 +44,6 @@ public/posts.json
 
 scripts/gerar-tags.js
 google-service-account.json
+
+scripts/google-service-account.json
+temp.txt
