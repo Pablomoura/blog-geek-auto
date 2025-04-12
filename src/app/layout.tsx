@@ -47,6 +47,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <Link href="/contato" className="underline hover:text-orange-400 ml-1">
               Contato
             </Link>
+            {" | "}
+            <Link href="/sobre" className="underline hover:text-orange-400 ml-1">
+              Sobre o GeekNews
+            </Link>
           </p>
         </footer>
         </LoadingProvider>
