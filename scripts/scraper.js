@@ -174,6 +174,18 @@ async function extrairConteudoNoticia(url) {
         );
     });
 
+    // ✅ NOVO: extrair embeds do Instagram
+    const instagrams = await page.evaluate(() => {
+      return Array.from(document.querySelectorAll("iframe[src*='instagram.com']"))
+        .map((iframe) => {
+          const src = iframe.getAttribute("src");
+          return src
+            ? `<blockquote class="instagram-media"><a href="${src.replace("/embed/", "/")}"></a></blockquote>`
+            : null;
+        })
+        .filter(Boolean);
+    });
+
     // ✅ NOVO: extrair tweets a partir dos iframes
     const tweets = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("iframe[src*='twitter.com']"))
@@ -332,10 +344,12 @@ async function buscarNoticiasOmelete() {
 
     novaNoticia.titulo = reescrito.titulo;
     novaNoticia.resumo = reescrito.resumo;
+    const embeds = [...tweets, ...instagrams];
     novaNoticia.texto = inserirTweetsNoTexto(
       inserirImagensNoTexto(reescrito.texto, imagensInternas),
-      tweets
-    );       
+      embeds
+    );
+       
     novaNoticia.reescrito = true;
 
     const tags = reescrito.keywords
