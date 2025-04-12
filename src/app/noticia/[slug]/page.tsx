@@ -147,7 +147,11 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     } else {
       let textoFinal = await inserirLinksRelacionados(content, slug);
 
-      textoFinal = textoFinal.replace(/\[youtube\]:\s*(https:\/\/www\\.youtube\\.com\/watch\?v=([a-zA-Z0-9_-]+))/g, (_match, url, videoId) => {
+      // ✅ aplica links internos enquanto ainda está no Markdown puro
+      textoFinal = await aplicarLinksInternosInteligente(textoFinal, slug);
+
+      // YouTube embed antes de converter para HTML
+      textoFinal = textoFinal.replace(/\[youtube\]:\s*(https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]+))/g, (_match, url, videoId) => {
         return `
           <div class="relative pb-[56.25%] h-0 overflow-hidden rounded-lg shadow-lg my-8">
             <iframe
@@ -162,16 +166,17 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
         `;
       });
 
+      // ✅ agora sim converte para HTML com links embutidos
       const htmlConvertido = await marked.parse(textoFinal);
 
+      // Link externo target blank
       const htmlComTargetBlank = htmlConvertido.replace(
         /<a\s+(?![^>]*target=)[^>]*href="([^"]+)"([^>]*)>/g,
         '<a href="$1"$2 target="_blank" rel="noopener noreferrer">'
       );
 
-      const htmlComLinks = await aplicarLinksInternosInteligente(htmlComTargetBlank, slug);
-
-      const htmlSanitizado = DOMPurify.sanitize(htmlComLinks, {
+      // Sanitiza e otimiza
+      const htmlSanitizado = DOMPurify.sanitize(htmlComTargetBlank, {
         ADD_TAGS: ["iframe"],
         ADD_ATTR: [
           "allow",
@@ -189,8 +194,10 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
 
       htmlContent = otimizarImagensHtml(htmlSanitizado);
 
+      // ✅ Agora salva o HTML com os links aplicados no cache
       await fsExtra.ensureDir(cacheDir);
       await fs.writeFile(htmlPath, htmlContent);
+
     }
 
     const todosPosts: PostResumo[] = await loadPostCache();

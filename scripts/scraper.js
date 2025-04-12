@@ -176,15 +176,15 @@ async function extrairConteudoNoticia(url) {
 
     // ✅ NOVO: extrair tweets a partir dos iframes
     const tweets = await page.evaluate(() => {
-      return Array.from(document.querySelectorAll("div.twitter-tweet iframe"))
+      return Array.from(document.querySelectorAll("iframe[src*='twitter.com']"))
         .map((iframe) => {
-          const tweetId = iframe.getAttribute("data-tweet-id") || iframe.src.match(/id=(\\d{10,25})/)?.[1];
+          const tweetId = iframe.getAttribute("data-tweet-id") || iframe.src.match(/status\/(\d{10,25})/)?.[1];
           return tweetId
             ? `<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/${tweetId}"></a></blockquote>`
             : null;
         })
         .filter(Boolean);
-    });    
+    });       
 
     // 🎯 Extrair parágrafos de texto
     const texto = await page.evaluate(() => {
@@ -314,7 +314,8 @@ async function buscarNoticiasOmelete() {
     if (!noticia.titulo || postsExistentes.some((p) => slugify(p.slug) === slug)) continue;
 
     console.log(`📖 Capturando conteúdo de: ${noticia.titulo}`);
-    const { texto, midia, tipoMidia, imagensInternas } = await extrairConteudoNoticia(noticia.link);
+    const { texto, midia, tipoMidia, imagensInternas, tweets } = await extrairConteudoNoticia(noticia.link);
+    console.log("🐦 Tweets encontrados:", tweets);
 
     const novaNoticia = {
       ...noticia,
@@ -333,8 +334,8 @@ async function buscarNoticiasOmelete() {
     novaNoticia.resumo = reescrito.resumo;
     novaNoticia.texto = inserirTweetsNoTexto(
       inserirImagensNoTexto(reescrito.texto, imagensInternas),
-      typeof tweets !== "undefined" ? tweets : []
-    );        
+      tweets
+    );       
     novaNoticia.reescrito = true;
 
     const tags = reescrito.keywords

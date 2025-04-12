@@ -13,6 +13,8 @@ data: "2025-04-12T17:08:40.205Z"
 
 Jason Momoa concluiu as filmagens de sua participação como Lobo no filme 'Supergirl: Woman of Tomorrow' (Supergirl: A Mulher do Amanhã, em tradução livre). O ator anunciou o término de seu trabalho no projeto através de uma publicação no Instagram neste sábado (12).
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Jason Momoa says he wrapped filming as Lobo on ‘SUPERGIRL: WOMAN OF TOMORROW.’ <br><br>(Supergirl art <a href="https://twitter.com/jobhutz?ref_src=twsrc%5Etfw">@jobhutz</a>) <a href="https://t.co/ZbrpdMtQnt">pic.twitter.com/ZbrpdMtQnt</a></p>&mdash; DC Film News (@DCFilmNews) <a href="https://twitter.com/DCFilmNews/status/1911050819736043707?ref_src=twsrc%5Etfw">April 12, 2025</a></blockquote>
+
 O filme, um épico de ficção científica, é baseado na aclamada série de quadrinhos escrita por Tom King e ilustrada por Bilquis Eveley. Diferentemente de suas aventuras na Terra, neste filme, Supergirl viaja pelo espaço em uma missão de vingança e justiça. Acompanhada de Krypto, o Supercão, ela se alia à jovem Ruthye Marie Knoll para perseguir o assassino do pai de Ruthye, Krem.
 
 Milly Alcock, conhecida por seu papel como a jovem Rhaenyra em 'A Casa do Dragão', assume o papel de Supergirl. Eve Ridley ('Problema dos 3 Corpos') interpreta Ruthye, e Matthias Schoenaerts ('The Old Guard') dá vida ao antagonista Krem. O elenco ainda inclui David Krumholtz e Emily Beecham nos papéis de Zor-El e Alura In-Ze, respectivamente, pais da protagonista, e Jason Momoa, anteriormente Aquaman no universo DC, agora no papel do mercenário Lobo.

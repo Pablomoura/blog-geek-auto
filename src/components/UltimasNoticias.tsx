@@ -27,10 +27,10 @@ export default function UltimasNoticias({
           >
             {post.thumb && (
               <img
-              src={post.thumb}
-              alt={post.titulo}
-              className="w-full sm:w-60 h-36 object-cover rounded-lg aspect-video"
-            />
+                src={post.thumb}
+                alt={post.titulo}
+                className="w-full sm:w-60 h-36 object-cover rounded-lg aspect-video"
+                />
             
             )}
             <div className="flex flex-col justify-between">
