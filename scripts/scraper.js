@@ -222,7 +222,7 @@ async function extrairConteudoNoticia(url) {
     const tipoMidia = midia?.includes("youtube") ? "video" : "imagem";
 
     await browser.close();
-    return { texto, midia, tipoMidia, imagensInternas, tweets };
+    return { texto, midia, tipoMidia, imagensInternas, tweets, instagrams };
 
   } catch (err) {
     await browser.close();
