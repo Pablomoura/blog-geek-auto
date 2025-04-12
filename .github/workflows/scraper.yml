@@ -31,6 +31,9 @@ jobs:
       - name: Roda o scraper
         run: node scripts/scraper.js
 
+      - name: Gerar RSS
+        run: npm run rss
+
       - name: Configura usuário git
         run: |
           git config user.name "github-actions[bot]"

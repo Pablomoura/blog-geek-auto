@@ -326,7 +326,7 @@ async function buscarNoticiasOmelete() {
     if (!noticia.titulo || postsExistentes.some((p) => slugify(p.slug) === slug)) continue;
 
     console.log(`📖 Capturando conteúdo de: ${noticia.titulo}`);
-    const { texto, midia, tipoMidia, imagensInternas, tweets } = await extrairConteudoNoticia(noticia.link);
+    const { texto, midia, tipoMidia, imagensInternas, tweets, instagrams } = await extrairConteudoNoticia(noticia.link);
     console.log("🐦 Tweets encontrados:", tweets);
 
     const novaNoticia = {

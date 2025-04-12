@@ -44,6 +44,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               Política de Privacidade
             </Link>
             {" | "}
+            <Link href="/politica-editorial" className="underline hover:text-orange-400 ml-1">
+              Política Editorial
+            </Link>
+            {" | "}
             <Link href="/contato" className="underline hover:text-orange-400 ml-1">
               Contato
             </Link>
