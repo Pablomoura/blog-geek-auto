@@ -19,7 +19,8 @@ interface EspeciaisProps {
   especiais: Record<string, PostEspecial[]>;
 }
 
-function slugify(text: string) {
+function slugify(text?: string) {
+  if (!text) return "";
   return text
     .toLowerCase()
     .normalize("NFD")
@@ -29,13 +30,17 @@ function slugify(text: string) {
     .replace(/[^\w-]/g, "");
 }
 
-const formatarNome = (slug: string) => {
-  return slug.replace("especial-", "").replace(/-/g, " ").replace(/\b\w/g, l => l.toUpperCase());
+const formatarNome = (slug?: string) => {
+  if (!slug) return "";
+  return slug
+    .replace("especial-", "")
+    .replace(/-/g, " ")
+    .replace(/\b\w/g, (l) => l.toUpperCase());
 };
 
 export default function Especiais({ especiais }: EspeciaisProps) {
-  const tags = Object.keys(especiais);
-  const [ativa, setAtiva] = useState(tags[0]);
+  const tags = Object.keys(especiais).filter(Boolean);
+  const [ativa, setAtiva] = useState(tags[0] || "");
 
   return (
     <section className="max-w-6xl mx-auto px-6 py-12">
@@ -88,16 +93,17 @@ export default function Especiais({ especiais }: EspeciaisProps) {
           </Link>
         ))}
       </div>
-      <div className="mt-6 text-center">
-        <Link
-          href={`/tag/${slugify(ativa)}`}
 
-          className="inline-block bg-orange-500 text-white px-5 py-2 rounded-full text-sm font-medium hover:bg-orange-600 transition"
-        >
-          Ver tudo de {formatarNome(ativa)}
-        </Link>
-      </div>
-
+      {ativa && (
+        <div className="mt-6 text-center">
+          <Link
+            href={`/tag/${slugify(ativa)}`}
+            className="inline-block bg-orange-500 text-white px-5 py-2 rounded-full text-sm font-medium hover:bg-orange-600 transition"
+          >
+            Ver tudo de {formatarNome(ativa)}
+          </Link>
+        </div>
+      )}
     </section>
   );
 }

@@ -363,6 +363,8 @@ data: "${new Date().toISOString()}"
     const markdown = frontMatter + novaNoticia.texto;
     fs.writeFileSync(mdPath, markdown, "utf-8");
 
+    novaNoticia.data = new Date().toISOString();
+    
     resultados.push(novaNoticia);
     await enviarParaIndexingAPI(`https://www.geeknews.com.br/noticia/${slug}`);
   }

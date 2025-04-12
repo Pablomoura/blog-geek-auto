@@ -1,13 +1,15 @@
 // src/app/page.tsx
 import fs from "fs/promises";
 import path from "path";
-import matter from "gray-matter";
 import Link from "@/components/SmartLink"; // usa o seu link customizado
 import Header from "@/components/Header";
 import React from "react";
 import ProdutosAmazon from "@/components/ProdutosAmazon";
 import WebStories from "@/components/WebStories";
 import Especiais from "@/components/Especiais";
+import UltimasNoticias from "@/components/UltimasNoticias";
+import matter from "gray-matter";
+
 
 type Banner = {
   slug: string;
@@ -44,6 +46,7 @@ interface Post {
   story?: boolean; 
   tags?: string[];
   autor: string;
+  reescrito?: boolean;
 }
 
 export const metadata = {
@@ -57,15 +60,35 @@ export const metadata = {
 
 export default async function HomePage({ searchParams }: { searchParams: Promise<{ page?: string }> }) {
   const { page } = await searchParams;
-  const arquivos = await fs.readdir(path.join(process.cwd(), "content"));
+
+  // 📥 Carrega posts.json apenas para "Últimas Notícias"
+  const postsJsonRaw = await fs.readFile(path.join(process.cwd(), "public/posts.json"), "utf-8");
+  const jsonPosts: Post[] = (JSON.parse(postsJsonRaw) as Post[])
+  .filter((p) =>
+    typeof p.slug === "string" &&
+    typeof p.titulo === "string" &&
+    typeof p.thumb === "string" &&
+    typeof p.categoria === "string"
+  )
+  .map((p) => ({
+    ...p,
+    tempoLeitura: Math.ceil((p.texto || "").split(/\s+/).length / 200),
+  }))
+  .sort((a, b) => new Date(b.data || "").getTime() - new Date(a.data || "").getTime());
+
+
+  const postsPorPagina = 9;
+  const paginaAtual = parseInt(page || "1", 10);
+  const totalPaginas = Math.ceil(jsonPosts.length / postsPorPagina);
+  const exibidos = jsonPosts.slice((paginaAtual - 1) * postsPorPagina, paginaAtual * postsPorPagina);
+
+  // 📂 Carrega arquivos .md para usar em stories, especiais e mais lidas
+  const contentDir = path.join(process.cwd(), "content");
+  const arquivos = await fs.readdir(contentDir);
   const posts: Post[] = [];
 
-  const postsJson = await fs.readFile(path.join(process.cwd(), "public/posts.json"), "utf-8");
-  type ResumoItem = { slug: string; resumo: string };
-  const resumoMap = Object.fromEntries((JSON.parse(postsJson) as ResumoItem[]).map((p) => [p.slug, p.resumo]));
-
   for (const nomeArquivo of arquivos) {
-    const arquivo = await fs.readFile(path.join(process.cwd(), "content", nomeArquivo), "utf-8");
+    const arquivo = await fs.readFile(path.join(contentDir, nomeArquivo), "utf-8");
     const { data, content } = matter(arquivo);
     const tempoLeitura = Math.ceil(content.split(/\s+/).length / 200);
 
@@ -76,7 +99,8 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
       data.categoria &&
       data.midia &&
       data.tipoMidia &&
-      data.data
+      data.data &&
+      !isNaN(new Date(data.data).getTime())
     ) {
       posts.push({
         slug: data.slug,
@@ -86,20 +110,21 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
         data: data.data,
         texto: content,
         tempoLeitura,
-        resumo: resumoMap[data.slug] || "",
+        resumo: data.resumo || "",
         story: data.story === true,
-        tags: data.tags || [], 
+        tags: data.tags || [],
         autor: data.author || "Equipe GeekNews",
-      });      
-    } else {
-      console.warn(`Post ignorado: ${nomeArquivo} está com campos faltando no frontmatter.`);
-    }       
+      });
+    }
   }
 
   posts.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
-  // Agrupar por tags especiais (que começam com "especial-")
-  const especiaisMapeadoPorTag: Record<string, Post[]> = {};
 
+  const stories = posts.filter((p) => p.story);
+  const maisLidas = [...posts].sort((a, b) => b.texto.length - a.texto.length).slice(0, 3);
+
+  // 🔖 Mapeia posts com tags "especial-"
+  const especiaisMapeadoPorTag: Record<string, Post[]> = {};
   for (const post of posts) {
     const tags = post.tags || [];
     for (const tag of tags) {
@@ -113,20 +138,14 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
       }
     }
   }
+
+  // 🧊 Carrega cache de banners
   const cache = await carregarCacheBanners();
-
-  const stories = posts.filter((p) => p.story === true);
-
   const bannerFilmes = cache.filmes;
   const bannerGames = cache.games;
   const bannerSeries = cache.series;
 
-  const maisLidas = [...posts].sort((a, b) => b.texto.length - a.texto.length).slice(0, 3);
 
-  const postsPorPagina = 9;
-  const paginaAtual = parseInt(page || "1", 10);
-  const totalPaginas = Math.ceil(posts.length / postsPorPagina);
-  const exibidos = posts.slice((paginaAtual - 1) * postsPorPagina, paginaAtual * postsPorPagina);
 
   return (
     <>
@@ -185,83 +204,11 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
             <div className="bg-gray-200 dark:bg-gray-800 h-32 mb-6 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
               Espaço reservado para publicidade
             </div>
-            <h1 className="text-3xl font-extrabold capitalize mb-8 text-neutral-900 dark:text-white">
-              Últimas Notícias
-            </h1>
-
-            <div className="space-y-8">
-              {exibidos.map((post) => (
-                <Link
-                  key={post.slug}
-                  href={`/noticia/${post.slug}`}
-                  className="flex flex-col sm:flex-row gap-5 bg-white dark:bg-gray-900 p-5 rounded-xl shadow hover:shadow-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition overflow-hidden"
-                >
-                  {post.thumb && (
-                    <img
-                      src={post.thumb}
-                      alt={post.titulo}
-                      className="w-full sm:w-60 h-40 sm:h-36 object-cover rounded-lg"
-                    />
-                  )}
-                  <div className="flex flex-col justify-between">
-                    <div>
-                      <p className="text-orange-500 text-xs font-bold uppercase mb-1">{post.categoria}</p>
-                      <h2 className="text-lg font-semibold text-neutral-900 dark:text-white leading-snug">
-                        {post.titulo}
-                      </h2>
-                    </div>
-                    <div className="text-xs text-gray-400 dark:text-gray-500 mt-2 flex items-center gap-2">
-                      <span>{new Date(post.data).toLocaleDateString("pt-BR")}</span>
-                      <span>•</span>
-                      <span>{post.tempoLeitura} min de leitura</span>
-                    </div>
-                  </div>
-                </Link>
-              ))}
-            </div>
-
-            {totalPaginas > 1 && (
-              <div className="mt-10 flex justify-center items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
-                {paginaAtual > 1 && (
-                  <Link
-                    href={`/?page=${paginaAtual - 1}`}
-                    className="px-3 py-1 rounded bg-gray-300 dark:bg-gray-700 hover:bg-gray-400 dark:hover:bg-gray-600 transition"
-                  >
-                    Anterior
-                  </Link>
-                )}
-
-                {Array.from({ length: totalPaginas }, (_, i) => i + 1)
-                  .filter((n) => n === 1 || n === totalPaginas || Math.abs(n - paginaAtual) <= 2)
-                  .map((n, idx, arr) => {
-                    const anterior = arr[idx - 1];
-                    return (
-                      <React.Fragment key={n}>
-                        {anterior && n - anterior > 1 && <span className="px-2">...</span>}
-                        <Link
-                          href={`/?page=${n}`}
-                          className={`px-3 py-1 rounded ${
-                            n === paginaAtual
-                              ? "bg-orange-500 text-white font-bold"
-                              : "bg-gray-200 dark:bg-gray-800 hover:bg-gray-300 dark:hover:bg-gray-700"
-                          }`}
-                        >
-                          {n}
-                        </Link>
-                      </React.Fragment>
-                    );
-                  })}
-
-                {paginaAtual < totalPaginas && (
-                  <Link
-                    href={`/?page=${paginaAtual + 1}`}
-                    className="px-3 py-1 rounded bg-gray-300 dark:bg-gray-700 hover:bg-gray-400 dark:hover:bg-gray-600 transition"
-                  >
-                    Próximo
-                  </Link>
-                )}
-              </div>
-            )}
+            <UltimasNoticias
+              posts={exibidos}
+              paginaAtual={paginaAtual}
+              totalPaginas={totalPaginas}
+            />
           </div>
 
           <aside className="w-full lg:w-[300px] flex-shrink-0 space-y-10">
