@@ -34,14 +34,18 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { tag } = await params;
   const tagFormatada = tag.replace(/-/g, " ");
+  const canonicalUrl = `https://www.geeknews.com.br/tag/${slugify(tag)}`;
 
   return {
     title: `${tagFormatada} - GeekNews`,
     description: `Confira todas as matérias marcadas com a tag ${tagFormatada} no GeekNews.`,
+    alternates: {
+      canonical: canonicalUrl, 
+    },
     openGraph: {
       title: `Tag: ${tagFormatada} - GeekNews`,
       description: `Confira todas as matérias marcadas com a tag ${tagFormatada} no GeekNews.`,
-      url: `https://www.geeknews.com.br/tag/${slugify(tag)}`,
+      url: canonicalUrl,
       siteName: "GeekNews",
       type: "website",
     },
