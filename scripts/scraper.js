@@ -415,7 +415,7 @@ async function buscarNoticiasOmelete() {
 
     novaNoticia.titulo = reescrito.titulo;
     novaNoticia.resumo = reescrito.resumo;
-    const embeds = [...tweets, ...instagrams];
+    const embeds = [...(tweets || []), ...(instagrams || [])];
     novaNoticia.texto = inserirTweetsNoTexto(
       inserirImagensNoTexto(reescrito.texto, imagensInternas),
       embeds
