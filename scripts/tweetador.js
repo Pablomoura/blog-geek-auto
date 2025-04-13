@@ -37,7 +37,7 @@ function registrarTweetFeito(log) {
 }
 
 async function gerarTweetCriativo(titulo, resumo, tags = []) {
-  const prompt = `Crie um tweet curto, empolgante e informal com base no título e resumo abaixo. Use emojis com moderação e até 2 hashtags populares. Inclua uma chamada para o link no final.
+  const prompt = `Crie um tweet curto, empolgante e informal com base no título e resumo abaixo. Use no máximo 1 emojis e até 2 hashtags populares.
 
 Título: ${titulo}
 Resumo: ${resumo}
@@ -90,7 +90,8 @@ async function postarNoTwitter({ titulo, slug, resumo, tags }) {
     return;
   }
 
-  for (const post of posts.slice(0, 10)) {
+  posts.sort((a, b) => new Date(b.data) - new Date(a.data));
+  for (const post of posts) {
     const slug = post.slug;
     const url = `https://www.geeknews.com.br/noticia/${slug}`;
 

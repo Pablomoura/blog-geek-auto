@@ -51,15 +51,20 @@ export async function generateMetadata({
         ? data.thumb || data.midia
         : `https://www.geeknews.com.br${data.thumb || data.midia || ""}`;
 
+    const canonicalUrl = `https://www.geeknews.com.br/noticia/${slug}`;
+
     return {
       title: data.title,
       description: data.resumo,
       keywords: data.tags || [],
+      alternates: {
+        canonical: canonicalUrl, 
+      },
       openGraph: {
         title: data.title,
         description: data.resumo,
         type: "article",
-        url: `https://www.geeknews.com.br/noticia/${slug}`,
+        url: canonicalUrl,
         images: [
           {
             url: imageUrl,
