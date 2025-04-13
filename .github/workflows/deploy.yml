@@ -44,3 +44,10 @@ jobs:
         env:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
 
+      - name: Espera 4 minutos
+        run: sleep 240
+        
+      - name: Posta no Twitter
+        run: node scripts/tweetador.js
+        
+

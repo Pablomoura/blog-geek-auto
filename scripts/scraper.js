@@ -4,8 +4,6 @@ const axios = require("axios");
 const puppeteer = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 require("dotenv").config();
-const logPath = path.join(process.cwd(), "public/tweet-log.json");
-const { TwitterApi } = require("twitter-api-v2");
 const { google } = require("googleapis");
 
 if (!process.env.GOOGLE_CREDENTIALS) {
@@ -64,26 +62,6 @@ function slugify(text) {
     .replace(/\-\-+/g, "-")
     .replace(/^-+/, "")
     .replace(/-+$/, "");
-}
-
-function carregarLogTweets() {
-  if (!fs.existsSync(logPath)) return {};
-  return JSON.parse(fs.readFileSync(logPath, "utf-8"));
-}
-
-function salvarLogTweets(log) {
-  fs.writeFileSync(logPath, JSON.stringify(log, null, 2), "utf-8");
-}
-
-function podeTweetarHoje(log, limite = 3) {
-  const hoje = new Date().toISOString().split("T")[0];
-  return (log[hoje] || 0) < limite;
-}
-
-function registrarTweetFeito(log) {
-  const hoje = new Date().toISOString().split("T")[0];
-  log[hoje] = (log[hoje] || 0) + 1;
-  salvarLogTweets(log);
 }
 
 // Função auxiliar para gerar tags com IA
@@ -305,55 +283,6 @@ Responda em JSON com:
     return null;
   }
 }
-// Configura o cliente do Twitter
-const client = new TwitterApi({
-  appKey: process.env.TWITTER_APP_KEY,
-  appSecret: process.env.TWITTER_APP_SECRET,
-  accessToken: process.env.TWITTER_ACCESS_TOKEN,
-  accessSecret: process.env.TWITTER_ACCESS_SECRET,
-});
-
-async function postarNoTwitter({ titulo, slug, resumo, tags }) {
-  const url = `https://www.geeknews.com.br/noticia/${slug}`;
-  const tweet = await gerarTweetCriativo(titulo, resumo, tags);
-  const status = `${tweet}\n\n${url}`;
-
-  try {
-    await client.v2.tweet(status);
-    console.log("✅ Postado no X/Twitter!");
-  } catch (err) {
-    console.error("❌ Erro ao postar no Twitter:", err.message);
-  }
-}
-async function gerarTweetCriativo(titulo, resumo, tags = []) {
-  const prompt = `Crie um tweet curto, empolgante e informal com base no título e resumo abaixo. Use emojis e até 3 hashtags populares (com base no contexto). Inclua uma chamada para o link no final.
-
-Título: ${titulo}
-Resumo: ${resumo}
-Responda com apenas o tweet, sem aspas.`;
-
-  try {
-    const response = await axios.post(
-      "https://api.openai.com/v1/chat/completions",
-      {
-        model: "gpt-4-turbo",
-        messages: [{ role: "user", content: prompt }],
-        temperature: 0.9,
-      },
-      {
-        headers: {
-          Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
-          "Content-Type": "application/json",
-        },
-      }
-    );
-
-    return response.data.choices[0].message.content.trim();
-  } catch (err) {
-    console.error("❌ Erro ao gerar tweet criativo:", err.message);
-    return `${titulo}`;
-  }
-}
 
 async function buscarNoticiasOmelete() {
   const browser = await puppeteer.launch({ headless: "new", args: ["--no-sandbox"] });
@@ -426,20 +355,6 @@ async function buscarNoticiasOmelete() {
     const tags = reescrito.keywords
   ? reescrito.keywords.split(",").map((t) => t.trim()).filter(Boolean)
   : [];
-
-    const logTweets = carregarLogTweets();
-
-    if (podeTweetarHoje(logTweets, 3)) {
-      await postarNoTwitter({
-        titulo: novaNoticia.titulo,
-        slug,
-        resumo: novaNoticia.resumo,
-        tags,
-      });      
-      registrarTweetFeito(logTweets);
-    } else {
-      console.log("⏸️ Limite diário de tuítes atingido. Pulando publicação no X/Twitter.");
-    }
 
     const keywords = tags.join(", ");
 
