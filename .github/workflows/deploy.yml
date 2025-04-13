@@ -9,6 +9,13 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      TWITTER_APP_KEY: ${{ vars.TWITTER_APP_KEY }}
+      TWITTER_APP_SECRET: ${{ vars.TWITTER_APP_SECRET }}
+      TWITTER_ACCESS_TOKEN: ${{ vars.TWITTER_ACCESS_TOKEN }}
+      TWITTER_ACCESS_SECRET: ${{ vars.TWITTER_ACCESS_SECRET }}
+
     steps:
       - name: 📥 Checkout do código
         uses: actions/checkout@v3
@@ -43,9 +50,6 @@ jobs:
         run: node scripts/send-to-indexing-api.js
         env:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
-
-      - name: Espera 4 minutos
-        run: sleep 240
         
       - name: Posta no Twitter
         run: node scripts/tweetador.js
