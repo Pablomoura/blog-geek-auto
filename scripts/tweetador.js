@@ -17,7 +17,10 @@ const client = new TwitterApi({
 });
 
 function carregarLogTweets() {
-  if (!fs.existsSync(logPath)) return {};
+  if (!fs.existsSync(logPath)) {
+    fs.writeFileSync(logPath, JSON.stringify({}, null, 2), "utf-8");
+    return {};
+  }
   return JSON.parse(fs.readFileSync(logPath, "utf-8"));
 }
 
