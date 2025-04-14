@@ -175,17 +175,35 @@ async function extrairConteudoNoticia(url) {
         );
     });
 
-    // ✅ NOVO: extrair embeds do Instagram
-    const instagrams = await page.evaluate(() => {
+    // ✅ Embeds do Instagram via iframe
+    const instagramIframes = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("iframe[src*='instagram.com']"))
         .map((iframe) => {
-          const src = iframe.getAttribute("src");
-          return src
-            ? `<blockquote class="instagram-media"><a href="${src.replace("/embed/", "/")}"></a></blockquote>`
-            : null;
+          const src = iframe.getAttribute("src") || "";
+          try {
+            const url = new URL(src, "https://www.instagram.com");
+            const postUrl = url.pathname.replace("/embed", "");
+            return postUrl
+              ? `<blockquote class="instagram-media"><a href="https://www.instagram.com${postUrl}"></a></blockquote>`
+              : null;
+          } catch {
+            return null;
+          }
         })
         .filter(Boolean);
     });
+
+    // ✅ Fallback: links diretos para posts
+    const instagramLinks = await page.evaluate(() => {
+      return Array.from(document.querySelectorAll("a[href*='instagram.com/p/']"))
+        .map((a) => {
+          const href = a.getAttribute("href");
+          return href ? `<blockquote class="instagram-media"><a href="${href}"></a></blockquote>` : null;
+        })
+        .filter(Boolean);
+    });
+
+    const instagrams = [...instagramIframes, ...instagramLinks];
 
     // ✅ NOVO: extrair tweets a partir dos iframes
     const tweets = await page.evaluate(() => {
