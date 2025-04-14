@@ -1,35 +1,24 @@
 ---
-title: Chicago Fire | Eamonn Walker retorna como Wallace Boden na 13ª temporada
-slug: chicago-fire-retorno-de-eamonn-walker-na-13-temporada-ganha-foto
-categoria: SÉRIES E TV
-midia: 'https://www.youtube.com/embed/P4NGMUeGmrw?showinfo=0&enablejsapi=1'
-tipoMidia: video
-thumb: >-
-  https://cdn.ome.lt/Ysv2YpML6lPICq1DpgxcM66HKMs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_165215.png
-tags:
-  - Chicago Fire
-  - Eamonn Walker
-  - Wallace Boden
-  - 13ª temporada
-  - série de TV
-  - retorno de personagem
-  - Universal TV
-  - streaming
-keywords: >-
-  Chicago Fire, Eamonn Walker, Wallace Boden, 13ª temporada, série de TV,
-  retorno de personagem, Universal TV, streaming
-data: '2025-04-09T20:11:56.663Z'
-author: Luana Souza
+title: "Chicago Fire | Eamonn Walker retorna na 13ª temporada e primeira imagem é divulgada"
+slug: "chicago-fire-retorno-de-eamonn-walker-na-13-temporada-ganha-foto"
+categoria: "SÉRIES E TV"
+midia: "https://www.youtube.com/embed/P4NGMUeGmrw?showinfo=0&enablejsapi=1"
+tipoMidia: "video"
+thumb: "https://cdn.ome.lt/Ysv2YpML6lPICq1DpgxcM66HKMs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_165215.png"
+tags: ["Chicago Fire", "Eamonn Walker", "retorno", "13ª temporada"]
+keywords: "Chicago Fire, Eamonn Walker, retorno, 13ª temporada"
+author: "Luana Souza"
+data: "2025-04-14T18:13:39.472Z"
 ---
 
-A série 'Chicago Fire' está prestes a reacolher um de seus mais carismáticos personagens, Wallace Boden, interpretado pelo ator Eamonn Walker. A primeira imagem de seu retorno já foi divulgada e mostra Boden ao lado de importantes personagens como o chefe Dom Pascal, Stella Kidd e Christopher Hermann, em uma foto cortesia do Deadline.
+Eamonn Walker está de volta em 'Chicago Fire' como Wallace Boden, o ex-chefe do departamento de bombeiros 51. A série divulgou a primeira imagem do personagem após seu retorno, onde ele aparece ao lado de Dom Pascal, Stella Kidd e Christopher Hermann.
 
 ![Imagem da notícia](https://cdn.ome.lt/s3_0Q36PdjHeFARQ47OrAL4HrRs=/fit-in/837x500/smart/uploads/conteudo/fotos/chicago_fire.jpg)
 
-A expectativa aumenta com a liberação de um clipe que antecipa o retorno do personagem, aguçando ainda mais a curiosidade dos fãs sobre o que esperar deste episódio. Marcado para ir ao ar em 16 de abril nos Estados Unidos, o episódio intitulado 'Post Mortem' promete ser revelador. Nele, Boden é encarregado pelo Comissário Grissom, interpretado por Gary Cole, de liderar uma análise detalhada após um trágico incêndio em uma residência que resultou no colapso da estrutura com um bombeiro ainda dentro.
+Um clipe destacando o retorno de Boden já havia sido lançado anteriormente. Nos Estados Unidos, o episódio marcando o retorno de Walker, intitulado 'Post Mortem', será exibido em 16 de abril. Este episódio mostrará Boden sendo incumbido pelo Comissário Grissom (Gary Cole) de realizar uma análise pós-incidente de um incêndio em uma residência que colapsou, resultando em um bombeiro preso nos escombros.
 
-Andrea Newman, showrunner da série, expressou grande entusiasmo com o retorno de Boden, descrevendo o episódio como 'uma viagem emocionante e diferente de tudo que já fizemos antes'. Segundo ela, a narrativa será enriquecida com flashbacks que ajudarão a desvendar uma intensa troca de tiros que culminou em desastre.
+"Estamos entusiasmados por ter nosso amado Chefe Boden de volta. O episódio promete ser uma emocionante jornada, contada através de flashbacks únicos, onde Boden lidera a equipe na investigação de um tiroteio intenso que culminou em tragédia”, afirmou Andrea Newman, showrunner da série.
 
-Eamonn Walker havia se afastado do elenco regular de 'Chicago Fire' durante a 12ª temporada para dedicar mais tempo à sua família. Apesar disso, ele deixou claro que estava aberto a retornar para participações especiais, o que se concretiza agora. Dermot Mulroney foi quem assumiu o posto de novo chefe, Dom Pascal, após a saída de Walker.
+Walker havia deixado o elenco regular de 'Chicago Fire' durante a 12ª temporada para se dedicar à família, mas mencionou a possibilidade de retornar para participações especiais. Dermot Mulroney assumiu o papel de novo chefe, Dom Pascal, após a saída de Walker.
 
-A 13ª temporada de 'Chicago Fire' estreou na Universal TV, e também pode ser acompanhada através do streaming no Brasil pelo Prime Video e Globoplay. Além de 'Chicago Fire', as séries relacionadas 'Chicago P.D.' e 'Chicago Med', continuam suas trajetórias com novas temporadas, sendo exibidas na Universal TV às segundas, às 22h20.
+A 13ª temporada de 'Chicago Fire' está sendo exibida na Universal TV, que também transmite as novas temporadas de 'Chicago P.D.' e 'Chicago Med'. As séries estão disponíveis para streaming no Brasil através do Universal+ e do Globoplay.
