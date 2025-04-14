@@ -11,4 +11,7 @@ author: "Pablo Moura"
 data: "2025-04-14T15:11:46.042Z"
 ---
 
-O filme Outro Pequeno Favor, protagonizado por Anna Kendrick e Blake Lively, acaba de lançar seu primeiro trailer. A trama se desenrola na pitoresca ilha de Capri, na Itália, onde Stephanie Smothers (Kendrick) e Emily Nelson (Lively) se encontram para o luxuoso casamento de Emily com um abastado empresário italiano. O evento, repleto de convidados elegantes, promete ser marcado por tensões, assassinatos e traições, indicando uma série de reviravoltas inesperadas. O elenco também conta com o retorno de Henry Golding, Andrew Rannells, Bashir Salahuddin, Joshua Satine, Ian Ho e Kelly McCormack. Novos nomes incluem Michelle Morrone, Allison Janney, Elizabeth Perkins, Alex Newell, Taylor Ortega, Aparna Nancherla, Elena Sofia Ricci e Lorenzo de Moor.
+O filme Outro Pequeno Favor, protagonizado por Anna Kendrick e Blake Lively, acaba de lançar seu primeiro trailer. A trama se desenrola na pitoresca ilha de Capri, na Itália, onde Stephanie Smothers (Kendrick) e Emily Nelson (Lively) se encontram para o luxuoso casamento de Emily com um abastado empresário italiano. 
+
+O evento, repleto de convidados elegantes, promete ser marcado por tensões, assassinatos e traições, indicando uma série de reviravoltas inesperadas. O elenco também conta com o retorno de Henry Golding, Andrew Rannells, Bashir Salahuddin, Joshua Satine, Ian Ho e Kelly McCormack. 
+Novos nomes incluem Michelle Morrone, Allison Janney, Elizabeth Perkins, Alex Newell, Taylor Ortega, Aparna Nancherla, Elena Sofia Ricci e Lorenzo de Moor.

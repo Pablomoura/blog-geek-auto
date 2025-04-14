@@ -2,8 +2,8 @@
 title: "Um Filme Minecraft presta homenagem ao youtuber Technoblade"
 slug: "um-filme-minecraft-veja-homenagem-a-technoblade-falecido-youtuber-do-jogo"
 categoria: "FILMES"
-midia: "https://td.doubleclick.net/td/rul/10955670600?random=1744643451683&cv=11&fst=1744643451683&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be5490v896288557za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=102509683~102803279~102813109~102887800~102926062~103021830~103027016~103050889~103051953~103055465&u_w=800&u_h=600&url=https%3A%2F%2Fwww.omelete.com.br%2Ffilmes%2Fum-filme-minecraft-veja-homenagem-a-technoblade&hn=www.googleadservices.com&frm=0&tiba=Um%20Filme%20Minecraft%20%7C%20Veja%20homenagem%20a%20Technoblade%2C%20falecido%20youtuber&npa=0&auid=499352229.1744643451&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&fledge=1&data=event%3Dgtag.config&enablejsapi=1"
-tipoMidia: "video"
+midia: "https://cdn.ome.lt/uMAmiVkHk5Y7clz-w9lTJEIlTog=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-14T111848.091.png"
+tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/FiHTRXAcwihuunr0XK5hawqvwUA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T112019.275.png"
 tags: ["Minecraft", "Technoblade", "Um Filme Minecraft", "homenagem", "youtuber", "filme", "Jack Black", "Jason Momoa"]
 keywords: "Minecraft, Technoblade, Um Filme Minecraft, homenagem, youtuber, filme, Jack Black, Jason Momoa"
