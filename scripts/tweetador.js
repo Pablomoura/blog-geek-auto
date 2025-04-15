@@ -1,14 +1,18 @@
-// scripts/tweetador.js
-
 const fs = require("fs");
 const path = require("path");
 const axios = require("axios");
+const { execSync } = require("child_process");
 require("dotenv").config();
 const { TwitterApi } = require("twitter-api-v2");
 
-const logPath = path.join(process.cwd(), "public/tweet-log.json");
+const logDir = path.join(process.cwd(), "data");
+const logPath = path.join(logDir, "tweet-log.json");
 const postsPath = path.join(process.cwd(), "public/posts.json");
 
+// Garante que a pasta exista
+fs.mkdirSync(logDir, { recursive: true });
+
+// Twitter client
 const client = new TwitterApi({
   appKey: process.env.TWITTER_APP_KEY,
   appSecret: process.env.TWITTER_APP_SECRET,
@@ -30,17 +34,19 @@ function salvarLogTweets(log) {
 
 function podeTweetarHoje(log, limite = 3) {
   const hoje = new Date().toISOString().split("T")[0];
-  return (log[hoje] || 0) < limite;
+  return (log[hoje]?.count || 0) < limite;
 }
 
-function registrarTweetFeito(log) {
+function registrarTweetFeito(log, url) {
   const hoje = new Date().toISOString().split("T")[0];
-  log[hoje] = (log[hoje] || 0) + 1;
+  log[hoje] = log[hoje] || { count: 0, urls: [] };
+  log[hoje].count += 1;
+  log[hoje].urls.push(url);
   salvarLogTweets(log);
 }
 
 async function gerarTweetCriativo(titulo, resumo, tags = []) {
-  const prompt = `Crie um tweet curto, empolgante e informal com base no título e resumo abaixo. Use no máximo 1 emojis e até 2 hashtags populares.
+  const prompt = `Crie um tweet curto, empolgante e informal com base no título e resumo abaixo. Use no máximo 1 emoji e até 2 hashtags populares.
 
 Título: ${titulo}
 Resumo: ${resumo}
@@ -63,7 +69,6 @@ Responda com apenas o tweet, sem aspas.`;
         },
       }
     );
-
     return response.data.choices[0].message.content.trim();
   } catch (err) {
     console.error("❌ Erro ao gerar tweet criativo:", err.message);
@@ -79,8 +84,10 @@ async function postarNoTwitter({ titulo, slug, resumo, tags }) {
   try {
     await client.v2.tweet(status);
     console.log("✅ Tweet postado:", titulo);
+    return url;
   } catch (err) {
     console.error("❌ Erro ao postar no Twitter:", err.message);
+    return null;
   }
 }
 
@@ -94,24 +101,40 @@ async function postarNoTwitter({ titulo, slug, resumo, tags }) {
   }
 
   posts.sort((a, b) => new Date(b.data) - new Date(a.data));
+  const hoje = new Date().toISOString().split("T")[0];
+  const urlsHoje = new Set(log[hoje]?.urls || []);
+
   for (const post of posts) {
     const slug = post.slug;
     const url = `https://www.geeknews.com.br/noticia/${slug}`;
 
-    if (log[url]) {
-      console.log("🔁 Já tuitado:", url);
+    if (urlsHoje.has(url)) {
+      console.log("🔁 Já tuitado hoje:", url);
       continue;
     }
 
-    await postarNoTwitter({
+    const tweetado = await postarNoTwitter({
       titulo: post.titulo,
       slug: post.slug,
       resumo: post.resumo || post.descricao || "",
       tags: post.tags || [],
     });
 
-    log[url] = true;
-    registrarTweetFeito(log);
-    break; // só 1 por execução (você pode remover isso se quiser fazer até o limite diário)
+    if (tweetado) {
+      registrarTweetFeito(log, url);
+
+      try {
+        execSync("git config user.name 'github-actions[bot]'");
+        execSync("git config user.email 'github-actions[bot]@users.noreply.github.com'");
+        execSync("git add data/tweet-log.json");
+        execSync('git commit -m "🤖 Atualiza tweet-log.json"');
+        execSync("git push origin main");
+        console.log("📦 Log enviado para o repositório com sucesso.");
+      } catch (e) {
+        console.warn("⚠️ Falha ao comitar tweet-log.json:", e.message);
+      }
+
+      break; // Só um por execução
+    }
   }
 })();
