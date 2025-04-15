@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://cdn.ome.lt/sP9sb6pYNzXnDmB6tHt9Nqdn9pY=/987x0/smart/uploads/conteudo/fotos/supermanvariante_rsKuxUU.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/54tAugpuyJwRrT0wMpjUMPutoQI=/480x360/smart/extras/conteudos/supermanvariante_GfkVwjv.jpg"
-tags: ["Superman", "James Gunn", "DC", "trailer", "cinema", "filme"]
+tags: ["Superman", "James Gunn", "DC", "trailer", "cinema", "filme", "especial-Superman"]
 keywords: "Superman, James Gunn, DC, trailer, cinema, filme"
 author: "Ana Luiza"
 data: "2025-04-13T17:08:38.268Z"

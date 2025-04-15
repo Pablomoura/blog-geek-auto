@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/dyEV7ZMbXvpP-_7TGn9gev-JBRs=/987x0/smart/uploads/conteudo/fotos/bbb25-vinicius-eliminado.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/TKGf7pnsqySbZJvhVMmU_s77zkc=/480x360/smart/extras/conteudos/bbb25-vinicius-eliminado-peq.jpg"
-tags: ["BBB 25", "Vinícius", "Vitória Strada", "Renata", "Paredão", "eliminação", "Tadeu Schmidt", "Rodrigo Dourado", "votação"]
+tags: ["BBB 25", "Vinícius", "Vitória Strada", "Renata", "Paredão", "eliminação", "Tadeu Schmidt", "Rodrigo Dourado", "votação", "especial-BBB 25"]
 keywords: "BBB 25, Vinícius, Vitória Strada, Renata, Paredão, eliminação, Tadeu Schmidt, Rodrigo Dourado, votação"
 author: "Ana Luiza"
 data: "2025-04-14T03:32:57.558Z"

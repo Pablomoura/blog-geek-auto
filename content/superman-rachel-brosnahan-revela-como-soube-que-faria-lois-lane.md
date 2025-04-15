@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://cdn.ome.lt/4SkomqTVOVPaUs-CiJDNFoY7Zzo=/987x0/smart/uploads/conteudo/fotos/supermanloislane_LNsCCo1.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/0bX_X25rIXSkmcNwV61F_hEix-g=/480x360/smart/extras/conteudos/supermanloislane_pRdNreV.jpg"
-tags: ["Superman", "Rachel Brosnahan", "James Gunn", "Lois Lane", "DCU", "filme"]
+tags: ["Superman", "Rachel Brosnahan", "James Gunn", "Lois Lane", "DCU", "filme", "especial-Superman"]
 keywords: "Superman, Rachel Brosnahan, James Gunn, Lois Lane, DCU, filme"
 author: "Luana Souza"
 data: "2025-04-13T20:10:05.133Z"

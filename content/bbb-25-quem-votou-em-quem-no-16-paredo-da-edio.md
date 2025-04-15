@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/fTPgs_tIgxSbIA8f5CqgpnIa360=/987x0/smart/uploads/conteudo/fotos/bbb25-quem-votou-quem-16-paredao.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/X2LnoRi4nAKI8XjDhEbLOWjNWfw=/480x360/smart/extras/conteudos/bbb25-quem-votou-quem-16-paredao-peq.jpg"
-tags: ["BBB 25", "Paredão", "votação", "Tadeu Schmidt", "Vinícius", "Renata", "João Pedro", "Vitória Strada", "Diego Hypólito", "Delma", "Guilherme"]
+tags: ["BBB 25", "Paredão", "votação", "Tadeu Schmidt", "Vinícius", "Renata", "João Pedro", "Vitória Strada", "Diego Hypólito", "Delma", "Guilherme", "especial-BBB 25"]
 keywords: "BBB 25, Paredão, votação, Tadeu Schmidt, Vinícius, Renata, João Pedro, Vitória Strada, Diego Hypólito, Delma, Guilherme"
 author: "Pablo Moura"
 data: "2025-04-12T03:24:35.282Z"

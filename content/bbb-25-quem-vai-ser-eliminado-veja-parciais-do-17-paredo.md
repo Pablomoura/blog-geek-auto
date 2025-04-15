@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/G4Mo08tItc6fOc0bbG1nrZcdKw4=/987x0/smart/uploads/conteudo/fotos/bbb25-guilherme-renata-delma-parcial.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/K7zP9zJV1D3pAzg3nGknp9T-TUo=/480x360/smart/extras/conteudos/bbb25-renata-17-parcial-peq.jpg"
-tags: ["BBB 25", "Paredão", "eliminação", "Tadeu Schmidt", "Rodrigo Dourado", "votação"]
+tags: ["BBB 25", "Paredão", "eliminação", "Tadeu Schmidt", "Rodrigo Dourado", "votação", "especial-BBB 25"]
 keywords: "BBB 25, Paredão, eliminação, Tadeu Schmidt, Rodrigo Dourado, votação"
 author: "Pablo Moura"
 data: "2025-04-14T04:13:07.936Z"

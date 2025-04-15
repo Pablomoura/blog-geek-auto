@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/rNLXZ2yvmGHf3F9H4Fq_BlrJ2GQ=/987x0/smart/uploads/conteudo/fotos/bbb25-tadeu-schmidt-horario.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/-GCm1hJvvFkfyka09r4i0e3jkyg=/480x360/smart/extras/conteudos/bbb25-tadeu-schmidt-horario-peq.jpg"
-tags: ["BBB 25", "horário de transmissão", "Globo", "Globoplay", "Tadeu Schmidt", "Rodrigo Dourado", "votação BBB"]
+tags: ["BBB 25", "horário de transmissão", "Globo", "Globoplay", "Tadeu Schmidt", "Rodrigo Dourado", "votação BBB", "especial-BBB 25"]
 keywords: "BBB 25, horário de transmissão, Globo, Globoplay, Tadeu Schmidt, Rodrigo Dourado, votação BBB"
 author: "Luana Souza"
 data: "2025-04-11T23:58:27.047Z"

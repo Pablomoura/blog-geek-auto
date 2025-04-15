@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://www.youtube.com/embed/mdM--XsuD_8?showinfo=0&enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/JDb8uwDsZD4Dl-FfQbmnmQt8q1g=/480x360/smart/extras/conteudos/01_g9Ri74z.jpg"
-tags: ["Superman", "James Gunn", "Jimmy Olsen", "Skyler Gisondo", "DC", "filme de Superman", "Clark Kent", "DCU", "novo filme de Superman"]
+tags: ["Superman", "James Gunn", "Jimmy Olsen", "Skyler Gisondo", "DC", "filme de Superman", "Clark Kent", "DCU", "novo filme de Superman", "especial-Superman"]
 keywords: "Superman, James Gunn, Jimmy Olsen, Skyler Gisondo, DC, filme de Superman, Clark Kent, DCU, novo filme de Superman"
 author: "Luana Souza"
 data: "2025-04-15T21:10:39.603Z"

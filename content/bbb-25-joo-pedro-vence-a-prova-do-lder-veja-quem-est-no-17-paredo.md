@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/LzzwrF9LJvOyuEOkqzee2bJvoUI=/987x0/smart/uploads/conteudo/fotos/bbb25-joao-pedro-17-lider.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/Exj9MF-nhBH1iIunz-MhcTrYHCw=/480x360/smart/extras/conteudos/bbb25-joao-pedro-17-lider-peq.jpg"
-tags: ["BBB 25", "João Pedro", "Prova do Líder", "Paredão", "votação", "TV Globo", "Globoplay", "Tadeu Schimidt"]
+tags: ["BBB 25", "João Pedro", "Prova do Líder", "Paredão", "votação", "TV Globo", "Globoplay", "Tadeu Schimidt", "especial-BBB 25"]
 keywords: "BBB 25, João Pedro, Prova do Líder, Paredão, votação, TV Globo, Globoplay, Tadeu Schimidt"
 author: "Luana Souza"
 data: "2025-04-14T03:32:39.244Z"

@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/05pQNmZsC_ZaPQmWcHva8F6YTh0=/987x0/smart/uploads/conteudo/fotos/bbb25-quem-votou-quem-17-paredao.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/7jU4GshdYFZi1y9vZlVZ2uKAeJk=/480x360/smart/extras/conteudos/bbb25-quem-votou-quem-17-paredao-peq.jpg"
-tags: ["BBB 25", "Paredão", "Votação", "Tadeu Schmidt", "TV Globo", "Globoplay"]
+tags: ["BBB 25", "Paredão", "Votação", "Tadeu Schmidt", "TV Globo", "Globoplay", "especial-BBB 25"]
 keywords: "BBB 25, Paredão, Votação, Tadeu Schmidt, TV Globo, Globoplay"
 author: "Pablo Moura"
 data: "2025-04-14T04:13:36.736Z"

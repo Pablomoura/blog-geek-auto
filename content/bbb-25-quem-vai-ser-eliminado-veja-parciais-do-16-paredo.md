@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/hcten677H3dV5xQOUDuUwzead_U=/987x0/smart/uploads/conteudo/fotos/bbb25-renata-vitoria-vinicius-16-parcial.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/aspsnh8qMXAOA0BlQPCpSB9Td1o=/480x360/smart/extras/conteudos/bbb25-renata-16-parcial-peq.jpg"
-tags: ["BBB 25", "16º Paredão", "eliminação", "Tadeu Schmidt", "Rodrigo Dourado", "votação", "Globo", "Multishow", "Globoplay"]
+tags: ["BBB 25", "16º Paredão", "eliminação", "Tadeu Schmidt", "Rodrigo Dourado", "votação", "Globo", "Multishow", "Globoplay", "especial-BBB 25"]
 keywords: "BBB 25, 16º Paredão, eliminação, Tadeu Schmidt, Rodrigo Dourado, votação, Globo, Multishow, Globoplay"
 author: "Ana Luiza"
 data: "2025-04-12T02:18:14.685Z"

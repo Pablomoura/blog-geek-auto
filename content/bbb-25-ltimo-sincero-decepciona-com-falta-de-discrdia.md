@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/iaRooNED24mNLwHx97Hgleez6Ew=/987x0/smart/uploads/conteudo/fotos/bbb25-guilherme-delma-sincerao.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/2rF2OKGBTW-wBMe8-Ge3cHEUGxA=/480x360/smart/extras/conteudos/bbb25-guilherme-delma-sincerao-peq.jpg"
-tags: ["BBB 25", "Sincerão", "Guilherme", "Delma", "Renata", "Tadeu Schmidt", "Rodrigo Dourado", "votação"]
+tags: ["BBB 25", "Sincerão", "Guilherme", "Delma", "Renata", "Tadeu Schmidt", "Rodrigo Dourado", "votação", "especial-BBB 25"]
 keywords: "BBB 25, Sincerão, Guilherme, Delma, Renata, Tadeu Schmidt, Rodrigo Dourado, votação"
 author: "Luana Souza"
 data: "2025-04-15T03:32:17.633Z"

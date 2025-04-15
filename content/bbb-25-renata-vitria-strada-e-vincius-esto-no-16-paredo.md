@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/8Y9N1DrOWWq_MbMFa_baJpG1P9E=/987x0/smart/uploads/conteudo/fotos/bbb25-renata-vitoria-vinicius-16-paredao.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/D8Gma92p2ZqLy152n80725pHXAg=/480x360/smart/extras/conteudos/bbb25-vitoria-strada-16-paredao-peq.jpg"
-tags: ["BBB 25", "Paredão", "Renata", "Vitória Strada", "Vinícius", "Tadeu Schmidt", "Rodrigo Dourado", "votação"]
+tags: ["BBB 25", "Paredão", "Renata", "Vitória Strada", "Vinícius", "Tadeu Schmidt", "Rodrigo Dourado", "votação", "especial-BBB 25"]
 keywords: "BBB 25, Paredão, Renata, Vitória Strada, Vinícius, Tadeu Schmidt, Rodrigo Dourado, votação"
 author: "Pablo Moura"
 data: "2025-04-12T02:18:35.335Z"

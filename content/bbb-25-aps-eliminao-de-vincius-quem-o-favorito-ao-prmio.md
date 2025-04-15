@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/zhRb104MRInRqjkz6fSVTZvlIoU=/987x0/smart/uploads/conteudo/fotos/bbb25-renata-favorita.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/dpcz1uOQbAd8vXZYuPC-qTROIJM=/480x360/smart/extras/conteudos/bbb25-renata-favorita-peq.jpg"
-tags: ["BBB 25", "eliminação", "Vinícius", "Renata", "Vitória Strada", "Diego Hypólito", "favoritos", "prêmio", "Tadeu Schmidt", "votação"]
+tags: ["BBB 25", "eliminação", "Vinícius", "Renata", "Vitória Strada", "Diego Hypólito", "favoritos", "prêmio", "Tadeu Schmidt", "votação", "especial-BBB 25"]
 keywords: "BBB 25, eliminação, Vinícius, Renata, Vitória Strada, Diego Hypólito, favoritos, prêmio, Tadeu Schmidt, votação"
 author: "Luana Souza"
 data: "2025-04-14T04:12:41.679Z"
