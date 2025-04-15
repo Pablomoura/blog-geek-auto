@@ -251,18 +251,20 @@ async function extrairConteudoNoticia(url) {
 }
 
 async function reescreverNoticia(titulo, resumo, texto) {
-  const systemPrompt = `Você é um redator profissional. Reescreva notícias em português do Brasil com tom jornalístico, direto e informativo.
-Corrija ortografia e gramática. Não resuma nem omita informações.
-Mantenha a estrutura original. Use parágrafos curtos com duas quebras de linha para Markdown.
-Ignore comentários e chamadas ao Omelete. Garanta que o texto seja autêntico e não pareça plágio.`;
+  const systemPrompt = `Você é um redator de notícias especializado em cultura pop, cinema, séries, animes e games. Seu papel é reescrever matérias de forma original, mantendo o estilo jornalístico informativo, mas com linguagem clara e atrativa otimazido para ter resultado nas buscas do google.
+Se a matéria falar de vários lançamentos, organize em seções com subtítulos em Markdown, destacando nome da obra, data de estreia, plataforma e pontos de interesse.
+Se for uma notícia geral, mantenha a estrutura original, mas aprofunde com contexto, detalhes e dados relevantes.
+Sempre use parágrafos curtos com duas quebras de linha (\\n\\n), sem omitir conteúdo importante. Corrija erros de gramática e torne o texto original, sem parecer plágio.`;
 
-  const userPrompt = `Reescreva o seguinte conteúdo:
+const userPrompt = `Reescreva a notícia abaixo conforme as instruções.
 
-Título: ${titulo}
-Resumo: ${resumo}
-Texto: ${texto}
+Título original: ${titulo}
+Resumo original: ${resumo}
 
-Responda em JSON com:
+Texto original:
+${texto}
+
+Responda no formato JSON:
 {
   "titulo": "...",
   "resumo": "...",
