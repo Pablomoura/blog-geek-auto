@@ -2254,7 +2254,8 @@
       "favoritos",
       "prêmio",
       "Tadeu Schmidt",
-      "votação"
+      "votação",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -2512,7 +2513,8 @@
       "votação",
       "TV Globo",
       "Globoplay",
-      "Tadeu Schimidt"
+      "Tadeu Schimidt",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -2532,7 +2534,8 @@
       "Renata",
       "Tadeu Schmidt",
       "Rodrigo Dourado",
-      "votação"
+      "votação",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -2675,7 +2678,8 @@
       "eliminação",
       "Tadeu Schmidt",
       "Rodrigo Dourado",
-      "votação"
+      "votação",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 1,
@@ -2837,7 +2841,8 @@
       "votação",
       "Globo",
       "Multishow",
-      "Globoplay"
+      "Globoplay",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -2855,7 +2860,8 @@
       "eliminação",
       "Tadeu Schmidt",
       "Rodrigo Dourado",
-      "votação"
+      "votação",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -3119,7 +3125,8 @@
       "Vitória Strada",
       "Diego Hypólito",
       "Delma",
-      "Guilherme"
+      "Guilherme",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -3137,7 +3144,8 @@
       "Votação",
       "Tadeu Schmidt",
       "TV Globo",
-      "Globoplay"
+      "Globoplay",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 1,
@@ -3157,7 +3165,8 @@
       "Vinícius",
       "Tadeu Schmidt",
       "Rodrigo Dourado",
-      "votação"
+      "votação",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 1,
@@ -3176,7 +3185,8 @@
       "Globoplay",
       "Tadeu Schmidt",
       "Rodrigo Dourado",
-      "votação BBB"
+      "votação BBB",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -17673,7 +17683,8 @@
       "filme de Superman",
       "Clark Kent",
       "DCU",
-      "novo filme de Superman"
+      "novo filme de Superman",
+      "especial-Superman"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -17691,7 +17702,8 @@
       "DC",
       "trailer",
       "cinema",
-      "filme"
+      "filme",
+      "especial-Superman"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -17767,7 +17779,8 @@
       "James Gunn",
       "Lois Lane",
       "DCU",
-      "filme"
+      "filme",
+      "especial-Superman"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -20291,6 +20304,25 @@
     "textoLength": 1409
   },
   {
+    "slug": "uma-batalha-aps-a-outra-divulga-primeiros-psteres-oficiais-confira",
+    "titulo": "Revelados os Primeiros Pôsteres de 'Uma Batalha Após A Outra' com Leonardo DiCaprio e Teyana Taylor",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/05YIFo7ZaVddY4Ch5JOo9rS-f_I=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T183515.845.png",
+    "data": "2025-04-15T22:09:36.696Z",
+    "tags": [
+      "Uma Batalha Após A Outra",
+      "Paul Thomas Anderson",
+      "Leonardo DiCaprio",
+      "Teyana Taylor",
+      "pôsteres de filme",
+      "lançamento de filme",
+      "cinema"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1666
+  },
+  {
     "slug": "uma-batalha-aps-a-outra-filme-com-dicaprio-ganha-data-no-brasil",
     "titulo": "Uma Batalha Após A Outra | Filme com DiCaprio ganha data no Brasil",
     "categoria": "FILMES",
@@ -20804,6 +20836,27 @@
     "author": "Luana Souza",
     "tempoLeitura": 2,
     "textoLength": 2260
+  },
+  {
+    "slug": "vingadores-doomsday-ator-promete-a-velha-frmula-da-marvel",
+    "titulo": "Vingadores: Doomsday | Anthony Mackie Antecipa Retorno à Essência da Marvel",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/KxsYFrim-LBqh4vJdqUebSA9WYM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T181624.593.png",
+    "data": "2025-04-15T22:10:12.164Z",
+    "tags": [
+      "Vingadores: Doomsday",
+      "MCU",
+      "Marvel",
+      "Anthony Mackie",
+      "Irmãos Russo",
+      "Doutor Destino",
+      "Robert Downey Jr.",
+      "X-Men",
+      "estreia"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1773
   },
   {
     "slug": "vingadores-doomsday-bate-recorde-com-275-milhes-de-visualizaes-em-anncio",
