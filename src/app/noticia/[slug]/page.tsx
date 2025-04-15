@@ -23,6 +23,8 @@ import LazyDisqus from "@/components/LazyDisqus";
 import { otimizarImagensHtml } from "@/utils/otimizarImagensHtml";
 import type { Metadata } from "next";
 import JsonLdNoticia from "@/components/JsonLdNoticia";
+import InstagramLoader from "@/components/InstagramLoader";
+
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -270,6 +272,8 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   dangerouslySetInnerHTML={{ __html: htmlContent }}
                 />
                 <TwitterLoader />
+                <InstagramLoader />
+
                 {/* ✅ Tags clicáveis */}
                 {Array.isArray(data.tags) && data.tags.length > 0 && (
                   <div className="mt-10 border-t border-gray-700 pt-6">

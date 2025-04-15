@@ -182,26 +182,28 @@ async function extrairConteudoNoticia(url) {
           const src = iframe.getAttribute("src") || "";
           try {
             const url = new URL(src, "https://www.instagram.com");
-            const postUrl = url.pathname.replace("/embed", "");
-            return postUrl
-              ? `<blockquote class="instagram-media"><a href="https://www.instagram.com${postUrl}"></a></blockquote>`
+            const permalink = `https://www.instagram.com${url.pathname.replace("/embed", "")}`;
+            return permalink
+              ? `<blockquote class="instagram-media" data-instgrm-permalink="${permalink}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>`
               : null;
           } catch {
             return null;
           }
         })
         .filter(Boolean);
-    });
+    });    
 
     // ✅ Fallback: links diretos para posts
     const instagramLinks = await page.evaluate(() => {
-      return Array.from(document.querySelectorAll("a[href*='instagram.com/p/']"))
+      return Array.from(document.querySelectorAll("a[href*='instagram.com/p/'], a[href*='instagram.com/reel/']"))
         .map((a) => {
           const href = a.getAttribute("href");
-          return href ? `<blockquote class="instagram-media"><a href="${href}"></a></blockquote>` : null;
+          return href
+            ? `<blockquote class="instagram-media" data-instgrm-permalink="${href}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>`
+            : null;
         })
         .filter(Boolean);
-    });
+    });    
 
     const instagrams = [...instagramIframes, ...instagramLinks];
 
