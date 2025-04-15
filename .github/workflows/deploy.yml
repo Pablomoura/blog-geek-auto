@@ -5,6 +5,9 @@ on:
     branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: write 
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -50,8 +53,6 @@ jobs:
         run: node scripts/send-to-indexing-api.js
         env:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
-        
-      - name: Posta no Twitter
-        run: node scripts/tweetador.js
-        
 
+      - name: 🐦 Posta no Twitter
+        run: node scripts/tweetador.js
