@@ -178,7 +178,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
       const htmlComLinksInternos = await aplicarLinksInternosInteligente(htmlConvertido, slug);
 
       // Link externo target blank
-      const htmlComTargetBlank = htmlConvertido.replace(
+      const htmlComTargetBlank = htmlComLinksInternos.replace(
         /<a\s+(?![^>]*target=)[^>]*href="([^"]+)"([^>]*)>/g,
         '<a href="$1"$2 target="_blank" rel="noopener noreferrer">'
       );
@@ -275,7 +275,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 />
                 <TwitterLoader />
                 <InstagramLoader />
-                
+
                 <CompartilharNoticia titulo={data.title} />
                   {/* ✅ Links internos */}
 
