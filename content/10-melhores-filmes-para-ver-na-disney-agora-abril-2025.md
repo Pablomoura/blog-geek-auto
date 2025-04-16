@@ -55,6 +55,12 @@ Este filme britânico dirigido por Peter Cattaneo mostra um grupo de homens dese
 
 Ridley Scott dirige Matt Damon em 'Perdido em Marte', uma aventura de sobrevivência em solo marciano. Com um elenco de apoio estelar, o filme é uma mistura inteligente de humor e ciência, baseado no livro de Andy Weir.
 
+## Perseguição: A Estrada da Morte 
+
+![Imagem da notícia](https://cdn.ome.lt/W3OTapNMYOJVXnpZkCMUv_-SwTQ=/fit-in/837x500/smart/uploads/conteudo/fotos/perseguicao_8NxV8Dp.jpg)
+
+Durante uma viagem pelos Estados Unidos, os irmãos Lewis e Fuller Thomas instalam um rádio amador no carro para se divertir. Fingindo ser uma mulher chamada "Candy Cane", eles pregam uma peça em um caminhoneiro solitário chamado Rusty Nail. Porém, a brincadeira toma um rumo sombrio quando Rusty se revela um psicopata que passa a persegui-los implacavelmente pelas estradas desertas, transformando a viagem em um verdadeiro pesadelo.
+
 ## Prey
 
 ![Imagem da notícia](https://cdn.ome.lt/eFviFRNN0WXLhf_Zy96B0yC2QjY=/fit-in/837x500/smart/uploads/conteudo/fotos/predador_xU0cXqs.jpg)
@@ -67,12 +73,6 @@ Dan Trachtenberg revitaliza a franquia Predador com 'Prey', uma história que un
 
 Uma das joias da Pixar, 'Ratatouille' segue Remy, um rato que sonha em se tornar um chef em Paris. Este encantador filme, dirigido por Brad Bird, mistura humor, aventura e uma bela mensagem sobre perseguir os sonhos, independentemente das barreiras.
 
-## Perseguição: A Estrada da Morte
-
-![Imagem da notícia](https://cdn.ome.lt/W3OTapNMYOJVXnpZkCMUv_-SwTQ=/fit-in/837x500/smart/uploads/conteudo/fotos/perseguicao_8NxV8Dp.jpg)
-
-Durante uma viagem pelos Estados Unidos, os irmãos Lewis e Fuller Thomas instalam um rádio amador no carro para se divertir. Fingindo ser uma mulher chamada "Candy Cane", eles pregam uma peça em um caminhoneiro solitário chamado Rusty Nail. Porém, a brincadeira toma um rumo sombrio quando Rusty se revela um psicopata que passa a persegui-los implacavelmente pelas estradas desertas, transformando a viagem em um verdadeiro pesadelo.
-
 ---
-
+<br>
 Esses filmes são apenas uma amostra do que o Disney+ oferece, garantindo entretenimento de qualidade para todos os gostos e idades.

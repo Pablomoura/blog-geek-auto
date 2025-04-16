@@ -7,6 +7,7 @@ const nextConfig = {
       "cdn.ome.lt",
       "cdn.omelete.com.br",
       "www.omelete.com.br",
+      "www.geeknews.com.br",
     ],
   },
   serverExternalPackages: ["puppeteer-extra", "puppeteer-extra-plugin-stealth"],

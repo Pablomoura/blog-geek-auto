@@ -232,7 +232,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
   
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="w-full bg-gray-200 dark:bg-gray-800 h-32 mt-8 mb-8 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
-              Publicidade
+            Reservado Para Publicidade
             </div>
   
             <div className="flex flex-col lg:flex-row gap-14">
@@ -368,9 +368,17 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
               </noscript>
             </main>
             <aside className="w-full lg:w-[320px] flex-shrink-0 space-y-10">
-              <div className="bg-gray-200 dark:bg-gray-800 h-32 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400 mb-8">
-                Publicidade
-              </div>
+              <div className="h-32 flex items-center justify-center">
+                          <Link href="https://amzn.to/3GquJ76" target="_blank" rel="noopener noreferrer">
+                            <Image
+                              src="/images/banners/banner-amazon-livros.jpg"
+                              alt="Banner Amazon"
+                              width={300}
+                              height={128}
+                              priority={false}
+                            />
+                          </Link>
+                          </div>
 
               <section className="mb-8">
                 <div className="flex items-center justify-between mb-4 border-b pb-2">

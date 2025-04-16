@@ -9,6 +9,7 @@ import WebStories from "@/components/WebStories";
 import Especiais from "@/components/Especiais";
 import UltimasNoticias from "@/components/UltimasNoticias";
 import matter from "gray-matter";
+import Image from "next/image";
 
 
 type Banner = {
@@ -201,8 +202,16 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
         {/* Seção principal com duas colunas */}
         <div className="flex flex-col lg:flex-row gap-10">
           <div className="flex-1">
-            <div className="bg-gray-200 dark:bg-gray-800 h-32 mb-6 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
-              Espaço reservado para publicidade
+            <div className="h-32 mb-6 flex items-center justify-center">
+            <Link href="https://amzn.to/44tCLGl" target="_blank" rel="noopener noreferrer">
+              <Image
+                src="/images/banners/banner-amazon-gamer.jpg"
+                alt="Banner Amazon"
+                width={764}
+                height={128}
+                priority={false}
+              />
+            </Link>
             </div>
             <UltimasNoticias
               posts={exibidos}
@@ -212,8 +221,16 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
           </div>
 
           <aside className="w-full lg:w-[300px] flex-shrink-0 space-y-10">
-            <div className="bg-gray-200 dark:bg-gray-800 h-32 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
-              Espaço reservado para publicidade
+            <div className="h-32 flex items-center justify-center">
+            <Link href="https://amzn.to/3GquJ76" target="_blank" rel="noopener noreferrer">
+              <Image
+                src="/images/banners/banner-amazon-livros.jpg"
+                alt="Banner Amazon"
+                width={300}
+                height={128}
+                priority={false}
+              />
+            </Link>
             </div>
 
             <section className="mb-8">
