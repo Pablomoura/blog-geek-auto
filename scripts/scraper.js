@@ -176,34 +176,29 @@ async function extrairConteudoNoticia(url) {
     });
 
     // ✅ Embeds do Instagram via iframe
-    const instagramIframes = await page.evaluate(() => {
+    // após extrair via page.evaluate
+    let instagramIframes = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("iframe[src*='instagram.com']"))
-        .map((iframe) => {
-          const src = iframe.getAttribute("src") || "";
-          try {
-            const url = new URL(src, "https://www.instagram.com");
-            const permalink = `https://www.instagram.com${url.pathname.replace("/embed", "")}`;
-            return permalink
-              ? `<blockquote class="instagram-media" data-instgrm-permalink="${permalink}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>`
-              : null;
-          } catch {
-            return null;
-          }
-        })
+        .map((iframe) => iframe.getAttribute("src") || "")
         .filter(Boolean);
-    });    
+    });
+    instagramIframes = instagramIframes.map((src) => {
+      const url = limparUrlInstagram(src);
+      return `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>`;
+    });
+      
 
     // ✅ Fallback: links diretos para posts
-    const instagramLinks = await page.evaluate(() => {
-      return Array.from(document.querySelectorAll("a[href*='instagram.com/p/'], a[href*='instagram.com/reel/']"))
-        .map((a) => {
-          const href = a.getAttribute("href");
-          return href
-            ? `<blockquote class="instagram-media" data-instgrm-permalink="${href}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>`
-            : null;
-        })
+    let instagramLinks = await page.evaluate(() => {
+      return Array.from(document.querySelectorAll("a[href*='instagram.com/p/']"))
+        .map((a) => a.getAttribute("href"))
         .filter(Boolean);
-    });    
+    });
+    instagramLinks = instagramLinks.map((href) => {
+      const url = limparUrlInstagram(href);
+      return `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>`;
+    });
+        
 
     const instagrams = [...instagramIframes, ...instagramLinks];
 
@@ -407,6 +402,16 @@ data: "${new Date().toISOString()}"
   }
 
   return resultados;
+}
+
+function limparUrlInstagram(url) {
+  try {
+    const parsed = new URL(url, "https://www.instagram.com");
+    const pathname = parsed.pathname.replace(/\/(embed|captioned)\/?$/, "");
+    return `https://www.instagram.com${pathname}/?utm_source=ig_embed`;
+  } catch {
+    return url;
+  }
 }
 
 (async () => {

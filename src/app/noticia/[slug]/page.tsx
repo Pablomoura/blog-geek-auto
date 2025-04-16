@@ -24,6 +24,7 @@ import { otimizarImagensHtml } from "@/utils/otimizarImagensHtml";
 import type { Metadata } from "next";
 import JsonLdNoticia from "@/components/JsonLdNoticia";
 import InstagramLoader from "@/components/InstagramLoader";
+import autores from "@/data/autores.json";
 
 
 marked.use(
@@ -273,6 +274,8 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 />
                 <TwitterLoader />
                 <InstagramLoader />
+  
+                  {/* ✅ Links internos */}
 
                 {/* ✅ Tags clicáveis */}
                 {Array.isArray(data.tags) && data.tags.length > 0 && (
@@ -296,6 +299,30 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                     </div>
                   </div>
                 )}
+
+                {data.author && (
+                  <div className="mt-12 border-t border-gray-700 pt-8 flex items-start gap-6 bg-orange-50 dark:bg-gray-900 p-6 rounded-lg shadow">
+                    <Image
+                      src={
+                        autores.find((a) => a.nome === data.author)?.imagem ||
+                        "https://www.geeknews.com.br/images/autores/default.jpg"
+                      }
+                      alt={data.author}
+                      width={80}
+                      height={80}
+                      className="rounded-full border-2 border-orange-400"
+                    />
+                    <div>
+                      <p className="text-lg font-bold text-neutral-900 dark:text-white">
+                        {data.author}
+                      </p>
+                      <p className="text-sm text-gray-700 dark:text-gray-400 mt-1">
+                        {autores.find((a) => a.nome === data.author)?.bio}
+                      </p>
+                    </div>
+                  </div>
+                )}
+                
                 {relacionados.length > 0 && (
                 <section className="mt-12 border-t border-gray-700 pt-8">
                   <h2 className="text-2xl font-bold mb-6 text-neutral-900 dark:text-white">🔗 Posts relacionados</h2>

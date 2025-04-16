@@ -14,13 +14,22 @@ declare global {
 
 export default function InstagramLoader() {
   useEffect(() => {
-    const timeout = setTimeout(() => {
+    let tentativas = 0;
+    const maxTentativas = 10;
+
+    const tentarProcessar = () => {
       if (window.instgrm?.Embeds?.process) {
         window.instgrm.Embeds.process();
+        console.log("✅ Instagram embed processado");
+      } else if (tentativas < maxTentativas) {
+        tentativas++;
+        setTimeout(tentarProcessar, 500);
+      } else {
+        console.warn("⚠️ Não foi possível processar o embed do Instagram.");
       }
-    }, 1000); // tempo suficiente para o dangerouslySetInnerHTML renderizar o conteúdo
+    };
 
-    return () => clearTimeout(timeout);
+    tentarProcessar();
   }, []);
 
   return null;

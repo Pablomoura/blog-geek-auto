@@ -13,7 +13,7 @@ data: "2025-04-16T00:46:20.455Z"
 
 Na contagem regressiva para o emocionante final de temporada, a Marvel Studios divulgou nesta terça-feira (15) uma prévia especial de 'Demolidor: Renascido'. O vídeo serve como um resumo dos eventos significativos da temporada, destacando a formação da força-tarefa de Wilson Fisk, o julgamento do Mercenário, a eleição de Fisk e outros momentos cruciais que prometem ser decisivos no episódio final.
 
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DIe7MV4zdxl/captioned/" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DIe7MV4zdxl" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>
 
 Anos após o cancelamento da série original na Netflix, 'Demolidor: Renascido' trouxe de volta atores famosos como Charlie Cox, que reprisa seu papel como Matt Murdock/Demolidor, Vincent D'Onofrio como Wilson Fisk/Rei do Crime, e outros membros do elenco original. A série também introduziu novos personagens interpretados por Nikki M. James, Margarita Levieva, e mais, enriquecendo a trama com novas dinâmicas.
 

@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Pablo Moura",
+    "bio": "Redator Chefe do GeekNews. Especialista em cultura pop, animes e tecnologia.",
+    "imagem": "/images/autores/pablo-moura.jpg"
+  },
+  {
+    "nome": "Luana Souza",
+    "bio": "Redatora apaixonada por séries, filmes e bastidores do entretenimento.",
+    "imagem": "/images/autores/luana-souza.jpg"
+  },
+  {
+    "nome": "Ana Luiza",
+    "bio": "Geek desde criança, ama escrever sobre animes, mangás e universo otaku.",
+    "imagem": "/images/autores/ana-luiza.jpg"
+  }
+]
