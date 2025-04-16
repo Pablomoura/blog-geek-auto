@@ -5,6 +5,7 @@ import Link from "@/components/SmartLink"; // usa o seu link customizado
 import SearchModal from "./SearchModal";
 import { FaFacebook, FaXTwitter } from "react-icons/fa6";
 import { FaSearch } from "react-icons/fa";
+import ThreadsIcon from "@/components/ThreadsIcon";
 
 export default function Header() {
   const [menuAberto, setMenuAberto] = useState(false);
@@ -61,6 +62,7 @@ export default function Header() {
           <a href="https://x.com/SiteGeekNews" target="_blank" rel="noopener noreferrer" title="X" className="hover:text-orange-400">
             <FaXTwitter className="text-lg" />
           </a>
+          <ThreadsIcon />
 
           {/* Menu Mobile */}
           <button

@@ -25,7 +25,7 @@ import type { Metadata } from "next";
 import JsonLdNoticia from "@/components/JsonLdNoticia";
 import InstagramLoader from "@/components/InstagramLoader";
 import autores from "@/data/autores.json";
-
+import CompartilharNoticia from "@/components/CompartilharNoticia";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -155,9 +155,6 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     } else {
       let textoFinal = await inserirLinksRelacionados(content, slug);
 
-      // ✅ aplica links internos enquanto ainda está no Markdown puro
-      textoFinal = await aplicarLinksInternosInteligente(textoFinal, slug);
-
       // YouTube embed antes de converter para HTML
       textoFinal = textoFinal.replace(/\[youtube\]:\s*(https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]+))/g, (_match, url, videoId) => {
         return `
@@ -174,8 +171,11 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
         `;
       });
 
-      // ✅ agora sim converte para HTML com links embutidos
+      // ✅ converte o markdown para HTML
       const htmlConvertido = await marked.parse(textoFinal);
+
+      // ✅ aplica os links internos no HTML (agora sim no ponto certo)
+      const htmlComLinksInternos = await aplicarLinksInternosInteligente(htmlConvertido, slug);
 
       // Link externo target blank
       const htmlComTargetBlank = htmlConvertido.replace(
@@ -239,6 +239,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
               <main className="flex-1 w-full lg:pr-10 py-10 text-neutral-900 dark:text-white">
                 <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">{data.categoria}</span>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mt-2 mb-6">{data.title}</h1>
+                <CompartilharNoticia titulo={data.title} />
                 <p className="text-neutral-600 dark:text-gray-400 text-sm mb-6">
                   Por <span className="font-medium text-black dark:text-white">{data.author}</span> • Publicado em {publicadoEm} • {tempoLeitura} min de leitura
                 </p>
@@ -274,7 +275,8 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 />
                 <TwitterLoader />
                 <InstagramLoader />
-  
+                
+                <CompartilharNoticia titulo={data.title} />
                   {/* ✅ Links internos */}
 
                 {/* ✅ Tags clicáveis */}
@@ -299,7 +301,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                     </div>
                   </div>
                 )}
-
+                
                 {data.author && (
                   <div className="mt-12 border-t border-gray-700 pt-8 flex items-start gap-6 bg-orange-50 dark:bg-gray-900 p-6 rounded-lg shadow">
                     <Image
