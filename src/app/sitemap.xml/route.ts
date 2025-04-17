@@ -1,5 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
+import matter from "gray-matter";
+import autores from "@/data/autores.json";
 
 function slugify(text: string) {
   return text
@@ -18,6 +20,7 @@ export async function GET() {
 
   const urls: string[] = [];
   const tagsSet = new Set<string>();
+  const autoresSet = new Set<string>();
 
   for (const file of files) {
     if (!file.endsWith(".md")) continue;
@@ -33,24 +36,39 @@ export async function GET() {
       <lastmod>${lastmod}</lastmod>
     </url>`);
 
-    // Extrai tags do frontmatter
-    const frontmatter = content.split("---")[1];
-    const tagMatch = frontmatter.match(/tags:\s*(\[[^\]]+\]|(?:\n\s*- .+)+)/i);
-    if (tagMatch) {
-      const tagList = tagMatch[1].includes("[")
-        ? JSON.parse(tagMatch[1]) // tags: ["a", "b"]
-        : tagMatch[1].split("\n").map((line) => line.replace(/[-\s]/g, "").trim()); // tags: - a
+    const { data } = matter(content);
 
-      for (const tag of tagList) {
-        if (tag) tagsSet.add(slugify(tag));
-      }
+    // Tags
+    const tags = Array.isArray(data.tags) ? data.tags : [];
+    tags.forEach((tag: string) => tagsSet.add(slugify(tag)));
+
+    // Autor
+    if (data.author) {
+      autoresSet.add(slugify(data.author));
     }
   }
 
-  // Adiciona URLs de tags
+  // Tags
   for (const tag of tagsSet) {
     urls.push(`<url><loc>${baseUrl}/tag/${tag}</loc></url>`);
   }
+
+  // Autores
+  for (const autorSlug of autoresSet) {
+    urls.push(`<url><loc>${baseUrl}/autor/${autorSlug}</loc></url>`);
+  }
+
+  // Páginas institucionais fixas
+  const paginasEstaticas = [
+    "sobre",
+    "contato",
+    "missao-e-valores",
+    "politica-de-privacidade",
+    "politica-editorial"
+  ];
+  paginasEstaticas.forEach((slug) => {
+    urls.push(`<url><loc>${baseUrl}/${slug}</loc></url>`);
+  });
 
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
