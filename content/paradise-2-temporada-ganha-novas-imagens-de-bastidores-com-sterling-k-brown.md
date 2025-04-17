@@ -13,7 +13,7 @@ data: "2025-04-17T16:12:58.195Z"
 
 O Hulu acaba de oferecer um vislumbre dos bastidores da aguardada segunda temporada de 'Paradise', destacando Sterling K. Brown em ação no set. As imagens recém-divulgadas aumentam a expectativa dos fãs que aguardam novos episódios.
 
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DIhEuuizS4i/embed/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DIhEuuizS4i/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>
 
 A primeira temporada de 'Paradise' terminou em alta, com números impressionantes de audiência. O episódio inicial capturou a atenção de 7 milhões de espectadores em apenas nove dias após o lançamento, com esses números crescendo expressivamente para 17,6 milhões de visualizações mundialmente, conforme dados da Disney. Este sucesso fez com que a série figurasse entre as 15 mais assistidas do Hulu logo após a exibição do seu último episódio da temporada.
 

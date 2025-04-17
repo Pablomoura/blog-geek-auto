@@ -13,4 +13,4 @@ data: "2025-04-17T16:15:05.143Z"
 
 A saga Jurassic Park continua a expandir seu universo com o próximo lançamento, 'Jurassic World: Recomeço'. Recentemente, os fãs foram agraciados com um trailer de bastidores, oferecendo um vislumbre das novas aventuras e dos desafios enfrentados pela equipe de produção. O vídeo revela não apenas a tecnologia de ponta utilizada na criação dos dinossauros, mas também mostra o elenco e a equipe técnica em ação, destacando a complexidade e a dedicação por trás das câmeras. Este filme promete trazer não só novos personagens, mas também desafios inéditos para os veteranos da série, mantendo a essência que cativou milhões de fãs ao redor do mundo.
 
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DIjPDB9u0fe/embed/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DIjPDB9u0fe/?utm_source=ig_embed" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>
