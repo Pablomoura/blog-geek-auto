@@ -23,14 +23,14 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function AutorPage({
-  params,
-  searchParams
-}: {
-  params: { slug: string };
-  searchParams: { page?: string };
+export default async function AutorPage(props: {
+  params: Promise<{ slug: string }>;
+  searchParams: Promise<{ page?: string }>;
 }) {
-  const autor = autores.find((a) => slugify(a.nome) === params.slug);
+  const { slug } = await props.params;
+  const { page } = await props.searchParams;
+
+  const autor = autores.find((a) => slugify(a.nome) === slug);
   if (!autor) return notFound();
 
   const contentDir = path.join(process.cwd(), "content");
@@ -44,7 +44,7 @@ export default async function AutorPage({
     const conteudo = await fs.readFile(caminho, "utf-8");
     const { data, content } = matter(conteudo);
 
-    if (data.author && slugify(data.author) === params.slug) {
+    if (data.author && slugify(data.author) === slug) {
       posts.push({
         slug: data.slug,
         title: data.title,
@@ -71,7 +71,7 @@ export default async function AutorPage({
     .slice(0, 3)
     .map(([tag]) => tag);
 
-  const paginaAtual = parseInt(searchParams.page || "1", 10);
+  const paginaAtual = parseInt(page || "1", 10);
   const postsPorPagina = 20;
   const totalPaginas = Math.ceil(posts.length / postsPorPagina);
 
@@ -147,7 +147,7 @@ export default async function AutorPage({
           <div className="flex justify-center mt-10 gap-4 text-sm">
             {paginaAtual > 1 && (
               <Link
-                href={`/autor/${params.slug}?page=${paginaAtual - 1}`}
+                href={`/autor/${slug}?page=${paginaAtual - 1}`}
                 className="px-4 py-2 bg-gray-200 dark:bg-gray-700 rounded hover:bg-gray-300 dark:hover:bg-gray-600"
               >
                 ← Página anterior
@@ -155,7 +155,7 @@ export default async function AutorPage({
             )}
             {paginaAtual < totalPaginas && (
               <Link
-                href={`/autor/${params.slug}?page=${paginaAtual + 1}`}
+                href={`/autor/${slug}?page=${paginaAtual + 1}`}
                 className="px-4 py-2 bg-gray-200 dark:bg-gray-700 rounded hover:bg-gray-300 dark:hover:bg-gray-600"
               >
                 Próxima página →

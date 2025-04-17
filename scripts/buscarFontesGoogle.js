@@ -44,7 +44,7 @@ async function buscarFontesGoogle(tituloOriginal) {
     });
 
     return links.length > 0
-      ? `\n\n---\n\n## Fontes e Referências\n\n${links.join("\n")}`
+      ? `\n\n---\n\n#### Fontes e Referências\n\n${links.join("\n")}`
       : "";
   } catch (err) {
     console.error("❌ Erro ao buscar fontes Google:", err.message);
