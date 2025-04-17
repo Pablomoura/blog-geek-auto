@@ -234,13 +234,14 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
           <Script src="https://www.instagram.com/embed.js" strategy="afterInteractive" />
   
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+            {/* Banner reservado para publicidade
             <div className="w-full bg-gray-200 dark:bg-gray-800 h-32 mt-8 mb-8 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
             Reservado Para Publicidade
-            </div>
+            </div> */}
   
             <div className="flex flex-col lg:flex-row gap-14">
               <main className="flex-1 w-full lg:pr-10 py-10 text-neutral-900 dark:text-white">
-                
                 <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">{data.categoria}</span>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mt-2 mb-6">{data.title}</h1>
                 {data.experiencia && (
@@ -402,7 +403,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 <a href="https://disqus.com/?ref_noscript">comentários fornecidos pelo Disqus</a>.
               </noscript>
             </main>
-            <aside className="w-full lg:w-[320px] flex-shrink-0 space-y-10">
+            <aside className="w-full lg:w-[320px] flex-shrink-0 space-y-10 mt-10">
               <div className="h-32 flex items-center justify-center">
                           <Link href="https://amzn.to/3GquJ76" target="_blank" rel="noopener noreferrer">
                             <Image
@@ -485,9 +486,10 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
         </div>
                   
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+           {/* Banner reservado para publicidade
           <div className="bg-gray-200 dark:bg-gray-800 h-40 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
             Publicidade
-          </div>
+          </div>  */}
         </div>
       </>
     );

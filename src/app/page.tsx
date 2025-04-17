@@ -303,9 +303,9 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
         </div>
 
         <div className="mt-10">
-          <div className="bg-gray-200 dark:bg-gray-800 h-40 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
+          {/*<div className="bg-gray-200 dark:bg-gray-800 h-40 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
             Espaço reservado para publicidade
-          </div>
+          </div> */}
         </div>
       </main>
     </>

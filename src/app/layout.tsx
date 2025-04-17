@@ -38,12 +38,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <CookieBanner />
         <main>{children}</main>
         <footer className="mt-10 text-center py-4 bg-orange-100 border-b border-orange-100 text-gray-900 dark:bg-gray-900 dark:text-white">
-        <div className="max-w-6xl mx-auto px-6 grid grid-cols-1 sm:grid-cols-3 gap-8">
+        <div className="max-w-6xl mx-auto px-6 grid grid-cols-1 sm:grid-cols-4 gap-8">
     
     <div>
       <h3 className="text-gray-900 dark:text-white font-semibold mb-3">GeekNews</h3>
       <p className="text-gray-500 text-sm leading-relaxed">
-        Notícias inteligentes sobre cultura pop, animes, séries e tecnologia — feitas com curadoria e IA.
+        Notícias diárias sobre cultura pop, animes, séries e games — feitas por profissionais que amam o universo geek.
       </p>
     </div>
 
@@ -53,6 +53,16 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <li><Link href="/missao-e-valores" className="text-gray-500 text-sm leading-relaxed hover:text-orange-400">Missão e Valores</Link></li>
         <li><Link href="/sobre" className="text-gray-500 text-sm leading-relaxed hover:text-orange-400">Sobre o GeekNews</Link></li>
         <li><Link href="/contato" className="text-gray-500 text-sm leading-relaxed hover:text-orange-400">Contato</Link></li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 className="text-gray-900 dark:text-white font-semibold mb-3">Categorias</h3>
+      <ul className="space-y-2">
+        <li><Link href="/categoria/games" className="text-gray-500 text-sm leading-relaxed hover:text-orange-400">Games</Link></li>
+        <li><Link href="/categoria/series-e-tv" className="text-gray-500 text-sm leading-relaxed hover:text-orange-400">Séries e TV</Link></li>
+        <li><Link href="/categoria/mangas-e-animes" className="text-gray-500 text-sm leading-relaxed hover:text-orange-400">Mangás e Animes</Link></li>
+        <li><Link href="/categoria/filmes" className="text-gray-500 text-sm leading-relaxed hover:text-orange-400">Filmes</Link></li>
       </ul>
     </div>
 
