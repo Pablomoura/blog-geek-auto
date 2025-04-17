@@ -185,7 +185,7 @@ async function extrairConteudoNoticia(url) {
     });
     instagramIframes = instagramIframes.map((src) => {
       const url = limparUrlInstagram(src);
-      return `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>`;
+      return `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"><a href="${url}">Ver post no Instagram</a></blockquote>`;
     });
       
 
@@ -197,7 +197,7 @@ async function extrairConteudoNoticia(url) {
     });
     instagramLinks = instagramLinks.map((href) => {
       const url = limparUrlInstagram(href);
-      return `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"></blockquote>`;
+      return `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"><a href="${url}">Ver post no Instagram</a></blockquote>`;
     });
         
 
@@ -412,8 +412,8 @@ data: "${new Date().toISOString()}"
 function limparUrlInstagram(url) {
   try {
     const parsed = new URL(url, "https://www.instagram.com");
-    const pathname = parsed.pathname.replace(/\/(embed|captioned)\/?$/, "");
-    return `https://www.instagram.com${pathname}/?utm_source=ig_embed`;
+    const pathname = parsed.pathname.replace(/\/(embed|captioned)\/?$/, "").replace(/\/+$/, "");
+    return `https://www.instagram.com${pathname}/`;
   } catch {
     return url;
   }
