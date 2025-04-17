@@ -13,7 +13,7 @@ data: "2025-04-17T19:09:15.151Z"
 
 A franquia 'Karate Kid' está prestes a ganhar um novo capítulo com o lançamento de 'Karate Kid: Lendas', programado para estrear nos cinemas em maio. Uma imagem recém-divulgada do filme mostra Joshua Jackson como Victor, um personagem que parece estar profundamente envolvido com as artes marciais.
 
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DIjl3Frv1h7/embed/" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"><a href="https://www.instagram.com/p/DIjl3Frv1h7/embed/">Ver post no Instagram</a></blockquote>
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DIjl3Frv1h7/" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"><a href="https://www.instagram.com/p/DIjl3Frv1h7/">Ver post no Instagram</a></blockquote>
 
 Em 'Karate Kid: Lendas', acompanhamos a jornada de Li Fong (interpretado por Ben Wang), um jovem prodígio do kung fu que é forçado a deixar Pequim após uma tragédia familiar e se mudar para Nova York com sua mãe. Tentando se adaptar a um novo ambiente e superar seu passado, Li se depara com desafios que o levam a entrar em uma competição de karatê. Apesar de relutante, ele recebe a ajuda de seu mestre, Sr. Han (Jackie Chan), e de Daniel LaRusso (Ralph Macchio), o Karate Kid original, que o ensinam a combinar seus conhecimentos de kung fu com técnicas de karatê.
 

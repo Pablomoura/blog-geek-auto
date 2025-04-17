@@ -412,8 +412,10 @@ data: "${new Date().toISOString()}"
 function limparUrlInstagram(url) {
   try {
     const parsed = new URL(url, "https://www.instagram.com");
-    const pathname = parsed.pathname.replace(/\/(embed|captioned)\/?$/, "").replace(/\/+$/, "");
-    return `https://www.instagram.com${pathname}/`;
+    const pathname = parsed.pathname
+      .replace(/\/embed\/?/, "") // remove exatamente "/embed/" com ou sem barra final
+      .replace(/\/+$/, ""); // remove barra final
+    return `https://www.instagram.com${pathname}/`; // garante barra final única
   } catch {
     return url;
   }
