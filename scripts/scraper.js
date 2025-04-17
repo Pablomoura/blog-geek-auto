@@ -5,6 +5,7 @@ const puppeteer = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 require("dotenv").config();
 const { google } = require("googleapis");
+const buscarFontesGoogle = require("./buscarFontesGoogle");
 
 if (!process.env.GOOGLE_CREDENTIALS) {
   throw new Error("❌ GOOGLE_CREDENTIALS não definida. Verifique suas variáveis de ambiente no GitHub.");
@@ -366,7 +367,11 @@ async function buscarNoticiasOmelete() {
       inserirImagensNoTexto(reescrito.texto, imagensInternas),
       embeds
     );
-       
+
+    // 🔎 Buscar fontes internacionais com base no título
+    const blocoFontes = await buscarFontesGoogle(novaNoticia.titulo);
+    novaNoticia.texto += blocoFontes;
+
     novaNoticia.reescrito = true;
 
     const tags = reescrito.keywords

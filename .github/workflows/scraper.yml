@@ -19,6 +19,8 @@ jobs:
       TWITTER_APP_SECRET: ${{ vars.TWITTER_APP_SECRET }}
       TWITTER_ACCESS_TOKEN: ${{ vars.TWITTER_ACCESS_TOKEN }}
       TWITTER_ACCESS_SECRET: ${{ vars.TWITTER_ACCESS_SECRET }}
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      GOOGLE_CSE_ID: ${{ secrets.GOOGLE_CSE_ID }}
 
     steps:
       - name: Clona o repositório

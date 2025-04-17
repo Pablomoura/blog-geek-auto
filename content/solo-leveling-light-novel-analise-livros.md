@@ -9,6 +9,7 @@ resumo: >-
   Análise completa da light novel, com ordem de leitura, diferenças entre
   formatos e links para comprar com segurança na Amazon.
 data: '2025-04-08T15:20:00.000Z'
+atualizado_em: "2025-04-16"
 thumb: /images/ThumbSoloLevgeling.webp
 midia: /images/sololeveling.webp
 tipoMidia: imagem

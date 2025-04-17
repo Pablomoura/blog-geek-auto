@@ -143,6 +143,9 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     const { data, content } = matter(file);
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
     const publicadoEm = new Date(data.data).toLocaleDateString("pt-BR");
+    const atualizadoEm = data.atualizado_em
+    ? new Date(data.atualizado_em).toLocaleDateString("pt-BR")
+    : null;
 
     // Verifica se já existe HTML no cache
     const cacheDir = path.join(process.cwd(), "public", "cache", "html");
@@ -241,7 +244,8 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mt-2 mb-6">{data.title}</h1>
                 <CompartilharNoticia titulo={data.title} />
                 <p className="text-neutral-600 dark:text-gray-400 text-sm mb-6">
-                  Por <span className="font-medium text-black dark:text-white">{data.author}</span> • Publicado em {publicadoEm} • {tempoLeitura} min de leitura
+                  Por <span className="font-medium text-black dark:text-white">{data.author}</span> • Publicado em {publicadoEm}
+                  {atualizadoEm && <> • Atualizado em {atualizadoEm}</>} • {tempoLeitura} min de leitura
                 </p>
   
                 {data.tipoMidia === "imagem" && (
