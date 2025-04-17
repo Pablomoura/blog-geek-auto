@@ -1,14 +1,33 @@
 ---
-title: "10 Imperdíveis Filmes para Assistir no Disney+ em Abril de 2025"
-slug: "10-melhores-filmes-para-ver-na-disney-agora-abril-2025"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/8OKVY1MfQvO4zimbND4rbCueQqo=/987x0/smart/uploads/conteudo/fotos/melhores-filmes-disney-plus_aO6dFvN.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/o8xFQSrHHMSmJezZ_0QFhlECawI=/480x360/smart/extras/conteudos/melhores-filmes-disney-plus_kkFN6iK.png"
-tags: ["Disney+", "filmes Disney+", "melhores filmes Disney+", "streaming", "Amor Sublime Amor", "Fogo Contra Fogo", "Fresh", "Garota Exemplar", "Maré Vermelha", "Ou Tudo ou Nada", "Perdido em Marte", "Prey", "Ratatouille"]
-keywords: "Disney+, filmes Disney+, melhores filmes Disney+, streaming, Amor Sublime Amor, Fogo Contra Fogo, Fresh, Garota Exemplar, Maré Vermelha, Ou Tudo ou Nada, Perdido em Marte, Prey, Ratatouille"
-author: "Ana Luiza"
-data: "2025-04-16T11:09:25.349Z"
+title: 10 Imperdíveis Filmes para Assistir no Disney+ em Abril de 2025
+slug: 10-melhores-filmes-para-ver-na-disney-agora-abril-2025
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/8OKVY1MfQvO4zimbND4rbCueQqo=/987x0/smart/uploads/conteudo/fotos/melhores-filmes-disney-plus_aO6dFvN.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/o8xFQSrHHMSmJezZ_0QFhlECawI=/480x360/smart/extras/conteudos/melhores-filmes-disney-plus_kkFN6iK.png
+tags:
+  - Disney+
+  - filmes Disney+
+  - melhores filmes Disney+
+  - streaming
+  - Amor Sublime Amor
+  - Fogo Contra Fogo
+  - Fresh
+  - Garota Exemplar
+  - Maré Vermelha
+  - Ou Tudo ou Nada
+  - Perdido em Marte
+  - Prey
+  - Ratatouille
+keywords: >-
+  Disney+, filmes Disney+, melhores filmes Disney+, streaming, Amor Sublime
+  Amor, Fogo Contra Fogo, Fresh, Garota Exemplar, Maré Vermelha, Ou Tudo ou
+  Nada, Perdido em Marte, Prey, Ratatouille
+author: Ana Luiza
+data: '2025-04-16T11:09:25.349Z'
+experiencia: true
 ---
 
 O Disney+, com seu vasto catálogo recheado de sucessos, clássicos e blockbuster, continua a ser um dos serviços de streaming mais populares. Com a incorporação do Star+ em 2024, o Disney+ expandiu ainda mais sua oferta, incluindo clássicos da Buena Vista e filmes da 20th Century Fox. Apresentamos uma lista de 10 filmes excepcionais, em ordem alfabética, que você não pode perder no Disney+. Prepare-se para uma mistura de suspense, ação, terror, animação e muito mais.

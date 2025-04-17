@@ -242,9 +242,29 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
               <main className="flex-1 w-full lg:pr-10 py-10 text-neutral-900 dark:text-white">
                 <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">{data.categoria}</span>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mt-2 mb-6">{data.title}</h1>
+                {data.experiencia && (
+                  <div className="mb-4">
+                    <span className="inline-block bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300 text-xs font-bold px-3 py-1 rounded-full">
+                      Experiência Real 🔥
+                    </span>
+                  </div>
+                )}
+
                 <CompartilharNoticia titulo={data.title} />
                 <p className="text-neutral-600 dark:text-gray-400 text-sm mb-6">
-                  Por <span className="font-medium text-black dark:text-white">{data.author}</span> • Publicado em {publicadoEm}
+                  Por{" "}
+                  <Link
+                    href={`/autor/${data.author
+                      .toLowerCase()
+                      .normalize("NFD")
+                      .replace(/[\u0300-\u036f]/g, "")
+                      .replace(/[^a-z0-9]+/g, "-")
+                      .replace(/^-+|-+$/g, "")}`}
+                    className="font-medium text-black dark:text-white hover:underline"
+                  >
+                    {data.author}
+                  </Link>{" "}
+                  • Publicado em {publicadoEm}
                   {atualizadoEm && <> • Atualizado em {atualizadoEm}</>} • {tempoLeitura} min de leitura
                 </p>
   
@@ -319,9 +339,17 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                       className="rounded-full border-2 border-orange-400"
                     />
                     <div>
-                      <p className="text-lg font-bold text-neutral-900 dark:text-white">
-                        {data.author}
-                      </p>
+                    <Link
+                      href={`/autor/${data.author
+                        .toLowerCase()
+                        .normalize("NFD")
+                        .replace(/[\u0300-\u036f]/g, "")
+                        .replace(/[^a-z0-9]+/g, "-")
+                        .replace(/^-+|-+$/g, "")}`}
+                      className="text-lg font-bold text-neutral-900 dark:text-white hover:underline"
+                    >
+                      {data.author}
+                    </Link>
                       <p className="text-sm text-gray-700 dark:text-gray-400 mt-1">
                         {autores.find((a) => a.nome === data.author)?.bio}
                       </p>

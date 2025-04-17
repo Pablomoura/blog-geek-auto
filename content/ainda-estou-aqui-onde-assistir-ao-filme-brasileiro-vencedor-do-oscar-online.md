@@ -1,14 +1,27 @@
 ---
-title: "Ainda Estou Aqui | Onde assistir ao filme brasileiro vencedor do Oscar online"
-slug: "ainda-estou-aqui-onde-assistir-ao-filme-brasileiro-vencedor-do-oscar-online"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/8odnXV72ADmhM3TrTc7WTk7sVhQ=/987x0/smart/uploads/conteudo/fotos/aindaestouaqui_H0CHK0B.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Hs9LFEv1msmCqy1jGBGY-q_mda8=/480x360/smart/extras/conteudos/aindaestouaqui_trUtlWv.jpg"
-tags: ["Oscar", "filme brasileiro", "Globoplay", "streaming", "Fernanda Torres", "Walter Salles", "cinema internacional", "ditadura militar"]
-keywords: "Oscar, filme brasileiro, Globoplay, streaming, Fernanda Torres, Walter Salles, cinema internacional, ditadura militar"
-author: "Luana Souza"
-data: "2025-04-11T19:10:07.059Z"
+title: Ainda Estou Aqui | Onde assistir ao filme brasileiro vencedor do Oscar online
+slug: ainda-estou-aqui-onde-assistir-ao-filme-brasileiro-vencedor-do-oscar-online
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/8odnXV72ADmhM3TrTc7WTk7sVhQ=/987x0/smart/uploads/conteudo/fotos/aindaestouaqui_H0CHK0B.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Hs9LFEv1msmCqy1jGBGY-q_mda8=/480x360/smart/extras/conteudos/aindaestouaqui_trUtlWv.jpg
+tags:
+  - Oscar
+  - filme brasileiro
+  - Globoplay
+  - streaming
+  - Fernanda Torres
+  - Walter Salles
+  - cinema internacional
+  - ditadura militar
+keywords: >-
+  Oscar, filme brasileiro, Globoplay, streaming, Fernanda Torres, Walter Salles,
+  cinema internacional, ditadura militar
+author: Luana Souza
+data: '2025-04-11T19:10:07.059Z'
+experiencia: true
 ---
 
 A aclamada produção brasileira 'Ainda Estou Aqui', dirigida por Walter Salles e estrelada por Fernanda Torres, finalmente chegou ao streaming. Disponibilizado no Globoplay desde o dia 6 de abril, o filme encerrou sua exibição nos cinemas nacionais em 3 de abril. A obra, que trouxe o primeiro Oscar de filme internacional para o Brasil, estabeleceu um marco ao ser o título mais assistido na data de sua estreia na plataforma, registrando o maior consumo diário na história do Globoplay.

@@ -21,6 +21,7 @@ keywords: >-
   melhores animes para iniciantes, anime para quem nunca viu, animes fáceis de
   acompanhar, onde assistir animes, trailers de anime para iniciantes
 author: Ana Luiza
+experiencia: true
 ---
 ## Quer começar a ver anime, mas não sabe por onde?
 

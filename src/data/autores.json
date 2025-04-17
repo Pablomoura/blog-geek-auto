@@ -1,17 +1,17 @@
 [
   {
     "nome": "Pablo Moura",
-    "bio": "Redator Chefe do GeekNews. Especialista em cultura pop, animes e tecnologia.",
+    "bio": "Redator Chefe do GeekNews, entusiasta de tecnologia, games e inteligência artificial. Escreve com olhar analítico sobre cultura pop, buscando sempre conectar tendências e inovações com o universo geek.",
     "imagem": "/images/autores/pablo-moura.jpg"
   },
   {
     "nome": "Luana Souza",
-    "bio": "Redatora apaixonada por séries, filmes e bastidores do entretenimento.",
+    "bio": "Cinéfila e série-maníaca, com foco em narrativas femininas, diversidade e representatividade. Analisa estreias com profundidade e destaca o impacto da cultura geek nas produções audiovisuais.",
     "imagem": "/images/autores/luana-souza.jpg"
   },
   {
     "nome": "Ana Luiza",
-    "bio": "Geek desde criança, ama escrever sobre animes, mangás e universo otaku.",
+    "bio": "Apaixonada por animes e mangás desde a infância, cobre lançamentos, bastidores e curiosidades do Japão pop. É especialista em Crunchyroll, estreias sazonais e fandoms de cultura otaku.",
     "imagem": "/images/autores/ana-luiza.jpg"
   }
 ]

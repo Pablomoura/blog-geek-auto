@@ -16,6 +16,7 @@ tags:
   - cinemas
   - série religiosa
 author: Pablo Moura
+experiencia: true
 ---
 
 A aguardada quinta temporada de 'The Chosen', intitulada 'Última Ceia', será lançada em abril. Para os fãs ansiosos, os dois primeiros episódios serão exibidos nos cinemas a partir do dia 10 de abril. Ainda não há confirmação sobre a distribuição dos episódios subsequentes nos cinemas, mas, seguindo o sucesso do ano anterior, é provável que também sejam exibidos. Os ingressos já estão à venda no site oficial da série, thechosenultimaceia.com.br. Para quem deseja relembrar as temporadas anteriores, estas estão disponíveis gratuitamente no app oficial da série e as três primeiras temporadas podem ser assistidas no Prime Video. No Brasil, o SBT está transmitindo a segunda temporada da série.

@@ -18,6 +18,7 @@ tags:
   - primeiras impressões
   - estreia 2025
 author: Ana Luiza
+experiencia: true
 ---
 
 A adaptação live-action de 'Como Treinar o Seu Dragão', prevista para estrear em 2025, foi exibida em primeira mão durante a CinemaCon, evento onde o Omelete teve a oportunidade de assistir ao filme completo. A seguir, apresentamos nossas impressões sobre essa nova produção.

@@ -23,6 +23,7 @@ tags:
   - séries japonesas
 data: '2025-04-04T22:22:04.950Z'
 author: Ana Luiza
+experiencia: true
 ---
 
 ## Introdução ao Universo de Kaiju No. 8

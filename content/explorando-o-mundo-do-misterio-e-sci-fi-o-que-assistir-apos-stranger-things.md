@@ -24,6 +24,7 @@ tags:
   - sobrenatural
 data: '2025-04-03T22:59:22.320Z'
 author: Pablo Moura
+experiencia: true
 ---
 
 ## Introdução ao Universo Após Stranger Things
