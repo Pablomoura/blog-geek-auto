@@ -232,6 +232,9 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
               />
             </Link>
             </div>
+            <p className="text-xs text-gray-500 dark:text-gray-400 italic mt-8">
+              Esta página pode conter links afiliados. Ao comprar por eles, você apoia o GeekNews sem pagar nada a mais por isso.
+            </p>
 
             <section className="mb-8">
               <div className="flex items-center justify-between mb-4 border-b pb-2">

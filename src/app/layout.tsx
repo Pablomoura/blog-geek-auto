@@ -37,26 +37,38 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <PageLoader />
         <CookieBanner />
         <main>{children}</main>
-        <footer className="mt-10 text-center py-4 bg-gray-900 text-white text-sm">
-          <p>
-            © 2025 GeekNews - Todos os direitos reservados. |
-            <Link href="/politica-de-privacidade" className="underline hover:text-orange-400 ml-1">
-              Política de Privacidade
-            </Link>
-            {" | "}
-            <Link href="/politica-editorial" className="underline hover:text-orange-400 ml-1">
-              Política Editorial
-            </Link>
-            {" | "}
-            <Link href="/contato" className="underline hover:text-orange-400 ml-1">
-              Contato
-            </Link>
-            {" | "}
-            <Link href="/sobre" className="underline hover:text-orange-400 ml-1">
-              Sobre o GeekNews
-            </Link>
-          </p>
-        </footer>
+        <footer className="mt-10 text-center py-4 bg-orange-100 border-b border-orange-100 text-gray-900 dark:bg-gray-900 dark:text-white">
+        <div className="max-w-6xl mx-auto px-6 grid grid-cols-1 sm:grid-cols-3 gap-8">
+    
+    <div>
+      <h3 className="text-gray-900 dark:text-white font-semibold mb-3">GeekNews</h3>
+      <p className="text-gray-500 text-sm leading-relaxed">
+        Notícias inteligentes sobre cultura pop, animes, séries e tecnologia — feitas com curadoria e IA.
+      </p>
+    </div>
+
+    <div>
+      <h3 className="text-gray-900 dark:text-white font-semibold mb-3">Navegação</h3>
+      <ul className="space-y-2">
+        <li><Link href="/missao-e-valores" className="text-gray-500 text-sm leading-relaxed hover:text-orange-400">Missão e Valores</Link></li>
+        <li><Link href="/sobre" className="text-gray-500 text-sm leading-relaxed hover:text-orange-400">Sobre o GeekNews</Link></li>
+        <li><Link href="/contato" className="text-gray-500 text-sm leading-relaxed hover:text-orange-400">Contato</Link></li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 className="text-gray-900 dark:text-white font-semibold mb-3">Legal</h3>
+      <ul className="space-y-2">
+        <li><Link href="/politica-de-privacidade" className="text-gray-500 text-sm leading-relaxed hover:text-orange-400">Política de Privacidade</Link></li>
+        <li><Link href="/politica-editorial" className="text-gray-500 text-sm leading-relaxed hover:text-orange-400">Política Editorial</Link></li>
+      </ul>
+    </div>
+  </div>
+
+  <div className="text-center text-gray-500 text-xs mt-10 border-t border-orange-200 pt-6">
+    © 2025 GeekNews — Todos os direitos reservados.
+  </div>
+</footer>
         </LoadingProvider>
       </body>
     </html>

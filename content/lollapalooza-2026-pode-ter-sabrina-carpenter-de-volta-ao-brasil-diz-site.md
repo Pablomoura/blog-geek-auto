@@ -20,9 +20,3 @@ Recentemente, Sabrina Carpenter ganhou destaque com seu especial de Natal na Net
 Antes do possível retorno ao Brasil, Sabrina está confirmada para se apresentar no Lollapalooza em Chicago, que ocorre entre 31 de julho e 3 de agosto, e contará também com artistas como Tyler, The Creator, Doechii e Olivia Rodrigo.
 
 ---
-
-## Fontes e Referências
-
-- [Erijackson Sales | Sabrina Carpenter na América Latina em 2026 ... - instagram.com](https://www.instagram.com/reel/DIVDCTlxvvf/)
-- [O que você acha da Sabrina Carpenter? : r/Lollapalooza - reddit.com](https://www.reddit.com/r/Lollapalooza/comments/1isoms9/thoughts_on_sabrina_carpenter/?tl=pt-br)
-- [Erijackson Sales | Ansioso pra Sabrina Carpenter voltar pro Brasil ... - instagram.com](https://www.instagram.com/reel/DDkbuDTRNMS/)

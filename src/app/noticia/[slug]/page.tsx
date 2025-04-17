@@ -240,6 +240,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
   
             <div className="flex flex-col lg:flex-row gap-14">
               <main className="flex-1 w-full lg:pr-10 py-10 text-neutral-900 dark:text-white">
+                
                 <span className="text-orange-500 uppercase text-sm font-bold tracking-wide">{data.categoria}</span>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mt-2 mb-6">{data.title}</h1>
                 {data.experiencia && (
@@ -413,6 +414,9 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                             />
                           </Link>
                           </div>
+                          <p className="text-xs text-gray-500 dark:text-gray-400 italic mt-8">
+                            Esta página pode conter links afiliados. Ao comprar por eles, você apoia o GeekNews sem pagar nada a mais por isso.
+                          </p>
 
               <section className="mb-8">
                 <div className="flex items-center justify-between mb-4 border-b pb-2">
@@ -473,12 +477,13 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
               </section>
 
               <div>
+                
                 {todosPosts[0] && <ProdutosAmazon categoria={data.categoria} />}
               </div>
             </aside>
           </div>
         </div>
-
+                  
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
           <div className="bg-gray-200 dark:bg-gray-800 h-40 rounded-lg flex items-center justify-center text-sm text-gray-500 dark:text-gray-400">
             Publicidade

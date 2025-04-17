@@ -20,9 +20,3 @@ O autor também expressou sua frustração com a pressão dos fãs, o que o levo
 Martin também planeja um sétimo livro, Um Sonho de Primavera, para finalizar a saga As Crônicas do Gelo e Fogo. Enquanto isso, os fãs da adaptação televisiva podem assistir a todas as oito temporadas de Game of Thrones no Max, bem como os outros projetos relacionados disponíveis na HBO. Infelizmente, ainda não há uma data de lançamento para Os Ventos do Inverno.
 
 ---
-
-## Fontes e Referências
-
-- [Veremos Fire and Blood Parte 2 antes de The Winds of Winter ... - reddit.com](https://www.reddit.com/r/asoiaf/comments/1di63li/will_we_see_fire_and_blood_part_2_before_the/?tl=pt-br)
-- [Ventos De Inverno Livro 2025 | TikTok - tiktok.com](https://www.tiktok.com/discover/ventos-de-inverno-livro-2025)
-- [Palavras são ventos | WebDebee - webdebee.wordpress.com](https://webdebee.wordpress.com/2013/12/31/palavras-sao-ventos/)

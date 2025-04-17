@@ -24,9 +24,3 @@ Zach Cregger firmou um acordo com a Warner Bros, garantindo não apenas a produ�
 A Warner Bros. tem grandes expectativas para 'Weapons', esperando que Cregger se torne uma figura recorrente no gênero de terror do estúdio, potencialmente ocupando o lugar deixado por James Wan, que recentemente mudou para a Universal em parceria com a Blumhouse. Cregger reuniu novamente a equipe de produtores de 'Noites Brutais' para este novo projeto, incluindo Roy Lee, J.D. Lifshitz, Raphael Margules e Miri Yoon.
 
 ---
-
-## Fontes e Referências
-
-- [Horror Losers (@horrorlosers) / X - x.com](https://x.com/horrorlosers?lang=en)
-- [Arquivo de Sem categoria - Sessão Pipoca - sessaopipoca.com](https://sessaopipoca.com/category/sem-categoria/)
-- [Trailer de 'Cuco': Hunter Schafer envolvido em um misterioso drama ... - pt.ihorror.com](https://pt.ihorror.com/trailer-de-cuco-ca%C3%A7ador-schafer-neons-%C3%BAltimo-filme-de-terror/)
