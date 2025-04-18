@@ -2375,7 +2375,8 @@
       "Tadeu Schmidt",
       "Rodrigo Dourado",
       "Globoplay",
-      "Big Brother Brasil 25"
+      "Big Brother Brasil 25",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -2671,7 +2672,8 @@
       "Paredão",
       "Tadeu Schmidt",
       "votação BBB",
-      "Rodrigo Dourado"
+      "Rodrigo Dourado",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 1,
@@ -2834,7 +2836,8 @@
       "Vitória",
       "Tadeu Schmidt",
       "Rodrigo Dourado",
-      "Globoplay"
+      "Globoplay",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -3017,7 +3020,8 @@
       "eliminação",
       "Tadeu Schmidt",
       "TV Globo",
-      "votação"
+      "votação",
+      "especial-BBB 25"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 1,
@@ -3078,7 +3082,8 @@
       "Big Brother Brasil 25",
       "Tadeu Schmidt",
       "Rodrigo Dourado",
-      "votação BBB"
+      "votação BBB",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -3264,7 +3269,8 @@
       "enquete UOL",
       "Tadeu Schmidt",
       "Rodrigo Dourado",
-      "Globoplay"
+      "Globoplay",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 1,
@@ -3304,7 +3310,8 @@
       "Tadeu Schmidt",
       "Rodrigo Dourado",
       "votação BBB",
-      "resultado paredão"
+      "resultado paredão",
+      "especial-BBB 25"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -5815,6 +5822,27 @@
     "textoLength": 1557
   },
   {
+    "slug": "como-vingadores-vo-reagir-ao-ver-downey-jr-como-doutor-destino-ator-comenta",
+    "titulo": "Robert Downey Jr. Retorna como Doutor Destino em 'Vingadores: Doomsday' - Reações e Elenco Estelar",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/iVcHethTTsKVr_YRH9frDTYtZ0c=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-18_161643.png",
+    "data": "2025-04-18T20:12:13.232Z",
+    "tags": [
+      "Vingadores Doomsday",
+      "Robert Downey Jr.",
+      "Doutor Destino",
+      "Anthony Mackie",
+      "MCU",
+      "Marvel",
+      "elenco estelar",
+      "X-Men",
+      "Quarteto Fantástico"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1316
+  },
+  {
     "slug": "comparativo-definitivo-kaiju-no-8-vs-chainsaw-man-quem-reina-entre-os-monstros-modernos",
     "titulo": "Comparativo Definitivo: Kaiju No. 8 vs Chainsaw Man - Quem Reina Entre os Monstros Modernos?",
     "categoria": "MANGÁS E ANIMES",
@@ -6763,6 +6791,28 @@
     "author": "Ana Luiza",
     "tempoLeitura": 1,
     "textoLength": 1131
+  },
+  {
+    "slug": "demon-slayer-filme-recebe-pster-com-visual-de-inosuke",
+    "titulo": "Demon Slayer | Novo pôster do filme destaca Inosuke",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/LrOgsne818y0nua0nHGPv7ugl_A=/480x360/smart/extras/conteudos/01_VvHCEpn.jpg",
+    "data": "2025-04-18T20:10:56.725Z",
+    "tags": [
+      "Demon Slayer",
+      "Castelo Infinito",
+      "filme",
+      "Inosuke",
+      "estreia",
+      "mangá",
+      "anime",
+      "Tanjiro",
+      "Nezuko",
+      "Koyoharu Gotouge"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1349
   },
   {
     "slug": "descendentes-5-inicia-filmagens-com-primeira-foto-do-elenco-confira",
@@ -17222,7 +17272,8 @@
       "prêmio final BBB",
       "Tadeu Schmidt",
       "Rodrigo Dourado",
-      "sistema de votação BBB"
+      "sistema de votação BBB",
+      "especial-BBB 25"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -19604,7 +19655,8 @@
       "David Corenswet",
       "novo filme Superman",
       "DCU",
-      "trailer de bastidores"
+      "trailer de bastidores",
+      "especial-Superman"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -19665,7 +19717,8 @@
       "streaming",
       "produtos licenciados",
       "Superman Run",
-      "herói"
+      "herói",
+      "especial-Superman"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -19684,7 +19737,8 @@
       "Krypto",
       "DCU",
       "filmes de super-heróis",
-      "colecionáveis"
+      "colecionáveis",
+      "especial-Superman"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 1,
@@ -19746,7 +19800,8 @@
       "colecionáveis",
       "filme Superman",
       "estreia 2025",
-      "produtos Superman"
+      "produtos Superman",
+      "especial-Superman"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -19894,6 +19949,28 @@
     "textoLength": 1994
   },
   {
+    "slug": "superman-kaiju-aparece-em-detalhes-em-colecionvel-do-filme",
+    "titulo": "Superman | Revelados Novos Detalhes do Kaiju em Colecionável do Filme",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/Zb3PpXP92oJUeM7MhKlzq5eEC10=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-18_163810.png",
+    "data": "2025-04-18T20:11:41.047Z",
+    "tags": [
+      "Superman",
+      "Kaiju",
+      "DCU",
+      "James Gunn",
+      "colecionáveis",
+      "David Corenswet",
+      "Rachel Brosnahan",
+      "Nicholas Hoult",
+      "Nathan Fillion",
+      "DC Comics"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1755
+  },
+  {
     "slug": "superman-liberada-primeira-imagem-de-heri-indito-no-filme",
     "titulo": "Superman: Divulgada Primeira Imagem Completa do Herói Metamorfo no Novo Filme",
     "categoria": "FILMES",
@@ -19906,7 +19983,8 @@
       "Metamorfo",
       "filme",
       "Anthony Carrigan",
-      "novo DCU"
+      "novo DCU",
+      "especial-Superman"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -19945,7 +20023,8 @@
       "James Gunn",
       "filme Superman",
       "novo DCU",
-      "lançamentos cinema 2025"
+      "lançamentos cinema 2025",
+      "especial-Superman"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -20039,7 +20118,8 @@
       "DC Studios",
       "James Gunn",
       "action figure",
-      "filme Superman"
+      "filme Superman",
+      "especial-Superman"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -23559,6 +23639,25 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 2183
+  },
+  {
+    "slug": "vingadores-doomsday-magneto-e-noturno-se-renem-em-primeira-foto-de-bastidor",
+    "titulo": "Vingadores: Doomsday | Reunião de Magneto e Noturno em nova foto de bastidores",
+    "categoria": "FILMES",
+    "thumb": "https://cdn.ome.lt/5i0DUBh42lgh77R9epwJFn9WUq8=/480x360/smart/extras/conteudos/01_SUqijWJ.jpg",
+    "data": "2025-04-18T20:12:46.580Z",
+    "tags": [
+      "Vingadores Doomsday",
+      "Marvel",
+      "Ian McKellen",
+      "Alan Cumming",
+      "MCU",
+      "X-Men",
+      "estreia 2026"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1884
   },
   {
     "slug": "vingadores-doomsday-marvel-confirma-elenco-ao-vivo-assista",
