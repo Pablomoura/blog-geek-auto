@@ -412,10 +412,15 @@ data: "${new Date().toISOString()}"
 function limparUrlInstagram(url) {
   try {
     const parsed = new URL(url, "https://www.instagram.com");
-    const pathname = parsed.pathname
-      .replace(/\/embed\/?/, "") // remove exatamente "/embed/" com ou sem barra final
-      .replace(/\/+$/, ""); // remove barra final
-    return `https://www.instagram.com${pathname}/`; // garante barra final única
+    let pathname = parsed.pathname;
+
+    // Remove qualquer sufixo "/embed", "/captioned", ou strings coladas tipo "captioned" no final
+    pathname = pathname
+      .replace(/\/?(embed|captioned)\/?$/, "")        // remove /embed ou /captioned
+      .replace(/(embed|captioned)$/i, "")             // remove se vier colado ao ID
+      .replace(/\/+$/, "");                           // remove barras finais duplicadas
+
+    return `https://www.instagram.com${pathname}/`;   // adiciona barra final padrão
   } catch {
     return url;
   }
