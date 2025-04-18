@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/ofKvnUlm9K9gu_S1CgFhgIFngZE=/987x0/smart/uploads/conteudo/fotos/bbb25-delma-eliminada.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/jCQqc54gtjcNRgTK2x2ktlH9eT0=/480x360/smart/extras/conteudos/bbb25-delma-eliminada-peq.jpg"
-tags: ["BBB 25", "Delma eliminada", "Paredão", "Tadeu Schmidt", "votação BBB", "Rodrigo Dourado"]
+tags: ["BBB 25", "Delma eliminada", "Paredão", "Tadeu Schmidt", "votação BBB", "Rodrigo Dourado", "especial-BBB 25"]
 keywords: "BBB 25, Delma eliminada, Paredão, Tadeu Schmidt, votação BBB, Rodrigo Dourado"
 author: "Pablo Moura"
 data: "2025-04-16T02:24:00.642Z"

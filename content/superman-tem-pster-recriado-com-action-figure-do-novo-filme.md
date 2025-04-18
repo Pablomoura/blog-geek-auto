@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://cdn.ome.lt/1WUp4BlcEr4aq2REooRoyviiyQ4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-17T193748.853.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/WbmSNNkshE-NpwKdQuBmuc6L8Sk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-17T193748.853.png"
-tags: ["Superman", "McFarlane Toys", "David Corenswet", "DC Studios", "James Gunn", "action figure", "filme Superman"]
+tags: ["Superman", "McFarlane Toys", "David Corenswet", "DC Studios", "James Gunn", "action figure", "filme Superman", "especial-Superman"]
 keywords: "Superman, McFarlane Toys, David Corenswet, DC Studios, James Gunn, action figure, filme Superman"
 author: "Luana Souza"
 data: "2025-04-17T23:10:00.201Z"

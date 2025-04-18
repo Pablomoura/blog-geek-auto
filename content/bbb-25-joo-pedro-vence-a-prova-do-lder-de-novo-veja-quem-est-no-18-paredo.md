@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/1WdF7v6nG9WeAimw5bSJPfm4O3c=/987x0/smart/uploads/conteudo/fotos/bbb25-joao-pedro-18-lider.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/eKthlftsuBMyIOoyBP5--LX0poc=/480x360/smart/extras/conteudos/bbb25-joao-pedro-18-lider-peq.jpg"
-tags: ["BBB 25", "João Pedro", "Prova do Líder", "Paredão", "Diego", "Renata", "Vitória", "Tadeu Schmidt", "Rodrigo Dourado", "Globoplay"]
+tags: ["BBB 25", "João Pedro", "Prova do Líder", "Paredão", "Diego", "Renata", "Vitória", "Tadeu Schmidt", "Rodrigo Dourado", "Globoplay", "especial-BBB 25"]
 keywords: "BBB 25, João Pedro, Prova do Líder, Paredão, Diego, Renata, Vitória, Tadeu Schmidt, Rodrigo Dourado, Globoplay"
 author: "Luana Souza"
 data: "2025-04-16T03:32:00.708Z"

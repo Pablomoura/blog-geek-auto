@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/va5hl1ohiLh3zON4L_9l2GZ-Ljk=/987x0/smart/uploads/conteudo/fotos/bbb25-tadeu-schmidt-quarto-secreto_cV4Hxht.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/OeirG-ZW16HG30sb_OGIYUqzVEs=/480x360/smart/extras/conteudos/bbb25-tadeu-schmidt-quarto-secreto-peq_rfeZc3C.jpg"
-tags: ["BBB 25", "prêmio final BBB", "Tadeu Schmidt", "Rodrigo Dourado", "sistema de votação BBB"]
+tags: ["BBB 25", "prêmio final BBB", "Tadeu Schmidt", "Rodrigo Dourado", "sistema de votação BBB", "especial-BBB 25"]
 keywords: "BBB 25, prêmio final BBB, Tadeu Schmidt, Rodrigo Dourado, sistema de votação BBB"
 author: "Pablo Moura"
 data: "2025-04-18T03:27:25.219Z"

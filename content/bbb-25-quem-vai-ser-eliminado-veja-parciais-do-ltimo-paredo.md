@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/shbyrbJPkPe5zN85ariiO2I44x8=/987x0/smart/uploads/conteudo/fotos/bbb_9MuoTGW.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/50lpZt7II_RAMcWTZdlaIAkaKsA=/480x360/smart/extras/conteudos/bbb_ZcQ5p4s.png"
-tags: ["BBB 25", "último paredão", "Vitória Strada", "Renata", "João Pedro", "Tadeu Schmidt", "Rodrigo Dourado", "votação BBB", "resultado paredão"]
+tags: ["BBB 25", "último paredão", "Vitória Strada", "Renata", "João Pedro", "Tadeu Schmidt", "Rodrigo Dourado", "votação BBB", "resultado paredão", "especial-BBB 25"]
 keywords: "BBB 25, último paredão, Vitória Strada, Renata, João Pedro, Tadeu Schmidt, Rodrigo Dourado, votação BBB, resultado paredão"
 author: "Ana Luiza"
 data: "2025-04-18T18:13:04.142Z"

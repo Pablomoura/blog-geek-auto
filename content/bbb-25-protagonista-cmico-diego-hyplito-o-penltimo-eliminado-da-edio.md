@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/SdSIGBHacHTzQH3lZawXbQF2nKs=/987x0/smart/uploads/conteudo/fotos/bbb25-diego-hypolito-eliminado.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/1EMkP7DkVLzjMB4p96Ik1mk2bJU=/480x360/smart/extras/conteudos/bbb25-diego-hypolito-eliminado-peq.jpg"
-tags: ["BBB 25", "Diego Hypólito", "paredão", "eliminação", "Tadeu Schmidt", "TV Globo", "votação"]
+tags: ["BBB 25", "Diego Hypólito", "paredão", "eliminação", "Tadeu Schmidt", "TV Globo", "votação", "especial-BBB 25"]
 keywords: "BBB 25, Diego Hypólito, paredão, eliminação, Tadeu Schmidt, TV Globo, votação"
 author: "Luana Souza"
 data: "2025-04-18T02:20:56.968Z"

@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/TVaKuEfAoyu5NCaq7_U1ors8hMY=/987x0/smart/uploads/conteudo/fotos/bbb25-renata-prova-resistencia.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/LmjGnlV2XY6_zV1DJtgJRwmQ1j8=/480x360/smart/extras/conteudos/bbb25-renata-prova-resistencia-peq.jpg"
-tags: ["BBB 25", "prova de resistência", "final BBB", "Tadeu Schmidt", "Rodrigo Dourado", "Globoplay", "Big Brother Brasil 25"]
+tags: ["BBB 25", "prova de resistência", "final BBB", "Tadeu Schmidt", "Rodrigo Dourado", "Globoplay", "Big Brother Brasil 25", "especial-BBB 25"]
 keywords: "BBB 25, prova de resistência, final BBB, Tadeu Schmidt, Rodrigo Dourado, Globoplay, Big Brother Brasil 25"
 author: "Luana Souza"
 data: "2025-04-18T02:20:07.889Z"

@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://cdn.ome.lt/HyrTC1LQbUxhzwE-lNpmUvjk9OQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T112053.026.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/3irAA9D4ZKp_226EPAAVVPSY9Z8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T112040.751.png"
-tags: ["Superman", "James Gunn", "DCU", "action-figure", "Krypto", "Supercão", "colecionáveis", "filme Superman", "estreia 2025", "produtos Superman"]
+tags: ["Superman", "James Gunn", "DCU", "action-figure", "Krypto", "Supercão", "colecionáveis", "filme Superman", "estreia 2025", "produtos Superman", "especial-Superman"]
 keywords: "Superman, James Gunn, DCU, action-figure, Krypto, Supercão, colecionáveis, filme Superman, estreia 2025, produtos Superman"
 author: "Luana Souza"
 data: "2025-04-18T15:12:41.085Z"

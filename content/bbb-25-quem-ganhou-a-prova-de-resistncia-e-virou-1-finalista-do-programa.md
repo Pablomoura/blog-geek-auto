@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/TVaKuEfAoyu5NCaq7_U1ors8hMY=/987x0/smart/uploads/conteudo/fotos/bbb25-renata-prova-resistencia.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/LmjGnlV2XY6_zV1DJtgJRwmQ1j8=/480x360/smart/extras/conteudos/bbb25-renata-prova-resistencia-peq.jpg"
-tags: ["BBB 25", "Guilherme", "prova de resistência", "finalista", "Big Brother Brasil 25", "Tadeu Schmidt", "Rodrigo Dourado", "votação BBB"]
+tags: ["BBB 25", "Guilherme", "prova de resistência", "finalista", "Big Brother Brasil 25", "Tadeu Schmidt", "Rodrigo Dourado", "votação BBB", "especial-BBB 25"]
 keywords: "BBB 25, Guilherme, prova de resistência, finalista, Big Brother Brasil 25, Tadeu Schmidt, Rodrigo Dourado, votação BBB"
 author: "Ana Luiza"
 data: "2025-04-18T15:11:52.912Z"

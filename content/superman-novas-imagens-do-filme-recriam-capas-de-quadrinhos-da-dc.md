@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://cdn.ome.lt/b7eshCyqkBihH68vUHWrGo2_hjs=/987x0/smart/uploads/conteudo/fotos/superman-cinemacon_2WTA3Ug.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/IdkD4sEFo8k4mag1H-pboKbbzgs=/480x360/smart/extras/conteudos/superman-trailer_VJ6qpVZ.jpg"
-tags: ["Superman", "DC Comics", "David Corenswet", "James Gunn", "filme Superman", "novo DCU", "lançamentos cinema 2025"]
+tags: ["Superman", "DC Comics", "David Corenswet", "James Gunn", "filme Superman", "novo DCU", "lançamentos cinema 2025", "especial-Superman"]
 keywords: "Superman, DC Comics, David Corenswet, James Gunn, filme Superman, novo DCU, lançamentos cinema 2025"
 author: "Pablo Moura"
 data: "2025-04-17T20:12:25.291Z"

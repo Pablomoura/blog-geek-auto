@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://cdn.ome.lt/3vcc8njnR-qO7jqsPvu0oGTxQ_4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T111522.223.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/g4Jzs-KUa4K1w8xD-tFpgrg8ZHY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T111510.246.png"
-tags: ["James Gunn", "Superman", "Funko Pop", "Krypto", "DCU", "filmes de super-heróis", "colecionáveis"]
+tags: ["James Gunn", "Superman", "Funko Pop", "Krypto", "DCU", "filmes de super-heróis", "colecionáveis", "especial-Superman"]
 keywords: "James Gunn, Superman, Funko Pop, Krypto, DCU, filmes de super-heróis, colecionáveis"
 author: "Pablo Moura"
 data: "2025-04-18T15:13:12.211Z"
