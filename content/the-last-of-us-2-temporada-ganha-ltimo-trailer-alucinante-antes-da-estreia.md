@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/z2wI-U-zDlgcJv1nfhzSpBRudqE=/987x0/smart/uploads/conteudo/fotos/lastofussegundatemporada_GCAFuK5.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/qWKYHm4tI71nEPP0WTZHI4O36kw=/480x360/smart/extras/conteudos/lastofussegundatemporada_qf61V38.jpg"
-tags: ["The Last of Us", "HBO", "trailer", "temporada 2", "série", "Pedro Pascal", "Bella Ramsey"]
+tags: ["The Last of Us", "HBO", "trailer", "temporada 2", "série", "Pedro Pascal", "Bella Ramsey", "especial-The Last of Us"]
 keywords: "The Last of Us, HBO, trailer, temporada 2, série, Pedro Pascal, Bella Ramsey"
 author: "Pablo Moura"
 data: "2025-04-13T17:09:06.685Z"

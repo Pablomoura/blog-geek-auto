@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://www.youtube.com/embed/EUJmIjZLNsw?showinfo=0&enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/9jgCJlM1ROv06F6pZjedVg6R0y8=/480x360/smart/extras/conteudos/bella-ramsey-the-last-of-us-2_wWzMnDI.jpg"
-tags: ["The Last of Us", "HBO", "segunda temporada", "bastidores", "Neil Druckmann", "Craig Mazin", "série", "adaptação"]
+tags: ["The Last of Us", "HBO", "segunda temporada", "bastidores", "Neil Druckmann", "Craig Mazin", "série", "adaptação", "especial-The Last of Us"]
 keywords: "The Last of Us, HBO, segunda temporada, bastidores, Neil Druckmann, Craig Mazin, série, adaptação"
 author: "Ana Luiza"
 data: "2025-04-14T20:12:48.174Z"

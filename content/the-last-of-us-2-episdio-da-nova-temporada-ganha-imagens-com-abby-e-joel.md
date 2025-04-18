@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/wHVsr8OfdYT934ovLgnbm5PGt1U=/987x0/smart/uploads/conteudo/fotos/abby-the-last-of-us.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/02J3ssF083dypTbyfRHDLe35XnU=/480x360/smart/extras/conteudos/abby-the-last-of-us.png"
-tags: ["The Last of Us", "HBO", "segunda temporada", "Abby", "Joel", "Ellie", "imagens", "série", "estreia"]
+tags: ["The Last of Us", "HBO", "segunda temporada", "Abby", "Joel", "Ellie", "imagens", "série", "estreia", "especial-The Last of Us"]
 keywords: "The Last of Us, HBO, segunda temporada, Abby, Joel, Ellie, imagens, série, estreia"
 author: "Ana Luiza"
 data: "2025-04-15T18:11:41.380Z"

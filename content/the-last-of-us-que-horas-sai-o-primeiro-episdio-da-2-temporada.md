@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://www.youtube.com/embed/fKsuEIPdWzU?showinfo=0&enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/CFua7V9j2NLn-jQiZuH9lCn_ZtY=/480x360/smart/extras/conteudos/Design_sem_nome_3_1lCyMLm.jpg"
-tags: ["The Last of Us", "segunda temporada", "HBO", "Max", "estreia", "Ellie", "Joel", "adaptação"]
+tags: ["The Last of Us", "segunda temporada", "HBO", "Max", "estreia", "Ellie", "Joel", "adaptação", "especial-The Last of Us"]
 keywords: "The Last of Us, segunda temporada, HBO, Max, estreia, Ellie, Joel, adaptação"
 author: "Luana Souza"
 data: "2025-04-13T16:19:16.900Z"

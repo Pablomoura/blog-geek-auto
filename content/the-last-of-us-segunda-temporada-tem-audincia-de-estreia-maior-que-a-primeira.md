@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://www.youtube.com/embed/M_-m3TVTN6w?showinfo=0&enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/ZDT8LH4F8dk43D0BSAJhSYENjzA=/480x360/smart/extras/conteudos/01_hBnOwCf.jpg"
-tags: ["The Last of Us", "segunda temporada", "HBO", "audiência", "estreia", "redes sociais", "elenco"]
+tags: ["The Last of Us", "segunda temporada", "HBO", "audiência", "estreia", "redes sociais", "elenco", "especial-The Last of Us"]
 keywords: "The Last of Us, segunda temporada, HBO, audiência, estreia, redes sociais, elenco"
 author: "Ana Luiza"
 data: "2025-04-14T21:09:35.382Z"

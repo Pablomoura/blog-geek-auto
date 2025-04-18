@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://www.youtube.com/embed/RiBKUjt9G7g?enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/mUPj9YqQ08EO7lsEcJ8t1MYYAnQ=/480x360/smart/extras/conteudos/GoWg3AcXoAAYgS1.jpeg"
-tags: ["The Last of Us", "segunda temporada", "trailer", "HBO", "novos personagens"]
+tags: ["The Last of Us", "segunda temporada", "trailer", "HBO", "novos personagens", "especial-The Last of Us"]
 keywords: "The Last of Us, segunda temporada, trailer, HBO, novos personagens"
 author: "Ana Luiza"
 data: "2025-04-14T02:25:28.736Z"

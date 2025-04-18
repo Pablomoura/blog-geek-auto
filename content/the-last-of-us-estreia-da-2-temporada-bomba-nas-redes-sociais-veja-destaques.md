@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/zlHOVyLjS5M6Ysx0pB30x2tRXWs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-14T134956.055.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/GGwhd4Ec7a0UEMqLVNzJJOTkX98=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T134938.686.png"
-tags: ["The Last of Us", "segunda temporada", "HBO", "redes sociais", "Naughty Dog"]
+tags: ["The Last of Us", "segunda temporada", "HBO", "redes sociais", "Naughty Dog", "especial-The Last of Us"]
 keywords: "The Last of Us, segunda temporada, HBO, redes sociais, Naughty Dog"
 author: "Luana Souza"
 data: "2025-04-14T17:09:59.375Z"

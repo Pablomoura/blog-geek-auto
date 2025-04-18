@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/8pprVObn1jsJxRsJ667t22cNZig=/987x0/smart/uploads/conteudo/fotos/joe-pantoliano-tlou.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/W0dnHELLyEtZruYwkjf85mcYdnc=/480x360/smart/extras/conteudos/joe-pantoliano-tlou.png"
-tags: ["The Last of Us", "segunda temporada", "Joe Pantoliano", "Eugene", "HBO", "Neil Druckmann", "série", "adaptação"]
+tags: ["The Last of Us", "segunda temporada", "Joe Pantoliano", "Eugene", "HBO", "Neil Druckmann", "série", "adaptação", "especial-The Last of Us"]
 keywords: "The Last of Us, segunda temporada, Joe Pantoliano, Eugene, HBO, Neil Druckmann, série, adaptação"
 author: "Pablo Moura"
 data: "2025-04-14T02:25:54.609Z"
