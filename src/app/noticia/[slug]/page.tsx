@@ -303,10 +303,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 <TwitterLoader />
                 <InstagramLoader />
 
-                <CompartilharNoticia titulo={data.title} />
-                  {/* ✅ Links internos */}
-
-                  {data.tipo === "critica" && data.notaCritico && (
+                {data.tipo === "critica" && data.notaCritico && (
                     <FichaTecnica
                       capa={data.capaObra || data.thumb}
                       tituloPortugues={data.tituloPortugues || data.title}
@@ -320,6 +317,9 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                       elenco={data.elenco}
                     />
                   )}
+
+                <CompartilharNoticia titulo={data.title} />
+                  {/* ✅ Links internos */}
 
                 {/* ✅ Tags clicáveis */}
                 {Array.isArray(data.tags) && data.tags.length > 0 && (

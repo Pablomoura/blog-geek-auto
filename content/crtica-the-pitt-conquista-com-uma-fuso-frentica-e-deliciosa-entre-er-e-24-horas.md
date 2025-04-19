@@ -3,22 +3,23 @@ title: "Crítica: 'The Pitt' – Uma Nova Visão Vibrante no Drama Médico"
 slug: "crtica-the-pitt-conquista-com-uma-fuso-frentica-e-deliciosa-entre-er-e-24-horas"
 categoria: "SÉRIES E TV"
 tipo: "critica"
-midia: "https://www.youtube.com/embed/b1K7jexPjUI?showinfo=0&enablejsapi=1"
+midia: "https://www.youtube.com/embed/2Y6dp7EPjm0?showinfo=0&enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/WqfvOQVG2Dqml-5HpZRIodQjGT4=/480x360/smart/extras/conteudos/Design_sem_nome_8_c9ZkgYa.jpg"
 tags: ["The Pitt", "drama médico", "HBO", "Noah Wyle", "ER", "24 Horas", "série médica", "Max"]
 keywords: "The Pitt, drama médico, HBO, Noah Wyle, ER, 24 Horas, série médica, Max"
 author: "Luana Souza"
 data: "2025-04-19T00:42:07.068Z"
-capaObra: ""
-notaCritico: null
-tituloOriginal: ""
-ano: ""
-pais: ""
-classificacao: ""
+capaObra: "https://cdn.ome.lt/LNzAgEoLI3idvYVYnxYHmFMWLE8=/200x0/smart/extras/capas/Captura_de_tela_2025-01-07_162829.png"
+notaCritico: 4
+tituloPortugues: "The Pitt"
+tituloOriginal: "The Pitt"
+ano: "2025"
+pais: "Estados Unidos"
+classificacao: "Drama"
 duracao: ""
 direcao: ""
-elenco: ""
+elenco: "Noah Wyle, Tracy Ifeachor, Patrick Ball, Katherine LaNasa"
 ---
 
 Os dramas médicos são um pilar constante na televisão, evoluindo desde o sucesso seminal de 'ER' nos anos 90 e 2000, até 'Grey’s Anatomy', que dominou as últimas décadas. Apesar de várias séries como 'House' tentarem inovar o gênero, poucas conseguiram trazer algo verdadeiramente novo. É aqui que 'The Pitt', a nova produção da HBO, tenta fazer a diferença, oferecendo uma perspectiva inovadora e ágil.

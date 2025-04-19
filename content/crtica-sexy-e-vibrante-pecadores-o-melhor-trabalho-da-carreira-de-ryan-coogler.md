@@ -10,15 +10,16 @@ tags: ["Ryan Coogler", "Michael B. Jordan", "Pecadores", "cinema", "crítica de 
 keywords: "Ryan Coogler, Michael B. Jordan, Pecadores, cinema, crítica de filme, drama histórico, blues, racismo, Estados Unidos"
 author: "Luana Souza"
 data: "2025-04-19T00:40:34.760Z"
-capaObra: ""
-notaCritico: null
-tituloOriginal: ""
-ano: ""
-pais: ""
-classificacao: ""
-duracao: ""
-direcao: ""
-elenco: ""
+capaObra: "https://cdn.ome.lt/KhneVp6SLlNxgErbPuUT3o2hguA=/200x0/smart/extras/capas/Captura_de_tela_2025-04-10_173913.png"
+notaCritico: 5
+tituloPortugues: "Pecadores"
+tituloOriginal: "Sinners"
+ano: "2025"
+pais: "EUA"
+classificacao: "16 anos"
+duracao: "137 min"
+direcao: "Ryan Coogler"
+elenco: "Jack O'Connell , Hailee Steinfeld , Delroy Lindo , Michael B. Jordan"
 ---
 
 O mais recente filme de Ryan Coogler, 'Pecadores', marca um retorno vibrante do diretor ao cinema autoral, após trabalhar em grandes sucessos como 'Creed' e 'Pantera Negra'. Desde 'Fruitvale Station - A Última Parada' em 2013, Coogler não tinha explorado uma narrativa tão pessoal e envolvente, mergulhando nas divisões raciais e de classe nos Estados Unidos através de uma história que usa o horror como alegoria para desvendar os pecados humanos.

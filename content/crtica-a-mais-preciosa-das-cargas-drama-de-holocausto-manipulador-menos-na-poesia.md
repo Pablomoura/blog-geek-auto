@@ -10,15 +10,16 @@ tags: ["A Mais Preciosa das Cargas", "crítica", "animação", "Holocausto", "Mi
 keywords: "A Mais Preciosa das Cargas, crítica, animação, Holocausto, Michel Hazanavicius, Alexandre Desplat, Jean-Louis Trintignant"
 author: "Pablo Moura"
 data: "2025-04-19T00:39:53.958Z"
-capaObra: ""
-notaCritico: null
-tituloOriginal: ""
-ano: ""
-pais: ""
+capaObra: "https://cdn.ome.lt/bl7fdm_NV78rzRqqz_2HTKLjj3A=/200x0/smart/extras/capas/preciosa.jpg"
+notaCritico: 3
+tituloPortugues: "A Mais Preciosa das Cargas"
+tituloOriginal: "La plus précieuse des marchandises"
+ano: "2024"
+pais: "França/Bélgica"
 classificacao: ""
-duracao: ""
-direcao: ""
-elenco: ""
+duracao: "81 min"
+direcao: "Michel Hazanavicius"
+elenco: "Grégory Gadebois , Dominique Blanc , Jean-Louis Trintignant , Denis Podalydès"
 ---
 
 A animação, enquanto forma de arte, transcende a classificação de gênero cinematográfico, servindo como um meio versátil para contar variados tipos de histórias. No entanto, isso não isenta decisões específicas no processo de criação de certas expectativas e limitações. Nesse contexto, a escolha de Michel Hazanavicius de produzir 'A Mais Preciosa das Cargas' como um filme animado pode ser questionada.

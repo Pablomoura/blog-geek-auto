@@ -10,13 +10,14 @@ tags: ["The Narrow Road to the Deep North", "Jacob Elordi", "crítica", "miniss�
 keywords: "The Narrow Road to the Deep North, Jacob Elordi, crítica, minissérie, guerra, Amazon MGM, Sony Pictures, drama de guerra, Justin Kurzel"
 author: "Ana Luiza"
 data: "2025-04-19T00:38:20.103Z"
-capaObra: ""
-notaCritico: null
+capaObra: "https://cdn.ome.lt/9UbCFuYlmwA6H32a8TM3nV-L2fA=/200x0/smart/extras/capas/narrow.jpg"
+notaCritico: 3
+tituloPortugues: "The Narrow Road to the Deep North"
 tituloOriginal: ""
-ano: ""
-pais: ""
+ano: "2025"
+pais: "Austrália, Estados Unidos"
 classificacao: ""
-duracao: ""
+duracao: "53min"
 direcao: ""
 elenco: ""
 ---
