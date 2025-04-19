@@ -1,14 +1,29 @@
 ---
-title: "Sam Neill Confirmado no Novo Filme do Monsterverse, 'Godzilla e Kong 3'"
-slug: "sam-neill-se-junta-ao-prximo-filme-do-monsterverse"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/wMpdzoTjO3QlMybuLz0JatKHZ_M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T203220.208.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/aS0mefsLLR7zWbWNXMvi2-AtRew=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T203220.208.png"
-tags: ["Sam Neill", "Godzilla e Kong 3", "Monsterverse", "cinema", "filmes", "lançamentos", "Legendary"]
-keywords: "Sam Neill, Godzilla e Kong 3, Monsterverse, cinema, filmes, lançamentos, Legendary"
-author: "Luana Souza"
-data: "2025-04-16T00:45:30.907Z"
+title: 'Sam Neill Confirmado no Novo Filme do Monsterverse, ''Godzilla e Kong 3'''
+slug: sam-neill-se-junta-ao-prximo-filme-do-monsterverse
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/wMpdzoTjO3QlMybuLz0JatKHZ_M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T203220.208.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/aS0mefsLLR7zWbWNXMvi2-AtRew=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T203220.208.png
+tags:
+  - Sam Neill
+  - Godzilla e Kong 3
+  - Monsterverse
+  - cinema
+  - filmes
+  - lançamentos
+  - Legendary
+keywords: >-
+  Sam Neill, Godzilla e Kong 3, Monsterverse, cinema, filmes, lançamentos,
+  Legendary
+author: Luana Souza
+data: '2025-04-16T00:45:30.907Z'
+resumo: >-
+  O renomado ator Sam Neill é a mais recente adição ao elenco de 'Godzilla e
+  Kong 3', com estreia prevista para 26 de março de 2027. Seu papel ainda não
+  foi revelado.
 ---
 
 A franquia Monsterverse está prestes a ganhar um novo capítulo com 'Godzilla e Kong 3', programado para chegar aos cinemas em 26 de março de 2027. Entre os novos nomes confirmados no elenco está Sam Neill, conhecido por seu icônico papel como Dr. Alan Grant em 'Jurassic Park'. Apesar de ainda não ter sido divulgado o papel que Neill desempenhará, espera-se que mais detalhes surjam nos próximos meses.

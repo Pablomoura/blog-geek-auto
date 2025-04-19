@@ -1,14 +1,27 @@
 ---
-title: "Despedida Emocionante no Elenco de 9-1-1 Após Saída de Peter Krause"
-slug: "9-1-1-elenco-se-despede-de-ator-aps-morte-de-personagem-confira"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/2YRFq7wE37DpFpttRvmNDvaSOaQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T182333.051_JMWpPjP.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nv-QOWGL1sWjC01FfIDuHL_gcew=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T182333.051_p12l3mL.png"
-tags: ["9-1-1", "Peter Krause", "despedida elenco", "Bobby Nash", "tributo", "spin-off 9-1-1 Nashville"]
-keywords: "9-1-1, Peter Krause, despedida elenco, Bobby Nash, tributo, spin-off 9-1-1 Nashville"
-author: "Pablo Moura"
-data: "2025-04-18T22:10:01.494Z"
+title: Despedida Emocionante no Elenco de 9-1-1 Após Saída de Peter Krause
+slug: 9-1-1-elenco-se-despede-de-ator-aps-morte-de-personagem-confira
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/2YRFq7wE37DpFpttRvmNDvaSOaQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T182333.051_JMWpPjP.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nv-QOWGL1sWjC01FfIDuHL_gcew=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T182333.051_p12l3mL.png
+tags:
+  - 9-1-1
+  - Peter Krause
+  - despedida elenco
+  - Bobby Nash
+  - tributo
+  - spin-off 9-1-1 Nashville
+keywords: >-
+  9-1-1, Peter Krause, despedida elenco, Bobby Nash, tributo, spin-off 9-1-1
+  Nashville
+author: Pablo Moura
+data: '2025-04-18T22:10:01.494Z'
+resumo: >-
+  Elenco de '9-1-1' presta homenagens a Peter Krause após a morte de seu
+  personagem, Capitão Bobby Nash.
 ---
 
 O episódio emocionante de '9-1-1' intitulado 'Lab Rats' marcou o fim da jornada de Robert 'Bobby' Nash, personagem interpretado por Peter Krause. No episódio, o capitão se sacrifica heroicamente para salvar Chimmey, papel de Kenneth Choi, depois de ambos serem infectados por um vírus letal. Este momento levou a uma onda de tributos por parte do elenco nas redes sociais.

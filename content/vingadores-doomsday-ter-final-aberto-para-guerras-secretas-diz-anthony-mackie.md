@@ -1,14 +1,32 @@
 ---
-title: "Vingadores: Doomsday - Uma Preparação para Guerras Secretas, Revela Anthony Mackie"
-slug: "vingadores-doomsday-ter-final-aberto-para-guerras-secretas-diz-anthony-mackie"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Z7uPx-6uMDAqV9LkDPLDtG8E-u4=/987x0/smart/uploads/conteudo/fotos/vingadores-doomsday_N5RXIH2.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/PrWVZWIMrFMmYYsmvkk6ZqQ4T9Y=/480x360/smart/extras/conteudos/capitao-america-4.jpg"
-tags: ["Vingadores Doomsday", "Anthony Mackie", "Marvel", "Capitão América", "Guerras Secretas", "MCU", "elenco", "Doutor Destino", "X-Men"]
-keywords: "Vingadores Doomsday, Anthony Mackie, Marvel, Capitão América, Guerras Secretas, MCU, elenco, Doutor Destino, X-Men"
-author: "Pablo Moura"
-data: "2025-04-17T19:08:43.046Z"
+title: >-
+  Vingadores: Doomsday - Uma Preparação para Guerras Secretas, Revela Anthony
+  Mackie
+slug: vingadores-doomsday-ter-final-aberto-para-guerras-secretas-diz-anthony-mackie
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Z7uPx-6uMDAqV9LkDPLDtG8E-u4=/987x0/smart/uploads/conteudo/fotos/vingadores-doomsday_N5RXIH2.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/PrWVZWIMrFMmYYsmvkk6ZqQ4T9Y=/480x360/smart/extras/conteudos/capitao-america-4.jpg
+tags:
+  - Vingadores Doomsday
+  - Anthony Mackie
+  - Marvel
+  - Capitão América
+  - Guerras Secretas
+  - MCU
+  - elenco
+  - Doutor Destino
+  - X-Men
+keywords: >-
+  Vingadores Doomsday, Anthony Mackie, Marvel, Capitão América, Guerras
+  Secretas, MCU, elenco, Doutor Destino, X-Men
+author: Pablo Moura
+data: '2025-04-17T19:08:43.046Z'
+resumo: >-
+  O filme está programado para chegar aos cinemas em abril de 2026, prometendo
+  grandes emoções e um elenco estelar.
 ---
 
 Anthony Mackie expressou grande entusiasmo ao discutir seu papel como Capitão América no próximo filme da Marvel, 'Vingadores: Doomsday'. Em uma recente entrevista ao Collider, Mackie compartilhou suas impressões sobre o roteiro e destacou como o filme servirá de ponte para o futuro 'Vingadores: Guerras Secretas'.

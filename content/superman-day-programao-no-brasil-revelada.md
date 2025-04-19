@@ -1,14 +1,30 @@
 ---
-title: "Celebração do Superman Day no Brasil: Confira a Programação Completa!"
-slug: "superman-day-programao-no-brasil-revelada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/mdM--XsuD_8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/FtzFm5lPqOLxalhxxy8krlqSptk=/480x360/smart/extras/conteudos/superday.jpg"
-tags: ["Superman Day", "Warner Bros", "DC Comics", "programação especial", "TV", "streaming", "produtos licenciados", "Superman Run", "herói", "especial-Superman"]
-keywords: "Superman Day, Warner Bros, DC Comics, programação especial, TV, streaming, produtos licenciados, Superman Run, herói"
-author: "Luana Souza"
-data: "2025-04-16T21:10:46.897Z"
+title: 'Celebração do Superman Day no Brasil: Confira a Programação Completa!'
+slug: superman-day-programao-no-brasil-revelada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/mdM--XsuD_8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/FtzFm5lPqOLxalhxxy8krlqSptk=/480x360/smart/extras/conteudos/superday.jpg
+tags:
+  - Superman Day
+  - Warner Bros
+  - DC Comics
+  - programação especial
+  - TV
+  - streaming
+  - produtos licenciados
+  - Superman Run
+  - herói
+  - especial-Superman
+keywords: >-
+  Superman Day, Warner Bros, DC Comics, programação especial, TV, streaming,
+  produtos licenciados, Superman Run, herói
+author: Luana Souza
+data: '2025-04-16T21:10:46.897Z'
+resumo: >-
+  Eventos especiais e exibições marcam o aniversário do icônico herói da DC
+  Comics no Brasil.
 ---
 
 A Warner Bros. anunciou uma série de eventos e exibições especiais em comemoração ao Superman Day no Brasil, que ocorrerá no dia 18 de abril. Este dia foi escolhido para celebrar os 87 anos desde a criação do icônico super-herói da DC Comics.

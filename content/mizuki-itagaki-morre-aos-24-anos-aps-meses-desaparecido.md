@@ -1,14 +1,27 @@
 ---
-title: "Falecimento do Ator Mizuki Itagaki aos 24 Anos Após Desaparecimento"
-slug: "mizuki-itagaki-morre-aos-24-anos-aps-meses-desaparecido"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/uoktKpiVjT0o01V_oLD_L7kPxoU=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-17T202340.401.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/IRlJgOR4dv3mFx9TezeeDFPxgtA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-17T202340.401.png"
-tags: ["Mizuki Itagaki", "falecimento", "ator japonês", "desaparecimento", "live-action", "adaptações de mangá"]
-keywords: "Mizuki Itagaki, falecimento, ator japonês, desaparecimento, live-action, adaptações de mangá"
-author: "Luana Souza"
-data: "2025-04-18T00:43:09.776Z"
+title: Falecimento do Ator Mizuki Itagaki aos 24 Anos Após Desaparecimento
+slug: mizuki-itagaki-morre-aos-24-anos-aps-meses-desaparecido
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/uoktKpiVjT0o01V_oLD_L7kPxoU=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-17T202340.401.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/IRlJgOR4dv3mFx9TezeeDFPxgtA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-17T202340.401.png
+tags:
+  - Mizuki Itagaki
+  - falecimento
+  - ator japonês
+  - desaparecimento
+  - live-action
+  - adaptações de mangá
+keywords: >-
+  Mizuki Itagaki, falecimento, ator japonês, desaparecimento, live-action,
+  adaptações de mangá
+author: Luana Souza
+data: '2025-04-18T00:43:09.776Z'
+resumo: >-
+  Mizuki Itagaki, conhecido por seus papéis em adaptações live-action, foi
+  encontrado morto após desaparecer em janeiro.
 ---
 
 A comunidade artística e fãs estão de luto após o anúncio do falecimento de Mizuki Itagaki. Aos 24 anos, o ator japonês foi declarado morto após um trágico 'acidente inesperado', conforme revelado por sua família através de uma publicação no Instagram nesta quinta-feira. Itagaki havia desaparecido no final de janeiro deste ano e, segundo relatos, lutava contra uma doença mental desde o ano passado.

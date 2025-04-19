@@ -1,14 +1,25 @@
 ---
-title: "Jean Charles | Série sobre brasileiro morto em atentado ganha trailer"
-slug: "jean-charles-srie-sobre-brasileiro-morto-em-atentado-ganha-trailer"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/_EYJ0JzEiag?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/xjZ3zdpVZ82MNfrNNmsFE9spKqA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T132653.079.png"
-tags: ["Jean Charles de Menezes", "série", "trailer", "estreia", "Disney+", "Jeff Pope", "Edison Alcaide"]
-keywords: "Jean Charles de Menezes, série, trailer, estreia, Disney+, Jeff Pope, Edison Alcaide"
-author: "Ana Luiza"
-data: "2025-04-14T17:11:43.687Z"
+title: Jean Charles | Série sobre brasileiro morto em atentado ganha trailer
+slug: jean-charles-srie-sobre-brasileiro-morto-em-atentado-ganha-trailer
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/_EYJ0JzEiag?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/xjZ3zdpVZ82MNfrNNmsFE9spKqA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T132653.079.png
+tags:
+  - Jean Charles de Menezes
+  - série
+  - trailer
+  - estreia
+  - Disney+
+  - Jeff Pope
+  - Edison Alcaide
+keywords: >-
+  Jean Charles de Menezes, série, trailer, estreia, Disney+, Jeff Pope, Edison
+  Alcaide
+author: Ana Luiza
+data: '2025-04-14T17:11:43.687Z'
+resumo: Estreia está marcada para 30 de abril
 ---
 
 A série 'Suspect: The Shooting of Jean Charles de Menezes', que narra a história do brasileiro assassinado em um atentado em Londres, acaba de lançar seu primeiro trailer. A produção tem previsão de estreia para o dia 30 de abril deste ano e é uma criação de Jeff Pope.

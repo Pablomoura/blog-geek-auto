@@ -1,14 +1,24 @@
 ---
-title: "BBB 25 | Previsões para o 17º Paredão indicam possível eliminado"
-slug: "bbb-25-quem-vai-ser-eliminado-veja-parciais-do-17-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/G4Mo08tItc6fOc0bbG1nrZcdKw4=/987x0/smart/uploads/conteudo/fotos/bbb25-guilherme-renata-delma-parcial.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/K7zP9zJV1D3pAzg3nGknp9T-TUo=/480x360/smart/extras/conteudos/bbb25-renata-17-parcial-peq.jpg"
-tags: ["BBB 25", "Paredão", "eliminação", "Tadeu Schmidt", "Rodrigo Dourado", "votação", "especial-BBB 25"]
-keywords: "BBB 25, Paredão, eliminação, Tadeu Schmidt, Rodrigo Dourado, votação"
-author: "Pablo Moura"
-data: "2025-04-14T04:13:07.936Z"
+title: BBB 25 | Previsões para o 17º Paredão indicam possível eliminado
+slug: bbb-25-quem-vai-ser-eliminado-veja-parciais-do-17-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/G4Mo08tItc6fOc0bbG1nrZcdKw4=/987x0/smart/uploads/conteudo/fotos/bbb25-guilherme-renata-delma-parcial.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/K7zP9zJV1D3pAzg3nGknp9T-TUo=/480x360/smart/extras/conteudos/bbb25-renata-17-parcial-peq.jpg
+tags:
+  - BBB 25
+  - Paredão
+  - eliminação
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - votação
+  - especial-BBB 25
+keywords: 'BBB 25, Paredão, eliminação, Tadeu Schmidt, Rodrigo Dourado, votação'
+author: Pablo Moura
+data: '2025-04-14T04:13:07.936Z'
+resumo: O BBB 25 avança para a reta final com intensidade e forma seu 17º Paredão.
 ---
 
 O BBB 25 continua a todo vapor e o 17º Paredão foi estabelecido na noite de domingo (13), envolvendo Guilherme, Renata e Delma. Um deles será eliminado na próxima terça-feira, dia 15. Na madrugada desta segunda-feira (14), às 00h33, as parciais da enquete do UOL sugerem a eliminação de Delma, que recebeu 53,55% dos votos do público. Renata segue com 40,05%, enquanto Guilherme parece seguro com apenas 6,41% dos votos.

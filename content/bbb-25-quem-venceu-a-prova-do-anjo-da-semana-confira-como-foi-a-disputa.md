@@ -1,14 +1,27 @@
 ---
-title: "BBB 25 | Descubra quem ganhou a Prova do Anjo desta semana"
-slug: "bbb-25-quem-venceu-a-prova-do-anjo-da-semana-confira-como-foi-a-disputa"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/e6Sl_Klf5j8yXDn2eKsJH90g3ik=/987x0/smart/uploads/conteudo/fotos/prova-do-anjo-bbb.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ZRnxXbzGBvYLL-iRbHA-dS5ltsE=/480x360/smart/extras/conteudos/prova-do-anjo-bbb.png"
-tags: ["BBB 25", "Prova do Anjo", "Paredão", "Globoplay", "Tadeu Schmidt", "Rodrigo Dourado", "Voto da Torcida", "Reality Show"]
-keywords: "BBB 25, Prova do Anjo, Paredão, Globoplay, Tadeu Schmidt, Rodrigo Dourado, Voto da Torcida, Reality Show"
-author: "Luana Souza"
-data: "2025-04-11T18:13:23.540Z"
+title: BBB 25 | Descubra quem ganhou a Prova do Anjo desta semana
+slug: bbb-25-quem-venceu-a-prova-do-anjo-da-semana-confira-como-foi-a-disputa
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/e6Sl_Klf5j8yXDn2eKsJH90g3ik=/987x0/smart/uploads/conteudo/fotos/prova-do-anjo-bbb.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ZRnxXbzGBvYLL-iRbHA-dS5ltsE=/480x360/smart/extras/conteudos/prova-do-anjo-bbb.png
+tags:
+  - BBB 25
+  - Prova do Anjo
+  - Paredão
+  - Globoplay
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - Voto da Torcida
+  - Reality Show
+keywords: >-
+  BBB 25, Prova do Anjo, Paredão, Globoplay, Tadeu Schmidt, Rodrigo Dourado,
+  Voto da Torcida, Reality Show
+author: Luana Souza
+data: '2025-04-11T18:13:23.540Z'
+resumo: A competição intensifica com o 'modo turbo' do reality show
 ---
 
 Na tarde desta sexta-feira (11), o Big Brother Brasil 25 prosseguiu com seu dinâmico 'modo turbo', realizando uma nova Prova do Anjo, antecedendo a formação de um novo paredão que incluirá a já indicada Renata. Nesta etapa inicial da competição, todos os participantes tiveram a chance de competir, exceto o líder João Pedro. O desafio consistia em esvaziar um celular gigante cheio de bolinhas para encontrar um card, com os três primeiros a completar essa tarefa avançando para a fase final.

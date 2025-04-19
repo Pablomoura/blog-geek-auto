@@ -1,14 +1,26 @@
 ---
-title: "Classe dos Heróis Fracos 2 | Si-eun enfrenta nova gangue no trailer; veja"
-slug: "classe-dos-heris-fracos-2-si-eun-enfrenta-nova-gangue-no-trailer-veja"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/jj1URLs7Bq0?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/jo0o_apGDhBfHMu6TEsjKgdWqko=/480x360/smart/extras/conteudos/classe.png"
-tags: ["Classe dos Heróis Fracos 2", "trailer", "Netflix", "K-drama", "Park Ji-hoon", "ação", "segunda temporada", "gangue"]
-keywords: "Classe dos Heróis Fracos 2, trailer, Netflix, K-drama, Park Ji-hoon, ação, segunda temporada, gangue"
-author: "Pablo Moura"
-data: "2025-04-11T12:17:56.924Z"
+title: Classe dos Heróis Fracos 2 | Si-eun enfrenta nova gangue no trailer; veja
+slug: classe-dos-heris-fracos-2-si-eun-enfrenta-nova-gangue-no-trailer-veja
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/jj1URLs7Bq0?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/jo0o_apGDhBfHMu6TEsjKgdWqko=/480x360/smart/extras/conteudos/classe.png
+tags:
+  - Classe dos Heróis Fracos 2
+  - trailer
+  - Netflix
+  - K-drama
+  - Park Ji-hoon
+  - ação
+  - segunda temporada
+  - gangue
+keywords: >-
+  Classe dos Heróis Fracos 2, trailer, Netflix, K-drama, Park Ji-hoon, ação,
+  segunda temporada, gangue
+author: Pablo Moura
+data: '2025-04-11T12:17:56.924Z'
+resumo: Continuação do k-drama da Netflix chega em 25 de abril à plataforma
 ---
 
 A Netflix divulgou hoje, 11 de abril, um novo trailer da aguardada segunda temporada do k-drama 'Classe dos Heróis Fracos'. O vídeo apresenta uma trama intensa e repleta de ação - assista no player acima.

@@ -1,14 +1,23 @@
 ---
-title: "Lilo e Stitch deve fazer mais de US$ 100 milhões na estreia"
-slug: "lilo-e-stitch-deve-fazer-mais-de-us-100-milhes-na-estreia"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/fEL_Yu4O70okyuLmJfFokIuGtYI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-11T210633.756.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nhpVNbCY2J9EFl7atxKl_yMj2t0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T210633.756.png"
-tags: ["Lilo e Stitch", "live-action", "Disney", "bilheteria", "estreia", "cinema"]
-keywords: "Lilo e Stitch, live-action, Disney, bilheteria, estreia, cinema"
-author: "Pablo Moura"
-data: "2025-04-12T00:42:39.282Z"
+title: Lilo e Stitch deve fazer mais de US$ 100 milhões na estreia
+slug: lilo-e-stitch-deve-fazer-mais-de-us-100-milhes-na-estreia
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/fEL_Yu4O70okyuLmJfFokIuGtYI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-11T210633.756.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nhpVNbCY2J9EFl7atxKl_yMj2t0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T210633.756.png
+tags:
+  - Lilo e Stitch
+  - live-action
+  - Disney
+  - bilheteria
+  - estreia
+  - cinema
+keywords: 'Lilo e Stitch, live-action, Disney, bilheteria, estreia, cinema'
+author: Pablo Moura
+data: '2025-04-12T00:42:39.282Z'
+resumo: Filme deve ter uma bilheteria interessante para a Disney
 ---
 
 De acordo com o Deadline, a nova adaptação em live-action de Lilo e Stitch está projetada para alcançar a marca de US$ 100 milhões em bilheteria nos primeiros três dias de exibição nos cinemas. A previsão é da empresa Quorum, conhecida por suas estimativas precisas. No entanto, é importante considerar que essas projeções podem falhar, e o filme, que será lançado em maio, pode arrecadar menos do que o esperado.

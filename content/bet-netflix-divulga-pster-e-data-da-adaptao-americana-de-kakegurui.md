@@ -1,14 +1,25 @@
 ---
-title: "Netflix Anuncia 'Bet', Adaptação Americana do Anime 'Kakegurui'"
-slug: "bet-netflix-divulga-pster-e-data-da-adaptao-americana-de-kakegurui"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/y8HCOw4WTmY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Lf7AklYATqY7Ctx4EIINhNujWeE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-18_155158.png"
-tags: ["Netflix", "Bet", "Kakegurui", "adaptação americana", "anime", "estreia", "jogos de azar"]
-keywords: "Netflix, Bet, Kakegurui, adaptação americana, anime, estreia, jogos de azar"
-author: "Pablo Moura"
-data: "2025-04-18T19:08:31.997Z"
+title: 'Netflix Anuncia ''Bet'', Adaptação Americana do Anime ''Kakegurui'''
+slug: bet-netflix-divulga-pster-e-data-da-adaptao-americana-de-kakegurui
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/y8HCOw4WTmY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Lf7AklYATqY7Ctx4EIINhNujWeE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-18_155158.png
+tags:
+  - Netflix
+  - Bet
+  - Kakegurui
+  - adaptação americana
+  - anime
+  - estreia
+  - jogos de azar
+keywords: 'Netflix, Bet, Kakegurui, adaptação americana, anime, estreia, jogos de azar'
+author: Pablo Moura
+data: '2025-04-18T19:08:31.997Z'
+resumo: >-
+  A nova série 'Bet' é a versão americana do aclamado anime e mangá 'Kakegurui',
+  com estreia marcada para 15 de maio na Netflix.
 ---
 
 A Netflix acaba de lançar o pôster de 'Bet', uma adaptação americana do famoso anime e mangá 'Kakegurui', que explora o tema dos jogos de azar em uma escola. O pôster divulgado destaca os personagens principais e confirma a data de estreia para o dia 15 de maio. Além do pôster, a Netflix também compartilhou as primeiras imagens da série.

@@ -1,14 +1,29 @@
 ---
-title: "Eddington | Novo filme de Ari Aster ganha trailer com destaque para Pedro Pascal"
-slug: "eddington-novo-filme-do-diretor-de-hereditrio-ganha-trailer-com-pedro-pascal"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/lIpxO4KRV98?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/7oHQSjOgYcbEC3xbVFgZ2YJPb_k=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T100550.421.png"
-tags: ["Eddington", "Ari Aster", "Pedro Pascal", "Joaquin Phoenix", "Festival de Cannes", "terror", "filme"]
-keywords: "Eddington, Ari Aster, Pedro Pascal, Joaquin Phoenix, Festival de Cannes, terror, filme"
-author: "Luana Souza"
-data: "2025-04-14T13:23:25.911Z"
+title: >-
+  Eddington | Novo filme de Ari Aster ganha trailer com destaque para Pedro
+  Pascal
+slug: eddington-novo-filme-do-diretor-de-hereditrio-ganha-trailer-com-pedro-pascal
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/lIpxO4KRV98?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/7oHQSjOgYcbEC3xbVFgZ2YJPb_k=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T100550.421.png
+tags:
+  - Eddington
+  - Ari Aster
+  - Pedro Pascal
+  - Joaquin Phoenix
+  - Festival de Cannes
+  - terror
+  - filme
+keywords: >-
+  Eddington, Ari Aster, Pedro Pascal, Joaquin Phoenix, Festival de Cannes,
+  terror, filme
+author: Luana Souza
+data: '2025-04-14T13:23:25.911Z'
+resumo: >-
+  Estrelado por Pedro Pascal e Joaquin Phoenix, o filme 'Eddington' será
+  apresentado no Festival de Cannes.
 ---
 
 O filme de terror 'Eddington', dirigido por Ari Aster, conhecido por 'Hereditário' e 'Midsommar', acaba de lançar seu primeiro trailer completo. O longa foi escolhido para participar da edição deste ano do Festival de Cannes. Entre os filmes confirmados no festival estão 'Missão: Impossível - O Acerto Final', estrelado por Tom Cruise, e 'O Agente Secreto', novo trabalho do brasileiro Kleber Mendonça Filho com Wagner Moura. 

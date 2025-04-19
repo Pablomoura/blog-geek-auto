@@ -1,14 +1,29 @@
 ---
-title: "Weapons | Filme ganha campanha viral envolvendo mistério de crianças desaparecidas"
-slug: "weapons-filme-ganha-site-viral-com-noites-brutais-e-crianas-desaparecidas"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/5mz7B_aZ-a7De_lexZ4niNPLy9M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T193047.734.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Tb-Xx_FOFCs3rkduTyGpQmUp6Uc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T193047.734.png"
-tags: ["Weapons", "Zach Cregger", "Noites Brutais", "crianças desaparecidas", "site viral", "filme de terror"]
-keywords: "Weapons, Zach Cregger, Noites Brutais, crianças desaparecidas, site viral, filme de terror"
-author: "Ana Luiza"
-data: "2025-04-14T23:10:17.183Z"
+title: >-
+  Weapons | Filme ganha campanha viral envolvendo mistério de crianças
+  desaparecidas
+slug: weapons-filme-ganha-site-viral-com-noites-brutais-e-crianas-desaparecidas
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/5mz7B_aZ-a7De_lexZ4niNPLy9M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T193047.734.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Tb-Xx_FOFCs3rkduTyGpQmUp6Uc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T193047.734.png
+tags:
+  - Weapons
+  - Zach Cregger
+  - Noites Brutais
+  - crianças desaparecidas
+  - site viral
+  - filme de terror
+keywords: >-
+  Weapons, Zach Cregger, Noites Brutais, crianças desaparecidas, site viral,
+  filme de terror
+author: Ana Luiza
+data: '2025-04-14T23:10:17.183Z'
+resumo: >-
+  Novo site viral promove o filme Weapons, abordando o enigma de crianças
+  desaparecidas e eventos do filme Noites Brutais.
 ---
 
 Weapons, o mais recente projeto do diretor Zach Cregger, conhecido por Noites Brutais, lançou um site viral que destaca o desaparecimento de crianças e detalhes do filme Noites Brutais. O site revela que 17 crianças saíram voluntariamente de suas casas às 2:17 da madrugada de uma quarta-feira, sem que a polícia tenha pistas do ocorrido. O site também explora eventos de Noites Brutais, mas não entra em detalhes.

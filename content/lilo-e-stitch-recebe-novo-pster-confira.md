@@ -1,14 +1,30 @@
 ---
-title: "Novo Pôster de Lilo e Stitch Revelado no Japão"
-slug: "lilo-e-stitch-recebe-novo-pster-confira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/tzgblvnP3KSWgZGc5Ly_rgicACM=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T194241.491.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/5q7mgTi89poUES5wKX5bQqR1O4Y=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T194241.491.png"
-tags: ["Lilo e Stitch", "novo pôster", "remake", "live-action", "Disney", "Dean Fleischer Camp", "Chris Sanders", "Sydney Agudong", "lançamento em cinema"]
-keywords: "Lilo e Stitch, novo pôster, remake, live-action, Disney, Dean Fleischer Camp, Chris Sanders, Sydney Agudong, lançamento em cinema"
-author: "Luana Souza"
-data: "2025-04-15T23:09:58.454Z"
+title: Novo Pôster de Lilo e Stitch Revelado no Japão
+slug: lilo-e-stitch-recebe-novo-pster-confira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/tzgblvnP3KSWgZGc5Ly_rgicACM=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T194241.491.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/5q7mgTi89poUES5wKX5bQqR1O4Y=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T194241.491.png
+tags:
+  - Lilo e Stitch
+  - novo pôster
+  - remake
+  - live-action
+  - Disney
+  - Dean Fleischer Camp
+  - Chris Sanders
+  - Sydney Agudong
+  - lançamento em cinema
+keywords: >-
+  Lilo e Stitch, novo pôster, remake, live-action, Disney, Dean Fleischer Camp,
+  Chris Sanders, Sydney Agudong, lançamento em cinema
+author: Luana Souza
+data: '2025-04-15T23:09:58.454Z'
+resumo: >-
+  O novo pôster japonês de Lilo e Stitch mostra os personagens principais
+  relaxando em uma rede com uma vista deslumbrante do mar do Havaí.
 ---
 
 Foi divulgado um encantador novo pôster do filme Lilo e Stitch, apresentando os adorados personagens na serenidade de uma rede, contemplando o horizonte com o pitoresco mar do Havaí ao fundo. Esse pôster, que por enquanto é exclusivo do Japão, sugere que outras versões internacionais podem ser lançadas em breve como parte da estratégia promocional.

@@ -1,14 +1,25 @@
 ---
-title: "A Odisseia | Novas imagens de Tom Holland e Samantha Morton são reveladas"
-slug: "a-odisseia-tom-holland-e-samantha-morton-aparecem-em-imagens-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/20lHbHNr8HSezqvzboNQ8s4-9Pg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T203443.380.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Lhu7K-oLWrTjdzjFBabZ238E56g=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T203443.380.png"
-tags: ["A Odisseia", "Tom Holland", "Samantha Morton", "Matt Damon", "cinema", "adaptação Homero"]
-keywords: "A Odisseia, Tom Holland, Samantha Morton, Matt Damon, cinema, adaptação Homero"
-author: "Luana Souza"
-data: "2025-04-15T00:44:57.241Z"
+title: A Odisseia | Novas imagens de Tom Holland e Samantha Morton são reveladas
+slug: a-odisseia-tom-holland-e-samantha-morton-aparecem-em-imagens-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/20lHbHNr8HSezqvzboNQ8s4-9Pg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T203443.380.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Lhu7K-oLWrTjdzjFBabZ238E56g=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T203443.380.png
+tags:
+  - A Odisseia
+  - Tom Holland
+  - Samantha Morton
+  - Matt Damon
+  - cinema
+  - adaptação Homero
+keywords: 'A Odisseia, Tom Holland, Samantha Morton, Matt Damon, cinema, adaptação Homero'
+author: Luana Souza
+data: '2025-04-15T00:44:57.241Z'
+resumo: >-
+  Fotos recentes do set de 'A Odisseia' exibem Tom Holland e Samantha Morton em
+  cena de filmagem
 ---
 
 Foram divulgadas novas imagens do filme 'A Odisseia', revelando Samantha Morton no papel de Euricléia, a leal serva de Ulisses, interpretado por Matt Damon, e Tom Holland como Telêmaco. As fotos mostram a dupla próxima a embarcações, além de capturas de Holland em cenas solo.

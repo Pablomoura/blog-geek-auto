@@ -1,14 +1,21 @@
 ---
-title: "Supergirl | Heroína é vista em ação em novo vídeo de bastidores"
-slug: "supergirl-herona-entra-em-combate-em-vdeo-do-set-veja"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/4-vyoKxK1kY?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/tuS2IF4WrmKrQiORCT48gQKkZVM=/480x360/smart/extras/conteudos/supergirl_cqD6j78.jpg"
-tags: ["Supergirl", "cinema", "DC Comics", "Milly Alcock", "filme"]
-keywords: "Supergirl, cinema, DC Comics, Milly Alcock, filme"
-author: "Ana Luiza"
-data: "2025-04-13T19:05:48.625Z"
+title: Supergirl | Heroína é vista em ação em novo vídeo de bastidores
+slug: supergirl-herona-entra-em-combate-em-vdeo-do-set-veja
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/4-vyoKxK1kY?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/tuS2IF4WrmKrQiORCT48gQKkZVM=/480x360/smart/extras/conteudos/supergirl_cqD6j78.jpg
+tags:
+  - Supergirl
+  - cinema
+  - DC Comics
+  - Milly Alcock
+  - filme
+keywords: 'Supergirl, cinema, DC Comics, Milly Alcock, filme'
+author: Ana Luiza
+data: '2025-04-13T19:05:48.625Z'
+resumo: O filme está previsto para estrear em julho de 2026
 ---
 
 As filmagens do filme Supergirl estão em pleno andamento na Inglaterra, e um vídeo recentemente divulgado mostra a equipe trabalhando intensamente em uma das cenas de ação mais desafiadoras. O vídeo foi compartilhado pelo UnBoxPHD neste domingo (13), mostrando Milly Alcock em preparação para uma cena de luta intensa.

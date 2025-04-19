@@ -1,14 +1,28 @@
 ---
-title: "The Pitt | Produtor explica salto no tempo da segunda temporada"
-slug: "the-pitt-produtor-explica-salto-no-tempo-da-segunda-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/oai3nxo5iaHy0_kw_0gJRVTUj4s=/987x0/smart/uploads/conteudo/fotos/thepittvariante_VWeNirc.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/YVeEUT9206HZhtmKm5abNUKuc2w=/480x360/smart/extras/conteudos/thepittvariante_XUCv58b.jpg"
-tags: ["The Pitt", "segunda temporada", "salto temporal", "série", "Noah Wyle", "R. Scott Gemmill", "showrunner"]
-keywords: "The Pitt, segunda temporada, salto temporal, série, Noah Wyle, R. Scott Gemmill, showrunner"
-author: "Luana Souza"
-data: "2025-04-13T15:09:03.093Z"
+title: The Pitt | Produtor explica salto no tempo da segunda temporada
+slug: the-pitt-produtor-explica-salto-no-tempo-da-segunda-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/oai3nxo5iaHy0_kw_0gJRVTUj4s=/987x0/smart/uploads/conteudo/fotos/thepittvariante_VWeNirc.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/YVeEUT9206HZhtmKm5abNUKuc2w=/480x360/smart/extras/conteudos/thepittvariante_XUCv58b.jpg
+tags:
+  - The Pitt
+  - segunda temporada
+  - salto temporal
+  - série
+  - Noah Wyle
+  - R. Scott Gemmill
+  - showrunner
+keywords: >-
+  The Pitt, segunda temporada, salto temporal, série, Noah Wyle, R. Scott
+  Gemmill, showrunner
+author: Luana Souza
+data: '2025-04-13T15:09:03.093Z'
+resumo: >-
+  Série retorna em janeiro de 2026 com trama que acontece dez meses depois do
+  primeiro ano
 ---
 
 O criador e showrunner de The Pitt, R. Scott Gemmill, revelou detalhes sobre o salto temporal que ocorrerá na segunda temporada da série. Recentemente, foi confirmado que os novos episódios se passarão dez meses após os eventos do primeiro ano, coincidindo com o feriado de 4 de julho. Atenção, o texto a seguir contém spoilers da primeira temporada de The Pitt!

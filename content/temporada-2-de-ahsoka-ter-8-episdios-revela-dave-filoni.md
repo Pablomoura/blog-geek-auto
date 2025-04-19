@@ -1,14 +1,28 @@
 ---
-title: "Segunda Temporada de 'Ahsoka' Terá 8 Episódios, Anuncia Dave Filoni"
-slug: "temporada-2-de-ahsoka-ter-8-episdios-revela-dave-filoni"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/lb_JEpomNTtBdl6A1v37MHE3I5E=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-18T204727.056.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/2GYxN4H9IMCtNgGUb6g_V0pP9pk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-18T204727.056.png"
-tags: ["Ahsoka temporada 2", "Dave Filoni", "Star Wars", "Rosario Dawson", "Ezra Bridger", "Almirante Thrawn", "Ahsoka Tano"]
-keywords: "Ahsoka temporada 2, Dave Filoni, Star Wars, Rosario Dawson, Ezra Bridger, Almirante Thrawn, Ahsoka Tano"
-author: "Pablo Moura"
-data: "2025-04-19T00:37:04.185Z"
+title: 'Segunda Temporada de ''Ahsoka'' Terá 8 Episódios, Anuncia Dave Filoni'
+slug: temporada-2-de-ahsoka-ter-8-episdios-revela-dave-filoni
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/lb_JEpomNTtBdl6A1v37MHE3I5E=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-18T204727.056.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/2GYxN4H9IMCtNgGUb6g_V0pP9pk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-18T204727.056.png
+tags:
+  - Ahsoka temporada 2
+  - Dave Filoni
+  - Star Wars
+  - Rosario Dawson
+  - Ezra Bridger
+  - Almirante Thrawn
+  - Ahsoka Tano
+keywords: >-
+  Ahsoka temporada 2, Dave Filoni, Star Wars, Rosario Dawson, Ezra Bridger,
+  Almirante Thrawn, Ahsoka Tano
+author: Pablo Moura
+data: '2025-04-19T00:37:04.185Z'
+resumo: >-
+  Dave Filoni confirmou que a segunda temporada de 'Ahsoka' contará com 8
+  episódios, todos já escritos por ele.
 ---
 
 Dave Filoni, em uma entrevista recente ao Collider, compartilhou detalhes empolgantes sobre a segunda temporada da série 'Ahsoka', revelando que esta contará com 8 episódios, todos já escritos por ele. "Estamos prestes a começar as filmagens em quatro dias, e estou com todos os roteiros prontos", disse Filoni. Ele também mencionou seu processo contínuo de aperfeiçoamento dos roteiros, colaborando estreitamente com a equipe e o elenco para enriquecer a narrativa.

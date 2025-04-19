@@ -1,14 +1,28 @@
 ---
-title: "Peter Krause se despede de 9-1-1 após cinco temporadas emocionantes"
-slug: "9-1-1-perde-um-de-seus-protagonistas-aps-oito-temporadas-no-elenco"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/3lrTj8BlHvjymfCzb6QTHBO1Klk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T102150.739.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/GccKMxaT7z3unhIaSaKCCXp_GOI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T102133.347.png"
-tags: ["9-1-1", "Peter Krause", "Angela Bassett", "Disney+", "spin-off 9-1-1: Nashville", "série de emergência", "despedida de personagem"]
-keywords: "9-1-1, Peter Krause, Angela Bassett, Disney+, spin-off 9-1-1: Nashville, série de emergência, despedida de personagem"
-author: "Pablo Moura"
-data: "2025-04-18T14:10:36.829Z"
+title: Peter Krause se despede de 9-1-1 após cinco temporadas emocionantes
+slug: 9-1-1-perde-um-de-seus-protagonistas-aps-oito-temporadas-no-elenco
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/3lrTj8BlHvjymfCzb6QTHBO1Klk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T102150.739.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/GccKMxaT7z3unhIaSaKCCXp_GOI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T102133.347.png
+tags:
+  - 9-1-1
+  - Peter Krause
+  - Angela Bassett
+  - Disney+
+  - 'spin-off 9-1-1: Nashville'
+  - série de emergência
+  - despedida de personagem
+keywords: >-
+  9-1-1, Peter Krause, Angela Bassett, Disney+, spin-off 9-1-1: Nashville, série
+  de emergência, despedida de personagem
+author: Pablo Moura
+data: '2025-04-18T14:10:36.829Z'
+resumo: >-
+  A aclamada série 9-1-1, disponível no Disney+ no Brasil, anuncia a saída de um
+  dos seus principais astros, Peter Krause.
 ---
 
 A série 9-1-1, que retrata o cotidiano de socorristas em Los Angeles, sofre uma grande baixa em seu elenco. Peter Krause, que interpretou Robert 'Bobby' Nash por cinco temporadas, anunciou sua saída após uma marcante trajetória na série. Krause, além de co-protagonista, também contribuiu como produtor e sua despedida se deu através de uma dramática morte de seu personagem no episódio 'Lab Rats'.

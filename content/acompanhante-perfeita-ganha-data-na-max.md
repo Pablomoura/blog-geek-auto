@@ -1,14 +1,27 @@
 ---
-title: "Acompanhante Perfeita ganha data de estreia na Max"
-slug: "acompanhante-perfeita-ganha-data-na-max"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/AX0Od-Gtq3QOCQhLhZE8KeORjx0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T133204.511.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NcKiHs6REUGLynYb4WUEY3t4qB0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T133148.378.png"
-tags: ["estreia Max", "Sophie Tatcher", "Jack Quaid", "filme de romance", "streaming", "relacionamento", "suspense", "elenco estelar"]
-keywords: "estreia Max, Sophie Tatcher, Jack Quaid, filme de romance, streaming, relacionamento, suspense, elenco estelar"
-author: "Pablo Moura"
-data: "2025-04-11T17:11:16.805Z"
+title: Acompanhante Perfeita ganha data de estreia na Max
+slug: acompanhante-perfeita-ganha-data-na-max
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/AX0Od-Gtq3QOCQhLhZE8KeORjx0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T133204.511.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NcKiHs6REUGLynYb4WUEY3t4qB0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T133148.378.png
+tags:
+  - estreia Max
+  - Sophie Tatcher
+  - Jack Quaid
+  - filme de romance
+  - streaming
+  - relacionamento
+  - suspense
+  - elenco estelar
+keywords: >-
+  estreia Max, Sophie Tatcher, Jack Quaid, filme de romance, streaming,
+  relacionamento, suspense, elenco estelar
+author: Pablo Moura
+data: '2025-04-11T17:11:16.805Z'
+resumo: Filme com Sophie Tatcher e Jack Quaid foi sucesso nos cinemas
 ---
 
 O aclamado filme 'Acompanhante Perfeita', estrelado por Sophie Tatcher e Jack Quaid, finalmente tem uma data de estreia definida no serviço de streaming Max. A partir do dia 18 de abril, os assinantes poderão desfrutar deste intrigante longa-metragem em suas plataformas preferidas.

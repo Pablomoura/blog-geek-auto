@@ -1,14 +1,28 @@
 ---
-title: "The Last of Us | Joe Pantoliano será Eugene na segunda temporada"
-slug: "the-last-of-us-joe-pantoliano-ser-eugene-na-segunda-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/8pprVObn1jsJxRsJ667t22cNZig=/987x0/smart/uploads/conteudo/fotos/joe-pantoliano-tlou.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/W0dnHELLyEtZruYwkjf85mcYdnc=/480x360/smart/extras/conteudos/joe-pantoliano-tlou.png"
-tags: ["The Last of Us", "segunda temporada", "Joe Pantoliano", "Eugene", "HBO", "Neil Druckmann", "série", "adaptação", "especial-The Last of Us"]
-keywords: "The Last of Us, segunda temporada, Joe Pantoliano, Eugene, HBO, Neil Druckmann, série, adaptação"
-author: "Pablo Moura"
-data: "2025-04-14T02:25:54.609Z"
+title: The Last of Us | Joe Pantoliano será Eugene na segunda temporada
+slug: the-last-of-us-joe-pantoliano-ser-eugene-na-segunda-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/8pprVObn1jsJxRsJ667t22cNZig=/987x0/smart/uploads/conteudo/fotos/joe-pantoliano-tlou.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/W0dnHELLyEtZruYwkjf85mcYdnc=/480x360/smart/extras/conteudos/joe-pantoliano-tlou.png
+tags:
+  - The Last of Us
+  - segunda temporada
+  - Joe Pantoliano
+  - Eugene
+  - HBO
+  - Neil Druckmann
+  - série
+  - adaptação
+  - especial-The Last of Us
+keywords: >-
+  The Last of Us, segunda temporada, Joe Pantoliano, Eugene, HBO, Neil
+  Druckmann, série, adaptação
+author: Pablo Moura
+data: '2025-04-14T02:25:54.609Z'
+resumo: Personagem pode ter mesmo tratamento de Bill e Frank no primeiro ano
 ---
 
 A revista Variety divulgou detalhes sobre a segunda temporada de 'The Last of Us', anunciando que Joe Pantoliano, conhecido por seus papéis em 'Matrix' e 'Bad Boys', interpretará Eugene. O personagem, que no jogo original é apenas mencionado por Ellie e Dina, poderá ter uma história expandida semelhante à de Bill e Frank da temporada anterior, que foi detalhada em um episódio especial. 

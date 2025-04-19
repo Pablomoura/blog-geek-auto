@@ -1,25 +1,42 @@
 ---
-title: "Crítica | 'Pecadores': Uma Obra Prima de Ryan Coogler com Michael B. Jordan"
-slug: "crtica-sexy-e-vibrante-pecadores-o-melhor-trabalho-da-carreira-de-ryan-coogler"
-categoria: "FILMES"
-tipo: "critica"
-midia: "https://cdn.ome.lt/6kGhuHImi5wkacUl6QlqjYEWskk=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_2_LJrVGWr.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/xTWbqzu1idik4jArbTswJFaiyGE=/480x360/smart/extras/conteudos/Design_sem_nome_2_lovocwp.jpg"
-tags: ["Ryan Coogler", "Michael B. Jordan", "Pecadores", "cinema", "crítica de filme", "drama histórico", "blues", "racismo", "Estados Unidos"]
-keywords: "Ryan Coogler, Michael B. Jordan, Pecadores, cinema, crítica de filme, drama histórico, blues, racismo, Estados Unidos"
-author: "Luana Souza"
-data: "2025-04-19T00:40:34.760Z"
-capaObra: "https://cdn.ome.lt/KhneVp6SLlNxgErbPuUT3o2hguA=/200x0/smart/extras/capas/Captura_de_tela_2025-04-10_173913.png"
+title: 'Crítica | ''Pecadores'': Uma Obra Prima de Ryan Coogler com Michael B. Jordan'
+slug: crtica-sexy-e-vibrante-pecadores-o-melhor-trabalho-da-carreira-de-ryan-coogler
+categoria: FILMES
+tipo: critica
+midia: >-
+  https://cdn.ome.lt/6kGhuHImi5wkacUl6QlqjYEWskk=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_2_LJrVGWr.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/xTWbqzu1idik4jArbTswJFaiyGE=/480x360/smart/extras/conteudos/Design_sem_nome_2_lovocwp.jpg
+tags:
+  - Ryan Coogler
+  - Michael B. Jordan
+  - Pecadores
+  - cinema
+  - crítica de filme
+  - drama histórico
+  - blues
+  - racismo
+  - Estados Unidos
+keywords: >-
+  Ryan Coogler, Michael B. Jordan, Pecadores, cinema, crítica de filme, drama
+  histórico, blues, racismo, Estados Unidos
+author: Luana Souza
+data: '2025-04-19T00:40:34.760Z'
+capaObra: >-
+  https://cdn.ome.lt/KhneVp6SLlNxgErbPuUT3o2hguA=/200x0/smart/extras/capas/Captura_de_tela_2025-04-10_173913.png
 notaCritico: 5
-tituloPortugues: "Pecadores"
-tituloOriginal: "Sinners"
-ano: "2025"
-pais: "EUA"
-classificacao: "16 anos"
-duracao: "137 min"
-direcao: "Ryan Coogler"
-elenco: "Jack O'Connell , Hailee Steinfeld , Delroy Lindo , Michael B. Jordan"
+tituloPortugues: Pecadores
+tituloOriginal: Sinners
+ano: '2025'
+pais: EUA
+classificacao: 16 anos
+duracao: 137 min
+direcao: Ryan Coogler
+elenco: 'Jack O''Connell , Hailee Steinfeld , Delroy Lindo , Michael B. Jordan'
+resumo: >-
+  Ryan Coogler se reúne com Michael B. Jordan em 'Pecadores', um filme que
+  explora profundamente as raízes da música e da racialidade na América.
 ---
 
 O mais recente filme de Ryan Coogler, 'Pecadores', marca um retorno vibrante do diretor ao cinema autoral, após trabalhar em grandes sucessos como 'Creed' e 'Pantera Negra'. Desde 'Fruitvale Station - A Última Parada' em 2013, Coogler não tinha explorado uma narrativa tão pessoal e envolvente, mergulhando nas divisões raciais e de classe nos Estados Unidos através de uma história que usa o horror como alegoria para desvendar os pecados humanos.

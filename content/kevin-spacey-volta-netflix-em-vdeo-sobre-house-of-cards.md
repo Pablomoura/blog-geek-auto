@@ -1,14 +1,27 @@
 ---
-title: "Kevin Spacey Reinterpreta Frank Underwood em Especial de Comédia na Netflix"
-slug: "kevin-spacey-volta-netflix-em-vdeo-sobre-house-of-cards"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/XMUJnTD3xZeST1_LByXJVxChoiQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T101304.987.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/2RoF61FQPeG8TyPP76qoEH7Cylk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T101251.164.png"
-tags: ["Kevin Spacey", "Netflix", "House of Cards", "Frank Underwood", "Tim Dillon", "especial de comédia"]
-keywords: "Kevin Spacey, Netflix, House of Cards, Frank Underwood, Tim Dillon, especial de comédia"
-author: "Pablo Moura"
-data: "2025-04-16T14:13:42.801Z"
+title: Kevin Spacey Reinterpreta Frank Underwood em Especial de Comédia na Netflix
+slug: kevin-spacey-volta-netflix-em-vdeo-sobre-house-of-cards
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/XMUJnTD3xZeST1_LByXJVxChoiQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T101304.987.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/2RoF61FQPeG8TyPP76qoEH7Cylk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T101251.164.png
+tags:
+  - Kevin Spacey
+  - Netflix
+  - House of Cards
+  - Frank Underwood
+  - Tim Dillon
+  - especial de comédia
+keywords: >-
+  Kevin Spacey, Netflix, House of Cards, Frank Underwood, Tim Dillon, especial
+  de comédia
+author: Pablo Moura
+data: '2025-04-16T14:13:42.801Z'
+resumo: >-
+  Kevin Spacey retorna à Netflix reprisando seu icônico papel de Frank Underwood
+  em um especial de comédia conduzido por Tim Dillon.
 ---
 
 Kevin Spacey, conhecido por seu papel emblemático como Frank Underwood em 'House of Cards', está de volta à Netflix em um contexto inesperado. Ele não retorna para uma nova temporada da série, mas como parte de um especial de comédia de Tim Dillon, onde reviverá o astuto político.

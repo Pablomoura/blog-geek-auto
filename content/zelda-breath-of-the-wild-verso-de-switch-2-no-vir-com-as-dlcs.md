@@ -1,14 +1,25 @@
 ---
-title: "Zelda: Breath of the Wild | Edição para Switch 2 não incluirá DLCs"
-slug: "zelda-breath-of-the-wild-verso-de-switch-2-no-vir-com-as-dlcs"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/lSZA2hvBmRQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/5B-j7t8eSSvYPL_UbXLyeYnCeOM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T202213.981.png"
-tags: ["Nintendo", "Switch 2", "Zelda Breath of the Wild", "DLC", "lançamento", "jogos"]
-keywords: "Nintendo, Switch 2, Zelda Breath of the Wild, DLC, lançamento, jogos"
-author: "Luana Souza"
-data: "2025-04-11T23:57:32.803Z"
+title: 'Zelda: Breath of the Wild | Edição para Switch 2 não incluirá DLCs'
+slug: zelda-breath-of-the-wild-verso-de-switch-2-no-vir-com-as-dlcs
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/lSZA2hvBmRQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/5B-j7t8eSSvYPL_UbXLyeYnCeOM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T202213.981.png
+tags:
+  - Nintendo
+  - Switch 2
+  - Zelda Breath of the Wild
+  - DLC
+  - lançamento
+  - jogos
+keywords: 'Nintendo, Switch 2, Zelda Breath of the Wild, DLC, lançamento, jogos'
+author: Luana Souza
+data: '2025-04-11T23:57:32.803Z'
+resumo: >-
+  A nova versão de The Legend of Zelda: Breath of the Wild para o Nintendo
+  Switch 2 não contará com as DLCs inclusas, mas estas estarão disponíveis no
+  pacote de atualização para quem já possui o jogo.
 ---
 
 A Nintendo anunciou ao IGN que a nova versão de The Legend of Zelda: Breath of the Wild para o Nintendo Switch 2 não incluirá os pacotes de expansão. Os jogadores que desejarem acessar o conteúdo adicional deverão adquiri-lo separadamente. Porém, aqueles que já possuem o jogo e as DLCs na versão anterior e optarem pelo pacote de upgrade, receberão as DLCs na nova versão para o Switch 2.

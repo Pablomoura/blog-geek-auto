@@ -1,14 +1,27 @@
 ---
-title: "Reacher | Lançamento da 4ª temporada vai demorar, entenda"
-slug: "reacher-lanamento-da-4-temporada-vai-demorar-entenda"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/E0b-PSFzwNV6YJ2RcYH2rakVpfE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T104230.621.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/JPadUlhKuJVAGelAzBEx9AvdL3Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T104213.952.png"
-tags: ["Reacher", "Prime Video", "atraso de temporada", "série derivada", "Frances Neagley", "Alan Ritchson", "spin-off", "Lee Child"]
-keywords: "Reacher, Prime Video, atraso de temporada, série derivada, Frances Neagley, Alan Ritchson, spin-off, Lee Child"
-author: "Luana Souza"
-data: "2025-04-11T14:10:35.393Z"
+title: 'Reacher | Lançamento da 4ª temporada vai demorar, entenda'
+slug: reacher-lanamento-da-4-temporada-vai-demorar-entenda
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/E0b-PSFzwNV6YJ2RcYH2rakVpfE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T104230.621.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/JPadUlhKuJVAGelAzBEx9AvdL3Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T104213.952.png
+tags:
+  - Reacher
+  - Prime Video
+  - atraso de temporada
+  - série derivada
+  - Frances Neagley
+  - Alan Ritchson
+  - spin-off
+  - Lee Child
+keywords: >-
+  Reacher, Prime Video, atraso de temporada, série derivada, Frances Neagley,
+  Alan Ritchson, spin-off, Lee Child
+author: Luana Souza
+data: '2025-04-11T14:10:35.393Z'
+resumo: 'Enquanto isso, terceiro ano completo segue disponível no Prime Video'
 ---
 
 O sucesso recente da terceira temporada de 'Reacher' no Prime Video trouxe entusiasmo aos fãs, mas a espera pela quarta temporada será mais longa do que o previsto. O atraso se deve ao desenvolvimento de uma série derivada centrada em Frances Neagley, personagem interpretada por Maria Sten. A equipe responsável por 'Reacher' também está engajada nesse novo projeto, o que posterga o início das filmagens da quarta temporada até a conclusão do spin-off, conforme reportado pela TVLine.

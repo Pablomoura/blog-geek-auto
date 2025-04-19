@@ -1,25 +1,43 @@
 ---
-title: "Crítica de 'The Narrow Road': Mais Estilo do que Substância"
-slug: "crtica-mais-impresso-que-substncia-the-narrow-road-acaba-no-limiar-do-execrvel"
-categoria: "SÉRIES E TV"
-tipo: "critica"
-midia: "https://cdn.ome.lt/9ERJzL4Wa_dYE-UOA0vfH1QS6ds=/987x0/smart/uploads/conteudo/fotos/narrow_road_topo.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/g7mX435YcAreDU_1ZhbwRtk45Z0=/480x360/smart/extras/conteudos/narrow_road_topo.jpg"
-tags: ["The Narrow Road to the Deep North", "Jacob Elordi", "crítica", "minissérie", "guerra", "Amazon MGM", "Sony Pictures", "drama de guerra", "Justin Kurzel"]
-keywords: "The Narrow Road to the Deep North, Jacob Elordi, crítica, minissérie, guerra, Amazon MGM, Sony Pictures, drama de guerra, Justin Kurzel"
-author: "Ana Luiza"
-data: "2025-04-19T00:38:20.103Z"
-capaObra: "https://cdn.ome.lt/9UbCFuYlmwA6H32a8TM3nV-L2fA=/200x0/smart/extras/capas/narrow.jpg"
+title: 'Crítica de ''The Narrow Road'': Mais Estilo do que Substância'
+slug: crtica-mais-impresso-que-substncia-the-narrow-road-acaba-no-limiar-do-execrvel
+categoria: SÉRIES E TV
+tipo: critica
+midia: >-
+  https://cdn.ome.lt/9ERJzL4Wa_dYE-UOA0vfH1QS6ds=/987x0/smart/uploads/conteudo/fotos/narrow_road_topo.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/g7mX435YcAreDU_1ZhbwRtk45Z0=/480x360/smart/extras/conteudos/narrow_road_topo.jpg
+tags:
+  - The Narrow Road to the Deep North
+  - Jacob Elordi
+  - crítica
+  - minissérie
+  - guerra
+  - Amazon MGM
+  - Sony Pictures
+  - drama de guerra
+  - Justin Kurzel
+keywords: >-
+  The Narrow Road to the Deep North, Jacob Elordi, crítica, minissérie, guerra,
+  Amazon MGM, Sony Pictures, drama de guerra, Justin Kurzel
+author: Ana Luiza
+data: '2025-04-19T00:38:20.103Z'
+capaObra: >-
+  https://cdn.ome.lt/9UbCFuYlmwA6H32a8TM3nV-L2fA=/200x0/smart/extras/capas/narrow.jpg
 notaCritico: 3
-tituloPortugues: "The Narrow Road to the Deep North"
-tituloOriginal: ""
-ano: "2025"
-pais: "Austrália, Estados Unidos"
-classificacao: ""
-duracao: "53min"
-direcao: ""
-elenco: ""
+tituloPortugues: The Narrow Road to the Deep North
+tituloOriginal: ''
+ano: '2025'
+pais: 'Austrália, Estados Unidos'
+classificacao: ''
+duracao: 53min
+direcao: ''
+elenco: ''
+resumo: >-
+  Jacob Elordi não convence em sua atuação no drama de guerra 'The Narrow Road
+  to the Deep North', uma produção grandiosa que falha em entregar profundidade
+  emocional.
 ---
 
 A minissérie 'The Narrow Road to the Deep North', financiada pela Amazon MGM e Sony Pictures, com produção adicional da Austrália, é uma tentativa ambiciosa de adaptar o livro premiado de Richard Flanagan, conhecido no Brasil como 'O Caminho Estreito para os Confins do Norte'. Sob a direção de Justin Kurzel, conhecido por trabalhos como 'Macbeth' e 'A Ordem', a série é visualmente impressionante e meticulosamente produzida.

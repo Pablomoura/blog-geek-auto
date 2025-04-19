@@ -1,14 +1,22 @@
 ---
-title: "Nintendo Switch 2 enfrentará tarifas de 145% devido a políticas de Trump"
-slug: "nintendo-avisada-por-fornecedores-que-switch-2-sofrer-tarifas-de-trump-145"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/e5v2Ms7Duc0LffgTmUUkfwqBbZ4=/987x0/smart/uploads/conteudo/fotos/switch-2-capa-2_wEhMKpU.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/b38G8lXXXczPFw2_iKmGk_CxKvQ=/480x360/smart/extras/conteudos/switch-2_20CO38p.png"
-tags: ["Nintendo Switch 2", "tarifas Trump", "lançamento console", "tecnologia", "jogos"]
-keywords: "Nintendo Switch 2, tarifas Trump, lançamento console, tecnologia, jogos"
-author: "Luana Souza"
-data: "2025-04-14T18:14:05.027Z"
+title: Nintendo Switch 2 enfrentará tarifas de 145% devido a políticas de Trump
+slug: nintendo-avisada-por-fornecedores-que-switch-2-sofrer-tarifas-de-trump-145
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/e5v2Ms7Duc0LffgTmUUkfwqBbZ4=/987x0/smart/uploads/conteudo/fotos/switch-2-capa-2_wEhMKpU.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/b38G8lXXXczPFw2_iKmGk_CxKvQ=/480x360/smart/extras/conteudos/switch-2_20CO38p.png
+tags:
+  - Nintendo Switch 2
+  - tarifas Trump
+  - lançamento console
+  - tecnologia
+  - jogos
+keywords: 'Nintendo Switch 2, tarifas Trump, lançamento console, tecnologia, jogos'
+author: Luana Souza
+data: '2025-04-14T18:14:05.027Z'
+resumo: O impacto das tarifas pode alterar o preço anteriormente anunciado do console.
 ---
 
 As tarifas impostas por Donald Trump a países como a China continuam a causar preocupações, especialmente no setor tecnológico. O Nintendo Switch 2, um dos produtos afetados, está sujeito a uma tarifa de 145%, conforme alerta de um dos principais fornecedores de componentes, que também atende à Apple, segundo informações da Nikkei.

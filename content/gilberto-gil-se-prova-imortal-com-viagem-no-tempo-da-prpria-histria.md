@@ -1,14 +1,25 @@
 ---
-title: "Gilberto Gil encanta São Paulo em show de despedida"
-slug: "gilberto-gil-se-prova-imortal-com-viagem-no-tempo-da-prpria-histria"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/n3XogUFD63ojCzybq9PXyPeHAIM=/987x0/smart/uploads/conteudo/fotos/Screenshot_2025-04-11_at_20.35.17.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/xVF2h3JIXSOnGXz9F8uS2cFoujU=/480x360/smart/extras/conteudos/PRIDIA0411211513.jpg"
-tags: ["Gilberto Gil", "show", "São Paulo", "Allianz Parque", "música brasileira", "cultura"]
-keywords: "Gilberto Gil, show, São Paulo, Allianz Parque, música brasileira, cultura"
-author: "Luana Souza"
-data: "2025-04-12T04:11:56.764Z"
+title: Gilberto Gil encanta São Paulo em show de despedida
+slug: gilberto-gil-se-prova-imortal-com-viagem-no-tempo-da-prpria-histria
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/n3XogUFD63ojCzybq9PXyPeHAIM=/987x0/smart/uploads/conteudo/fotos/Screenshot_2025-04-11_at_20.35.17.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/xVF2h3JIXSOnGXz9F8uS2cFoujU=/480x360/smart/extras/conteudos/PRIDIA0411211513.jpg
+tags:
+  - Gilberto Gil
+  - show
+  - São Paulo
+  - Allianz Parque
+  - música brasileira
+  - cultura
+keywords: 'Gilberto Gil, show, São Paulo, Allianz Parque, música brasileira, cultura'
+author: Luana Souza
+data: '2025-04-12T04:11:56.764Z'
+resumo: >-
+  O icônico cantor Gilberto Gil celebrou sua trajetória musical em um concerto
+  memorável no Allianz Parque, mesclando clássicos e novos sucessos.
 ---
 
 Em uma noite esclarecida e amena em São Paulo, Gilberto Gil, um dos maiores nomes da música brasileira, se apresentou no Allianz Parque diante de um público diversificado e entusiasta. Aos 82 anos, o cantor realizou um dos quatro shows planejados apenas para a capital paulista, parte de sua turnê 'Tempo Rei'.

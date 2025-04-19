@@ -1,14 +1,29 @@
 ---
-title: "Street Fighter | Noah Centineo pode ser Ken no novo filme"
-slug: "street-fighter-filme-pode-ter-noah-centineo-como-ken-diz-rumor"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/ZzwB2mAInYrfBmpQnGA_uZNfb1A=/987x0/smart/uploads/conteudo/fotos/noah-centineo-ken.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/wyA0QirfJ7f8Y0N1wNYsjqKu840=/480x360/smart/extras/conteudos/noah-centineo-ken.png"
-tags: ["Street Fighter filme", "Noah Centineo", "Ken", "Sony Pictures", "Legendary", "Capcom", "Andrew Koji", "Ryu"]
-keywords: "Street Fighter filme, Noah Centineo, Ken, Sony Pictures, Legendary, Capcom, Andrew Koji, Ryu"
-author: "Luana Souza"
-data: "2025-04-17T00:43:05.909Z"
+title: Street Fighter | Noah Centineo pode ser Ken no novo filme
+slug: street-fighter-filme-pode-ter-noah-centineo-como-ken-diz-rumor
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/ZzwB2mAInYrfBmpQnGA_uZNfb1A=/987x0/smart/uploads/conteudo/fotos/noah-centineo-ken.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/wyA0QirfJ7f8Y0N1wNYsjqKu840=/480x360/smart/extras/conteudos/noah-centineo-ken.png
+tags:
+  - Street Fighter filme
+  - Noah Centineo
+  - Ken
+  - Sony Pictures
+  - Legendary
+  - Capcom
+  - Andrew Koji
+  - Ryu
+keywords: >-
+  Street Fighter filme, Noah Centineo, Ken, Sony Pictures, Legendary, Capcom,
+  Andrew Koji, Ryu
+author: Luana Souza
+data: '2025-04-17T00:43:05.909Z'
+resumo: >-
+  O próximo filme de Street Fighter foi retirado do calendário da Sony, mas
+  rumores indicam que Noah Centineo poderá ser Ken.
 ---
 
 Embora o novo filme em live-action de Street Fighter tenha sido recentemente retirado do calendário de lançamentos da Sony Pictures, o projeto parece continuar ativo. Segundo informações do Nexus Point, a produção está em busca de atores para os papéis principais, e Noah Centineo, conhecido por 'Para Todos os Garotos que Amei', está sendo considerado para interpretar Ken.

@@ -1,14 +1,30 @@
 ---
-title: "Vingadores: Doomsday | Anthony Mackie Antecipa Retorno à Essência da Marvel"
-slug: "vingadores-doomsday-ator-promete-a-velha-frmula-da-marvel"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/xxDCNM7N-YIEucFVOqjediVBolg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T181624.593.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/KxsYFrim-LBqh4vJdqUebSA9WYM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T181624.593.png"
-tags: ["Vingadores: Doomsday", "MCU", "Marvel", "Anthony Mackie", "Irmãos Russo", "Doutor Destino", "Robert Downey Jr.", "X-Men", "estreia"]
-keywords: "Vingadores: Doomsday, MCU, Marvel, Anthony Mackie, Irmãos Russo, Doutor Destino, Robert Downey Jr., X-Men, estreia"
-author: "Pablo Moura"
-data: "2025-04-15T22:10:12.164Z"
+title: 'Vingadores: Doomsday | Anthony Mackie Antecipa Retorno à Essência da Marvel'
+slug: vingadores-doomsday-ator-promete-a-velha-frmula-da-marvel
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/xxDCNM7N-YIEucFVOqjediVBolg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T181624.593.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/KxsYFrim-LBqh4vJdqUebSA9WYM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T181624.593.png
+tags:
+  - 'Vingadores: Doomsday'
+  - MCU
+  - Marvel
+  - Anthony Mackie
+  - Irmãos Russo
+  - Doutor Destino
+  - Robert Downey Jr.
+  - X-Men
+  - estreia
+keywords: >-
+  Vingadores: Doomsday, MCU, Marvel, Anthony Mackie, Irmãos Russo, Doutor
+  Destino, Robert Downey Jr., X-Men, estreia
+author: Pablo Moura
+data: '2025-04-15T22:10:12.164Z'
+resumo: >-
+  Anthony Mackie expressa entusiasmo pelo novo filme 'Vingadores: Doomsday',
+  prometendo reviver a magia dos primeiros filmes do MCU.
 ---
 
 Durante a promoção da segunda temporada de 'Twisted Metal', Anthony Mackie compartilhou suas expectativas para o próximo grande lançamento da Marvel, 'Vingadores: Doomsday'. Mackie, que reprisará seu papel como Capitão América, revelou que o filme deverá resgatar a vibração das primeiras produções do Universo Cinematográfico Marvel (MCU).

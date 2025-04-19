@@ -1,14 +1,32 @@
 ---
-title: "Conclave: Análise e Desfecho do Thriller Que Conquistou 8 Indicações ao Oscar 2025"
-slug: "conclave-explicado-quem-vence-a-disputa-no-final-e-o-que-representa"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/JX9jasdi3ic"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Y8XLCGH-txEYcvPZvXMnpRg1GlE=/480x360/smart/extras/conteudos/conclave.webp"
-tags: ["Conclave", "Edward Berger", "Oscar 2025", "Ralph Fiennes", "Vaticano", "thriller", "drama", "Papa", "filme"]
-keywords: "Conclave, Edward Berger, Oscar 2025, Ralph Fiennes, Vaticano, thriller, drama, Papa, filme"
-author: "Pablo Moura"
-data: "2025-04-19T02:17:51.633Z"
+title: >-
+  Conclave: Análise e Desfecho do Thriller Que Conquistou 8 Indicações ao Oscar
+  2025
+slug: conclave-explicado-quem-vence-a-disputa-no-final-e-o-que-representa
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/JX9jasdi3ic'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Y8XLCGH-txEYcvPZvXMnpRg1GlE=/480x360/smart/extras/conteudos/conclave.webp
+tags:
+  - Conclave
+  - Edward Berger
+  - Oscar 2025
+  - Ralph Fiennes
+  - Vaticano
+  - thriller
+  - drama
+  - Papa
+  - filme
+keywords: >-
+  Conclave, Edward Berger, Oscar 2025, Ralph Fiennes, Vaticano, thriller, drama,
+  Papa, filme
+author: Pablo Moura
+data: '2025-04-19T02:17:51.633Z'
+resumo: >-
+  O filme 'Conclave', dirigido por Edward Berger, recebeu aclamação crítica e
+  oito indicações ao Oscar, incluindo Melhor Filme e Melhor Ator para Ralph
+  Fiennes.
 ---
 
 Edward Berger, conhecido por seu remake de 'Nada de Novo no Front', retorna aos holofotes com 'Conclave', uma adaptação do suspense de Robert Harris que estreou nos cinemas em 23 de janeiro de 2025. O filme não só capturou a atenção do público, mas também garantiu oito indicações ao Oscar 2025 nas categorias de Melhor Filme, Roteiro Adaptado e Ator, com Ralph Fiennes sendo um dos destacados.

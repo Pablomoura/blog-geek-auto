@@ -1,14 +1,28 @@
 ---
-title: "Emmanuelle | Remake de clássico erótico ganha trailer nacional; veja"
-slug: "emmanuelle-remake-de-clssico-ertico-ganha-trailer-nacional-veja"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/Vpla2pAIQGg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/xjRK0DW-y7iRDFlrxhAtuRA9n8g=/480x360/smart/extras/conteudos/emmanuelle_HuiBG3r.png"
-tags: ["Emmanuelle", "remake", "filme erótico", "Noémie Merlant", "Hong Kong", "Festival de Cinema Europeu", "Audrey Diwan", "trailer nacional"]
-keywords: "Emmanuelle, remake, filme erótico, Noémie Merlant, Hong Kong, Festival de Cinema Europeu, Audrey Diwan, trailer nacional"
-author: "Ana Luiza"
-data: "2025-04-11T18:13:55.888Z"
+title: Emmanuelle | Remake de clássico erótico ganha trailer nacional; veja
+slug: emmanuelle-remake-de-clssico-ertico-ganha-trailer-nacional-veja
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/Vpla2pAIQGg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/xjRK0DW-y7iRDFlrxhAtuRA9n8g=/480x360/smart/extras/conteudos/emmanuelle_HuiBG3r.png
+tags:
+  - Emmanuelle
+  - remake
+  - filme erótico
+  - Noémie Merlant
+  - Hong Kong
+  - Festival de Cinema Europeu
+  - Audrey Diwan
+  - trailer nacional
+keywords: >-
+  Emmanuelle, remake, filme erótico, Noémie Merlant, Hong Kong, Festival de
+  Cinema Europeu, Audrey Diwan, trailer nacional
+author: Ana Luiza
+data: '2025-04-11T18:13:55.888Z'
+resumo: >-
+  O longa será exibido pela primeira vez no Brasil durante o Festival de Cinema
+  Europeu Imovision
 ---
 
 O aguardado remake do filme erótico 'Emmanuelle' acaba de receber um trailer nacional, divulgado com exclusividade pela distribuidora Imovision. A prévia, repleta de cenas provocantes, já pode ser conferida. 

@@ -1,14 +1,28 @@
 ---
-title: "He-Man | Data, elenco, direção, trailer e tudo sobre o novo filme em live-action"
-slug: "he-man-data-elenco-direo-trailer-e-tudo-sobre-o-novo-filme-em-live-action"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/h-I4rHbbdQ8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/pGSuG-lw02bvH81PK3IRn-i286w=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T104638.373.png"
-tags: ["He-Man", "live-action", "Nicholas Galitzine", "Jared Leto", "Travis Knight", "Eternia", "Esqueleto", "Mestres do Universo"]
-keywords: "He-Man, live-action, Nicholas Galitzine, Jared Leto, Travis Knight, Eternia, Esqueleto, Mestres do Universo"
-author: "Pablo Moura"
-data: "2025-04-11T16:15:52.134Z"
+title: >-
+  He-Man | Data, elenco, direção, trailer e tudo sobre o novo filme em
+  live-action
+slug: he-man-data-elenco-direo-trailer-e-tudo-sobre-o-novo-filme-em-live-action
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/h-I4rHbbdQ8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/pGSuG-lw02bvH81PK3IRn-i286w=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-09T104638.373.png
+tags:
+  - He-Man
+  - live-action
+  - Nicholas Galitzine
+  - Jared Leto
+  - Travis Knight
+  - Eternia
+  - Esqueleto
+  - Mestres do Universo
+keywords: >-
+  He-Man, live-action, Nicholas Galitzine, Jared Leto, Travis Knight, Eternia,
+  Esqueleto, Mestres do Universo
+author: Pablo Moura
+data: '2025-04-11T16:15:52.134Z'
+resumo: Filme chega aos cinemas no próximo ano e já está sendo filmado
 ---
 
 O universo de He-Man está prestes a ser expandido com um novo filme em live-action, trazendo uma nova abordagem à clássica saga de Eternia. O filme, intitulado 'He-Man e os Mestres do Universo', se desenvolve duas décadas após a queda do Príncipe Adam na Terra. Agora, Adam é convocado de volta ao espaço para salvar seu planeta natal, Eternia, das garras do temível Esqueleto. No entanto, para triunfar sobre tal adversário, ele deve primeiro enfrentar os segredos de seu passado e assumir sua verdadeira identidade como He-Man, o homem mais poderoso do universo.

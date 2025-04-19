@@ -1,14 +1,29 @@
 ---
-title: "Doctor Who | Detalhes sobre o retorno de Ruby Sunday na 2ª temporada revelados"
-slug: "doctor-who-saiba-como-ser-o-retorno-de-ruby-sunday-na-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/3gZs-iDL6NZPA1wywbD5Q97DcNo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T120103.342.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/XLcXMJ57lqoCohZxE5vkonQxMD4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T120047.683.png"
-tags: ["Doctor Who", "Ruby Sunday", "Millie Gibson", "Russell T. Davies", "Ncuti Gatwa", "Disney+", "TARDIS", "ficção científica"]
-keywords: "Doctor Who, Ruby Sunday, Millie Gibson, Russell T. Davies, Ncuti Gatwa, Disney+, TARDIS, ficção científica"
-author: "Pablo Moura"
-data: "2025-04-11T15:11:18.220Z"
+title: Doctor Who | Detalhes sobre o retorno de Ruby Sunday na 2ª temporada revelados
+slug: doctor-who-saiba-como-ser-o-retorno-de-ruby-sunday-na-2-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/3gZs-iDL6NZPA1wywbD5Q97DcNo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T120103.342.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/XLcXMJ57lqoCohZxE5vkonQxMD4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T120047.683.png
+tags:
+  - Doctor Who
+  - Ruby Sunday
+  - Millie Gibson
+  - Russell T. Davies
+  - Ncuti Gatwa
+  - Disney+
+  - TARDIS
+  - ficção científica
+keywords: >-
+  Doctor Who, Ruby Sunday, Millie Gibson, Russell T. Davies, Ncuti Gatwa,
+  Disney+, TARDIS, ficção científica
+author: Pablo Moura
+data: '2025-04-11T15:11:18.220Z'
+resumo: >-
+  A série Doctor Who retorna em 12 de abril no Disney+, explorando novos
+  desafios para Ruby Sunday.
 ---
 
 Russell T. Davies, showrunner de Doctor Who, compartilhou insights sobre o retorno de Ruby Sunday, interpretada por Millie Gibson, na próxima temporada da série, que será transmitida pelo Disney+. Em entrevista à Entertainment Weekly, Davies explorou as consequências da jornada de Ruby com o Doutor. "A trama de Ruby gira em torno do que ocorre com um companion após sua aventura com o Doutor terminar", explicou. "Como fica a vida dela na Terra? Haverá, sem dúvida, um impacto emocional significativo. Será uma oportunidade excelente para aprofundar na personagem de Millie e em sua atuação", acrescentou.

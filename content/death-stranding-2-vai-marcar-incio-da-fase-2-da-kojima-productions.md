@@ -1,14 +1,29 @@
 ---
-title: "Death Stranding 2 Inaugura a 'Fase 2' da Kojima Productions em Junho"
-slug: "death-stranding-2-vai-marcar-incio-da-fase-2-da-kojima-productions"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/dMHpN0m0_iZ8G8FD-SUDVYSh4vY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T134926.978.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/C14awPcc27OgJKFN62kJfP-GAMc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T134953.371.png"
-tags: ["Death Stranding 2", "Kojima Productions", "Hideo Kojima", "jogos", "lançamento de jogos", "PS5", "cinema", "anime"]
-keywords: "Death Stranding 2, Kojima Productions, Hideo Kojima, jogos, lançamento de jogos, PS5, cinema, anime"
-author: "Pablo Moura"
-data: "2025-04-18T17:09:04.574Z"
+title: Death Stranding 2 Inaugura a 'Fase 2' da Kojima Productions em Junho
+slug: death-stranding-2-vai-marcar-incio-da-fase-2-da-kojima-productions
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/dMHpN0m0_iZ8G8FD-SUDVYSh4vY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T134926.978.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/C14awPcc27OgJKFN62kJfP-GAMc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T134953.371.png
+tags:
+  - Death Stranding 2
+  - Kojima Productions
+  - Hideo Kojima
+  - jogos
+  - lançamento de jogos
+  - PS5
+  - cinema
+  - anime
+keywords: >-
+  Death Stranding 2, Kojima Productions, Hideo Kojima, jogos, lançamento de
+  jogos, PS5, cinema, anime
+author: Pablo Moura
+data: '2025-04-18T17:09:04.574Z'
+resumo: >-
+  A aguardada sequência do jogo Death Stranding está prevista para lançamento em
+  junho deste ano, marcando uma nova era para o estúdio Kojima Productions.
 ---
 
 Hideo Kojima, a mente criativa por trás de Death Stranding, anunciou que o lançamento de Death Stranding 2 não será apenas um momento significativo para os fãs da série, mas também para sua empresa, a Kojima Productions, que entrará na chamada 'Fase 2'. Até o momento, os detalhes sobre o que essa nova fase implica permanecem incertos, visto que Kojima não elaborou sobre o assunto.

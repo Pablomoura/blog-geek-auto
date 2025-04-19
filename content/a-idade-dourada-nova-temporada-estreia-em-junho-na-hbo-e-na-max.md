@@ -1,14 +1,26 @@
 ---
-title: "A Idade Dourada: Terceira Temporada Chega em Junho na HBO e Max"
-slug: "a-idade-dourada-nova-temporada-estreia-em-junho-na-hbo-e-na-max"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Ve2waAUZDKR2SmdVCh34gpeknUg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-17T200855.685.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/EyUXlQvSXiKAURdkd9Qa0u8tllE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-17T200855.685.png"
-tags: ["A Idade Dourada", "HBO", "Max", "Julian Fellowes", "terceira temporada", "série", "streaming"]
-keywords: "A Idade Dourada, HBO, Max, Julian Fellowes, terceira temporada, série, streaming"
-author: "Ana Luiza"
-data: "2025-04-18T00:43:42.726Z"
+title: 'A Idade Dourada: Terceira Temporada Chega em Junho na HBO e Max'
+slug: a-idade-dourada-nova-temporada-estreia-em-junho-na-hbo-e-na-max
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Ve2waAUZDKR2SmdVCh34gpeknUg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-17T200855.685.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/EyUXlQvSXiKAURdkd9Qa0u8tllE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-17T200855.685.png
+tags:
+  - A Idade Dourada
+  - HBO
+  - Max
+  - Julian Fellowes
+  - terceira temporada
+  - série
+  - streaming
+keywords: >-
+  A Idade Dourada, HBO, Max, Julian Fellowes, terceira temporada, série,
+  streaming
+author: Ana Luiza
+data: '2025-04-18T00:43:42.726Z'
+resumo: A aclamada série retorna com novos episódios em junho pela HBO e Max.
 ---
 
 A HBO anunciou recentemente que 'A Idade Dourada', série concebida pelo renomado Julian Fellowes, estará de volta com sua terceira temporada em junho, tanto no canal televisivo quanto na plataforma de streaming Max.

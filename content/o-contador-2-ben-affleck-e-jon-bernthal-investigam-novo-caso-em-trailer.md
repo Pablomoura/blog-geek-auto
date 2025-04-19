@@ -1,14 +1,27 @@
 ---
-title: "O Contador 2 | Ben Affleck e Jon Bernthal Desvendam Mistério em Novo Trailer"
-slug: "o-contador-2-ben-affleck-e-jon-bernthal-investigam-novo-caso-em-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/RGmAfDtVAyA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/tjFWRf6tV00OpwUXfw3KJc1QrD0=/480x360/smart/extras/conteudos/contador.png"
-tags: ["O Contador 2", "Ben Affleck", "Jon Bernthal", "cinema", "trailer", "Amazon MGM", "sequência de filme"]
-keywords: "O Contador 2, Ben Affleck, Jon Bernthal, cinema, trailer, Amazon MGM, sequência de filme"
-author: "Luana Souza"
-data: "2025-04-18T18:13:41.838Z"
+title: O Contador 2 | Ben Affleck e Jon Bernthal Desvendam Mistério em Novo Trailer
+slug: o-contador-2-ben-affleck-e-jon-bernthal-investigam-novo-caso-em-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/RGmAfDtVAyA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/tjFWRf6tV00OpwUXfw3KJc1QrD0=/480x360/smart/extras/conteudos/contador.png
+tags:
+  - O Contador 2
+  - Ben Affleck
+  - Jon Bernthal
+  - cinema
+  - trailer
+  - Amazon MGM
+  - sequência de filme
+keywords: >-
+  O Contador 2, Ben Affleck, Jon Bernthal, cinema, trailer, Amazon MGM,
+  sequência de filme
+author: Luana Souza
+data: '2025-04-18T18:13:41.838Z'
+resumo: >-
+  A aguardada sequência com Ben Affleck chega aos cinemas do Brasil em 24 de
+  abril.
 ---
 
 Ben Affleck e Jon Bernthal estão de volta em ação no novo vídeo de bastidores de 'O Contador 2', divulgado pela Amazon MGM hoje, 18 de dezembro. O trailer promete mais uma trama envolvente de suspense e investigação.

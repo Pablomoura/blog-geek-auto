@@ -1,14 +1,34 @@
 ---
-title: "BBB 25: Tensão no 18º Paredão com Vitória Strada, Renata e Diego Hypólito"
-slug: "bbb-25-quem-vai-ser-eliminado-veja-parciais-do-18-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/c7_8MZ6HWhGmHtR-gUZ-QJ31UQ4=/987x0/smart/uploads/conteudo/fotos/bbb25-vitoria-diego-renata-parcial.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/rV56sV6RQnQxULo_PDDiH_-hfXM=/480x360/smart/extras/conteudos/bbb25-vitoria-strada-18-parcial-peq.jpg"
-tags: ["BBB 25", "18º Paredão", "Vitória Strada", "Renata", "Diego Hypólito", "eliminação", "votação BBB", "enquete UOL", "Tadeu Schmidt", "Rodrigo Dourado", "Globoplay", "especial-BBB 25"]
-keywords: "BBB 25, 18º Paredão, Vitória Strada, Renata, Diego Hypólito, eliminação, votação BBB, enquete UOL, Tadeu Schmidt, Rodrigo Dourado, Globoplay"
-author: "Ana Luiza"
-data: "2025-04-16T03:31:18.103Z"
+title: 'BBB 25: Tensão no 18º Paredão com Vitória Strada, Renata e Diego Hypólito'
+slug: bbb-25-quem-vai-ser-eliminado-veja-parciais-do-18-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/c7_8MZ6HWhGmHtR-gUZ-QJ31UQ4=/987x0/smart/uploads/conteudo/fotos/bbb25-vitoria-diego-renata-parcial.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/rV56sV6RQnQxULo_PDDiH_-hfXM=/480x360/smart/extras/conteudos/bbb25-vitoria-strada-18-parcial-peq.jpg
+tags:
+  - BBB 25
+  - 18º Paredão
+  - Vitória Strada
+  - Renata
+  - Diego Hypólito
+  - eliminação
+  - votação BBB
+  - enquete UOL
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - Globoplay
+  - especial-BBB 25
+keywords: >-
+  BBB 25, 18º Paredão, Vitória Strada, Renata, Diego Hypólito, eliminação,
+  votação BBB, enquete UOL, Tadeu Schmidt, Rodrigo Dourado, Globoplay
+author: Ana Luiza
+data: '2025-04-16T03:31:18.103Z'
+resumo: >-
+  O Big Brother Brasil 25 se aproxima do fim, e o 18º Paredão promete emoções
+  fortes com Vitória Strada, Renata e Diego Hypólito disputando a preferência do
+  público.
 ---
 
 À medida que o BBB 25 acelera para suas últimas semanas, o clima de tensão é palpável. No 18º Paredão, formado na noite de terça-feira (15), Vitória Strada, Renata e Diego Hypólito se enfrentam em uma batalha pela permanência na casa. Segundo as últimas parciais da enquete do UOL, divulgadas à meia-noite e dezoito minutos de quarta-feira (16), Renata lidera as intenções de saída com 50,59% dos votos, seguida por Diego com 46,35%. Vitória, por outro lado, parece mais segura, acumulando apenas 3,06% dos votos.

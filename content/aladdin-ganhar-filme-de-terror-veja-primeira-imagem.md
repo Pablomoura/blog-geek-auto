@@ -1,14 +1,24 @@
 ---
-title: "Aladdin ganhará filme de terror, veja primeira imagem"
-slug: "aladdin-ganhar-filme-de-terror-veja-primeira-imagem"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/eJIMqg7L80CBBzIqOhpbhW7aUEw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-14T122853.683.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/3SCKOWeVhJW9wsHhNHw45VdEhcU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T122918.624.png"
-tags: ["Aladdin", "terror", "cinema", "filme", "Nick Sagar", "Bradley Stryker", "Charley McDougall"]
-keywords: "Aladdin, terror, cinema, filme, Nick Sagar, Bradley Stryker, Charley McDougall"
-author: "Ana Luiza"
-data: "2025-04-14T16:12:47.242Z"
+title: 'Aladdin ganhará filme de terror, veja primeira imagem'
+slug: aladdin-ganhar-filme-de-terror-veja-primeira-imagem
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/eJIMqg7L80CBBzIqOhpbhW7aUEw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-14T122853.683.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/3SCKOWeVhJW9wsHhNHw45VdEhcU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T122918.624.png
+tags:
+  - Aladdin
+  - terror
+  - cinema
+  - filme
+  - Nick Sagar
+  - Bradley Stryker
+  - Charley McDougall
+keywords: 'Aladdin, terror, cinema, filme, Nick Sagar, Bradley Stryker, Charley McDougall'
+author: Ana Luiza
+data: '2025-04-14T16:12:47.242Z'
+resumo: Filme ainda não tem previsão para chegar aos cinemas
 ---
 
 Aladdin é o próximo personagem infantil a ser transformado em uma versão de terror no cinema. O filme, intitulado Aladdin: The Monkey's Paw (Aladdin: A Pata do Macaco), é descrito como uma reimaginação sombria e sobrenatural da história clássica. A primeira imagem oficial já foi divulgada.

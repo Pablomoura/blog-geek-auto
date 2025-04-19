@@ -1,14 +1,30 @@
 ---
-title: "Lanternas Verdes | Filmagens do piloto da série são concluídas"
-slug: "lanternas-verdes-produo-termina-filmagens-do-piloto-da-srie"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/CAp6kZjKZ4P61tDB3BnVLKrx8aQ=/987x0/smart/uploads/conteudo/fotos/lanternas_CCZhfkd.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/yhZn81YgTdlpw9IulpfzswVc0tU=/480x360/smart/extras/conteudos/lanternas_jDlzoXT.jpg"
-tags: ["Lanternas Verdes", "HBO", "DC Comics", "série", "James Hawes", "John Stewart", "Hal Jordan", "DCU", "DC Studios", "James Gunn", "Peter Safran"]
-keywords: "Lanternas Verdes, HBO, DC Comics, série, James Hawes, John Stewart, Hal Jordan, DCU, DC Studios, James Gunn, Peter Safran"
-author: "Ana Luiza"
-data: "2025-04-12T20:37:55.234Z"
+title: Lanternas Verdes | Filmagens do piloto da série são concluídas
+slug: lanternas-verdes-produo-termina-filmagens-do-piloto-da-srie
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/CAp6kZjKZ4P61tDB3BnVLKrx8aQ=/987x0/smart/uploads/conteudo/fotos/lanternas_CCZhfkd.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/yhZn81YgTdlpw9IulpfzswVc0tU=/480x360/smart/extras/conteudos/lanternas_jDlzoXT.jpg
+tags:
+  - Lanternas Verdes
+  - HBO
+  - DC Comics
+  - série
+  - James Hawes
+  - John Stewart
+  - Hal Jordan
+  - DCU
+  - DC Studios
+  - James Gunn
+  - Peter Safran
+keywords: >-
+  Lanternas Verdes, HBO, DC Comics, série, James Hawes, John Stewart, Hal
+  Jordan, DCU, DC Studios, James Gunn, Peter Safran
+author: Ana Luiza
+data: '2025-04-12T20:37:55.234Z'
+resumo: Série estreará em 2026 na HBO
 ---
 
 As filmagens do episódio piloto da série Lanternas Verdes, baseada nos personagens da DC Comics, foram concluídas, conforme confirmado pelo diretor James Hawes. Em entrevista ao The Hollywood Reporter, ele comparou a série a True Detective, destacando um tom de comédia e sagacidade não esperados. Hawes mencionou a estrutura de filme policial de dupla em viagem como uma característica marcante da série.

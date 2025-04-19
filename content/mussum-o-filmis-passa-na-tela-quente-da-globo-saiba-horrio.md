@@ -1,14 +1,25 @@
 ---
-title: "Mussum, O Filmis é destaque na Tela Quente da Globo"
-slug: "mussum-o-filmis-passa-na-tela-quente-da-globo-saiba-horrio"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/I2-2m9z8fiw?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/q96CHdayyDbmBavrBadmWKJD6F8=/480x360/smart/extras/conteudos/mussumofilmis.jpg"
-tags: ["Mussum", "O Filmis", "Tela Quente", "Globo", "Ailton Graça", "Trapalhões", "Festival de Gramado"]
-keywords: "Mussum, O Filmis, Tela Quente, Globo, Ailton Graça, Trapalhões, Festival de Gramado"
-author: "Pablo Moura"
-data: "2025-04-14T07:11:19.875Z"
+title: 'Mussum, O Filmis é destaque na Tela Quente da Globo'
+slug: mussum-o-filmis-passa-na-tela-quente-da-globo-saiba-horrio
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/I2-2m9z8fiw?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/q96CHdayyDbmBavrBadmWKJD6F8=/480x360/smart/extras/conteudos/mussumofilmis.jpg
+tags:
+  - Mussum
+  - O Filmis
+  - Tela Quente
+  - Globo
+  - Ailton Graça
+  - Trapalhões
+  - Festival de Gramado
+keywords: >-
+  Mussum, O Filmis, Tela Quente, Globo, Ailton Graça, Trapalhões, Festival de
+  Gramado
+author: Pablo Moura
+data: '2025-04-14T07:11:19.875Z'
+resumo: Filme de 2023 protagonizado por Ailton Graça
 ---
 
 Nesta segunda-feira (14), a Tela Quente da TV Globo apresenta o filme Mussum, O Filmis, lançado em 2023. A exibição está marcada para as 23h30, horário de Brasília, e tem duração de duas horas.

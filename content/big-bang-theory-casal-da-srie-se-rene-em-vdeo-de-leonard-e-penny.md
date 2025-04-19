@@ -1,14 +1,33 @@
 ---
-title: "Reunião de Leonard e Penny em Novo Comercial e Expansão do Universo de The Big Bang Theory"
-slug: "big-bang-theory-casal-da-srie-se-rene-em-vdeo-de-leonard-e-penny"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/5elFd_58K7un__2j-xapzvSkYqM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T103121.229.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/LF-iFkRg9PQQIcuVnW4MOWfCYXM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T103107.536.png"
-tags: ["The Big Bang Theory", "Young Sheldon", "spin-offs", "Johnny Galecki", "Kaley Cuoco", "Leonard e Penny", "Royal Kingdom", "Stuart Fails To Save The Universe", "Georgie & Mandy's First Marriage"]
-keywords: "The Big Bang Theory, Young Sheldon, spin-offs, Johnny Galecki, Kaley Cuoco, Leonard e Penny, Royal Kingdom, Stuart Fails To Save The Universe, Georgie & Mandy's First Marriage"
-author: "Pablo Moura"
-data: "2025-04-16T14:13:16.839Z"
+title: >-
+  Reunião de Leonard e Penny em Novo Comercial e Expansão do Universo de The Big
+  Bang Theory
+slug: big-bang-theory-casal-da-srie-se-rene-em-vdeo-de-leonard-e-penny
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/5elFd_58K7un__2j-xapzvSkYqM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T103121.229.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/LF-iFkRg9PQQIcuVnW4MOWfCYXM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T103107.536.png
+tags:
+  - The Big Bang Theory
+  - Young Sheldon
+  - spin-offs
+  - Johnny Galecki
+  - Kaley Cuoco
+  - Leonard e Penny
+  - Royal Kingdom
+  - Stuart Fails To Save The Universe
+  - Georgie & Mandy's First Marriage
+keywords: >-
+  The Big Bang Theory, Young Sheldon, spin-offs, Johnny Galecki, Kaley Cuoco,
+  Leonard e Penny, Royal Kingdom, Stuart Fails To Save The Universe, Georgie &
+  Mandy's First Marriage
+author: Pablo Moura
+data: '2025-04-16T14:13:16.839Z'
+resumo: >-
+  Johnny Galecki e Kaley Cuoco retornam como Leonard e Penny em um comercial de
+  jogo, enquanto novos spin-offs da série são anunciados.
 ---
 
 Johnny Galecki e Kaley Cuoco, o amado casal Leonard e Penny de 'The Big Bang Theory', se reuniram para um vídeo promocional do jogo 'Royal Kingdom'. Este reencontro traz uma dose de nostalgia para os fãs da série.

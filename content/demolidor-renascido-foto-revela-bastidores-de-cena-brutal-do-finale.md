@@ -1,14 +1,30 @@
 ---
-title: "Demolidor: Renascido | Bastidores Revelam Detalhes de Cena Chocante no Final da Temporada"
-slug: "demolidor-renascido-foto-revela-bastidores-de-cena-brutal-do-finale"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/VYj8dagB8PWXYWSO9NRLu_dB6NM=/480x360/smart/extras/conteudos/demolidor-renascido-episode-7_9PTf8i1.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/VYj8dagB8PWXYWSO9NRLu_dB6NM=/480x360/smart/extras/conteudos/demolidor-renascido-episode-7_9PTf8i1.png"
-tags: ["Demolidor: Renascido", "Disney+", "série", "Wilson Fisk", "Justiceiro", "final brutal", "bastidores"]
-keywords: "Demolidor: Renascido, Disney+, série, Wilson Fisk, Justiceiro, final brutal, bastidores"
-author: "Pablo Moura"
-data: "2025-04-16T19:09:44.561Z"
+title: >-
+  Demolidor: Renascido | Bastidores Revelam Detalhes de Cena Chocante no Final
+  da Temporada
+slug: demolidor-renascido-foto-revela-bastidores-de-cena-brutal-do-finale
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/VYj8dagB8PWXYWSO9NRLu_dB6NM=/480x360/smart/extras/conteudos/demolidor-renascido-episode-7_9PTf8i1.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/VYj8dagB8PWXYWSO9NRLu_dB6NM=/480x360/smart/extras/conteudos/demolidor-renascido-episode-7_9PTf8i1.png
+tags:
+  - 'Demolidor: Renascido'
+  - Disney+
+  - série
+  - Wilson Fisk
+  - Justiceiro
+  - final brutal
+  - bastidores
+keywords: >-
+  Demolidor: Renascido, Disney+, série, Wilson Fisk, Justiceiro, final brutal,
+  bastidores
+author: Pablo Moura
+data: '2025-04-16T19:09:44.561Z'
+resumo: >-
+  A nova série 'Demolidor: Renascido' já está com todos os episódios disponíveis
+  na plataforma Disney+.
 ---
 
 [Alerta de spoilers do final da primeira temporada de Demolidor: Renascido]

@@ -1,14 +1,28 @@
 ---
-title: "Penn Badgley critica a superficialidade de 'Gossip Girl': 'Era apenas estética'"
-slug: "gossip-girl-era-superficial-diz-penn-badgley-no-sinto-falta-disso"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/nUdgIMp4kD5JHM00wH0631bvrlM=/987x0/smart/uploads/conteudo/fotos/dan_8EM2WyQ.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Qpkg9PseEqhJ1QtWWPvCdzUDQ4c=/480x360/smart/extras/conteudos/dan_gfPh5Dj.jpg"
-tags: ["Penn Badgley", "Gossip Girl", "superficialidade", "cultura pop", "série", "entrevista"]
-keywords: "Penn Badgley, Gossip Girl, superficialidade, cultura pop, série, entrevista"
-author: "Luana Souza"
-data: "2025-04-18T15:12:16.201Z"
+title: >-
+  Penn Badgley critica a superficialidade de 'Gossip Girl': 'Era apenas
+  estética'
+slug: gossip-girl-era-superficial-diz-penn-badgley-no-sinto-falta-disso
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/nUdgIMp4kD5JHM00wH0631bvrlM=/987x0/smart/uploads/conteudo/fotos/dan_8EM2WyQ.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Qpkg9PseEqhJ1QtWWPvCdzUDQ4c=/480x360/smart/extras/conteudos/dan_gfPh5Dj.jpg
+tags:
+  - Penn Badgley
+  - Gossip Girl
+  - superficialidade
+  - cultura pop
+  - série
+  - entrevista
+keywords: 'Penn Badgley, Gossip Girl, superficialidade, cultura pop, série, entrevista'
+author: Luana Souza
+data: '2025-04-18T15:12:16.201Z'
+resumo: >-
+  O ator Penn Badgley compartilhou suas reflexões sobre seu tempo como Dan
+  Humphrey em 'Gossip Girl', destacando a superficialidade da série e da cultura
+  que a valoriza.
 ---
 
 Penn Badgley, conhecido por seu papel como Dan Humphrey em 'Gossip Girl', série que foi ao ar de 2007 a 2012, recentemente expressou sua opinião sobre os aspectos superficiais do show em uma entrevista com o The Guardian. 'O que era aquela série? Nada mais do que uma estética. Era só sobre o visual de todos nós', disse ele, refletindo sobre a natureza do programa.

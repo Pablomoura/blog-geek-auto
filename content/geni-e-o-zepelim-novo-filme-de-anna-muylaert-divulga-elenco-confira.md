@@ -1,14 +1,29 @@
 ---
-title: "Geni e o Zepelim: Novidades no Elenco do Filme Inspirado em Música de Chico Buarque"
-slug: "geni-e-o-zepelim-novo-filme-de-anna-muylaert-divulga-elenco-confira"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/XHk6me2oFPU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Rt-aAYiTuJg_kAD4FVPJe7pQBno=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-17_072758.png"
-tags: ["Geni e o Zepelim", "Anna Muylaert", "Chico Buarque", "Thainá Duarte", "Seu Jorge", "filme brasileiro", "adaptação musical"]
-keywords: "Geni e o Zepelim, Anna Muylaert, Chico Buarque, Thainá Duarte, Seu Jorge, filme brasileiro, adaptação musical"
-author: "Pablo Moura"
-data: "2025-04-17T11:09:06.764Z"
+title: >-
+  Geni e o Zepelim: Novidades no Elenco do Filme Inspirado em Música de Chico
+  Buarque
+slug: geni-e-o-zepelim-novo-filme-de-anna-muylaert-divulga-elenco-confira
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/XHk6me2oFPU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Rt-aAYiTuJg_kAD4FVPJe7pQBno=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-17_072758.png
+tags:
+  - Geni e o Zepelim
+  - Anna Muylaert
+  - Chico Buarque
+  - Thainá Duarte
+  - Seu Jorge
+  - filme brasileiro
+  - adaptação musical
+keywords: >-
+  Geni e o Zepelim, Anna Muylaert, Chico Buarque, Thainá Duarte, Seu Jorge,
+  filme brasileiro, adaptação musical
+author: Pablo Moura
+data: '2025-04-17T11:09:06.764Z'
+resumo: >-
+  O novo filme de Anna Muylaert, baseado na canção de Chico Buarque, revela seu
+  elenco principal e detalhes da produção.
 ---
 
 A produtora Midgal Filmes anunciou recentemente os atores principais para o filme 'Geni e o Zepelim', dirigido por Anna Muylaert. O filme é inspirado na famosa música de Chico Buarque de 1978, que narra a vida de uma prostituta marginalizada pela sociedade. Thainá Duarte, conhecida por 'Cangaço Novo', e Seu Jorge, de 'Cidade de Deus', serão os protagonistas, interpretando Geni e o Comandante do Zepelim, respectivamente.

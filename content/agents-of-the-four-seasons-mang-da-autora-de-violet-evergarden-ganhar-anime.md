@@ -1,14 +1,28 @@
 ---
-title: "Agents of the Four Seasons | Mangá de Kana Akatsuki terá adaptação para anime"
-slug: "agents-of-the-four-seasons-mang-da-autora-de-violet-evergarden-ganhar-anime"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/1PKAI_gtqgg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/B6_vW3ZpbU4_psXJLE2ITYHZagI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T130427.137.png"
-tags: ["Agents of the Four Seasons", "Kana Akatsuki", "adaptação para anime", "Wit Studio", "mangá", "anime", "Violet Evergarden", "light novel"]
-keywords: "Agents of the Four Seasons, Kana Akatsuki, adaptação para anime, Wit Studio, mangá, anime, Violet Evergarden, light novel"
-author: "Pablo Moura"
-data: "2025-04-11T16:12:13.098Z"
+title: Agents of the Four Seasons | Mangá de Kana Akatsuki terá adaptação para anime
+slug: agents-of-the-four-seasons-mang-da-autora-de-violet-evergarden-ganhar-anime
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/1PKAI_gtqgg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/B6_vW3ZpbU4_psXJLE2ITYHZagI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T130427.137.png
+tags:
+  - Agents of the Four Seasons
+  - Kana Akatsuki
+  - adaptação para anime
+  - Wit Studio
+  - mangá
+  - anime
+  - Violet Evergarden
+  - light novel
+keywords: >-
+  Agents of the Four Seasons, Kana Akatsuki, adaptação para anime, Wit Studio,
+  mangá, anime, Violet Evergarden, light novel
+author: Pablo Moura
+data: '2025-04-11T16:12:13.098Z'
+resumo: >-
+  A obra de Kana Akatsuki, conhecida por Violet Evergarden, será transformada em
+  anime pelo Wit Studio.
 ---
 
 O mangá 'Agents of the Four Seasons', criado por Kana Akatsuki, autora renomada por 'Violet Evergarden', ganhará uma adaptação em anime. O primeiro trailer já foi divulgado, juntamente com um pôster promocional da série.

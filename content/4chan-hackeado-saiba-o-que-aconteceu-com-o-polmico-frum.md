@@ -1,14 +1,24 @@
 ---
-title: "4chan Hackeado: entenda o incidente no polêmico fórum"
-slug: "4chan-hackeado-saiba-o-que-aconteceu-com-o-polmico-frum"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/LaxHXAIeOCv_cX4g8O8shADjsPA=/987x0/smart/uploads/conteudo/fotos/4chan.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Al_4FfBh3tI_oJji7ZTLY-exC68=/480x360/smart/extras/conteudos/4chan.jpg"
-tags: ["4chan", "hackeamento", "cibersegurança", "dados pessoais", "vazamento de dados"]
-keywords: "4chan, hackeamento, cibersegurança, dados pessoais, vazamento de dados"
-author: "Ana Luiza"
-data: "2025-04-15T17:09:37.084Z"
+title: '4chan Hackeado: entenda o incidente no polêmico fórum'
+slug: 4chan-hackeado-saiba-o-que-aconteceu-com-o-polmico-frum
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/LaxHXAIeOCv_cX4g8O8shADjsPA=/987x0/smart/uploads/conteudo/fotos/4chan.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Al_4FfBh3tI_oJji7ZTLY-exC68=/480x360/smart/extras/conteudos/4chan.jpg
+tags:
+  - 4chan
+  - hackeamento
+  - cibersegurança
+  - dados pessoais
+  - vazamento de dados
+keywords: '4chan, hackeamento, cibersegurança, dados pessoais, vazamento de dados'
+author: Ana Luiza
+data: '2025-04-15T17:09:37.084Z'
+resumo: >-
+  Conhecido por seu conteúdo controverso, o 4chan enfrenta um possível vazamento
+  de dados após ataque hacker.
 ---
 
 Na madrugada de terça-feira (15), relatos indicaram que o fórum online 4chan foi hackeado, com possíveis vazamentos de e-mails e mensagens privadas de seus usuários. Desde a noite de segunda-feira (14), o site apresenta instabilidade e períodos fora do ar, sugerindo que os ataques começaram antes do inicialmente percebido.

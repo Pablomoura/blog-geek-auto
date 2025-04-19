@@ -1,14 +1,25 @@
 ---
-title: "Gremlins | Anunciada nova sequência com direção de Chris Columbus"
-slug: "gremlins-novo-filme-oficializado-com-diretor-de-harry-potter"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/LLrh0fQ9bINvwE-WU4xqtMOpJaQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-11T183221.764.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nmqojZOZdPiKrmpkITsNAWRwHg4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T183221.764.png"
-tags: ["Gremlins", "Chris Columbus", "filme", "sequência", "Warner Bros", "Amblin"]
-keywords: "Gremlins, Chris Columbus, filme, sequência, Warner Bros, Amblin"
-author: "Pablo Moura"
-data: "2025-04-11T22:09:51.376Z"
+title: Gremlins | Anunciada nova sequência com direção de Chris Columbus
+slug: gremlins-novo-filme-oficializado-com-diretor-de-harry-potter
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/LLrh0fQ9bINvwE-WU4xqtMOpJaQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-11T183221.764.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nmqojZOZdPiKrmpkITsNAWRwHg4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T183221.764.png
+tags:
+  - Gremlins
+  - Chris Columbus
+  - filme
+  - sequência
+  - Warner Bros
+  - Amblin
+keywords: 'Gremlins, Chris Columbus, filme, sequência, Warner Bros, Amblin'
+author: Pablo Moura
+data: '2025-04-11T22:09:51.376Z'
+resumo: >-
+  Chris Columbus, roteirista do filme original, dirigirá o novo filme da
+  franquia Gremlins.
 ---
 
 Pam Abdy, CEO do Warner Bros. Film Group, confirmou em entrevista ao Deadline que uma nova sequência do filme Gremlins está sendo desenvolvida. A direção ficará a cargo de Chris Columbus, conhecido por dirigir os dois primeiros filmes da franquia Harry Potter. 

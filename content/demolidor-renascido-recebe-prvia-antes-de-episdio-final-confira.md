@@ -1,14 +1,29 @@
 ---
-title: "Demolidor: Renascido se prepara para um final épico com prévia emocionante"
-slug: "demolidor-renascido-recebe-prvia-antes-de-episdio-final-confira"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/XSXS0sTkeCyx9dI8Dh-CxiITB0I=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T201014.767.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/umNdi7iisyCSf10jFpVAyHMh9Qw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T201014.767.png"
-tags: ["Demolidor Renascido", "Marvel Studios", "Charlie Cox", "Vincent D'Onofrio", "Disney+", "série", "final de temporada", "prévia"]
-keywords: "Demolidor Renascido, Marvel Studios, Charlie Cox, Vincent D'Onofrio, Disney+, série, final de temporada, prévia"
-author: "Luana Souza"
-data: "2025-04-16T00:46:20.455Z"
+title: 'Demolidor: Renascido se prepara para um final épico com prévia emocionante'
+slug: demolidor-renascido-recebe-prvia-antes-de-episdio-final-confira
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/XSXS0sTkeCyx9dI8Dh-CxiITB0I=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T201014.767.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/umNdi7iisyCSf10jFpVAyHMh9Qw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T201014.767.png
+tags:
+  - Demolidor Renascido
+  - Marvel Studios
+  - Charlie Cox
+  - Vincent D'Onofrio
+  - Disney+
+  - série
+  - final de temporada
+  - prévia
+keywords: >-
+  Demolidor Renascido, Marvel Studios, Charlie Cox, Vincent D'Onofrio, Disney+,
+  série, final de temporada, prévia
+author: Luana Souza
+data: '2025-04-16T00:46:20.455Z'
+resumo: >-
+  A Marvel Studios lança uma prévia cativante recapitulando os momentos-chave da
+  temporada atual de Demolidor: Renascido antes do seu último episódio.
 ---
 
 Na contagem regressiva para o emocionante final de temporada, a Marvel Studios divulgou nesta terça-feira (15) uma prévia especial de 'Demolidor: Renascido'. O vídeo serve como um resumo dos eventos significativos da temporada, destacando a formação da força-tarefa de Wilson Fisk, o julgamento do Mercenário, a eleição de Fisk e outros momentos cruciais que prometem ser decisivos no episódio final.

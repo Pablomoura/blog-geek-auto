@@ -1,14 +1,25 @@
 ---
-title: "Extermínio: A Evolução | Novo Trailer Revela Retorno Aterrorizante dos Zumbis"
-slug: "extermnio-a-evoluo-zumbis-esto-de-volta-em-trailer-alucinante-veja"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/4ojL_0uu2qc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/isJr7M1XKRb4Kfm7ekYo7rR8wl8=/480x360/smart/extras/conteudos/28-years-later-exterminio-evolucao-trailer.jpg"
-tags: ["Extermínio A Evolução", "trailer de filme", "cinema brasileiro", "zumbis", "Danny Boyle", "Alex Garland", "Sony Pictures"]
-keywords: "Extermínio A Evolução, trailer de filme, cinema brasileiro, zumbis, Danny Boyle, Alex Garland, Sony Pictures"
-author: "Luana Souza"
-data: "2025-04-18T16:14:11.953Z"
+title: 'Extermínio: A Evolução | Novo Trailer Revela Retorno Aterrorizante dos Zumbis'
+slug: extermnio-a-evoluo-zumbis-esto-de-volta-em-trailer-alucinante-veja
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/4ojL_0uu2qc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/isJr7M1XKRb4Kfm7ekYo7rR8wl8=/480x360/smart/extras/conteudos/28-years-later-exterminio-evolucao-trailer.jpg
+tags:
+  - Extermínio A Evolução
+  - trailer de filme
+  - cinema brasileiro
+  - zumbis
+  - Danny Boyle
+  - Alex Garland
+  - Sony Pictures
+keywords: >-
+  Extermínio A Evolução, trailer de filme, cinema brasileiro, zumbis, Danny
+  Boyle, Alex Garland, Sony Pictures
+author: Luana Souza
+data: '2025-04-18T16:14:11.953Z'
+resumo: O filme chega aos cinemas brasileiros em 20 de junho de 2025
 ---
 
 A Sony Pictures revelou um trailer empolgante do filme 'Extermínio: A Evolução' (28 Years Later), a mais nova adição à icônica série de zumbis, originalmente criada por Danny Boyle e Alex Garland. Esta sequência promete revigorar a franquia com novas aventuras em um mundo devastado pelo apocalipse zumbi.

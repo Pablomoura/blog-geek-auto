@@ -1,14 +1,29 @@
 ---
-title: "Bilheteria | 'Um Filme Minecraft' ultrapassa US$ 500 milhões globalmente"
-slug: "bilheteria-um-filme-minecraft-passa-dos-us-500-milhes-no-mundo"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg"
-tags: ["Minecraft", "bilheteria", "filme", "recordes", "Jack Black", "Jason Momoa", "Warner", "adaptação de game", "estreia cinematográfica"]
-keywords: "Minecraft, bilheteria, filme, recordes, Jack Black, Jason Momoa, Warner, adaptação de game, estreia cinematográfica"
-author: "Ana Luiza"
-data: "2025-04-13T16:20:31.945Z"
+title: Bilheteria | 'Um Filme Minecraft' ultrapassa US$ 500 milhões globalmente
+slug: bilheteria-um-filme-minecraft-passa-dos-us-500-milhes-no-mundo
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg
+tags:
+  - Minecraft
+  - bilheteria
+  - filme
+  - recordes
+  - Jack Black
+  - Jason Momoa
+  - Warner
+  - adaptação de game
+  - estreia cinematográfica
+keywords: >-
+  Minecraft, bilheteria, filme, recordes, Jack Black, Jason Momoa, Warner,
+  adaptação de game, estreia cinematográfica
+author: Ana Luiza
+data: '2025-04-13T16:20:31.945Z'
+resumo: >-
+  A adaptação cinematográfica já acumula quase US$ 300 milhões apenas nos
+  Estados Unidos
 ---
 
 'Um Filme Minecraft' alcançou a impressionante cifra de US$ 550 milhões em receita global. Somente neste último fim de semana, o filme arrecadou mais US$ 80 milhões, atingindo US$ 281 milhões nos Estados Unidos, após apenas dez dias em exibição.

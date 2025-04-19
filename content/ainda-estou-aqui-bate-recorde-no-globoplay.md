@@ -1,14 +1,26 @@
 ---
-title: "Ainda Estou Aqui bate recorde no Globoplay"
-slug: "ainda-estou-aqui-bate-recorde-no-globoplay"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Pad9Tf-HA64nWPSgCI9mZARD3mg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-02-24T214152.638_HteCSO9.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pIOVH89SvDwsa4RfRL1Xn6bu2vw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-02-24T214152.638_FBdVHRJ.png"
-tags: ["Ainda Estou Aqui", "Globoplay", "Walter Salles", "Fernanda Torres", "Oscar", "streaming", "filme brasileiro"]
-keywords: "Ainda Estou Aqui, Globoplay, Walter Salles, Fernanda Torres, Oscar, streaming, filme brasileiro"
-author: "Luana Souza"
-data: "2025-04-12T02:19:17.854Z"
+title: Ainda Estou Aqui bate recorde no Globoplay
+slug: ainda-estou-aqui-bate-recorde-no-globoplay
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Pad9Tf-HA64nWPSgCI9mZARD3mg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-02-24T214152.638_HteCSO9.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pIOVH89SvDwsa4RfRL1Xn6bu2vw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-02-24T214152.638_FBdVHRJ.png
+tags:
+  - Ainda Estou Aqui
+  - Globoplay
+  - Walter Salles
+  - Fernanda Torres
+  - Oscar
+  - streaming
+  - filme brasileiro
+keywords: >-
+  Ainda Estou Aqui, Globoplay, Walter Salles, Fernanda Torres, Oscar, streaming,
+  filme brasileiro
+author: Luana Souza
+data: '2025-04-12T02:19:17.854Z'
+resumo: Streaming bateu marca de maior consumo diário de vídeo no lançamento do longa
 ---
 
 De acordo com a coluna Play, do jornal O Globo, o filme Ainda Estou Aqui fez com que o serviço de streaming Globoplay alcançasse o recorde de maior consumo diário de vídeo sob demanda em sua história durante o lançamento do longa de Walter Salles na plataforma. Desde o seu lançamento, o filme já conquistou 35 prêmios, incluindo um Oscar e uma estatueta de Melhor Atriz de Drama para Fernanda Torres no Globo de Ouro. Foi revelado recentemente que o filme foi assistido por mais de 5,8 milhões de pessoas ao redor do mundo, distribuído em 42 países.

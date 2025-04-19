@@ -1,14 +1,26 @@
 ---
-title: "Descubra as Novidades de Mario Kart World para o Nintendo Switch 2"
-slug: "mario-kart-world-tudo-sobre-o-novo-game-do-nintendo-switch-2"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/LzdL-N3XD40?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/EuCBRRqsg3odC1c7M3dwWN9lxhk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-17_094522.png"
-tags: ["Nintendo Switch 2", "Mario Kart World", "lançamento de jogos", "novos modos de jogo", "multiplayer", "Nintendo 2023"]
-keywords: "Nintendo Switch 2, Mario Kart World, lançamento de jogos, novos modos de jogo, multiplayer, Nintendo 2023"
-author: "Pablo Moura"
-data: "2025-04-17T13:21:38.463Z"
+title: Descubra as Novidades de Mario Kart World para o Nintendo Switch 2
+slug: mario-kart-world-tudo-sobre-o-novo-game-do-nintendo-switch-2
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/LzdL-N3XD40?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/EuCBRRqsg3odC1c7M3dwWN9lxhk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-17_094522.png
+tags:
+  - Nintendo Switch 2
+  - Mario Kart World
+  - lançamento de jogos
+  - novos modos de jogo
+  - multiplayer
+  - Nintendo 2023
+keywords: >-
+  Nintendo Switch 2, Mario Kart World, lançamento de jogos, novos modos de jogo,
+  multiplayer, Nintendo 2023
+author: Pablo Moura
+data: '2025-04-17T13:21:38.463Z'
+resumo: >-
+  Nintendo revelou detalhes empolgantes de Mario Kart World, que será lançado
+  junto com o novo console Nintendo Switch 2 em 5 de junho.
 ---
 
 Mario Kart World promete ser uma das estrelas na estreia do Nintendo Switch 2, marcando seu lançamento em 5 de junho, a mesma data prevista para o lançamento do novo console. Durante um evento online realizado nesta quinta-feira (17), a Nintendo detalhou o que os fãs podem esperar deste novo título.

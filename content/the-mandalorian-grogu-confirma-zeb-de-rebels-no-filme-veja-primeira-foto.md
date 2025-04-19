@@ -1,14 +1,30 @@
 ---
-title: "The Mandalorian & Grogu: Zeb de Star Wars Rebels Confirmado no Filme"
-slug: "the-mandalorian-grogu-confirma-zeb-de-rebels-no-filme-veja-primeira-foto"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/JHryy6Gg4mPTtDPbaKEtTjEpwOA=/987x0/smart/uploads/conteudo/fotos/zeb-mandalorian.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/64LJKKRn6ZR7A1Gs6Xh8vvGccCM=/480x360/smart/extras/conteudos/zeb.jpeg"
-tags: ["The Mandalorian & Grogu", "Zeb Orrelios", "Star Wars Rebels", "Star Wars", "cinema", "Jon Favreau", "Pedro Pascal", "Disney+", "LucasFilm"]
-keywords: "The Mandalorian & Grogu, Zeb Orrelios, Star Wars Rebels, Star Wars, cinema, Jon Favreau, Pedro Pascal, Disney+, LucasFilm"
-author: "Ana Luiza"
-data: "2025-04-18T02:21:48.682Z"
+title: 'The Mandalorian & Grogu: Zeb de Star Wars Rebels Confirmado no Filme'
+slug: the-mandalorian-grogu-confirma-zeb-de-rebels-no-filme-veja-primeira-foto
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/JHryy6Gg4mPTtDPbaKEtTjEpwOA=/987x0/smart/uploads/conteudo/fotos/zeb-mandalorian.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/64LJKKRn6ZR7A1Gs6Xh8vvGccCM=/480x360/smart/extras/conteudos/zeb.jpeg
+tags:
+  - The Mandalorian & Grogu
+  - Zeb Orrelios
+  - Star Wars Rebels
+  - Star Wars
+  - cinema
+  - Jon Favreau
+  - Pedro Pascal
+  - Disney+
+  - LucasFilm
+keywords: >-
+  The Mandalorian & Grogu, Zeb Orrelios, Star Wars Rebels, Star Wars, cinema,
+  Jon Favreau, Pedro Pascal, Disney+, LucasFilm
+author: Ana Luiza
+data: '2025-04-18T02:21:48.682Z'
+resumo: >-
+  O aguardado filme 'The Mandalorian & Grogu' estreia em maio de 2026, trazendo
+  personagens icônicos e novidades para os fãs da saga.
 ---
 
 O universo de Star Wars continua a expandir-se com o novo filme 'The Mandalorian & Grogu', previsto para chegar aos cinemas em maio de 2026. O filme dará sequência aos eventos narrados na terceira temporada da série 'The Mandalorian', disponível no Disney+, sob a direção de Jon Favreau, que também é criador da série.

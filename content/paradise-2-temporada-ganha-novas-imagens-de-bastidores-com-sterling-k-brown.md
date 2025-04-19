@@ -1,14 +1,29 @@
 ---
-title: "Segunda Temporada de 'Paradise' Revela Fotos de Bastidores com Sterling K. Brown"
-slug: "paradise-2-temporada-ganha-novas-imagens-de-bastidores-com-sterling-k-brown"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/okD2VlJP-MAAbAzUIcbj9MvvwiU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-17T130001.139.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/KblSERG6lAyzQrFjNn5GXv9Ece8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T125949.359.png"
-tags: ["Paradise segunda temporada", "Sterling K. Brown", "Hulu", "Disney+", "bastidores de Paradise", "elenco de Paradise"]
-keywords: "Paradise segunda temporada, Sterling K. Brown, Hulu, Disney+, bastidores de Paradise, elenco de Paradise"
-author: "Pablo Moura"
-data: "2025-04-17T16:12:58.195Z"
+title: >-
+  Segunda Temporada de 'Paradise' Revela Fotos de Bastidores com Sterling K.
+  Brown
+slug: paradise-2-temporada-ganha-novas-imagens-de-bastidores-com-sterling-k-brown
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/okD2VlJP-MAAbAzUIcbj9MvvwiU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-17T130001.139.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/KblSERG6lAyzQrFjNn5GXv9Ece8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T125949.359.png
+tags:
+  - Paradise segunda temporada
+  - Sterling K. Brown
+  - Hulu
+  - Disney+
+  - bastidores de Paradise
+  - elenco de Paradise
+keywords: >-
+  Paradise segunda temporada, Sterling K. Brown, Hulu, Disney+, bastidores de
+  Paradise, elenco de Paradise
+author: Pablo Moura
+data: '2025-04-17T16:12:58.195Z'
+resumo: >-
+  Ainda sem data de estreia, a segunda temporada de 'Paradise' promete mais
+  intrigas e drama.
 ---
 
 O Hulu acaba de oferecer um vislumbre dos bastidores da aguardada segunda temporada de 'Paradise', destacando Sterling K. Brown em ação no set. As imagens recém-divulgadas aumentam a expectativa dos fãs que aguardam novos episódios.

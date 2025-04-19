@@ -1,14 +1,27 @@
 ---
-title: "The Last of Us | Confira os bastidores do primeiro episódio da 2ª temporada"
-slug: "the-last-of-us-assista-aos-bastidores-do-1-episdio-da-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/EUJmIjZLNsw?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/9jgCJlM1ROv06F6pZjedVg6R0y8=/480x360/smart/extras/conteudos/bella-ramsey-the-last-of-us-2_wWzMnDI.jpg"
-tags: ["The Last of Us", "HBO", "segunda temporada", "bastidores", "Neil Druckmann", "Craig Mazin", "série", "adaptação", "especial-The Last of Us"]
-keywords: "The Last of Us, HBO, segunda temporada, bastidores, Neil Druckmann, Craig Mazin, série, adaptação"
-author: "Ana Luiza"
-data: "2025-04-14T20:12:48.174Z"
+title: The Last of Us | Confira os bastidores do primeiro episódio da 2ª temporada
+slug: the-last-of-us-assista-aos-bastidores-do-1-episdio-da-2-temporada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/EUJmIjZLNsw?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/9jgCJlM1ROv06F6pZjedVg6R0y8=/480x360/smart/extras/conteudos/bella-ramsey-the-last-of-us-2_wWzMnDI.jpg
+tags:
+  - The Last of Us
+  - HBO
+  - segunda temporada
+  - bastidores
+  - Neil Druckmann
+  - Craig Mazin
+  - série
+  - adaptação
+  - especial-The Last of Us
+keywords: >-
+  The Last of Us, HBO, segunda temporada, bastidores, Neil Druckmann, Craig
+  Mazin, série, adaptação
+author: Ana Luiza
+data: '2025-04-14T20:12:48.174Z'
+resumo: Novo vídeo revela detalhes da produção do episódio inicial da nova temporada
 ---
 
 A aguardada segunda temporada de The Last of Us estreou no último domingo (14), trazendo de volta o universo do aclamado jogo para as telas da HBO. Um vídeo de bastidores, com duração de 9 minutos, foi divulgado, oferecendo uma visão detalhada da produção do primeiro capítulo. O vídeo já está disponível para ser assistido.

@@ -1,14 +1,30 @@
 ---
-title: "Niantic, Criadora de Pokémon GO, Enfrenta Demissões Após Aquisição de US$ 3,85 Bilhões"
-slug: "estdio-de-pokmon-go-faz-demisses-aps-aquisio-bilionria"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/1FFc_wh41lI?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/9FztWI93lXgF8H-fCUIWAS_YT_M=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-16_155858.png"
-tags: ["Niantic", "Pokémon GO", "demissões", "Scopely", "Savvy Games Group", "aquisição bilionária", "realidade aumentada", "jogos móveis"]
-keywords: "Niantic, Pokémon GO, demissões, Scopely, Savvy Games Group, aquisição bilionária, realidade aumentada, jogos móveis"
-author: "Luana Souza"
-data: "2025-04-16T20:13:09.834Z"
+title: >-
+  Niantic, Criadora de Pokémon GO, Enfrenta Demissões Após Aquisição de US$ 3,85
+  Bilhões
+slug: estdio-de-pokmon-go-faz-demisses-aps-aquisio-bilionria
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/1FFc_wh41lI?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/9FztWI93lXgF8H-fCUIWAS_YT_M=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-16_155858.png
+tags:
+  - Niantic
+  - Pokémon GO
+  - demissões
+  - Scopely
+  - Savvy Games Group
+  - aquisição bilionária
+  - realidade aumentada
+  - jogos móveis
+keywords: >-
+  Niantic, Pokémon GO, demissões, Scopely, Savvy Games Group, aquisição
+  bilionária, realidade aumentada, jogos móveis
+author: Luana Souza
+data: '2025-04-16T20:13:09.834Z'
+resumo: >-
+  Após ser adquirida por US$ 3,85 bilhões, a Niantic dispensou aproximadamente
+  70 funcionários e pode demitir mais nas próximas semanas.
 ---
 
 A Niantic, desenvolvedora do popular jogo Pokémon GO, está passando por um período de reestruturação com demissões recentes. Segundo informações do GamesRadar, 68 funcionários foram dispensados nos últimos dias, e há possibilidade de mais demissões nas semanas vindouras.

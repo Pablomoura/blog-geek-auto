@@ -1,14 +1,23 @@
 ---
-title: "PS5 sofre aumento de preço em algumas regiões do mundo"
-slug: "ps5-sofre-aumento-de-preo-em-algumas-regies-do-mundo"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/QmZD86RomJAm3vixsUS6OzoFHMU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-14T103027.518.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ahAn8AnXWvi9fD6TqAER65evoec=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T103011.769.png"
-tags: ["PS5", "aumento de preço", "Sony", "PlayStation 5", "mercado internacional", "PS Plus"]
-keywords: "PS5, aumento de preço, Sony, PlayStation 5, mercado internacional, PS Plus"
-author: "Luana Souza"
-data: "2025-04-14T14:12:43.481Z"
+title: PS5 sofre aumento de preço em algumas regiões do mundo
+slug: ps5-sofre-aumento-de-preo-em-algumas-regies-do-mundo
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/QmZD86RomJAm3vixsUS6OzoFHMU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-14T103027.518.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ahAn8AnXWvi9fD6TqAER65evoec=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T103011.769.png
+tags:
+  - PS5
+  - aumento de preço
+  - Sony
+  - PlayStation 5
+  - mercado internacional
+  - PS Plus
+keywords: 'PS5, aumento de preço, Sony, PlayStation 5, mercado internacional, PS Plus'
+author: Luana Souza
+data: '2025-04-14T14:12:43.481Z'
+resumo: 'Até o momento, Brasil não foi afetado pelos novos valores'
 ---
 
 Após um aumento de 7% nas vendas do PlayStation 5 nos Estados Unidos, a Sony anunciou recentemente um reajuste no preço do console em diversas partes do mundo. Os novos preços entraram em vigor no Reino Unido e na Europa, onde a versão digital do PS5 que antes era comercializada por £390 e €450, agora custa £430 e €500, respectivamente. Este aumento representa uma elevação de mais de 40 libras/euros.

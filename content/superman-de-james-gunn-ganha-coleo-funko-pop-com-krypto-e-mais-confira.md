@@ -1,14 +1,31 @@
 ---
-title: "Nova Coleção Funko Pop do Superman de James Gunn Inclui Krypto e Mais Personagens"
-slug: "superman-de-james-gunn-ganha-coleo-funko-pop-com-krypto-e-mais-confira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/3vcc8njnR-qO7jqsPvu0oGTxQ_4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T111522.223.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/g4Jzs-KUa4K1w8xD-tFpgrg8ZHY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T111510.246.png"
-tags: ["James Gunn", "Superman", "Funko Pop", "Krypto", "DCU", "filmes de super-heróis", "colecionáveis", "especial-Superman"]
-keywords: "James Gunn, Superman, Funko Pop, Krypto, DCU, filmes de super-heróis, colecionáveis"
-author: "Pablo Moura"
-data: "2025-04-18T15:13:12.211Z"
+title: >-
+  Nova Coleção Funko Pop do Superman de James Gunn Inclui Krypto e Mais
+  Personagens
+slug: superman-de-james-gunn-ganha-coleo-funko-pop-com-krypto-e-mais-confira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/3vcc8njnR-qO7jqsPvu0oGTxQ_4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T111522.223.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/g4Jzs-KUa4K1w8xD-tFpgrg8ZHY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T111510.246.png
+tags:
+  - James Gunn
+  - Superman
+  - Funko Pop
+  - Krypto
+  - DCU
+  - filmes de super-heróis
+  - colecionáveis
+  - especial-Superman
+keywords: >-
+  James Gunn, Superman, Funko Pop, Krypto, DCU, filmes de super-heróis,
+  colecionáveis
+author: Pablo Moura
+data: '2025-04-18T15:13:12.211Z'
+resumo: >-
+  O filme 'Superman', dirigido por James Gunn, será lançado nos cinemas em julho
+  de 2025 e já tem coleção Funko Pop anunciada.
 ---
 
 A nova coleção Funko Pop inspirada no filme 'Superman' de James Gunn, que estreia em julho de 2025, foi divulgada hoje. Os fãs poderão adquirir não apenas o boneco do Superman, mas também de Krypto, o Supercão. No papel de Clark Kent/Superman, temos David Corenswet, enquanto o elenco se destaca com Rachel Brosnahan como Lois Lane e Nicholas Hoult como Lex Luthor. Outros nomes notáveis incluem Skyler Gisondo como Jimmy Olsen e Wendell Pierce como Perry White. 

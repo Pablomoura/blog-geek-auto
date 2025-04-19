@@ -1,14 +1,30 @@
 ---
-title: "Demon Slayer | Novo pôster do filme destaca Inosuke"
-slug: "demon-slayer-filme-recebe-pster-com-visual-de-inosuke"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/qj5bWdLLpl8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/LrOgsne818y0nua0nHGPv7ugl_A=/480x360/smart/extras/conteudos/01_VvHCEpn.jpg"
-tags: ["Demon Slayer", "Castelo Infinito", "filme", "Inosuke", "estreia", "mangá", "anime", "Tanjiro", "Nezuko", "Koyoharu Gotouge"]
-keywords: "Demon Slayer, Castelo Infinito, filme, Inosuke, estreia, mangá, anime, Tanjiro, Nezuko, Koyoharu Gotouge"
-author: "Pablo Moura"
-data: "2025-04-18T20:10:56.725Z"
+title: Demon Slayer | Novo pôster do filme destaca Inosuke
+slug: demon-slayer-filme-recebe-pster-com-visual-de-inosuke
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/qj5bWdLLpl8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/LrOgsne818y0nua0nHGPv7ugl_A=/480x360/smart/extras/conteudos/01_VvHCEpn.jpg
+tags:
+  - Demon Slayer
+  - Castelo Infinito
+  - filme
+  - Inosuke
+  - estreia
+  - mangá
+  - anime
+  - Tanjiro
+  - Nezuko
+  - Koyoharu Gotouge
+keywords: >-
+  Demon Slayer, Castelo Infinito, filme, Inosuke, estreia, mangá, anime,
+  Tanjiro, Nezuko, Koyoharu Gotouge
+author: Pablo Moura
+data: '2025-04-18T20:10:56.725Z'
+resumo: >-
+  O primeiro filme da trilogia Castelo Infinito de Demon Slayer chegará em breve
+  aos cinemas brasileiros
 ---
 
 A equipe de produção de 'Demon Slayer' revelou um novo pôster para o aguardado filme 'Demon Slayer Infinity Castle', o primeiro de uma trilogia que promete encerrar a saga. O destaque da vez é o personagem Inosuke, que surge com o visual já familiar aos fãs da série animada.

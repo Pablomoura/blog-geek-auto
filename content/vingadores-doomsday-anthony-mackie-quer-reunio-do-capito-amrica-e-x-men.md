@@ -1,14 +1,31 @@
 ---
-title: "Vingadores: Doomsday | Anthony Mackie Expressa Desejo de Reunião Entre Capitão América e X-Men"
-slug: "vingadores-doomsday-anthony-mackie-quer-reunio-do-capito-amrica-e-x-men"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/gRQry4rpA-STejwYNIUgEuCucjE=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-16T180944.467.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/XlrighIf4aG__XpZm8IuOFrqvu0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-16T180944.467.png"
-tags: ["Anthony Mackie", "Vingadores Doomsday", "X-Men", "MCU", "Ciclope", "Noturno", "Capitão América"]
-keywords: "Anthony Mackie, Vingadores Doomsday, X-Men, MCU, Ciclope, Noturno, Capitão América"
-author: "Ana Luiza"
-data: "2025-04-16T22:10:27.136Z"
+title: >-
+  Vingadores: Doomsday | Anthony Mackie Expressa Desejo de Reunião Entre Capitão
+  América e X-Men
+slug: vingadores-doomsday-anthony-mackie-quer-reunio-do-capito-amrica-e-x-men
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/gRQry4rpA-STejwYNIUgEuCucjE=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-16T180944.467.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/XlrighIf4aG__XpZm8IuOFrqvu0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-16T180944.467.png
+tags:
+  - Anthony Mackie
+  - Vingadores Doomsday
+  - X-Men
+  - MCU
+  - Ciclope
+  - Noturno
+  - Capitão América
+keywords: >-
+  Anthony Mackie, Vingadores Doomsday, X-Men, MCU, Ciclope, Noturno, Capitão
+  América
+author: Ana Luiza
+data: '2025-04-16T22:10:27.136Z'
+resumo: >-
+  Anthony Mackie, intérprete do Capitão América, revela seu entusiasmo em
+  potencialmente compartilhar a tela com os X-Men no próximo filme 'Vingadores:
+  Doomsday'.
 ---
 
 Durante uma entrevista recente para promover seu novo filme 'Sneaks', Anthony Mackie compartilhou sua empolgação sobre quais personagens ele gostaria de ver ao lado do Capitão América em 'Vingadores: Doomsday'. O ator não escondeu seu entusiasmo pelos X-Men, especialmente por Ciclope e Noturno.

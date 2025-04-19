@@ -1,14 +1,28 @@
 ---
-title: "And Just Like That... | Terceira Temporada Estreia em Maio na Max"
-slug: "and-just-like-that-terceira-temporada-da-srie-ganha-data-de-estreia-na-max"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Z5epozsOOsuVm-wNO8mtsJP13wo=/987x0/smart/uploads/conteudo/fotos/and_just_like_that-3-temporada.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Gym7_pX2SPRtBbgmkJ6lg6Hz7cg=/480x360/smart/extras/conteudos/and_just_like_that-3-temporada.png"
-tags: ["And Just Like That", "Sex and the City", "Sarah Jessica Parker", "Max", "estreia", "temporada 3", "nova temporada"]
-keywords: "And Just Like That, Sex and the City, Sarah Jessica Parker, Max, estreia, temporada 3, nova temporada"
-author: "Pablo Moura"
-data: "2025-04-15T20:11:56.069Z"
+title: And Just Like That... | Terceira Temporada Estreia em Maio na Max
+slug: and-just-like-that-terceira-temporada-da-srie-ganha-data-de-estreia-na-max
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Z5epozsOOsuVm-wNO8mtsJP13wo=/987x0/smart/uploads/conteudo/fotos/and_just_like_that-3-temporada.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Gym7_pX2SPRtBbgmkJ6lg6Hz7cg=/480x360/smart/extras/conteudos/and_just_like_that-3-temporada.png
+tags:
+  - And Just Like That
+  - Sex and the City
+  - Sarah Jessica Parker
+  - Max
+  - estreia
+  - temporada 3
+  - nova temporada
+keywords: >-
+  And Just Like That, Sex and the City, Sarah Jessica Parker, Max, estreia,
+  temporada 3, nova temporada
+author: Pablo Moura
+data: '2025-04-15T20:11:56.069Z'
+resumo: >-
+  A continuação de Sex and the City, And Just Like That..., retorna com novos
+  episódios e adições ao elenco.
 ---
 
 A aguardada terceira temporada de And Just Like That..., série que dá continuidade ao icônico universo de Sex and the City, está marcada para estrear em maio na plataforma Max. A série, que conta com Sarah Jessica Parker reprisando seu papel como Carrie, promete novas tramas e emoções.

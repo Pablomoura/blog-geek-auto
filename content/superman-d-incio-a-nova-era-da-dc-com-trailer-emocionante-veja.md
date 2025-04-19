@@ -1,14 +1,31 @@
 ---
-title: "Superman inaugura uma nova era para a DC com um trailer de bastidores que promete grandes emoções"
-slug: "superman-d-incio-a-nova-era-da-dc-com-trailer-emocionante-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/oZRRpeRDbzUxTujd4M_UIc61cZo=/987x0/smart/uploads/conteudo/fotos/superman_FfWaxIT.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hFxyT4xWS2auLVsqseyVF12uLgI=/480x360/smart/extras/conteudos/superman_zLiAgJA.png"
-tags: ["Superman", "DC", "James Gunn", "David Corenswet", "novo filme Superman", "DCU", "trailer de bastidores", "especial-Superman"]
-keywords: "Superman, DC, James Gunn, David Corenswet, novo filme Superman, DCU, trailer de bastidores"
-author: "Pablo Moura"
-data: "2025-04-18T16:13:04.236Z"
+title: >-
+  Superman inaugura uma nova era para a DC com um trailer de bastidores que
+  promete grandes emoções
+slug: superman-d-incio-a-nova-era-da-dc-com-trailer-emocionante-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/oZRRpeRDbzUxTujd4M_UIc61cZo=/987x0/smart/uploads/conteudo/fotos/superman_FfWaxIT.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hFxyT4xWS2auLVsqseyVF12uLgI=/480x360/smart/extras/conteudos/superman_zLiAgJA.png
+tags:
+  - Superman
+  - DC
+  - James Gunn
+  - David Corenswet
+  - novo filme Superman
+  - DCU
+  - trailer de bastidores
+  - especial-Superman
+keywords: >-
+  Superman, DC, James Gunn, David Corenswet, novo filme Superman, DCU, trailer
+  de bastidores
+author: Pablo Moura
+data: '2025-04-18T16:13:04.236Z'
+resumo: >-
+  James Gunn, acompanhado de David Corenswet e outros membros do elenco, oferece
+  um vislumbre dos bastidores do novo filme do Superman.
 ---
 
 O emblemático herói Superman é apresentado como o precursor de uma nova era para a DC em um empolgante vídeo de bastidores, divulgado em celebração ao Superman Day neste 18 de dezembro.

@@ -1,14 +1,31 @@
 ---
-title: "Novo trailer de 'Quarteto Fantástico: Primeiros Passos' apresenta conexão com 'WandaVision'"
-slug: "quarteto-fantstico-tem-referncia-a-wandavision-em-novo-trailer-entenda"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/SB3TaOnmPFY9pcBDz9CtOSiCHxw=/987x0/smart/uploads/conteudo/fotos/quarteto-fantastico-o-coisa_tmYVXnY.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/VdZ1Fr0gIsq3l43dMJ4g79r6n78=/480x360/smart/extras/conteudos/wandavision_jqiQsuT.jpg"
-tags: ["Quarteto Fantástico", "WandaVision", "MCU", "Marvel", "cinema", "Pedro Pascal", "Vanessa Kirby", "Matt Shakman"]
-keywords: "Quarteto Fantástico, WandaVision, MCU, Marvel, cinema, Pedro Pascal, Vanessa Kirby, Matt Shakman"
-author: "Luana Souza"
-data: "2025-04-17T20:11:52.226Z"
+title: >-
+  Novo trailer de 'Quarteto Fantástico: Primeiros Passos' apresenta conexão com
+  'WandaVision'
+slug: quarteto-fantstico-tem-referncia-a-wandavision-em-novo-trailer-entenda
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/SB3TaOnmPFY9pcBDz9CtOSiCHxw=/987x0/smart/uploads/conteudo/fotos/quarteto-fantastico-o-coisa_tmYVXnY.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/VdZ1Fr0gIsq3l43dMJ4g79r6n78=/480x360/smart/extras/conteudos/wandavision_jqiQsuT.jpg
+tags:
+  - Quarteto Fantástico
+  - WandaVision
+  - MCU
+  - Marvel
+  - cinema
+  - Pedro Pascal
+  - Vanessa Kirby
+  - Matt Shakman
+keywords: >-
+  Quarteto Fantástico, WandaVision, MCU, Marvel, cinema, Pedro Pascal, Vanessa
+  Kirby, Matt Shakman
+author: Luana Souza
+data: '2025-04-17T20:11:52.226Z'
+resumo: >-
+  O filme, que marca o início da Fase 6 do MCU, chega aos cinemas em julho de
+  2025.
 ---
 
 O aguardado filme 'Quarteto Fantástico: Primeiros Passos' lançou um novo trailer nesta quinta-feira, revelando uma curiosidade que agitou os fãs: uma aparente referência à série 'WandaVision'. Um letreiro na Nova York cinematográfica anuncia uma loja chamada WestView, nome idêntico ao da cidade fictícia da série protagonizada por Wanda e Visão. O detalhe não passou despercebido, especialmente porque Matt Shakman, diretor de 'WandaVision', também está no comando deste novo filme do Quarteto Fantástico.

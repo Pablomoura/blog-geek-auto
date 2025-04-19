@@ -1,14 +1,30 @@
 ---
-title: "Quarteto Fantástico: Primeiros Passos revela novo pôster com Pedro Pascal"
-slug: "quarteto-fantstico-primeiros-passos-ganha-pster-com-reed-richards-em-destaque"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FHUikCgHa4iz9X5x6DIG-sPngd4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-17T122622.406.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/EeuIEte2SV7tRek5g9ktw1CSBK4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T122601.288.png"
-tags: ["Quarteto Fantástico", "MCU", "Pedro Pascal", "Reed Richards", "Marvel", "estreia", "cinema", "super-heróis", "Vingadores"]
-keywords: "Quarteto Fantástico, MCU, Pedro Pascal, Reed Richards, Marvel, estreia, cinema, super-heróis, Vingadores"
-author: "Ana Luiza"
-data: "2025-04-17T16:14:39.845Z"
+title: 'Quarteto Fantástico: Primeiros Passos revela novo pôster com Pedro Pascal'
+slug: quarteto-fantstico-primeiros-passos-ganha-pster-com-reed-richards-em-destaque
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FHUikCgHa4iz9X5x6DIG-sPngd4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-17T122622.406.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/EeuIEte2SV7tRek5g9ktw1CSBK4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T122601.288.png
+tags:
+  - Quarteto Fantástico
+  - MCU
+  - Pedro Pascal
+  - Reed Richards
+  - Marvel
+  - estreia
+  - cinema
+  - super-heróis
+  - Vingadores
+keywords: >-
+  Quarteto Fantástico, MCU, Pedro Pascal, Reed Richards, Marvel, estreia,
+  cinema, super-heróis, Vingadores
+author: Ana Luiza
+data: '2025-04-17T16:14:39.845Z'
+resumo: >-
+  O próximo filme do MCU, Quarteto Fantástico: Primeiros Passos, estreará nos
+  cinemas em julho de 2025, trazendo um elenco estelar.
 ---
 
 O universo cinematográfico da Marvel está prestes a ser expandido com o lançamento de 'Quarteto Fantástico: Primeiros Passos', que acaba de divulgar um empolgante pôster focado em Reed Richards, interpretado por Pedro Pascal. O filme, dirigido por Matt Shakman, conhecido por seu trabalho em 'WandaVision', promete trazer uma nova visão para o primeiro grande grupo de super-heróis da Marvel.

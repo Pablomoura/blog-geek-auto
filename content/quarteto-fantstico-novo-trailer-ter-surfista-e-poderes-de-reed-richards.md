@@ -1,14 +1,27 @@
 ---
-title: "Quarteto Fantástico | Novo trailer apresentará Surfista Prateada e poderes de Reed Richards"
-slug: "quarteto-fantstico-novo-trailer-ter-surfista-e-poderes-de-reed-richards"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/gSkUx0acEg9fXpo55lZDtJuckBk=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T195403.222.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/zOVVyfn9qhupWwWKNFEzSABSF8E=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T195403.222.png"
-tags: ["Quarteto Fantástico", "trailer", "Marvel", "Reed Richards", "Surfista Prateada", "Sue Storm gravidez"]
-keywords: "Quarteto Fantástico, trailer, Marvel, Reed Richards, Surfista Prateada, Sue Storm gravidez"
-author: "Pablo Moura"
-data: "2025-04-14T23:09:46.508Z"
+title: >-
+  Quarteto Fantástico | Novo trailer apresentará Surfista Prateada e poderes de
+  Reed Richards
+slug: quarteto-fantstico-novo-trailer-ter-surfista-e-poderes-de-reed-richards
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/gSkUx0acEg9fXpo55lZDtJuckBk=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T195403.222.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/zOVVyfn9qhupWwWKNFEzSABSF8E=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T195403.222.png
+tags:
+  - Quarteto Fantástico
+  - trailer
+  - Marvel
+  - Reed Richards
+  - Surfista Prateada
+  - Sue Storm gravidez
+keywords: >-
+  Quarteto Fantástico, trailer, Marvel, Reed Richards, Surfista Prateada, Sue
+  Storm gravidez
+author: Pablo Moura
+data: '2025-04-14T23:09:46.508Z'
+resumo: Insider revela que próximo trailer confirmará a gravidez de Sue Storm
 ---
 
 De acordo com o insider Daniel Richtman, o filme 'Quarteto Fantástico: Primeiros Passos' está prestes a lançar um novo trailer, que será exibido junto com 'Thunderbolts' em 1º de maio. O trailer, com duração de aproximadamente 2 minutos e 30 segundos, promete mostrar Reed Richards utilizando seus poderes, a presença da Surfista Prateada e a confirmação da gravidez de Sue Storm. Johnny Storm comenta que sua irmã será uma excelente mãe e brinca com Reed: "Você não está preparado para o que está por vir".

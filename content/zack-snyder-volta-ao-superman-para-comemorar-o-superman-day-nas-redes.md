@@ -1,14 +1,28 @@
 ---
-title: "Zack Snyder Celebra o Superman Day com Homenagem a Henry Cavill"
-slug: "zack-snyder-volta-ao-superman-para-comemorar-o-superman-day-nas-redes"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/qBoIVh2xanbMosJtMdW1auUAI40=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-18T194508.045.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/a3fC6768fYtUiQUASVMqf41Rxyk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-18T194508.045.png"
-tags: ["Zack Snyder", "Superman Day", "Henry Cavill", "James Gunn", "Superman", "DCU", "filmes de super-heróis"]
-keywords: "Zack Snyder, Superman Day, Henry Cavill, James Gunn, Superman, DCU, filmes de super-heróis"
-author: "Luana Souza"
-data: "2025-04-18T23:09:38.362Z"
+title: Zack Snyder Celebra o Superman Day com Homenagem a Henry Cavill
+slug: zack-snyder-volta-ao-superman-para-comemorar-o-superman-day-nas-redes
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/qBoIVh2xanbMosJtMdW1auUAI40=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-18T194508.045.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/a3fC6768fYtUiQUASVMqf41Rxyk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-18T194508.045.png
+tags:
+  - Zack Snyder
+  - Superman Day
+  - Henry Cavill
+  - James Gunn
+  - Superman
+  - DCU
+  - filmes de super-heróis
+keywords: >-
+  Zack Snyder, Superman Day, Henry Cavill, James Gunn, Superman, DCU, filmes de
+  super-heróis
+author: Luana Souza
+data: '2025-04-18T23:09:38.362Z'
+resumo: >-
+  Zack Snyder marca o Superman Day com uma postagem nostálgica, enquanto
+  novidades sobre o próximo filme do Superman são reveladas.
 ---
 
 No recente Superman Day, Zack Snyder, conhecido por dirigir 'O Homem de Aço' e 'Batman v Superman: A Origem da Justiça', fez uma homenagem especial ao herói no X (anteriormente Twitter). Ele compartilhou uma imagem promocional de Henry Cavill como Superman, acompanhada de uma citação marcante de Jor-El no filme de 2013: 'Você dará ao povo da Terra um ideal pelo qual lutar. Eles correrão atrás de você. Eles tropeçarão, cairão. Mas, com o tempo, eles se juntarão a você no sol, Kal. Com o tempo, você os ajudará a realizar maravilhas.'

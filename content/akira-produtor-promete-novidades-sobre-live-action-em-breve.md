@@ -1,14 +1,27 @@
 ---
-title: "Akira | Produtor promete novidades sobre live-action 'em breve'"
-slug: "akira-produtor-promete-novidades-sobre-live-action-em-breve"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/oXFVC-ve56VQzwofKLedQO2IU2w=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T183114.145.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/moaxDNyYJj4IaGwumVVZOnfPbcI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T183114.145.png"
-tags: ["Akira", "live-action", "Andrew Lazar", "Taika Waititi", "Neo-Tóquio", "anime", "cyberpunk", "Netflix"]
-keywords: "Akira, live-action, Andrew Lazar, Taika Waititi, Neo-Tóquio, anime, cyberpunk, Netflix"
-author: "Ana Luiza"
-data: "2025-04-14T22:09:41.821Z"
+title: Akira | Produtor promete novidades sobre live-action 'em breve'
+slug: akira-produtor-promete-novidades-sobre-live-action-em-breve
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/oXFVC-ve56VQzwofKLedQO2IU2w=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T183114.145.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/moaxDNyYJj4IaGwumVVZOnfPbcI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T183114.145.png
+tags:
+  - Akira
+  - live-action
+  - Andrew Lazar
+  - Taika Waititi
+  - Neo-Tóquio
+  - anime
+  - cyberpunk
+  - Netflix
+keywords: >-
+  Akira, live-action, Andrew Lazar, Taika Waititi, Neo-Tóquio, anime, cyberpunk,
+  Netflix
+author: Ana Luiza
+data: '2025-04-14T22:09:41.821Z'
+resumo: O live-action de Akira continua sendo uma grande incerteza.
 ---
 
 Em uma recente entrevista concedida à Moovy TV, Andrew Lazar, produtor da adaptação live-action de Akira, falou sobre o status do projeto, que tem enfrentado diversos desafios ao longo dos anos. Lazar admitiu que, por ora, não há atualizações concretas a compartilhar, mas expressou sua expectativa de trazer novidades nos próximos meses.

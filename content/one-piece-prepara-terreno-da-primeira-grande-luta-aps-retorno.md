@@ -1,14 +1,23 @@
 ---
-title: "One Piece se prepara para a primeira grande batalha após retorno"
-slug: "one-piece-prepara-terreno-da-primeira-grande-luta-aps-retorno"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/uKCzx_yVGoE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/OXl2Oz3DsRRZECZG37QL4QtN34Q=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T193102.643.png"
-tags: ["One Piece", "Luffy", "Marinha", "Kizaru", "Vegapunk", "Egghead", "anime"]
-keywords: "One Piece, Luffy, Marinha, Kizaru, Vegapunk, Egghead, anime"
-author: "Luana Souza"
-data: "2025-04-11T22:54:24.142Z"
+title: One Piece se prepara para a primeira grande batalha após retorno
+slug: one-piece-prepara-terreno-da-primeira-grande-luta-aps-retorno
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/uKCzx_yVGoE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/OXl2Oz3DsRRZECZG37QL4QtN34Q=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T193102.643.png
+tags:
+  - One Piece
+  - Luffy
+  - Marinha
+  - Kizaru
+  - Vegapunk
+  - Egghead
+  - anime
+keywords: 'One Piece, Luffy, Marinha, Kizaru, Vegapunk, Egghead, anime'
+author: Luana Souza
+data: '2025-04-11T22:54:24.142Z'
+resumo: Luffy e seu grupo enfrentarão a Marinha em breve no arco de Egghead
 ---
 
 Após um hiato de seis meses, o anime One Piece retomou suas atividades e agora adentra a segunda fase do arco de Egghead, cenário onde 100 navios da Marinha, liderados pelo Almirante Kizaru e outros nove almirantes, cercam a ilha. Kizaru, que teve um desempenho destacado no último confronto com o Bando do Chapéu de Palha, promete ser uma figura central neste arco. Com o bando tendo fortalecido seus poderes nos últimos dois anos, espera-se uma batalha ainda mais intensa.

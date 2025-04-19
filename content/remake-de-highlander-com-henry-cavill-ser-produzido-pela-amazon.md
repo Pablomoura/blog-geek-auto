@@ -1,14 +1,29 @@
 ---
-title: "Amazon MGM se Aproxima da Produção de 'Highlander' com Henry Cavill"
-slug: "remake-de-highlander-com-henry-cavill-ser-produzido-pela-amazon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/gU8pvSsrUaiqp5UXGmik5RUfnrw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-17T183440.409.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/8nVqTxsoF5lyEvJ-JBppzSqcomg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-17T183440.409.png"
-tags: ["Highlander", "Henry Cavill", "Chad Stahelski", "Amazon MGM", "reboot", "cinema", "filme de ação"]
-keywords: "Highlander, Henry Cavill, Chad Stahelski, Amazon MGM, reboot, cinema, filme de ação"
-author: "Pablo Moura"
-data: "2025-04-17T22:09:36.183Z"
+title: Amazon MGM se Aproxima da Produção de 'Highlander' com Henry Cavill
+slug: remake-de-highlander-com-henry-cavill-ser-produzido-pela-amazon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/gU8pvSsrUaiqp5UXGmik5RUfnrw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-17T183440.409.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/8nVqTxsoF5lyEvJ-JBppzSqcomg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-17T183440.409.png
+tags:
+  - Highlander
+  - Henry Cavill
+  - Chad Stahelski
+  - Amazon MGM
+  - reboot
+  - cinema
+  - filme de ação
+keywords: >-
+  Highlander, Henry Cavill, Chad Stahelski, Amazon MGM, reboot, cinema, filme de
+  ação
+author: Pablo Moura
+data: '2025-04-17T22:09:36.183Z'
+resumo: >-
+  Sob a direção de Chad Stahelski, o remake de 'Highlander' estrelado por Henry
+  Cavill está próximo de ser adquirido pela Amazon MGM, prometendo uma nova
+  visão para a clássica saga.
 ---
 
 De acordo com informações divulgadas pelo Deadline, o Amazon MGM Studios United Artists está em estágio final de negociações para adquirir os direitos do reboot de 'Highlander', que contará com a estrela Henry Cavill no papel principal e direção de Chad Stahelski, conhecido pela franquia 'John Wick'.

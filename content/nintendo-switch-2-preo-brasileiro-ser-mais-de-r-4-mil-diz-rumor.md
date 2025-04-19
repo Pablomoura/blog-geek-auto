@@ -1,14 +1,26 @@
 ---
-title: "Nintendo Switch 2 pode chegar ao Brasil por mais de R$ 4 mil"
-slug: "nintendo-switch-2-preo-brasileiro-ser-mais-de-r-4-mil-diz-rumor"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ny8iGHFpgbY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/bHhdMMefe4WFVNlIxcAnBNrZzBY=/480x360/smart/extras/conteudos/01_mfC9P6W.jpg"
-tags: ["Nintendo Switch 2", "preço Nintendo Switch 2", "lançamento Nintendo Switch 2", "jogos Nintendo Switch 2", "Nintendo Switch 2 Brasil"]
-keywords: "Nintendo Switch 2, preço Nintendo Switch 2, lançamento Nintendo Switch 2, jogos Nintendo Switch 2, Nintendo Switch 2 Brasil"
-author: "Luana Souza"
-data: "2025-04-15T20:14:02.038Z"
+title: Nintendo Switch 2 pode chegar ao Brasil por mais de R$ 4 mil
+slug: nintendo-switch-2-preo-brasileiro-ser-mais-de-r-4-mil-diz-rumor
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ny8iGHFpgbY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/bHhdMMefe4WFVNlIxcAnBNrZzBY=/480x360/smart/extras/conteudos/01_mfC9P6W.jpg
+tags:
+  - Nintendo Switch 2
+  - preço Nintendo Switch 2
+  - lançamento Nintendo Switch 2
+  - jogos Nintendo Switch 2
+  - Nintendo Switch 2 Brasil
+keywords: >-
+  Nintendo Switch 2, preço Nintendo Switch 2, lançamento Nintendo Switch 2,
+  jogos Nintendo Switch 2, Nintendo Switch 2 Brasil
+author: Luana Souza
+data: '2025-04-15T20:14:02.038Z'
+resumo: >-
+  Segundo rumores, o novo console da Nintendo, o Switch 2, poderá ser vendido no
+  Brasil por R$ 4.499, incluindo o jogo Mario Kart World. A pré-venda está
+  prevista para maio.
 ---
 
 O valor do Nintendo Switch 2 no mercado brasileiro pode já ter sido definido, de acordo com informações vazadas pelo podcaster Daniel Reen. O preço sugerido para o lançamento é de R$ 4.499, e incluirá o jogo Mario Kart World como parte do pacote. Ainda não há uma data específica, mas a pré-venda está programada para iniciar em maio.

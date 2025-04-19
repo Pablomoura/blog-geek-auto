@@ -1,14 +1,28 @@
 ---
-title: "Kendrick Lamar e SZA estreiam videoclipe de 'luther' do álbum GNX"
-slug: "kendrick-lamar-e-sza-lanam-clipe-romntico-para-luther-assista"
-categoria: "MÚSICA"
-midia: "https://www.youtube.com/embed/sNY_2TEmzho?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/1KFiy4qw2U-rI9ahg8c0HVXKsPM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T134310.070.png"
-tags: ["Kendrick Lamar", "SZA", "videoclipe luther", "álbum GNX", "Billboard Hot 100", "Grammy 2025", "Super Bowl", "turnê Grand National"]
-keywords: "Kendrick Lamar, SZA, videoclipe luther, álbum GNX, Billboard Hot 100, Grammy 2025, Super Bowl, turnê Grand National"
-author: "Ana Luiza"
-data: "2025-04-11T17:10:50.305Z"
+title: Kendrick Lamar e SZA estreiam videoclipe de 'luther' do álbum GNX
+slug: kendrick-lamar-e-sza-lanam-clipe-romntico-para-luther-assista
+categoria: MÚSICA
+midia: 'https://www.youtube.com/embed/sNY_2TEmzho?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/1KFiy4qw2U-rI9ahg8c0HVXKsPM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T134310.070.png
+tags:
+  - Kendrick Lamar
+  - SZA
+  - videoclipe luther
+  - álbum GNX
+  - Billboard Hot 100
+  - Grammy 2025
+  - Super Bowl
+  - turnê Grand National
+keywords: >-
+  Kendrick Lamar, SZA, videoclipe luther, álbum GNX, Billboard Hot 100, Grammy
+  2025, Super Bowl, turnê Grand National
+author: Ana Luiza
+data: '2025-04-11T17:10:50.305Z'
+resumo: >-
+  A canção integra o álbum GNX, lançado em 2024, que alcançou o terceiro lugar
+  na Billboard Hot 100.
 ---
 
 O renomado rapper Kendrick Lamar uniu forças com a talentosa cantora SZA para lançar um encantador videoclipe para a música 'luther'. O vídeo já está disponível para visualização.

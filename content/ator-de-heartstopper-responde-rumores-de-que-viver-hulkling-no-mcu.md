@@ -1,14 +1,28 @@
 ---
-title: "Kit Connor nega rumores sobre interpretar Hulkling no MCU"
-slug: "ator-de-heartstopper-responde-rumores-de-que-viver-hulkling-no-mcu"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/4tpn0EFLi3zihBIgITnVT32ElYs=/987x0/smart/uploads/conteudo/fotos/heartstoppervariante.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/EWfErtAA376S9q-qX6NohKFqx3Q=/480x360/smart/extras/conteudos/heartstoppervariante.jpg"
-tags: ["Kit Connor", "MCU", "Hulkling", "HeartStopper", "Marvel", "Wiccano", "Agatha: Coven of Chaos"]
-keywords: "Kit Connor, MCU, Hulkling, HeartStopper, Marvel, Wiccano, Agatha: Coven of Chaos"
-author: "Pablo Moura"
-data: "2025-04-13T22:09:57.306Z"
+title: Kit Connor nega rumores sobre interpretar Hulkling no MCU
+slug: ator-de-heartstopper-responde-rumores-de-que-viver-hulkling-no-mcu
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/4tpn0EFLi3zihBIgITnVT32ElYs=/987x0/smart/uploads/conteudo/fotos/heartstoppervariante.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/EWfErtAA376S9q-qX6NohKFqx3Q=/480x360/smart/extras/conteudos/heartstoppervariante.jpg
+tags:
+  - Kit Connor
+  - MCU
+  - Hulkling
+  - HeartStopper
+  - Marvel
+  - Wiccano
+  - 'Agatha: Coven of Chaos'
+keywords: >-
+  Kit Connor, MCU, Hulkling, HeartStopper, Marvel, Wiccano, Agatha: Coven of
+  Chaos
+author: Pablo Moura
+data: '2025-04-13T22:09:57.306Z'
+resumo: >-
+  Kit Connor, ator de HeartStopper, responde a especulações sobre possível papel
+  como Hulkling, interesse romântico de Wiccano no MCU.
 ---
 
 Kit Connor, conhecido por sua atuação em HeartStopper, abordou os rumores que o apontam como o possível intérprete de Hulkling no Universo Cinematográfico Marvel (MCU). Desde que Joe Locke, seu colega na série da Netflix, foi anunciado como Wiccano em 'Agatha: Coven of Chaos', os fãs especulam uma possível escalação de Connor devido ao romance entre Hulkling e Wiccano nos quadrinhos.

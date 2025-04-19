@@ -1,14 +1,22 @@
 ---
-title: "Chicago Fire | Eamonn Walker retorna na 13ª temporada e primeira imagem é divulgada"
-slug: "chicago-fire-retorno-de-eamonn-walker-na-13-temporada-ganha-foto"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/P4NGMUeGmrw?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Ysv2YpML6lPICq1DpgxcM66HKMs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_165215.png"
-tags: ["Chicago Fire", "Eamonn Walker", "retorno", "13ª temporada"]
-keywords: "Chicago Fire, Eamonn Walker, retorno, 13ª temporada"
-author: "Luana Souza"
-data: "2025-04-14T18:13:39.472Z"
+title: >-
+  Chicago Fire | Eamonn Walker retorna na 13ª temporada e primeira imagem é
+  divulgada
+slug: chicago-fire-retorno-de-eamonn-walker-na-13-temporada-ganha-foto
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/P4NGMUeGmrw?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Ysv2YpML6lPICq1DpgxcM66HKMs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-09_165215.png
+tags:
+  - Chicago Fire
+  - Eamonn Walker
+  - retorno
+  - 13ª temporada
+keywords: 'Chicago Fire, Eamonn Walker, retorno, 13ª temporada'
+author: Luana Souza
+data: '2025-04-14T18:13:39.472Z'
+resumo: Personagem Wallace Boden retorna em episódio que será exibido em abril
 ---
 
 Eamonn Walker está de volta em 'Chicago Fire' como Wallace Boden, o ex-chefe do departamento de bombeiros 51. A série divulgou a primeira imagem do personagem após seu retorno, onde ele aparece ao lado de Dom Pascal, Stella Kidd e Christopher Hermann.

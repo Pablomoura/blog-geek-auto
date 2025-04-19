@@ -1,14 +1,31 @@
 ---
-title: "Extermínio: A Evolução | Novo trailer revelado para a continuação da icônica saga de zumbis"
-slug: "extermnio-a-evoluo-assista-ao-trailer-do-filme-de-zumbis"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/IYGG55qwQZQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/isJr7M1XKRb4Kfm7ekYo7rR8wl8=/480x360/smart/extras/conteudos/28-years-later-exterminio-evolucao-trailer.jpg"
-tags: ["Extermínio: A Evolução", "filme de zumbis", "Danny Boyle", "Alex Garland", "Aaron Taylor-Johnson", "Jodie Comer", "Ralph Fiennes", "Sony Pictures", "cinema brasileiro"]
-keywords: "Extermínio: A Evolução, filme de zumbis, Danny Boyle, Alex Garland, Aaron Taylor-Johnson, Jodie Comer, Ralph Fiennes, Sony Pictures, cinema brasileiro"
-author: "Ana Luiza"
-data: "2025-04-17T10:11:30.298Z"
+title: >-
+  Extermínio: A Evolução | Novo trailer revelado para a continuação da icônica
+  saga de zumbis
+slug: extermnio-a-evoluo-assista-ao-trailer-do-filme-de-zumbis
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/IYGG55qwQZQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/isJr7M1XKRb4Kfm7ekYo7rR8wl8=/480x360/smart/extras/conteudos/28-years-later-exterminio-evolucao-trailer.jpg
+tags:
+  - 'Extermínio: A Evolução'
+  - filme de zumbis
+  - Danny Boyle
+  - Alex Garland
+  - Aaron Taylor-Johnson
+  - Jodie Comer
+  - Ralph Fiennes
+  - Sony Pictures
+  - cinema brasileiro
+keywords: >-
+  Extermínio: A Evolução, filme de zumbis, Danny Boyle, Alex Garland, Aaron
+  Taylor-Johnson, Jodie Comer, Ralph Fiennes, Sony Pictures, cinema brasileiro
+author: Ana Luiza
+data: '2025-04-17T10:11:30.298Z'
+resumo: >-
+  A continuação do aclamado filme de zumbis, Extermínio, estreia em junho de
+  2025 nos cinemas brasileiros.
 ---
 
 A Sony Pictures divulgou um emocionante novo trailer de 'Extermínio: A Evolução' (28 Years Later), marcando o retorno da popular série de zumbis iniciada por Danny Boyle e o roteirista Alex Garland. O filme estabelece um salto temporal para o vigésimo oitavo ano após o apocalipse zumbi, introduzindo um cenário desolador e pós-apocalíptico.

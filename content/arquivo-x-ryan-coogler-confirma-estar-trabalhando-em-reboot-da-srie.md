@@ -1,14 +1,29 @@
 ---
-title: "Arquivo X | Ryan Coogler anuncia reboot da icônica série"
-slug: "arquivo-x-ryan-coogler-confirma-estar-trabalhando-em-reboot-da-srie"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/Cy8cj17h3Xs?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/-GikVIW3lGj4JB_oV3zSgo08lfI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-18T183409.879.png"
-tags: ["Arquivo X", "Ryan Coogler", "reboot", "série", "Gillian Anderson", "ficção científica", "fenômenos paranormais", "FBI", "Disney+"]
-keywords: "Arquivo X, Ryan Coogler, reboot, série, Gillian Anderson, ficção científica, fenômenos paranormais, FBI, Disney+"
-author: "Ana Luiza"
-data: "2025-04-18T22:09:23.544Z"
+title: Arquivo X | Ryan Coogler anuncia reboot da icônica série
+slug: arquivo-x-ryan-coogler-confirma-estar-trabalhando-em-reboot-da-srie
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/Cy8cj17h3Xs?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/-GikVIW3lGj4JB_oV3zSgo08lfI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-18T183409.879.png
+tags:
+  - Arquivo X
+  - Ryan Coogler
+  - reboot
+  - série
+  - Gillian Anderson
+  - ficção científica
+  - fenômenos paranormais
+  - FBI
+  - Disney+
+keywords: >-
+  Arquivo X, Ryan Coogler, reboot, série, Gillian Anderson, ficção científica,
+  fenômenos paranormais, FBI, Disney+
+author: Ana Luiza
+data: '2025-04-18T22:09:23.544Z'
+resumo: >-
+  Diretor de 'Pantera Negra' e 'Pecadores' prepara-se para reiniciar a clássica
+  série de ficção científica.
 ---
 
 Em uma revelação empolgante no podcast 'Last Podcast On The Left', Ryan Coogler, conhecido por seu trabalho em 'Pantera Negra', confirmou que seu próximo grande projeto é o reboot da aclamada série 'Arquivo X'. Coogler expressou grande entusiasmo pelo projeto, descrevendo-o como algo que ele tem aguardado ansiosamente para abordar e prometeu um retorno assustador ao universo da série.

@@ -1,14 +1,30 @@
 ---
-title: "Superman: Revelada Nova Imagem de Jimmy Olsen no Próximo Filme"
-slug: "superman-james-gunn-divulga-foto-de-jimmy-olsen-no-filme"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/mdM--XsuD_8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/JDb8uwDsZD4Dl-FfQbmnmQt8q1g=/480x360/smart/extras/conteudos/01_g9Ri74z.jpg"
-tags: ["Superman", "James Gunn", "Jimmy Olsen", "Skyler Gisondo", "DC", "filme de Superman", "Clark Kent", "DCU", "novo filme de Superman", "especial-Superman"]
-keywords: "Superman, James Gunn, Jimmy Olsen, Skyler Gisondo, DC, filme de Superman, Clark Kent, DCU, novo filme de Superman"
-author: "Luana Souza"
-data: "2025-04-15T21:10:39.603Z"
+title: 'Superman: Revelada Nova Imagem de Jimmy Olsen no Próximo Filme'
+slug: superman-james-gunn-divulga-foto-de-jimmy-olsen-no-filme
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/mdM--XsuD_8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/JDb8uwDsZD4Dl-FfQbmnmQt8q1g=/480x360/smart/extras/conteudos/01_g9Ri74z.jpg
+tags:
+  - Superman
+  - James Gunn
+  - Jimmy Olsen
+  - Skyler Gisondo
+  - DC
+  - filme de Superman
+  - Clark Kent
+  - DCU
+  - novo filme de Superman
+  - especial-Superman
+keywords: >-
+  Superman, James Gunn, Jimmy Olsen, Skyler Gisondo, DC, filme de Superman,
+  Clark Kent, DCU, novo filme de Superman
+author: Luana Souza
+data: '2025-04-15T21:10:39.603Z'
+resumo: >-
+  James Gunn celebra o aniversário de Jimmy Olsen com uma foto dos bastidores,
+  onde Skyler Gisondo aparece caracterizado como o icônico personagem.
 ---
 
 James Gunn, que recentemente assumiu como uma das figuras centrais da DC, compartilhou uma imagem exclusiva dos bastidores do novo filme de Superman em sua conta no Threads. A foto destaca Skyler Gisondo no papel de Jimmy Olsen, o renomado amigo de Clark Kent e Superman. A divulgação da imagem coincide com a celebração do aniversário de Jimmy Olsen, personagem que fez sua primeira aparição nos quadrinhos em 15 de abril de 1940.

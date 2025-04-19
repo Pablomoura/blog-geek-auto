@@ -1,14 +1,27 @@
 ---
-title: "Vingador Tóxico | Peter Dinklage aparece como o herói em nova imagem do remake"
-slug: "vingador-txico-remake-ganha-nova-foto-de-peter-dinklage-com-o-heri-confira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/2q8O40JSlu8LTAyZuH5n6bIUSP8=/987x0/smart/uploads/conteudo/fotos/vingador-toxico.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/f-oNq7IbO5sXIhLyDAHiX-77RpU=/480x360/smart/extras/conteudos/vingador-toxico.png"
-tags: ["Peter Dinklage", "Vingador Tóxico", "remake", "filme de super-herói", "Macon Blair", "Troma", "Kevin Bacon", "estreia em agosto"]
-keywords: "Peter Dinklage, Vingador Tóxico, remake, filme de super-herói, Macon Blair, Troma, Kevin Bacon, estreia em agosto"
-author: "Ana Luiza"
-data: "2025-04-11T18:14:22.579Z"
+title: Vingador Tóxico | Peter Dinklage aparece como o herói em nova imagem do remake
+slug: vingador-txico-remake-ganha-nova-foto-de-peter-dinklage-com-o-heri-confira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/2q8O40JSlu8LTAyZuH5n6bIUSP8=/987x0/smart/uploads/conteudo/fotos/vingador-toxico.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/f-oNq7IbO5sXIhLyDAHiX-77RpU=/480x360/smart/extras/conteudos/vingador-toxico.png
+tags:
+  - Peter Dinklage
+  - Vingador Tóxico
+  - remake
+  - filme de super-herói
+  - Macon Blair
+  - Troma
+  - Kevin Bacon
+  - estreia em agosto
+keywords: >-
+  Peter Dinklage, Vingador Tóxico, remake, filme de super-herói, Macon Blair,
+  Troma, Kevin Bacon, estreia em agosto
+author: Ana Luiza
+data: '2025-04-11T18:14:22.579Z'
+resumo: O filme será lançado em agosto nos cinemas dos Estados Unidos
 ---
 
 O aguardado remake de 'O Vingador Tóxico' revelou uma nova imagem em que Peter Dinklage aparece caracterizado como o protagonista. A foto foi divulgada pelo site Collider.

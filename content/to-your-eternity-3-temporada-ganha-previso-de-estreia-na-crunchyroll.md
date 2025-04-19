@@ -1,14 +1,26 @@
 ---
-title: "To Your Eternity | 3ª temporada ganha previsão de estreia na Crunchyroll"
-slug: "to-your-eternity-3-temporada-ganha-previso-de-estreia-na-crunchyroll"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/4mlJqLYKpt8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/fqkslBs65Qsg5sV8vo3t15zB4ZU=/480x360/smart/extras/conteudos/Design_sem_nome_3_JAtxH4x.jpg"
-tags: ["To Your Eternity", "Crunchyroll", "anime", "terceira temporada", "streaming", "Yoshitoki Oima", "imortalidade", "Nokker"]
-keywords: "To Your Eternity, Crunchyroll, anime, terceira temporada, streaming, Yoshitoki Oima, imortalidade, Nokker"
-author: "Ana Luiza"
-data: "2025-04-11T14:10:04.663Z"
+title: To Your Eternity | 3ª temporada ganha previsão de estreia na Crunchyroll
+slug: to-your-eternity-3-temporada-ganha-previso-de-estreia-na-crunchyroll
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/4mlJqLYKpt8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/fqkslBs65Qsg5sV8vo3t15zB4ZU=/480x360/smart/extras/conteudos/Design_sem_nome_3_JAtxH4x.jpg
+tags:
+  - To Your Eternity
+  - Crunchyroll
+  - anime
+  - terceira temporada
+  - streaming
+  - Yoshitoki Oima
+  - imortalidade
+  - Nokker
+keywords: >-
+  To Your Eternity, Crunchyroll, anime, terceira temporada, streaming, Yoshitoki
+  Oima, imortalidade, Nokker
+author: Ana Luiza
+data: '2025-04-11T14:10:04.663Z'
+resumo: Anime retorna com episódios inéditos no fim de 2025
 ---
 
 A aguardada terceira temporada do anime 'To Your Eternity' já tem data prevista para chegar ao público. A Crunchyroll, plataforma de streaming especializada em anime, anunciou que os novos episódios estarão disponíveis em outubro de 2025. Acompanhando o anúncio, foi divulgada a primeira arte oficial da nova temporada.

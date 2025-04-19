@@ -1,14 +1,28 @@
 ---
-title: "He-Man: Ator de 'Gladiador 2' confirmado como Moss Man no novo filme"
-slug: "he-man-escala-ator-de-gladiador-2-como-moss-man"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/lJ8L3Zsi9gvN8sw67bx62T__Eto=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T120748.080.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/PtWxDIUqfOE2IhVFTo2qmGj6w-Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T120732.010.png"
-tags: ["He-Man", "Moss Man", "Stephen Adentan", "Mestres do Universo", "filme", "Mattel", "Travis Knight"]
-keywords: "He-Man, Moss Man, Stephen Adentan, Mestres do Universo, filme, Mattel, Travis Knight"
-author: "Pablo Moura"
-data: "2025-04-18T15:10:08.187Z"
+title: 'He-Man: Ator de ''Gladiador 2'' confirmado como Moss Man no novo filme'
+slug: he-man-escala-ator-de-gladiador-2-como-moss-man
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/lJ8L3Zsi9gvN8sw67bx62T__Eto=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T120748.080.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/PtWxDIUqfOE2IhVFTo2qmGj6w-Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T120732.010.png
+tags:
+  - He-Man
+  - Moss Man
+  - Stephen Adentan
+  - Mestres do Universo
+  - filme
+  - Mattel
+  - Travis Knight
+keywords: >-
+  He-Man, Moss Man, Stephen Adentan, Mestres do Universo, filme, Mattel, Travis
+  Knight
+author: Pablo Moura
+data: '2025-04-18T15:10:08.187Z'
+resumo: >-
+  Stephen Adentan anuncia no Instagram que interpretará Moss Man no próximo
+  filme de He-Man e os Mestres do Universo.
 ---
 
 O aguardado filme 'He-Man e os Mestres do Universo' acaba de revelar uma adição emocionante ao seu elenco. Stephen Adentan, conhecido por seu próximo papel em 'Gladiador 2', confirmou através de uma postagem nas redes sociais que ele dará vida ao personagem Moss Man na nova produção da Mattel.

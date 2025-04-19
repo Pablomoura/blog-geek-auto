@@ -1,14 +1,26 @@
 ---
-title: "Star Wars Zero Company | Novo game de estratégia é anunciado"
-slug: "star-wars-zero-company-novo-game-de-estratgia-anunciado"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/33gxzibEW0kMlZi6uumZGzHY7Ko=/987x0/smart/uploads/conteudo/fotos/starwars_fHZ2At9.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/KH_9xp12Sh3vi84qOJNs6cwJnPQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-14_131254.png"
-tags: ["Star Wars", "Respawn Entertainment", "Star Wars Zero Company", "jogo de estratégia", "Star Wars Celebration", "Titanfall", "Apex Legends"]
-keywords: "Star Wars, Respawn Entertainment, Star Wars Zero Company, jogo de estratégia, Star Wars Celebration, Titanfall, Apex Legends"
-author: "Pablo Moura"
-data: "2025-04-14T17:12:14.703Z"
+title: Star Wars Zero Company | Novo game de estratégia é anunciado
+slug: star-wars-zero-company-novo-game-de-estratgia-anunciado
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/33gxzibEW0kMlZi6uumZGzHY7Ko=/987x0/smart/uploads/conteudo/fotos/starwars_fHZ2At9.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/KH_9xp12Sh3vi84qOJNs6cwJnPQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-14_131254.png
+tags:
+  - Star Wars
+  - Respawn Entertainment
+  - Star Wars Zero Company
+  - jogo de estratégia
+  - Star Wars Celebration
+  - Titanfall
+  - Apex Legends
+keywords: >-
+  Star Wars, Respawn Entertainment, Star Wars Zero Company, jogo de estratégia,
+  Star Wars Celebration, Titanfall, Apex Legends
+author: Pablo Moura
+data: '2025-04-14T17:12:14.703Z'
+resumo: 'Jogo será produzido pelo estúdio Respawn, o mesmo de Titanfall e Apex Legends'
 ---
 
 A Respawn Entertainment anunciou o lançamento de Star Wars Zero Company, um novo jogo de estratégia em turnos ambientado no universo criado por George Lucas. Até o momento, apenas o nome do jogo e uma arte foram revelados, sem detalhes de gameplay. A expectativa é que mais informações sejam divulgadas em 19 de abril, durante a Star Wars Celebration, que ocorrerá no Japão este ano. 

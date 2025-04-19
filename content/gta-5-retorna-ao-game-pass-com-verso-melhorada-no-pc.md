@@ -1,14 +1,23 @@
 ---
-title: "GTA 5 retorna ao Game Pass com versão aprimorada para PC"
-slug: "gta-5-retorna-ao-game-pass-com-verso-melhorada-no-pc"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/15rWiZCj7ZkrkRLMsZber7Nt1HA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T130943.019.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/MEHlJ0BqDjOGnMyQoIWAv2JUPLg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T131632.631.png"
-tags: ["GTA 5", "Game Pass", "versão aprimorada", "PC", "Rockstar Games", "GTA 6"]
-keywords: "GTA 5, Game Pass, versão aprimorada, PC, Rockstar Games, GTA 6"
-author: "Pablo Moura"
-data: "2025-04-15T15:10:43.598Z"
+title: GTA 5 retorna ao Game Pass com versão aprimorada para PC
+slug: gta-5-retorna-ao-game-pass-com-verso-melhorada-no-pc
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/15rWiZCj7ZkrkRLMsZber7Nt1HA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-03T130943.019.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/MEHlJ0BqDjOGnMyQoIWAv2JUPLg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-03T131632.631.png
+tags:
+  - GTA 5
+  - Game Pass
+  - versão aprimorada
+  - PC
+  - Rockstar Games
+  - GTA 6
+keywords: 'GTA 5, Game Pass, versão aprimorada, PC, Rockstar Games, GTA 6'
+author: Pablo Moura
+data: '2025-04-15T15:10:43.598Z'
+resumo: O jogo estará disponível a partir desta terça-feira (15)
 ---
 
 O popular Grand Theft Auto 5 marca seu retorno ao Game Pass, disponibilizado agora na sua versão melhorada para PC. Anteriormente, o jogo já havia sido oferecido pelo serviço em outras ocasiões. 

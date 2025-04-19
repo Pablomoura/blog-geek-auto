@@ -1,14 +1,28 @@
 ---
-title: "Nintendo Switch 2 Lança Bundle Exclusivo de Mario Kart World por Tempo Limitado"
-slug: "nintendo-switch-2-mario-kart-world-ter-bundle-por-tempo-limitado"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ny8iGHFpgbY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/aairUgyGHQP5aC89HHHFsbn9tiI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-17T182306.795.png"
-tags: ["Nintendo Switch 2", "Mario Kart World", "bundle limitado", "lançamento de console", "jogos de Nintendo", "promoção de console"]
-keywords: "Nintendo Switch 2, Mario Kart World, bundle limitado, lançamento de console, jogos de Nintendo, promoção de console"
-author: "Luana Souza"
-data: "2025-04-17T22:10:11.824Z"
+title: >-
+  Nintendo Switch 2 Lança Bundle Exclusivo de Mario Kart World por Tempo
+  Limitado
+slug: nintendo-switch-2-mario-kart-world-ter-bundle-por-tempo-limitado
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ny8iGHFpgbY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/aairUgyGHQP5aC89HHHFsbn9tiI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-17T182306.795.png
+tags:
+  - Nintendo Switch 2
+  - Mario Kart World
+  - bundle limitado
+  - lançamento de console
+  - jogos de Nintendo
+  - promoção de console
+keywords: >-
+  Nintendo Switch 2, Mario Kart World, bundle limitado, lançamento de console,
+  jogos de Nintendo, promoção de console
+author: Luana Souza
+data: '2025-04-17T22:10:11.824Z'
+resumo: >-
+  O novo Nintendo Switch 2 oferece um pacote promocional com o inovador Mario
+  Kart World, disponível apenas até o outono de 2025.
 ---
 
 A Nintendo anunciou, durante uma transmissão especial dedicada ao jogo Mario Kart World, que disponibilizará um bundle exclusivo por tempo limitado. Este pacote especial, que combina o console Nintendo Switch 2 e o novo jogo Mario Kart World, estará no mercado apenas até o outono americano de 2025, que vai de setembro a novembro, não estendendo sua disponibilidade para o período natalino.

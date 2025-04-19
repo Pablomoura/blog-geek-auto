@@ -1,14 +1,30 @@
 ---
-title: "The Last of Us | Segunda temporada tem audiência de estreia maior que a primeira"
-slug: "the-last-of-us-segunda-temporada-tem-audincia-de-estreia-maior-que-a-primeira"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/M_-m3TVTN6w?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/ZDT8LH4F8dk43D0BSAJhSYENjzA=/480x360/smart/extras/conteudos/01_hBnOwCf.jpg"
-tags: ["The Last of Us", "segunda temporada", "HBO", "audiência", "estreia", "redes sociais", "elenco", "especial-The Last of Us"]
-keywords: "The Last of Us, segunda temporada, HBO, audiência, estreia, redes sociais, elenco"
-author: "Ana Luiza"
-data: "2025-04-14T21:09:35.382Z"
+title: >-
+  The Last of Us | Segunda temporada tem audiência de estreia maior que a
+  primeira
+slug: the-last-of-us-segunda-temporada-tem-audincia-de-estreia-maior-que-a-primeira
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/M_-m3TVTN6w?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/ZDT8LH4F8dk43D0BSAJhSYENjzA=/480x360/smart/extras/conteudos/01_hBnOwCf.jpg
+tags:
+  - The Last of Us
+  - segunda temporada
+  - HBO
+  - audiência
+  - estreia
+  - redes sociais
+  - elenco
+  - especial-The Last of Us
+keywords: >-
+  The Last of Us, segunda temporada, HBO, audiência, estreia, redes sociais,
+  elenco
+author: Ana Luiza
+data: '2025-04-14T21:09:35.382Z'
+resumo: >-
+  Além disso, primeira temporada também teve incremento em audiência nas últimas
+  semanas
 ---
 
 A HBO anunciou que a estreia da segunda temporada de The Last of Us atraiu uma audiência 10% maior do que a primeira temporada, registrando 5,3 milhões de espectadores nos EUA, somando as visualizações em TV e plataformas de streaming. A primeira temporada já havia marcado um início forte com 4,7 milhões de espectadores. A emissora também revelou que a primeira temporada viu um aumento de 150% na visualização na plataforma, sugerindo que muitos fãs revisaram a série antes do lançamento da nova temporada.

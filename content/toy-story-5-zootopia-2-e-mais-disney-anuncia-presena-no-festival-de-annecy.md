@@ -1,14 +1,32 @@
 ---
-title: "Disney Anuncia Participação no Festival de Annecy com Destaques para Toy Story 5 e Zootopia 2"
-slug: "toy-story-5-zootopia-2-e-mais-disney-anuncia-presena-no-festival-de-annecy"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/032u5m5xPXe9fwbJU56wtMFHzs4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T133254.846.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OBNrGayfNW6EpBxCuBfaAN4I9Qc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T133240.221.png"
-tags: ["Toy Story 5", "Zootopia 2", "Festival de Annecy", "Disney", "Pixar", "LucasFilm", "Marvel Studios", "animações", "lançamentos"]
-keywords: "Toy Story 5, Zootopia 2, Festival de Annecy, Disney, Pixar, LucasFilm, Marvel Studios, animações, lançamentos"
-author: "Ana Luiza"
-data: "2025-04-16T17:10:33.293Z"
+title: >-
+  Disney Anuncia Participação no Festival de Annecy com Destaques para Toy Story
+  5 e Zootopia 2
+slug: toy-story-5-zootopia-2-e-mais-disney-anuncia-presena-no-festival-de-annecy
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/032u5m5xPXe9fwbJU56wtMFHzs4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T133254.846.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OBNrGayfNW6EpBxCuBfaAN4I9Qc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T133240.221.png
+tags:
+  - Toy Story 5
+  - Zootopia 2
+  - Festival de Annecy
+  - Disney
+  - Pixar
+  - LucasFilm
+  - Marvel Studios
+  - animações
+  - lançamentos
+keywords: >-
+  Toy Story 5, Zootopia 2, Festival de Annecy, Disney, Pixar, LucasFilm, Marvel
+  Studios, animações, lançamentos
+author: Ana Luiza
+data: '2025-04-16T17:10:33.293Z'
+resumo: >-
+  Os aguardados filmes da Disney, Toy Story 5 e Zootopia 2, serão apresentados
+  no Festival de Annecy, junto com outras novidades de grandes franquias.
 ---
 
 A Walt Disney Company confirmou sua participação no prestigiado Festival de Annecy, prometendo encantar o público com grandes lançamentos, incluindo Toy Story 5 e Zootopia 2, dois dos filmes mais esperados pelo estúdio. O festival é reconhecido como uma das principais plataformas para animações no setor audiovisual.

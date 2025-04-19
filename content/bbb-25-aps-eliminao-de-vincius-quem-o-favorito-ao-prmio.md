@@ -1,14 +1,32 @@
 ---
-title: "BBB 25 | Renata surge como nova favorita ao prêmio após eliminação de Vinícius"
-slug: "bbb-25-aps-eliminao-de-vincius-quem-o-favorito-ao-prmio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/zhRb104MRInRqjkz6fSVTZvlIoU=/987x0/smart/uploads/conteudo/fotos/bbb25-renata-favorita.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dpcz1uOQbAd8vXZYuPC-qTROIJM=/480x360/smart/extras/conteudos/bbb25-renata-favorita-peq.jpg"
-tags: ["BBB 25", "eliminação", "Vinícius", "Renata", "Vitória Strada", "Diego Hypólito", "favoritos", "prêmio", "Tadeu Schmidt", "votação", "especial-BBB 25"]
-keywords: "BBB 25, eliminação, Vinícius, Renata, Vitória Strada, Diego Hypólito, favoritos, prêmio, Tadeu Schmidt, votação"
-author: "Luana Souza"
-data: "2025-04-14T04:12:41.679Z"
+title: BBB 25 | Renata surge como nova favorita ao prêmio após eliminação de Vinícius
+slug: bbb-25-aps-eliminao-de-vincius-quem-o-favorito-ao-prmio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/zhRb104MRInRqjkz6fSVTZvlIoU=/987x0/smart/uploads/conteudo/fotos/bbb25-renata-favorita.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dpcz1uOQbAd8vXZYuPC-qTROIJM=/480x360/smart/extras/conteudos/bbb25-renata-favorita-peq.jpg
+tags:
+  - BBB 25
+  - eliminação
+  - Vinícius
+  - Renata
+  - Vitória Strada
+  - Diego Hypólito
+  - favoritos
+  - prêmio
+  - Tadeu Schmidt
+  - votação
+  - especial-BBB 25
+keywords: >-
+  BBB 25, eliminação, Vinícius, Renata, Vitória Strada, Diego Hypólito,
+  favoritos, prêmio, Tadeu Schmidt, votação
+author: Luana Souza
+data: '2025-04-14T04:12:41.679Z'
+resumo: >-
+  Confira quem lidera a preferência do público no Big Brother Brasil 25 após a
+  recente eliminação no reality show.
 ---
 
 O Big Brother Brasil 25 viveu momentos decisivos com a realização do 16º Paredão, resultando na eliminação de Vinícius. Restam agora seis competidores na disputa pelo prêmio de R$ 2,63 milhões. Segundo uma pesquisa do UOL, Renata assumiu a liderança como favorita ao título, alcançando 42,49% da preferência dos votos, superando Vitória Strada, que liderou as enquetes por três semanas consecutivas e agora está em segundo lugar com 35,52% dos votos. Diego Hypólito ocupa o terceiro posto, com 11,61% dos votos.

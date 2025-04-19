@@ -1,14 +1,31 @@
 ---
-title: "Supergirl: A Mulher do Amanhã | Novo Vídeo do Set Revela Estação Espacial"
-slug: "supergirl-vdeo-do-set-mostra-estao-especial-assista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/fbERZikeTWaOIasCavNk1Ys1il8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T215133.499.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/WOLsNGBxQwrhqxBkziz-b2GFO5g=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T215133.499.png"
-tags: ["Supergirl", "Mulher do Amanhã", "estação espacial", "set de filmagem", "ficção científica", "DC Comics", "Milly Alcock", "James Gunn", "Superman", "cinema"]
-keywords: "Supergirl, Mulher do Amanhã, estação espacial, set de filmagem, ficção científica, DC Comics, Milly Alcock, James Gunn, Superman, cinema"
-author: "Luana Souza"
-data: "2025-04-16T02:25:33.302Z"
+title: 'Supergirl: A Mulher do Amanhã | Novo Vídeo do Set Revela Estação Espacial'
+slug: supergirl-vdeo-do-set-mostra-estao-especial-assista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/fbERZikeTWaOIasCavNk1Ys1il8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T215133.499.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/WOLsNGBxQwrhqxBkziz-b2GFO5g=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T215133.499.png
+tags:
+  - Supergirl
+  - Mulher do Amanhã
+  - estação espacial
+  - set de filmagem
+  - ficção científica
+  - DC Comics
+  - Milly Alcock
+  - James Gunn
+  - Superman
+  - cinema
+keywords: >-
+  Supergirl, Mulher do Amanhã, estação espacial, set de filmagem, ficção
+  científica, DC Comics, Milly Alcock, James Gunn, Superman, cinema
+author: Luana Souza
+data: '2025-04-16T02:25:33.302Z'
+resumo: >-
+  Um recente vídeo do set de 'Supergirl: A Mulher do Amanhã' exibe uma
+  intrigante estação espacial e equipe em ação.
 ---
 
 Novas imagens capturadas no set de 'Supergirl: A Mulher do Amanhã' estão circulando, revelando o cenário impressionante de uma estação espacial. O vídeo mostra várias pessoas trabalhando ativamente no cenário, com destaque para um indivíduo caracterizado, cuja identidade permanece incógnita devido à sua posição de costas para a câmera.

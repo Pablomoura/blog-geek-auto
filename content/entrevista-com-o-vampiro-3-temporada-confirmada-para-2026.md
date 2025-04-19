@@ -1,14 +1,31 @@
 ---
-title: "Entrevista com o Vampiro | Terceira Temporada Anunciada para 2026 com Novo Cartaz"
-slug: "entrevista-com-o-vampiro-3-temporada-confirmada-para-2026"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/uwRxZKfXDkyDa8bSL0rMybHKy-E=/987x0/smart/uploads/conteudo/fotos/02_jg9IvMJ.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/jsnBPzTqJcAQKB9-V8abGbN5zt4=/480x360/smart/extras/conteudos/01_HCnyCGn.jpg"
-tags: ["Entrevista com o Vampiro", "AMC", "Terceira Temporada", "2026", "Sam Reid", "Anne Rice", "Crônicas Vampirescas", "As Bruxas de Mayfair"]
-keywords: "Entrevista com o Vampiro, AMC, Terceira Temporada, 2026, Sam Reid, Anne Rice, Crônicas Vampirescas, As Bruxas de Mayfair"
-author: "Ana Luiza"
-data: "2025-04-15T21:09:36.791Z"
+title: >-
+  Entrevista com o Vampiro | Terceira Temporada Anunciada para 2026 com Novo
+  Cartaz
+slug: entrevista-com-o-vampiro-3-temporada-confirmada-para-2026
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/uwRxZKfXDkyDa8bSL0rMybHKy-E=/987x0/smart/uploads/conteudo/fotos/02_jg9IvMJ.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/jsnBPzTqJcAQKB9-V8abGbN5zt4=/480x360/smart/extras/conteudos/01_HCnyCGn.jpg
+tags:
+  - Entrevista com o Vampiro
+  - AMC
+  - Terceira Temporada
+  - '2026'
+  - Sam Reid
+  - Anne Rice
+  - Crônicas Vampirescas
+  - As Bruxas de Mayfair
+keywords: >-
+  Entrevista com o Vampiro, AMC, Terceira Temporada, 2026, Sam Reid, Anne Rice,
+  Crônicas Vampirescas, As Bruxas de Mayfair
+author: Ana Luiza
+data: '2025-04-15T21:09:36.791Z'
+resumo: >-
+  A AMC revelou que a terceira temporada de 'Entrevista com o Vampiro' está
+  programada para 2026, acompanhada de um cartaz inovador.
 ---
 
 A renomada emissora AMC recentemente anunciou que a aguardada terceira temporada de 'Entrevista com o Vampiro' será lançada somente em 2026, ainda sem um dia específico definido. Em adição, um novo cartaz promocional foi divulgado, exibindo o ano de estreia e decorado com uma temática de rockstar, indicando a nova direção que o personagem Lestat, interpretado por Sam Reid, seguirá como uma estrela do rock.

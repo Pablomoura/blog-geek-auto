@@ -1,14 +1,28 @@
 ---
-title: "Novos Projetos para Attack on Titan: Filmes e Mais Estão no Horizonte"
-slug: "attack-on-titan-pode-ter-novos-filmes-a-caminho-entenda"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/ciqSt4GJiiEQqzdC31upXYKWTgI=/480x360/smart/extras/conteudos/attack-on-titan_i5jOkNC.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ciqSt4GJiiEQqzdC31upXYKWTgI=/480x360/smart/extras/conteudos/attack-on-titan_i5jOkNC.jpg"
-tags: ["Attack on Titan", "novos filmes", "Tetsuya Kinoshita", "The Last Attack", "franquia", "anime", "mangá"]
-keywords: "Attack on Titan, novos filmes, Tetsuya Kinoshita, The Last Attack, franquia, anime, mangá"
-author: "Pablo Moura"
-data: "2025-04-16T18:14:16.811Z"
+title: 'Novos Projetos para Attack on Titan: Filmes e Mais Estão no Horizonte'
+slug: attack-on-titan-pode-ter-novos-filmes-a-caminho-entenda
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/ciqSt4GJiiEQqzdC31upXYKWTgI=/480x360/smart/extras/conteudos/attack-on-titan_i5jOkNC.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ciqSt4GJiiEQqzdC31upXYKWTgI=/480x360/smart/extras/conteudos/attack-on-titan_i5jOkNC.jpg
+tags:
+  - Attack on Titan
+  - novos filmes
+  - Tetsuya Kinoshita
+  - The Last Attack
+  - franquia
+  - anime
+  - mangá
+keywords: >-
+  Attack on Titan, novos filmes, Tetsuya Kinoshita, The Last Attack, franquia,
+  anime, mangá
+author: Pablo Moura
+data: '2025-04-16T18:14:16.811Z'
+resumo: >-
+  Após o sucesso de 'Attack on Titan: The Last Attack', a franquia planeja
+  expandir com mais filmes e projetos interativos.
 ---
 
 A franquia 'Attack on Titan' demonstrou que ainda possui muitas histórias para contar. Segundo Tetsuya Kinoshita, produtor da série, novos filmes e projetos estão sendo planejados para continuar a narrativa épica. Durante o evento 'Attack on Titan – The Official Concert – Beyond The Walls World Tour', Kinoshita revelou que o universo de Attack on Titan vai se expandir através de mais filmes, eventos ao vivo e colaborações com jogos.

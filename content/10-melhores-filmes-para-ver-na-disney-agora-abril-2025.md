@@ -28,6 +28,9 @@ keywords: >-
 author: Ana Luiza
 data: '2025-04-16T11:09:25.349Z'
 experiencia: true
+resumo: >-
+  Procurando o que assistir no Disney+? Confira nossa seleção de filmes
+  imperdíveis disponíveis na plataforma!
 ---
 
 O Disney+, com seu vasto catálogo recheado de sucessos, clássicos e blockbuster, continua a ser um dos serviços de streaming mais populares. Com a incorporação do Star+ em 2024, o Disney+ expandiu ainda mais sua oferta, incluindo clássicos da Buena Vista e filmes da 20th Century Fox. Apresentamos uma lista de 10 filmes excepcionais, em ordem alfabética, que você não pode perder no Disney+. Prepare-se para uma mistura de suspense, ação, terror, animação e muito mais.

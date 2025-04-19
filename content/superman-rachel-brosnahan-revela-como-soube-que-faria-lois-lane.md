@@ -1,14 +1,24 @@
 ---
-title: "Superman | Rachel Brosnahan revela como soube que faria Lois Lane"
-slug: "superman-rachel-brosnahan-revela-como-soube-que-faria-lois-lane"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/4SkomqTVOVPaUs-CiJDNFoY7Zzo=/987x0/smart/uploads/conteudo/fotos/supermanloislane_LNsCCo1.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0bX_X25rIXSkmcNwV61F_hEix-g=/480x360/smart/extras/conteudos/supermanloislane_pRdNreV.jpg"
-tags: ["Superman", "Rachel Brosnahan", "James Gunn", "Lois Lane", "DCU", "filme", "especial-Superman"]
-keywords: "Superman, Rachel Brosnahan, James Gunn, Lois Lane, DCU, filme"
-author: "Luana Souza"
-data: "2025-04-13T20:10:05.133Z"
+title: Superman | Rachel Brosnahan revela como soube que faria Lois Lane
+slug: superman-rachel-brosnahan-revela-como-soube-que-faria-lois-lane
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/4SkomqTVOVPaUs-CiJDNFoY7Zzo=/987x0/smart/uploads/conteudo/fotos/supermanloislane_LNsCCo1.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0bX_X25rIXSkmcNwV61F_hEix-g=/480x360/smart/extras/conteudos/supermanloislane_pRdNreV.jpg
+tags:
+  - Superman
+  - Rachel Brosnahan
+  - James Gunn
+  - Lois Lane
+  - DCU
+  - filme
+  - especial-Superman
+keywords: 'Superman, Rachel Brosnahan, James Gunn, Lois Lane, DCU, filme'
+author: Luana Souza
+data: '2025-04-13T20:10:05.133Z'
+resumo: Filme chega aos cinemas em julho de 2025
 ---
 
 Rachel Brosnahan compartilhou com a revista Good Housekeeping o momento em que descobriu que interpretaria Lois Lane no novo filme do Superman. A atriz relembrou que estava em uma loja em SoHo, Nova York, quando recebeu a ligação do diretor James Gunn. "Eu estava rezando para que ninguém desse descarga no banheiro atrás de mim enquanto falava ao telefone, pois sentia que perder a chamada significaria perder o papel", disse ela. Brosnahan expressou sua empolgação e nervosismo ao ser convidada para o papel, consciente das grandes expectativas. 

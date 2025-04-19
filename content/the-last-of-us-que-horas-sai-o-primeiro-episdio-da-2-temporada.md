@@ -1,14 +1,25 @@
 ---
-title: "The Last of Us | Horário de estreia do primeiro episódio da 2ª temporada"
-slug: "the-last-of-us-que-horas-sai-o-primeiro-episdio-da-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/fKsuEIPdWzU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/CFua7V9j2NLn-jQiZuH9lCn_ZtY=/480x360/smart/extras/conteudos/Design_sem_nome_3_1lCyMLm.jpg"
-tags: ["The Last of Us", "segunda temporada", "HBO", "Max", "estreia", "Ellie", "Joel", "adaptação", "especial-The Last of Us"]
-keywords: "The Last of Us, segunda temporada, HBO, Max, estreia, Ellie, Joel, adaptação"
-author: "Luana Souza"
-data: "2025-04-13T16:19:16.900Z"
+title: The Last of Us | Horário de estreia do primeiro episódio da 2ª temporada
+slug: the-last-of-us-que-horas-sai-o-primeiro-episdio-da-2-temporada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/fKsuEIPdWzU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/CFua7V9j2NLn-jQiZuH9lCn_ZtY=/480x360/smart/extras/conteudos/Design_sem_nome_3_1lCyMLm.jpg
+tags:
+  - The Last of Us
+  - segunda temporada
+  - HBO
+  - Max
+  - estreia
+  - Ellie
+  - Joel
+  - adaptação
+  - especial-The Last of Us
+keywords: 'The Last of Us, segunda temporada, HBO, Max, estreia, Ellie, Joel, adaptação'
+author: Luana Souza
+data: '2025-04-13T16:19:16.900Z'
+resumo: 'Série retorna neste domingo, 13 de abril'
 ---
 
 A espera acabou! A segunda temporada de The Last of Us estreia neste domingo, 13 de abril, na HBO e na Max, continuando a saga de Ellie e Joel, interpretados por Bella Ramsey e Pedro Pascal, respectivamente. O primeiro episódio será transmitido às 22h00 na HBO e logo após estará disponível no catálogo da Max com dublagem em português.

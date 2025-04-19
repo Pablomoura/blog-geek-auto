@@ -1,14 +1,28 @@
 ---
-title: "Thunderbolts | Florence Pugh realiza espetacular salto do segundo prédio mais alto do mundo em novo trailer"
-slug: "thunderbolts-florence-pugh-salta-do-2-prdio-mais-alto-do-mundo-em-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/S3dvh7PdCHk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/o0QGlUPh4HNhRy3TEHEqAiRVYOI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T131042.143.png"
-tags: ["Thunderbolts", "Florence Pugh", "Marvel Studios", "MCU", "anti-heróis", "Yelena Belova", "salto de prédio", "trailer novo"]
-keywords: "Thunderbolts, Florence Pugh, Marvel Studios, MCU, anti-heróis, Yelena Belova, salto de prédio, trailer novo"
-author: "Pablo Moura"
-data: "2025-04-11T17:12:30.941Z"
+title: >-
+  Thunderbolts | Florence Pugh realiza espetacular salto do segundo prédio mais
+  alto do mundo em novo trailer
+slug: thunderbolts-florence-pugh-salta-do-2-prdio-mais-alto-do-mundo-em-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/S3dvh7PdCHk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/o0QGlUPh4HNhRy3TEHEqAiRVYOI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T131042.143.png
+tags:
+  - Thunderbolts
+  - Florence Pugh
+  - Marvel Studios
+  - MCU
+  - anti-heróis
+  - Yelena Belova
+  - salto de prédio
+  - trailer novo
+keywords: >-
+  Thunderbolts, Florence Pugh, Marvel Studios, MCU, anti-heróis, Yelena Belova,
+  salto de prédio, trailer novo
+author: Pablo Moura
+data: '2025-04-11T17:12:30.941Z'
+resumo: O filme tem estreia marcada nos cinemas para maio
 ---
 
 À medida que se aproxima a estreia de Thunderbolts, prevista para maio, a Marvel Studios divulgou um empolgante novo trailer que destaca uma cena de tirar o fôlego com Florence Pugh. A atriz, interpretando Yelena Belova/Viúva Negra, realiza um audacioso salto do segundo edifício mais alto do planeta durante as filmagens.

@@ -1,14 +1,29 @@
 ---
-title: "The Last of Us: Reveladas Novas Imagens do Segundo Episódio da Temporada"
-slug: "the-last-of-us-2-episdio-da-nova-temporada-ganha-imagens-com-abby-e-joel"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/wHVsr8OfdYT934ovLgnbm5PGt1U=/987x0/smart/uploads/conteudo/fotos/abby-the-last-of-us.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/02J3ssF083dypTbyfRHDLe35XnU=/480x360/smart/extras/conteudos/abby-the-last-of-us.png"
-tags: ["The Last of Us", "HBO", "segunda temporada", "Abby", "Joel", "Ellie", "imagens", "série", "estreia", "especial-The Last of Us"]
-keywords: "The Last of Us, HBO, segunda temporada, Abby, Joel, Ellie, imagens, série, estreia"
-author: "Ana Luiza"
-data: "2025-04-15T18:11:41.380Z"
+title: 'The Last of Us: Reveladas Novas Imagens do Segundo Episódio da Temporada'
+slug: the-last-of-us-2-episdio-da-nova-temporada-ganha-imagens-com-abby-e-joel
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/wHVsr8OfdYT934ovLgnbm5PGt1U=/987x0/smart/uploads/conteudo/fotos/abby-the-last-of-us.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/02J3ssF083dypTbyfRHDLe35XnU=/480x360/smart/extras/conteudos/abby-the-last-of-us.png
+tags:
+  - The Last of Us
+  - HBO
+  - segunda temporada
+  - Abby
+  - Joel
+  - Ellie
+  - imagens
+  - série
+  - estreia
+  - especial-The Last of Us
+keywords: >-
+  The Last of Us, HBO, segunda temporada, Abby, Joel, Ellie, imagens, série,
+  estreia
+author: Ana Luiza
+data: '2025-04-15T18:11:41.380Z'
+resumo: 'O próximo capítulo da série será transmitido neste domingo, dia 20.'
 ---
 
 A aclamada série da HBO, The Last of Us, lançou recentemente imagens empolgantes do segundo episódio de sua nova temporada, que vai ao ar no dia 20 de domingo. As imagens destacam personagens como Abby, interpretada por Kaitlyn Dever, ao lado de Joel (Pedro Pascal) e Ellie (Bella Ramsey), mostrando um vislumbre do que está por vir.

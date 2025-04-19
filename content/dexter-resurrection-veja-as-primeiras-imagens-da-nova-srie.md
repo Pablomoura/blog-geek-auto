@@ -1,14 +1,29 @@
 ---
-title: "Dexter: Resurrection - Confira as Primeiras Imagens da Aguardada Série"
-slug: "dexter-resurrection-veja-as-primeiras-imagens-da-nova-srie"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/0h6yCgVqk1I?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/F3dVAiaPqiidConHOI8J4XblvZo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-15_142700.png"
-tags: ["Dexter", "Dexter Resurrection", "Dexter Pecado Original", "Paramount+", "Michael C. Hall", "Peter Dinklage", "Uma Thurman", "séries", "retorno de Dexter"]
-keywords: "Dexter, Dexter Resurrection, Dexter Pecado Original, Paramount+, Michael C. Hall, Peter Dinklage, Uma Thurman, séries, retorno de Dexter"
-author: "Ana Luiza"
-data: "2025-04-15T18:12:10.017Z"
+title: 'Dexter: Resurrection - Confira as Primeiras Imagens da Aguardada Série'
+slug: dexter-resurrection-veja-as-primeiras-imagens-da-nova-srie
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/0h6yCgVqk1I?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/F3dVAiaPqiidConHOI8J4XblvZo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-15_142700.png
+tags:
+  - Dexter
+  - Dexter Resurrection
+  - Dexter Pecado Original
+  - Paramount+
+  - Michael C. Hall
+  - Peter Dinklage
+  - Uma Thurman
+  - séries
+  - retorno de Dexter
+keywords: >-
+  Dexter, Dexter Resurrection, Dexter Pecado Original, Paramount+, Michael C.
+  Hall, Peter Dinklage, Uma Thurman, séries, retorno de Dexter
+author: Ana Luiza
+data: '2025-04-15T18:12:10.017Z'
+resumo: >-
+  As primeiras imagens de Dexter: Resurrection foram reveladas, destacando o
+  retorno de personagens icônicos e a introdução de novos membros no elenco.
 ---
 
 A revista Vanity Fair divulgou as primeiras imagens oficiais da nova série Dexter: Resurrection, que promete ser uma emocionante continuação da aclamada série protagonizada por Michael C. Hall. As fotos apresentam não só Hall retomando seu icônico papel como Dexter, mas também introduzem novidades no elenco, como Peter Dinklage e Uma Thurman.

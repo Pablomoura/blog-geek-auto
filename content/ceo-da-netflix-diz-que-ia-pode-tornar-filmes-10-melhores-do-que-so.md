@@ -1,14 +1,32 @@
 ---
-title: "CEO da Netflix, Ted Sarandos, destaca o potencial da IA para melhorar filmes em até 10%"
-slug: "ceo-da-netflix-diz-que-ia-pode-tornar-filmes-10-melhores-do-que-so"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/cgIVCikFKeHjH2fZppnwejawtZ4=/987x0/smart/uploads/conteudo/fotos/ted_knSgBIw.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Z40hX9ZEKf1wrxeDFoZKtilbZW4=/480x360/smart/extras/conteudos/ted_VVmPJst.png"
-tags: ["Netflix", "Ted Sarandos", "inteligência artificial", "IA", "cinema", "O Irlandês", "Pedro Páramo", "eficiência de produção", "tecnologia de rejuvenescimento"]
-keywords: "Netflix, Ted Sarandos, inteligência artificial, IA, cinema, O Irlandês, Pedro Páramo, eficiência de produção, tecnologia de rejuvenescimento"
-author: "Ana Luiza"
-data: "2025-04-18T16:14:44.688Z"
+title: >-
+  CEO da Netflix, Ted Sarandos, destaca o potencial da IA para melhorar filmes
+  em até 10%
+slug: ceo-da-netflix-diz-que-ia-pode-tornar-filmes-10-melhores-do-que-so
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/cgIVCikFKeHjH2fZppnwejawtZ4=/987x0/smart/uploads/conteudo/fotos/ted_knSgBIw.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Z40hX9ZEKf1wrxeDFoZKtilbZW4=/480x360/smart/extras/conteudos/ted_VVmPJst.png
+tags:
+  - Netflix
+  - Ted Sarandos
+  - inteligência artificial
+  - IA
+  - cinema
+  - O Irlandês
+  - Pedro Páramo
+  - eficiência de produção
+  - tecnologia de rejuvenescimento
+keywords: >-
+  Netflix, Ted Sarandos, inteligência artificial, IA, cinema, O Irlandês, Pedro
+  Páramo, eficiência de produção, tecnologia de rejuvenescimento
+author: Ana Luiza
+data: '2025-04-18T16:14:44.688Z'
+resumo: >-
+  Ted Sarandos discute como a inteligência artificial já está transformando a
+  produção cinematográfica, com exemplos como 'O Irlandês' e 'Pedro Páramo'.
 ---
 
 Ted Sarandos, CEO da Netflix, vê um futuro promissor para o uso da inteligência artificial no cinema e nas séries de TV. Em um evento corporativo recente, ele expressou entusiasmo sobre o potencial da IA para revolucionar a indústria do entretenimento. Durante sua apresentação, Sarandos destacou declarações de James Cameron sobre as economias que IA pode trazer ao setor.

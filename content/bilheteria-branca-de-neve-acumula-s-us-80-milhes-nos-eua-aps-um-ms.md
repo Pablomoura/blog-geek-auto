@@ -1,14 +1,30 @@
 ---
-title: "Bilheteria: Branca de Neve arrecada apenas US$ 80 milhões nos EUA após um mês"
-slug: "bilheteria-branca-de-neve-acumula-s-us-80-milhes-nos-eua-aps-um-ms"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/qKCJkV2B8sE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/7bMLdXqkhRv-V4Z8mXjQUpFSuc0=/480x360/smart/extras/conteudos/01_9K1Fyb1.jpg"
-tags: ["Branca de Neve", "bilheteria", "filme", "Disney", "Gal Gadot", "Rachel Zegler", "Marc Webb", "estreia", "EUA", "arrecadação"]
-keywords: "Branca de Neve, bilheteria, filme, Disney, Gal Gadot, Rachel Zegler, Marc Webb, estreia, EUA, arrecadação"
-author: "Pablo Moura"
-data: "2025-04-13T16:19:58.474Z"
+title: 'Bilheteria: Branca de Neve arrecada apenas US$ 80 milhões nos EUA após um mês'
+slug: bilheteria-branca-de-neve-acumula-s-us-80-milhes-nos-eua-aps-um-ms
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/qKCJkV2B8sE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/7bMLdXqkhRv-V4Z8mXjQUpFSuc0=/480x360/smart/extras/conteudos/01_9K1Fyb1.jpg
+tags:
+  - Branca de Neve
+  - bilheteria
+  - filme
+  - Disney
+  - Gal Gadot
+  - Rachel Zegler
+  - Marc Webb
+  - estreia
+  - EUA
+  - arrecadação
+keywords: >-
+  Branca de Neve, bilheteria, filme, Disney, Gal Gadot, Rachel Zegler, Marc
+  Webb, estreia, EUA, arrecadação
+author: Pablo Moura
+data: '2025-04-13T16:19:58.474Z'
+resumo: >-
+  Remake enfrenta dificuldades para alcançar a marca de US$ 200 milhões
+  mundialmente
 ---
 
 O filme 'Branca de Neve e os Sete Anões' acumulou um total de US$ 181 milhões em bilheteria global. Nos Estados Unidos, o longa somou apenas US$ 81,9 milhões após um mês em exibição. Durante o último fim de semana, a arrecadação foi de apenas US$ 2,8 milhões, posicionando o filme em oitavo lugar no ranking de bilheterias do país.

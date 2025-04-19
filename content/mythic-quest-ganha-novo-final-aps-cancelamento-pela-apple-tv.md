@@ -1,14 +1,29 @@
 ---
-title: "Mythic Quest: Apple TV+ Relança Episódio Final com Alterações Após Cancelamento"
-slug: "mythic-quest-ganha-novo-final-aps-cancelamento-pela-apple-tv"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/lcNCY6kUPe7yy6_EADtE3KkEnRI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-18T214349.663.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ul6m4sxkog2iUrpHdnAi8gVIM4w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-18T214349.663.png"
-tags: ["Mythic Quest", "Apple TV+", "final alterado", "série cancelada", "Rob McElhenney", "Charlotte Nicdao"]
-keywords: "Mythic Quest, Apple TV+, final alterado, série cancelada, Rob McElhenney, Charlotte Nicdao"
-author: "Ana Luiza"
-data: "2025-04-19T02:18:20.366Z"
+title: >-
+  Mythic Quest: Apple TV+ Relança Episódio Final com Alterações Após
+  Cancelamento
+slug: mythic-quest-ganha-novo-final-aps-cancelamento-pela-apple-tv
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/lcNCY6kUPe7yy6_EADtE3KkEnRI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-18T214349.663.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ul6m4sxkog2iUrpHdnAi8gVIM4w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-18T214349.663.png
+tags:
+  - Mythic Quest
+  - Apple TV+
+  - final alterado
+  - série cancelada
+  - Rob McElhenney
+  - Charlotte Nicdao
+keywords: >-
+  Mythic Quest, Apple TV+, final alterado, série cancelada, Rob McElhenney,
+  Charlotte Nicdao
+author: Ana Luiza
+data: '2025-04-19T02:18:20.366Z'
+resumo: >-
+  Após o cancelamento inesperado, Apple TV+ modifica o final de Mythic Quest
+  para proporcionar um encerramento conclusivo à série.
 ---
 
 Em uma jogada surpreendente, a Apple TV+ relançou o último episódio de 'Mythic Quest' nesta sexta-feira (18), alterando os momentos finais para se adaptar ao cancelamento abrupto da série. Originalmente, o final mostrava um clímax romântico entre Ian (Rob McElhenney) e Poppy (Charlotte Nicdao), onde, após desistir de se mudar para a Holanda com o namorado, Poppy se entregava a um beijo com Ian, terminando com uma expressão de susto e arrependimento entre os dois.

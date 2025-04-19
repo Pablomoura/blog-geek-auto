@@ -1,14 +1,29 @@
 ---
-title: "Power Rangers | Ator agradece por escalação e enaltece representatividade"
-slug: "power-rangers-ator-agradece-por-escalao-e-enaltece-representatividade"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/wav-PqVhrQ43wQQitiB4Divym0Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T110923.044.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/wav-PqVhrQ43wQQitiB4Divym0Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T110923.044.png"
-tags: ["Power Rangers", "representatividade", "diversidade", "Walter Emanuel Jones", "inclusão", "estereótipos raciais", "evolução da mídia", "líderes negros na TV"]
-keywords: "Power Rangers, representatividade, diversidade, Walter Emanuel Jones, inclusão, estereótipos raciais, evolução da mídia, líderes negros na TV"
-author: "Luana Souza"
-data: "2025-04-11T15:14:50.871Z"
+title: Power Rangers | Ator agradece por escalação e enaltece representatividade
+slug: power-rangers-ator-agradece-por-escalao-e-enaltece-representatividade
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/wav-PqVhrQ43wQQitiB4Divym0Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T110923.044.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/wav-PqVhrQ43wQQitiB4Divym0Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T110923.044.png
+tags:
+  - Power Rangers
+  - representatividade
+  - diversidade
+  - Walter Emanuel Jones
+  - inclusão
+  - estereótipos raciais
+  - evolução da mídia
+  - líderes negros na TV
+keywords: >-
+  Power Rangers, representatividade, diversidade, Walter Emanuel Jones,
+  inclusão, estereótipos raciais, evolução da mídia, líderes negros na TV
+author: Luana Souza
+data: '2025-04-11T15:14:50.871Z'
+resumo: >-
+  Walter Emanuel Jones comenta declarações de roteirista que se desculpou por
+  estereótipos racistas
 ---
 
 Walter Emanuel Jones, o ator que interpretou o primeiro Ranger Preto na série original 'Mighty Morphin Power Rangers', expressou gratidão e orgulho em uma recente entrevista ao ser questionado sobre sua escalação e a representatividade na série. Jones destacou a importância de sua participação no show, que começou em 1993, como um marco na diversidade de personagens na televisão, ressaltando que, apesar das críticas iniciais, a série se tornou um ícone cultural que promove a inclusão.

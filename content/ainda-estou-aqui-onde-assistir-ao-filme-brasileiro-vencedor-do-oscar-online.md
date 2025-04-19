@@ -22,6 +22,9 @@ keywords: >-
 author: Luana Souza
 data: '2025-04-11T19:10:07.059Z'
 experiencia: true
+resumo: >-
+  Longa de Walter Salles se tornou a primeira produção do país a receber a
+  estatueta de filme internacional
 ---
 
 A aclamada produção brasileira 'Ainda Estou Aqui', dirigida por Walter Salles e estrelada por Fernanda Torres, finalmente chegou ao streaming. Disponibilizado no Globoplay desde o dia 6 de abril, o filme encerrou sua exibição nos cinemas nacionais em 3 de abril. A obra, que trouxe o primeiro Oscar de filme internacional para o Brasil, estabeleceu um marco ao ser o título mais assistido na data de sua estreia na plataforma, registrando o maior consumo diário na história do Globoplay.

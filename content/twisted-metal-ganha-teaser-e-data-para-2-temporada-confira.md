@@ -1,14 +1,24 @@
 ---
-title: "Twisted Metal anuncia teaser e data de lançamento da segunda temporada"
-slug: "twisted-metal-ganha-teaser-e-data-para-2-temporada-confira"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/bjqr33IAtS0?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/rXJQKbhSZopAs0T09ik48ZV0NzY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T134422.107.png"
-tags: ["Twisted Metal", "segunda temporada", "PlayStation", "série", "teaser", "data de estreia"]
-keywords: "Twisted Metal, segunda temporada, PlayStation, série, teaser, data de estreia"
-author: "Luana Souza"
-data: "2025-04-17T17:08:57.832Z"
+title: Twisted Metal anuncia teaser e data de lançamento da segunda temporada
+slug: twisted-metal-ganha-teaser-e-data-para-2-temporada-confira
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/bjqr33IAtS0?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/rXJQKbhSZopAs0T09ik48ZV0NzY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T134422.107.png
+tags:
+  - Twisted Metal
+  - segunda temporada
+  - PlayStation
+  - série
+  - teaser
+  - data de estreia
+keywords: 'Twisted Metal, segunda temporada, PlayStation, série, teaser, data de estreia'
+author: Luana Souza
+data: '2025-04-17T17:08:57.832Z'
+resumo: >-
+  A aclamada série baseada no jogo da PlayStation, Twisted Metal, confirma
+  retorno para julho nos EUA
 ---
 
 A empolgante série 'Twisted Metal', inspirada no famoso jogo da PlayStation, acaba de divulgar um teaser intrigante para a sua segunda temporada, além de confirmar a data de retorno. O teaser já está disponível para ser assistido, prometendo mais ação e adrenalina.

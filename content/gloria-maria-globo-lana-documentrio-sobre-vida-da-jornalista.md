@@ -1,14 +1,22 @@
 ---
-title: "Gloria Maria | Globo lança documentário sobre vida da jornalista"
-slug: "gloria-maria-globo-lana-documentrio-sobre-vida-da-jornalista"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/wapm-MITzgMAOZCkQq25o0PBETk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-15T113416.968.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/KWl3A_cUcTJk6RnqHq5dGT_MhW8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-15T113405.677.png"
-tags: ["Gloria Maria", "documentário", "Globo", "jornalismo", "televisão brasileira"]
-keywords: "Gloria Maria, documentário, Globo, jornalismo, televisão brasileira"
-author: "Ana Luiza"
-data: "2025-04-15T15:11:09.541Z"
+title: Gloria Maria | Globo lança documentário sobre vida da jornalista
+slug: gloria-maria-globo-lana-documentrio-sobre-vida-da-jornalista
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/wapm-MITzgMAOZCkQq25o0PBETk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-15T113416.968.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/KWl3A_cUcTJk6RnqHq5dGT_MhW8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-15T113405.677.png
+tags:
+  - Gloria Maria
+  - documentário
+  - Globo
+  - jornalismo
+  - televisão brasileira
+keywords: 'Gloria Maria, documentário, Globo, jornalismo, televisão brasileira'
+author: Ana Luiza
+data: '2025-04-15T15:11:09.541Z'
+resumo: Minissérie chega à emissora em 27 de abril
 ---
 
 A Rede Globo anunciou a produção de uma série documental sobre a vida da lendária jornalista brasileira Gloria Maria. A obra faz parte das celebrações dos 60 anos da emissora, que foi fundada em 1965.

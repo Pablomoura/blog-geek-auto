@@ -1,14 +1,33 @@
 ---
-title: "The Town 2025 apresenta o novo Palco Quebrada com Belo, Hariel e show especial de Criolo"
-slug: "the-town-ter-palco-com-belo-hariel-e-novo-show-de-criolo"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/c48uUa1qMg9NMLNzVCye5vAhZgg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T213309.405.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ix8V9sao7iNmoYcAPG7eoCvi_gE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T213309.405.png"
-tags: ["The Town 2025", "Palco Quebrada", "Criolo", "Belo", "MC Hariel", "Batalha da Aldeia", "música", "festival", "shows"]
-keywords: "The Town 2025, Palco Quebrada, Criolo, Belo, MC Hariel, Batalha da Aldeia, música, festival, shows"
-author: "Luana Souza"
-data: "2025-04-16T00:44:12.497Z"
+title: >-
+  The Town 2025 apresenta o novo Palco Quebrada com Belo, Hariel e show especial
+  de Criolo
+slug: the-town-ter-palco-com-belo-hariel-e-novo-show-de-criolo
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/c48uUa1qMg9NMLNzVCye5vAhZgg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T213309.405.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ix8V9sao7iNmoYcAPG7eoCvi_gE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T213309.405.png
+tags:
+  - The Town 2025
+  - Palco Quebrada
+  - Criolo
+  - Belo
+  - MC Hariel
+  - Batalha da Aldeia
+  - música
+  - festival
+  - shows
+keywords: >-
+  The Town 2025, Palco Quebrada, Criolo, Belo, MC Hariel, Batalha da Aldeia,
+  música, festival, shows
+author: Luana Souza
+data: '2025-04-16T00:44:12.497Z'
+resumo: >-
+  O festival The Town 2025 introduz o Palco Quebrada com apresentações de Belo,
+  MC Hariel e um show comemorativo de 50 anos de Criolo, que também será
+  embaixador do espaço.
 ---
 
 O festival The Town 2025 revelou uma grande novidade nesta terça-feira (15): o Palco Quebrada. Este novo espaço contará com performances de grandes nomes como Belo, MC Hariel e Criolo, que realizará um show especial em comemoração aos seus 50 anos. Durante o anúncio, Criolo compartilhou sua empolgação: "Esse ano faço 50 anos e vou fazer uma turnê 'Criolo 50'. Faço a estreia nesse palco. É bom fazer 50, pensava que não ia chegar aqui".

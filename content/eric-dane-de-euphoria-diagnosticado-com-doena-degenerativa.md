@@ -1,14 +1,27 @@
 ---
-title: "Eric Dane, de Euphoria, é diagnosticado com doença degenerativa"
-slug: "eric-dane-de-euphoria-diagnosticado-com-doena-degenerativa"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/NdBsQ7tzmXlNjx0fyXgXgQkVr0k=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-10T215553.582.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/J24pQktn5U1TMtkWGFlClOiVRD0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T215553.582.png"
-tags: ["Eric Dane", "Euphoria", "esclerose lateral amiotrófica", "Grey's Anatomy", "HBO", "terceira temporada", "diagnóstico", "elenco"]
-keywords: "Eric Dane, Euphoria, esclerose lateral amiotrófica, Grey's Anatomy, HBO, terceira temporada, diagnóstico, elenco"
-author: "Luana Souza"
-data: "2025-04-11T02:48:35.497Z"
+title: 'Eric Dane, de Euphoria, é diagnosticado com doença degenerativa'
+slug: eric-dane-de-euphoria-diagnosticado-com-doena-degenerativa
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/NdBsQ7tzmXlNjx0fyXgXgQkVr0k=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-10T215553.582.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/J24pQktn5U1TMtkWGFlClOiVRD0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T215553.582.png
+tags:
+  - Eric Dane
+  - Euphoria
+  - esclerose lateral amiotrófica
+  - Grey's Anatomy
+  - HBO
+  - terceira temporada
+  - diagnóstico
+  - elenco
+keywords: >-
+  Eric Dane, Euphoria, esclerose lateral amiotrófica, Grey's Anatomy, HBO,
+  terceira temporada, diagnóstico, elenco
+author: Luana Souza
+data: '2025-04-11T02:48:35.497Z'
+resumo: Ator foi diagnosticado com esclerose lateral amiotrófica
 ---
 
 Eric Dane, ator renomado por seus papéis em séries como Euphoria e Grey's Anatomy, anunciou recentemente em uma entrevista à revista People que foi diagnosticado com esclerose lateral amiotrófica (ELA), também conhecida como doença de Lou Gehrig. Apesar do diagnóstico, Dane confirmou que isso não interferirá em seus compromissos profissionais, inclusive seu retorno para a terceira temporada de Euphoria, previsto para os próximos dias na HBO.

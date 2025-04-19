@@ -1,14 +1,28 @@
 ---
-title: "Controvérsia em 'The Beginning After the End': Fãs Pedem Cancelamento do Anime"
-slug: "the-beginning-after-the-end-fs-criam-petio-para-cancelar-anime-entenda"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/y8HCOw4WTmY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/XzTmFOYILrQxmWdRdw4gB_69nT0=/480x360/smart/extras/conteudos/Design_sem_nome_3_KMhVztk.jpg"
-tags: ["The Beginning After the End", "anime", "petição", "crítica", "Studio A-Cat", "Crunchyroll", "manhwa"]
-keywords: "The Beginning After the End, anime, petição, crítica, Studio A-Cat, Crunchyroll, manhwa"
-author: "Pablo Moura"
-data: "2025-04-16T14:11:30.856Z"
+title: 'Controvérsia em ''The Beginning After the End'': Fãs Pedem Cancelamento do Anime'
+slug: the-beginning-after-the-end-fs-criam-petio-para-cancelar-anime-entenda
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/y8HCOw4WTmY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/XzTmFOYILrQxmWdRdw4gB_69nT0=/480x360/smart/extras/conteudos/Design_sem_nome_3_KMhVztk.jpg
+tags:
+  - The Beginning After the End
+  - anime
+  - petição
+  - crítica
+  - Studio A-Cat
+  - Crunchyroll
+  - manhwa
+keywords: >-
+  The Beginning After the End, anime, petição, crítica, Studio A-Cat,
+  Crunchyroll, manhwa
+author: Pablo Moura
+data: '2025-04-16T14:11:30.856Z'
+resumo: >-
+  A nova adaptação anime de 'The Beginning After the End' enfrenta forte
+  rejeição dos fãs, resultando em uma petição para seu cancelamento devido à
+  qualidade da animação.
 ---
 
 A recente adaptação em anime de 'The Beginning After the End' tem enfrentado críticas severas logo após a estreia de seus primeiros episódios. Descontentes com a qualidade apresentada, alguns fãs do manhwa original estão pedindo o cancelamento da série pela produtora Studio A-Cat. Especificamente, o segundo episódio, intitulado 'The King, Under Attack', exacerbou as críticas, levando a uma considerável insatisfação entre os seguidores da série.

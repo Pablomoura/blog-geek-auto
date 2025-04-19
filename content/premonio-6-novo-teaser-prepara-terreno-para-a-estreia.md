@@ -1,14 +1,28 @@
 ---
-title: "Premonição 6: Laços de Sangue - Novo Teaser Anuncia Contagem Regressiva para a Estreia"
-slug: "premonio-6-novo-teaser-prepara-terreno-para-a-estreia"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/OcFbSWwiKwT2AUyYf9UF3ZdZoyw=/987x0/smart/uploads/conteudo/fotos/023_vZixs88.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/-pAAeh_Ks-examCLkUilAB-Izm4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-16_170031.png"
-tags: ["Premonição 6", "Laços de Sangue", "teaser", "estreia de filme", "terror", "suspense", "cinema"]
-keywords: "Premonição 6, Laços de Sangue, teaser, estreia de filme, terror, suspense, cinema"
-author: "Luana Souza"
-data: "2025-04-16T20:11:43.133Z"
+title: >-
+  Premonição 6: Laços de Sangue - Novo Teaser Anuncia Contagem Regressiva para a
+  Estreia
+slug: premonio-6-novo-teaser-prepara-terreno-para-a-estreia
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/OcFbSWwiKwT2AUyYf9UF3ZdZoyw=/987x0/smart/uploads/conteudo/fotos/023_vZixs88.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/-pAAeh_Ks-examCLkUilAB-Izm4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-16_170031.png
+tags:
+  - Premonição 6
+  - Laços de Sangue
+  - teaser
+  - estreia de filme
+  - terror
+  - suspense
+  - cinema
+keywords: >-
+  Premonição 6, Laços de Sangue, teaser, estreia de filme, terror, suspense,
+  cinema
+author: Luana Souza
+data: '2025-04-16T20:11:43.133Z'
+resumo: O aguardado filme de terror chegará às telonas brasileiras em um mês.
 ---
 
 O suspense aumenta à medida que o lançamento de 'Premonição 6: Laços de Sangue' se aproxima, com a divulgação de um novo teaser que, embora breve, é suficiente para atiçar a curiosidade dos fãs. Este teaser oferece um vislumbre de um dos personagens e sugere sua provável morte, mantendo a tradição da franquia de revelar o destino trágico dos seus protagonistas de maneira criativa e misteriosa.

@@ -1,14 +1,35 @@
 ---
-title: "Quarteto Fantástico: Primeiros Passos Revela Novo Trailer com Surfista Prateado e Galactus"
-slug: "quarteto-fantstico-primeiros-passos-ganha-novo-trailer-com-surfista-e-galactus"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/pAsmrKyMqaA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/kJmaJuTHVdxUlEXFfUUy5wxn3vg=/480x360/smart/extras/conteudos/imagem_2025-04-17_110126182.png"
-tags: ["Quarteto Fantástico", "MCU", "Pedro Pascal", "Vanessa Kirby", "Joseph Quinn", "Ebon Moss-Bachrach", "Ralph Ineson", "Julia Garner", "Matt Shakman", "Nova York retrofuturista", "Marvel Studios", "Fase 6 do MCU"]
-keywords: "Quarteto Fantástico, MCU, Pedro Pascal, Vanessa Kirby, Joseph Quinn, Ebon Moss-Bachrach, Ralph Ineson, Julia Garner, Matt Shakman, Nova York retrofuturista, Marvel Studios, Fase 6 do MCU"
-author: "Pablo Moura"
-data: "2025-04-17T14:10:11.060Z"
+title: >-
+  Quarteto Fantástico: Primeiros Passos Revela Novo Trailer com Surfista
+  Prateado e Galactus
+slug: quarteto-fantstico-primeiros-passos-ganha-novo-trailer-com-surfista-e-galactus
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/pAsmrKyMqaA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/kJmaJuTHVdxUlEXFfUUy5wxn3vg=/480x360/smart/extras/conteudos/imagem_2025-04-17_110126182.png
+tags:
+  - Quarteto Fantástico
+  - MCU
+  - Pedro Pascal
+  - Vanessa Kirby
+  - Joseph Quinn
+  - Ebon Moss-Bachrach
+  - Ralph Ineson
+  - Julia Garner
+  - Matt Shakman
+  - Nova York retrofuturista
+  - Marvel Studios
+  - Fase 6 do MCU
+keywords: >-
+  Quarteto Fantástico, MCU, Pedro Pascal, Vanessa Kirby, Joseph Quinn, Ebon
+  Moss-Bachrach, Ralph Ineson, Julia Garner, Matt Shakman, Nova York
+  retrofuturista, Marvel Studios, Fase 6 do MCU
+author: Pablo Moura
+data: '2025-04-17T14:10:11.060Z'
+resumo: >-
+  O aguardado filme do MCU, Quarteto Fantástico: Primeiros Passos, será lançado
+  em julho de 2025 e traz grandes novidades em seu elenco e trama.
 ---
 
 Após uma grande expectativa, o novo trailer de Quarteto Fantástico: Primeiros Passos finalmente foi divulgado, prometendo uma aventura épica no Universo Cinematográfico Marvel (MCU). O filme, agendado para estrear nos cinemas brasileiros em 24 de julho de 2025, introduz um elenco estelar e uma trama envolvente em uma Nova York de outra dimensão.

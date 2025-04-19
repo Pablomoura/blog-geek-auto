@@ -1,14 +1,27 @@
 ---
-title: "Val Kilmer | Causa da morte do ator é confirmada pelas autoridades"
-slug: "val-kilmer-causa-da-morte-do-ator-confirmada-pelas-autoridades"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/dtG04Sb1xLw6bb6oz-acdktE7Rw=/987x0/smart/uploads/conteudo/fotos/val-kilmer-capa.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/N39UAyFEU0G8YIi_9KMYRpcosBo=/480x360/smart/extras/conteudos/val-kilmer-capa.png"
-tags: ["Val Kilmer", "morte", "câncer de garganta", "pneumonia", "Top Gun", "Batman Eternamente", "The Doors", "tributo Tom Cruise"]
-keywords: "Val Kilmer, morte, câncer de garganta, pneumonia, Top Gun, Batman Eternamente, The Doors, tributo Tom Cruise"
-author: "Ana Luiza"
-data: "2025-04-11T02:49:01.098Z"
+title: Val Kilmer | Causa da morte do ator é confirmada pelas autoridades
+slug: val-kilmer-causa-da-morte-do-ator-confirmada-pelas-autoridades
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/dtG04Sb1xLw6bb6oz-acdktE7Rw=/987x0/smart/uploads/conteudo/fotos/val-kilmer-capa.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/N39UAyFEU0G8YIi_9KMYRpcosBo=/480x360/smart/extras/conteudos/val-kilmer-capa.png
+tags:
+  - Val Kilmer
+  - morte
+  - câncer de garganta
+  - pneumonia
+  - Top Gun
+  - Batman Eternamente
+  - The Doors
+  - tributo Tom Cruise
+keywords: >-
+  Val Kilmer, morte, câncer de garganta, pneumonia, Top Gun, Batman Eternamente,
+  The Doors, tributo Tom Cruise
+author: Ana Luiza
+data: '2025-04-11T02:49:01.098Z'
+resumo: Astro morreu aos 65 anos
 ---
 
 No dia 1º de abril, o cenário cinematográfico foi marcado pela perda de Val Kilmer, renomado ator conhecido por suas atuações em filmes icônicos como 'The Doors', 'Top Gun: Ases Indomáveis' e 'Batman Eternamente'. Inicialmente, relatou-se que a morte do ator foi devido a uma pneumonia, exacerbada por complicações de um câncer de garganta que ele enfrentou em 2015. Recentemente, o Departamento de Saúde Pública de Los Angeles confirmou que estas foram as causas de seu falecimento.

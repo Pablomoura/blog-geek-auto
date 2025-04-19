@@ -1,14 +1,25 @@
 ---
-title: "Piper Perabo entra para o elenco de Grey's Anatomy na 21ª temporada"
-slug: "greys-anatomy-ter-atriz-de-show-bar-no-elenco-da-21-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/z0nGNL7bUesbR4Nigltf3Krcxwo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-17T185950.077.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/XG73N2YZBty8vHLh9L7dM9J-_BI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-17T185950.077.png"
-tags: ["Grey's Anatomy", "Piper Perabo", "Show Bar", "21ª temporada", "Sony Channel", "Disney+"]
-keywords: "Grey's Anatomy, Piper Perabo, Show Bar, 21ª temporada, Sony Channel, Disney+"
-author: "Ana Luiza"
-data: "2025-04-17T23:10:25.012Z"
+title: Piper Perabo entra para o elenco de Grey's Anatomy na 21ª temporada
+slug: greys-anatomy-ter-atriz-de-show-bar-no-elenco-da-21-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/z0nGNL7bUesbR4Nigltf3Krcxwo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-17T185950.077.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/XG73N2YZBty8vHLh9L7dM9J-_BI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-17T185950.077.png
+tags:
+  - Grey's Anatomy
+  - Piper Perabo
+  - Show Bar
+  - 21ª temporada
+  - Sony Channel
+  - Disney+
+keywords: 'Grey''s Anatomy, Piper Perabo, Show Bar, 21ª temporada, Sony Channel, Disney+'
+author: Ana Luiza
+data: '2025-04-17T23:10:25.012Z'
+resumo: >-
+  Piper Perabo, conhecida por seu papel em Show Bar, terá participação
+  recorrente na nova temporada de Grey's Anatomy.
 ---
 
 A atriz Piper Perabo, famosa por seu trabalho em Show Bar, acaba de ser confirmada para um papel recorrente na 21ª temporada de Grey's Anatomy. Ela interpretará Jenna Gatlin, mãe de Dylan, uma criança de 9 anos que enfrenta uma cirurgia de alto risco no Grey Sloan Memorial Hospital.

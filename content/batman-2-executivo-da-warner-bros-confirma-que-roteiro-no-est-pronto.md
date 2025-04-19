@@ -1,14 +1,28 @@
 ---
-title: "Batman 2 | Executivo da Warner Bros. confirma que roteiro ainda está em desenvolvimento"
-slug: "batman-2-executivo-da-warner-bros-confirma-que-roteiro-no-est-pronto"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/ENtdMh8HevmR1366TTZfcn9ochI=/987x0/smart/uploads/conteudo/fotos/thebatman_VsV8SRW.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OjV4EHtNyZx7HChm1PCmwU6LNio=/480x360/smart/extras/conteudos/thebatman_AOaAKxU.jpg"
-tags: ["Batman 2", "Warner Bros", "Matt Reeves", "Robert Pattinson", "DC Studios", "James Gunn", "Peter Safran"]
-keywords: "Batman 2, Warner Bros, Matt Reeves, Robert Pattinson, DC Studios, James Gunn, Peter Safran"
-author: "Ana Luiza"
-data: "2025-04-12T14:08:12.893Z"
+title: >-
+  Batman 2 | Executivo da Warner Bros. confirma que roteiro ainda está em
+  desenvolvimento
+slug: batman-2-executivo-da-warner-bros-confirma-que-roteiro-no-est-pronto
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/ENtdMh8HevmR1366TTZfcn9ochI=/987x0/smart/uploads/conteudo/fotos/thebatman_VsV8SRW.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OjV4EHtNyZx7HChm1PCmwU6LNio=/480x360/smart/extras/conteudos/thebatman_AOaAKxU.jpg
+tags:
+  - Batman 2
+  - Warner Bros
+  - Matt Reeves
+  - Robert Pattinson
+  - DC Studios
+  - James Gunn
+  - Peter Safran
+keywords: >-
+  Batman 2, Warner Bros, Matt Reeves, Robert Pattinson, DC Studios, James Gunn,
+  Peter Safran
+author: Ana Luiza
+data: '2025-04-12T14:08:12.893Z'
+resumo: A sequência está programada para estrear em 2027
 ---
 
 Três anos após a estreia do filme 'O Batman' com Robert Pattinson, a sequência ainda está em fase de elaboração do roteiro. Pam Abdy, diretora executiva da Warner Bros. e Mike De Luca confirmaram a informação ao Deadline esta semana.

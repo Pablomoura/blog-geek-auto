@@ -1,14 +1,22 @@
 ---
-title: "Ted Kotcheff, diretor de Rambo, morre aos 94 anos"
-slug: "ted-kotcheff-diretor-de-rambo-morre-aos-94-anos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Nt-rFdH6kmT6kmyNibZQCGUTt_w=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-11T204442.523.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/llzI5q0HXC3JHM86QHKa4lItvS0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T204442.523.png"
-tags: ["Ted Kotcheff", "diretor", "Rambo", "cinema", "obituário"]
-keywords: "Ted Kotcheff, diretor, Rambo, cinema, obituário"
-author: "Ana Luiza"
-data: "2025-04-11T23:57:07.165Z"
+title: 'Ted Kotcheff, diretor de Rambo, morre aos 94 anos'
+slug: ted-kotcheff-diretor-de-rambo-morre-aos-94-anos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Nt-rFdH6kmT6kmyNibZQCGUTt_w=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-11T204442.523.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/llzI5q0HXC3JHM86QHKa4lItvS0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T204442.523.png
+tags:
+  - Ted Kotcheff
+  - diretor
+  - Rambo
+  - cinema
+  - obituário
+keywords: 'Ted Kotcheff, diretor, Rambo, cinema, obituário'
+author: Ana Luiza
+data: '2025-04-11T23:57:07.165Z'
+resumo: 'Diretor também comandou Um Morto Muito Louco e produziu Law & Order: SVU'
 ---
 
 O diretor canadense Ted Kotcheff, conhecido por filmes como Rambo - Programado Para Matar e Um Morto Muito Louco, faleceu aos 94 anos, conforme anunciado pelo The Globe and Mail.

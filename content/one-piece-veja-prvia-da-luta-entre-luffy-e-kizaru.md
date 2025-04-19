@@ -1,14 +1,32 @@
 ---
-title: "One Piece: Antecipação para o Confronto de Luffy e Kizaru no Novo Episódio"
-slug: "one-piece-veja-prvia-da-luta-entre-luffy-e-kizaru"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/ZZlYh62681A?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/am4qd5Co8QgFEfPE2cypfuF4ogU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-18T212921.696.png"
-tags: ["One Piece", "Luffy", "Kizaru", "Vegapunk", "Crunchyroll", "Netflix", "anime", "Egghead arc", "piratas", "Almirante", "batalha", "episódio 1125"]
-keywords: "One Piece, Luffy, Kizaru, Vegapunk, Crunchyroll, Netflix, anime, Egghead arc, piratas, Almirante, batalha, episódio 1125"
-author: "Luana Souza"
-data: "2025-04-19T00:36:04.627Z"
+title: 'One Piece: Antecipação para o Confronto de Luffy e Kizaru no Novo Episódio'
+slug: one-piece-veja-prvia-da-luta-entre-luffy-e-kizaru
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/ZZlYh62681A?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/am4qd5Co8QgFEfPE2cypfuF4ogU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-18T212921.696.png
+tags:
+  - One Piece
+  - Luffy
+  - Kizaru
+  - Vegapunk
+  - Crunchyroll
+  - Netflix
+  - anime
+  - Egghead arc
+  - piratas
+  - Almirante
+  - batalha
+  - episódio 1125
+keywords: >-
+  One Piece, Luffy, Kizaru, Vegapunk, Crunchyroll, Netflix, anime, Egghead arc,
+  piratas, Almirante, batalha, episódio 1125
+author: Luana Souza
+data: '2025-04-19T00:36:04.627Z'
+resumo: >-
+  O próximo episódio de One Piece promete fortes emoções com a luta esperada
+  entre Luffy e o Almirante Kizaru.
 ---
 
 O canal oficial de One Piece no Youtube liberou uma empolgante prévia do episódio que será lançado neste domingo, 20 de abril, marcando um dos pontos altos do arco de Egghead. A prévia mostra os preparativos para o confronto entre Luffy e o Almirante Kizaru, que chega à ilha com uma imponente frota para capturar Vegapunk e enfrentar os Piratas do Chapéu de Palha.

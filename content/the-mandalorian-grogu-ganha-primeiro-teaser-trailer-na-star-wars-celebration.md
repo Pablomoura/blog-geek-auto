@@ -1,14 +1,33 @@
 ---
-title: "The Mandalorian & Grogu: Revelado o Emocionante Teaser na Star Wars Celebration"
-slug: "the-mandalorian-grogu-ganha-primeiro-teaser-trailer-na-star-wars-celebration"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/eJg_dX7LW48CdBhg02avtM15Tmo=/987x0/smart/uploads/conteudo/fotos/madalorian-grogu.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/9yTX-dBsScUr74LMeRcrUmadJ3o=/480x360/smart/extras/conteudos/WhatsApp_Image_2025-04-17_at_19.07.11.jpeg"
-tags: ["The Mandalorian", "Grogu", "Star Wars", "teaser trailer", "Star Wars Celebration", "cinema", "Jon Favreau", "Pedro Pascal", "Sigourney Weaver", "Jeremy Allen White"]
-keywords: "The Mandalorian, Grogu, Star Wars, teaser trailer, Star Wars Celebration, cinema, Jon Favreau, Pedro Pascal, Sigourney Weaver, Jeremy Allen White"
-author: "Luana Souza"
-data: "2025-04-18T02:21:23.646Z"
+title: >-
+  The Mandalorian & Grogu: Revelado o Emocionante Teaser na Star Wars
+  Celebration
+slug: the-mandalorian-grogu-ganha-primeiro-teaser-trailer-na-star-wars-celebration
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/eJg_dX7LW48CdBhg02avtM15Tmo=/987x0/smart/uploads/conteudo/fotos/madalorian-grogu.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/9yTX-dBsScUr74LMeRcrUmadJ3o=/480x360/smart/extras/conteudos/WhatsApp_Image_2025-04-17_at_19.07.11.jpeg
+tags:
+  - The Mandalorian
+  - Grogu
+  - Star Wars
+  - teaser trailer
+  - Star Wars Celebration
+  - cinema
+  - Jon Favreau
+  - Pedro Pascal
+  - Sigourney Weaver
+  - Jeremy Allen White
+keywords: >-
+  The Mandalorian, Grogu, Star Wars, teaser trailer, Star Wars Celebration,
+  cinema, Jon Favreau, Pedro Pascal, Sigourney Weaver, Jeremy Allen White
+author: Luana Souza
+data: '2025-04-18T02:21:23.646Z'
+resumo: >-
+  O filme 'The Mandalorian & Grogu' promete ação intensa e reúne novamente a
+  adorada dupla em uma nova aventura.
 ---
 
 Durante a empolgante Star Wars Celebration, foi lançado o primeiro teaser trailer de 'The Mandalorian & Grogu', trazendo de volta a dinâmica dupla da série de sucesso. O trailer inicia com uma cena intensa dentro da cabine de um AT-AT, sob ataque, e rapidamente a ação escala com a entrada triunfal do Mandaloriano. Equipado com blaster e lança-chamas, ele enfrenta adversários em uma sequência eletrizante que termina com um AT-AT explodindo e caindo de um penhasco coberto de neve.

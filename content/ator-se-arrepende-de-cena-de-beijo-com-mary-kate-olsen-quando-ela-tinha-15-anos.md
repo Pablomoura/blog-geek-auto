@@ -1,14 +1,31 @@
 ---
-title: "Austin Nichols Expressa Arrependimento por Cena de Beijo com Mary-Kate Olsen em 'Férias ao Sol'"
-slug: "ator-se-arrepende-de-cena-de-beijo-com-mary-kate-olsen-quando-ela-tinha-15-anos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Jwgj-3ansSTwc3JbRd66frkHqXY=/987x0/smart/uploads/conteudo/fotos/nichols.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/_2JcaVFCZdn-tt3-wBxOp0gq7Z0=/480x360/smart/extras/conteudos/nichols.jpg"
-tags: ["Austin Nichols", "Mary-Kate Olsen", "Férias ao Sol", "cena de beijo", "arrependimento", "filme", "idade"]
-keywords: "Austin Nichols, Mary-Kate Olsen, Férias ao Sol, cena de beijo, arrependimento, filme, idade"
-author: "Ana Luiza"
-data: "2025-04-18T15:10:30.466Z"
+title: >-
+  Austin Nichols Expressa Arrependimento por Cena de Beijo com Mary-Kate Olsen
+  em 'Férias ao Sol'
+slug: >-
+  ator-se-arrepende-de-cena-de-beijo-com-mary-kate-olsen-quando-ela-tinha-15-anos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Jwgj-3ansSTwc3JbRd66frkHqXY=/987x0/smart/uploads/conteudo/fotos/nichols.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/_2JcaVFCZdn-tt3-wBxOp0gq7Z0=/480x360/smart/extras/conteudos/nichols.jpg
+tags:
+  - Austin Nichols
+  - Mary-Kate Olsen
+  - Férias ao Sol
+  - cena de beijo
+  - arrependimento
+  - filme
+  - idade
+keywords: >-
+  Austin Nichols, Mary-Kate Olsen, Férias ao Sol, cena de beijo, arrependimento,
+  filme, idade
+author: Ana Luiza
+data: '2025-04-18T15:10:30.466Z'
+resumo: >-
+  Austin Nichols tinha 21 anos e Mary-Kate Olsen 15 quando atuaram como par
+  romântico no filme de 2001.
 ---
 
 No filme 'Férias ao Sol' de 2001, uma cena de beijo entre Austin Nichols e Mary-Kate Olsen gerou desconforto para o ator, que na época tinha 21 anos, enquanto Olsen apenas 15. Em recente participação no podcast Drama Queens, Nichols revelou seu arrependimento pela cena, destacando o quão inapropriado se sentiu durante as filmagens.

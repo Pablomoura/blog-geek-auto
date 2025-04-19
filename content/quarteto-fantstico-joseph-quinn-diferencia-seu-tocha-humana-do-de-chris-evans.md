@@ -1,14 +1,29 @@
 ---
-title: "Quarteto Fantástico | Joseph Quinn diferencia seu Tocha Humana do de Chris Evans"
-slug: "quarteto-fantstico-joseph-quinn-diferencia-seu-tocha-humana-do-de-chris-evans"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/lv3X7xbvLv7YKy1GZ__V808uNXU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T102724.033.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OclmiHo2k5lc0Vul2styp2jQKbA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T102625.925.png"
-tags: ["Quarteto Fantástico", "Joseph Quinn", "Chris Evans", "Tocha Humana", "Marvel Studios", "MCU Fase 6", "cinema", "super-heróis"]
-keywords: "Quarteto Fantástico, Joseph Quinn, Chris Evans, Tocha Humana, Marvel Studios, MCU Fase 6, cinema, super-heróis"
-author: "Ana Luiza"
-data: "2025-04-11T14:11:09.206Z"
+title: >-
+  Quarteto Fantástico | Joseph Quinn diferencia seu Tocha Humana do de Chris
+  Evans
+slug: quarteto-fantstico-joseph-quinn-diferencia-seu-tocha-humana-do-de-chris-evans
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/lv3X7xbvLv7YKy1GZ__V808uNXU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T102724.033.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OclmiHo2k5lc0Vul2styp2jQKbA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T102625.925.png
+tags:
+  - Quarteto Fantástico
+  - Joseph Quinn
+  - Chris Evans
+  - Tocha Humana
+  - Marvel Studios
+  - MCU Fase 6
+  - cinema
+  - super-heróis
+keywords: >-
+  Quarteto Fantástico, Joseph Quinn, Chris Evans, Tocha Humana, Marvel Studios,
+  MCU Fase 6, cinema, super-heróis
+author: Ana Luiza
+data: '2025-04-11T14:11:09.206Z'
+resumo: Novo filme da família de heróis estreia em julho
 ---
 
 À medida que se aproxima a estreia do filme 'Quarteto Fantástico: Primeiros Passos', Joseph Quinn, que interpreta Johnny Storm/Tocha Humana, destacou as diferenças entre sua versão do personagem e a anteriormente interpretada por Chris Evans. Em entrevista à Entertainment Weekly, Quinn refletiu sobre a imagem tradicional de Johnny como um playboy despreocupado, questionando se tal comportamento ainda é considerado atraente. Ele explicou que seu Johnny será mais consciente e menos insensível aos sentimentos alheios, apresentando uma autoconsciência sobre suas motivações para buscar atenção constante.

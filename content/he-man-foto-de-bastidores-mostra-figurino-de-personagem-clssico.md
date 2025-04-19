@@ -1,14 +1,29 @@
 ---
-title: "He-Man: Novo Olhar para o Figurino de Fisto no Filme dos Mestres do Universo"
-slug: "he-man-foto-de-bastidores-mostra-figurino-de-personagem-clssico"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/h-I4rHbbdQ8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/_lRi9w1h3FlPU56ZNIQjHkHRbUY=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-15_163444.png"
-tags: ["He-Man", "Mestres do Universo", "filme", "Fisto", "CGI", "Jóhannes Haukur Jóhannesson", "figurino", "bastidores"]
-keywords: "He-Man, Mestres do Universo, filme, Fisto, CGI, Jóhannes Haukur Jóhannesson, figurino, bastidores"
-author: "Luana Souza"
-data: "2025-04-15T20:13:28.222Z"
+title: 'He-Man: Novo Olhar para o Figurino de Fisto no Filme dos Mestres do Universo'
+slug: he-man-foto-de-bastidores-mostra-figurino-de-personagem-clssico
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/h-I4rHbbdQ8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/_lRi9w1h3FlPU56ZNIQjHkHRbUY=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-15_163444.png
+tags:
+  - He-Man
+  - Mestres do Universo
+  - filme
+  - Fisto
+  - CGI
+  - Jóhannes Haukur Jóhannesson
+  - figurino
+  - bastidores
+keywords: >-
+  He-Man, Mestres do Universo, filme, Fisto, CGI, Jóhannes Haukur Jóhannesson,
+  figurino, bastidores
+author: Luana Souza
+data: '2025-04-15T20:13:28.222Z'
+resumo: >-
+  Uma nova imagem dos bastidores revela detalhes do figurino de Fisto para o
+  próximo filme de He-Man, com adições de CGI planejadas para completar o
+  visual.
 ---
 
 O universo de He-Man está se expandindo com um novo filme, e uma imagem recente dos bastidores está gerando excitação entre os fãs. Jóhannes Haukur Jóhannesson, que interpreta Fisto no filme, compartilhou uma foto em seu Instagram mostrando as manoplas do personagem. A imagem indica que Fisto manterá a icônica grande luva de sua versão animada, com detalhes adicionais a serem implementados posteriormente por meio de efeitos visuais computadorizados.

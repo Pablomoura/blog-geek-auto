@@ -1,14 +1,27 @@
 ---
-title: "Chicago Fire | Eamonn Walker sugere morte de personagem querido dos fãs"
-slug: "chicago-fire-eamonn-walker-sugere-morte-de-personagem-querido-dos-fs"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/EJsLdNzkUigWO1Q3ddHARmDqum4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-15T105338.582.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/L8eCW-8jTZl2bjm4iQfqovHG9Gw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-15T105317.862.png"
-tags: ["Chicago Fire", "Eamonn Walker", "Wallace Boden", "série", "temporada 13", "personagem", "morte", "Universal TV"]
-keywords: "Chicago Fire, Eamonn Walker, Wallace Boden, série, temporada 13, personagem, morte, Universal TV"
-author: "Luana Souza"
-data: "2025-04-15T14:11:10.902Z"
+title: Chicago Fire | Eamonn Walker sugere morte de personagem querido dos fãs
+slug: chicago-fire-eamonn-walker-sugere-morte-de-personagem-querido-dos-fs
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/EJsLdNzkUigWO1Q3ddHARmDqum4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-15T105338.582.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/L8eCW-8jTZl2bjm4iQfqovHG9Gw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-15T105317.862.png
+tags:
+  - Chicago Fire
+  - Eamonn Walker
+  - Wallace Boden
+  - série
+  - temporada 13
+  - personagem
+  - morte
+  - Universal TV
+keywords: >-
+  Chicago Fire, Eamonn Walker, Wallace Boden, série, temporada 13, personagem,
+  morte, Universal TV
+author: Luana Souza
+data: '2025-04-15T14:11:10.902Z'
+resumo: 'Próximo episódio promete fortes emoções, segundo intérprete de Wallace Boden'
 ---
 
 A série 'Chicago Fire' pode surpreender negativamente os fãs em sua 13ª temporada. Eamonn Walker, que dá vida ao Comandante Wallace Boden, revelou que um personagem muito amado pelo público pode morrer em breve.

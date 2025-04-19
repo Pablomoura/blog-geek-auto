@@ -1,14 +1,26 @@
 ---
-title: "He-Man | Fotos do set do live-action mostram Adam e Castelo de Grayskull"
-slug: "he-man-fotos-do-set-do-live-action-mostram-adam-e-castelo-de-grayskull"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/h-I4rHbbdQ8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/aWsBj2Th58aATFzDFgARO-tD9Ag=/480x360/smart/extras/conteudos/grayskull.jpg"
-tags: ["He-Man", "Mestres do Universo", "live-action", "Nicholas Galitzine", "Jared Leto", "Castelo de Grayskull", "adaptação cinematográfica", "Travis Knight"]
-keywords: "He-Man, Mestres do Universo, live-action, Nicholas Galitzine, Jared Leto, Castelo de Grayskull, adaptação cinematográfica, Travis Knight"
-author: "Luana Souza"
-data: "2025-04-11T16:14:31.785Z"
+title: He-Man | Fotos do set do live-action mostram Adam e Castelo de Grayskull
+slug: he-man-fotos-do-set-do-live-action-mostram-adam-e-castelo-de-grayskull
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/h-I4rHbbdQ8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/aWsBj2Th58aATFzDFgARO-tD9Ag=/480x360/smart/extras/conteudos/grayskull.jpg
+tags:
+  - He-Man
+  - Mestres do Universo
+  - live-action
+  - Nicholas Galitzine
+  - Jared Leto
+  - Castelo de Grayskull
+  - adaptação cinematográfica
+  - Travis Knight
+keywords: >-
+  He-Man, Mestres do Universo, live-action, Nicholas Galitzine, Jared Leto,
+  Castelo de Grayskull, adaptação cinematográfica, Travis Knight
+author: Luana Souza
+data: '2025-04-11T16:14:31.785Z'
+resumo: O novo Mestres do Universo tem estreia marcada para 5 de junho de 2026.
 ---
 
 As gravações do filme Mestres do Universo, adaptação do icônico desenho He-Man e os Mestres do Universo, estão avançando rapidamente. Imagens recentes do set revelam a construção do Castelo de Grayskull, feita com efeitos práticos, e apresentam Nicholas Galitzine como o Príncipe Adam, o alter-ego de He-Man.

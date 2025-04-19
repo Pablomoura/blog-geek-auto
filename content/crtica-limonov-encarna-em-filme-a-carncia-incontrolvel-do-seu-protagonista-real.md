@@ -1,25 +1,43 @@
 ---
-title: "Análise de 'Limonov: O Camaleão Russo' — Um Estudo de Caráter Além da Biografia"
-slug: "crtica-limonov-encarna-em-filme-a-carncia-incontrolvel-do-seu-protagonista-real"
-categoria: "FILMES"
-tipo: "critica"
-midia: "https://cdn.ome.lt/XHkMHu5igs3gGVTSiRTyFfd8cqU=/987x0/smart/uploads/conteudo/fotos/limonov_topo.jpeg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/w8nat3wJQvrtobO6f8SRGe-E7kk=/480x360/smart/extras/conteudos/limonov_topo.jpeg"
-tags: ["Limonov O Camaleão Russo", "Ben Whishaw", "Kirill Serebrennikov", "Festival de Cannes", "biopic", "estudo de personagem", "cinema"]
-keywords: "Limonov O Camaleão Russo, Ben Whishaw, Kirill Serebrennikov, Festival de Cannes, biopic, estudo de personagem, cinema"
-author: "Luana Souza"
-data: "2025-04-19T00:39:18.155Z"
-capaObra: "https://cdn.ome.lt/iuupa02jGvSq-uhmfh490iZnUTE=/200x0/smart/extras/capas/limonov_JHO0eLP.jpg"
+title: >-
+  Análise de 'Limonov: O Camaleão Russo' — Um Estudo de Caráter Além da
+  Biografia
+slug: >-
+  crtica-limonov-encarna-em-filme-a-carncia-incontrolvel-do-seu-protagonista-real
+categoria: FILMES
+tipo: critica
+midia: >-
+  https://cdn.ome.lt/XHkMHu5igs3gGVTSiRTyFfd8cqU=/987x0/smart/uploads/conteudo/fotos/limonov_topo.jpeg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/w8nat3wJQvrtobO6f8SRGe-E7kk=/480x360/smart/extras/conteudos/limonov_topo.jpeg
+tags:
+  - Limonov O Camaleão Russo
+  - Ben Whishaw
+  - Kirill Serebrennikov
+  - Festival de Cannes
+  - biopic
+  - estudo de personagem
+  - cinema
+keywords: >-
+  Limonov O Camaleão Russo, Ben Whishaw, Kirill Serebrennikov, Festival de
+  Cannes, biopic, estudo de personagem, cinema
+author: Luana Souza
+data: '2025-04-19T00:39:18.155Z'
+capaObra: >-
+  https://cdn.ome.lt/iuupa02jGvSq-uhmfh490iZnUTE=/200x0/smart/extras/capas/limonov_JHO0eLP.jpg
 notaCritico: 4
-tituloPortugues: "Limonov: O Camaleão Russo"
-tituloOriginal: "Limonov: The Ballad"
-ano: "2024"
-pais: "Itália/França/Espanha"
-classificacao: ""
-duracao: "138 min"
-direcao: "Kirill Serebrennikov"
-elenco: "Maria Mashkova , Ben Whishaw"
+tituloPortugues: 'Limonov: O Camaleão Russo'
+tituloOriginal: 'Limonov: The Ballad'
+ano: '2024'
+pais: Itália/França/Espanha
+classificacao: ''
+duracao: 138 min
+direcao: Kirill Serebrennikov
+elenco: 'Maria Mashkova , Ben Whishaw'
+resumo: >-
+  Estrelado por Ben Whishaw, o filme se destaca por transcender o formato
+  tradicional de biopics, focando em um profundo estudo de personagem.
 ---
 
 No cenário vibrante do Festival de Cannes 2024, 'Limonov: O Camaleão Russo' se destacou por sua abordagem inovadora. A vida do poeta Limonov é conhecida por suas múltiplas facetas e transformações radicais, mas o filme escolhe olhar além dos eventos documentados, explorando a incessante busca do protagonista, interpretado por Ben Whishaw, para preencher seu vazio existencial através de conflitos, polêmicas e uma série de emoções intensas.

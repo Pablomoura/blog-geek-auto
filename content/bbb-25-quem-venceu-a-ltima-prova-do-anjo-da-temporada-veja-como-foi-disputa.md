@@ -1,14 +1,30 @@
 ---
-title: "BBB 25 | Vinícius é o vencedor da última prova do anjo da temporada"
-slug: "bbb-25-quem-venceu-a-ltima-prova-do-anjo-da-temporada-veja-como-foi-disputa"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/e6Sl_Klf5j8yXDn2eKsJH90g3ik=/987x0/smart/uploads/conteudo/fotos/prova-do-anjo-bbb.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ZRnxXbzGBvYLL-iRbHA-dS5ltsE=/480x360/smart/extras/conteudos/prova-do-anjo-bbb.png"
-tags: ["BBB 25", "Prova do Anjo", "Vinícius", "paredão", "reality show", "TV Globo", "votação", "Globoplay", "especial-BBB 25"]
-keywords: "BBB 25, Prova do Anjo, Vinícius, paredão, reality show, TV Globo, votação, Globoplay"
-author: "Ana Luiza"
-data: "2025-04-11T19:09:21.801Z"
+title: BBB 25 | Vinícius é o vencedor da última prova do anjo da temporada
+slug: bbb-25-quem-venceu-a-ltima-prova-do-anjo-da-temporada-veja-como-foi-disputa
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/e6Sl_Klf5j8yXDn2eKsJH90g3ik=/987x0/smart/uploads/conteudo/fotos/prova-do-anjo-bbb.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ZRnxXbzGBvYLL-iRbHA-dS5ltsE=/480x360/smart/extras/conteudos/prova-do-anjo-bbb.png
+tags:
+  - BBB 25
+  - Prova do Anjo
+  - Vinícius
+  - paredão
+  - reality show
+  - TV Globo
+  - votação
+  - Globoplay
+  - especial-BBB 25
+keywords: >-
+  BBB 25, Prova do Anjo, Vinícius, paredão, reality show, TV Globo, votação,
+  Globoplay
+author: Ana Luiza
+data: '2025-04-11T19:09:21.801Z'
+resumo: >-
+  A competição intensifica-se com a última Prova do Anjo do BBB 25, que não
+  oferece imunidade mas permite abençoar outro participante.
 ---
 
 Na tarde desta sexta-feira (11), o Big Brother Brasil 25 avançou com seu ritmo acelerado com a realização da última Prova do Anjo da temporada, estabelecendo as bases para a formação de um novo paredão, que já conta com Renata como indicada. Diferentemente da semana anterior, o vencedor desta prova não ganhará imunidade, mas terá a oportunidade de passar a 'benção' para outro participante.

@@ -1,14 +1,28 @@
 ---
-title: "Superman: James Gunn Revela Imagem Inédita e Deixa Mensagem Emocionante"
-slug: "superman-james-gunn-publica-foto-indita-e-mensagem-emocionante"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/DmY6SLXm4Ao?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/XQdc9VZuFbAJFKu-mAISCeQhqo0=/480x360/smart/extras/conteudos/01_zzxxHYo.jpg"
-tags: ["Superman", "James Gunn", "David Corenswet", "Rachel Brosnahan", "DC", "filme de super-heróis", "Superman Day", "especial-Superman"]
-keywords: "Superman, James Gunn, David Corenswet, Rachel Brosnahan, DC, filme de super-heróis, Superman Day"
-author: "Pablo Moura"
-data: "2025-04-18T21:10:18.026Z"
+title: 'Superman: James Gunn Revela Imagem Inédita e Deixa Mensagem Emocionante'
+slug: superman-james-gunn-publica-foto-indita-e-mensagem-emocionante
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/DmY6SLXm4Ao?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/XQdc9VZuFbAJFKu-mAISCeQhqo0=/480x360/smart/extras/conteudos/01_zzxxHYo.jpg
+tags:
+  - Superman
+  - James Gunn
+  - David Corenswet
+  - Rachel Brosnahan
+  - DC
+  - filme de super-heróis
+  - Superman Day
+  - especial-Superman
+keywords: >-
+  Superman, James Gunn, David Corenswet, Rachel Brosnahan, DC, filme de
+  super-heróis, Superman Day
+author: Pablo Moura
+data: '2025-04-18T21:10:18.026Z'
+resumo: >-
+  O diretor celebra o Superman Day com uma nova foto e elogios ao elenco do
+  próximo filme do Superman.
 ---
 
 Em uma celebração especial do Superman Day, o diretor James Gunn compartilhou uma nova imagem do próximo filme do Superman, juntamente com uma mensagem tocante. A foto mostra os atores David Corenswet e Rachel Brosnahan nos bastidores, ilustrando a camaradagem e o espírito de equipe.

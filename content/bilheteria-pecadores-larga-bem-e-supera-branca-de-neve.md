@@ -1,14 +1,28 @@
 ---
-title: "Sucesso nas Bilheterias: 'Pecadores' Supera 'Branca de Neve' em Estreia"
-slug: "bilheteria-pecadores-larga-bem-e-supera-branca-de-neve"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/2QSsg2Ql1_7SYjvHFxj6oG8pH08=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T130159.957.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/YBUiQzQEZWWu17gfLY1e4QNQnjE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T130143.525.png"
-tags: ["Pecadores", "Ryan Coogler", "Michael B. Jordan", "Branca de Neve", "bilheteria", "estreia de filmes", "filmes de terror"]
-keywords: "Pecadores, Ryan Coogler, Michael B. Jordan, Branca de Neve, bilheteria, estreia de filmes, filmes de terror"
-author: "Pablo Moura"
-data: "2025-04-18T16:12:16.452Z"
+title: 'Sucesso nas Bilheterias: ''Pecadores'' Supera ''Branca de Neve'' em Estreia'
+slug: bilheteria-pecadores-larga-bem-e-supera-branca-de-neve
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/2QSsg2Ql1_7SYjvHFxj6oG8pH08=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T130159.957.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/YBUiQzQEZWWu17gfLY1e4QNQnjE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T130143.525.png
+tags:
+  - Pecadores
+  - Ryan Coogler
+  - Michael B. Jordan
+  - Branca de Neve
+  - bilheteria
+  - estreia de filmes
+  - filmes de terror
+keywords: >-
+  Pecadores, Ryan Coogler, Michael B. Jordan, Branca de Neve, bilheteria,
+  estreia de filmes, filmes de terror
+author: Pablo Moura
+data: '2025-04-18T16:12:16.452Z'
+resumo: >-
+  O filme 'Pecadores' pode atingir US$ 600 milhões em arrecadação global após
+  uma estreia robusta.
 ---
 
 O filme de terror 'Pecadores', dirigido por Ryan Coogler e estrelado por Michael B. Jordan, começou com força total nas bilheterias internacionais. Em sua estreia, o filme já demonstrou seu potencial ao superar os números iniciais de 'Branca de Neve', o mais recente remake em live-action da Disney.

@@ -1,14 +1,29 @@
 ---
-title: "Pecadores, Tempo de Guerra e mais: confira as principais estreias cinematográficas da semana"
-slug: "pecadores-tempo-de-guerra-e-mais-as-melhores-estreias-da-semana"
-categoria: "FILMES EM CARTAZ"
-midia: "https://www.youtube.com/embed/e9kwQahD8YY?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/SMIxD1iUrKZ5YBZL_Guwm4ccID0=/480x360/smart/extras/conteudos/pecadoresvariante.jpg"
-tags: ["cinema", "estreias", "filmes", "Michael B. Jordan", "Ryan Coogler", "Alex Garland", "Paul W.S. Anderson", "Milla Jovovich", "Dave Bautista"]
-keywords: "cinema, estreias, filmes, Michael B. Jordan, Ryan Coogler, Alex Garland, Paul W.S. Anderson, Milla Jovovich, Dave Bautista"
-author: "Pablo Moura"
-data: "2025-04-14T13:24:06.886Z"
+title: >-
+  Pecadores, Tempo de Guerra e mais: confira as principais estreias
+  cinematográficas da semana
+slug: pecadores-tempo-de-guerra-e-mais-as-melhores-estreias-da-semana
+categoria: FILMES EM CARTAZ
+midia: 'https://www.youtube.com/embed/e9kwQahD8YY?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/SMIxD1iUrKZ5YBZL_Guwm4ccID0=/480x360/smart/extras/conteudos/pecadoresvariante.jpg
+tags:
+  - cinema
+  - estreias
+  - filmes
+  - Michael B. Jordan
+  - Ryan Coogler
+  - Alex Garland
+  - Paul W.S. Anderson
+  - Milla Jovovich
+  - Dave Bautista
+keywords: >-
+  cinema, estreias, filmes, Michael B. Jordan, Ryan Coogler, Alex Garland, Paul
+  W.S. Anderson, Milla Jovovich, Dave Bautista
+author: Pablo Moura
+data: '2025-04-14T13:24:06.886Z'
+resumo: Diversos filmes aguardados chegam aos cinemas do Brasil nesta semana.
 ---
 
 Esta semana, os cinemas brasileiros estão repletos de novidades, com destaque para o ator Michael B. Jordan em 'Pecadores', um filme de terror dirigido por Ryan Coogler (Pantera Negra) que revisita o mito dos vampiros, onde Jordan interpreta irmãos gêmeos.

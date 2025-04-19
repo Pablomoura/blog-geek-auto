@@ -1,14 +1,27 @@
 ---
-title: "Superman: Divulgada Primeira Imagem Completa do Herói Metamorfo no Novo Filme"
-slug: "superman-liberada-primeira-imagem-de-heri-indito-no-filme"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/t6Ol8f_sqb8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/-gkYjdBceM3yR_TBubKP_NvrLMc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-18_131500.png"
-tags: ["Superman", "James Gunn", "DC Comics", "Metamorfo", "filme", "Anthony Carrigan", "novo DCU", "especial-Superman"]
-keywords: "Superman, James Gunn, DC Comics, Metamorfo, filme, Anthony Carrigan, novo DCU"
-author: "Luana Souza"
-data: "2025-04-18T17:09:40.478Z"
+title: 'Superman: Divulgada Primeira Imagem Completa do Herói Metamorfo no Novo Filme'
+slug: superman-liberada-primeira-imagem-de-heri-indito-no-filme
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/t6Ol8f_sqb8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/-gkYjdBceM3yR_TBubKP_NvrLMc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-18_131500.png
+tags:
+  - Superman
+  - James Gunn
+  - DC Comics
+  - Metamorfo
+  - filme
+  - Anthony Carrigan
+  - novo DCU
+  - especial-Superman
+keywords: 'Superman, James Gunn, DC Comics, Metamorfo, filme, Anthony Carrigan, novo DCU'
+author: Luana Souza
+data: '2025-04-18T17:09:40.478Z'
+resumo: >-
+  Um novo vídeo de bastidores revela detalhes e a primeira imagem oficial do
+  Metamorfo, interpretado por Anthony Carrigan, no próximo filme de Superman
+  dirigido por James Gunn.
 ---
 
 O universo cinematográfico da DC Comics está prestes a expandir com o lançamento do novo filme de Superman, que apresentará não apenas o icônico herói, mas também outros personagens adorados dos quadrinhos. Um recente vídeo de bastidores ofereceu aos fãs uma espiada exclusiva na produção, incluindo a primeira imagem oficial de Metamorfo, personagem interpretado por Anthony Carrigan. Fiel à sua representação nos quadrinhos, Metamorfo foi mostrado com seu distintivo rosto branco e corpo dividido em cores contrastantes.

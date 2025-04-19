@@ -1,14 +1,21 @@
 ---
-title: "Karatê Kid Lendas | Jackie Chan é destaque em novo vídeo de bastidores"
-slug: "karat-kid-lendas-vdeo-de-bastidores-destaca-simpatia-de-jackie-chan"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FdltWYIq2w6UlssbZskp1rWY3bs=/987x0/smart/uploads/conteudo/fotos/karatekidlendas.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/zxjJ9QZ58VNYm9eDks3QO5KLPTM=/480x360/smart/extras/conteudos/karatekidlendas.jpg"
-tags: ["Karatê Kid", "Jackie Chan", "cinema", "artes marciais"]
-keywords: "Karatê Kid, Jackie Chan, cinema, artes marciais"
-author: "Ana Luiza"
-data: "2025-04-12T21:08:08.163Z"
+title: Karatê Kid Lendas | Jackie Chan é destaque em novo vídeo de bastidores
+slug: karat-kid-lendas-vdeo-de-bastidores-destaca-simpatia-de-jackie-chan
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FdltWYIq2w6UlssbZskp1rWY3bs=/987x0/smart/uploads/conteudo/fotos/karatekidlendas.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/zxjJ9QZ58VNYm9eDks3QO5KLPTM=/480x360/smart/extras/conteudos/karatekidlendas.jpg
+tags:
+  - Karatê Kid
+  - Jackie Chan
+  - cinema
+  - artes marciais
+keywords: 'Karatê Kid, Jackie Chan, cinema, artes marciais'
+author: Ana Luiza
+data: '2025-04-12T21:08:08.163Z'
+resumo: A continuação chega aos cinemas em maio
 ---
 
 Foi divulgado neste sábado (12) um novo clipe dos bastidores de 'Karatê Kid Lendas', destacando a participação de Jackie Chan na produção da sequência. O vídeo mostra a irreverência do ator chinês e sua interação com o restante do elenco.

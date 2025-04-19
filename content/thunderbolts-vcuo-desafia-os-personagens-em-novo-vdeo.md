@@ -1,14 +1,32 @@
 ---
-title: "Thunderbolts | O Vácuo emerge como nova ameaça em emocionante prévia"
-slug: "thunderbolts-vcuo-desafia-os-personagens-em-novo-vdeo"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/JCIUWmzevnk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/cFvZ6PHg0Jjo3YYzbc-epqwjjCU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-15_174122.png"
-tags: ["Thunderbolts", "Marvel", "Vácuo", "Sentinela", "Valentina Allegra de Fontaine", "Julia Louis-Dreyfus", "Quarteto Fantástico", "MCU", "Fase 6", "Doutor Destino", "Robert Downey Jr."]
-keywords: "Thunderbolts, Marvel, Vácuo, Sentinela, Valentina Allegra de Fontaine, Julia Louis-Dreyfus, Quarteto Fantástico, MCU, Fase 6, Doutor Destino, Robert Downey Jr."
-author: "Pablo Moura"
-data: "2025-04-15T21:10:11.313Z"
+title: Thunderbolts | O Vácuo emerge como nova ameaça em emocionante prévia
+slug: thunderbolts-vcuo-desafia-os-personagens-em-novo-vdeo
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/JCIUWmzevnk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/cFvZ6PHg0Jjo3YYzbc-epqwjjCU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-15_174122.png
+tags:
+  - Thunderbolts
+  - Marvel
+  - Vácuo
+  - Sentinela
+  - Valentina Allegra de Fontaine
+  - Julia Louis-Dreyfus
+  - Quarteto Fantástico
+  - MCU
+  - Fase 6
+  - Doutor Destino
+  - Robert Downey Jr.
+keywords: >-
+  Thunderbolts, Marvel, Vácuo, Sentinela, Valentina Allegra de Fontaine, Julia
+  Louis-Dreyfus, Quarteto Fantástico, MCU, Fase 6, Doutor Destino, Robert Downey
+  Jr.
+author: Pablo Moura
+data: '2025-04-15T21:10:11.313Z'
+resumo: >-
+  O lado sombrio do Sentinela, conhecido como Vácuo, promete ser o grande
+  desafio para os Thunderbolts no novo filme da Marvel.
 ---
 
 A mais recente prévia do filme 'Thunderbolts' revela detalhes sobre o Vácuo, a personificação do lado sombrio do Sentinela, que se apresenta como a principal ameaça do filme. O vídeo sugere que a equipe enfrentará grandes desafios ao lidar com os poderes desconhecidos do Vácuo.

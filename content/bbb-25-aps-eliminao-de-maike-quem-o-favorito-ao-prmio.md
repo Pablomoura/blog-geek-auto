@@ -1,14 +1,30 @@
 ---
-title: "BBB 25 | Após eliminação de Maike, quem é o favorito ao prêmio?"
-slug: "bbb-25-aps-eliminao-de-maike-quem-o-favorito-ao-prmio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/tSl-dEJimHh-ArECGV3Zs9Qm6vA=/987x0/smart/uploads/conteudo/fotos/bbb25-favorito.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/l2twUw4n8qdDw0GXMbw77rIWTQE=/480x360/smart/extras/conteudos/bbb25-favorito-peq.jpg"
-tags: ["BBB 25", "eliminação", "Maike", "Vitória Strada", "Tadeu Schmidt", "Rodrigo Dourado", "votação", "paredão", "especial-BBB 25"]
-keywords: "BBB 25, eliminação, Maike, Vitória Strada, Tadeu Schmidt, Rodrigo Dourado, votação, paredão"
-author: "Pablo Moura"
-data: "2025-04-11T04:12:23.480Z"
+title: 'BBB 25 | Após eliminação de Maike, quem é o favorito ao prêmio?'
+slug: bbb-25-aps-eliminao-de-maike-quem-o-favorito-ao-prmio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/tSl-dEJimHh-ArECGV3Zs9Qm6vA=/987x0/smart/uploads/conteudo/fotos/bbb25-favorito.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/l2twUw4n8qdDw0GXMbw77rIWTQE=/480x360/smart/extras/conteudos/bbb25-favorito-peq.jpg
+tags:
+  - BBB 25
+  - eliminação
+  - Maike
+  - Vitória Strada
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - votação
+  - paredão
+  - especial-BBB 25
+keywords: >-
+  BBB 25, eliminação, Maike, Vitória Strada, Tadeu Schmidt, Rodrigo Dourado,
+  votação, paredão
+author: Pablo Moura
+data: '2025-04-11T04:12:23.480Z'
+resumo: >-
+  Saiba quem é o participante favorito ao prêmio do BBB 25 após a quinta
+  eliminação da edição
 ---
 
 O 15º Paredão do Big Brother Brasil 25 marcou a eliminação de Maike, delineando claramente as preferências do público para o grande vencedor desta edição. Com a competição afunilando para os últimos sete competidores, a disputa pelo prêmio de R$ 2,63 milhões continua acirrada. Segundo uma recente pesquisa realizada pelo UOL, Vitória Strada lidera as preferências como a favorita ao título, marcando 31,08% na sondagem, liderando pelo quarto consecutivo.

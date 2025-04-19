@@ -1,14 +1,26 @@
 ---
-title: "Nintendo Anuncia Pré-Venda do Switch 2 nos EUA com Preço Confirmado"
-slug: "switch-2-ganha-nova-data-para-pr-venda-nos-eua-e-nintendo-confirma-preo-final"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/rg3zlJjaHNMEQXvYEgKC4R-ut9A=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T110304.493.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/VeDtcgGl3YphFkyJko5Q1g316kA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T110252.804.png"
-tags: ["Nintendo Switch 2", "pré-venda Switch 2", "lançamento Switch 2", "jogos Switch 2", "Nintendo 2024"]
-keywords: "Nintendo Switch 2, pré-venda Switch 2, lançamento Switch 2, jogos Switch 2, Nintendo 2024"
-author: "Ana Luiza"
-data: "2025-04-18T14:09:41.226Z"
+title: Nintendo Anuncia Pré-Venda do Switch 2 nos EUA com Preço Confirmado
+slug: switch-2-ganha-nova-data-para-pr-venda-nos-eua-e-nintendo-confirma-preo-final
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/rg3zlJjaHNMEQXvYEgKC4R-ut9A=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-18T110304.493.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/VeDtcgGl3YphFkyJko5Q1g316kA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T110252.804.png
+tags:
+  - Nintendo Switch 2
+  - pré-venda Switch 2
+  - lançamento Switch 2
+  - jogos Switch 2
+  - Nintendo 2024
+keywords: >-
+  Nintendo Switch 2, pré-venda Switch 2, lançamento Switch 2, jogos Switch 2,
+  Nintendo 2024
+author: Ana Luiza
+data: '2025-04-18T14:09:41.226Z'
+resumo: >-
+  O novo console da Nintendo, o Switch 2, tem pré-venda marcada para 2024 nos
+  Estados Unidos e lançamento global em junho.
 ---
 
 A espera acabou para os fãs da Nintendo! A empresa anunciou que a pré-venda do aguardado Switch 2 começará em 2024 nos Estados Unidos, com o preço final não sendo afetado pelas tarifas previamente anunciadas por Donald Trump. O console será oferecido por US$ 499,99. Enquanto isso, outros países, incluindo o Canadá, aguardam a confirmação de datas e preços devido às mencionadas tarifas.

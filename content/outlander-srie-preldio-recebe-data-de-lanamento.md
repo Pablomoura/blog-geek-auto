@@ -1,14 +1,28 @@
 ---
-title: "Outlander: Blood of My Blood | Tudo Sobre o Prelúdio que Chega em Agosto"
-slug: "outlander-srie-preldio-recebe-data-de-lanamento"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/iI29z2QXn1fSJFPtDCtK82GRvjU=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-16T202029.562.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/BWkKLRi1RSg3CsYHrLdUyteEUzg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-16T202029.562.png"
-tags: ["Outlander", "Blood of My Blood", "Starz", "série prelúdio", "Jamie Fraser", "Claire Beauchamp", "estreia série"]
-keywords: "Outlander, Blood of My Blood, Starz, série prelúdio, Jamie Fraser, Claire Beauchamp, estreia série"
-author: "Luana Souza"
-data: "2025-04-17T00:13:06.998Z"
+title: 'Outlander: Blood of My Blood | Tudo Sobre o Prelúdio que Chega em Agosto'
+slug: outlander-srie-preldio-recebe-data-de-lanamento
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/iI29z2QXn1fSJFPtDCtK82GRvjU=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-16T202029.562.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/BWkKLRi1RSg3CsYHrLdUyteEUzg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-16T202029.562.png
+tags:
+  - Outlander
+  - Blood of My Blood
+  - Starz
+  - série prelúdio
+  - Jamie Fraser
+  - Claire Beauchamp
+  - estreia série
+keywords: >-
+  Outlander, Blood of My Blood, Starz, série prelúdio, Jamie Fraser, Claire
+  Beauchamp, estreia série
+author: Luana Souza
+data: '2025-04-17T00:13:06.998Z'
+resumo: >-
+  A nova série prelúdio de Outlander estreia em 8 de agosto no Starz, trazendo
+  histórias inéditas dos pais dos protagonistas.
 ---
 
 Os fãs de 'Outlander' podem marcar no calendário: a tão esperada série prelúdio, 'Outlander: Blood of My Blood', será lançada em 8 de agosto no Starz. Esta nova série vai explorar duas linhas do tempo distintas, focando nas vidas dos pais de Jamie Fraser e Claire Beauchamp, os protagonistas da série original.

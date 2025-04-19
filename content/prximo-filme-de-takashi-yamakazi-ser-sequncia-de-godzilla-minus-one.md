@@ -1,14 +1,22 @@
 ---
-title: "Takashi Yamazaki dirigirá sequência de Godzilla Minus One"
-slug: "prximo-filme-de-takashi-yamakazi-ser-sequncia-de-godzilla-minus-one"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/iFgz-tTmEpHlvMTgxExDaz-Zu_I=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T210822.773.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/YysIh9w9Rn4Tqm0inUzDg9jaswE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T210822.773.png"
-tags: ["Takashi Yamazaki", "Godzilla Minus One", "sequência", "filme", "Toho Entertainment"]
-keywords: "Takashi Yamazaki, Godzilla Minus One, sequência, filme, Toho Entertainment"
-author: "Luana Souza"
-data: "2025-04-15T00:44:27.074Z"
+title: Takashi Yamazaki dirigirá sequência de Godzilla Minus One
+slug: prximo-filme-de-takashi-yamakazi-ser-sequncia-de-godzilla-minus-one
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/iFgz-tTmEpHlvMTgxExDaz-Zu_I=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T210822.773.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/YysIh9w9Rn4Tqm0inUzDg9jaswE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T210822.773.png
+tags:
+  - Takashi Yamazaki
+  - Godzilla Minus One
+  - sequência
+  - filme
+  - Toho Entertainment
+keywords: 'Takashi Yamazaki, Godzilla Minus One, sequência, filme, Toho Entertainment'
+author: Luana Souza
+data: '2025-04-15T00:44:27.074Z'
+resumo: Diretor Takashi Yamazaki confirmado na sequência do sucesso Godzilla Minus One
 ---
 
 A Toho Entertainment anunciou que Takashi Yamazaki será o diretor da sequência de Godzilla Minus One. As filmagens estão programadas para ocorrer no Japão, com início previsto para o final de 2025.

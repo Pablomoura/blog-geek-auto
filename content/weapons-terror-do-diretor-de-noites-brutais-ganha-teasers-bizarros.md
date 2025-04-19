@@ -1,14 +1,27 @@
 ---
-title: "Weapons | Novo terror de Zach Cregger revela teasers misteriosos"
-slug: "weapons-terror-do-diretor-de-noites-brutais-ganha-teasers-bizarros"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/LYZrEEnOd2ttzU3YuNqIt2CAbe4=/987x0/smart/uploads/conteudo/fotos/Screenshot_2025-04-16_at_16.51.56.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/J-ZUMT37z0XzLgIxUZbGpHQdoJk=/480x360/smart/extras/conteudos/Screenshot_2025-04-16_at_16.51.56.png"
-tags: ["Weapons", "Zach Cregger", "teaser", "terror", "Warner Bros", "Josh Brolin", "Julia Garner", "Alden Ehrenreich"]
-keywords: "Weapons, Zach Cregger, teaser, terror, Warner Bros, Josh Brolin, Julia Garner, Alden Ehrenreich"
-author: "Ana Luiza"
-data: "2025-04-17T00:12:36.564Z"
+title: Weapons | Novo terror de Zach Cregger revela teasers misteriosos
+slug: weapons-terror-do-diretor-de-noites-brutais-ganha-teasers-bizarros
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/LYZrEEnOd2ttzU3YuNqIt2CAbe4=/987x0/smart/uploads/conteudo/fotos/Screenshot_2025-04-16_at_16.51.56.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/J-ZUMT37z0XzLgIxUZbGpHQdoJk=/480x360/smart/extras/conteudos/Screenshot_2025-04-16_at_16.51.56.png
+tags:
+  - Weapons
+  - Zach Cregger
+  - teaser
+  - terror
+  - Warner Bros
+  - Josh Brolin
+  - Julia Garner
+  - Alden Ehrenreich
+keywords: >-
+  Weapons, Zach Cregger, teaser, terror, Warner Bros, Josh Brolin, Julia Garner,
+  Alden Ehrenreich
+author: Ana Luiza
+data: '2025-04-17T00:12:36.564Z'
+resumo: Teaser mostra criança correndo à noite em cena enigmática
 ---
 
 Zach Cregger, conhecido por seu trabalho em 'Noites Brutais', está com um novo projeto chamado 'Weapons'. O filme acaba de lançar um teaser intrigante onde uma criança desaparecida é vista correndo à noite, iluminada apenas pelo acender de uma luz de varanda ao passar.

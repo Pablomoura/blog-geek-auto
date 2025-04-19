@@ -1,14 +1,28 @@
 ---
-title: "The Last of Us | Recapitulação da 1ª Temporada Antes da Estreia da Segunda"
-slug: "the-last-of-us-relembre-a-1-temporada-antes-da-estreia-da-2"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/bn7zH1gS6E3tnaSOZEKV-Hu72nU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T113211.813.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OaUCDKN39WN94A64Q8PoiuchL8c=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T113156.841.png"
-tags: ["The Last of Us", "HBO", "segunda temporada", "Pedro Pascal", "Bella Ramsey", "adaptação de jogo", "personagens novos", "série de TV", "especial-The Last of Us"]
-keywords: "The Last of Us, HBO, segunda temporada, Pedro Pascal, Bella Ramsey, adaptação de jogo, personagens novos, série de TV"
-author: "Luana Souza"
-data: "2025-04-11T15:13:29.295Z"
+title: The Last of Us | Recapitulação da 1ª Temporada Antes da Estreia da Segunda
+slug: the-last-of-us-relembre-a-1-temporada-antes-da-estreia-da-2
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/bn7zH1gS6E3tnaSOZEKV-Hu72nU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T113211.813.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OaUCDKN39WN94A64Q8PoiuchL8c=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T113156.841.png
+tags:
+  - The Last of Us
+  - HBO
+  - segunda temporada
+  - Pedro Pascal
+  - Bella Ramsey
+  - adaptação de jogo
+  - personagens novos
+  - série de TV
+  - especial-The Last of Us
+keywords: >-
+  The Last of Us, HBO, segunda temporada, Pedro Pascal, Bella Ramsey, adaptação
+  de jogo, personagens novos, série de TV
+author: Luana Souza
+data: '2025-04-11T15:13:29.295Z'
+resumo: Série começa sua nova leva de episódios neste domingo
 ---
 
 A espera está quase no fim para os fãs de The Last of Us, que em breve poderão desfrutar da segunda temporada da série na HBO e na Max, com estreia marcada para 13 de abril. Enquanto o dia não chega, é um excelente momento para recordar os principais eventos da primeira temporada.

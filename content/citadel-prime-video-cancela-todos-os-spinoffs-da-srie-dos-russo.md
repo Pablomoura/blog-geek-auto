@@ -1,14 +1,27 @@
 ---
-title: "Prime Video anuncia o cancelamento de spinoffs de 'Citadel'"
-slug: "citadel-prime-video-cancela-todos-os-spinoffs-da-srie-dos-russo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/8COhU1mHmpYVTJ4OC0HIlrwbA5s=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T121504.795.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/w0cSMXvcs3PIBdzXpbeDI81MmVg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T121443.156.png"
-tags: ["Citadel", "Prime Video", "séries canceladas", "Joe Russo", "Anthony Russo", "spinoffs de Citadel"]
-keywords: "Citadel, Prime Video, séries canceladas, Joe Russo, Anthony Russo, spinoffs de Citadel"
-author: "Ana Luiza"
-data: "2025-04-16T16:15:29.479Z"
+title: Prime Video anuncia o cancelamento de spinoffs de 'Citadel'
+slug: citadel-prime-video-cancela-todos-os-spinoffs-da-srie-dos-russo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/8COhU1mHmpYVTJ4OC0HIlrwbA5s=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T121504.795.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/w0cSMXvcs3PIBdzXpbeDI81MmVg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T121443.156.png
+tags:
+  - Citadel
+  - Prime Video
+  - séries canceladas
+  - Joe Russo
+  - Anthony Russo
+  - spinoffs de Citadel
+keywords: >-
+  Citadel, Prime Video, séries canceladas, Joe Russo, Anthony Russo, spinoffs de
+  Citadel
+author: Ana Luiza
+data: '2025-04-16T16:15:29.479Z'
+resumo: >-
+  As séries derivadas 'Citadel: Honey Bunny' e 'Citadel: Diana' não terão novas
+  temporadas
 ---
 
 O Prime Video decidiu não prosseguir com as séries derivadas de 'Citadel', a produção original da Amazon dirigida pelos irmãos Joe e Anthony Russo, conhecidos por 'Vingadores: Ultimato'. As séries afetadas, 'Citadel: Honey Bunny' e 'Citadel: Diana', não serão renovadas para suas segundas temporadas.

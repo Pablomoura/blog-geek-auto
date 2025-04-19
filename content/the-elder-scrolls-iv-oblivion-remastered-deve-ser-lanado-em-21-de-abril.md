@@ -1,14 +1,28 @@
 ---
-title: "The Elder Scrolls IV: Oblivion Remastered é Esperado para Abril"
-slug: "the-elder-scrolls-iv-oblivion-remastered-deve-ser-lanado-em-21-de-abril"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/jJDgZriNPYJbieXyq9skjzMOln8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-15T101338.690.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/yJsiDfES8rcTjPgl73abzeQbNTU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-15T101309.167.png"
-tags: ["The Elder Scrolls IV: Oblivion", "remasterização", "Bethesda", "Xbox", "Elder Scrolls Online", "2025 Content Pass", "MMORPG"]
-keywords: "The Elder Scrolls IV: Oblivion, remasterização, Bethesda, Xbox, Elder Scrolls Online, 2025 Content Pass, MMORPG"
-author: "Pablo Moura"
-data: "2025-04-16T14:12:22.913Z"
+title: 'The Elder Scrolls IV: Oblivion Remastered é Esperado para Abril'
+slug: the-elder-scrolls-iv-oblivion-remastered-deve-ser-lanado-em-21-de-abril
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/jJDgZriNPYJbieXyq9skjzMOln8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-15T101338.690.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/yJsiDfES8rcTjPgl73abzeQbNTU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-15T101309.167.png
+tags:
+  - 'The Elder Scrolls IV: Oblivion'
+  - remasterização
+  - Bethesda
+  - Xbox
+  - Elder Scrolls Online
+  - 2025 Content Pass
+  - MMORPG
+keywords: >-
+  The Elder Scrolls IV: Oblivion, remasterização, Bethesda, Xbox, Elder Scrolls
+  Online, 2025 Content Pass, MMORPG
+author: Pablo Moura
+data: '2025-04-16T14:12:22.913Z'
+resumo: >-
+  A esperada versão remasterizada de The Elder Scrolls IV: Oblivion, lançado
+  originalmente em 2006, pode chegar em 21 de abril para o Xbox.
 ---
 
 Os rumores que há anos circulavam pela internet sobre uma versão remasterizada de The Elder Scrolls IV: Oblivion parecem estar se confirmando. Imagens vazadas recentemente revelam que o desenvolvimento do game está em andamento, e a expectativa é que o jogo seja disponibilizado em breve para o Xbox. O título, desenvolvido pela Bethesda Game Studios, ainda não foi oficialmente anunciado, mas os vazamentos têm aumentado as esperanças dos fãs para uma confirmação iminente. As imagens divulgadas mostram cenários familiares do jogo original, porém com gráficos atualizados para os padrões atuais. De acordo com o jornalista Jeff Grubb, a data de lançamento está prevista para 21 de abril, e essa informação ganhou força quando uma conta oficial da Xbox respondeu a um usuário questionando sobre o lançamento.

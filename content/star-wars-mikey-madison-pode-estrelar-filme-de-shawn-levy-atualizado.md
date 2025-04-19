@@ -1,14 +1,28 @@
 ---
-title: "Star Wars | Shawn Levy pode ter Ryan Gosling no elenco de novo filme"
-slug: "star-wars-mikey-madison-pode-estrelar-filme-de-shawn-levy-atualizado"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/rVeuBUqtrKj8ZGTLnbDAu3SxkLs=/987x0/smart/uploads/conteudo/fotos/mikey-madison-star-wars.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0xtLKqeWuWtE2MK8WzDM046B1J4=/480x360/smart/extras/conteudos/anora-mikey_1oixaDF.jpg"
-tags: ["Star Wars", "Shawn Levy", "Ryan Gosling", "Mikey Madison", "Lucasfilm", "The Mandalorian & Grogu", "filmes Star Wars"]
-keywords: "Star Wars, Shawn Levy, Ryan Gosling, Mikey Madison, Lucasfilm, The Mandalorian & Grogu, filmes Star Wars"
-author: "Ana Luiza"
-data: "2025-04-16T22:09:32.175Z"
+title: Star Wars | Shawn Levy pode ter Ryan Gosling no elenco de novo filme
+slug: star-wars-mikey-madison-pode-estrelar-filme-de-shawn-levy-atualizado
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/rVeuBUqtrKj8ZGTLnbDAu3SxkLs=/987x0/smart/uploads/conteudo/fotos/mikey-madison-star-wars.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0xtLKqeWuWtE2MK8WzDM046B1J4=/480x360/smart/extras/conteudos/anora-mikey_1oixaDF.jpg
+tags:
+  - Star Wars
+  - Shawn Levy
+  - Ryan Gosling
+  - Mikey Madison
+  - Lucasfilm
+  - The Mandalorian & Grogu
+  - filmes Star Wars
+keywords: >-
+  Star Wars, Shawn Levy, Ryan Gosling, Mikey Madison, Lucasfilm, The Mandalorian
+  & Grogu, filmes Star Wars
+author: Ana Luiza
+data: '2025-04-16T22:09:32.175Z'
+resumo: >-
+  Mikey Madison recusa papel em novo filme de Star Wars dirigido por Shawn Levy,
+  que pode contar com Ryan Gosling.
 ---
 
 O universo Star Wars está se expandindo com diversos projetos, incluindo o aguardado filme 'The Mandalorian & Grogu', previsto para o próximo ano. Além deste lançamento, a Lucasfilm agendou novas estreias para dezembro de 2026 e 2027, uma das quais será o filme dirigido por Shawn Levy, conhecido por seu trabalho em 'Deadpool & Wolverine'. Recentemente, surgiu o rumor, mencionado pelo jornalista Jeff Sneider, de que Mikey Madison, premiada com o Oscar por 'Anora', foi convidada para um papel no filme, que poderá ter Ryan Gosling como estrela. No entanto, a Lucasfilm ainda não confirmou essa informação, portanto deve ser considerada como especulação.

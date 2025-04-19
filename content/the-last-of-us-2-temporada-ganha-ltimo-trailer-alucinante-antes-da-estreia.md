@@ -1,14 +1,25 @@
 ---
-title: "The Last of Us | HBO lança trailer final da 2ª temporada antes da estreia"
-slug: "the-last-of-us-2-temporada-ganha-ltimo-trailer-alucinante-antes-da-estreia"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/z2wI-U-zDlgcJv1nfhzSpBRudqE=/987x0/smart/uploads/conteudo/fotos/lastofussegundatemporada_GCAFuK5.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/qWKYHm4tI71nEPP0WTZHI4O36kw=/480x360/smart/extras/conteudos/lastofussegundatemporada_qf61V38.jpg"
-tags: ["The Last of Us", "HBO", "trailer", "temporada 2", "série", "Pedro Pascal", "Bella Ramsey", "especial-The Last of Us"]
-keywords: "The Last of Us, HBO, trailer, temporada 2, série, Pedro Pascal, Bella Ramsey"
-author: "Pablo Moura"
-data: "2025-04-13T17:09:06.685Z"
+title: The Last of Us | HBO lança trailer final da 2ª temporada antes da estreia
+slug: the-last-of-us-2-temporada-ganha-ltimo-trailer-alucinante-antes-da-estreia
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/z2wI-U-zDlgcJv1nfhzSpBRudqE=/987x0/smart/uploads/conteudo/fotos/lastofussegundatemporada_GCAFuK5.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/qWKYHm4tI71nEPP0WTZHI4O36kw=/480x360/smart/extras/conteudos/lastofussegundatemporada_qf61V38.jpg
+tags:
+  - The Last of Us
+  - HBO
+  - trailer
+  - temporada 2
+  - série
+  - Pedro Pascal
+  - Bella Ramsey
+  - especial-The Last of Us
+keywords: 'The Last of Us, HBO, trailer, temporada 2, série, Pedro Pascal, Bella Ramsey'
+author: Pablo Moura
+data: '2025-04-13T17:09:06.685Z'
+resumo: A série retorna em 13 de abril na HBO.
 ---
 
 A HBO lançou neste domingo (13) o último trailer da segunda temporada de The Last of Us, pouco antes da estreia dos novos episódios. O trailer evidencia a ação intensa característica da série, que é baseada nos jogos da Naughty Dog. 

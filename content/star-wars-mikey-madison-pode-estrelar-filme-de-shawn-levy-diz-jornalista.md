@@ -1,14 +1,29 @@
 ---
-title: "Star Wars | Mikey Madison em Negociações para Novo Filme de Shawn Levy"
-slug: "star-wars-mikey-madison-pode-estrelar-filme-de-shawn-levy-diz-jornalista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/rVeuBUqtrKj8ZGTLnbDAu3SxkLs=/987x0/smart/uploads/conteudo/fotos/mikey-madison-star-wars.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0xtLKqeWuWtE2MK8WzDM046B1J4=/480x360/smart/extras/conteudos/anora-mikey_1oixaDF.jpg"
-tags: ["Star Wars", "Mikey Madison", "Shawn Levy", "Ryan Gosling", "Lucasfilm", "Kathleen Kennedy", "The Mandalorian & Grogu", "filmes Star Wars"]
-keywords: "Star Wars, Mikey Madison, Shawn Levy, Ryan Gosling, Lucasfilm, Kathleen Kennedy, The Mandalorian & Grogu, filmes Star Wars"
-author: "Pablo Moura"
-data: "2025-04-16T19:09:04.710Z"
+title: Star Wars | Mikey Madison em Negociações para Novo Filme de Shawn Levy
+slug: star-wars-mikey-madison-pode-estrelar-filme-de-shawn-levy-diz-jornalista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/rVeuBUqtrKj8ZGTLnbDAu3SxkLs=/987x0/smart/uploads/conteudo/fotos/mikey-madison-star-wars.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0xtLKqeWuWtE2MK8WzDM046B1J4=/480x360/smart/extras/conteudos/anora-mikey_1oixaDF.jpg
+tags:
+  - Star Wars
+  - Mikey Madison
+  - Shawn Levy
+  - Ryan Gosling
+  - Lucasfilm
+  - Kathleen Kennedy
+  - The Mandalorian & Grogu
+  - filmes Star Wars
+keywords: >-
+  Star Wars, Mikey Madison, Shawn Levy, Ryan Gosling, Lucasfilm, Kathleen
+  Kennedy, The Mandalorian & Grogu, filmes Star Wars
+author: Pablo Moura
+data: '2025-04-16T19:09:04.710Z'
+resumo: >-
+  Mikey Madison pode se juntar a Ryan Gosling em novo filme de Star Wars
+  dirigido por Shawn Levy, previsto para lançamento em meados de 2026 e 2027.
 ---
 
 Enquanto os fãs aguardam ansiosamente por 'The Mandalorian & Grogu' previsto para o próximo ano, o universo de Star Wars já planeja mais surpresas para os anos seguintes. Conforme reportado pelo jornalista Jeff Sneider, Mikey Madison, conhecida por seu papel em 'Anora', recebeu uma oferta para um papel no próximo filme de Star Wars, que será dirigido por Shawn Levy, conhecido por 'Deadpool & Wolverine' e com Ryan Gosling possivelmente no elenco principal. Vale ressaltar que esta informação ainda não foi oficialmente confirmada pela Lucasfilm, portanto deve ser considerada como especulação no momento.

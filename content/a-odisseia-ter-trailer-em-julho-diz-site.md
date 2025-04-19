@@ -1,14 +1,33 @@
 ---
-title: "A Odisseia de Christopher Nolan Ganhará Trailer em Julho"
-slug: "a-odisseia-ter-trailer-em-julho-diz-site"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/05achhLOgwPzWBxTe3HJC4pvSjQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T193138.729.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/e9d4YDN9gzclsddeaJjblmc7i5w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T193138.729.png"
-tags: ["A Odisseia", "Christopher Nolan", "trailer", "filme", "cinema", "Homero", "Matt Damon", "Anne Hathaway", "Tom Holland", "Zendaya", "Charlize Theron", "Universal"]
-keywords: "A Odisseia, Christopher Nolan, trailer, filme, cinema, Homero, Matt Damon, Anne Hathaway, Tom Holland, Zendaya, Charlize Theron, Universal"
-author: "Ana Luiza"
-data: "2025-04-15T23:10:28.779Z"
+title: A Odisseia de Christopher Nolan Ganhará Trailer em Julho
+slug: a-odisseia-ter-trailer-em-julho-diz-site
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/05achhLOgwPzWBxTe3HJC4pvSjQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T193138.729.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/e9d4YDN9gzclsddeaJjblmc7i5w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T193138.729.png
+tags:
+  - A Odisseia
+  - Christopher Nolan
+  - trailer
+  - filme
+  - cinema
+  - Homero
+  - Matt Damon
+  - Anne Hathaway
+  - Tom Holland
+  - Zendaya
+  - Charlize Theron
+  - Universal
+keywords: >-
+  A Odisseia, Christopher Nolan, trailer, filme, cinema, Homero, Matt Damon,
+  Anne Hathaway, Tom Holland, Zendaya, Charlize Theron, Universal
+author: Ana Luiza
+data: '2025-04-15T23:10:28.779Z'
+resumo: >-
+  O aguardado filme 'A Odisseia', dirigido por Christopher Nolan, terá seu
+  primeiro trailer lançado em julho, um ano antes de sua estreia nos cinemas.
 ---
 
 De acordo com o site World of Reel, o épico 'A Odisseia', sob a direção de Christopher Nolan, está previsto para receber seu primeiro trailer em julho deste ano. Esse lançamento antecipado segue o padrão de outras grandes produções de Nolan, marcando o início da campanha promocional um ano antes da estreia oficial do filme.

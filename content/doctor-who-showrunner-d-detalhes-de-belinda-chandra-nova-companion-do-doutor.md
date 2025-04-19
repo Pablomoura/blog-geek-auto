@@ -1,14 +1,29 @@
 ---
-title: "Doctor Who | Showrunner revela detalhes de Belinda Chandra, a nova companheira do Doutor"
-slug: "doctor-who-showrunner-d-detalhes-de-belinda-chandra-nova-companion-do-doutor"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/LHawgoZi24dVRL8N4sZCMOB3_9A=/987x0/smart/uploads/conteudo/fotos/OMELETE2_CAPA.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/j9NY5NEJ4omfEugZCv_eI_9HM6M=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T115447.490.png"
-tags: ["Doctor Who", "Russell T. Davies", "Belinda Chandra", "Varada Sethu", "Ncuti Gatwa", "TARDIS", "Disney+", "aventuras intergalácticas"]
-keywords: "Doctor Who, Russell T. Davies, Belinda Chandra, Varada Sethu, Ncuti Gatwa, TARDIS, Disney+, aventuras intergalácticas"
-author: "Pablo Moura"
-data: "2025-04-11T15:12:02.312Z"
+title: >-
+  Doctor Who | Showrunner revela detalhes de Belinda Chandra, a nova companheira
+  do Doutor
+slug: doctor-who-showrunner-d-detalhes-de-belinda-chandra-nova-companion-do-doutor
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/LHawgoZi24dVRL8N4sZCMOB3_9A=/987x0/smart/uploads/conteudo/fotos/OMELETE2_CAPA.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/j9NY5NEJ4omfEugZCv_eI_9HM6M=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T115447.490.png
+tags:
+  - Doctor Who
+  - Russell T. Davies
+  - Belinda Chandra
+  - Varada Sethu
+  - Ncuti Gatwa
+  - TARDIS
+  - Disney+
+  - aventuras intergalácticas
+keywords: >-
+  Doctor Who, Russell T. Davies, Belinda Chandra, Varada Sethu, Ncuti Gatwa,
+  TARDIS, Disney+, aventuras intergalácticas
+author: Pablo Moura
+data: '2025-04-11T15:12:02.312Z'
+resumo: A série retorna neste sábado no Disney+.
 ---
 
 Russell T. Davies, showrunner de 'Doctor Who', compartilhou informações sobre Belinda Chandra, a nova companheira do protagonista, que será interpretada por Varada Sethu. Davies expressou sua visão da personagem em entrevista ao Entertainment Weekly, explicando que, ao contrário de sua antecessora, Belinda é mais cautelosa e consciente dos perigos que acompanham o Doutor. 'Eu acho que eu seria muito mais como Belinda na vida real', comentou ele, destacando a reação realista da personagem diante das situações de risco e aventura que enfrenta ao lado do Doutor.

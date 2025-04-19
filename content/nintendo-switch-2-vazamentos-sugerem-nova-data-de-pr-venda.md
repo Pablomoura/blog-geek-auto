@@ -1,14 +1,28 @@
 ---
-title: "Nintendo Switch 2: Detalhes sobre a Pré-venda e Lançamento do Console"
-slug: "nintendo-switch-2-vazamentos-sugerem-nova-data-de-pr-venda"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/XL3MLotKVYFQZgbmMZ96IGSgy9o=/987x0/smart/uploads/conteudo/fotos/switch-2-capa-2_5rrGBsb.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/vsREaQ-p3CJXQ_lg3dyJvErKNNQ=/480x360/smart/extras/conteudos/switch-2-capa-2_Qel0n38.png"
-tags: ["Nintendo Switch 2", "pré-venda Nintendo Switch", "lançamento Nintendo Switch", "jogos Nintendo Switch", "tarifas Donald Trump", "ComicBook", "videogames"]
-keywords: "Nintendo Switch 2, pré-venda Nintendo Switch, lançamento Nintendo Switch, jogos Nintendo Switch, tarifas Donald Trump, ComicBook, videogames"
-author: "Pablo Moura"
-data: "2025-04-15T20:12:55.424Z"
+title: 'Nintendo Switch 2: Detalhes sobre a Pré-venda e Lançamento do Console'
+slug: nintendo-switch-2-vazamentos-sugerem-nova-data-de-pr-venda
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/XL3MLotKVYFQZgbmMZ96IGSgy9o=/987x0/smart/uploads/conteudo/fotos/switch-2-capa-2_5rrGBsb.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/vsREaQ-p3CJXQ_lg3dyJvErKNNQ=/480x360/smart/extras/conteudos/switch-2-capa-2_Qel0n38.png
+tags:
+  - Nintendo Switch 2
+  - pré-venda Nintendo Switch
+  - lançamento Nintendo Switch
+  - jogos Nintendo Switch
+  - tarifas Donald Trump
+  - ComicBook
+  - videogames
+keywords: >-
+  Nintendo Switch 2, pré-venda Nintendo Switch, lançamento Nintendo Switch,
+  jogos Nintendo Switch, tarifas Donald Trump, ComicBook, videogames
+author: Pablo Moura
+data: '2025-04-15T20:12:55.424Z'
+resumo: >-
+  Novas informações sobre pré-venda do Nintendo Switch 2 foram reveladas após
+  vazamentos de varejistas canadenses.
 ---
 
 As políticas tarifárias de Donald Trump, especialmente sobre produtos fabricados na China, têm causado incertezas no mercado de eletrônicos. Contudo, recentes ajustes nas tarifas de produtos do Vietnã têm trazido uma nova esperança para o lançamento do Nintendo Switch 2. De acordo com o site ComicBook, as tarifas foram reduzidas significativamente, de 46% para 10%, o que poderia favorecer a economia nos custos de produção e venda do console. 

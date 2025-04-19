@@ -1,14 +1,28 @@
 ---
-title: "Demolidor: Renascido | Atriz Ayelet Zurer confirma retorno de Vanessa para a segunda temporada"
-slug: "demolidor-renascido-atriz-confirma-retorno-de-sua-personagem-na-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/94a97VqLk4nGnoOKdy1JihIsoKI=/987x0/smart/uploads/conteudo/fotos/demolidor-vanessa-wilson.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/TX2UDb1KWPvVjWe7NCqYp_1qSQ8=/480x360/smart/extras/conteudos/daredevil_7AocA0H.jpg"
-tags: ["Demolidor", "Demolidor Renascido", "Ayelet Zurer", "Vanessa", "Marvel", "Disney+", "série"]
-keywords: "Demolidor, Demolidor Renascido, Ayelet Zurer, Vanessa, Marvel, Disney+, série"
-author: "Luana Souza"
-data: "2025-04-14T22:10:12.550Z"
+title: >-
+  Demolidor: Renascido | Atriz Ayelet Zurer confirma retorno de Vanessa para a
+  segunda temporada
+slug: demolidor-renascido-atriz-confirma-retorno-de-sua-personagem-na-2-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/94a97VqLk4nGnoOKdy1JihIsoKI=/987x0/smart/uploads/conteudo/fotos/demolidor-vanessa-wilson.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/TX2UDb1KWPvVjWe7NCqYp_1qSQ8=/480x360/smart/extras/conteudos/daredevil_7AocA0H.jpg
+tags:
+  - Demolidor
+  - Demolidor Renascido
+  - Ayelet Zurer
+  - Vanessa
+  - Marvel
+  - Disney+
+  - série
+keywords: 'Demolidor, Demolidor Renascido, Ayelet Zurer, Vanessa, Marvel, Disney+, série'
+author: Luana Souza
+data: '2025-04-14T22:10:12.550Z'
+resumo: >-
+  Ayelet Zurer revela detalhes sobre a exclusão inicial de sua personagem e
+  comemora seu retorno ao universo Marvel em Demolidor: Renascido.
 ---
 
 A primeira temporada de Demolidor: Renascido encerrou nesta terça-feira (15), destacando-se pelo confronto entre Matt Murdock (Charlie Cox), o prefeito Wilson Fisk (Vincent D'Onofrio) e o Mercenário (Wilson Berthel). No epicentro do conflito está Vanessa (Ayelet Zurer), esposa do vilão e peça chave na trama que envolve a morte de Foggy Nelson (Elden Henson).

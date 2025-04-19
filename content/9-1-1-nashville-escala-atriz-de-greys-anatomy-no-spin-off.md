@@ -1,14 +1,31 @@
 ---
-title: "Jessica Capshaw e Chris O'Donnell liderarão '9-1-1: Nashville', novo spin-off da série"
-slug: "9-1-1-nashville-escala-atriz-de-greys-anatomy-no-spin-off"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/jgaH7SBStwACj31_tula2EF8IMc=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T191227.478.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/VP9juuVwLC6gpprTUcnvrT1zqiA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T191227.478.png"
-tags: ["Jessica Capshaw", "Chris O'Donnell", "9-1-1 Nashville", "Ryan Murphy", "ABC", "Grey's Anatomy", "spin-off"]
-keywords: "Jessica Capshaw, Chris O'Donnell, 9-1-1 Nashville, Ryan Murphy, ABC, Grey's Anatomy, spin-off"
-author: "Ana Luiza"
-data: "2025-04-15T23:10:51.578Z"
+title: >-
+  Jessica Capshaw e Chris O'Donnell liderarão '9-1-1: Nashville', novo spin-off
+  da série
+slug: 9-1-1-nashville-escala-atriz-de-greys-anatomy-no-spin-off
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/jgaH7SBStwACj31_tula2EF8IMc=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T191227.478.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/VP9juuVwLC6gpprTUcnvrT1zqiA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T191227.478.png
+tags:
+  - Jessica Capshaw
+  - Chris O'Donnell
+  - 9-1-1 Nashville
+  - Ryan Murphy
+  - ABC
+  - Grey's Anatomy
+  - spin-off
+keywords: >-
+  Jessica Capshaw, Chris O'Donnell, 9-1-1 Nashville, Ryan Murphy, ABC, Grey's
+  Anatomy, spin-off
+author: Ana Luiza
+data: '2025-04-15T23:10:51.578Z'
+resumo: >-
+  Jessica Capshaw, conhecida por 'Grey's Anatomy', junta-se a Chris O'Donnell no
+  elenco de '9-1-1: Nashville', programado para estrear na temporada de TV de
+  2025-2026.
 ---
 
 Jessica Capshaw, famosa por seu papel como Dra. Arizona Robbins em 'Grey's Anatomy', foi confirmada para estrelar o novo spin-off '9-1-1: Nashville', ao lado de Chris O'Donnell. A série, que é parte da expansão do universo de '9-1-1', criado por Ryan Murphy, Brad Falchuk e Tim Minear, é esperada para a temporada televisiva de 2025-2026.

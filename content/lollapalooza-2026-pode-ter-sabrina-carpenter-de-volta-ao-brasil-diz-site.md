@@ -1,14 +1,32 @@
 ---
-title: "Sabrina Carpenter Pode Retornar ao Brasil para o Lollapalooza 2026"
-slug: "lollapalooza-2026-pode-ter-sabrina-carpenter-de-volta-ao-brasil-diz-site"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/3DkK863h47g-5awKGKnf-ujveSY=/987x0/smart/uploads/conteudo/fotos/sabrina-carpenter_XXQxnnD.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/eAzy2ZLaOqLGPu-ulJZ3iitzgqQ=/480x360/smart/extras/conteudos/sabrina-carpenter-2.jpg"
-tags: ["Sabrina Carpenter", "Lollapalooza 2026", "Brasil", "música", "shows", "The Town", "Rio de Janeiro", "São Paulo", "Netflix", "A Nonsense Christmas", "Fruitcake"]
-keywords: "Sabrina Carpenter, Lollapalooza 2026, Brasil, música, shows, The Town, Rio de Janeiro, São Paulo, Netflix, A Nonsense Christmas, Fruitcake"
-author: "Pablo Moura"
-data: "2025-04-17T00:12:04.824Z"
+title: Sabrina Carpenter Pode Retornar ao Brasil para o Lollapalooza 2026
+slug: lollapalooza-2026-pode-ter-sabrina-carpenter-de-volta-ao-brasil-diz-site
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/3DkK863h47g-5awKGKnf-ujveSY=/987x0/smart/uploads/conteudo/fotos/sabrina-carpenter_XXQxnnD.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/eAzy2ZLaOqLGPu-ulJZ3iitzgqQ=/480x360/smart/extras/conteudos/sabrina-carpenter-2.jpg
+tags:
+  - Sabrina Carpenter
+  - Lollapalooza 2026
+  - Brasil
+  - música
+  - shows
+  - The Town
+  - Rio de Janeiro
+  - São Paulo
+  - Netflix
+  - A Nonsense Christmas
+  - Fruitcake
+keywords: >-
+  Sabrina Carpenter, Lollapalooza 2026, Brasil, música, shows, The Town, Rio de
+  Janeiro, São Paulo, Netflix, A Nonsense Christmas, Fruitcake
+author: Pablo Moura
+data: '2025-04-17T00:12:04.824Z'
+resumo: >-
+  Após acompanhar Taylor Swift em sua última turnê no Brasil, Sabrina Carpenter
+  pode estar de volta para o Lollapalooza 2026.
 ---
 
 A cantora Sabrina Carpenter, conhecida por hits como 'Espresso' e 'Juno', está cotada para ser uma das atrações do Lollapalooza Brasil em 2026. Segundo informações do portal LeoDias, essa seria a próxima visita da artista ao país desde sua participação na The Eras Tour de Taylor Swift.

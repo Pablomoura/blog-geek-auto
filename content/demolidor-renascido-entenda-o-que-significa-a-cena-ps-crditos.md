@@ -1,14 +1,28 @@
 ---
-title: "Demolidor: Renascido - Análise da Cena Pós-Créditos e o Futuro do Justiceiro"
-slug: "demolidor-renascido-entenda-o-que-significa-a-cena-ps-crditos"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/i_YF9u46guqwY-zz3qvqS0H4PyQ=/987x0/smart/uploads/conteudo/fotos/demolidor-renascido-justiceiro_QNIpA3e.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/DLwfeC1PVGYpdqYAx9A_htdTKNw=/480x360/smart/extras/conteudos/demolidor-mascaras.png"
-tags: ["Demolidor Renascido", "Disney+", "Marvel", "cena pós-créditos", "Justiceiro", "Frank Castle", "série"]
-keywords: "Demolidor Renascido, Disney+, Marvel, cena pós-créditos, Justiceiro, Frank Castle, série"
-author: "Ana Luiza"
-data: "2025-04-16T02:24:28.121Z"
+title: 'Demolidor: Renascido - Análise da Cena Pós-Créditos e o Futuro do Justiceiro'
+slug: demolidor-renascido-entenda-o-que-significa-a-cena-ps-crditos
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/i_YF9u46guqwY-zz3qvqS0H4PyQ=/987x0/smart/uploads/conteudo/fotos/demolidor-renascido-justiceiro_QNIpA3e.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/DLwfeC1PVGYpdqYAx9A_htdTKNw=/480x360/smart/extras/conteudos/demolidor-mascaras.png
+tags:
+  - Demolidor Renascido
+  - Disney+
+  - Marvel
+  - cena pós-créditos
+  - Justiceiro
+  - Frank Castle
+  - série
+keywords: >-
+  Demolidor Renascido, Disney+, Marvel, cena pós-créditos, Justiceiro, Frank
+  Castle, série
+author: Ana Luiza
+data: '2025-04-16T02:24:28.121Z'
+resumo: >-
+  Todos os episódios de 'Demolidor: Renascido' já estão disponíveis
+  exclusivamente no Disney+.
 ---
 
 A primeira temporada de 'Demolidor: Renascido' encerrou deixando os fãs da Marvel ansiosos por mais, especialmente após a revelação de uma cena pós-créditos intrigante. A série, que já tem uma próxima temporada confirmada, além de um especial do 'Justiceiro', promete continuar expandindo seu universo.

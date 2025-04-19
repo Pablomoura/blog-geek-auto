@@ -1,14 +1,21 @@
 ---
-title: "GeForce RTX 5060 é anunciada por US$ 299 com lançamento em maio"
-slug: "geforce-rtx-5060-anunciada-por-us-299-com-lanamento-em-maio"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/OaqdpqMZ6cs?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/_KR1PyL7Q0OtMEnqJhd4o2WKmrI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-15T135504.781.png"
-tags: ["NVIDIA", "GeForce RTX 5060", "lançamento", "tecnologia", "desempenho"]
-keywords: "NVIDIA, GeForce RTX 5060, lançamento, tecnologia, desempenho"
-author: "Ana Luiza"
-data: "2025-04-15T16:57:45.061Z"
+title: GeForce RTX 5060 é anunciada por US$ 299 com lançamento em maio
+slug: geforce-rtx-5060-anunciada-por-us-299-com-lanamento-em-maio
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/OaqdpqMZ6cs?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/_KR1PyL7Q0OtMEnqJhd4o2WKmrI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-15T135504.781.png
+tags:
+  - NVIDIA
+  - GeForce RTX 5060
+  - lançamento
+  - tecnologia
+  - desempenho
+keywords: 'NVIDIA, GeForce RTX 5060, lançamento, tecnologia, desempenho'
+author: Ana Luiza
+data: '2025-04-15T16:57:45.061Z'
+resumo: Versões aprimoradas chegam por US$ 379 e US$ 429
 ---
 
 A NVIDIA revelou sua nova placa de entrada, a GeForce RTX 5060, com lançamento previsto para maio e preço de US$ 299, equivalente a cerca de R$ 1.750 em conversão direta. As vendas das novas placas começam nesta quarta-feira (16), com a GeForce RTX 5060 Ti disponível por US$ 379 (aproximadamente R$ 2.230) na versão de 8GB e US$ 429 (cerca de R$ 2.530) na versão de 16GB.

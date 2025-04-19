@@ -1,14 +1,25 @@
 ---
-title: "A Vida de Chuck, inspirado em obra de Stephen King, ganhará novo trailer"
-slug: "a-vida-de-chuck-inspirado-em-livro-de-stephen-king-revela-trailer-em-teaser"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/HXVi2cFCcjzZBOlZCtmYKeAF-p4=/987x0/smart/uploads/conteudo/fotos/02_JEI4Pxq.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/E-PP8MbMnaMxChRimHW9VPq3PoE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-14_174136.png"
-tags: ["A Vida de Chuck", "Mike Flanagan", "Tom Hiddleston", "Stephen King", "trailer", "cinema"]
-keywords: "A Vida de Chuck, Mike Flanagan, Tom Hiddleston, Stephen King, trailer, cinema"
-author: "Ana Luiza"
-data: "2025-04-14T21:10:12.333Z"
+title: 'A Vida de Chuck, inspirado em obra de Stephen King, ganhará novo trailer'
+slug: a-vida-de-chuck-inspirado-em-livro-de-stephen-king-revela-trailer-em-teaser
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/HXVi2cFCcjzZBOlZCtmYKeAF-p4=/987x0/smart/uploads/conteudo/fotos/02_JEI4Pxq.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/E-PP8MbMnaMxChRimHW9VPq3PoE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-14_174136.png
+tags:
+  - A Vida de Chuck
+  - Mike Flanagan
+  - Tom Hiddleston
+  - Stephen King
+  - trailer
+  - cinema
+keywords: 'A Vida de Chuck, Mike Flanagan, Tom Hiddleston, Stephen King, trailer, cinema'
+author: Ana Luiza
+data: '2025-04-14T21:10:12.333Z'
+resumo: >-
+  O filme dirigido por Mike Flanagan e estrelado por Tom Hiddleston, A Vida de
+  Chuck, terá um novo trailer divulgado nesta terça-feira (15).
 ---
 
 A espera está quase no fim para os fãs de Tom Hiddleston e Stephen King, pois A Vida de Chuck, dirigido por Mike Flanagan, lançará seu novo trailer nesta terça-feira (15). A prévia foi anunciada através de um teaser que mostra uma imagem de Hiddleston celebrando o aniversário de 39 anos de seu personagem, Chuck.

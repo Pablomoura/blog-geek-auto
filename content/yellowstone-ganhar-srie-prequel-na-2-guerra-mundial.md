@@ -1,14 +1,27 @@
 ---
-title: "Yellowstone ganhará série prequel na 2ª Guerra Mundial"
-slug: "yellowstone-ganhar-srie-prequel-na-2-guerra-mundial"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Rhl0BvRj-0wKOKCBzr3rz4Gp8t4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T112423.102.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/IgqN-AB8ICjS54WwruOcTQlOfn4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T112410.275.png"
-tags: ["Yellowstone", "série prequel", "2ª Guerra Mundial", "Taylor Sheridan", "Paramount+", "spin-offs de Yellowstone", "franquia de faroeste", "séries de época"]
-keywords: "Yellowstone, série prequel, 2ª Guerra Mundial, Taylor Sheridan, Paramount+, spin-offs de Yellowstone, franquia de faroeste, séries de época"
-author: "Luana Souza"
-data: "2025-04-11T15:13:59.867Z"
+title: Yellowstone ganhará série prequel na 2ª Guerra Mundial
+slug: yellowstone-ganhar-srie-prequel-na-2-guerra-mundial
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Rhl0BvRj-0wKOKCBzr3rz4Gp8t4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T112423.102.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/IgqN-AB8ICjS54WwruOcTQlOfn4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T112410.275.png
+tags:
+  - Yellowstone
+  - série prequel
+  - 2ª Guerra Mundial
+  - Taylor Sheridan
+  - Paramount+
+  - spin-offs de Yellowstone
+  - franquia de faroeste
+  - séries de época
+keywords: >-
+  Yellowstone, série prequel, 2ª Guerra Mundial, Taylor Sheridan, Paramount+,
+  spin-offs de Yellowstone, franquia de faroeste, séries de época
+author: Luana Souza
+data: '2025-04-11T15:13:59.867Z'
+resumo: Nova série ainda não tem data ou elenco anunciados
 ---
 
 A aclamada franquia Yellowstone, criada por Taylor Sheridan, está se expandindo com um novo derivado intitulado 1944, ambientado durante a 2ª Guerra Mundial, conforme anunciado pelo Collider. Apesar de poucas informações terem sido reveladas, é esperado que 1944 explore as repercussões do conflito mundial sobre o emblemático Rancho Yellowstone e seus moradores. 

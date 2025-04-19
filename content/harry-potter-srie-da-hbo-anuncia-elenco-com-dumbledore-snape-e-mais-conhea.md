@@ -1,14 +1,27 @@
 ---
-title: "Harry Potter | HBO anuncia elenco da série com Dumbledore, Snape e outros personagens"
-slug: "harry-potter-srie-da-hbo-anuncia-elenco-com-dumbledore-snape-e-mais-conhea"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/v_8MSmQba350ZLEUQvrNgmiwIFw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_4_0pbd4Mc.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nl-y946PpADGn6_iKJa0BfWkeyE=/480x360/smart/extras/conteudos/Design_sem_nome_4_tkYnIgk.jpg"
-tags: ["Harry Potter", "HBO", "série", "elenco", "Dumbledore", "Snape", "Hogwarts", "adaptação"]
-keywords: "Harry Potter, HBO, série, elenco, Dumbledore, Snape, Hogwarts, adaptação"
-author: "Luana Souza"
-data: "2025-04-14T17:10:37.756Z"
+title: >-
+  Harry Potter | HBO anuncia elenco da série com Dumbledore, Snape e outros
+  personagens
+slug: harry-potter-srie-da-hbo-anuncia-elenco-com-dumbledore-snape-e-mais-conhea
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/v_8MSmQba350ZLEUQvrNgmiwIFw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_4_0pbd4Mc.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nl-y946PpADGn6_iKJa0BfWkeyE=/480x360/smart/extras/conteudos/Design_sem_nome_4_tkYnIgk.jpg
+tags:
+  - Harry Potter
+  - HBO
+  - série
+  - elenco
+  - Dumbledore
+  - Snape
+  - Hogwarts
+  - adaptação
+keywords: 'Harry Potter, HBO, série, elenco, Dumbledore, Snape, Hogwarts, adaptação'
+author: Luana Souza
+data: '2025-04-14T17:10:37.756Z'
+resumo: O trio protagonista ainda não foi revelado pela produção
 ---
 
 A série de Harry Potter da HBO revelou seu elenco adulto, confirmando grandes nomes para os papéis dos professores de Hogwarts. John Lithgow interpretará Alvo Dumbledore, Janet McTeer será Minerva McGonagall, Paapa Essiedu assumirá o papel de Severo Snape e Nick Frost será Rúbeo Hagrid. Adicionalmente, Luke Thallon foi escalado como o Professor Quirrell e Paul Whitehouse como Argus Filch.

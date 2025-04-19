@@ -1,14 +1,26 @@
 ---
-title: "Tony Hawk 3+4 | Rayssa Leal compartilha sua experiência com o PS2 em novo vídeo"
-slug: "tony-hawk-34-rayssa-leal-conta-sua-histria-com-o-ps2-em-vdeo"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/wVTAmdbOH74?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/huYseNefqPCBwABYfd4B6vmaOY4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-14_143154.png"
-tags: ["Rayssa Leal", "Tony Hawk", "PS2", "skate", "videogame", "Tony Hawk’s Pro Skater 3 + 4"]
-keywords: "Rayssa Leal, Tony Hawk, PS2, skate, videogame, Tony Hawk’s Pro Skater 3 + 4"
-author: "Pablo Moura"
-data: "2025-04-14T18:14:35.700Z"
+title: >-
+  Tony Hawk 3+4 | Rayssa Leal compartilha sua experiência com o PS2 em novo
+  vídeo
+slug: tony-hawk-34-rayssa-leal-conta-sua-histria-com-o-ps2-em-vdeo
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/wVTAmdbOH74?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/huYseNefqPCBwABYfd4B6vmaOY4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-14_143154.png
+tags:
+  - Rayssa Leal
+  - Tony Hawk
+  - PS2
+  - skate
+  - videogame
+  - Tony Hawk’s Pro Skater 3 + 4
+keywords: 'Rayssa Leal, Tony Hawk, PS2, skate, videogame, Tony Hawk’s Pro Skater 3 + 4'
+author: Pablo Moura
+data: '2025-04-14T18:14:35.700Z'
+resumo: >-
+  A skatista brasileira Rayssa Leal fala sobre suas memórias jogando a série
+  Tony Hawk e suas conquistas no skate
 ---
 
 A estrela brasileira do skate, Rayssa Leal, é destaque no novo trailer de Tony Hawk’s Pro Skater 3 + 4. No vídeo, ela relata suas primeiras experiências com a série de jogos no PlayStation 2, começando aos 6 anos de idade. O trailer, que possui legendas em português, já está disponível para visualização.

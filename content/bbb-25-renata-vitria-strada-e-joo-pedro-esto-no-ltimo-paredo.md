@@ -1,14 +1,30 @@
 ---
-title: "BBB 25: Conheça os Competidores do Último Paredão da Temporada"
-slug: "bbb-25-renata-vitria-strada-e-joo-pedro-esto-no-ltimo-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/hlHyhDMeEzHxWYmJn4TpRf7is_g=/987x0/smart/uploads/conteudo/fotos/bbb25-renata-vitoria-joao-pedro-ultimo-paredao.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/AhUVcwLf0URUNBVP9aluD7NgQd4=/480x360/smart/extras/conteudos/bbb25-vitoria-estrada-ultimo-paredao-peq.jpg"
-tags: ["BBB 25", "último Paredão", "Renata", "Vitória Strada", "João Pedro", "Prova da Final", "Tadeu Schmidt", "Rodrigo Dourado", "votação BBB"]
-keywords: "BBB 25, último Paredão, Renata, Vitória Strada, João Pedro, Prova da Final, Tadeu Schmidt, Rodrigo Dourado, votação BBB"
-author: "Luana Souza"
-data: "2025-04-19T02:17:08.737Z"
+title: 'BBB 25: Conheça os Competidores do Último Paredão da Temporada'
+slug: bbb-25-renata-vitria-strada-e-joo-pedro-esto-no-ltimo-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/hlHyhDMeEzHxWYmJn4TpRf7is_g=/987x0/smart/uploads/conteudo/fotos/bbb25-renata-vitoria-joao-pedro-ultimo-paredao.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/AhUVcwLf0URUNBVP9aluD7NgQd4=/480x360/smart/extras/conteudos/bbb25-vitoria-estrada-ultimo-paredao-peq.jpg
+tags:
+  - BBB 25
+  - último Paredão
+  - Renata
+  - Vitória Strada
+  - João Pedro
+  - Prova da Final
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - votação BBB
+keywords: >-
+  BBB 25, último Paredão, Renata, Vitória Strada, João Pedro, Prova da Final,
+  Tadeu Schmidt, Rodrigo Dourado, votação BBB
+author: Luana Souza
+data: '2025-04-19T02:17:08.737Z'
+resumo: >-
+  Renata, Vitória Strada e João Pedro enfrentam o último Paredão do Big Brother
+  Brasil 25, com eliminação marcada para o próximo domingo.
 ---
 
 A competição no Big Brother Brasil 25 está chegando ao seu clímax com a formação do último Paredão. Renata, Vitória Strada e João Pedro são os participantes que enfrentam a berlinda após a Prova da Final, que determinou quem avançaria diretamente para a grande final. A disputa final de eliminação ocorrerá no domingo, dia 20.

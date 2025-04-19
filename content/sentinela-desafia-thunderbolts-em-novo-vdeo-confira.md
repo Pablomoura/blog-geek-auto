@@ -1,14 +1,29 @@
 ---
-title: "Sentinela confronta Thunderbolts em novo teaser"
-slug: "sentinela-desafia-thunderbolts-em-novo-vdeo-confira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/mU_Uz8f1NojloV0pOsgXEcbqlhI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T214746.895.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/RbClCi-xDkAjakdRt-Q85kHMx0A=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T214746.895.png"
-tags: ["Marvel", "Thunderbolts", "Sentinela", "Vácuo", "filme", "MCU", "anti-heróis", "Quarteto Fantástico"]
-keywords: "Marvel, Thunderbolts, Sentinela, Vácuo, filme, MCU, anti-heróis, Quarteto Fantástico"
-author: "Ana Luiza"
-data: "2025-04-15T02:25:17.764Z"
+title: Sentinela confronta Thunderbolts em novo teaser
+slug: sentinela-desafia-thunderbolts-em-novo-vdeo-confira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/mU_Uz8f1NojloV0pOsgXEcbqlhI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T214746.895.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/RbClCi-xDkAjakdRt-Q85kHMx0A=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T214746.895.png
+tags:
+  - Marvel
+  - Thunderbolts
+  - Sentinela
+  - Vácuo
+  - filme
+  - MCU
+  - anti-heróis
+  - Quarteto Fantástico
+keywords: >-
+  Marvel, Thunderbolts, Sentinela, Vácuo, filme, MCU, anti-heróis, Quarteto
+  Fantástico
+author: Ana Luiza
+data: '2025-04-15T02:25:17.764Z'
+resumo: >-
+  O Sentinela desafia os Thunderbolts em vídeo inédito do próximo filme da
+  Marvel.
 ---
 
 Uma recente prévia do filme 'Thunderbolts' foi divulgada na última segunda-feira (14), mostrando o Sentinela questionando a capacidade da equipe de anti-heróis do MCU. No vídeo, o personagem zomba dos Thunderbolts, questionando se eles realmente pensavam que poderiam ser 'grandes salvadores', destacando que eles nem conseguem se salvar. A prévia também revela uma aparição de sua versão sombria, o Vácuo, que surge imponente ao final do vídeo.

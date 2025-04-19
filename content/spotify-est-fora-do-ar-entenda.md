@@ -1,14 +1,28 @@
 ---
-title: "Falha Global: Spotify Enfrenta Interrupções em Diversos Países"
-slug: "spotify-est-fora-do-ar-entenda"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/lV6GnSKr7mQjLN6a-dgqWOpfetA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T110049.639.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/WjyQLCnzH4iN_uGPeIH9kwkXGVA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T110042.610.png"
-tags: ["Spotify", "interrupção global", "falha no Spotify", "problemas Spotify", "Downdetector", "The Verge", "ThousandEyes"]
-keywords: "Spotify, interrupção global, falha no Spotify, problemas Spotify, Downdetector, The Verge, ThousandEyes"
-author: "Luana Souza"
-data: "2025-04-16T14:11:54.873Z"
+title: 'Falha Global: Spotify Enfrenta Interrupções em Diversos Países'
+slug: spotify-est-fora-do-ar-entenda
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/lV6GnSKr7mQjLN6a-dgqWOpfetA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T110049.639.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/WjyQLCnzH4iN_uGPeIH9kwkXGVA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T110042.610.png
+tags:
+  - Spotify
+  - interrupção global
+  - falha no Spotify
+  - problemas Spotify
+  - Downdetector
+  - The Verge
+  - ThousandEyes
+keywords: >-
+  Spotify, interrupção global, falha no Spotify, problemas Spotify,
+  Downdetector, The Verge, ThousandEyes
+author: Luana Souza
+data: '2025-04-16T14:11:54.873Z'
+resumo: >-
+  Usuários em várias partes do mundo, incluindo EUA e Reino Unido, relatam
+  problemas com o Spotify, afetando tanto a versão paga quanto a gratuita.
 ---
 
 Nesta quarta-feira (16), usuários do Spotify, tanto da versão paga quanto da gratuita, enfrentaram dificuldades para acessar o serviço de streaming de música. Relatos iniciais surgiram nos Estados Unidos e no Reino Unido, com o problema se expandindo rapidamente para outras regiões, incluindo o Brasil, onde o assunto rapidamente ganhou destaque nos Trending Topics do X.

@@ -1,14 +1,27 @@
 ---
-title: "Demolidor: Renascido Anuncia Data de Estreia da Segunda Temporada"
-slug: "demolidor-renascido-showrunner-confirma-data-de-estreia-da-segunda-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/LJmiMbOuK5o?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/4DTfL50PJgu68hfLGbSIQ-jxYgI=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-16_173934.png"
-tags: ["Demolidor Renascido", "segunda temporada Demolidor", "Disney+", "Charlie Cox", "Vincent D'Onofrio", "série Marvel", "estreia 2026"]
-keywords: "Demolidor Renascido, segunda temporada Demolidor, Disney+, Charlie Cox, Vincent D'Onofrio, série Marvel, estreia 2026"
-author: "Ana Luiza"
-data: "2025-04-16T21:10:10.886Z"
+title: 'Demolidor: Renascido Anuncia Data de Estreia da Segunda Temporada'
+slug: demolidor-renascido-showrunner-confirma-data-de-estreia-da-segunda-temporada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/LJmiMbOuK5o?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/4DTfL50PJgu68hfLGbSIQ-jxYgI=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-16_173934.png
+tags:
+  - Demolidor Renascido
+  - segunda temporada Demolidor
+  - Disney+
+  - Charlie Cox
+  - Vincent D'Onofrio
+  - série Marvel
+  - estreia 2026
+keywords: >-
+  Demolidor Renascido, segunda temporada Demolidor, Disney+, Charlie Cox,
+  Vincent D'Onofrio, série Marvel, estreia 2026
+author: Ana Luiza
+data: '2025-04-16T21:10:10.886Z'
+resumo: >-
+  A aclamada série da Marvel, Demolidor: Renascido, confirma retorno em março de
+  2026 com elenco original e novos integrantes.
 ---
 
 Dario Scardapane, showrunner de 'Demolidor: Renascido', revelou através de uma publicação em seu Instagram que a aguardada segunda temporada da série chegará em março de 2026, exclusivamente no Disney+. A primeira temporada, que encerrou recentemente, deixou os fãs ansiosos e cheios de expectativas.

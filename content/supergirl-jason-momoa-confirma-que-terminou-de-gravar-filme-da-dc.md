@@ -1,14 +1,23 @@
 ---
-title: "Supergirl | Jason Momoa finaliza gravações no filme da DC"
-slug: "supergirl-jason-momoa-confirma-que-terminou-de-gravar-filme-da-dc"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/mGEEkWCpqCxn7xJh-7FyfrdIXK4=/987x0/smart/uploads/conteudo/fotos/lobodccomics_Z3be8YZ.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/gZohcI_N28nWIIPBX7RZ70Lf2Qw=/480x360/smart/extras/conteudos/lobodccomics_5XmnF6u.jpg"
-tags: ["Supergirl", "Jason Momoa", "DC", "Milly Alcock", "cinema", "filme"]
-keywords: "Supergirl, Jason Momoa, DC, Milly Alcock, cinema, filme"
-author: "Luana Souza"
-data: "2025-04-12T17:08:40.205Z"
+title: Supergirl | Jason Momoa finaliza gravações no filme da DC
+slug: supergirl-jason-momoa-confirma-que-terminou-de-gravar-filme-da-dc
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/mGEEkWCpqCxn7xJh-7FyfrdIXK4=/987x0/smart/uploads/conteudo/fotos/lobodccomics_Z3be8YZ.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/gZohcI_N28nWIIPBX7RZ70Lf2Qw=/480x360/smart/extras/conteudos/lobodccomics_5XmnF6u.jpg
+tags:
+  - Supergirl
+  - Jason Momoa
+  - DC
+  - Milly Alcock
+  - cinema
+  - filme
+keywords: 'Supergirl, Jason Momoa, DC, Milly Alcock, cinema, filme'
+author: Luana Souza
+data: '2025-04-12T17:08:40.205Z'
+resumo: Ator interpreta Lobo na nova produção que conta com Milly Alcock
 ---
 
 Jason Momoa concluiu as filmagens de sua participação como Lobo no filme 'Supergirl: Woman of Tomorrow' (Supergirl: A Mulher do Amanhã, em tradução livre). O ator anunciou o término de seu trabalho no projeto através de uma publicação no Instagram neste sábado (12).

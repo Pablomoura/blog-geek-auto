@@ -1,14 +1,27 @@
 ---
-title: "Um Filme Minecraft presta homenagem ao youtuber Technoblade"
-slug: "um-filme-minecraft-veja-homenagem-a-technoblade-falecido-youtuber-do-jogo"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/uMAmiVkHk5Y7clz-w9lTJEIlTog=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-14T111848.091.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/FiHTRXAcwihuunr0XK5hawqvwUA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T112019.275.png"
-tags: ["Minecraft", "Technoblade", "Um Filme Minecraft", "homenagem", "youtuber", "filme", "Jack Black", "Jason Momoa"]
-keywords: "Minecraft, Technoblade, Um Filme Minecraft, homenagem, youtuber, filme, Jack Black, Jason Momoa"
-author: "Luana Souza"
-data: "2025-04-14T15:11:22.609Z"
+title: Um Filme Minecraft presta homenagem ao youtuber Technoblade
+slug: um-filme-minecraft-veja-homenagem-a-technoblade-falecido-youtuber-do-jogo
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/uMAmiVkHk5Y7clz-w9lTJEIlTog=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-14T111848.091.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/FiHTRXAcwihuunr0XK5hawqvwUA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T112019.275.png
+tags:
+  - Minecraft
+  - Technoblade
+  - Um Filme Minecraft
+  - homenagem
+  - youtuber
+  - filme
+  - Jack Black
+  - Jason Momoa
+keywords: >-
+  Minecraft, Technoblade, Um Filme Minecraft, homenagem, youtuber, filme, Jack
+  Black, Jason Momoa
+author: Luana Souza
+data: '2025-04-14T15:11:22.609Z'
+resumo: O filme inclui uma referência ao youtuber de Minecraft que faleceu em 2022.
 ---
 
 Technoblade, um dos criadores de conteúdo mais populares de Minecraft, faleceu em 2022, mas sua memória continua viva. No novo filme 'Um Filme Minecraft', o youtuber recebeu uma homenagem especial, que foi revelada recentemente. Tommyinnit, amigo de Technoblade, já havia confirmado a homenagem antes do lançamento do filme.

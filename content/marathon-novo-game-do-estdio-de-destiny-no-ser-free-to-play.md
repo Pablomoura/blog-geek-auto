@@ -1,14 +1,26 @@
 ---
-title: "Marathon | Novo game do estúdio de Destiny não será free-to-play"
-slug: "marathon-novo-game-do-estdio-de-destiny-no-ser-free-to-play"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/P_FDxntFYCGy0zb9ohqkOlG_awE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-14T121959.844.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/T8LX80tiJqJq2-Zg2HTpCfG_ubU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T121949.316.png"
-tags: ["Marathon", "Bungie", "game", "FPS", "lançamento", "PS5", "Xbox Series", "PC", "jogo pago"]
-keywords: "Marathon, Bungie, game, FPS, lançamento, PS5, Xbox Series, PC, jogo pago"
-author: "Ana Luiza"
-data: "2025-04-14T16:13:16.022Z"
+title: Marathon | Novo game do estúdio de Destiny não será free-to-play
+slug: marathon-novo-game-do-estdio-de-destiny-no-ser-free-to-play
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/P_FDxntFYCGy0zb9ohqkOlG_awE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-14T121959.844.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/T8LX80tiJqJq2-Zg2HTpCfG_ubU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T121949.316.png
+tags:
+  - Marathon
+  - Bungie
+  - game
+  - FPS
+  - lançamento
+  - PS5
+  - Xbox Series
+  - PC
+  - jogo pago
+keywords: 'Marathon, Bungie, game, FPS, lançamento, PS5, Xbox Series, PC, jogo pago'
+author: Ana Luiza
+data: '2025-04-14T16:13:16.022Z'
+resumo: 'Jogo será lançado em setembro para PC, PS5 e Xbox Series X e S'
 ---
 
 Marathon, o novo jogo da Bungie, estúdio responsável por Destiny, não será um título free-to-play. A empresa ainda não divulgou o preço do jogo, que será anunciado neste trimestre. 

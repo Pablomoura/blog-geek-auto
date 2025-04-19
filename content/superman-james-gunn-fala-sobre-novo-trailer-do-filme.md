@@ -1,14 +1,24 @@
 ---
-title: "Superman | James Gunn comenta sobre o atraso do novo trailer do filme"
-slug: "superman-james-gunn-fala-sobre-novo-trailer-do-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/sP9sb6pYNzXnDmB6tHt9Nqdn9pY=/987x0/smart/uploads/conteudo/fotos/supermanvariante_rsKuxUU.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/54tAugpuyJwRrT0wMpjUMPutoQI=/480x360/smart/extras/conteudos/supermanvariante_GfkVwjv.jpg"
-tags: ["Superman", "James Gunn", "DC", "trailer", "cinema", "filme", "especial-Superman"]
-keywords: "Superman, James Gunn, DC, trailer, cinema, filme"
-author: "Ana Luiza"
-data: "2025-04-13T17:08:38.268Z"
+title: Superman | James Gunn comenta sobre o atraso do novo trailer do filme
+slug: superman-james-gunn-fala-sobre-novo-trailer-do-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/sP9sb6pYNzXnDmB6tHt9Nqdn9pY=/987x0/smart/uploads/conteudo/fotos/supermanvariante_rsKuxUU.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/54tAugpuyJwRrT0wMpjUMPutoQI=/480x360/smart/extras/conteudos/supermanvariante_GfkVwjv.jpg
+tags:
+  - Superman
+  - James Gunn
+  - DC
+  - trailer
+  - cinema
+  - filme
+  - especial-Superman
+keywords: 'Superman, James Gunn, DC, trailer, cinema, filme'
+author: Ana Luiza
+data: '2025-04-13T17:08:38.268Z'
+resumo: Nova versão do Superman chega aos cinemas em julho de 2025
 ---
 
 James Gunn, diretor e roteirista do novo filme do Superman, informou aos fãs que o próximo trailer do filme ainda vai demorar para ser lançado. Através de suas redes sociais, Gunn explicou que, como recentemente foi divulgado um extenso trecho de cinco minutos nos cinemas, uma nova prévia não será disponibilizada tão cedo.

@@ -1,14 +1,29 @@
 ---
-title: "BBB 25 | Confira o horário de início do programa ao vivo hoje"
-slug: "bbb-25-saiba-que-horas-comea-o-programa-ao-vivo-hoje"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/rNLXZ2yvmGHf3F9H4Fq_BlrJ2GQ=/987x0/smart/uploads/conteudo/fotos/bbb25-tadeu-schmidt-horario.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/-GCm1hJvvFkfyka09r4i0e3jkyg=/480x360/smart/extras/conteudos/bbb25-tadeu-schmidt-horario-peq.jpg"
-tags: ["BBB 25", "horário de transmissão", "Globo", "Globoplay", "Tadeu Schmidt", "Rodrigo Dourado", "votação BBB", "especial-BBB 25"]
-keywords: "BBB 25, horário de transmissão, Globo, Globoplay, Tadeu Schmidt, Rodrigo Dourado, votação BBB"
-author: "Luana Souza"
-data: "2025-04-11T23:58:27.047Z"
+title: BBB 25 | Confira o horário de início do programa ao vivo hoje
+slug: bbb-25-saiba-que-horas-comea-o-programa-ao-vivo-hoje
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/rNLXZ2yvmGHf3F9H4Fq_BlrJ2GQ=/987x0/smart/uploads/conteudo/fotos/bbb25-tadeu-schmidt-horario.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/-GCm1hJvvFkfyka09r4i0e3jkyg=/480x360/smart/extras/conteudos/bbb25-tadeu-schmidt-horario-peq.jpg
+tags:
+  - BBB 25
+  - horário de transmissão
+  - Globo
+  - Globoplay
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - votação BBB
+  - especial-BBB 25
+keywords: >-
+  BBB 25, horário de transmissão, Globo, Globoplay, Tadeu Schmidt, Rodrigo
+  Dourado, votação BBB
+author: Luana Souza
+data: '2025-04-11T23:58:27.047Z'
+resumo: >-
+  Descubra o horário em que o BBB 25 será transmitido ao vivo pela Globo nesta
+  sexta-feira.
 ---
 
 A transmissão ao vivo do BBB 25 desta sexta-feira, 11 de abril, está programada para começar às 22h25, horário de Brasília, imediatamente após a novela 'Vale Tudo', na Rede Globo. O episódio de hoje vai abordar as consequências da liderança de João Pedro e a eliminação de Maike. Além disso, será formado um novo Paredão, e Renata já está confirmada nele.

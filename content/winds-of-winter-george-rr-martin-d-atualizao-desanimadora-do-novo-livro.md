@@ -1,14 +1,29 @@
 ---
-title: "Os Ventos do Inverno: Atualização Frustrante de George R.R. Martin sobre o aguardado livro"
-slug: "winds-of-winter-george-rr-martin-d-atualizao-desanimadora-do-novo-livro"
-categoria: "HQ/LIVROS"
-midia: "https://www.youtube.com/embed/9WxPeoi1Gz4?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/uEQRHDAvBHsFNePJhss7fpxlC5M=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-16T210710.964.png"
-tags: ["George R.R. Martin", "Os Ventos do Inverno", "As Crônicas do Gelo e Fogo", "Game of Thrones", "A Casa do Dragão", "O Cavaleiro dos Sete Reinos", "atualização livro"]
-keywords: "George R.R. Martin, Os Ventos do Inverno, As Crônicas do Gelo e Fogo, Game of Thrones, A Casa do Dragão, O Cavaleiro dos Sete Reinos, atualização livro"
-author: "Ana Luiza"
-data: "2025-04-17T00:43:33.799Z"
+title: >-
+  Os Ventos do Inverno: Atualização Frustrante de George R.R. Martin sobre o
+  aguardado livro
+slug: winds-of-winter-george-rr-martin-d-atualizao-desanimadora-do-novo-livro
+categoria: HQ/LIVROS
+midia: 'https://www.youtube.com/embed/9WxPeoi1Gz4?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/uEQRHDAvBHsFNePJhss7fpxlC5M=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-16T210710.964.png
+tags:
+  - George R.R. Martin
+  - Os Ventos do Inverno
+  - As Crônicas do Gelo e Fogo
+  - Game of Thrones
+  - A Casa do Dragão
+  - O Cavaleiro dos Sete Reinos
+  - atualização livro
+keywords: >-
+  George R.R. Martin, Os Ventos do Inverno, As Crônicas do Gelo e Fogo, Game of
+  Thrones, A Casa do Dragão, O Cavaleiro dos Sete Reinos, atualização livro
+author: Ana Luiza
+data: '2025-04-17T00:43:33.799Z'
+resumo: >-
+  George R.R. Martin revela que ainda há um longo caminho até a conclusão de Os
+  Ventos do Inverno, o próximo livro de As Crônicas do Gelo e Fogo.
 ---
 
 George R.R. Martin, o renomado autor da série As Crônicas do Gelo e Fogo, compartilhou em uma entrevista recente ao Time que continua trabalhando no sexto livro, Os Ventos do Inverno. Apesar dos anos de espera, Martin expressou que o processo de escrita ainda está em andamento e que não há previsão de lançamento iminente.

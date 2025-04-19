@@ -1,14 +1,31 @@
 ---
-title: "Demolidor: Renascido Conclui Primeira Temporada com Enfoque em Justiceiro e Nova York"
-slug: "demolidor-renascido-encerra-tima-temporada-com-justiceiro-e-nova-york-em-foco"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/_5yR6UZjkyY?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/DZ9haBRCJzo97cYoOiOelqCq2jI=/480x360/smart/extras/conteudos/demolidor-renascido-capa.png"
-tags: ["Demolidor Renascido", "Justiceiro", "Nova York", "série", "temporada", "Wilson Fisk", "Matt Murdock", "Karen Page", "violência policial"]
-keywords: "Demolidor Renascido, Justiceiro, Nova York, série, temporada, Wilson Fisk, Matt Murdock, Karen Page, violência policial"
-author: "Pablo Moura"
-data: "2025-04-16T02:25:01.635Z"
+title: >-
+  Demolidor: Renascido Conclui Primeira Temporada com Enfoque em Justiceiro e
+  Nova York
+slug: demolidor-renascido-encerra-tima-temporada-com-justiceiro-e-nova-york-em-foco
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/_5yR6UZjkyY?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/DZ9haBRCJzo97cYoOiOelqCq2jI=/480x360/smart/extras/conteudos/demolidor-renascido-capa.png
+tags:
+  - Demolidor Renascido
+  - Justiceiro
+  - Nova York
+  - série
+  - temporada
+  - Wilson Fisk
+  - Matt Murdock
+  - Karen Page
+  - violência policial
+keywords: >-
+  Demolidor Renascido, Justiceiro, Nova York, série, temporada, Wilson Fisk,
+  Matt Murdock, Karen Page, violência policial
+author: Pablo Moura
+data: '2025-04-16T02:25:01.635Z'
+resumo: >-
+  A produção da segunda temporada de 'Demolidor: Renascido' já está em
+  andamento.
 ---
 
 Aviso: o texto a seguir pode conter spoilers do final da primeira temporada de 'Demolidor: Renascido'.

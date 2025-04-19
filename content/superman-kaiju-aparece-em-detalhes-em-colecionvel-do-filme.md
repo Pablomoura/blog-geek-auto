@@ -1,14 +1,30 @@
 ---
-title: "Superman | Revelados Novos Detalhes do Kaiju em Colecionável do Filme"
-slug: "superman-kaiju-aparece-em-detalhes-em-colecionvel-do-filme"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/DmY6SLXm4Ao?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Zb3PpXP92oJUeM7MhKlzq5eEC10=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-18_163810.png"
-tags: ["Superman", "Kaiju", "DCU", "James Gunn", "colecionáveis", "David Corenswet", "Rachel Brosnahan", "Nicholas Hoult", "Nathan Fillion", "DC Comics"]
-keywords: "Superman, Kaiju, DCU, James Gunn, colecionáveis, David Corenswet, Rachel Brosnahan, Nicholas Hoult, Nathan Fillion, DC Comics"
-author: "Ana Luiza"
-data: "2025-04-18T20:11:41.047Z"
+title: Superman | Revelados Novos Detalhes do Kaiju em Colecionável do Filme
+slug: superman-kaiju-aparece-em-detalhes-em-colecionvel-do-filme
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/DmY6SLXm4Ao?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Zb3PpXP92oJUeM7MhKlzq5eEC10=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-18_163810.png
+tags:
+  - Superman
+  - Kaiju
+  - DCU
+  - James Gunn
+  - colecionáveis
+  - David Corenswet
+  - Rachel Brosnahan
+  - Nicholas Hoult
+  - Nathan Fillion
+  - DC Comics
+keywords: >-
+  Superman, Kaiju, DCU, James Gunn, colecionáveis, David Corenswet, Rachel
+  Brosnahan, Nicholas Hoult, Nathan Fillion, DC Comics
+author: Ana Luiza
+data: '2025-04-18T20:11:41.047Z'
+resumo: >-
+  A esperada batalha contra um Kaiju é destacada em novo colecionável de
+  Superman, prometendo ser uma das cenas mais impactantes do filme.
 ---
 
 Um recente lançamento de colecionáveis relacionados ao filme Superman ofereceu um vislumbre mais detalhado do Kaiju, a imponente criatura que o herói enfrentará. Essa ameaça colossal já havia sido brevemente introduzida no primeiro trailer, lançado há alguns meses, mas agora é possível observar mais de sua aparência e contexto graças ao novo brinquedo, que inclui tanto a figura do Superman quanto do monstro, sob o título "Kaiju Slime Battle".

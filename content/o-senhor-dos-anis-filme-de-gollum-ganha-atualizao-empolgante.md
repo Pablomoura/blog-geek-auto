@@ -1,14 +1,30 @@
 ---
-title: "O Senhor dos Anéis | Novo filme focado em Gollum tem previsão de lançamento para 2027"
-slug: "o-senhor-dos-anis-filme-de-gollum-ganha-atualizao-empolgante"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/bN7J4fH8m4mf9SC0JS4a3TroNwI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-15T121839.762.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/i7wuQ46E2EYUE1gkUQdes0hDvzc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-15T121742.033.png"
-tags: ["O Senhor dos Anéis", "Gollum", "Andy Serkis", "The Hunt for Gollum", "Warner Bros.", "Embracer Group", "cinema"]
-keywords: "O Senhor dos Anéis, Gollum, Andy Serkis, The Hunt for Gollum, Warner Bros., Embracer Group, cinema"
-author: "Ana Luiza"
-data: "2025-04-15T16:13:06.666Z"
+title: >-
+  O Senhor dos Anéis | Novo filme focado em Gollum tem previsão de lançamento
+  para 2027
+slug: o-senhor-dos-anis-filme-de-gollum-ganha-atualizao-empolgante
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/bN7J4fH8m4mf9SC0JS4a3TroNwI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-15T121839.762.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/i7wuQ46E2EYUE1gkUQdes0hDvzc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-15T121742.033.png
+tags:
+  - O Senhor dos Anéis
+  - Gollum
+  - Andy Serkis
+  - The Hunt for Gollum
+  - Warner Bros.
+  - Embracer Group
+  - cinema
+keywords: >-
+  O Senhor dos Anéis, Gollum, Andy Serkis, The Hunt for Gollum, Warner Bros.,
+  Embracer Group, cinema
+author: Ana Luiza
+data: '2025-04-15T16:13:06.666Z'
+resumo: >-
+  O filme 'The Hunt for Gollum' teve sua data de lançamento adiada para dezembro
+  de 2027.
 ---
 
 O novo filme da saga O Senhor dos Anéis, 'The Hunt for Gollum', dirigido e estrelado por Andy Serkis, teve sua data de lançamento adiada para dezembro de 2027. A informação foi confirmada pelo próprio Serkis durante a Fan Expo Vancouver 2025. Inicialmente, o filme estava programado para dezembro de 2026. 

@@ -1,14 +1,24 @@
 ---
-title: "Thunderbolts | Filme ganha primeiro clipe com destaque para Florence Pugh"
-slug: "thunderbolts-filme-ganha-primeiro-clipe-com-foco-em-florence-pugh"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/meF9rY5sbILk0PYqNdaig84DGXk=/987x0/smart/uploads/conteudo/fotos/thunderboltsvarianteposter_BOCPoUn.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/XfZOOm8sUroAVKHXOpTRUcZNeyI=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_YBAj751.jpg"
-tags: ["Thunderbolts", "Marvel", "Florence Pugh", "MCU", "cinema", "anti-heróis", "estreia"]
-keywords: "Thunderbolts, Marvel, Florence Pugh, MCU, cinema, anti-heróis, estreia"
-author: "Luana Souza"
-data: "2025-04-12T20:37:30.122Z"
+title: Thunderbolts | Filme ganha primeiro clipe com destaque para Florence Pugh
+slug: thunderbolts-filme-ganha-primeiro-clipe-com-foco-em-florence-pugh
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/meF9rY5sbILk0PYqNdaig84DGXk=/987x0/smart/uploads/conteudo/fotos/thunderboltsvarianteposter_BOCPoUn.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/XfZOOm8sUroAVKHXOpTRUcZNeyI=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_YBAj751.jpg
+tags:
+  - Thunderbolts
+  - Marvel
+  - Florence Pugh
+  - MCU
+  - cinema
+  - anti-heróis
+  - estreia
+keywords: 'Thunderbolts, Marvel, Florence Pugh, MCU, cinema, anti-heróis, estreia'
+author: Luana Souza
+data: '2025-04-12T20:37:30.122Z'
+resumo: Longa chega aos cinemas em maio de 2025
 ---
 
 O Marvel Studios divulgou neste sábado (12) o primeiro clipe do filme Thunderbolts, que estreará em breve. O vídeo destaca a protagonista Yelena (Florence Pugh) se preparando para pular de um prédio, uma cena que tem sido central na promoção do filme.

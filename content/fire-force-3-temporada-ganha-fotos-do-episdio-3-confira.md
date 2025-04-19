@@ -1,14 +1,26 @@
 ---
-title: "Fire Force: Novas Imagens do Terceiro Episódio da Temporada 3 São Divulgadas"
-slug: "fire-force-3-temporada-ganha-fotos-do-episdio-3-confira"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/LIIhaOTI0Bw5TYptYY1wNsyZNoU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-17T103507.706.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/mueC_z_JH9sNCEPa8fU061FhNJI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T103453.296.png"
-tags: ["Fire Force", "Temporada 3", "Episódio 3", "Anime", "Crunchyroll", "Mangá", "Ohkubo"]
-keywords: "Fire Force, Temporada 3, Episódio 3, Anime, Crunchyroll, Mangá, Ohkubo"
-author: "Luana Souza"
-data: "2025-04-17T14:11:42.846Z"
+title: 'Fire Force: Novas Imagens do Terceiro Episódio da Temporada 3 São Divulgadas'
+slug: fire-force-3-temporada-ganha-fotos-do-episdio-3-confira
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/LIIhaOTI0Bw5TYptYY1wNsyZNoU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-17T103507.706.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/mueC_z_JH9sNCEPa8fU061FhNJI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T103453.296.png
+tags:
+  - Fire Force
+  - Temporada 3
+  - Episódio 3
+  - Anime
+  - Crunchyroll
+  - Mangá
+  - Ohkubo
+keywords: 'Fire Force, Temporada 3, Episódio 3, Anime, Crunchyroll, Mangá, Ohkubo'
+author: Luana Souza
+data: '2025-04-17T14:11:42.846Z'
+resumo: >-
+  A terceira temporada de Fire Force, que estreou em 5 de abril, revela imagens
+  exclusivas do seu próximo episódio.
 ---
 
 Os fãs de 'Fire Force' têm motivos para comemorar, pois foram divulgadas novas imagens do terceiro episódio da temporada atual. A série, que retomou sua jornada em 5 de abril deste ano, promete grandes emoções com a adaptação de conteúdos a partir do Capítulo 175 do mangá.

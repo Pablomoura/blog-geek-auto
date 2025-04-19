@@ -1,14 +1,22 @@
 ---
-title: "Adolescência | Vídeo de bastidores revela uso de drone em plano-sequência"
-slug: "adolescncia-video-de-bastidores-mostra-uso-de-drone-na-srie"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/ifK-oe-EMkhIHIvdF0Sf5NNAY04=/987x0/smart/uploads/conteudo/fotos/adolescencia.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/uy1FJ3CdpB-K5qqHrvfB9-DBtVA=/480x360/smart/extras/conteudos/adolescencia.jpg"
-tags: ["Adolescência", "Netflix", "plano-sequência", "drone", "bastidores"]
-keywords: "Adolescência, Netflix, plano-sequência, drone, bastidores"
-author: "Luana Souza"
-data: "2025-04-13T20:10:49.605Z"
+title: Adolescência | Vídeo de bastidores revela uso de drone em plano-sequência
+slug: adolescncia-video-de-bastidores-mostra-uso-de-drone-na-srie
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/ifK-oe-EMkhIHIvdF0Sf5NNAY04=/987x0/smart/uploads/conteudo/fotos/adolescencia.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/uy1FJ3CdpB-K5qqHrvfB9-DBtVA=/480x360/smart/extras/conteudos/adolescencia.jpg
+tags:
+  - Adolescência
+  - Netflix
+  - plano-sequência
+  - drone
+  - bastidores
+keywords: 'Adolescência, Netflix, plano-sequência, drone, bastidores'
+author: Luana Souza
+data: '2025-04-13T20:10:49.605Z'
+resumo: Minissérie da Netflix é filmada em plano-sequência contínuo
 ---
 
 A minissérie 'Adolescência' apresentou um novo vídeo de bastidores no último sábado (12), destacando o emprego de um drone para a realização de um dos planos-sequência do programa. Matt Lewis, diretor de fotografia da série, compartilhou no Instagram como a equipe manteve a continuidade visual durante a mudança de cenários usando o drone. 

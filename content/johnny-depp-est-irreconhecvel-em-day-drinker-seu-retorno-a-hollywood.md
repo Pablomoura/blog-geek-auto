@@ -1,14 +1,27 @@
 ---
-title: "Johnny Depp aparece irreconhecível em 'Day Drinker', marcando seu retorno a Hollywood"
-slug: "johnny-depp-est-irreconhecvel-em-day-drinker-seu-retorno-a-hollywood"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/1z-Ehwe8eaHsYTryvaTCLYt9dRM=/987x0/smart/uploads/conteudo/fotos/depp_5SeegAW.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/cT68pQAKP9QTUcTQRo-1jBnRyJM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-14_140425.png"
-tags: ["Johnny Depp", "Day Drinker", "Hollywood", "Marc Webb", "Amber Heard", "Penélope Cruz"]
-keywords: "Johnny Depp, Day Drinker, Hollywood, Marc Webb, Amber Heard, Penélope Cruz"
-author: "Pablo Moura"
-data: "2025-04-14T18:15:07.342Z"
+title: >-
+  Johnny Depp aparece irreconhecível em 'Day Drinker', marcando seu retorno a
+  Hollywood
+slug: johnny-depp-est-irreconhecvel-em-day-drinker-seu-retorno-a-hollywood
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/1z-Ehwe8eaHsYTryvaTCLYt9dRM=/987x0/smart/uploads/conteudo/fotos/depp_5SeegAW.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/cT68pQAKP9QTUcTQRo-1jBnRyJM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-14_140425.png
+tags:
+  - Johnny Depp
+  - Day Drinker
+  - Hollywood
+  - Marc Webb
+  - Amber Heard
+  - Penélope Cruz
+keywords: 'Johnny Depp, Day Drinker, Hollywood, Marc Webb, Amber Heard, Penélope Cruz'
+author: Pablo Moura
+data: '2025-04-14T18:15:07.342Z'
+resumo: >-
+  O filme 'Day Drinker' marca a volta de Johnny Depp a Hollywood após seu
+  divórcio controverso.
 ---
 
 A Lionsgate revelou a primeira imagem de Johnny Depp em 'Day Drinker', novo filme de ação dirigido por Marc Webb. Esta é a primeira atuação de Depp após seu conturbado divórcio com a atriz Amber Heard. Na imagem divulgada, Depp aparece com olhos azuis, cabelos brancos e uma barba volumosa, caracterizado como Kelly, um dos personagens principais do filme. Ele atua ao lado de Penélope Cruz.

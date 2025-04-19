@@ -1,14 +1,27 @@
 ---
-title: "Bilheteria | Minecraft já é a maior estreia dos cinemas americanos em 2025"
-slug: "bilheteria-minecraft-j-a-maior-estreia-dos-cinemas-americanos-em-2025"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FKv9hW0JSoSGt2QrC5GDHT2cybI=/987x0/smart/uploads/conteudo/fotos/minecraftfilme_reXbGak.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/72XhKu9W_7go21T4ZcPB5384BnE=/480x360/smart/extras/conteudos/minecraftfilme_3DwHlYW.jpg"
-tags: ["Minecraft", "bilheteria recorde", "adaptação de jogo", "Jason Momoa", "Jack Black", "estreia de cinema", "filme de ação", "sucesso de bilheteria"]
-keywords: "Minecraft, bilheteria recorde, adaptação de jogo, Jason Momoa, Jack Black, estreia de cinema, filme de ação, sucesso de bilheteria"
-author: "Pablo Moura"
-data: "2025-04-11T16:16:36.095Z"
+title: Bilheteria | Minecraft já é a maior estreia dos cinemas americanos em 2025
+slug: bilheteria-minecraft-j-a-maior-estreia-dos-cinemas-americanos-em-2025
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FKv9hW0JSoSGt2QrC5GDHT2cybI=/987x0/smart/uploads/conteudo/fotos/minecraftfilme_reXbGak.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/72XhKu9W_7go21T4ZcPB5384BnE=/480x360/smart/extras/conteudos/minecraftfilme_3DwHlYW.jpg
+tags:
+  - Minecraft
+  - bilheteria recorde
+  - adaptação de jogo
+  - Jason Momoa
+  - Jack Black
+  - estreia de cinema
+  - filme de ação
+  - sucesso de bilheteria
+keywords: >-
+  Minecraft, bilheteria recorde, adaptação de jogo, Jason Momoa, Jack Black,
+  estreia de cinema, filme de ação, sucesso de bilheteria
+author: Pablo Moura
+data: '2025-04-11T16:16:36.095Z'
+resumo: Filme com Jack Black supera recorde de Super Mario Bros.
 ---
 
 Um Filme Minecraft surpreendeu nas bilheterias, tornando-se a maior estreia nos Estados Unidos em 2025, ao arrecadar impressionantes US$ 200 milhões. Esse montante deixou para trás o filme Capitão América: Admirável Mundo Novo, que havia alcançado US$ 199 milhões. No que se refere a adaptações de jogos, Um Filme Minecraft superou os US$ 146,4 milhões arrecadados por Super Mario Bros. - O Filme nos Estados Unidos, embora este último mantenha uma vantagem durante seu período de estreia de cinco dias, com uma bilheteria total de US$ 191 milhões. Globalmente, Super Mario ainda lidera com US$ 172,8 milhões, enquanto Um Filme Minecraft acumula US$ 144 milhões fora dos EUA. Até o momento, o filme estrelado por Jason Momoa e Jack Black já soma mais de US$ 345 milhões em bilheteria mundial.

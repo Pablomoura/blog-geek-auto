@@ -1,14 +1,30 @@
 ---
-title: "Seus Amigos e Vizinhos | James Marsden se junta ao elenco na 2ª temporada da série da Apple TV+"
-slug: "seus-amigos-e-vizinhos-srie-do-apple-tv-ter-james-marsden-na-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/O8qSB1gsEuKo81ym8DSxR5vedNk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-17T105830.770.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/B-WeCcWH1ENpoxT-jHl5WLJEUbQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T105801.800.png"
-tags: ["Seus Amigos e Vizinhos", "James Marsden", "Apple TV+", "segunda temporada", "Jon Hamm", "Olivia Munn", "Jonathan Tropper"]
-keywords: "Seus Amigos e Vizinhos, James Marsden, Apple TV+, segunda temporada, Jon Hamm, Olivia Munn, Jonathan Tropper"
-author: "Pablo Moura"
-data: "2025-04-17T14:10:59.948Z"
+title: >-
+  Seus Amigos e Vizinhos | James Marsden se junta ao elenco na 2ª temporada da
+  série da Apple TV+
+slug: seus-amigos-e-vizinhos-srie-do-apple-tv-ter-james-marsden-na-2-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/O8qSB1gsEuKo81ym8DSxR5vedNk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-17T105830.770.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/B-WeCcWH1ENpoxT-jHl5WLJEUbQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T105801.800.png
+tags:
+  - Seus Amigos e Vizinhos
+  - James Marsden
+  - Apple TV+
+  - segunda temporada
+  - Jon Hamm
+  - Olivia Munn
+  - Jonathan Tropper
+keywords: >-
+  Seus Amigos e Vizinhos, James Marsden, Apple TV+, segunda temporada, Jon Hamm,
+  Olivia Munn, Jonathan Tropper
+author: Pablo Moura
+data: '2025-04-17T14:10:59.948Z'
+resumo: >-
+  Ainda não há detalhes sobre o papel de James Marsden na nova temporada da
+  série.
 ---
 
 A série do Apple TV+, Seus Amigos e Vizinhos, que estreou este ano, está se preparando para sua segunda temporada com um novo acréscimo ao elenco: James Marsden, conhecido por seus papéis em Sonic: O Filme e X-Men. Até agora, os detalhes específicos sobre o personagem de Marsden ainda não foram divulgados, mas foi confirmado que o ator, que também foi indicado ao Emmy por Paradise, terá um papel fixo, e não será apenas uma participação especial.

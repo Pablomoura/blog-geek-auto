@@ -1,14 +1,25 @@
 ---
-title: "9-1-1 | Título de episódio da 8ª temporada sugere despedida de personagem"
-slug: "9-1-1-ttulo-de-episdio-da-8-temporada-sugere-despedida-de-personagem"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/yypLFP-h75ukI-78ouDPinmP348=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T182333.051.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QrbSyUhER2S4uiyj-6QEwpVTGD4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T182333.051.png"
-tags: ["9-1-1", "temporada 8", "The Last Alarm", "despedida de personagem", "spin-off", "9-1-1 Nashville"]
-keywords: "9-1-1, temporada 8, The Last Alarm, despedida de personagem, spin-off, 9-1-1 Nashville"
-author: "Pablo Moura"
-data: "2025-04-14T22:10:38.055Z"
+title: 9-1-1 | Título de episódio da 8ª temporada sugere despedida de personagem
+slug: 9-1-1-ttulo-de-episdio-da-8-temporada-sugere-despedida-de-personagem
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/yypLFP-h75ukI-78ouDPinmP348=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T182333.051.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QrbSyUhER2S4uiyj-6QEwpVTGD4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T182333.051.png
+tags:
+  - 9-1-1
+  - temporada 8
+  - The Last Alarm
+  - despedida de personagem
+  - spin-off
+  - 9-1-1 Nashville
+keywords: >-
+  9-1-1, temporada 8, The Last Alarm, despedida de personagem, spin-off, 9-1-1
+  Nashville
+author: Pablo Moura
+data: '2025-04-14T22:10:38.055Z'
+resumo: Possível saída de personagem central na nova temporada de 9-1-1
 ---
 
 O título do próximo episódio de 9-1-1, que será exibido em 1º de maio, intitula-se 'The Last Alarm', sugerindo a aposentadoria ou até mesmo a morte de um dos personagens. Recentemente, fotos dos bastidores mostraram uma cerimônia fúnebre, com Athena e seus filhos vestidos de preto, enquanto Bobby (interpretado por Peter Krause) não foi visto, levantando especulações entre os fãs sobre seu destino.

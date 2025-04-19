@@ -1,14 +1,29 @@
 ---
-title: "Thunderbolts | Confira o Trailer Final com Nostalgia dos Vingadores e Trilha do Queen"
-slug: "thunderbolts-trailer-final-tem-os-vingadores-clssicos-assista"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/-sAOWhvheK8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/R8Ig9YxJqT8h0Vq_5KJ4Kk1GOp8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-16_160606.png"
-tags: ["Thunderbolts", "trailer final", "Vingadores", "Marvel", "MCU", "Quarteto Fantástico", "Capitão América"]
-keywords: "Thunderbolts, trailer final, Vingadores, Marvel, MCU, Quarteto Fantástico, Capitão América"
-author: "Luana Souza"
-data: "2025-04-16T19:08:39.089Z"
+title: >-
+  Thunderbolts | Confira o Trailer Final com Nostalgia dos Vingadores e Trilha
+  do Queen
+slug: thunderbolts-trailer-final-tem-os-vingadores-clssicos-assista
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/-sAOWhvheK8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/R8Ig9YxJqT8h0Vq_5KJ4Kk1GOp8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-16_160606.png
+tags:
+  - Thunderbolts
+  - trailer final
+  - Vingadores
+  - Marvel
+  - MCU
+  - Quarteto Fantástico
+  - Capitão América
+keywords: >-
+  Thunderbolts, trailer final, Vingadores, Marvel, MCU, Quarteto Fantástico,
+  Capitão América
+author: Luana Souza
+data: '2025-04-16T19:08:39.089Z'
+resumo: >-
+  O último trailer de Thunderbolts traz cenas nostálgicas dos Vingadores e uma
+  empolgante trilha sonora de Queen, antecipando a estreia do filme.
 ---
 
 O aguardado filme 'Thunderbolts' acaba de lançar seu trailer final, repleto de emoção e nostalgia. O vídeo começa com flashbacks de personagens icônicos como a Viúva Negra de Scarlett Johansson e o Capitão América de Chris Evans, estabelecendo um tom saudoso.

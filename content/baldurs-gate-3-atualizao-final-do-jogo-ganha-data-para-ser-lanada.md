@@ -1,14 +1,28 @@
 ---
-title: "Baldur's Gate 3 | Atualização final do jogo ganha data para ser lançada"
-slug: "baldurs-gate-3-atualizao-final-do-jogo-ganha-data-para-ser-lanada"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/sWOSqKX5PFA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/L_54CmWYD_zSGN9p4zV71b2yWxw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-11_124628.png"
-tags: ["Baldur's Gate 3", "Larian Studios", "Patch 8", "crossplay", "subclasses", "modo foto", "Jogo do Ano", "RPG"]
-keywords: "Baldur's Gate 3, Larian Studios, Patch 8, crossplay, subclasses, modo foto, Jogo do Ano, RPG"
-author: "Pablo Moura"
-data: "2025-04-11T16:15:05.245Z"
+title: Baldur's Gate 3 | Atualização final do jogo ganha data para ser lançada
+slug: baldurs-gate-3-atualizao-final-do-jogo-ganha-data-para-ser-lanada
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/sWOSqKX5PFA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/L_54CmWYD_zSGN9p4zV71b2yWxw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-11_124628.png
+tags:
+  - Baldur's Gate 3
+  - Larian Studios
+  - Patch 8
+  - crossplay
+  - subclasses
+  - modo foto
+  - Jogo do Ano
+  - RPG
+keywords: >-
+  Baldur's Gate 3, Larian Studios, Patch 8, crossplay, subclasses, modo foto,
+  Jogo do Ano, RPG
+author: Pablo Moura
+data: '2025-04-11T16:15:05.245Z'
+resumo: >-
+  Depois disso, produtora vai se focar em novos projetos e finalizará o trabalho
+  no game
 ---
 
 A Larian Studios, conhecida por seus jogos de RPG, anunciou que o dia 15 de abril será a data de lançamento do 'Patch 8', a última atualização para o aclamado Baldur's Gate 3. No dia seguinte ao lançamento, 16 de abril, a empresa realizará uma transmissão ao vivo para apresentar em detalhes as novidades do patch e discutir seus futuros projetos.

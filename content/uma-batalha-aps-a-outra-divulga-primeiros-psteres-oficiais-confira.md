@@ -1,14 +1,30 @@
 ---
-title: "Revelados os Primeiros Pôsteres de 'Uma Batalha Após A Outra' com Leonardo DiCaprio e Teyana Taylor"
-slug: "uma-batalha-aps-a-outra-divulga-primeiros-psteres-oficiais-confira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/KEyAv4dqySFPu_dTBeGDubzLQCA=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T183515.845.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/05YIFo7ZaVddY4Ch5JOo9rS-f_I=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T183515.845.png"
-tags: ["Uma Batalha Após A Outra", "Paul Thomas Anderson", "Leonardo DiCaprio", "Teyana Taylor", "pôsteres de filme", "lançamento de filme", "cinema"]
-keywords: "Uma Batalha Após A Outra, Paul Thomas Anderson, Leonardo DiCaprio, Teyana Taylor, pôsteres de filme, lançamento de filme, cinema"
-author: "Ana Luiza"
-data: "2025-04-15T22:09:36.696Z"
+title: >-
+  Revelados os Primeiros Pôsteres de 'Uma Batalha Após A Outra' com Leonardo
+  DiCaprio e Teyana Taylor
+slug: uma-batalha-aps-a-outra-divulga-primeiros-psteres-oficiais-confira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/KEyAv4dqySFPu_dTBeGDubzLQCA=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-15T183515.845.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/05YIFo7ZaVddY4Ch5JOo9rS-f_I=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-15T183515.845.png
+tags:
+  - Uma Batalha Após A Outra
+  - Paul Thomas Anderson
+  - Leonardo DiCaprio
+  - Teyana Taylor
+  - pôsteres de filme
+  - lançamento de filme
+  - cinema
+keywords: >-
+  Uma Batalha Após A Outra, Paul Thomas Anderson, Leonardo DiCaprio, Teyana
+  Taylor, pôsteres de filme, lançamento de filme, cinema
+author: Ana Luiza
+data: '2025-04-15T22:09:36.696Z'
+resumo: >-
+  Os primeiros pôsteres do filme destacam Leonardo DiCaprio e Teyana Taylor em
+  cenas de ação intensa.
 ---
 
 O aguardado filme 'Uma Batalha Após A Outra', dirigido por Paul Thomas Anderson e estrelado por Leonardo DiCaprio, acaba de divulgar seus primeiros pôsteres oficiais. Num dos pôsteres, Leonardo DiCaprio surge empunhando um rifle de longo alcance, e no outro, Teyana Taylor aparece manejando uma metralhadora em plena ação.

@@ -1,14 +1,27 @@
 ---
-title: "My Hero Academia Revela Visual do Armored All Might para a Última Temporada"
-slug: "my-hero-academia-ltima-temporada-ganha-foto-com-visual-do-armored-all-might"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/1FFc_wh41lI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/kZy8m6tdHS_9qvrlrBa6-Yv23-A=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-17_070544.png"
-tags: ["My Hero Academia", "última temporada", "Armored All Might", "Izuku Midoriya", "anime", "Crunchyroll", "My Hero Academia: Vigilantes"]
-keywords: "My Hero Academia, última temporada, Armored All Might, Izuku Midoriya, anime, Crunchyroll, My Hero Academia: Vigilantes"
-author: "Ana Luiza"
-data: "2025-04-17T10:12:06.672Z"
+title: My Hero Academia Revela Visual do Armored All Might para a Última Temporada
+slug: my-hero-academia-ltima-temporada-ganha-foto-com-visual-do-armored-all-might
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/1FFc_wh41lI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/kZy8m6tdHS_9qvrlrBa6-Yv23-A=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-17_070544.png
+tags:
+  - My Hero Academia
+  - última temporada
+  - Armored All Might
+  - Izuku Midoriya
+  - anime
+  - Crunchyroll
+  - 'My Hero Academia: Vigilantes'
+keywords: >-
+  My Hero Academia, última temporada, Armored All Might, Izuku Midoriya, anime,
+  Crunchyroll, My Hero Academia: Vigilantes
+author: Ana Luiza
+data: '2025-04-17T10:12:06.672Z'
+resumo: >-
+  A última temporada de My Hero Academia promete grandes emoções com a
+  introdução do Armored All Might.
 ---
 
 A aguardada oitava e última temporada de My Hero Academia está prestes a estrear e já começou a gerar grande expectativa entre os fãs. Recentemente, a conta oficial do anime no X/Twitter divulgou uma nova imagem que mostra uma versão inédita de All Might, conhecido como Armored All Might. Nesta temporada, o herói icônico aparecerá usando uma armadura construída a partir de peças de seu próprio carro, uma novidade que promete ser crucial para a batalha final contra os vilões Shigaraki e All For One.

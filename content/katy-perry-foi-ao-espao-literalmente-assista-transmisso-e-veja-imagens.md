@@ -1,14 +1,24 @@
 ---
-title: "Katy Perry participa de voo espacial pela Blue Origin"
-slug: "katy-perry-foi-ao-espao-literalmente-assista-transmisso-e-veja-imagens"
-categoria: "MÚSICA"
-midia: "https://www.youtube.com/embed/MZ7XHwMMSas?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/A5-Fnfz-rKrWS_IdZafshWiiCRg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T105657.385.png"
-tags: ["Katy Perry", "espaço", "Blue Origin", "Jeff Bezos", "New Shepard", "viagem espacial"]
-keywords: "Katy Perry, espaço, Blue Origin, Jeff Bezos, New Shepard, viagem espacial"
-author: "Luana Souza"
-data: "2025-04-14T14:11:36.389Z"
+title: Katy Perry participa de voo espacial pela Blue Origin
+slug: katy-perry-foi-ao-espao-literalmente-assista-transmisso-e-veja-imagens
+categoria: MÚSICA
+midia: 'https://www.youtube.com/embed/MZ7XHwMMSas?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/A5-Fnfz-rKrWS_IdZafshWiiCRg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T105657.385.png
+tags:
+  - Katy Perry
+  - espaço
+  - Blue Origin
+  - Jeff Bezos
+  - New Shepard
+  - viagem espacial
+keywords: 'Katy Perry, espaço, Blue Origin, Jeff Bezos, New Shepard, viagem espacial'
+author: Luana Souza
+data: '2025-04-14T14:11:36.389Z'
+resumo: >-
+  A cantora Katy Perry esteve no espaço em uma missão promovida pela empresa de
+  Jeff Bezos, a Blue Origin.
 ---
 
 A popstar britânica Katy Perry realizou uma viagem ao espaço através da empresa aeroespacial Blue Origin, de propriedade do bilionário americano Jeff Bezos, fundador da Amazon. A missão, que também envolveu outras cinco mulheres notáveis, foi transmitida ao vivo. Entre as integrantes estavam Lauren Sánchez, noiva de Bezos, Aisha Bowe, ex-cientista de foguetes da NASA e engenheira aeroespacial, Amanda Nguyen, pesquisadora bioastronáutica e ativista dos direitos das mulheres, Gayle King, jornalista renomada, e Kerianne Flynn, produtora cinematográfica.

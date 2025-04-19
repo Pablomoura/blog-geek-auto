@@ -1,14 +1,29 @@
 ---
-title: "Terra da Máfia | Série de Guy Ritchie ultrapassa spinoffs de Yellowstone em audiência"
-slug: "terra-da-mfia-srie-de-guy-ritchie-passa-spinoffs-de-yellowstone-na-audincia"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/_AmcEeBkMG_DIVbfJPK6Cypi41w=/987x0/smart/uploads/conteudo/fotos/mobland_audiencia.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/R0CbrRJ9jtJrR5GdcHsvdZJ8yuU=/480x360/smart/extras/conteudos/mobland.png"
-tags: ["Guy Ritchie", "Terra da Máfia", "Tom Hardy", "Paramount+", "série de crime", "audiência recorde", "spinoffs de Yellowstone", "streaming"]
-keywords: "Guy Ritchie, Terra da Máfia, Tom Hardy, Paramount+, série de crime, audiência recorde, spinoffs de Yellowstone, streaming"
-author: "Luana Souza"
-data: "2025-04-11T16:12:45.340Z"
+title: >-
+  Terra da Máfia | Série de Guy Ritchie ultrapassa spinoffs de Yellowstone em
+  audiência
+slug: terra-da-mfia-srie-de-guy-ritchie-passa-spinoffs-de-yellowstone-na-audincia
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/_AmcEeBkMG_DIVbfJPK6Cypi41w=/987x0/smart/uploads/conteudo/fotos/mobland_audiencia.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/R0CbrRJ9jtJrR5GdcHsvdZJ8yuU=/480x360/smart/extras/conteudos/mobland.png
+tags:
+  - Guy Ritchie
+  - Terra da Máfia
+  - Tom Hardy
+  - Paramount+
+  - série de crime
+  - audiência recorde
+  - spinoffs de Yellowstone
+  - streaming
+keywords: >-
+  Guy Ritchie, Terra da Máfia, Tom Hardy, Paramount+, série de crime, audiência
+  recorde, spinoffs de Yellowstone, streaming
+author: Luana Souza
+data: '2025-04-11T16:12:45.340Z'
+resumo: 'Elenco conta com Tom Hardy, Pierce Brosnan e Helen Mirren'
 ---
 
 A nova série de Guy Ritchie, 'Terra da Máfia' (MobLand), protagonizada por Tom Hardy, Pierce Brosnan e Helen Mirren, alcançou um marco significativo ao registrar a maior audiência global de estreia na história do Paramount+. Segundo informações do Deadline, o primeiro episódio atraiu 8,8 milhões de espectadores nos primeiros sete dias após o lançamento, conforme dados fornecidos pela Paramount Global. Este número coloca a série entre os três maiores lançamentos do serviço de streaming, ao lado de '1923' e 'Landman', ambos também produzidos pela Showtime/MTV Entertainment Studios e 101 Studios.

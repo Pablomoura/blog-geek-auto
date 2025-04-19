@@ -1,14 +1,26 @@
 ---
-title: "Mafia: The Old Country recebe data de lançamento"
-slug: "mafia-the-old-country-recebe-data-de-lanamento"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/10n6tcqm-8I?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/kMU1kLfJMZNoyNJMQciWaf_a7lE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T212443.631.png"
-tags: ["Mafia: The Old Country", "lançamento de jogo", "PlayStation 5", "Xbox Series X/S", "PC", "Hangar 13", "2K Games", "vazamento de informação"]
-keywords: "Mafia: The Old Country, lançamento de jogo, PlayStation 5, Xbox Series X/S, PC, Hangar 13, 2K Games, vazamento de informação"
-author: "Pablo Moura"
-data: "2025-04-11T02:49:28.258Z"
+title: 'Mafia: The Old Country recebe data de lançamento'
+slug: mafia-the-old-country-recebe-data-de-lanamento
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/10n6tcqm-8I?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/kMU1kLfJMZNoyNJMQciWaf_a7lE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T212443.631.png
+tags:
+  - 'Mafia: The Old Country'
+  - lançamento de jogo
+  - PlayStation 5
+  - Xbox Series X/S
+  - PC
+  - Hangar 13
+  - 2K Games
+  - vazamento de informação
+keywords: >-
+  Mafia: The Old Country, lançamento de jogo, PlayStation 5, Xbox Series X/S,
+  PC, Hangar 13, 2K Games, vazamento de informação
+author: Pablo Moura
+data: '2025-04-11T02:49:28.258Z'
+resumo: Data acabou vazando em atualização na página da Steam
 ---
 
 Um deslize na atualização da página da Steam resultou no vazamento da data de lançamento de 'Mafia: The Old Country', aguardado jogo da 2K e da desenvolvedora Hangar 13. A revelação não intencional ocorreu em uma publicação destinada a anunciar a participação da Hangar 13 no PAX East 2025, marcado para 8 de maio. A informação, divulgada prematuramente, aponta que o jogo será lançado em 8 de agosto para PlayStation 5, Xbox Series X/S e PC.

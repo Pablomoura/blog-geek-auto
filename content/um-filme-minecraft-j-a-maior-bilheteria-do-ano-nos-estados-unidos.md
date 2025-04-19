@@ -1,14 +1,25 @@
 ---
-title: "Um Filme Minecraft alcança a maior bilheteria do ano nos Estados Unidos"
-slug: "um-filme-minecraft-j-a-maior-bilheteria-do-ano-nos-estados-unidos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/3Or5YcpoaGEiAw3ctUOnV5Nnzto=/987x0/smart/uploads/conteudo/fotos/minecraftfilme_cUZ8KNd.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/82lYxM8Uzy1e37-k_kWSTQ8pm-o=/480x360/smart/extras/conteudos/minecraftfilme_ob1FFYA.jpg"
-tags: ["Minecraft", "bilheteria", "Estados Unidos", "filme", "Jason Momoa", "Jack Black"]
-keywords: "Minecraft, bilheteria, Estados Unidos, filme, Jason Momoa, Jack Black"
-author: "Luana Souza"
-data: "2025-04-12T17:07:49.162Z"
+title: Um Filme Minecraft alcança a maior bilheteria do ano nos Estados Unidos
+slug: um-filme-minecraft-j-a-maior-bilheteria-do-ano-nos-estados-unidos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/3Or5YcpoaGEiAw3ctUOnV5Nnzto=/987x0/smart/uploads/conteudo/fotos/minecraftfilme_cUZ8KNd.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/82lYxM8Uzy1e37-k_kWSTQ8pm-o=/480x360/smart/extras/conteudos/minecraftfilme_ob1FFYA.jpg
+tags:
+  - Minecraft
+  - bilheteria
+  - Estados Unidos
+  - filme
+  - Jason Momoa
+  - Jack Black
+keywords: 'Minecraft, bilheteria, Estados Unidos, filme, Jason Momoa, Jack Black'
+author: Luana Souza
+data: '2025-04-12T17:07:49.162Z'
+resumo: >-
+  A adaptação cinematográfica supera a arrecadação do quarto filme de Capitão
+  América em apenas uma semana
 ---
 
 O filme 'Um Filme Minecraft', estrelado por Jason Momoa e Jack Black, tornou-se um fenômeno nas bilheterias dos Estados Unidos. Em apenas sete dias desde seu lançamento, o filme já arrecadou mais de US$ 200 milhões, superando 'Capitão América: Admirável Mundo Novo' e se estabelecendo como a maior bilheteria do ano no país.

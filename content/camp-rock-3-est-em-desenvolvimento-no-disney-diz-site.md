@@ -1,14 +1,27 @@
 ---
-title: "Camp Rock 3 está em desenvolvimento no Disney+, diz site"
-slug: "camp-rock-3-est-em-desenvolvimento-no-disney-diz-site"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/gNX276WEL-U8NnBqW19COfvH1Y8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-10T203024.422.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/1f_NqlOO7Z1btL-b6lHvAM2tZ9s=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T203024.422.png"
-tags: ["Disney+", "Camp Rock 3", "Jonas Brothers", "Demi Lovato", "Eydie Faye", "streaming", "filme musical", "renovação de franquia"]
-keywords: "Disney+, Camp Rock 3, Jonas Brothers, Demi Lovato, Eydie Faye, streaming, filme musical, renovação de franquia"
-author: "Pablo Moura"
-data: "2025-04-11T02:50:23.181Z"
+title: 'Camp Rock 3 está em desenvolvimento no Disney+, diz site'
+slug: camp-rock-3-est-em-desenvolvimento-no-disney-diz-site
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/gNX276WEL-U8NnBqW19COfvH1Y8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-10T203024.422.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/1f_NqlOO7Z1btL-b6lHvAM2tZ9s=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T203024.422.png
+tags:
+  - Disney+
+  - Camp Rock 3
+  - Jonas Brothers
+  - Demi Lovato
+  - Eydie Faye
+  - streaming
+  - filme musical
+  - renovação de franquia
+keywords: >-
+  Disney+, Camp Rock 3, Jonas Brothers, Demi Lovato, Eydie Faye, streaming,
+  filme musical, renovação de franquia
+author: Pablo Moura
+data: '2025-04-11T02:50:23.181Z'
+resumo: Longa estaria sendo desenvolvido para uma nova geração
 ---
 
 De acordo com o site Boardwalk Times, a plataforma de streaming Disney+ está desenvolvendo Camp Rock 3, dando continuidade à aclamada série de filmes protagonizada pelos Jonas Brothers e Demi Lovato. A notícia indica que a franquia será revitalizada para atrair uma nova geração de espectadores, embora ainda não esteja claro se o elenco original fará parte do projeto. É importante notar que os Jonas Brothers estão atualmente envolvidos na produção de um especial de Natal para o Disney+, o que poderia sugerir uma possível participação deles no novo filme.

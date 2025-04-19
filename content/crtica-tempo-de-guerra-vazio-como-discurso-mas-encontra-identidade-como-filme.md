@@ -1,25 +1,44 @@
 ---
-title: "Análise de 'Tempo de Guerra': Entre o Vazio Narrativo e a Identidade Cinematográfica"
-slug: "crtica-tempo-de-guerra-vazio-como-discurso-mas-encontra-identidade-como-filme"
-categoria: "FILMES"
-tipo: "critica"
-midia: "https://www.youtube.com/embed/24PTwNYU-0o?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/UlVOcTef_dJPrA9tm9qXy9JFu-g=/480x360/smart/extras/conteudos/tempo-de-guerra-critica.jpg"
-tags: ["Tempo de Guerra", "Alex Garland", "filme de guerra", "crítica", "veterano do Iraque", "A24", "cinema"]
-keywords: "Tempo de Guerra, Alex Garland, filme de guerra, crítica, veterano do Iraque, A24, cinema"
-author: "Pablo Moura"
-data: "2025-04-19T00:41:09.281Z"
-capaObra: "https://cdn.ome.lt/25-lov1ULY2CAr5C2zyuT5rSfF4=/200x0/smart/extras/capas/tempo-de-guerra.jpg"
+title: >-
+  Análise de 'Tempo de Guerra': Entre o Vazio Narrativo e a Identidade
+  Cinematográfica
+slug: crtica-tempo-de-guerra-vazio-como-discurso-mas-encontra-identidade-como-filme
+categoria: FILMES
+tipo: critica
+midia: 'https://www.youtube.com/embed/24PTwNYU-0o?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/UlVOcTef_dJPrA9tm9qXy9JFu-g=/480x360/smart/extras/conteudos/tempo-de-guerra-critica.jpg
+tags:
+  - Tempo de Guerra
+  - Alex Garland
+  - filme de guerra
+  - crítica
+  - veterano do Iraque
+  - A24
+  - cinema
+keywords: >-
+  Tempo de Guerra, Alex Garland, filme de guerra, crítica, veterano do Iraque,
+  A24, cinema
+author: Pablo Moura
+data: '2025-04-19T00:41:09.281Z'
+capaObra: >-
+  https://cdn.ome.lt/25-lov1ULY2CAr5C2zyuT5rSfF4=/200x0/smart/extras/capas/tempo-de-guerra.jpg
 notaCritico: 3
-tituloPortugues: "Tempo de Guerra"
-tituloOriginal: "Warfare"
-ano: "2025"
-pais: "EUA"
-classificacao: "16 anos"
-duracao: "93 min"
-direcao: "Ray Mendoza, Alex Garland"
-elenco: "Charles Melton , Joseph Quinn , Michael Gandolfini , Will Poulter , Cosmo Jarvis , D’Pharoh Woon-A-Tai , Kit Connor , Noah Centineo"
+tituloPortugues: Tempo de Guerra
+tituloOriginal: Warfare
+ano: '2025'
+pais: EUA
+classificacao: 16 anos
+duracao: 93 min
+direcao: 'Ray Mendoza, Alex Garland'
+elenco: >-
+  Charles Melton , Joseph Quinn , Michael Gandolfini , Will Poulter , Cosmo
+  Jarvis , D’Pharoh Woon-A-Tai , Kit Connor , Noah Centineo
+resumo: >-
+  O mais recente filme de Alex Garland, 'Tempo de Guerra', explora as
+  complexidades da guerra através das experiências de um veterano do Iraque,
+  desafiando a noção de que filmes de guerra não podem ser anti-guerra.
 ---
 
 Alex Garland junta-se ao grupo de cineastas que desafiam a afirmação de François Truffaut de que é impossível criar um filme de guerra verdadeiramente anti-guerra. Sob a direção de Garland e Ray Mendoza, um veterano da guerra do Iraque, 'Tempo de Guerra' tenta refutar essa ideia ao retratar a vida militar como algo entre o tédio e o desespero, uma abordagem que a produtora A24 aparentemente endossa.

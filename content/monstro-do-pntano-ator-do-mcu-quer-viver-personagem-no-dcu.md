@@ -1,14 +1,31 @@
 ---
-title: "Monstro do Pântano | Ator do MCU manifesta interesse em protagonizar personagem no DCU"
-slug: "monstro-do-pntano-ator-do-mcu-quer-viver-personagem-no-dcu"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/vCouQHCFSX602m9MSkzYitJiFvY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T140054.260.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ooBdVDFN3CIjX-587cDabOrLgGE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T140035.811.png"
-tags: ["Monstro do Pântano", "Vincent D'Onofrio", "James Mangold", "DCU", "James Gunn", "Superman", "filmes de quadrinhos", "MCU"]
-keywords: "Monstro do Pântano, Vincent D'Onofrio, James Mangold, DCU, James Gunn, Superman, filmes de quadrinhos, MCU"
-author: "Pablo Moura"
-data: "2025-04-11T17:09:33.030Z"
+title: >-
+  Monstro do Pântano | Ator do MCU manifesta interesse em protagonizar
+  personagem no DCU
+slug: monstro-do-pntano-ator-do-mcu-quer-viver-personagem-no-dcu
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/vCouQHCFSX602m9MSkzYitJiFvY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T140054.260.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ooBdVDFN3CIjX-587cDabOrLgGE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T140035.811.png
+tags:
+  - Monstro do Pântano
+  - Vincent D'Onofrio
+  - James Mangold
+  - DCU
+  - James Gunn
+  - Superman
+  - filmes de quadrinhos
+  - MCU
+keywords: >-
+  Monstro do Pântano, Vincent D'Onofrio, James Mangold, DCU, James Gunn,
+  Superman, filmes de quadrinhos, MCU
+author: Pablo Moura
+data: '2025-04-11T17:09:33.030Z'
+resumo: >-
+  O filme, dirigido e roteirizado por James Mangold, ainda está em fase inicial
+  de produção
 ---
 
 O projeto cinematográfico sobre o Monstro do Pântano, sob a direção de James Mangold, conhecido por seus trabalhos em 'Um Completo Desconhecido' e 'Logan', foi anunciado em 2023 e ainda está nas etapas iniciais, sem elenco definido. No entanto, Vincent D'Onofrio, famoso por sua atuação como Wilson Fisk em 'Demolidor: Renascido', expressou seu desejo de interpretar o icônico personagem da DC Comics. A declaração foi feita em resposta a uma pergunta de um fã em suas redes sociais sobre qual personagem dos quadrinhos ele gostaria de encarnar.

@@ -1,14 +1,29 @@
 ---
-title: "Eric Dane, de Euphoria e Grey's Anatomy, é diagnosticado com doença degenerativa"
-slug: "eric-dane-de-euphoria-e-greys-anatomy-diagnosticado-com-doena-degenerativa"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/NdBsQ7tzmXlNjx0fyXgXgQkVr0k=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-10T215553.582.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/J24pQktn5U1TMtkWGFlClOiVRD0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T215553.582.png"
-tags: ["Eric Dane", "ELA", "Euphoria", "Grey's Anatomy", "esclerose lateral amiotrófica", "série de TV", "saúde de celebridades", "novos membros do elenco"]
-keywords: "Eric Dane, ELA, Euphoria, Grey's Anatomy, esclerose lateral amiotrófica, série de TV, saúde de celebridades, novos membros do elenco"
-author: "Luana Souza"
-data: "2025-04-11T12:17:29.349Z"
+title: >-
+  Eric Dane, de Euphoria e Grey's Anatomy, é diagnosticado com doença
+  degenerativa
+slug: eric-dane-de-euphoria-e-greys-anatomy-diagnosticado-com-doena-degenerativa
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/NdBsQ7tzmXlNjx0fyXgXgQkVr0k=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-10T215553.582.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/J24pQktn5U1TMtkWGFlClOiVRD0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T215553.582.png
+tags:
+  - Eric Dane
+  - ELA
+  - Euphoria
+  - Grey's Anatomy
+  - esclerose lateral amiotrófica
+  - série de TV
+  - saúde de celebridades
+  - novos membros do elenco
+keywords: >-
+  Eric Dane, ELA, Euphoria, Grey's Anatomy, esclerose lateral amiotrófica, série
+  de TV, saúde de celebridades, novos membros do elenco
+author: Luana Souza
+data: '2025-04-11T12:17:29.349Z'
+resumo: Ator foi diagnosticado com esclerose lateral amiotrófica
 ---
 
 Eric Dane, ator renomado por seus papéis em séries como Euphoria e Grey's Anatomy, compartilhou em entrevista à revista People que foi diagnosticado com esclerose lateral amiotrófica (ELA), também conhecida como doença de Lou Gehrig. Dane expressou gratidão pelo apoio de sua família e afirmou que a condição não interferirá em seu trabalho, já que ele planeja retornar às gravações da terceira temporada de Euphoria em breve. 

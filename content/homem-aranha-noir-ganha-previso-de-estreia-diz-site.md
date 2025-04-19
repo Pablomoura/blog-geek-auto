@@ -1,14 +1,30 @@
 ---
-title: "Nicolas Cage estrela série 'Homem-Aranha Noir' com estreia prevista para início de 2026"
-slug: "homem-aranha-noir-ganha-previso-de-estreia-diz-site"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/d3ZKbs_cGow?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/c3Yas2imDnrHzJsyRfk86CcOr1c=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-18_172711.png"
-tags: ["Homem-Aranha Noir", "Nicolas Cage", "estreia 2026", "MGM+", "Amazon Prime Video", "série de TV", "Marvel"]
-keywords: "Homem-Aranha Noir, Nicolas Cage, estreia 2026, MGM+, Amazon Prime Video, série de TV, Marvel"
-author: "Luana Souza"
-data: "2025-04-18T21:09:43.623Z"
+title: >-
+  Nicolas Cage estrela série 'Homem-Aranha Noir' com estreia prevista para
+  início de 2026
+slug: homem-aranha-noir-ganha-previso-de-estreia-diz-site
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/d3ZKbs_cGow?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/c3Yas2imDnrHzJsyRfk86CcOr1c=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-18_172711.png
+tags:
+  - Homem-Aranha Noir
+  - Nicolas Cage
+  - estreia 2026
+  - MGM+
+  - Amazon Prime Video
+  - série de TV
+  - Marvel
+keywords: >-
+  Homem-Aranha Noir, Nicolas Cage, estreia 2026, MGM+, Amazon Prime Video, série
+  de TV, Marvel
+author: Luana Souza
+data: '2025-04-18T21:09:43.623Z'
+resumo: >-
+  A nova série 'Homem-Aranha Noir', com Nicolas Cage no papel principal, tem
+  previsão de estreia para o início de 2026 e será transmitida no MGM+ nos EUA e
+  no Amazon Prime Video globalmente.
 ---
 
 A aguardada série 'Homem-Aranha Noir' tem sua estreia programada para o início de 2026, revela o site Nexus Point News. Embora uma data exata não tenha sido especificada, é esperado que o lançamento ocorra entre janeiro e março do referido ano.

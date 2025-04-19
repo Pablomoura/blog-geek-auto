@@ -1,14 +1,26 @@
 ---
-title: "Elisabeth Moss e as Memórias Assustadoras de 'The Handmaid's Tale'"
-slug: "handmaids-tale-elisabeth-moss-relembra-gravao-em-lugar-inusitado"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/uNXMUr5YRp8?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/IESI373_LzmMSeEs3NRBK5JhDwc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-16T214220.452.png"
-tags: ["Elisabeth Moss", "The Handmaid's Tale", "casa mal-assombrada", "Oprah Winfrey", "gravações", "entrevista"]
-keywords: "Elisabeth Moss, The Handmaid's Tale, casa mal-assombrada, Oprah Winfrey, gravações, entrevista"
-author: "Ana Luiza"
-data: "2025-04-17T02:23:19.785Z"
+title: Elisabeth Moss e as Memórias Assustadoras de 'The Handmaid's Tale'
+slug: handmaids-tale-elisabeth-moss-relembra-gravao-em-lugar-inusitado
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/uNXMUr5YRp8?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/IESI373_LzmMSeEs3NRBK5JhDwc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-16T214220.452.png
+tags:
+  - Elisabeth Moss
+  - The Handmaid's Tale
+  - casa mal-assombrada
+  - Oprah Winfrey
+  - gravações
+  - entrevista
+keywords: >-
+  Elisabeth Moss, The Handmaid's Tale, casa mal-assombrada, Oprah Winfrey,
+  gravações, entrevista
+author: Ana Luiza
+data: '2025-04-17T02:23:19.785Z'
+resumo: >-
+  Durante uma entrevista, Elisabeth Moss compartilha experiências peculiares das
+  gravações de 'The Handmaid's Tale', incluindo um encontro com Oprah Winfrey.
 ---
 
 Elisabeth Moss, a protagonista da série 'The Handmaid's Tale', revelou em uma participação no 'The Kelly Clarkson Show' uma experiência de gravação bastante peculiar. Segundo Moss, a equipe da série uma vez filmou em uma casa que ela posteriormente descobriu ser mal-assombrada. "Nós gravamos em uma casa para 'Handmaid's' uma vez, eu fui ao banheiro, o único que podia ser usado ficava no andar de baixo, e eu desci para o banheiro e fiquei 'É tão estranho aqui'," descreveu Moss. Ela acrescentou, "Sinto como se houvesse outra pessoa aqui. Sinto que não estou sozinho, mas não há mais ninguém aqui embaixo." Mais tarde, ela foi informada sobre a fama de assombração do local, especialmente o porão onde ficava o banheiro.

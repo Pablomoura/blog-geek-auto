@@ -1,14 +1,29 @@
 ---
-title: "Lançamento em Mídia Física do Episódio Especial 'One Piece: Fan Letter'"
-slug: "one-piece-fan-letter-ser-lanado-em-mdia-fsica"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/uKCzx_yVGoE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/M_pqkXDvUIMTq9-0vot5Nj3PU0g=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-16T195002.838.png"
-tags: ["One Piece", "One Piece Fan Letter", "mídia física", "anime", "lançamento DVD", "lançamento Blu-Ray", "Netflix", "Crunchyroll", "Eiichiro Oda"]
-keywords: "One Piece, One Piece Fan Letter, mídia física, anime, lançamento DVD, lançamento Blu-Ray, Netflix, Crunchyroll, Eiichiro Oda"
-author: "Ana Luiza"
-data: "2025-04-16T23:09:56.201Z"
+title: 'Lançamento em Mídia Física do Episódio Especial ''One Piece: Fan Letter'''
+slug: one-piece-fan-letter-ser-lanado-em-mdia-fsica
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/uKCzx_yVGoE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/M_pqkXDvUIMTq9-0vot5Nj3PU0g=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-16T195002.838.png
+tags:
+  - One Piece
+  - One Piece Fan Letter
+  - mídia física
+  - anime
+  - lançamento DVD
+  - lançamento Blu-Ray
+  - Netflix
+  - Crunchyroll
+  - Eiichiro Oda
+keywords: >-
+  One Piece, One Piece Fan Letter, mídia física, anime, lançamento DVD,
+  lançamento Blu-Ray, Netflix, Crunchyroll, Eiichiro Oda
+author: Ana Luiza
+data: '2025-04-16T23:09:56.201Z'
+resumo: >-
+  O episódio especial de One Piece, 'Fan Letter', será lançado em mídia física,
+  porém ainda sem data confirmada.
 ---
 
 Os fãs de 'One Piece' têm motivos para comemorar: o episódio especial 'One Piece: Fan Letter' ganhará uma versão em mídia física. A notícia foi anunciada pelo perfil oficial da série nesta quarta-feira (16), embora uma data específica para o lançamento ainda não tenha sido determinada.

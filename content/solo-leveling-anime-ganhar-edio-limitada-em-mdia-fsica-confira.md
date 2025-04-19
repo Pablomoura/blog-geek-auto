@@ -1,14 +1,26 @@
 ---
-title: "Solo Leveling: Edição Limitada em Blu-ray e DVD Anunciada"
-slug: "solo-leveling-anime-ganhar-edio-limitada-em-mdia-fsica-confira"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/NtssbUbxDDM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/NI_DYm0tD5p2YjtqOZndDzza1dA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T115624.916.png"
-tags: ["Solo Leveling", "anime", "edição de colecionador", "Blu-ray", "DVD", "Crunchyroll", "manhwa", "Panini"]
-keywords: "Solo Leveling, anime, edição de colecionador, Blu-ray, DVD, Crunchyroll, manhwa, Panini"
-author: "Luana Souza"
-data: "2025-04-18T15:11:00.987Z"
+title: 'Solo Leveling: Edição Limitada em Blu-ray e DVD Anunciada'
+slug: solo-leveling-anime-ganhar-edio-limitada-em-mdia-fsica-confira
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/NtssbUbxDDM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/NI_DYm0tD5p2YjtqOZndDzza1dA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T115624.916.png
+tags:
+  - Solo Leveling
+  - anime
+  - edição de colecionador
+  - Blu-ray
+  - DVD
+  - Crunchyroll
+  - manhwa
+  - Panini
+keywords: >-
+  Solo Leveling, anime, edição de colecionador, Blu-ray, DVD, Crunchyroll,
+  manhwa, Panini
+author: Luana Souza
+data: '2025-04-18T15:11:00.987Z'
+resumo: 'A edição de colecionador do anime Solo Leveling será vendida por US$ 67,49.'
 ---
 
 Os fãs de Solo Leveling têm motivos para comemorar, pois o anime será lançado em uma edição especial de colecionador em mídia física, disponível em Blu-ray e DVD. A Crunchyroll, responsável pela distribuição, já abriu a pré-venda do produto em seu site oficial, com o preço fixado em US$ 67,49. O lançamento oficial está marcado para 22 de julho.

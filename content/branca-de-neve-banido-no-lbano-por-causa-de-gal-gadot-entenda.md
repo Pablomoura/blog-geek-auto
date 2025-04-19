@@ -1,14 +1,30 @@
 ---
-title: "Líbano Proíbe Exibição de 'Branca de Neve' Devido a Participação de Gal Gadot"
-slug: "branca-de-neve-banido-no-lbano-por-causa-de-gal-gadot-entenda"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/XCW0AHkozallNpKUQgREeNM7wDo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T130644.130.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/BWw5lPi0OhErahyD975kM3BNEVs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T130627.220.png"
-tags: ["Branca de Neve", "Gal Gadot", "Líbano", "proibição", "Disney", "Rachel Zegler", "Israel", "Palestina", "conflito"]
-keywords: "Branca de Neve, Gal Gadot, Líbano, proibição, Disney, Rachel Zegler, Israel, Palestina, conflito"
-author: "Ana Luiza"
-data: "2025-04-16T16:12:55.895Z"
+title: Líbano Proíbe Exibição de 'Branca de Neve' Devido a Participação de Gal Gadot
+slug: branca-de-neve-banido-no-lbano-por-causa-de-gal-gadot-entenda
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/XCW0AHkozallNpKUQgREeNM7wDo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T130644.130.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/BWw5lPi0OhErahyD975kM3BNEVs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T130627.220.png
+tags:
+  - Branca de Neve
+  - Gal Gadot
+  - Líbano
+  - proibição
+  - Disney
+  - Rachel Zegler
+  - Israel
+  - Palestina
+  - conflito
+keywords: >-
+  Branca de Neve, Gal Gadot, Líbano, proibição, Disney, Rachel Zegler, Israel,
+  Palestina, conflito
+author: Ana Luiza
+data: '2025-04-16T16:12:55.895Z'
+resumo: >-
+  A atriz Gal Gadot, conhecida por seu apoio a Israel, gera boicote de seu novo
+  filme no Líbano.
 ---
 
 O remake em live-action da Disney, 'Branca de Neve', estrelado por Rachel Zegler, enfrenta proibição no Líbano devido à participação de Gal Gadot, que interpreta a Rainha Má. A decisão foi recomendada por Ahmad Hajjar, Ministro do Interior do Líbano, segundo o jornal An-Nahar.

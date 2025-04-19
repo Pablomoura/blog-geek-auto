@@ -1,14 +1,24 @@
 ---
-title: "The Last of Us | Confira o trailer do segundo episódio da nova temporada"
-slug: "the-last-of-us-veja-o-trailer-do-episdio-2-da-segunda-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/RiBKUjt9G7g?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/mUPj9YqQ08EO7lsEcJ8t1MYYAnQ=/480x360/smart/extras/conteudos/GoWg3AcXoAAYgS1.jpeg"
-tags: ["The Last of Us", "segunda temporada", "trailer", "HBO", "novos personagens", "especial-The Last of Us"]
-keywords: "The Last of Us, segunda temporada, trailer, HBO, novos personagens"
-author: "Ana Luiza"
-data: "2025-04-14T02:25:28.736Z"
+title: The Last of Us | Confira o trailer do segundo episódio da nova temporada
+slug: the-last-of-us-veja-o-trailer-do-episdio-2-da-segunda-temporada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/RiBKUjt9G7g?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/mUPj9YqQ08EO7lsEcJ8t1MYYAnQ=/480x360/smart/extras/conteudos/GoWg3AcXoAAYgS1.jpeg
+tags:
+  - The Last of Us
+  - segunda temporada
+  - trailer
+  - HBO
+  - novos personagens
+  - especial-The Last of Us
+keywords: 'The Last of Us, segunda temporada, trailer, HBO, novos personagens'
+author: Ana Luiza
+data: '2025-04-14T02:25:28.736Z'
+resumo: >-
+  A segunda temporada de The Last of Us apresenta novos personagens e tramas
+  envolventes.
 ---
 
 A HBO lançou o trailer do segundo episódio da segunda temporada de The Last of Us. A nova temporada promete expandir a narrativa, abordando eventos de The Last of Us Parte II, o segundo jogo da franquia. Diferente do primeiro jogo, que foi adaptado em uma única temporada, este será dividido em múltiplas temporadas. Os criadores da série, Craig Mazin (de Chernobyl) e Neil Druckmann (diretor dos jogos da Naughty Dog), já expressaram o desejo de produzir pelo menos quatro temporadas para cobrir completamente os dois jogos.

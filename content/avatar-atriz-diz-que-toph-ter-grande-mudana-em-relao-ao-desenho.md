@@ -1,14 +1,27 @@
 ---
-title: "Avatar: Mudanças na Personagem Toph para a Segunda Temporada do Live-Action"
-slug: "avatar-atriz-diz-que-toph-ter-grande-mudana-em-relao-ao-desenho"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/grwVhOwNyM4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Tq41wBpKxP-lqillaUO18fyMptM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-15_164325.png"
-tags: ["Avatar", "Miya Cech", "Toph", "Netflix", "live-action", "Avatar O Último Mestre do Ar", "segunda temporada"]
-keywords: "Avatar, Miya Cech, Toph, Netflix, live-action, Avatar O Último Mestre do Ar, segunda temporada"
-author: "Luana Souza"
-data: "2025-04-15T20:12:25.703Z"
+title: 'Avatar: Mudanças na Personagem Toph para a Segunda Temporada do Live-Action'
+slug: avatar-atriz-diz-que-toph-ter-grande-mudana-em-relao-ao-desenho
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/grwVhOwNyM4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Tq41wBpKxP-lqillaUO18fyMptM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-15_164325.png
+tags:
+  - Avatar
+  - Miya Cech
+  - Toph
+  - Netflix
+  - live-action
+  - Avatar O Último Mestre do Ar
+  - segunda temporada
+keywords: >-
+  Avatar, Miya Cech, Toph, Netflix, live-action, Avatar O Último Mestre do Ar,
+  segunda temporada
+author: Luana Souza
+data: '2025-04-15T20:12:25.703Z'
+resumo: >-
+  Miya Cech, a atriz que interpreta Toph na adaptação live-action de Avatar na
+  Netflix, compartilha detalhes sobre as mudanças na personagem.
 ---
 
 Em uma recente entrevista ao site The Direct, a atriz Miya Cech revelou detalhes intrigantes sobre a nova adaptação de sua personagem Toph na segunda temporada de 'Avatar: O Último Mestre do Ar' na Netflix. Segundo Cech, Toph apresentará características distintas das vistas na animação original, com uma abordagem que a torna um pouco mais velha e enfatiza sua feminilidade.

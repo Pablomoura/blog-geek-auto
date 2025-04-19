@@ -1,14 +1,30 @@
 ---
-title: "Demolidor e Mercenário protagonizam cenas de ação nas imagens da 2ª temporada de 'Demolidor: Renascido'"
-slug: "demolidor-e-mercenrio-esto-juntos-em-imagens-da-2-temporada-da-srie"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/af9WPd8ygMU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/hN2WcDaMv3or8LAbe4aqqPp6vFM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-11_162103.png"
-tags: ["Demolidor: Renascido", "Charlie Cox", "Wilson Bethel", "Mercenário", "Disney+", "ação", "Nova York", "série de super-heróis"]
-keywords: "Demolidor: Renascido, Charlie Cox, Wilson Bethel, Mercenário, Disney+, ação, Nova York, série de super-heróis"
-author: "Luana Souza"
-data: "2025-04-11T20:11:07.200Z"
+title: >-
+  Demolidor e Mercenário protagonizam cenas de ação nas imagens da 2ª temporada
+  de 'Demolidor: Renascido'
+slug: demolidor-e-mercenrio-esto-juntos-em-imagens-da-2-temporada-da-srie
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/af9WPd8ygMU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/hN2WcDaMv3or8LAbe4aqqPp6vFM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-11_162103.png
+tags:
+  - 'Demolidor: Renascido'
+  - Charlie Cox
+  - Wilson Bethel
+  - Mercenário
+  - Disney+
+  - ação
+  - Nova York
+  - série de super-heróis
+keywords: >-
+  Demolidor: Renascido, Charlie Cox, Wilson Bethel, Mercenário, Disney+, ação,
+  Nova York, série de super-heróis
+author: Luana Souza
+data: '2025-04-11T20:11:07.200Z'
+resumo: >-
+  Novas imagens da segunda temporada de 'Demolidor: Renascido' destacam a
+  presença do Mercenário com seu icônico símbolo no uniforme.
 ---
 
 Fotos e vídeos recentes captados em Nova York oferecem um vislumbre dos bastidores da segunda temporada de 'Demolidor: Renascido'. As imagens mostram o Demolidor, interpretado por Charlie Cox, e o Mercenário, papel de Wilson Bethel, em intensos embates e perseguições pelas ruas da cidade. Uma das novidades é o uniforme do Mercenário, que agora exibe o característico símbolo de alvo.

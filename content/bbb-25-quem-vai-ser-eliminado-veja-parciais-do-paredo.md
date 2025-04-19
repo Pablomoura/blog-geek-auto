@@ -1,14 +1,28 @@
 ---
-title: "BBB 25 | Previsões do Paredão indicam possível eliminação"
-slug: "bbb-25-quem-vai-ser-eliminado-veja-parciais-do-paredo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/7uU6MFEqKkDJ45JKvXt9vpsxSuk=/987x0/smart/uploads/conteudo/fotos/bbb25-maike-renata-vinicius-parciais.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SAEIDgIeciRPq28hWvn2OPBf72U=/480x360/smart/extras/conteudos/bbb25-vinicius-15-parciais-peq.jpg"
-tags: ["BBB 25", "Paredão", "eliminação", "Vinícius", "Maike", "Renata", "votação", "Tadeu Schmidt", "especial-BBB 25"]
-keywords: "BBB 25, Paredão, eliminação, Vinícius, Maike, Renata, votação, Tadeu Schmidt"
-author: "Pablo Moura"
-data: "2025-04-11T02:48:08.460Z"
+title: BBB 25 | Previsões do Paredão indicam possível eliminação
+slug: bbb-25-quem-vai-ser-eliminado-veja-parciais-do-paredo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/7uU6MFEqKkDJ45JKvXt9vpsxSuk=/987x0/smart/uploads/conteudo/fotos/bbb25-maike-renata-vinicius-parciais.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SAEIDgIeciRPq28hWvn2OPBf72U=/480x360/smart/extras/conteudos/bbb25-vinicius-15-parciais-peq.jpg
+tags:
+  - BBB 25
+  - Paredão
+  - eliminação
+  - Vinícius
+  - Maike
+  - Renata
+  - votação
+  - Tadeu Schmidt
+  - especial-BBB 25
+keywords: 'BBB 25, Paredão, eliminação, Vinícius, Maike, Renata, votação, Tadeu Schmidt'
+author: Pablo Moura
+data: '2025-04-11T02:48:08.460Z'
+resumo: >-
+  Saiba qual dos concorrentes do 15º Paredão do BBB 25 tem maiores chances de
+  ser eliminado segundo as enquetes
 ---
 
 O 15º Paredão do BBB 25, configurado na última terça-feira (8), apresenta Maike, Renata e Vinícius como os indicados à eliminação, que ocorrerá nesta quinta-feira (10). As enquetes, especialmente a realizada pelo portal UOL, mostram uma tendência de eliminação para Vinícius, que lidera com 56,13% dos votos. Em seguida, Maike aparece com 41,23%, enquanto Renata tem apenas 2,63% dos votos, indicando ser a menos provável de sair.

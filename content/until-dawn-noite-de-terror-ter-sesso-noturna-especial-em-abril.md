@@ -1,14 +1,26 @@
 ---
-title: "Cinemark anuncia sessão especial de Until Dawn - Noite de Terror em São Paulo"
-slug: "until-dawn-noite-de-terror-ter-sesso-noturna-especial-em-abril"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/rMg48LNZYlfKCGKaMz6s0QXEqYs=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T215822.764.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/eznWNxc27PQWU_JjCJF1EIEEaTQ=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T215822.764.png"
-tags: ["Until Dawn", "Cinemark", "sessão especial", "filme", "jogo", "desconto", "São Paulo"]
-keywords: "Until Dawn, Cinemark, sessão especial, filme, jogo, desconto, São Paulo"
-author: "Ana Luiza"
-data: "2025-04-15T02:24:48.381Z"
+title: Cinemark anuncia sessão especial de Until Dawn - Noite de Terror em São Paulo
+slug: until-dawn-noite-de-terror-ter-sesso-noturna-especial-em-abril
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/rMg48LNZYlfKCGKaMz6s0QXEqYs=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-14T215822.764.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/eznWNxc27PQWU_JjCJF1EIEEaTQ=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-14T215822.764.png
+tags:
+  - Until Dawn
+  - Cinemark
+  - sessão especial
+  - filme
+  - jogo
+  - desconto
+  - São Paulo
+keywords: 'Until Dawn, Cinemark, sessão especial, filme, jogo, desconto, São Paulo'
+author: Ana Luiza
+data: '2025-04-15T02:24:48.381Z'
+resumo: >-
+  Evento especial será ambientado com o visual do jogo Until Dawn e contará com
+  descontos exclusivos no Snack Bar.
 ---
 
 O Cinemark anunciou que realizará uma sessão especial do filme Until Dawn - Noite de Terror em São Paulo, no dia 23 de abril, às vésperas de seu lançamento oficial nos cinemas. Os ingressos já estão disponíveis para pré-venda no site e no aplicativo do Cinemark, com preços de R$ 27 para meia-entrada e R$ 54 para entrada inteira.

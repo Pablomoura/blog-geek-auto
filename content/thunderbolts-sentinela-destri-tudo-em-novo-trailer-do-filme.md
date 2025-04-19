@@ -1,14 +1,23 @@
 ---
-title: "Thunderbolts | Sentinela causa destruição em novo trailer do filme"
-slug: "thunderbolts-sentinela-destri-tudo-em-novo-trailer-do-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/5SOOEGbK9J2KWq_nkuLy0q4is_4=/987x0/smart/uploads/conteudo/fotos/sentinela_OE3Vz4T.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0aur-8VosfCAVWUCnC0tRSYg2rI=/480x360/smart/extras/conteudos/sentinela_8CyrwtJ.jpg"
-tags: ["Thunderbolts", "Marvel", "Sentinela", "Filme", "MCU", "2025"]
-keywords: "Thunderbolts, Marvel, Sentinela, Filme, MCU, 2025"
-author: "Ana Luiza"
-data: "2025-04-12T16:10:22.817Z"
+title: Thunderbolts | Sentinela causa destruição em novo trailer do filme
+slug: thunderbolts-sentinela-destri-tudo-em-novo-trailer-do-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/5SOOEGbK9J2KWq_nkuLy0q4is_4=/987x0/smart/uploads/conteudo/fotos/sentinela_OE3Vz4T.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0aur-8VosfCAVWUCnC0tRSYg2rI=/480x360/smart/extras/conteudos/sentinela_8CyrwtJ.jpg
+tags:
+  - Thunderbolts
+  - Marvel
+  - Sentinela
+  - Filme
+  - MCU
+  - '2025'
+keywords: 'Thunderbolts, Marvel, Sentinela, Filme, MCU, 2025'
+author: Ana Luiza
+data: '2025-04-12T16:10:22.817Z'
+resumo: Filme com Florence Pugh estreia nos cinemas em maio de 2025
 ---
 
 O Marvel Studios lançou neste sábado (12) um novo trailer de Thunderbolts, destacando o vilão da trama, o herói Sentinela. No vídeo, Sentinela aparece causando destruição massiva, desde soldados militares até arranha-céus. 

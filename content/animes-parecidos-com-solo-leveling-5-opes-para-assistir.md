@@ -1,14 +1,28 @@
 ---
-title: "Se Você Gostou de Solo Leveling, Confira Estes 5 Animes Semelhantes"
-slug: "animes-parecidos-com-solo-leveling-5-opes-para-assistir"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/whcdjcLi2SI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/-SVjlc1-K7eGaR4gxybGgje_fHo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-17_093547.png"
-tags: ["Solo Leveling", "animes semelhantes", "Shangri-La Frontier", "Sword Art Online", "That Time I Got Reincarnated as a Slime", "Overlord", "Jujutsu Kaisen", "streaming"]
-keywords: "Solo Leveling, animes semelhantes, Shangri-La Frontier, Sword Art Online, That Time I Got Reincarnated as a Slime, Overlord, Jujutsu Kaisen, streaming"
-author: "Luana Souza"
-data: "2025-04-17T15:13:10.962Z"
+title: 'Se Você Gostou de Solo Leveling, Confira Estes 5 Animes Semelhantes'
+slug: animes-parecidos-com-solo-leveling-5-opes-para-assistir
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/whcdjcLi2SI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/-SVjlc1-K7eGaR4gxybGgje_fHo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-17_093547.png
+tags:
+  - Solo Leveling
+  - animes semelhantes
+  - Shangri-La Frontier
+  - Sword Art Online
+  - That Time I Got Reincarnated as a Slime
+  - Overlord
+  - Jujutsu Kaisen
+  - streaming
+keywords: >-
+  Solo Leveling, animes semelhantes, Shangri-La Frontier, Sword Art Online, That
+  Time I Got Reincarnated as a Slime, Overlord, Jujutsu Kaisen, streaming
+author: Luana Souza
+data: '2025-04-17T15:13:10.962Z'
+resumo: >-
+  Explore animes que compartilham temáticas e estilos similares ao popular Solo
+  Leveling, perfeitos para fãs do gênero.
 ---
 
 Solo Leveling, uma adaptação da novel de Chugong, é um anime produzido pelo estúdio A-1 Pictures e disponível na Crunchyroll. A trama segue Sung Jinwoo em um mundo onde portais levam a masmorras perigosas. Inicialmente um caçador de baixo nível, Jinwoo rapidamente ascende a um poder surpreendente, mantendo seu avanço em segredo. Se você se encantou por esta narrativa, confira estes cinco animes com temas similares de evolução de personagem e mundos fantásticos.

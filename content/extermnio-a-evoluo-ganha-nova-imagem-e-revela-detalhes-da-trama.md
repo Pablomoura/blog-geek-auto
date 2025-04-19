@@ -1,14 +1,27 @@
 ---
-title: "Extermínio: A Evolução ganha nova imagem e revela detalhes da trama"
-slug: "extermnio-a-evoluo-ganha-nova-imagem-e-revela-detalhes-da-trama"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/2ARc7gJeu5S-Q7ojIKuSNrAqtpo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T132739.724.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Q4EzANO6cLl1g-qXhCZDjK-8L5w=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T132727.596.png"
-tags: ["Extermínio: A Evolução", "filme de terror", "vírus da raiva", "apocalipse", "Danny Boyle", "Alex Garland", "trilogia", "estreia 2025"]
-keywords: "Extermínio: A Evolução, filme de terror, vírus da raiva, apocalipse, Danny Boyle, Alex Garland, trilogia, estreia 2025"
-author: "Ana Luiza"
-data: "2025-04-11T17:11:46.182Z"
+title: 'Extermínio: A Evolução ganha nova imagem e revela detalhes da trama'
+slug: extermnio-a-evoluo-ganha-nova-imagem-e-revela-detalhes-da-trama
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/2ARc7gJeu5S-Q7ojIKuSNrAqtpo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T132739.724.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Q4EzANO6cLl1g-qXhCZDjK-8L5w=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T132727.596.png
+tags:
+  - 'Extermínio: A Evolução'
+  - filme de terror
+  - vírus da raiva
+  - apocalipse
+  - Danny Boyle
+  - Alex Garland
+  - trilogia
+  - estreia 2025
+keywords: >-
+  Extermínio: A Evolução, filme de terror, vírus da raiva, apocalipse, Danny
+  Boyle, Alex Garland, trilogia, estreia 2025
+author: Ana Luiza
+data: '2025-04-11T17:11:46.182Z'
+resumo: Filme chega aos cinemas em junho deste ano
 ---
 
 A franquia Extermínio recebe mais um capítulo com 'Extermínio: A Evolução', que acaba de divulgar uma nova imagem e alguns detalhes sobre sua trama. Esse lançamento vem quase três décadas depois que o vírus da raiva se espalhou a partir de um laboratório de armas biológicas. Agora, em uma quarentena ainda rigorosamente mantida, alguns sobreviventes encontraram maneiras de viver entre os infectados. Um grupo reside em uma pequena ilha, ligada ao continente por uma ponte bem guardada. Um evento chave se desenrola quando um membro deste grupo deixa a ilha para uma missão no continente, onde descobre não apenas segredos e horrores, mas também mutações entre os infectados e outros sobreviventes.

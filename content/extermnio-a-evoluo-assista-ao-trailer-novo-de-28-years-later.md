@@ -1,14 +1,29 @@
 ---
-title: "Extermínio: A Evolução - Trailer Revela Continuação da Saga de Zumbis"
-slug: "extermnio-a-evoluo-assista-ao-trailer-novo-de-28-years-later"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/IYGG55qwQZQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/isJr7M1XKRb4Kfm7ekYo7rR8wl8=/480x360/smart/extras/conteudos/28-years-later-exterminio-evolucao-trailer.jpg"
-tags: ["Extermínio: A Evolução", "28 Years Later", "Danny Boyle", "Alex Garland", "zumbis", "filme de zumbis", "cinema", "estreia 2025", "trailer de filme"]
-keywords: "Extermínio: A Evolução, 28 Years Later, Danny Boyle, Alex Garland, zumbis, filme de zumbis, cinema, estreia 2025, trailer de filme"
-author: "Pablo Moura"
-data: "2025-04-16T15:12:59.059Z"
+title: 'Extermínio: A Evolução - Trailer Revela Continuação da Saga de Zumbis'
+slug: extermnio-a-evoluo-assista-ao-trailer-novo-de-28-years-later
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/IYGG55qwQZQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/isJr7M1XKRb4Kfm7ekYo7rR8wl8=/480x360/smart/extras/conteudos/28-years-later-exterminio-evolucao-trailer.jpg
+tags:
+  - 'Extermínio: A Evolução'
+  - 28 Years Later
+  - Danny Boyle
+  - Alex Garland
+  - zumbis
+  - filme de zumbis
+  - cinema
+  - estreia 2025
+  - trailer de filme
+keywords: >-
+  Extermínio: A Evolução, 28 Years Later, Danny Boyle, Alex Garland, zumbis,
+  filme de zumbis, cinema, estreia 2025, trailer de filme
+author: Pablo Moura
+data: '2025-04-16T15:12:59.059Z'
+resumo: >-
+  O novo filme 'Extermínio: A Evolução' estará nos cinemas brasileiros em junho
+  de 2025, trazendo uma atmosfera pós-apocalíptica intensa.
 ---
 
 A Sony Pictures liberou um empolgante novo trailer de 'Extermínio: A Evolução' (28 Years Later), marcando o retorno da icônica franquia de zumbis. Originalmente criada pelo renomado diretor Danny Boyle e pelo talentoso roteirista Alex Garland, a saga promete capturar novamente a atenção do público com sua atmosfera única.

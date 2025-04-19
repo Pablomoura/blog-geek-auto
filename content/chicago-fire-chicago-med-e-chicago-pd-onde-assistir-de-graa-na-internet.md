@@ -1,14 +1,26 @@
 ---
-title: "Assista às Séries Chicago Fire, Chicago PD e Chicago Med Gratuitamente"
-slug: "chicago-fire-chicago-med-e-chicago-pd-onde-assistir-de-graa-na-internet"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/jzXt56TSgCfDbYvScrRzEJN2xus=/987x0/smart/uploads/conteudo/fotos/one-chicago-chicago-fire_h1eMZ8R.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/VMqUoY-TQgsLZsCOOvBc-8uwDp8=/480x360/smart/extras/conteudos/one-chicago-chicago-fire_Jp816G8.png"
-tags: ["Chicago Fire", "Chicago PD", "Chicago Med", "streaming gratuito", "Mercado Play", "séries de TV", "Dick Wolf"]
-keywords: "Chicago Fire, Chicago PD, Chicago Med, streaming gratuito, Mercado Play, séries de TV, Dick Wolf"
-author: "Ana Luiza"
-data: "2025-04-16T00:45:53.616Z"
+title: 'Assista às Séries Chicago Fire, Chicago PD e Chicago Med Gratuitamente'
+slug: chicago-fire-chicago-med-e-chicago-pd-onde-assistir-de-graa-na-internet
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/jzXt56TSgCfDbYvScrRzEJN2xus=/987x0/smart/uploads/conteudo/fotos/one-chicago-chicago-fire_h1eMZ8R.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/VMqUoY-TQgsLZsCOOvBc-8uwDp8=/480x360/smart/extras/conteudos/one-chicago-chicago-fire_Jp816G8.png
+tags:
+  - Chicago Fire
+  - Chicago PD
+  - Chicago Med
+  - streaming gratuito
+  - Mercado Play
+  - séries de TV
+  - Dick Wolf
+keywords: >-
+  Chicago Fire, Chicago PD, Chicago Med, streaming gratuito, Mercado Play,
+  séries de TV, Dick Wolf
+author: Ana Luiza
+data: '2025-04-16T00:45:53.616Z'
+resumo: As populares séries de TV estão disponíveis para streaming gratuito no Brasil.
 ---
 
 As aclamadas séries *Chicago Fire*, *Chicago PD* e *Chicago Med*, conhecidas por suas histórias envolventes e frequentes crossovers, são acessíveis gratuitamente para streaming no Brasil. Criada por Dick Wolf, *Chicago Fire* estreou em 2012 e já soma 13 temporadas, retratando a vida dos bombeiros da cidade de Chicago. Já *Chicago PD* e *Chicago Med* exploram, respectivamente, os desafios diários da polícia e de um hospital, contando com 12 e 10 temporadas cada.

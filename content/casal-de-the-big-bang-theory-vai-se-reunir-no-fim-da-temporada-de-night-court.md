@@ -1,14 +1,26 @@
 ---
-title: "Casal de The Big Bang Theory vai se reunir no fim da temporada de Night Court"
-slug: "casal-de-the-big-bang-theory-vai-se-reunir-no-fim-da-temporada-de-night-court"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/NazqFEXoA7aM_39ZRKKzZ2BVgmA=/987x0/smart/uploads/conteudo/fotos/02_AMlv2X2.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/MBf5kmzkYp2jaO1lQ39FPfgcVZM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-14_172951.png"
-tags: ["The Big Bang Theory", "Night Court", "Simon Helberg", "Melissa Rauch", "reencontro", "série", "temporada"]
-keywords: "The Big Bang Theory, Night Court, Simon Helberg, Melissa Rauch, reencontro, série, temporada"
-author: "Luana Souza"
-data: "2025-04-14T21:10:36.088Z"
+title: Casal de The Big Bang Theory vai se reunir no fim da temporada de Night Court
+slug: casal-de-the-big-bang-theory-vai-se-reunir-no-fim-da-temporada-de-night-court
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/NazqFEXoA7aM_39ZRKKzZ2BVgmA=/987x0/smart/uploads/conteudo/fotos/02_AMlv2X2.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/MBf5kmzkYp2jaO1lQ39FPfgcVZM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-14_172951.png
+tags:
+  - The Big Bang Theory
+  - Night Court
+  - Simon Helberg
+  - Melissa Rauch
+  - reencontro
+  - série
+  - temporada
+keywords: >-
+  The Big Bang Theory, Night Court, Simon Helberg, Melissa Rauch, reencontro,
+  série, temporada
+author: Luana Souza
+data: '2025-04-14T21:10:36.088Z'
+resumo: Não é a primeira vez que parte do elenco da comédia participa da nova série
 ---
 
 O seriado Tribunal Noturno (Night Court) contará com um reencontro especial entre astros de The Big Bang Theory no final da sua terceira temporada, previsto para o dia 6 de maio. Simon Helberg, conhecido por seu papel como Howard no seriado original, fará uma participação especial. 

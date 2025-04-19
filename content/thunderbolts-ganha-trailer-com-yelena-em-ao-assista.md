@@ -1,14 +1,23 @@
 ---
-title: "Thunderbolts ganha novo trailer com destaque para Yelena Belova em ação"
-slug: "thunderbolts-ganha-trailer-com-yelena-em-ao-assista"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/vZvlQObjL8o?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/OBKZQFlJTI_2Bsd0mYSQmFQdgTs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-15T102927.812.png"
-tags: ["Thunderbolts", "Marvel", "MCU", "Yelena Belova", "filme", "anti-heróis", "trailer"]
-keywords: "Thunderbolts, Marvel, MCU, Yelena Belova, filme, anti-heróis, trailer"
-author: "Luana Souza"
-data: "2025-04-15T14:12:11.403Z"
+title: Thunderbolts ganha novo trailer com destaque para Yelena Belova em ação
+slug: thunderbolts-ganha-trailer-com-yelena-em-ao-assista
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/vZvlQObjL8o?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/OBKZQFlJTI_2Bsd0mYSQmFQdgTs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-15T102927.812.png
+tags:
+  - Thunderbolts
+  - Marvel
+  - MCU
+  - Yelena Belova
+  - filme
+  - anti-heróis
+  - trailer
+keywords: 'Thunderbolts, Marvel, MCU, Yelena Belova, filme, anti-heróis, trailer'
+author: Luana Souza
+data: '2025-04-15T14:12:11.403Z'
+resumo: O filme será lançado nos cinemas em maio de 2025
 ---
 
 Um novo trailer de Thunderbolts foi divulgado nesta terça-feira (15), mostrando Florence Pugh como Yelena Belova em intensa ação. O vídeo também apresenta uma fala do Sentinela questionando se o grupo pretendia ser os 'grandes salvadores', mas ressalta que eles mal conseguem salvar a si mesmos. No final do trailer, é destacado o Vácuo, uma versão sombria do personagem, flutuando em cena.

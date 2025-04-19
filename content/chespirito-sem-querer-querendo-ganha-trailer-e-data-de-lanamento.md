@@ -1,14 +1,31 @@
 ---
-title: "Chespirito: Sem Querer Querendo - Nova Série Explora a Vida de Roberto Gómez Bolaños e Estreia na Max"
-slug: "chespirito-sem-querer-querendo-ganha-trailer-e-data-de-lanamento"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/Iy4dM_rxmtU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/J3PQfv29DuJyyFF7gt4obSN-43U=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-16_164747.png"
-tags: ["Chespirito", "Roberto Gómez Bolaños", "Chaves", "Chapolim", "série biográfica", "Max", "streaming", "cultura pop"]
-keywords: "Chespirito, Roberto Gómez Bolaños, Chaves, Chapolim, série biográfica, Max, streaming, cultura pop"
-author: "Luana Souza"
-data: "2025-04-16T20:12:14.631Z"
+title: >-
+  Chespirito: Sem Querer Querendo - Nova Série Explora a Vida de Roberto Gómez
+  Bolaños e Estreia na Max
+slug: chespirito-sem-querer-querendo-ganha-trailer-e-data-de-lanamento
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/Iy4dM_rxmtU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/J3PQfv29DuJyyFF7gt4obSN-43U=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-16_164747.png
+tags:
+  - Chespirito
+  - Roberto Gómez Bolaños
+  - Chaves
+  - Chapolim
+  - série biográfica
+  - Max
+  - streaming
+  - cultura pop
+keywords: >-
+  Chespirito, Roberto Gómez Bolaños, Chaves, Chapolim, série biográfica, Max,
+  streaming, cultura pop
+author: Luana Souza
+data: '2025-04-16T20:12:14.631Z'
+resumo: >-
+  A nova série biográfica sobre Roberto Gómez Bolaños, criador de Chaves e
+  Chapolim, estreia em 5 de junho na plataforma Max, trazendo um olhar profundo
+  sobre suas inspirações e personagens icônicos.
 ---
 
 A espera está quase no fim para os fãs de Chespirito! A série 'Chespirito: Sem Querer Querendo', que narra a vida e obra de Roberto Gómez Bolaños, ganhou um trailer emocionante e teve sua estreia confirmada para o dia 5 de junho na plataforma de streaming Max.

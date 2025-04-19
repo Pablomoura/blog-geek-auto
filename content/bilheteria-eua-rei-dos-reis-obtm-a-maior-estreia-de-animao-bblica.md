@@ -1,14 +1,24 @@
 ---
-title: "Bilheteria EUA | 'Rei dos Reis' alcança maior estreia de animação bíblica"
-slug: "bilheteria-eua-rei-dos-reis-obtm-a-maior-estreia-de-animao-bblica"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/UU99n_2WUrFOfLnSBQcdMIPQB7o=/987x0/smart/uploads/conteudo/fotos/thekingofkings_5K1QB5Z.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NLNquvjuUyXnm3SbseQlnOql5jc=/480x360/smart/extras/conteudos/thekingofkings_MPnsIk2.jpg"
-tags: ["Rei dos Reis", "bilheteria", "animação bíblica", "filme sobre Jesus", "estreia nos EUA"]
-keywords: "Rei dos Reis, bilheteria, animação bíblica, filme sobre Jesus, estreia nos EUA"
-author: "Pablo Moura"
-data: "2025-04-13T16:20:55.877Z"
+title: Bilheteria EUA | 'Rei dos Reis' alcança maior estreia de animação bíblica
+slug: bilheteria-eua-rei-dos-reis-obtm-a-maior-estreia-de-animao-bblica
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/UU99n_2WUrFOfLnSBQcdMIPQB7o=/987x0/smart/uploads/conteudo/fotos/thekingofkings_5K1QB5Z.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NLNquvjuUyXnm3SbseQlnOql5jc=/480x360/smart/extras/conteudos/thekingofkings_MPnsIk2.jpg
+tags:
+  - Rei dos Reis
+  - bilheteria
+  - animação bíblica
+  - filme sobre Jesus
+  - estreia nos EUA
+keywords: 'Rei dos Reis, bilheteria, animação bíblica, filme sobre Jesus, estreia nos EUA'
+author: Pablo Moura
+data: '2025-04-13T16:20:55.877Z'
+resumo: >-
+  Filme sobre Jesus Cristo supera em arrecadação o sucesso 'O Príncipe do Egito'
+  da década de 1990
 ---
 
 O filme 'Rei dos Reis', produzido pela Angel Studios, conhecida por 'Som da Liberdade', se destacou na bilheteria americana neste fim de semana. Segundo o Deadline, a animação sobre a vida de Jesus Cristo registrou a maior estreia de um filme bíblico animado nos Estados Unidos, arrecadando US$ 19,05 milhões em seus primeiros dias nos cinemas.

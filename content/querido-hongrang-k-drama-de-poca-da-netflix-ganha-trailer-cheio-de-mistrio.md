@@ -1,14 +1,30 @@
 ---
-title: "Querido Hongrang | Mistério e drama no novo K-drama da Netflix com Lee Jae-wook"
-slug: "querido-hongrang-k-drama-de-poca-da-netflix-ganha-trailer-cheio-de-mistrio"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/N8rQaNX0_-8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/QbX9s7moXxnGJp0JT2CNpVTmQI0=/480x360/smart/extras/conteudos/hong.jpeg"
-tags: ["Querido Hongrang", "Netflix", "K-drama", "Lee Jae-wook", "Cho Bo-ah", "Kim Hong-sun", "dinastia Joseon", "série de época"]
-keywords: "Querido Hongrang, Netflix, K-drama, Lee Jae-wook, Cho Bo-ah, Kim Hong-sun, dinastia Joseon, série de época"
-author: "Ana Luiza"
-data: "2025-04-17T12:17:28.748Z"
+title: >-
+  Querido Hongrang | Mistério e drama no novo K-drama da Netflix com Lee
+  Jae-wook
+slug: querido-hongrang-k-drama-de-poca-da-netflix-ganha-trailer-cheio-de-mistrio
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/N8rQaNX0_-8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/QbX9s7moXxnGJp0JT2CNpVTmQI0=/480x360/smart/extras/conteudos/hong.jpeg
+tags:
+  - Querido Hongrang
+  - Netflix
+  - K-drama
+  - Lee Jae-wook
+  - Cho Bo-ah
+  - Kim Hong-sun
+  - dinastia Joseon
+  - série de época
+keywords: >-
+  Querido Hongrang, Netflix, K-drama, Lee Jae-wook, Cho Bo-ah, Kim Hong-sun,
+  dinastia Joseon, série de época
+author: Ana Luiza
+data: '2025-04-17T12:17:28.748Z'
+resumo: >-
+  Estrelado por Lee Jae-wook, de 'Alquimia das Almas', o novo K-drama de época
+  'Querido Hongrang' promete intrigas e segredos na era Joseon.
 ---
 
 A Netflix revelou recentemente o emocionante trailer de 'Querido Hongrang', um K-drama de época que conta com a atuação de Lee Jae-wook, conhecido por seu papel em 'Alquimia das Almas'.

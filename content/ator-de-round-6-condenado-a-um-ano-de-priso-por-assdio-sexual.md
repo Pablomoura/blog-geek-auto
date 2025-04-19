@@ -1,14 +1,29 @@
 ---
-title: "Ator de Round 6 é condenado a um ano de prisão por assédio sexual"
-slug: "ator-de-round-6-condenado-a-um-ano-de-priso-por-assdio-sexual"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/_plL6AEa_DUi5r9Q-RtYV7laeCA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T120751.390.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/IQXV0C9-bdIWsUFnRG5ZxU24y_s=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T120731.691.png"
-tags: ["Round 6", "Oh Yeong-su", "assédio sexual", "condenação", "justiça sul-coreana", "apelação judicial", "Globo de Ouro", "Emmy"]
-keywords: "Round 6, Oh Yeong-su, assédio sexual, condenação, justiça sul-coreana, apelação judicial, Globo de Ouro, Emmy"
-author: "Luana Souza"
-data: "2025-04-11T15:10:46.987Z"
+title: Ator de Round 6 é condenado a um ano de prisão por assédio sexual
+slug: ator-de-round-6-condenado-a-um-ano-de-priso-por-assdio-sexual
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/_plL6AEa_DUi5r9Q-RtYV7laeCA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-11T120751.390.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/IQXV0C9-bdIWsUFnRG5ZxU24y_s=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-11T120731.691.png
+tags:
+  - Round 6
+  - Oh Yeong-su
+  - assédio sexual
+  - condenação
+  - justiça sul-coreana
+  - apelação judicial
+  - Globo de Ouro
+  - Emmy
+keywords: >-
+  Round 6, Oh Yeong-su, assédio sexual, condenação, justiça sul-coreana,
+  apelação judicial, Globo de Ouro, Emmy
+author: Luana Souza
+data: '2025-04-11T15:10:46.987Z'
+resumo: >-
+  Ator havia recorrido após ser sentenciado a oito meses de detenção, e acaba
+  tendo pena aumentada
 ---
 
 O ator sul-coreano Oh Yeong-su, conhecido por seu papel em 'Round 6', enfrentou um revés judicial após recorrer da sua condenação inicial por assédio sexual. A pena do ator, antes estabelecida em oito meses, foi aumentada para um ano de prisão após a apelação. Oh, de 79 anos, foi acusado por uma mulher, cuja identidade não foi revelada, de tê-la abraçado e beijado no rosto sem o seu consentimento durante um incidente ocorrido em 2017.

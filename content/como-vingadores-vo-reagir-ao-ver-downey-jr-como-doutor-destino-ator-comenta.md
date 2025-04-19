@@ -1,14 +1,32 @@
 ---
-title: "Robert Downey Jr. Retorna como Doutor Destino em 'Vingadores: Doomsday' - Reações e Elenco Estelar"
-slug: "como-vingadores-vo-reagir-ao-ver-downey-jr-como-doutor-destino-ator-comenta"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/1G7_sIA-fw8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/iVcHethTTsKVr_YRH9frDTYtZ0c=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-18_161643.png"
-tags: ["Vingadores Doomsday", "Robert Downey Jr.", "Doutor Destino", "Anthony Mackie", "MCU", "Marvel", "elenco estelar", "X-Men", "Quarteto Fantástico"]
-keywords: "Vingadores Doomsday, Robert Downey Jr., Doutor Destino, Anthony Mackie, MCU, Marvel, elenco estelar, X-Men, Quarteto Fantástico"
-author: "Luana Souza"
-data: "2025-04-18T20:12:13.232Z"
+title: >-
+  Robert Downey Jr. Retorna como Doutor Destino em 'Vingadores: Doomsday' -
+  Reações e Elenco Estelar
+slug: como-vingadores-vo-reagir-ao-ver-downey-jr-como-doutor-destino-ator-comenta
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/1G7_sIA-fw8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/iVcHethTTsKVr_YRH9frDTYtZ0c=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-18_161643.png
+tags:
+  - Vingadores Doomsday
+  - Robert Downey Jr.
+  - Doutor Destino
+  - Anthony Mackie
+  - MCU
+  - Marvel
+  - elenco estelar
+  - X-Men
+  - Quarteto Fantástico
+keywords: >-
+  Vingadores Doomsday, Robert Downey Jr., Doutor Destino, Anthony Mackie, MCU,
+  Marvel, elenco estelar, X-Men, Quarteto Fantástico
+author: Luana Souza
+data: '2025-04-18T20:12:13.232Z'
+resumo: >-
+  Previsto para 2026, 'Vingadores: Doomsday' marca o retorno de Robert Downey
+  Jr., desta vez como o vilão Doutor Destino, e promete uma reunião épica de
+  personagens do MCU.
 ---
 
 Anthony Mackie, que assume o manto de Capitão América, compartilhou suas expectativas com o Entertainment Tonight sobre o retorno de Robert Downey Jr. em 'Vingadores: Doomsday', mas desta vez como o notório vilão Doutor Destino. Mackie expressa entusiasmo e curiosidade sobre como seu personagem, Sam Wilson, irá reagir ao ver Downey Jr. no papel de vilão, destacando a habilidade dos diretores irmãos Russo em criar reações autênticas e diversas.

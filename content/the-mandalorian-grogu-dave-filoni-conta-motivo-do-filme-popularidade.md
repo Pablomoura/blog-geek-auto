@@ -1,14 +1,31 @@
 ---
-title: "The Mandalorian & Grogu: Filme Promete Grandes Emoções no Universo Star Wars"
-slug: "the-mandalorian-grogu-dave-filoni-conta-motivo-do-filme-popularidade"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Xv6m_1lDmNWFZ-0jDeLsAeDIcls=/987x0/smart/uploads/conteudo/fotos/madalorian-grogu_Ew5IbJy.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/uKr3AmyRYldJLx0O0axMdcFQgsA=/480x360/smart/extras/conteudos/mandalorian-grogu.jpg"
-tags: ["The Mandalorian & Grogu", "Star Wars", "Dave Filoni", "Jon Favreau", "Disney+", "cinema", "Lucasfilm", "Pedro Pascal", "Sigourney Weaver"]
-keywords: "The Mandalorian & Grogu, Star Wars, Dave Filoni, Jon Favreau, Disney+, cinema, Lucasfilm, Pedro Pascal, Sigourney Weaver"
-author: "Pablo Moura"
-data: "2025-04-18T03:27:51.723Z"
+title: 'The Mandalorian & Grogu: Filme Promete Grandes Emoções no Universo Star Wars'
+slug: the-mandalorian-grogu-dave-filoni-conta-motivo-do-filme-popularidade
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Xv6m_1lDmNWFZ-0jDeLsAeDIcls=/987x0/smart/uploads/conteudo/fotos/madalorian-grogu_Ew5IbJy.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/uKr3AmyRYldJLx0O0axMdcFQgsA=/480x360/smart/extras/conteudos/mandalorian-grogu.jpg
+tags:
+  - The Mandalorian & Grogu
+  - Star Wars
+  - Dave Filoni
+  - Jon Favreau
+  - Disney+
+  - cinema
+  - Lucasfilm
+  - Pedro Pascal
+  - Sigourney Weaver
+keywords: >-
+  The Mandalorian & Grogu, Star Wars, Dave Filoni, Jon Favreau, Disney+, cinema,
+  Lucasfilm, Pedro Pascal, Sigourney Weaver
+author: Pablo Moura
+data: '2025-04-18T03:27:51.723Z'
+resumo: >-
+  Em entrevista exclusiva, Dave Filoni revela que a decisão de levar 'The
+  Mandalorian & Grogu' aos cinemas foi impulsionada pela popularidade da série e
+  o desejo de expandir a narrativa.
 ---
 
 Durante a recente Star Wars Celebration no Japão, os fãs foram presenteados com um painel dedicado ao filme 'The Mandalorian & Grogu', que promete ser uma continuação direta da série de sucesso do Disney+, 'The Mandalorian'. Dave Filoni, com seus 20 anos de experiência na Lucasfilm, compartilhou insights sobre o filme, destacando que a incrível popularidade do show e a empolgação dos fãs foram fatores decisivos para a produção do filme. 

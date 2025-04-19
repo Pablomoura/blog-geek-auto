@@ -1,14 +1,27 @@
 ---
-title: "Ginny e Georgia: Confira o Trailer da Emocionante 3ª Temporada na Netflix"
-slug: "ginny-e-georgia-netflix-divulga-trailer-da-3-temporada-assista"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/qbA5GNl3Ies?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/riKmGn4lbTEwovRTs5p2A7Dsg2A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T115310.201.png"
-tags: ["Ginny e Georgia", "Netflix", "3ª temporada", "trailer", "série", "Antonia Gentry", "Brianne Howey"]
-keywords: "Ginny e Georgia, Netflix, 3ª temporada, trailer, série, Antonia Gentry, Brianne Howey"
-author: "Pablo Moura"
-data: "2025-04-17T15:11:13.906Z"
+title: 'Ginny e Georgia: Confira o Trailer da Emocionante 3ª Temporada na Netflix'
+slug: ginny-e-georgia-netflix-divulga-trailer-da-3-temporada-assista
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/qbA5GNl3Ies?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/riKmGn4lbTEwovRTs5p2A7Dsg2A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T115310.201.png
+tags:
+  - Ginny e Georgia
+  - Netflix
+  - 3ª temporada
+  - trailer
+  - série
+  - Antonia Gentry
+  - Brianne Howey
+keywords: >-
+  Ginny e Georgia, Netflix, 3ª temporada, trailer, série, Antonia Gentry,
+  Brianne Howey
+author: Pablo Moura
+data: '2025-04-17T15:11:13.906Z'
+resumo: >-
+  A série de sucesso da Netflix, 'Ginny e Georgia', está de volta com sua
+  terceira temporada, estreando em julho.
 ---
 
 A espera acabou para os fãs de 'Ginny e Georgia'! A Netflix acaba de lançar o empolgante primeiro trailer da terceira temporada da série, marcando o retorno dos personagens favoritos e a introdução de novas caras. A estreia está agendada para o dia 5 de julho.

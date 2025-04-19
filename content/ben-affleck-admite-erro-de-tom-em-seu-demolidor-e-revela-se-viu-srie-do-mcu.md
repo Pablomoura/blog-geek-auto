@@ -1,14 +1,30 @@
 ---
-title: "Ben Affleck Reflete Sobre Seu Papel em 'Demolidor' e Comenta sobre a Nova Série do MCU"
-slug: "ben-affleck-admite-erro-de-tom-em-seu-demolidor-e-revela-se-viu-srie-do-mcu"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/VmEoqm-4Nk1pZ6hSdkyYv_qTvvg=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-17T123359.642.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/mZ6FThgDkO3_XFPhNmfRSQFR9Pg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T123348.964.png"
-tags: ["Ben Affleck", "Demolidor", "MCU", "Disney+", "Jon Bernthal", "Justiceiro", "Demolidor: Renascido"]
-keywords: "Ben Affleck, Demolidor, MCU, Disney+, Jon Bernthal, Justiceiro, Demolidor: Renascido"
-author: "Pablo Moura"
-data: "2025-04-17T16:14:02.631Z"
+title: >-
+  Ben Affleck Reflete Sobre Seu Papel em 'Demolidor' e Comenta sobre a Nova
+  Série do MCU
+slug: ben-affleck-admite-erro-de-tom-em-seu-demolidor-e-revela-se-viu-srie-do-mcu
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/VmEoqm-4Nk1pZ6hSdkyYv_qTvvg=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-17T123359.642.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/mZ6FThgDkO3_XFPhNmfRSQFR9Pg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T123348.964.png
+tags:
+  - Ben Affleck
+  - Demolidor
+  - MCU
+  - Disney+
+  - Jon Bernthal
+  - Justiceiro
+  - 'Demolidor: Renascido'
+keywords: >-
+  Ben Affleck, Demolidor, MCU, Disney+, Jon Bernthal, Justiceiro, Demolidor:
+  Renascido
+author: Pablo Moura
+data: '2025-04-17T16:14:02.631Z'
+resumo: >-
+  Ben Affleck discute seu papel como Demolidor e elogia a atuação de Jon
+  Bernthal como Justiceiro
 ---
 
 O desempenho de Ben Affleck como Demolidor não conquistou completamente o coração dos fãs de quadrinhos. Recentemente, o ator compartilhou suas reflexões sobre o filme, reconhecendo um 'erro de tom' e comentou sobre a nova série do personagem no Disney+.

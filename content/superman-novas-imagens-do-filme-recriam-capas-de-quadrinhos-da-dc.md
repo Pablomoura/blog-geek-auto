@@ -1,14 +1,30 @@
 ---
-title: "Superman: Novo Filme Inspira-se em Clássicas Capas de Quadrinhos da DC"
-slug: "superman-novas-imagens-do-filme-recriam-capas-de-quadrinhos-da-dc"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/b7eshCyqkBihH68vUHWrGo2_hjs=/987x0/smart/uploads/conteudo/fotos/superman-cinemacon_2WTA3Ug.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/IdkD4sEFo8k4mag1H-pboKbbzgs=/480x360/smart/extras/conteudos/superman-trailer_VJ6qpVZ.jpg"
-tags: ["Superman", "DC Comics", "David Corenswet", "James Gunn", "filme Superman", "novo DCU", "lançamentos cinema 2025", "especial-Superman"]
-keywords: "Superman, DC Comics, David Corenswet, James Gunn, filme Superman, novo DCU, lançamentos cinema 2025"
-author: "Pablo Moura"
-data: "2025-04-17T20:12:25.291Z"
+title: 'Superman: Novo Filme Inspira-se em Clássicas Capas de Quadrinhos da DC'
+slug: superman-novas-imagens-do-filme-recriam-capas-de-quadrinhos-da-dc
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/b7eshCyqkBihH68vUHWrGo2_hjs=/987x0/smart/uploads/conteudo/fotos/superman-cinemacon_2WTA3Ug.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/IdkD4sEFo8k4mag1H-pboKbbzgs=/480x360/smart/extras/conteudos/superman-trailer_VJ6qpVZ.jpg
+tags:
+  - Superman
+  - DC Comics
+  - David Corenswet
+  - James Gunn
+  - filme Superman
+  - novo DCU
+  - lançamentos cinema 2025
+  - especial-Superman
+keywords: >-
+  Superman, DC Comics, David Corenswet, James Gunn, filme Superman, novo DCU,
+  lançamentos cinema 2025
+author: Pablo Moura
+data: '2025-04-17T20:12:25.291Z'
+resumo: >-
+  O novo filme do Superman, que chega aos cinemas em julho de 2025, apresenta
+  David Corenswet no papel principal e presta homenagem a capas icônicas de
+  quadrinhos.
 ---
 
 O universo cinematográfico da DC Comics está prestes a ser revitalizado com o lançamento do novo filme do Superman, estrelado por David Corenswet. Recentemente, foram divulgadas novas artes do filme que recriam famosas capas de quadrinhos da DC, homenageando artistas como Jorge Jiménez e Jerry Ordway.

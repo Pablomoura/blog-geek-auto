@@ -1,14 +1,27 @@
 ---
-title: "Missão: Impossível 8 deve atingir US$ 100 milhões em bilheteria na estreia"
-slug: "misso-impossvel-8-deve-chegar-a-us-100-m-de-bilheteria-na-estreia"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/8iAdfm-6YLl0I4ZqwmZ2baxHcQM=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-11T212317.192.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/tEYS1H3gxF8j8guHDbEsEEDT6hg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T212317.192.png"
-tags: ["Missão: Impossível", "Lilo e Stitch", "bilheteria", "estreia", "Disney", "Thunderbolts", "Christopher McQuarrie", "Tom Cruise"]
-keywords: "Missão: Impossível, Lilo e Stitch, bilheteria, estreia, Disney, Thunderbolts, Christopher McQuarrie, Tom Cruise"
-author: "Luana Souza"
-data: "2025-04-12T00:42:07.511Z"
+title: 'Missão: Impossível 8 deve atingir US$ 100 milhões em bilheteria na estreia'
+slug: misso-impossvel-8-deve-chegar-a-us-100-m-de-bilheteria-na-estreia
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/8iAdfm-6YLl0I4ZqwmZ2baxHcQM=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-11T212317.192.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/tEYS1H3gxF8j8guHDbEsEEDT6hg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-11T212317.192.png
+tags:
+  - 'Missão: Impossível'
+  - Lilo e Stitch
+  - bilheteria
+  - estreia
+  - Disney
+  - Thunderbolts
+  - Christopher McQuarrie
+  - Tom Cruise
+keywords: >-
+  Missão: Impossível, Lilo e Stitch, bilheteria, estreia, Disney, Thunderbolts,
+  Christopher McQuarrie, Tom Cruise
+author: Luana Souza
+data: '2025-04-12T00:42:07.511Z'
+resumo: 'Missão: Impossível e Lilo e Stitch liderarão as bilheterias da Disney em maio'
 ---
 
 De acordo com a pesquisa da Quorum, Missão: Impossível - O Acerto Final está previsto para superar o recorde de US$ 61 milhões de Efeito Fallout, estimando-se que alcance US$ 100 milhões nos três primeiros dias de lançamento. Além de Missão: Impossível, Lilo e Stitch também deve alcançar a mesma marca, compensando a possível baixa performance de Thunderbolts, que tem previsão de arrecadar US$ 70 milhões na estreia. 

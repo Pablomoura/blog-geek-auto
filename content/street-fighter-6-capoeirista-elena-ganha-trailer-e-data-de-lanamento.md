@@ -1,14 +1,26 @@
 ---
-title: "Street Fighter 6 | Capoeirista Elena ganha trailer e data de lançamento"
-slug: "street-fighter-6-capoeirista-elena-ganha-trailer-e-data-de-lanamento"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/z6Zcqx3WDNE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/bRKheuIVKOt4szbJ_WCL2VLQCP4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-11_150429.png"
-tags: ["Street Fighter 6", "Capoeirista Elena", "Capcom", "Nintendo Switch 2", "trailer de lançamento", "jogo de luta", "personagens de videogame", "atualização de personagem"]
-keywords: "Street Fighter 6, Capoeirista Elena, Capcom, Nintendo Switch 2, trailer de lançamento, jogo de luta, personagens de videogame, atualização de personagem"
-author: "Luana Souza"
-data: "2025-04-11T19:10:42.364Z"
+title: Street Fighter 6 | Capoeirista Elena ganha trailer e data de lançamento
+slug: street-fighter-6-capoeirista-elena-ganha-trailer-e-data-de-lanamento
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/z6Zcqx3WDNE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/bRKheuIVKOt4szbJ_WCL2VLQCP4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-11_150429.png
+tags:
+  - Street Fighter 6
+  - Capoeirista Elena
+  - Capcom
+  - Nintendo Switch 2
+  - trailer de lançamento
+  - jogo de luta
+  - personagens de videogame
+  - atualização de personagem
+keywords: >-
+  Street Fighter 6, Capoeirista Elena, Capcom, Nintendo Switch 2, trailer de
+  lançamento, jogo de luta, personagens de videogame, atualização de personagem
+author: Luana Souza
+data: '2025-04-11T19:10:42.364Z'
+resumo: Elena também chega próxima do lançamento da versão para Switch 2
 ---
 
 A Capcom anunciou a chegada de Elena, a nova personagem do jogo Street Fighter 6, por meio de um vibrante trailer que destaca a capoeirista. A lutadora será lançada em 5 de junho, coincidindo com o lançamento da versão do jogo para o Nintendo Switch 2.

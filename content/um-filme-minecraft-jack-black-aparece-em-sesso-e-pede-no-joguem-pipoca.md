@@ -1,14 +1,26 @@
 ---
-title: "Um Filme Minecraft | Jack Black pede ao público para não jogar pipoca durante sessões"
-slug: "um-filme-minecraft-jack-black-aparece-em-sesso-e-pede-no-joguem-pipoca"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/gebUGaM7Fhf9lD9YgsZP9lrVvZU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-14T101438.647.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/vGLcA0uZWqR9O6UPmKa6yLBG1F8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T101424.510.png"
-tags: ["Minecraft", "filme", "Jack Black", "cinema", "comportamento do público"]
-keywords: "Minecraft, filme, Jack Black, cinema, comportamento do público"
-author: "Ana Luiza"
-data: "2025-04-14T13:22:59.722Z"
+title: >-
+  Um Filme Minecraft | Jack Black pede ao público para não jogar pipoca durante
+  sessões
+slug: um-filme-minecraft-jack-black-aparece-em-sesso-e-pede-no-joguem-pipoca
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/gebUGaM7Fhf9lD9YgsZP9lrVvZU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-14T101438.647.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/vGLcA0uZWqR9O6UPmKa6yLBG1F8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-14T101424.510.png
+tags:
+  - Minecraft
+  - filme
+  - Jack Black
+  - cinema
+  - comportamento do público
+keywords: 'Minecraft, filme, Jack Black, cinema, comportamento do público'
+author: Ana Luiza
+data: '2025-04-14T13:22:59.722Z'
+resumo: >-
+  Filme continua em exibição nos cinemas e enfrenta comportamento incomum do
+  público.
 ---
 
 Um Filme Minecraft continua atraindo grandes públicos aos cinemas e conquistando sucesso nas bilheterias. No entanto, um comportamento incomum tem sido observado: espectadores jogando pipoca na tela durante as sessões. O ator Jack Black, que faz parte do elenco, abordou o problema durante uma exibição do filme nos Estados Unidos, onde pediu aos fãs que evitassem arremessar pipoca. Este pedido foi capturado em vídeo.

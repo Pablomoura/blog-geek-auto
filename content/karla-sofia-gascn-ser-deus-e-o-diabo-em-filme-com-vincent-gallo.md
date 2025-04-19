@@ -1,14 +1,29 @@
 ---
-title: "Karla Sofia Gascón enfrenta papéis divinos e demoníacos ao lado de Vincent Gallo em 'The Life Lift'"
-slug: "karla-sofia-gascn-ser-deus-e-o-diabo-em-filme-com-vincent-gallo"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/RKFj3RZcsCajKJtEpFCpSfTKNqI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-17T113000.254.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hrg3z5UYixacuNVfjQigCodJs-I=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T112932.462.png"
-tags: ["Karla Sofia Gascón", "Vincent Gallo", "The Life Lift", "Stefania Rossella Grassi", "cinema", "thriller psicológico"]
-keywords: "Karla Sofia Gascón, Vincent Gallo, The Life Lift, Stefania Rossella Grassi, cinema, thriller psicológico"
-author: "Luana Souza"
-data: "2025-04-17T15:12:30.058Z"
+title: >-
+  Karla Sofia Gascón enfrenta papéis divinos e demoníacos ao lado de Vincent
+  Gallo em 'The Life Lift'
+slug: karla-sofia-gascn-ser-deus-e-o-diabo-em-filme-com-vincent-gallo
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/RKFj3RZcsCajKJtEpFCpSfTKNqI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-17T113000.254.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hrg3z5UYixacuNVfjQigCodJs-I=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-17T112932.462.png
+tags:
+  - Karla Sofia Gascón
+  - Vincent Gallo
+  - The Life Lift
+  - Stefania Rossella Grassi
+  - cinema
+  - thriller psicológico
+keywords: >-
+  Karla Sofia Gascón, Vincent Gallo, The Life Lift, Stefania Rossella Grassi,
+  cinema, thriller psicológico
+author: Luana Souza
+data: '2025-04-17T15:12:30.058Z'
+resumo: >-
+  O novo thriller psicológico dirigido por Stefania Rossella Grassi, 'The Life
+  Lift', contará com Karla Sofia Gascón e Vincent Gallo nos papéis principais.
 ---
 
 Após brilhar em 'Emilia Pérez', Karla Sofia Gascón já selecionou seu novo desafio no cinema. A atriz será a estrela de 'The Life Lift', um filme que também conta com Vincent Gallo, conhecido por suas controvérsias. De acordo com a Variety, 'The Life Lift' é descrito como um thriller psicológico, onde Gascón interpreta uma psiquiatra que personifica tanto Deus quanto o Diabo. A direção fica por conta de Stefania Rossella Grassi, que faz sua estreia em longas-metragens com este projeto.

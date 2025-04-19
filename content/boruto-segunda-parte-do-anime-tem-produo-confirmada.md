@@ -1,14 +1,26 @@
 ---
-title: "Boruto: Anunciada a Segunda Parte do Anime após Longa Pausa"
-slug: "boruto-segunda-parte-do-anime-tem-produo-confirmada"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/ccECUkIcz68?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/i5ezRrgBJQlKcqesbiCqzM2MoKw=/480x360/smart/extras/conteudos/01_QRidmJy.jpg"
-tags: ["Boruto", "anime", "Naruto", "Pierrot Studios", "mangá", "Crunchyroll", "Netflix", "Pluto TV"]
-keywords: "Boruto, anime, Naruto, Pierrot Studios, mangá, Crunchyroll, Netflix, Pluto TV"
-author: "Luana Souza"
-data: "2025-04-18T21:09:12.684Z"
+title: 'Boruto: Anunciada a Segunda Parte do Anime após Longa Pausa'
+slug: boruto-segunda-parte-do-anime-tem-produo-confirmada
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/ccECUkIcz68?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/i5ezRrgBJQlKcqesbiCqzM2MoKw=/480x360/smart/extras/conteudos/01_QRidmJy.jpg
+tags:
+  - Boruto
+  - anime
+  - Naruto
+  - Pierrot Studios
+  - mangá
+  - Crunchyroll
+  - Netflix
+  - Pluto TV
+keywords: 'Boruto, anime, Naruto, Pierrot Studios, mangá, Crunchyroll, Netflix, Pluto TV'
+author: Luana Souza
+data: '2025-04-18T21:09:12.684Z'
+resumo: >-
+  Após mais de dois anos sem episódios inéditos, a série 'Boruto' está
+  confirmada para receber novos episódios em breve.
 ---
 
 A saga de 'Boruto', que dá continuidade ao universo de 'Naruto', está prestes a ser expandida com novos episódios. O Pierrot Studios, responsável pela animação, incluiu novas informações em seu site oficial, confirmando que os trabalhos na segunda parte do anime já estão em andamento.

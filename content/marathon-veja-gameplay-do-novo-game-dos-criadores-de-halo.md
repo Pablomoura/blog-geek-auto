@@ -1,14 +1,25 @@
 ---
-title: "Marathon | Confira o gameplay do novo jogo dos criadores de Halo"
-slug: "marathon-veja-gameplay-do-novo-game-dos-criadores-de-halo"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/uZRGDZCl9pg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/HN9mpSB7FRwiPXSVHKIMX7Llzr8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-11_132833.png"
-tags: ["Marathon", "Bungie", "PS5", "Xbox Series", "PC", "gameplay", "lançamento"]
-keywords: "Marathon, Bungie, PS5, Xbox Series, PC, gameplay, lançamento"
-author: "Luana Souza"
-data: "2025-04-12T17:50:40.305Z"
+title: Marathon | Confira o gameplay do novo jogo dos criadores de Halo
+slug: marathon-veja-gameplay-do-novo-game-dos-criadores-de-halo
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/uZRGDZCl9pg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/HN9mpSB7FRwiPXSVHKIMX7Llzr8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-11_132833.png
+tags:
+  - Marathon
+  - Bungie
+  - PS5
+  - Xbox Series
+  - PC
+  - gameplay
+  - lançamento
+keywords: 'Marathon, Bungie, PS5, Xbox Series, PC, gameplay, lançamento'
+author: Luana Souza
+data: '2025-04-12T17:50:40.305Z'
+resumo: >-
+  Marathon será lançado para PS5, Xbox Series e PC, com data de lançamento
+  confirmada.
 ---
 
 A Bungie, em um evento online realizado em parceria com a PlayStation, apresentou a nova gameplay de Marathon, confirmando também sua data de lançamento para 23 de setembro de 2025.

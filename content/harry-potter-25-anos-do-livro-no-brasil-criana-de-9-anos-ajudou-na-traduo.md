@@ -1,14 +1,29 @@
 ---
-title: "Harry Potter | 25 anos do livro no Brasil com edição comemorativa da Rocco"
-slug: "harry-potter-25-anos-do-livro-no-brasil-criana-de-9-anos-ajudou-na-traduo"
-categoria: "HQ/LIVROS"
-midia: "https://cdn.ome.lt/OzVBaQJwUe-cuX-oSWoRZw5J3Jw=/987x0/smart/uploads/conteudo/fotos/harry_potter.jpeg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/M98MBLHUELVwWD4nqoo8lsHu9ws=/480x360/smart/extras/conteudos/harry_potter_divulgacao.jpeg"
-tags: ["Harry Potter", "edição comemorativa", "Rocco", "tradução", "J.K. Rowling", "série", "Warner", "Max"]
-keywords: "Harry Potter, edição comemorativa, Rocco, tradução, J.K. Rowling, série, Warner, Max"
-author: "Ana Luiza"
-data: "2025-04-11T22:11:43.146Z"
+title: Harry Potter | 25 anos do livro no Brasil com edição comemorativa da Rocco
+slug: harry-potter-25-anos-do-livro-no-brasil-criana-de-9-anos-ajudou-na-traduo
+categoria: HQ/LIVROS
+midia: >-
+  https://cdn.ome.lt/OzVBaQJwUe-cuX-oSWoRZw5J3Jw=/987x0/smart/uploads/conteudo/fotos/harry_potter.jpeg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/M98MBLHUELVwWD4nqoo8lsHu9ws=/480x360/smart/extras/conteudos/harry_potter_divulgacao.jpeg
+tags:
+  - Harry Potter
+  - edição comemorativa
+  - Rocco
+  - tradução
+  - J.K. Rowling
+  - série
+  - Warner
+  - Max
+keywords: >-
+  Harry Potter, edição comemorativa, Rocco, tradução, J.K. Rowling, série,
+  Warner, Max
+author: Ana Luiza
+data: '2025-04-11T22:11:43.146Z'
+resumo: >-
+  A Pedra Filosofal celebra 25 anos de lançamento no Brasil com versão especial
+  pela editora Rocco, que contou com a ajuda de uma criança na tradução.
 ---
 
 A saga de Harry Potter chegou ao Brasil há 25 anos, trazida pela editora Rocco. A tradução complexa exigiu a criação de um glossário com duas mil palavras, contando com a colaboração inusitada de uma criança de 9 anos, neta da tradutora, que ajudou com gírias e coloquialismos. Para comemorar o aniversário, a editora lançou uma edição especial do livro.

@@ -1,14 +1,27 @@
 ---
-title: "Joshua Jackson se prepara para ação em nova imagem de 'Karate Kid: Lendas'"
-slug: "karate-kid-lendas-ganha-imagem-com-joshua-jackson-pronto-para-lutar"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/tzyGQhImQ6G8Dx55LonAVFKckdo=/987x0/smart/uploads/conteudo/fotos/karate-kid-lendas_aPxdYSo.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ws7pfm7rC9LHOQy2MBUBTI8BA1Q=/480x360/smart/extras/conteudos/karate-kid-legends_c2rFczD.png"
-tags: ["Karate Kid Lendas", "Joshua Jackson", "cinema", "artes marciais", "Jackie Chan", "Ralph Macchio"]
-keywords: "Karate Kid Lendas, Joshua Jackson, cinema, artes marciais, Jackie Chan, Ralph Macchio"
-author: "Ana Luiza"
-data: "2025-04-17T19:09:15.151Z"
+title: 'Joshua Jackson se prepara para ação em nova imagem de ''Karate Kid: Lendas'''
+slug: karate-kid-lendas-ganha-imagem-com-joshua-jackson-pronto-para-lutar
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/tzyGQhImQ6G8Dx55LonAVFKckdo=/987x0/smart/uploads/conteudo/fotos/karate-kid-lendas_aPxdYSo.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ws7pfm7rC9LHOQy2MBUBTI8BA1Q=/480x360/smart/extras/conteudos/karate-kid-legends_c2rFczD.png
+tags:
+  - Karate Kid Lendas
+  - Joshua Jackson
+  - cinema
+  - artes marciais
+  - Jackie Chan
+  - Ralph Macchio
+keywords: >-
+  Karate Kid Lendas, Joshua Jackson, cinema, artes marciais, Jackie Chan, Ralph
+  Macchio
+author: Ana Luiza
+data: '2025-04-17T19:09:15.151Z'
+resumo: >-
+  O filme 'Karate Kid: Lendas' chega aos cinemas em maio, trazendo Joshua
+  Jackson em um papel enigmático.
 ---
 
 A franquia 'Karate Kid' está prestes a ganhar um novo capítulo com o lançamento de 'Karate Kid: Lendas', programado para estrear nos cinemas em maio. Uma imagem recém-divulgada do filme mostra Joshua Jackson como Victor, um personagem que parece estar profundamente envolvido com as artes marciais.

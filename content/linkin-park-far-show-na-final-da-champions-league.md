@@ -1,14 +1,30 @@
 ---
-title: "Linkin Park animará a final da UEFA Champions League em Munique"
-slug: "linkin-park-far-show-na-final-da-champions-league"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/Qo6HfKtwKcyFc0BAgw4025VjbiU=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-16T215957.609.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/sFXmJGBhd_qxnCLuVSzj-4YOYAM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-16T215957.609.png"
-tags: ["Linkin Park", "UEFA Champions League", "final da Champions", "show de abertura", "Allianz Arena", "Munique", "From Zero", "Emily Armstrong", "música"]
-keywords: "Linkin Park, UEFA Champions League, final da Champions, show de abertura, Allianz Arena, Munique, From Zero, Emily Armstrong, música"
-author: "Ana Luiza"
-data: "2025-04-17T02:22:46.817Z"
+title: Linkin Park animará a final da UEFA Champions League em Munique
+slug: linkin-park-far-show-na-final-da-champions-league
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/Qo6HfKtwKcyFc0BAgw4025VjbiU=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-16T215957.609.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/sFXmJGBhd_qxnCLuVSzj-4YOYAM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-16T215957.609.png
+tags:
+  - Linkin Park
+  - UEFA Champions League
+  - final da Champions
+  - show de abertura
+  - Allianz Arena
+  - Munique
+  - From Zero
+  - Emily Armstrong
+  - música
+keywords: >-
+  Linkin Park, UEFA Champions League, final da Champions, show de abertura,
+  Allianz Arena, Munique, From Zero, Emily Armstrong, música
+author: Ana Luiza
+data: '2025-04-17T02:22:46.817Z'
+resumo: >-
+  A renomada banda Linkin Park está confirmada para o show de abertura da final
+  da Champions League em 31 de maio.
 ---
 
 A UEFA Champions League anunciou oficialmente que o grupo musical Linkin Park será responsável pelo entretenimento na final do torneio, que ocorrerá no dia 31 de maio. O anúncio veio acompanhado de um vídeo promocional que inclui um remix da famosa música “Numb”, de 2003, mesclando cenas da banda com momentos memoráveis do campeonato. O evento está agendado para as 16h na Allianz Arena, localizada em Munique, Alemanha.

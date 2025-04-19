@@ -1,14 +1,29 @@
 ---
-title: "CD PROJEKT RED Marcará Presença na Gamescom LATAM 2025"
-slug: "cd-projekt-red-estdio-de-the-witcher-confirma-presena-na-gamescom-latam-2025"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/Su3tmc5PZdoJbKCjD9LKl091_rw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T135327.501.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7mXC4wyClBiOBnWhvAoQ3Cz2plQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T135310.460.png"
-tags: ["CD PROJEKT RED", "gamescom latam 2025", "The Witcher", "Cyberpunk 2077", "indústria de jogos", "desenvolvimento de jogos", "localização de jogos"]
-keywords: "CD PROJEKT RED, gamescom latam 2025, The Witcher, Cyberpunk 2077, indústria de jogos, desenvolvimento de jogos, localização de jogos"
-author: "Pablo Moura"
-data: "2025-04-16T17:09:36.150Z"
+title: CD PROJEKT RED Marcará Presença na Gamescom LATAM 2025
+slug: cd-projekt-red-estdio-de-the-witcher-confirma-presena-na-gamescom-latam-2025
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/Su3tmc5PZdoJbKCjD9LKl091_rw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-16T135327.501.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7mXC4wyClBiOBnWhvAoQ3Cz2plQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-16T135310.460.png
+tags:
+  - CD PROJEKT RED
+  - gamescom latam 2025
+  - The Witcher
+  - Cyberpunk 2077
+  - indústria de jogos
+  - desenvolvimento de jogos
+  - localização de jogos
+keywords: >-
+  CD PROJEKT RED, gamescom latam 2025, The Witcher, Cyberpunk 2077, indústria de
+  jogos, desenvolvimento de jogos, localização de jogos
+author: Pablo Moura
+data: '2025-04-16T17:09:36.150Z'
+resumo: >-
+  O renomado estúdio de The Witcher e Cyberpunk 2077, CD PROJEKT RED, confirmou
+  sua participação na gamescom latam 2025, com destaque para dois painéis
+  importantes.
 ---
 
 A gamescom latam 2025, que será realizada em São Paulo, acaba de ganhar mais um grande nome em sua lista de participantes: a CD PROJEKT RED, criadora das aclamadas séries The Witcher e Cyberpunk 2077, estará presente no evento. O estúdio participará de dois painéis focados em temas cruciais para o futuro da indústria de jogos.

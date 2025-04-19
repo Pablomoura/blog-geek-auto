@@ -1,14 +1,28 @@
 ---
-title: "Harry Potter | Chefe de TV da Warner atualiza escalação do trio central"
-slug: "harry-potter-chefe-de-tv-da-warner-atualiza-escalao-do-trio-central"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/c0EbN0QACSQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/ORh0_ZRBr6762OVXZpbVHj-t0Vk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-11_155135.png"
-tags: ["Harry Potter", "Warner TV", "Channing Dungey", "casting", "David Fincher", "J.K. Rowling", "John Lithgow", "série Max"]
-keywords: "Harry Potter, Warner TV, Channing Dungey, casting, David Fincher, J.K. Rowling, John Lithgow, série Max"
-author: "Pablo Moura"
-data: "2025-04-11T19:08:48.795Z"
+title: Harry Potter | Chefe de TV da Warner atualiza escalação do trio central
+slug: harry-potter-chefe-de-tv-da-warner-atualiza-escalao-do-trio-central
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/c0EbN0QACSQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/ORh0_ZRBr6762OVXZpbVHj-t0Vk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-11_155135.png
+tags:
+  - Harry Potter
+  - Warner TV
+  - Channing Dungey
+  - casting
+  - David Fincher
+  - J.K. Rowling
+  - John Lithgow
+  - série Max
+keywords: >-
+  Harry Potter, Warner TV, Channing Dungey, casting, David Fincher, J.K.
+  Rowling, John Lithgow, série Max
+author: Pablo Moura
+data: '2025-04-11T19:08:48.795Z'
+resumo: >-
+  Executivo também brincou com a imprensa que 'estraga prazeres' revelando
+  informações
 ---
 
 O mundo de Harry Potter aguarda com expectativa a revelação de quem interpretará os icônicos personagens Harry, Ron e Hermione na nova série da Warner TV. Channing Dungey, diretor da divisão televisiva da Warner, em recente entrevista ao site Deadline, indicou que anúncios oficiais sobre o elenco podem ser feitos em breve. 'Ainda não estamos prontos para anunciar as crianças, ainda estamos trabalhando nesse processo', declarou Dungey.

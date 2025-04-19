@@ -1,14 +1,28 @@
 ---
-title: "Cardcaptor Sakura no YouTube: Nova Versão em Português da Canção de Tomoyo"
-slug: "cardcaptor-sakura-cano-de-tomoyo-ganha-nova-verso-em-portugus-assista"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/e-Wfuf9skOI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/-7q-6cbmzSYOOSb0VPpfCQjFIao=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-16_162429.png"
-tags: ["Cardcaptor Sakura", "Tomoyo", "anime", "dublagem", "NAISU", "YouTube", "música em português", "TV Cultura"]
-keywords: "Cardcaptor Sakura, Tomoyo, anime, dublagem, NAISU, YouTube, música em português, TV Cultura"
-author: "Pablo Moura"
-data: "2025-04-16T20:12:42.162Z"
+title: 'Cardcaptor Sakura no YouTube: Nova Versão em Português da Canção de Tomoyo'
+slug: cardcaptor-sakura-cano-de-tomoyo-ganha-nova-verso-em-portugus-assista
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/e-Wfuf9skOI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/-7q-6cbmzSYOOSb0VPpfCQjFIao=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-16_162429.png
+tags:
+  - Cardcaptor Sakura
+  - Tomoyo
+  - anime
+  - dublagem
+  - NAISU
+  - YouTube
+  - música em português
+  - TV Cultura
+keywords: >-
+  Cardcaptor Sakura, Tomoyo, anime, dublagem, NAISU, YouTube, música em
+  português, TV Cultura
+author: Pablo Moura
+data: '2025-04-16T20:12:42.162Z'
+resumo: >-
+  A canção de Tomoyo, de Cardcaptor Sakura, foi relançada em português na versão
+  remasterizada do anime disponível no canal NAISU no YouTube.
 ---
 
 Os fãs brasileiros de Cardcaptor Sakura tiveram uma grata surpresa no episódio 23 do anime, disponível no canal do YouTube NAISU. A personagem Tomoyo teve sua canção apresentada em uma nova versão dublada em português, uma novidade que não estava presente nas exibições originais do início dos anos 2000.

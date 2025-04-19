@@ -1,14 +1,30 @@
 ---
-title: "Anitta e Kenia Os ousam em cenas de 'En 4', já disponível digitalmente"
-slug: "anitta-aparece-nua-em-novo-clipe-de-en-4-confira"
-categoria: "MÚSICA"
-midia: "https://www.youtube.com/embed/1wA4YY151do?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/eqPEMho_unQFMe2uxxvJsaIMxYg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T122027.863.png"
-tags: ["Anitta", "Kenia Os", "En 4", "novo clipe", "música", "Coachella", "Netflix", "documentário", "pop mexicano", "plataformas digitais"]
-keywords: "Anitta, Kenia Os, En 4, novo clipe, música, Coachella, Netflix, documentário, pop mexicano, plataformas digitais"
-author: "Ana Luiza"
-data: "2025-04-18T16:15:49.050Z"
+title: 'Anitta e Kenia Os ousam em cenas de ''En 4'', já disponível digitalmente'
+slug: anitta-aparece-nua-em-novo-clipe-de-en-4-confira
+categoria: MÚSICA
+midia: 'https://www.youtube.com/embed/1wA4YY151do?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/eqPEMho_unQFMe2uxxvJsaIMxYg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-18T122027.863.png
+tags:
+  - Anitta
+  - Kenia Os
+  - En 4
+  - novo clipe
+  - música
+  - Coachella
+  - Netflix
+  - documentário
+  - pop mexicano
+  - plataformas digitais
+keywords: >-
+  Anitta, Kenia Os, En 4, novo clipe, música, Coachella, Netflix, documentário,
+  pop mexicano, plataformas digitais
+author: Ana Luiza
+data: '2025-04-18T16:15:49.050Z'
+resumo: >-
+  O novo clipe da música 'En 4' apresenta Anitta e a mexicana Kenia Os em cenas
+  audaciosas e já pode ser acessado em todas as plataformas digitais.
 ---
 
 A estrela do pop brasileiro, Anitta, lançou um vibrante novo videoclipe para a música 'En 4', uma colaboração com a cantora mexicana Kenia Os. O vídeo, que inclui cenas de nudez censurada de ambas as artistas, já está causando grande repercussão na internet. Confira o clipe e mergulhe neste novo hit.
