@@ -45,14 +45,6 @@ jobs:
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
           working-directory: .
           vercel-args: '--prod'
-      
-      - name: 🔄 Notificar IndexNow com URLs recentes
-        run: node scripts/ping-indexnow.js
-
-      - name: 🔍 Enviar URLs para o Google Indexing API
-        run: node scripts/send-to-indexing-api.js
-        env:
-          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
 
       - name: 🐦 Posta no Twitter
         run: node scripts/tweetador.js

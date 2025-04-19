@@ -553,43 +553,45 @@ async function buscarCriticasOmelete() {
     const slug = slugify(critica.titulo);
     if (!critica.titulo || postsExistentes.some((p) => slugify(p.slug) === slug)) continue;
 
-    console.log(`🎬 Capturando crítica: ${critica.titulo}`);
-    const { texto, midia, tipoMidia, imagensInternas, tweets, instagrams } = await extrairConteudoNoticia(critica.link);
+    try {
+      console.log(`🎬 Capturando crítica: ${critica.titulo}`);
+      const dados = await extrairConteudoNoticia(critica.link);
 
-    const novaCritica = {
-      ...critica,
-      texto,
-      midia: midia || critica.thumb || "/images/default.jpg",
-      tipoMidia: tipoMidia || "imagem",
-      slug,
-      fonte: "Omelete",
-      reescrito: false,
-    };
+      const novaCritica = {
+        ...critica,
+        ...dados,
+        texto: dados.texto,
+        midia: dados.midia || critica.thumb || "/images/default.jpg",
+        tipoMidia: dados.tipoMidia || "imagem",
+        slug,
+        fonte: "Omelete",
+        reescrito: false,
+      };
 
-    const reescrito = await reescreverNoticia(novaCritica.titulo, novaCritica.resumo, novaCritica.texto);
-    if (!reescrito) continue;
+      const reescrito = await reescreverNoticia(novaCritica.titulo, novaCritica.resumo, novaCritica.texto);
+      if (!reescrito) continue;
 
-    novaCritica.titulo = reescrito.titulo;
-    novaCritica.resumo = reescrito.resumo;
-    const embeds = [...(tweets || []), ...(instagrams || [])];
-    novaCritica.texto = inserirTweetsNoTexto(
-      inserirImagensNoTexto(reescrito.texto, imagensInternas),
-      embeds
-    );
+      novaCritica.titulo = reescrito.titulo;
+      novaCritica.resumo = reescrito.resumo;
+      const embeds = [...(dados.tweets || []), ...(dados.instagrams || [])];
+      novaCritica.texto = inserirTweetsNoTexto(
+        inserirImagensNoTexto(reescrito.texto, dados.imagensInternas),
+        embeds
+      );
 
-    const blocoFontes = await buscarFontesGoogle(novaCritica.titulo);
-    novaCritica.texto += blocoFontes;
+      const blocoFontes = await buscarFontesGoogle(novaCritica.titulo);
+      novaCritica.texto += blocoFontes;
 
-    novaCritica.reescrito = true;
+      novaCritica.reescrito = true;
 
-    const tags = reescrito.keywords ? reescrito.keywords.split(",").map((t) => t.trim()).filter(Boolean) : [];
-    const keywords = tags.join(", ");
+      const tags = reescrito.keywords ? reescrito.keywords.split(",").map((t) => t.trim()).filter(Boolean) : [];
+      const keywords = tags.join(", ");
 
-    const mdPath = path.join(contentDir, `${slug}.md`);
-    const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
-    const autorEscolhido = autores[Math.floor(Math.random() * autores.length)];
+      const mdPath = path.join(contentDir, `${slug}.md`);
+      const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
+      const autorEscolhido = autores[Math.floor(Math.random() * autores.length)];
 
-    const frontMatter = `---
+      const frontMatter = `---
 title: "${reescrito.titulo.replace(/"/g, "'")}"
 slug: "${slug}"
 categoria: "${novaCritica.categoria}"
@@ -613,35 +615,18 @@ direcao: "${novaCritica.direcao || ""}"
 elenco: ["${(Array.isArray(novaCritica.elenco) ? novaCritica.elenco : []).join('", "')}"]
 ---\n\n`;
 
-    const markdown = frontMatter + novaCritica.texto;
-    fs.writeFileSync(mdPath, markdown, "utf-8");
+      const markdown = frontMatter + novaCritica.texto;
+      fs.writeFileSync(mdPath, markdown, "utf-8");
 
-    novaCritica.data = new Date().toISOString();
+      novaCritica.data = new Date().toISOString();
 
-    resultados.push(novaCritica);
-    await enviarParaIndexingAPI(`https://www.geeknews.com.br/noticia/${slug}`);
+      resultados.push(novaCritica);
+      await enviarParaIndexingAPI(`https://www.geeknews.com.br/noticia/${slug}`);
+    } catch (err) {
+      console.warn("⚠️ Falha ao capturar crítica:", critica.titulo, err.message);
+      continue;
+    }
   }
 
   return resultados;
 }
-(async () => {
-  const force = process.argv.includes("--force");
-
-  if (force) {
-    console.log("⚠️ Modo FORÇADO: limpando posts existentes...");
-    postsExistentes = [];
-  }
-
-  const novasNoticias = await buscarNoticiasOmelete();
-  const novasCriticas = await buscarCriticasOmelete();
-
-  const novosPosts = [...novasNoticias, ...novasCriticas];
-
-  if (novosPosts.length > 0) {
-    const todas = force ? novosPosts : [...postsExistentes, ...novosPosts];
-    fs.writeFileSync(jsonFilePath, JSON.stringify(todas, null, 2), "utf-8");
-    console.log(`✅ ${novosPosts.length} posts salvos (notícias + críticas).`);
-  } else {
-    console.log("🔄 Nenhuma nova notícia ou crítica encontrada.");
-  }
-})();
