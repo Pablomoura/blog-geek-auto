@@ -27,6 +27,7 @@ import InstagramLoader from "@/components/InstagramLoader";
 import autores from "@/data/autores.json";
 import CompartilharNoticia from "@/components/CompartilharNoticia";
 import FichaTecnica from "@/components/FichaTecnica";
+import PostsRelacionados, { getPostsRelacionados } from "@/components/PostsRelacionados";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -213,7 +214,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
     }
 
     const todosPosts: PostResumo[] = await loadPostCache();
-    const relacionados = todosPosts.filter((post) => post.slug !== slug && post.categoria === data.categoria).slice(0, 3);
+    const relacionados = getPostsRelacionados(slug, data.tags || [], data.categoria, todosPosts);
     const maisLidas = [...todosPosts].sort((a, b) => b.textoLength - a.textoLength).slice(0, 3);
 
     return (
@@ -375,38 +376,8 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   </div>
                 )}
                 
-                {relacionados.length > 0 && (
-                <section className="mt-12 border-t border-gray-700 pt-8">
-                  <h2 className="text-2xl font-bold mb-6 text-neutral-900 dark:text-white">🔗 Posts relacionados</h2>
-                  <div className="space-y-6">
-                    {relacionados.map((post, index) => (
-                      <Link
-                        href={`/noticia/${post.slug}`}
-                        key={index}
-                        className="flex gap-4 bg-white dark:bg-gray-900 p-4 rounded-lg shadow hover:shadow-md hover:bg-gray-100 dark:hover:bg-gray-800 transition overflow-hidden"
-                      >
-                        {post.thumb && (
-                          <Image
-                            src={post.thumb}
-                            alt={post.titulo}
-                            width={128}
-                            height={96}
-                            className="w-32 h-24 object-cover rounded-md"
-                          />
-                        )}
-                        <div className="flex flex-col justify-center">
-                          <p className="text-orange-500 text-xs font-bold uppercase mb-1">{post.categoria}</p>
-                          <h3 className="text-sm font-semibold text-neutral-900 dark:text-white leading-snug">
-                            {post.titulo}
-                          </h3>
-                          <p className="text-xs text-gray-400 dark:text-gray-500 mt-1">{post.tempoLeitura} min de leitura</p>
-                        </div>
-                      </Link>
-                    ))}
-                  </div>
-                </section>
-              )}
-            
+                <PostsRelacionados posts={relacionados} />
+
               <div id="disqus_thread" className="mt-12" />
               <LazyDisqus slug={slug} />
               <Script

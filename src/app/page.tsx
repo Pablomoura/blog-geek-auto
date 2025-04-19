@@ -10,6 +10,8 @@ import Especiais from "@/components/Especiais";
 import UltimasNoticias from "@/components/UltimasNoticias";
 import matter from "gray-matter";
 import Image from "next/image";
+import SecaoCriticasRecentes from "@/components/SecaoCriticasRecentes";
+import { PostResumo } from "@/types/post";
 
 
 type Banner = {
@@ -44,10 +46,14 @@ interface Post {
   texto: string;
   tempoLeitura: number;
   resumo: string;
-  story?: boolean; 
+  story?: boolean;
   tags?: string[];
   autor: string;
   reescrito?: boolean;
+  tipo?: string;
+  textoLength: number;
+  capaObra?: string;
+  tituloPortugues?: string;
 }
 
 export const metadata = {
@@ -115,7 +121,11 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
         story: data.story === true,
         tags: data.tags || [],
         autor: data.author || "Equipe GeekNews",
-      });
+        tipo: data.tipo || "",
+        textoLength: content.length,
+        capaObra: data.capaObra || "",
+        tituloPortugues: data.tituloPortugues || "",
+      });                  
     }
   }
 
@@ -146,6 +156,10 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
   const bannerGames = cache.games;
   const bannerSeries = cache.series;
 
+  const criticasRecentes: PostResumo[] = posts
+  .filter((p) => p.tipo === "critica")
+  .sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime())
+  .slice(0, 6);
 
 
   return (
@@ -198,6 +212,10 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
         </div>
       </section>
       <Especiais especiais={especiaisMapeadoPorTag} />
+
+      <SecaoCriticasRecentes posts={criticasRecentes} />
+
+
       <main className="max-w-6xl mx-auto px-6 py-10">
         {/* Seção principal com duas colunas */}
         <div className="flex flex-col lg:flex-row gap-10">

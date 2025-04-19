@@ -3,7 +3,7 @@ name: Scrape automático
 on:
   workflow_dispatch: # permite rodar manualmente
   schedule:
-    - cron: '0 * * * *' # roda a cada hora
+    - cron: '0 11-23,0,1 * * *'
 
 permissions:
   contents: write # permite push com GITHUB_TOKEN

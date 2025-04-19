@@ -8,5 +8,8 @@ export type PostResumo = {
     tags?: string[];
     tempoLeitura: number;
     textoLength: number;
+    tipo?: string;
+    capaObra?: string;
+    tituloPortugues?: string;
   };
   
