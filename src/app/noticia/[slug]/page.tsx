@@ -26,6 +26,7 @@ import JsonLdNoticia from "@/components/JsonLdNoticia";
 import InstagramLoader from "@/components/InstagramLoader";
 import autores from "@/data/autores.json";
 import CompartilharNoticia from "@/components/CompartilharNoticia";
+import FichaTecnica from "@/components/FichaTecnica";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -304,6 +305,21 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
 
                 <CompartilharNoticia titulo={data.title} />
                   {/* ✅ Links internos */}
+
+                  {data.tipo === "critica" && data.notaCritico && (
+                    <FichaTecnica
+                      capa={data.capaObra || data.thumb}
+                      titulo={data.title}
+                      tituloOriginal={data.tituloOriginal}
+                      nota={data.notaCritico}
+                      ano={data.ano}
+                      pais={data.pais}
+                      classificacao={data.classificacao}
+                      duracao={data.duracao}
+                      direcao={data.direcao}
+                      elenco={data.elenco}
+                    />
+                  )}
 
                 {/* ✅ Tags clicáveis */}
                 {Array.isArray(data.tags) && data.tags.length > 0 && (

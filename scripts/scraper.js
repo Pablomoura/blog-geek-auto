@@ -157,6 +157,46 @@ async function extrairConteudoNoticia(url) {
     await autoScroll(page);
     await page.waitForSelector("p", { timeout: 10000 });
 
+    // 🟡 Extrair ficha técnica se for crítica
+    let notaCritico = null;
+    let direcao = "";
+    let elenco = "";
+    let ficha = { tituloOriginal: "", ano: "", pais: "", classificacao: "", duracao: "" };
+
+    try {
+      const jsonLdRaw = await page.$eval('script[type="application/ld+json"]', el => el.innerText);
+      const jsonLd = JSON.parse(jsonLdRaw);
+      notaCritico = Number(jsonLd.aggregateRating?.ratingValue || null);
+      direcao = jsonLd.director?.map(d => d.name).join(", ") || "";
+      elenco = jsonLd.actor?.map(a => a.name).join(", ") || "";
+    } catch {
+      console.warn("⚠️ JSON-LD não encontrado ou inválido");
+    }
+
+    ficha = await page.evaluate(() => {
+      const pegaTexto = (label) => {
+        const el = Array.from(document.querySelectorAll(".overview .item")).find(p => p.innerText.includes(label));
+        return el ? el.innerText.replace(label, "").trim() : "";
+      };
+
+      return {
+        tituloOriginal: document.querySelector(".overview h3.subtitle")?.innerText || "",
+        ano: pegaTexto("Ano:"),
+        pais: pegaTexto("País:"),
+        classificacao: pegaTexto("Classificação:"),
+        duracao: pegaTexto("Duração:")
+      };
+    });
+
+    // 🖼️ Capa da obra (imagem oficial da crítica)
+    const capaObra = await page.evaluate(() => {
+      const img = document.querySelector(".list_picture img");
+      let src = img?.getAttribute("src") || "";
+      if (src.startsWith("//")) src = "https:" + src;
+      if (src && !src.startsWith("http")) src = "https:" + src;
+      return src || null;
+    });
+
     // 🎯 Extrair imagens internas
     const imagensInternas = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("div.media__wrapper__image img"))
@@ -177,7 +217,6 @@ async function extrairConteudoNoticia(url) {
     });
 
     // ✅ Embeds do Instagram via iframe
-    // após extrair via page.evaluate
     let instagramIframes = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("iframe[src*='instagram.com']"))
         .map((iframe) => iframe.getAttribute("src") || "")
@@ -185,11 +224,9 @@ async function extrairConteudoNoticia(url) {
     });
     instagramIframes = instagramIframes.map((src) => {
       const url = limparUrlInstagram(src);
-      return `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"><a href="${url}">Ver post no Instagram</a></blockquote>`;
+      return `<blockquote class=\"instagram-media\" data-instgrm-permalink=\"${url}\" data-instgrm-version=\"14\" style=\"width:100%; max-width:540px; margin:1rem auto;\"><a href=\"${url}\">Ver post no Instagram</a></blockquote>`;
     });
-      
 
-    // ✅ Fallback: links diretos para posts
     let instagramLinks = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("a[href*='instagram.com/p/']"))
         .map((a) => a.getAttribute("href"))
@@ -197,25 +234,22 @@ async function extrairConteudoNoticia(url) {
     });
     instagramLinks = instagramLinks.map((href) => {
       const url = limparUrlInstagram(href);
-      return `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"><a href="${url}">Ver post no Instagram</a></blockquote>`;
+      return `<blockquote class=\"instagram-media\" data-instgrm-permalink=\"${url}\" data-instgrm-version=\"14\" style=\"width:100%; max-width:540px; margin:1rem auto;\"><a href=\"${url}\">Ver post no Instagram</a></blockquote>`;
     });
-        
 
     const instagrams = [...instagramIframes, ...instagramLinks];
 
-    // ✅ NOVO: extrair tweets a partir dos iframes
     const tweets = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("iframe[src*='twitter.com']"))
         .map((iframe) => {
           const tweetId = iframe.getAttribute("data-tweet-id") || iframe.src.match(/status\/(\d{10,25})/)?.[1];
           return tweetId
-            ? `<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/${tweetId}"></a></blockquote>`
+            ? `<blockquote class=\"twitter-tweet\"><a href=\"https://twitter.com/user/status/${tweetId}\"></a></blockquote>`
             : null;
         })
         .filter(Boolean);
-    });       
+    });
 
-    // 🎯 Extrair parágrafos de texto
     const texto = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("p"))
         .map((p) => p.innerText.trim())
@@ -226,7 +260,6 @@ async function extrairConteudoNoticia(url) {
         .join("\\n");
     });
 
-    // 🎯 Extrair mídia principal (vídeo ou imagem)
     const midia = await page.evaluate(() => {
       const video = document.querySelector("iframe[src*='youtube']")?.getAttribute("src");
       let imagem =
@@ -239,12 +272,35 @@ async function extrairConteudoNoticia(url) {
     const tipoMidia = midia?.includes("youtube") ? "video" : "imagem";
 
     await browser.close();
-    return { texto, midia, tipoMidia, imagensInternas, tweets, instagrams };
+    return {
+      texto,
+      midia,
+      tipoMidia,
+      imagensInternas,
+      tweets,
+      instagrams,
+      notaCritico,
+      tituloOriginal: ficha.tituloOriginal,
+      ano: ficha.ano,
+      pais: ficha.pais,
+      classificacao: ficha.classificacao,
+      duracao: ficha.duracao,
+      direcao,
+      elenco,
+      capaObra
+    };
 
   } catch (err) {
     await browser.close();
     console.error("❌ Erro ao extrair notícia:", err.message);
-    return { texto: "", midia: null, tipoMidia: "imagem", imagensInternas: [], tweets: [] };
+    return {
+      texto: "",
+      midia: null,
+      tipoMidia: "imagem",
+      imagensInternas: [],
+      tweets: [],
+      instagrams: []
+    };
   }
 }
 
@@ -442,5 +498,137 @@ function limparUrlInstagram(url) {
     console.log(`✅ ${novasNoticias.length} notícias salvas.`);
   } else {
     console.log("🔄 Nenhuma nova notícia encontrada.");
+  }
+})();
+
+async function buscarCriticasOmelete() {
+  const browser = await puppeteer.launch({ headless: "new", args: ["--no-sandbox"] });
+  const page = await browser.newPage();
+  await page.setUserAgent("Mozilla/5.0");
+
+  await page.goto("https://www.omelete.com.br/criticas", { waitUntil: "networkidle2" });
+  await autoScroll(page);
+
+  console.log("🔍 Buscando críticas...");
+
+  const criticas = await page.evaluate(() => {
+    return Array.from(document.querySelectorAll(".featured__head")).map((el) => {
+      const aTag = el.querySelector("a");
+      const linkRelativo = aTag?.getAttribute("href") || "";
+      const titulo = el.querySelector(".mark__title h2")?.innerText.trim() || "";
+      const categoria = el.querySelector(".tag p")?.innerText.trim() || "";
+      const resumo = el.parentElement?.querySelector(".featured__subtitle h3")?.innerText.trim() || "";
+
+      let thumb = el.querySelector("img")?.getAttribute("data-src") || el.querySelector("img")?.getAttribute("src");
+      if (thumb && !thumb.startsWith("http")) thumb = `https:${thumb}`;
+      if (!thumb || thumb.includes("loading.svg") || thumb.startsWith("data:image")) thumb = null;
+
+      return {
+        titulo,
+        categoria,
+        resumo,
+        link: `https://www.omelete.com.br${linkRelativo}`,
+        thumb,
+      };
+    });
+  });
+
+  await browser.close();
+
+  const resultados = [];
+
+  for (const critica of criticas.slice(0, MAX_POSTS)) {
+    const slug = slugify(critica.titulo);
+    if (!critica.titulo || postsExistentes.some((p) => slugify(p.slug) === slug)) continue;
+
+    console.log(`🎬 Capturando crítica: ${critica.titulo}`);
+    const { texto, midia, tipoMidia, imagensInternas, tweets, instagrams } = await extrairConteudoNoticia(critica.link);
+
+    const novaCritica = {
+      ...critica,
+      texto,
+      midia: midia || critica.thumb || "/images/default.jpg",
+      tipoMidia: tipoMidia || "imagem",
+      slug,
+      fonte: "Omelete",
+      reescrito: false,
+    };
+
+    const reescrito = await reescreverNoticia(novaCritica.titulo, novaCritica.resumo, novaCritica.texto);
+    if (!reescrito) continue;
+
+    novaCritica.titulo = reescrito.titulo;
+    novaCritica.resumo = reescrito.resumo;
+    const embeds = [...(tweets || []), ...(instagrams || [])];
+    novaCritica.texto = inserirTweetsNoTexto(
+      inserirImagensNoTexto(reescrito.texto, imagensInternas),
+      embeds
+    );
+
+    const blocoFontes = await buscarFontesGoogle(novaCritica.titulo);
+    novaCritica.texto += blocoFontes;
+
+    novaCritica.reescrito = true;
+
+    const tags = reescrito.keywords ? reescrito.keywords.split(",").map((t) => t.trim()).filter(Boolean) : [];
+    const keywords = tags.join(", ");
+
+    const mdPath = path.join(contentDir, `${slug}.md`);
+    const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
+    const autorEscolhido = autores[Math.floor(Math.random() * autores.length)];
+
+    const frontMatter = `---
+title: "${reescrito.titulo.replace(/"/g, "'")}"
+slug: "${slug}"
+categoria: "${novaCritica.categoria}"
+tipo: "critica"
+midia: "${novaCritica.midia}"
+tipoMidia: "${novaCritica.tipoMidia}"
+thumb: "${novaCritica.thumb || ""}"
+tags: ["${tags.join('", "')}"]
+keywords: "${keywords}"
+author: "${autorEscolhido}"
+data: "${new Date().toISOString()}"
+capaObra: "${novaCritica.capaObra || ""}"
+notaCritico: ${novaCritica.notaCritico || "null"}
+tituloOriginal: "${novaCritica.tituloOriginal || ""}"
+ano: "${novaCritica.ano || ""}"
+pais: "${novaCritica.pais || ""}"
+classificacao: "${novaCritica.classificacao || ""}"
+duracao: "${novaCritica.duracao || ""}"
+direcao: "${novaCritica.direcao || ""}"
+elenco: "${novaCritica.elenco || ""}"
+---\n\n`;
+
+    const markdown = frontMatter + novaCritica.texto;
+    fs.writeFileSync(mdPath, markdown, "utf-8");
+
+    novaCritica.data = new Date().toISOString();
+
+    resultados.push(novaCritica);
+    await enviarParaIndexingAPI(`https://www.geeknews.com.br/noticia/${slug}`);
+  }
+
+  return resultados;
+}
+(async () => {
+  const force = process.argv.includes("--force");
+
+  if (force) {
+    console.log("⚠️ Modo FORÇADO: limpando posts existentes...");
+    postsExistentes = [];
+  }
+
+  const novasNoticias = await buscarNoticiasOmelete();
+  const novasCriticas = await buscarCriticasOmelete();
+
+  const novosPosts = [...novasNoticias, ...novasCriticas];
+
+  if (novosPosts.length > 0) {
+    const todas = force ? novosPosts : [...postsExistentes, ...novosPosts];
+    fs.writeFileSync(jsonFilePath, JSON.stringify(todas, null, 2), "utf-8");
+    console.log(`✅ ${novosPosts.length} posts salvos (notícias + críticas).`);
+  } else {
+    console.log("🔄 Nenhuma nova notícia ou crítica encontrada.");
   }
 })();
