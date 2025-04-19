@@ -309,7 +309,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   {data.tipo === "critica" && data.notaCritico && (
                     <FichaTecnica
                       capa={data.capaObra || data.thumb}
-                      titulo={data.title}
+                      tituloPortugues={data.tituloPortugues || data.title}
                       tituloOriginal={data.tituloOriginal}
                       nota={data.notaCritico}
                       ano={data.ano}

@@ -10,15 +10,16 @@ tags: ["Nas Terras Perdidas", "Paul W.S. Anderson", "Milla Jovovich", "Dave Baut
 keywords: "Nas Terras Perdidas, Paul W.S. Anderson, Milla Jovovich, Dave Bautista, George R.R. Martin, cinema expressionista, tecnologia Unreal, crítica de cinema"
 author: "Ana Luiza"
 data: "2025-04-19T00:41:35.945Z"
-capaObra: ""
-notaCritico: null
-tituloOriginal: ""
-ano: ""
-pais: ""
-classificacao: ""
-duracao: ""
-direcao: ""
-elenco: ""
+capaObra: "https://cdn.ome.lt/E3RnTKeBQHMlY8ToDlRNiFIvA0I=/200x0/smart/extras/capas/nasterrasperdidasposter.jpg"
+notaCritico: 4
+tituloPortugues: "Nas Terras Perdidas"
+tituloOriginal: "In the Lost Lands"
+ano: "2025"
+pais: "EUA/Alemanha"
+classificacao: " 16 anos"
+duracao: " 101 min"
+direcao: "Paul W.S. Anderson"
+elenco: "Dave Bautista , Milla Jovovich "
 ---
 
 Paul W.S. Anderson sempre explorou caminhos próprios no cinema, longe de seguir as normas tradicionais do gênero, e isso é evidente em 'Nas Terras Perdidas'. Neste filme, ele recebe novamente o apoio da produtora alemã Constantin Film para implementar um estilo visual expressionista, uma escolha que remete aos clássicos do cinema de horror alemão e evoca comparações com Fritz Lang.

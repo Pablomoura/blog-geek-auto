@@ -160,42 +160,53 @@ async function extrairConteudoNoticia(url) {
     // 🟡 Extrair ficha técnica se for crítica
     let notaCritico = null;
     let direcao = "";
-    let elenco = "";
-    let ficha = { tituloOriginal: "", ano: "", pais: "", classificacao: "", duracao: "" };
+    let elenco = [];
+    let ficha = {
+      tituloOriginal: "",
+      tituloObra: "",
+      tituloPortugues: "",
+      ano: "",
+      pais: "",
+      classificacao: "",
+      duracao: "",
+      capaObra: ""
+    };
 
     try {
       const jsonLdRaw = await page.$eval('script[type="application/ld+json"]', el => el.innerText);
       const jsonLd = JSON.parse(jsonLdRaw);
       notaCritico = Number(jsonLd.aggregateRating?.ratingValue || null);
       direcao = jsonLd.director?.map(d => d.name).join(", ") || "";
-      elenco = jsonLd.actor?.map(a => a.name).join(", ") || "";
+      elenco = jsonLd.actor?.map(a => a.name) || [];
     } catch {
       console.warn("⚠️ JSON-LD não encontrado ou inválido");
     }
 
-    ficha = await page.evaluate(() => {
+    const fichaExtra = await page.evaluate(() => {
       const pegaTexto = (label) => {
-        const el = Array.from(document.querySelectorAll(".overview .item")).find(p => p.innerText.includes(label));
+        const el = Array.from(document.querySelectorAll(".overview .item"))
+          .find(p => p.innerText.includes(label));
         return el ? el.innerText.replace(label, "").trim() : "";
       };
 
+      const capaObra = document.querySelector(".overview__content .list__picture img")?.getAttribute("src") || "";
+      const tituloOriginal = document.querySelector(".overview h3.subtitle")?.innerText || "";
+      const tituloObra = document.querySelector(".overview h2.title")?.innerText || "";
+      const tituloPortugues = document.querySelector(".overview .title")?.textContent?.trim() || "";
+
       return {
-        tituloOriginal: document.querySelector(".overview h3.subtitle")?.innerText || "",
+        tituloOriginal,
+        tituloObra,
+        tituloPortugues,
         ano: pegaTexto("Ano:"),
         pais: pegaTexto("País:"),
         classificacao: pegaTexto("Classificação:"),
-        duracao: pegaTexto("Duração:")
+        duracao: pegaTexto("Duração:"),
+        capaObra: capaObra.startsWith("//") ? "https:" + capaObra : capaObra
       };
     });
 
-    // 🖼️ Capa da obra (imagem oficial da crítica)
-    const capaObra = await page.evaluate(() => {
-      const img = document.querySelector(".list_picture img");
-      let src = img?.getAttribute("src") || "";
-      if (src.startsWith("//")) src = "https:" + src;
-      if (src && !src.startsWith("http")) src = "https:" + src;
-      return src || null;
-    });
+    Object.assign(ficha, fichaExtra);
 
     // 🎯 Extrair imagens internas
     const imagensInternas = await page.evaluate(() => {
@@ -224,7 +235,7 @@ async function extrairConteudoNoticia(url) {
     });
     instagramIframes = instagramIframes.map((src) => {
       const url = limparUrlInstagram(src);
-      return `<blockquote class=\"instagram-media\" data-instgrm-permalink=\"${url}\" data-instgrm-version=\"14\" style=\"width:100%; max-width:540px; margin:1rem auto;\"><a href=\"${url}\">Ver post no Instagram</a></blockquote>`;
+      return `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"><a href="${url}">Ver post no Instagram</a></blockquote>`;
     });
 
     let instagramLinks = await page.evaluate(() => {
@@ -234,7 +245,7 @@ async function extrairConteudoNoticia(url) {
     });
     instagramLinks = instagramLinks.map((href) => {
       const url = limparUrlInstagram(href);
-      return `<blockquote class=\"instagram-media\" data-instgrm-permalink=\"${url}\" data-instgrm-version=\"14\" style=\"width:100%; max-width:540px; margin:1rem auto;\"><a href=\"${url}\">Ver post no Instagram</a></blockquote>`;
+      return `<blockquote class="instagram-media" data-instgrm-permalink="${url}" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"><a href="${url}">Ver post no Instagram</a></blockquote>`;
     });
 
     const instagrams = [...instagramIframes, ...instagramLinks];
@@ -242,9 +253,9 @@ async function extrairConteudoNoticia(url) {
     const tweets = await page.evaluate(() => {
       return Array.from(document.querySelectorAll("iframe[src*='twitter.com']"))
         .map((iframe) => {
-          const tweetId = iframe.getAttribute("data-tweet-id") || iframe.src.match(/status\/(\d{10,25})/)?.[1];
+          const tweetId = iframe.getAttribute("data-tweet-id") || (iframe.src.match(/status\/(\d{10,25})/) || [])[1];
           return tweetId
-            ? `<blockquote class=\"twitter-tweet\"><a href=\"https://twitter.com/user/status/${tweetId}\"></a></blockquote>`
+            ? `<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/${tweetId}"></a></blockquote>`
             : null;
         })
         .filter(Boolean);
@@ -257,7 +268,7 @@ async function extrairConteudoNoticia(url) {
           t.length > 50 &&
           !/Omelete|Política|Privacidade|Assine|comentários/i.test(t)
         )
-        .join("\\n");
+        .join("\n");
     });
 
     const midia = await page.evaluate(() => {
@@ -281,15 +292,16 @@ async function extrairConteudoNoticia(url) {
       instagrams,
       notaCritico,
       tituloOriginal: ficha.tituloOriginal,
+      tituloObra: ficha.tituloObra,
+      tituloPortugues: ficha.tituloPortugues,
       ano: ficha.ano,
       pais: ficha.pais,
       classificacao: ficha.classificacao,
       duracao: ficha.duracao,
       direcao,
       elenco,
-      capaObra
+      capaObra: ficha.capaObra
     };
-
   } catch (err) {
     await browser.close();
     console.error("❌ Erro ao extrair notícia:", err.message);
@@ -589,6 +601,7 @@ tags: ["${tags.join('", "')}"]
 keywords: "${keywords}"
 author: "${autorEscolhido}"
 data: "${new Date().toISOString()}"
+tituloPortugues: "${novaCritica.tituloPortugues || ""}"
 capaObra: "${novaCritica.capaObra || ""}"
 notaCritico: ${novaCritica.notaCritico || "null"}
 tituloOriginal: "${novaCritica.tituloOriginal || ""}"
@@ -597,7 +610,7 @@ pais: "${novaCritica.pais || ""}"
 classificacao: "${novaCritica.classificacao || ""}"
 duracao: "${novaCritica.duracao || ""}"
 direcao: "${novaCritica.direcao || ""}"
-elenco: "${novaCritica.elenco || ""}"
+elenco: ["${(Array.isArray(novaCritica.elenco) ? novaCritica.elenco : []).join('", "')}"]
 ---\n\n`;
 
     const markdown = frontMatter + novaCritica.texto;

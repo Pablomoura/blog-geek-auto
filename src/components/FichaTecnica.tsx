@@ -3,20 +3,20 @@ import { FaStar } from "react-icons/fa6";
 
 type Props = {
   capa: string;
-  titulo: string;
+  tituloPortugues: string;
   tituloOriginal: string;
   nota: number;
-  ano: number;
+  ano: string;
   pais: string;
   classificacao: string;
   duracao: string;
   direcao: string;
-  elenco: string[];
+  elenco: string[] | string;
 };
 
 export default function FichaTecnica({
   capa,
-  titulo,
+  tituloPortugues,
   tituloOriginal,
   nota,
   ano,
@@ -31,7 +31,7 @@ export default function FichaTecnica({
       <div className="flex-shrink-0">
         <Image
           src={capa}
-          alt={titulo}
+          alt={tituloPortugues}
           width={200}
           height={300}
           className="rounded-lg object-cover"
@@ -51,16 +51,27 @@ export default function FichaTecnica({
           </span>
         </div>
 
-        <h2 className="text-2xl font-bold text-neutral-900 dark:text-white mb-1">{titulo}</h2>
-        <h3 className="text-md italic text-gray-500 mb-4">{tituloOriginal}</h3>
+        <h2 className="text-2xl font-bold text-neutral-900 dark:text-white mb-1">
+          {tituloPortugues}
+        </h2>
+        {tituloOriginal && (
+          <h3 className="text-md italic text-gray-500 mb-4">{tituloOriginal}</h3>
+        )}
 
         <ul className="text-sm space-y-1 text-neutral-700 dark:text-gray-300">
-          <li><strong className="font-semibold">Ano:</strong> {ano}</li>
-          <li><strong className="font-semibold">País:</strong> {pais}</li>
-          <li><strong className="font-semibold">Classificação:</strong> {classificacao}</li>
-          <li><strong className="font-semibold">Duração:</strong> {duracao}</li>
-          <li><strong className="font-semibold">Direção:</strong> {direcao}</li>
-          <li><strong className="font-semibold">Elenco:</strong> {Array.isArray(elenco) ? elenco.join(", ") : elenco}</li>
+          {ano && <li><strong className="font-semibold">Ano:</strong> {ano}</li>}
+          {pais && <li><strong className="font-semibold">País:</strong> {pais}</li>}
+          {classificacao && (
+            <li><strong className="font-semibold">Classificação:</strong> {classificacao}</li>
+          )}
+          {duracao && <li><strong className="font-semibold">Duração:</strong> {duracao}</li>}
+          {direcao && <li><strong className="font-semibold">Direção:</strong> {direcao}</li>}
+          {elenco && (
+            <li>
+              <strong className="font-semibold">Elenco:</strong>{" "}
+              {Array.isArray(elenco) ? elenco.join(", ") : elenco}
+            </li>
+          )}
         </ul>
       </div>
     </div>
