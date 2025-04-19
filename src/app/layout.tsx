@@ -6,6 +6,7 @@ import Link from "@/components/SmartLink"; // usa o seu link customizado
 import CookieBanner from '@/components/CookieBanner';
 import PageLoader from "@/components/PageLoader";
 import { LoadingProvider } from "@/app/loading-context";
+import BotaoTrocarTema from "@/components/BotaoTrocarTema";
 
 export const metadata: Metadata = {
   title: "GeekNews - O melhor do mundo geek",
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="pt-BR" className="dark">
+    <html lang="pt-BR" className="">
       <head>
         {/* Google Analytics */}
         <Script
@@ -30,9 +31,24 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             gtag('config', 'G-SMFR890H32');
           `}
         </Script>
+        <Script id="set-theme" strategy="beforeInteractive">
+          {`
+            try {
+              const theme = localStorage.getItem("theme");
+              if (theme === "dark") {
+                document.documentElement.classList.add("dark");
+              } else if (theme === "light") {
+                document.documentElement.classList.remove("dark");
+              }
+            } catch (_) {}
+          `}
+        </Script>
+
         
       </head>
-      <body className="bg-white text-neutral-900 dark:bg-black dark:text-white font-sans">
+      <body className="text-neutral-900 dark:text-white font-sans">
+      <div className="bg-white dark:bg-black text-neutral-900 dark:text-white transition-colors duration-300">
+        <BotaoTrocarTema />
         <LoadingProvider>
         <PageLoader />
         <CookieBanner />
@@ -80,6 +96,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   </div>
 </footer>
         </LoadingProvider>
+        </div>
       </body>
     </html>
   );
