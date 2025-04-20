@@ -47,7 +47,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         
       </head>
       <body className="text-neutral-900 dark:text-white font-sans">
-      <div className="bg-white dark:bg-black text-neutral-900 dark:text-white transition-colors duration-300">
+      <div className="bg-white dark:bg-black text-neutral-900 dark:text-white transition-all duration-300 ease-in-out">
         <BotaoTrocarTema />
         <LoadingProvider>
         <PageLoader />
