@@ -7,6 +7,7 @@ import CookieBanner from '@/components/CookieBanner';
 import PageLoader from "@/components/PageLoader";
 import { LoadingProvider } from "@/app/loading-context";
 import BotaoTrocarTema from "@/components/BotaoTrocarTema";
+import CookieScripts from "@/components/CookieScripts";
 
 export const metadata: Metadata = {
   title: "GeekNews - O melhor do mundo geek",
@@ -23,14 +24,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           src="https://www.googletagmanager.com/gtag/js?id=G-SMFR890H32"
           strategy="afterInteractive"
         />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-SMFR890H32');
-          `}
-        </Script>
+        <CookieScripts />
         <Script id="set-theme" strategy="beforeInteractive">
           {`
             try {
@@ -49,6 +43,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="text-neutral-900 dark:text-white font-sans">
       <div className="bg-white dark:bg-black text-neutral-900 dark:text-white transition-all duration-300 ease-in-out">
         <BotaoTrocarTema />
+        <CookieScripts />
         <LoadingProvider>
         <PageLoader />
         <CookieBanner />
