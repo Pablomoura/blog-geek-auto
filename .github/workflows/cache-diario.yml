@@ -2,7 +2,7 @@ name: Atualizar cache de posts
 
 on:
   schedule:
-    - cron: "0 * * * *"  # roda a cada hora
+    - cron: '0 11-23,0,1 * * *' # Executa a cada hora entre 11h e 1h do dia seguinte
   workflow_dispatch:     # Permite executar manualmente no GitHub
 
 jobs:
