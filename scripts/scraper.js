@@ -322,11 +322,11 @@ async function reescreverNoticia(titulo, resumo, texto) {
 Siga estas diretrizes:
 - Crie um título impactante, original e envolvente, com linguagem direta e relevante para o público geek, sem clickbait.
 - Gere um resumo de 1 a 2 frases que capture o interesse do leitor e destaque o que há de mais relevante na matéria.
-- Mantenha o estilo jornalístico informativo, com linguagem acessível e tom conversacional leve.
+- Mantenha o estilo jornalístico informativo, com linguagem acessível para o publico geek.
 - Utilize palavras-chave relevantes e termos relacionados de forma natural, priorizando expressões com potencial de busca.
 - Use parágrafos curtos com duas quebras de linha (\n\n) para melhorar a escaneabilidade.
 - Organize conteúdos com vários lançamentos usando subtítulos em Markdown, destacando nome da obra, data de estreia, plataforma e pontos de interesse.
-- Para notícias gerais, adicione contexto, histórico, estatísticas ou nomes importantes.
+- Para notícias gerais, adicione contexto, histórico, estatísticas ou nomes importantes respeitando sempre o H2, H3, H4 e etc.
 - Utilize recursos como listas, blocos em negrito e perguntas estratégicas para aumentar o engajamento.
 - Nunca omita informações importantes. Corrija erros e evite repetições. Torne o texto original, escaneável e fluido.
 - O texto final deve funcionar bem tanto para SEO (Google Search) quanto para atração no Discover. Pense como um editor do Google News. 
