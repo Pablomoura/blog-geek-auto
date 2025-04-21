@@ -2,7 +2,7 @@
 title: "Wandinha Retorna: Netflix Revela Pôster e Novidades do Elenco para a Segunda Temporada"
 slug: "wandinha-netflix-lana-pster-da-2-temporada"
 categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/oFWsdTxyKt4?showinfo=0&enablejsapi=1"
+midia: "https://www.youtube.com/embed/R_taczjSuS8?showinfo=0&enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/U4_Anb--Y8XFACjNXoGh4dJ0RCg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_161451.png"
 tags: ["Wandinha", "Netflix", "segunda temporada", "Jenna Ortega", "pôster", "novidades no elenco", "Lady Gaga", "Steve Buscemi"]
