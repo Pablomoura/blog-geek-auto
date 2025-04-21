@@ -1,7 +1,7 @@
 ---
 title: "A evolução de Ichigo Kurosaki: todas as formas e poderes do protagonista de Bleach"
 slug: "evolucao-ichigo-kurosaki-bleach"
-categoria: "Animes e Mangás"
+categoria: "MANGÁS E ANIMES"
 resumo: "Conheça todas as formas e poderes de Ichigo Kurosaki em Bleach, da Shikai ao Quincy. Entenda a evolução do protagonista e o que cada transformação representa em sua jornada."
 description: "Descubra todas as transformações de Ichigo em Bleach, seus poderes como Shinigami, Vizard, Fullbringer e Quincy, e como isso molda sua evolução como protagonista."
 data: "2025-04-20T14:50:00.000Z"

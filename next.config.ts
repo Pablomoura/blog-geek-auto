@@ -8,6 +8,8 @@ const nextConfig = {
       "cdn.omelete.com.br",
       "www.omelete.com.br",
       "www.geeknews.com.br",
+      "images.justwatch.com",
+      "justwatch.com",
     ],
   },
   serverExternalPackages: ["puppeteer-extra", "puppeteer-extra-plugin-stealth"],

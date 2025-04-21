@@ -2,7 +2,7 @@
 title: "BGS 2025: Tudo sobre o maior evento de games da América Latina"
 slug: "bgs-2025-evento-games"
 categoria: "games"
-data: "2025-04-20T14:13:16.839Z'
+data: '2025-04-20T16:13:53.010Z'
 tags:
   - bgs
   - bgs 2025

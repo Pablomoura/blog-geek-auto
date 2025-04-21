@@ -1,7 +1,7 @@
 ---
 title: "As mortes mais impactantes de Attack on Titan: por que elas ainda nos assombram?"
 slug: "mortes-impactantes-attack-on-titan"
-categoria: "Animes e Mangás"
+categoria: "MANGÁS E ANIMES"
 resumo: "A morte nunca foi apenas um recurso narrativo em Attack on Titan — ela define o rumo da história. Neste artigo, revisitamos as perdas mais marcantes da série e analisamos por que elas ainda ecoam no coração dos fãs."
 data: "2025-04-20T13:40:00.000Z"
 thumb: "/images/Thumb-mortes-attack-on-titan.jpg"
