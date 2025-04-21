@@ -4,12 +4,12 @@ import Script from 'next/script';
 import { useEffect, useState } from 'react';
 
 export default function CookieScripts() {
-  const [permitido, setPermitido] = useState(false);
+  const [permitido, setPermitido] = useState(true); // muda para true por padrão
 
   useEffect(() => {
-    const consent = localStorage.getItem('cookieConsent');
-    if (consent === 'true') {
-      setPermitido(true);
+    const rejeitado = localStorage.getItem('cookieRejectedAt');
+    if (rejeitado) {
+      setPermitido(false); // só bloqueia se recusou
     }
   }, []);
 
