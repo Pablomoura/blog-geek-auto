@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/8BYRwC1ryi8L6Fv4wk8DEK8ef0w=/987x0/smart/uploads/conteudo/fotos/bbb25-guilherme-renata-joao-pedro-parcial.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/tqei6gDswwyyR_jzte9E2R7H26k=/480x360/smart/extras/conteudos/bbb25-guilherme-parcial-final-peq.jpg"
-tags: ["BBB 25", "final BBB 25", "Guilherme BBB 25", "enquete BBB 25", "votação BBB 25", "Big Brother Brasil 25", "Tadeu Schmidt", "Rodrigo Dourado", "Globoplay"]
+tags: ["BBB 25", "final BBB 25", "Guilherme BBB 25", "enquete BBB 25", "votação BBB 25", "Big Brother Brasil 25", "Tadeu Schmidt", "Rodrigo Dourado", "Globoplay", "especial-BBB 25"]
 keywords: "BBB 25, final BBB 25, Guilherme BBB 25, enquete BBB 25, votação BBB 25, Big Brother Brasil 25, Tadeu Schmidt, Rodrigo Dourado, Globoplay"
 author: "Ana Luiza"
 data: "2025-04-21T11:17:07.821Z"

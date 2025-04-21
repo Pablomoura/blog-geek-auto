@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://www.youtube.com/embed/VV01pM3QOpY?showinfo=0&enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/8vwu2kpflJKKv3b9-Tw5U6cJlRQ=/480x360/smart/extras/conteudos/Screenshot_2025-04-20_at_20.55.21.png"
-tags: ["The Last of Us", "HBO", "Kaitlyn Dever", "Abby", "Joel", "série", "drama", "Neil Druckmann", "Craig Mazin", "luto", "performance emocional"]
+tags: ["The Last of Us", "HBO", "Kaitlyn Dever", "Abby", "Joel", "série", "drama", "Neil Druckmann", "Craig Mazin", "luto", "performance emocional", "especial-The Last of Us"]
 keywords: "The Last of Us, HBO, Kaitlyn Dever, Abby, Joel, série, drama, Neil Druckmann, Craig Mazin, luto, performance emocional"
 author: "Pablo Moura"
 data: "2025-04-21T11:17:44.460Z"

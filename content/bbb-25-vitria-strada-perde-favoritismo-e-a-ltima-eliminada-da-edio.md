@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/Uvw7YPwdcoefWMi-I7_WRv8FSUc=/987x0/smart/uploads/conteudo/fotos/bbb25-vitoria-strada-eliminada.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/ngkinjOoG_TaQqj5b6E_byUJetg=/480x360/smart/extras/conteudos/bbb25-vitoria-strada-eliminada-peq.jpg"
-tags: ["BBB 25", "Vitória Strada", "último paredão", "Tadeu Schmidt", "Rodrigo Dourado", "sistema de votação", "Big Brother Brasil 25", "eliminação", "TV Globo", "Globoplay", "votação BBB"]
+tags: ["BBB 25", "Vitória Strada", "último paredão", "Tadeu Schmidt", "Rodrigo Dourado", "sistema de votação", "Big Brother Brasil 25", "eliminação", "TV Globo", "Globoplay", "votação BBB", "especial-BBB 25"]
 keywords: "BBB 25, Vitória Strada, último paredão, Tadeu Schmidt, Rodrigo Dourado, sistema de votação, Big Brother Brasil 25, eliminação, TV Globo, Globoplay, votação BBB"
 author: "Pablo Moura"
 data: "2025-04-21T03:17:41.481Z"

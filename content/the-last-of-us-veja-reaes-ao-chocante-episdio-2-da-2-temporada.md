@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "/images/abby.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/cEJLZ3HrblDLtSx6MTy11HXfT18=/480x360/smart/extras/conteudos/bella-ramsey-the-last-of-us-2_juDIoTy.jpg"
-tags: ["The Last of Us", "HBO", "segunda temporada", "Abby", "Kaitlyn Dever", "Neil Druckmann", "Craig Mazin", "adaptação de jogo", "série de TV"]
+tags: ["The Last of Us", "HBO", "segunda temporada", "Abby", "Kaitlyn Dever", "Neil Druckmann", "Craig Mazin", "adaptação de jogo", "série de TV", "especial-The Last of Us"]
 keywords: "The Last of Us, HBO, segunda temporada, Abby, Kaitlyn Dever, Neil Druckmann, Craig Mazin, adaptação de jogo, série de TV"
 author: "Luana Souza"
 data: "2025-04-21T02:58:29.472Z"

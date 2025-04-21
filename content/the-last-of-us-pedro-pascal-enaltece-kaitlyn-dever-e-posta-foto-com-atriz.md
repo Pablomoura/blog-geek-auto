@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/4e1iBW1qjwg2FWSqZygXQXHF3pA=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-21T121241.755.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/HnVsi-aGBdXqPHFYLs1YSLTqzso=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T121210.833.png"
-tags: ["Pedro Pascal", "Kaitlyn Dever", "The Last of Us", "HBO", "série", "segunda temporada", "novos episódios"]
+tags: ["Pedro Pascal", "Kaitlyn Dever", "The Last of Us", "HBO", "série", "segunda temporada", "novos episódios", "especial-The Last of Us"]
 keywords: "Pedro Pascal, Kaitlyn Dever, The Last of Us, HBO, série, segunda temporada, novos episódios"
 author: "Pablo Moura"
 data: "2025-04-21T15:19:58.053Z"

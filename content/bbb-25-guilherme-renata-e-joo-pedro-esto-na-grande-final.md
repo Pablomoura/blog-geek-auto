@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/5tB9S_pMC4Qcjrsy1ECrUbmCr1A=/987x0/smart/uploads/conteudo/fotos/bbb25-guilherme-renata-joao-pedro-final.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/4Yy-CV2akuG1tAYbJ4FEZIsqitc=/480x360/smart/extras/conteudos/bbb25-renata-final-peq.jpg"
-tags: ["BBB 25", "Big Brother Brasil", "Final BBB 25", "Guilherme BBB", "Renata BBB", "João Pedro BBB", "Tadeu Schmidt", "votação BBB", "Globoplay"]
+tags: ["BBB 25", "Big Brother Brasil", "Final BBB 25", "Guilherme BBB", "Renata BBB", "João Pedro BBB", "Tadeu Schmidt", "votação BBB", "Globoplay" , "especial-BBB 25"]
 keywords: "BBB 25, Big Brother Brasil, Final BBB 25, Guilherme BBB, Renata BBB, João Pedro BBB, Tadeu Schmidt, votação BBB, Globoplay"
 author: "Pablo Moura"
 data: "2025-04-21T03:16:43.565Z"

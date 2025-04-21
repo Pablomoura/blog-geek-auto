@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/ElfKO_MOBZNqwmCBIf102q5AG0M=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-21T102001.263.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/dOWtgIGQRjmYr16DhTLK7KYPleQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T101943.224.png"
-tags: ["The Last of Us", "Pedro Pascal", "Bella Ramsay", "morte de Joel", "segunda temporada", "HBO", "série", "Naughty Dog", "adaptação de jogo"]
+tags: ["The Last of Us", "Pedro Pascal", "Bella Ramsay", "morte de Joel", "segunda temporada", "HBO", "série", "Naughty Dog", "adaptação de jogo", "especial-The Last of Us"]
 keywords: "The Last of Us, Pedro Pascal, Bella Ramsay, morte de Joel, segunda temporada, HBO, série, Naughty Dog, adaptação de jogo"
 author: "Pablo Moura"
 data: "2025-04-21T13:27:38.640Z"

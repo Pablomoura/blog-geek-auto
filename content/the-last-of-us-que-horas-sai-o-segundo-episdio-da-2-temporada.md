@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/VaP9YwEHL8pd_Sblk6CQFL1URfE=/987x0/smart/uploads/conteudo/fotos/lastofussegundatemporada_9mRIiem.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/Egqbmye7qBXGQoMw1IOEORzz4_E=/480x360/smart/extras/conteudos/lastofussegundatemporada_z8XtUrt.jpg"
-tags: ["The Last of Us", "segunda temporada", "HBO", "Max", "Ellie", "Joel", "estreia episódio" , "especial-The Last of Us"]
+tags: ["The Last of Us", "segunda temporada", "HBO", "Max", "Ellie", "Joel", "estreia episódio", "especial-The Last of Us"]
 keywords: "The Last of Us, segunda temporada, HBO, Max, Ellie, Joel, estreia episódio"
 author: "Pablo Moura"
 data: "2025-04-20T12:32:45.009Z"

@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://www.youtube.com/embed/S63tPF006fI?enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/Ak8l4_VgwDkVFdl4fQrc_SkgLdI=/480x360/smart/extras/conteudos/Screenshot_2025-04-20_at_20.05.01.png"
-tags: ["The Last of Us", "HBO", "Ellie", "trailer", "segunda temporada", "Craig Mazin", "Neil Druckmann", "Kaitlyn Dever", "Isabela Merced", "Young Mazino", "Jeffrey Wright"]
+tags: ["The Last of Us", "HBO", "Ellie", "trailer", "segunda temporada", "Craig Mazin", "Neil Druckmann", "Kaitlyn Dever", "Isabela Merced", "Young Mazino", "Jeffrey Wright", "especial-The Last of Us"]
 keywords: "The Last of Us, HBO, Ellie, trailer, segunda temporada, Craig Mazin, Neil Druckmann, Kaitlyn Dever, Isabela Merced, Young Mazino, Jeffrey Wright"
 author: "Ana Luiza"
 data: "2025-04-21T03:17:12.955Z"

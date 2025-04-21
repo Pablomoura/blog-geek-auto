@@ -15,6 +15,7 @@ tags:
   - Superman
   - DCU
   - filmes de super-heróis
+  - especial-Superman
 keywords: >-
   Zack Snyder, Superman Day, Henry Cavill, James Gunn, Superman, DCU, filmes de
   super-heróis
