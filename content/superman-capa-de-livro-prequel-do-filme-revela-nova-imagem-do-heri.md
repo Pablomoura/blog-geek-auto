@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://cdn.ome.lt/U4J9bGe4jFjfY45U7VS6lZDDv3g=/987x0/smart/uploads/conteudo/fotos/superman-capa-poster_EjP7QtJ.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/VH1Ug5CAha8w8mnQ3I8aK4OSrVw=/480x360/smart/extras/conteudos/superman-capa-poster_wnGKZeO.jpg"
-tags: ["Superman", "James Gunn", "David Corenswet", "DC Comics", "Metrópolis", "Clark Kent", "livro prequel", "filme", "heróis"]
+tags: ["Superman", "James Gunn", "David Corenswet", "DC Comics", "Metrópolis", "Clark Kent", "livro prequel", "filme", "heróis", "especial-Superman"]
 keywords: "Superman, James Gunn, David Corenswet, DC Comics, Metrópolis, Clark Kent, livro prequel, filme, heróis"
 author: "Luana Souza"
 data: "2025-04-21T18:25:28.977Z"

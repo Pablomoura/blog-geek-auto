@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://cdn.ome.lt/3z8B7m0Wnb9-De3LyaKaKC0k6R8=/987x0/smart/uploads/conteudo/fotos/superman-cinemacon_mvaIHoz.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/48UkjbSvTHW7PheMjhxscx4kFZ8=/480x360/smart/extras/conteudos/superman-cinemacon_Hz2KQiA.png"
-tags: ["Superman", "James Gunn", "DC Comics", "Clark Kent", "David Corenswet", "filme de super-heróis", "novo filme do Superman", "DCU"]
+tags: ["Superman", "James Gunn", "DC Comics", "Clark Kent", "David Corenswet", "filme de super-heróis", "novo filme do Superman", "DCU", "especial-Superman"]
 keywords: "Superman, James Gunn, DC Comics, Clark Kent, David Corenswet, filme de super-heróis, novo filme do Superman, DCU"
 author: "Pablo Moura"
 data: "2025-04-21T18:26:08.498Z"

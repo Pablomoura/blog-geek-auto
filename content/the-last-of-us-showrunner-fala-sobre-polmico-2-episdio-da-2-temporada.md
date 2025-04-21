@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/LaMRiZaY7gqYJIhFpaAXJSP2VIg=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-21T131556.399.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/WtL9L9tzkwvK1zVDKCkbu5lhSn4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T131538.372.png"
-tags: ["The Last of Us", "Craig Mazin", "HBO", "Abby", "Joel", "segunda temporada", "Naughty Dog", "série de TV", "adaptação de videogame"]
+tags: ["The Last of Us", "Craig Mazin", "HBO", "Abby", "Joel", "segunda temporada", "Naughty Dog", "série de TV", "adaptação de videogame", "especial-The Last of Us"]
 keywords: "The Last of Us, Craig Mazin, HBO, Abby, Joel, segunda temporada, Naughty Dog, série de TV, adaptação de videogame"
 author: "Ana Luiza"
 data: "2025-04-21T17:20:26.397Z"
