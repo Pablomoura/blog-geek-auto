@@ -349,7 +349,7 @@ Resumo original: ${resumo}
 Texto original:
 ${texto}
 
-Responda no formato JSON:
+Responda apenas com o JSON, sem explicações ou texto extra antes ou depois. Formato:
 {
   "titulo": "...",
   "resumo": "...",
