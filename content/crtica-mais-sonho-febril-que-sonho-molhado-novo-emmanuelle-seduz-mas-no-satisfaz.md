@@ -15,10 +15,10 @@ tituloPortugues: "Emmanuelle (2024)"
 capaObra: "https://cdn.ome.lt/Q4LCG58gVRDi1PTcg4v74BatXHo=/200x0/smart/extras/capas/emmanuelle.jpg"
 notaCritico: 3
 tituloOriginal: "EMMANUELLE"
-ano: ""
-pais: ""
-classificacao: ""
-duracao: ""
+ano: "2024"
+pais: "França, Estados Unidos"
+classificacao: "18"
+duracao: "1h 47min"
 direcao: "Audrey Diwan"
 elenco: ["Will Sharpe", "Noémie Merlant", "Jamie Campbell Bower", "Naomi Watts"]
 ---

@@ -15,12 +15,12 @@ tituloPortugues: "Andor"
 capaObra: "https://cdn.ome.lt/d0CzLmksrZQFLDPIVbWjR2T1RMU=/200x0/smart/extras/capas/andor-poster.jpeg"
 notaCritico: 5
 tituloOriginal: ""
-ano: ""
-pais: ""
+ano: "2025"
+pais: "Estados Unidos"
 classificacao: ""
-duracao: ""
+duracao: "50 min"
 direcao: ""
-elenco: [""]
+elenco: ["Diego Luna"]
 ---
 
 Desde a aquisição da Lucasfilm pela Disney, a saga Star Wars tem sido diversamente interpretada, com algumas produções deixando fãs questionando seu valor. Enquanto séries como 'The Acolyte' e 'Skeleton Crew' falharam em capturar a essência da franquia, e 'O Livro de Boba Fett' pareceu mais um ajuste de rota para 'The Mandalorian', 'Andor' se destaca como uma narrativa essencial e impactante dentro do universo Star Wars.

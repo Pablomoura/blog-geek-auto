@@ -16,11 +16,11 @@ capaObra: "https://cdn.ome.lt/eekOAvukmiy85PI_FtC6FSy_cO0=/200x0/smart/extras/ca
 notaCritico: 4
 tituloOriginal: "LOONEY TUNES: THE DAY THE EARTH BLEW UP"
 ano: ""
-pais: ""
+pais: "Estados Unidos, Canadá"
 classificacao: ""
-duracao: ""
+duracao: "1h 31min"
 direcao: ""
-elenco: [""]
+elenco: ["Eric Bauza", "Candi Milo", "Peter MacNicol", "Fred Tatasciore", "Laraine Newman", "Wayne Knight"]
 ---
 
 Após quase um século de curtas e adaptações, os Looney Tunes finalmente ganham seu primeiro longa-metragem totalmente original com 'O Dia Que a Terra Explodiu'. Este marco na animação da Warner Bros. coloca em destaque Patolino e Gaguinho em uma trama que combina invasão alienígena, apocalipse zumbi e ação ao estilo Armaggedon, mantendo o humor e o caos característicos da franquia.

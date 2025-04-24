@@ -4,7 +4,7 @@ slug: "crtica-clair-obscur-expedition-33-rpg-que-usa-o-luto-para-ensinar-a-viver
 categoria: "GAMES"
 tipo: "critica"
 resumo: "Descubra como Clair Obscur: Expedition 33 utiliza o luto e reviravoltas emocionantes para redefinir o gênero RPG de turno, proporcionando uma experiência profunda e imersiva."
-midia: "https://www.youtube.com/embed/v_QlTpP8u6U?showinfo=0&enablejsapi=1"
+midia: "https://www.youtube.com/embed/2VaLOc1FpSo?showinfo=0&enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/H96-WZU_Ve7VMO5q-r0yA5pn8JA=/480x360/smart/extras/conteudos/clair-obscur-expedition-33-2.jpg"
 tags: ["Clair Obscur: Expedition 33", "RPG de turno", "jogos de RPG", "narrativa envolvente", "mecânicas de jogo", "trilha sonora", "Quick Time Events", "PlayStation 5", "Xbox Series X", "PC gaming", "inovação em jogos"]
@@ -15,9 +15,10 @@ tituloPortugues: "Clair Obscur: Expedition 33"
 capaObra: "https://cdn.ome.lt/W9h3zFdeBFjzHZYOqfTbN31j6oo=/200x0/smart/extras/capas/Clair_Obscur_Expedition_33.png"
 notaCritico: 4
 tituloOriginal: ""
-ano: ""
+ano: "2025"
+Distribuidora: "Kepler Interactive"
 pais: ""
-classificacao: ""
+classificacao: "Ação, RPG"
 duracao: ""
 direcao: ""
 elenco: [""]

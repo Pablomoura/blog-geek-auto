@@ -377,9 +377,11 @@ Responda apenas com o JSON, sem explicações ou texto extra antes ou depois. Fo
     );
 
     let raw = response.data.choices[0].message.content.trim();
-    raw = raw.replace(/^[^{]+/, "{").replace(/}[^}]*$/, "}");
+    const match = raw.match(/\{[\s\S]*\}/);
+    if (!match) throw new Error("JSON inválido: nenhum bloco JSON encontrado");
 
-    const reescrito = JSON.parse(raw);
+    const reescrito = JSON.parse(match[0]);
+
     reescrito.texto = reescrito.texto.replace(/\\n/g, "\n").replace(/(?<!\n)\n(?!\n)/g, "\n\n");
 
     return reescrito;

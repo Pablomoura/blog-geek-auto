@@ -15,10 +15,10 @@ tituloPortugues: "Serra das Almas"
 capaObra: "https://cdn.ome.lt/7e4yUExE3olEKLVrS9x9QnAa1G8=/200x0/smart/extras/capas/serra.jpg"
 notaCritico: 4
 tituloOriginal: ""
-ano: ""
-pais: ""
-classificacao: ""
-duracao: ""
+ano: "2025"
+pais: "Brasil"
+classificacao: "16"
+duracao: "2h 0min"
 direcao: "Lírio Ferreira"
 elenco: ["Ravel Andrade", "Jorge Neto", "Mari Oliveira", "Vertin Moura", "Júlia Stockler"]
 ---

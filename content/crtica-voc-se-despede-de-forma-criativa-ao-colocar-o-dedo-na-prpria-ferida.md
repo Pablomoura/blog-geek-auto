@@ -11,16 +11,16 @@ tags: ["Você Netflix", "Joe Goldberg", "Penn Badgley", "final de Você", "crít
 keywords: "Você Netflix, Joe Goldberg, Penn Badgley, final de Você, crítica de série, séries Netflix, despedida de série"
 author: "Pablo Moura"
 data: "2025-04-24T22:22:01.050Z"
-tituloPortugues: "You (Série)"
+tituloPortugues: "Você (Série)"
 capaObra: "https://cdn.ome.lt/CzK3xpmpNDwWlNlliRYNOPw1oY8=/200x0/smart/extras/capas/Captura_de_tela_2025-04-24_182343.png"
 notaCritico: 3
-tituloOriginal: ""
-ano: ""
-pais: ""
+tituloOriginal: "YOU"
+ano: "2025"
+pais: "EUA"
 classificacao: ""
-duracao: ""
+duracao: "55 min"
 direcao: ""
-elenco: [""]
+elenco: ["Joe Goldberg", "Kate Galvin", "Bronte", "Raegan /Maddie Lockwood"]
 ---
 
 Joe Goldberg nunca foi um herói. Desde 2018, quando 'Você' estreou na Netflix, o personagem interpretado por Penn Badgley mostrou seu lado obscuro, encarnando um homem misógino, inseguro e narcisista. A série ganhou fama por subverter as expectativas, fazendo os espectadores torcerem por um protagonista claramente falho, numa dinâmica semelhante a de 'Família Soprano' e 'Breaking Bad'. A popularidade de Joe, no entanto, levou a um fenômeno curioso: parte dos fãs começou a desculpar seus atos horrendos, distanciando-o da imagem de vilão.

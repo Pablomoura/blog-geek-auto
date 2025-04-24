@@ -13,12 +13,12 @@ author: "Luana Souza"
 data: "2025-04-24T22:23:09.881Z"
 tituloPortugues: "Until Dawn: Noite de Terror"
 capaObra: "https://cdn.ome.lt/yI-UXc5vcW1LrGnyGHvaSCr5LhE=/200x0/smart/extras/capas/handler_2.jpg"
-notaCritico: 3
+notaCritico: 4
 tituloOriginal: "UNTIL DAWN"
-ano: ""
-pais: ""
-classificacao: ""
-duracao: ""
+ano: "2025"
+pais: "EUA"
+classificacao: "18"
+duracao: "1h 43min"
 direcao: "David F. Sandberg"
 elenco: ["Michael Cimino", " Maia Mitchell", "Belmont Cameli", "Ji-young Yoo", "Odessa A&#39;zion", "Ella Rubin", "Peter Stormare", "Maia Mitchell"]
 ---

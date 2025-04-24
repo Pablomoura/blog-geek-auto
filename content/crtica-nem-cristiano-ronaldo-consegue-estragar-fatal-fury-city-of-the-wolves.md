@@ -15,7 +15,7 @@ tituloPortugues: "Fatal Fury: City of the Wolves"
 capaObra: "https://cdn.ome.lt/IxXLNmiU9TBdd4zwbSQnpOVEzsc=/200x0/smart/extras/capas/Fatal_Fury_City_of_the_Wolves.jpg"
 notaCritico: 3
 tituloOriginal: ""
-ano: ""
+ano: "2025"
 pais: ""
 classificacao: ""
 duracao: ""
