@@ -23,13 +23,13 @@ export default function SecaoCriticasRecentes({ posts }: Props) {
               href={`/noticia/${post.slug}`}
               className="min-w-[140px] max-w-[140px] flex-shrink-0"
             >
-              <div className="w-full h-[210px] relative rounded overflow-hidden">
+              <div className="w-full h-[207px] relative rounded overflow-hidden">
               <Image
                 src={post.capaObra || "/images/default.jpg"}
                 alt={post.tituloPortugues || post.titulo}
-                width={160}
-                height={240}
-                className="w-full h-auto rounded-lg shadow"
+                width={140}
+                height={207}
+                className="w-full min-h-[207px] rounded-lg shadow"
                 />
               </div>
               <h3 className="text-xs font-bold mt-3 text-gray-500 dark:text-gray-500">
