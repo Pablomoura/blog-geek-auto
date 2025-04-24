@@ -522,13 +522,16 @@ function limparUrlInstagram(url) {
   }
 
   const novasNoticias = await buscarNoticiasOmelete();
+  const novasCriticas = await buscarCriticasOmelete();
 
-  if (novasNoticias.length > 0) {
-    const todas = force ? novasNoticias : [...postsExistentes, ...novasNoticias];
+  const novosPosts = [...novasNoticias, ...novasCriticas];
+
+  if (novosPosts.length > 0) {
+    const todas = force ? novosPosts : [...postsExistentes, ...novosPosts];
     fs.writeFileSync(jsonFilePath, JSON.stringify(todas, null, 2), "utf-8");
-    console.log(`✅ ${novasNoticias.length} notícias salvas.`);
+    console.log(`✅ ${novosPosts.length} posts salvos (notícias + críticas).`);
   } else {
-    console.log("🔄 Nenhuma nova notícia encontrada.");
+    console.log("🔄 Nenhuma nova notícia ou crítica encontrada.");
   }
 })();
 
