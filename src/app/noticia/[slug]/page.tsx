@@ -176,6 +176,54 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
         `;
       });
 
+      const blocoAdsenseInArticle = `
+        <div class="my-8">
+          <ins class="adsbygoogle"
+              style="display:block; text-align:center;"
+              data-ad-layout="in-article"
+              data-ad-format="fluid"
+              data-ad-client="ca-pub-9111051074987830"
+              data-ad-slot="3489300787"></ins>
+        </div>
+      `;
+
+      // Divide o conteúdo em parágrafos
+      let paragrafos = textoFinal.split("</p>");
+
+      // Novo array onde adicionaremos parágrafos + anúncios
+      const paragrafosComAds: string[] = [];
+
+      let anunciosInseridos = 0; // contador de anúncios inseridos
+
+      paragrafos.forEach((paragrafo, index) => {
+        if (paragrafo.trim()) {
+          paragrafosComAds.push(paragrafo);
+
+          // Insere anúncio a cada 3 parágrafos, mas no máximo 3 anúncios
+          if ((index + 1) % 3 === 0 && anunciosInseridos < 3) {
+            paragrafosComAds.push(blocoAdsenseInArticle);
+            anunciosInseridos++;
+          }
+        }
+      });
+
+      // Junta tudo de novo
+      textoFinal = paragrafosComAds.join("</p>");
+
+      // Insere anúncio depois da primeira lista <ul> se houver
+      textoFinal = textoFinal.replace(
+        "</ul>",
+        `</ul>
+        <div class="my-8">
+          <ins class="adsbygoogle"
+              style="display:block; text-align:center;"
+              data-ad-layout="in-article"
+              data-ad-format="fluid"
+              data-ad-client="ca-pub-9111051074987830"
+              data-ad-slot="3489300787"></ins>
+        </div>`
+      );
+
       // ✅ converte o markdown para HTML
       const htmlConvertido = await marked.parse(textoFinal);
 
@@ -190,7 +238,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
 
       // Sanitiza e otimiza
       const htmlSanitizado = DOMPurify.sanitize(htmlComTargetBlank, {
-        ADD_TAGS: ["iframe"],
+        ADD_TAGS: ["iframe", "script"], // <-- adicionar script aqui
         ADD_ATTR: [
           "allow",
           "allowfullscreen",
@@ -202,8 +250,13 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
           "class",
           "target",
           "rel",
+          "data-ad-client",
+          "data-ad-slot",
+          "data-ad-layout",
+          "data-ad-format",
+          "style",
         ],
-      });
+      });      
 
       htmlContent = otimizarImagensHtml(htmlSanitizado);
 
@@ -376,6 +429,16 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   </div>
                 )}
                 
+                {/* Anúncio antes dos relacionados */}
+                <div className="my-8">
+                  <ins className="adsbygoogle"
+                      style={{ display: 'block', textAlign: 'center' }}
+                      data-ad-layout="in-article"
+                      data-ad-format="fluid"
+                      data-ad-client="ca-pub-9111051074987830"
+                      data-ad-slot="6194213530"></ins>
+                </div>
+
                 <PostsRelacionados posts={relacionados} />
 
               <div id="disqus_thread" className="mt-12" />
@@ -426,6 +489,18 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   ))}
                 </div>
               </section>
+
+              <Script id="adsense-init" strategy="afterInteractive">
+                {`(adsbygoogle = window.adsbygoogle || []).push({});`}
+              </Script>
+
+              <ins className="adsbygoogle"
+                  style={{ display: 'block' }}
+                  data-ad-client="ca-pub-9111051074987830"
+                  data-ad-slot="3961133566" // substitua pelo slot do seu bloco
+                  data-ad-format="auto"
+                  data-full-width-responsive="true"></ins>
+
 
               <section className="mb-8">
                 <div className="flex items-center justify-between mb-4 border-b pb-2">
