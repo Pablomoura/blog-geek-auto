@@ -3,7 +3,6 @@ import Link from 'next/link';
 import { FaArrowLeft } from 'react-icons/fa';
 import Header from '@/components/Header';
 import UltimoPost404 from '@/components/UltimoPost404';
-import Image from 'next/image';
 
 export default function NotFoundPage() {
   return (
