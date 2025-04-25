@@ -24,6 +24,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           src="https://www.googletagmanager.com/gtag/js?id=G-SMFR890H32"
           strategy="afterInteractive"
         />
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9111051074987830"
+          crossOrigin="anonymous"
+        />
         <CookieScripts />
         <Script id="set-theme" strategy="beforeInteractive">
           {`
