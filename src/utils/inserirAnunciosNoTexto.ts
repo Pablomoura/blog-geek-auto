@@ -12,7 +12,7 @@ export function inserirAnunciosNoTexto(texto: string): string {
       </div>
     `;
   
-    let paragrafos = texto.split("</p>");
+    const paragrafos = texto.split("</p>");
     const paragrafosComAds: string[] = [];
     let anunciosInseridos = 0;
   
