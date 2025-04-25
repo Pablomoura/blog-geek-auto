@@ -28,6 +28,7 @@ import autores from "@/data/autores.json";
 import CompartilharNoticia from "@/components/CompartilharNoticia";
 import FichaTecnica from "@/components/FichaTecnica";
 import PostsRelacionados, { getPostsRelacionados } from "@/components/PostsRelacionados";
+import { inserirAnunciosNoTexto } from "@/utils/inserirAnunciosNoTexto";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -176,53 +177,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
         `;
       });
 
-      const blocoAdsenseInArticle = `
-        <div class="my-8">
-          <ins class="adsbygoogle"
-              style="display:block; text-align:center;"
-              data-ad-layout="in-article"
-              data-ad-format="fluid"
-              data-ad-client="ca-pub-9111051074987830"
-              data-ad-slot="3489300787"></ins>
-        </div>
-      `;
-
-      // Divide o conteúdo em parágrafos
-      let paragrafos = textoFinal.split("</p>");
-
-      // Novo array onde adicionaremos parágrafos + anúncios
-      const paragrafosComAds: string[] = [];
-
-      let anunciosInseridos = 0; // contador de anúncios inseridos
-
-      paragrafos.forEach((paragrafo, index) => {
-        if (paragrafo.trim()) {
-          paragrafosComAds.push(paragrafo);
-
-          // Insere anúncio a cada 3 parágrafos, mas no máximo 3 anúncios
-          if ((index + 1) % 3 === 0 && anunciosInseridos < 3) {
-            paragrafosComAds.push(blocoAdsenseInArticle);
-            anunciosInseridos++;
-          }
-        }
-      });
-
-      // Junta tudo de novo
-      textoFinal = paragrafosComAds.join("</p>");
-
-      // Insere anúncio depois da primeira lista <ul> se houver
-      textoFinal = textoFinal.replace(
-        "</ul>",
-        `</ul>
-        <div class="my-8">
-          <ins class="adsbygoogle"
-              style="display:block; text-align:center;"
-              data-ad-layout="in-article"
-              data-ad-format="fluid"
-              data-ad-client="ca-pub-9111051074987830"
-              data-ad-slot="3489300787"></ins>
-        </div>`
-      );
+      textoFinal = inserirAnunciosNoTexto(textoFinal);
 
       // ✅ converte o markdown para HTML
       const htmlConvertido = await marked.parse(textoFinal);
