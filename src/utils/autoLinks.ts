@@ -26,9 +26,9 @@ export async function aplicarLinksInternosInteligente(html: string, slugAtual: s
   const doc = parseDocument(`<body>${html}</body>`);
   const body = DomUtils.getElementsByTagName("body", doc.children, true)[0];
 
-  const walker = (nodes: DomNode[]) => {
+  const walker = (nodes: DomNode[], insideHeading = false) => {
     for (const node of nodes) {
-      if (node.type === "text" && node.parent && !(node.parent as Element).name?.toLowerCase().includes("a")) {
+      if (node.type === "text" && node.parent && !(node.parent as Element).name?.toLowerCase().includes("a") && !insideHeading) {
         for (const link of links) {
           for (const tag of link.tags) {
             if (usados.has(tag)) continue;
@@ -67,7 +67,9 @@ export async function aplicarLinksInternosInteligente(html: string, slugAtual: s
           }
         }
       } else if (isTag(node) && Array.isArray(node.children)) {
-        walker(node.children);
+        const tagName = (node as Element).name?.toLowerCase();
+        const isHeading = ["h1", "h2", "h3", "h4", "h5", "h6"].includes(tagName || "");
+        walker(node.children, insideHeading || isHeading);
       }
     }
   };
