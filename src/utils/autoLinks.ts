@@ -90,7 +90,7 @@ export async function aplicarLinksInternosInteligente(html: string, slugAtual: s
 }
 
 function escapeRegex(text: string): string {
-  return text.replace(/[.*+?^${}()|[\\]\\]/g, "\\$&");
+  return text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 function normalizeTag(text: string): string {
