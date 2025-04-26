@@ -43,7 +43,6 @@ async function inserirLinksRelacionados(content, slugAtual) {
 
   if (links.length === 0) return content;
 
-  // Gera blocos HTML de até 2 links por bloco
   const blocos = [];
   for (let i = 0; i < links.length; i += 2) {
     const grupo = links.slice(i, i + 2);
@@ -65,7 +64,6 @@ async function inserirLinksRelacionados(content, slugAtual) {
   const paragrafos = content.split("</p>");
   const palavras = content.split(/\s+/).length;
 
-  // Inserção inteligente baseada na quantidade de palavras
   if (palavras <= 500) {
     paragrafos.splice(2, 0, blocos[0]);
   } else if (palavras <= 1000) {
@@ -89,6 +87,8 @@ async function buildCache() {
   const files = await fs.readdir(contentDir);
 
   for (const fileName of files) {
+    if (!fileName.endsWith(".md")) continue;
+
     const filePath = path.join(contentDir, fileName);
     const slug = fileName.replace(".md", "");
     const htmlPath = path.join(cacheDir, `${slug}.html`);
@@ -98,12 +98,13 @@ async function buildCache() {
         fs.stat(filePath),
         fs.stat(htmlPath)
       ]);
+
       if (!force && htmlStat.mtimeMs >= mdStat.mtimeMs) {
         console.log(`⏩ Pulado (sem alterações): ${slug}`);
         continue;
       }
     } catch {
-      // continua se não existir o arquivo de cache
+      // Se não existir ainda o HTML, vamos gerar normalmente
     }
 
     const raw = await fs.readFile(filePath, "utf-8");
@@ -111,10 +112,11 @@ async function buildCache() {
 
     let markdown = content;
 
-      markdown = markdown.replace(
-        /\[youtube\]:\s*(https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]+))/g,
-        (_match, url, videoId) => {
-          return `
+    // Embed YouTube antes de tudo
+    markdown = markdown.replace(
+      /\[youtube\]:\s*(https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]+))/g,
+      (_match, url, videoId) => {
+        return `
           <div class="relative pb-[56.25%] h-0 overflow-hidden rounded-lg shadow-lg my-8">
             <iframe
               src="https://www.youtube.com/embed/${videoId}"
@@ -126,23 +128,26 @@ async function buildCache() {
             ></iframe>
           </div>
         `;
-        }
-      );
+      }
+    );
 
-      // ⬇️ Converte para HTML
-      let htmlConvertido = await marked.parse(markdown);
+    // ✅ Aplica links internos ainda no markdown puro
+    markdown = await aplicarLinksInternosInteligente(markdown, slug);
 
-      // ⬇️ Insere os links relacionados agora no HTML
-      htmlConvertido = await inserirLinksRelacionados(htmlConvertido, slug);
+    // ✅ Só depois converte para HTML
+    let htmlConvertido = await marked.parse(markdown);
 
+    // ✅ Depois insere links relacionados
+    htmlConvertido = await inserirLinksRelacionados(htmlConvertido, slug);
 
+    // ✅ Corrige target blank em links externos
     const htmlComTargetBlank = htmlConvertido.replace(
       /<a\s+(?![^>]*target=)[^>]*href="([^"]+)"([^>]*)>/g,
       '<a href="$1"$2 target="_blank" rel="noopener noreferrer">'
     );
 
-    const htmlComLinks = await aplicarLinksInternosInteligente(htmlComTargetBlank, slug);
-    const htmlSanitizado = DOMPurify.sanitize(htmlComLinks, {
+    // ✅ Sanitiza o HTML
+    const htmlSanitizado = DOMPurify.sanitize(htmlComTargetBlank, {
       ADD_TAGS: ["iframe"],
       ADD_ATTR: [
         "allow",
@@ -157,6 +162,8 @@ async function buildCache() {
         "rel",
       ],
     });
+
+    // ✅ Otimiza imagens no HTML
     const htmlFinal = otimizarImagensHtml(htmlSanitizado);
 
     await fs.writeFile(htmlPath, htmlFinal);
