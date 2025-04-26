@@ -15,6 +15,8 @@ data: "2025-04-26T21:16:45.860Z"
 
 A espera pelo novo filme do 'Quarteto Fantástico' acaba de ficar mais interessante com a LEGO lançando antecipadamente produtos baseados no filme. Nas redes sociais, fãs compartilharam imagens do set que inclui Galactus, o antagonista colossal interpretado por Ralph Ineson, e os membros do Quarteto em forma de minifiguras.
 
+![Lego Galactus](/images/galatuslego.jpg)
+
 ### Detalhes do Set e do Elenco
 
 O produto não só destaca Galactus em uma escala impressionante comparado às minifiguras padrão, mas também traz detalhes minuciosos dos quatro heróis. No filme, veremos Pedro Pascal como Reed Richards, Vanessa Kirby como Sue Storm, Joseph Quinn como Johnny Storm e Ebon Moss-Bachrach como Ben Grimm. Julia Garner também aparece como Shalla-Bal, uma versão alternativa do Surfista Prateado.
