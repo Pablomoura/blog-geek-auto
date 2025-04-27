@@ -15,7 +15,6 @@ tags:
   - Tadeu Schmidt
   - Rodrigo Dourado
   - votação BBB
-  - especial-BBB 25
 keywords: >-
   BBB 25, horário de transmissão, Globo, Globoplay, Tadeu Schmidt, Rodrigo
   Dourado, votação BBB

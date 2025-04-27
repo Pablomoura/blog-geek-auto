@@ -16,7 +16,6 @@ tags:
   - Prova da Final
   - Tadeu Schmidt
   - Rodrigo Dourado
-  - votação BBB
 keywords: >-
   BBB 25, último Paredão, Renata, Vitória Strada, João Pedro, Prova da Final,
   Tadeu Schmidt, Rodrigo Dourado, votação BBB

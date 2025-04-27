@@ -14,7 +14,6 @@ tags:
   - Tadeu Schmidt
   - TV Globo
   - Globoplay
-  - especial-BBB 25
 keywords: 'BBB 25, Paredão, Votação, Tadeu Schmidt, TV Globo, Globoplay'
 author: Pablo Moura
 data: '2025-04-14T04:13:36.736Z'

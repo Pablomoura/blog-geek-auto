@@ -18,7 +18,6 @@ tags:
   - votação do público
   - Tadeu Schmidt
   - Rodrigo Dourado
-  - especial-BBB 25
 keywords: >-
   BBB 25, banho de gosma, Sincerão, dinâmica de jogo, estratégias de
   participantes, votação do público, Tadeu Schmidt, Rodrigo Dourado

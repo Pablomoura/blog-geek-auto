@@ -16,7 +16,6 @@ tags:
   - TV Globo
   - votação
   - reality show
-  - especial-BBB 25
 keywords: >-
   BBB 25, Paredão, João Pedro, Dani Hypólito, Maike, TV Globo, votação, reality
   show

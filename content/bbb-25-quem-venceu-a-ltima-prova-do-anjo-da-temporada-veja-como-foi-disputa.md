@@ -16,7 +16,6 @@ tags:
   - TV Globo
   - votação
   - Globoplay
-  - especial-BBB 25
 keywords: >-
   BBB 25, Prova do Anjo, Vinícius, paredão, reality show, TV Globo, votação,
   Globoplay

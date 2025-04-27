@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/lTlSTre_ExP188jOB0QNosqn4ZU=/987x0/smart/uploads/conteudo/fotos/maike-mordida-bbb.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/gbaDsnfWeZujRMHGc9FRMuWC1y8=/480x360/smart/extras/conteudos/maike-mordida-bbb.png"
-tags: ["BBB 25", "Maike", "Renata", "confessionário", "incidente", "paredão", "reality show", "votação", "especial-BBB 25"]
+tags: ["BBB 25", "Maike", "Renata", "confessionário", "incidente", "paredão", "reality show", "votação"]
 keywords: "BBB 25, Maike, Renata, confessionário, incidente, paredão, reality show, votação"
 author: "Pablo Moura"
 data: "2025-04-10T19:10:08.525Z"

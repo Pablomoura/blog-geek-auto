@@ -19,7 +19,6 @@ tags:
   - Tadeu Schmidt
   - Rodrigo Dourado
   - Globoplay
-  - especial-BBB 25
 keywords: >-
   BBB 25, 18º Paredão, Vitória Strada, Renata, Diego Hypólito, eliminação,
   votação BBB, enquete UOL, Tadeu Schmidt, Rodrigo Dourado, Globoplay

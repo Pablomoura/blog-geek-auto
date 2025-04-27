@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://cdn.ome.lt/LTqyxX9qwGaQKg5W6o9BpkDSJRU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T134009.850.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/FggWdF55idKBk9ukyToyK4V0dtQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T133947.671.png"
-tags: ["Superman", "DCU", "Ultraman", "James Gunn", "estreia de Superman", "elenco de Superman", "novo filme de Superman", "DC Comics"]
+tags: ["Superman", "DCU", "Ultraman", "James Gunn", "estreia de Superman", "elenco de Superman", "novo filme de Superman", "DC Comics", "especial-Superman"]
 keywords: "Superman, DCU, Ultraman, James Gunn, estreia de Superman, elenco de Superman, novo filme de Superman, DC Comics"
 author: "Luana Souza"
 data: "2025-04-22T17:18:45.394Z"

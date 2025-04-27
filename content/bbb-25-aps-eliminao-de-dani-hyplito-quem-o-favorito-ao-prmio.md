@@ -16,7 +16,6 @@ tags:
   - Rodrigo Dourado
   - votação
   - reality show
-  - especial-BBB 25
 keywords: >-
   BBB 25, Vitória Strada, eliminação, Daniele Hypólito, Tadeu Schmidt, Rodrigo
   Dourado, votação, reality show

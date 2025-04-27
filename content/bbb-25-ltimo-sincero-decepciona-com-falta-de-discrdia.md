@@ -16,7 +16,6 @@ tags:
   - Tadeu Schmidt
   - Rodrigo Dourado
   - votação
-  - especial-BBB 25
 keywords: >-
   BBB 25, Sincerão, Guilherme, Delma, Renata, Tadeu Schmidt, Rodrigo Dourado,
   votação

@@ -15,7 +15,6 @@ tags:
   - enquete uol
   - diego hypólito
   - maike
-  - especial-BBB 25
 author: Pablo Moura
 ---
 

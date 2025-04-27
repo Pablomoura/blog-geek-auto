@@ -19,7 +19,6 @@ tags:
   - Diego Hypólito
   - Delma
   - Guilherme
-  - especial-BBB 25
 keywords: >-
   BBB 25, Paredão, votação, Tadeu Schmidt, Vinícius, Renata, João Pedro, Vitória
   Strada, Diego Hypólito, Delma, Guilherme

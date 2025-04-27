@@ -15,7 +15,6 @@ tags:
   - seleção brasileira
   - jogo brasil argentina
   - eliminatórias da copa
-  - especial-BBB 25
 author: Ana Luiza
 ---
 

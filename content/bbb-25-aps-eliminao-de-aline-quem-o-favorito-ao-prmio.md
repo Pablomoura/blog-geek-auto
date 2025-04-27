@@ -15,7 +15,6 @@ tags:
   - vitória strada
   - paredão
   - pesquisa uol
-  - especial-BBB 25
 author: Pablo Moura
 ---
 

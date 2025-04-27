@@ -15,6 +15,7 @@ tags:
   - Crunchyroll
   - manhwa
   - Panini
+  - especial-Solo Leveling
 keywords: >-
   Solo Leveling, anime, edição de colecionador, Blu-ray, DVD, Crunchyroll,
   manhwa, Panini

@@ -16,7 +16,6 @@ tags:
   - Globo
   - votação
   - reality show
-  - especial-BBB 25
 keywords: >-
   BBB 25, eliminados, Paredão, Tadeu Schmidt, Rodrigo Dourado, Globo, votação,
   reality show

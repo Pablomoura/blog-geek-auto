@@ -15,7 +15,6 @@ tags:
   - tadeu schmidt
   - modo turbo
   - reviravoltas
-  - especial-BBB 25
 author: Ana Luiza
 ---
 

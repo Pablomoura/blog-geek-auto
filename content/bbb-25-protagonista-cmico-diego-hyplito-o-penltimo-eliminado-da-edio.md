@@ -15,7 +15,6 @@ tags:
   - Tadeu Schmidt
   - TV Globo
   - votação
-  - especial-BBB 25
 keywords: 'BBB 25, Diego Hypólito, paredão, eliminação, Tadeu Schmidt, TV Globo, votação'
 author: Luana Souza
 data: '2025-04-18T02:20:56.968Z'

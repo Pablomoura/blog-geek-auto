@@ -13,7 +13,6 @@ tags:
   - Tadeu Schmidt
   - Rodrigo Dourado
   - sistema de votação BBB
-  - especial-BBB 25
 keywords: >-
   BBB 25, prêmio final BBB, Tadeu Schmidt, Rodrigo Dourado, sistema de votação
   BBB

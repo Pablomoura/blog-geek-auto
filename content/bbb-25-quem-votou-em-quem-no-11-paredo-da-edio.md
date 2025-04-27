@@ -15,7 +15,6 @@ tags:
   - prova do líder
   - vinícius
   - maike
-  - especial-BBB 25
 author: Ana Luiza
 ---
 

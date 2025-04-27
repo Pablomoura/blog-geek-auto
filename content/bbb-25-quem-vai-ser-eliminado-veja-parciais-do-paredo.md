@@ -16,7 +16,6 @@ tags:
   - Renata
   - votação
   - Tadeu Schmidt
-  - especial-BBB 25
 keywords: 'BBB 25, Paredão, eliminação, Vinícius, Maike, Renata, votação, Tadeu Schmidt'
 author: Pablo Moura
 data: '2025-04-11T02:48:08.460Z'

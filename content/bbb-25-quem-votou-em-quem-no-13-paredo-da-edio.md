@@ -16,7 +16,6 @@ tags:
   - Globoplay
   - Reality Show
   - Big Brother Brasil
-  - especial-BBB 25
 keywords: >-
   BBB 25, Paredão, Tadeu Schmidt, Votação, Globo, Globoplay, Reality Show, Big
   Brother Brasil

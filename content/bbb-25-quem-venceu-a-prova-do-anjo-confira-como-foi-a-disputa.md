@@ -15,7 +15,6 @@ tags:
   - imunidade
   - semana turbo
   - paredão
-  - especial-BBB 25
 author: Luana Souza
 ---
 

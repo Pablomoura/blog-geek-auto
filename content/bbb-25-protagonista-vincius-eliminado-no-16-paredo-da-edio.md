@@ -17,7 +17,6 @@ tags:
   - Tadeu Schmidt
   - Rodrigo Dourado
   - votação
-  - especial-BBB 25
 keywords: >-
   BBB 25, Vinícius, Vitória Strada, Renata, Paredão, eliminação, Tadeu Schmidt,
   Rodrigo Dourado, votação

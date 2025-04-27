@@ -17,7 +17,6 @@ tags:
   - Rodrigo Dourado
   - votação BBB
   - resultado paredão
-  - especial-BBB 25
 keywords: >-
   BBB 25, último paredão, Vitória Strada, Renata, João Pedro, Tadeu Schmidt,
   Rodrigo Dourado, votação BBB, resultado paredão

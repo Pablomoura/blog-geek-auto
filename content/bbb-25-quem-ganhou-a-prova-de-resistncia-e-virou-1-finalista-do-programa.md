@@ -16,7 +16,6 @@ tags:
   - Tadeu Schmidt
   - Rodrigo Dourado
   - votação BBB
-  - especial-BBB 25
 keywords: >-
   BBB 25, Guilherme, prova de resistência, finalista, Big Brother Brasil 25,
   Tadeu Schmidt, Rodrigo Dourado, votação BBB

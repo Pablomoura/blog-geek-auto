@@ -16,7 +16,6 @@ tags:
   - Tadeu Schmidt
   - Rodrigo Dourado
   - Globo
-  - especial-BBB 25
 keywords: >-
   BBB 25, eliminação, Maike, Vinícius, votação acirrada, Tadeu Schmidt, Rodrigo
   Dourado, Globo

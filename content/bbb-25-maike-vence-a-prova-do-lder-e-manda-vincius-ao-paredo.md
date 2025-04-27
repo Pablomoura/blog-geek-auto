@@ -15,7 +15,6 @@ tags:
   - vinícius
   - paredão
   - reality show
-  - especial-BBB 25
 author: Ana Luiza
 ---
 

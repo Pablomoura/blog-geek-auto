@@ -16,7 +16,6 @@ tags:
   - Tadeu Schmidt
   - Rodrigo Dourado
   - Voto da Torcida
-  - especial-BBB 25
 keywords: >-
   BBB 25, Prova do Anjo, Vinícius vencedor, Castigo do Monstro, Globoplay, Tadeu
   Schmidt, Rodrigo Dourado, Voto da Torcida

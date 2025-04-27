@@ -18,7 +18,6 @@ tags:
   - Tadeu Schmidt
   - Rodrigo Dourado
   - Globoplay
-  - especial-BBB 25
 keywords: >-
   BBB 25, João Pedro, Prova do Líder, Paredão, Diego, Renata, Vitória, Tadeu
   Schmidt, Rodrigo Dourado, Globoplay

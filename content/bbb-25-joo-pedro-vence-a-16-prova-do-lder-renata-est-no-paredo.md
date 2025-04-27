@@ -18,7 +18,6 @@ tags:
   - imunidade
   - reality show
   - votação online
-  - especial-BBB 25
 keywords: >-
   BBB 25, Prova do Líder, João Pedro, Renata Paredão, estratégia, imunidade,
   reality show, votação online

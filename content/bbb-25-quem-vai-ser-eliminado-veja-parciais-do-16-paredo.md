@@ -17,7 +17,6 @@ tags:
   - Globo
   - Multishow
   - Globoplay
-  - especial-BBB 25
 keywords: >-
   BBB 25, 16º Paredão, eliminação, Tadeu Schmidt, Rodrigo Dourado, votação,
   Globo, Multishow, Globoplay

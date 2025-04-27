@@ -16,7 +16,6 @@ tags:
   - Rodrigo Dourado
   - votação
   - paredão
-  - especial-BBB 25
 keywords: >-
   BBB 25, eliminação, Maike, Vitória Strada, Tadeu Schmidt, Rodrigo Dourado,
   votação, paredão

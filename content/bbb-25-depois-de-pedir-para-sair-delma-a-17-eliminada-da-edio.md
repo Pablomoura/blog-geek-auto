@@ -14,7 +14,6 @@ tags:
   - Tadeu Schmidt
   - votação BBB
   - Rodrigo Dourado
-  - especial-BBB 25
 keywords: 'BBB 25, Delma eliminada, Paredão, Tadeu Schmidt, votação BBB, Rodrigo Dourado'
 author: Pablo Moura
 data: '2025-04-16T02:24:00.642Z'

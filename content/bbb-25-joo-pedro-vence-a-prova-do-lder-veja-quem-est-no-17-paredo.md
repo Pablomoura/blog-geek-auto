@@ -18,7 +18,6 @@ tags:
   - TV Globo
   - Globoplay
   - Tadeu Schimidt
-  - especial-BBB 25
 keywords: >-
   BBB 25, João Pedro, Prova do Líder, Paredão, votação, TV Globo, Globoplay,
   Tadeu Schimidt

@@ -16,7 +16,6 @@ tags:
   - reality show
   - tv globo
   - multishow
-  - especial-BBB 25
 author: Ana Luiza
 ---
 

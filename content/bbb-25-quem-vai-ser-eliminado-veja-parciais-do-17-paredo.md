@@ -14,7 +14,6 @@ tags:
   - Tadeu Schmidt
   - Rodrigo Dourado
   - votação
-  - especial-BBB 25
 keywords: 'BBB 25, Paredão, eliminação, Tadeu Schmidt, Rodrigo Dourado, votação'
 author: Pablo Moura
 data: '2025-04-14T04:13:07.936Z'

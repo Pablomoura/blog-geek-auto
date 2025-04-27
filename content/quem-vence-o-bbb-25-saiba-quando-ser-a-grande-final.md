@@ -16,7 +16,6 @@ tags:
   - votação BBB
   - premiação BBB
   - reality show
-  - especial-BBB 25
 keywords: >-
   BBB 25, final do BBB, Tadeu Schmidt, Rodrigo Dourado, Globoplay, votação BBB,
   premiação BBB, reality show

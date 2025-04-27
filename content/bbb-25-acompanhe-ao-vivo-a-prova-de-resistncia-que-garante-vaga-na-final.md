@@ -15,7 +15,6 @@ tags:
   - Rodrigo Dourado
   - Globoplay
   - Big Brother Brasil 25
-  - especial-BBB 25
 keywords: >-
   BBB 25, prova de resistência, final BBB, Tadeu Schmidt, Rodrigo Dourado,
   Globoplay, Big Brother Brasil 25

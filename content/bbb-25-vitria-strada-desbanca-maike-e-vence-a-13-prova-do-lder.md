@@ -16,7 +16,6 @@ tags:
   - Rodrigo Dourado
   - Globoplay
   - votação online
-  - especial-BBB 25
 keywords: >-
   BBB 25, Vitória Strada, Prova do Líder, Paredão, Tadeu Schmidt, Rodrigo
   Dourado, Globoplay, votação online

@@ -16,7 +16,6 @@ tags:
   - eliminação BBB
   - reality show
   - TV Globo
-  - especial-BBB 25
 keywords: >-
   BBB 25, Guilherme líder, 15º Paredão, prova de liderança, votação BBB,
   eliminação BBB, reality show, TV Globo

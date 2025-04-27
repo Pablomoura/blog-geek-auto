@@ -18,7 +18,6 @@ tags:
   - prêmio
   - Tadeu Schmidt
   - votação
-  - especial-BBB 25
 keywords: >-
   BBB 25, eliminação, Vinícius, Renata, Vitória Strada, Diego Hypólito,
   favoritos, prêmio, Tadeu Schmidt, votação

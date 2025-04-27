@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/CmHnhPzUl8w0_V2Da5gXZy1Ev6I=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T132959.272.png"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/Yw9E33LfJKWPQaclWyN_L1UIUO0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T132944.431.png"
-tags: ["The Last of Us", "HBO", "série", "Ellie", "Bella Ramsey", "segunda temporada", "imagens novas", "Craig Mazin", "Neil Druckmann", "Naughty Dog", "Kaitlyn Dever", "Isabela Merced", "Jeffrey Wright"]
+tags: ["The Last of Us", "HBO", "série", "Ellie", "Bella Ramsey", "segunda temporada", "imagens novas", "Craig Mazin", "Neil Druckmann", "Naughty Dog", "Kaitlyn Dever", "Isabela Merced", "Jeffrey Wright", "especial-The Last of Us"]
 keywords: "The Last of Us, HBO, série, Ellie, Bella Ramsey, segunda temporada, imagens novas, Craig Mazin, Neil Druckmann, Naughty Dog, Kaitlyn Dever, Isabela Merced, Jeffrey Wright"
 author: "Luana Souza"
 data: "2025-04-22T17:19:16.678Z"

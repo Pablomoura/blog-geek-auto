@@ -16,7 +16,6 @@ tags:
   - vitória strada
   - preferência do público
   - paredão
-  - especial-BBB 25
 author: Luana Souza
 ---
 
