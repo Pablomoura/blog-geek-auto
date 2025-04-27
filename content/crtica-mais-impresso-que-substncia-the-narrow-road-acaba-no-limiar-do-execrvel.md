@@ -38,6 +38,7 @@ resumo: >-
   Jacob Elordi não convence em sua atuação no drama de guerra 'The Narrow Road
   to the Deep North', uma produção grandiosa que falha em entregar profundidade
   emocional.
+experiencia: true
 ---
 
 A minissérie 'The Narrow Road to the Deep North', financiada pela Amazon MGM e Sony Pictures, com produção adicional da Austrália, é uma tentativa ambiciosa de adaptar o livro premiado de Richard Flanagan, conhecido no Brasil como 'O Caminho Estreito para os Confins do Norte'. Sob a direção de Justin Kurzel, conhecido por trabalhos como 'Macbeth' e 'A Ordem', a série é visualmente impressionante e meticulosamente produzida.

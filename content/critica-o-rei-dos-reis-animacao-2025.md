@@ -33,6 +33,7 @@ elenco: >-
   Kenneth Branagh, Uma Thurman, Mark Hamill, Pierce Brosnan, Roman Griffin Davis, Forest Whitaker, Ben Kingsley, Oscar Isaac
 resumo: >-
   'O Rei dos Reis' é uma animação que reconta a vida de Jesus Cristo através da perspectiva de uma criança, combinando elementos de fé, emoção e imaginação em uma narrativa acessível para todas as idades.
+experiencia: true
 ---
 ## Introdução
 

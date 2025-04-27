@@ -37,6 +37,7 @@ resumo: >-
   A trilha sonora de Alexandre Desplat destoa em 'A Mais Preciosa das Cargas',
   afetando a narrativa do conto de fadas sombrio ambientado na Segunda Guerra
   Mundial.
+experiencia: true
 ---
 
 A animação, enquanto forma de arte, transcende a classificação de gênero cinematográfico, servindo como um meio versátil para contar variados tipos de histórias. No entanto, isso não isenta decisões específicas no processo de criação de certas expectativas e limitações. Nesse contexto, a escolha de Michel Hazanavicius de produzir 'A Mais Preciosa das Cargas' como um filme animado pode ser questionada.

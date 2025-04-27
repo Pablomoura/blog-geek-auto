@@ -38,6 +38,7 @@ elenco: 'Dave Bautista , Milla Jovovich '
 resumo: >-
   Paul W.S. Anderson inova em estética cinematográfica com tecnologia atual no
   filme 'Nas Terras Perdidas'.
+experiencia: true
 ---
 
 Paul W.S. Anderson sempre explorou caminhos próprios no cinema, longe de seguir as normas tradicionais do gênero, e isso é evidente em 'Nas Terras Perdidas'. Neste filme, ele recebe novamente o apoio da produtora alemã Constantin Film para implementar um estilo visual expressionista, uma escolha que remete aos clássicos do cinema de horror alemão e evoca comparações com Fritz Lang.

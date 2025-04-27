@@ -36,6 +36,7 @@ elenco: >-
 resumo: >-
   O filme biográfico explora a complexa relação entre a criação artística e as
   demandas comerciais através da vida do compositor Maurice Ravel.
+experiencia: true
 ---
 
 Logo no início de 'Bolero: A Melodia Eterna', Maurice Ravel, interpretado por Raphaël Personnaz, critica severamente seus músicos durante um ensaio, exigindo precisão na execução de uma valsa. Essa cena estabelece o tom do filme, dirigido pela cineasta francesa Anne Fontaine, que traz uma abordagem meticulosa tanto na narrativa quanto na estética do filme, refletindo o perfeccionismo de Ravel. A cinebiografia se destaca por suas cenas calculadas e o uso eficaz de silêncios, apoiando-se na performance contida de Personnaz para transmitir as emoções complexas de seu personagem.

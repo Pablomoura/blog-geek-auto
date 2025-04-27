@@ -21,6 +21,7 @@ classificacao: ""
 duracao: "50 min"
 direcao: ""
 elenco: ["Diego Luna"]
+experiencia: true
 ---
 
 Desde a aquisição da Lucasfilm pela Disney, a saga Star Wars tem sido diversamente interpretada, com algumas produções deixando fãs questionando seu valor. Enquanto séries como 'The Acolyte' e 'Skeleton Crew' falharam em capturar a essência da franquia, e 'O Livro de Boba Fett' pareceu mais um ajuste de rota para 'The Mandalorian', 'Andor' se destaca como uma narrativa essencial e impactante dentro do universo Star Wars.

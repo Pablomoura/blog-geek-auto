@@ -21,6 +21,7 @@ classificacao: "18"
 duracao: "1h 43min"
 direcao: "David F. Sandberg"
 elenco: ["Michael Cimino", " Maia Mitchell", "Belmont Cameli", "Ji-young Yoo", "Odessa A&#39;zion", "Ella Rubin", "Peter Stormare", "Maia Mitchell"]
+experiencia: true
 ---
 
 A incursão da Sony em adaptar seus jogos para cinema e TV tem sido marcada por um foco intenso na valorização da marca. No entanto, 'Until Dawn - Noite de Terror' quebra esse molde, apresentando-se como uma das produções mais únicas da PlayStation Productions até o momento. 

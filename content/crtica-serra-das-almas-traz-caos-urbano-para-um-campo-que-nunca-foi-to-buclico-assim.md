@@ -21,6 +21,7 @@ classificacao: "16"
 duracao: "2h 0min"
 direcao: "Lírio Ferreira"
 elenco: ["Ravel Andrade", "Jorge Neto", "Mari Oliveira", "Vertin Moura", "Júlia Stockler"]
+experiencia: true
 ---
 
 O filme 'Serra das Almas' inicia com cenas que parecem pertencer a dois filmes distintos: uma jovem tranquila em um rio e criminosos em fuga caótica. Ao longo de suas quase duas horas, o filme explora o encontro explosivo entre esses mundos, na casa de campo da personagem de Mari Oliveira. Lírio Ferreira utiliza contrastes visuais e sonoros para intensificar o choque entre o urbano e o rural, apoiado por uma narrativa que entrelaça o passado e o presente dos personagens de forma inovadora.

@@ -35,6 +35,7 @@ resumo: >-
   A série 'The Pitt' da Max, traz uma abordagem realista e emocionante para os
   desafios dos prontos-socorros superlotados, combinando elementos de 'ER' e '24
   Horas'.
+experiencia: true
 ---
 
 Os dramas médicos são um pilar constante na televisão, evoluindo desde o sucesso seminal de 'ER' nos anos 90 e 2000, até 'Grey’s Anatomy', que dominou as últimas décadas. Apesar de várias séries como 'House' tentarem inovar o gênero, poucas conseguiram trazer algo verdadeiramente novo. É aqui que 'The Pitt', a nova produção da HBO, tenta fazer a diferença, oferecendo uma perspectiva inovadora e ágil.

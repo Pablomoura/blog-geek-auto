@@ -21,6 +21,7 @@ classificacao: ""
 duracao: "1h 31min"
 direcao: ""
 elenco: ["Eric Bauza", "Candi Milo", "Peter MacNicol", "Fred Tatasciore", "Laraine Newman", "Wayne Knight"]
+experiencia: true
 ---
 
 Após quase um século de curtas e adaptações, os Looney Tunes finalmente ganham seu primeiro longa-metragem totalmente original com 'O Dia Que a Terra Explodiu'. Este marco na animação da Warner Bros. coloca em destaque Patolino e Gaguinho em uma trama que combina invasão alienígena, apocalipse zumbi e ação ao estilo Armaggedon, mantendo o humor e o caos característicos da franquia.

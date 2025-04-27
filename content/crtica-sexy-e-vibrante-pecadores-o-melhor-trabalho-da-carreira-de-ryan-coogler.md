@@ -37,6 +37,7 @@ elenco: 'Jack O''Connell , Hailee Steinfeld , Delroy Lindo , Michael B. Jordan'
 resumo: >-
   Ryan Coogler se reúne com Michael B. Jordan em 'Pecadores', um filme que
   explora profundamente as raízes da música e da racialidade na América.
+experiencia: true
 ---
 
 O mais recente filme de Ryan Coogler, 'Pecadores', marca um retorno vibrante do diretor ao cinema autoral, após trabalhar em grandes sucessos como 'Creed' e 'Pantera Negra'. Desde 'Fruitvale Station - A Última Parada' em 2013, Coogler não tinha explorado uma narrativa tão pessoal e envolvente, mergulhando nas divisões raciais e de classe nos Estados Unidos através de uma história que usa o horror como alegoria para desvendar os pecados humanos.

@@ -21,6 +21,7 @@ classificacao: "18"
 duracao: "1h 47min"
 direcao: "Audrey Diwan"
 elenco: ["Will Sharpe", "Noémie Merlant", "Jamie Campbell Bower", "Naomi Watts"]
+experiencia: true
 ---
 
 Quem lembra das madrugadas de Cine Privê na Rede Bandeirantes sabe que filmes de pornografia softcore como 'Emmanuelle' (1974) raramente focavam em tramas complexas, preferindo cenários exóticos e situações erotizadas. Agora, em 2024, Audrey Diwan traz uma nova versão que captura o espírito delirante da original, mas com uma abordagem moderna e esteticamente refinada.

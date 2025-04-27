@@ -39,6 +39,7 @@ resumo: >-
   O mais recente filme de Alex Garland, 'Tempo de Guerra', explora as
   complexidades da guerra através das experiências de um veterano do Iraque,
   desafiando a noção de que filmes de guerra não podem ser anti-guerra.
+experiencia: true
 ---
 
 Alex Garland junta-se ao grupo de cineastas que desafiam a afirmação de François Truffaut de que é impossível criar um filme de guerra verdadeiramente anti-guerra. Sob a direção de Garland e Ray Mendoza, um veterano da guerra do Iraque, 'Tempo de Guerra' tenta refutar essa ideia ao retratar a vida militar como algo entre o tédio e o desespero, uma abordagem que a produtora A24 aparentemente endossa.

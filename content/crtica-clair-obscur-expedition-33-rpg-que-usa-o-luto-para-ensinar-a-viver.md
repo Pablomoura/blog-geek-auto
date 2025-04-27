@@ -22,6 +22,7 @@ classificacao: "Ação, RPG"
 duracao: ""
 direcao: ""
 elenco: [""]
+experiencia: true
 ---
 
 Inicialmente receoso com o hype em torno de Clair Obscur: Expedition 33, o jogo se revelou uma grata surpresa, emergindo como uma pérola no gênero dos RPGs de turno. Com uma abordagem inicial que mistura confusão e curiosidade, o jogo introduz mecânicas únicas e uma narrativa envolvente que captura completamente o jogador.

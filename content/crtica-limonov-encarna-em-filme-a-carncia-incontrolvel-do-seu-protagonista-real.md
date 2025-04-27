@@ -38,6 +38,7 @@ elenco: 'Maria Mashkova , Ben Whishaw'
 resumo: >-
   Estrelado por Ben Whishaw, o filme se destaca por transcender o formato
   tradicional de biopics, focando em um profundo estudo de personagem.
+experiencia: true
 ---
 
 No cenário vibrante do Festival de Cannes 2024, 'Limonov: O Camaleão Russo' se destacou por sua abordagem inovadora. A vida do poeta Limonov é conhecida por suas múltiplas facetas e transformações radicais, mas o filme escolhe olhar além dos eventos documentados, explorando a incessante busca do protagonista, interpretado por Ben Whishaw, para preencher seu vazio existencial através de conflitos, polêmicas e uma série de emoções intensas.

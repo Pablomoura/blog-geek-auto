@@ -21,6 +21,7 @@ classificacao: ""
 duracao: "55 min"
 direcao: ""
 elenco: ["Joe Goldberg", "Kate Galvin", "Bronte", "Raegan /Maddie Lockwood"]
+experiencia: true
 ---
 
 Joe Goldberg nunca foi um herói. Desde 2018, quando 'Você' estreou na Netflix, o personagem interpretado por Penn Badgley mostrou seu lado obscuro, encarnando um homem misógino, inseguro e narcisista. A série ganhou fama por subverter as expectativas, fazendo os espectadores torcerem por um protagonista claramente falho, numa dinâmica semelhante a de 'Família Soprano' e 'Breaking Bad'. A popularidade de Joe, no entanto, levou a um fenômeno curioso: parte dos fãs começou a desculpar seus atos horrendos, distanciando-o da imagem de vilão.

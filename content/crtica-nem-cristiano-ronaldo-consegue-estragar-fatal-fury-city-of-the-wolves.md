@@ -21,6 +21,7 @@ classificacao: ""
 duracao: ""
 direcao: ""
 elenco: [""]
+experiencia: true
 ---
 
 Quando falamos de jogos de luta da SNK, é comum pensar em The King of Fighters, mas a origem dessa trajetória se dá com Fatal Fury, criado pelos mesmos desenvolvedores do icônico Street Fighter. Décadas após sua criação, Fatal Fury retorna com 'City of the Wolves', um título que mistura elementos clássicos e inovadores, representando uma verdadeira celebração para os fãs da série.
