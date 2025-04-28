@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://cdn.ome.lt/fsmJcQaf8P1Tvmikx9fr02v3TP4=/480x360/smart/extras/conteudos/the-last-of-us-3-episodio-2a-tempo.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/fsmJcQaf8P1Tvmikx9fr02v3TP4=/480x360/smart/extras/conteudos/the-last-of-us-3-episodio-2a-tempo.jpg"
-tags: ["The Last of Us", "HBO", "segunda temporada", "abertura", "mudança", "Pedro Pascal", "Kaitlyn Dever", "Isabela Merced", "Young Mazino", "Ellie", "Joel", "série"]
+tags: ["The Last of Us", "HBO", "segunda temporada", "abertura", "mudança", "Pedro Pascal", "Kaitlyn Dever", "Isabela Merced", "Young Mazino", "Ellie", "Joel", "série", "especial-The Last of Us"]
 keywords: "The Last of Us, HBO, segunda temporada, abertura, mudança, Pedro Pascal, Kaitlyn Dever, Isabela Merced, Young Mazino, Ellie, Joel, série"
 author: "Pablo Moura"
 data: "2025-04-28T11:36:43.959Z"

@@ -5,7 +5,7 @@ categoria: "FILMES"
 midia: "https://www.youtube.com/embed/LFcGfNEjqGE?showinfo=0&enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/zaC-nmRtgP75oOBdL5Nu9Cycdbo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_170806.png"
-tags: ["Superman", "James Gunn", "DCU", "Rachel Brosnahan", "David Corenswet", "Lois Lane", "Clark Kent", "filme Superman 2025"]
+tags: ["Superman", "James Gunn", "DCU", "Rachel Brosnahan", "David Corenswet", "Lois Lane", "Clark Kent", "filme Superman 2025", "especial-Superman"]
 keywords: "Superman, James Gunn, DCU, Rachel Brosnahan, David Corenswet, Lois Lane, Clark Kent, filme Superman 2025"
 author: "Luana Souza"
 data: "2025-04-28T20:20:05.145Z"

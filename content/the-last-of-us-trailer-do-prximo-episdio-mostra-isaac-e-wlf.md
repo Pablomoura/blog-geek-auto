@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://www.youtube.com/embed/64ein6ZWCJg?enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/anGq2jqMDoJ2rdOUuxw1nRS3Hbc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T114353.089.png"
-tags: ["The Last of Us", "HBO", "Isaac", "WLF", "segunda temporada", "Craig Mazin", "Neil Druckmann", "Naughty Dog"]
+tags: ["The Last of Us", "HBO", "Isaac", "WLF", "segunda temporada", "Craig Mazin", "Neil Druckmann", "Naughty Dog", "especial-The Last of Us"]
 keywords: "The Last of Us, HBO, Isaac, WLF, segunda temporada, Craig Mazin, Neil Druckmann, Naughty Dog"
 author: "Luana Souza"
 data: "2025-04-28T15:21:21.281Z"
