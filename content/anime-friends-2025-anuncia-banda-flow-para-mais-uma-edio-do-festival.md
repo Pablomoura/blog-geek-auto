@@ -27,16 +27,19 @@ Junto a Flow, Seven Oops também subirá ao palco. Conhecidos pela abertura de '
 
 Os ingressos já estão à venda, com valores variando conforme o dia e a categoria. Os preços do primeiro lote são:
 
-- Inteira: R$124,30 (R$ 110 + taxa)
+#### Sexta-feira
+- Inteira R$124,30 (R$ 110 + taxa)
+- Meia R$62,15 (R$ 55 + taxa)
+- Social R$73,45 (R$ 65 + taxa)
 
-- Inteira: R$180,80 (R$ 160 + taxa)
+#### Sábado e Domingo
+- Inteira R$180,80 (R$ 160 + taxa)
+- Meia R$90,40 (R$ 80 + taxa)
+- Social R$101,07 (R$ 90 + taxa)
+- VIP Sexta 169,50 (R$ 150 + taxa)
+- VIP Sábado e Domingo 214,70 (R$ 190 + taxa)
 
-- Social: R$101,07 (R$ 90 + taxa)
-
-- VIP Sexta: R$169,50 (R$ 150 + taxa)
-
-- VIP Sábado e Domingo: R$214,70 (R$ 190 + taxa)
-
-- Premium: R$4294 (R$ 3800 + taxa)
+#### Todos os dias
+- Premium R$4294 (R$ 3800 + taxa)
 
 Os fãs podem esperar um evento repleto de música, cosplay, painéis e muito mais, celebrando o melhor da cultura pop e anime japonesa.

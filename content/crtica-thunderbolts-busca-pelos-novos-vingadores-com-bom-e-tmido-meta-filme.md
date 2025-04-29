@@ -15,10 +15,10 @@ tituloPortugues: "Thunderbolts*"
 capaObra: "https://cdn.ome.lt/qxsmpum9Dmx7uwW9Ocvq7oAsGgU=/200x0/smart/extras/capas/thunderbolts.jpeg"
 notaCritico: 3
 tituloOriginal: ""
-ano: ""
-pais: ""
+ano: "2025"
+pais: "EUA"
 classificacao: ""
-duracao: ""
+duracao: "126 min"
 direcao: "Jake Schreier"
 elenco: ["Wendell Pierce", "Olga Kurylenko", "Sebastian Stan", "Hannah John-Kamen", "Julia Louis-Dreyfus", "Florence Pugh", "Wyatt Russell", "Lewis Pullman", "David Harbour"]
 ---

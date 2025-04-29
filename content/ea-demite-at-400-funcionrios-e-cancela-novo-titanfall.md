@@ -2,8 +2,8 @@
 title: "EA Anuncia Demissão de Até 400 Funcionários e Cancelamento de Novo Jogo Titanfall"
 slug: "ea-demite-at-400-funcionrios-e-cancela-novo-titanfall"
 categoria: "GAMES"
-midia: "https://www.youtube.com/embed/nskLSpbw4cs?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
+midia: "images/electronicArts.jpg"
+tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/jpVNr80gpuOEmM53aNZ7EDJ7dIU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T181900.868.png"
 tags: ["Electronic Arts", "EA demissões", "cancelamento Titanfall", "Respawn Entertainment", "reestruturação EA", "indústria de jogos"]
 keywords: "Electronic Arts, EA demissões, cancelamento Titanfall, Respawn Entertainment, reestruturação EA, indústria de jogos"
