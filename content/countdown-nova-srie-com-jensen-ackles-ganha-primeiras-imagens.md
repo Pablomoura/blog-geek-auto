@@ -13,8 +13,6 @@ data: "2025-04-29T21:19:40.590Z"
 
 ## Jensen Ackles Retorna em 'Countdown', Sua Nova Série Dramática
 
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DJCaSdsxMMN/" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"><a href="https://www.instagram.com/p/DJCaSdsxMMN/">Ver post no Instagram</a></blockquote>
-
 **Prime Video** acaba de lançar as primeiras imagens de 'Countdown', destacando Jensen Ackles em um papel intenso. A série, programada para estrear em **25 de junho**, promete capturar a atenção dos fãs com uma trama repleta de mistério e ação.
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DJCaSdsxMMN/" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"><a href="https://www.instagram.com/p/DJCaSdsxMMN/">Ver post no Instagram</a></blockquote>
