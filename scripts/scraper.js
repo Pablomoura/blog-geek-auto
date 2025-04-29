@@ -262,14 +262,25 @@ async function extrairConteudoNoticia(url) {
     });
 
     const texto = await page.evaluate(() => {
-      return Array.from(document.querySelectorAll("p"))
-        .map((p) => p.innerText.trim())
-        .filter((t) =>
-          t.length > 50 &&
-          !/Omelete|Política|Privacidade|Assine|comentários/i.test(t)
-        )
-        .join("\n");
-    });
+      const elementos = Array.from(document.querySelectorAll("h2, h3, h4, p, li"));
+      return elementos
+        .map((el) => {
+          let tag = el.tagName.toLowerCase();
+          let texto = el.innerText.trim();
+    
+          if (!texto || texto.length < 30) return null;
+          if (/Omelete|Política|Privacidade|Assine|comentários/i.test(texto)) return null;
+    
+          if (tag === "h2") return `## ${texto}`; // título principal
+          if (tag === "h3") return `### ${texto}`; // subtítulo
+          if (tag === "h4") return `### ${texto}`; // subtítulo menor
+          if (tag === "li") return `- ${texto}`;   // item de lista
+    
+          return texto; // parágrafo normal
+        })
+        .filter(Boolean)
+        .join("\n\n"); // quebra dupla para separar melhor os blocos
+    });    
 
     const midia = await page.evaluate(() => {
       const video = document.querySelector("iframe[src*='youtube']")?.getAttribute("src");
