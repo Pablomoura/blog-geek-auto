@@ -7,7 +7,7 @@ tipo: artigo
 midia: 'https://www.youtube.com/embed/MWrsQmBIkhM?enablejsapi=1'
 tipoMidia: video
 thumb: >-
-  /images/solo-leveling.jpg
+  /images/solo-leveling-final.jpg
 tags:
   - Solo Leveling
   - anime 2025
