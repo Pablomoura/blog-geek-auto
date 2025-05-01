@@ -5,7 +5,7 @@ categoria: "MANGÁS E ANIMES"
 midia: "https://www.youtube.com/embed/_HYeCulVnGk?showinfo=0&enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/wlxucC4T3UYCei_h9bZpD5ekXAk=/480x360/smart/extras/conteudos/Design_sem_nome_8_GwlWHci.jpg"
-tags: ["Solo Leveling", "terceira temporada", "Crunchyroll", "anime", "Rahul Purini", "manhwa", "Sung Jinwoo", "A-1 Pictures"]
+tags: ["Solo Leveling", "terceira temporada", "Crunchyroll", "anime", "Rahul Purini", "manhwa", "Sung Jinwoo", "A-1 Pictures", "especial-Solo Leveling"]
 keywords: "Solo Leveling, terceira temporada, Crunchyroll, anime, Rahul Purini, manhwa, Sung Jinwoo, A-1 Pictures"
 author: "Ana Luiza"
 data: "2025-05-01T13:29:30.679Z"

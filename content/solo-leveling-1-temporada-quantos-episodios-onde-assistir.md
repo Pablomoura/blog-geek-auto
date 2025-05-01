@@ -15,6 +15,7 @@ tags:
   - Crunchyroll
   - dublado
   - assistir anime
+  - especial-Solo Leveling
 keywords: >-
   solo leveling 1 temporada, solo leveling quantos episódios, onde assistir solo leveling dublado, solo leveling online
 author: Pablo Moura

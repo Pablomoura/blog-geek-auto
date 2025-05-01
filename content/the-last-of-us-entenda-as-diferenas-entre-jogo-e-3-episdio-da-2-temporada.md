@@ -5,7 +5,7 @@ categoria: "SÉRIES E TV"
 midia: "https://www.youtube.com/embed/nskLSpbw4cs?showinfo=0&enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/-IJz0OXw4wKjkfnRDm-LSNhXB2A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T123548.892.png"
-tags: ["The Last of Us", "série The Last of Us", "jogo The Last of Us", "adaptação de jogos", "HBO", "Max", "Naughty Dog", "diferenças jogo e série"]
+tags: ["The Last of Us", "série The Last of Us", "jogo The Last of Us", "adaptação de jogos", "HBO", "Max", "Naughty Dog", "diferenças jogo e série", "especial-The Last of Us"]
 keywords: "The Last of Us, série The Last of Us, jogo The Last of Us, adaptação de jogos, HBO, Max, Naughty Dog, diferenças jogo e série"
 author: "Pablo Moura"
 data: "2025-04-29T01:25:46.674Z"

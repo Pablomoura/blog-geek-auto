@@ -5,7 +5,7 @@ categoria: "MANGÁS E ANIMES"
 midia: "https://www.youtube.com/embed/HSOTFQBZ3cg?showinfo=0&enablejsapi=1"
 tipoMidia: "video"
 thumb: "https://cdn.ome.lt/EqOxFmMAy1rVK0r47R_OQImbYZg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_111537.png"
-tags: ["Solo Leveling", "Solo Leveling Ragnarok", "manhwa", "novel coreana", "Sung Suho", "Sung Jinwoo", "Cha Hae-in", "anime"]
+tags: ["Solo Leveling", "Solo Leveling Ragnarok", "manhwa", "novel coreana", "Sung Suho", "Sung Jinwoo", "Cha Hae-in", "anime", "especial-Solo Leveling"]
 keywords: "Solo Leveling, Solo Leveling Ragnarok, manhwa, novel coreana, Sung Suho, Sung Jinwoo, Cha Hae-in, anime"
 author: "Ana Luiza"
 data: "2025-04-30T14:51:29.722Z"
