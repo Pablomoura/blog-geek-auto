@@ -18,14 +18,14 @@ jobs:
       - name: 📦 Instalar dependências
         run: npm install
 
-      - name: ⚙️ Gerar cache de posts
-        run: npm run gerar-cache
+      - name: Roda o Tweetador
+        run: node scripts/tweetador.js
 
-      - name: Commit e push do cache
+      - name: Commit e push do tweetador
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Atualiza cache de posts diariamente"
+          git commit -m "Posta no Tweeter diariamente"
           git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/Pablomoura/blog-geek-auto.git HEAD:main
       
