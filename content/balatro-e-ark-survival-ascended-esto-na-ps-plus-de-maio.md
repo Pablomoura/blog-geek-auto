@@ -1,14 +1,29 @@
 ---
-title: "PS Plus de maio traz Balatro, Ark: Survival Ascended e Warhammer 40,000: Boltgun"
-slug: "balatro-e-ark-survival-ascended-esto-na-ps-plus-de-maio"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/rgrv9giaNO8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/7wOX1XzhNpcSlGrAju5MVJaELZ4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_123522.png"
-tags: ["PS Plus maio 2024", "Balatro", "Ark: Survival Ascended", "Warhammer 40", "000: Boltgun", "jogos grátis PS Plus", "Sony PlayStation"]
-keywords: "PS Plus maio 2024, Balatro, Ark: Survival Ascended, Warhammer 40, 000: Boltgun, jogos grátis PS Plus, Sony PlayStation"
-author: "Luana Souza"
-data: "2025-04-30T16:24:47.724Z"
+title: >-
+  PS Plus de maio traz Balatro, Ark: Survival Ascended e Warhammer 40,000:
+  Boltgun
+slug: balatro-e-ark-survival-ascended-esto-na-ps-plus-de-maio
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/rgrv9giaNO8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/7wOX1XzhNpcSlGrAju5MVJaELZ4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_123522.png
+tags:
+  - PS Plus maio 2024
+  - Balatro
+  - 'Ark: Survival Ascended'
+  - Warhammer 40
+  - '000: Boltgun'
+  - jogos grátis PS Plus
+  - Sony PlayStation
+keywords: >-
+  PS Plus maio 2024, Balatro, Ark: Survival Ascended, Warhammer 40, 000:
+  Boltgun, jogos grátis PS Plus, Sony PlayStation
+author: Luana Souza
+data: '2025-04-30T16:24:47.724Z'
+resumo: >-
+  Em maio, os assinantes da PS Plus podem baixar gratuitamente o aclamado indie
+  Balatro, além de Ark: Survival Ascended e Warhammer 40,000: Boltgun.
 ---
 
 ## Lançamentos de Maio na PS Plus: Diversão Garantida para Todos os Jogadores

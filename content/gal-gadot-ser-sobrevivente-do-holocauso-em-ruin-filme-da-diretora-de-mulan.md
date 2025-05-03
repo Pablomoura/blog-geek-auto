@@ -1,14 +1,30 @@
 ---
-title: "Gal Gadot em 'Ruin': Uma Sobrevivente do Holocausto na Alemanha Pós-Guerra"
-slug: "gal-gadot-ser-sobrevivente-do-holocauso-em-ruin-filme-da-diretora-de-mulan"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/XrhdMWvPFTxXS3YOpgC6Q7yiGAg=/987x0/smart/uploads/conteudo/fotos/gal-gadot-2.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4ZcxaL5HTPlmOVi5S6AHEmsoFiE=/480x360/smart/extras/conteudos/gal-gadot.webp"
-tags: ["Gal Gadot", "Ruin", "Matthias Schoenaerts", "Niki Caro", "Holocausto", "Segunda Guerra Mundial", "suspense", "cinema"]
-keywords: "Gal Gadot, Ruin, Matthias Schoenaerts, Niki Caro, Holocausto, Segunda Guerra Mundial, suspense, cinema"
-author: "Ana Luiza"
-data: "2025-05-02T18:26:09.476Z"
+title: 'Gal Gadot em ''Ruin'': Uma Sobrevivente do Holocausto na Alemanha Pós-Guerra'
+slug: gal-gadot-ser-sobrevivente-do-holocauso-em-ruin-filme-da-diretora-de-mulan
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/XrhdMWvPFTxXS3YOpgC6Q7yiGAg=/987x0/smart/uploads/conteudo/fotos/gal-gadot-2.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4ZcxaL5HTPlmOVi5S6AHEmsoFiE=/480x360/smart/extras/conteudos/gal-gadot.webp
+tags:
+  - Gal Gadot
+  - Ruin
+  - Matthias Schoenaerts
+  - Niki Caro
+  - Holocausto
+  - Segunda Guerra Mundial
+  - suspense
+  - cinema
+keywords: >-
+  Gal Gadot, Ruin, Matthias Schoenaerts, Niki Caro, Holocausto, Segunda Guerra
+  Mundial, suspense, cinema
+author: Ana Luiza
+data: '2025-05-02T18:26:09.476Z'
+resumo: >-
+  Gal Gadot e Matthias Schoenaerts unem forças em 'Ruin', um suspense dirigido
+  por Niki Caro que explora vingança e redenção nas ruínas da Segunda Guerra
+  Mundial.
 ---
 
 ## 'Ruin': Gal Gadot e Matthias Schoenaerts em uma Trama de Vingança Pós-Guerra

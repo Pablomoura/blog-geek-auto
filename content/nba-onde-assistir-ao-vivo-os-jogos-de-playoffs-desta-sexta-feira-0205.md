@@ -1,14 +1,30 @@
 ---
-title: "Playoffs da NBA 2024-25: Não Perca o Duelo Decisivo Entre Houston Rockets e Golden State Warriors"
-slug: "nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-desta-sexta-feira-0205"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Tb_yzgf38nGCW6M7JDmIXn5KR6w=/987x0/smart/uploads/conteudo/fotos/curry-brooks-playoffs-nba.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/I3FzZh4RjVdd46pw6MMz1LZP2Wk=/480x360/smart/extras/conteudos/curry-brooks-playoffs-nba-peq.jpg"
-tags: ["NBA Playoffs 2024", "Houston Rockets", "Golden State Warriors", "assistir NBA ao vivo", "NBA League Pass", "ESPN 2", "Disney+ Premium"]
-keywords: "NBA Playoffs 2024, Houston Rockets, Golden State Warriors, assistir NBA ao vivo, NBA League Pass, ESPN 2, Disney+ Premium"
-author: "Ana Luiza"
-data: "2025-05-02T11:16:15.117Z"
+title: >-
+  Playoffs da NBA 2024-25: Não Perca o Duelo Decisivo Entre Houston Rockets e
+  Golden State Warriors
+slug: nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-desta-sexta-feira-0205
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Tb_yzgf38nGCW6M7JDmIXn5KR6w=/987x0/smart/uploads/conteudo/fotos/curry-brooks-playoffs-nba.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/I3FzZh4RjVdd46pw6MMz1LZP2Wk=/480x360/smart/extras/conteudos/curry-brooks-playoffs-nba-peq.jpg
+tags:
+  - NBA Playoffs 2024
+  - Houston Rockets
+  - Golden State Warriors
+  - assistir NBA ao vivo
+  - NBA League Pass
+  - ESPN 2
+  - Disney+ Premium
+keywords: >-
+  NBA Playoffs 2024, Houston Rockets, Golden State Warriors, assistir NBA ao
+  vivo, NBA League Pass, ESPN 2, Disney+ Premium
+author: Ana Luiza
+data: '2025-05-02T11:16:15.117Z'
+resumo: >-
+  Descubra como acompanhar ao vivo o confronto crítico entre Houston Rockets e
+  Golden State Warriors nos Playoffs da NBA nesta sexta-feira, 2 de maio.
 ---
 
 ## Playoffs da NBA 2024-25: Acompanhe o Jogo Crucial da Conferência Oeste

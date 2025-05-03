@@ -1,14 +1,30 @@
 ---
-title: "Elden Ring Nightreign: Novo Jogo da FromSoftware Mistura Elementos de Bloodborne e Dark Souls"
-slug: "elden-ring-nightreign-revela-elementos-de-bloodborne-e-dark-souls-em-trailer"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/p2uYT8BQefA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/IRJ9ap7j8tiszZC_ZjE6Zs8lcQI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T113600.659.png"
-tags: ["Elden Ring Nightreign", "FromSoftware", "lançamento de jogos", "PlayStation", "Xbox", "PC", "Bloodborne", "Dark Souls"]
-keywords: "Elden Ring Nightreign, FromSoftware, lançamento de jogos, PlayStation, Xbox, PC, Bloodborne, Dark Souls"
-author: "Luana Souza"
-data: "2025-05-02T15:21:43.734Z"
+title: >-
+  Elden Ring Nightreign: Novo Jogo da FromSoftware Mistura Elementos de
+  Bloodborne e Dark Souls
+slug: elden-ring-nightreign-revela-elementos-de-bloodborne-e-dark-souls-em-trailer
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/p2uYT8BQefA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/IRJ9ap7j8tiszZC_ZjE6Zs8lcQI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T113600.659.png
+tags:
+  - Elden Ring Nightreign
+  - FromSoftware
+  - lançamento de jogos
+  - PlayStation
+  - Xbox
+  - PC
+  - Bloodborne
+  - Dark Souls
+keywords: >-
+  Elden Ring Nightreign, FromSoftware, lançamento de jogos, PlayStation, Xbox,
+  PC, Bloodborne, Dark Souls
+author: Luana Souza
+data: '2025-05-02T15:21:43.734Z'
+resumo: >-
+  Elden Ring Nightreign, o novo título da FromSoftware, será lançado em 30 de
+  maio e promete desafios intensos em modo solo ou trio.
 ---
 
 ## Elden Ring Nightreign Chega em Maio com Novidades Empolgantes

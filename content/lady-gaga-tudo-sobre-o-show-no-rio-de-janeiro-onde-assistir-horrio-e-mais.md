@@ -1,14 +1,29 @@
 ---
-title: "Lady Gaga em Copacabana: Detalhes do Show Gratuito no Rio de Janeiro"
-slug: "lady-gaga-tudo-sobre-o-show-no-rio-de-janeiro-onde-assistir-horrio-e-mais"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/10EU3fql-fpHc0SXB7MevEu6vtw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T115828.727.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SnCVP3YGHSQGp0BP0V2D5o2MNXI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T115810.606.png"
-tags: ["Lady Gaga", "show em Copacabana", "Rio de Janeiro", "transmissão ao vivo", "Copacabana Palace", "ingressos Lady Gaga", "Chromatica", "Mayhem"]
-keywords: "Lady Gaga, show em Copacabana, Rio de Janeiro, transmissão ao vivo, Copacabana Palace, ingressos Lady Gaga, Chromatica, Mayhem"
-author: "Luana Souza"
-data: "2025-05-02T16:26:01.460Z"
+title: 'Lady Gaga em Copacabana: Detalhes do Show Gratuito no Rio de Janeiro'
+slug: lady-gaga-tudo-sobre-o-show-no-rio-de-janeiro-onde-assistir-horrio-e-mais
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/10EU3fql-fpHc0SXB7MevEu6vtw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T115828.727.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SnCVP3YGHSQGp0BP0V2D5o2MNXI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T115810.606.png
+tags:
+  - Lady Gaga
+  - show em Copacabana
+  - Rio de Janeiro
+  - transmissão ao vivo
+  - Copacabana Palace
+  - ingressos Lady Gaga
+  - Chromatica
+  - Mayhem
+keywords: >-
+  Lady Gaga, show em Copacabana, Rio de Janeiro, transmissão ao vivo, Copacabana
+  Palace, ingressos Lady Gaga, Chromatica, Mayhem
+author: Luana Souza
+data: '2025-05-02T16:26:01.460Z'
+resumo: >-
+  Lady Gaga se apresenta neste sábado em Copacabana, prometendo um espetáculo
+  memorável com seus maiores sucessos. Saiba como assistir e mais detalhes!
 ---
 
 ## O Evento do Ano: Lady Gaga ao Vivo em Copacabana

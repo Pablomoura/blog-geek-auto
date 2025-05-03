@@ -1,14 +1,35 @@
 ---
-title: "Confirmada a Data de Estreia da 4ª Temporada de 'O Urso': Detalhes do Elenco e Mais"
-slug: "o-urso-data-de-estreia-da-4-temporada-confirmada-exclusivo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/3Dlz10FovJbDou_dwYbqkCknlvg=/987x0/smart/uploads/conteudo/fotos/IMG_7326.jpeg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ZZTfs8gyykJKdQawbdYi6KKlasY=/480x360/smart/extras/conteudos/IMG_7326.jpeg"
-tags: ["O Urso", "4ª temporada", "estreia", "elenco", "Disney+", "Allen White", "Ayo Edebiri", "Ebon Moss-Bachrach", "Lionel Boyce", "Liza Colón-Zayas", "Abby Elliott"]
-keywords: "O Urso, 4ª temporada, estreia, elenco, Disney+, Allen White, Ayo Edebiri, Ebon Moss-Bachrach, Lionel Boyce, Liza Colón-Zayas, Abby Elliott"
-author: "Ana Luiza"
-data: "2025-04-29T11:16:54.814Z"
+title: >-
+  Confirmada a Data de Estreia da 4ª Temporada de 'O Urso': Detalhes do Elenco e
+  Mais
+slug: o-urso-data-de-estreia-da-4-temporada-confirmada-exclusivo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/3Dlz10FovJbDou_dwYbqkCknlvg=/987x0/smart/uploads/conteudo/fotos/IMG_7326.jpeg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ZZTfs8gyykJKdQawbdYi6KKlasY=/480x360/smart/extras/conteudos/IMG_7326.jpeg
+tags:
+  - O Urso
+  - 4ª temporada
+  - estreia
+  - elenco
+  - Disney+
+  - Allen White
+  - Ayo Edebiri
+  - Ebon Moss-Bachrach
+  - Lionel Boyce
+  - Liza Colón-Zayas
+  - Abby Elliott
+keywords: >-
+  O Urso, 4ª temporada, estreia, elenco, Disney+, Allen White, Ayo Edebiri, Ebon
+  Moss-Bachrach, Lionel Boyce, Liza Colón-Zayas, Abby Elliott
+author: Ana Luiza
+data: '2025-04-29T11:16:54.814Z'
+resumo: >-
+  A aguardada quarta temporada de 'O Urso' já tem data de estreia revelada, e
+  fãs podem esperar ver seus personagens favoritos retornando em novos episódios
+  emocionantes.
 ---
 
 ## 'O Urso' Retorna para Sua Quarta Temporada

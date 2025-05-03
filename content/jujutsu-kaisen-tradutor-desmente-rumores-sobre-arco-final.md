@@ -1,14 +1,31 @@
 ---
-title: "Tradutor de Jujutsu Kaisen Esclarece Rumores sobre o Arco Final do Mangá"
-slug: "jujutsu-kaisen-tradutor-desmente-rumores-sobre-arco-final"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/s0opswr1BZk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/ofTUpHoqifLUi0YNXSVJPHNXNHE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T202220.015.png"
-tags: ["Jujutsu Kaisen", "tradutor", "rumores", "arco final", "mangá", "anime", "Globoplay", "streaming", "otaku", "Brasil"]
-keywords: "Jujutsu Kaisen, tradutor, rumores, arco final, mangá, anime, Globoplay, streaming, otaku, Brasil"
-author: "Ana Luiza"
-data: "2025-04-26T01:23:13.079Z"
+title: Tradutor de Jujutsu Kaisen Esclarece Rumores sobre o Arco Final do Mangá
+slug: jujutsu-kaisen-tradutor-desmente-rumores-sobre-arco-final
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/s0opswr1BZk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/ofTUpHoqifLUi0YNXSVJPHNXNHE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T202220.015.png
+tags:
+  - Jujutsu Kaisen
+  - tradutor
+  - rumores
+  - arco final
+  - mangá
+  - anime
+  - Globoplay
+  - streaming
+  - otaku
+  - Brasil
+keywords: >-
+  Jujutsu Kaisen, tradutor, rumores, arco final, mangá, anime, Globoplay,
+  streaming, otaku, Brasil
+author: Ana Luiza
+data: '2025-04-26T01:23:13.079Z'
+resumo: >-
+  Durante um evento em Osaka, o tradutor LightningClare desmentiu informações
+  falsas sobre o arco final de Jujutsu Kaisen, esclarecendo dúvidas e confusões
+  entre os fãs.
 ---
 
 ## Tradutor de Jujutsu Kaisen esclarece rumores no Japão

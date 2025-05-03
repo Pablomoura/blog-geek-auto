@@ -1,14 +1,28 @@
 ---
-title: "Anime Friends 2024: Tetsuo Kurata Confirmado para Sessões de Fotos e Autógrafos"
-slug: "anime-friends-confirma-tetsuo-kurata-de-kamen-rider"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/WXNqhOZRHaI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/zQYZrZHoHrmW-RF-o75T49I20Is=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T193910.551.png"
-tags: ["Anime Friends 2024", "Tetsuo Kurata", "Kamen Rider", "eventos de anime em São Paulo", "ingressos Anime Friends", "tokusatsu"]
-keywords: "Anime Friends 2024, Tetsuo Kurata, Kamen Rider, eventos de anime em São Paulo, ingressos Anime Friends, tokusatsu"
-author: "Pablo Moura"
-data: "2025-05-02T23:17:59.630Z"
+title: >-
+  Anime Friends 2024: Tetsuo Kurata Confirmado para Sessões de Fotos e
+  Autógrafos
+slug: anime-friends-confirma-tetsuo-kurata-de-kamen-rider
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/WXNqhOZRHaI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/zQYZrZHoHrmW-RF-o75T49I20Is=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T193910.551.png
+tags:
+  - Anime Friends 2024
+  - Tetsuo Kurata
+  - Kamen Rider
+  - eventos de anime em São Paulo
+  - ingressos Anime Friends
+  - tokusatsu
+keywords: >-
+  Anime Friends 2024, Tetsuo Kurata, Kamen Rider, eventos de anime em São Paulo,
+  ingressos Anime Friends, tokusatsu
+author: Pablo Moura
+data: '2025-05-02T23:17:59.630Z'
+resumo: >-
+  Tetsuo Kurata, ícone do Kamen Rider, participará do Anime Friends 2024 em São
+  Paulo, com sessões de fotos, autógrafos e encontros especiais.
 ---
 
 ## Tetsuo Kurata marca presença no Anime Friends 2024

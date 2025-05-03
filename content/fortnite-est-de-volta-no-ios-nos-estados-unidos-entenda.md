@@ -1,14 +1,30 @@
 ---
-title: "Fortnite Retorna à App Store nos EUA Após Acordo com a Apple"
-slug: "fortnite-est-de-volta-no-ios-nos-estados-unidos-entenda"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ocSCM_6XZHA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/rlNRjuv701A_LnhlKfsaOMzhgII=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T213517.783.png"
-tags: ["Fortnite", "App Store", "Epic Games", "Apple", "decisão judicial", "Tim Sweeney", "iOS", "Battle Royale", "jogos", "entretenimento"]
-keywords: "Fortnite, App Store, Epic Games, Apple, decisão judicial, Tim Sweeney, iOS, Battle Royale, jogos, entretenimento"
-author: "Luana Souza"
-data: "2025-05-01T01:40:02.676Z"
+title: Fortnite Retorna à App Store nos EUA Após Acordo com a Apple
+slug: fortnite-est-de-volta-no-ios-nos-estados-unidos-entenda
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ocSCM_6XZHA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/rlNRjuv701A_LnhlKfsaOMzhgII=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T213517.783.png
+tags:
+  - Fortnite
+  - App Store
+  - Epic Games
+  - Apple
+  - decisão judicial
+  - Tim Sweeney
+  - iOS
+  - Battle Royale
+  - jogos
+  - entretenimento
+keywords: >-
+  Fortnite, App Store, Epic Games, Apple, decisão judicial, Tim Sweeney, iOS,
+  Battle Royale, jogos, entretenimento
+author: Luana Souza
+data: '2025-05-01T01:40:02.676Z'
+resumo: >-
+  Após uma decisão judicial, Fortnite está de volta na App Store dos EUA,
+  marcando um novo capítulo na relação entre a Epic Games e a Apple.
 ---
 
 ## Fortnite e Apple: Um Novo Capítulo de Cooperação

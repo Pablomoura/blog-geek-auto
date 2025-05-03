@@ -1,14 +1,33 @@
 ---
-title: "Mountainhead: Nova Comédia de Jesse Armstrong com Steve Carell Satiriza Bilionários na HBO"
-slug: "mountainhead-filme-da-hbo-dirigido-por-criador-de-succession-ganha-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/BkPw7g10lUk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/0eQD855qpNqyl2jPMBfLyt6J3lA=/480x360/smart/extras/conteudos/mountainhead.jpg"
-tags: ["Mountainhead", "Jesse Armstrong", "Steve Carell", "HBO", "comédia", "bilionários", "Succession", "filme", "série", "Emmy"]
-keywords: "Mountainhead, Jesse Armstrong, Steve Carell, HBO, comédia, bilionários, Succession, filme, série, Emmy"
-author: "Ana Luiza"
-data: "2025-04-22T18:28:00.966Z"
+title: >-
+  Mountainhead: Nova Comédia de Jesse Armstrong com Steve Carell Satiriza
+  Bilionários na HBO
+slug: mountainhead-filme-da-hbo-dirigido-por-criador-de-succession-ganha-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/BkPw7g10lUk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/0eQD855qpNqyl2jPMBfLyt6J3lA=/480x360/smart/extras/conteudos/mountainhead.jpg
+tags:
+  - Mountainhead
+  - Jesse Armstrong
+  - Steve Carell
+  - HBO
+  - comédia
+  - bilionários
+  - Succession
+  - filme
+  - série
+  - Emmy
+keywords: >-
+  Mountainhead, Jesse Armstrong, Steve Carell, HBO, comédia, bilionários,
+  Succession, filme, série, Emmy
+author: Ana Luiza
+data: '2025-04-22T18:28:00.966Z'
+resumo: >-
+  Dirigido por Jesse Armstrong, criador de 'Succession', 'Mountainhead' é a nova
+  comédia da HBO que satiriza o mundo dos bilionários, estrelando Steve Carell e
+  programado para lançamento em 31 de maio.
 ---
 
 A HBO divulgou o aguardado primeiro trailer de 'Mountainhead', uma comédia que promete grandes risadas e reflexões ácidas sobre o universo dos bilionários. Com estreia marcada para 31 de maio, o filme é uma criação de Jesse Armstrong, conhecido por seu trabalho em 'Succession'.

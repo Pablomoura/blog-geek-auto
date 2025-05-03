@@ -1,14 +1,27 @@
 ---
-title: "Thunderbolts Supera Expectativas no Rotten Tomatoes e Promete Revigorar o MCU"
-slug: "thunderbolts-estreia-com-uma-das-melhores-notas-do-mcu-no-rotten-tomatoes"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/r37vwuH7ZPU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/-0aGUuM77ZcGjNDV1frOj3vDsF4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_160448.png"
-tags: ["Thunderbolts", "MCU", "Rotten Tomatoes", "Marvel", "filmes de super-heróis", "críticas de cinema"]
-keywords: "Thunderbolts, MCU, Rotten Tomatoes, Marvel, filmes de super-heróis, críticas de cinema"
-author: "Ana Luiza"
-data: "2025-04-29T19:16:27.447Z"
+title: Thunderbolts Supera Expectativas no Rotten Tomatoes e Promete Revigorar o MCU
+slug: thunderbolts-estreia-com-uma-das-melhores-notas-do-mcu-no-rotten-tomatoes
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/r37vwuH7ZPU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/-0aGUuM77ZcGjNDV1frOj3vDsF4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_160448.png
+tags:
+  - Thunderbolts
+  - MCU
+  - Rotten Tomatoes
+  - Marvel
+  - filmes de super-heróis
+  - críticas de cinema
+keywords: >-
+  Thunderbolts, MCU, Rotten Tomatoes, Marvel, filmes de super-heróis, críticas
+  de cinema
+author: Ana Luiza
+data: '2025-04-29T19:16:27.447Z'
+resumo: >-
+  O filme Thunderbolts estreia com uma aclamação impressionante no Rotten
+  Tomatoes, superando títulos renomados do MCU e sinalizando um futuro promissor
+  para a franquia.
 ---
 
 ## Thunderbolts Alcança Notável Sucesso Crítico Antes da Estreia

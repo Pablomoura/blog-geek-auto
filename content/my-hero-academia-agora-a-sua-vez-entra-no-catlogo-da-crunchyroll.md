@@ -1,14 +1,32 @@
 ---
-title: "Novo Filme de My Hero Academia Chega à Crunchyroll: Uma Nova Era para Deku e Heróis"
-slug: "my-hero-academia-agora-a-sua-vez-entra-no-catlogo-da-crunchyroll"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/7-n_yD51RI3nu4sx7zozlJcMc0Q=/987x0/smart/uploads/conteudo/fotos/mha_yrn_ARfLK8o.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/bulIebfESNova7zkSGEl5GbG2go=/480x360/smart/extras/conteudos/mha_yrn.png"
-tags: ["My Hero Academia", "Crunchyroll", "filme de anime", "Kohei Horikoshi", "Deku", "All Might", "anime", "série de anime"]
-keywords: "My Hero Academia, Crunchyroll, filme de anime, Kohei Horikoshi, Deku, All Might, anime, série de anime"
-author: "Luana Souza"
-data: "2025-04-22T18:25:44.004Z"
+title: >-
+  Novo Filme de My Hero Academia Chega à Crunchyroll: Uma Nova Era para Deku e
+  Heróis
+slug: my-hero-academia-agora-a-sua-vez-entra-no-catlogo-da-crunchyroll
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/7-n_yD51RI3nu4sx7zozlJcMc0Q=/987x0/smart/uploads/conteudo/fotos/mha_yrn_ARfLK8o.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/bulIebfESNova7zkSGEl5GbG2go=/480x360/smart/extras/conteudos/mha_yrn.png
+tags:
+  - My Hero Academia
+  - Crunchyroll
+  - filme de anime
+  - Kohei Horikoshi
+  - Deku
+  - All Might
+  - anime
+  - série de anime
+keywords: >-
+  My Hero Academia, Crunchyroll, filme de anime, Kohei Horikoshi, Deku, All
+  Might, anime, série de anime
+author: Luana Souza
+data: '2025-04-22T18:25:44.004Z'
+resumo: >-
+  O quarto filme da saga My Hero Academia, intitulado 'Agora é a Sua Vez', já
+  está disponível na Crunchyroll, prometendo uma narrativa intensa e cheia de
+  reviravoltas após os eventos marcantes do anime.
 ---
 
 ## My Hero Academia: Agora é a Sua Vez – Disponível na Crunchyroll

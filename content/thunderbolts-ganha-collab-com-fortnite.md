@@ -1,14 +1,35 @@
 ---
-title: "Thunderbolts Invade Fortnite: Uma Colaboração Épica Antecipa o Novo Filme da Marvel"
-slug: "thunderbolts-ganha-collab-com-fortnite"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/S7TF59KNhEBNuHf4plcthSO4Vrc=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-21T113938.844.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/bm5CbGOojCKOzb0qLd3GYrjuU7I=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T114227.302.png"
-tags: ["Thunderbolts", "Fortnite", "MCU", "Marvel", "Viúva Branca", "Soldado Invernal", "skins Fortnite", "Copa Thunderbolts", "lançamento de filme", "jogos e filmes", "colaboração Fortnite Marvel"]
-keywords: "Thunderbolts, Fortnite, MCU, Marvel, Viúva Branca, Soldado Invernal, skins Fortnite, Copa Thunderbolts, lançamento de filme, jogos e filmes, colaboração Fortnite Marvel"
-author: "Pablo Moura"
-data: "2025-04-21T15:20:33.064Z"
+title: >-
+  Thunderbolts Invade Fortnite: Uma Colaboração Épica Antecipa o Novo Filme da
+  Marvel
+slug: thunderbolts-ganha-collab-com-fortnite
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/S7TF59KNhEBNuHf4plcthSO4Vrc=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-21T113938.844.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/bm5CbGOojCKOzb0qLd3GYrjuU7I=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T114227.302.png
+tags:
+  - Thunderbolts
+  - Fortnite
+  - MCU
+  - Marvel
+  - Viúva Branca
+  - Soldado Invernal
+  - skins Fortnite
+  - Copa Thunderbolts
+  - lançamento de filme
+  - jogos e filmes
+  - colaboração Fortnite Marvel
+keywords: >-
+  Thunderbolts, Fortnite, MCU, Marvel, Viúva Branca, Soldado Invernal, skins
+  Fortnite, Copa Thunderbolts, lançamento de filme, jogos e filmes, colaboração
+  Fortnite Marvel
+author: Pablo Moura
+data: '2025-04-21T15:20:33.064Z'
+resumo: >-
+  A partir de 30 de abril, o universo de 'Thunderbolts' do MCU chega ao
+  Fortnite, trazendo skins exclusivas e um torneio especial para os fãs.
 ---
 
 A espera acabou para os fãs de Fortnite e Marvel! No próximo dia 30 de abril, os personagens do aguardado filme 'Thunderbolts' farão sua estreia épica no popular jogo Fortnite. Esta colaboração traz skins exclusivas de personagens como a Viúva Branca e o Soldado Invernal, além de acessórios como mochilas, gestos personalizados, envelopamentos e picaretas.

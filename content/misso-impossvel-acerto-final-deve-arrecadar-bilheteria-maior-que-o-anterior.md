@@ -1,14 +1,29 @@
 ---
-title: "Missão: Impossível - Acerto Final Promete Quebrar Recordes de Bilheteria em Sua Estreia"
-slug: "misso-impossvel-acerto-final-deve-arrecadar-bilheteria-maior-que-o-anterior"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/1t9OXQ2HWPR5x7zIxLWYWbfhtmA=/987x0/smart/uploads/conteudo/fotos/missao-impossivel-8-bilheteria.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/zf0SjFnAvO1urCEgb5DXDvqXlAE=/480x360/smart/extras/conteudos/missao-impossivel-8-capa.jpg"
-tags: ["Missão: Impossível - Acerto Final", "Tom Cruise", "bilheteria", "estreia de filme", "cinema", "filme de ação"]
-keywords: "Missão: Impossível - Acerto Final, Tom Cruise, bilheteria, estreia de filme, cinema, filme de ação"
-author: "Pablo Moura"
-data: "2025-05-01T18:26:04.331Z"
+title: >-
+  Missão: Impossível - Acerto Final Promete Quebrar Recordes de Bilheteria em
+  Sua Estreia
+slug: misso-impossvel-acerto-final-deve-arrecadar-bilheteria-maior-que-o-anterior
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/1t9OXQ2HWPR5x7zIxLWYWbfhtmA=/987x0/smart/uploads/conteudo/fotos/missao-impossivel-8-bilheteria.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/zf0SjFnAvO1urCEgb5DXDvqXlAE=/480x360/smart/extras/conteudos/missao-impossivel-8-capa.jpg
+tags:
+  - 'Missão: Impossível - Acerto Final'
+  - Tom Cruise
+  - bilheteria
+  - estreia de filme
+  - cinema
+  - filme de ação
+keywords: >-
+  Missão: Impossível - Acerto Final, Tom Cruise, bilheteria, estreia de filme,
+  cinema, filme de ação
+author: Pablo Moura
+data: '2025-05-01T18:26:04.331Z'
+resumo: >-
+  O último filme da saga de Ethan Hunt, Missão: Impossível - Acerto Final,
+  estreia em 22 de maio e já é esperado superar as arrecadações anteriores.
 ---
 
 ## Missão: Impossível - Acerto Final: Um Lançamento Promissor

@@ -1,14 +1,34 @@
 ---
-title: "Florence Pugh Compartilha Expectativas para 'Vingadores: Doomsday' e Retorno de Ícones do MCU"
-slug: "vingadores-doomsday-florence-pugh-revela-expectativas-para-o-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/HsgoyA-zW2Qxtdq_-FJ1BYESDho=/987x0/smart/uploads/conteudo/fotos/thunderboltsvarianteposter_Ja65EPQ.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/b3fpvdDgDrybgC_9KNtTzcp6Nr0=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_rY6rJ3R.jpg"
-tags: ["Florence Pugh", "Vingadores Doomsday", "MCU", "Marvel", "Thunderbolts", "Robert Downey Jr", "Chris Hemsworth", "Tom Hiddleston", "Patrick Stewart", "Ian McKellen"]
-keywords: "Florence Pugh, Vingadores Doomsday, MCU, Marvel, Thunderbolts, Robert Downey Jr, Chris Hemsworth, Tom Hiddleston, Patrick Stewart, Ian McKellen"
-author: "Ana Luiza"
-data: "2025-05-03T14:17:16.307Z"
+title: >-
+  Florence Pugh Compartilha Expectativas para 'Vingadores: Doomsday' e Retorno
+  de Ícones do MCU
+slug: vingadores-doomsday-florence-pugh-revela-expectativas-para-o-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/HsgoyA-zW2Qxtdq_-FJ1BYESDho=/987x0/smart/uploads/conteudo/fotos/thunderboltsvarianteposter_Ja65EPQ.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/b3fpvdDgDrybgC_9KNtTzcp6Nr0=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_rY6rJ3R.jpg
+tags:
+  - Florence Pugh
+  - Vingadores Doomsday
+  - MCU
+  - Marvel
+  - Thunderbolts
+  - Robert Downey Jr
+  - Chris Hemsworth
+  - Tom Hiddleston
+  - Patrick Stewart
+  - Ian McKellen
+keywords: >-
+  Florence Pugh, Vingadores Doomsday, MCU, Marvel, Thunderbolts, Robert Downey
+  Jr, Chris Hemsworth, Tom Hiddleston, Patrick Stewart, Ian McKellen
+author: Ana Luiza
+data: '2025-05-03T14:17:16.307Z'
+resumo: >-
+  Florence Pugh, estrela de 'Thunderbolts', revela suas esperanças para sua
+  personagem em 'Vingadores: Doomsday', que também marca o retorno de grandes
+  nomes ao Universo Marvel.
 ---
 
 ## Florence Pugh e o Retorno dos Grandes Nomes ao MCU

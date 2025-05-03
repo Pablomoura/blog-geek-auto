@@ -1,14 +1,28 @@
 ---
-title: "Prepare-se para Brilhar: Pokémon GO Lança Evento com Shiny Raros em Maio"
-slug: "pokmon-go-anuncia-evento-de-pokmon-shiny-raros-veja-como-pegar"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/HqlB-1xP2bGrDh3mOIoEJ1PuJXc=/987x0/smart/uploads/conteudo/fotos/02_4aDTFhH.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/lDmEm1kU9XIyUa4gSo2qMWwHlmQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-23_141841.png"
-tags: ["Pokémon GO", "evento Pokémon GO", "Pokémon Shiny", "Gyarados Shiny", "Crescendo e Aprendendo", "Pokémon Brilhantes"]
-keywords: "Pokémon GO, evento Pokémon GO, Pokémon Shiny, Gyarados Shiny, Crescendo e Aprendendo, Pokémon Brilhantes"
-author: "Luana Souza"
-data: "2025-04-23T18:27:11.701Z"
+title: 'Prepare-se para Brilhar: Pokémon GO Lança Evento com Shiny Raros em Maio'
+slug: pokmon-go-anuncia-evento-de-pokmon-shiny-raros-veja-como-pegar
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/HqlB-1xP2bGrDh3mOIoEJ1PuJXc=/987x0/smart/uploads/conteudo/fotos/02_4aDTFhH.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/lDmEm1kU9XIyUa4gSo2qMWwHlmQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-23_141841.png
+tags:
+  - Pokémon GO
+  - evento Pokémon GO
+  - Pokémon Shiny
+  - Gyarados Shiny
+  - Crescendo e Aprendendo
+  - Pokémon Brilhantes
+keywords: >-
+  Pokémon GO, evento Pokémon GO, Pokémon Shiny, Gyarados Shiny, Crescendo e
+  Aprendendo, Pokémon Brilhantes
+author: Luana Souza
+data: '2025-04-23T18:27:11.701Z'
+resumo: >-
+  O evento 'Crescendo e Aprendendo' de Pokémon GO, que acontece de 2 a 7 de
+  maio, oferece a chance de capturar Pokémon Shiny raros, incluindo o cobiçado
+  Gyarados vermelho.
 ---
 
 ## Crescendo e Aprendendo: Uma Jornada Brilhante em Pokémon GO

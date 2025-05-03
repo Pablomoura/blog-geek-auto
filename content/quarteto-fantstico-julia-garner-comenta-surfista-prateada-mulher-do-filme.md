@@ -1,14 +1,41 @@
 ---
-title: "Julia Garner Brilha como Surfista Prateada em 'Quarteto Fantástico': Uma Reviravolta Inesperada!"
-slug: "quarteto-fantstico-julia-garner-comenta-surfista-prateada-mulher-do-filme"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/G3nm8HzVdd4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/7bkhQeZ8QoS8inA7ahazQVEADSE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_125624.png"
-tags: ["Julia Garner", "Quarteto Fantástico", "Surfista Prateado", "Marvel", "MCU", "Matt Shakman", "Pedro Pascal", "Vanessa Kirby", "Joseph Quinn", "Ebon Moss-Bachrach", "Ralph Ineson", "Natasha Lyonne", "Paul Walter Hauser", "John Malkovich", "Robert Downey Jr.", "Vingadores"]
-keywords: "Julia Garner, Quarteto Fantástico, Surfista Prateado, Marvel, MCU, Matt Shakman, Pedro Pascal, Vanessa Kirby, Joseph Quinn, Ebon Moss-Bachrach, Ralph Ineson, Natasha Lyonne, Paul Walter Hauser, John Malkovich, Robert Downey Jr., Vingadores"
-author: "Luana Souza"
-data: "2025-04-24T17:17:32.097Z"
+title: >-
+  Julia Garner Brilha como Surfista Prateada em 'Quarteto Fantástico': Uma
+  Reviravolta Inesperada!
+slug: quarteto-fantstico-julia-garner-comenta-surfista-prateada-mulher-do-filme
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/G3nm8HzVdd4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/7bkhQeZ8QoS8inA7ahazQVEADSE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_125624.png
+tags:
+  - Julia Garner
+  - Quarteto Fantástico
+  - Surfista Prateado
+  - Marvel
+  - MCU
+  - Matt Shakman
+  - Pedro Pascal
+  - Vanessa Kirby
+  - Joseph Quinn
+  - Ebon Moss-Bachrach
+  - Ralph Ineson
+  - Natasha Lyonne
+  - Paul Walter Hauser
+  - John Malkovich
+  - Robert Downey Jr.
+  - Vingadores
+keywords: >-
+  Julia Garner, Quarteto Fantástico, Surfista Prateado, Marvel, MCU, Matt
+  Shakman, Pedro Pascal, Vanessa Kirby, Joseph Quinn, Ebon Moss-Bachrach, Ralph
+  Ineson, Natasha Lyonne, Paul Walter Hauser, John Malkovich, Robert Downey Jr.,
+  Vingadores
+author: Luana Souza
+data: '2025-04-24T17:17:32.097Z'
+resumo: >-
+  Julia Garner assume um papel icônico e transformado no novo filme do 'Quarteto
+  Fantástico', onde interpreta uma versão feminina do Surfista Prateado,
+  desafiando as expectativas originais.
 ---
 
 **Julia Garner, a estrela de 'Ozark', está prestes a surpreender os fãs da Marvel com sua interpretação do Surfista Prateado, agora como Shalla-Bal, no novo filme do 'Quarteto Fantástico'.**

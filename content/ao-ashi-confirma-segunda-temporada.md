@@ -1,14 +1,31 @@
 ---
-title: "Ao Ashi Anuncia Segunda Temporada: O Que Esperar do Futuro do Anime"
-slug: "ao-ashi-confirma-segunda-temporada"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/1FFc_wh41lI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/kWYsYf-q55B1kJlC6RDG0HIU-7w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T215426.379.png"
-tags: ["Ao Ashi", "segunda temporada", "anime", "Big Comic Spirits", "Ashito Aoi", "futebol", "mangá", "Shogakukan", "Crunchyroll", "Prime Video"]
-keywords: "Ao Ashi, segunda temporada, anime, Big Comic Spirits, Ashito Aoi, futebol, mangá, Shogakukan, Crunchyroll, Prime Video"
-author: "Ana Luiza"
-data: "2025-04-25T01:15:37.664Z"
+title: 'Ao Ashi Anuncia Segunda Temporada: O Que Esperar do Futuro do Anime'
+slug: ao-ashi-confirma-segunda-temporada
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/1FFc_wh41lI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/kWYsYf-q55B1kJlC6RDG0HIU-7w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T215426.379.png
+tags:
+  - Ao Ashi
+  - segunda temporada
+  - anime
+  - Big Comic Spirits
+  - Ashito Aoi
+  - futebol
+  - mangá
+  - Shogakukan
+  - Crunchyroll
+  - Prime Video
+keywords: >-
+  Ao Ashi, segunda temporada, anime, Big Comic Spirits, Ashito Aoi, futebol,
+  mangá, Shogakukan, Crunchyroll, Prime Video
+author: Ana Luiza
+data: '2025-04-25T01:15:37.664Z'
+resumo: >-
+  A revista Big Comic Spirits, que publica o mangá Ao Ashi, confirmou que a
+  segunda temporada do anime está em desenvolvimento, prometendo novidades
+  importantes em breve.
 ---
 
 ## Segunda Temporada de Ao Ashi a Caminho

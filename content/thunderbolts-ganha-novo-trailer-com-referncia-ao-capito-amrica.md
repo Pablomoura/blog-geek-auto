@@ -1,14 +1,33 @@
 ---
-title: "Novo Trailer de 'Thunderbolts' do MCU Acena para Capitão América e Promete Reviravoltas"
-slug: "thunderbolts-ganha-novo-trailer-com-referncia-ao-capito-amrica"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/31Rn3J1kGWMucSyuS7E11f7Fk7w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T131208.311.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/uP36tofostjFagJflMeihns5tiE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T131149.535.png"
-tags: ["Thunderbolts", "MCU", "Marvel", "Capitão América", "cinema", "filme de super-heróis", "anti-heróis", "Valentina Allegra de Fontaine", "teaser trailer"]
-keywords: "Thunderbolts, MCU, Marvel, Capitão América, cinema, filme de super-heróis, anti-heróis, Valentina Allegra de Fontaine, teaser trailer"
-author: "Pablo Moura"
-data: "2025-04-22T16:24:29.159Z"
+title: >-
+  Novo Trailer de 'Thunderbolts' do MCU Acena para Capitão América e Promete
+  Reviravoltas
+slug: thunderbolts-ganha-novo-trailer-com-referncia-ao-capito-amrica
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/31Rn3J1kGWMucSyuS7E11f7Fk7w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T131208.311.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/uP36tofostjFagJflMeihns5tiE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T131149.535.png
+tags:
+  - Thunderbolts
+  - MCU
+  - Marvel
+  - Capitão América
+  - cinema
+  - filme de super-heróis
+  - anti-heróis
+  - Valentina Allegra de Fontaine
+  - teaser trailer
+keywords: >-
+  Thunderbolts, MCU, Marvel, Capitão América, cinema, filme de super-heróis,
+  anti-heróis, Valentina Allegra de Fontaine, teaser trailer
+author: Pablo Moura
+data: '2025-04-22T16:24:29.159Z'
+resumo: >-
+  O filme 'Thunderbolts', previsto para maio de 2025, traz uma equipe de
+  anti-heróis liderada por Valentina Allegra de Fontaine e apresenta um elenco
+  estelar, incluindo uma surpreendente referência ao Capitão América.
 ---
 
 O universo cinematográfico da Marvel está prestes a expandir com o lançamento de *Thunderbolts*, que acaba de liberar um emocionante novo teaser trailer. O vídeo não só empolga com ação intensa, mas também faz uma intrigante referência ao Capitão América, prometendo um enredo cheio de conexões com o legado do herói.

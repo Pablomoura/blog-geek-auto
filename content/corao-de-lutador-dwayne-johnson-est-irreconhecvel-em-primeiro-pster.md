@@ -1,14 +1,33 @@
 ---
-title: "Dwayne Johnson Surge Transformado em 'Coração de Lutador', Estreando em Outubro"
-slug: "corao-de-lutador-dwayne-johnson-est-irreconhecvel-em-primeiro-pster"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/vmkc2zHJDcbSGznpZKcAISQdFa4=/987x0/smart/uploads/conteudo/fotos/image_15_gmq7co6.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NWw4tkxYC7vDcYyEDSocwlqqfMk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T100610.077.png"
-tags: ["Coração de Lutador", "Dwayne Johnson", "The Smashing Machine", "Benny Safdie", "Emily Blunt", "artes marciais mistas", "cinema", "estreia de filme", "Diamond Films"]
-keywords: "Coração de Lutador, Dwayne Johnson, The Smashing Machine, Benny Safdie, Emily Blunt, artes marciais mistas, cinema, estreia de filme, Diamond Films"
-author: "Luana Souza"
-data: "2025-04-28T18:29:05.660Z"
+title: >-
+  Dwayne Johnson Surge Transformado em 'Coração de Lutador', Estreando em
+  Outubro
+slug: corao-de-lutador-dwayne-johnson-est-irreconhecvel-em-primeiro-pster
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/vmkc2zHJDcbSGznpZKcAISQdFa4=/987x0/smart/uploads/conteudo/fotos/image_15_gmq7co6.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NWw4tkxYC7vDcYyEDSocwlqqfMk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T100610.077.png
+tags:
+  - Coração de Lutador
+  - Dwayne Johnson
+  - The Smashing Machine
+  - Benny Safdie
+  - Emily Blunt
+  - artes marciais mistas
+  - cinema
+  - estreia de filme
+  - Diamond Films
+keywords: >-
+  Coração de Lutador, Dwayne Johnson, The Smashing Machine, Benny Safdie, Emily
+  Blunt, artes marciais mistas, cinema, estreia de filme, Diamond Films
+author: Luana Souza
+data: '2025-04-28T18:29:05.660Z'
+resumo: >-
+  O novo filme 'Coração de Lutador', estrelado por Dwayne Johnson, revela o
+  primeiro pôster com uma transformação surpreendente do ator. O trailer será
+  lançado nesta terça-feira.
 ---
 
 ## 'Coração de Lutador': Uma Nova Face de Dwayne Johnson

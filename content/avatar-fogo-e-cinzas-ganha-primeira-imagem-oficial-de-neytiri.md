@@ -1,14 +1,26 @@
 ---
-title: "Avatar: Fogo e Cinzas Revela Primeira Imagem e Detalhes da Trama"
-slug: "avatar-fogo-e-cinzas-ganha-primeira-imagem-oficial-de-neytiri"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/MiTeiHWuKGlvn4XOKdhVIWVbCYY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T131723.508.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/sE6CQATJ3okFKUNPVTpEzBLHypE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T131645.744.png"
-tags: ["Avatar Fogo e Cinzas", "James Cameron", "Pandora", "Neytiri", "Na'vi", "cinema", "filmes"]
-keywords: "Avatar Fogo e Cinzas, James Cameron, Pandora, Neytiri, Na'vi, cinema, filmes"
-author: "Ana Luiza"
-data: "2025-05-02T16:23:11.439Z"
+title: 'Avatar: Fogo e Cinzas Revela Primeira Imagem e Detalhes da Trama'
+slug: avatar-fogo-e-cinzas-ganha-primeira-imagem-oficial-de-neytiri
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/MiTeiHWuKGlvn4XOKdhVIWVbCYY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T131723.508.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/sE6CQATJ3okFKUNPVTpEzBLHypE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T131645.744.png
+tags:
+  - Avatar Fogo e Cinzas
+  - James Cameron
+  - Pandora
+  - Neytiri
+  - Na'vi
+  - cinema
+  - filmes
+keywords: 'Avatar Fogo e Cinzas, James Cameron, Pandora, Neytiri, Na''vi, cinema, filmes'
+author: Ana Luiza
+data: '2025-05-02T16:23:11.439Z'
+resumo: >-
+  A nova imagem de Neytiri antecipa detalhes do terceiro filme da saga Avatar,
+  que promete aventuras inéditas em Pandora.
 ---
 
 ## Primeiro Olhar em 'Avatar: Fogo e Cinzas'

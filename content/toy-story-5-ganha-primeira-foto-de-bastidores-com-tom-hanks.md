@@ -1,14 +1,31 @@
 ---
-title: "Tom Hanks Celebra Início das Gravações de Toy Story 5 com Foto Exclusiva de Bastidores"
-slug: "toy-story-5-ganha-primeira-foto-de-bastidores-com-tom-hanks"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/8h98bmBYmwC1LMlCtBRTOjvOoRU=/987x0/smart/uploads/conteudo/fotos/imagem_2025-04-22_100928624.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/GsLw9isiHL0RZbVL8eNxendGwK8=/480x360/smart/extras/conteudos/imagem_2025-04-22_100836594.png"
-tags: ["Toy Story 5", "Tom Hanks", "Pixar", "animação", "Woody", "bastidores", "gravações de voz", "cinema"]
-keywords: "Toy Story 5, Tom Hanks, Pixar, animação, Woody, bastidores, gravações de voz, cinema"
-author: "Ana Luiza"
-data: "2025-04-22T13:30:19.510Z"
+title: >-
+  Tom Hanks Celebra Início das Gravações de Toy Story 5 com Foto Exclusiva de
+  Bastidores
+slug: toy-story-5-ganha-primeira-foto-de-bastidores-com-tom-hanks
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/8h98bmBYmwC1LMlCtBRTOjvOoRU=/987x0/smart/uploads/conteudo/fotos/imagem_2025-04-22_100928624.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/GsLw9isiHL0RZbVL8eNxendGwK8=/480x360/smart/extras/conteudos/imagem_2025-04-22_100836594.png
+tags:
+  - Toy Story 5
+  - Tom Hanks
+  - Pixar
+  - animação
+  - Woody
+  - bastidores
+  - gravações de voz
+  - cinema
+keywords: >-
+  Toy Story 5, Tom Hanks, Pixar, animação, Woody, bastidores, gravações de voz,
+  cinema
+author: Ana Luiza
+data: '2025-04-22T13:30:19.510Z'
+resumo: >-
+  Tom Hanks, voz do icônico Woody, compartilha a primeira imagem dos bastidores
+  de Toy Story 5, marcando o começo das gravações de voz do esperado filme.
 ---
 
 Tom Hanks, a voz inconfundível de Woody nas versões em inglês da aclamada série Toy Story, acaba de anunciar através de suas redes sociais que as gravações de voz para Toy Story 5 já começaram. O ator celebrou o momento com uma foto de bastidores onde faz o número cinco com a mão, simbolizando sua quinta participação como o amado cowboy de brinquedo. A imagem também mostra o microfone usado nas gravações, aumentando a antecipação dos fãs.

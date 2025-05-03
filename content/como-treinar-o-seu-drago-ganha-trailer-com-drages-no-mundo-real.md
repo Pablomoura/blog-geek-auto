@@ -1,14 +1,29 @@
 ---
-title: "Como Treinar o Seu Dragão: Novo Trailer do Live-Action Revela Dragões no Mundo Real"
-slug: "como-treinar-o-seu-drago-ganha-trailer-com-drages-no-mundo-real"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/HSMAB5mVfA4?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/4DdhuSXNZvtPG4wDM9DkKRq7HY4=/480x360/smart/extras/conteudos/comotreinaroseudragaoremake_E56d3L4.jpg"
-tags: ["Como Treinar o Seu Dragão", "live-action", "trailer", "cinema", "Universal Pictures", "Dean DeBlois", "dragões"]
-keywords: "Como Treinar o Seu Dragão, live-action, trailer, cinema, Universal Pictures, Dean DeBlois, dragões"
-author: "Ana Luiza"
-data: "2025-04-19T18:11:37.473Z"
+title: >-
+  Como Treinar o Seu Dragão: Novo Trailer do Live-Action Revela Dragões no Mundo
+  Real
+slug: como-treinar-o-seu-drago-ganha-trailer-com-drages-no-mundo-real
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/HSMAB5mVfA4?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/4DdhuSXNZvtPG4wDM9DkKRq7HY4=/480x360/smart/extras/conteudos/comotreinaroseudragaoremake_E56d3L4.jpg
+tags:
+  - Como Treinar o Seu Dragão
+  - live-action
+  - trailer
+  - cinema
+  - Universal Pictures
+  - Dean DeBlois
+  - dragões
+keywords: >-
+  Como Treinar o Seu Dragão, live-action, trailer, cinema, Universal Pictures,
+  Dean DeBlois, dragões
+author: Ana Luiza
+data: '2025-04-19T18:11:37.473Z'
+resumo: >-
+  A adaptação em live-action de 'Como Treinar o Seu Dragão' promete encantar os
+  fãs com uma estreia marcada para junho nos cinemas.
 ---
 
 A Universal Pictures lançou um emocionante trailer novo neste sábado (19) para a aguardada adaptação em live-action de 'Como Treinar o Seu Dragão'. O vídeo surpreende ao mostrar os dragões digitais interagindo com o cenário urbano de Cleveland, nos Estados Unidos, destacando a nova abordagem do filme originalmente animado.

@@ -1,14 +1,28 @@
 ---
-title: "Xógum: Segunda Temporada Anuncia Retorno de Elenco e Detalhes da Produção"
-slug: "xgum-2-temporada-confirma-histria-elenco-e-incio-das-gravaes"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/0vZZHskgAg8cxcBUXX1-uP63Yp8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T111132.366.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0vZZHskgAg8cxcBUXX1-uP63Yp8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T111132.366.png"
-tags: ["Xógum segunda temporada", "Hiroyuki Sanada", "Cosmo Jarvis", "série Xógum", "Japão feudal", "produção série Vancouver", "série período Edo"]
-keywords: "Xógum segunda temporada, Hiroyuki Sanada, Cosmo Jarvis, série Xógum, Japão feudal, produção série Vancouver, série período Edo"
-author: "Ana Luiza"
-data: "2025-04-30T14:52:21.311Z"
+title: 'Xógum: Segunda Temporada Anuncia Retorno de Elenco e Detalhes da Produção'
+slug: xgum-2-temporada-confirma-histria-elenco-e-incio-das-gravaes
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/0vZZHskgAg8cxcBUXX1-uP63Yp8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T111132.366.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0vZZHskgAg8cxcBUXX1-uP63Yp8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T111132.366.png
+tags:
+  - Xógum segunda temporada
+  - Hiroyuki Sanada
+  - Cosmo Jarvis
+  - série Xógum
+  - Japão feudal
+  - produção série Vancouver
+  - série período Edo
+keywords: >-
+  Xógum segunda temporada, Hiroyuki Sanada, Cosmo Jarvis, série Xógum, Japão
+  feudal, produção série Vancouver, série período Edo
+author: Ana Luiza
+data: '2025-04-30T14:52:21.311Z'
+resumo: >-
+  A aclamada série 'Xógum: A Gloriosa Saga do Japão' prepara-se para sua segunda
+  temporada, revelando elenco, trama e cronograma de filmagens.
 ---
 
 ## Segunda Temporada de 'Xógum' Promete Mais Intrigas e Aventuras

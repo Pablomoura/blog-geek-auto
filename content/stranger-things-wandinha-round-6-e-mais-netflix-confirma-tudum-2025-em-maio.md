@@ -1,14 +1,30 @@
 ---
-title: "TUDUM 2025: Netflix Anuncia Data para o Grande Evento com 'Stranger Things', 'Wandinha' e 'Round 6'"
-slug: "stranger-things-wandinha-round-6-e-mais-netflix-confirma-tudum-2025-em-maio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/4VcFcZmVd4oYJoZM8xf75XFiyCs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T101958.084.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4VcFcZmVd4oYJoZM8xf75XFiyCs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T101958.084.png"
-tags: ["TUDUM 2025", "Netflix", "Stranger Things", "Wandinha", "Round 6", "eventos da Netflix", "séries da Netflix"]
-keywords: "TUDUM 2025, Netflix, Stranger Things, Wandinha, Round 6, eventos da Netflix, séries da Netflix"
-author: "Luana Souza"
-data: "2025-04-28T13:40:22.913Z"
+title: >-
+  TUDUM 2025: Netflix Anuncia Data para o Grande Evento com 'Stranger Things',
+  'Wandinha' e 'Round 6'
+slug: stranger-things-wandinha-round-6-e-mais-netflix-confirma-tudum-2025-em-maio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/4VcFcZmVd4oYJoZM8xf75XFiyCs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T101958.084.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4VcFcZmVd4oYJoZM8xf75XFiyCs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T101958.084.png
+tags:
+  - TUDUM 2025
+  - Netflix
+  - Stranger Things
+  - Wandinha
+  - Round 6
+  - eventos da Netflix
+  - séries da Netflix
+keywords: >-
+  TUDUM 2025, Netflix, Stranger Things, Wandinha, Round 6, eventos da Netflix,
+  séries da Netflix
+author: Luana Souza
+data: '2025-04-28T13:40:22.913Z'
+resumo: >-
+  A Netflix marcou o retorno do seu evento global TUDUM para 31 de maio de 2025,
+  prometendo novidades sobre 'Stranger Things', 'Wandinha' e 'Round 6'.
 ---
 
 ## TUDUM 2025: O Que Esperar do Evento Global da Netflix

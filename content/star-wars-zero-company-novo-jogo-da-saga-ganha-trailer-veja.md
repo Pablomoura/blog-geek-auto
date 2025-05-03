@@ -1,14 +1,27 @@
 ---
-title: "Star Wars Zero Company: EA e Respawn Revelam Novo Jogo"
-slug: "star-wars-zero-company-novo-jogo-da-saga-ganha-trailer-veja"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/bz6gyBgHn2SteSD0mSdjdh7Aky8=/987x0/smart/uploads/conteudo/fotos/starwarszerocompany.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/5IbVEI9cryAfPmIx-fUA3MaS-5E=/480x360/smart/extras/conteudos/starwarszerocompany.jpg"
-tags: ["Star Wars Zero Company", "Electronic Arts", "Respawn Entertainment", "Guerras Clônicas", "Star Wars jogo", "Andor segunda temporada"]
-keywords: "Star Wars Zero Company, Electronic Arts, Respawn Entertainment, Guerras Clônicas, Star Wars jogo, Andor segunda temporada"
-author: "Luana Souza"
-data: "2025-04-19T14:09:24.635Z"
+title: 'Star Wars Zero Company: EA e Respawn Revelam Novo Jogo'
+slug: star-wars-zero-company-novo-jogo-da-saga-ganha-trailer-veja
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/bz6gyBgHn2SteSD0mSdjdh7Aky8=/987x0/smart/uploads/conteudo/fotos/starwarszerocompany.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/5IbVEI9cryAfPmIx-fUA3MaS-5E=/480x360/smart/extras/conteudos/starwarszerocompany.jpg
+tags:
+  - Star Wars Zero Company
+  - Electronic Arts
+  - Respawn Entertainment
+  - Guerras Clônicas
+  - Star Wars jogo
+  - Andor segunda temporada
+keywords: >-
+  Star Wars Zero Company, Electronic Arts, Respawn Entertainment, Guerras
+  Clônicas, Star Wars jogo, Andor segunda temporada
+author: Luana Souza
+data: '2025-04-19T14:09:24.635Z'
+resumo: >-
+  O novo jogo Star Wars Zero Company, desenvolvido pela Respawn Entertainment,
+  se ambienta nas Guerras Clônicas e tem lançamento previsto para 2026.
 ---
 
 A Electronic Arts, em colaboração com a Respawn Entertainment, lançou o empolgante primeiro trailer de Star Wars Zero Company neste sábado (19). O jogo de estratégia promete levar os jogadores de volta ao período das Guerras Clônicas, destacando-se como uma nova adição ao universo de Star Wars.

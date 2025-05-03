@@ -1,14 +1,29 @@
 ---
-title: "Lady Gaga Confirma Show em Copacabana Apesar de Confusões com Propaganda"
-slug: "lady-gaga-show-no-rio-foi-cancelado-remoo-de-painel-intriga-internautas"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/kE0RzNsBhy09JaPax7N-4Ztaes0=/987x0/smart/uploads/conteudo/fotos/gaga_OhMz69A.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/g0N8JdZ8CBvgesatos9AnAS-QOw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-23_174246.png"
-tags: ["Lady Gaga", "show em Copacabana", "Rio de Janeiro", "show gratuito", "Todo Mundo no Rio", "Eduardo Paes", "propaganda de Lady Gaga"]
-keywords: "Lady Gaga, show em Copacabana, Rio de Janeiro, show gratuito, Todo Mundo no Rio, Eduardo Paes, propaganda de Lady Gaga"
-author: "Pablo Moura"
-data: "2025-04-23T21:18:02.917Z"
+title: Lady Gaga Confirma Show em Copacabana Apesar de Confusões com Propaganda
+slug: lady-gaga-show-no-rio-foi-cancelado-remoo-de-painel-intriga-internautas
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/kE0RzNsBhy09JaPax7N-4Ztaes0=/987x0/smart/uploads/conteudo/fotos/gaga_OhMz69A.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/g0N8JdZ8CBvgesatos9AnAS-QOw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-23_174246.png
+tags:
+  - Lady Gaga
+  - show em Copacabana
+  - Rio de Janeiro
+  - show gratuito
+  - Todo Mundo no Rio
+  - Eduardo Paes
+  - propaganda de Lady Gaga
+keywords: >-
+  Lady Gaga, show em Copacabana, Rio de Janeiro, show gratuito, Todo Mundo no
+  Rio, Eduardo Paes, propaganda de Lady Gaga
+author: Pablo Moura
+data: '2025-04-23T21:18:02.917Z'
+resumo: >-
+  Apesar da remoção de um painel publicitário e rumores de cancelamento, o show
+  de Lady Gaga no Rio está confirmado para 3 de maio, com entrada gratuita e
+  transmissão ao vivo.
 ---
 
 A recente remoção de um painel publicitário anunciando o show de Lady Gaga em Copacabana gerou uma onda de especulações e preocupações entre os fãs da cantora nas redes sociais. O painel, que havia sido instalado na entrada do Túnel Engenheiro Coelho Cintra, foi substituído por outro que não menciona o nome da artista, apenas o evento "Todo Mundo no Rio", promovido pela Prefeitura do Rio de Janeiro.

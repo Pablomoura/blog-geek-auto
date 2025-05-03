@@ -1,14 +1,33 @@
 ---
-title: "Revelação Inusitada: Brinquedos Sugerem Novo Nome para Liga da Justiça em 'Superman' de James Gunn"
-slug: "gangue-da-justia-linha-de-brinquedos-aponta-nome-de-equipe-em-superman"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/lAGQ9T-460_4xjLJR20soBdMC2w=/987x0/smart/uploads/conteudo/fotos/lanterna-verde-guy-gardner-superman_nVTDZ2x.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/xuUSlG-KzjlZanrUlNounVmIcEo=/480x360/smart/extras/conteudos/lanterna-verde-guy-gardner-superman_5JzlafZ.png"
-tags: ["Superman", "James Gunn", "Liga da Justiça", "Justice Gang", "DCU", "estreia de Superman", "elenco de Superman", "novo filme de Superman", "especial-Superman"]
-keywords: "Superman, James Gunn, Liga da Justiça, Justice Gang, DCU, estreia de Superman, elenco de Superman, novo filme de Superman"
-author: "Luana Souza"
-data: "2025-04-21T23:19:05.807Z"
+title: >-
+  Revelação Inusitada: Brinquedos Sugerem Novo Nome para Liga da Justiça em
+  'Superman' de James Gunn
+slug: gangue-da-justia-linha-de-brinquedos-aponta-nome-de-equipe-em-superman
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/lAGQ9T-460_4xjLJR20soBdMC2w=/987x0/smart/uploads/conteudo/fotos/lanterna-verde-guy-gardner-superman_nVTDZ2x.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/xuUSlG-KzjlZanrUlNounVmIcEo=/480x360/smart/extras/conteudos/lanterna-verde-guy-gardner-superman_5JzlafZ.png
+tags:
+  - Superman
+  - James Gunn
+  - Liga da Justiça
+  - Justice Gang
+  - DCU
+  - estreia de Superman
+  - elenco de Superman
+  - novo filme de Superman
+  - especial-Superman
+keywords: >-
+  Superman, James Gunn, Liga da Justiça, Justice Gang, DCU, estreia de Superman,
+  elenco de Superman, novo filme de Superman
+author: Luana Souza
+data: '2025-04-21T23:19:05.807Z'
+resumo: >-
+  Uma linha de brinquedos pode ter deixado escapar um novo nome para a equipe de
+  heróis no aguardado filme 'Superman', dirigido por James Gunn, com estreia
+  marcada para julho de 2025.
 ---
 
 A nova produção de 'Superman' sob a direção de James Gunn pode estar trazendo mais surpresas do que esperado. Recentemente, uma linha de brinquedos da Imaginext denominada 'Justice Gang Multipack' foi revelada, possivelmente indicando uma nova nomenclatura para a icônica Liga da Justiça no cinema. Essa coleção inclui figuras de personagens como Superman, Guy Gardner, Senhor Incrível, além de vilões, sugerindo uma nova dinâmica no filme.

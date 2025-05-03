@@ -1,14 +1,34 @@
 ---
-title: "Robert Downey Jr. Multiplica-se em Papéis no Aguardado 'Vingadores: Guerras Secretas' de 2027"
-slug: "vingadores-guerras-secretas-ter-downey-jr-em-vrios-papis-diz-roteirista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/WhqSrBM7Tbbm6XdJGKEWQYiwOwU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T100921.486.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/64k66uuCoaGF9983bIjeMQJn60k=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T100905.346.png"
-tags: ["Vingadores Guerras Secretas", "Robert Downey Jr.", "Chris Claremont", "Marvel", "MCU", "Homem de Ferro", "Chris Evans", "Capitão América", "Elizabeth Olsen", "Feiticeira Escarlate"]
-keywords: "Vingadores Guerras Secretas, Robert Downey Jr., Chris Claremont, Marvel, MCU, Homem de Ferro, Chris Evans, Capitão América, Elizabeth Olsen, Feiticeira Escarlate"
-author: "Luana Souza"
-data: "2025-04-29T13:34:23.331Z"
+title: >-
+  Robert Downey Jr. Multiplica-se em Papéis no Aguardado 'Vingadores: Guerras
+  Secretas' de 2027
+slug: vingadores-guerras-secretas-ter-downey-jr-em-vrios-papis-diz-roteirista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/WhqSrBM7Tbbm6XdJGKEWQYiwOwU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T100921.486.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/64k66uuCoaGF9983bIjeMQJn60k=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T100905.346.png
+tags:
+  - Vingadores Guerras Secretas
+  - Robert Downey Jr.
+  - Chris Claremont
+  - Marvel
+  - MCU
+  - Homem de Ferro
+  - Chris Evans
+  - Capitão América
+  - Elizabeth Olsen
+  - Feiticeira Escarlate
+keywords: >-
+  Vingadores Guerras Secretas, Robert Downey Jr., Chris Claremont, Marvel, MCU,
+  Homem de Ferro, Chris Evans, Capitão América, Elizabeth Olsen, Feiticeira
+  Escarlate
+author: Luana Souza
+data: '2025-04-29T13:34:23.331Z'
+resumo: >-
+  Robert Downey Jr. retornará em múltiplos papéis em 'Vingadores: Guerras
+  Secretas', revela roteirista Chris Claremont em evento recente.
 ---
 
 ## Detalhes Explosivos de 'Vingadores: Guerras Secretas' Revelados

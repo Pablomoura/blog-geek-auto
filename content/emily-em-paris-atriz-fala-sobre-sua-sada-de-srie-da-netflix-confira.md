@@ -1,14 +1,31 @@
 ---
-title: "Mudanças em 'Emily em Paris': Camille Razat Anuncia Saída da Série da Netflix"
-slug: "emily-em-paris-atriz-fala-sobre-sua-sada-de-srie-da-netflix-confira"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/qnzUWu4rJKfhAv0YQVaW5lLFcp0=/480x360/smart/extras/conteudos/emily-in-paris.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/qnzUWu4rJKfhAv0YQVaW5lLFcp0=/480x360/smart/extras/conteudos/emily-in-paris.jpg"
-tags: ["Emily em Paris", "Camille Razat", "Netflix", "séries", "quinta temporada", "saída de personagem", "Lucas Bravo", "Darren Star", "MTV Entertainment Studios"]
-keywords: "Emily em Paris, Camille Razat, Netflix, séries, quinta temporada, saída de personagem, Lucas Bravo, Darren Star, MTV Entertainment Studios"
-author: "Luana Souza"
-data: "2025-04-24T19:16:39.865Z"
+title: 'Mudanças em ''Emily em Paris'': Camille Razat Anuncia Saída da Série da Netflix'
+slug: emily-em-paris-atriz-fala-sobre-sua-sada-de-srie-da-netflix-confira
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/qnzUWu4rJKfhAv0YQVaW5lLFcp0=/480x360/smart/extras/conteudos/emily-in-paris.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/qnzUWu4rJKfhAv0YQVaW5lLFcp0=/480x360/smart/extras/conteudos/emily-in-paris.jpg
+tags:
+  - Emily em Paris
+  - Camille Razat
+  - Netflix
+  - séries
+  - quinta temporada
+  - saída de personagem
+  - Lucas Bravo
+  - Darren Star
+  - MTV Entertainment Studios
+keywords: >-
+  Emily em Paris, Camille Razat, Netflix, séries, quinta temporada, saída de
+  personagem, Lucas Bravo, Darren Star, MTV Entertainment Studios
+author: Luana Souza
+data: '2025-04-24T19:16:39.865Z'
+resumo: >-
+  Camille Razat, conhecida por seu papel como Camille em 'Emily em Paris',
+  confirma sua saída da série antes da quinta temporada, mas deixa aberta a
+  possibilidade de um retorno futuro.
 ---
 
 A popular série da Netflix, 'Emily em Paris', teve sua quinta temporada confirmada, porém vem enfrentando algumas turbulências nos bastidores. Após especulações sobre a insatisfação de Lucas Bravo, intérprete de Gabriel, que foram posteriormente esclarecidas com a confirmação de seu retorno, agora é Camille Razat quem faz um anúncio importante. Razat, que tem sido uma peça fundamental desde o início da série, decidiu não retornar para a nova temporada.

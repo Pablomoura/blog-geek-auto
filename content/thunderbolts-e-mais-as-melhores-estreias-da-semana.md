@@ -1,14 +1,28 @@
 ---
-title: "Thunderbolts Brilha nas Telonas: Confira as Estreias Imperdíveis da Semana"
-slug: "thunderbolts-e-mais-as-melhores-estreias-da-semana"
-categoria: "FILMES EM CARTAZ"
-midia: "https://www.youtube.com/embed/-sAOWhvheK8?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/IZ2vPPrPiI3PK4S8Rg4jP6Gp8ww=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_0lWhBAo.jpg"
-tags: ["Thunderbolts", "Marvel", "Ney Matogrosso", "Homem com H", "Screamboat", "cinema", "estreias da semana"]
-keywords: "Thunderbolts, Marvel, Ney Matogrosso, Homem com H, Screamboat, cinema, estreias da semana"
-author: "Luana Souza"
-data: "2025-04-28T13:12:04.180Z"
+title: 'Thunderbolts Brilha nas Telonas: Confira as Estreias Imperdíveis da Semana'
+slug: thunderbolts-e-mais-as-melhores-estreias-da-semana
+categoria: FILMES EM CARTAZ
+midia: 'https://www.youtube.com/embed/-sAOWhvheK8?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/IZ2vPPrPiI3PK4S8Rg4jP6Gp8ww=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_0lWhBAo.jpg
+tags:
+  - Thunderbolts
+  - Marvel
+  - Ney Matogrosso
+  - Homem com H
+  - Screamboat
+  - cinema
+  - estreias da semana
+keywords: >-
+  Thunderbolts, Marvel, Ney Matogrosso, Homem com H, Screamboat, cinema,
+  estreias da semana
+author: Luana Souza
+data: '2025-04-28T13:12:04.180Z'
+resumo: >-
+  Esta semana, a Marvel lança o aguardado filme 'Thunderbolts', enquanto os
+  cinemas também recebem a tocante cinebiografia de Ney Matogrosso, 'Homem com
+  H'.
 ---
 
 ## Thunderbolts: O Novo Time de Anti-Heróis da Marvel

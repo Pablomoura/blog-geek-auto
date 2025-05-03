@@ -1,14 +1,34 @@
 ---
-title: "Jesse Plemons se junta ao elenco de 'Jogos Vorazes: Amanhecer na Colheita' como Plutarch Heavensbee"
-slug: "jogos-vorazes-amanhecer-na-colheita-ter-jesse-plemons-no-elenco-confira-papel"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/io0KMWEbAb1jj-iPgaMmr5y1MF0=/480x360/smart/extras/conteudos/jesse_plemons.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/io0KMWEbAb1jj-iPgaMmr5y1MF0=/480x360/smart/extras/conteudos/jesse_plemons.jpg"
-tags: ["Jogos Vorazes", "Amanhecer na Colheita", "Jesse Plemons", "Francis Lawrence", "Haymitch Abernathy", "Whitney Peak", "Joseph Zada", "Plutarch Heavensbee", "cinema", "filmes"]
-keywords: "Jogos Vorazes, Amanhecer na Colheita, Jesse Plemons, Francis Lawrence, Haymitch Abernathy, Whitney Peak, Joseph Zada, Plutarch Heavensbee, cinema, filmes"
-author: "Luana Souza"
-data: "2025-04-25T18:25:39.513Z"
+title: >-
+  Jesse Plemons se junta ao elenco de 'Jogos Vorazes: Amanhecer na Colheita'
+  como Plutarch Heavensbee
+slug: jogos-vorazes-amanhecer-na-colheita-ter-jesse-plemons-no-elenco-confira-papel
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/io0KMWEbAb1jj-iPgaMmr5y1MF0=/480x360/smart/extras/conteudos/jesse_plemons.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/io0KMWEbAb1jj-iPgaMmr5y1MF0=/480x360/smart/extras/conteudos/jesse_plemons.jpg
+tags:
+  - Jogos Vorazes
+  - Amanhecer na Colheita
+  - Jesse Plemons
+  - Francis Lawrence
+  - Haymitch Abernathy
+  - Whitney Peak
+  - Joseph Zada
+  - Plutarch Heavensbee
+  - cinema
+  - filmes
+keywords: >-
+  Jogos Vorazes, Amanhecer na Colheita, Jesse Plemons, Francis Lawrence,
+  Haymitch Abernathy, Whitney Peak, Joseph Zada, Plutarch Heavensbee, cinema,
+  filmes
+author: Luana Souza
+data: '2025-04-25T18:25:39.513Z'
+resumo: >-
+  O ator Jesse Plemons interpretará uma versão jovem de Plutarch Heavensbee em
+  'Jogos Vorazes: Amanhecer na Colheita', sob direção de Francis Lawrence.
 ---
 
 ## Jesse Plemons assume papel icônico em 'Jogos Vorazes: Amanhecer na Colheita'

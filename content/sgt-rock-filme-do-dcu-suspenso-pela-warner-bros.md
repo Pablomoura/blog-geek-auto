@@ -1,14 +1,31 @@
 ---
-title: "Warner Bros. interrompe produção do filme 'Sgt. Rock' dirigido por Luca Guadagnino"
-slug: "sgt-rock-filme-do-dcu-suspenso-pela-warner-bros"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/MaFQ3lC-kvSNsrcyMom-LpiasB0=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_5_Ya7ShEo.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/_T_FXqwIwbmQD0RptP8NKJtXT1w=/480x360/smart/extras/conteudos/Design_sem_nome_5_Qu5NdIc.jpg"
-tags: ["Sgt. Rock", "DCU", "Warner Bros.", "Luca Guadagnino", "filme suspenso", "Colin Farrell", "DC Comics", "James Gunn"]
-keywords: "Sgt. Rock, DCU, Warner Bros., Luca Guadagnino, filme suspenso, Colin Farrell, DC Comics, James Gunn"
-author: "Ana Luiza"
-data: "2025-04-30T18:26:33.236Z"
+title: >-
+  Warner Bros. interrompe produção do filme 'Sgt. Rock' dirigido por Luca
+  Guadagnino
+slug: sgt-rock-filme-do-dcu-suspenso-pela-warner-bros
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/MaFQ3lC-kvSNsrcyMom-LpiasB0=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_5_Ya7ShEo.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/_T_FXqwIwbmQD0RptP8NKJtXT1w=/480x360/smart/extras/conteudos/Design_sem_nome_5_Qu5NdIc.jpg
+tags:
+  - Sgt. Rock
+  - DCU
+  - Warner Bros.
+  - Luca Guadagnino
+  - filme suspenso
+  - Colin Farrell
+  - DC Comics
+  - James Gunn
+keywords: >-
+  Sgt. Rock, DCU, Warner Bros., Luca Guadagnino, filme suspenso, Colin Farrell,
+  DC Comics, James Gunn
+author: Ana Luiza
+data: '2025-04-30T18:26:33.236Z'
+resumo: >-
+  A suspensão do filme 'Sgt. Rock' do DCU, que estava sendo dirigido por Luca
+  Guadagnino, foi anunciada pela Warner Bros. devido a conflitos de agenda.
 ---
 
 ## Produção de 'Sgt. Rock' é Suspensa pela Warner Bros.

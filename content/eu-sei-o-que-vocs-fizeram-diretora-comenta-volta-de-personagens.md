@@ -1,14 +1,29 @@
 ---
-title: "Reboot de 'Eu Sei o Que Vocês Fizeram no Verão Passado' traz surpresas com retorno de personagens icônicos"
-slug: "eu-sei-o-que-vocs-fizeram-diretora-comenta-volta-de-personagens"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/0wtYehWlYecAnQivzMDeDFwVjaY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-30T205631.480.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/PPuM1o_xfjFfYFl9yNIMSlNpLcQ=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T205631.480.png"
-tags: ["Eu Sei o Que Vocês Fizeram no Verão Passado", "Jennifer Kaytin Robinson", "Freddie Prinze Jr.", "reboot", "filme de terror", "franquia de terror"]
-keywords: "Eu Sei o Que Vocês Fizeram no Verão Passado, Jennifer Kaytin Robinson, Freddie Prinze Jr., reboot, filme de terror, franquia de terror"
-author: "Pablo Moura"
-data: "2025-05-01T01:40:56.913Z"
+title: >-
+  Reboot de 'Eu Sei o Que Vocês Fizeram no Verão Passado' traz surpresas com
+  retorno de personagens icônicos
+slug: eu-sei-o-que-vocs-fizeram-diretora-comenta-volta-de-personagens
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/0wtYehWlYecAnQivzMDeDFwVjaY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-30T205631.480.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/PPuM1o_xfjFfYFl9yNIMSlNpLcQ=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T205631.480.png
+tags:
+  - Eu Sei o Que Vocês Fizeram no Verão Passado
+  - Jennifer Kaytin Robinson
+  - Freddie Prinze Jr.
+  - reboot
+  - filme de terror
+  - franquia de terror
+keywords: >-
+  Eu Sei o Que Vocês Fizeram no Verão Passado, Jennifer Kaytin Robinson, Freddie
+  Prinze Jr., reboot, filme de terror, franquia de terror
+author: Pablo Moura
+data: '2025-05-01T01:40:56.913Z'
+resumo: >-
+  A diretora Jennifer Kaytin Robinson revela detalhes sobre o retorno
+  surpreendente de personagens clássicos no novo filme da franquia de terror.
 ---
 
 ## Detalhes Revelados do Novo 'Eu Sei o Que Vocês Fizeram no Verão Passado'

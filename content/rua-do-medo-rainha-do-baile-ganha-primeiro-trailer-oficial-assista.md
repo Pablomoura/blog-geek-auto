@@ -1,14 +1,27 @@
 ---
-title: "Netflix Lança Trailer de 'Rua do Medo: Rainha do Baile' com Promessa de Terror no Baile de Formatura"
-slug: "rua-do-medo-rainha-do-baile-ganha-primeiro-trailer-oficial-assista"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/5v0Ui1VzCDo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/bH4FukHw7a35yAPsJjPBIvZhfMg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T123959.405.png"
-tags: ["Rua do Medo Rainha do Baile", "Netflix", "trailer oficial", "filme de terror", "estreia"]
-keywords: "Rua do Medo Rainha do Baile, Netflix, trailer oficial, filme de terror, estreia"
-author: "Luana Souza"
-data: "2025-04-29T16:26:01.533Z"
+title: >-
+  Netflix Lança Trailer de 'Rua do Medo: Rainha do Baile' com Promessa de Terror
+  no Baile de Formatura
+slug: rua-do-medo-rainha-do-baile-ganha-primeiro-trailer-oficial-assista
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/5v0Ui1VzCDo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/bH4FukHw7a35yAPsJjPBIvZhfMg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T123959.405.png
+tags:
+  - Rua do Medo Rainha do Baile
+  - Netflix
+  - trailer oficial
+  - filme de terror
+  - estreia
+keywords: >-
+  Rua do Medo Rainha do Baile, Netflix, trailer oficial, filme de terror,
+  estreia
+author: Luana Souza
+data: '2025-04-29T16:26:01.533Z'
+resumo: >-
+  O novo filme da franquia 'Rua do Medo' chega à Netflix em maio, trazendo
+  mistério e terror ao baile de formatura de Shadyside.
 ---
 
 ## 'Rua do Medo: Rainha do Baile' Estreia em Maio na Netflix

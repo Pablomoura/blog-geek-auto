@@ -1,14 +1,30 @@
 ---
-title: "Sucesso Estrondoso: 'Um Filme Minecraft' Ultrapassa US$ 700 Milhões Globalmente"
-slug: "bilheteria-um-filme-minecraft-passa-dos-us-700-milhes-no-mundo"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg"
-tags: ["Um Filme Minecraft", "bilheteria", "recordes", "adaptação de games", "Minecraft filme", "Jason Momoa", "Jack Black"]
-keywords: "Um Filme Minecraft, bilheteria, recordes, adaptação de games, Minecraft filme, Jason Momoa, Jack Black"
-author: "Pablo Moura"
-data: "2025-04-20T16:20:38.368Z"
+title: >-
+  Sucesso Estrondoso: 'Um Filme Minecraft' Ultrapassa US$ 700 Milhões
+  Globalmente
+slug: bilheteria-um-filme-minecraft-passa-dos-us-700-milhes-no-mundo
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg
+tags:
+  - Um Filme Minecraft
+  - bilheteria
+  - recordes
+  - adaptação de games
+  - Minecraft filme
+  - Jason Momoa
+  - Jack Black
+keywords: >-
+  Um Filme Minecraft, bilheteria, recordes, adaptação de games, Minecraft filme,
+  Jason Momoa, Jack Black
+author: Pablo Moura
+data: '2025-04-20T16:20:38.368Z'
+resumo: >-
+  A adaptação cinematográfica de Minecraft já arrecadou impressionantes US$ 350
+  milhões apenas nos Estados Unidos, consolidando-se como um fenômeno nas
+  bilheterias.
 ---
 
 O filme 'Um Filme Minecraft' continua a quebrar recordes, acumulando um total de US$ 720,8 milhões em arrecadação global. Só nos Estados Unidos, após três semanas de exibição, o filme já soma US$ 344 milhões. Apesar de ter sido superado por 'Pecadores' no ranking de bilheteria dos EUA durante o fim de semana de Páscoa, 'Um Filme Minecraft' teve uma estreia histórica, arrecadando US$ 157 milhões e se tornando a maior estreia de uma adaptação de videogame no país, superando os US$ 146 milhões de 'Super Mario Bros. - O Filme' em 2023.

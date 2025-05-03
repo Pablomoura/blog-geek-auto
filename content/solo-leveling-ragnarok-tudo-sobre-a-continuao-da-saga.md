@@ -1,14 +1,29 @@
 ---
-title: "Solo Leveling Ragnarok: A Nova Saga Que Promete Expandir o Universo do Manhwa"
-slug: "solo-leveling-ragnarok-tudo-sobre-a-continuao-da-saga"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/HSOTFQBZ3cg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/EqOxFmMAy1rVK0r47R_OQImbYZg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_111537.png"
-tags: ["Solo Leveling", "Solo Leveling Ragnarok", "manhwa", "novel coreana", "Sung Suho", "Sung Jinwoo", "Cha Hae-in", "anime", "especial-Solo Leveling"]
-keywords: "Solo Leveling, Solo Leveling Ragnarok, manhwa, novel coreana, Sung Suho, Sung Jinwoo, Cha Hae-in, anime"
-author: "Ana Luiza"
-data: "2025-04-30T14:51:29.722Z"
+title: 'Solo Leveling Ragnarok: A Nova Saga Que Promete Expandir o Universo do Manhwa'
+slug: solo-leveling-ragnarok-tudo-sobre-a-continuao-da-saga
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/HSOTFQBZ3cg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/EqOxFmMAy1rVK0r47R_OQImbYZg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_111537.png
+tags:
+  - Solo Leveling
+  - Solo Leveling Ragnarok
+  - manhwa
+  - novel coreana
+  - Sung Suho
+  - Sung Jinwoo
+  - Cha Hae-in
+  - anime
+  - especial-Solo Leveling
+keywords: >-
+  Solo Leveling, Solo Leveling Ragnarok, manhwa, novel coreana, Sung Suho, Sung
+  Jinwoo, Cha Hae-in, anime
+author: Ana Luiza
+data: '2025-04-30T14:51:29.722Z'
+resumo: >-
+  Descubra tudo sobre Solo Leveling Ragnarok, a continuação direta de Solo
+  Leveling que segue as aventuras do filho dos protagonistas originais.
 ---
 
 ## Solo Leveling Ragnarok: Herança e Novos Desafios

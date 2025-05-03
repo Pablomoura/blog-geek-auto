@@ -1,14 +1,31 @@
 ---
-title: "Minha Mãe Com Seu Pai: Novo Reality Show da Globoplay Promete Romances e Surpresas"
-slug: "minha-me-com-seu-pai-como-vai-funcionar-o-novo-reality-show-do-globoplay"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/0sHDG69JQo3RutighcfHIGLyO6w=/987x0/smart/uploads/conteudo/fotos/sabrina-sato-minha-mae-com-seu-pai.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/07YYuuB43xP7yT1cqRyMKkY_lu0=/480x360/smart/extras/conteudos/sabrina-sato-minha-mae-com-seu-pai-peq.jpg"
-tags: ["Minha Mãe Com Seu Pai", "Globoplay", "reality show", "Sabrina Sato", "ITV Studios", "streaming", "romance", "televisão brasileira"]
-keywords: "Minha Mãe Com Seu Pai, Globoplay, reality show, Sabrina Sato, ITV Studios, streaming, romance, televisão brasileira"
-author: "Luana Souza"
-data: "2025-04-30T20:21:40.335Z"
+title: >-
+  Minha Mãe Com Seu Pai: Novo Reality Show da Globoplay Promete Romances e
+  Surpresas
+slug: minha-me-com-seu-pai-como-vai-funcionar-o-novo-reality-show-do-globoplay
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/0sHDG69JQo3RutighcfHIGLyO6w=/987x0/smart/uploads/conteudo/fotos/sabrina-sato-minha-mae-com-seu-pai.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/07YYuuB43xP7yT1cqRyMKkY_lu0=/480x360/smart/extras/conteudos/sabrina-sato-minha-mae-com-seu-pai-peq.jpg
+tags:
+  - Minha Mãe Com Seu Pai
+  - Globoplay
+  - reality show
+  - Sabrina Sato
+  - ITV Studios
+  - streaming
+  - romance
+  - televisão brasileira
+keywords: >-
+  Minha Mãe Com Seu Pai, Globoplay, reality show, Sabrina Sato, ITV Studios,
+  streaming, romance, televisão brasileira
+author: Luana Souza
+data: '2025-04-30T20:21:40.335Z'
+resumo: >-
+  O Globoplay lança 'Minha Mãe Com Seu Pai', um reality show inédito que mistura
+  romance e estratégias familiares, sob a apresentação de Sabrina Sato.
 ---
 
 ## 'Minha Mãe Com Seu Pai' Estreia com Grande Expectativa

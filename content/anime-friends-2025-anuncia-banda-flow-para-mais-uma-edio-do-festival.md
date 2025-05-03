@@ -1,14 +1,29 @@
 ---
-title: "Anime Friends 2025 em São Paulo: Flow e Seven Oops Confirmados!"
-slug: "anime-friends-2025-anuncia-banda-flow-para-mais-uma-edio-do-festival"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/31QEFjFtb8nASGx5w9ShrrSH5Ig=/987x0/smart/uploads/conteudo/fotos/flow__anime_friends_dq.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/sLSeznBGCmkxKkqOfQmlTpLk3vc=/480x360/smart/extras/conteudos/flow__anime_friends.png"
-tags: ["Anime Friends 2025", "Flow banda", "Seven Oops", "festival de cultura oriental", "São Paulo eventos", "animes", "Naruto", "Code Geass"]
-keywords: "Anime Friends 2025, Flow banda, Seven Oops, festival de cultura oriental, São Paulo eventos, animes, Naruto, Code Geass"
-author: "Ana Luiza"
-data: "2025-04-29T22:18:44.128Z"
+title: 'Anime Friends 2025 em São Paulo: Flow e Seven Oops Confirmados!'
+slug: anime-friends-2025-anuncia-banda-flow-para-mais-uma-edio-do-festival
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/31QEFjFtb8nASGx5w9ShrrSH5Ig=/987x0/smart/uploads/conteudo/fotos/flow__anime_friends_dq.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/sLSeznBGCmkxKkqOfQmlTpLk3vc=/480x360/smart/extras/conteudos/flow__anime_friends.png
+tags:
+  - Anime Friends 2025
+  - Flow banda
+  - Seven Oops
+  - festival de cultura oriental
+  - São Paulo eventos
+  - animes
+  - Naruto
+  - Code Geass
+keywords: >-
+  Anime Friends 2025, Flow banda, Seven Oops, festival de cultura oriental, São
+  Paulo eventos, animes, Naruto, Code Geass
+author: Ana Luiza
+data: '2025-04-29T22:18:44.128Z'
+resumo: >-
+  O Anime Friends 2025, que ocorre em julho em São Paulo, contará com shows das
+  bandas Flow e Seven Oops, ícones das trilhas de Naruto.
 ---
 
 ## Anime Friends 2025: Um Festival de Cultura Oriental Imperdível

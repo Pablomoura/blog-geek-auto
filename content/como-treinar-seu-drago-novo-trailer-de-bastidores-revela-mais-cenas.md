@@ -1,14 +1,30 @@
 ---
-title: "Como Treinar Seu Dragão: Revelações do Novo Trailer de Bastidores do Live-Action"
-slug: "como-treinar-seu-drago-novo-trailer-de-bastidores-revela-mais-cenas"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/3Gx4aRmh3mk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/DbPaPF581eAAkkBRSqpm9WqgdNc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_144818.png"
-tags: ["Como Treinar Seu Dragão", "live-action", "trailer de bastidores", "Dean DeBlois", "Gerard Butler", "Mason Thames", "Nico Parker"]
-keywords: "Como Treinar Seu Dragão, live-action, trailer de bastidores, Dean DeBlois, Gerard Butler, Mason Thames, Nico Parker"
-author: "Ana Luiza"
-data: "2025-05-01T18:27:07.081Z"
+title: >-
+  Como Treinar Seu Dragão: Revelações do Novo Trailer de Bastidores do
+  Live-Action
+slug: como-treinar-seu-drago-novo-trailer-de-bastidores-revela-mais-cenas
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/3Gx4aRmh3mk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/DbPaPF581eAAkkBRSqpm9WqgdNc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_144818.png
+tags:
+  - Como Treinar Seu Dragão
+  - live-action
+  - trailer de bastidores
+  - Dean DeBlois
+  - Gerard Butler
+  - Mason Thames
+  - Nico Parker
+keywords: >-
+  Como Treinar Seu Dragão, live-action, trailer de bastidores, Dean DeBlois,
+  Gerard Butler, Mason Thames, Nico Parker
+author: Ana Luiza
+data: '2025-05-01T18:27:07.081Z'
+resumo: >-
+  Um novo trailer de bastidores do esperado live-action de 'Como Treinar Seu
+  Dragão' oferece um olhar exclusivo sobre o processo de criação e apresenta
+  cenas inéditas.
 ---
 
 ## Bastidores e Elenco do Live-Action de Como Treinar Seu Dragão

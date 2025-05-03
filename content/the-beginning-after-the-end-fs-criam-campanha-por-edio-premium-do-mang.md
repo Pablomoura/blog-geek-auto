@@ -1,14 +1,29 @@
 ---
-title: "Fãs de 'The Beginning After The End' iniciam campanha para edição física premium do manhwa"
-slug: "the-beginning-after-the-end-fs-criam-campanha-por-edio-premium-do-mang"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/HA3Eu_y5VJM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/h3xbu-AphlUoxvz8d-BWK8HdGRY=/480x360/smart/extras/conteudos/thebeginningaftertheend.jpg"
-tags: ["The Beginning After The End", "Kickstarter", "edição física", "manhwa", "Crunchyroll", "Tapas", "Rocketship Entertainment"]
-keywords: "The Beginning After The End, Kickstarter, edição física, manhwa, Crunchyroll, Tapas, Rocketship Entertainment"
-author: "Pablo Moura"
-data: "2025-04-27T20:19:35.849Z"
+title: >-
+  Fãs de 'The Beginning After The End' iniciam campanha para edição física
+  premium do manhwa
+slug: the-beginning-after-the-end-fs-criam-campanha-por-edio-premium-do-mang
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/HA3Eu_y5VJM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/h3xbu-AphlUoxvz8d-BWK8HdGRY=/480x360/smart/extras/conteudos/thebeginningaftertheend.jpg
+tags:
+  - The Beginning After The End
+  - Kickstarter
+  - edição física
+  - manhwa
+  - Crunchyroll
+  - Tapas
+  - Rocketship Entertainment
+keywords: >-
+  The Beginning After The End, Kickstarter, edição física, manhwa, Crunchyroll,
+  Tapas, Rocketship Entertainment
+author: Pablo Moura
+data: '2025-04-27T20:19:35.849Z'
+resumo: >-
+  Apaixonados pelo manhwa 'The Beginning After The End' lançam campanha no
+  Kickstarter para financiar edições físicas de luxo dos três primeiros volumes.
 ---
 
 ## Campanha no Kickstarter para 'The Beginning After The End'

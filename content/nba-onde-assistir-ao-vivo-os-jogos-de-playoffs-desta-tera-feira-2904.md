@@ -1,14 +1,27 @@
 ---
-title: "Playoffs da NBA 2024-25: Onde e Quando Assistir aos Jogos Decisivos?"
-slug: "nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-desta-tera-feira-2904"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/MC46XQJolPMQGEISIcK6IDYBPG4=/987x0/smart/uploads/conteudo/fotos/clippers-nuggets-playoffs-nba.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/LH3bzKZyAQsfeYfZ0SAGUNJov14=/480x360/smart/extras/conteudos/clippers-nuggets-playoffs-nba-peq.jpg"
-tags: ["NBA", "Playoffs da NBA", "jogos NBA ao vivo", "onde assistir NBA", "NBA League Pass", "Playoffs 2024-25"]
-keywords: "NBA, Playoffs da NBA, jogos NBA ao vivo, onde assistir NBA, NBA League Pass, Playoffs 2024-25"
-author: "Luana Souza"
-data: "2025-04-29T11:17:24.322Z"
+title: 'Playoffs da NBA 2024-25: Onde e Quando Assistir aos Jogos Decisivos?'
+slug: nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-desta-tera-feira-2904
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/MC46XQJolPMQGEISIcK6IDYBPG4=/987x0/smart/uploads/conteudo/fotos/clippers-nuggets-playoffs-nba.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/LH3bzKZyAQsfeYfZ0SAGUNJov14=/480x360/smart/extras/conteudos/clippers-nuggets-playoffs-nba-peq.jpg
+tags:
+  - NBA
+  - Playoffs da NBA
+  - jogos NBA ao vivo
+  - onde assistir NBA
+  - NBA League Pass
+  - Playoffs 2024-25
+keywords: >-
+  NBA, Playoffs da NBA, jogos NBA ao vivo, onde assistir NBA, NBA League Pass,
+  Playoffs 2024-25
+author: Luana Souza
+data: '2025-04-29T11:17:24.322Z'
+resumo: >-
+  Descubra os horários e plataformas para assistir aos confrontos cruciais dos
+  Playoffs da NBA nesta terça-feira, 29 de abril.
 ---
 
 ## Agenda dos Playoffs da NBA: 29 de abril

@@ -1,14 +1,29 @@
 ---
-title: "Vingadores: Doomsday - Visual de Doutor Destino por Robert Downey Jr. é Indicado em Foto de Bastidores"
-slug: "vingadores-doomsday-foto-do-set-pode-ter-revelado-visual-de-victor-von-doom"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/rB5PNuwk0yY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/gYm3EAfH0tdJ2mLHWy3WWjZ-pVU=/480x360/smart/extras/conteudos/01_COf2ZFQ.jpg"
-tags: ["Vingadores Doomsday", "Robert Downey Jr", "Doutor Destino", "Victor Von Doom", "Marvel", "MCU", "Vingadores"]
-keywords: "Vingadores Doomsday, Robert Downey Jr, Doutor Destino, Victor Von Doom, Marvel, MCU, Vingadores"
-author: "Ana Luiza"
-data: "2025-05-02T20:20:56.022Z"
+title: >-
+  Vingadores: Doomsday - Visual de Doutor Destino por Robert Downey Jr. é
+  Indicado em Foto de Bastidores
+slug: vingadores-doomsday-foto-do-set-pode-ter-revelado-visual-de-victor-von-doom
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/rB5PNuwk0yY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/gYm3EAfH0tdJ2mLHWy3WWjZ-pVU=/480x360/smart/extras/conteudos/01_COf2ZFQ.jpg
+tags:
+  - Vingadores Doomsday
+  - Robert Downey Jr
+  - Doutor Destino
+  - Victor Von Doom
+  - Marvel
+  - MCU
+  - Vingadores
+keywords: >-
+  Vingadores Doomsday, Robert Downey Jr, Doutor Destino, Victor Von Doom,
+  Marvel, MCU, Vingadores
+author: Ana Luiza
+data: '2025-05-02T20:20:56.022Z'
+resumo: >-
+  Uma foto recente do set de 'Vingadores: Doomsday' pode ter revelado detalhes
+  sobre o aguardado visual de Doutor Destino, interpretado por Robert Downey Jr.
 ---
 
 

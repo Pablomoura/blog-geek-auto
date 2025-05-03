@@ -1,14 +1,28 @@
 ---
-title: "Filme 'Ainda Estou Aqui' e Fernanda Torres Brilham no Prêmio Platino"
-slug: "ainda-estou-aqui-e-fernanda-torres-so-grandes-vencedores-do-oscar-espanhol"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/YvaVzvyjd5W0pHCLRDBc-5ajDfQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T110426.828.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pHGrtM89UjWojBEvpshs0bjfryA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T110410.482.png"
-tags: ["Prêmio Platino", "Ainda Estou Aqui", "Fernanda Torres", "cinema brasileiro", "Walter Salles", "filme ibero-americano"]
-keywords: "Prêmio Platino, Ainda Estou Aqui, Fernanda Torres, cinema brasileiro, Walter Salles, filme ibero-americano"
-author: "Pablo Moura"
-data: "2025-04-28T14:21:00.427Z"
+title: Filme 'Ainda Estou Aqui' e Fernanda Torres Brilham no Prêmio Platino
+slug: ainda-estou-aqui-e-fernanda-torres-so-grandes-vencedores-do-oscar-espanhol
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/YvaVzvyjd5W0pHCLRDBc-5ajDfQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T110426.828.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pHGrtM89UjWojBEvpshs0bjfryA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T110410.482.png
+tags:
+  - Prêmio Platino
+  - Ainda Estou Aqui
+  - Fernanda Torres
+  - cinema brasileiro
+  - Walter Salles
+  - filme ibero-americano
+keywords: >-
+  Prêmio Platino, Ainda Estou Aqui, Fernanda Torres, cinema brasileiro, Walter
+  Salles, filme ibero-americano
+author: Pablo Moura
+data: '2025-04-28T14:21:00.427Z'
+resumo: >-
+  'Ainda Estou Aqui' conquistou três importantes estatuetas no Prêmio Platino,
+  incluindo Melhor Filme Ibero-Americano, consolidando o talento brasileiro no
+  cinema internacional.
 ---
 
 ## Triunfo no Prêmio Platino

@@ -1,14 +1,27 @@
 ---
-title: "Olympo: Nova Série da Netflix com Estrelas de Elite Promete Drama e Competição"
-slug: "elite-nas-olimpadas-netflix-revela-teaser-quente-e-data-de-olympo"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/i6_IxGf-RoY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/NAmFnJUTBJhDVidtSBtXIoSTEX4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T185422.083.png"
-tags: ["Netflix", "Olympo", "Elite", "série", "atletas de alto rendimento", "drama esportivo", "competição"]
-keywords: "Netflix, Olympo, Elite, série, atletas de alto rendimento, drama esportivo, competição"
-author: "Pablo Moura"
-data: "2025-04-29T22:19:11.144Z"
+title: 'Olympo: Nova Série da Netflix com Estrelas de Elite Promete Drama e Competição'
+slug: elite-nas-olimpadas-netflix-revela-teaser-quente-e-data-de-olympo
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/i6_IxGf-RoY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/NAmFnJUTBJhDVidtSBtXIoSTEX4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T185422.083.png
+tags:
+  - Netflix
+  - Olympo
+  - Elite
+  - série
+  - atletas de alto rendimento
+  - drama esportivo
+  - competição
+keywords: >-
+  Netflix, Olympo, Elite, série, atletas de alto rendimento, drama esportivo,
+  competição
+author: Pablo Moura
+data: '2025-04-29T22:19:11.144Z'
+resumo: >-
+  A Netflix anuncia 'Olympo', uma série intensa sobre atletas de alto rendimento
+  na Espanha, com estreia marcada para 20 de junho.
 ---
 
 ## Revelação de 'Olympo' na Netflix

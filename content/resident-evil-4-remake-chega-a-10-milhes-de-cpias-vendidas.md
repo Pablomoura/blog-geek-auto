@@ -1,14 +1,29 @@
 ---
-title: "Resident Evil 4 Remake Ultrapassa 10 Milhões de Vendas e Estabelece Novo Recorde na Franquia"
-slug: "resident-evil-4-remake-chega-a-10-milhes-de-cpias-vendidas"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/v_QlTpP8u6U?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/LJpOJjUSU3PIId5pc8fpKIT4Rzc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T184854.026.png"
-tags: ["Resident Evil 4 Remake", "Capcom", "vendas de jogos", "recordes de vendas", "jogos de survival horror", "Leon S. Kennedy"]
-keywords: "Resident Evil 4 Remake, Capcom, vendas de jogos, recordes de vendas, jogos de survival horror, Leon S. Kennedy"
-author: "Luana Souza"
-data: "2025-04-25T23:19:41.267Z"
+title: >-
+  Resident Evil 4 Remake Ultrapassa 10 Milhões de Vendas e Estabelece Novo
+  Recorde na Franquia
+slug: resident-evil-4-remake-chega-a-10-milhes-de-cpias-vendidas
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/v_QlTpP8u6U?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/LJpOJjUSU3PIId5pc8fpKIT4Rzc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T184854.026.png
+tags:
+  - Resident Evil 4 Remake
+  - Capcom
+  - vendas de jogos
+  - recordes de vendas
+  - jogos de survival horror
+  - Leon S. Kennedy
+keywords: >-
+  Resident Evil 4 Remake, Capcom, vendas de jogos, recordes de vendas, jogos de
+  survival horror, Leon S. Kennedy
+author: Luana Souza
+data: '2025-04-25T23:19:41.267Z'
+resumo: >-
+  O remake de Resident Evil 4 alcançou uma marca impressionante com 10 milhões
+  de cópias vendidas em tempo recorde, consolidando seu sucesso na história dos
+  videogames.
 ---
 
 ## Resident Evil 4 Remake: Um Fenômeno de Vendas

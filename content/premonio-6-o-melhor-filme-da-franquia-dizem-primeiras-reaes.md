@@ -1,14 +1,27 @@
 ---
-title: "Premonição 6 Eleva o Terror a Novos Patamares Segundo Críticas Iniciais"
-slug: "premonio-6-o-melhor-filme-da-franquia-dizem-primeiras-reaes"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/MytGeqpMVvPfD7PL5G8MAysrT8M=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-30T134013.360.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/_BAYGkqIovAT7qKe8UkmEhDjHHY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T133953.820.png"
-tags: ["Premonição 6", "Laços de Sangue", "críticas de cinema", "filmes de terror", "estreias 2023"]
-keywords: "Premonição 6, Laços de Sangue, críticas de cinema, filmes de terror, estreias 2023"
-author: "Ana Luiza"
-data: "2025-04-30T17:18:09.867Z"
+title: Premonição 6 Eleva o Terror a Novos Patamares Segundo Críticas Iniciais
+slug: premonio-6-o-melhor-filme-da-franquia-dizem-primeiras-reaes
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/MytGeqpMVvPfD7PL5G8MAysrT8M=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-30T134013.360.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/_BAYGkqIovAT7qKe8UkmEhDjHHY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T133953.820.png
+tags:
+  - Premonição 6
+  - Laços de Sangue
+  - críticas de cinema
+  - filmes de terror
+  - estreias 2023
+keywords: >-
+  Premonição 6, Laços de Sangue, críticas de cinema, filmes de terror, estreias
+  2023
+author: Ana Luiza
+data: '2025-04-30T17:18:09.867Z'
+resumo: >-
+  O sexto filme da franquia Premonição, que chegará aos cinemas em maio, recebe
+  elogios por elevar o horror a um nível inédito, com críticos o chamando de o
+  melhor da série.
 ---
 
 ## 'Premonição 6: Laços de Sangue' Surpreende Críticos e Promete Revigorar a Franquia

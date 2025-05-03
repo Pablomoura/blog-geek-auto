@@ -1,14 +1,25 @@
 ---
-title: "Jurassic World: Recomeço Introduz o Ameaçador Distortus Rex"
-slug: "jurassic-world-recomeo-conhea-distortus-rex-dinossauro-mutante-do-filme"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/u67Kcz3z-yk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/JntjwcMqJFZ-hX1poND2CbAX8fc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_123613.png"
-tags: ["Jurassic World Recomeço", "Distortus Rex", "dinossauro mutante", "Tim McDonagh", "cinema"]
-keywords: "Jurassic World Recomeço, Distortus Rex, dinossauro mutante, Tim McDonagh, cinema"
-author: "Luana Souza"
-data: "2025-05-01T16:25:51.770Z"
+title: 'Jurassic World: Recomeço Introduz o Ameaçador Distortus Rex'
+slug: jurassic-world-recomeo-conhea-distortus-rex-dinossauro-mutante-do-filme
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/u67Kcz3z-yk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/JntjwcMqJFZ-hX1poND2CbAX8fc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_123613.png
+tags:
+  - Jurassic World Recomeço
+  - Distortus Rex
+  - dinossauro mutante
+  - Tim McDonagh
+  - cinema
+keywords: >-
+  Jurassic World Recomeço, Distortus Rex, dinossauro mutante, Tim McDonagh,
+  cinema
+author: Luana Souza
+data: '2025-05-01T16:25:51.770Z'
+resumo: >-
+  Descubra o Distortus Rex, o novo dinossauro mutante que promete ser o centro
+  das atenções no próximo filme Jurassic World: Recomeço.
 ---
 
 ## Conheça o Distortus Rex, a Nova Ameaça de Jurassic World

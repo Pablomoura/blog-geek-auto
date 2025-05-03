@@ -1,14 +1,32 @@
 ---
-title: "Finalmente Revelado: 'Meu Casamento Feliz' Conclui Segunda Temporada na Netflix"
-slug: "meu-casamento-feliz-final-da-segunda-temporada-ganha-data-aps-atrasos"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/VMUC6rUa7MdIYUQV9EkzwoBj9Jc=/987x0/smart/uploads/conteudo/fotos/meucasamentofeliz.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/bGeKFt0ul0FWKRNWFknIsu-NlQQ=/480x360/smart/extras/conteudos/meucasamentofeliz.jpg"
-tags: ["Meu Casamento Feliz", "Netflix", "anime", "segunda temporada", "drama", "romance", "Era Taishō", "lançamento", "episódios finais"]
-keywords: "Meu Casamento Feliz, Netflix, anime, segunda temporada, drama, romance, Era Taishō, lançamento, episódios finais"
-author: "Ana Luiza"
-data: "2025-04-20T18:23:50.069Z"
+title: >-
+  Finalmente Revelado: 'Meu Casamento Feliz' Conclui Segunda Temporada na
+  Netflix
+slug: meu-casamento-feliz-final-da-segunda-temporada-ganha-data-aps-atrasos
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/VMUC6rUa7MdIYUQV9EkzwoBj9Jc=/987x0/smart/uploads/conteudo/fotos/meucasamentofeliz.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/bGeKFt0ul0FWKRNWFknIsu-NlQQ=/480x360/smart/extras/conteudos/meucasamentofeliz.jpg
+tags:
+  - Meu Casamento Feliz
+  - Netflix
+  - anime
+  - segunda temporada
+  - drama
+  - romance
+  - Era Taishō
+  - lançamento
+  - episódios finais
+keywords: >-
+  Meu Casamento Feliz, Netflix, anime, segunda temporada, drama, romance, Era
+  Taishō, lançamento, episódios finais
+author: Ana Luiza
+data: '2025-04-20T18:23:50.069Z'
+resumo: >-
+  Após atrasos inesperados, os dois últimos episódios da segunda temporada do
+  anime 'Meu Casamento Feliz' chegarão à Netflix em 25 de abril.
 ---
 
 A espera acabou para os fãs de 'Meu Casamento Feliz'. A Netflix anunciou que os episódios finais da segunda temporada do popular anime de drama e romance serão lançados na próxima sexta-feira, 25 de abril. Os atrasos foram causados por complicações na produção, levando ao adiamento do lançamento originalmente previsto para março.

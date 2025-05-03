@@ -1,14 +1,32 @@
 ---
-title: "Quarteto Fantástico: Primeiros Passos Define Sua Linha Temporal no MCU e Promete Grandes Surpresas"
-slug: "quarteto-fantstico-posio-do-filme-na-cronologia-do-time-confirmada"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/e9DzuKo4uDdTN_3sA9N7AQYdEuw=/987x0/smart/uploads/conteudo/fotos/quarteto-fantastico_aE5FaF4.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hILmzuudi7KRkwwnt0kISQGxyos=/480x360/smart/extras/conteudos/quarteto-fantastico.png"
-tags: ["Quarteto Fantástico", "MCU", "Marvel", "Pedro Pascal", "Vanessa Kirby", "estreia 2025", "Primeiros Passos", "Fase 6"]
-keywords: "Quarteto Fantástico, MCU, Marvel, Pedro Pascal, Vanessa Kirby, estreia 2025, Primeiros Passos, Fase 6"
-author: "Luana Souza"
-data: "2025-04-25T18:26:33.837Z"
+title: >-
+  Quarteto Fantástico: Primeiros Passos Define Sua Linha Temporal no MCU e
+  Promete Grandes Surpresas
+slug: quarteto-fantstico-posio-do-filme-na-cronologia-do-time-confirmada
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/e9DzuKo4uDdTN_3sA9N7AQYdEuw=/987x0/smart/uploads/conteudo/fotos/quarteto-fantastico_aE5FaF4.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hILmzuudi7KRkwwnt0kISQGxyos=/480x360/smart/extras/conteudos/quarteto-fantastico.png
+tags:
+  - Quarteto Fantástico
+  - MCU
+  - Marvel
+  - Pedro Pascal
+  - Vanessa Kirby
+  - estreia 2025
+  - Primeiros Passos
+  - Fase 6
+keywords: >-
+  Quarteto Fantástico, MCU, Marvel, Pedro Pascal, Vanessa Kirby, estreia 2025,
+  Primeiros Passos, Fase 6
+author: Luana Souza
+data: '2025-04-25T18:26:33.837Z'
+resumo: >-
+  Com estreia marcada para julho de 2025, o novo filme do Quarteto Fantástico
+  não será uma origem tradicional, mas sim uma aventura já com heróis
+  estabelecidos.
 ---
 
 ## Uma Nova Abordagem no MCU

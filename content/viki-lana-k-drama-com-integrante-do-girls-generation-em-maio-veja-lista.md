@@ -1,15 +1,28 @@
 ---
-title: "Viki Lança K-Dramas Imperdíveis em Maio com Estrela do Girls Generation"
-slug: "viki-lana-k-drama-com-integrante-do-girls-generation-em-maio-veja-lista"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/ooA-ksDqrNUkz6koAJmJHCQxOWY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T183011.186.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/DM-NkwIO6cJSZcU0YcWmlpu9iKI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T183011.186.png"
-tags: ["Viki", "K-Drama", "Girls Generation", "Choi Soo-young", "dramas asiáticos", "lançamentos de maio", "streaming"]
-keywords: "Viki, K-Drama, Girls Generation, Choi Soo-young, dramas asiáticos, lançamentos de maio, streaming"
-author: "Luana Souza"
-data: "2025-04-28T22:20:02.689Z"
-resumo: "O serviço de streaming Viki confirmou sete novos K-Dramas para maio de 2025, incluindo romances, mistérios e reencontros de estrelas amadas. Confira a lista completa!"
+title: Viki Lança K-Dramas Imperdíveis em Maio com Estrela do Girls Generation
+slug: viki-lana-k-drama-com-integrante-do-girls-generation-em-maio-veja-lista
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/ooA-ksDqrNUkz6koAJmJHCQxOWY=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T183011.186.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/DM-NkwIO6cJSZcU0YcWmlpu9iKI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T183011.186.png
+tags:
+  - Viki
+  - K-Drama
+  - Girls Generation
+  - Choi Soo-young
+  - dramas asiáticos
+  - lançamentos de maio
+  - streaming
+keywords: >-
+  Viki, K-Drama, Girls Generation, Choi Soo-young, dramas asiáticos, lançamentos
+  de maio, streaming
+author: Luana Souza
+data: '2025-04-28T22:20:02.689Z'
+resumo: >-
+  Descubra os emocionantes K-Dramas chegando ao Viki em maio, incluindo uma
+  série com Choi Soo-young do Girls Generation e muito mais.
 ---
 
 ## Viki Apresenta Novos K-Dramas em Maio

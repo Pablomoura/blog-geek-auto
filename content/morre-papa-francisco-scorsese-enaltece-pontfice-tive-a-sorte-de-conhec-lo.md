@@ -1,14 +1,29 @@
 ---
-title: "Cinema e Fé: Scorsese Presta Homenagem ao Papa Francisco e Anuncia Novo Filme sobre Jesus"
-slug: "morre-papa-francisco-scorsese-enaltece-pontfice-tive-a-sorte-de-conhec-lo"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/ojFAsWI4XxM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/pMKj7w8CEp0nSyAyOAgvQWiB7I4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_155822.png"
-tags: ["Martin Scorsese", "Papa Francisco", "filme sobre Jesus", "cinema e religião", "legado do Papa Francisco", "líderes religiosos influentes"]
-keywords: "Martin Scorsese, Papa Francisco, filme sobre Jesus, cinema e religião, legado do Papa Francisco, líderes religiosos influentes"
-author: "Ana Luiza"
-data: "2025-04-21T19:16:41.996Z"
+title: >-
+  Cinema e Fé: Scorsese Presta Homenagem ao Papa Francisco e Anuncia Novo Filme
+  sobre Jesus
+slug: morre-papa-francisco-scorsese-enaltece-pontfice-tive-a-sorte-de-conhec-lo
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/ojFAsWI4XxM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/pMKj7w8CEp0nSyAyOAgvQWiB7I4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_155822.png
+tags:
+  - Martin Scorsese
+  - Papa Francisco
+  - filme sobre Jesus
+  - cinema e religião
+  - legado do Papa Francisco
+  - líderes religiosos influentes
+keywords: >-
+  Martin Scorsese, Papa Francisco, filme sobre Jesus, cinema e religião, legado
+  do Papa Francisco, líderes religiosos influentes
+author: Ana Luiza
+data: '2025-04-21T19:16:41.996Z'
+resumo: >-
+  Martin Scorsese expressa sua profunda admiração pelo Papa Francisco, que
+  faleceu aos 88 anos, e revela planos para um novo filme inspirado pelo
+  Pontífice.
 ---
 
 A comunidade global e o mundo do cinema estão de luto após o falecimento do Papa Francisco, aos 88 anos. O diretor renomado Martin Scorsese compartilhou suas memórias e respeito pelo líder religioso, destacando o impacto duradouro que ele deixou tanto em sua vida pessoal quanto na sociedade. Em uma declaração emocionante à Variety, Scorsese descreveu o Papa como um 'ser humano notável' cuja sabedoria e bondade eram evidentes para todos que o encontravam.

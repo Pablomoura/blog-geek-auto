@@ -1,14 +1,25 @@
 ---
-title: "Gege Akutami Revela Por Que Gojo Foi Derrotado por Sukuna em Jujutsu Kaisen"
-slug: "jujutsu-kaisen-criador-do-mang-explica-por-que-gojo-perdeu-para-sukuna"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/11_85OJ5E5ZYyMYjwLfvnUu0UEs=/987x0/smart/uploads/conteudo/fotos/jujutsukaisen_hxydPNc.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Q1jQMB1DjAM3kzgTSCy1lmQQ5pU=/480x360/smart/extras/conteudos/jujutsukaisen_FwmaAJc.jpg"
-tags: ["Jujutsu Kaisen", "Gege Akutami", "Gojo vs Sukuna", "mangá", "Crunchyroll", "Panini"]
-keywords: "Jujutsu Kaisen, Gege Akutami, Gojo vs Sukuna, mangá, Crunchyroll, Panini"
-author: "Pablo Moura"
-data: "2025-04-20T21:16:31.982Z"
+title: Gege Akutami Revela Por Que Gojo Foi Derrotado por Sukuna em Jujutsu Kaisen
+slug: jujutsu-kaisen-criador-do-mang-explica-por-que-gojo-perdeu-para-sukuna
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/11_85OJ5E5ZYyMYjwLfvnUu0UEs=/987x0/smart/uploads/conteudo/fotos/jujutsukaisen_hxydPNc.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Q1jQMB1DjAM3kzgTSCy1lmQQ5pU=/480x360/smart/extras/conteudos/jujutsukaisen_FwmaAJc.jpg
+tags:
+  - Jujutsu Kaisen
+  - Gege Akutami
+  - Gojo vs Sukuna
+  - mangá
+  - Crunchyroll
+  - Panini
+keywords: 'Jujutsu Kaisen, Gege Akutami, Gojo vs Sukuna, mangá, Crunchyroll, Panini'
+author: Pablo Moura
+data: '2025-04-20T21:16:31.982Z'
+resumo: >-
+  Descubra o motivo por trás de uma das batalhas mais debatidas em Jujutsu
+  Kaisen, diretamente das palavras do criador, Gege Akutami.
 ---
 
 Em um evento exclusivo no Japão, Gege Akutami, o talentoso criador do mangá Jujutsu Kaisen, esclareceu um dos momentos mais controversos da série: a derrota de Gojo para Sukuna. Durante uma sessão especial de perguntas e respostas, Akutami compartilhou insights sobre o confronto que surpreendeu os fãs.

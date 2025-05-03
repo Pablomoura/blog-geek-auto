@@ -1,14 +1,27 @@
 ---
-title: "Playoffs da NBA 2024-25: Como Assistir aos Jogos Decisivos Desta Segunda-Feira"
-slug: "nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-desta-segunda-feira-2804"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/cmCYip1gTBYPHvyJRrohZb846Co=/987x0/smart/uploads/conteudo/fotos/playoffs-nba-jimmy-butler-28-04.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/n9V1p7YeZt-DnrQBQPN0-MXyswY=/480x360/smart/extras/conteudos/playoffs-nba-jimmy-butler-28-04-peq.jpg"
-tags: ["Playoffs NBA 2024", "onde assistir NBA", "jogos NBA ao vivo", "NBA League Pass", "Cleveland Cavaliers", "Golden State Warriors"]
-keywords: "Playoffs NBA 2024, onde assistir NBA, jogos NBA ao vivo, NBA League Pass, Cleveland Cavaliers, Golden State Warriors"
-author: "Pablo Moura"
-data: "2025-04-28T11:37:51.204Z"
+title: 'Playoffs da NBA 2024-25: Como Assistir aos Jogos Decisivos Desta Segunda-Feira'
+slug: nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-desta-segunda-feira-2804
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/cmCYip1gTBYPHvyJRrohZb846Co=/987x0/smart/uploads/conteudo/fotos/playoffs-nba-jimmy-butler-28-04.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/n9V1p7YeZt-DnrQBQPN0-MXyswY=/480x360/smart/extras/conteudos/playoffs-nba-jimmy-butler-28-04-peq.jpg
+tags:
+  - Playoffs NBA 2024
+  - onde assistir NBA
+  - jogos NBA ao vivo
+  - NBA League Pass
+  - Cleveland Cavaliers
+  - Golden State Warriors
+keywords: >-
+  Playoffs NBA 2024, onde assistir NBA, jogos NBA ao vivo, NBA League Pass,
+  Cleveland Cavaliers, Golden State Warriors
+author: Pablo Moura
+data: '2025-04-28T11:37:51.204Z'
+resumo: >-
+  Confira os horários e plataformas de transmissão dos emocionantes jogos dos
+  Playoffs da NBA nesta segunda-feira, 28 de abril.
 ---
 
 ## Playoffs da NBA: Uma Batalha de Gigantes

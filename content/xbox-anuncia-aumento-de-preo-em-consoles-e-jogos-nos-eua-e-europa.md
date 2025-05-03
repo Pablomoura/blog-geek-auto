@@ -1,14 +1,29 @@
 ---
-title: "Xbox Ajusta Preços nos EUA e Europa: O Que Esperar no Brasil?"
-slug: "xbox-anuncia-aumento-de-preo-em-consoles-e-jogos-nos-eua-e-europa"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/TaBI58YFRwZKNFhbsmCbACZXdkM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T101546.219.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/mUL2x2blvqk5GfBGYzhCIh3ttTU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T101641.513.png"
-tags: ["Xbox", "Microsoft", "aumento de preços", "consoles Xbox", "jogos Xbox", "acessórios Xbox", "mercado de jogos"]
-keywords: "Xbox, Microsoft, aumento de preços, consoles Xbox, jogos Xbox, acessórios Xbox, mercado de jogos"
-author: "Pablo Moura"
-data: "2025-05-01T13:28:32.942Z"
+title: 'Xbox Ajusta Preços nos EUA e Europa: O Que Esperar no Brasil?'
+slug: xbox-anuncia-aumento-de-preo-em-consoles-e-jogos-nos-eua-e-europa
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/TaBI58YFRwZKNFhbsmCbACZXdkM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T101546.219.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/mUL2x2blvqk5GfBGYzhCIh3ttTU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T101641.513.png
+tags:
+  - Xbox
+  - Microsoft
+  - aumento de preços
+  - consoles Xbox
+  - jogos Xbox
+  - acessórios Xbox
+  - mercado de jogos
+keywords: >-
+  Xbox, Microsoft, aumento de preços, consoles Xbox, jogos Xbox, acessórios
+  Xbox, mercado de jogos
+author: Pablo Moura
+data: '2025-05-01T13:28:32.942Z'
+resumo: >-
+  Microsoft anuncia aumentos significativos nos preços de consoles, jogos e
+  acessórios Xbox nos Estados Unidos e Europa, com detalhes sobre os novos
+  valores.
 ---
 
 ## Ajuste nos Preços do Xbox: Detalhes e Impactos

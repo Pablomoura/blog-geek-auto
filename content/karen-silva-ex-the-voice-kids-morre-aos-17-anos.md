@@ -1,14 +1,32 @@
 ---
-title: "Luto no Mundo da Música: Karen Silva, Ex-The Voice Kids, Morre aos 17 Anos"
-slug: "karen-silva-ex-the-voice-kids-morre-aos-17-anos"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/mLYkrPfXb-r3YJ6ILjR7ScQtp2E=/987x0/smart/uploads/conteudo/fotos/02_HDizM9z.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nD2zmjd4T7T5GAqrngeYlz8JtUU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_122453.png"
-tags: ["Karen Silva", "The Voice Kids", "AVC", "morte", "cantora", "influenciadora digital", "Carlinhos Brown", "música", "luto", "empoderamento"]
-keywords: "Karen Silva, The Voice Kids, AVC, morte, cantora, influenciadora digital, Carlinhos Brown, música, luto, empoderamento"
-author: "Luana Souza"
-data: "2025-04-24T16:26:22.960Z"
+title: 'Luto no Mundo da Música: Karen Silva, Ex-The Voice Kids, Morre aos 17 Anos'
+slug: karen-silva-ex-the-voice-kids-morre-aos-17-anos
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/mLYkrPfXb-r3YJ6ILjR7ScQtp2E=/987x0/smart/uploads/conteudo/fotos/02_HDizM9z.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nD2zmjd4T7T5GAqrngeYlz8JtUU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_122453.png
+tags:
+  - Karen Silva
+  - The Voice Kids
+  - AVC
+  - morte
+  - cantora
+  - influenciadora digital
+  - Carlinhos Brown
+  - música
+  - luto
+  - empoderamento
+keywords: >-
+  Karen Silva, The Voice Kids, AVC, morte, cantora, influenciadora digital,
+  Carlinhos Brown, música, luto, empoderamento
+author: Luana Souza
+data: '2025-04-24T16:26:22.960Z'
+resumo: >-
+  Karen Silva, conhecida por sua participação no The Voice Kids, faleceu aos 17
+  anos devido a um AVC hemorrágico após estar internada no Hospital São João
+  Batista.
 ---
 
 A jovem cantora Karen Silva, que ganhou fama nacional ao participar do programa The Voice Kids em 2020, morreu nesta quinta-feira (24) aos 17 anos. O motivo de sua morte foi um acidente vascular cerebral (AVC) hemorrágico. Karen estava recebendo cuidados médicos no Hospital São João Batista, em Volta Redonda, quando faleceu nas primeiras horas da manhã.

@@ -1,14 +1,31 @@
 ---
-title: "Crunchyroll Planeja Transformar o Sucesso de Ghost of Tsushima em Anime para 2027"
-slug: "ghost-of-tsushima-chefe-da-crunchyroll-quer-repetir-sucesso-do-game-com-anime"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/vzWCGr1-_QHuXKJtNKhqKuk9_6U=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T135007.590.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/G5RR5Bp1cYS7CNRA_Fbw9hJ3yz4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T134957.412.png"
-tags: ["Ghost of Tsushima", "Crunchyroll", "anime", "Rahul Purini", "Sucker Punch", "PlayStation", "Ghost of Yotei", "adaptação de jogo"]
-keywords: "Ghost of Tsushima, Crunchyroll, anime, Rahul Purini, Sucker Punch, PlayStation, Ghost of Yotei, adaptação de jogo"
-author: "Ana Luiza"
-data: "2025-05-01T17:17:27.243Z"
+title: >-
+  Crunchyroll Planeja Transformar o Sucesso de Ghost of Tsushima em Anime para
+  2027
+slug: ghost-of-tsushima-chefe-da-crunchyroll-quer-repetir-sucesso-do-game-com-anime
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/vzWCGr1-_QHuXKJtNKhqKuk9_6U=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T135007.590.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/G5RR5Bp1cYS7CNRA_Fbw9hJ3yz4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T134957.412.png
+tags:
+  - Ghost of Tsushima
+  - Crunchyroll
+  - anime
+  - Rahul Purini
+  - Sucker Punch
+  - PlayStation
+  - Ghost of Yotei
+  - adaptação de jogo
+keywords: >-
+  Ghost of Tsushima, Crunchyroll, anime, Rahul Purini, Sucker Punch,
+  PlayStation, Ghost of Yotei, adaptação de jogo
+author: Ana Luiza
+data: '2025-05-01T17:17:27.243Z'
+resumo: >-
+  Rahul Purini, presidente da Crunchyroll, anuncia o desenvolvimento de um anime
+  baseado no popular jogo Ghost of Tsushima, com estreia prevista para 2027.
 ---
 
 ## Um Novo Horizonte para Ghost of Tsushima

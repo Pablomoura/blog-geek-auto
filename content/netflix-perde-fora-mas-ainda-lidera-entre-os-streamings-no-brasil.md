@@ -1,14 +1,32 @@
 ---
-title: "Netflix Mantém Liderança no Streaming Brasileiro em 2025, mas Concorrentes Crescem"
-slug: "netflix-perde-fora-mas-ainda-lidera-entre-os-streamings-no-brasil"
-categoria: "STREAMING"
-midia: "https://cdn.ome.lt/WCQ56UCiXk5byO-x9LPIw7DqHEg=/480x360/smart/extras/conteudos/logotipo-da-netflix.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/WCQ56UCiXk5byO-x9LPIw7DqHEg=/480x360/smart/extras/conteudos/logotipo-da-netflix.png"
-tags: ["Netflix", "streaming", "Brasil", "Prime Video", "Paramount+", "CCXP", "mercado de streaming", "JustWatch"]
-keywords: "Netflix, streaming, Brasil, Prime Video, Paramount+, CCXP, mercado de streaming, JustWatch"
-author: "Ana Luiza"
-data: "2025-04-25T18:26:03.972Z"
+title: >-
+  Netflix Mantém Liderança no Streaming Brasileiro em 2025, mas Concorrentes
+  Crescem
+slug: netflix-perde-fora-mas-ainda-lidera-entre-os-streamings-no-brasil
+categoria: STREAMING
+midia: >-
+  https://cdn.ome.lt/WCQ56UCiXk5byO-x9LPIw7DqHEg=/480x360/smart/extras/conteudos/logotipo-da-netflix.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/WCQ56UCiXk5byO-x9LPIw7DqHEg=/480x360/smart/extras/conteudos/logotipo-da-netflix.png
+tags:
+  - Netflix
+  - streaming
+  - Brasil
+  - Prime Video
+  - Paramount+
+  - CCXP
+  - mercado de streaming
+  - JustWatch
+keywords: >-
+  Netflix, streaming, Brasil, Prime Video, Paramount+, CCXP, mercado de
+  streaming, JustWatch
+author: Ana Luiza
+data: '2025-04-25T18:26:03.972Z'
+resumo: >-
+  Embora continue sendo o serviço de streaming mais popular no Brasil, a Netflix
+  enfrenta uma queda em sua participação de mercado, enquanto rivais como Prime
+  Video e Paramount+ ganham terreno.
 ---
 
 ## Netflix: Líder com Queda em Participação de Mercado

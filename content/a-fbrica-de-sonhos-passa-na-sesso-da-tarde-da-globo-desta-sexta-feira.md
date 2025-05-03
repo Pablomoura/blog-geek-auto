@@ -1,14 +1,26 @@
 ---
-title: "Débora Falabella brilha em 'A Fábrica de Sonhos', destaque na Sessão da Tarde desta sexta"
-slug: "a-fbrica-de-sonhos-passa-na-sesso-da-tarde-da-globo-desta-sexta-feira"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Fb41rLT9Pyj8U_iHd-JYcPRZk5M=/987x0/smart/uploads/conteudo/fotos/sessaodatarde_qbDSvIl.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/sbLs8rA29raeSTkpBPFThhNlR2s=/480x360/smart/extras/conteudos/sessaodatarde_WK2PNlE.jpg"
-tags: ["A Fábrica de Sonhos", "Débora Falabella", "Sessão da Tarde", "TV Globo", "filmes na TV"]
-keywords: "A Fábrica de Sonhos, Débora Falabella, Sessão da Tarde, TV Globo, filmes na TV"
-author: "Pablo Moura"
-data: "2025-04-25T11:16:40.188Z"
+title: >-
+  Débora Falabella brilha em 'A Fábrica de Sonhos', destaque na Sessão da Tarde
+  desta sexta
+slug: a-fbrica-de-sonhos-passa-na-sesso-da-tarde-da-globo-desta-sexta-feira
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Fb41rLT9Pyj8U_iHd-JYcPRZk5M=/987x0/smart/uploads/conteudo/fotos/sessaodatarde_qbDSvIl.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/sbLs8rA29raeSTkpBPFThhNlR2s=/480x360/smart/extras/conteudos/sessaodatarde_WK2PNlE.jpg
+tags:
+  - A Fábrica de Sonhos
+  - Débora Falabella
+  - Sessão da Tarde
+  - TV Globo
+  - filmes na TV
+keywords: 'A Fábrica de Sonhos, Débora Falabella, Sessão da Tarde, TV Globo, filmes na TV'
+author: Pablo Moura
+data: '2025-04-25T11:16:40.188Z'
+resumo: >-
+  Descubra o encanto e os desafios de 'A Fábrica de Sonhos', estrelado por
+  Débora Falabella, que será exibido na Sessão da Tarde da TV Globo.
 ---
 
 ## 'A Fábrica de Sonhos': Uma Jornada de Amor e Ilusão

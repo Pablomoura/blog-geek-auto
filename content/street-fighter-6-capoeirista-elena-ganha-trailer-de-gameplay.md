@@ -1,14 +1,28 @@
 ---
-title: "Elena Retorna com Estilo em Street Fighter 6: Novo Trailer Revela a Capoeirista Queniana"
-slug: "street-fighter-6-capoeirista-elena-ganha-trailer-de-gameplay"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/2X_QyoQ2YBQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/s8m1KtJPB4kzkBnKNEWQEj2GdQ4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T210807.392.png"
-tags: ["Street Fighter 6", "Elena", "capoeira", "trailer de gameplay", "Capcom", "personagens de Street Fighter"]
-keywords: "Street Fighter 6, Elena, capoeira, trailer de gameplay, Capcom, personagens de Street Fighter"
-author: "Ana Luiza"
-data: "2025-04-25T01:16:41.435Z"
+title: >-
+  Elena Retorna com Estilo em Street Fighter 6: Novo Trailer Revela a
+  Capoeirista Queniana
+slug: street-fighter-6-capoeirista-elena-ganha-trailer-de-gameplay
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/2X_QyoQ2YBQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/s8m1KtJPB4kzkBnKNEWQEj2GdQ4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T210807.392.png
+tags:
+  - Street Fighter 6
+  - Elena
+  - capoeira
+  - trailer de gameplay
+  - Capcom
+  - personagens de Street Fighter
+keywords: >-
+  Street Fighter 6, Elena, capoeira, trailer de gameplay, Capcom, personagens de
+  Street Fighter
+author: Ana Luiza
+data: '2025-04-25T01:16:41.435Z'
+resumo: >-
+  Elena, a icônica lutadora de capoeira, faz seu retorno triunfal em Street
+  Fighter 6, prometendo novas emoções com seu estilo único de luta.
 ---
 
 ## Elena Chega com Agilidade e Estilo em Street Fighter 6

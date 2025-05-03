@@ -1,14 +1,29 @@
 ---
-title: "A Hora do Mal: Primeiro Trailer e Teaser Exclusivo Anunciados para Agosto de 2025"
-slug: "a-hora-do-mal-ganha-primeiro-trailer-e-teaser-de-2-horas"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/3GUE4N18c-M?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/VGXT-WQbAFkBe0xaTbdH_VA8dI0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T103612.482.png"
-tags: ["A Hora do Mal", "Josh Brolin", "Julia Garner", "Alden Ehrenreich", "trailer de filme", "estreias de cinema 2025", "filmes de terror"]
-keywords: "A Hora do Mal, Josh Brolin, Julia Garner, Alden Ehrenreich, trailer de filme, estreias de cinema 2025, filmes de terror"
-author: "Ana Luiza"
-data: "2025-04-29T14:20:20.013Z"
+title: >-
+  A Hora do Mal: Primeiro Trailer e Teaser Exclusivo Anunciados para Agosto de
+  2025
+slug: a-hora-do-mal-ganha-primeiro-trailer-e-teaser-de-2-horas
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/3GUE4N18c-M?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/VGXT-WQbAFkBe0xaTbdH_VA8dI0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T103612.482.png
+tags:
+  - A Hora do Mal
+  - Josh Brolin
+  - Julia Garner
+  - Alden Ehrenreich
+  - trailer de filme
+  - estreias de cinema 2025
+  - filmes de terror
+keywords: >-
+  A Hora do Mal, Josh Brolin, Julia Garner, Alden Ehrenreich, trailer de filme,
+  estreias de cinema 2025, filmes de terror
+author: Ana Luiza
+data: '2025-04-29T14:20:20.013Z'
+resumo: >-
+  O aguardado filme de terror 'A Hora do Mal', com Josh Brolin e Julia Garner,
+  estreia seu intrigante trailer e um teaser de longa duração.
 ---
 
 

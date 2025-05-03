@@ -1,14 +1,32 @@
 ---
-title: "Reveladas Novas Artes de 'Quarteto Fantástico: Primeiros Passos' com Trajes Icônicos e Elenco Estelar"
-slug: "quarteto-fantstico-nova-arte-mostra-a-equipe-uniformizada"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/-PU6Rj71qg0tMb5omYy3FtmQwZ0=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-24T194038.774.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4sQKL5pARoFINb7wrqtl8BqiTSI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T194038.774.png"
-tags: ["Quarteto Fantástico", "Marvel", "Pedro Pascal", "Vanessa Kirby", "MCU", "Nova York retrofuturista", "Edifício Baxter", "trajes Quarteto Fantástico"]
-keywords: "Quarteto Fantástico, Marvel, Pedro Pascal, Vanessa Kirby, MCU, Nova York retrofuturista, Edifício Baxter, trajes Quarteto Fantástico"
-author: "Pablo Moura"
-data: "2025-04-24T23:18:42.554Z"
+title: >-
+  Reveladas Novas Artes de 'Quarteto Fantástico: Primeiros Passos' com Trajes
+  Icônicos e Elenco Estelar
+slug: quarteto-fantstico-nova-arte-mostra-a-equipe-uniformizada
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/-PU6Rj71qg0tMb5omYy3FtmQwZ0=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-24T194038.774.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4sQKL5pARoFINb7wrqtl8BqiTSI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T194038.774.png
+tags:
+  - Quarteto Fantástico
+  - Marvel
+  - Pedro Pascal
+  - Vanessa Kirby
+  - MCU
+  - Nova York retrofuturista
+  - Edifício Baxter
+  - trajes Quarteto Fantástico
+keywords: >-
+  Quarteto Fantástico, Marvel, Pedro Pascal, Vanessa Kirby, MCU, Nova York
+  retrofuturista, Edifício Baxter, trajes Quarteto Fantástico
+author: Pablo Moura
+data: '2025-04-24T23:18:42.554Z'
+resumo: >-
+  A nova arte promocional para 'Quarteto Fantástico: Primeiros Passos' exibe os
+  trajes detalhados da equipe e destaca o elenco de estrelas, incluindo Pedro
+  Pascal e Vanessa Kirby.
 ---
 
 A espera acabou para os fãs da Marvel! A mais recente arte promocional de 'Quarteto Fantástico: Primeiros Passos', divulgada nesta quinta-feira, revela com detalhes os trajes da icônica equipe de heróis. Além dos uniformes, o Edifício Baxter e seu emblemático número 4 também são destaques visuais. 

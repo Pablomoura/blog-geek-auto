@@ -1,14 +1,28 @@
 ---
-title: "Ayla Gabriela estrelará 'Geni e o Zepelim' em uma decisão histórica de casting"
-slug: "geni-e-o-zepelim-escolhe-nova-protagonista-atriz-trans-ayla-gabriela"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/c0LcgZFR3RtSMsg7TVtI4Kr_dKg=/987x0/smart/uploads/conteudo/fotos/Atriz_Ayla_Gabriela.jpeg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/UphTz-4kWYKeNcwtk3GTrHUp8F4=/480x360/smart/extras/conteudos/Atriz_Ayla_Gabriela.jpeg"
-tags: ["Ayla Gabriela", "Geni e o Zepelim", "cinema brasileiro", "representatividade trans", "Anna Muylaert", "Chico Buarque"]
-keywords: "Ayla Gabriela, Geni e o Zepelim, cinema brasileiro, representatividade trans, Anna Muylaert, Chico Buarque"
-author: "Pablo Moura"
-data: "2025-04-29T19:15:57.243Z"
+title: Ayla Gabriela estrelará 'Geni e o Zepelim' em uma decisão histórica de casting
+slug: geni-e-o-zepelim-escolhe-nova-protagonista-atriz-trans-ayla-gabriela
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/c0LcgZFR3RtSMsg7TVtI4Kr_dKg=/987x0/smart/uploads/conteudo/fotos/Atriz_Ayla_Gabriela.jpeg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/UphTz-4kWYKeNcwtk3GTrHUp8F4=/480x360/smart/extras/conteudos/Atriz_Ayla_Gabriela.jpeg
+tags:
+  - Ayla Gabriela
+  - Geni e o Zepelim
+  - cinema brasileiro
+  - representatividade trans
+  - Anna Muylaert
+  - Chico Buarque
+keywords: >-
+  Ayla Gabriela, Geni e o Zepelim, cinema brasileiro, representatividade trans,
+  Anna Muylaert, Chico Buarque
+author: Pablo Moura
+data: '2025-04-29T19:15:57.243Z'
+resumo: >-
+  A atriz trans Ayla Gabriela é confirmada como a nova protagonista de 'Geni e o
+  Zepelim', marcando um passo importante para a representatividade trans no
+  cinema brasileiro.
 ---
 
 ## Ayla Gabriela assume papel principal em 'Geni e o Zepelim'

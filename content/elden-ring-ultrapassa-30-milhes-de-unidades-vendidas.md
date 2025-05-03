@@ -1,14 +1,32 @@
 ---
-title: "Elden Ring Atinge 30 Milhões de Vendas e Anuncia Novo Jogo 'Nightreign' para 2023"
-slug: "elden-ring-ultrapassa-30-milhes-de-unidades-vendidas"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/33DjBWvKXhyy5pDx1YUsl-eHRfo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T125304.645.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nzwGUIMGtOL4d7o84bORGC0i1ec=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T125245.836.png"
-tags: ["Elden Ring", "FromSoftware", "Nightreign", "vendas de Elden Ring", "Nintendo Switch 2", "novo jogo 2023", "RPG", "Bandai Namco"]
-keywords: "Elden Ring, FromSoftware, Nightreign, vendas de Elden Ring, Nintendo Switch 2, novo jogo 2023, RPG, Bandai Namco"
-author: "Luana Souza"
-data: "2025-04-28T16:23:51.260Z"
+title: >-
+  Elden Ring Atinge 30 Milhões de Vendas e Anuncia Novo Jogo 'Nightreign' para
+  2023
+slug: elden-ring-ultrapassa-30-milhes-de-unidades-vendidas
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/33DjBWvKXhyy5pDx1YUsl-eHRfo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T125304.645.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nzwGUIMGtOL4d7o84bORGC0i1ec=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T125245.836.png
+tags:
+  - Elden Ring
+  - FromSoftware
+  - Nightreign
+  - vendas de Elden Ring
+  - Nintendo Switch 2
+  - novo jogo 2023
+  - RPG
+  - Bandai Namco
+keywords: >-
+  Elden Ring, FromSoftware, Nightreign, vendas de Elden Ring, Nintendo Switch 2,
+  novo jogo 2023, RPG, Bandai Namco
+author: Luana Souza
+data: '2025-04-28T16:23:51.260Z'
+resumo: >-
+  Elden Ring, sucesso da FromSoftware, ultrapassa 30 milhões de unidades
+  vendidas e prepara terreno para o lançamento de 'Elden Ring Nightreign',
+  prometendo inovações no gameplay.
 ---
 
 ## **Elden Ring: Um Fenômeno de Vendas**

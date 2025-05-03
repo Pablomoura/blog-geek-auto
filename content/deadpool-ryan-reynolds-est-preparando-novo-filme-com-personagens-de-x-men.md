@@ -1,14 +1,27 @@
 ---
-title: "Novo Filme de Deadpool Explorará Universo X-Men com Ryan Reynolds em Papel Secundário"
-slug: "deadpool-ryan-reynolds-est-preparando-novo-filme-com-personagens-de-x-men"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FHnVZ95u8dotKDVrjRRWMwYbBHQ=/987x0/smart/uploads/conteudo/fotos/deadpool-10-anos_9qCs8I0.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/JTS2UUXbY19qFPXNb0R0Q-DmiAA=/480x360/smart/extras/conteudos/deadpool_vM39mcm.jpg"
-tags: ["Ryan Reynolds", "Deadpool", "X-Men", "Cinema", "Marvel", "Deadpool no cinema"]
-keywords: "Ryan Reynolds, Deadpool, X-Men, Cinema, Marvel, Deadpool no cinema"
-author: "Pablo Moura"
-data: "2025-05-02T22:19:11.556Z"
+title: >-
+  Novo Filme de Deadpool Explorará Universo X-Men com Ryan Reynolds em Papel
+  Secundário
+slug: deadpool-ryan-reynolds-est-preparando-novo-filme-com-personagens-de-x-men
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FHnVZ95u8dotKDVrjRRWMwYbBHQ=/987x0/smart/uploads/conteudo/fotos/deadpool-10-anos_9qCs8I0.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/JTS2UUXbY19qFPXNb0R0Q-DmiAA=/480x360/smart/extras/conteudos/deadpool_vM39mcm.jpg
+tags:
+  - Ryan Reynolds
+  - Deadpool
+  - X-Men
+  - Cinema
+  - Marvel
+  - Deadpool no cinema
+keywords: 'Ryan Reynolds, Deadpool, X-Men, Cinema, Marvel, Deadpool no cinema'
+author: Pablo Moura
+data: '2025-05-02T22:19:11.556Z'
+resumo: >-
+  Ryan Reynolds está desenvolvendo um novo projeto de Deadpool, onde o famoso
+  mercenário pode não ser o protagonista, focando mais em personagens dos X-Men.
 ---
 
 ## Ryan Reynolds e o Futuro de Deadpool no Cinema

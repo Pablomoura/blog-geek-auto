@@ -1,14 +1,29 @@
 ---
-title: "Twin Peaks Retorna em Grande Estilo na MUBI com Todas as Temporadas"
-slug: "twin-peaks-e-the-return-sero-disponibilizado-na-ntegra-na-mubi-veja-data"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/jpkWTMucv6UADPSfMXbGKdaPVzs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-23T110931.026.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SkG4cibswg_-snI0iSPxEVWHe3E=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T110918.304.png"
-tags: ["Twin Peaks", "MUBI", "David Lynch", "Twin Peaks: The Return", "séries cult", "streaming", "Lynch na TV"]
-keywords: "Twin Peaks, MUBI, David Lynch, Twin Peaks: The Return, séries cult, streaming, Lynch na TV"
-author: "Luana Souza"
-data: "2025-04-23T14:19:51.698Z"
+title: Twin Peaks Retorna em Grande Estilo na MUBI com Todas as Temporadas
+slug: twin-peaks-e-the-return-sero-disponibilizado-na-ntegra-na-mubi-veja-data
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/jpkWTMucv6UADPSfMXbGKdaPVzs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-23T110931.026.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SkG4cibswg_-snI0iSPxEVWHe3E=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T110918.304.png
+tags:
+  - Twin Peaks
+  - MUBI
+  - David Lynch
+  - 'Twin Peaks: The Return'
+  - séries cult
+  - streaming
+  - Lynch na TV
+keywords: >-
+  Twin Peaks, MUBI, David Lynch, Twin Peaks: The Return, séries cult, streaming,
+  Lynch na TV
+author: Luana Souza
+data: '2025-04-23T14:19:51.698Z'
+resumo: >-
+  A MUBI traz uma celebração especial para os fãs de David Lynch, com a chegada
+  completa de 'Twin Peaks' e 'Twin Peaks: The Return' ao seu catálogo a partir
+  de 13 de junho.
 ---
 
 A MUBI, plataforma conhecida por seu catálogo seletivo de filmes e séries, anunciou uma adição nostálgica e significativa para os aficionados por séries cult. 'Twin Peaks' e 'Twin Peaks: The Return', ambos frutos da mente criativa de David Lynch, estarão disponíveis em breve, marcando o 35º aniversário do lançamento original da série.

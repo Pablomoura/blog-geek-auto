@@ -1,14 +1,35 @@
 ---
-title: "Emoção Profunda em 'The Last of Us': Kaitlyn Dever Filma Cena Crucial Após Tragédia Pessoal"
-slug: "the-last-of-us-atriz-de-abby-fez-cena-com-joel-dias-depois-da-morte-da-me"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/VV01pM3QOpY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/8vwu2kpflJKKv3b9-Tw5U6cJlRQ=/480x360/smart/extras/conteudos/Screenshot_2025-04-20_at_20.55.21.png"
-tags: ["The Last of Us", "HBO", "Kaitlyn Dever", "Abby", "Joel", "série", "drama", "Neil Druckmann", "Craig Mazin", "luto", "performance emocional", "especial-The Last of Us"]
-keywords: "The Last of Us, HBO, Kaitlyn Dever, Abby, Joel, série, drama, Neil Druckmann, Craig Mazin, luto, performance emocional"
-author: "Pablo Moura"
-data: "2025-04-21T11:17:44.460Z"
+title: >-
+  Emoção Profunda em 'The Last of Us': Kaitlyn Dever Filma Cena Crucial Após
+  Tragédia Pessoal
+slug: the-last-of-us-atriz-de-abby-fez-cena-com-joel-dias-depois-da-morte-da-me
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/VV01pM3QOpY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/8vwu2kpflJKKv3b9-Tw5U6cJlRQ=/480x360/smart/extras/conteudos/Screenshot_2025-04-20_at_20.55.21.png
+tags:
+  - The Last of Us
+  - HBO
+  - Kaitlyn Dever
+  - Abby
+  - Joel
+  - série
+  - drama
+  - Neil Druckmann
+  - Craig Mazin
+  - luto
+  - performance emocional
+  - especial-The Last of Us
+keywords: >-
+  The Last of Us, HBO, Kaitlyn Dever, Abby, Joel, série, drama, Neil Druckmann,
+  Craig Mazin, luto, performance emocional
+author: Pablo Moura
+data: '2025-04-21T11:17:44.460Z'
+resumo: >-
+  Kaitlyn Dever enfrentou o desafio de filmar uma das cenas mais intensas de
+  'The Last of Us' logo após o falecimento de sua mãe, trazendo uma camada extra
+  de emoção à série da HBO.
 ---
 
 A nova temporada de 'The Last of Us' da HBO, que adaptará 'The Last of Us Parte II', começou com momentos emocionantes e performances intensas, especialmente de Kaitlyn Dever, que interpreta Abby. Em uma revelação tocante à revista EW, Dever compartilhou como lidou com o luto pessoal enquanto filmava a cena dramática da morte de Joel, um momento marcante na série.

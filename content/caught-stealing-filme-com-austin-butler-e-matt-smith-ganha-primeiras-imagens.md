@@ -1,14 +1,28 @@
 ---
-title: "Caught Stealing: Austin Butler e Matt Smith no Thriller de Crime em Nova York"
-slug: "caught-stealing-filme-com-austin-butler-e-matt-smith-ganha-primeiras-imagens"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/ssGAcpjt0r0sE1h3lNhlIP9ANQk=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-29T201024.506.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QC_ROHqO9w_BqVnz01oMiZXouyQ=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T201024.506.png"
-tags: ["Caught Stealing", "Austin Butler", "Matt Smith", "filme de crime", "Nova York", "anos 90", "thriller"]
-keywords: "Caught Stealing, Austin Butler, Matt Smith, filme de crime, Nova York, anos 90, thriller"
-author: "Ana Luiza"
-data: "2025-04-30T01:25:31.656Z"
+title: 'Caught Stealing: Austin Butler e Matt Smith no Thriller de Crime em Nova York'
+slug: caught-stealing-filme-com-austin-butler-e-matt-smith-ganha-primeiras-imagens
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/ssGAcpjt0r0sE1h3lNhlIP9ANQk=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-29T201024.506.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QC_ROHqO9w_BqVnz01oMiZXouyQ=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T201024.506.png
+tags:
+  - Caught Stealing
+  - Austin Butler
+  - Matt Smith
+  - filme de crime
+  - Nova York
+  - anos 90
+  - thriller
+keywords: >-
+  Caught Stealing, Austin Butler, Matt Smith, filme de crime, Nova York, anos
+  90, thriller
+author: Ana Luiza
+data: '2025-04-30T01:25:31.656Z'
+resumo: >-
+  Austin Butler e Matt Smith enfrentam o submundo do crime em 'Caught Stealing',
+  um filme que promete tensão e drama nas ruas de Nova York dos anos 90.
 ---
 
 ## 'Caught Stealing' Revela Nova York Sombria dos Anos 90

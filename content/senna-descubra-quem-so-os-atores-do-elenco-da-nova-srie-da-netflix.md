@@ -1,14 +1,28 @@
 ---
-title: "Conheça o Elenco de 'Senna', a Nova Minissérie da Netflix Sobre o Lendário Piloto"
-slug: "senna-descubra-quem-so-os-atores-do-elenco-da-nova-srie-da-netflix"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/C-foU750sBDynX3ubDw5A4aQHFg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_2_wE11gTL.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/W3fp90VW2N42PEmhnYdq8sCTgtQ=/480x360/smart/extras/conteudos/Design_sem_nome_2_BT0fULi.jpg"
-tags: ["Senna Netflix", "elenco Senna", "Gabriel Leone", "série sobre Ayrton Senna", "estreia Netflix"]
-keywords: "Senna Netflix, elenco Senna, Gabriel Leone, série sobre Ayrton Senna, estreia Netflix"
-author: "Luana Souza"
-data: "2025-05-01T21:19:03.921Z"
+title: >-
+  Conheça o Elenco de 'Senna', a Nova Minissérie da Netflix Sobre o Lendário
+  Piloto
+slug: senna-descubra-quem-so-os-atores-do-elenco-da-nova-srie-da-netflix
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/C-foU750sBDynX3ubDw5A4aQHFg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_2_wE11gTL.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/W3fp90VW2N42PEmhnYdq8sCTgtQ=/480x360/smart/extras/conteudos/Design_sem_nome_2_BT0fULi.jpg
+tags:
+  - Senna Netflix
+  - elenco Senna
+  - Gabriel Leone
+  - série sobre Ayrton Senna
+  - estreia Netflix
+keywords: >-
+  Senna Netflix, elenco Senna, Gabriel Leone, série sobre Ayrton Senna, estreia
+  Netflix
+author: Luana Souza
+data: '2025-05-01T21:19:03.921Z'
+resumo: >-
+  A minissérie 'Senna', que retrata a vida do icônico piloto Ayrton Senna, já
+  está disponível na Netflix com um elenco de destaque.
 ---
 
 ## 'Senna': Uma Jornada Através da Vida de um Ícone do Automobilismo

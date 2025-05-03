@@ -1,14 +1,32 @@
 ---
-title: "Euphoria se Renova: Terceira Temporada Traz Novos Rostos e Antigos Favoritos no Elenco"
-slug: "euphoria-sydney-sweeney-e-alexa-demie-surgem-no-set-da-3-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Oz7CjqpRR3OJQtGSNngd9QQuZnw=/987x0/smart/uploads/conteudo/fotos/euphoria_jhrJ2O1.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/9jXCxkoTmWgaBCNlyxedSuXzD_Y=/480x360/smart/extras/conteudos/euphoria_hHsM4lq.jpg"
-tags: ["Euphoria", "terceira temporada", "Sydney Sweeney", "Alexa Demie", "Zendaya", "HBO", "Rosalía", "Sharon Stone"]
-keywords: "Euphoria, terceira temporada, Sydney Sweeney, Alexa Demie, Zendaya, HBO, Rosalía, Sharon Stone"
-author: "Ana Luiza"
-data: "2025-04-26T14:16:35.033Z"
+title: >-
+  Euphoria se Renova: Terceira Temporada Traz Novos Rostos e Antigos Favoritos
+  no Elenco
+slug: euphoria-sydney-sweeney-e-alexa-demie-surgem-no-set-da-3-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Oz7CjqpRR3OJQtGSNngd9QQuZnw=/987x0/smart/uploads/conteudo/fotos/euphoria_jhrJ2O1.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/9jXCxkoTmWgaBCNlyxedSuXzD_Y=/480x360/smart/extras/conteudos/euphoria_hHsM4lq.jpg
+tags:
+  - Euphoria
+  - terceira temporada
+  - Sydney Sweeney
+  - Alexa Demie
+  - Zendaya
+  - HBO
+  - Rosalía
+  - Sharon Stone
+keywords: >-
+  Euphoria, terceira temporada, Sydney Sweeney, Alexa Demie, Zendaya, HBO,
+  Rosalía, Sharon Stone
+author: Ana Luiza
+data: '2025-04-26T14:16:35.033Z'
+resumo: >-
+  Sydney Sweeney e Alexa Demie são flagradas filmando cenas intensas em Los
+  Angeles para a aguardada terceira temporada de Euphoria, que promete novidades
+  no elenco e retorno de estrelas consagradas.
 ---
 
 ## Flagradas em Cena: Sydney Sweeney e Alexa Demie em Ação

@@ -1,14 +1,32 @@
 ---
-title: "Florence Pugh Brilha em 'Thunderbolts': O Novo Capítulo Sombrio do MCU"
-slug: "thunderbolts-primeiras-impresses-destacam-florence-pugh-e-tom-sombrio"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/DDCGBCc6lmid17mFOuZYfzYMEFw=/480x360/smart/extras/conteudos/thunderbolts-1_uyI0gcw.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/DDCGBCc6lmid17mFOuZYfzYMEFw=/480x360/smart/extras/conteudos/thunderbolts-1_uyI0gcw.jpg"
-tags: ["Thunderbolts", "MCU", "Florence Pugh", "Marvel", "cinema", "filme de super-heróis", "Sebastian Stan", "Lewis Pullman", "Julia Louis-Dreyfus", "estreia 2025"]
-keywords: "Thunderbolts, MCU, Florence Pugh, Marvel, cinema, filme de super-heróis, Sebastian Stan, Lewis Pullman, Julia Louis-Dreyfus, estreia 2025"
-author: "Ana Luiza"
-data: "2025-04-22T22:19:05.956Z"
+title: 'Florence Pugh Brilha em ''Thunderbolts'': O Novo Capítulo Sombrio do MCU'
+slug: thunderbolts-primeiras-impresses-destacam-florence-pugh-e-tom-sombrio
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/DDCGBCc6lmid17mFOuZYfzYMEFw=/480x360/smart/extras/conteudos/thunderbolts-1_uyI0gcw.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/DDCGBCc6lmid17mFOuZYfzYMEFw=/480x360/smart/extras/conteudos/thunderbolts-1_uyI0gcw.jpg
+tags:
+  - Thunderbolts
+  - MCU
+  - Florence Pugh
+  - Marvel
+  - cinema
+  - filme de super-heróis
+  - Sebastian Stan
+  - Lewis Pullman
+  - Julia Louis-Dreyfus
+  - estreia 2025
+keywords: >-
+  Thunderbolts, MCU, Florence Pugh, Marvel, cinema, filme de super-heróis,
+  Sebastian Stan, Lewis Pullman, Julia Louis-Dreyfus, estreia 2025
+author: Ana Luiza
+data: '2025-04-22T22:19:05.956Z'
+resumo: >-
+  Com estreia marcada para 2 de maio de 2025, 'Thunderbolts' impressiona com uma
+  abordagem emocional intensa e performances destacadas, especialmente de
+  Florence Pugh.
 ---
 
 O Universo Cinematográfico Marvel (MCU) está prestes a se renovar com o lançamento de 'Thunderbolts', marcado para 2 de maio de 2025. A primeira exibição do filme em Londres revelou um tom mais sombrio e humano, focando em anti-heróis imperfeitos e arrependidos. As redes sociais já estão repletas de elogios, destacando especialmente a atuação de Florence Pugh, que se consagra como o grande destaque do filme.

@@ -1,14 +1,31 @@
 ---
-title: "Faça Ela Voltar: Novo filme dos criadores de Fale Comigo promete arrepios em trailer recém-lançado"
-slug: "faa-ela-voltar-novo-dos-diretores-de-fale-comigo-ganha-trailer-tenso"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/KrFXDlsvOMxgbxXlZ9LDSv9zEb8=/987x0/smart/uploads/conteudo/fotos/bringherbackfacaelavoltar.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/TKvl-RExzVeN_W2zFxQM48AbI4Q=/480x360/smart/extras/conteudos/bringherbackfacaelavoltar.jpg"
-tags: ["Faça Ela Voltar", "A24", "terror", "Sally Hawkins", "Danny e Michael Philippou", "Fale Comigo", "cinema", "trailer"]
-keywords: "Faça Ela Voltar, A24, terror, Sally Hawkins, Danny e Michael Philippou, Fale Comigo, cinema, trailer"
-author: "Ana Luiza"
-data: "2025-04-20T16:22:03.464Z"
+title: >-
+  Faça Ela Voltar: Novo filme dos criadores de Fale Comigo promete arrepios em
+  trailer recém-lançado
+slug: faa-ela-voltar-novo-dos-diretores-de-fale-comigo-ganha-trailer-tenso
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/KrFXDlsvOMxgbxXlZ9LDSv9zEb8=/987x0/smart/uploads/conteudo/fotos/bringherbackfacaelavoltar.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/TKvl-RExzVeN_W2zFxQM48AbI4Q=/480x360/smart/extras/conteudos/bringherbackfacaelavoltar.jpg
+tags:
+  - Faça Ela Voltar
+  - A24
+  - terror
+  - Sally Hawkins
+  - Danny e Michael Philippou
+  - Fale Comigo
+  - cinema
+  - trailer
+keywords: >-
+  Faça Ela Voltar, A24, terror, Sally Hawkins, Danny e Michael Philippou, Fale
+  Comigo, cinema, trailer
+author: Ana Luiza
+data: '2025-04-20T16:22:03.464Z'
+resumo: >-
+  O novo terror da A24, com Sally Hawkins, chega aos cinemas brasileiros em
+  agosto.
 ---
 
 A produtora A24 revelou neste domingo (20) o trailer de 'Faça Ela Voltar', marcando o mais recente projeto dos diretores Danny e Michael Philippou, conhecidos pelo canal RackaRacka no YouTube e pelo filme 'Fale Comigo'. O trailer mostra uma atmosfera carregada de tensão, com sons que causam arrepios e cenas de violência gráfica, prometendo uma experiência intensa para os fãs do gênero terror.

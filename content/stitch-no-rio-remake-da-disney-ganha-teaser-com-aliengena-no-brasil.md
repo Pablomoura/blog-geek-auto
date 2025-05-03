@@ -1,14 +1,32 @@
 ---
-title: "Stitch Invade o Rio de Janeiro em Novo Teaser do Remake de 'Lilo & Stitch'"
-slug: "stitch-no-rio-remake-da-disney-ganha-teaser-com-aliengena-no-brasil"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/P0u8SQCpWGZrNAljn-cRW9NisWk=/987x0/smart/uploads/conteudo/fotos/lilo-e-stitch-live-action_571nyhR.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pH7Y1Co3fHnez8WUjwSLKMJcZ7w=/480x360/smart/extras/conteudos/lilo-e-stitch-capa_0XUHsS9.jpg"
-tags: ["Lilo & Stitch", "Disney", "remake", "Rio de Janeiro", "teaser", "cinema", "live-action", "Lady Gaga", "Dean Fleischer Camp", "Chris Sanders"]
-keywords: "Lilo & Stitch, Disney, remake, Rio de Janeiro, teaser, cinema, live-action, Lady Gaga, Dean Fleischer Camp, Chris Sanders"
-author: "Ana Luiza"
-data: "2025-05-01T22:18:43.183Z"
+title: Stitch Invade o Rio de Janeiro em Novo Teaser do Remake de 'Lilo & Stitch'
+slug: stitch-no-rio-remake-da-disney-ganha-teaser-com-aliengena-no-brasil
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/P0u8SQCpWGZrNAljn-cRW9NisWk=/987x0/smart/uploads/conteudo/fotos/lilo-e-stitch-live-action_571nyhR.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pH7Y1Co3fHnez8WUjwSLKMJcZ7w=/480x360/smart/extras/conteudos/lilo-e-stitch-capa_0XUHsS9.jpg
+tags:
+  - Lilo & Stitch
+  - Disney
+  - remake
+  - Rio de Janeiro
+  - teaser
+  - cinema
+  - live-action
+  - Lady Gaga
+  - Dean Fleischer Camp
+  - Chris Sanders
+keywords: >-
+  Lilo & Stitch, Disney, remake, Rio de Janeiro, teaser, cinema, live-action,
+  Lady Gaga, Dean Fleischer Camp, Chris Sanders
+author: Ana Luiza
+data: '2025-05-01T22:18:43.183Z'
+resumo: >-
+  O aguardado live-action de 'Lilo & Stitch' apresenta seu novo teaser com cenas
+  no Rio de Janeiro, prometendo um espetáculo visual e emocional nos cinemas a
+  partir de 22 de maio.
 ---
 
 ## 'Lilo & Stitch' Retorna em Grande Estilo

@@ -1,14 +1,28 @@
 ---
-title: "Revolução no Oscar 2026: Votantes Devem Assistir Todos os Filmes para Votar"
-slug: "oscar-2026-academia-muda-regra-e-vai-exigir-que-votantes-assistam-aos-filmes"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/8Cy5nsyBP_iUTgbhncBefGFH1BE=/987x0/smart/uploads/conteudo/fotos/00_j1zeuy6.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/52fb8dyrakhYzZRmjIk2fd-OwA8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_172607.png"
-tags: ["Oscar 2026", "Academia de Cinema", "regras de votação", "filmes Oscar", "justiça na votação", "votantes Oscar"]
-keywords: "Oscar 2026, Academia de Cinema, regras de votação, filmes Oscar, justiça na votação, votantes Oscar"
-author: "Pablo Moura"
-data: "2025-04-21T21:19:14.811Z"
+title: 'Revolução no Oscar 2026: Votantes Devem Assistir Todos os Filmes para Votar'
+slug: oscar-2026-academia-muda-regra-e-vai-exigir-que-votantes-assistam-aos-filmes
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/8Cy5nsyBP_iUTgbhncBefGFH1BE=/987x0/smart/uploads/conteudo/fotos/00_j1zeuy6.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/52fb8dyrakhYzZRmjIk2fd-OwA8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_172607.png
+tags:
+  - Oscar 2026
+  - Academia de Cinema
+  - regras de votação
+  - filmes Oscar
+  - justiça na votação
+  - votantes Oscar
+keywords: >-
+  Oscar 2026, Academia de Cinema, regras de votação, filmes Oscar, justiça na
+  votação, votantes Oscar
+author: Pablo Moura
+data: '2025-04-21T21:19:14.811Z'
+resumo: >-
+  A Academia implementa uma nova regra obrigando os votantes a assistirem todos
+  os filmes concorrentes antes de votar, visando uma avaliação mais justa e
+  precisa.
 ---
 
 A partir do Oscar 2026, marcado para 15 de março em Los Angeles, os votantes enfrentarão uma mudança significativa no processo de votação. Segundo a Academia de Artes e Ciências Cinematográficas, será obrigatório que todos os membros assistam aos filmes indicados em todas as categorias antes de emitir seus votos. Além disso, será necessário comprovar que cada filme foi efetivamente assistido, embora os detalhes específicos de como isso será monitorado ainda não tenham sido divulgados.

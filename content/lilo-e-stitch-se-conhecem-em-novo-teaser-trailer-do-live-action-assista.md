@@ -1,14 +1,30 @@
 ---
-title: "Primeiro Olhar: Lilo & Stitch Ganham Vida em Novo Teaser do Live-Action!"
-slug: "lilo-e-stitch-se-conhecem-em-novo-teaser-trailer-do-live-action-assista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/-TXAw3wRPV5AbIHHola5h_Ic7Ns=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T134338.629.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/-TXAw3wRPV5AbIHHola5h_Ic7Ns=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T134338.629.png"
-tags: ["Lilo & Stitch", "live-action", "teaser trailer", "cinema", "estreia", "Disney", "Jon Favreau", "efeitos especiais"]
-keywords: "Lilo & Stitch, live-action, teaser trailer, cinema, estreia, Disney, Jon Favreau, efeitos especiais"
-author: "Pablo Moura"
-data: "2025-04-23T17:17:48.893Z"
+title: 'Primeiro Olhar: Lilo & Stitch Ganham Vida em Novo Teaser do Live-Action!'
+slug: lilo-e-stitch-se-conhecem-em-novo-teaser-trailer-do-live-action-assista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/-TXAw3wRPV5AbIHHola5h_Ic7Ns=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T134338.629.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/-TXAw3wRPV5AbIHHola5h_Ic7Ns=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T134338.629.png
+tags:
+  - Lilo & Stitch
+  - live-action
+  - teaser trailer
+  - cinema
+  - estreia
+  - Disney
+  - Jon Favreau
+  - efeitos especiais
+keywords: >-
+  Lilo & Stitch, live-action, teaser trailer, cinema, estreia, Disney, Jon
+  Favreau, efeitos especiais
+author: Pablo Moura
+data: '2025-04-23T17:17:48.893Z'
+resumo: >-
+  O novo teaser trailer do live-action de Lilo & Stitch foi revelado, mostrando
+  o primeiro encontro emocionante entre os personagens principais. O filme está
+  programado para estrear nos cinemas em maio deste ano.
 ---
 
 A espera acabou para os fãs de uma das mais queridas animações da Disney. O novo teaser trailer do live-action de **Lilo & Stitch** oferece um vislumbre emocionante do que esperar com a chegada do filme aos cinemas em maio deste ano. O vídeo captura o momento mágico em que Lilo e Stitch se encontram pela primeira vez, prometendo uma adaptação cheia de emoção e aventuras.

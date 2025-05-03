@@ -1,14 +1,28 @@
 ---
-title: "The Rising of the Shield Hero: Novidades Eletrizantes da 4ª Temporada!"
-slug: "the-rising-of-the-shield-hero-4-temporada-ganha-trailer-indito-assista"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/l6a7wep5g1w?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/QXi-gRY_IC_mPKESm38buBf-Z6Q=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-22T213439.177.png"
-tags: ["The Rising of the Shield Hero", "4ª temporada", "Naofumi", "MADKID", "Chiai Fujikawa", "animes", "Crunchyroll"]
-keywords: "The Rising of the Shield Hero, 4ª temporada, Naofumi, MADKID, Chiai Fujikawa, animes, Crunchyroll"
-author: "Ana Luiza"
-data: "2025-04-23T01:24:18.746Z"
+title: 'The Rising of the Shield Hero: Novidades Eletrizantes da 4ª Temporada!'
+slug: the-rising-of-the-shield-hero-4-temporada-ganha-trailer-indito-assista
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/l6a7wep5g1w?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/QXi-gRY_IC_mPKESm38buBf-Z6Q=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-22T213439.177.png
+tags:
+  - The Rising of the Shield Hero
+  - 4ª temporada
+  - Naofumi
+  - MADKID
+  - Chiai Fujikawa
+  - animes
+  - Crunchyroll
+keywords: >-
+  The Rising of the Shield Hero, 4ª temporada, Naofumi, MADKID, Chiai Fujikawa,
+  animes, Crunchyroll
+author: Ana Luiza
+data: '2025-04-23T01:24:18.746Z'
+resumo: >-
+  A quarta temporada de 'The Rising of the Shield Hero' promete intensificar as
+  aventuras de Naofumi com novas músicas de abertura e encerramento e uma equipe
+  criativa robusta.
 ---
 
 Fãs de 'The Rising of the Shield Hero', preparem-se! A abertura da tão esperada quarta temporada foi revelada na última segunda-feira (21), com estreia marcada para julho de 2025. A trilha sonora ficará por conta da banda MADKID, que embalará o anime com a música 'Resolution'.

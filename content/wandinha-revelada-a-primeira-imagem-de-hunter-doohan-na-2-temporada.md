@@ -1,14 +1,34 @@
 ---
-title: "Wandinha: Segunda temporada traz novos desafios para Tyler Galphin"
-slug: "wandinha-revelada-a-primeira-imagem-de-hunter-doohan-na-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/UNjvJNlxs8Q?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/_ASFsttJtVGGGjPJraZlB6xI1zU=/480x360/smart/extras/conteudos/01_Lu0l4Ao.jpg"
-tags: ["Wandinha", "Netflix", "segunda temporada", "Hunter Doohan", "Tyler Galphin", "Jenna Ortega", "Lady Gaga", "Steve Buscemi", "Thandiwe Newton", "Billie Piper", "Christopher Lloyd", "novidades série"]
-keywords: "Wandinha, Netflix, segunda temporada, Hunter Doohan, Tyler Galphin, Jenna Ortega, Lady Gaga, Steve Buscemi, Thandiwe Newton, Billie Piper, Christopher Lloyd, novidades série"
-author: "Ana Luiza"
-data: "2025-04-23T22:23:31.228Z"
+title: 'Wandinha: Segunda temporada traz novos desafios para Tyler Galphin'
+slug: wandinha-revelada-a-primeira-imagem-de-hunter-doohan-na-2-temporada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/UNjvJNlxs8Q?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/_ASFsttJtVGGGjPJraZlB6xI1zU=/480x360/smart/extras/conteudos/01_Lu0l4Ao.jpg
+tags:
+  - Wandinha
+  - Netflix
+  - segunda temporada
+  - Hunter Doohan
+  - Tyler Galphin
+  - Jenna Ortega
+  - Lady Gaga
+  - Steve Buscemi
+  - Thandiwe Newton
+  - Billie Piper
+  - Christopher Lloyd
+  - novidades série
+keywords: >-
+  Wandinha, Netflix, segunda temporada, Hunter Doohan, Tyler Galphin, Jenna
+  Ortega, Lady Gaga, Steve Buscemi, Thandiwe Newton, Billie Piper, Christopher
+  Lloyd, novidades série
+author: Ana Luiza
+data: '2025-04-23T22:23:31.228Z'
+resumo: >-
+  A Netflix revelou uma nova imagem de Hunter Doohan como Tyler Galphin na
+  aguardada segunda temporada de Wandinha, prometendo mais suspense e
+  reviravoltas.
 ---
 
 A série "Wandinha", sucesso da Netflix, está pronta para explorar novas tramas em sua segunda temporada, e a plataforma acaba de divulgar uma imagem exclusiva do ator Hunter Doohan, reprisando seu papel como Tyler Galphin. Na primeira temporada, Tyler emergiu como um dos antagonistas principais, marcado por sua habilidade de se transformar em um monstro aterrorizante.

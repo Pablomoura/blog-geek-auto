@@ -1,14 +1,31 @@
 ---
-title: "Julia Garner e Josh Brolin Protagonizam 'A Hora do Mal', o Novo Thriller de Zach Creggers"
-slug: "a-hora-do-mal-ganha-primeira-fotos-com-julia-garner-e-josh-brolin"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/YHaFn4en9WtzIJ61ZTqU4HDENAQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T185538.116.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4rPVmeVSfjTnk29HsZJ9Ksj6W9w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T185538.116.png"
-tags: ["A Hora do Mal", "Zach Creggers", "Julia Garner", "Josh Brolin", "filme de terror", "Noites Brutais", "Warner Bros.", "cinema"]
-keywords: "A Hora do Mal, Zach Creggers, Julia Garner, Josh Brolin, filme de terror, Noites Brutais, Warner Bros., cinema"
-author: "Pablo Moura"
-data: "2025-04-28T22:19:25.597Z"
+title: >-
+  Julia Garner e Josh Brolin Protagonizam 'A Hora do Mal', o Novo Thriller de
+  Zach Creggers
+slug: a-hora-do-mal-ganha-primeira-fotos-com-julia-garner-e-josh-brolin
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/YHaFn4en9WtzIJ61ZTqU4HDENAQ=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T185538.116.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4rPVmeVSfjTnk29HsZJ9Ksj6W9w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T185538.116.png
+tags:
+  - A Hora do Mal
+  - Zach Creggers
+  - Julia Garner
+  - Josh Brolin
+  - filme de terror
+  - Noites Brutais
+  - Warner Bros.
+  - cinema
+keywords: >-
+  A Hora do Mal, Zach Creggers, Julia Garner, Josh Brolin, filme de terror,
+  Noites Brutais, Warner Bros., cinema
+author: Pablo Moura
+data: '2025-04-28T22:19:25.597Z'
+resumo: >-
+  Zach Creggers revela primeiras imagens de 'A Hora do Mal', prometendo um
+  thriller épico com uma trama complexa e interconectada.
 ---
 
 ## Revelações e Expectativas para 'A Hora do Mal'

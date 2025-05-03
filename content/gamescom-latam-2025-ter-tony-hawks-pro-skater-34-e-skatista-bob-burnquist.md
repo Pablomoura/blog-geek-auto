@@ -1,14 +1,29 @@
 ---
-title: "Gamescom LATAM 2025 em São Paulo terá presença de Bob Burnquist e lançamento de Tony Hawk's Pro Skater 3+4"
-slug: "gamescom-latam-2025-ter-tony-hawks-pro-skater-34-e-skatista-bob-burnquist"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/iL8WrSK15qQMrk8E9lFTGS4iv4E=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T111509.934.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/JWceee0838DJuneT57zm8vwGbnE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T111449.388.png"
-tags: ["Gamescom LATAM 2025", "Tony Hawk's Pro Skater 3+4", "Bob Burnquist", "Activision", "evento de games", "São Paulo"]
-keywords: "Gamescom LATAM 2025, Tony Hawk's Pro Skater 3+4, Bob Burnquist, Activision, evento de games, São Paulo"
-author: "Luana Souza"
-data: "2025-04-29T14:19:40.986Z"
+title: >-
+  Gamescom LATAM 2025 em São Paulo terá presença de Bob Burnquist e lançamento
+  de Tony Hawk's Pro Skater 3+4
+slug: gamescom-latam-2025-ter-tony-hawks-pro-skater-34-e-skatista-bob-burnquist
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/iL8WrSK15qQMrk8E9lFTGS4iv4E=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T111509.934.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/JWceee0838DJuneT57zm8vwGbnE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T111449.388.png
+tags:
+  - Gamescom LATAM 2025
+  - Tony Hawk's Pro Skater 3+4
+  - Bob Burnquist
+  - Activision
+  - evento de games
+  - São Paulo
+keywords: >-
+  Gamescom LATAM 2025, Tony Hawk's Pro Skater 3+4, Bob Burnquist, Activision,
+  evento de games, São Paulo
+author: Luana Souza
+data: '2025-04-29T14:19:40.986Z'
+resumo: >-
+  O icônico skatista Bob Burnquist marcará presença no Gamescom LATAM 2025, onde
+  a Activision lançará Tony Hawk's Pro Skater 3+4.
 ---
 
 ## Bob Burnquist e Tony Hawk's Pro Skater 3+4 são destaques na Gamescom LATAM 2025

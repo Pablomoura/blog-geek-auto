@@ -1,14 +1,31 @@
 ---
-title: "Anime Friends 2025: Seven Oops Estreia no Brasil e Mais Surpresas Musicais"
-slug: "anime-friends-anuncia-seven-oops-pela-primeira-vez-no-brasil"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/MF8kHWWFO10?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/QWvXh36CapI2scroMBc_ISH2avQ=/480x360/smart/extras/conteudos/DSCF0447_Original-1024x768.png"
-tags: ["Anime Friends 2025", "seven oops", "Nightmare", "Big Ocean", "K-pop", "J-Rock", "Visual Kei", "música japonesa", "cultura pop asiática", "animes"]
-keywords: "Anime Friends 2025, seven oops, Nightmare, Big Ocean, K-pop, J-Rock, Visual Kei, música japonesa, cultura pop asiática, animes"
-author: "Ana Luiza"
-data: "2025-04-25T23:17:33.493Z"
+title: 'Anime Friends 2025: Seven Oops Estreia no Brasil e Mais Surpresas Musicais'
+slug: anime-friends-anuncia-seven-oops-pela-primeira-vez-no-brasil
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/MF8kHWWFO10?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/QWvXh36CapI2scroMBc_ISH2avQ=/480x360/smart/extras/conteudos/DSCF0447_Original-1024x768.png
+tags:
+  - Anime Friends 2025
+  - seven oops
+  - Nightmare
+  - Big Ocean
+  - K-pop
+  - J-Rock
+  - Visual Kei
+  - música japonesa
+  - cultura pop asiática
+  - animes
+keywords: >-
+  Anime Friends 2025, seven oops, Nightmare, Big Ocean, K-pop, J-Rock, Visual
+  Kei, música japonesa, cultura pop asiática, animes
+author: Ana Luiza
+data: '2025-04-25T23:17:33.493Z'
+resumo: >-
+  O Anime Friends 2025 promete agitar os fãs de anime e J-Pop com a estreia da
+  banda seven oops no Brasil e atrações internacionais como Nightmare e o grupo
+  K-pop Big Ocean.
 ---
 
 ## Seven Oops Debuta no Brasil em Grande Estilo

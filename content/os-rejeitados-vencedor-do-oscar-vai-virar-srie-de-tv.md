@@ -1,14 +1,27 @@
 ---
-title: "Dos cinemas para a TV: 'Os Rejeitados' ganhará série pela Miramax"
-slug: "os-rejeitados-vencedor-do-oscar-vai-virar-srie-de-tv"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/fK77AqzM4r6tkVpe1EtfZfy4GJY=/480x360/smart/extras/conteudos/01_jb6BreP.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fK77AqzM4r6tkVpe1EtfZfy4GJY=/480x360/smart/extras/conteudos/01_jb6BreP.jpg"
-tags: ["Os Rejeitados", "série de TV", "Miramax", "Oscar 2024", "Alexander Payne", "adaptação cinematográfica"]
-keywords: "Os Rejeitados, série de TV, Miramax, Oscar 2024, Alexander Payne, adaptação cinematográfica"
-author: "Pablo Moura"
-data: "2025-04-25T21:18:07.440Z"
+title: 'Dos cinemas para a TV: ''Os Rejeitados'' ganhará série pela Miramax'
+slug: os-rejeitados-vencedor-do-oscar-vai-virar-srie-de-tv
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/fK77AqzM4r6tkVpe1EtfZfy4GJY=/480x360/smart/extras/conteudos/01_jb6BreP.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fK77AqzM4r6tkVpe1EtfZfy4GJY=/480x360/smart/extras/conteudos/01_jb6BreP.jpg
+tags:
+  - Os Rejeitados
+  - série de TV
+  - Miramax
+  - Oscar 2024
+  - Alexander Payne
+  - adaptação cinematográfica
+keywords: >-
+  Os Rejeitados, série de TV, Miramax, Oscar 2024, Alexander Payne, adaptação
+  cinematográfica
+author: Pablo Moura
+data: '2025-04-25T21:18:07.440Z'
+resumo: >-
+  O filme 'Os Rejeitados', premiado com o Oscar de Melhor Atriz Coadjuvante em
+  2024, será adaptado para uma série de TV pela Miramax.
 ---
 
 ## Transformação de Sucesso Cinematográfico em Série

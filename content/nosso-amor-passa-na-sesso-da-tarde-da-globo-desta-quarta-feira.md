@@ -1,14 +1,28 @@
 ---
-title: "Liam Neeson em 'Nosso Amor': Uma História de Amor e Superação na Sessão da Tarde"
-slug: "nosso-amor-passa-na-sesso-da-tarde-da-globo-desta-quarta-feira"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/TQvgkMg4Eaw?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/izLaHxDkpeBlsLDYBVrrxvHkqWU=/480x360/smart/extras/conteudos/nossoamor.jpg"
-tags: ["Nosso Amor", "Liam Neeson", "Sessão da Tarde", "filme", "TV Globo", "amor", "superação"]
-keywords: "Nosso Amor, Liam Neeson, Sessão da Tarde, filme, TV Globo, amor, superação"
-author: "Luana Souza"
-data: "2025-04-23T11:17:00.679Z"
+title: >-
+  Liam Neeson em 'Nosso Amor': Uma História de Amor e Superação na Sessão da
+  Tarde
+slug: nosso-amor-passa-na-sesso-da-tarde-da-globo-desta-quarta-feira
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/TQvgkMg4Eaw?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/izLaHxDkpeBlsLDYBVrrxvHkqWU=/480x360/smart/extras/conteudos/nossoamor.jpg
+tags:
+  - Nosso Amor
+  - Liam Neeson
+  - Sessão da Tarde
+  - filme
+  - TV Globo
+  - amor
+  - superação
+keywords: 'Nosso Amor, Liam Neeson, Sessão da Tarde, filme, TV Globo, amor, superação'
+author: Luana Souza
+data: '2025-04-23T11:17:00.679Z'
+resumo: >-
+  Descubra como o amor pode superar os desafios da doença no filme 'Nosso Amor',
+  estrelado por Liam Neeson, transmitido pela Sessão da Tarde nesta
+  quarta-feira.
 ---
 
 Nesta quarta-feira (23), a Sessão da Tarde traz uma emocionante história de amor e resiliência com o filme 'Nosso Amor', lançado em 2019. Programado para começar às 15h35, horário de Brasília, na TV Globo, o filme promete tocar os corações dos espectadores com uma trama envolvente de 90 minutos de duração.

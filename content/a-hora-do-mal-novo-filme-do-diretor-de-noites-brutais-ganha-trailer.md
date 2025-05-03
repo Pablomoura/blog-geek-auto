@@ -1,14 +1,31 @@
 ---
-title: "A Hora do Mal: Novo Terror de Zach Cregger Promete Revolucionar o Gênero em 2025"
-slug: "a-hora-do-mal-novo-filme-do-diretor-de-noites-brutais-ganha-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/uhYkmffWW5I?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/OhJo6tVGcHWSl__uZwEbs7Othkw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T183119.724.png"
-tags: ["A Hora do Mal", "Zach Cregger", "cinema de terror", "Warner Bros", "lançamento 2025", "Josh Brolin", "Julia Garner", "Alden Ehrenreich"]
-keywords: "A Hora do Mal, Zach Cregger, cinema de terror, Warner Bros, lançamento 2025, Josh Brolin, Julia Garner, Alden Ehrenreich"
-author: "Ana Luiza"
-data: "2025-04-25T23:20:49.721Z"
+title: >-
+  A Hora do Mal: Novo Terror de Zach Cregger Promete Revolucionar o Gênero em
+  2025
+slug: a-hora-do-mal-novo-filme-do-diretor-de-noites-brutais-ganha-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/uhYkmffWW5I?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/OhJo6tVGcHWSl__uZwEbs7Othkw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T183119.724.png
+tags:
+  - A Hora do Mal
+  - Zach Cregger
+  - cinema de terror
+  - Warner Bros
+  - lançamento 2025
+  - Josh Brolin
+  - Julia Garner
+  - Alden Ehrenreich
+keywords: >-
+  A Hora do Mal, Zach Cregger, cinema de terror, Warner Bros, lançamento 2025,
+  Josh Brolin, Julia Garner, Alden Ehrenreich
+author: Ana Luiza
+data: '2025-04-25T23:20:49.721Z'
+resumo: >-
+  Confirmado para agosto de 2025, 'A Hora do Mal', dirigido por Zach Cregger,
+  traz um elenco estelar e uma trama intrigante que já causa expectativa no
+  mercado cinematográfico.
 ---
 
 ## Lançamento de 'A Hora do Mal' Anunciado pela Warner Bros.

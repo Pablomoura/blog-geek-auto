@@ -1,14 +1,29 @@
 ---
-title: "Karatê Kid Lendas: Novo Filme Une Gerações em Uma Emocionante Aventura de Artes Marciais"
-slug: "karat-kid-lendas-ganha-imagem-do-elenco-reunido-em-cena"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/jdZPKED0Dqg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/4eItNFehCDZ9k70bZVmbDM6TOkI=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_174120.png"
-tags: ["Karatê Kid Lendas", "Jackie Chan", "Ralph Macchio", "filme de artes marciais", "cinema", "nova saga Karatê Kid"]
-keywords: "Karatê Kid Lendas, Jackie Chan, Ralph Macchio, filme de artes marciais, cinema, nova saga Karatê Kid"
-author: "Ana Luiza"
-data: "2025-04-28T21:16:26.118Z"
+title: >-
+  Karatê Kid Lendas: Novo Filme Une Gerações em Uma Emocionante Aventura de
+  Artes Marciais
+slug: karat-kid-lendas-ganha-imagem-do-elenco-reunido-em-cena
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/jdZPKED0Dqg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/4eItNFehCDZ9k70bZVmbDM6TOkI=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_174120.png
+tags:
+  - Karatê Kid Lendas
+  - Jackie Chan
+  - Ralph Macchio
+  - filme de artes marciais
+  - cinema
+  - nova saga Karatê Kid
+keywords: >-
+  Karatê Kid Lendas, Jackie Chan, Ralph Macchio, filme de artes marciais,
+  cinema, nova saga Karatê Kid
+author: Ana Luiza
+data: '2025-04-28T21:16:26.118Z'
+resumo: >-
+  A icônica franquia Karatê Kid retorna aos cinemas com uma nova saga que reúne
+  um elenco estelar, incluindo Jackie Chan e Ralph Macchio, em uma emocionante
+  história de superação e amizade.
 ---
 
 ## Primeira Olhada em Karatê Kid Lendas

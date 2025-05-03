@@ -1,14 +1,31 @@
 ---
-title: "Wuchang: Fallen Feathers Define Data de Lançamento e Promete Revolucionar o Mercado de Games com Estilo Soulslike"
-slug: "wuchang-fallen-feathers-soulslike-chins-ganha-data-de-lanamento"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/oPf0b55ixE8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/zb_cYYkxj-lc8yoek3TIVlAS81k=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_164617.png"
-tags: ["Wuchang: Fallen Feathers", "lançamento de jogo", "games chineses", "Black Myth: Wukong", "PS5", "Xbox Series", "PC games", "Game Pass"]
-keywords: "Wuchang: Fallen Feathers, lançamento de jogo, games chineses, Black Myth: Wukong, PS5, Xbox Series, PC games, Game Pass"
-author: "Ana Luiza"
-data: "2025-04-29T20:21:05.396Z"
+title: >-
+  Wuchang: Fallen Feathers Define Data de Lançamento e Promete Revolucionar o
+  Mercado de Games com Estilo Soulslike
+slug: wuchang-fallen-feathers-soulslike-chins-ganha-data-de-lanamento
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/oPf0b55ixE8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/zb_cYYkxj-lc8yoek3TIVlAS81k=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_164617.png
+tags:
+  - 'Wuchang: Fallen Feathers'
+  - lançamento de jogo
+  - games chineses
+  - 'Black Myth: Wukong'
+  - PS5
+  - Xbox Series
+  - PC games
+  - Game Pass
+keywords: >-
+  Wuchang: Fallen Feathers, lançamento de jogo, games chineses, Black Myth:
+  Wukong, PS5, Xbox Series, PC games, Game Pass
+author: Ana Luiza
+data: '2025-04-29T20:21:05.396Z'
+resumo: >-
+  Após o sucesso estrondoso de Black Myth: Wukong, o novo game chinês Wuchang:
+  Fallen Feathers chega com altas expectativas e data de lançamento marcada para
+  24 de julho, disponível em plataformas de última geração e PC.
 ---
 
 ## Wuchang: Fallen Feathers - Uma Nova Era para os Games Chineses

@@ -1,14 +1,32 @@
 ---
-title: "Quarteto Fantástico expande universo MCU com novo quadrinho canônico e elenco estelar"
-slug: "quarteto-fantstico-ganhar-quadrinho-cannico-no-universo-do-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/pidldNv9UglhBRn4RWf5fyC7pMY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T132133.785.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/oumyE6y2YtCFlJAYwJthB_0GHWQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T132325.906.png"
-tags: ["Quarteto Fantástico", "MCU", "Marvel Studios", "Marvel Comics", "Pedro Pascal", "Vanessa Kirby", "Matt Shakman", "Robert Downey Jr."]
-keywords: "Quarteto Fantástico, MCU, Marvel Studios, Marvel Comics, Pedro Pascal, Vanessa Kirby, Matt Shakman, Robert Downey Jr."
-author: "Pablo Moura"
-data: "2025-04-25T17:19:04.735Z"
+title: >-
+  Quarteto Fantástico expande universo MCU com novo quadrinho canônico e elenco
+  estelar
+slug: quarteto-fantstico-ganhar-quadrinho-cannico-no-universo-do-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/pidldNv9UglhBRn4RWf5fyC7pMY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T132133.785.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/oumyE6y2YtCFlJAYwJthB_0GHWQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T132325.906.png
+tags:
+  - Quarteto Fantástico
+  - MCU
+  - Marvel Studios
+  - Marvel Comics
+  - Pedro Pascal
+  - Vanessa Kirby
+  - Matt Shakman
+  - Robert Downey Jr.
+keywords: >-
+  Quarteto Fantástico, MCU, Marvel Studios, Marvel Comics, Pedro Pascal, Vanessa
+  Kirby, Matt Shakman, Robert Downey Jr.
+author: Pablo Moura
+data: '2025-04-25T17:19:04.735Z'
+resumo: >-
+  A Marvel Studios e a Marvel Comics anunciam o lançamento de 'Quarteto
+  Fantástico: Primeiros Passos', o primeiro quadrinho canônico ligado ao MCU,
+  que chegará às lojas em julho, antecedendo o filme com um elenco de renome.
 ---
 
 ## Quarteto Fantástico: Primeiros Passos - Uma Nova Visão no MCU

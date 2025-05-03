@@ -1,14 +1,28 @@
 ---
-title: "Alien: Earth Revela Teaser Perturbador e Novo Pôster!"
-slug: "alien-earth-ganha-teaser-trailer-macabro-e-pster-confira"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/y346zGJ3SKk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/UvY_S3fgdFYLFn3IDQnfcm2Kde0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T111759.037.png"
-tags: ["Alien Earth", "Alien: Earth teaser", "Alien saga", "Disney+", "Ridley Scott", "xenomorfo", "série de terror"]
-keywords: "Alien Earth, Alien: Earth teaser, Alien saga, Disney+, Ridley Scott, xenomorfo, série de terror"
-author: "Luana Souza"
-data: "2025-04-22T15:21:08.531Z"
+title: 'Alien: Earth Revela Teaser Perturbador e Novo Pôster!'
+slug: alien-earth-ganha-teaser-trailer-macabro-e-pster-confira
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/y346zGJ3SKk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/UvY_S3fgdFYLFn3IDQnfcm2Kde0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T111759.037.png
+tags:
+  - Alien Earth
+  - 'Alien: Earth teaser'
+  - Alien saga
+  - Disney+
+  - Ridley Scott
+  - xenomorfo
+  - série de terror
+keywords: >-
+  Alien Earth, Alien: Earth teaser, Alien saga, Disney+, Ridley Scott,
+  xenomorfo, série de terror
+author: Luana Souza
+data: '2025-04-22T15:21:08.531Z'
+resumo: >-
+  A série Alien: Earth, que serve de prelúdio ao clássico filme de Ridley Scott,
+  lançou um teaser aterrorizante e um novo pôster, marcando sua estreia para
+  2025 no Disney+.
 ---
 
 A IGN divulgou um teaser trailer sinistro de *Alien: Earth*, alinhado com as comemorações do Dia da Terra. Este novo vislumbre traz à tona o terror alienígena que a franquia é conhecida, complementado por um pôster recém-lançado que promete muito suspense e mistério.

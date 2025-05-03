@@ -1,14 +1,28 @@
 ---
-title: "Nova Temporada de Rick and Morty Chega ao Brasil com Grandes Mudanças!"
-slug: "rick-and-morty-8-temporada-ganha-trailer-e-data-no-brasil"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/W6TVcu1kznk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/bpRREPHCye6TXJIRGX8g-dO6Svg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T105614.579.png"
-tags: ["Rick and Morty", "8ª temporada", "Justin Roiland", "Rick and Morty: The Anime", "séries de animação", "estreia", "Brasil"]
-keywords: "Rick and Morty, 8ª temporada, Justin Roiland, Rick and Morty: The Anime, séries de animação, estreia, Brasil"
-author: "Luana Souza"
-data: "2025-04-22T14:19:32.579Z"
+title: Nova Temporada de Rick and Morty Chega ao Brasil com Grandes Mudanças!
+slug: rick-and-morty-8-temporada-ganha-trailer-e-data-no-brasil
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/W6TVcu1kznk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/bpRREPHCye6TXJIRGX8g-dO6Svg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T105614.579.png
+tags:
+  - Rick and Morty
+  - 8ª temporada
+  - Justin Roiland
+  - 'Rick and Morty: The Anime'
+  - séries de animação
+  - estreia
+  - Brasil
+keywords: >-
+  Rick and Morty, 8ª temporada, Justin Roiland, Rick and Morty: The Anime,
+  séries de animação, estreia, Brasil
+author: Luana Souza
+data: '2025-04-22T14:19:32.579Z'
+resumo: >-
+  A oitava temporada de Rick and Morty estreia em maio no Brasil, marcando a
+  série com a ausência de Justin Roiland e a introdução de um spin-off em estilo
+  anime.
 ---
 
 A aclamada série de animação **Rick and Morty** está prestes a lançar sua oitava temporada, que chegará ao Brasil em 26 de maio, um dia após a estreia nos Estados Unidos. Esta nova temporada vem com uma mudança significativa: a ausência de Justin Roiland, co-criador e voz de vários personagens, que foi afastado após acusações de violência doméstica, posteriormente arquivadas por falta de evidências.

@@ -1,14 +1,30 @@
 ---
-title: "Tom Ellis Brilha em Novo Spinoff de 'FBI': Conheça 'CIA'"
-slug: "fbi-spinoff-da-cia-confirmado-com-tom-ellis-protagonizando"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/lzYlrcSWfoQhYgxn36Sa73Yvt8I=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T130043.176.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/up8x3mrgZaiNB9Eea8IZ_tqGgHo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T130030.429.png"
-tags: ["FBI spinoff", "CIA série", "Tom Ellis", "CBS", "série de espionagem", "estreias 2026", "série de ação", "drama policial", "streaming no Brasil"]
-keywords: "FBI spinoff, CIA série, Tom Ellis, CBS, série de espionagem, estreias 2026, série de ação, drama policial, streaming no Brasil"
-author: "Pablo Moura"
-data: "2025-04-22T16:25:41.653Z"
+title: 'Tom Ellis Brilha em Novo Spinoff de ''FBI'': Conheça ''CIA'''
+slug: fbi-spinoff-da-cia-confirmado-com-tom-ellis-protagonizando
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/lzYlrcSWfoQhYgxn36Sa73Yvt8I=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T130043.176.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/up8x3mrgZaiNB9Eea8IZ_tqGgHo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T130030.429.png
+tags:
+  - FBI spinoff
+  - CIA série
+  - Tom Ellis
+  - CBS
+  - série de espionagem
+  - estreias 2026
+  - série de ação
+  - drama policial
+  - streaming no Brasil
+keywords: >-
+  FBI spinoff, CIA série, Tom Ellis, CBS, série de espionagem, estreias 2026,
+  série de ação, drama policial, streaming no Brasil
+author: Pablo Moura
+data: '2025-04-22T16:25:41.653Z'
+resumo: >-
+  A CBS confirma o início da produção de 'CIA', um novo spinoff da franquia
+  'FBI', protagonizado por Tom Ellis, com estreia prevista para 2026.
 ---
 
 A popular franquia 'FBI' da CBS está expandindo seu universo com um novo spinoff intitulado 'CIA', com Tom Ellis, conhecido por seu papel em 'Lúcifer', no papel principal. A série promete uma abordagem focada na ação de agentes da CIA, diferenciando-se por não carregar o prefixo 'FBI' como em 'FBI International'.

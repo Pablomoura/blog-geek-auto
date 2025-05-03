@@ -1,14 +1,25 @@
 ---
-title: "Nova Série de Harry Potter na HBO: O que Sabemos Até Agora"
-slug: "harry-potter-chefe-da-hbo-diz-que-vises-de-jk-rowling-no-influenciam-srie"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/BwqEtNLd4jXPprVwKT91yy0R6bY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T105231.504.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/BwqEtNLd4jXPprVwKT91yy0R6bY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T105231.504.png"
-tags: ["Harry Potter", "HBO", "série", "J.K. Rowling", "David Fincher", "John Lithgow"]
-keywords: "Harry Potter, HBO, série, J.K. Rowling, David Fincher, John Lithgow"
-author: "Ana Luiza"
-data: "2025-05-02T14:18:42.844Z"
+title: 'Nova Série de Harry Potter na HBO: O que Sabemos Até Agora'
+slug: harry-potter-chefe-da-hbo-diz-que-vises-de-jk-rowling-no-influenciam-srie
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/BwqEtNLd4jXPprVwKT91yy0R6bY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T105231.504.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/BwqEtNLd4jXPprVwKT91yy0R6bY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T105231.504.png
+tags:
+  - Harry Potter
+  - HBO
+  - série
+  - J.K. Rowling
+  - David Fincher
+  - John Lithgow
+keywords: 'Harry Potter, HBO, série, J.K. Rowling, David Fincher, John Lithgow'
+author: Ana Luiza
+data: '2025-05-02T14:18:42.844Z'
+resumo: >-
+  A nova série de Harry Potter na HBO promete explorar profundamente o mundo
+  bruxo, com J.K. Rowling envolvida na produção, apesar das controvérsias.
 ---
 
 ## Detalhes da Nova Série de Harry Potter

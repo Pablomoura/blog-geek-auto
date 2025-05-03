@@ -1,14 +1,30 @@
 ---
-title: "The Last of Us: Descubra as Maiores Mudanças do Episódio 3 da Segunda Temporada"
-slug: "the-last-of-us-entenda-diferenas-entre-jogo-e-3-episdio-da-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/-IJz0OXw4wKjkfnRDm-LSNhXB2A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T123548.892.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/-IJz0OXw4wKjkfnRDm-LSNhXB2A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T123548.892.png"
-tags: ["The Last of Us", "série The Last of Us", "jogo The Last of Us", "Naughty Dog", "diferenças jogo e série", "episódio 3 temporada 2", "especial-The Last of Us"]
-keywords: "The Last of Us, série The Last of Us, jogo The Last of Us, Naughty Dog, diferenças jogo e série, episódio 3 temporada 2"
-author: "Pablo Moura"
-data: "2025-04-28T11:39:13.211Z"
+title: >-
+  The Last of Us: Descubra as Maiores Mudanças do Episódio 3 da Segunda
+  Temporada
+slug: the-last-of-us-entenda-diferenas-entre-jogo-e-3-episdio-da-2-temporada
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/-IJz0OXw4wKjkfnRDm-LSNhXB2A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T123548.892.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/-IJz0OXw4wKjkfnRDm-LSNhXB2A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T123548.892.png
+tags:
+  - The Last of Us
+  - série The Last of Us
+  - jogo The Last of Us
+  - Naughty Dog
+  - diferenças jogo e série
+  - episódio 3 temporada 2
+  - especial-The Last of Us
+keywords: >-
+  The Last of Us, série The Last of Us, jogo The Last of Us, Naughty Dog,
+  diferenças jogo e série, episódio 3 temporada 2
+author: Pablo Moura
+data: '2025-04-28T11:39:13.211Z'
+resumo: >-
+  O terceiro episódio da segunda temporada de 'The Last of Us' apresenta cenas
+  inéditas e desvios significativos em relação ao jogo original da Naughty Dog.
 ---
 
 ## Análise Detalhada das Diferenças entre a Série e o Jogo

@@ -1,14 +1,29 @@
 ---
-title: "Maroon 5 e LISA do BLACKPINK Lançam o Clipe de 'Priceless', Anunciando Novo Álbum"
-slug: "maroon-5-lana-priceless-parceria-com-lisa-do-blackpink-veja-clipe"
-categoria: "MÚSICA"
-midia: "https://www.youtube.com/embed/vaGf8fmtBr4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Y8oshXapbkqZaLNrL--Q9lqdsCw=/480x360/smart/extras/conteudos/lisa_maroon.png"
-tags: ["Maroon 5", "LISA BLACKPINK", "Priceless", "novo álbum Maroon 5", "clipe Priceless", "Adam Levine", "colaboração musical"]
-keywords: "Maroon 5, LISA BLACKPINK, Priceless, novo álbum Maroon 5, clipe Priceless, Adam Levine, colaboração musical"
-author: "Pablo Moura"
-data: "2025-05-02T12:37:51.176Z"
+title: >-
+  Maroon 5 e LISA do BLACKPINK Lançam o Clipe de 'Priceless', Anunciando Novo
+  Álbum
+slug: maroon-5-lana-priceless-parceria-com-lisa-do-blackpink-veja-clipe
+categoria: MÚSICA
+midia: 'https://www.youtube.com/embed/vaGf8fmtBr4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Y8oshXapbkqZaLNrL--Q9lqdsCw=/480x360/smart/extras/conteudos/lisa_maroon.png
+tags:
+  - Maroon 5
+  - LISA BLACKPINK
+  - Priceless
+  - novo álbum Maroon 5
+  - clipe Priceless
+  - Adam Levine
+  - colaboração musical
+keywords: >-
+  Maroon 5, LISA BLACKPINK, Priceless, novo álbum Maroon 5, clipe Priceless,
+  Adam Levine, colaboração musical
+author: Pablo Moura
+data: '2025-05-02T12:37:51.176Z'
+resumo: >-
+  A nova colaboração entre Maroon 5 e LISA, 'Priceless', integra o próximo álbum
+  da banda, que promete mais hits inesquecíveis.
 ---
 
 ## 'Priceless': Uma Colaboração Explosiva Entre Maroon 5 e LISA

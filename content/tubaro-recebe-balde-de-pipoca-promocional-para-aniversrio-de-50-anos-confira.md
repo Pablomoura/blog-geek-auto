@@ -1,14 +1,29 @@
 ---
-title: "Celebração de 50 Anos de 'Tubarão' Inclui Relançamento nos Cinemas e Mercadorias Temáticas"
-slug: "tubaro-recebe-balde-de-pipoca-promocional-para-aniversrio-de-50-anos-confira"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/M036zJH4d5LonHoLawmr-mVNluo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-05-02T205058.104.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/PNPHT-jHt4mYQ88F2JC-C4lLs4E=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T205058.104.png"
-tags: ["Tubarão 50 anos", "relançamento Tubarão", "Tubarão mercadorias", "Universal Pictures", "Alamo Drafthouse", "edição comemorativa Tubarão"]
-keywords: "Tubarão 50 anos, relançamento Tubarão, Tubarão mercadorias, Universal Pictures, Alamo Drafthouse, edição comemorativa Tubarão"
-author: "Pablo Moura"
-data: "2025-05-03T01:24:39.752Z"
+title: >-
+  Celebração de 50 Anos de 'Tubarão' Inclui Relançamento nos Cinemas e
+  Mercadorias Temáticas
+slug: tubaro-recebe-balde-de-pipoca-promocional-para-aniversrio-de-50-anos-confira
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/M036zJH4d5LonHoLawmr-mVNluo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-05-02T205058.104.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/PNPHT-jHt4mYQ88F2JC-C4lLs4E=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T205058.104.png
+tags:
+  - Tubarão 50 anos
+  - relançamento Tubarão
+  - Tubarão mercadorias
+  - Universal Pictures
+  - Alamo Drafthouse
+  - edição comemorativa Tubarão
+keywords: >-
+  Tubarão 50 anos, relançamento Tubarão, Tubarão mercadorias, Universal
+  Pictures, Alamo Drafthouse, edição comemorativa Tubarão
+author: Pablo Moura
+data: '2025-05-03T01:24:39.752Z'
+resumo: >-
+  O clássico filme 'Tubarão' celebra seu 50º aniversário com um relançamento nos
+  cinemas e uma linha exclusiva de produtos comemorativos.
 ---
 
 ## 50 Anos de 'Tubarão': Uma Celebração em Grande Estilo

@@ -1,14 +1,30 @@
 ---
-title: "Superman no DCU: Ultraman Pode Ser o Grande Vilão do Novo Filme"
-slug: "superman-novas-imagens-mostram-vilo-teorizado-como-ultraman"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/LTqyxX9qwGaQKg5W6o9BpkDSJRU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T134009.850.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/FggWdF55idKBk9ukyToyK4V0dtQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T133947.671.png"
-tags: ["Superman", "DCU", "Ultraman", "James Gunn", "estreia de Superman", "elenco de Superman", "novo filme de Superman", "DC Comics", "especial-Superman"]
-keywords: "Superman, DCU, Ultraman, James Gunn, estreia de Superman, elenco de Superman, novo filme de Superman, DC Comics"
-author: "Luana Souza"
-data: "2025-04-22T17:18:45.394Z"
+title: 'Superman no DCU: Ultraman Pode Ser o Grande Vilão do Novo Filme'
+slug: superman-novas-imagens-mostram-vilo-teorizado-como-ultraman
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/LTqyxX9qwGaQKg5W6o9BpkDSJRU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T134009.850.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/FggWdF55idKBk9ukyToyK4V0dtQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T133947.671.png
+tags:
+  - Superman
+  - DCU
+  - Ultraman
+  - James Gunn
+  - estreia de Superman
+  - elenco de Superman
+  - novo filme de Superman
+  - DC Comics
+  - especial-Superman
+keywords: >-
+  Superman, DCU, Ultraman, James Gunn, estreia de Superman, elenco de Superman,
+  novo filme de Superman, DC Comics
+author: Luana Souza
+data: '2025-04-22T17:18:45.394Z'
+resumo: >-
+  A nova arte do filme 'Superman' sugere a presença de Ultraman como
+  antagonista, com estreia agendada para julho de 2025.
 ---
 
 A nova era do DCU está prestes a ser inaugurada com o filme 'Superman', que estreia em 10 de julho de 2025. Recentemente, um livro de artes foi divulgado, levantando suspeitas sobre a presença de Ultraman como o vilão da trama.

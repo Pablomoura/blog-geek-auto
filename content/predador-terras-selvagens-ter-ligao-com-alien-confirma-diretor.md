@@ -1,14 +1,31 @@
 ---
-title: "Predador: Terras Selvagens Anuncia Crossover com Alien em Novo Capítulo da Saga"
-slug: "predador-terras-selvagens-ter-ligao-com-alien-confirma-diretor"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/FLUyg0mP_Ww?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/S3I1YtJgi8aEDv-APPghSpWafWo=/480x360/smart/extras/conteudos/Predator-Badlands-Elle-Fanning-Trailer.webp"
-tags: ["Predador Terras Selvagens", "Alien", "crossover", "Elle Fanning", "Dan Trachtenberg", "Weyland-Yutani", "cinema", "filmes de ficção científica"]
-keywords: "Predador Terras Selvagens, Alien, crossover, Elle Fanning, Dan Trachtenberg, Weyland-Yutani, cinema, filmes de ficção científica"
-author: "Pablo Moura"
-data: "2025-04-24T18:26:29.753Z"
+title: >-
+  Predador: Terras Selvagens Anuncia Crossover com Alien em Novo Capítulo da
+  Saga
+slug: predador-terras-selvagens-ter-ligao-com-alien-confirma-diretor
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/FLUyg0mP_Ww?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/S3I1YtJgi8aEDv-APPghSpWafWo=/480x360/smart/extras/conteudos/Predator-Badlands-Elle-Fanning-Trailer.webp
+tags:
+  - Predador Terras Selvagens
+  - Alien
+  - crossover
+  - Elle Fanning
+  - Dan Trachtenberg
+  - Weyland-Yutani
+  - cinema
+  - filmes de ficção científica
+keywords: >-
+  Predador Terras Selvagens, Alien, crossover, Elle Fanning, Dan Trachtenberg,
+  Weyland-Yutani, cinema, filmes de ficção científica
+author: Pablo Moura
+data: '2025-04-24T18:26:29.753Z'
+resumo: >-
+  O novo filme 'Predador: Terras Selvagens' promete elevar a tensão com um
+  crossover direto com o universo de Alien, conforme revelado pelo diretor Dan
+  Trachtenberg.
 ---
 
 A conexão entre os universos de 'Predador' e 'Alien' acaba de ser confirmada com o lançamento do primeiro trailer de 'Predador: Terras Selvagens', versão brasileira de 'Predador: Badlands'. Dan Trachtenberg, o diretor do filme, em entrevista ao Blood Disgusting, confirmou que a personagem interpretada por Elle Fanning terá uma ligação direta com a corporação Weyland-Yutani, conhecida pelos fãs da saga 'Alien'. 

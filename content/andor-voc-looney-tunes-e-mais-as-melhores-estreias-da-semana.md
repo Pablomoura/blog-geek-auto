@@ -1,14 +1,30 @@
 ---
-title: "De 'Andor' a 'Você': As Imperdíveis Estreias da Semana em Streaming e Cinemas"
-slug: "andor-voc-looney-tunes-e-mais-as-melhores-estreias-da-semana"
-categoria: "FILMES EM CARTAZ"
-midia: "https://www.youtube.com/embed/AE4wxt70aUM?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/RN2J4hQc9mbJfs9qWlECjsQLTek=/480x360/smart/extras/conteudos/andors2.jpg"
-tags: ["Andor", "Você", "Looney Tunes", "Until Dawn", "O Contador 2", "estreias da semana", "cinema", "streaming", "Disney+", "Netflix"]
-keywords: "Andor, Você, Looney Tunes, Until Dawn, O Contador 2, estreias da semana, cinema, streaming, Disney+, Netflix"
-author: "Luana Souza"
-data: "2025-04-21T13:28:18.109Z"
+title: 'De ''Andor'' a ''Você'': As Imperdíveis Estreias da Semana em Streaming e Cinemas'
+slug: andor-voc-looney-tunes-e-mais-as-melhores-estreias-da-semana
+categoria: FILMES EM CARTAZ
+midia: 'https://www.youtube.com/embed/AE4wxt70aUM?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/RN2J4hQc9mbJfs9qWlECjsQLTek=/480x360/smart/extras/conteudos/andors2.jpg
+tags:
+  - Andor
+  - Você
+  - Looney Tunes
+  - Until Dawn
+  - O Contador 2
+  - estreias da semana
+  - cinema
+  - streaming
+  - Disney+
+  - Netflix
+keywords: >-
+  Andor, Você, Looney Tunes, Until Dawn, O Contador 2, estreias da semana,
+  cinema, streaming, Disney+, Netflix
+author: Luana Souza
+data: '2025-04-21T13:28:18.109Z'
+resumo: >-
+  Esta semana traz a conclusão épica de 'Andor' e 'Você', além de novidades
+  empolgantes nos cinemas com 'Looney Tunes' e a adaptação de 'Until Dawn'.
 ---
 
 Prepare-se para uma semana recheada de ação e suspense tanto nos serviços de streaming quanto nos cinemas. A agenda inclui desde o retorno de franquias adoradas até estreias de grandes adaptações que prometem capturar a atenção de públicos diversos.

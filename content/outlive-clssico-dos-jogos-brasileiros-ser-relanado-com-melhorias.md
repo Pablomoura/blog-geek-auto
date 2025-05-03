@@ -1,14 +1,31 @@
 ---
-title: "Outlive 25: Clássico Jogo Brasileiro de Estratégia Anuncia Relançamento Remasterizado"
-slug: "outlive-clssico-dos-jogos-brasileiros-ser-relanado-com-melhorias"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/WDIAiMfiCyY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/TYZASzY9chYWd9nmM2fDycMYKDM=/480x360/smart/extras/conteudos/outlive_7APqUUg.jpg"
-tags: ["Outlive 25", "jogos brasileiros", "estratégia", "relançamento de jogos", "games remasterizados", "multiplayer online", "Steam", "Nuuvem", "Continuum Entertainment"]
-keywords: "Outlive 25, jogos brasileiros, estratégia, relançamento de jogos, games remasterizados, multiplayer online, Steam, Nuuvem, Continuum Entertainment"
-author: "Luana Souza"
-data: "2025-04-29T16:26:30.796Z"
+title: >-
+  Outlive 25: Clássico Jogo Brasileiro de Estratégia Anuncia Relançamento
+  Remasterizado
+slug: outlive-clssico-dos-jogos-brasileiros-ser-relanado-com-melhorias
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/WDIAiMfiCyY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/TYZASzY9chYWd9nmM2fDycMYKDM=/480x360/smart/extras/conteudos/outlive_7APqUUg.jpg
+tags:
+  - Outlive 25
+  - jogos brasileiros
+  - estratégia
+  - relançamento de jogos
+  - games remasterizados
+  - multiplayer online
+  - Steam
+  - Nuuvem
+  - Continuum Entertainment
+keywords: >-
+  Outlive 25, jogos brasileiros, estratégia, relançamento de jogos, games
+  remasterizados, multiplayer online, Steam, Nuuvem, Continuum Entertainment
+author: Luana Souza
+data: '2025-04-29T16:26:30.796Z'
+resumo: >-
+  A versão remasterizada de Outlive, intitulada Outlive 25, será lançada em
+  2025, trazendo multiplayer online e um editor de campanhas aprimorado.
 ---
 
 ## Outlive 25: Renascimento de um Ícone dos Games Nacionais

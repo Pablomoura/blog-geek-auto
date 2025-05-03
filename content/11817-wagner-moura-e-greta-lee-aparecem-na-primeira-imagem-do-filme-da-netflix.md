@@ -1,14 +1,33 @@
 ---
-title: "Wagner Moura e Greta Lee Encerrados em Suspense de Terror e Ficção Científica na Netflix"
-slug: "11817-wagner-moura-e-greta-lee-aparecem-na-primeira-imagem-do-filme-da-netflix"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/LeL5Q97dxQsremxZ0fnkb0XsLJI=/987x0/smart/uploads/conteudo/fotos/wagner-moura-greta-lee-netflix.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hyL920GQ1xTw00wwJN2JwWiia7c=/480x360/smart/extras/conteudos/wagner-moura-greta-lee-netflix.png"
-tags: ["11817", "Netflix", "Wagner Moura", "Greta Lee", "Louis Leterrier", "ficção científica", "terror", "Festival de Cannes", "filmes Netflix"]
-keywords: "11817, Netflix, Wagner Moura, Greta Lee, Louis Leterrier, ficção científica, terror, Festival de Cannes, filmes Netflix"
-author: "Pablo Moura"
-data: "2025-04-21T19:18:33.208Z"
+title: >-
+  Wagner Moura e Greta Lee Encerrados em Suspense de Terror e Ficção Científica
+  na Netflix
+slug: 11817-wagner-moura-e-greta-lee-aparecem-na-primeira-imagem-do-filme-da-netflix
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/LeL5Q97dxQsremxZ0fnkb0XsLJI=/987x0/smart/uploads/conteudo/fotos/wagner-moura-greta-lee-netflix.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hyL920GQ1xTw00wwJN2JwWiia7c=/480x360/smart/extras/conteudos/wagner-moura-greta-lee-netflix.png
+tags:
+  - '11817'
+  - Netflix
+  - Wagner Moura
+  - Greta Lee
+  - Louis Leterrier
+  - ficção científica
+  - terror
+  - Festival de Cannes
+  - filmes Netflix
+keywords: >-
+  11817, Netflix, Wagner Moura, Greta Lee, Louis Leterrier, ficção científica,
+  terror, Festival de Cannes, filmes Netflix
+author: Pablo Moura
+data: '2025-04-21T19:18:33.208Z'
+resumo: >-
+  O novo filme '11817', dirigido por Louis Leterrier, mistura terror e ficção
+  científica e apresenta Wagner Moura e Greta Lee lutando para sobreviver em um
+  cenário claustrofóbico.
 ---
 
 ## '11817': Um Mistério de Sobrevivência na Netflix

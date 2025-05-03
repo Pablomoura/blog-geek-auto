@@ -1,14 +1,29 @@
 ---
-title: "Final Anunciado para o Mangá Spin-off de My Hero Academia: Team-Up Missions"
-slug: "my-hero-academia-mang-spin-off-terminar-em-breve"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/RteHPpbIkMk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/G6OiQdnrVRkhiLYBh1N6Umfqyc4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T204916.722.png"
-tags: ["My Hero Academia", "Team-Up Missions", "mangá", "spin-off", "Kohei Horikoshi", "Yōkō Akiyama", "Shueisha", "anime", "heróis"]
-keywords: "My Hero Academia, Team-Up Missions, mangá, spin-off, Kohei Horikoshi, Yōkō Akiyama, Shueisha, anime, heróis"
-author: "Ana Luiza"
-data: "2025-04-30T01:25:06.466Z"
+title: 'Final Anunciado para o Mangá Spin-off de My Hero Academia: Team-Up Missions'
+slug: my-hero-academia-mang-spin-off-terminar-em-breve
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/RteHPpbIkMk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/G6OiQdnrVRkhiLYBh1N6Umfqyc4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T204916.722.png
+tags:
+  - My Hero Academia
+  - Team-Up Missions
+  - mangá
+  - spin-off
+  - Kohei Horikoshi
+  - Yōkō Akiyama
+  - Shueisha
+  - anime
+  - heróis
+keywords: >-
+  My Hero Academia, Team-Up Missions, mangá, spin-off, Kohei Horikoshi, Yōkō
+  Akiyama, Shueisha, anime, heróis
+author: Ana Luiza
+data: '2025-04-30T01:25:06.466Z'
+resumo: >-
+  O spin-off de My Hero Academia, Team-Up Missions, revelou sua capa final,
+  indicando a conclusão da série em breve.
 ---
 
 ## Despedida de My Hero Academia: Team-Up Missions

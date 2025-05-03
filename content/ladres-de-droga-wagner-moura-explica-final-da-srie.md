@@ -1,14 +1,26 @@
 ---
-title: "Wagner Moura Revela os Bastidores Emocionais do Final de 'Ladrões de Droga'"
-slug: "ladres-de-droga-wagner-moura-explica-final-da-srie"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/-7F5ZI4skj4?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/xYBmfd7jn8Dce_1wr0logHvmyXM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T220102.206.png"
-tags: ["Wagner Moura", "Ladrões de Droga", "final da série", "The Hollywood Reporter", "série de TV", "Dennis Tafoya"]
-keywords: "Wagner Moura, Ladrões de Droga, final da série, The Hollywood Reporter, série de TV, Dennis Tafoya"
-author: "Luana Souza"
-data: "2025-04-26T01:21:03.887Z"
+title: Wagner Moura Revela os Bastidores Emocionais do Final de 'Ladrões de Droga'
+slug: ladres-de-droga-wagner-moura-explica-final-da-srie
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/-7F5ZI4skj4?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/xYBmfd7jn8Dce_1wr0logHvmyXM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T220102.206.png
+tags:
+  - Wagner Moura
+  - Ladrões de Droga
+  - final da série
+  - The Hollywood Reporter
+  - série de TV
+  - Dennis Tafoya
+keywords: >-
+  Wagner Moura, Ladrões de Droga, final da série, The Hollywood Reporter, série
+  de TV, Dennis Tafoya
+author: Luana Souza
+data: '2025-04-26T01:21:03.887Z'
+resumo: >-
+  Wagner Moura discute o desfecho trágico de seu personagem em 'Ladrões de
+  Droga' e os dilemas emocionais enfrentados no último episódio da série.
 ---
 
 ## Wagner Moura e o Desfecho de 'Ladrões de Droga'

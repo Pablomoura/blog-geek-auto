@@ -1,14 +1,25 @@
 ---
-title: "Omelete Games Direct na gamescom latam 2025: Destaques dos Jogos Brasileiros"
-slug: "omelete-games-direct-ter-novidades-de-jogos-brasileiros-na-gamescom-latam"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/oD5BRw4I8xw?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/pmDnyPzPzJFAtjhLYrZAFqTbi_o=/480x360/smart/extras/conteudos/OMLT_GAMES_DIRECT_ABERTURA.png"
-tags: ["gamescom latam 2025", "Omelete Games Direct", "jogos brasileiros", "ingressos gamescom", "eventos de games em São Paulo"]
-keywords: "gamescom latam 2025, Omelete Games Direct, jogos brasileiros, ingressos gamescom, eventos de games em São Paulo"
-author: "Luana Souza"
-data: "2025-04-29T17:20:14.293Z"
+title: 'Omelete Games Direct na gamescom latam 2025: Destaques dos Jogos Brasileiros'
+slug: omelete-games-direct-ter-novidades-de-jogos-brasileiros-na-gamescom-latam
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/oD5BRw4I8xw?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/pmDnyPzPzJFAtjhLYrZAFqTbi_o=/480x360/smart/extras/conteudos/OMLT_GAMES_DIRECT_ABERTURA.png
+tags:
+  - gamescom latam 2025
+  - Omelete Games Direct
+  - jogos brasileiros
+  - ingressos gamescom
+  - eventos de games em São Paulo
+keywords: >-
+  gamescom latam 2025, Omelete Games Direct, jogos brasileiros, ingressos
+  gamescom, eventos de games em São Paulo
+author: Luana Souza
+data: '2025-04-29T17:20:14.293Z'
+resumo: >-
+  A gamescom latam 2025 promete grandes novidades para o cenário de jogos
+  brasileiros, com anúcios de estúdios como Nuntius Games e QUByte.
 ---
 
 ## Omelete Games Direct: Uma vitrine para jogos brasileiros na gamescom latam 2025

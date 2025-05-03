@@ -1,14 +1,26 @@
 ---
-title: "Nana Caymmi, Ícone da Música Brasileira, Falece aos 84 Anos"
-slug: "nana-caymmi-tem-causa-da-morte-revelada-por-hospital"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/8sxRKeu0z92akMKSY2kir_4jwf4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T113118.544.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/H4HMo9oU9W0cslQGHVbtn3Kn8DA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T113103.659.png"
-tags: ["Nana Caymmi", "morte Nana Caymmi", "música brasileira", "legado Nana Caymmi", "Casa de Saúde São José"]
-keywords: "Nana Caymmi, morte Nana Caymmi, música brasileira, legado Nana Caymmi, Casa de Saúde São José"
-author: "Luana Souza"
-data: "2025-05-02T15:22:14.756Z"
+title: 'Nana Caymmi, Ícone da Música Brasileira, Falece aos 84 Anos'
+slug: nana-caymmi-tem-causa-da-morte-revelada-por-hospital
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/8sxRKeu0z92akMKSY2kir_4jwf4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T113118.544.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/H4HMo9oU9W0cslQGHVbtn3Kn8DA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T113103.659.png
+tags:
+  - Nana Caymmi
+  - morte Nana Caymmi
+  - música brasileira
+  - legado Nana Caymmi
+  - Casa de Saúde São José
+keywords: >-
+  Nana Caymmi, morte Nana Caymmi, música brasileira, legado Nana Caymmi, Casa de
+  Saúde São José
+author: Luana Souza
+data: '2025-05-02T15:22:14.756Z'
+resumo: >-
+  A renomada cantora Nana Caymmi faleceu devido a complicações de saúde após
+  nove meses de internação. Saiba mais sobre sua trajetória e legado.
 ---
 
 ## A Despedida de uma Lenda da Música Brasileira

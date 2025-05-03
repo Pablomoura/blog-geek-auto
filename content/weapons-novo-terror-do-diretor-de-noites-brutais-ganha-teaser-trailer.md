@@ -1,14 +1,35 @@
 ---
-title: "Weapons: O Novo Thriller de Terror de Zach Cregger Promete Arrepios com História Intrigante"
-slug: "weapons-novo-terror-do-diretor-de-noites-brutais-ganha-teaser-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/I3qtHlROEuc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/hEDQXH5mRifdJ6Z06VJ6CcrM6nU=/480x360/smart/extras/conteudos/weapons-zach-cregger.png"
-tags: ["Weapons filme", "Zach Cregger", "teaser trailer Weapons", "desaparecimento de crianças", "estreia Weapons", "terror", "cinema", "thriller psicológico", "Josh Brolin", "Julia Garner", "Alden Ehrenreich"]
-keywords: "Weapons filme, Zach Cregger, teaser trailer Weapons, desaparecimento de crianças, estreia Weapons, terror, cinema, thriller psicológico, Josh Brolin, Julia Garner, Alden Ehrenreich"
-author: "Pablo Moura"
-data: "2025-04-21T16:22:56.903Z"
+title: >-
+  Weapons: O Novo Thriller de Terror de Zach Cregger Promete Arrepios com
+  História Intrigante
+slug: weapons-novo-terror-do-diretor-de-noites-brutais-ganha-teaser-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/I3qtHlROEuc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/hEDQXH5mRifdJ6Z06VJ6CcrM6nU=/480x360/smart/extras/conteudos/weapons-zach-cregger.png
+tags:
+  - Weapons filme
+  - Zach Cregger
+  - teaser trailer Weapons
+  - desaparecimento de crianças
+  - estreia Weapons
+  - terror
+  - cinema
+  - thriller psicológico
+  - Josh Brolin
+  - Julia Garner
+  - Alden Ehrenreich
+keywords: >-
+  Weapons filme, Zach Cregger, teaser trailer Weapons, desaparecimento de
+  crianças, estreia Weapons, terror, cinema, thriller psicológico, Josh Brolin,
+  Julia Garner, Alden Ehrenreich
+author: Pablo Moura
+data: '2025-04-21T16:22:56.903Z'
+resumo: >-
+  O aguardado filme de terror 'Weapons', dirigido por Zach Cregger, revela um
+  teaser intrigante e uma trama envolvendo o misterioso desaparecimento de
+  crianças. Estreia marcada para agosto de 2025.
 ---
 
 Zach Cregger, conhecido por seu trabalho em 'Noites Brutais', está de volta com um novo projeto que promete capturar a atenção dos fãs de terror. Seu próximo filme, 'Weapons', acaba de lançar um teaser trailer expansivo que mergulha no suspense de uma série de desaparecimentos infantis. O teaser direciona para um site promocional fictício do filme, detalhando o enigmático sumiço de 17 crianças que teriam saído voluntariamente de suas casas às 2:17 da madrugada. A polícia, sem respostas, continua a busca por pistas na cidade.

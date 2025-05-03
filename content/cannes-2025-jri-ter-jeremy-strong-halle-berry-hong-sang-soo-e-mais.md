@@ -1,14 +1,28 @@
 ---
-title: "Festival de Cannes 2025: Um Elenco de Estrelas no Júri e Filmes Imperdíveis"
-slug: "cannes-2025-jri-ter-jeremy-strong-halle-berry-hong-sang-soo-e-mais"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/gjutLLeWJOP6jasAIM6CA1W_TSg=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T133757.077.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/E_atyEP4dipuzhwQsseVVXQvSk8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T133736.577.png"
-tags: ["Festival de Cannes 2025", "Cannes filmes", "júri Cannes", "Juliette Binoche", "Wes Anderson", "Scarlett Johansson diretora"]
-keywords: "Festival de Cannes 2025, Cannes filmes, júri Cannes, Juliette Binoche, Wes Anderson, Scarlett Johansson diretora"
-author: "Luana Souza"
-data: "2025-04-28T17:17:34.353Z"
+title: 'Festival de Cannes 2025: Um Elenco de Estrelas no Júri e Filmes Imperdíveis'
+slug: cannes-2025-jri-ter-jeremy-strong-halle-berry-hong-sang-soo-e-mais
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/gjutLLeWJOP6jasAIM6CA1W_TSg=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T133757.077.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/E_atyEP4dipuzhwQsseVVXQvSk8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T133736.577.png
+tags:
+  - Festival de Cannes 2025
+  - Cannes filmes
+  - júri Cannes
+  - Juliette Binoche
+  - Wes Anderson
+  - Scarlett Johansson diretora
+keywords: >-
+  Festival de Cannes 2025, Cannes filmes, júri Cannes, Juliette Binoche, Wes
+  Anderson, Scarlett Johansson diretora
+author: Luana Souza
+data: '2025-04-28T17:17:34.353Z'
+resumo: >-
+  A edição de 2025 do Festival de Cannes traz um júri estelar liderado por
+  Juliette Binoche e promete uma competição acirrada com filmes de diretores
+  renomados como Wes Anderson e Scarlett Johansson estreando como diretora.
 ---
 
 ## Júri de Prestígio em Cannes 2025

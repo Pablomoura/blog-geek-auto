@@ -1,14 +1,28 @@
 ---
-title: "The Pitt Explora Novas Perspectivas: Possíveis Temporadas Noturnas e Invernais"
-slug: "the-pitt-pode-ter-temporadas-durante-inverno-e-no-planto-noturno-entenda"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/b1K7jexPjUI?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/--bhe44tIeP7p1kGzteoViqSFnA=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_174058.png"
-tags: ["The Pitt", "série médica", "temporadas noturnas", "temporada de inverno", "Jonh Wells", "R. Scott Gemmill", "série de TV", "Max"]
-keywords: "The Pitt, série médica, temporadas noturnas, temporada de inverno, Jonh Wells, R. Scott Gemmill, série de TV, Max"
-author: "Pablo Moura"
-data: "2025-05-02T21:18:25.693Z"
+title: 'The Pitt Explora Novas Perspectivas: Possíveis Temporadas Noturnas e Invernais'
+slug: the-pitt-pode-ter-temporadas-durante-inverno-e-no-planto-noturno-entenda
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/b1K7jexPjUI?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/--bhe44tIeP7p1kGzteoViqSFnA=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_174058.png
+tags:
+  - The Pitt
+  - série médica
+  - temporadas noturnas
+  - temporada de inverno
+  - Jonh Wells
+  - R. Scott Gemmill
+  - série de TV
+  - Max
+keywords: >-
+  The Pitt, série médica, temporadas noturnas, temporada de inverno, Jonh Wells,
+  R. Scott Gemmill, série de TV, Max
+author: Pablo Moura
+data: '2025-05-02T21:18:25.693Z'
+resumo: >-
+  Produtores de 'The Pitt' consideram temporadas ambientadas em turnos noturnos
+  e invernos rigorosos, visando ampliar a dinâmica da série médica.
 ---
 
 ## 'The Pitt' Pode Inovar com Temporadas Noturnas e de Inverno

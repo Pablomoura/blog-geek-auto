@@ -1,14 +1,23 @@
 ---
-title: "Top Gun: Maverick é a Atração da Temperatura Máxima Neste Domingo na Globo"
-slug: "top-gun-maverick-passa-na-temperatura-mxima-da-globo-saiba-horrio"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/g4U4BQW9OEk?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/qCAYQLDqwvgnjLQBZ7XGUuM-sgE=/480x360/smart/extras/conteudos/topgunmaverick_5y7J601.jpg"
-tags: ["Top Gun: Maverick", "Temperatura Máxima", "Globo", "Tom Cruise", "filmes na TV"]
-keywords: "Top Gun: Maverick, Temperatura Máxima, Globo, Tom Cruise, filmes na TV"
-author: "Ana Luiza"
-data: "2025-04-27T11:15:10.871Z"
+title: 'Top Gun: Maverick é a Atração da Temperatura Máxima Neste Domingo na Globo'
+slug: top-gun-maverick-passa-na-temperatura-mxima-da-globo-saiba-horrio
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/g4U4BQW9OEk?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/qCAYQLDqwvgnjLQBZ7XGUuM-sgE=/480x360/smart/extras/conteudos/topgunmaverick_5y7J601.jpg
+tags:
+  - 'Top Gun: Maverick'
+  - Temperatura Máxima
+  - Globo
+  - Tom Cruise
+  - filmes na TV
+keywords: 'Top Gun: Maverick, Temperatura Máxima, Globo, Tom Cruise, filmes na TV'
+author: Ana Luiza
+data: '2025-04-27T11:15:10.871Z'
+resumo: >-
+  O aclamado filme estrelado por Tom Cruise, Top Gun: Maverick, será exibido
+  neste domingo na Temperatura Máxima, trazendo ação e emoção às telinhas.
 ---
 
 ## Top Gun: Maverick na TV Globo

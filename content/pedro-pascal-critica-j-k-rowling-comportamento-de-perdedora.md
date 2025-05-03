@@ -1,14 +1,31 @@
 ---
-title: "Pedro Pascal Condena J.K. Rowling e Brilha no Novo 'Quarteto Fantástico'"
-slug: "pedro-pascal-critica-j-k-rowling-comportamento-de-perdedora"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/71FNid7FntT-LuopfHxJOOffpdY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-24T130603.195.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/BDFHr665EPIpD8itsVlZArL4q1Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T130712.694.png"
-tags: ["Pedro Pascal", "J.K. Rowling", "Quarteto Fantástico", "MCU", "Reed Richards", "Marvel", "causas LGBTQIA+", "crítica", "lei anti-trans"]
-keywords: "Pedro Pascal, J.K. Rowling, Quarteto Fantástico, MCU, Reed Richards, Marvel, causas LGBTQIA+, crítica, lei anti-trans"
-author: "Luana Souza"
-data: "2025-04-24T16:24:38.151Z"
+title: Pedro Pascal Condena J.K. Rowling e Brilha no Novo 'Quarteto Fantástico'
+slug: pedro-pascal-critica-j-k-rowling-comportamento-de-perdedora
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/71FNid7FntT-LuopfHxJOOffpdY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-24T130603.195.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/BDFHr665EPIpD8itsVlZArL4q1Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T130712.694.png
+tags:
+  - Pedro Pascal
+  - J.K. Rowling
+  - Quarteto Fantástico
+  - MCU
+  - Reed Richards
+  - Marvel
+  - causas LGBTQIA+
+  - crítica
+  - lei anti-trans
+keywords: >-
+  Pedro Pascal, J.K. Rowling, Quarteto Fantástico, MCU, Reed Richards, Marvel,
+  causas LGBTQIA+, crítica, lei anti-trans
+author: Luana Souza
+data: '2025-04-24T16:24:38.151Z'
+resumo: >-
+  Pedro Pascal critica veementemente J.K. Rowling por apoio a lei anti-trans e
+  se destaca ao interpretar Reed Richards no aguardado filme 'Quarteto
+  Fantástico: Primeiros Passos', que promete revolucionar o MCU.
 ---
 
 O renomado ator chileno Pedro Pascal, conhecido por sua defesa fervorosa das causas LGBTQIA+, recentemente expressou seu descontentamento com a autora de Harry Potter, J.K. Rowling. Pascal criticou Rowling por seu apoio a uma controversa lei anti-trans no Reino Unido, classificando suas ações como "comportamento hediondo de perdedora". A crítica veio à tona quando ele compartilhou um post do ativista Tariq Ra’ouf, que sugere um boicote aos produtos da franquia Harry Potter devido aos comentários transfóbicos da escritora.

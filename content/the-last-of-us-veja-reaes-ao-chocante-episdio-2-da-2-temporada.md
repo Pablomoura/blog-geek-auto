@@ -1,14 +1,31 @@
 ---
-title: "Impacto e Emoção: O Segundo Episódio da Nova Temporada de 'The Last of Us'"
-slug: "the-last-of-us-veja-reaes-ao-chocante-episdio-2-da-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "/images/abby.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/cEJLZ3HrblDLtSx6MTy11HXfT18=/480x360/smart/extras/conteudos/bella-ramsey-the-last-of-us-2_juDIoTy.jpg"
-tags: ["The Last of Us", "HBO", "segunda temporada", "Abby", "Kaitlyn Dever", "Neil Druckmann", "Craig Mazin", "adaptação de jogo", "série de TV", "especial-The Last of Us"]
-keywords: "The Last of Us, HBO, segunda temporada, Abby, Kaitlyn Dever, Neil Druckmann, Craig Mazin, adaptação de jogo, série de TV"
-author: "Luana Souza"
-data: "2025-04-21T02:58:29.472Z"
+title: 'Impacto e Emoção: O Segundo Episódio da Nova Temporada de ''The Last of Us'''
+slug: the-last-of-us-veja-reaes-ao-chocante-episdio-2-da-2-temporada
+categoria: SÉRIES E TV
+midia: /images/abby.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/cEJLZ3HrblDLtSx6MTy11HXfT18=/480x360/smart/extras/conteudos/bella-ramsey-the-last-of-us-2_juDIoTy.jpg
+tags:
+  - The Last of Us
+  - HBO
+  - segunda temporada
+  - Abby
+  - Kaitlyn Dever
+  - Neil Druckmann
+  - Craig Mazin
+  - adaptação de jogo
+  - série de TV
+  - especial-The Last of Us
+keywords: >-
+  The Last of Us, HBO, segunda temporada, Abby, Kaitlyn Dever, Neil Druckmann,
+  Craig Mazin, adaptação de jogo, série de TV
+author: Luana Souza
+data: '2025-04-21T02:58:29.472Z'
+resumo: >-
+  O episódio mais recente de 'The Last of Us' da HBO adapta um dos momentos mais
+  marcantes do segundo jogo da franquia, gerando uma série de reações entre os
+  fãs.
 ---
 
 A tão esperada segunda temporada de 'The Last of Us' da HBO está finalmente aqui, trazendo consigo uma adaptação dos eventos chocantes de 'The Last of Us Parte II'. O segundo episódio, que foi ao ar no último domingo, destacou-se especialmente por suas cenas impactantes envolvendo Abby, interpretada por Kaitlyn Dever, que tem motivado discussões fervorosas na comunidade de fãs.

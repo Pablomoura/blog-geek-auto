@@ -1,14 +1,28 @@
 ---
-title: "Tom Cruise Retorna para o Capítulo Final de Missão: Impossível em Maio de 2025"
-slug: "misso-impossvel-acerto-final-ganha-novos-psteres-com-tom-cruise-em-ao"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/84-JQ7RH_mzSPleGx3JfCDW4e20=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T123546.674.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/wwvDa-ZcQERPa5D_ghOY5NZJhP8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T123609.855.png"
-tags: ["Missão Impossível Acerto Final", "Tom Cruise", "Ethan Hunt", "Christopher McQuarrie", "filme de ação", "cinema 2025"]
-keywords: "Missão Impossível Acerto Final, Tom Cruise, Ethan Hunt, Christopher McQuarrie, filme de ação, cinema 2025"
-author: "Pablo Moura"
-data: "2025-04-28T16:25:01.453Z"
+title: 'Tom Cruise Retorna para o Capítulo Final de Missão: Impossível em Maio de 2025'
+slug: misso-impossvel-acerto-final-ganha-novos-psteres-com-tom-cruise-em-ao
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/84-JQ7RH_mzSPleGx3JfCDW4e20=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T123546.674.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/wwvDa-ZcQERPa5D_ghOY5NZJhP8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T123609.855.png
+tags:
+  - Missão Impossível Acerto Final
+  - Tom Cruise
+  - Ethan Hunt
+  - Christopher McQuarrie
+  - filme de ação
+  - cinema 2025
+keywords: >-
+  Missão Impossível Acerto Final, Tom Cruise, Ethan Hunt, Christopher McQuarrie,
+  filme de ação, cinema 2025
+author: Pablo Moura
+data: '2025-04-28T16:25:01.453Z'
+resumo: >-
+  O último filme da série Missão: Impossível, intitulado 'Acerto Final', promete
+  encerrar com chave de ouro a saga de Ethan Hunt, com estreia marcada para maio
+  de 2025.
 ---
 
 ## Missão: Impossível - Acerto Final: A Grande Despedida de Ethan Hunt

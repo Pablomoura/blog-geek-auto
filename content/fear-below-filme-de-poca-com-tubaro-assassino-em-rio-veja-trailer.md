@@ -1,14 +1,30 @@
 ---
-title: "Fear Below: Thriller de Tubarão dos Anos 40 Promete Terror e Suspense"
-slug: "fear-below-filme-de-poca-com-tubaro-assassino-em-rio-veja-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/sgXqfuRPfGA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/YABDTlKHvoMXTl7X15PxvJq7oNk=/480x360/smart/extras/conteudos/fear-below-filme.webp"
-tags: ["Fear Below", "filme de tubarão", "cinema australiano", "thriller de época", "Hermione Corfield", "Matthew Holmes", "suspense", "estreia de filme", "cinema de terror"]
-keywords: "Fear Below, filme de tubarão, cinema australiano, thriller de época, Hermione Corfield, Matthew Holmes, suspense, estreia de filme, cinema de terror"
-author: "Ana Luiza"
-data: "2025-04-22T01:23:06.756Z"
+title: 'Fear Below: Thriller de Tubarão dos Anos 40 Promete Terror e Suspense'
+slug: fear-below-filme-de-poca-com-tubaro-assassino-em-rio-veja-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/sgXqfuRPfGA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/YABDTlKHvoMXTl7X15PxvJq7oNk=/480x360/smart/extras/conteudos/fear-below-filme.webp
+tags:
+  - Fear Below
+  - filme de tubarão
+  - cinema australiano
+  - thriller de época
+  - Hermione Corfield
+  - Matthew Holmes
+  - suspense
+  - estreia de filme
+  - cinema de terror
+keywords: >-
+  Fear Below, filme de tubarão, cinema australiano, thriller de época, Hermione
+  Corfield, Matthew Holmes, suspense, estreia de filme, cinema de terror
+author: Ana Luiza
+data: '2025-04-22T01:23:06.756Z'
+resumo: >-
+  Fear Below, um thriller australiano ambientado nos anos 40, explora o medo de
+  um tubarão-touro assassino em um rio, misturando crime e suspense em uma
+  narrativa intensa.
 ---
 
 ## Fear Below: Estreia em Julho na Austrália

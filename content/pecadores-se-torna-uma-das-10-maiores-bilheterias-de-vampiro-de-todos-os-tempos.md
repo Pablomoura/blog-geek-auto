@@ -1,14 +1,30 @@
 ---
-title: "Pecadores Entra para o Top 10 de Bilheterias de Filmes de Vampiro"
-slug: "pecadores-se-torna-uma-das-10-maiores-bilheterias-de-vampiro-de-todos-os-tempos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/2eyYMJMFdi9SeqLTUVuCycU7urw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T131438.394.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/07TR--BR4xdrjAUBxmx9UnNAdmA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T131423.331.png"
-tags: ["Pecadores", "bilheteria", "filmes de vampiro", "Ryan Coogler", "Michael B. Jordan", "Nosferatu", "Robert Eggers"]
-keywords: "Pecadores, bilheteria, filmes de vampiro, Ryan Coogler, Michael B. Jordan, Nosferatu, Robert Eggers"
-author: "Luana Souza"
-data: "2025-04-28T16:22:50.212Z"
+title: Pecadores Entra para o Top 10 de Bilheterias de Filmes de Vampiro
+slug: >-
+  pecadores-se-torna-uma-das-10-maiores-bilheterias-de-vampiro-de-todos-os-tempos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/2eyYMJMFdi9SeqLTUVuCycU7urw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T131438.394.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/07TR--BR4xdrjAUBxmx9UnNAdmA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T131423.331.png
+tags:
+  - Pecadores
+  - bilheteria
+  - filmes de vampiro
+  - Ryan Coogler
+  - Michael B. Jordan
+  - Nosferatu
+  - Robert Eggers
+keywords: >-
+  Pecadores, bilheteria, filmes de vampiro, Ryan Coogler, Michael B. Jordan,
+  Nosferatu, Robert Eggers
+author: Luana Souza
+data: '2025-04-28T16:22:50.212Z'
+resumo: >-
+  Dirigido por Ryan Coogler e estrelado por Michael B. Jordan, 'Pecadores'
+  ultrapassa 'Nosferatu' de Robert Eggers e conquista um lugar entre as dez
+  maiores bilheterias de filmes de vampiro de todos os tempos.
 ---
 
 ## 'Pecadores' Conquista o Mercado Cinematográfico

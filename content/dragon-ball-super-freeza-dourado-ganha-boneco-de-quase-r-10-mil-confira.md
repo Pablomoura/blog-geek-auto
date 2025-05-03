@@ -1,14 +1,28 @@
 ---
-title: "Freeza Dourado Brilha em Estátua de Luxo de R$ 10 Mil"
-slug: "dragon-ball-super-freeza-dourado-ganha-boneco-de-quase-r-10-mil-confira"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/sAvaYaJ5Bwo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/b8wtL2nifze-3muD9csRvnswkIE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-22T181308.470.png"
-tags: ["Freeza Dourado", "Dragon Ball Super", "estátua de luxo", "Prime 1 Studio", "Premium Bandai", "colecionáveis de anime", "MegaHouse"]
-keywords: "Freeza Dourado, Dragon Ball Super, estátua de luxo, Prime 1 Studio, Premium Bandai, colecionáveis de anime, MegaHouse"
-author: "Pablo Moura"
-data: "2025-04-22T21:17:45.886Z"
+title: Freeza Dourado Brilha em Estátua de Luxo de R$ 10 Mil
+slug: dragon-ball-super-freeza-dourado-ganha-boneco-de-quase-r-10-mil-confira
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/sAvaYaJ5Bwo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/b8wtL2nifze-3muD9csRvnswkIE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-22T181308.470.png
+tags:
+  - Freeza Dourado
+  - Dragon Ball Super
+  - estátua de luxo
+  - Prime 1 Studio
+  - Premium Bandai
+  - colecionáveis de anime
+  - MegaHouse
+keywords: >-
+  Freeza Dourado, Dragon Ball Super, estátua de luxo, Prime 1 Studio, Premium
+  Bandai, colecionáveis de anime, MegaHouse
+author: Pablo Moura
+data: '2025-04-22T21:17:45.886Z'
+resumo: >-
+  A icônica transformação de Freeza em sua versão dourada é imortalizada em uma
+  estátua de luxo pelo Prime 1 Studio, disponível por sorteio a um preço
+  exorbitante.
 ---
 
 A transformação dourada de Freeza, um dos vilões mais emblemáticos de Dragon Ball Super, agora pode ser exibida em uma luxuosa estátua disponível através de um sorteio exclusivo da Premium Bandai. A colaboração com o Prime 1 Studio, parte da MegaHouse Mega Premium Masterline, encerra inscrições no dia 30 de abril, com os vencedores sendo anunciados no dia 1º de maio. O preço da estátua é de 242 mil ienes, aproximadamente R$ 9.791,78.

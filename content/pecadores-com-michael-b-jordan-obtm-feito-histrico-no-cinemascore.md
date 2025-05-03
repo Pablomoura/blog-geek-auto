@@ -1,14 +1,30 @@
 ---
-title: "Pecadores, estrelado por Michael B. Jordan, conquista avaliação histórica no CinemaScore"
-slug: "pecadores-com-michael-b-jordan-obtm-feito-histrico-no-cinemascore"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/ejUuxCjupR_kvPykguDt-NQ1gFc=/987x0/smart/uploads/conteudo/fotos/pecadoresvariante_M5texAP.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/JhgpNBXzMLJFA8V1Zkpz_OgiR0M=/480x360/smart/extras/conteudos/pecadoresvariante_3MIWnLQ.jpg"
-tags: ["Pecadores", "Michael B. Jordan", "CinemaScore", "filme de terror", "avaliação histórica", "estreia de cinema"]
-keywords: "Pecadores, Michael B. Jordan, CinemaScore, filme de terror, avaliação histórica, estreia de cinema"
-author: "Luana Souza"
-data: "2025-04-19T20:19:24.461Z"
+title: >-
+  Pecadores, estrelado por Michael B. Jordan, conquista avaliação histórica no
+  CinemaScore
+slug: pecadores-com-michael-b-jordan-obtm-feito-histrico-no-cinemascore
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/ejUuxCjupR_kvPykguDt-NQ1gFc=/987x0/smart/uploads/conteudo/fotos/pecadoresvariante_M5texAP.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/JhgpNBXzMLJFA8V1Zkpz_OgiR0M=/480x360/smart/extras/conteudos/pecadoresvariante_3MIWnLQ.jpg
+tags:
+  - Pecadores
+  - Michael B. Jordan
+  - CinemaScore
+  - filme de terror
+  - avaliação histórica
+  - estreia de cinema
+keywords: >-
+  Pecadores, Michael B. Jordan, CinemaScore, filme de terror, avaliação
+  histórica, estreia de cinema
+author: Luana Souza
+data: '2025-04-19T20:19:24.461Z'
+resumo: >-
+  O filme de terror 'Pecadores' alcançou uma marca histórica ao receber uma
+  avaliação classe A no CinemaScore, indicando uma recepção excepcional pelo
+  público americano.
 ---
 
 O filme 'Pecadores', protagonizado por Michael B. Jordan, está causando uma excelente impressão entre o público. Segundo informações do Discussing Film, o longa de terror alcançou uma notável avaliação classe A no CinemaScore, um renomado site que coleta opiniões dos espectadores logo após assistirem a uma sessão de cinema. Esta marca é particularmente significativa, pois 'Pecadores' é a primeira produção do gênero terror a conseguir tal feito nos últimos 35 anos, evidenciando uma aceitação notável por parte dos espectadores nos Estados Unidos.

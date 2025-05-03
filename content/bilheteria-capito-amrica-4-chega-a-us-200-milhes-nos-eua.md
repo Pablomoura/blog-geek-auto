@@ -1,14 +1,25 @@
 ---
-title: "Capitão América: Admirável Mundo Novo Ultrapassa US$ 200 Milhões nos EUA"
-slug: "bilheteria-capito-amrica-4-chega-a-us-200-milhes-nos-eua"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/YFYBSOWZLao?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/xEsWDhmJRUpWlUvafCnKK59wBlk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-02-21_114644.png"
-tags: ["Capitão América", "Marvel", "bilheteria", "Harrison Ford", "Marvel Studios", "cinema"]
-keywords: "Capitão América, Marvel, bilheteria, Harrison Ford, Marvel Studios, cinema"
-author: "Ana Luiza"
-data: "2025-04-20T18:23:25.739Z"
+title: 'Capitão América: Admirável Mundo Novo Ultrapassa US$ 200 Milhões nos EUA'
+slug: bilheteria-capito-amrica-4-chega-a-us-200-milhes-nos-eua
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/YFYBSOWZLao?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/xEsWDhmJRUpWlUvafCnKK59wBlk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-02-21_114644.png
+tags:
+  - Capitão América
+  - Marvel
+  - bilheteria
+  - Harrison Ford
+  - Marvel Studios
+  - cinema
+keywords: 'Capitão América, Marvel, bilheteria, Harrison Ford, Marvel Studios, cinema'
+author: Ana Luiza
+data: '2025-04-20T18:23:25.739Z'
+resumo: >-
+  O mais recente filme da Marvel, Capitão América: Admirável Mundo Novo,
+  alcançou a marca de US$ 200 milhões em bilheteria nos EUA após dez semanas em
+  exibição, consolidando um desempenho sólido globalmente.
 ---
 
 O universo cinematográfico da Marvel continua a expandir seus horizontes com 'Capitão América: Admirável Mundo Novo', que agora celebra um marco importante nos Estados Unidos, ao ultrapassar US$ 200 milhões em bilheteria. Após dez semanas em cartaz, o filme acumulou um total global de US$ 410 milhões, mostrando sua força no mercado internacional.

@@ -1,14 +1,30 @@
 ---
-title: "Revelação do Elenco de 'Vingadores: Doomsday' Pode Incluir Surpresas e Retornos Épicos"
-slug: "vingadores-doomsday-elenco-completo-pode-ter-sido-revelado-veja-nomes"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/slIs0AUUhrV1_NDlIzsMIudjgB0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T101647.107.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/P6fOtH-zA-rJCxKmkw2ZVzgtGeQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T101624.250.png"
-tags: ["Vingadores Doomsday", "elenco Vingadores", "Marvel MCU", "heróis Marvel", "Vingadores 2026", "Jeff Sneider", "Marvel filmes"]
-keywords: "Vingadores Doomsday, elenco Vingadores, Marvel MCU, heróis Marvel, Vingadores 2026, Jeff Sneider, Marvel filmes"
-author: "Pablo Moura"
-data: "2025-05-02T13:28:41.279Z"
+title: >-
+  Revelação do Elenco de 'Vingadores: Doomsday' Pode Incluir Surpresas e
+  Retornos Épicos
+slug: vingadores-doomsday-elenco-completo-pode-ter-sido-revelado-veja-nomes
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/slIs0AUUhrV1_NDlIzsMIudjgB0=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T101647.107.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/P6fOtH-zA-rJCxKmkw2ZVzgtGeQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T101624.250.png
+tags:
+  - Vingadores Doomsday
+  - elenco Vingadores
+  - Marvel MCU
+  - heróis Marvel
+  - Vingadores 2026
+  - Jeff Sneider
+  - Marvel filmes
+keywords: >-
+  Vingadores Doomsday, elenco Vingadores, Marvel MCU, heróis Marvel, Vingadores
+  2026, Jeff Sneider, Marvel filmes
+author: Pablo Moura
+data: '2025-05-02T13:28:41.279Z'
+resumo: >-
+  O possível elenco de 'Vingadores: Doomsday', revelado por Jeff Sneider,
+  promete a reunião de novos e antigos heróis, com estreia marcada para 2026.
 ---
 
 ## 'Vingadores: Doomsday': Um Elenco Estelar à Vista?

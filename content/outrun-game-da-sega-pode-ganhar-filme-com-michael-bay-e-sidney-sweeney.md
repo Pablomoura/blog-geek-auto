@@ -1,14 +1,31 @@
 ---
-title: "OutRun: Clássico da Sega Pode Virar Filme nas Mãos de Michael Bay e Sidney Sweeney"
-slug: "outrun-game-da-sega-pode-ganhar-filme-com-michael-bay-e-sidney-sweeney"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/LjDsiG1M6qD4w53dyWtHDBvHFJ0=/987x0/smart/uploads/conteudo/fotos/sydney-sweeney-outrun-michael-bay.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/zbuzTiOW9334JFZ9_EkgPrZU2l4=/480x360/smart/extras/conteudos/sydney-sweeney-outrun-michael-bay.png"
-tags: ["OutRun filme", "Michael Bay", "Sidney Sweeney", "Universal Pictures", "adaptação de videogame", "Sega", "jogos de corrida", "cinema"]
-keywords: "OutRun filme, Michael Bay, Sidney Sweeney, Universal Pictures, adaptação de videogame, Sega, jogos de corrida, cinema"
-author: "Pablo Moura"
-data: "2025-04-21T23:17:51.523Z"
+title: >-
+  OutRun: Clássico da Sega Pode Virar Filme nas Mãos de Michael Bay e Sidney
+  Sweeney
+slug: outrun-game-da-sega-pode-ganhar-filme-com-michael-bay-e-sidney-sweeney
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/LjDsiG1M6qD4w53dyWtHDBvHFJ0=/987x0/smart/uploads/conteudo/fotos/sydney-sweeney-outrun-michael-bay.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/zbuzTiOW9334JFZ9_EkgPrZU2l4=/480x360/smart/extras/conteudos/sydney-sweeney-outrun-michael-bay.png
+tags:
+  - OutRun filme
+  - Michael Bay
+  - Sidney Sweeney
+  - Universal Pictures
+  - adaptação de videogame
+  - Sega
+  - jogos de corrida
+  - cinema
+keywords: >-
+  OutRun filme, Michael Bay, Sidney Sweeney, Universal Pictures, adaptação de
+  videogame, Sega, jogos de corrida, cinema
+author: Pablo Moura
+data: '2025-04-21T23:17:51.523Z'
+resumo: >-
+  Universal Pictures está considerando transformar o icônico videogame OutRun em
+  filme, com Michael Bay na direção e Sidney Sweeney na produção.
 ---
 
 O universo dos videogames continua a ser uma mina de ouro para as adaptações cinematográficas, com gigantes como Super Mario Bros., Sonic e Minecraft já consolidados nas telonas. Agora, segundo informações do Deadline, a Universal Pictures pode estar se preparando para levar outro clássico dos arcades para o grande ecrã: OutRun, o lendário jogo de corrida da Sega.

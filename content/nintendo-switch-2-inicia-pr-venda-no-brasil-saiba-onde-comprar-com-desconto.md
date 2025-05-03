@@ -1,14 +1,27 @@
 ---
-title: "Nintendo Switch 2 Inicia Pré-Venda no Brasil com Mario Kart World Incluso"
-slug: "nintendo-switch-2-inicia-pr-venda-no-brasil-saiba-onde-comprar-com-desconto"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/oHqD2DyklYU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/8fhCUPvPsYGylkMTii63mfEAC6A=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_092047.png"
-tags: ["Nintendo Switch 2", "pré-venda Nintendo Switch", "Mario Kart World", "lançamento Nintendo Switch 2", "comprar Nintendo Switch 2 Brasil", "jogos Nintendo Switch 2"]
-keywords: "Nintendo Switch 2, pré-venda Nintendo Switch, Mario Kart World, lançamento Nintendo Switch 2, comprar Nintendo Switch 2 Brasil, jogos Nintendo Switch 2"
-author: "Luana Souza"
-data: "2025-04-30T18:25:57.356Z"
+title: Nintendo Switch 2 Inicia Pré-Venda no Brasil com Mario Kart World Incluso
+slug: nintendo-switch-2-inicia-pr-venda-no-brasil-saiba-onde-comprar-com-desconto
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/oHqD2DyklYU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/8fhCUPvPsYGylkMTii63mfEAC6A=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_092047.png
+tags:
+  - Nintendo Switch 2
+  - pré-venda Nintendo Switch
+  - Mario Kart World
+  - lançamento Nintendo Switch 2
+  - comprar Nintendo Switch 2 Brasil
+  - jogos Nintendo Switch 2
+keywords: >-
+  Nintendo Switch 2, pré-venda Nintendo Switch, Mario Kart World, lançamento
+  Nintendo Switch 2, comprar Nintendo Switch 2 Brasil, jogos Nintendo Switch 2
+author: Luana Souza
+data: '2025-04-30T18:25:57.356Z'
+resumo: >-
+  O novo Nintendo Switch 2 já está disponível para pré-venda no Brasil,
+  oferecendo avanços tecnológicos significativos e um pacote especial com o jogo
+  Mario Kart World.
 ---
 
 ## Nintendo Switch 2: Revolução em Jogabilidade e Tecnologia

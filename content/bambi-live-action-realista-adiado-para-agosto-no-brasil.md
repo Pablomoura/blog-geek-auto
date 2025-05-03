@@ -1,14 +1,26 @@
 ---
-title: "Bambi: Uma Aventura na Floresta é Adiado para Agosto com Abordagem Realista de Filmagem"
-slug: "bambi-live-action-realista-adiado-para-agosto-no-brasil"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/EeLAQOTLo5YC6gK7jcRYIzm6XsI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T213541.114.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OXzMTrDa3-Qximohno1QX2AxY0g=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T213541.114.png"
-tags: ["Bambi live-action", "Bambi 2023", "estreia Bambi", "cinema brasileiro", "filmes agosto"]
-keywords: "Bambi live-action, Bambi 2023, estreia Bambi, cinema brasileiro, filmes agosto"
-author: "Pablo Moura"
-data: "2025-04-29T01:24:19.140Z"
+title: >-
+  Bambi: Uma Aventura na Floresta é Adiado para Agosto com Abordagem Realista de
+  Filmagem
+slug: bambi-live-action-realista-adiado-para-agosto-no-brasil
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/EeLAQOTLo5YC6gK7jcRYIzm6XsI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T213541.114.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OXzMTrDa3-Qximohno1QX2AxY0g=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T213541.114.png
+tags:
+  - Bambi live-action
+  - Bambi 2023
+  - estreia Bambi
+  - cinema brasileiro
+  - filmes agosto
+keywords: 'Bambi live-action, Bambi 2023, estreia Bambi, cinema brasileiro, filmes agosto'
+author: Pablo Moura
+data: '2025-04-29T01:24:19.140Z'
+resumo: >-
+  O esperado live-action de Bambi, que utiliza animais reais em vez de CGI, tem
+  sua estreia adiada para 21 de agosto nos cinemas brasileiros.
 ---
 
 ## Bambi: Uma Aventura na Floresta Chega em Agosto

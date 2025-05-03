@@ -1,14 +1,31 @@
 ---
-title: "Link Click Retorna com Terceira Temporada em 2026: Novidades e Teaser Revelados"
-slug: "link-click-3-temporada-ganha-previso-de-estreia-e-teaser-trailer"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/yaxKhpYB0Z4OutZkxpp1dMxo_6s=/987x0/smart/uploads/conteudo/fotos/link-click-capa.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/b4rwryiKtVg4w6_YA7_gAq6lXQY=/480x360/smart/extras/conteudos/Link-click.webp"
-tags: ["Link Click", "terceira temporada de Link Click", "anime", "CrunchyRoll", "poderes em fotografias", "Jae Lee", "LAN Studio", "CMC Media"]
-keywords: "Link Click, terceira temporada de Link Click, anime, CrunchyRoll, poderes em fotografias, Jae Lee, LAN Studio, CMC Media"
-author: "Pablo Moura"
-data: "2025-05-02T01:25:25.011Z"
+title: >-
+  Link Click Retorna com Terceira Temporada em 2026: Novidades e Teaser
+  Revelados
+slug: link-click-3-temporada-ganha-previso-de-estreia-e-teaser-trailer
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/yaxKhpYB0Z4OutZkxpp1dMxo_6s=/987x0/smart/uploads/conteudo/fotos/link-click-capa.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/b4rwryiKtVg4w6_YA7_gAq6lXQY=/480x360/smart/extras/conteudos/Link-click.webp
+tags:
+  - Link Click
+  - terceira temporada de Link Click
+  - anime
+  - CrunchyRoll
+  - poderes em fotografias
+  - Jae Lee
+  - LAN Studio
+  - CMC Media
+keywords: >-
+  Link Click, terceira temporada de Link Click, anime, CrunchyRoll, poderes em
+  fotografias, Jae Lee, LAN Studio, CMC Media
+author: Pablo Moura
+data: '2025-05-02T01:25:25.011Z'
+resumo: >-
+  A terceira temporada de Link Click traz novos mistérios e personagens em um
+  teaser intrigante, com estreia prevista para 2026.
 ---
 
 ## Link Click: Uma Jornada Fotográfica Continua

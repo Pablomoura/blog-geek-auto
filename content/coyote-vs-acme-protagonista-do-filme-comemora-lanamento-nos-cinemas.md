@@ -1,14 +1,29 @@
 ---
-title: "Coyote Vs. Acme: Will Forte Celebra Lançamento do Filme com Elenco Estelar"
-slug: "coyote-vs-acme-protagonista-do-filme-comemora-lanamento-nos-cinemas"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/1hML4nsGEXPNLdNO4w0ovXheRrc=/987x0/smart/uploads/conteudo/fotos/coyotevsacme.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Q_OAobk2TiSP-d9t1I1QaMPpNBo=/480x360/smart/extras/conteudos/coyotevsacme.jpg"
-tags: ["Coyote Vs. Acme", "Will Forte", "Warner Bros.", "Ketchup Entertainment", "John Cena", "Lana Condor", "cinema", "Looney Tunes"]
-keywords: "Coyote Vs. Acme, Will Forte, Warner Bros., Ketchup Entertainment, John Cena, Lana Condor, cinema, Looney Tunes"
-author: "Luana Souza"
-data: "2025-04-26T21:16:18.973Z"
+title: 'Coyote Vs. Acme: Will Forte Celebra Lançamento do Filme com Elenco Estelar'
+slug: coyote-vs-acme-protagonista-do-filme-comemora-lanamento-nos-cinemas
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/1hML4nsGEXPNLdNO4w0ovXheRrc=/987x0/smart/uploads/conteudo/fotos/coyotevsacme.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Q_OAobk2TiSP-d9t1I1QaMPpNBo=/480x360/smart/extras/conteudos/coyotevsacme.jpg
+tags:
+  - Coyote Vs. Acme
+  - Will Forte
+  - Warner Bros.
+  - Ketchup Entertainment
+  - John Cena
+  - Lana Condor
+  - cinema
+  - Looney Tunes
+keywords: >-
+  Coyote Vs. Acme, Will Forte, Warner Bros., Ketchup Entertainment, John Cena,
+  Lana Condor, cinema, Looney Tunes
+author: Luana Souza
+data: '2025-04-26T21:16:18.973Z'
+resumo: >-
+  Will Forte expressa grande entusiasmo pelo lançamento de 'Coyote Vs. Acme',
+  após a Warner Bros. vender os direitos para a Ketchup Entertainment.
 ---
 
 ## 'Coyote Vs. Acme' Ganha Luz Verde para Estreia nos Cinemas

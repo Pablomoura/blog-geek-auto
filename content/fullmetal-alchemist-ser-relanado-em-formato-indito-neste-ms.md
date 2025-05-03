@@ -1,14 +1,27 @@
 ---
-title: "Fullmetal Alchemist Retorna em Formato Webtoon para Celebrar 20 Anos da Série"
-slug: "fullmetal-alchemist-ser-relanado-em-formato-indito-neste-ms"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/3g8oV0EMvEk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/GI2C0-JxOOZQ0C_8WQfn9aJvMak=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_152441.png"
-tags: ["Fullmetal Alchemist", "Webtoon", "Hiromu Arakawa", "mangá", "anime", "relançamento", "leitura digital"]
-keywords: "Fullmetal Alchemist, Webtoon, Hiromu Arakawa, mangá, anime, relançamento, leitura digital"
-author: "Ana Luiza"
-data: "2025-05-02T19:16:30.921Z"
+title: Fullmetal Alchemist Retorna em Formato Webtoon para Celebrar 20 Anos da Série
+slug: fullmetal-alchemist-ser-relanado-em-formato-indito-neste-ms
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/3g8oV0EMvEk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/GI2C0-JxOOZQ0C_8WQfn9aJvMak=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_152441.png
+tags:
+  - Fullmetal Alchemist
+  - Webtoon
+  - Hiromu Arakawa
+  - mangá
+  - anime
+  - relançamento
+  - leitura digital
+keywords: >-
+  Fullmetal Alchemist, Webtoon, Hiromu Arakawa, mangá, anime, relançamento,
+  leitura digital
+author: Ana Luiza
+data: '2025-05-02T19:16:30.921Z'
+resumo: >-
+  O clássico mangá Fullmetal Alchemist será relançado em formato Webtoon a
+  partir de 7 de maio, trazendo uma nova experiência visual e narrativa aos fãs.
 ---
 
 ## Fullmetal Alchemist Ganha Nova Vida em Formato Webtoon

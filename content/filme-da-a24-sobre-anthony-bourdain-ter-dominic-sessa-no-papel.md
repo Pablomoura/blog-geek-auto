@@ -1,14 +1,32 @@
 ---
-title: "Dominic Sessa se Transforma em Anthony Bourdain no Novo Filme Biográfico da A24"
-slug: "filme-da-a24-sobre-anthony-bourdain-ter-dominic-sessa-no-papel"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/56tB4wzUb1FFBQSmVn9p0AYk9N8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-23T201257.047.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dZ_irHlsLtahEDe4U8kJxx1eDoY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-23T201257.047.png"
-tags: ["Dominic Sessa", "Antonio Banderas", "Anthony Bourdain", "filme biográfico", "A24", "Tony", "cinema", "filmes 2024"]
-keywords: "Dominic Sessa, Antonio Banderas, Anthony Bourdain, filme biográfico, A24, Tony, cinema, filmes 2024"
-author: "Ana Luiza"
-data: "2025-04-23T23:18:21.496Z"
+title: >-
+  Dominic Sessa se Transforma em Anthony Bourdain no Novo Filme Biográfico da
+  A24
+slug: filme-da-a24-sobre-anthony-bourdain-ter-dominic-sessa-no-papel
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/56tB4wzUb1FFBQSmVn9p0AYk9N8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-23T201257.047.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dZ_irHlsLtahEDe4U8kJxx1eDoY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-23T201257.047.png
+tags:
+  - Dominic Sessa
+  - Antonio Banderas
+  - Anthony Bourdain
+  - filme biográfico
+  - A24
+  - Tony
+  - cinema
+  - filmes 2024
+keywords: >-
+  Dominic Sessa, Antonio Banderas, Anthony Bourdain, filme biográfico, A24,
+  Tony, cinema, filmes 2024
+author: Ana Luiza
+data: '2025-04-23T23:18:21.496Z'
+resumo: >-
+  Dominic Sessa e Antonio Banderas estrelarão em 'Tony', o novo filme biográfico
+  sobre Anthony Bourdain, produzido pela A24, com filmagens previstas para
+  iniciar em maio.
 ---
 
 A A24 confirmou que Dominic Sessa, conhecido por seu papel em 'Os Rejeitados', dará vida a Anthony Bourdain no filme 'Tony', que também contará com a participação de Antonio Banderas em um papel ainda não revelado. O filme se passará em 1976, explorando a fase inicial da carreira de Bourdain em Provincetown, Massachusetts, antes de sua famosa incursão na culinária que o levou a se inscrever em uma escola de culinária dois anos mais tarde.

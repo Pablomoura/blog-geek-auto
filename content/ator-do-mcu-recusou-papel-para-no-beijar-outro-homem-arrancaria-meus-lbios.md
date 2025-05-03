@@ -1,14 +1,27 @@
 ---
-title: "Terrence Howard Recusa Papel de Marvin Gaye por Cenas de Beijo com Homens: Um Erro de Carreira"
-slug: "ator-do-mcu-recusou-papel-para-no-beijar-outro-homem-arrancaria-meus-lbios"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/AZUbYd69maA1E1r16VeU_bj_kGQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T114834.684.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/5NTDU6HdzAOVVUNXivxbrM23VCg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T114823.127.png"
-tags: ["Terrence Howard", "Marvin Gaye", "Homem de Ferro", "cinebiografia", "atuação", "cinema"]
-keywords: "Terrence Howard, Marvin Gaye, Homem de Ferro, cinebiografia, atuação, cinema"
-author: "Luana Souza"
-data: "2025-04-29T15:21:43.507Z"
+title: >-
+  Terrence Howard Recusa Papel de Marvin Gaye por Cenas de Beijo com Homens: Um
+  Erro de Carreira
+slug: ator-do-mcu-recusou-papel-para-no-beijar-outro-homem-arrancaria-meus-lbios
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/AZUbYd69maA1E1r16VeU_bj_kGQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T114834.684.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/5NTDU6HdzAOVVUNXivxbrM23VCg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T114823.127.png
+tags:
+  - Terrence Howard
+  - Marvin Gaye
+  - Homem de Ferro
+  - cinebiografia
+  - atuação
+  - cinema
+keywords: 'Terrence Howard, Marvin Gaye, Homem de Ferro, cinebiografia, atuação, cinema'
+author: Luana Souza
+data: '2025-04-29T15:21:43.507Z'
+resumo: >-
+  Terrence Howard, famoso por seu papel em 'Homem de Ferro', considera um grande
+  erro ter recusado interpretar Marvin Gaye devido a cenas de beijo com homens.
 ---
 
 ## Terrence Howard e o Papel Recusado de Marvin Gaye

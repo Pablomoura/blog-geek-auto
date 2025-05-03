@@ -1,14 +1,29 @@
 ---
-title: "Tom Hanks Estrelará Sequência de 'Greyhound' Ambientada na Segunda Guerra Mundial"
-slug: "greyhound-pico-de-2-guerra-com-tom-hanks-ganhar-continuao"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/QXoCXa9wZpBRKrvEkgvygFBgWsU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-25_171557.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QXoCXa9wZpBRKrvEkgvygFBgWsU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-25_171557.png"
-tags: ["Greyhound", "Tom Hanks", "Segunda Guerra Mundial", "cinema", "filmes de guerra", "sequência de filmes"]
-keywords: "Greyhound, Tom Hanks, Segunda Guerra Mundial, cinema, filmes de guerra, sequência de filmes"
-author: "Ana Luiza"
-data: "2025-04-25T21:19:08.458Z"
+title: >-
+  Tom Hanks Estrelará Sequência de 'Greyhound' Ambientada na Segunda Guerra
+  Mundial
+slug: greyhound-pico-de-2-guerra-com-tom-hanks-ganhar-continuao
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/QXoCXa9wZpBRKrvEkgvygFBgWsU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-25_171557.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QXoCXa9wZpBRKrvEkgvygFBgWsU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-25_171557.png
+tags:
+  - Greyhound
+  - Tom Hanks
+  - Segunda Guerra Mundial
+  - cinema
+  - filmes de guerra
+  - sequência de filmes
+keywords: >-
+  Greyhound, Tom Hanks, Segunda Guerra Mundial, cinema, filmes de guerra,
+  sequência de filmes
+author: Ana Luiza
+data: '2025-04-25T21:19:08.458Z'
+resumo: >-
+  Tom Hanks retorna como Capitão Krause na aguardada sequência de 'Greyhound',
+  com filmagens previstas para começar na Austrália em 2026.
 ---
 
 ## A Jornada Continua em 'Greyhound'

@@ -1,14 +1,31 @@
 ---
-title: "Ryan Gosling e Dacre Montgomery Juntos em 'Star Wars: Starfighter' Previsto para 2027"
-slug: "star-wars-starfighter-filme-com-ryan-gosling-pode-ter-ator-de-stranger-things"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/INLz7cX52ezOB3UjM5XL5lrI5pc=/987x0/smart/uploads/conteudo/fotos/star-wars-starfighter.jpeg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/8hDKVCjNZ_PeT7rnmLIsjythDXA=/480x360/smart/extras/conteudos/star-wars-starfighter.jpeg"
-tags: ["Star Wars", "Starfighter", "Ryan Gosling", "Dacre Montgomery", "Shawn Levy", "Kathleen Kennedy", "LucasFilm"]
-keywords: "Star Wars, Starfighter, Ryan Gosling, Dacre Montgomery, Shawn Levy, Kathleen Kennedy, LucasFilm"
-author: "Luana Souza"
-data: "2025-04-28T18:28:34.430Z"
+title: >-
+  Ryan Gosling e Dacre Montgomery Juntos em 'Star Wars: Starfighter' Previsto
+  para 2027
+slug: star-wars-starfighter-filme-com-ryan-gosling-pode-ter-ator-de-stranger-things
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/INLz7cX52ezOB3UjM5XL5lrI5pc=/987x0/smart/uploads/conteudo/fotos/star-wars-starfighter.jpeg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/8hDKVCjNZ_PeT7rnmLIsjythDXA=/480x360/smart/extras/conteudos/star-wars-starfighter.jpeg
+tags:
+  - Star Wars
+  - Starfighter
+  - Ryan Gosling
+  - Dacre Montgomery
+  - Shawn Levy
+  - Kathleen Kennedy
+  - LucasFilm
+keywords: >-
+  Star Wars, Starfighter, Ryan Gosling, Dacre Montgomery, Shawn Levy, Kathleen
+  Kennedy, LucasFilm
+author: Luana Souza
+data: '2025-04-28T18:28:34.430Z'
+resumo: >-
+  O novo filme da saga Star Wars, 'Starfighter', dirigido por Shawn Levy e
+  estrelado por Ryan Gosling, pode incluir Dacre Montgomery, conhecido por
+  'Stranger Things', em seu elenco.
 ---
 
 ## 'Star Wars: Starfighter' Trazerá Inovações e Rostos Conhecidos

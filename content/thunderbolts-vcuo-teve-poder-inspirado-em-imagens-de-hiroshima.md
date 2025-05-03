@@ -1,14 +1,32 @@
 ---
-title: "Influência Histórica no Cinema: 'Thunderbolts' e o Poder de Vácuo Inspirado em Hiroshima"
-slug: "thunderbolts-vcuo-teve-poder-inspirado-em-imagens-de-hiroshima"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/rj8MpLduXH22UyZY8f6-fuHW36M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T202042.097.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/TVoJ2yIkgd-x02ZpLwXOFj-AmMI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T202042.097.png"
-tags: ["Thunderbolts", "Jake Schreier", "Hiroshima", "MCU", "efeitos visuais", "Lewis Pullman", "Vácuo", "filme de super-heróis"]
-keywords: "Thunderbolts, Jake Schreier, Hiroshima, MCU, efeitos visuais, Lewis Pullman, Vácuo, filme de super-heróis"
-author: "Pablo Moura"
-data: "2025-04-29T01:26:17.491Z"
+title: >-
+  Influência Histórica no Cinema: 'Thunderbolts' e o Poder de Vácuo Inspirado em
+  Hiroshima
+slug: thunderbolts-vcuo-teve-poder-inspirado-em-imagens-de-hiroshima
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/rj8MpLduXH22UyZY8f6-fuHW36M=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T202042.097.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/TVoJ2yIkgd-x02ZpLwXOFj-AmMI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T202042.097.png
+tags:
+  - Thunderbolts
+  - Jake Schreier
+  - Hiroshima
+  - MCU
+  - efeitos visuais
+  - Lewis Pullman
+  - Vácuo
+  - filme de super-heróis
+keywords: >-
+  Thunderbolts, Jake Schreier, Hiroshima, MCU, efeitos visuais, Lewis Pullman,
+  Vácuo, filme de super-heróis
+author: Pablo Moura
+data: '2025-04-29T01:26:17.491Z'
+resumo: >-
+  O diretor Jake Schreier revelou que os poderes do vilão Vácuo no filme
+  'Thunderbolts' foram inspirados pelas consequências do bombardeio atômico em
+  Hiroshima.
 ---
 
 ## A Visão de Jake Schreier para 'Thunderbolts'

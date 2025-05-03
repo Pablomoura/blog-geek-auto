@@ -1,14 +1,29 @@
 ---
-title: "Demon Slayer: Genya se destaca no novo pôster do filme 'Castelo Infinito'"
-slug: "demon-slayer-pster-revela-visual-de-genya-no-filme-de-castelo-infinito"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/s0opswr1BZk?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/V8NryZpRnaCcX_L9hGTuiGghz3s=/480x360/smart/extras/conteudos/demonslayergenya.jpg"
-tags: ["Demon Slayer", "Castelo Infinito", "Genya", "cinema", "trilogia", "anime", "mangá", "Netflix", "Crunchyroll"]
-keywords: "Demon Slayer, Castelo Infinito, Genya, cinema, trilogia, anime, mangá, Netflix, Crunchyroll"
-author: "Pablo Moura"
-data: "2025-04-26T19:15:21.047Z"
+title: 'Demon Slayer: Genya se destaca no novo pôster do filme ''Castelo Infinito'''
+slug: demon-slayer-pster-revela-visual-de-genya-no-filme-de-castelo-infinito
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/s0opswr1BZk?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/V8NryZpRnaCcX_L9hGTuiGghz3s=/480x360/smart/extras/conteudos/demonslayergenya.jpg
+tags:
+  - Demon Slayer
+  - Castelo Infinito
+  - Genya
+  - cinema
+  - trilogia
+  - anime
+  - mangá
+  - Netflix
+  - Crunchyroll
+keywords: >-
+  Demon Slayer, Castelo Infinito, Genya, cinema, trilogia, anime, mangá,
+  Netflix, Crunchyroll
+author: Pablo Moura
+data: '2025-04-26T19:15:21.047Z'
+resumo: >-
+  A trilogia que encerra a saga de 'Demon Slayer' nos cinemas estreia com
+  visuais inéditos de Genya, começando em setembro no Brasil.
 ---
 
 ## Revelado o Novo Pôster de 'Demon Slayer: Castelo Infinito'

@@ -1,14 +1,31 @@
 ---
-title: "Sucesso Estrondoso: 'Pecadores' Caminha para $100 Milhões em Menos de 10 Dias"
-slug: "bilheteria-eua-pecadores-pode-chegar-a-us-100-milhes-em-menos-de-dez-dias"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/TPrn0mu9ucyUziqAnZisjLi0dag=/987x0/smart/uploads/conteudo/fotos/pecadoresvariante_tNwzAmu.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/AInxMYYchbdI4Z0khDR-CNKNJhc=/480x360/smart/extras/conteudos/pecadoresvariante_UpGNuU6.jpg"
-tags: ["Pecadores", "Ryan Coogler", "Michael B. Jordan", "bilheteria", "cinema", "desempenho de estreia", "Avatar", "Viva", "Pixar"]
-keywords: "Pecadores, Ryan Coogler, Michael B. Jordan, bilheteria, cinema, desempenho de estreia, Avatar, Viva, Pixar"
-author: "Pablo Moura"
-data: "2025-04-26T17:15:00.203Z"
+title: 'Sucesso Estrondoso: ''Pecadores'' Caminha para $100 Milhões em Menos de 10 Dias'
+slug: bilheteria-eua-pecadores-pode-chegar-a-us-100-milhes-em-menos-de-dez-dias
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/TPrn0mu9ucyUziqAnZisjLi0dag=/987x0/smart/uploads/conteudo/fotos/pecadoresvariante_tNwzAmu.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/AInxMYYchbdI4Z0khDR-CNKNJhc=/480x360/smart/extras/conteudos/pecadoresvariante_UpGNuU6.jpg
+tags:
+  - Pecadores
+  - Ryan Coogler
+  - Michael B. Jordan
+  - bilheteria
+  - cinema
+  - desempenho de estreia
+  - Avatar
+  - Viva
+  - Pixar
+keywords: >-
+  Pecadores, Ryan Coogler, Michael B. Jordan, bilheteria, cinema, desempenho de
+  estreia, Avatar, Viva, Pixar
+author: Pablo Moura
+data: '2025-04-26T17:15:00.203Z'
+resumo: >-
+  O filme 'Pecadores', dirigido por Ryan Coogler e estrelado por Michael B.
+  Jordan, está prestes a ultrapassar $100 milhões em bilheteria nos EUA,
+  marcando um dos menores declínios de segundo fim de semana desde 'Avatar'.
 ---
 
 ## Desempenho Impressionante na Bilheteria

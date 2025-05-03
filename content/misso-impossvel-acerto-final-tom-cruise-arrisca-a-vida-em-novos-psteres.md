@@ -1,14 +1,30 @@
 ---
-title: "Tom Cruise Retorna para a Ação Explosiva em 'Missão: Impossível - Acerto Final'"
-slug: "misso-impossvel-acerto-final-tom-cruise-arrisca-a-vida-em-novos-psteres"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/fL-G3EPOASd5WPptnFIlB63u2ew=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-24T122607.048.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ucf7msTt1stG8ksSJYSnp-FWbkU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T122552.963.png"
-tags: ["Missão Impossível Acerto Final", "Tom Cruise", "Ethan Hunt", "Christopher McQuarrie", "estreia cinema", "saga de ação"]
-keywords: "Missão Impossível Acerto Final, Tom Cruise, Ethan Hunt, Christopher McQuarrie, estreia cinema, saga de ação"
-author: "Pablo Moura"
-data: "2025-04-24T16:27:36.200Z"
+title: >-
+  Tom Cruise Retorna para a Ação Explosiva em 'Missão: Impossível - Acerto
+  Final'
+slug: misso-impossvel-acerto-final-tom-cruise-arrisca-a-vida-em-novos-psteres
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/fL-G3EPOASd5WPptnFIlB63u2ew=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-24T122607.048.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ucf7msTt1stG8ksSJYSnp-FWbkU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T122552.963.png
+tags:
+  - Missão Impossível Acerto Final
+  - Tom Cruise
+  - Ethan Hunt
+  - Christopher McQuarrie
+  - estreia cinema
+  - saga de ação
+keywords: >-
+  Missão Impossível Acerto Final, Tom Cruise, Ethan Hunt, Christopher McQuarrie,
+  estreia cinema, saga de ação
+author: Pablo Moura
+data: '2025-04-24T16:27:36.200Z'
+resumo: >-
+  O capítulo final da saga de Ethan Hunt, 'Missão: Impossível - Acerto Final',
+  chega aos cinemas em maio de 2025, prometendo um desfecho grandioso com um
+  elenco estelar.
 ---
 
 A saga de Ethan Hunt chega ao seu clímax em 'Missão: Impossível - Acerto Final', que estreará nos cinemas em 22 de maio de 2025. A série, conhecida por suas sequências de ação de tirar o fôlego, promete encerrar com chave de ouro, trazendo de volta Tom Cruise no papel principal e um elenco repleto de estrelas.

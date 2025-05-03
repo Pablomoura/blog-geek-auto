@@ -1,14 +1,33 @@
 ---
-title: "Despedida Emocionante em 9-1-1: Imagens da 8ª Temporada Revelam Funeral de Bobby Nash"
-slug: "9-1-1-fotos-da-8-temporada-revelam-funeral-de-personagem-morto"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/2SyLeA4qgoM7JA4_Vj5jdBCqb4U=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T105741.846.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/2SyLeA4qgoM7JA4_Vj5jdBCqb4U=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T105741.846.png"
-tags: ["9-1-1", "temporada 8", "Peter Krause", "Angela Bassett", "Bobby Nash", "funeral", "9-1-1 Nashville", "spin-off", "série", "Disney+"]
-keywords: "9-1-1, temporada 8, Peter Krause, Angela Bassett, Bobby Nash, funeral, 9-1-1 Nashville, spin-off, série, Disney+"
-author: "Luana Souza"
-data: "2025-05-01T14:18:13.497Z"
+title: >-
+  Despedida Emocionante em 9-1-1: Imagens da 8ª Temporada Revelam Funeral de
+  Bobby Nash
+slug: 9-1-1-fotos-da-8-temporada-revelam-funeral-de-personagem-morto
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/2SyLeA4qgoM7JA4_Vj5jdBCqb4U=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T105741.846.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/2SyLeA4qgoM7JA4_Vj5jdBCqb4U=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T105741.846.png
+tags:
+  - 9-1-1
+  - temporada 8
+  - Peter Krause
+  - Angela Bassett
+  - Bobby Nash
+  - funeral
+  - 9-1-1 Nashville
+  - spin-off
+  - série
+  - Disney+
+keywords: >-
+  9-1-1, temporada 8, Peter Krause, Angela Bassett, Bobby Nash, funeral, 9-1-1
+  Nashville, spin-off, série, Disney+
+author: Luana Souza
+data: '2025-05-01T14:18:13.497Z'
+resumo: >-
+  A oitava temporada de 9-1-1 traz um momento emocionante com a despedida de
+  Bobby Nash, personagem icônico interpretado por Peter Krause.
 ---
 
 ## Luto em 9-1-1: A Despedida de Bobby Nash

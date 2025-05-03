@@ -1,14 +1,31 @@
 ---
-title: "Faça Ela Voltar: Novo Terror da A24 Promete Angústia e Diversão em Trailer Recém-Lançado"
-slug: "faa-ela-voltar-terror-dos-diretores-de-fale-comigo-ganha-trailer-sinistro"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/hIPQA77Rshs?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/lYCuyXcC1gV6bJ01iRIcS2Dwyl0=/480x360/smart/extras/conteudos/faca-ela-voltar.jpg"
-tags: ["Faça Ela Voltar", "A24", "terror", "cinema", "Danny Philippou", "Michael Philippou", "trailer", "estreia"]
-keywords: "Faça Ela Voltar, A24, terror, cinema, Danny Philippou, Michael Philippou, trailer, estreia"
-author: "Pablo Moura"
-data: "2025-05-02T18:26:41.458Z"
+title: >-
+  Faça Ela Voltar: Novo Terror da A24 Promete Angústia e Diversão em Trailer
+  Recém-Lançado
+slug: faa-ela-voltar-terror-dos-diretores-de-fale-comigo-ganha-trailer-sinistro
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/hIPQA77Rshs?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/lYCuyXcC1gV6bJ01iRIcS2Dwyl0=/480x360/smart/extras/conteudos/faca-ela-voltar.jpg
+tags:
+  - Faça Ela Voltar
+  - A24
+  - terror
+  - cinema
+  - Danny Philippou
+  - Michael Philippou
+  - trailer
+  - estreia
+keywords: >-
+  Faça Ela Voltar, A24, terror, cinema, Danny Philippou, Michael Philippou,
+  trailer, estreia
+author: Pablo Moura
+data: '2025-05-02T18:26:41.458Z'
+resumo: >-
+  Dirigido pelos irmãos Philippou, o filme 'Faça Ela Voltar' traz uma mistura de
+  horror e diversão em seu mais recente trailer. Estreia prevista para agosto
+  nos cinemas brasileiros.
 ---
 
 ## 'Faça Ela Voltar' Estreia em Agosto com Trailer Angustiante

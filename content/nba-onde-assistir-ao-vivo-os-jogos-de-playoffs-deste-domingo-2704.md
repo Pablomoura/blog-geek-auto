@@ -1,14 +1,30 @@
 ---
-title: "Playoffs da NBA 2024-25: Confira os Horários e Onde Assistir os Jogos Deste Domingo"
-slug: "nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-deste-domingo-2704"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Fx74HzMug7rVwm7HK9j3ixnIc6o=/987x0/smart/uploads/conteudo/fotos/playoffs-nba-lebron-james-27-04.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/6AuDOabst6O1lX9Uw0dJDY50H-c=/480x360/smart/extras/conteudos/playoffs-nba-lebron-james-27-04-peq.jpg"
-tags: ["NBA", "Playoffs NBA 2024-25", "Jogos NBA domingo", "Transmissão NBA", "ESPN", "Prime Video", "NBA League Pass"]
-keywords: "NBA, Playoffs NBA 2024-25, Jogos NBA domingo, Transmissão NBA, ESPN, Prime Video, NBA League Pass"
-author: "Pablo Moura"
-data: "2025-04-27T11:14:45.830Z"
+title: >-
+  Playoffs da NBA 2024-25: Confira os Horários e Onde Assistir os Jogos Deste
+  Domingo
+slug: nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-deste-domingo-2704
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Fx74HzMug7rVwm7HK9j3ixnIc6o=/987x0/smart/uploads/conteudo/fotos/playoffs-nba-lebron-james-27-04.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/6AuDOabst6O1lX9Uw0dJDY50H-c=/480x360/smart/extras/conteudos/playoffs-nba-lebron-james-27-04-peq.jpg
+tags:
+  - NBA
+  - Playoffs NBA 2024-25
+  - Jogos NBA domingo
+  - Transmissão NBA
+  - ESPN
+  - Prime Video
+  - NBA League Pass
+keywords: >-
+  NBA, Playoffs NBA 2024-25, Jogos NBA domingo, Transmissão NBA, ESPN, Prime
+  Video, NBA League Pass
+author: Pablo Moura
+data: '2025-04-27T11:14:45.830Z'
+resumo: >-
+  Este domingo promete fortes emoções com quatro confrontos decisivos nos
+  Playoffs da NBA. Descubra os horários e plataformas de transmissão.
 ---
 
 ## Playoffs da NBA: Agenda de Jogos de 27 de Abril

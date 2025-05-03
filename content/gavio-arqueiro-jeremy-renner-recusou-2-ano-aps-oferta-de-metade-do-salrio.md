@@ -1,14 +1,28 @@
 ---
-title: "Jeremy Renner Recusa Segunda Temporada de 'Gavião Arqueiro' Após Oferta Reduzida de Salário"
-slug: "gavio-arqueiro-jeremy-renner-recusou-2-ano-aps-oferta-de-metade-do-salrio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/O26cPY3rAtPMrVrW-rkGxopg_GM=/987x0/smart/uploads/conteudo/fotos/gaviao-arqueiro-capa.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/J0kdp0lg_2w8fpJIh-Ydw6ZeinE=/480x360/smart/extras/conteudos/gaviao-arqueiro_QerXHJz.png"
-tags: ["Jeremy Renner", "Gavião Arqueiro", "Disney", "Marvel", "salário", "Vingadores: Doomsday"]
-keywords: "Jeremy Renner, Gavião Arqueiro, Disney, Marvel, salário, Vingadores: Doomsday"
-author: "Ana Luiza"
-data: "2025-05-01T21:19:58.983Z"
+title: >-
+  Jeremy Renner Recusa Segunda Temporada de 'Gavião Arqueiro' Após Oferta
+  Reduzida de Salário
+slug: gavio-arqueiro-jeremy-renner-recusou-2-ano-aps-oferta-de-metade-do-salrio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/O26cPY3rAtPMrVrW-rkGxopg_GM=/987x0/smart/uploads/conteudo/fotos/gaviao-arqueiro-capa.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/J0kdp0lg_2w8fpJIh-Ydw6ZeinE=/480x360/smart/extras/conteudos/gaviao-arqueiro_QerXHJz.png
+tags:
+  - Jeremy Renner
+  - Gavião Arqueiro
+  - Disney
+  - Marvel
+  - salário
+  - 'Vingadores: Doomsday'
+keywords: 'Jeremy Renner, Gavião Arqueiro, Disney, Marvel, salário, Vingadores: Doomsday'
+author: Ana Luiza
+data: '2025-05-01T21:19:58.983Z'
+resumo: >-
+  Jeremy Renner, o Gavião Arqueiro, rejeitou participar da segunda temporada da
+  série após a Disney oferecer apenas metade do salário inicial, citando seu
+  recente acidente como possível causa para a redução.
 ---
 
 ## Conflito Salarial Afasta Jeremy Renner de 'Gavião Arqueiro'

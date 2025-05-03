@@ -1,14 +1,29 @@
 ---
-title: "A Idade Dourada: Temporada 3 Estreia em Junho na HBO com Conflitos e Ambições"
-slug: "a-idade-dourada-3-temporada-ganha-trailer-e-data-de-estreia-na-hbo"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/6hGEqqOKop4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/FPbfZsSw49BE090JXsMuULGO_AM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_155448.png"
-tags: ["A Idade Dourada", "HBO", "série", "temporada 3", "trailer", "data de estreia", "Carrie Coon", "Christine Baranski", "drama histórico"]
-keywords: "A Idade Dourada, HBO, série, temporada 3, trailer, data de estreia, Carrie Coon, Christine Baranski, drama histórico"
-author: "Ana Luiza"
-data: "2025-05-01T19:15:31.525Z"
+title: 'A Idade Dourada: Temporada 3 Estreia em Junho na HBO com Conflitos e Ambições'
+slug: a-idade-dourada-3-temporada-ganha-trailer-e-data-de-estreia-na-hbo
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/6hGEqqOKop4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/FPbfZsSw49BE090JXsMuULGO_AM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_155448.png
+tags:
+  - A Idade Dourada
+  - HBO
+  - série
+  - temporada 3
+  - trailer
+  - data de estreia
+  - Carrie Coon
+  - Christine Baranski
+  - drama histórico
+keywords: >-
+  A Idade Dourada, HBO, série, temporada 3, trailer, data de estreia, Carrie
+  Coon, Christine Baranski, drama histórico
+author: Ana Luiza
+data: '2025-05-01T19:15:31.525Z'
+resumo: >-
+  A HBO acaba de lançar o trailer da terceira temporada de 'A Idade Dourada',
+  prometendo mais intrigas e disputas sociais a partir de 22 de junho.
 ---
 
 ## Terceira Temporada de 'A Idade Dourada' Chega em Junho

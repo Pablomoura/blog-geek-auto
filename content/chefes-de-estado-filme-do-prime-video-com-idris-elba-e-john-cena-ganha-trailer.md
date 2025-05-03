@@ -1,14 +1,31 @@
 ---
-title: "Idris Elba e John Cena se Unem em 'Chefes de Estado', o Novo Thriller de Ação do Prime Video"
-slug: "chefes-de-estado-filme-do-prime-video-com-idris-elba-e-john-cena-ganha-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/BRr3sC0fNYk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/VF236_FmePf4rZZxKHc8fLgUdVw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T120356.550.png"
-tags: ["Chefes de Estado", "Idris Elba", "John Cena", "Prime Video", "filme de ação", "trailer", "estreia", "cinema"]
-keywords: "Chefes de Estado, Idris Elba, John Cena, Prime Video, filme de ação, trailer, estreia, cinema"
-author: "Ana Luiza"
-data: "2025-04-23T15:21:37.381Z"
+title: >-
+  Idris Elba e John Cena se Unem em 'Chefes de Estado', o Novo Thriller de Ação
+  do Prime Video
+slug: chefes-de-estado-filme-do-prime-video-com-idris-elba-e-john-cena-ganha-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/BRr3sC0fNYk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/VF236_FmePf4rZZxKHc8fLgUdVw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T120356.550.png
+tags:
+  - Chefes de Estado
+  - Idris Elba
+  - John Cena
+  - Prime Video
+  - filme de ação
+  - trailer
+  - estreia
+  - cinema
+keywords: >-
+  Chefes de Estado, Idris Elba, John Cena, Prime Video, filme de ação, trailer,
+  estreia, cinema
+author: Ana Luiza
+data: '2025-04-23T15:21:37.381Z'
+resumo: >-
+  Com estreia marcada para 2 de julho no Prime Video, 'Chefes de Estado' traz
+  Idris Elba e John Cena em uma trama eletrizante de rivalidade política e
+  perseguição global.
 ---
 
 O aguardado filme de ação 'Chefes de Estado', estrelado pelas potências de Hollywood Idris Elba e John Cena, promete agitar o catálogo do Prime Video a partir de 2 de julho. O primeiro trailer do filme acaba de ser lançado, oferecendo um vislumbre da intensa dinâmica entre um presidente americano e um primeiro-ministro britânico forçados a se unir contra uma ameaça comum.

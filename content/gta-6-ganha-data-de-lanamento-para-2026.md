@@ -1,14 +1,27 @@
 ---
-title: "GTA 6 Adiado para 2026: Rockstar Confirma Nova Data de Lançamento"
-slug: "gta-6-ganha-data-de-lanamento-para-2026"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/LYJEahBlPRM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/GNVVh-X29ILx971-9ivsMByabAk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_083623.png"
-tags: ["GTA 6", "GTA 6 lançamento", "Rockstar Games", "GTA 6 adiado", "Vice City", "PlayStation 5", "Xbox Series X/S"]
-keywords: "GTA 6, GTA 6 lançamento, Rockstar Games, GTA 6 adiado, Vice City, PlayStation 5, Xbox Series X/S"
-author: "Luana Souza"
-data: "2025-05-02T12:36:42.672Z"
+title: 'GTA 6 Adiado para 2026: Rockstar Confirma Nova Data de Lançamento'
+slug: gta-6-ganha-data-de-lanamento-para-2026
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/LYJEahBlPRM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/GNVVh-X29ILx971-9ivsMByabAk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_083623.png
+tags:
+  - GTA 6
+  - GTA 6 lançamento
+  - Rockstar Games
+  - GTA 6 adiado
+  - Vice City
+  - PlayStation 5
+  - Xbox Series X/S
+keywords: >-
+  GTA 6, GTA 6 lançamento, Rockstar Games, GTA 6 adiado, Vice City, PlayStation
+  5, Xbox Series X/S
+author: Luana Souza
+data: '2025-05-02T12:36:42.672Z'
+resumo: >-
+  Anteriormente previsto para 2025, GTA 6 teve seu lançamento adiado para maio
+  de 2026, conforme anúncio oficial da Rockstar Games.
 ---
 
 ## Nova Data de Lançamento para GTA 6

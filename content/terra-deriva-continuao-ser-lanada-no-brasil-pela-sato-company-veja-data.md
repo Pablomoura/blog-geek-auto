@@ -1,14 +1,33 @@
 ---
-title: "Terra à Deriva 2: Destino chegará aos cinemas brasileiros em junho pela Sato Company"
-slug: "terra-deriva-continuao-ser-lanada-no-brasil-pela-sato-company-veja-data"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/vv9LLGBM8LU36dHlFVrdrRuq7_Y=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T133552.775.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/c7ICYNZIhyN8ftDveLlMHQRg4PU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T133538.788.png"
-tags: ["Terra à Deriva 2: Destino", "Sato Company", "cinema chinês", "ficção científica", "estreia no Brasil", "bilheteria", "Liu Cixin", "Andy Lau", "Wu Jing"]
-keywords: "Terra à Deriva 2: Destino, Sato Company, cinema chinês, ficção científica, estreia no Brasil, bilheteria, Liu Cixin, Andy Lau, Wu Jing"
-author: "Pablo Moura"
-data: "2025-04-29T17:19:40.887Z"
+title: >-
+  Terra à Deriva 2: Destino chegará aos cinemas brasileiros em junho pela Sato
+  Company
+slug: terra-deriva-continuao-ser-lanada-no-brasil-pela-sato-company-veja-data
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/vv9LLGBM8LU36dHlFVrdrRuq7_Y=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T133552.775.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/c7ICYNZIhyN8ftDveLlMHQRg4PU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T133538.788.png
+tags:
+  - 'Terra à Deriva 2: Destino'
+  - Sato Company
+  - cinema chinês
+  - ficção científica
+  - estreia no Brasil
+  - bilheteria
+  - Liu Cixin
+  - Andy Lau
+  - Wu Jing
+keywords: >-
+  Terra à Deriva 2: Destino, Sato Company, cinema chinês, ficção científica,
+  estreia no Brasil, bilheteria, Liu Cixin, Andy Lau, Wu Jing
+author: Pablo Moura
+data: '2025-04-29T17:19:40.887Z'
+resumo: >-
+  A sequência do blockbuster chinês, 'Terra à Deriva 2: Destino', tem estreia
+  marcada para 5 de junho nos cinemas do Brasil, prometendo continuar o sucesso
+  fenomenal de sua antecessora.
 ---
 
 ## 'Terra à Deriva 2: Destino' promete agitar as bilheterias brasileiras

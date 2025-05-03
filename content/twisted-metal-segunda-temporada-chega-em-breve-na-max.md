@@ -1,14 +1,29 @@
 ---
-title: "Twisted Metal Retorna: Segunda Temporada Confirmada para Estreia Simultânea no Brasil e EUA"
-slug: "twisted-metal-segunda-temporada-chega-em-breve-na-max"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/BinTnebwcbM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/DcfTyKQRyp_9DxOhsbzIISEvun0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T191036.795.png"
-tags: ["Twisted Metal", "temporada 2", "Max", "Peacock", "série de ação", "Anthony Mackie", "estreia simultânea"]
-keywords: "Twisted Metal, temporada 2, Max, Peacock, série de ação, Anthony Mackie, estreia simultânea"
-author: "Luana Souza"
-data: "2025-04-29T22:18:14.248Z"
+title: >-
+  Twisted Metal Retorna: Segunda Temporada Confirmada para Estreia Simultânea no
+  Brasil e EUA
+slug: twisted-metal-segunda-temporada-chega-em-breve-na-max
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/BinTnebwcbM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/DcfTyKQRyp_9DxOhsbzIISEvun0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T191036.795.png
+tags:
+  - Twisted Metal
+  - temporada 2
+  - Max
+  - Peacock
+  - série de ação
+  - Anthony Mackie
+  - estreia simultânea
+keywords: >-
+  Twisted Metal, temporada 2, Max, Peacock, série de ação, Anthony Mackie,
+  estreia simultânea
+author: Luana Souza
+data: '2025-04-29T22:18:14.248Z'
+resumo: >-
+  A aguardada segunda temporada de 'Twisted Metal' chegará em breve ao
+  streaming, com estreia marcada para o mesmo dia nos EUA e no Brasil.
 ---
 
 ## Estreia Internacional de 'Twisted Metal' na Max e Peacock

@@ -1,14 +1,29 @@
 ---
-title: "One Punch Man: Revelados os Novos Vilões da Terceira Temporada"
-slug: "one-punch-man-3-temporada-tem-visual-dos-viles-revelado"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/QHOs7ZTqeRls0j6Cm_qATJcyWzM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T124631.164.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/JcAQF-j6tISnexFtqJXw0PTSNdM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T124613.533.png"
-tags: ["One Punch Man", "terceira temporada", "anime", "novos vilões", "Kenichiro Aoki", "Kazunori Ozawa", "Saitama", "Netflix"]
-keywords: "One Punch Man, terceira temporada, anime, novos vilões, Kenichiro Aoki, Kazunori Ozawa, Saitama, Netflix"
-author: "Pablo Moura"
-data: "2025-05-02T16:23:42.405Z"
+title: 'One Punch Man: Revelados os Novos Vilões da Terceira Temporada'
+slug: one-punch-man-3-temporada-tem-visual-dos-viles-revelado
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/QHOs7ZTqeRls0j6Cm_qATJcyWzM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T124631.164.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/JcAQF-j6tISnexFtqJXw0PTSNdM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T124613.533.png
+tags:
+  - One Punch Man
+  - terceira temporada
+  - anime
+  - novos vilões
+  - Kenichiro Aoki
+  - Kazunori Ozawa
+  - Saitama
+  - Netflix
+keywords: >-
+  One Punch Man, terceira temporada, anime, novos vilões, Kenichiro Aoki,
+  Kazunori Ozawa, Saitama, Netflix
+author: Pablo Moura
+data: '2025-05-02T16:23:42.405Z'
+resumo: >-
+  A terceira temporada de One Punch Man traz novos vilões, mas ainda sem data
+  confirmada para estreia.
 ---
 
 ## Revelação dos Vilões e Incertezas na Produção

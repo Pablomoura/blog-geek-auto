@@ -1,14 +1,32 @@
 ---
-title: "Fortnite Mergulha no Universo de Star Wars: Novidades e Skins Épicas Anunciadas!"
-slug: "fortnite-temporada-de-star-wars-anuncia-data-e-ganha-trailer"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/v3TCAYstR8fx9ZHc1fP4Gv4Gc6Q=/987x0/smart/uploads/conteudo/fotos/fortnitestarwarsdarthjarjar.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/u3GVEJRCX-sFdQZR-PwIkioYRdQ=/480x360/smart/extras/conteudos/fortnitestarwarsdarthjarjar.jpg"
-tags: ["Fortnite", "Star Wars", "skins Fortnite", "eventos Fortnite", "Mace Windu", "Palpatine", "Darth Jar Jar", "Epic Games", "temporada Fortnite"]
-keywords: "Fortnite, Star Wars, skins Fortnite, eventos Fortnite, Mace Windu, Palpatine, Darth Jar Jar, Epic Games, temporada Fortnite"
-author: "Pablo Moura"
-data: "2025-04-20T22:17:48.462Z"
+title: >-
+  Fortnite Mergulha no Universo de Star Wars: Novidades e Skins Épicas
+  Anunciadas!
+slug: fortnite-temporada-de-star-wars-anuncia-data-e-ganha-trailer
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/v3TCAYstR8fx9ZHc1fP4Gv4Gc6Q=/987x0/smart/uploads/conteudo/fotos/fortnitestarwarsdarthjarjar.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/u3GVEJRCX-sFdQZR-PwIkioYRdQ=/480x360/smart/extras/conteudos/fortnitestarwarsdarthjarjar.jpg
+tags:
+  - Fortnite
+  - Star Wars
+  - skins Fortnite
+  - eventos Fortnite
+  - Mace Windu
+  - Palpatine
+  - Darth Jar Jar
+  - Epic Games
+  - temporada Fortnite
+keywords: >-
+  Fortnite, Star Wars, skins Fortnite, eventos Fortnite, Mace Windu, Palpatine,
+  Darth Jar Jar, Epic Games, temporada Fortnite
+author: Pablo Moura
+data: '2025-04-20T22:17:48.462Z'
+resumo: >-
+  A nova temporada de Fortnite traz o universo de Star Wars ao game, incluindo
+  skins de Mace Windu, Palpatine e Darth Jar Jar, começando em 2 de maio.
 ---
 
 A Epic Games acaba de lançar o empolgante trailer da nova temporada de Fortnite, que promete envolver os jogadores no icônico universo de Star Wars. A temporada, que estreia no dia 2 de maio, será marcada por eventos temáticos e introdução de novas skins.

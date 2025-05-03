@@ -1,14 +1,28 @@
 ---
-title: "Alexander Payne, Vencedor de Dois Oscars, Presidirá Júri no Festival de Veneza 2025"
-slug: "alexander-payne-comandar-jri-no-festival-de-veneza"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/pk2WQNLvKX7QopwV4cC8kTL52Ho=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T205132.309.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/qb1dnfgbX-VsRVgPoW1fcOm8HxU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T205132.309.png"
-tags: ["Alexander Payne", "Festival de Veneza 2025", "cinema", "Leão de Ouro", "júri", "Oscar"]
-keywords: "Alexander Payne, Festival de Veneza 2025, cinema, Leão de Ouro, júri, Oscar"
-author: "Pablo Moura"
-data: "2025-04-29T01:25:14.729Z"
+title: >-
+  Alexander Payne, Vencedor de Dois Oscars, Presidirá Júri no Festival de Veneza
+  2025
+slug: alexander-payne-comandar-jri-no-festival-de-veneza
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/pk2WQNLvKX7QopwV4cC8kTL52Ho=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T205132.309.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/qb1dnfgbX-VsRVgPoW1fcOm8HxU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T205132.309.png
+tags:
+  - Alexander Payne
+  - Festival de Veneza 2025
+  - cinema
+  - Leão de Ouro
+  - júri
+  - Oscar
+keywords: 'Alexander Payne, Festival de Veneza 2025, cinema, Leão de Ouro, júri, Oscar'
+author: Pablo Moura
+data: '2025-04-29T01:25:14.729Z'
+resumo: >-
+  O renomado diretor Alexander Payne foi escolhido para liderar o júri do
+  prestigiado Festival de Veneza em sua 82ª edição, ocorrendo entre agosto e
+  setembro de 2025.
 ---
 
 ## Alexander Payne no Comando do Júri de Veneza

@@ -1,14 +1,32 @@
 ---
-title: "Natalie Portman e John Krasinski em Busca da Imortalidade no Novo Trailer de 'A Fonte da Juventude'"
-slug: "a-fonte-da-juventude-tem-novo-trailer-com-natalie-portman-e-john-krasinski"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/FEmkNnYA9Ec?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/WWs7HYn4BrjrobNInZUwSdPyc5s=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_154332.png"
-tags: ["A Fonte da Juventude", "Natalie Portman", "John Krasinski", "trailer", "Apple TV+", "filme de aventura", "estreia de filme", "Guy Ritchie", "James Vanderbilt"]
-keywords: "A Fonte da Juventude, Natalie Portman, John Krasinski, trailer, Apple TV+, filme de aventura, estreia de filme, Guy Ritchie, James Vanderbilt"
-author: "Pablo Moura"
-data: "2025-04-24T19:17:09.388Z"
+title: >-
+  Natalie Portman e John Krasinski em Busca da Imortalidade no Novo Trailer de
+  'A Fonte da Juventude'
+slug: a-fonte-da-juventude-tem-novo-trailer-com-natalie-portman-e-john-krasinski
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/FEmkNnYA9Ec?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/WWs7HYn4BrjrobNInZUwSdPyc5s=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_154332.png
+tags:
+  - A Fonte da Juventude
+  - Natalie Portman
+  - John Krasinski
+  - trailer
+  - Apple TV+
+  - filme de aventura
+  - estreia de filme
+  - Guy Ritchie
+  - James Vanderbilt
+keywords: >-
+  A Fonte da Juventude, Natalie Portman, John Krasinski, trailer, Apple TV+,
+  filme de aventura, estreia de filme, Guy Ritchie, James Vanderbilt
+author: Pablo Moura
+data: '2025-04-24T19:17:09.388Z'
+resumo: >-
+  O aguardado filme 'A Fonte da Juventude', com Natalie Portman e John
+  Krasinski, ganha trailer empolgante e data de estreia para 23 de maio na Apple
+  TV+.
 ---
 
 A Apple TV+ acaba de lançar um novo trailer para o filme 'A Fonte da Juventude', que promete ser um marco no gênero de aventura e ação. Com estrelas como Natalie Portman e John Krasinski no elenco principal, o filme tem previsão de lançamento para o dia 23 de maio. O trailer oferece um vislumbre emocionante da trama, que envolve uma missão internacional em busca da lendária Fonte da Juventude.

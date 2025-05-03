@@ -1,14 +1,31 @@
 ---
-title: "Dan Da Dan Anuncia Trailer da Segunda Temporada e Data de Lançamento na Netflix"
-slug: "dan-da-dan-segunda-temporada-ganha-primeiro-trailer-veja"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/xtLA397Vc-k?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/IgmNJCFx1bHXEjkqvDMwuHG204E=/480x360/smart/extras/conteudos/dandadan_uwfWaLL.jpg"
-tags: ["Dan Da Dan", "Netflix", "anime", "segunda temporada", "trailer", "Yukinobu Tatsu", "Fuga Yamashiro", "Science SARU"]
-keywords: "Dan Da Dan, Netflix, anime, segunda temporada, trailer, Yukinobu Tatsu, Fuga Yamashiro, Science SARU"
-author: "Luana Souza"
-data: "2025-04-26T13:23:54.611Z"
+title: >-
+  Dan Da Dan Anuncia Trailer da Segunda Temporada e Data de Lançamento na
+  Netflix
+slug: dan-da-dan-segunda-temporada-ganha-primeiro-trailer-veja
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/xtLA397Vc-k?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/IgmNJCFx1bHXEjkqvDMwuHG204E=/480x360/smart/extras/conteudos/dandadan_uwfWaLL.jpg
+tags:
+  - Dan Da Dan
+  - Netflix
+  - anime
+  - segunda temporada
+  - trailer
+  - Yukinobu Tatsu
+  - Fuga Yamashiro
+  - Science SARU
+keywords: >-
+  Dan Da Dan, Netflix, anime, segunda temporada, trailer, Yukinobu Tatsu, Fuga
+  Yamashiro, Science SARU
+author: Luana Souza
+data: '2025-04-26T13:23:54.611Z'
+resumo: >-
+  A aguardada segunda temporada de Dan Da Dan estreia em 3 de julho na Netflix,
+  trazendo mais aventuras misturando ficção científica, horror e comédia
+  romântica.
 ---
 
 ## Novos Episódios de Dan Da Dan Chegam em Julho

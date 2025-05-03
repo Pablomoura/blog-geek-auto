@@ -1,14 +1,30 @@
 ---
-title: "Predador: Terras Selvagens Anuncia Trailer e Sugere Conexão com Alien"
-slug: "predador-terras-selvagens-novo-filme-da-saga-ganha-primeiro-trailer-assista"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/FLUyg0mP_Ww?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/9pHcbD2COP9VE0laoo-rVoeeRAI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T131253.966.png"
-tags: ["Predador Terras Selvagens", "trailer Predador", "Alien vs Predador", "franquia Predador", "Predador 2025", "filmes Predador", "Dan Trachtenberg", "Elle Fanning Predador"]
-keywords: "Predador Terras Selvagens, trailer Predador, Alien vs Predador, franquia Predador, Predador 2025, filmes Predador, Dan Trachtenberg, Elle Fanning Predador"
-author: "Ana Luiza"
-data: "2025-04-24T13:30:19.439Z"
+title: 'Predador: Terras Selvagens Anuncia Trailer e Sugere Conexão com Alien'
+slug: predador-terras-selvagens-novo-filme-da-saga-ganha-primeiro-trailer-assista
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/FLUyg0mP_Ww?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/9pHcbD2COP9VE0laoo-rVoeeRAI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T131253.966.png
+tags:
+  - Predador Terras Selvagens
+  - trailer Predador
+  - Alien vs Predador
+  - franquia Predador
+  - Predador 2025
+  - filmes Predador
+  - Dan Trachtenberg
+  - Elle Fanning Predador
+keywords: >-
+  Predador Terras Selvagens, trailer Predador, Alien vs Predador, franquia
+  Predador, Predador 2025, filmes Predador, Dan Trachtenberg, Elle Fanning
+  Predador
+author: Ana Luiza
+data: '2025-04-24T13:30:19.439Z'
+resumo: >-
+  O novo filme da franquia Predador, 'Predador: Terras Selvagens', revela seu
+  primeiro trailer e uma possível conexão com a saga Alien, agitando os fãs para
+  um próximo confronto épico.
 ---
 
 A saga Predador, que teve início em 1987, prepara-se para expandir seu universo com o lançamento de 'Predador: Terras Selvagens' (Predator: Badlands), que acaba de lançar seu emocionante primeiro trailer. O filme, que estreará nos cinemas em 7 de novembro de 2025, promete uma nova dimensão na história dos icônicos caçadores alienígenas.

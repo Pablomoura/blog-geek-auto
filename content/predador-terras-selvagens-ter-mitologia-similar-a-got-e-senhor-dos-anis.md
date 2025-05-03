@@ -1,14 +1,33 @@
 ---
-title: "Predador: Terras Selvagens - Um Épico Alienígena com Toques de 'GoT' e 'Senhor dos Anéis'"
-slug: "predador-terras-selvagens-ter-mitologia-similar-a-got-e-senhor-dos-anis"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/FLUyg0mP_Ww?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/gS7Fv6dhsRfxRjyaCr2MRR_2s_8=/480x360/smart/extras/conteudos/01_kgl4wqS.jpg"
-tags: ["Predador Terras Selvagens", "Dan Trachtenberg", "Game of Thrones", "O Senhor dos Anéis", "Yautja Prime", "Elle Fanning", "Dimitrius Schuster-Koloamatangi", "franquia Predador", "filmes de sci-fi"]
-keywords: "Predador Terras Selvagens, Dan Trachtenberg, Game of Thrones, O Senhor dos Anéis, Yautja Prime, Elle Fanning, Dimitrius Schuster-Koloamatangi, franquia Predador, filmes de sci-fi"
-author: "Pablo Moura"
-data: "2025-04-24T18:25:48.815Z"
+title: >-
+  Predador: Terras Selvagens - Um Épico Alienígena com Toques de 'GoT' e 'Senhor
+  dos Anéis'
+slug: predador-terras-selvagens-ter-mitologia-similar-a-got-e-senhor-dos-anis
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/FLUyg0mP_Ww?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/gS7Fv6dhsRfxRjyaCr2MRR_2s_8=/480x360/smart/extras/conteudos/01_kgl4wqS.jpg
+tags:
+  - Predador Terras Selvagens
+  - Dan Trachtenberg
+  - Game of Thrones
+  - O Senhor dos Anéis
+  - Yautja Prime
+  - Elle Fanning
+  - Dimitrius Schuster-Koloamatangi
+  - franquia Predador
+  - filmes de sci-fi
+keywords: >-
+  Predador Terras Selvagens, Dan Trachtenberg, Game of Thrones, O Senhor dos
+  Anéis, Yautja Prime, Elle Fanning, Dimitrius Schuster-Koloamatangi, franquia
+  Predador, filmes de sci-fi
+author: Pablo Moura
+data: '2025-04-24T18:25:48.815Z'
+resumo: >-
+  O novo filme 'Predador: Terras Selvagens' promete uma narrativa rica e
+  detalhada, inspirada pelas mitologias de 'Game of Thrones' e 'O Senhor dos
+  Anéis', ambientado no intrigante planeta Yautja Prime.
 ---
 
 Dan Trachtenberg, diretor de 'Predador: Terras Selvagens', compartilhou insights exclusivos com o Bloody Disgusting sobre as inspirações por trás do novo capítulo da icônica franquia. Segundo Trachtenberg, o filme buscará elementos de grandes épicas como 'Game of Thrones' e 'O Senhor dos Anéis' para construir um universo próprio e complexo no planeta dos Predadores, Yautja Prime.

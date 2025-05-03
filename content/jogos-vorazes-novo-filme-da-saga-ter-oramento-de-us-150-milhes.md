@@ -1,14 +1,33 @@
 ---
-title: "Jogos Vorazes: Amanhecer na Colheita se Destaca com Orçamento de até US$ 200 Milhões e Novos Talentos no Elenco"
-slug: "jogos-vorazes-novo-filme-da-saga-ter-oramento-de-us-150-milhes"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/P7ne3q8M4Pt72zTeaRc2o4dJ4uw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-30T200636.562.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/AcBiR6qJWqJF8vY7VW-4WzTt4bY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T200636.562.png"
-tags: ["Jogos Vorazes", "Amanhecer na Colheita", "Festival de Cannes", "cinema", "filmes de alto orçamento", "Lionsgate", "Francis Lawrence", "Joseph Zada", "Whitney Peak"]
-keywords: "Jogos Vorazes, Amanhecer na Colheita, Festival de Cannes, cinema, filmes de alto orçamento, Lionsgate, Francis Lawrence, Joseph Zada, Whitney Peak"
-author: "Ana Luiza"
-data: "2025-04-30T23:18:06.467Z"
+title: >-
+  Jogos Vorazes: Amanhecer na Colheita se Destaca com Orçamento de até US$ 200
+  Milhões e Novos Talentos no Elenco
+slug: jogos-vorazes-novo-filme-da-saga-ter-oramento-de-us-150-milhes
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/P7ne3q8M4Pt72zTeaRc2o4dJ4uw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-30T200636.562.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/AcBiR6qJWqJF8vY7VW-4WzTt4bY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T200636.562.png
+tags:
+  - Jogos Vorazes
+  - Amanhecer na Colheita
+  - Festival de Cannes
+  - cinema
+  - filmes de alto orçamento
+  - Lionsgate
+  - Francis Lawrence
+  - Joseph Zada
+  - Whitney Peak
+keywords: >-
+  Jogos Vorazes, Amanhecer na Colheita, Festival de Cannes, cinema, filmes de
+  alto orçamento, Lionsgate, Francis Lawrence, Joseph Zada, Whitney Peak
+author: Ana Luiza
+data: '2025-04-30T23:18:06.467Z'
+resumo: >-
+  O novo filme da saga Jogos Vorazes, 'Amanhecer na Colheita', promete ser uma
+  superprodução com orçamento que pode alcançar US$ 200 milhões, destacando-se
+  no Festival de Cannes com um elenco renovado e promissor.
 ---
 
 ## Amanhecer na Colheita: Uma Superprodução em Cannes

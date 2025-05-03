@@ -1,14 +1,27 @@
 ---
-title: "Thunderbolts | Novo Teaser Revela o Vilão Sentinela"
-slug: "thunderbolts-sentinela-liberado-em-novo-teaser-do-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/qcLUL2wrEyNeqHrJMg3s0Gn5PAE=/987x0/smart/uploads/conteudo/fotos/sentinela_NqurglU.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dM1ClU91GFNq-7sSR92Tye0rHiI=/480x360/smart/extras/conteudos/sentinela_b1RfXrF.jpg"
-tags: ["Thunderbolts", "Marvel", "MCU", "Sentinela", "Florence Pugh", "Filme", "Estreia", "2025"]
-keywords: "Thunderbolts, Marvel, MCU, Sentinela, Florence Pugh, Filme, Estreia, 2025"
-author: "Ana Luiza"
-data: "2025-04-19T20:19:52.981Z"
+title: Thunderbolts | Novo Teaser Revela o Vilão Sentinela
+slug: thunderbolts-sentinela-liberado-em-novo-teaser-do-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/qcLUL2wrEyNeqHrJMg3s0Gn5PAE=/987x0/smart/uploads/conteudo/fotos/sentinela_NqurglU.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dM1ClU91GFNq-7sSR92Tye0rHiI=/480x360/smart/extras/conteudos/sentinela_b1RfXrF.jpg
+tags:
+  - Thunderbolts
+  - Marvel
+  - MCU
+  - Sentinela
+  - Florence Pugh
+  - Filme
+  - Estreia
+  - '2025'
+keywords: 'Thunderbolts, Marvel, MCU, Sentinela, Florence Pugh, Filme, Estreia, 2025'
+author: Ana Luiza
+data: '2025-04-19T20:19:52.981Z'
+resumo: >-
+  O filme da Marvel com Florence Pugh, Thunderbolts, estreia em maio de 2025
+  destacando os anti-heróis do MCU.
 ---
 
 A Marvel Studios lançou um novo teaser de 'Thunderbolts', que coloca o Sentinela como principal antagonista do filme. O vídeo foi divulgado neste sábado (19) e já está causando grande expectativa entre os fãs.

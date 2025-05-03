@@ -1,14 +1,35 @@
 ---
-title: "A Nova Abertura de 'The Last of Us' Reflete Perda Significativa na Série"
-slug: "the-last-of-us-faz-mudana-brutal-na-abertura-aps-morte-chocante-veja"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/fsmJcQaf8P1Tvmikx9fr02v3TP4=/480x360/smart/extras/conteudos/the-last-of-us-3-episodio-2a-tempo.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fsmJcQaf8P1Tvmikx9fr02v3TP4=/480x360/smart/extras/conteudos/the-last-of-us-3-episodio-2a-tempo.jpg"
-tags: ["The Last of Us", "HBO", "segunda temporada", "abertura", "mudança", "Pedro Pascal", "Kaitlyn Dever", "Isabela Merced", "Young Mazino", "Ellie", "Joel", "série", "especial-The Last of Us"]
-keywords: "The Last of Us, HBO, segunda temporada, abertura, mudança, Pedro Pascal, Kaitlyn Dever, Isabela Merced, Young Mazino, Ellie, Joel, série"
-author: "Pablo Moura"
-data: "2025-04-28T11:36:43.959Z"
+title: A Nova Abertura de 'The Last of Us' Reflete Perda Significativa na Série
+slug: the-last-of-us-faz-mudana-brutal-na-abertura-aps-morte-chocante-veja
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/fsmJcQaf8P1Tvmikx9fr02v3TP4=/480x360/smart/extras/conteudos/the-last-of-us-3-episodio-2a-tempo.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fsmJcQaf8P1Tvmikx9fr02v3TP4=/480x360/smart/extras/conteudos/the-last-of-us-3-episodio-2a-tempo.jpg
+tags:
+  - The Last of Us
+  - HBO
+  - segunda temporada
+  - abertura
+  - mudança
+  - Pedro Pascal
+  - Kaitlyn Dever
+  - Isabela Merced
+  - Young Mazino
+  - Ellie
+  - Joel
+  - série
+  - especial-The Last of Us
+keywords: >-
+  The Last of Us, HBO, segunda temporada, abertura, mudança, Pedro Pascal,
+  Kaitlyn Dever, Isabela Merced, Young Mazino, Ellie, Joel, série
+author: Pablo Moura
+data: '2025-04-28T11:36:43.959Z'
+resumo: >-
+  A série 'The Last of Us' da HBO atualizou sua abertura para ilustrar uma
+  mudança dramática na trama, após um evento impactante envolvendo os
+  personagens principais.
 ---
 
 ## A Mudança Sutil na Abertura de 'The Last of Us'

@@ -1,14 +1,30 @@
 ---
-title: "Dragon Ball Daima Chega à TV Brasileira Com Episódios Dublados em Primeira Mão"
-slug: "dragon-ball-daima-estreia-na-tv-brasileira-com-dublagem"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/sAvaYaJ5Bwo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/DOeTOFnCTQvnYTzyrt78L9DJ24M=/480x360/smart/extras/conteudos/daima.jpg"
-tags: ["Dragon Ball Daima", "dublagem em português", "Adult Swim", "estreia de anime", "Super Saiyajin 4", "Akira Toriyama", "Crunchyroll", "Netflix", "Max"]
-keywords: "Dragon Ball Daima, dublagem em português, Adult Swim, estreia de anime, Super Saiyajin 4, Akira Toriyama, Crunchyroll, Netflix, Max"
-author: "Ana Luiza"
-data: "2025-04-22T19:16:48.692Z"
+title: Dragon Ball Daima Chega à TV Brasileira Com Episódios Dublados em Primeira Mão
+slug: dragon-ball-daima-estreia-na-tv-brasileira-com-dublagem
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/sAvaYaJ5Bwo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/DOeTOFnCTQvnYTzyrt78L9DJ24M=/480x360/smart/extras/conteudos/daima.jpg
+tags:
+  - Dragon Ball Daima
+  - dublagem em português
+  - Adult Swim
+  - estreia de anime
+  - Super Saiyajin 4
+  - Akira Toriyama
+  - Crunchyroll
+  - Netflix
+  - Max
+keywords: >-
+  Dragon Ball Daima, dublagem em português, Adult Swim, estreia de anime, Super
+  Saiyajin 4, Akira Toriyama, Crunchyroll, Netflix, Max
+author: Ana Luiza
+data: '2025-04-22T19:16:48.692Z'
+resumo: >-
+  A estreia de 'Dragon Ball Daima' no Adult Swim traz os primeiros cinco
+  episódios dublados em português, marcando um novo capítulo para os fãs da
+  saga.
 ---
 
 No próximo dia 25 de abril, às 18h, o canal Adult Swim brindará os aficionados por animes com a estreia de 'Dragon Ball Daima'. Este lançamento é notável pois, pela primeira vez, os cinco primeiros episódios serão exibidos consecutivamente com dublagem em português. Anteriormente, em fevereiro, apenas os três primeiros episódios foram apresentados nos cinemas, oferecendo um vislumbre da nova dublagem.

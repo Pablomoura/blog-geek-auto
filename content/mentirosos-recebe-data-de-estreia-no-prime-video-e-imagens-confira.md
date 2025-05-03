@@ -1,14 +1,33 @@
 ---
-title: "Prime Video Anuncia Estreia de 'Mentirosos' com Elenco Estelar e Primeiras Imagens"
-slug: "mentirosos-recebe-data-de-estreia-no-prime-video-e-imagens-confira"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/qCDdWFB2npV-7LliOUlBRqyjQfo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-22T193959.790.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/RGcVGOI-OGJ1WpRRjsFau7GbBSg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-22T193959.790.png"
-tags: ["Prime Video", "Mentirosos", "E. Lockhart", "série dramática", "estreia de série", "Emily Alyn Lind", "Julie Plec", "Carina Adly MacKenzie", "drama de mistério"]
-keywords: "Prime Video, Mentirosos, E. Lockhart, série dramática, estreia de série, Emily Alyn Lind, Julie Plec, Carina Adly MacKenzie, drama de mistério"
-author: "Pablo Moura"
-data: "2025-04-22T23:17:55.653Z"
+title: >-
+  Prime Video Anuncia Estreia de 'Mentirosos' com Elenco Estelar e Primeiras
+  Imagens
+slug: mentirosos-recebe-data-de-estreia-no-prime-video-e-imagens-confira
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/qCDdWFB2npV-7LliOUlBRqyjQfo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-22T193959.790.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/RGcVGOI-OGJ1WpRRjsFau7GbBSg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-22T193959.790.png
+tags:
+  - Prime Video
+  - Mentirosos
+  - E. Lockhart
+  - série dramática
+  - estreia de série
+  - Emily Alyn Lind
+  - Julie Plec
+  - Carina Adly MacKenzie
+  - drama de mistério
+keywords: >-
+  Prime Video, Mentirosos, E. Lockhart, série dramática, estreia de série, Emily
+  Alyn Lind, Julie Plec, Carina Adly MacKenzie, drama de mistério
+author: Pablo Moura
+data: '2025-04-22T23:17:55.653Z'
+resumo: >-
+  'Mentirosos', nova série dramática baseada no best-seller de E. Lockhart,
+  estreia em 18 de junho no Prime Video, trazendo mistério e intriga em uma ilha
+  privada.
 ---
 
 O Prime Video prepara os fãs para um verão de mistérios e revelações com a estreia de **'Mentirosos'** em 18 de junho. A série, que promete capturar a essência do aclamado livro de E. Lockhart, será lançada com oito episódios carregados de drama e suspense.

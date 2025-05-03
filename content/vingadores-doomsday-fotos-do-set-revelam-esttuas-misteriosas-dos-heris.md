@@ -1,14 +1,32 @@
 ---
-title: "Revelações do Set de 'Vingadores: Doomsday': Estátuas Quebradas e Retorno de Ícones"
-slug: "vingadores-doomsday-fotos-do-set-revelam-esttuas-misteriosas-dos-heris"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/1BJzoIjF64oBwX3JzIIoU1PKkPU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-21T102812.732.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ytcarm_9HeMOcGq3QPA-DtnPgxI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T102747.625.png"
-tags: ["Vingadores Doomsday", "Marvel", "MCU", "X-Men", "estátuas quebradas", "elenco Vingadores", "filmes Marvel", "Saga do Multiverso"]
-keywords: "Vingadores Doomsday, Marvel, MCU, X-Men, estátuas quebradas, elenco Vingadores, filmes Marvel, Saga do Multiverso"
-author: "Luana Souza"
-data: "2025-04-21T14:18:41.646Z"
+title: >-
+  Revelações do Set de 'Vingadores: Doomsday': Estátuas Quebradas e Retorno de
+  Ícones
+slug: vingadores-doomsday-fotos-do-set-revelam-esttuas-misteriosas-dos-heris
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/1BJzoIjF64oBwX3JzIIoU1PKkPU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-21T102812.732.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ytcarm_9HeMOcGq3QPA-DtnPgxI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T102747.625.png
+tags:
+  - Vingadores Doomsday
+  - Marvel
+  - MCU
+  - X-Men
+  - estátuas quebradas
+  - elenco Vingadores
+  - filmes Marvel
+  - Saga do Multiverso
+keywords: >-
+  Vingadores Doomsday, Marvel, MCU, X-Men, estátuas quebradas, elenco
+  Vingadores, filmes Marvel, Saga do Multiverso
+author: Luana Souza
+data: '2025-04-21T14:18:41.646Z'
+resumo: >-
+  Imagens vazadas do set de 'Vingadores: Doomsday' mostram enigmáticas estátuas
+  quebradas, enquanto o filme promete um elenco estelar com retornos aguardados
+  dos X-Men.
 ---
 
 O set de 'Vingadores: Doomsday' está repleto de mistérios e novidades. Recentemente, imagens vazadas revelaram estátuas quebradas, gerando especulações entre os fãs sobre possíveis referências aos X-Men. A confirmação oficial ainda não foi feita, aumentando o suspense em torno do filme.

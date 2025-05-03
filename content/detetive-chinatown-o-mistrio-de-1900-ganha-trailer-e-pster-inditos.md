@@ -1,14 +1,28 @@
 ---
-title: "Detetive Chinatown: O Mistério de 1900 Estreia com Novo Trailer e Pôster"
-slug: "detetive-chinatown-o-mistrio-de-1900-ganha-trailer-e-pster-inditos"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/gJRJeCBd7JM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/ErnoPgB7LlBuV7jgSo4kDGSiD6I=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T125636.547.png"
-tags: ["Detetive Chinatown", "O Mistério de 1900", "trailer", "pôster", "estreia cinema", "Chen Sicheng", "Dai Mo", "bilheteria"]
-keywords: "Detetive Chinatown, O Mistério de 1900, trailer, pôster, estreia cinema, Chen Sicheng, Dai Mo, bilheteria"
-author: "Luana Souza"
-data: "2025-04-29T16:24:53.330Z"
+title: 'Detetive Chinatown: O Mistério de 1900 Estreia com Novo Trailer e Pôster'
+slug: detetive-chinatown-o-mistrio-de-1900-ganha-trailer-e-pster-inditos
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/gJRJeCBd7JM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/ErnoPgB7LlBuV7jgSo4kDGSiD6I=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T125636.547.png
+tags:
+  - Detetive Chinatown
+  - O Mistério de 1900
+  - trailer
+  - pôster
+  - estreia cinema
+  - Chen Sicheng
+  - Dai Mo
+  - bilheteria
+keywords: >-
+  Detetive Chinatown, O Mistério de 1900, trailer, pôster, estreia cinema, Chen
+  Sicheng, Dai Mo, bilheteria
+author: Luana Souza
+data: '2025-04-29T16:24:53.330Z'
+resumo: >-
+  O aguardado filme 'Detetive Chinatown: O Mistério de 1900' revela seu novo
+  trailer e pôster, prometendo uma estreia impactante nos cinemas em 15 de maio.
 ---
 
 ## 'Detetive Chinatown: O Mistério de 1900' chega aos cinemas

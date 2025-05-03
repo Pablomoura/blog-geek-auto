@@ -1,14 +1,31 @@
 ---
-title: "Relançamento de 'A Vingança dos Sith' Conquista Bilheteria e se Torna o Terceiro Maior da História nos EUA"
-slug: "bilheteria-eua-a-vingana-dos-sith-o-3-maior-relanamento-da-histria"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/OqTG4anzztodzNZDJ4fagCZ3HZU=/987x0/smart/uploads/conteudo/fotos/starwarsvingancadossith.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/9zh8711RsGShHV9S9v29YSjZR2Q=/480x360/smart/extras/conteudos/starwarsvingancadossith.jpg"
-tags: ["A Vingança dos Sith", "Star Wars", "bilheteria", "relançamento", "cinema", "George Lucas", "Disney"]
-keywords: "A Vingança dos Sith, Star Wars, bilheteria, relançamento, cinema, George Lucas, Disney"
-author: "Pablo Moura"
-data: "2025-04-27T19:17:13.105Z"
+title: >-
+  Relançamento de 'A Vingança dos Sith' Conquista Bilheteria e se Torna o
+  Terceiro Maior da História nos EUA
+slug: bilheteria-eua-a-vingana-dos-sith-o-3-maior-relanamento-da-histria
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/OqTG4anzztodzNZDJ4fagCZ3HZU=/987x0/smart/uploads/conteudo/fotos/starwarsvingancadossith.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/9zh8711RsGShHV9S9v29YSjZR2Q=/480x360/smart/extras/conteudos/starwarsvingancadossith.jpg
+tags:
+  - A Vingança dos Sith
+  - Star Wars
+  - bilheteria
+  - relançamento
+  - cinema
+  - George Lucas
+  - Disney
+keywords: >-
+  A Vingança dos Sith, Star Wars, bilheteria, relançamento, cinema, George
+  Lucas, Disney
+author: Pablo Moura
+data: '2025-04-27T19:17:13.105Z'
+resumo: >-
+  Vinte anos após seu lançamento original, 'A Vingança dos Sith' arrecada
+  impressionantes US$ 25,2 milhões em seu retorno aos cinemas americanos,
+  posicionando-se como o terceiro maior relançamento nos EUA.
 ---
 
 ## 'A Vingança dos Sith' Brilha Novamente nas Bilheterias

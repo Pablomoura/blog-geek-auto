@@ -1,14 +1,33 @@
 ---
-title: "Lilo & Stitch Live-Action Pode Faturar US$ 120 Milhões na Estreia e Reviver Sucesso da Disney"
-slug: "lilo-stitch-pode-arrecadar-mais-de-us-100-milhes-na-estreia-nos-eua"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/QtByKJc--Gdqcl0tPxy4eLiCqCU=/987x0/smart/uploads/conteudo/fotos/lilo-stitch-capa-2.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/K59cmFrxgvkWp2cPnAJ0PQfq7-Y=/480x360/smart/extras/conteudos/lilo-e-stitch-capa.jpg"
-tags: ["Lilo & Stitch", "Disney", "live-action", "estreia", "bilheteria", "remake", "Dean Fleischer Camp", "Sydney Agudong", "Memorial Day", "Chris Sanders"]
-keywords: "Lilo & Stitch, Disney, live-action, estreia, bilheteria, remake, Dean Fleischer Camp, Sydney Agudong, Memorial Day, Chris Sanders"
-author: "Luana Souza"
-data: "2025-05-01T18:27:36.124Z"
+title: >-
+  Lilo & Stitch Live-Action Pode Faturar US$ 120 Milhões na Estreia e Reviver
+  Sucesso da Disney
+slug: lilo-stitch-pode-arrecadar-mais-de-us-100-milhes-na-estreia-nos-eua
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/QtByKJc--Gdqcl0tPxy4eLiCqCU=/987x0/smart/uploads/conteudo/fotos/lilo-stitch-capa-2.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/K59cmFrxgvkWp2cPnAJ0PQfq7-Y=/480x360/smart/extras/conteudos/lilo-e-stitch-capa.jpg
+tags:
+  - Lilo & Stitch
+  - Disney
+  - live-action
+  - estreia
+  - bilheteria
+  - remake
+  - Dean Fleischer Camp
+  - Sydney Agudong
+  - Memorial Day
+  - Chris Sanders
+keywords: >-
+  Lilo & Stitch, Disney, live-action, estreia, bilheteria, remake, Dean
+  Fleischer Camp, Sydney Agudong, Memorial Day, Chris Sanders
+author: Luana Souza
+data: '2025-05-01T18:27:36.124Z'
+resumo: >-
+  O aguardado remake live-action de 'Lilo & Stitch' tem previsão de arrecadar
+  US$ 120 milhões em seu lançamento durante o feriado do Memorial Day nos EUA.
 ---
 
 ## Estreia Promissora para o Remake de Lilo & Stitch

@@ -1,14 +1,29 @@
 ---
-title: "O Eternauta: Ariel Staltari Revela Detalhes da Aguardada 2ª Temporada na Netflix"
-slug: "o-eternauta-ator-confirma-e-fala-sobre-a-2-temporada-da-srie-da-netflix"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/9GHMjGO6QgpYVqJSVYJtBsSGygE=/987x0/smart/uploads/conteudo/fotos/cover_eternauta.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/3O0FrWjJa2dU76g0IbU8VUIWRGo=/480x360/smart/extras/conteudos/cover_eternauta.jpg"
-tags: ["O Eternauta", "Netflix", "Ariel Staltari", "segunda temporada", "série argentina", "streaming"]
-keywords: "O Eternauta, Netflix, Ariel Staltari, segunda temporada, série argentina, streaming"
-author: "Ana Luiza"
-data: "2025-05-03T01:24:07.104Z"
+title: >-
+  O Eternauta: Ariel Staltari Revela Detalhes da Aguardada 2ª Temporada na
+  Netflix
+slug: o-eternauta-ator-confirma-e-fala-sobre-a-2-temporada-da-srie-da-netflix
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/9GHMjGO6QgpYVqJSVYJtBsSGygE=/987x0/smart/uploads/conteudo/fotos/cover_eternauta.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/3O0FrWjJa2dU76g0IbU8VUIWRGo=/480x360/smart/extras/conteudos/cover_eternauta.jpg
+tags:
+  - O Eternauta
+  - Netflix
+  - Ariel Staltari
+  - segunda temporada
+  - série argentina
+  - streaming
+keywords: >-
+  O Eternauta, Netflix, Ariel Staltari, segunda temporada, série argentina,
+  streaming
+author: Ana Luiza
+data: '2025-05-03T01:24:07.104Z'
+resumo: >-
+  Ariel Staltari, ator e roteirista de 'O Eternauta', compartilha expectativas e
+  progressos da segunda temporada da série argentina na Netflix.
 ---
 
 ## 'O Eternauta' Caminha para a Segunda Temporada com Promessas de Agilidade no Processo

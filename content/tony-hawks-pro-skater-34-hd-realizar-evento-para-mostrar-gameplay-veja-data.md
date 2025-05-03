@@ -1,14 +1,29 @@
 ---
-title: "Tony Hawk's Pro Skater 3+4 HD Promete Empolgar com Evento de Gameplay e Música em Los Angeles"
-slug: "tony-hawks-pro-skater-34-hd-realizar-evento-para-mostrar-gameplay-veja-data"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ocSCM_6XZHA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/0Et4GUlEwhckTJWHrwm_sOLnnCc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T190405.012.png"
-tags: ["Tony Hawk's Pro Skater 3+4 HD", "evento de lançamento", "gameplay", "Los Angeles", "Iron Galaxy Studios", "Twitch", "performances musicais"]
-keywords: "Tony Hawk's Pro Skater 3+4 HD, evento de lançamento, gameplay, Los Angeles, Iron Galaxy Studios, Twitch, performances musicais"
-author: "Luana Souza"
-data: "2025-04-30T22:17:53.821Z"
+title: >-
+  Tony Hawk's Pro Skater 3+4 HD Promete Empolgar com Evento de Gameplay e Música
+  em Los Angeles
+slug: tony-hawks-pro-skater-34-hd-realizar-evento-para-mostrar-gameplay-veja-data
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ocSCM_6XZHA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/0Et4GUlEwhckTJWHrwm_sOLnnCc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T190405.012.png
+tags:
+  - Tony Hawk's Pro Skater 3+4 HD
+  - evento de lançamento
+  - gameplay
+  - Los Angeles
+  - Iron Galaxy Studios
+  - Twitch
+  - performances musicais
+keywords: >-
+  Tony Hawk's Pro Skater 3+4 HD, evento de lançamento, gameplay, Los Angeles,
+  Iron Galaxy Studios, Twitch, performances musicais
+author: Luana Souza
+data: '2025-04-30T22:17:53.821Z'
+resumo: >-
+  Prepare-se para o evento de lançamento de Tony Hawk's Pro Skater 3+4 HD em Los
+  Angeles, com transmissão ao vivo e performances musicais.
 ---
 
 ## Evento de Lançamento em Los Angeles

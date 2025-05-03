@@ -1,14 +1,30 @@
 ---
-title: "Power Couple Brasil 2025 Estreia com Novos Apresentadores e Elenco Estelar"
-slug: "power-couple-2025-conhea-os-14-casais-do-reality-da-record"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/sa1GmEwGcHklkDtOYN1bPqs1SAs=/987x0/smart/uploads/conteudo/fotos/pc25-felipe-andreoli-rafa-brites.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/oL82zmr3drKB6cjXBkso_S-waRs=/480x360/smart/extras/conteudos/pc25-felipe-andreoli-rafa-brites-peq.jpg"
-tags: ["Power Couple Brasil 2025", "reality show", "Record TV", "Rafa Brites", "Felipe Andreoli", "Gretchen", "casais famosos", "streaming Playplus"]
-keywords: "Power Couple Brasil 2025, reality show, Record TV, Rafa Brites, Felipe Andreoli, Gretchen, casais famosos, streaming Playplus"
-author: "Ana Luiza"
-data: "2025-04-25T11:17:36.523Z"
+title: Power Couple Brasil 2025 Estreia com Novos Apresentadores e Elenco Estelar
+slug: power-couple-2025-conhea-os-14-casais-do-reality-da-record
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/sa1GmEwGcHklkDtOYN1bPqs1SAs=/987x0/smart/uploads/conteudo/fotos/pc25-felipe-andreoli-rafa-brites.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/oL82zmr3drKB6cjXBkso_S-waRs=/480x360/smart/extras/conteudos/pc25-felipe-andreoli-rafa-brites-peq.jpg
+tags:
+  - Power Couple Brasil 2025
+  - reality show
+  - Record TV
+  - Rafa Brites
+  - Felipe Andreoli
+  - Gretchen
+  - casais famosos
+  - streaming Playplus
+keywords: >-
+  Power Couple Brasil 2025, reality show, Record TV, Rafa Brites, Felipe
+  Andreoli, Gretchen, casais famosos, streaming Playplus
+author: Ana Luiza
+data: '2025-04-25T11:17:36.523Z'
+resumo: >-
+  O reality show Power Couple Brasil retorna em 2025 com 14 casais, incluindo
+  nomes como Gretchen e ex-participantes de realities famosos, sob a
+  apresentação de Rafa Brites e Felipe Andreoli.
 ---
 
 ## Novidades no Power Couple Brasil 2025

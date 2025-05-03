@@ -1,14 +1,33 @@
 ---
-title: "Desempenho Fraco nas Bilheterias: 'Branca de Neve' Luta para Atingir Marcos Financeiros nos EUA e Globalmente"
-slug: "bilheteria-branca-de-neve-sofre-para-cruzar-us-90-milhes-nos-eua"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/qKCJkV2B8sE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/7bMLdXqkhRv-V4Z8mXjQUpFSuc0=/480x360/smart/extras/conteudos/01_9K1Fyb1.jpg"
-tags: ["Branca de Neve", "bilheteria", "filme", "Rachel Zegler", "Gal Gadot", "desempenho financeiro", "cinemas", "EUA", "arrecadação", "Disney"]
-keywords: "Branca de Neve, bilheteria, filme, Rachel Zegler, Gal Gadot, desempenho financeiro, cinemas, EUA, arrecadação, Disney"
-author: "Pablo Moura"
-data: "2025-04-20T16:21:08.632Z"
+title: >-
+  Desempenho Fraco nas Bilheterias: 'Branca de Neve' Luta para Atingir Marcos
+  Financeiros nos EUA e Globalmente
+slug: bilheteria-branca-de-neve-sofre-para-cruzar-us-90-milhes-nos-eua
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/qKCJkV2B8sE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/7bMLdXqkhRv-V4Z8mXjQUpFSuc0=/480x360/smart/extras/conteudos/01_9K1Fyb1.jpg
+tags:
+  - Branca de Neve
+  - bilheteria
+  - filme
+  - Rachel Zegler
+  - Gal Gadot
+  - desempenho financeiro
+  - cinemas
+  - EUA
+  - arrecadação
+  - Disney
+keywords: >-
+  Branca de Neve, bilheteria, filme, Rachel Zegler, Gal Gadot, desempenho
+  financeiro, cinemas, EUA, arrecadação, Disney
+author: Pablo Moura
+data: '2025-04-20T16:21:08.632Z'
+resumo: >-
+  O remake de 'Branca de Neve', apesar de grandes expectativas, enfrenta
+  dificuldades para alcançar a marca de US$ 90 milhões nos Estados Unidos e US$
+  200 milhões globalmente.
 ---
 
 A nova versão live-action de 'Branca de Neve', protagonizada por Rachel Zegler e Gal Gadot, enfrenta um campo minado nas bilheterias. Após um mês e uma semana em exibição, o filme acumulou apenas US$ 84,5 milhões nos Estados Unidos e US$ 184 milhões globalmente. Durante o fim de semana de Páscoa, a performance foi particularmente baixa, arrecadando somente US$ 1,17 milhão e caindo para a décima posição do ranking nos EUA.

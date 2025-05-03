@@ -1,14 +1,30 @@
 ---
-title: "Patrick Schwarzenegger Expressa Desejo de Protagonizar Remake de 'Psicopata Americano'"
-slug: "psicopata-americano-patrick-schwarzenegger-quer-estrelar-novo-filme"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/KheCtOAFLL0?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/tKVPmZkEsxStlmuwin8WBswfJ7w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T221532.181.png"
-tags: ["Patrick Schwarzenegger", "Psicopata Americano", "Luca Guadagnino", "remake", "filme", "Patrick Bateman", "cinema"]
-keywords: "Patrick Schwarzenegger, Psicopata Americano, Luca Guadagnino, remake, filme, Patrick Bateman, cinema"
-author: "Ana Luiza"
-data: "2025-05-03T01:22:24.684Z"
+title: >-
+  Patrick Schwarzenegger Expressa Desejo de Protagonizar Remake de 'Psicopata
+  Americano'
+slug: psicopata-americano-patrick-schwarzenegger-quer-estrelar-novo-filme
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/KheCtOAFLL0?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/tKVPmZkEsxStlmuwin8WBswfJ7w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T221532.181.png
+tags:
+  - Patrick Schwarzenegger
+  - Psicopata Americano
+  - Luca Guadagnino
+  - remake
+  - filme
+  - Patrick Bateman
+  - cinema
+keywords: >-
+  Patrick Schwarzenegger, Psicopata Americano, Luca Guadagnino, remake, filme,
+  Patrick Bateman, cinema
+author: Ana Luiza
+data: '2025-05-03T01:22:24.684Z'
+resumo: >-
+  Patrick Schwarzenegger revela seu interesse em assumir o papel icônico de
+  Patrick Bateman no planejado remake de 'Psicopata Americano', dirigido por
+  Luca Guadagnino.
 ---
 
 ## Patrick Schwarzenegger e o Papel dos Sonhos em 'Psicopata Americano'

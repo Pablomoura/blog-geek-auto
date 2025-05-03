@@ -1,14 +1,31 @@
 ---
-title: "Prepare-se para o Adeus: 'O Verão Que Mudou Minha Vida' anuncia emocionante temporada final"
-slug: "o-vero-que-mudou-minha-vida-3-temporada-ganha-cartaz-e-data"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/xdGOSWaQoR6TPFbfAGqB9jsOwOI=/987x0/smart/uploads/conteudo/fotos/02_rqtoVW9.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/YJUatpLgQMd0ECpPglDj8IB285M=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-23_163515.png"
-tags: ["O Verão Que Mudou Minha Vida", "Prime Video", "temporada final", "Jenny Han", "série de drama", "streaming", "lançamento 2023"]
-keywords: "O Verão Que Mudou Minha Vida, Prime Video, temporada final, Jenny Han, série de drama, streaming, lançamento 2023"
-author: "Ana Luiza"
-data: "2025-04-23T20:21:52.543Z"
+title: >-
+  Prepare-se para o Adeus: 'O Verão Que Mudou Minha Vida' anuncia emocionante
+  temporada final
+slug: o-vero-que-mudou-minha-vida-3-temporada-ganha-cartaz-e-data
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/xdGOSWaQoR6TPFbfAGqB9jsOwOI=/987x0/smart/uploads/conteudo/fotos/02_rqtoVW9.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/YJUatpLgQMd0ECpPglDj8IB285M=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-23_163515.png
+tags:
+  - O Verão Que Mudou Minha Vida
+  - Prime Video
+  - temporada final
+  - Jenny Han
+  - série de drama
+  - streaming
+  - lançamento 2023
+keywords: >-
+  O Verão Que Mudou Minha Vida, Prime Video, temporada final, Jenny Han, série
+  de drama, streaming, lançamento 2023
+author: Ana Luiza
+data: '2025-04-23T20:21:52.543Z'
+resumo: >-
+  A terceira e última temporada de 'O Verão Que Mudou Minha Vida' chega ao Prime
+  Video em 16 de julho, prometendo um desfecho emocionante com 11 novos
+  episódios.
 ---
 
 O anúncio da terceira temporada de **O Verão Que Mudou Minha Vida** promete uma despedida emocionante para os fãs da série. O Prime Video revelou o cartaz oficial e confirmou a data de estreia para o dia 16 de julho, marcando o início do último capítulo desta saga apaixonante.

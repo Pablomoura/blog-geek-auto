@@ -1,14 +1,30 @@
 ---
-title: "Novo Terror à Vista: Trailer do Reboot de 'Eu Sei o Que Vocês Fizeram no Verão Passado' Revelado!"
-slug: "eu-sei-o-que-vocs-fizeram-no-vero-passado-trailer-do-novo-filme-lanado"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/qi_zUdA8-cY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/c1gajtA_Lvn3X8egG1BAOB0xvJg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_173341.png"
-tags: ["Eu Sei o Que Vocês Fizeram no Verão Passado", "filme de terror", "trailer de filme", "Jennifer Love Hewitt", "Freddie Prinze Jr.", "reboot de filme", "cinema 2025"]
-keywords: "Eu Sei o Que Vocês Fizeram no Verão Passado, filme de terror, trailer de filme, Jennifer Love Hewitt, Freddie Prinze Jr., reboot de filme, cinema 2025"
-author: "Luana Souza"
-data: "2025-04-22T14:20:52.670Z"
+title: >-
+  Novo Terror à Vista: Trailer do Reboot de 'Eu Sei o Que Vocês Fizeram no Verão
+  Passado' Revelado!
+slug: eu-sei-o-que-vocs-fizeram-no-vero-passado-trailer-do-novo-filme-lanado
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/qi_zUdA8-cY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/c1gajtA_Lvn3X8egG1BAOB0xvJg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_173341.png
+tags:
+  - Eu Sei o Que Vocês Fizeram no Verão Passado
+  - filme de terror
+  - trailer de filme
+  - Jennifer Love Hewitt
+  - Freddie Prinze Jr.
+  - reboot de filme
+  - cinema 2025
+keywords: >-
+  Eu Sei o Que Vocês Fizeram no Verão Passado, filme de terror, trailer de
+  filme, Jennifer Love Hewitt, Freddie Prinze Jr., reboot de filme, cinema 2025
+author: Luana Souza
+data: '2025-04-22T14:20:52.670Z'
+resumo: >-
+  A aguardada versão 2025 do icônico filme de terror 'Eu Sei o Que Vocês Fizeram
+  no Verão Passado' acaba de ganhar seu primeiro trailer, prometendo reviver o
+  suspense com um elenco clássico e novas vítimas.
 ---
 
 O suspense está de volta com o primeiro trailer do reboot de 'Eu Sei o Que Vocês Fizeram no Verão Passado', trazendo de volta o clima aterrorizante que marcou os anos 90. O novo filme, dirigido por Jennifer Kaytin Robinson, conhecida por seu trabalho na comédia teen 'Justiceiras', chega aos cinemas em 18 de julho de 2025, prometendo uma nova onda de terror.

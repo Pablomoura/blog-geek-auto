@@ -1,14 +1,31 @@
 ---
-title: "George Lucas Revela o Motivo Peculiar de Yoda Falar de Forma Invertida em Star Wars"
-slug: "star-wars-george-lucas-enfim-explica-por-que-yoda-fala-ao-contrrio"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/0I68z3LYwcUccYntGT4TJb2k0DQ=/987x0/smart/uploads/conteudo/fotos/OMELETE-BANNER_G1FVxLW.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dEOOuZbkJAhBtzI0DW5o0pnIV8o=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-25_164453.png"
-tags: ["George Lucas", "Yoda", "Star Wars", "O Império Contra-Ataca", "Andor", "Disney+", "Mestre Jedi"]
-keywords: "George Lucas, Yoda, Star Wars, O Império Contra-Ataca, Andor, Disney+, Mestre Jedi"
-author: "Luana Souza"
-data: "2025-04-25T20:21:01.114Z"
+title: >-
+  George Lucas Revela o Motivo Peculiar de Yoda Falar de Forma Invertida em Star
+  Wars
+slug: star-wars-george-lucas-enfim-explica-por-que-yoda-fala-ao-contrrio
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/0I68z3LYwcUccYntGT4TJb2k0DQ=/987x0/smart/uploads/conteudo/fotos/OMELETE-BANNER_G1FVxLW.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dEOOuZbkJAhBtzI0DW5o0pnIV8o=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-25_164453.png
+tags:
+  - George Lucas
+  - Yoda
+  - Star Wars
+  - O Império Contra-Ataca
+  - Andor
+  - Disney+
+  - Mestre Jedi
+keywords: >-
+  George Lucas, Yoda, Star Wars, O Império Contra-Ataca, Andor, Disney+, Mestre
+  Jedi
+author: Luana Souza
+data: '2025-04-25T20:21:01.114Z'
+resumo: >-
+  Durante uma sessão comemorativa, George Lucas expôs o motivo singular pelo
+  qual o Mestre Yoda utiliza uma estrutura de fala invertida nos filmes de Star
+  Wars.
 ---
 
 ## A Origem da Fala Incomum de Yoda

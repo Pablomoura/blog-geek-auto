@@ -1,14 +1,32 @@
 ---
-title: "Bailarina: Ana de Armas e Keanu Reeves Brilham nos Novos Pôsteres do Spin-off de John Wick"
-slug: "bailarina-derivado-de-john-wick-ganha-psteres-com-ana-de-armas-e-keanu-reeves"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/RalDZ94EmYfG1rZHPw1uaCcptjM=/987x0/smart/uploads/conteudo/fotos/ana-de-armas-bailarina.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/sjPKb0o-jkmNgHnVHvCjng-tvuY=/480x360/smart/extras/conteudos/ana-de-armas-bailarina_H2AyqbJ.png"
-tags: ["Bailarina", "John Wick", "Ana de Armas", "Keanu Reeves", "filme de ação", "cinema", "spin-off", "saga John Wick"]
-keywords: "Bailarina, John Wick, Ana de Armas, Keanu Reeves, filme de ação, cinema, spin-off, saga John Wick"
-author: "Luana Souza"
-data: "2025-04-24T18:29:03.133Z"
+title: >-
+  Bailarina: Ana de Armas e Keanu Reeves Brilham nos Novos Pôsteres do Spin-off
+  de John Wick
+slug: bailarina-derivado-de-john-wick-ganha-psteres-com-ana-de-armas-e-keanu-reeves
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/RalDZ94EmYfG1rZHPw1uaCcptjM=/987x0/smart/uploads/conteudo/fotos/ana-de-armas-bailarina.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/sjPKb0o-jkmNgHnVHvCjng-tvuY=/480x360/smart/extras/conteudos/ana-de-armas-bailarina_H2AyqbJ.png
+tags:
+  - Bailarina
+  - John Wick
+  - Ana de Armas
+  - Keanu Reeves
+  - filme de ação
+  - cinema
+  - spin-off
+  - saga John Wick
+keywords: >-
+  Bailarina, John Wick, Ana de Armas, Keanu Reeves, filme de ação, cinema,
+  spin-off, saga John Wick
+author: Luana Souza
+data: '2025-04-24T18:29:03.133Z'
+resumo: >-
+  O aguardado filme 'Bailarina', derivado da icônica saga 'John Wick', revela
+  novos pôsteres com Ana de Armas e Keanu Reeves, prometendo uma trama de
+  vingança intensa.
 ---
 
 ## Bailarina: Um Novo Capítulo no Universo de John Wick

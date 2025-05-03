@@ -1,14 +1,30 @@
 ---
-title: "Solo Leveling: Produtor Atsushi Kaneko Agita Fãs com Promessa de Grandes Anúncios"
-slug: "solo-leveling-3-temporada-ganha-novidades-de-produtor-saiba-quais"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/1FFc_wh41lI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/GXuDXvnM07bE3KGaQpAbvuIJnq8=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T192942.432.png"
-tags: ["Solo Leveling", "Atsushi Kaneko", "Crunchyroll", "terceira temporada", "anime", "manhwa", "Blu-Ray", "especial-Solo Leveling"]
-keywords: "Solo Leveling, Atsushi Kaneko, Crunchyroll, terceira temporada, anime, manhwa, Blu-Ray"
-author: "Ana Luiza"
-data: "2025-04-25T23:18:41.054Z"
+title: >-
+  Solo Leveling: Produtor Atsushi Kaneko Agita Fãs com Promessa de Grandes
+  Anúncios
+slug: solo-leveling-3-temporada-ganha-novidades-de-produtor-saiba-quais
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/1FFc_wh41lI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/GXuDXvnM07bE3KGaQpAbvuIJnq8=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T192942.432.png
+tags:
+  - Solo Leveling
+  - Atsushi Kaneko
+  - Crunchyroll
+  - terceira temporada
+  - anime
+  - manhwa
+  - Blu-Ray
+  - especial-Solo Leveling
+keywords: >-
+  Solo Leveling, Atsushi Kaneko, Crunchyroll, terceira temporada, anime, manhwa,
+  Blu-Ray
+author: Ana Luiza
+data: '2025-04-25T23:18:41.054Z'
+resumo: >-
+  A terceira temporada de Solo Leveling pode estar mais perto do que pensamos,
+  segundo um teaser empolgante do produtor Atsushi Kaneko.
 ---
 
 ## Antecipação Cresce Entre os Fãs de Solo Leveling

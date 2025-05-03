@@ -1,14 +1,29 @@
 ---
-title: "Dwayne Johnson Transforma-se em Lutador de UFC no Trailer de 'Coração de Lutador: The Smashing Machine'"
-slug: "corao-de-lutador-smashing-machine-ganha-trailer-the-rock-est-irreconhecvel"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/aRpnP3LZ99g?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/y4IGhwYtiV7KiackKAAWc6wBWfw=/480x360/smart/extras/conteudos/the-smashing-machine-trailer.jpg"
-tags: ["Dwayne Johnson", "Benny Safdie", "Coração de Lutador", "The Smashing Machine", "UFC", "cinema"]
-keywords: "Dwayne Johnson, Benny Safdie, Coração de Lutador, The Smashing Machine, UFC, cinema"
-author: "Ana Luiza"
-data: "2025-04-29T13:34:52.014Z"
+title: >-
+  Dwayne Johnson Transforma-se em Lutador de UFC no Trailer de 'Coração de
+  Lutador: The Smashing Machine'
+slug: corao-de-lutador-smashing-machine-ganha-trailer-the-rock-est-irreconhecvel
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/aRpnP3LZ99g?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/y4IGhwYtiV7KiackKAAWc6wBWfw=/480x360/smart/extras/conteudos/the-smashing-machine-trailer.jpg
+tags:
+  - Dwayne Johnson
+  - Benny Safdie
+  - Coração de Lutador
+  - The Smashing Machine
+  - UFC
+  - cinema
+keywords: >-
+  Dwayne Johnson, Benny Safdie, Coração de Lutador, The Smashing Machine, UFC,
+  cinema
+author: Ana Luiza
+data: '2025-04-29T13:34:52.014Z'
+resumo: >-
+  O novo filme protagonizado por Dwayne Johnson, dirigido por Benny Safdie,
+  retrata a intensa vida do lutador de UFC Mark Kerr. Estreia prevista para
+  outubro nos cinemas.
 ---
 
 ## 'Coração de Lutador: The Smashing Machine' Chega aos Cinemas em Outubro

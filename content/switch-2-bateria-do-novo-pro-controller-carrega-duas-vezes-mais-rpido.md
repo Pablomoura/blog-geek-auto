@@ -1,14 +1,28 @@
 ---
-title: "Nintendo Switch 2 Anuncia Inovações e Data de Lançamento Global em Junho"
-slug: "switch-2-bateria-do-novo-pro-controller-carrega-duas-vezes-mais-rpido"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/dvHuX-Mh7uyummV6b0VD90d8pBI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T104838.694.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/agEaLYrcuQav6UYw1l6WgORSYkE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T104818.200.png"
-tags: ["Nintendo Switch 2", "Pro Controller", "lançamento de console", "jogos 4K", "GameChat", "Joy-Con"]
-keywords: "Nintendo Switch 2, Pro Controller, lançamento de console, jogos 4K, GameChat, Joy-Con"
-author: "Luana Souza"
-data: "2025-04-22T14:19:59.764Z"
+title: Nintendo Switch 2 Anuncia Inovações e Data de Lançamento Global em Junho
+slug: switch-2-bateria-do-novo-pro-controller-carrega-duas-vezes-mais-rpido
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/dvHuX-Mh7uyummV6b0VD90d8pBI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T104838.694.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/agEaLYrcuQav6UYw1l6WgORSYkE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T104818.200.png
+tags:
+  - Nintendo Switch 2
+  - Pro Controller
+  - lançamento de console
+  - jogos 4K
+  - GameChat
+  - Joy-Con
+keywords: >-
+  Nintendo Switch 2, Pro Controller, lançamento de console, jogos 4K, GameChat,
+  Joy-Con
+author: Luana Souza
+data: '2025-04-22T14:19:59.764Z'
+resumo: >-
+  O Nintendo Switch 2 traz melhorias significativas, incluindo um Pro Controller
+  com bateria ultra-rápida, lançamento global em 5 de junho e novos jogos com
+  gráficos 4K.
 ---
 
 O aguardado Nintendo Switch 2 promete revolucionar a experiência dos gamers com notáveis melhorias, começando pelo Pro Controller que agora tem uma bateria que carrega em apenas 3 horas e meia, garantindo até 40 horas de jogo contínuo. As informações são oficiais da Nintendo, que também anunciou a pré-venda nos Estados Unidos a partir de 24 de abril, com o console custando US$ 499,99. No Brasil e outros países, o lançamento ocorrerá simultaneamente em 5 de junho, com o preço ajustado para US$ 450.

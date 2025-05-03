@@ -1,14 +1,29 @@
 ---
-title: "Inexplicável: A Emocionante Jornada de Superação de Gabriel Varandas na Netflix"
-slug: "inexplicvel-da-netflix-uma-histria-real-entenda-o-caso"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/4oKRAAJYwxM?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/oPmTAljgc1FHfLnSxCzMiLSkPjE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-25_114536.png"
-tags: ["Inexplicável", "Netflix", "filme brasileiro", "Gabriel Varandas", "tumor cerebral", "história real", "Fabrício Bittar"]
-keywords: "Inexplicável, Netflix, filme brasileiro, Gabriel Varandas, tumor cerebral, história real, Fabrício Bittar"
-author: "Luana Souza"
-data: "2025-04-26T17:16:01.515Z"
+title: >-
+  Inexplicável: A Emocionante Jornada de Superação de Gabriel Varandas na
+  Netflix
+slug: inexplicvel-da-netflix-uma-histria-real-entenda-o-caso
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/4oKRAAJYwxM?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/oPmTAljgc1FHfLnSxCzMiLSkPjE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-25_114536.png
+tags:
+  - Inexplicável
+  - Netflix
+  - filme brasileiro
+  - Gabriel Varandas
+  - tumor cerebral
+  - história real
+  - Fabrício Bittar
+keywords: >-
+  Inexplicável, Netflix, filme brasileiro, Gabriel Varandas, tumor cerebral,
+  história real, Fabrício Bittar
+author: Luana Souza
+data: '2025-04-26T17:16:01.515Z'
+resumo: >-
+  Baseado em eventos reais, 'Inexplicável' da Netflix, captura a luta de um
+  jovem contra um tumor cerebral. Descubra o que é realidade e ficção no filme.
 ---
 
 ## A Verdadeira História por Trás de 'Inexplicável'

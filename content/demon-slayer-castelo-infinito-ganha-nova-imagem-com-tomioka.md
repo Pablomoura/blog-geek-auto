@@ -1,14 +1,29 @@
 ---
-title: "Demon Slayer: Castelo Infinito Revela Novo Pôster com Tomioka Giyu"
-slug: "demon-slayer-castelo-infinito-ganha-nova-imagem-com-tomioka"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/Sq1uv5kG_bI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/7Ch6GThF1gKoNrpNbTPnau6Mg_0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_130809.png"
-tags: ["Demon Slayer", "Castelo Infinito", "Tomioka Giyu", "cinema", "anime", "trilogia", "Tanjiro Kamado", "Nezuko", "Hashira"]
-keywords: "Demon Slayer, Castelo Infinito, Tomioka Giyu, cinema, anime, trilogia, Tanjiro Kamado, Nezuko, Hashira"
-author: "Pablo Moura"
-data: "2025-05-01T16:24:21.247Z"
+title: 'Demon Slayer: Castelo Infinito Revela Novo Pôster com Tomioka Giyu'
+slug: demon-slayer-castelo-infinito-ganha-nova-imagem-com-tomioka
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/Sq1uv5kG_bI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/7Ch6GThF1gKoNrpNbTPnau6Mg_0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_130809.png
+tags:
+  - Demon Slayer
+  - Castelo Infinito
+  - Tomioka Giyu
+  - cinema
+  - anime
+  - trilogia
+  - Tanjiro Kamado
+  - Nezuko
+  - Hashira
+keywords: >-
+  Demon Slayer, Castelo Infinito, Tomioka Giyu, cinema, anime, trilogia, Tanjiro
+  Kamado, Nezuko, Hashira
+author: Pablo Moura
+data: '2025-05-01T16:24:21.247Z'
+resumo: >-
+  O aguardado filme de Demon Slayer, 'Castelo Infinito', estreia com um novo
+  pôster destacando Tomioka Giyu. Confira os detalhes e a data de lançamento.
 ---
 
 ## Demon Slayer: Castelo Infinito — Uma Trilogia que Promete Encerrar com Chave de Ouro

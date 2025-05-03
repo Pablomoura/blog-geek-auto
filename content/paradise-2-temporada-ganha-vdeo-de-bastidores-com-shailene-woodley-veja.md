@@ -1,14 +1,30 @@
 ---
-title: "Shailene Woodley Retorna em Vídeo Exclusivo dos Bastidores da 2ª Temporada de 'Paradise'"
-slug: "paradise-2-temporada-ganha-vdeo-de-bastidores-com-shailene-woodley-veja"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/VZvnDb8VCtjNG5S46WVGRziWlgs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T103542.753.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/OMcfaIClvBwmVefX7aU2bo9SrBE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T103528.580.png"
-tags: ["Paradise série", "Shailene Woodley", "Sterling K. Brown", "segunda temporada Paradise", "Disney+", "séries streaming"]
-keywords: "Paradise série, Shailene Woodley, Sterling K. Brown, segunda temporada Paradise, Disney+, séries streaming"
-author: "Ana Luiza"
-data: "2025-04-22T14:20:24.645Z"
+title: >-
+  Shailene Woodley Retorna em Vídeo Exclusivo dos Bastidores da 2ª Temporada de
+  'Paradise'
+slug: paradise-2-temporada-ganha-vdeo-de-bastidores-com-shailene-woodley-veja
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/VZvnDb8VCtjNG5S46WVGRziWlgs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T103542.753.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/OMcfaIClvBwmVefX7aU2bo9SrBE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T103528.580.png
+tags:
+  - Paradise série
+  - Shailene Woodley
+  - Sterling K. Brown
+  - segunda temporada Paradise
+  - Disney+
+  - séries streaming
+keywords: >-
+  Paradise série, Shailene Woodley, Sterling K. Brown, segunda temporada
+  Paradise, Disney+, séries streaming
+author: Ana Luiza
+data: '2025-04-22T14:20:24.645Z'
+resumo: >-
+  A aclamada série 'Paradise', estrelada por Shailene Woodley e Sterling K.
+  Brown, revela um empolgante vídeo dos bastidores da sua segunda temporada,
+  prometendo mais intrigas e drama.
 ---
 
 **Os fãs de 'Paradise' têm motivos para comemorar!** Um novo vídeo de bastidores da segunda temporada foi lançado, trazendo Shailene Woodley e Sterling K. Brown de volta à ação. O vídeo oferece um vislumbre do que esperar na continuação da série, que capturou a atenção de milhões com sua estreia explosiva.

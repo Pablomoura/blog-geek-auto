@@ -1,14 +1,28 @@
 ---
-title: "The Pitt: Produtores Descartam Spin-off para Preservar Equipe"
-slug: "the-pitt-criadores-ainda-no-pensam-em-spin-off-do-drama-mdico"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/b1K7jexPjUI?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/rbRtfcQpTMKJJC9ulMtnCsSWsaI=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_150819.png"
-tags: ["The Pitt", "série médica", "spin-off", "produção de TV", "bem-estar de equipe", "Jonh Wells", "R. Scott Gemmill", "segunda temporada"]
-keywords: "The Pitt, série médica, spin-off, produção de TV, bem-estar de equipe, Jonh Wells, R. Scott Gemmill, segunda temporada"
-author: "Luana Souza"
-data: "2025-05-02T18:25:40.211Z"
+title: 'The Pitt: Produtores Descartam Spin-off para Preservar Equipe'
+slug: the-pitt-criadores-ainda-no-pensam-em-spin-off-do-drama-mdico
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/b1K7jexPjUI?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/rbRtfcQpTMKJJC9ulMtnCsSWsaI=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_150819.png
+tags:
+  - The Pitt
+  - série médica
+  - spin-off
+  - produção de TV
+  - bem-estar de equipe
+  - Jonh Wells
+  - R. Scott Gemmill
+  - segunda temporada
+keywords: >-
+  The Pitt, série médica, spin-off, produção de TV, bem-estar de equipe, Jonh
+  Wells, R. Scott Gemmill, segunda temporada
+author: Luana Souza
+data: '2025-05-02T18:25:40.211Z'
+resumo: >-
+  Apesar do sucesso de 'The Pitt', seus criadores optam por não desenvolver
+  spin-offs para proteger o bem-estar de sua equipe de produção.
 ---
 
 ## Equilíbrio entre Sucesso e Qualidade de Vida na Produção de The Pitt

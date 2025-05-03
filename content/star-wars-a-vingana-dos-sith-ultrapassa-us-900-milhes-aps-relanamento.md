@@ -1,14 +1,29 @@
 ---
-title: "Star Wars: A Vingança dos Sith Brilha em Relançamento com Bilheteria Histórica"
-slug: "star-wars-a-vingana-dos-sith-ultrapassa-us-900-milhes-aps-relanamento"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/71HhMr11V2e30jsj3D4utXRUQKo=/987x0/smart/uploads/conteudo/fotos/star-wars-episodio-3-relancamento_7CaJIO8.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Wheg24ElBzefL6PWgrEFQaEkRQc=/480x360/smart/extras/conteudos/star-wars-episodio-3-relancamento_1W7rNfm.png"
-tags: ["Star Wars", "A Vingança dos Sith", "Relançamento", "Bilheteria", "Lucasfilm", "Disney", "Saga Star Wars"]
-keywords: "Star Wars, A Vingança dos Sith, Relançamento, Bilheteria, Lucasfilm, Disney, Saga Star Wars"
-author: "Ana Luiza"
-data: "2025-05-02T01:24:24.409Z"
+title: 'Star Wars: A Vingança dos Sith Brilha em Relançamento com Bilheteria Histórica'
+slug: star-wars-a-vingana-dos-sith-ultrapassa-us-900-milhes-aps-relanamento
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/71HhMr11V2e30jsj3D4utXRUQKo=/987x0/smart/uploads/conteudo/fotos/star-wars-episodio-3-relancamento_7CaJIO8.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Wheg24ElBzefL6PWgrEFQaEkRQc=/480x360/smart/extras/conteudos/star-wars-episodio-3-relancamento_1W7rNfm.png
+tags:
+  - Star Wars
+  - A Vingança dos Sith
+  - Relançamento
+  - Bilheteria
+  - Lucasfilm
+  - Disney
+  - Saga Star Wars
+keywords: >-
+  Star Wars, A Vingança dos Sith, Relançamento, Bilheteria, Lucasfilm, Disney,
+  Saga Star Wars
+author: Ana Luiza
+data: '2025-05-02T01:24:24.409Z'
+resumo: >-
+  Duas décadas após seu lançamento original, 'Star Wars: A Vingança dos Sith'
+  conquista impressionantes US$ 900 milhões em bilheteria global após seu
+  relançamento.
 ---
 
 ## Sucesso Renovado nas Bilheterias

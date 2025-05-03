@@ -1,14 +1,25 @@
 ---
-title: "Ian McDiarmid Discute as Críticas a 'Star Wars: A Ascensão Skywalker'"
-slug: "star-wars-ator-de-palpatine-comenta-reao-negativa-ao-episdio-ix"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/sLj0pGHa1EHU-WQbmPT9x9Q4exI=/987x0/smart/uploads/conteudo/fotos/starwarsepisodio9.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/XTjclGpllADQqEMCEHe2mC4HcMs=/480x360/smart/extras/conteudos/starwarsepisodio9.jpg"
-tags: ["Ian McDiarmid", "Star Wars", "A Ascensão Skywalker", "Palpatine", "críticas", "Disney+"]
-keywords: "Ian McDiarmid, Star Wars, A Ascensão Skywalker, Palpatine, críticas, Disney+"
-author: "Pablo Moura"
-data: "2025-04-27T15:18:26.369Z"
+title: 'Ian McDiarmid Discute as Críticas a ''Star Wars: A Ascensão Skywalker'''
+slug: star-wars-ator-de-palpatine-comenta-reao-negativa-ao-episdio-ix
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/sLj0pGHa1EHU-WQbmPT9x9Q4exI=/987x0/smart/uploads/conteudo/fotos/starwarsepisodio9.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/XTjclGpllADQqEMCEHe2mC4HcMs=/480x360/smart/extras/conteudos/starwarsepisodio9.jpg
+tags:
+  - Ian McDiarmid
+  - Star Wars
+  - A Ascensão Skywalker
+  - Palpatine
+  - críticas
+  - Disney+
+keywords: 'Ian McDiarmid, Star Wars, A Ascensão Skywalker, Palpatine, críticas, Disney+'
+author: Pablo Moura
+data: '2025-04-27T15:18:26.369Z'
+resumo: >-
+  Ian McDiarmid, o ator que interpretou o Imperador Palpatine, aborda as reações
+  negativas ao último filme da saga Star Wars, lançado em 2019.
 ---
 
 ## Ian McDiarmid e a Recepção de 'A Ascensão Skywalker'

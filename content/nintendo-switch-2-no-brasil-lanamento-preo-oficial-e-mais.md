@@ -1,14 +1,25 @@
 ---
-title: "Nintendo Switch 2 Chega ao Brasil: Tudo Sobre Lançamento e Preços"
-slug: "nintendo-switch-2-no-brasil-lanamento-preo-oficial-e-mais"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ynv4ML2A_pk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/GOY3PC5lv6eZA6IVUHaoUNqTtFs=/480x360/smart/extras/conteudos/00_4ogJLso.jpg"
-tags: ["Nintendo Switch 2", "lançamento Nintendo Switch 2", "preço Nintendo Switch 2", "jogos Nintendo Switch 2", "Nintendo Brasil"]
-keywords: "Nintendo Switch 2, lançamento Nintendo Switch 2, preço Nintendo Switch 2, jogos Nintendo Switch 2, Nintendo Brasil"
-author: "Luana Souza"
-data: "2025-04-23T14:20:25.910Z"
+title: 'Nintendo Switch 2 Chega ao Brasil: Tudo Sobre Lançamento e Preços'
+slug: nintendo-switch-2-no-brasil-lanamento-preo-oficial-e-mais
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ynv4ML2A_pk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/GOY3PC5lv6eZA6IVUHaoUNqTtFs=/480x360/smart/extras/conteudos/00_4ogJLso.jpg
+tags:
+  - Nintendo Switch 2
+  - lançamento Nintendo Switch 2
+  - preço Nintendo Switch 2
+  - jogos Nintendo Switch 2
+  - Nintendo Brasil
+keywords: >-
+  Nintendo Switch 2, lançamento Nintendo Switch 2, preço Nintendo Switch 2,
+  jogos Nintendo Switch 2, Nintendo Brasil
+author: Luana Souza
+data: '2025-04-23T14:20:25.910Z'
+resumo: >-
+  O Nintendo Switch 2 foi oficialmente anunciado com melhorias significativas e
+  já tem data e preço definidos para o mercado brasileiro.
 ---
 
 A espera acabou para os fãs de games! O **Nintendo Switch 2** foi anunciado, trazendo uma tela maior, retrocompatibilidade com o modelo anterior, Joy-Cons magnéticos e um poder de processamento aprimorado. Para os gamers brasileiros, as novidades são ainda mais empolgantes, com o lançamento confirmado para **5 de junho** e detalhes sobre preços e pacotes especiais já disponíveis.

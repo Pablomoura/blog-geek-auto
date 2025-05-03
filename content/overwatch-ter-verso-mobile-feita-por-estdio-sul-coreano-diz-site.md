@@ -1,14 +1,25 @@
 ---
-title: "Overwatch Mobile Ganhará Vida pela Nexon e é Apelidado de 'Overwatch 3'"
-slug: "overwatch-ter-verso-mobile-feita-por-estdio-sul-coreano-diz-site"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ocSCM_6XZHA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/E3tKrmN-z0t3oyWNqBkcMUdozOg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T211505.906.png"
-tags: ["Overwatch Mobile", "Overwatch 3", "Nexon", "Blizzard", "StarCraft", "jogos mobile"]
-keywords: "Overwatch Mobile, Overwatch 3, Nexon, Blizzard, StarCraft, jogos mobile"
-author: "Luana Souza"
-data: "2025-04-29T01:24:44.723Z"
+title: Overwatch Mobile Ganhará Vida pela Nexon e é Apelidado de 'Overwatch 3'
+slug: overwatch-ter-verso-mobile-feita-por-estdio-sul-coreano-diz-site
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ocSCM_6XZHA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/E3tKrmN-z0t3oyWNqBkcMUdozOg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T211505.906.png
+tags:
+  - Overwatch Mobile
+  - Overwatch 3
+  - Nexon
+  - Blizzard
+  - StarCraft
+  - jogos mobile
+keywords: 'Overwatch Mobile, Overwatch 3, Nexon, Blizzard, StarCraft, jogos mobile'
+author: Luana Souza
+data: '2025-04-29T01:24:44.723Z'
+resumo: >-
+  A Nexon, conhecida pelo jogo The Finals, foi escolhida pela Blizzard para
+  desenvolver a versão mobile de Overwatch, que está sendo internamente chamada
+  de Overwatch 3.
 ---
 
 ## Nexon Assume Desenvolvimento de Overwatch Mobile

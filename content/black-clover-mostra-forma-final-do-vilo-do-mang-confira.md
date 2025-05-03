@@ -1,14 +1,29 @@
 ---
-title: "Black Clover: Lucius Revela Forma Final em Confronto Épico com Asta e Yuno"
-slug: "black-clover-mostra-forma-final-do-vilo-do-mang-confira"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/WXNqhOZRHaI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/NidaaKyYI6I3GTdqG4tDxZhtQ8o=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T210246.868.png"
-tags: ["Black Clover", "Lucius forma final", "Asta", "Yuno", "Rei Mago", "Jump Giga", "mangá Black Clover", "Yūki Tabata"]
-keywords: "Black Clover, Lucius forma final, Asta, Yuno, Rei Mago, Jump Giga, mangá Black Clover, Yūki Tabata"
-author: "Luana Souza"
-data: "2025-05-03T01:23:36.815Z"
+title: 'Black Clover: Lucius Revela Forma Final em Confronto Épico com Asta e Yuno'
+slug: black-clover-mostra-forma-final-do-vilo-do-mang-confira
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/WXNqhOZRHaI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/NidaaKyYI6I3GTdqG4tDxZhtQ8o=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T210246.868.png
+tags:
+  - Black Clover
+  - Lucius forma final
+  - Asta
+  - Yuno
+  - Rei Mago
+  - Jump Giga
+  - mangá Black Clover
+  - Yūki Tabata
+keywords: >-
+  Black Clover, Lucius forma final, Asta, Yuno, Rei Mago, Jump Giga, mangá Black
+  Clover, Yūki Tabata
+author: Luana Souza
+data: '2025-05-03T01:23:36.815Z'
+resumo: >-
+  No clímax do mangá Black Clover, Lucius desvenda sua forma final em uma
+  batalha decisiva contra Asta e Yuno, prometendo uma conclusão explosiva para a
+  saga.
 ---
 
 ## A Revelação da Forma Final de Lucius em Black Clover

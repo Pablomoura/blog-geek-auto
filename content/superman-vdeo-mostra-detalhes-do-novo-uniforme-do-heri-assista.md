@@ -1,14 +1,31 @@
 ---
-title: "Explore o Novo Traje de Superman no Filme de James Gunn Chegando em 2025"
-slug: "superman-vdeo-mostra-detalhes-do-novo-uniforme-do-heri-assista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/3z8B7m0Wnb9-De3LyaKaKC0k6R8=/987x0/smart/uploads/conteudo/fotos/superman-cinemacon_mvaIHoz.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/48UkjbSvTHW7PheMjhxscx4kFZ8=/480x360/smart/extras/conteudos/superman-cinemacon_Hz2KQiA.png"
-tags: ["Superman", "James Gunn", "DC Comics", "Clark Kent", "David Corenswet", "filme de super-heróis", "novo filme do Superman", "DCU", "especial-Superman"]
-keywords: "Superman, James Gunn, DC Comics, Clark Kent, David Corenswet, filme de super-heróis, novo filme do Superman, DCU"
-author: "Pablo Moura"
-data: "2025-04-21T18:26:08.498Z"
+title: Explore o Novo Traje de Superman no Filme de James Gunn Chegando em 2025
+slug: superman-vdeo-mostra-detalhes-do-novo-uniforme-do-heri-assista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/3z8B7m0Wnb9-De3LyaKaKC0k6R8=/987x0/smart/uploads/conteudo/fotos/superman-cinemacon_mvaIHoz.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/48UkjbSvTHW7PheMjhxscx4kFZ8=/480x360/smart/extras/conteudos/superman-cinemacon_Hz2KQiA.png
+tags:
+  - Superman
+  - James Gunn
+  - DC Comics
+  - Clark Kent
+  - David Corenswet
+  - filme de super-heróis
+  - novo filme do Superman
+  - DCU
+  - especial-Superman
+keywords: >-
+  Superman, James Gunn, DC Comics, Clark Kent, David Corenswet, filme de
+  super-heróis, novo filme do Superman, DCU
+author: Pablo Moura
+data: '2025-04-21T18:26:08.498Z'
+resumo: >-
+  Um novo vídeo revela detalhes do traje que Clark Kent, interpretado por David
+  Corenswet, usará no próximo filme de Superman, com estreia prevista para julho
+  de 2025.
 ---
 
 A nova versão de Superman, dirigida por James Gunn, está prestes a trazer uma nova visão do icônico super-herói, com foco em um Clark Kent mais jovem em seus primeiros dias em Metrópoles. O filme, que não será uma história de origem tradicional, está gerando expectativas com a divulgação de um vídeo que detalha o novo uniforme de Superman.

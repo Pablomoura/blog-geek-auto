@@ -1,14 +1,28 @@
 ---
-title: "Anna Kendrick Pode Retornar em 'O Contador 3', Revela Diretor Gavin O'Connor"
-slug: "o-contador-diretor-diz-que-anna-kendrick-quer-fazer-terceiro-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/ME9WFKWIau5yHTDRBL3nAC6XyME=/987x0/smart/uploads/conteudo/fotos/ocontadorannakendrick.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/vA13h2WN-OtbxWFGuoyRJu9ulZQ=/480x360/smart/extras/conteudos/ocontadorannakendrick.jpg"
-tags: ["Anna Kendrick", "O Contador 3", "Gavin O'Connor", "Ben Affleck", "filmes", "sequência de cinema"]
-keywords: "Anna Kendrick, O Contador 3, Gavin O'Connor, Ben Affleck, filmes, sequência de cinema"
-author: "Ana Luiza"
-data: "2025-04-26T19:14:51.809Z"
+title: 'Anna Kendrick Pode Retornar em ''O Contador 3'', Revela Diretor Gavin O''Connor'
+slug: o-contador-diretor-diz-que-anna-kendrick-quer-fazer-terceiro-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/ME9WFKWIau5yHTDRBL3nAC6XyME=/987x0/smart/uploads/conteudo/fotos/ocontadorannakendrick.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/vA13h2WN-OtbxWFGuoyRJu9ulZQ=/480x360/smart/extras/conteudos/ocontadorannakendrick.jpg
+tags:
+  - Anna Kendrick
+  - O Contador 3
+  - Gavin O'Connor
+  - Ben Affleck
+  - filmes
+  - sequência de cinema
+keywords: >-
+  Anna Kendrick, O Contador 3, Gavin O'Connor, Ben Affleck, filmes, sequência de
+  cinema
+author: Ana Luiza
+data: '2025-04-26T19:14:51.809Z'
+resumo: >-
+  Apesar de ausente na segunda parte, Anna Kendrick está entusiasmada para
+  integrar o elenco de 'O Contador 3', conforme compartilhado pelo diretor Gavin
+  O'Connor.
 ---
 
 ## Anna Kendrick entusiasmada com possível retorno em 'O Contador 3'

@@ -1,14 +1,27 @@
 ---
-title: "O Eternauta Conquista a Crítica e Público na Netflix com Estreia Triunfal"
-slug: "o-eternauta-a-srie-estreou-com-uma-classificao-alta-no-rotten-tomatoes"
-categoria: "NETFLIX"
-midia: "https://www.youtube.com/embed/ykLTd5aTa88?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/SlyyMPUd0XJR_j__TtZ5hcJLuqc=/480x360/smart/extras/conteudos/WhatsApp_Image_2025-01-29_at_5.50.40_PM_ZXvvPa7.jpeg"
-tags: ["O Eternauta", "Netflix", "Rotten Tomatoes", "série argentina", "Ricardo Darín", "adaptação de HQ"]
-keywords: "O Eternauta, Netflix, Rotten Tomatoes, série argentina, Ricardo Darín, adaptação de HQ"
-author: "Ana Luiza"
-data: "2025-05-02T16:24:43.807Z"
+title: O Eternauta Conquista a Crítica e Público na Netflix com Estreia Triunfal
+slug: o-eternauta-a-srie-estreou-com-uma-classificao-alta-no-rotten-tomatoes
+categoria: NETFLIX
+midia: 'https://www.youtube.com/embed/ykLTd5aTa88?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/SlyyMPUd0XJR_j__TtZ5hcJLuqc=/480x360/smart/extras/conteudos/WhatsApp_Image_2025-01-29_at_5.50.40_PM_ZXvvPa7.jpeg
+tags:
+  - O Eternauta
+  - Netflix
+  - Rotten Tomatoes
+  - série argentina
+  - Ricardo Darín
+  - adaptação de HQ
+keywords: >-
+  O Eternauta, Netflix, Rotten Tomatoes, série argentina, Ricardo Darín,
+  adaptação de HQ
+author: Ana Luiza
+data: '2025-05-02T16:24:43.807Z'
+resumo: >-
+  A primeira temporada de 'O Eternauta', baseada na icônica história em
+  quadrinhos argentina, estreou na Netflix com altíssimas avaliações no Rotten
+  Tomatoes e promete ser um marco para a indústria cinematográfica da Argentina.
 ---
 
 ## Sucesso Estrondoso na Netflix

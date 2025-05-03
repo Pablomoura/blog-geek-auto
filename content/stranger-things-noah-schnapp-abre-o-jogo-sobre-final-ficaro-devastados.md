@@ -1,14 +1,30 @@
 ---
-title: "Noah Schnapp Prepara Fãs para um Final Emocionante de Stranger Things em 2025"
-slug: "stranger-things-noah-schnapp-abre-o-jogo-sobre-final-ficaro-devastados"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/0kAIzQkgpv_3Q7i8Vp_uglKdmPk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-23T132518.714.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Sa0_AYEf2mNNSWWbu71a8b56adU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T132503.960.png"
-tags: ["Stranger Things", "Netflix", "final Stranger Things", "Noah Schnapp", "Ross Duffer", "temporada final Stranger Things", "Hawkins", "série Netflix"]
-keywords: "Stranger Things, Netflix, final Stranger Things, Noah Schnapp, Ross Duffer, temporada final Stranger Things, Hawkins, série Netflix"
-author: "Luana Souza"
-data: "2025-04-23T17:18:18.303Z"
+title: Noah Schnapp Prepara Fãs para um Final Emocionante de Stranger Things em 2025
+slug: stranger-things-noah-schnapp-abre-o-jogo-sobre-final-ficaro-devastados
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/0kAIzQkgpv_3Q7i8Vp_uglKdmPk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-23T132518.714.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Sa0_AYEf2mNNSWWbu71a8b56adU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T132503.960.png
+tags:
+  - Stranger Things
+  - Netflix
+  - final Stranger Things
+  - Noah Schnapp
+  - Ross Duffer
+  - temporada final Stranger Things
+  - Hawkins
+  - série Netflix
+keywords: >-
+  Stranger Things, Netflix, final Stranger Things, Noah Schnapp, Ross Duffer,
+  temporada final Stranger Things, Hawkins, série Netflix
+author: Luana Souza
+data: '2025-04-23T17:18:18.303Z'
+resumo: >-
+  A última temporada de Stranger Things promete lágrimas e um desfecho
+  emocionante, segundo declarações do ator Noah Schnapp e do criador Ross
+  Duffer.
 ---
 
 A contagem regressiva para o emocionante final de **Stranger Things** já começou, com estreia marcada para 2025 na Netflix. Noah Schnapp, que dá vida ao personagem Will Byers, compartilhou suas impressões sobre os últimos episódios em uma recente entrevista ao The Hollywood Reporter. Ele adianta que o encerramento será tocante: "Ficarão devastados. É uma temporada que todos vão amar, mas preparem-se, pois não vai sobrar nem um olho seco", revelou Schnapp.

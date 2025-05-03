@@ -1,14 +1,32 @@
 ---
-title: "Cinema Nacional em Destaque: 'O Riso e a Faca' Brilha em Cannes com Elenco Global"
-slug: "o-riso-e-a-faca-produo-brasileira-que-estar-em-cannes-ganha-novas-imagens"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/IyBJmV9AA3oyhI7ztC_Oi1rSY24=/987x0/smart/uploads/conteudo/fotos/01_kbxF1u2.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4oJijCqSGE7Grd6zuVCEYREiucQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_131601.png"
-tags: ["O Riso e a Faca", "Festival de Cannes", "cinema brasileiro", "Tom Zé", "Pedro Pinho", "cinema internacional", "filmes em Cannes 2023", "Un Certain Regard"]
-keywords: "O Riso e a Faca, Festival de Cannes, cinema brasileiro, Tom Zé, Pedro Pinho, cinema internacional, filmes em Cannes 2023, Un Certain Regard"
-author: "Ana Luiza"
-data: "2025-04-24T17:20:19.477Z"
+title: >-
+  Cinema Nacional em Destaque: 'O Riso e a Faca' Brilha em Cannes com Elenco
+  Global
+slug: o-riso-e-a-faca-produo-brasileira-que-estar-em-cannes-ganha-novas-imagens
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/IyBJmV9AA3oyhI7ztC_Oi1rSY24=/987x0/smart/uploads/conteudo/fotos/01_kbxF1u2.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4oJijCqSGE7Grd6zuVCEYREiucQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_131601.png
+tags:
+  - O Riso e a Faca
+  - Festival de Cannes
+  - cinema brasileiro
+  - Tom Zé
+  - Pedro Pinho
+  - cinema internacional
+  - filmes em Cannes 2023
+  - Un Certain Regard
+keywords: >-
+  O Riso e a Faca, Festival de Cannes, cinema brasileiro, Tom Zé, Pedro Pinho,
+  cinema internacional, filmes em Cannes 2023, Un Certain Regard
+author: Ana Luiza
+data: '2025-04-24T17:20:19.477Z'
+resumo: >-
+  'O Riso e a Faca', filme brasileiro inspirado em música de Tom Zé, ganha
+  destaque com novas imagens e prepara estreia na prestigiada mostra Un Certain
+  Regard do Festival de Cannes.
 ---
 
 O cenário cinematográfico nacional ganha um representante de peso no Festival de Cannes 2023. 'O Riso e a Faca', dirigido pelo português Pedro Pinho, é a nova promessa do cinema que combina talentos do Brasil, Portugal, Romênia e França. O filme, que estará na 78ª edição do festival, na mostra Un Certain Regard, explora a complexidade das relações humanas através de uma trama envolvente e multicultural. 

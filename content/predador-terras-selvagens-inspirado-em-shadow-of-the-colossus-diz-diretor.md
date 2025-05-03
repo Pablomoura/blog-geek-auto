@@ -1,14 +1,30 @@
 ---
-title: "Predador: Terras Selvagens - Uma Jornada Cinematográfica Inspirada em Shadow of the Colossus"
-slug: "predador-terras-selvagens-inspirado-em-shadow-of-the-colossus-diz-diretor"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/FLUyg0mP_Ww?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Ulphv7njW6SQTbbYzL73Bk1ZaII=/480x360/smart/extras/conteudos/predator-badlands-trailer.webp"
-tags: ["Predador Terras Selvagens", "Dan Trachtenberg", "Shadow of the Colossus", "Elle Fanning", "Alien vs Predador", "franquia Predador", "filmes de Predador"]
-keywords: "Predador Terras Selvagens, Dan Trachtenberg, Shadow of the Colossus, Elle Fanning, Alien vs Predador, franquia Predador, filmes de Predador"
-author: "Luana Souza"
-data: "2025-04-24T18:27:47.524Z"
+title: >-
+  Predador: Terras Selvagens - Uma Jornada Cinematográfica Inspirada em Shadow
+  of the Colossus
+slug: predador-terras-selvagens-inspirado-em-shadow-of-the-colossus-diz-diretor
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/FLUyg0mP_Ww?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Ulphv7njW6SQTbbYzL73Bk1ZaII=/480x360/smart/extras/conteudos/predator-badlands-trailer.webp
+tags:
+  - Predador Terras Selvagens
+  - Dan Trachtenberg
+  - Shadow of the Colossus
+  - Elle Fanning
+  - Alien vs Predador
+  - franquia Predador
+  - filmes de Predador
+keywords: >-
+  Predador Terras Selvagens, Dan Trachtenberg, Shadow of the Colossus, Elle
+  Fanning, Alien vs Predador, franquia Predador, filmes de Predador
+author: Luana Souza
+data: '2025-04-24T18:27:47.524Z'
+resumo: >-
+  O novo filme da saga Predador, 'Predador: Terras Selvagens', dirigido por Dan
+  Trachtenberg, busca inspiração no icônico jogo Shadow of the Colossus e
+  promete um crossover com a franquia Alien.
 ---
 
 ## Predador: Terras Selvagens Inspirado em Clássico dos Games

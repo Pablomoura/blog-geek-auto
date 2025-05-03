@@ -1,14 +1,31 @@
 ---
-title: "Censura em My Hero Academia: Vigilantes Levanta Debate sobre Adaptação de Conteúdo"
-slug: "my-hero-academia-vigilantes-censura-momento-em-novo-episdio-entenda"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/RteHPpbIkMk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/GlEoyRtk37xInGwWKz82OrzP9-g=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T211723.870.png"
-tags: ["My Hero Academia", "Vigilantes", "censura", "anime", "adaptação", "Crunchyroll", "mangá", "Kohei Horikoshi"]
-keywords: "My Hero Academia, Vigilantes, censura, anime, adaptação, Crunchyroll, mangá, Kohei Horikoshi"
-author: "Ana Luiza"
-data: "2025-05-01T01:40:30.018Z"
+title: >-
+  Censura em My Hero Academia: Vigilantes Levanta Debate sobre Adaptação de
+  Conteúdo
+slug: my-hero-academia-vigilantes-censura-momento-em-novo-episdio-entenda
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/RteHPpbIkMk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/GlEoyRtk37xInGwWKz82OrzP9-g=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T211723.870.png
+tags:
+  - My Hero Academia
+  - Vigilantes
+  - censura
+  - anime
+  - adaptação
+  - Crunchyroll
+  - mangá
+  - Kohei Horikoshi
+keywords: >-
+  My Hero Academia, Vigilantes, censura, anime, adaptação, Crunchyroll, mangá,
+  Kohei Horikoshi
+author: Ana Luiza
+data: '2025-05-01T01:40:30.018Z'
+resumo: >-
+  O episódio mais recente de My Hero Academia: Vigilantes enfrenta críticas por
+  censurar cenas consideradas controversas, refletindo as diferenças entre as
+  versões do mangá e do anime.
 ---
 
 ## Polêmica de Censura em My Hero Academia: Vigilantes

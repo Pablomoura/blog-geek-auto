@@ -1,14 +1,30 @@
 ---
-title: "Vingadores: Doomsday Anuncia Início de Filmagens com Robert Downey Jr. como Doutor Destino"
-slug: "vingadores-doomsday-inicia-filmagens-com-primeira-foto-oficial-victor-von-doom"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/aJHMTwZxnAR6LsgzpLwBVm9LaVc=/987x0/smart/uploads/conteudo/fotos/downey-vingadores-doomsday.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/3nuNgPJ-SqFer_FF-SeFmr9Lx7o=/480x360/smart/extras/conteudos/downey-vingadores-doomsday.jpg"
-tags: ["Vingadores: Doomsday", "Robert Downey Jr.", "Doutor Destino", "MCU", "Marvel", "filme dos Vingadores"]
-keywords: "Vingadores: Doomsday, Robert Downey Jr., Doutor Destino, MCU, Marvel, filme dos Vingadores"
-author: "Luana Souza"
-data: "2025-04-28T11:37:12.336Z"
+title: >-
+  Vingadores: Doomsday Anuncia Início de Filmagens com Robert Downey Jr. como
+  Doutor Destino
+slug: vingadores-doomsday-inicia-filmagens-com-primeira-foto-oficial-victor-von-doom
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/aJHMTwZxnAR6LsgzpLwBVm9LaVc=/987x0/smart/uploads/conteudo/fotos/downey-vingadores-doomsday.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/3nuNgPJ-SqFer_FF-SeFmr9Lx7o=/480x360/smart/extras/conteudos/downey-vingadores-doomsday.jpg
+tags:
+  - 'Vingadores: Doomsday'
+  - Robert Downey Jr.
+  - Doutor Destino
+  - MCU
+  - Marvel
+  - filme dos Vingadores
+keywords: >-
+  Vingadores: Doomsday, Robert Downey Jr., Doutor Destino, MCU, Marvel, filme
+  dos Vingadores
+author: Luana Souza
+data: '2025-04-28T11:37:12.336Z'
+resumo: >-
+  O início das filmagens de 'Vingadores: Doomsday' foi marcado pela publicação
+  da primeira imagem oficial, destacando Robert Downey Jr. no papel do vilão
+  Doutor Destino.
 ---
 
 ## Início das Filmagens de Vingadores: Doomsday

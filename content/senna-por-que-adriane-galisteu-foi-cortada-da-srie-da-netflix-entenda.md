@@ -1,14 +1,31 @@
 ---
-title: "Controvérsia na Netflix: Por Que Adriane Galisteu Teve Pouca Participação na Série 'Senna'?"
-slug: "senna-por-que-adriane-galisteu-foi-cortada-da-srie-da-netflix-entenda"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/AGT5bUsOPLk?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/hZx13oWPmH65wDbsJhVPbLUX8Pw=/480x360/smart/extras/conteudos/Senna-galisteu-xuxa.jpg"
-tags: ["Senna", "Netflix", "Adriane Galisteu", "Ayrton Senna", "série da Netflix", "controvérsia", "família Senna", "Fórmula 1"]
-keywords: "Senna, Netflix, Adriane Galisteu, Ayrton Senna, série da Netflix, controvérsia, família Senna, Fórmula 1"
-author: "Luana Souza"
-data: "2025-05-01T21:18:32.405Z"
+title: >-
+  Controvérsia na Netflix: Por Que Adriane Galisteu Teve Pouca Participação na
+  Série 'Senna'?
+slug: senna-por-que-adriane-galisteu-foi-cortada-da-srie-da-netflix-entenda
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/AGT5bUsOPLk?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/hZx13oWPmH65wDbsJhVPbLUX8Pw=/480x360/smart/extras/conteudos/Senna-galisteu-xuxa.jpg
+tags:
+  - Senna
+  - Netflix
+  - Adriane Galisteu
+  - Ayrton Senna
+  - série da Netflix
+  - controvérsia
+  - família Senna
+  - Fórmula 1
+keywords: >-
+  Senna, Netflix, Adriane Galisteu, Ayrton Senna, série da Netflix,
+  controvérsia, família Senna, Fórmula 1
+author: Luana Souza
+data: '2025-05-01T21:18:32.405Z'
+resumo: >-
+  A série 'Senna' da Netflix gerou debates por conta da limitada aparição de
+  Adriane Galisteu, ex-namorada do piloto, possivelmente devido a discordâncias
+  com a família Senna.
 ---
 
 ## A Representação de Adriane Galisteu em 'Senna' Levanta Questões

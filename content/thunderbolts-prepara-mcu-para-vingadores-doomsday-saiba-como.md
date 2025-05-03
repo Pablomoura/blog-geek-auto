@@ -1,14 +1,29 @@
 ---
-title: "Thunderbolts: O Pivô Estratégico para 'Vingadores: Doomsday' e o Futuro do MCU"
-slug: "thunderbolts-prepara-mcu-para-vingadores-doomsday-saiba-como"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/r37vwuH7ZPU?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/yWS8by3xwsJnMerxH8LwOYlRfjc=/480x360/smart/extras/conteudos/thunderbolts-vingadores-doomsday_7ij4N8k.jpg"
-tags: ["Thunderbolts", "MCU", "Vingadores Doomsday", "Fase 6 MCU", "Robert Downey Jr.", "Doutor Destino", "Novos Vingadores", "cena pós-créditos"]
-keywords: "Thunderbolts, MCU, Vingadores Doomsday, Fase 6 MCU, Robert Downey Jr., Doutor Destino, Novos Vingadores, cena pós-créditos"
-author: "Pablo Moura"
-data: "2025-05-02T22:18:34.478Z"
+title: 'Thunderbolts: O Pivô Estratégico para ''Vingadores: Doomsday'' e o Futuro do MCU'
+slug: thunderbolts-prepara-mcu-para-vingadores-doomsday-saiba-como
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/r37vwuH7ZPU?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/yWS8by3xwsJnMerxH8LwOYlRfjc=/480x360/smart/extras/conteudos/thunderbolts-vingadores-doomsday_7ij4N8k.jpg
+tags:
+  - Thunderbolts
+  - MCU
+  - Vingadores Doomsday
+  - Fase 6 MCU
+  - Robert Downey Jr.
+  - Doutor Destino
+  - Novos Vingadores
+  - cena pós-créditos
+keywords: >-
+  Thunderbolts, MCU, Vingadores Doomsday, Fase 6 MCU, Robert Downey Jr., Doutor
+  Destino, Novos Vingadores, cena pós-créditos
+author: Pablo Moura
+data: '2025-05-02T22:18:34.478Z'
+resumo: >-
+  O filme 'Thunderbolts' desempenha um papel crucial na transição do MCU para
+  sua Fase 6, introduzindo elementos chave que preparam o cenário para
+  'Vingadores: Doomsday'.
 ---
 
 ## O Impacto de 'Thunderbolts' na Fase 6 do MCU

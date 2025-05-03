@@ -1,14 +1,34 @@
 ---
-title: "Revolução em Boruto: Two Blue Vortex – Capítulo 21 Surpreende com Morte Chocante"
-slug: "boruto-two-blue-vortex-captulo-21-tem-morte-importante-saiba-quem"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/QZ1PsFikZHc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/bsY4at6zY3P0VGRPKmkZFmCAfNs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T125124.344.png"
-tags: ["Boruto", "Two Blue Vortex", "mangá", "Naruto", "Konohamaru", "Matsuri", "Árvore Divina", "Crunchyroll", "Masashi Kishimoto", "Ukyo Kodachi", "anime"]
-keywords: "Boruto, Two Blue Vortex, mangá, Naruto, Konohamaru, Matsuri, Árvore Divina, Crunchyroll, Masashi Kishimoto, Ukyo Kodachi, anime"
-author: "Luana Souza"
-data: "2025-04-23T16:25:21.955Z"
+title: >-
+  Revolução em Boruto: Two Blue Vortex – Capítulo 21 Surpreende com Morte
+  Chocante
+slug: boruto-two-blue-vortex-captulo-21-tem-morte-importante-saiba-quem
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/QZ1PsFikZHc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/bsY4at6zY3P0VGRPKmkZFmCAfNs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T125124.344.png
+tags:
+  - Boruto
+  - Two Blue Vortex
+  - mangá
+  - Naruto
+  - Konohamaru
+  - Matsuri
+  - Árvore Divina
+  - Crunchyroll
+  - Masashi Kishimoto
+  - Ukyo Kodachi
+  - anime
+keywords: >-
+  Boruto, Two Blue Vortex, mangá, Naruto, Konohamaru, Matsuri, Árvore Divina,
+  Crunchyroll, Masashi Kishimoto, Ukyo Kodachi, anime
+author: Luana Souza
+data: '2025-04-23T16:25:21.955Z'
+resumo: >-
+  O mais recente capítulo do mangá 'Boruto: Two Blue Vortex' traz uma
+  reviravolta com a possível morte de um personagem crucial, aumentando as
+  expectativas para futuros confrontos.
 ---
 
 O universo de Naruto continua a expandir-se com o capítulo 21 de 'Boruto: Two Blue Vortex', que apresenta acontecimentos críticos e potenciais spoilers. A narrativa deste novo capítulo gira em torno da suposta morte de Matsuri, uma revelação que ainda deixa dúvidas, pois os olhos do personagem mostram sinais de movimento durante uma intensa batalha. A confirmação de seu destino está pendente e promete ser esclarecida no próximo capítulo.

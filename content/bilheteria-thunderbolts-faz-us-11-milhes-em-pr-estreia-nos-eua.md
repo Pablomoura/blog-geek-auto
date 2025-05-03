@@ -1,14 +1,23 @@
 ---
-title: "Thunderbolts: Estreia Poderosa Com US$ 11 Milhões em Pré-Venda nos EUA"
-slug: "bilheteria-thunderbolts-faz-us-11-milhes-em-pr-estreia-nos-eua"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/CWvq2e1Qih4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Pv7d31Pxq09F2b5g9vd9MyhXZz4=/480x360/smart/extras/conteudos/00_77mUsxR.jpg"
-tags: ["Thunderbolts", "MCU", "bilheteria", "estreia", "Marvel"]
-keywords: "Thunderbolts, MCU, bilheteria, estreia, Marvel"
-author: "Ana Luiza"
-data: "2025-05-02T16:24:12.068Z"
+title: 'Thunderbolts: Estreia Poderosa Com US$ 11 Milhões em Pré-Venda nos EUA'
+slug: bilheteria-thunderbolts-faz-us-11-milhes-em-pr-estreia-nos-eua
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/CWvq2e1Qih4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Pv7d31Pxq09F2b5g9vd9MyhXZz4=/480x360/smart/extras/conteudos/00_77mUsxR.jpg
+tags:
+  - Thunderbolts
+  - MCU
+  - bilheteria
+  - estreia
+  - Marvel
+keywords: 'Thunderbolts, MCU, bilheteria, estreia, Marvel'
+author: Ana Luiza
+data: '2025-05-02T16:24:12.068Z'
+resumo: >-
+  O filme 'Thunderbolts' do MCU promete um grande sucesso de bilheteria com US$
+  11 milhões já na pré-estreia, rivalizando com grandes títulos anteriores.
 ---
 
 ## 'Thunderbolts' do MCU Arrasa nas Bilheterias de Pré-Estreia

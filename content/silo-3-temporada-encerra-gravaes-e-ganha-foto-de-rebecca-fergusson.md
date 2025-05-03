@@ -1,14 +1,30 @@
 ---
-title: "Finalizadas as Gravações da 3ª Temporada de 'Silo' na Apple TV+: Rebecca Ferguson em Destaque"
-slug: "silo-3-temporada-encerra-gravaes-e-ganha-foto-de-rebecca-fergusson"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/6kb22wVRvQE1dY9Q3D_e9CDQoAU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_173434.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/6kb22wVRvQE1dY9Q3D_e9CDQoAU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_173434.png"
-tags: ["Silo", "Rebecca Ferguson", "3ª temporada de Silo", "Apple TV+", "Jessica Henwick", "Ashley Zukerman", "séries de ficção científica"]
-keywords: "Silo, Rebecca Ferguson, 3ª temporada de Silo, Apple TV+, Jessica Henwick, Ashley Zukerman, séries de ficção científica"
-author: "Ana Luiza"
-data: "2025-05-02T21:18:51.696Z"
+title: >-
+  Finalizadas as Gravações da 3ª Temporada de 'Silo' na Apple TV+: Rebecca
+  Ferguson em Destaque
+slug: silo-3-temporada-encerra-gravaes-e-ganha-foto-de-rebecca-fergusson
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/6kb22wVRvQE1dY9Q3D_e9CDQoAU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_173434.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/6kb22wVRvQE1dY9Q3D_e9CDQoAU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_173434.png
+tags:
+  - Silo
+  - Rebecca Ferguson
+  - 3ª temporada de Silo
+  - Apple TV+
+  - Jessica Henwick
+  - Ashley Zukerman
+  - séries de ficção científica
+keywords: >-
+  Silo, Rebecca Ferguson, 3ª temporada de Silo, Apple TV+, Jessica Henwick,
+  Ashley Zukerman, séries de ficção científica
+author: Ana Luiza
+data: '2025-05-02T21:18:51.696Z'
+resumo: >-
+  A terceira temporada de 'Silo' concluiu suas filmagens, com a Apple TV+
+  compartilhando uma nova foto de Rebecca Ferguson para celebrar o marco.
 ---
 
 ## 'Silo' se Prepara Para Novos Mistérios em Sua Terceira Temporada

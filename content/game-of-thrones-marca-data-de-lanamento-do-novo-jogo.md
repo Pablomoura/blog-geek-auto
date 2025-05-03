@@ -1,14 +1,30 @@
 ---
-title: "Game of Thrones: Kingsroad Define Data de Lançamento para Maio de 2024"
-slug: "game-of-thrones-marca-data-de-lanamento-do-novo-jogo"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/6nKREX6YeCY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/va8MC9VAWOIHqiFmyuw1wQpFgtc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T105815.806.png"
-tags: ["Game of Thrones", "Kingsroad", "RPG", "lançamento de jogo", "Westeros", "A Casa do Dragão", "PC", "iOS", "Android"]
-keywords: "Game of Thrones, Kingsroad, RPG, lançamento de jogo, Westeros, A Casa do Dragão, PC, iOS, Android"
-author: "Ana Luiza"
-data: "2025-04-30T14:53:37.155Z"
+title: 'Game of Thrones: Kingsroad Define Data de Lançamento para Maio de 2024'
+slug: game-of-thrones-marca-data-de-lanamento-do-novo-jogo
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/6nKREX6YeCY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/va8MC9VAWOIHqiFmyuw1wQpFgtc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T105815.806.png
+tags:
+  - Game of Thrones
+  - Kingsroad
+  - RPG
+  - lançamento de jogo
+  - Westeros
+  - A Casa do Dragão
+  - PC
+  - iOS
+  - Android
+keywords: >-
+  Game of Thrones, Kingsroad, RPG, lançamento de jogo, Westeros, A Casa do
+  Dragão, PC, iOS, Android
+author: Ana Luiza
+data: '2025-04-30T14:53:37.155Z'
+resumo: >-
+  O novo RPG de Game of Thrones, intitulado Kingsroad, será lançado em maio de
+  2024 para PC, iOS e Android, prometendo uma imersão profunda no universo de
+  Westeros.
 ---
 
 ## Game of Thrones: Kingsroad Chega em Maio de 2024

@@ -1,14 +1,33 @@
 ---
-title: "The Old Guard 2: Primeiras Imagens Revelam Retorno Explosivo de Charlize Theron"
-slug: "the-old-guard-2-ganha-primeiras-imagens-com-charlize-theron-de-volta"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/MYt9EmFTzGa5d00nSDyfUC4Rn9Q=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-23T123752.371.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fbxthmLob2ch7zf0zd-lFiGlogU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T123740.322.png"
-tags: ["The Old Guard 2", "Charlize Theron", "Netflix", "filmes de ação", "estreias Netflix", "Victoria Mahoney", "Greg Rucka", "KiKi Layne", "Matthias Schoenaerts"]
-keywords: "The Old Guard 2, Charlize Theron, Netflix, filmes de ação, estreias Netflix, Victoria Mahoney, Greg Rucka, KiKi Layne, Matthias Schoenaerts"
-author: "Ana Luiza"
-data: "2025-04-23T16:25:58.727Z"
+title: >-
+  The Old Guard 2: Primeiras Imagens Revelam Retorno Explosivo de Charlize
+  Theron
+slug: the-old-guard-2-ganha-primeiras-imagens-com-charlize-theron-de-volta
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/MYt9EmFTzGa5d00nSDyfUC4Rn9Q=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-23T123752.371.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fbxthmLob2ch7zf0zd-lFiGlogU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T123740.322.png
+tags:
+  - The Old Guard 2
+  - Charlize Theron
+  - Netflix
+  - filmes de ação
+  - estreias Netflix
+  - Victoria Mahoney
+  - Greg Rucka
+  - KiKi Layne
+  - Matthias Schoenaerts
+keywords: >-
+  The Old Guard 2, Charlize Theron, Netflix, filmes de ação, estreias Netflix,
+  Victoria Mahoney, Greg Rucka, KiKi Layne, Matthias Schoenaerts
+author: Ana Luiza
+data: '2025-04-23T16:25:58.727Z'
+resumo: >-
+  A tão aguardada sequência de 'The Old Guard' traz de volta Charlize Theron em
+  um cenário repleto de novos desafios e personagens, com estreia marcada para 2
+  de julho na Netflix.
 ---
 
 A sequência do sucesso de ação 'The Old Guard' promete elevar ainda mais os níveis de adrenalina com a divulgação de suas primeiras imagens. O filme, que verá o retorno da icônica Charlize Theron como a guerreira Andy, também apresentará novos rostos no elenco.

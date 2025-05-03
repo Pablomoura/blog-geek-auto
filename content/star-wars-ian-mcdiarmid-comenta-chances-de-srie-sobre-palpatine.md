@@ -1,14 +1,29 @@
 ---
-title: "Ian McDiarmid Abre o Jogo Sobre Possível Série de Palpatine em Star Wars"
-slug: "star-wars-ian-mcdiarmid-comenta-chances-de-srie-sobre-palpatine"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/x-a9N9DqvaQjEJs9vMPcmBF89a8=/987x0/smart/uploads/conteudo/fotos/palpatine_WpNB9mu.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/IG5WnwOYd2rMGqgUw9Wrm6UX-Kk=/480x360/smart/extras/conteudos/palpatine.jpg"
-tags: ["Ian McDiarmid", "Palpatine", "Star Wars", "série", "Darth Plagueis", "George Lucas", "Star Wars A Ascensão Skywalker", "Disney+"]
-keywords: "Ian McDiarmid, Palpatine, Star Wars, série, Darth Plagueis, George Lucas, Star Wars A Ascensão Skywalker, Disney+"
-author: "Pablo Moura"
-data: "2025-04-27T14:16:06.504Z"
+title: Ian McDiarmid Abre o Jogo Sobre Possível Série de Palpatine em Star Wars
+slug: star-wars-ian-mcdiarmid-comenta-chances-de-srie-sobre-palpatine
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/x-a9N9DqvaQjEJs9vMPcmBF89a8=/987x0/smart/uploads/conteudo/fotos/palpatine_WpNB9mu.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/IG5WnwOYd2rMGqgUw9Wrm6UX-Kk=/480x360/smart/extras/conteudos/palpatine.jpg
+tags:
+  - Ian McDiarmid
+  - Palpatine
+  - Star Wars
+  - série
+  - Darth Plagueis
+  - George Lucas
+  - Star Wars A Ascensão Skywalker
+  - Disney+
+keywords: >-
+  Ian McDiarmid, Palpatine, Star Wars, série, Darth Plagueis, George Lucas, Star
+  Wars A Ascensão Skywalker, Disney+
+author: Pablo Moura
+data: '2025-04-27T14:16:06.504Z'
+resumo: >-
+  Ian McDiarmid, o icônico Palpatine de Star Wars, discute a probabilidade de
+  uma série centrada no vilão e revela o pouco que sabe sobre o projeto.
 ---
 
 ## Ian McDiarmid e o Futuro de Palpatine em Star Wars

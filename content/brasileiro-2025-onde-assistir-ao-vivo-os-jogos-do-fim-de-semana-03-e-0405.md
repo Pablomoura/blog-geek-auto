@@ -1,14 +1,29 @@
 ---
-title: "Brasileirão 2025: Confira a Programação dos Jogos do Próximo Fim de Semana"
-slug: "brasileiro-2025-onde-assistir-ao-vivo-os-jogos-do-fim-de-semana-03-e-0405"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/pVXZIZmzvDlvSY3gLtYC3KwUiM4=/987x0/smart/uploads/conteudo/fotos/gustavo-gomez-onde-assistir-brasileiro.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/eufaHA2Ply1aWtJ_ix1K0YcAjh4=/480x360/smart/extras/conteudos/gustavo-gomez-onde-assistir-brasileiro-peq.jpg"
-tags: ["Brasileirão 2025", "jogos ao vivo", "campeonato brasileiro", "onde assistir", "Premiere", "Globo", "Prime Video", "Record"]
-keywords: "Brasileirão 2025, jogos ao vivo, campeonato brasileiro, onde assistir, Premiere, Globo, Prime Video, Record"
-author: "Ana Luiza"
-data: "2025-05-03T11:15:13.474Z"
+title: 'Brasileirão 2025: Confira a Programação dos Jogos do Próximo Fim de Semana'
+slug: brasileiro-2025-onde-assistir-ao-vivo-os-jogos-do-fim-de-semana-03-e-0405
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/pVXZIZmzvDlvSY3gLtYC3KwUiM4=/987x0/smart/uploads/conteudo/fotos/gustavo-gomez-onde-assistir-brasileiro.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/eufaHA2Ply1aWtJ_ix1K0YcAjh4=/480x360/smart/extras/conteudos/gustavo-gomez-onde-assistir-brasileiro-peq.jpg
+tags:
+  - Brasileirão 2025
+  - jogos ao vivo
+  - campeonato brasileiro
+  - onde assistir
+  - Premiere
+  - Globo
+  - Prime Video
+  - Record
+keywords: >-
+  Brasileirão 2025, jogos ao vivo, campeonato brasileiro, onde assistir,
+  Premiere, Globo, Prime Video, Record
+author: Ana Luiza
+data: '2025-05-03T11:15:13.474Z'
+resumo: >-
+  Descubra onde assistir aos emocionantes jogos da sétima rodada do Campeonato
+  Brasileiro de 2025, que acontecerão nos dias 3 e 4 de maio.
 ---
 
 

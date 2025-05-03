@@ -1,14 +1,26 @@
 ---
-title: "Premonição 6 Revela Morte Inusitada em Novo Trailer"
-slug: "premonio-6-nova-morte-criativa-do-filme-revelada-em-trailer"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/AVMU3UIceVrXojK8l8f-mfUrYkM=/987x0/smart/uploads/conteudo/fotos/premonicao6.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/gMJa11MC49JvqHw-OfnVNpTtcHo=/480x360/smart/extras/conteudos/premonicao6.jpg"
-tags: ["Premonição 6", "novo trailer Premonição", "mortes criativas", "franquia Premonição", "cinema"]
-keywords: "Premonição 6, novo trailer Premonição, mortes criativas, franquia Premonição, cinema"
-author: "Pablo Moura"
-data: "2025-04-26T17:15:30.544Z"
+title: Premonição 6 Revela Morte Inusitada em Novo Trailer
+slug: premonio-6-nova-morte-criativa-do-filme-revelada-em-trailer
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/AVMU3UIceVrXojK8l8f-mfUrYkM=/987x0/smart/uploads/conteudo/fotos/premonicao6.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/gMJa11MC49JvqHw-OfnVNpTtcHo=/480x360/smart/extras/conteudos/premonicao6.jpg
+tags:
+  - Premonição 6
+  - novo trailer Premonição
+  - mortes criativas
+  - franquia Premonição
+  - cinema
+keywords: >-
+  Premonição 6, novo trailer Premonição, mortes criativas, franquia Premonição,
+  cinema
+author: Pablo Moura
+data: '2025-04-26T17:15:30.544Z'
+resumo: >-
+  A nova sequência de Premonição promete elevar a tensão com mortes ainda mais
+  criativas, conforme mostrado no último trailer.
 ---
 
 ## Novo Trailer Surpreende Fãs de Premonição

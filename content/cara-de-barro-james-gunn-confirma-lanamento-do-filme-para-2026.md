@@ -1,14 +1,31 @@
 ---
-title: "Cara-de-Barro Ganhará Filme Solo em 2026 Sob Direção de James Watkins"
-slug: "cara-de-barro-james-gunn-confirma-lanamento-do-filme-para-2026"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/fQo-L6jVNokOgekTyQvo8gc7mYE=/987x0/smart/uploads/conteudo/fotos/caradebarro_sbALnlq.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/biyRThQ5ELh9zYaUx8bmmCe62X8=/480x360/smart/extras/conteudos/caradebarro_zOtaZw3.jpg"
-tags: ["Cara-de-Barro", "filme 2026", "James Gunn", "DC Studios", "Gotham City", "James Watkins", "Mike Flanagan", "DCU", "filme de terror"]
-keywords: "Cara-de-Barro, filme 2026, James Gunn, DC Studios, Gotham City, James Watkins, Mike Flanagan, DCU, filme de terror"
-author: "Ana Luiza"
-data: "2025-05-03T16:22:19.747Z"
+title: Cara-de-Barro Ganhará Filme Solo em 2026 Sob Direção de James Watkins
+slug: cara-de-barro-james-gunn-confirma-lanamento-do-filme-para-2026
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/fQo-L6jVNokOgekTyQvo8gc7mYE=/987x0/smart/uploads/conteudo/fotos/caradebarro_sbALnlq.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/biyRThQ5ELh9zYaUx8bmmCe62X8=/480x360/smart/extras/conteudos/caradebarro_zOtaZw3.jpg
+tags:
+  - Cara-de-Barro
+  - filme 2026
+  - James Gunn
+  - DC Studios
+  - Gotham City
+  - James Watkins
+  - Mike Flanagan
+  - DCU
+  - filme de terror
+keywords: >-
+  Cara-de-Barro, filme 2026, James Gunn, DC Studios, Gotham City, James Watkins,
+  Mike Flanagan, DCU, filme de terror
+author: Ana Luiza
+data: '2025-05-03T16:22:19.747Z'
+resumo: >-
+  James Gunn anuncia que o icônico vilão da DC, Cara-de-Barro, será o
+  protagonista de um filme que promete renovar o gênero de terror e tragédia em
+  Gotham City.
 ---
 
 ## James Gunn Reafirma Estreia de Filme do Cara-de-Barro para 2026

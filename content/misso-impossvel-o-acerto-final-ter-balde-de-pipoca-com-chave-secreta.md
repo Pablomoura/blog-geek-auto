@@ -1,14 +1,26 @@
 ---
-title: "Missão: Impossível - O Acerto Final Surpreende com Balde de Pipoca Inovador"
-slug: "misso-impossvel-o-acerto-final-ter-balde-de-pipoca-com-chave-secreta"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/LLcsjM7Egb4LMOE_Go-askWfIVY=/987x0/smart/uploads/conteudo/fotos/tom-cruise-missao-impossivel-8_y68O8C4.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/JMgLw9JIYQT6Cr73PF_VvE_qJAs=/480x360/smart/extras/conteudos/missao-impossivel-8_IrCASya.png"
-tags: ["Missão Impossível O Acerto Final", "Tom Cruise", "balde de pipoca", "filme de ação", "Christopher McQuarrie"]
-keywords: "Missão Impossível O Acerto Final, Tom Cruise, balde de pipoca, filme de ação, Christopher McQuarrie"
-author: "Ana Luiza"
-data: "2025-05-01T19:16:30.514Z"
+title: 'Missão: Impossível - O Acerto Final Surpreende com Balde de Pipoca Inovador'
+slug: misso-impossvel-o-acerto-final-ter-balde-de-pipoca-com-chave-secreta
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/LLcsjM7Egb4LMOE_Go-askWfIVY=/987x0/smart/uploads/conteudo/fotos/tom-cruise-missao-impossivel-8_y68O8C4.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/JMgLw9JIYQT6Cr73PF_VvE_qJAs=/480x360/smart/extras/conteudos/missao-impossivel-8_IrCASya.png
+tags:
+  - Missão Impossível O Acerto Final
+  - Tom Cruise
+  - balde de pipoca
+  - filme de ação
+  - Christopher McQuarrie
+keywords: >-
+  Missão Impossível O Acerto Final, Tom Cruise, balde de pipoca, filme de ação,
+  Christopher McQuarrie
+author: Ana Luiza
+data: '2025-05-01T19:16:30.514Z'
+resumo: >-
+  O último filme da saga de Ethan Hunt, previsto para estrear em 22 de maio,
+  promete uma experiência única com balde de pipoca temático e trancado.
 ---
 
 ## Uma Despedida Épica para Ethan Hunt

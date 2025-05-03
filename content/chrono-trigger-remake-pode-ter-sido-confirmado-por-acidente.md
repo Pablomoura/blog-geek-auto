@@ -1,14 +1,24 @@
 ---
-title: "Chrono Trigger Remake: Revelação Acidental por Yuji Horii Incendeia Rumores"
-slug: "chrono-trigger-remake-pode-ter-sido-confirmado-por-acidente"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/LYJEahBlPRM?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/jnsTMAC0WMcis6XZh9praK_nYvI=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_160115.png"
-tags: ["Chrono Trigger", "remake", "Yuji Horii", "Square Enix", "RPG", "Super Nintendo"]
-keywords: "Chrono Trigger, remake, Yuji Horii, Square Enix, RPG, Super Nintendo"
-author: "Luana Souza"
-data: "2025-05-02T20:22:28.545Z"
+title: 'Chrono Trigger Remake: Revelação Acidental por Yuji Horii Incendeia Rumores'
+slug: chrono-trigger-remake-pode-ter-sido-confirmado-por-acidente
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/LYJEahBlPRM?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/jnsTMAC0WMcis6XZh9praK_nYvI=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_160115.png
+tags:
+  - Chrono Trigger
+  - remake
+  - Yuji Horii
+  - Square Enix
+  - RPG
+  - Super Nintendo
+keywords: 'Chrono Trigger, remake, Yuji Horii, Square Enix, RPG, Super Nintendo'
+author: Luana Souza
+data: '2025-05-02T20:22:28.545Z'
+resumo: >-
+  Um possível deslize de Yuji Horii durante um evento pode ter confirmado o tão
+  esperado remake de Chrono Trigger, embora a Square Enix mantenha o silêncio.
 ---
 
 ## Possível Confirmação do Remake de Chrono Trigger

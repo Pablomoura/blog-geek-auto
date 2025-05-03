@@ -1,14 +1,32 @@
 ---
-title: "Adeus a um Ícone: Papa Francisco, Primeiro Pontífice Latino-Americano, Falece aos 88 Anos"
-slug: "morre-francisco-primeiro-papa-latino-americano-aos-88-anos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/cOXHKpjN9dlKIsxX1oquPnMXMUw=/987x0/smart/uploads/conteudo/fotos/papa-francisco-morre-aos-88-anos.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hMwV2VVbM4WhmQY-I4Xa7OxwpQY=/480x360/smart/extras/conteudos/papa-francisco_bk0kLnt.jpg"
-tags: ["Papa Francisco", "Jorge Mario Bergoglio", "Igreja Católica", "Dois Papas", "Fernando Meirelles", "Oscar", "Bento XVI", "Vaticano"]
-keywords: "Papa Francisco, Jorge Mario Bergoglio, Igreja Católica, Dois Papas, Fernando Meirelles, Oscar, Bento XVI, Vaticano"
-author: "Luana Souza"
-data: "2025-04-21T11:15:57.281Z"
+title: >-
+  Adeus a um Ícone: Papa Francisco, Primeiro Pontífice Latino-Americano, Falece
+  aos 88 Anos
+slug: morre-francisco-primeiro-papa-latino-americano-aos-88-anos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/cOXHKpjN9dlKIsxX1oquPnMXMUw=/987x0/smart/uploads/conteudo/fotos/papa-francisco-morre-aos-88-anos.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hMwV2VVbM4WhmQY-I4Xa7OxwpQY=/480x360/smart/extras/conteudos/papa-francisco_bk0kLnt.jpg
+tags:
+  - Papa Francisco
+  - Jorge Mario Bergoglio
+  - Igreja Católica
+  - Dois Papas
+  - Fernando Meirelles
+  - Oscar
+  - Bento XVI
+  - Vaticano
+keywords: >-
+  Papa Francisco, Jorge Mario Bergoglio, Igreja Católica, Dois Papas, Fernando
+  Meirelles, Oscar, Bento XVI, Vaticano
+author: Luana Souza
+data: '2025-04-21T11:15:57.281Z'
+resumo: >-
+  Papa Francisco, o primeiro líder latino-americano da Igreja Católica, morre
+  aos 88 anos após complicações de saúde. Sua trajetória foi eternizada no
+  cinema em 'Dois Papas'.
 ---
 
 Na última segunda-feira, dia 21, o mundo perdeu Jorge Mario Bergoglio, mais conhecido como Papa Francisco, aos 88 anos. Nascido em Buenos Aires em 17 de dezembro de 1936, ele marcou a história como o primeiro pontífice latino-americano da Igreja Católica, desde sua eleição em 13 de março de 2013, sucedendo Bento XVI.

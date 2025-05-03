@@ -1,14 +1,27 @@
 ---
-title: "Controvérsia no Oscar: Votantes Admitem Não Assistir aos Filmes Indicados"
-slug: "oscar-votantes-estariam-fingindo-assistir-filmes-indicados"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/zwfobIC1SwfGKO1VF9x06GU7XH8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-29T213458.626.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/v59LRH8gUoYQp8vbssKwAJ4bCBU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T213458.626.png"
-tags: ["Oscar", "Academia de Artes e Ciências Cinematográficas", "filmes indicados", "votação no Oscar", "regras do Oscar"]
-keywords: "Oscar, Academia de Artes e Ciências Cinematográficas, filmes indicados, votação no Oscar, regras do Oscar"
-author: "Ana Luiza"
-data: "2025-04-30T01:23:58.878Z"
+title: 'Controvérsia no Oscar: Votantes Admitem Não Assistir aos Filmes Indicados'
+slug: oscar-votantes-estariam-fingindo-assistir-filmes-indicados
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/zwfobIC1SwfGKO1VF9x06GU7XH8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-29T213458.626.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/v59LRH8gUoYQp8vbssKwAJ4bCBU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T213458.626.png
+tags:
+  - Oscar
+  - Academia de Artes e Ciências Cinematográficas
+  - filmes indicados
+  - votação no Oscar
+  - regras do Oscar
+keywords: >-
+  Oscar, Academia de Artes e Ciências Cinematográficas, filmes indicados,
+  votação no Oscar, regras do Oscar
+author: Ana Luiza
+data: '2025-04-30T01:23:58.878Z'
+resumo: >-
+  Revelações chocantes apontam que alguns membros da Academia não assistem aos
+  filmes indicados ao Oscar, apesar das novas regras que exigem visualização
+  completa.
 ---
 
 ## Novas Regras do Oscar: Obrigação de Assistir aos Filmes Indicados

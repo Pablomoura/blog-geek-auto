@@ -1,14 +1,33 @@
 ---
-title: "Dave Franco e Alison Brie enfrentam o sobrenatural em 'Juntos', que estreia em agosto nos cinemas brasileiros"
-slug: "juntos-terror-com-dave-franco-e-alison-brie-ganha-pster-exclusivo"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/gtPEPqgvVTcG3_eJInQfG_X145w=/987x0/smart/uploads/conteudo/fotos/491447074_18520958266032660_8990652554144217317_n.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Hq9pxP0175cthgI3soFxRhw3joM=/480x360/smart/extras/conteudos/491447074_18520958266032660_8990652554144217317_n.jpg"
-tags: ["Juntos filme", "Dave Franco", "Alison Brie", "cinema brasileiro", "Diamond Filmes", "terror comédia", "estreia agosto", "Michael Shanks", "Damon Herriman"]
-keywords: "Juntos filme, Dave Franco, Alison Brie, cinema brasileiro, Diamond Filmes, terror comédia, estreia agosto, Michael Shanks, Damon Herriman"
-author: "Ana Luiza"
-data: "2025-04-30T20:22:34.152Z"
+title: >-
+  Dave Franco e Alison Brie enfrentam o sobrenatural em 'Juntos', que estreia em
+  agosto nos cinemas brasileiros
+slug: juntos-terror-com-dave-franco-e-alison-brie-ganha-pster-exclusivo
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/gtPEPqgvVTcG3_eJInQfG_X145w=/987x0/smart/uploads/conteudo/fotos/491447074_18520958266032660_8990652554144217317_n.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Hq9pxP0175cthgI3soFxRhw3joM=/480x360/smart/extras/conteudos/491447074_18520958266032660_8990652554144217317_n.jpg
+tags:
+  - Juntos filme
+  - Dave Franco
+  - Alison Brie
+  - cinema brasileiro
+  - Diamond Filmes
+  - terror comédia
+  - estreia agosto
+  - Michael Shanks
+  - Damon Herriman
+keywords: >-
+  Juntos filme, Dave Franco, Alison Brie, cinema brasileiro, Diamond Filmes,
+  terror comédia, estreia agosto, Michael Shanks, Damon Herriman
+author: Ana Luiza
+data: '2025-04-30T20:22:34.152Z'
+resumo: >-
+  O filme 'Juntos', estrelado pelo casal real Dave Franco e Alison Brie, promete
+  misturar horror e comédia em uma trama envolvendo forças místicas. A estreia
+  está prevista para agosto, com distribuição da Diamond Filmes.
 ---
 
 ## 'Juntos': Uma Mistura de Horror e Comédia com Dave Franco e Alison Brie

@@ -1,14 +1,32 @@
 ---
-title: "Predador: Badlands Anuncia Trailer Inédito – Uma Nova Era Futurista para a Franquia"
-slug: "predador-badlands-novo-filme-da-saga-ganha-primeiro-trailer-assista"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/oFkbsEKaoSE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/9pHcbD2COP9VE0laoo-rVoeeRAI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T131253.966.png"
-tags: ["Predador: Badlands", "trailer", "filme", "franquia Predador", "Elle Fanning", "ficção científica", "alienígenas", "futuro próximo", "estreia 2025"]
-keywords: "Predador: Badlands, trailer, filme, franquia Predador, Elle Fanning, ficção científica, alienígenas, futuro próximo, estreia 2025"
-author: "Ana Luiza"
-data: "2025-04-23T16:24:05.755Z"
+title: >-
+  Predador: Badlands Anuncia Trailer Inédito – Uma Nova Era Futurista para a
+  Franquia
+slug: predador-badlands-novo-filme-da-saga-ganha-primeiro-trailer-assista
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/oFkbsEKaoSE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/9pHcbD2COP9VE0laoo-rVoeeRAI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T131253.966.png
+tags:
+  - 'Predador: Badlands'
+  - trailer
+  - filme
+  - franquia Predador
+  - Elle Fanning
+  - ficção científica
+  - alienígenas
+  - futuro próximo
+  - estreia 2025
+keywords: >-
+  Predador: Badlands, trailer, filme, franquia Predador, Elle Fanning, ficção
+  científica, alienígenas, futuro próximo, estreia 2025
+author: Ana Luiza
+data: '2025-04-23T16:24:05.755Z'
+resumo: >-
+  O aguardado filme 'Predador: Badlands' estreará em novembro de 2025,
+  prometendo uma abordagem futurista e intensa para a clássica série de ficção
+  científica.
 ---
 
 A saga 'Predador', que começou em 1987, acaba de expandir seu universo com o lançamento do primeiro trailer de 'Predador: Badlands'. Este novo capítulo da série é marcado por uma narrativa que se desenrola em um futuro próximo, distanciando-se das ambientações mais tradicionais da franquia.

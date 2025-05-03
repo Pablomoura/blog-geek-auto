@@ -1,14 +1,33 @@
 ---
-title: "Virada Surpreendente: 'Ainda Estou Aqui' Retorna à Competição no Prêmio Grande Otelo 2025"
-slug: "ainda-estou-aqui-academia-brasileira-volta-atrs-e-filme-competir-por-prmio"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/c7QsJqxhE1aiaZbZGnCZEnEVh3M=/987x0/smart/uploads/conteudo/fotos/01_URks7Ab.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/D5ckbUj2F3o9BmkLzGWbRk6Cj20=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-23_160434.png"
-tags: ["Ainda Estou Aqui", "Prêmio Grande Otelo 2025", "cinema brasileiro", "Walter Salles", "Fernanda Torres", "Oscar de Melhor Filme Internacional", "Academia Brasileira de Cinema", "hors concours"]
-keywords: "Ainda Estou Aqui, Prêmio Grande Otelo 2025, cinema brasileiro, Walter Salles, Fernanda Torres, Oscar de Melhor Filme Internacional, Academia Brasileira de Cinema, hors concours"
-author: "Ana Luiza"
-data: "2025-04-23T19:15:52.002Z"
+title: >-
+  Virada Surpreendente: 'Ainda Estou Aqui' Retorna à Competição no Prêmio Grande
+  Otelo 2025
+slug: ainda-estou-aqui-academia-brasileira-volta-atrs-e-filme-competir-por-prmio
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/c7QsJqxhE1aiaZbZGnCZEnEVh3M=/987x0/smart/uploads/conteudo/fotos/01_URks7Ab.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/D5ckbUj2F3o9BmkLzGWbRk6Cj20=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-23_160434.png
+tags:
+  - Ainda Estou Aqui
+  - Prêmio Grande Otelo 2025
+  - cinema brasileiro
+  - Walter Salles
+  - Fernanda Torres
+  - Oscar de Melhor Filme Internacional
+  - Academia Brasileira de Cinema
+  - hors concours
+keywords: >-
+  Ainda Estou Aqui, Prêmio Grande Otelo 2025, cinema brasileiro, Walter Salles,
+  Fernanda Torres, Oscar de Melhor Filme Internacional, Academia Brasileira de
+  Cinema, hors concours
+author: Ana Luiza
+data: '2025-04-23T19:15:52.002Z'
+resumo: >-
+  Após uma reviravolta, o aclamado filme 'Ainda Estou Aqui', dirigido por Walter
+  Salles, volta a competir no Prêmio Grande Otelo 2025, apesar de ter sido
+  inicialmente considerado 'hors concours'.
 ---
 
 Em uma reviravolta notável na indústria cinematográfica brasileira, o filme 'Ainda Estou Aqui' foi reintegrado como concorrente ao Prêmio Grande Otelo 2025. A Academia Brasileira de Cinema havia anteriormente designado o filme como 'hors concours', uma honraria dada a obras que se destacam por sua superioridade. No entanto, após descontentamento do público e dos críticos, a decisão foi reconsiderada.

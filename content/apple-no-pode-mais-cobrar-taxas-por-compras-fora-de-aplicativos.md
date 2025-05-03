@@ -1,14 +1,31 @@
 ---
-title: "Apple Perde Batalha Judicial: Não Pode Mais Cobrar Taxas em Compras Fora de Apps"
-slug: "apple-no-pode-mais-cobrar-taxas-por-compras-fora-de-aplicativos"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/nskLSpbw4cs?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/-BKI91p7j9jHmPEg3d9UB4w9x1U=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T215716.291.png"
-tags: ["Apple", "Epic Games", "Fortnite", "Yvonne Gonzalez Rogers", "App Store", "compras fora de aplicativos", "taxas", "mercado de apps", "jogos"]
-keywords: "Apple, Epic Games, Fortnite, Yvonne Gonzalez Rogers, App Store, compras fora de aplicativos, taxas, mercado de apps, jogos"
-author: "Pablo Moura"
-data: "2025-05-01T01:39:36.114Z"
+title: >-
+  Apple Perde Batalha Judicial: Não Pode Mais Cobrar Taxas em Compras Fora de
+  Apps
+slug: apple-no-pode-mais-cobrar-taxas-por-compras-fora-de-aplicativos
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/nskLSpbw4cs?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/-BKI91p7j9jHmPEg3d9UB4w9x1U=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T215716.291.png
+tags:
+  - Apple
+  - Epic Games
+  - Fortnite
+  - Yvonne Gonzalez Rogers
+  - App Store
+  - compras fora de aplicativos
+  - taxas
+  - mercado de apps
+  - jogos
+keywords: >-
+  Apple, Epic Games, Fortnite, Yvonne Gonzalez Rogers, App Store, compras fora
+  de aplicativos, taxas, mercado de apps, jogos
+author: Pablo Moura
+data: '2025-05-01T01:39:36.114Z'
+resumo: >-
+  Juíza decide que Apple não pode impor taxas sobre compras externas aos
+  aplicativos, marcando uma vitória significativa para a Epic Games.
 ---
 
 ## Decisão Judicial Reshape o Mercado de Apps

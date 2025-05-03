@@ -1,14 +1,34 @@
 ---
-title: "Pinóquio: Unstringing chega aos cinemas brasileiros em outubro como parte do sombrio Poohniverse"
-slug: "pinquio-slasher-macabro-do-poohniverse-ganha-data-no-brasil"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/pSqZSHobK9thD_vtvcy8jRi0hfM=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T191023.673.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/T403bN5fL2FlSNh0hEmOKK58aNs=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T191023.673.png"
-tags: ["Pinóquio Unstringing", "Poohniverse", "cinema brasileiro", "slasher", "filmes de terror", "Rhys Frake-Waterfield", "Neverland Nightmare", "Bambi The Reckoning", "Blood and Honey"]
-keywords: "Pinóquio Unstringing, Poohniverse, cinema brasileiro, slasher, filmes de terror, Rhys Frake-Waterfield, Neverland Nightmare, Bambi The Reckoning, Blood and Honey"
-author: "Pablo Moura"
-data: "2025-04-28T22:18:53.984Z"
+title: >-
+  Pinóquio: Unstringing chega aos cinemas brasileiros em outubro como parte do
+  sombrio Poohniverse
+slug: pinquio-slasher-macabro-do-poohniverse-ganha-data-no-brasil
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/pSqZSHobK9thD_vtvcy8jRi0hfM=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T191023.673.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/T403bN5fL2FlSNh0hEmOKK58aNs=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T191023.673.png
+tags:
+  - Pinóquio Unstringing
+  - Poohniverse
+  - cinema brasileiro
+  - slasher
+  - filmes de terror
+  - Rhys Frake-Waterfield
+  - Neverland Nightmare
+  - Bambi The Reckoning
+  - Blood and Honey
+keywords: >-
+  Pinóquio Unstringing, Poohniverse, cinema brasileiro, slasher, filmes de
+  terror, Rhys Frake-Waterfield, Neverland Nightmare, Bambi The Reckoning, Blood
+  and Honey
+author: Pablo Moura
+data: '2025-04-28T22:18:53.984Z'
+resumo: >-
+  O aguardado slasher Pinóquio: Unstringing, parte do aterrorizante Poohniverse,
+  estreará em 23 de outubro no Brasil, prometendo expandir ainda mais este
+  universo com um orçamento robusto.
 ---
 
 ## Pinóquio: Unstringing — Uma Nova Face do Terror

@@ -1,14 +1,28 @@
 ---
-title: "Conclave: O Drama dos Bastidores do Vaticano Retorna aos Cinemas Brasileiros"
-slug: "conclave-volta-aos-cinemas-brasileiros-aps-morte-do-papa"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/j6I1N8O89kgHtsqDgvRDvRbqeTU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-24T121829.228.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/_p1e--15ytgiByPartIl3WDq_rA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T121815.023.png"
-tags: ["Conclave filme", "morte do Papa Francisco", "cinemas brasileiros", "drama Vaticano", "Ralph Fiennes", "reestreia filme"]
-keywords: "Conclave filme, morte do Papa Francisco, cinemas brasileiros, drama Vaticano, Ralph Fiennes, reestreia filme"
-author: "Pablo Moura"
-data: "2025-04-24T15:20:54.430Z"
+title: 'Conclave: O Drama dos Bastidores do Vaticano Retorna aos Cinemas Brasileiros'
+slug: conclave-volta-aos-cinemas-brasileiros-aps-morte-do-papa
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/j6I1N8O89kgHtsqDgvRDvRbqeTU=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-24T121829.228.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/_p1e--15ytgiByPartIl3WDq_rA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T121815.023.png
+tags:
+  - Conclave filme
+  - morte do Papa Francisco
+  - cinemas brasileiros
+  - drama Vaticano
+  - Ralph Fiennes
+  - reestreia filme
+keywords: >-
+  Conclave filme, morte do Papa Francisco, cinemas brasileiros, drama Vaticano,
+  Ralph Fiennes, reestreia filme
+author: Pablo Moura
+data: '2025-04-24T15:20:54.430Z'
+resumo: >-
+  Após a morte do Papa Francisco, o aclamado filme 'Conclave' retorna às telonas
+  brasileiras nesta quinta-feira, prometendo intrigas e disputas pelo poder
+  eclesiástico.
 ---
 
 Indicado a oito Oscars, 'Conclave' captura a atenção do público novamente, reestreiando nos cinemas brasileiros nesta quinta-feira (24), após o falecimento de Papa Francisco. Distribuído pela Diamond Films, o filme estará disponível em cerca de 40 cidades pelo Brasil, replicando o sucesso de sua primeira exibição em 2024, onde atraiu mais de 700 mil espectadores.

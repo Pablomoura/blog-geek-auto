@@ -1,14 +1,30 @@
 ---
-title: "Bethesda Anuncia Remasterização de The Elder Scrolls IV: Oblivion e Novidades em Elder Scrolls Online"
-slug: "the-elder-scrolls-iv-oblivion-remastered-oficializado-pela-bethesda"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/kka1u8aKZD9XRxtKITKYCnr8iy4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-21T124948.895.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/gkHjKefMBMNymMoJhpXdp8sXwsY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T124738.983.png"
-tags: ["The Elder Scrolls IV: Oblivion remasterizado", "Bethesda", "Elder Scrolls Online", "2025 Content Pass", "jogo de RPG", "atualizações de jogo"]
-keywords: "The Elder Scrolls IV: Oblivion remasterizado, Bethesda, Elder Scrolls Online, 2025 Content Pass, jogo de RPG, atualizações de jogo"
-author: "Ana Luiza"
-data: "2025-04-21T16:25:23.122Z"
+title: >-
+  Bethesda Anuncia Remasterização de The Elder Scrolls IV: Oblivion e Novidades
+  em Elder Scrolls Online
+slug: the-elder-scrolls-iv-oblivion-remastered-oficializado-pela-bethesda
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/kka1u8aKZD9XRxtKITKYCnr8iy4=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-21T124948.895.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/gkHjKefMBMNymMoJhpXdp8sXwsY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T124738.983.png
+tags:
+  - 'The Elder Scrolls IV: Oblivion remasterizado'
+  - Bethesda
+  - Elder Scrolls Online
+  - 2025 Content Pass
+  - jogo de RPG
+  - atualizações de jogo
+keywords: >-
+  The Elder Scrolls IV: Oblivion remasterizado, Bethesda, Elder Scrolls Online,
+  2025 Content Pass, jogo de RPG, atualizações de jogo
+author: Ana Luiza
+data: '2025-04-21T16:25:23.122Z'
+resumo: >-
+  Bethesda oficializa a remasterização de The Elder Scrolls IV: Oblivion com
+  detalhes a serem revelados em breve, e anuncia atualizações significativas
+  para Elder Scrolls Online em 2025.
 ---
 
 A espera acabou para os fãs de The Elder Scrolls IV: Oblivion. Bethesda Game Studios finalmente confirmou a remasterização deste clássico RPG, com a promessa de revelar mais detalhes, incluindo a data de lançamento, nesta terça-feira (22). A expectativa é alta, considerando a popularidade duradoura da série Elder Scrolls. 

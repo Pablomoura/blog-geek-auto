@@ -1,14 +1,32 @@
 ---
-title: "The Mandalorian & Grogu: Primeiro Olhar em Pedro Pascal no Novo Filme Star Wars"
-slug: "the-mandalorian-grogu-visual-de-pedro-pascal-no-filme-revelado-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/M3inXc9aj2GSTjxiRlo3UoPczZ4=/987x0/smart/uploads/conteudo/fotos/mandalorian_pm9y59A.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/LfCaETSqx5-yZPC5ljLs1tp8nv0=/480x360/smart/extras/conteudos/mandalorian_D7nDrBA.jpg"
-tags: ["The Mandalorian & Grogu", "Pedro Pascal", "Star Wars", "novo filme Star Wars", "Disney", "LucasFilm", "Jon Favreau", "estreia 2026", "Disney+"]
-keywords: "The Mandalorian & Grogu, Pedro Pascal, Star Wars, novo filme Star Wars, Disney, LucasFilm, Jon Favreau, estreia 2026, Disney+"
-author: "Pablo Moura"
-data: "2025-04-19T16:17:57.335Z"
+title: >-
+  The Mandalorian & Grogu: Primeiro Olhar em Pedro Pascal no Novo Filme Star
+  Wars
+slug: the-mandalorian-grogu-visual-de-pedro-pascal-no-filme-revelado-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/M3inXc9aj2GSTjxiRlo3UoPczZ4=/987x0/smart/uploads/conteudo/fotos/mandalorian_pm9y59A.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/LfCaETSqx5-yZPC5ljLs1tp8nv0=/480x360/smart/extras/conteudos/mandalorian_D7nDrBA.jpg
+tags:
+  - The Mandalorian & Grogu
+  - Pedro Pascal
+  - Star Wars
+  - novo filme Star Wars
+  - Disney
+  - LucasFilm
+  - Jon Favreau
+  - estreia 2026
+  - Disney+
+keywords: >-
+  The Mandalorian & Grogu, Pedro Pascal, Star Wars, novo filme Star Wars,
+  Disney, LucasFilm, Jon Favreau, estreia 2026, Disney+
+author: Pablo Moura
+data: '2025-04-19T16:17:57.335Z'
+resumo: >-
+  O aguardado filme Star Wars, The Mandalorian & Grogu, estreia em maio de 2026
+  e traz Pedro Pascal em destaque.
 ---
 
 A empolgação dos fãs de Star Wars atingiu novos patamares esta semana quando a Disney revelou a primeira imagem de Pedro Pascal como Djin Djarin no vindouro filme The Mandalorian & Grogu. A revelação ocorreu durante a Star Wars Celebration no Japão, especificamente na última quinta-feira. A foto exibida mostra Pascal trajando a armadura do protagonista, prometendo continuar o legado icônico do personagem.

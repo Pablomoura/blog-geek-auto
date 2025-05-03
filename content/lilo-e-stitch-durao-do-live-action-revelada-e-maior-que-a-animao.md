@@ -1,14 +1,29 @@
 ---
-title: "Live-Action de Lilo & Stitch: Mais Longo e Com Estreia nos Cinemas em Maio"
-slug: "lilo-e-stitch-durao-do-live-action-revelada-e-maior-que-a-animao"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/K1RekiNZv4ZSgnPkJFo21fDSGJE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T115520.288.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/tD2s17ZC40jtB8mFADxxmuh8M6Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T115501.680.png"
-tags: ["Lilo & Stitch", "live-action", "Disney", "cinema", "Dean Fleischer Camp", "Chris Sanders", "Sydney Agudong", "estreia 2025"]
-keywords: "Lilo & Stitch, live-action, Disney, cinema, Dean Fleischer Camp, Chris Sanders, Sydney Agudong, estreia 2025"
-author: "Luana Souza"
-data: "2025-04-25T15:19:53.267Z"
+title: 'Live-Action de Lilo & Stitch: Mais Longo e Com Estreia nos Cinemas em Maio'
+slug: lilo-e-stitch-durao-do-live-action-revelada-e-maior-que-a-animao
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/K1RekiNZv4ZSgnPkJFo21fDSGJE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T115520.288.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/tD2s17ZC40jtB8mFADxxmuh8M6Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T115501.680.png
+tags:
+  - Lilo & Stitch
+  - live-action
+  - Disney
+  - cinema
+  - Dean Fleischer Camp
+  - Chris Sanders
+  - Sydney Agudong
+  - estreia 2025
+keywords: >-
+  Lilo & Stitch, live-action, Disney, cinema, Dean Fleischer Camp, Chris
+  Sanders, Sydney Agudong, estreia 2025
+author: Luana Souza
+data: '2025-04-25T15:19:53.267Z'
+resumo: >-
+  O novo live-action de Lilo & Stitch promete encantar com uma duração maior que
+  a animação original e uma estreia grandiosa nos cinemas em maio de 2025.
 ---
 
 ## Detalhes Revelados do Live-Action de Lilo & Stitch

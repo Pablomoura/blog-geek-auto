@@ -1,14 +1,29 @@
 ---
-title: "Thunderbolts: Diretor Revela a Ausência do Homem-Coisa no Elenco do Filme"
-slug: "thunderbolts-diretor-revela-qual-personagem-ficou-fora-do-filme"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/JCIUWmzevnk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/ct-gCDVYB21C0y9cGs6MvAi9NGs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_175142.png"
-tags: ["Thunderbolts", "Jake Schreier", "MCU", "Homem-Coisa", "Marvel", "anti-heróis", "cinema", "filmes de super-heróis"]
-keywords: "Thunderbolts, Jake Schreier, MCU, Homem-Coisa, Marvel, anti-heróis, cinema, filmes de super-heróis"
-author: "Pablo Moura"
-data: "2025-04-21T21:18:43.939Z"
+title: 'Thunderbolts: Diretor Revela a Ausência do Homem-Coisa no Elenco do Filme'
+slug: thunderbolts-diretor-revela-qual-personagem-ficou-fora-do-filme
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/JCIUWmzevnk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/ct-gCDVYB21C0y9cGs6MvAi9NGs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_175142.png
+tags:
+  - Thunderbolts
+  - Jake Schreier
+  - MCU
+  - Homem-Coisa
+  - Marvel
+  - anti-heróis
+  - cinema
+  - filmes de super-heróis
+keywords: >-
+  Thunderbolts, Jake Schreier, MCU, Homem-Coisa, Marvel, anti-heróis, cinema,
+  filmes de super-heróis
+author: Pablo Moura
+data: '2025-04-21T21:18:43.939Z'
+resumo: >-
+  Jake Schreier, diretor de Thunderbolts, compartilha que o Homem-Coisa estava
+  nos planos iniciais do filme, mas acabou ficando de fora para dar espaço a
+  personagens já consolidados no MCU.
 ---
 
 Em entrevista à revista SFX, Jake Schreier, o diretor por trás do aguardado filme 'Thunderbolts', revelou detalhes sobre a formação da equipe de anti-heróis. Originalmente, Schreier queria incluir o Homem-Coisa, uma figura icônica dos quadrinhos, mas decidiu priorizar personagens com uma presença mais estabelecida no Universo Cinematográfico da Marvel (MCU).

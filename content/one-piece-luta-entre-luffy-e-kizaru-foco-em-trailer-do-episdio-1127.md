@@ -1,14 +1,29 @@
 ---
-title: "One Piece Episódio 1127 Promete Épica Revanche entre Luffy e Kizaru"
-slug: "one-piece-luta-entre-luffy-e-kizaru-foco-em-trailer-do-episdio-1127"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/A3eNp6UTQoc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/uIckNV5Uk4_Nzlo4eXlqgTWS2Hk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T210421.008.png"
-tags: ["One Piece", "Luffy vs Kizaru", "episódio 1127", "anime", "Toei Animation", "Vegapunk", "Crunchyroll", "Netflix", "One Piece live-action"]
-keywords: "One Piece, Luffy vs Kizaru, episódio 1127, anime, Toei Animation, Vegapunk, Crunchyroll, Netflix, One Piece live-action"
-author: "Ana Luiza"
-data: "2025-04-26T01:22:09.400Z"
+title: One Piece Episódio 1127 Promete Épica Revanche entre Luffy e Kizaru
+slug: one-piece-luta-entre-luffy-e-kizaru-foco-em-trailer-do-episdio-1127
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/A3eNp6UTQoc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/uIckNV5Uk4_Nzlo4eXlqgTWS2Hk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T210421.008.png
+tags:
+  - One Piece
+  - Luffy vs Kizaru
+  - episódio 1127
+  - anime
+  - Toei Animation
+  - Vegapunk
+  - Crunchyroll
+  - Netflix
+  - One Piece live-action
+keywords: >-
+  One Piece, Luffy vs Kizaru, episódio 1127, anime, Toei Animation, Vegapunk,
+  Crunchyroll, Netflix, One Piece live-action
+author: Ana Luiza
+data: '2025-04-26T01:22:09.400Z'
+resumo: >-
+  O confronto altamente antecipado entre Luffy e Kizaru é o destaque do próximo
+  episódio de One Piece, marcando uma revanche decisiva.
 ---
 
 ## Confronto Épico em One Piece

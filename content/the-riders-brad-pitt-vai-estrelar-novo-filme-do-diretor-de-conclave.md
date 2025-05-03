@@ -1,14 +1,31 @@
 ---
-title: "Brad Pitt protagonizará 'The Riders', novo thriller psicológico da A24 dirigido por Edward Berger"
-slug: "the-riders-brad-pitt-vai-estrelar-novo-filme-do-diretor-de-conclave"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/97NtMwqHnut_3XPiP-gpGpkgzLM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T134610.622.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/VvMhbYdAci5ed-gj4tzX_Ld7_P4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T134624.451.png"
-tags: ["Edward Berger", "Brad Pitt", "The Riders", "A24", "filme novo", "thriller psicológico", "Tim Winton"]
-keywords: "Edward Berger, Brad Pitt, The Riders, A24, filme novo, thriller psicológico, Tim Winton"
-author: "Pablo Moura"
-data: "2025-04-28T17:17:05.646Z"
+title: >-
+  Brad Pitt protagonizará 'The Riders', novo thriller psicológico da A24
+  dirigido por Edward Berger
+slug: the-riders-brad-pitt-vai-estrelar-novo-filme-do-diretor-de-conclave
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/97NtMwqHnut_3XPiP-gpGpkgzLM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T134610.622.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/VvMhbYdAci5ed-gj4tzX_Ld7_P4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T134624.451.png
+tags:
+  - Edward Berger
+  - Brad Pitt
+  - The Riders
+  - A24
+  - filme novo
+  - thriller psicológico
+  - Tim Winton
+keywords: >-
+  Edward Berger, Brad Pitt, The Riders, A24, filme novo, thriller psicológico,
+  Tim Winton
+author: Pablo Moura
+data: '2025-04-28T17:17:05.646Z'
+resumo: >-
+  Após o sucesso de 'Conclave', Edward Berger se une novamente à A24 para
+  dirigir 'The Riders', com Brad Pitt no papel principal em uma trama repleta de
+  mistério e desaparecimentos.
 ---
 
 ## 'The Riders': Uma Nova Jornada para Edward Berger e Brad Pitt

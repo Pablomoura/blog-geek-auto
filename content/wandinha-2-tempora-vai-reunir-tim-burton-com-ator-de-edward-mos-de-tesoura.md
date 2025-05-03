@@ -1,14 +1,29 @@
 ---
-title: "Reencontro Marcante: Anthony Michael Hall se une a Tim Burton na 2ª Temporada de Wandinha"
-slug: "wandinha-2-tempora-vai-reunir-tim-burton-com-ator-de-edward-mos-de-tesoura"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/UNjvJNlxs8Q?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/5g6p07Jf7ceNhYQH0Xsru4hRwuo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_174234.png"
-tags: ["Wandinha", "Tim Burton", "Anthony Michael Hall", "Netflix", "Edward Mãos de Tesoura", "segunda temporada de Wandinha"]
-keywords: "Wandinha, Tim Burton, Anthony Michael Hall, Netflix, Edward Mãos de Tesoura, segunda temporada de Wandinha"
-author: "Pablo Moura"
-data: "2025-04-30T18:27:02.492Z"
+title: >-
+  Reencontro Marcante: Anthony Michael Hall se une a Tim Burton na 2ª Temporada
+  de Wandinha
+slug: wandinha-2-tempora-vai-reunir-tim-burton-com-ator-de-edward-mos-de-tesoura
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/UNjvJNlxs8Q?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/5g6p07Jf7ceNhYQH0Xsru4hRwuo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_174234.png
+tags:
+  - Wandinha
+  - Tim Burton
+  - Anthony Michael Hall
+  - Netflix
+  - Edward Mãos de Tesoura
+  - segunda temporada de Wandinha
+keywords: >-
+  Wandinha, Tim Burton, Anthony Michael Hall, Netflix, Edward Mãos de Tesoura,
+  segunda temporada de Wandinha
+author: Pablo Moura
+data: '2025-04-30T18:27:02.492Z'
+resumo: >-
+  A segunda temporada de 'Wandinha' traz uma reunião emocionante: Anthony
+  Michael Hall trabalhará novamente com Tim Burton, marcando um reencontro após
+  35 anos desde 'Edward Mãos de Tesoura'.
 ---
 
 ## Anthony Michael Hall se junta ao elenco de 'Wandinha'

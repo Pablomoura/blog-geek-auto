@@ -1,14 +1,31 @@
 ---
-title: "One Piece Episódio 1128 Promete Revanche Épica Entre Luffy e Kizaru"
-slug: "one-piece-st-saturn-se-prepara-para-agir-em-trailer-do-episdio-1128-assista"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/eMAPjidAMqA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/l4PcrzgYKK0r8fb7lyB_YGdafTI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T130115.233.png"
-tags: ["One Piece", "episódio 1128", "Luffy", "Kizaru", "Crunchyroll", "Netflix", "anime", "Gear Fifth", "Vegapunk", "live-action One Piece"]
-keywords: "One Piece, episódio 1128, Luffy, Kizaru, Crunchyroll, Netflix, anime, Gear Fifth, Vegapunk, live-action One Piece"
-author: "Ana Luiza"
-data: "2025-04-28T16:23:22.860Z"
+title: One Piece Episódio 1128 Promete Revanche Épica Entre Luffy e Kizaru
+slug: one-piece-st-saturn-se-prepara-para-agir-em-trailer-do-episdio-1128-assista
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/eMAPjidAMqA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/l4PcrzgYKK0r8fb7lyB_YGdafTI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T130115.233.png
+tags:
+  - One Piece
+  - episódio 1128
+  - Luffy
+  - Kizaru
+  - Crunchyroll
+  - Netflix
+  - anime
+  - Gear Fifth
+  - Vegapunk
+  - live-action One Piece
+keywords: >-
+  One Piece, episódio 1128, Luffy, Kizaru, Crunchyroll, Netflix, anime, Gear
+  Fifth, Vegapunk, live-action One Piece
+author: Ana Luiza
+data: '2025-04-28T16:23:22.860Z'
+resumo: >-
+  O novo trailer do episódio 1128 de One Piece revela um confronto iminente
+  entre Luffy e o Almirante Kizaru, prometendo ação intensa na busca pelo
+  tesouro mais valioso do mundo.
 ---
 
 ## Confronto Épico no Horizonte para One Piece

@@ -1,14 +1,32 @@
 ---
-title: "My Hero Academia: Vigilantes Apresenta Sua Primeira Vilã Sinistra, Kuin Hachisuka"
-slug: "my-hero-academia-vigilantes-apresenta-sua-primeira-grande-vil"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/mdOJXDbCCpM?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/cbzDURimIYAmWpgCROUV_goHp_A=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-23T213510.905.png"
-tags: ["My Hero Academia", "Vigilantes", "Kuin Hachisuka", "Queen Bee", "Koichi Haimawari", "anime", "Crunchyroll", "Kohei Horikoshi", "mangá"]
-keywords: "My Hero Academia, Vigilantes, Kuin Hachisuka, Queen Bee, Koichi Haimawari, anime, Crunchyroll, Kohei Horikoshi, mangá"
-author: "Luana Souza"
-data: "2025-04-24T01:23:55.492Z"
+title: >-
+  My Hero Academia: Vigilantes Apresenta Sua Primeira Vilã Sinistra, Kuin
+  Hachisuka
+slug: my-hero-academia-vigilantes-apresenta-sua-primeira-grande-vil
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/mdOJXDbCCpM?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/cbzDURimIYAmWpgCROUV_goHp_A=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-23T213510.905.png
+tags:
+  - My Hero Academia
+  - Vigilantes
+  - Kuin Hachisuka
+  - Queen Bee
+  - Koichi Haimawari
+  - anime
+  - Crunchyroll
+  - Kohei Horikoshi
+  - mangá
+keywords: >-
+  My Hero Academia, Vigilantes, Kuin Hachisuka, Queen Bee, Koichi Haimawari,
+  anime, Crunchyroll, Kohei Horikoshi, mangá
+author: Luana Souza
+data: '2025-04-24T01:23:55.492Z'
+resumo: >-
+  No universo de 'My Hero Academia', a série derivada 'Vigilantes' introduziu
+  Kuin Hachisuka, uma estudante do ensino médio com habilidades tenebrosas, como
+  a nova antagonista.
 ---
 
 O anime **My Hero Academia: Vigilantes** acaba de elevar o nível de suspense com a introdução de sua primeira grande vilã, Kuin Hachisuka. A personagem, revelada no último episódio, é uma estudante do ensino médio que se transforma em uma vilã nas horas vagas, utilizando sua peculiaridade chamada Queen Bee. Com essa habilidade, Hachisuka pode invocar abelhas carregadas de toxinas diretamente de seu olho, espalhando o caos pela cidade com a droga Trigger, que intensifica as peculiaridades das pessoas ao ponto de enlouquecê-las.

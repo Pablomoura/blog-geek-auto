@@ -1,14 +1,32 @@
 ---
-title: "Remain: Jake Gyllenhaal e Phoebe Dynevor Estrelam Thriller Romântico de Shyamalan e Nicholas Sparks"
-slug: "remain-shyamalan-revela-ttulo-e-detalhe-de-seu-filme-com-nicholas-sparks"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/VfWdRGYbW-C1UKc9yNVbzQr7HTI=/987x0/smart/uploads/conteudo/fotos/00_p37H8rw.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/V2HgdIv-IUGMgqiuqkSAffFgqh8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-22_165142.png"
-tags: ["Remain", "M. Night Shyamalan", "Nicholas Sparks", "Jake Gyllenhaal", "Phoebe Dynevor", "thriller romântico", "cinema", "filme sobrenatural"]
-keywords: "Remain, M. Night Shyamalan, Nicholas Sparks, Jake Gyllenhaal, Phoebe Dynevor, thriller romântico, cinema, filme sobrenatural"
-author: "Pablo Moura"
-data: "2025-04-22T20:21:19.609Z"
+title: >-
+  Remain: Jake Gyllenhaal e Phoebe Dynevor Estrelam Thriller Romântico de
+  Shyamalan e Nicholas Sparks
+slug: remain-shyamalan-revela-ttulo-e-detalhe-de-seu-filme-com-nicholas-sparks
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/VfWdRGYbW-C1UKc9yNVbzQr7HTI=/987x0/smart/uploads/conteudo/fotos/00_p37H8rw.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/V2HgdIv-IUGMgqiuqkSAffFgqh8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-22_165142.png
+tags:
+  - Remain
+  - M. Night Shyamalan
+  - Nicholas Sparks
+  - Jake Gyllenhaal
+  - Phoebe Dynevor
+  - thriller romântico
+  - cinema
+  - filme sobrenatural
+keywords: >-
+  Remain, M. Night Shyamalan, Nicholas Sparks, Jake Gyllenhaal, Phoebe Dynevor,
+  thriller romântico, cinema, filme sobrenatural
+author: Pablo Moura
+data: '2025-04-22T20:21:19.609Z'
+resumo: >-
+  M. Night Shyamalan e Nicholas Sparks unem forças para criar 'Remain', um
+  thriller romântico sobrenatural com Jake Gyllenhaal e Phoebe Dynevor nos
+  papéis principais.
 ---
 
 M. Night Shyamalan, conhecido por seus filmes com reviravoltas surpreendentes, acaba de anunciar sua mais nova colaboração com o escritor romântico Nicholas Sparks. O projeto, intitulado 'Remain', promete mesclar romance e suspense sobrenatural em uma trama envolvente. 

@@ -1,14 +1,22 @@
 ---
-title: "Netflix Enfrenta Instabilidades Globais: Usuários Relatam Problemas de Conexão"
-slug: "netflix-fora-do-ar-usurios-reportam-instabilidade"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/hnm0eJZH51c?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Ax5ZOlmyG9MqfwodIpiLQiyNafk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T185717.233.png"
-tags: ["Netflix", "instabilidade na Netflix", "problemas de conexão", "serviço de streaming"]
-keywords: "Netflix, instabilidade na Netflix, problemas de conexão, serviço de streaming"
-author: "Ana Luiza"
-data: "2025-04-24T22:20:20.088Z"
+title: 'Netflix Enfrenta Instabilidades Globais: Usuários Relatam Problemas de Conexão'
+slug: netflix-fora-do-ar-usurios-reportam-instabilidade
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/hnm0eJZH51c?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Ax5ZOlmyG9MqfwodIpiLQiyNafk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T185717.233.png
+tags:
+  - Netflix
+  - instabilidade na Netflix
+  - problemas de conexão
+  - serviço de streaming
+keywords: 'Netflix, instabilidade na Netflix, problemas de conexão, serviço de streaming'
+author: Ana Luiza
+data: '2025-04-24T22:20:20.088Z'
+resumo: >-
+  Relatos de problemas na Netflix surgem de várias partes do mundo, indicando
+  possíveis instabilidades na plataforma de streaming.
 ---
 
 Parece que a Netflix está enfrentando instabilidades hoje, com uma série de relatórios de usuários ao redor do mundo indicando dificuldades para acessar a plataforma. Desde as 16h13, usuários nas redes sociais começaram a compartilhar suas frustrações, mencionando que não conseguem se conectar e acessar seus conteúdos preferidos.

@@ -1,14 +1,25 @@
 ---
-title: "My Hero Academia: Vigilantes Revela Retorno Surpresa de Vilão em Novo Trailer"
-slug: "my-hero-academia-vigilantes-novo-trailer-antecipa-retorno-de-heri"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/5Ymmvv-O88E?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/UMGC64lvWOm8DlJjNTyyr8zE4BI=/480x360/smart/extras/conteudos/myheroacademiavigilantes.jpg"
-tags: ["My Hero Academia", "Vigilantes", "Ingenium", "Crunchyroll", "anime", "spin-off", "trailer"]
-keywords: "My Hero Academia, Vigilantes, Ingenium, Crunchyroll, anime, spin-off, trailer"
-author: "Pablo Moura"
-data: "2025-04-27T19:15:44.490Z"
+title: 'My Hero Academia: Vigilantes Revela Retorno Surpresa de Vilão em Novo Trailer'
+slug: my-hero-academia-vigilantes-novo-trailer-antecipa-retorno-de-heri
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/5Ymmvv-O88E?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/UMGC64lvWOm8DlJjNTyyr8zE4BI=/480x360/smart/extras/conteudos/myheroacademiavigilantes.jpg
+tags:
+  - My Hero Academia
+  - Vigilantes
+  - Ingenium
+  - Crunchyroll
+  - anime
+  - spin-off
+  - trailer
+keywords: 'My Hero Academia, Vigilantes, Ingenium, Crunchyroll, anime, spin-off, trailer'
+author: Pablo Moura
+data: '2025-04-27T19:15:44.490Z'
+resumo: >-
+  O spin-off de My Hero Academia, Vigilantes, anuncia o retorno impactante do
+  vilão Ingenium em seu próximo episódio.
 ---
 
 ## Retorno Triunfal em My Hero Academia: Vigilantes

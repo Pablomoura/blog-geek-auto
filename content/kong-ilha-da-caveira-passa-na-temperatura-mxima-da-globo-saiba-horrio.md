@@ -1,14 +1,25 @@
 ---
-title: "‘Kong: Ilha da Caveira’ é Destaque na Temperatura Máxima da Globo"
-slug: "kong-ilha-da-caveira-passa-na-temperatura-mxima-da-globo-saiba-horrio"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/VU-m5T6wBzY?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/EGgRmnvkUD9c71G8vti2ev-_zkg=/480x360/smart/extras/conteudos/kongskullisland_Lq0Q3ED.jpg"
-tags: ["Kong Ilha da Caveira", "Temperatura Máxima", "Tom Hiddleston", "Brie Larson", "TV Globo"]
-keywords: "Kong Ilha da Caveira, Temperatura Máxima, Tom Hiddleston, Brie Larson, TV Globo"
-author: "Pablo Moura"
-data: "2025-04-20T11:14:57.849Z"
+title: '‘Kong: Ilha da Caveira’ é Destaque na Temperatura Máxima da Globo'
+slug: kong-ilha-da-caveira-passa-na-temperatura-mxima-da-globo-saiba-horrio
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/VU-m5T6wBzY?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/EGgRmnvkUD9c71G8vti2ev-_zkg=/480x360/smart/extras/conteudos/kongskullisland_Lq0Q3ED.jpg
+tags:
+  - Kong Ilha da Caveira
+  - Temperatura Máxima
+  - Tom Hiddleston
+  - Brie Larson
+  - TV Globo
+keywords: >-
+  Kong Ilha da Caveira, Temperatura Máxima, Tom Hiddleston, Brie Larson, TV
+  Globo
+author: Pablo Moura
+data: '2025-04-20T11:14:57.849Z'
+resumo: >-
+  O filme de ação e aventura de 2017, estrelado por Tom Hiddleston e Brie
+  Larson, será exibido neste domingo.
 ---
 
 Neste domingo, a sessão Temperatura Máxima da TV Globo traz o emocionante filme ‘Kong: Ilha da Caveira’, lançado em 2017. A transmissão está marcada para começar às 12h30, horário de Brasília. Com uma duração de duas horas, o filme promete entreter o público com uma história cheia de aventura e mistério.

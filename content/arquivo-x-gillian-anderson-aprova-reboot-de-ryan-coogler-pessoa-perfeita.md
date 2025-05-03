@@ -1,14 +1,29 @@
 ---
-title: "Gillian Anderson Endossa Ryan Coogler para Reboot de 'Arquivo X'"
-slug: "arquivo-x-gillian-anderson-aprova-reboot-de-ryan-coogler-pessoa-perfeita"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/xY5PjCAA3FQ?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/NT9PDoPzZZzZ1ieJUWcgdFBjlTM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T202844.157.png"
-tags: ["Gillian Anderson", "Ryan Coogler", "Arquivo X", "reboot", "David Duchovny", "Chris Carter", "The Salt Path", "Pantera Negra"]
-keywords: "Gillian Anderson, Ryan Coogler, Arquivo X, reboot, David Duchovny, Chris Carter, The Salt Path, Pantera Negra"
-author: "Ana Luiza"
-data: "2025-05-01T01:41:25.720Z"
+title: Gillian Anderson Endossa Ryan Coogler para Reboot de 'Arquivo X'
+slug: arquivo-x-gillian-anderson-aprova-reboot-de-ryan-coogler-pessoa-perfeita
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/xY5PjCAA3FQ?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/NT9PDoPzZZzZ1ieJUWcgdFBjlTM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T202844.157.png
+tags:
+  - Gillian Anderson
+  - Ryan Coogler
+  - Arquivo X
+  - reboot
+  - David Duchovny
+  - Chris Carter
+  - The Salt Path
+  - Pantera Negra
+keywords: >-
+  Gillian Anderson, Ryan Coogler, Arquivo X, reboot, David Duchovny, Chris
+  Carter, The Salt Path, Pantera Negra
+author: Ana Luiza
+data: '2025-05-01T01:41:25.720Z'
+resumo: >-
+  Gillian Anderson expressa confiança total em Ryan Coogler para o comando do
+  reboot de 'Arquivo X', enquanto especulações sobre seu retorno ao icônico
+  papel de Scully crescem.
 ---
 
 ## Gillian Anderson e Ryan Coogler: Uma Parceria Promissora para 'Arquivo X'

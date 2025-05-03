@@ -1,14 +1,32 @@
 ---
-title: "Anime Friends 2025 em São Paulo: YUYU20, Nightmare e mais atrações confirmadas!"
-slug: "anime-friends-2025-anuncia-show-de-yuyu20-para-abertura-do-evento"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/68WYUSKZ2Hp-8c7uADqRnlThtys=/987x0/smart/uploads/conteudo/fotos/yuyu20.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/J2ZXkZNznkrvp27yXkVtxYr-ESg=/480x360/smart/extras/conteudos/461762456_507895255422293_6018030180637349511_n.jpg"
-tags: ["Anime Friends 2025", "YUYU20", "Nightmare", "Big Ocean", "K-pop", "cultura pop", "música em anime", "evento geek", "São Paulo"]
-keywords: "Anime Friends 2025, YUYU20, Nightmare, Big Ocean, K-pop, cultura pop, música em anime, evento geek, São Paulo"
-author: "Pablo Moura"
-data: "2025-04-24T23:20:26.276Z"
+title: >-
+  Anime Friends 2025 em São Paulo: YUYU20, Nightmare e mais atrações
+  confirmadas!
+slug: anime-friends-2025-anuncia-show-de-yuyu20-para-abertura-do-evento
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/68WYUSKZ2Hp-8c7uADqRnlThtys=/987x0/smart/uploads/conteudo/fotos/yuyu20.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/J2ZXkZNznkrvp27yXkVtxYr-ESg=/480x360/smart/extras/conteudos/461762456_507895255422293_6018030180637349511_n.jpg
+tags:
+  - Anime Friends 2025
+  - YUYU20
+  - Nightmare
+  - Big Ocean
+  - K-pop
+  - cultura pop
+  - música em anime
+  - evento geek
+  - São Paulo
+keywords: >-
+  Anime Friends 2025, YUYU20, Nightmare, Big Ocean, K-pop, cultura pop, música
+  em anime, evento geek, São Paulo
+author: Pablo Moura
+data: '2025-04-24T23:20:26.276Z'
+resumo: >-
+  O Anime Friends 2025 traz YUYU20, Nightmare e o inovador grupo de K-pop Big
+  Ocean para um evento repleto de música e cultura pop em julho.
 ---
 
 O Anime Friends 2025, um dos maiores eventos de cultura pop e anime da América Latina, promete uma abertura espetacular com a apresentação da banda YUYU20, conhecida por suas icônicas músicas no anime 'Yu Yu Hakusho'. O evento ocorrerá de 3 a 6 de julho no Distrito Anhembi, São Paulo.

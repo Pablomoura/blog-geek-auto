@@ -1,14 +1,31 @@
 ---
-title: "Robert Downey Jr. retorna como vilão em 'Vingadores: Doomsday' — Confira os detalhes!"
-slug: "vingadores-doomsday-inicia-gravaes-com-1-foto-oficial-victor-von-doom"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/6olFFvXQuVA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/3nuNgPJ-SqFer_FF-SeFmr9Lx7o=/480x360/smart/extras/conteudos/downey-vingadores-doomsday.jpg"
-tags: ["Vingadores Doomsday", "Robert Downey Jr.", "Doutor Destino", "Marvel", "MCU", "Irmãos Russo", "estreia", "filme"]
-keywords: "Vingadores Doomsday, Robert Downey Jr., Doutor Destino, Marvel, MCU, Irmãos Russo, estreia, filme"
-author: "Luana Souza"
-data: "2025-04-29T11:16:32.246Z"
+title: >-
+  Robert Downey Jr. retorna como vilão em 'Vingadores: Doomsday' — Confira os
+  detalhes!
+slug: vingadores-doomsday-inicia-gravaes-com-1-foto-oficial-victor-von-doom
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/6olFFvXQuVA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/3nuNgPJ-SqFer_FF-SeFmr9Lx7o=/480x360/smart/extras/conteudos/downey-vingadores-doomsday.jpg
+tags:
+  - Vingadores Doomsday
+  - Robert Downey Jr.
+  - Doutor Destino
+  - Marvel
+  - MCU
+  - Irmãos Russo
+  - estreia
+  - filme
+keywords: >-
+  Vingadores Doomsday, Robert Downey Jr., Doutor Destino, Marvel, MCU, Irmãos
+  Russo, estreia, filme
+author: Luana Souza
+data: '2025-04-29T11:16:32.246Z'
+resumo: >-
+  O icônico Robert Downey Jr., anteriormente conhecido como Homem de Ferro,
+  assume o papel do vilão Doutor Destino no novo filme 'Vingadores: Doomsday',
+  que começou suas filmagens em Londres.
 ---
 
 ## 'Vingadores: Doomsday' inicia produção com Robert Downey Jr. como Doutor Destino

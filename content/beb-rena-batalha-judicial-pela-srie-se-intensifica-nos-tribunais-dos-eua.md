@@ -1,14 +1,30 @@
 ---
-title: "Série Bebê Rena da Netflix Enfrenta Disputa Judicial de US$ 170 Milhões"
-slug: "beb-rena-batalha-judicial-pela-srie-se-intensifica-nos-tribunais-dos-eua"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/4ITIBD2xhlM?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/zp0C8U8GVJU2-oGKH8kbUvvB578=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_172324.png"
-tags: ["Bebê Rena", "Netflix", "batalha judicial", "difamação", "série", "Fiona Harvey", "Richard Gadd", "Jessica Gunning", "drama legal"]
-keywords: "Bebê Rena, Netflix, batalha judicial, difamação, série, Fiona Harvey, Richard Gadd, Jessica Gunning, drama legal"
-author: "Ana Luiza"
-data: "2025-04-29T21:19:11.759Z"
+title: Série Bebê Rena da Netflix Enfrenta Disputa Judicial de US$ 170 Milhões
+slug: beb-rena-batalha-judicial-pela-srie-se-intensifica-nos-tribunais-dos-eua
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/4ITIBD2xhlM?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/zp0C8U8GVJU2-oGKH8kbUvvB578=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_172324.png
+tags:
+  - Bebê Rena
+  - Netflix
+  - batalha judicial
+  - difamação
+  - série
+  - Fiona Harvey
+  - Richard Gadd
+  - Jessica Gunning
+  - drama legal
+keywords: >-
+  Bebê Rena, Netflix, batalha judicial, difamação, série, Fiona Harvey, Richard
+  Gadd, Jessica Gunning, drama legal
+author: Ana Luiza
+data: '2025-04-29T21:19:11.759Z'
+resumo: >-
+  A série Bebê Rena, aclamada mundialmente, se torna centro de uma intensa
+  batalha legal por acusações de difamação, com desdobramentos significativos
+  nos tribunais dos EUA.
 ---
 
 ## A Disputa Legal em Torno de Bebê Rena Intensifica-se

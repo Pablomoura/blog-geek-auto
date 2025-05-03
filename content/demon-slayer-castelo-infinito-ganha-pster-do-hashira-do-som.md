@@ -1,14 +1,33 @@
 ---
-title: "Demon Slayer: Novo Pôster Revela Detalhes do Hashira do Som no Filme Castelo Infinito"
-slug: "demon-slayer-castelo-infinito-ganha-pster-do-hashira-do-som"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/Sq1uv5kG_bI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/X2kjrdDaTkMASkoouwqn5oncF0E=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_175119.png"
-tags: ["Demon Slayer", "Castelo Infinito", "Tengen Uzui", "anime", "trilogia", "cinema", "Crunchyroll", "Netflix", "mangá", "Tanjiro Kamado", "Nezuko"]
-keywords: "Demon Slayer, Castelo Infinito, Tengen Uzui, anime, trilogia, cinema, Crunchyroll, Netflix, mangá, Tanjiro Kamado, Nezuko"
-author: "Pablo Moura"
-data: "2025-05-02T21:17:56.429Z"
+title: >-
+  Demon Slayer: Novo Pôster Revela Detalhes do Hashira do Som no Filme Castelo
+  Infinito
+slug: demon-slayer-castelo-infinito-ganha-pster-do-hashira-do-som
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/Sq1uv5kG_bI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/X2kjrdDaTkMASkoouwqn5oncF0E=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_175119.png
+tags:
+  - Demon Slayer
+  - Castelo Infinito
+  - Tengen Uzui
+  - anime
+  - trilogia
+  - cinema
+  - Crunchyroll
+  - Netflix
+  - mangá
+  - Tanjiro Kamado
+  - Nezuko
+keywords: >-
+  Demon Slayer, Castelo Infinito, Tengen Uzui, anime, trilogia, cinema,
+  Crunchyroll, Netflix, mangá, Tanjiro Kamado, Nezuko
+author: Pablo Moura
+data: '2025-05-02T21:17:56.429Z'
+resumo: >-
+  Tengen Uzui é o grande destaque no novo pôster do filme Demon Slayer: Castelo
+  Infinito, marcando a estreia da trilogia que concluirá a saga nos cinemas.
 ---
 
 ## Tengen Uzui Brilha em Novo Pôster de Demon Slayer: Castelo Infinito

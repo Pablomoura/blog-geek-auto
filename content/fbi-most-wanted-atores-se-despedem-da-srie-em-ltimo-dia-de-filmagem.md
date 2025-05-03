@@ -1,14 +1,30 @@
 ---
-title: "Final de uma Era: Elenco de 'FBI: Most Wanted' se Despede nas Redes Sociais"
-slug: "fbi-most-wanted-atores-se-despedem-da-srie-em-ltimo-dia-de-filmagem"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/4LJukQpzRaoZDQtkfxn4_cy50A0=/987x0/smart/uploads/conteudo/fotos/fbi-most-wanted-capa-2.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/L4O6ycSRfGOc0WNLX7cWfbW8wgU=/480x360/smart/extras/conteudos/fbi-most-wanted-capa-2.png"
-tags: ["FBI Most Wanted", "CBS", "cancelamento", "último episódio", "redes sociais", "despedida elenco", "futuro séries", "Wolf Entertainment", "Universal TV"]
-keywords: "FBI Most Wanted, CBS, cancelamento, último episódio, redes sociais, despedida elenco, futuro séries, Wolf Entertainment, Universal TV"
-author: "Ana Luiza"
-data: "2025-05-01T23:19:07.417Z"
+title: 'Final de uma Era: Elenco de ''FBI: Most Wanted'' se Despede nas Redes Sociais'
+slug: fbi-most-wanted-atores-se-despedem-da-srie-em-ltimo-dia-de-filmagem
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/4LJukQpzRaoZDQtkfxn4_cy50A0=/987x0/smart/uploads/conteudo/fotos/fbi-most-wanted-capa-2.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/L4O6ycSRfGOc0WNLX7cWfbW8wgU=/480x360/smart/extras/conteudos/fbi-most-wanted-capa-2.png
+tags:
+  - FBI Most Wanted
+  - CBS
+  - cancelamento
+  - último episódio
+  - redes sociais
+  - despedida elenco
+  - futuro séries
+  - Wolf Entertainment
+  - Universal TV
+keywords: >-
+  FBI Most Wanted, CBS, cancelamento, último episódio, redes sociais, despedida
+  elenco, futuro séries, Wolf Entertainment, Universal TV
+author: Ana Luiza
+data: '2025-05-01T23:19:07.417Z'
+resumo: >-
+  A série 'FBI: Most Wanted' encerra suas filmagens, marcando o fim após seis
+  temporadas bem-sucedidas e deixando um legado de emoção e suspense.
 ---
 
 ## Despedida Emocionante do Elenco de 'FBI: Most Wanted'

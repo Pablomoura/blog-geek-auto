@@ -1,14 +1,31 @@
 ---
-title: "X-Men Retorna ao MCU com Elenco Estelar em 'Vingadores: Doomsday'"
-slug: "x-men-humoristas-brasileiros-fazem-pardia-dos-mutantes"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/esVcUVBlisyFHNlNldyD18aHHTE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T135419.169.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nfgiXK2Ke29N6th4zajhGO8s000=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T135509.804.png"
-tags: ["X-Men", "MCU", "Vingadores: Doomsday", "Marvel", "Alan Cumming", "Noturno", "Quarteto Fantástico", "Chris Hemsworth", "Ian McKellen", "Patrick Stewart"]
-keywords: "X-Men, MCU, Vingadores: Doomsday, Marvel, Alan Cumming, Noturno, Quarteto Fantástico, Chris Hemsworth, Ian McKellen, Patrick Stewart"
-author: "Ana Luiza"
-data: "2025-04-25T17:17:11.529Z"
+title: 'X-Men Retorna ao MCU com Elenco Estelar em ''Vingadores: Doomsday'''
+slug: x-men-humoristas-brasileiros-fazem-pardia-dos-mutantes
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/esVcUVBlisyFHNlNldyD18aHHTE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T135419.169.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nfgiXK2Ke29N6th4zajhGO8s000=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T135509.804.png
+tags:
+  - X-Men
+  - MCU
+  - 'Vingadores: Doomsday'
+  - Marvel
+  - Alan Cumming
+  - Noturno
+  - Quarteto Fantástico
+  - Chris Hemsworth
+  - Ian McKellen
+  - Patrick Stewart
+keywords: >-
+  X-Men, MCU, Vingadores: Doomsday, Marvel, Alan Cumming, Noturno, Quarteto
+  Fantástico, Chris Hemsworth, Ian McKellen, Patrick Stewart
+author: Ana Luiza
+data: '2025-04-25T17:17:11.529Z'
+resumo: >-
+  O retorno dos X-Men ao MCU é marcado por uma reunião épica de estrelas em
+  'Vingadores: Doomsday', agendado para abril de 2026.
 ---
 
 ## Paródia Brasileira e o Retorno dos X-Men ao MCU

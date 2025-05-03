@@ -1,14 +1,30 @@
 ---
-title: "Revelado o Visual do Sentinela para 'Thunderbolts' no Jogo Marvel Future Fight"
-slug: "thunderbolts-marvel-divulga-imagem-com-uniforme-completo-do-sentinela"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/X8aAKm3PVh4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/vu9xlCJ8CcDRaz9DJ-iLPhNbSRk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_120826.png"
-tags: ["Marvel", "Thunderbolts", "Sentinela", "Lewis Pullman", "Marvel Future Fight", "MCU", "anti-heróis", "uniforme do Sentinela", "jogos de Marvel", "filmes da Marvel 2025"]
-keywords: "Marvel, Thunderbolts, Sentinela, Lewis Pullman, Marvel Future Fight, MCU, anti-heróis, uniforme do Sentinela, jogos de Marvel, filmes da Marvel 2025"
-author: "Ana Luiza"
-data: "2025-04-24T15:21:56.259Z"
+title: Revelado o Visual do Sentinela para 'Thunderbolts' no Jogo Marvel Future Fight
+slug: thunderbolts-marvel-divulga-imagem-com-uniforme-completo-do-sentinela
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/X8aAKm3PVh4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/vu9xlCJ8CcDRaz9DJ-iLPhNbSRk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_120826.png
+tags:
+  - Marvel
+  - Thunderbolts
+  - Sentinela
+  - Lewis Pullman
+  - Marvel Future Fight
+  - MCU
+  - anti-heróis
+  - uniforme do Sentinela
+  - jogos de Marvel
+  - filmes da Marvel 2025
+keywords: >-
+  Marvel, Thunderbolts, Sentinela, Lewis Pullman, Marvel Future Fight, MCU,
+  anti-heróis, uniforme do Sentinela, jogos de Marvel, filmes da Marvel 2025
+author: Ana Luiza
+data: '2025-04-24T15:21:56.259Z'
+resumo: >-
+  A Marvel surpreende ao revelar o uniforme completo do Sentinela para
+  Thunderbolts, não em um filme, mas como parte do jogo Marvel Future Fight.
 ---
 
 Em uma jogada inesperada, a Marvel Studios divulgou a primeira imagem oficial do personagem Sentinela, interpretado por Lewis Pullman, para o aguardado filme 'Thunderbolts'. No entanto, a revelação não aconteceu através de um teaser ou pôster do filme, mas sim por meio de uma arte promocional para o jogo Marvel Future Fight, que em breve será atualizado com os personagens do filme.

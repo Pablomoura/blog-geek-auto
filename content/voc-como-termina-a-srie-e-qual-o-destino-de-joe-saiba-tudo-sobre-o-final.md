@@ -1,14 +1,27 @@
 ---
-title: "Final Explosivo: 'Você' Conclui com Justiça Dramática para Joe Goldberg"
-slug: "voc-como-termina-a-srie-e-qual-o-destino-de-joe-saiba-tudo-sobre-o-final"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/fp4i_lRYXrc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Vd-iBiB4L1iz-K59MLbcqY7ACQE=/480x360/smart/extras/conteudos/Design_sem_nome_10_qhFyf44.jpg"
-tags: ["Você série", "final de Você", "Joe Goldberg", "Penn Badgley", "Netflix", "temporada final de Você", "destino de Joe Goldberg"]
-keywords: "Você série, final de Você, Joe Goldberg, Penn Badgley, Netflix, temporada final de Você, destino de Joe Goldberg"
-author: "Pablo Moura"
-data: "2025-04-24T23:19:24.256Z"
+title: 'Final Explosivo: ''Você'' Conclui com Justiça Dramática para Joe Goldberg'
+slug: voc-como-termina-a-srie-e-qual-o-destino-de-joe-saiba-tudo-sobre-o-final
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/fp4i_lRYXrc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Vd-iBiB4L1iz-K59MLbcqY7ACQE=/480x360/smart/extras/conteudos/Design_sem_nome_10_qhFyf44.jpg
+tags:
+  - Você série
+  - final de Você
+  - Joe Goldberg
+  - Penn Badgley
+  - Netflix
+  - temporada final de Você
+  - destino de Joe Goldberg
+keywords: >-
+  Você série, final de Você, Joe Goldberg, Penn Badgley, Netflix, temporada
+  final de Você, destino de Joe Goldberg
+author: Pablo Moura
+data: '2025-04-24T23:19:24.256Z'
+resumo: >-
+  A última temporada de 'Você' traz um desfecho surpreendente para Joe Goldberg,
+  misturando vingança, romance e uma batalha final intensa.
 ---
 
 A aclamada série 'Você', protagonizada por Penn Badgley, encerrou sua jornada com a estreia da quinta e última temporada na Netflix, marcando o fim da saga do stalker assassino Joe Goldberg. Os fãs estavam ansiosos para descobrir se Joe finalmente enfrentaria as consequências de seus atos ou escaparia de seu passado sangrento que percorreu de Nova York a Londres.

@@ -1,14 +1,33 @@
 ---
-title: "Wandinha Retorna: Netflix Revela Pôster e Anuncia Data do Trailer da 2ª Temporada"
-slug: "wandinha-2-temporada-ganha-pster-e-anuncia-lanamento-de-trailer"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/3ElGSjMTqqnM_nn7tIZ4mT50DOs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T101443.629.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QHsbdW13Jy6nnp0F4IbXjphJKQY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T101428.833.png"
-tags: ["Wandinha", "Netflix", "Jenna Ortega", "segunda temporada", "trailer", "pôster", "Lady Gaga", "Catherine Zeta-Jones", "série de suspense", "família Addams"]
-keywords: "Wandinha, Netflix, Jenna Ortega, segunda temporada, trailer, pôster, Lady Gaga, Catherine Zeta-Jones, série de suspense, família Addams"
-author: "Luana Souza"
-data: "2025-04-22T13:29:47.656Z"
+title: >-
+  Wandinha Retorna: Netflix Revela Pôster e Anuncia Data do Trailer da 2ª
+  Temporada
+slug: wandinha-2-temporada-ganha-pster-e-anuncia-lanamento-de-trailer
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/3ElGSjMTqqnM_nn7tIZ4mT50DOs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T101443.629.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QHsbdW13Jy6nnp0F4IbXjphJKQY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T101428.833.png
+tags:
+  - Wandinha
+  - Netflix
+  - Jenna Ortega
+  - segunda temporada
+  - trailer
+  - pôster
+  - Lady Gaga
+  - Catherine Zeta-Jones
+  - série de suspense
+  - família Addams
+keywords: >-
+  Wandinha, Netflix, Jenna Ortega, segunda temporada, trailer, pôster, Lady
+  Gaga, Catherine Zeta-Jones, série de suspense, família Addams
+author: Luana Souza
+data: '2025-04-22T13:29:47.656Z'
+resumo: >-
+  A série 'Wandinha', estrelada por Jenna Ortega, lança pôster emocionante e
+  prepara fãs para o trailer que chegará nesta quarta-feira.
 ---
 
 A Netflix acaba de aumentar a expectativa dos fãs com o lançamento de um novo pôster oficial para a segunda temporada de 'Wandinha', série que conta com Jenna Ortega no papel principal. O pôster intrigante mostra Wandinha amarrada e com a maquiagem borrada, sugerindo momentos intensos na próxima temporada. A plataforma também marcou a data para o lançamento do primeiro trailer completo: próxima quarta-feira, 23.

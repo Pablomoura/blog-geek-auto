@@ -1,14 +1,32 @@
 ---
-title: "Dave Filoni de Star Wars Expressa Interesse em Colaboração com Diretor de Godzilla Minus One"
-slug: "star-wars-dave-filoni-quer-diretor-de-godzilla-minus-one-na-franquia"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/b4-QuwfnbDfuGaLgMhK4hhuT_cs=/987x0/smart/uploads/conteudo/fotos/godzillaminusone_aEhLFsQ.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4lq684B36FOM_Xb2dS-omBx-C7E=/480x360/smart/extras/conteudos/godzillaminusone_ab5J6VU.jpg"
-tags: ["Dave Filoni", "Star Wars", "Takashi Yamazaki", "Godzilla Minus One", "cinema", "colaboração", "efeitos visuais", "Oscar"]
-keywords: "Dave Filoni, Star Wars, Takashi Yamazaki, Godzilla Minus One, cinema, colaboração, efeitos visuais, Oscar"
-author: "Pablo Moura"
-data: "2025-04-20T20:19:11.176Z"
+title: >-
+  Dave Filoni de Star Wars Expressa Interesse em Colaboração com Diretor de
+  Godzilla Minus One
+slug: star-wars-dave-filoni-quer-diretor-de-godzilla-minus-one-na-franquia
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/b4-QuwfnbDfuGaLgMhK4hhuT_cs=/987x0/smart/uploads/conteudo/fotos/godzillaminusone_aEhLFsQ.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4lq684B36FOM_Xb2dS-omBx-C7E=/480x360/smart/extras/conteudos/godzillaminusone_ab5J6VU.jpg
+tags:
+  - Dave Filoni
+  - Star Wars
+  - Takashi Yamazaki
+  - Godzilla Minus One
+  - cinema
+  - colaboração
+  - efeitos visuais
+  - Oscar
+keywords: >-
+  Dave Filoni, Star Wars, Takashi Yamazaki, Godzilla Minus One, cinema,
+  colaboração, efeitos visuais, Oscar
+author: Pablo Moura
+data: '2025-04-20T20:19:11.176Z'
+resumo: >-
+  Durante a Star Wars Celebration no Japão, Dave Filoni revelou seu interesse em
+  trabalhar com Takashi Yamazaki, aclamado diretor de Godzilla Minus One, que
+  recentemente ganhou um Oscar por Melhores Efeitos Visuais.
 ---
 
 A união dos universos de Star Wars e Godzilla pode estar mais próxima do que imaginamos. Em recente evento Star Wars Celebration no Japão, Dave Filoni, um dos nomes mais influentes por trás da saga Star Wars, expressou seu desejo de colaborar com Takashi Yamazaki, o talentoso diretor por trás do sucesso de 2023, Godzilla Minus One.

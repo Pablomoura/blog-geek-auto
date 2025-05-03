@@ -1,14 +1,27 @@
 ---
-title: "Falecimento de Cristina Buarque, Irmã de Chico Buarque, aos 74 Anos"
-slug: "morre-cristina-buarque-cantora-irm-de-chico-buarque-aos-74-anos"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/LzBf4pIvapDMDQKu7lywlm6bqdM=/987x0/smart/uploads/conteudo/fotos/cristinabuarque.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/_pqATLxmD8dJJPtPqqOvjDBMX9o=/480x360/smart/extras/conteudos/cristinabuarque.jpg"
-tags: ["Cristina Buarque", "morte Cristina Buarque", "irmã Chico Buarque", "música brasileira", "cultura brasileira", "samba"]
-keywords: "Cristina Buarque, morte Cristina Buarque, irmã Chico Buarque, música brasileira, cultura brasileira, samba"
-author: "Ana Luiza"
-data: "2025-04-20T15:17:34.115Z"
+title: 'Falecimento de Cristina Buarque, Irmã de Chico Buarque, aos 74 Anos'
+slug: morre-cristina-buarque-cantora-irm-de-chico-buarque-aos-74-anos
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/LzBf4pIvapDMDQKu7lywlm6bqdM=/987x0/smart/uploads/conteudo/fotos/cristinabuarque.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/_pqATLxmD8dJJPtPqqOvjDBMX9o=/480x360/smart/extras/conteudos/cristinabuarque.jpg
+tags:
+  - Cristina Buarque
+  - morte Cristina Buarque
+  - irmã Chico Buarque
+  - música brasileira
+  - cultura brasileira
+  - samba
+keywords: >-
+  Cristina Buarque, morte Cristina Buarque, irmã Chico Buarque, música
+  brasileira, cultura brasileira, samba
+author: Ana Luiza
+data: '2025-04-20T15:17:34.115Z'
+resumo: >-
+  Cristina Buarque, conhecida pela canção 'Quantas Lágrimas', faleceu aos 74
+  anos.
 ---
 
 A música brasileira perdeu um de seus talentos discretos, Cristina Buarque, que faleceu neste domingo (20), aos 74 anos. A triste notícia foi anunciada por seu filho, Zeca Ferreira, através das redes sociais, embora a causa específica da morte não tenha sido revelada. De acordo com informações do jornal O Globo, Cristina enfrentava uma luta contra o câncer nos últimos anos.

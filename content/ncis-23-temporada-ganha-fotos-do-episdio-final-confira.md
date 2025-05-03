@@ -1,14 +1,29 @@
 ---
-title: "NCIS: Final da 23ª Temporada Revela Imagens Impactantes e Promete Emoções Fortes"
-slug: "ncis-23-temporada-ganha-fotos-do-episdio-final-confira"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/zeJrdRLIMrwGIgbmFtF6SG-XJZo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T104416.673.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/zeJrdRLIMrwGIgbmFtF6SG-XJZo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T104416.673.png"
-tags: ["NCIS", "NCIS Origins", "final 23ª temporada NCIS", "Paramount+", "Prime Video", "imagens episódio final NCIS"]
-keywords: "NCIS, NCIS Origins, final 23ª temporada NCIS, Paramount+, Prime Video, imagens episódio final NCIS"
-author: "Pablo Moura"
-data: "2025-05-01T14:18:46.855Z"
+title: >-
+  NCIS: Final da 23ª Temporada Revela Imagens Impactantes e Promete Emoções
+  Fortes
+slug: ncis-23-temporada-ganha-fotos-do-episdio-final-confira
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/zeJrdRLIMrwGIgbmFtF6SG-XJZo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T104416.673.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/zeJrdRLIMrwGIgbmFtF6SG-XJZo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T104416.673.png
+tags:
+  - NCIS
+  - NCIS Origins
+  - final 23ª temporada NCIS
+  - Paramount+
+  - Prime Video
+  - imagens episódio final NCIS
+keywords: >-
+  NCIS, NCIS Origins, final 23ª temporada NCIS, Paramount+, Prime Video, imagens
+  episódio final NCIS
+author: Pablo Moura
+data: '2025-05-01T14:18:46.855Z'
+resumo: >-
+  A 23ª temporada de NCIS chega ao seu clímax com imagens inéditas do episódio
+  final, enquanto NCIS: Origins prepara terreno para mais revelações.
 ---
 
 ## NCIS Encerra sua 23ª Temporada com Surpresas

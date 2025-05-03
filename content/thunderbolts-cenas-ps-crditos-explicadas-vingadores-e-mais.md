@@ -1,14 +1,29 @@
 ---
-title: "Thunderbolts: As Cenas Pós-Créditos Que Moldam o Futuro do MCU"
-slug: "thunderbolts-cenas-ps-crditos-explicadas-vingadores-e-mais"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/r37vwuH7ZPU?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/__2ZweWXrFZTp0EoD8kcR8inXic=/480x360/smart/extras/conteudos/thunderbolts_PrpfJjE.jpg"
-tags: ["Thunderbolts", "Marvel", "MCU", "Quarteto Fantástico", "Vingadores: Doomsday", "cenas pós-créditos", "cinema", "filmes de super-heróis"]
-keywords: "Thunderbolts, Marvel, MCU, Quarteto Fantástico, Vingadores: Doomsday, cenas pós-créditos, cinema, filmes de super-heróis"
-author: "Pablo Moura"
-data: "2025-05-02T23:19:19.759Z"
+title: 'Thunderbolts: As Cenas Pós-Créditos Que Moldam o Futuro do MCU'
+slug: thunderbolts-cenas-ps-crditos-explicadas-vingadores-e-mais
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/r37vwuH7ZPU?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/__2ZweWXrFZTp0EoD8kcR8inXic=/480x360/smart/extras/conteudos/thunderbolts_PrpfJjE.jpg
+tags:
+  - Thunderbolts
+  - Marvel
+  - MCU
+  - Quarteto Fantástico
+  - 'Vingadores: Doomsday'
+  - cenas pós-créditos
+  - cinema
+  - filmes de super-heróis
+keywords: >-
+  Thunderbolts, Marvel, MCU, Quarteto Fantástico, Vingadores: Doomsday, cenas
+  pós-créditos, cinema, filmes de super-heróis
+author: Pablo Moura
+data: '2025-05-02T23:19:19.759Z'
+resumo: >-
+  O filme Thunderbolts da Marvel apresenta cenas pós-créditos que estabelecem
+  conexões intrigantes com futuros projetos do MCU, incluindo uma possível
+  interação com o Quarteto Fantástico.
 ---
 
 ## Thunderbolts Estreia com Surpresas no MCU

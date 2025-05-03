@@ -1,14 +1,30 @@
 ---
-title: "Sydney Sweeney Brilha em 'Split Fiction': Uma Promissora Adaptação Cinematográfica"
-slug: "split-fiction-adaptao-para-cinema-ter-sydney-sweeney-como-protagonista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/bSZk_X_dT2F6XI7enu4Bb9tUXms=/987x0/smart/uploads/conteudo/fotos/split-fiction-filme-sydney-sweeney.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nES87FUZgGt0YOwustKXjb5W80w=/480x360/smart/extras/conteudos/split-fiction-filme-sydney-sweeney.jpg"
-tags: ["Sydney Sweeney", "Split Fiction", "Jon M. Chu", "adaptação cinematográfica", "Hazelight Studios", "It Takes Two", "cinema"]
-keywords: "Sydney Sweeney, Split Fiction, Jon M. Chu, adaptação cinematográfica, Hazelight Studios, It Takes Two, cinema"
-author: "Luana Souza"
-data: "2025-04-25T12:37:31.894Z"
+title: >-
+  Sydney Sweeney Brilha em 'Split Fiction': Uma Promissora Adaptação
+  Cinematográfica
+slug: split-fiction-adaptao-para-cinema-ter-sydney-sweeney-como-protagonista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/bSZk_X_dT2F6XI7enu4Bb9tUXms=/987x0/smart/uploads/conteudo/fotos/split-fiction-filme-sydney-sweeney.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nES87FUZgGt0YOwustKXjb5W80w=/480x360/smart/extras/conteudos/split-fiction-filme-sydney-sweeney.jpg
+tags:
+  - Sydney Sweeney
+  - Split Fiction
+  - Jon M. Chu
+  - adaptação cinematográfica
+  - Hazelight Studios
+  - It Takes Two
+  - cinema
+keywords: >-
+  Sydney Sweeney, Split Fiction, Jon M. Chu, adaptação cinematográfica,
+  Hazelight Studios, It Takes Two, cinema
+author: Luana Souza
+data: '2025-04-25T12:37:31.894Z'
+resumo: >-
+  Sydney Sweeney, estrela de 'Euphoria', é confirmada como protagonista no filme
+  'Split Fiction', dirigido pelo aclamado Jon M. Chu.
 ---
 
 ## Sydney Sweeney e Jon M. Chu Juntos em 'Split Fiction'

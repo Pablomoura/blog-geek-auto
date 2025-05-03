@@ -1,14 +1,29 @@
 ---
-title: "Thunderbolts*: O Enigma do Asterisco Revelado em Novo Trailer"
-slug: "thunderbolts-asterisco-do-ttulo-tema-de-novo-trailer-do-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Sb8hMZ2j62bfa1W00HUx7gRGSZo=/987x0/smart/uploads/conteudo/fotos/thunderboltsvarianteposter_n9Ma7H8.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/aktaqoeG_bDrxzM1pc4ER5O8B18=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_eFwV9tq.jpg"
-tags: ["Thunderbolts", "Marvel", "MCU", "Florence Pugh", "filme de super-heróis", "estreia 2025", "trailer novo", "Quarteto Fantástico"]
-keywords: "Thunderbolts, Marvel, MCU, Florence Pugh, filme de super-heróis, estreia 2025, trailer novo, Quarteto Fantástico"
-author: "Ana Luiza"
-data: "2025-04-19T16:17:33.945Z"
+title: 'Thunderbolts*: O Enigma do Asterisco Revelado em Novo Trailer'
+slug: thunderbolts-asterisco-do-ttulo-tema-de-novo-trailer-do-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Sb8hMZ2j62bfa1W00HUx7gRGSZo=/987x0/smart/uploads/conteudo/fotos/thunderboltsvarianteposter_n9Ma7H8.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/aktaqoeG_bDrxzM1pc4ER5O8B18=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_eFwV9tq.jpg
+tags:
+  - Thunderbolts
+  - Marvel
+  - MCU
+  - Florence Pugh
+  - filme de super-heróis
+  - estreia 2025
+  - trailer novo
+  - Quarteto Fantástico
+keywords: >-
+  Thunderbolts, Marvel, MCU, Florence Pugh, filme de super-heróis, estreia 2025,
+  trailer novo, Quarteto Fantástico
+author: Ana Luiza
+data: '2025-04-19T16:17:33.945Z'
+resumo: >-
+  O aguardado filme da Marvel, Thunderbolts*, tem estreia marcada para maio de
+  2025 e promete intrigas com um elenco estelar.
 ---
 
 A Marvel eleva a expectativa com o lançamento de um intrigante novo trailer de Thunderbolts*, que explora o misterioso asterisco no título do filme. O trailer, lançado na última sexta-feira, destaca cenas inéditas protagonizadas por Florence Pugh e especulações sobre o significado desse caractere especial.

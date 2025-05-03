@@ -1,14 +1,34 @@
 ---
-title: "Revelado o Visual do Novo Vilão de Superman no Filme de James Gunn!"
-slug: "superman-imagem-de-livro-revela-visual-completo-de-vilo-do-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/8wHDV9yc49_11g1N8H3ThgZ8zuY=/987x0/smart/uploads/conteudo/fotos/superman-nao-vai-salvar-dc_21bAvMx.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NE5JsMliOg7m4wlhvpLYtaj_J4A=/480x360/smart/extras/conteudos/superman-james-gunn-trailer_u0hzSN5.jpg"
-tags: ["Superman", "James Gunn", "DC", "novo filme Superman", "Martelo da Boravia", "David Corenswet", "Rachel Brosnahan", "Nicholas Hoult", "DCU", "Universo Cinematográfico da DC", "especial-Superman"]
-keywords: "Superman, James Gunn, DC, novo filme Superman, Martelo da Boravia, David Corenswet, Rachel Brosnahan, Nicholas Hoult, DCU, Universo Cinematográfico da DC"
-author: "Pablo Moura"
-data: "2025-04-21T21:17:59.748Z"
+title: Revelado o Visual do Novo Vilão de Superman no Filme de James Gunn!
+slug: superman-imagem-de-livro-revela-visual-completo-de-vilo-do-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/8wHDV9yc49_11g1N8H3ThgZ8zuY=/987x0/smart/uploads/conteudo/fotos/superman-nao-vai-salvar-dc_21bAvMx.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NE5JsMliOg7m4wlhvpLYtaj_J4A=/480x360/smart/extras/conteudos/superman-james-gunn-trailer_u0hzSN5.jpg
+tags:
+  - Superman
+  - James Gunn
+  - DC
+  - novo filme Superman
+  - Martelo da Boravia
+  - David Corenswet
+  - Rachel Brosnahan
+  - Nicholas Hoult
+  - DCU
+  - Universo Cinematográfico da DC
+  - especial-Superman
+keywords: >-
+  Superman, James Gunn, DC, novo filme Superman, Martelo da Boravia, David
+  Corenswet, Rachel Brosnahan, Nicholas Hoult, DCU, Universo Cinematográfico da
+  DC
+author: Pablo Moura
+data: '2025-04-21T21:17:59.748Z'
+resumo: >-
+  Uma imagem de um produto oficial pode ter dado aos fãs um primeiro olhar sobre
+  Martelo da Boravia, o novo vilão do próximo filme de Superman dirigido por
+  James Gunn.
 ---
 
 Os fãs de Superman estão em polvorosa com a revelação do visual de um dos possíveis vilões do filme, conhecido como Martelo da Boravia. A imagem, extraída de produtos oficiais do filme, promete adicionar mais um personagem intrigante ao rico universo de Metrópoles. O filme, dirigido e escrito por James Gunn, apresentará David Corenswet como Clark Kent, acompanhado por um elenco estelar que inclui Rachel Brosnahan como Lois Lane, Nicholas Hoult como Lex Luthor, e muitos outros.

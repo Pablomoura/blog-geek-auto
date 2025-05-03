@@ -1,14 +1,30 @@
 ---
-title: "Sucesso Estrondoso: 'Um Filme Minecraft' Ultrapassa US$ 800 Milhões Globalmente"
-slug: "bilheteria-um-filme-minecraft-passa-dos-us-800-milhes-no-mundo"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg"
-tags: ["Um Filme Minecraft", "bilheteria Minecraft", "recorde de bilheteria", "Minecraft", "Jack Black", "Jason Momoa", "Jared Hess", "adaptação de games"]
-keywords: "Um Filme Minecraft, bilheteria Minecraft, recorde de bilheteria, Minecraft, Jack Black, Jason Momoa, Jared Hess, adaptação de games"
-author: "Ana Luiza"
-data: "2025-04-27T16:21:49.344Z"
+title: >-
+  Sucesso Estrondoso: 'Um Filme Minecraft' Ultrapassa US$ 800 Milhões
+  Globalmente
+slug: bilheteria-um-filme-minecraft-passa-dos-us-800-milhes-no-mundo
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/PHDdiCAIJFOIa48iWIpSIobamhA=/480x360/smart/extras/conteudos/01_xkbPbLN.jpg
+tags:
+  - Um Filme Minecraft
+  - bilheteria Minecraft
+  - recorde de bilheteria
+  - Minecraft
+  - Jack Black
+  - Jason Momoa
+  - Jared Hess
+  - adaptação de games
+keywords: >-
+  Um Filme Minecraft, bilheteria Minecraft, recorde de bilheteria, Minecraft,
+  Jack Black, Jason Momoa, Jared Hess, adaptação de games
+author: Ana Luiza
+data: '2025-04-27T16:21:49.344Z'
+resumo: >-
+  A adaptação cinematográfica de 'Minecraft' já faturou impressionantes US$ 816
+  milhões mundialmente, tornando-se o maior lançamento de 2025.
 ---
 
 ## Desempenho Global de 'Um Filme Minecraft'

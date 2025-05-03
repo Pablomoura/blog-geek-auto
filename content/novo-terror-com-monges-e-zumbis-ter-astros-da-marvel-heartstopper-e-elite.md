@@ -1,14 +1,34 @@
 ---
-title: "Rapture: Novo Thriller de Terror Medieval Com Elenco de Estrelas da Marvel e Netflix"
-slug: "novo-terror-com-monges-e-zumbis-ter-astros-da-marvel-heartstopper-e-elite"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/H3aribs90yvHtuGdLWoNLxTcPNw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T132727.647.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/0TsrfLqgBjNZqur9yg6ViFe4AN8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T132636.742.png"
-tags: ["Rapture", "terror", "zumbis", "monges", "Inglaterra Medieval", "Marvel", "Heartstopper", "Elite", "Jordan Tannahill", "financiamento de filmes"]
-keywords: "Rapture, terror, zumbis, monges, Inglaterra Medieval, Marvel, Heartstopper, Elite, Jordan Tannahill, financiamento de filmes"
-author: "Pablo Moura"
-data: "2025-05-02T17:17:36.061Z"
+title: >-
+  Rapture: Novo Thriller de Terror Medieval Com Elenco de Estrelas da Marvel e
+  Netflix
+slug: novo-terror-com-monges-e-zumbis-ter-astros-da-marvel-heartstopper-e-elite
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/H3aribs90yvHtuGdLWoNLxTcPNw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T132727.647.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/0TsrfLqgBjNZqur9yg6ViFe4AN8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T132636.742.png
+tags:
+  - Rapture
+  - terror
+  - zumbis
+  - monges
+  - Inglaterra Medieval
+  - Marvel
+  - Heartstopper
+  - Elite
+  - Jordan Tannahill
+  - financiamento de filmes
+keywords: >-
+  Rapture, terror, zumbis, monges, Inglaterra Medieval, Marvel, Heartstopper,
+  Elite, Jordan Tannahill, financiamento de filmes
+author: Pablo Moura
+data: '2025-05-02T17:17:36.061Z'
+resumo: >-
+  O filme 'Rapture' combina zumbis e monges na Inglaterra Medieval, com um
+  elenco que inclui atores de Marvel, Heartstopper e Elite, ainda em busca de
+  financiamento.
 ---
 
 ## 'Rapture': Uma Fusão de Épocas e Gêneros

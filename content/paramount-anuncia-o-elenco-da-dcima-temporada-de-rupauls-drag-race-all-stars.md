@@ -1,14 +1,31 @@
 ---
-title: "RuPaul's Drag Race All Stars 10 Inova com Torneio das Estrelas: Confira o Elenco e Detalhes"
-slug: "paramount-anuncia-o-elenco-da-dcima-temporada-de-rupauls-drag-race-all-stars"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/I1Dq0l6JCdopn_CBgdidZOPeCuE=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-24T201619.040.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/KXsAHcq1jlbN3CsYrBmtIdnnS_w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T201619.040.png"
-tags: ["RuPaul's Drag Race All Stars", "Torneio das Estrelas", "Paramount+", "estreia", "elenco", "formato novo", "competição"]
-keywords: "RuPaul's Drag Race All Stars, Torneio das Estrelas, Paramount+, estreia, elenco, formato novo, competição"
-author: "Luana Souza"
-data: "2025-04-25T01:17:47.569Z"
+title: >-
+  RuPaul's Drag Race All Stars 10 Inova com Torneio das Estrelas: Confira o
+  Elenco e Detalhes
+slug: paramount-anuncia-o-elenco-da-dcima-temporada-de-rupauls-drag-race-all-stars
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/I1Dq0l6JCdopn_CBgdidZOPeCuE=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-24T201619.040.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/KXsAHcq1jlbN3CsYrBmtIdnnS_w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T201619.040.png
+tags:
+  - RuPaul's Drag Race All Stars
+  - Torneio das Estrelas
+  - Paramount+
+  - estreia
+  - elenco
+  - formato novo
+  - competição
+keywords: >-
+  RuPaul's Drag Race All Stars, Torneio das Estrelas, Paramount+, estreia,
+  elenco, formato novo, competição
+author: Luana Souza
+data: '2025-04-25T01:17:47.569Z'
+resumo: >-
+  A décima temporada de RuPaul's Drag Race All Stars estreia com um novo formato
+  de competição e um elenco promissor, pronto para brilhar no Paramount+ a
+  partir de 13 de junho.
 ---
 
 ## Novo Formato e Elenco Estelar de RuPaul's Drag Race All Stars 10

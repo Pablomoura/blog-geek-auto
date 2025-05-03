@@ -1,14 +1,28 @@
 ---
-title: "Globo Celebra 60 Anos com Especial no Horário da Tela Quente"
-slug: "por-que-a-tela-quente-no-passa-hoje-28-de-abril-na-globo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/btrCigRX7s3KAspEtn3bSE6neJw=/987x0/smart/uploads/conteudo/fotos/telaquente_2GnVJDM.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/zNgKKi1tDs3hPgB-368J8gqxb-s=/480x360/smart/extras/conteudos/telaquente_uUd2TYr.jpg"
-tags: ["Globo 60 anos", "Tela Quente", "especial de aniversário Globo", "estrelas brasileiras", "TV brasileira", "história da Globo"]
-keywords: "Globo 60 anos, Tela Quente, especial de aniversário Globo, estrelas brasileiras, TV brasileira, história da Globo"
-author: "Pablo Moura"
-data: "2025-04-28T11:38:14.536Z"
+title: Globo Celebra 60 Anos com Especial no Horário da Tela Quente
+slug: por-que-a-tela-quente-no-passa-hoje-28-de-abril-na-globo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/btrCigRX7s3KAspEtn3bSE6neJw=/987x0/smart/uploads/conteudo/fotos/telaquente_2GnVJDM.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/zNgKKi1tDs3hPgB-368J8gqxb-s=/480x360/smart/extras/conteudos/telaquente_uUd2TYr.jpg
+tags:
+  - Globo 60 anos
+  - Tela Quente
+  - especial de aniversário Globo
+  - estrelas brasileiras
+  - TV brasileira
+  - história da Globo
+keywords: >-
+  Globo 60 anos, Tela Quente, especial de aniversário Globo, estrelas
+  brasileiras, TV brasileira, história da Globo
+author: Pablo Moura
+data: '2025-04-28T11:38:14.536Z'
+resumo: >-
+  Nesta segunda-feira, a Globo substitui a tradicional Tela Quente por um
+  grandioso especial de aniversário, destacando seis décadas de história com
+  estrelas nacionais.
 ---
 
 ## Globo Interrompe Tela Quente para Comemorar 60 Anos

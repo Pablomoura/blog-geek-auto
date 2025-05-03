@@ -1,14 +1,27 @@
 ---
-title: "Gamescom Latam 2025: Destaques e Vencedores do BIG Festival"
-slug: "gamescom-latam-2025-veja-os-vencedores-do-big-festival"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/4PCbUivtkyI?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/FBKjl5I3Y4h--LuEN3mx0oURtEc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_120125.png"
-tags: ["Gamescom Latam 2025", "BIG Festival", "Shuhei Yoshida", "Nine Sols", "Melhor Jogo", "premiação de jogos", "evento de jogos em São Paulo"]
-keywords: "Gamescom Latam 2025, BIG Festival, Shuhei Yoshida, Nine Sols, Melhor Jogo, premiação de jogos, evento de jogos em São Paulo"
-author: "Luana Souza"
-data: "2025-05-01T15:21:27.883Z"
+title: 'Gamescom Latam 2025: Destaques e Vencedores do BIG Festival'
+slug: gamescom-latam-2025-veja-os-vencedores-do-big-festival
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/4PCbUivtkyI?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/FBKjl5I3Y4h--LuEN3mx0oURtEc=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_120125.png
+tags:
+  - Gamescom Latam 2025
+  - BIG Festival
+  - Shuhei Yoshida
+  - Nine Sols
+  - Melhor Jogo
+  - premiação de jogos
+  - evento de jogos em São Paulo
+keywords: >-
+  Gamescom Latam 2025, BIG Festival, Shuhei Yoshida, Nine Sols, Melhor Jogo,
+  premiação de jogos, evento de jogos em São Paulo
+author: Luana Souza
+data: '2025-05-01T15:21:27.883Z'
+resumo: >-
+  Shuhei Yoshida recebe homenagem especial e 'Nine Sols' é eleito o Melhor Jogo
+  no BIG Festival, evento integrante da gamescom Latam 2025.
 ---
 
 ## Homenagem a Um Ícone dos Videojogos

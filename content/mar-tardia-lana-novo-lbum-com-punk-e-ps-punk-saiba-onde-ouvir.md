@@ -1,14 +1,28 @@
 ---
-title: "Maré Tardia explora punk e pós-punk em seu novo álbum 'Sem Diversão Pra Mim'"
-slug: "mar-tardia-lana-novo-lbum-com-punk-e-ps-punk-saiba-onde-ouvir"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/fVXUDa5udXJ0NiIbE5qN5Cgdb4g=/987x0/smart/uploads/conteudo/fotos/02_LZAKUTU.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/1B9UVadMHW0UxLMI70hUd4S2qRg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_114518.png"
-tags: ["Maré Tardia", "Sem Diversão Pra Mim", "novo álbum", "punk", "pós-punk", "música brasileira", "lançamento de álbum"]
-keywords: "Maré Tardia, Sem Diversão Pra Mim, novo álbum, punk, pós-punk, música brasileira, lançamento de álbum"
-author: "Ana Luiza"
-data: "2025-04-30T15:21:42.273Z"
+title: Maré Tardia explora punk e pós-punk em seu novo álbum 'Sem Diversão Pra Mim'
+slug: mar-tardia-lana-novo-lbum-com-punk-e-ps-punk-saiba-onde-ouvir
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/fVXUDa5udXJ0NiIbE5qN5Cgdb4g=/987x0/smart/uploads/conteudo/fotos/02_LZAKUTU.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/1B9UVadMHW0UxLMI70hUd4S2qRg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_114518.png
+tags:
+  - Maré Tardia
+  - Sem Diversão Pra Mim
+  - novo álbum
+  - punk
+  - pós-punk
+  - música brasileira
+  - lançamento de álbum
+keywords: >-
+  Maré Tardia, Sem Diversão Pra Mim, novo álbum, punk, pós-punk, música
+  brasileira, lançamento de álbum
+author: Ana Luiza
+data: '2025-04-30T15:21:42.273Z'
+resumo: >-
+  A banda Maré Tardia lança 'Sem Diversão Pra Mim', um álbum repleto de
+  influências variadas, disponível agora nas principais plataformas digitais.
 ---
 
 ## 'Sem Diversão Pra Mim': Uma Jornada Musical de Três Anos

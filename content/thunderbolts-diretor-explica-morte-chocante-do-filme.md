@@ -1,14 +1,29 @@
 ---
-title: "Thunderbolts Surpreende com Morte Chocante de Personagem Principal"
-slug: "thunderbolts-diretor-explica-morte-chocante-do-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/JaTvgWkvzQCUPtB-ztaySMSF4FY=/987x0/smart/uploads/conteudo/fotos/thunderboltsvariante2.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Mn15Cl4ZHsbwXWKQ-c0MXvLXjCM=/480x360/smart/extras/conteudos/thunderboltsvariante2.jpg"
-tags: ["Thunderbolts", "Marvel", "MCU", "Jake Schreier", "Olga Kurylenko", "morte chocante", "bilheterias", "futuro dos Vingadores"]
-keywords: "Thunderbolts, Marvel, MCU, Jake Schreier, Olga Kurylenko, morte chocante, bilheterias, futuro dos Vingadores"
-author: "Luana Souza"
-data: "2025-05-03T14:16:50.007Z"
+title: Thunderbolts Surpreende com Morte Chocante de Personagem Principal
+slug: thunderbolts-diretor-explica-morte-chocante-do-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/JaTvgWkvzQCUPtB-ztaySMSF4FY=/987x0/smart/uploads/conteudo/fotos/thunderboltsvariante2.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Mn15Cl4ZHsbwXWKQ-c0MXvLXjCM=/480x360/smart/extras/conteudos/thunderboltsvariante2.jpg
+tags:
+  - Thunderbolts
+  - Marvel
+  - MCU
+  - Jake Schreier
+  - Olga Kurylenko
+  - morte chocante
+  - bilheterias
+  - futuro dos Vingadores
+keywords: >-
+  Thunderbolts, Marvel, MCU, Jake Schreier, Olga Kurylenko, morte chocante,
+  bilheterias, futuro dos Vingadores
+author: Luana Souza
+data: '2025-05-03T14:16:50.007Z'
+resumo: >-
+  O diretor Jake Schreier revela os bastidores da decisão criativa por trás da
+  morte impactante no novo filme da Marvel, Thunderbolts.
 ---
 
 ## Um Choque Narrativo em Thunderbolts

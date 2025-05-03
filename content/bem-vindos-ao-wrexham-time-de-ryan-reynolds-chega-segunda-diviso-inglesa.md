@@ -1,14 +1,32 @@
 ---
-title: "Ascensão Histórica: Wrexham de Ryan Reynolds Conquista a Segunda Divisão Inglesa"
-slug: "bem-vindos-ao-wrexham-time-de-ryan-reynolds-chega-segunda-diviso-inglesa"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/OB4HCeS68k0FCYefu9dJ8gl37mo=/987x0/smart/uploads/conteudo/fotos/bemvindoawrexham.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/efWivmW17Y4gNVKJIcfvI65tVBA=/480x360/smart/extras/conteudos/bemvindoawrexham.jpg"
-tags: ["Wrexham", "Ryan Reynolds", "Rob McElhenney", "Segunda Divisão Inglesa", "futebol", "Bem-vindos ao Wrexham", "Disney+", "campeonato inglês"]
-keywords: "Wrexham, Ryan Reynolds, Rob McElhenney, Segunda Divisão Inglesa, futebol, Bem-vindos ao Wrexham, Disney+, campeonato inglês"
-author: "Luana Souza"
-data: "2025-04-27T14:16:33.921Z"
+title: >-
+  Ascensão Histórica: Wrexham de Ryan Reynolds Conquista a Segunda Divisão
+  Inglesa
+slug: bem-vindos-ao-wrexham-time-de-ryan-reynolds-chega-segunda-diviso-inglesa
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/OB4HCeS68k0FCYefu9dJ8gl37mo=/987x0/smart/uploads/conteudo/fotos/bemvindoawrexham.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/efWivmW17Y4gNVKJIcfvI65tVBA=/480x360/smart/extras/conteudos/bemvindoawrexham.jpg
+tags:
+  - Wrexham
+  - Ryan Reynolds
+  - Rob McElhenney
+  - Segunda Divisão Inglesa
+  - futebol
+  - Bem-vindos ao Wrexham
+  - Disney+
+  - campeonato inglês
+keywords: >-
+  Wrexham, Ryan Reynolds, Rob McElhenney, Segunda Divisão Inglesa, futebol,
+  Bem-vindos ao Wrexham, Disney+, campeonato inglês
+author: Luana Souza
+data: '2025-04-27T14:16:33.921Z'
+resumo: >-
+  O Wrexham, time co-propriedade dos atores Ryan Reynolds e Rob McElhenney,
+  garantiu sua promoção à Segunda Divisão da Inglaterra após uma vitória
+  decisiva sobre o Charlton.
 ---
 
 ## Wrexham: De Hollywood às Grandes Ligas do Futebol Britânico

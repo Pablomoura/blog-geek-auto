@@ -1,14 +1,33 @@
 ---
-title: "Gamescom Latam 2025 em São Paulo: SEGA, Bandai Namco e Arc System Works Confirmados!"
-slug: "gamescom-latam-2025-ter-sega-bandai-namco-e-arc-system-works"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/hJEhLT5is34?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/qoFN_3otnhptjv8oj2jcY8zq42s=/480x360/smart/extras/conteudos/unnamed_Z3cGrnV.png"
-tags: ["Gamescom Latam 2025", "SEGA", "Bandai Namco", "Arc System Works", "Demon Slayer", "Elden Ring", "Hunter X Hunter", "Double Dragon", "São Paulo", "eventos de games"]
-keywords: "Gamescom Latam 2025, SEGA, Bandai Namco, Arc System Works, Demon Slayer, Elden Ring, Hunter X Hunter, Double Dragon, São Paulo, eventos de games"
-author: "Luana Souza"
-data: "2025-04-22T18:27:26.160Z"
+title: >-
+  Gamescom Latam 2025 em São Paulo: SEGA, Bandai Namco e Arc System Works
+  Confirmados!
+slug: gamescom-latam-2025-ter-sega-bandai-namco-e-arc-system-works
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/hJEhLT5is34?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/qoFN_3otnhptjv8oj2jcY8zq42s=/480x360/smart/extras/conteudos/unnamed_Z3cGrnV.png
+tags:
+  - Gamescom Latam 2025
+  - SEGA
+  - Bandai Namco
+  - Arc System Works
+  - Demon Slayer
+  - Elden Ring
+  - Hunter X Hunter
+  - Double Dragon
+  - São Paulo
+  - eventos de games
+keywords: >-
+  Gamescom Latam 2025, SEGA, Bandai Namco, Arc System Works, Demon Slayer, Elden
+  Ring, Hunter X Hunter, Double Dragon, São Paulo, eventos de games
+author: Luana Souza
+data: '2025-04-22T18:27:26.160Z'
+resumo: >-
+  A edição de 2025 da Gamescom Latam, que ocorrerá em São Paulo, contará com a
+  presença de gigantes como SEGA, Bandai Namco e Arc System Works, trazendo
+  lançamentos exclusivos e experiências imersivas.
 ---
 
 A Gamescom Latam 2025, um dos maiores eventos de jogos da América Latina, promete grandes emoções para os entusiastas de games entre os dias 1 e 4 de maio no Distrito Anhembi, em São Paulo. Este ano, o evento se destaca pela participação de grandes nomes da indústria, incluindo SEGA, Bandai Namco e Arc System Works.

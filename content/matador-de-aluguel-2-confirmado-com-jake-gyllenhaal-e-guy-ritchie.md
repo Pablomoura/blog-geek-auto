@@ -1,14 +1,28 @@
 ---
-title: "Jake Gyllenhaal e Guy Ritchie Confirmados em 'Matador de Aluguel 2'"
-slug: "matador-de-aluguel-2-confirmado-com-jake-gyllenhaal-e-guy-ritchie"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/dVK-Nr5qCL13SG1RQJ1dAYTPAU4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_7_jAsLYeG.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/sZ-3ZIiJjLawXFGbXtJelx2kdf0=/480x360/smart/extras/conteudos/Design_sem_nome_7_eKcjKAr.jpg"
-tags: ["Matador de Aluguel 2", "Jake Gyllenhaal", "Guy Ritchie", "sequência", "cinema", "filme", "Prime Video"]
-keywords: "Matador de Aluguel 2, Jake Gyllenhaal, Guy Ritchie, sequência, cinema, filme, Prime Video"
-author: "Luana Souza"
-data: "2025-04-30T20:21:06.515Z"
+title: Jake Gyllenhaal e Guy Ritchie Confirmados em 'Matador de Aluguel 2'
+slug: matador-de-aluguel-2-confirmado-com-jake-gyllenhaal-e-guy-ritchie
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/dVK-Nr5qCL13SG1RQJ1dAYTPAU4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_7_jAsLYeG.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/sZ-3ZIiJjLawXFGbXtJelx2kdf0=/480x360/smart/extras/conteudos/Design_sem_nome_7_eKcjKAr.jpg
+tags:
+  - Matador de Aluguel 2
+  - Jake Gyllenhaal
+  - Guy Ritchie
+  - sequência
+  - cinema
+  - filme
+  - Prime Video
+keywords: >-
+  Matador de Aluguel 2, Jake Gyllenhaal, Guy Ritchie, sequência, cinema, filme,
+  Prime Video
+author: Luana Souza
+data: '2025-04-30T20:21:06.515Z'
+resumo: >-
+  A sequência de 'Matador de Aluguel' traz grandes novidades com a direção de
+  Guy Ritchie e o retorno de Jake Gyllenhaal como protagonista.
 ---
 
 ## Guy Ritchie Assume a Direção de 'Matador de Aluguel 2'

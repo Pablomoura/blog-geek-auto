@@ -1,14 +1,29 @@
 ---
-title: "Playoffs NBA 2024: Detalhes do Decisivo Jogo 7 Entre Clippers e Nuggets"
-slug: "nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-deste-sbado-0305"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/S3n7b0oJ-xtXuGcqPkI95JOQqy0=/987x0/smart/uploads/conteudo/fotos/james-harden-playoffs-nba.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/GbNGbzD_l2hPcpSlQCpNLbJ45zY=/480x360/smart/extras/conteudos/james-harden-playoffs-nba-peq.jpg"
-tags: ["NBA", "Playoffs NBA 2024", "Los Angeles Clippers", "Denver Nuggets", "NBA League Pass", "Prime Video", "Jogo 7", "Conferência Oeste"]
-keywords: "NBA, Playoffs NBA 2024, Los Angeles Clippers, Denver Nuggets, NBA League Pass, Prime Video, Jogo 7, Conferência Oeste"
-author: "Ana Luiza"
-data: "2025-05-03T11:15:35.025Z"
+title: 'Playoffs NBA 2024: Detalhes do Decisivo Jogo 7 Entre Clippers e Nuggets'
+slug: nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-deste-sbado-0305
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/S3n7b0oJ-xtXuGcqPkI95JOQqy0=/987x0/smart/uploads/conteudo/fotos/james-harden-playoffs-nba.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/GbNGbzD_l2hPcpSlQCpNLbJ45zY=/480x360/smart/extras/conteudos/james-harden-playoffs-nba-peq.jpg
+tags:
+  - NBA
+  - Playoffs NBA 2024
+  - Los Angeles Clippers
+  - Denver Nuggets
+  - NBA League Pass
+  - Prime Video
+  - Jogo 7
+  - Conferência Oeste
+keywords: >-
+  NBA, Playoffs NBA 2024, Los Angeles Clippers, Denver Nuggets, NBA League Pass,
+  Prime Video, Jogo 7, Conferência Oeste
+author: Ana Luiza
+data: '2025-05-03T11:15:35.025Z'
+resumo: >-
+  Acompanhe o embate entre Los Angeles Clippers e Denver Nuggets neste sábado, 3
+  de maio, em um jogo crucial para os Playoffs da NBA.
 ---
 
 ## Playoffs NBA 2024: Jogo 7 - Los Angeles Clippers x Denver Nuggets

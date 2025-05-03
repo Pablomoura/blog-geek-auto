@@ -1,14 +1,26 @@
 ---
-title: "James Gunn Desmente Rumores Sobre Arqueiro Verde na Série 'Lanterns' da DC"
-slug: "lanternas-james-gunn-diz-que-ator-no-vazou-arqueiro-verde-na-srie"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/7gI-N26QX1Z82dgdFRJSD1uwxKs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T103155.613.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7gI-N26QX1Z82dgdFRJSD1uwxKs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T103155.613.png"
-tags: ["James Gunn", "Lanterns", "DC Studios", "Arqueiro Verde", "HBO Max", "série", "DCU"]
-keywords: "James Gunn, Lanterns, DC Studios, Arqueiro Verde, HBO Max, série, DCU"
-author: "Luana Souza"
-data: "2025-04-25T14:18:40.680Z"
+title: James Gunn Desmente Rumores Sobre Arqueiro Verde na Série 'Lanterns' da DC
+slug: lanternas-james-gunn-diz-que-ator-no-vazou-arqueiro-verde-na-srie
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/7gI-N26QX1Z82dgdFRJSD1uwxKs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T103155.613.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7gI-N26QX1Z82dgdFRJSD1uwxKs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T103155.613.png
+tags:
+  - James Gunn
+  - Lanterns
+  - DC Studios
+  - Arqueiro Verde
+  - HBO Max
+  - série
+  - DCU
+keywords: 'James Gunn, Lanterns, DC Studios, Arqueiro Verde, HBO Max, série, DCU'
+author: Luana Souza
+data: '2025-04-25T14:18:40.680Z'
+resumo: >-
+  James Gunn, chefe da DC Studios, esclarece os rumores sobre a presença do
+  Arqueiro Verde na nova série 'Lanterns', que estreia em 2026 na HBO Max.
 ---
 
 ## James Gunn Responde a Especulações sobre 'Lanterns'

@@ -1,14 +1,28 @@
 ---
-title: "Controvérsia Editorial: Mangá 'Urusei Yatsura' Publicado Sem Licença no Brasil"
-slug: "editora-publica-urusei-yatsura-sem-licena-e-justifica-para-chamar-ateno"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/NJWhWtIm1FXEVlqrtaTlUlMn2pI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T114811.335.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QF5qVdO8eLXTz9zpiUNAeq61-Zg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T114754.868.png"
-tags: ["Urusei Yatsura", "mangá sem licença", "editora Ao Leitor com Carinho", "Rumiko Takahashi", "mercado editorial brasileiro", "Shogakukan"]
-keywords: "Urusei Yatsura, mangá sem licença, editora Ao Leitor com Carinho, Rumiko Takahashi, mercado editorial brasileiro, Shogakukan"
-author: "Luana Souza"
-data: "2025-04-22T15:20:38.471Z"
+title: 'Controvérsia Editorial: Mangá ''Urusei Yatsura'' Publicado Sem Licença no Brasil'
+slug: editora-publica-urusei-yatsura-sem-licena-e-justifica-para-chamar-ateno
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/NJWhWtIm1FXEVlqrtaTlUlMn2pI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T114811.335.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QF5qVdO8eLXTz9zpiUNAeq61-Zg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T114754.868.png
+tags:
+  - Urusei Yatsura
+  - mangá sem licença
+  - editora Ao Leitor com Carinho
+  - Rumiko Takahashi
+  - mercado editorial brasileiro
+  - Shogakukan
+keywords: >-
+  Urusei Yatsura, mangá sem licença, editora Ao Leitor com Carinho, Rumiko
+  Takahashi, mercado editorial brasileiro, Shogakukan
+author: Luana Souza
+data: '2025-04-22T15:20:38.471Z'
+resumo: >-
+  A editora Ao Leitor, com Carinho lançou o mangá 'Urusei Yatsura' sem
+  autorização oficial, numa tentativa de chamar a atenção do mercado editorial e
+  dos detentores de direitos japoneses.
 ---
 
 Em um movimento audacioso e controverso, a editora Ao Leitor, com Carinho, iniciada em fevereiro deste ano, publicou o famoso mangá 'Urusei Yatsura' sem a devida autorização. Este título, criado por Rumiko Takahashi, que também é responsável por sucessos como 'InuYasha' e 'Ranma 1/2', foi disponibilizado ao público brasileiro pela primeira vez através dessa editora, apesar da falta de licença oficial.

@@ -1,14 +1,30 @@
 ---
-title: "Tony Gilroy Defende Inclusão de Cena Controversa em 'Andor'"
-slug: "andor-criador-da-srie-justifica-cena-de-abuso"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Vnusld5LERnRq1yAFgYiHrDYcVI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-23T184202.562.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/9hUOlNfbnOvScyv4jHG8ODk7RHk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-23T184202.562.png"
-tags: ["Andor", "Tony Gilroy", "Disney+", "abuso sexual", "Cassian Andor", "Rogue One", "Diego Luna", "Star Wars"]
-keywords: "Andor, Tony Gilroy, Disney+, abuso sexual, Cassian Andor, Rogue One, Diego Luna, Star Wars"
-author: "Pablo Moura"
-data: "2025-04-23T22:22:11.747Z"
+title: Tony Gilroy Defende Inclusão de Cena Controversa em 'Andor'
+slug: andor-criador-da-srie-justifica-cena-de-abuso
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Vnusld5LERnRq1yAFgYiHrDYcVI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-23T184202.562.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/9hUOlNfbnOvScyv4jHG8ODk7RHk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-23T184202.562.png
+tags:
+  - Andor
+  - Tony Gilroy
+  - Disney+
+  - abuso sexual
+  - Cassian Andor
+  - Rogue One
+  - Diego Luna
+  - Star Wars
+keywords: >-
+  Andor, Tony Gilroy, Disney+, abuso sexual, Cassian Andor, Rogue One, Diego
+  Luna, Star Wars
+author: Pablo Moura
+data: '2025-04-23T22:22:11.747Z'
+resumo: >-
+  Tony Gilroy, criador de 'Andor', justifica a inclusão de uma cena de tentativa
+  de abuso na segunda temporada, ressaltando a importância histórica e narrativa
+  do tema.
 ---
 
 Na nova temporada de 'Andor', disponível no Disney+, uma cena intensa de tentativa de abuso sexual gerou debates entre os espectadores. Tony Gilroy, o showrunner da série, explicou sua decisão de incluir tal momento, destacando-o como uma representação crua da realidade das guerras e revoluções ao longo da história humana. 

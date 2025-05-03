@@ -1,14 +1,29 @@
 ---
-title: "Superman: Juiz Recusa Atraso e Novo Filme Segue para Estreia em 2025"
-slug: "superman-juiz-rejeita-processo-e-filme-ser-lanado-como-o-planejado"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/niM6l-Nf3XqzrGWXjd_XeQ0Tnyw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T101302.520.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dGtAgPsv3ilRvRATyxY-hgvt8kU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T101247.720.png"
-tags: ["Superman", "filme Superman 2025", "James Gunn", "DCU", "Warner Bros. Discovery", "direitos autorais Superman", "especial-Superman"]
-keywords: "Superman, filme Superman 2025, James Gunn, DCU, Warner Bros. Discovery, direitos autorais Superman"
-author: "Ana Luiza"
-data: "2025-04-25T13:28:07.772Z"
+title: 'Superman: Juiz Recusa Atraso e Novo Filme Segue para Estreia em 2025'
+slug: superman-juiz-rejeita-processo-e-filme-ser-lanado-como-o-planejado
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/niM6l-Nf3XqzrGWXjd_XeQ0Tnyw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T101302.520.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dGtAgPsv3ilRvRATyxY-hgvt8kU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T101247.720.png
+tags:
+  - Superman
+  - filme Superman 2025
+  - James Gunn
+  - DCU
+  - Warner Bros. Discovery
+  - direitos autorais Superman
+  - especial-Superman
+keywords: >-
+  Superman, filme Superman 2025, James Gunn, DCU, Warner Bros. Discovery,
+  direitos autorais Superman
+author: Ana Luiza
+data: '2025-04-25T13:28:07.772Z'
+resumo: >-
+  Após um desafio legal sobre direitos autorais, o lançamento do novo filme
+  'Superman' está confirmado para julho de 2025, com um elenco estelar e a
+  direção de James Gunn.
 ---
 
 ## Decisão Judicial Favorável Mantém Lançamento de 'Superman'

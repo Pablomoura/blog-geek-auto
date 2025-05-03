@@ -1,14 +1,32 @@
 ---
-title: "The Last of Us: Análise das Diferenças Marcantes Entre o Jogo e o Episódio 3 da Temporada 2"
-slug: "the-last-of-us-entenda-as-diferenas-entre-jogo-e-3-episdio-da-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/nskLSpbw4cs?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/-IJz0OXw4wKjkfnRDm-LSNhXB2A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T123548.892.png"
-tags: ["The Last of Us", "série The Last of Us", "jogo The Last of Us", "adaptação de jogos", "HBO", "Max", "Naughty Dog", "diferenças jogo e série", "especial-The Last of Us"]
-keywords: "The Last of Us, série The Last of Us, jogo The Last of Us, adaptação de jogos, HBO, Max, Naughty Dog, diferenças jogo e série"
-author: "Pablo Moura"
-data: "2025-04-29T01:25:46.674Z"
+title: >-
+  The Last of Us: Análise das Diferenças Marcantes Entre o Jogo e o Episódio 3
+  da Temporada 2
+slug: the-last-of-us-entenda-as-diferenas-entre-jogo-e-3-episdio-da-2-temporada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/nskLSpbw4cs?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/-IJz0OXw4wKjkfnRDm-LSNhXB2A=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T123548.892.png
+tags:
+  - The Last of Us
+  - série The Last of Us
+  - jogo The Last of Us
+  - adaptação de jogos
+  - HBO
+  - Max
+  - Naughty Dog
+  - diferenças jogo e série
+  - especial-The Last of Us
+keywords: >-
+  The Last of Us, série The Last of Us, jogo The Last of Us, adaptação de jogos,
+  HBO, Max, Naughty Dog, diferenças jogo e série
+author: Pablo Moura
+data: '2025-04-29T01:25:46.674Z'
+resumo: >-
+  O terceiro episódio da segunda temporada de The Last of Us introduz cenas
+  inéditas e alterações significativas em relação ao jogo original da Naughty
+  Dog.
 ---
 
 ## Inovações Narrativas e Fidelidade ao Jogo

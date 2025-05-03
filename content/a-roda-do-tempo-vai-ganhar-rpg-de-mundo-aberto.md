@@ -1,14 +1,30 @@
 ---
-title: "Explore o Universo de 'A Roda do Tempo' em Novo RPG de Mundo Aberto"
-slug: "a-roda-do-tempo-vai-ganhar-rpg-de-mundo-aberto"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/YosZ1bVPWds6-0fJEsERgNuOTQo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-22T183855.472.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/80C7yCuKX2RiDmpvj6fbZCnPXt4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-22T183855.472.png"
-tags: ["A Roda do Tempo", "RPG de mundo aberto", "iwot Studios", "jogos", "série de TV", "Amazon Prime Video", "Robert Jordan", "cultura pop"]
-keywords: "A Roda do Tempo, RPG de mundo aberto, iwot Studios, jogos, série de TV, Amazon Prime Video, Robert Jordan, cultura pop"
-author: "Ana Luiza"
-data: "2025-04-22T22:19:35.109Z"
+title: Explore o Universo de 'A Roda do Tempo' em Novo RPG de Mundo Aberto
+slug: a-roda-do-tempo-vai-ganhar-rpg-de-mundo-aberto
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/YosZ1bVPWds6-0fJEsERgNuOTQo=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-22T183855.472.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/80C7yCuKX2RiDmpvj6fbZCnPXt4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-22T183855.472.png
+tags:
+  - A Roda do Tempo
+  - RPG de mundo aberto
+  - iwot Studios
+  - jogos
+  - série de TV
+  - Amazon Prime Video
+  - Robert Jordan
+  - cultura pop
+keywords: >-
+  A Roda do Tempo, RPG de mundo aberto, iwot Studios, jogos, série de TV, Amazon
+  Prime Video, Robert Jordan, cultura pop
+author: Ana Luiza
+data: '2025-04-22T22:19:35.109Z'
+resumo: >-
+  Um novo RPG de mundo aberto baseado na popular série 'A Roda do Tempo' está em
+  desenvolvimento pela iwot Studios, prometendo uma imersão profunda no universo
+  da saga.
 ---
 
 A franquia 'A Roda do Tempo', conhecida mundialmente tanto pelos seus livros quanto pela série de sucesso na Amazon Prime Video, está prestes a expandir seu universo para o mundo dos jogos. A iwot Studios, anteriormente conhecida como Red Eagle Entertainment, anunciou o desenvolvimento de um RPG de mundo aberto que promete levar os fãs a uma experiência profunda e envolvente no rico universo criado por Robert Jordan.

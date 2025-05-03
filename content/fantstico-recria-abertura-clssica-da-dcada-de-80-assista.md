@@ -1,14 +1,29 @@
 ---
-title: "Fantástico Revive Nostalgia com Abertura dos Anos 80 em Celebração aos 60 Anos da Globo"
-slug: "fantstico-recria-abertura-clssica-da-dcada-de-80-assista"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/9vRJQ26HQhwTuILGwi0hHJ4UxKo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T112557.949.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/9vRJQ26HQhwTuILGwi0hHJ4UxKo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T112557.949.png"
-tags: ["Fantástico", "Rede Globo", "abertura anos 80", "Isadora Cruz", "60 anos Rede Globo", "nostalgia televisiva"]
-keywords: "Fantástico, Rede Globo, abertura anos 80, Isadora Cruz, 60 anos Rede Globo, nostalgia televisiva"
-author: "Pablo Moura"
-data: "2025-04-28T15:21:50.213Z"
+title: >-
+  Fantástico Revive Nostalgia com Abertura dos Anos 80 em Celebração aos 60 Anos
+  da Globo
+slug: fantstico-recria-abertura-clssica-da-dcada-de-80-assista
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/9vRJQ26HQhwTuILGwi0hHJ4UxKo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T112557.949.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/9vRJQ26HQhwTuILGwi0hHJ4UxKo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T112557.949.png
+tags:
+  - Fantástico
+  - Rede Globo
+  - abertura anos 80
+  - Isadora Cruz
+  - 60 anos Rede Globo
+  - nostalgia televisiva
+keywords: >-
+  Fantástico, Rede Globo, abertura anos 80, Isadora Cruz, 60 anos Rede Globo,
+  nostalgia televisiva
+author: Pablo Moura
+data: '2025-04-28T15:21:50.213Z'
+resumo: >-
+  Em uma homenagem emocionante, o Fantástico recriou sua icônica abertura dos
+  anos 80, marcando as comemorações dos 60 anos da Rede Globo.
 ---
 
 ## Uma Viagem no Tempo com o Fantástico

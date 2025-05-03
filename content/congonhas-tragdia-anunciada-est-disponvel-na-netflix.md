@@ -1,14 +1,26 @@
 ---
-title: "Congonhas: Tragédia Anunciada - Uma Série Documental Impactante Já na Netflix"
-slug: "congonhas-tragdia-anunciada-est-disponvel-na-netflix"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/gloPREnZidg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/vib4Hzjnrzhr9P-hfelyJ8lxTAI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-23T203923.227.png"
-tags: ["Congonhas Tragédia Anunciada", "Netflix", "documentário", "acidente aéreo", "voo TAM 3054", "série documental"]
-keywords: "Congonhas Tragédia Anunciada, Netflix, documentário, acidente aéreo, voo TAM 3054, série documental"
-author: "Pablo Moura"
-data: "2025-04-24T11:16:58.198Z"
+title: 'Congonhas: Tragédia Anunciada - Uma Série Documental Impactante Já na Netflix'
+slug: congonhas-tragdia-anunciada-est-disponvel-na-netflix
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/gloPREnZidg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/vib4Hzjnrzhr9P-hfelyJ8lxTAI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-23T203923.227.png
+tags:
+  - Congonhas Tragédia Anunciada
+  - Netflix
+  - documentário
+  - acidente aéreo
+  - voo TAM 3054
+  - série documental
+keywords: >-
+  Congonhas Tragédia Anunciada, Netflix, documentário, acidente aéreo, voo TAM
+  3054, série documental
+author: Pablo Moura
+data: '2025-04-24T11:16:58.198Z'
+resumo: >-
+  A série documental 'Congonhas: Tragédia Anunciada', que explora o devastador
+  acidente aéreo de 2007 no Brasil, já está disponível na Netflix.
 ---
 
 A Netflix lançou o pôster oficial e anunciou a disponibilidade da série documental 'Congonhas: Tragédia Anunciada', que já pode ser assistida na plataforma. A obra, dirigida por Angelo Defanti, revisita o trágico acidente do voo TAM 3054, considerado o maior desastre aéreo do Brasil, ocorrido em 17 de julho de 2007 no Aeroporto de Congonhas, em São Paulo. Durante uma tentativa de pouso sob intensa chuva, o Airbus A320 não conseguiu desacelerar, ultrapassando os limites da pista e colidindo com uma estrutura da TAM Express e um posto de combustível, resultando na morte de todas as 187 pessoas a bordo e 12 em solo, totalizando 199 vítimas.

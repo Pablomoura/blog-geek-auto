@@ -1,14 +1,27 @@
 ---
-title: "Antecipação de Borderlands 4 Pode Indicar Lançamento Próximo de GTA 6"
-slug: "borderlands-4-adiantado-e-aquece-rumores-sobre-gta-6-em-novembro"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/79Pok6JGTDJrrHq1A7tNcItDc1w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T120842.819.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/e8bM9Lpci_jldXF6vch3zng9pfk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T120824.190.png"
-tags: ["Borderlands 4", "GTA 6", "lançamento de jogos", "estratégias de mercado", "Gearbox Software", "Take-Two Interactive"]
-keywords: "Borderlands 4, GTA 6, lançamento de jogos, estratégias de mercado, Gearbox Software, Take-Two Interactive"
-author: "Luana Souza"
-data: "2025-04-29T15:21:00.344Z"
+title: Antecipação de Borderlands 4 Pode Indicar Lançamento Próximo de GTA 6
+slug: borderlands-4-adiantado-e-aquece-rumores-sobre-gta-6-em-novembro
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/79Pok6JGTDJrrHq1A7tNcItDc1w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T120842.819.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/e8bM9Lpci_jldXF6vch3zng9pfk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T120824.190.png
+tags:
+  - Borderlands 4
+  - GTA 6
+  - lançamento de jogos
+  - estratégias de mercado
+  - Gearbox Software
+  - Take-Two Interactive
+keywords: >-
+  Borderlands 4, GTA 6, lançamento de jogos, estratégias de mercado, Gearbox
+  Software, Take-Two Interactive
+author: Luana Souza
+data: '2025-04-29T15:21:00.344Z'
+resumo: >-
+  A nova data de lançamento de Borderlands 4 sugere estratégias de mercado para
+  não competir com o altamente antecipado GTA 6.
 ---
 
 ## Borderlands 4 Chega Mais Cedo e Esquenta Expectativas Para GTA 6

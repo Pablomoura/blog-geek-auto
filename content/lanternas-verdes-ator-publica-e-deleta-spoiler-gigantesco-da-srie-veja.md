@@ -1,14 +1,35 @@
 ---
-title: "Revelação Acidental? Garrett Dillahunt Pode Ter Deixado Escapar um Personagem Surpresa em 'Lanterns'"
-slug: "lanternas-verdes-ator-publica-e-deleta-spoiler-gigantesco-da-srie-veja"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/zNhwi_8T3Oc2lY-Sd2MWh5TFHzo=/480x360/smart/extras/conteudos/imagem_2025-04-24_093322137.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/zNhwi_8T3Oc2lY-Sd2MWh5TFHzo=/480x360/smart/extras/conteudos/imagem_2025-04-24_093322137.png"
-tags: ["Lanterns", "Garrett Dillahunt", "DC Studios", "Arqueiro Verde", "Oliver Queen", "HBO Max", "série", "DCU", "James Gunn", "super-heróis", "Lanternas Verdes"]
-keywords: "Lanterns, Garrett Dillahunt, DC Studios, Arqueiro Verde, Oliver Queen, HBO Max, série, DCU, James Gunn, super-heróis, Lanternas Verdes"
-author: "Ana Luiza"
-data: "2025-04-24T12:38:11.450Z"
+title: >-
+  Revelação Acidental? Garrett Dillahunt Pode Ter Deixado Escapar um Personagem
+  Surpresa em 'Lanterns'
+slug: lanternas-verdes-ator-publica-e-deleta-spoiler-gigantesco-da-srie-veja
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/zNhwi_8T3Oc2lY-Sd2MWh5TFHzo=/480x360/smart/extras/conteudos/imagem_2025-04-24_093322137.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/zNhwi_8T3Oc2lY-Sd2MWh5TFHzo=/480x360/smart/extras/conteudos/imagem_2025-04-24_093322137.png
+tags:
+  - Lanterns
+  - Garrett Dillahunt
+  - DC Studios
+  - Arqueiro Verde
+  - Oliver Queen
+  - HBO Max
+  - série
+  - DCU
+  - James Gunn
+  - super-heróis
+  - Lanternas Verdes
+keywords: >-
+  Lanterns, Garrett Dillahunt, DC Studios, Arqueiro Verde, Oliver Queen, HBO
+  Max, série, DCU, James Gunn, super-heróis, Lanternas Verdes
+author: Ana Luiza
+data: '2025-04-24T12:38:11.450Z'
+resumo: >-
+  Garrett Dillahunt, ator de 'Lanterns', a nova série do DC Studios para HBO e
+  Max, apagou rapidamente um post que insinuava a presença do Arqueiro Verde,
+  Oliver Queen, na trama.
 ---
 
 Em um lapso que está agitando os fãs, Garrett Dillahunt, conhecido por seu trabalho em 'Onde os Fracos Não Têm Vez', pode ter revelado mais do que o previsto sobre a série 'Lanterns', em desenvolvimento pela DC Studios sob a liderança de James Gunn. Dillahunt postou, e logo em seguida deletou, imagens de storyboards e filmagens no seu Instagram onde aparecia caracterizado de forma que os aficionados por quadrinhos reconheceriam como o Arqueiro Verde, também conhecido como Oliver Queen. Além das imagens, o ator adicionou a legenda 'Ollie', um apelido carinhoso para Oliver, aumentando as suspeitas sobre a participação do personagem.

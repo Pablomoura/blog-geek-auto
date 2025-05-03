@@ -1,14 +1,32 @@
 ---
-title: "Millie Bobby Brown e Henry Cavill Retornam em 'Enola Holmes 3': Filmagens Oficiais Iniciadas!"
-slug: "enola-holmes-3-comea-filmagens-com-retorno-de-millie-bobby-brown-e-henry-cavill"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/fgYYfSnD0_x4Hjd238vkmdx4w5w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T111018.920.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/owf8szE1R369ed-8UGpoESUZnY8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T111006.393.png"
-tags: ["Enola Holmes 3", "Millie Bobby Brown", "Henry Cavill", "Netflix", "filmagens", "filmes de mistério", "Sherlock Holmes"]
-keywords: "Enola Holmes 3, Millie Bobby Brown, Henry Cavill, Netflix, filmagens, filmes de mistério, Sherlock Holmes"
-author: "Ana Luiza"
-data: "2025-04-22T15:21:37.210Z"
+title: >-
+  Millie Bobby Brown e Henry Cavill Retornam em 'Enola Holmes 3': Filmagens
+  Oficiais Iniciadas!
+slug: >-
+  enola-holmes-3-comea-filmagens-com-retorno-de-millie-bobby-brown-e-henry-cavill
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/fgYYfSnD0_x4Hjd238vkmdx4w5w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T111018.920.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/owf8szE1R369ed-8UGpoESUZnY8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T111006.393.png
+tags:
+  - Enola Holmes 3
+  - Millie Bobby Brown
+  - Henry Cavill
+  - Netflix
+  - filmagens
+  - filmes de mistério
+  - Sherlock Holmes
+keywords: >-
+  Enola Holmes 3, Millie Bobby Brown, Henry Cavill, Netflix, filmagens, filmes
+  de mistério, Sherlock Holmes
+author: Ana Luiza
+data: '2025-04-22T15:21:37.210Z'
+resumo: >-
+  A produção de 'Enola Holmes 3' começou, trazendo de volta os astros Millie
+  Bobby Brown e Henry Cavill, com lançamento previsto para a Netflix ainda a ser
+  anunciado.
 ---
 
 A jornada continua para a detetive mais jovem da família Holmes! As filmagens de 'Enola Holmes 3' já estão em andamento, trazendo de volta alguns rostos familiares para os fãs da franquia. Apesar de ainda não ter uma data de estreia confirmada na Netflix, a expectativa já está alta entre os admiradores da série.

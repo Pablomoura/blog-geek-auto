@@ -1,14 +1,27 @@
 ---
-title: "My Hero Academia Revela Visual de Eri Adolescente em Novo Livro de Arte"
-slug: "my-hero-academia-ganha-imagem-de-eri-adolescente"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/RteHPpbIkMk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/HsXfZegw3wqn1rDHgjz6_VoMwCs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T134704.903.png"
-tags: ["My Hero Academia", "Eri adolescente", "Ultra Age The Final Fan Book", "anime", "mangá", "Kōhei Horikoshi"]
-keywords: "My Hero Academia, Eri adolescente, Ultra Age The Final Fan Book, anime, mangá, Kōhei Horikoshi"
-author: "Pablo Moura"
-data: "2025-05-02T17:17:09.768Z"
+title: My Hero Academia Revela Visual de Eri Adolescente em Novo Livro de Arte
+slug: my-hero-academia-ganha-imagem-de-eri-adolescente
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/RteHPpbIkMk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/HsXfZegw3wqn1rDHgjz6_VoMwCs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T134704.903.png
+tags:
+  - My Hero Academia
+  - Eri adolescente
+  - Ultra Age The Final Fan Book
+  - anime
+  - mangá
+  - Kōhei Horikoshi
+keywords: >-
+  My Hero Academia, Eri adolescente, Ultra Age The Final Fan Book, anime, mangá,
+  Kōhei Horikoshi
+author: Pablo Moura
+data: '2025-05-02T17:17:09.768Z'
+resumo: >-
+  O universo de My Hero Academia continua a expandir-se com a publicação de
+  'Ultra Age: The Final Fan Book', onde foi revelado o visual de Eri como
+  adolescente.
 ---
 
 ## Descubra Eri Adolescente em 'My Hero Academia: Ultra Age: The Final Fan Book'

@@ -1,14 +1,28 @@
 ---
-title: "Sucesso Global: 'Inexplicável' se destaca como fenômeno brasileiro na Netflix"
-slug: "inexplicvel-filme-brasileiro-alcana-terceiro-lugar-mundial-na-netflix"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/qPvaWsMdXxg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/je7LtGEDKqIDG1DgGReri4gaHBc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T105116.190.png"
-tags: ["Inexplicável", "Netflix", "cinema brasileiro", "Letícia Spiller", "Eriberto Leão", "Fabrício Bittar", "filme brasileiro na Netflix"]
-keywords: "Inexplicável, Netflix, cinema brasileiro, Letícia Spiller, Eriberto Leão, Fabrício Bittar, filme brasileiro na Netflix"
-author: "Pablo Moura"
-data: "2025-04-25T15:20:28.189Z"
+title: 'Sucesso Global: ''Inexplicável'' se destaca como fenômeno brasileiro na Netflix'
+slug: inexplicvel-filme-brasileiro-alcana-terceiro-lugar-mundial-na-netflix
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/qPvaWsMdXxg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/je7LtGEDKqIDG1DgGReri4gaHBc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T105116.190.png
+tags:
+  - Inexplicável
+  - Netflix
+  - cinema brasileiro
+  - Letícia Spiller
+  - Eriberto Leão
+  - Fabrício Bittar
+  - filme brasileiro na Netflix
+keywords: >-
+  Inexplicável, Netflix, cinema brasileiro, Letícia Spiller, Eriberto Leão,
+  Fabrício Bittar, filme brasileiro na Netflix
+author: Pablo Moura
+data: '2025-04-25T15:20:28.189Z'
+resumo: >-
+  'Inexplicável', estrelado por Letícia Spiller e Eriberto Leão, conquista o
+  terceiro lugar no ranking mundial da Netflix e lidera em vários países da
+  América Latina.
 ---
 
 ## Ascensão de 'Inexplicável' no Streaming Global

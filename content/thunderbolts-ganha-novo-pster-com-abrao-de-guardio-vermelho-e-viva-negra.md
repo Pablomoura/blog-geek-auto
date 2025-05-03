@@ -1,14 +1,31 @@
 ---
-title: "Thunderbolts: Novo Pôster Destaca Emocionante Abraço entre Guardião Vermelho e Viúva Negra"
-slug: "thunderbolts-ganha-novo-pster-com-abrao-de-guardio-vermelho-e-viva-negra"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/K5hqvCwaw4Lc7PUmFi9tOO_A68k=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T115343.706.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/mJt_YnlX1fwPOe1rzf4FxM3xD-M=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T115326.992.png"
-tags: ["Thunderbolts", "MCU", "Marvel", "Guardião Vermelho", "Viúva Negra", "filme de super-heróis", "anti-heróis", "estreia 2025"]
-keywords: "Thunderbolts, MCU, Marvel, Guardião Vermelho, Viúva Negra, filme de super-heróis, anti-heróis, estreia 2025"
-author: "Luana Souza"
-data: "2025-04-28T15:20:51.615Z"
+title: >-
+  Thunderbolts: Novo Pôster Destaca Emocionante Abraço entre Guardião Vermelho e
+  Viúva Negra
+slug: thunderbolts-ganha-novo-pster-com-abrao-de-guardio-vermelho-e-viva-negra
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/K5hqvCwaw4Lc7PUmFi9tOO_A68k=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T115343.706.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/mJt_YnlX1fwPOe1rzf4FxM3xD-M=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T115326.992.png
+tags:
+  - Thunderbolts
+  - MCU
+  - Marvel
+  - Guardião Vermelho
+  - Viúva Negra
+  - filme de super-heróis
+  - anti-heróis
+  - estreia 2025
+keywords: >-
+  Thunderbolts, MCU, Marvel, Guardião Vermelho, Viúva Negra, filme de
+  super-heróis, anti-heróis, estreia 2025
+author: Luana Souza
+data: '2025-04-28T15:20:51.615Z'
+resumo: >-
+  O filme 'Thunderbolts', repleto de anti-heróis do MCU, ganhou um pôster com um
+  momento comovente, antecipando sua estreia em 2 de maio de 2025.
 ---
 
 ## Emoção e Ação no Novo Pôster de Thunderbolts

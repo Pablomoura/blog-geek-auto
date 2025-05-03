@@ -1,14 +1,28 @@
 ---
-title: "Stitch Pega Onda em Nova Imagem do Remake de Lilo & Stitch para Cinema"
-slug: "lilo-e-stitch-nova-imagem-do-filme-mostra-stitch-na-praia"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/oLnS1Ij9-Kk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/aMH1bRJUCxrWASb8DLSerHjIsp8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_175218.png"
-tags: ["Lilo & Stitch", "remake", "Disney", "cinema", "live-action", "Stitch", "estreia 2025", "filme"]
-keywords: "Lilo & Stitch, remake, Disney, cinema, live-action, Stitch, estreia 2025, filme"
-author: "Pablo Moura"
-data: "2025-04-28T21:15:56.499Z"
+title: Stitch Pega Onda em Nova Imagem do Remake de Lilo & Stitch para Cinema
+slug: lilo-e-stitch-nova-imagem-do-filme-mostra-stitch-na-praia
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/oLnS1Ij9-Kk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/aMH1bRJUCxrWASb8DLSerHjIsp8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_175218.png
+tags:
+  - Lilo & Stitch
+  - remake
+  - Disney
+  - cinema
+  - live-action
+  - Stitch
+  - estreia 2025
+  - filme
+keywords: >-
+  Lilo & Stitch, remake, Disney, cinema, live-action, Stitch, estreia 2025,
+  filme
+author: Pablo Moura
+data: '2025-04-28T21:15:56.499Z'
+resumo: >-
+  A nova imagem divulgada mostra Stitch de óculos escuros na praia, promovendo o
+  aguardado remake de Lilo & Stitch que chega aos cinemas em maio de 2025.
 ---
 
 ## Stitch Retorna em Grande Estilo

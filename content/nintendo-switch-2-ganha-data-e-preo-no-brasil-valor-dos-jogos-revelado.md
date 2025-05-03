@@ -1,14 +1,30 @@
 ---
-title: "Nintendo Switch 2 Chega ao Brasil: Preços e Detalhes Revelados!"
-slug: "nintendo-switch-2-ganha-data-e-preo-no-brasil-valor-dos-jogos-revelado"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/AZ7og3y3aNXRRoBMOXs2JGrxsoI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-23T102040.581.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Y0Q5NHUPV69kBCjWiZeoEOzdj14=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T102026.647.png"
-tags: ["Nintendo Switch 2", "lançamento Nintendo Switch", "preços Nintendo Switch", "jogos Nintendo Switch", "Mario Kart World", "Donkey Kong Bananza", "tecnologia de jogos", "console de jogos"]
-keywords: "Nintendo Switch 2, lançamento Nintendo Switch, preços Nintendo Switch, jogos Nintendo Switch, Mario Kart World, Donkey Kong Bananza, tecnologia de jogos, console de jogos"
-author: "Pablo Moura"
-data: "2025-04-23T13:29:58.490Z"
+title: 'Nintendo Switch 2 Chega ao Brasil: Preços e Detalhes Revelados!'
+slug: nintendo-switch-2-ganha-data-e-preo-no-brasil-valor-dos-jogos-revelado
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/AZ7og3y3aNXRRoBMOXs2JGrxsoI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-23T102040.581.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Y0Q5NHUPV69kBCjWiZeoEOzdj14=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T102026.647.png
+tags:
+  - Nintendo Switch 2
+  - lançamento Nintendo Switch
+  - preços Nintendo Switch
+  - jogos Nintendo Switch
+  - Mario Kart World
+  - Donkey Kong Bananza
+  - tecnologia de jogos
+  - console de jogos
+keywords: >-
+  Nintendo Switch 2, lançamento Nintendo Switch, preços Nintendo Switch, jogos
+  Nintendo Switch, Mario Kart World, Donkey Kong Bananza, tecnologia de jogos,
+  console de jogos
+author: Pablo Moura
+data: '2025-04-23T13:29:58.490Z'
+resumo: >-
+  O aguardado Nintendo Switch 2 será lançado no Brasil com um preço inicial de
+  R$ 4.500, e jogos exclusivos custando até R$ 499,90.
 ---
 
 A Nintendo finalmente anunciou os detalhes sobre o lançamento do Nintendo Switch 2 no Brasil. O novo console, que promete revolucionar a experiência dos gamers, tem preço definido em R$ 4.500, com jogos exclusivos podendo alcançar até R$ 500. **Mario Kart World** e **Donkey Kong Bananza** são alguns dos títulos que estarão disponíveis, custando R$ 499,90 e R$ 439,90, respectivamente. Além disso, será oferecido um bundle especial que inclui o console e Mario Kart por R$ 4.799,90, seguindo a estreia global em 5 de junho.

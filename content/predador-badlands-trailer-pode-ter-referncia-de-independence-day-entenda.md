@@ -1,14 +1,29 @@
 ---
-title: "Predador: Badlands Revela Trailer com Pistas de Independence Day"
-slug: "predador-badlands-trailer-pode-ter-referncia-de-independence-day-entenda"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/FLUyg0mP_Ww?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/R-mg1wWq8JSEZ-7JshJZLrCHI8c=/480x360/smart/extras/conteudos/predador-badlands.webp"
-tags: ["Predador: Badlands", "trailer", "Independence Day", "franquia Predador", "Elle Fanning", "Dan Trachtenberg", "Disney", "20th Century Fox"]
-keywords: "Predador: Badlands, trailer, Independence Day, franquia Predador, Elle Fanning, Dan Trachtenberg, Disney, 20th Century Fox"
-author: "Ana Luiza"
-data: "2025-04-23T20:22:26.593Z"
+title: 'Predador: Badlands Revela Trailer com Pistas de Independence Day'
+slug: predador-badlands-trailer-pode-ter-referncia-de-independence-day-entenda
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/FLUyg0mP_Ww?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/R-mg1wWq8JSEZ-7JshJZLrCHI8c=/480x360/smart/extras/conteudos/predador-badlands.webp
+tags:
+  - 'Predador: Badlands'
+  - trailer
+  - Independence Day
+  - franquia Predador
+  - Elle Fanning
+  - Dan Trachtenberg
+  - Disney
+  - 20th Century Fox
+keywords: >-
+  Predador: Badlands, trailer, Independence Day, franquia Predador, Elle
+  Fanning, Dan Trachtenberg, Disney, 20th Century Fox
+author: Ana Luiza
+data: '2025-04-23T20:22:26.593Z'
+resumo: >-
+  O novo capítulo da saga Predador, 'Predador: Badlands', estreando em novembro
+  de 2025, surpreende com referências inesperadas no trailer, incluindo um
+  possível aceno ao clássico Independence Day.
 ---
 
 A franquia Predador, que captura a imaginação dos fãs desde 1987, está pronta para expandir seu universo com o lançamento de 'Predador: Badlands'. O primeiro trailer, lançado nesta quarta-feira, não apenas promete mais ação e suspense, mas também jogou um mistério com uma potencial referência ao filme 'Independence Day' de 1996.

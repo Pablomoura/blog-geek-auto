@@ -1,14 +1,31 @@
 ---
-title: "Shiryu Retorna ao Palco em 'O Dragão de Rozan': Filme Live-Action Brasileiro dos Cavaleiros do Zodíaco"
-slug: "cavaleiros-do-zodaco-ganha-live-action-brasileiro-veja-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/tsnXwnJEfEM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/WgbYyNvuDrgXmU748HXL6DOzx_c=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_163808.png"
-tags: ["Cavaleiros do Zodíaco", "filme brasileiro", "live-action", "Shiryu", "Élcio Sodré", "O Dragão de Rozan", "estreia de filme", "anime"]
-keywords: "Cavaleiros do Zodíaco, filme brasileiro, live-action, Shiryu, Élcio Sodré, O Dragão de Rozan, estreia de filme, anime"
-author: "Pablo Moura"
-data: "2025-04-21T20:21:33.176Z"
+title: >-
+  Shiryu Retorna ao Palco em 'O Dragão de Rozan': Filme Live-Action Brasileiro
+  dos Cavaleiros do Zodíaco
+slug: cavaleiros-do-zodaco-ganha-live-action-brasileiro-veja-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/tsnXwnJEfEM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/WgbYyNvuDrgXmU748HXL6DOzx_c=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_163808.png
+tags:
+  - Cavaleiros do Zodíaco
+  - filme brasileiro
+  - live-action
+  - Shiryu
+  - Élcio Sodré
+  - O Dragão de Rozan
+  - estreia de filme
+  - anime
+keywords: >-
+  Cavaleiros do Zodíaco, filme brasileiro, live-action, Shiryu, Élcio Sodré, O
+  Dragão de Rozan, estreia de filme, anime
+author: Pablo Moura
+data: '2025-04-21T20:21:33.176Z'
+resumo: >-
+  Os fãs de Cavaleiros do Zodíaco têm motivo para celebrar: o filme brasileiro
+  live-action 'O Dragão de Rozan' estreia em maio, trazendo de volta Élcio Sodré
+  como a voz de Shiryu.
 ---
 
 Os apaixonados por 'Cavaleiros do Zodíaco' podem se preparar para uma nova aventura com o filme brasileiro live-action focado no personagem Shiryu, intitulado 'O Dragão de Rozan'. O filme, que é um projeto realizado por fãs, promete uma experiência nostálgica e inovadora, com a participação especial do dublador original do personagem, Élcio Sodré. 

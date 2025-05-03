@@ -1,14 +1,30 @@
 ---
-title: "Maio no Prime Video: Grandes Estreias com 'Wicked', 'Outro Pequeno Favor' e Mais"
-slug: "prime-video-estreias-de-maio-tm-wicked-outro-pequeno-favor-e-mais"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/sWc2cLiY1AeCFuxV23tWAVVWaMQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-30T131046.905.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NH5lbAJPRIm-mgMzpuRX42tumDo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T130955.243.png"
-tags: ["Prime Video", "estreias de maio", "filmes", "séries", "Wicked", "Outro Pequeno Favor", "calendário de lançamentos"]
-keywords: "Prime Video, estreias de maio, filmes, séries, Wicked, Outro Pequeno Favor, calendário de lançamentos"
-author: "Pablo Moura"
-data: "2025-04-30T16:23:20.941Z"
+title: >-
+  Maio no Prime Video: Grandes Estreias com 'Wicked', 'Outro Pequeno Favor' e
+  Mais
+slug: prime-video-estreias-de-maio-tm-wicked-outro-pequeno-favor-e-mais
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/sWc2cLiY1AeCFuxV23tWAVVWaMQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-30T131046.905.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NH5lbAJPRIm-mgMzpuRX42tumDo=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T130955.243.png
+tags:
+  - Prime Video
+  - estreias de maio
+  - filmes
+  - séries
+  - Wicked
+  - Outro Pequeno Favor
+  - calendário de lançamentos
+keywords: >-
+  Prime Video, estreias de maio, filmes, séries, Wicked, Outro Pequeno Favor,
+  calendário de lançamentos
+author: Pablo Moura
+data: '2025-04-30T16:23:20.941Z'
+resumo: >-
+  O Prime Video anuncia um catálogo recheado de novidades para maio, incluindo
+  sucessos do cinema e séries esperadas.
 ---
 
 ## Estreias Imperdíveis no Prime Video em Maio

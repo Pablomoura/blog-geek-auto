@@ -1,14 +1,30 @@
 ---
-title: "Sucesso de 'Pecadores' Pode Levar a Prequel Sobre os Gêmeos, Revela Michael B. Jordan"
-slug: "pecadores-michael-b-jordan-fala-sobre-ideia-de-prequel-sobre-os-gmeos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/F1gr_JHwZYuh7MJb9tNWFtM0fbc=/987x0/smart/uploads/conteudo/fotos/pecadores-michael-b-jordan.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/eLZph48SPjwrDEQCNCVAAO9YJmU=/480x360/smart/extras/conteudos/pecadores-1_wE4NnJk.jpeg"
-tags: ["Pecadores", "Michael B. Jordan", "Ryan Coogler", "filme prequel", "bilheteria", "gêmeos Fumaça e Fuligem"]
-keywords: "Pecadores, Michael B. Jordan, Ryan Coogler, filme prequel, bilheteria, gêmeos Fumaça e Fuligem"
-author: "Ana Luiza"
-data: "2025-04-28T18:29:38.743Z"
+title: >-
+  Sucesso de 'Pecadores' Pode Levar a Prequel Sobre os Gêmeos, Revela Michael B.
+  Jordan
+slug: pecadores-michael-b-jordan-fala-sobre-ideia-de-prequel-sobre-os-gmeos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/F1gr_JHwZYuh7MJb9tNWFtM0fbc=/987x0/smart/uploads/conteudo/fotos/pecadores-michael-b-jordan.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/eLZph48SPjwrDEQCNCVAAO9YJmU=/480x360/smart/extras/conteudos/pecadores-1_wE4NnJk.jpeg
+tags:
+  - Pecadores
+  - Michael B. Jordan
+  - Ryan Coogler
+  - filme prequel
+  - bilheteria
+  - gêmeos Fumaça e Fuligem
+keywords: >-
+  Pecadores, Michael B. Jordan, Ryan Coogler, filme prequel, bilheteria, gêmeos
+  Fumaça e Fuligem
+author: Ana Luiza
+data: '2025-04-28T18:29:38.743Z'
+resumo: >-
+  'Pecadores', dirigido por Ryan Coogler, supera US$ 100 milhões em bilheteria
+  nos EUA e Michael B. Jordan indica interesse em explorar a origem dos gêmeos
+  Fumaça e Fuligem.
 ---
 
 ## 'Pecadores' Conquista as Bilheterias

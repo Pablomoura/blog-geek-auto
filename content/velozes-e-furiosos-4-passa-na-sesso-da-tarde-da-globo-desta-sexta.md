@@ -1,14 +1,23 @@
 ---
-title: "Velozes e Furiosos 4 agita a Sessão da Tarde na Globo com Vin Diesel"
-slug: "velozes-e-furiosos-4-passa-na-sesso-da-tarde-da-globo-desta-sexta"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/8YCRGPaPfXA?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/wjsTsDNDgjxrDmYSfY4YkDy82cw=/480x360/smart/extras/conteudos/velozesefuriosos4_EG5SJih.jpg"
-tags: ["Velozes e Furiosos 4", "Sessão da Tarde", "Globo", "Vin Diesel", "filme de ação"]
-keywords: "Velozes e Furiosos 4, Sessão da Tarde, Globo, Vin Diesel, filme de ação"
-author: "Luana Souza"
-data: "2025-05-02T11:16:43.449Z"
+title: Velozes e Furiosos 4 agita a Sessão da Tarde na Globo com Vin Diesel
+slug: velozes-e-furiosos-4-passa-na-sesso-da-tarde-da-globo-desta-sexta
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/8YCRGPaPfXA?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/wjsTsDNDgjxrDmYSfY4YkDy82cw=/480x360/smart/extras/conteudos/velozesefuriosos4_EG5SJih.jpg
+tags:
+  - Velozes e Furiosos 4
+  - Sessão da Tarde
+  - Globo
+  - Vin Diesel
+  - filme de ação
+keywords: 'Velozes e Furiosos 4, Sessão da Tarde, Globo, Vin Diesel, filme de ação'
+author: Luana Souza
+data: '2025-05-02T11:16:43.449Z'
+resumo: >-
+  Nesta sexta-feira, a Sessão da Tarde apresenta o emocionante 'Velozes e
+  Furiosos 4', estrelado por Vin Diesel, às 15h25.
 ---
 
 ## A adrenalina de 'Velozes e Furiosos 4' na tela da Globo

@@ -1,14 +1,30 @@
 ---
-title: "Yvette Nicole Brown fará participação especial em 'Suits L.A.' interpretando a si mesma"
-slug: "suits-la-ter-atriz-de-community-em-participao-especial"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/KoYpnigUQ8Y?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/IHeE4vIkHV17r_4QqAf1ZwPTnWk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T180639.676.png"
-tags: ["Yvette Nicole Brown", "Suits LA", "NBC", "Peacock", "Stephen Amell", "Community", "série de advocacia"]
-keywords: "Yvette Nicole Brown, Suits LA, NBC, Peacock, Stephen Amell, Community, série de advocacia"
-author: "Luana Souza"
-data: "2025-04-25T21:17:39.192Z"
+title: >-
+  Yvette Nicole Brown fará participação especial em 'Suits L.A.' interpretando a
+  si mesma
+slug: suits-la-ter-atriz-de-community-em-participao-especial
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/KoYpnigUQ8Y?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/IHeE4vIkHV17r_4QqAf1ZwPTnWk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T180639.676.png
+tags:
+  - Yvette Nicole Brown
+  - Suits LA
+  - NBC
+  - Peacock
+  - Stephen Amell
+  - Community
+  - série de advocacia
+keywords: >-
+  Yvette Nicole Brown, Suits LA, NBC, Peacock, Stephen Amell, Community, série
+  de advocacia
+author: Luana Souza
+data: '2025-04-25T21:17:39.192Z'
+resumo: >-
+  A atriz de 'Community', Yvette Nicole Brown, fará uma aparição como ela mesma
+  em um episódio intrigante de 'Suits L.A.', que será transmitido na NBC e
+  disponibilizado no Peacock.
 ---
 
 ## Yvette Nicole Brown em 'Suits L.A.': Uma Convidada Especial

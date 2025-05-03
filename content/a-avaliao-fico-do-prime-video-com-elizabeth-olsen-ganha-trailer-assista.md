@@ -1,14 +1,30 @@
 ---
-title: "Elizabeth Olsen e Alicia Vikander Brilham no Trailer de 'A Avaliação', Novo Thriller de Ficção-Científica do Prime Video"
-slug: "a-avaliao-fico-do-prime-video-com-elizabeth-olsen-ganha-trailer-assista"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/ONCheZfRTq4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/LzfCN71gtIhYkAQPNeSKUU057Us=/480x360/smart/extras/conteudos/a-avaliacao.jpg"
-tags: ["A Avaliação", "Elizabeth Olsen", "Alicia Vikander", "Prime Video", "filme de ficção-científica", "trailer de filme", "estreia no streaming"]
-keywords: "A Avaliação, Elizabeth Olsen, Alicia Vikander, Prime Video, filme de ficção-científica, trailer de filme, estreia no streaming"
-author: "Ana Luiza"
-data: "2025-05-01T23:18:08.979Z"
+title: >-
+  Elizabeth Olsen e Alicia Vikander Brilham no Trailer de 'A Avaliação', Novo
+  Thriller de Ficção-Científica do Prime Video
+slug: a-avaliao-fico-do-prime-video-com-elizabeth-olsen-ganha-trailer-assista
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/ONCheZfRTq4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/LzfCN71gtIhYkAQPNeSKUU057Us=/480x360/smart/extras/conteudos/a-avaliacao.jpg
+tags:
+  - A Avaliação
+  - Elizabeth Olsen
+  - Alicia Vikander
+  - Prime Video
+  - filme de ficção-científica
+  - trailer de filme
+  - estreia no streaming
+keywords: >-
+  A Avaliação, Elizabeth Olsen, Alicia Vikander, Prime Video, filme de
+  ficção-científica, trailer de filme, estreia no streaming
+author: Ana Luiza
+data: '2025-05-01T23:18:08.979Z'
+resumo: >-
+  Com estreia marcada para 8 de maio no Prime Video, 'A Avaliação' explora um
+  futuro utópico afetado pelas mudanças climáticas, colocando um casal à prova
+  em uma sociedade que controla a paternidade.
 ---
 
 ## 'A Avaliação' Estreia em Maio no Prime Video

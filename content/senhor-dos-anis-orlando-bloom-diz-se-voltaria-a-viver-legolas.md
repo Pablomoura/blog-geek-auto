@@ -1,14 +1,29 @@
 ---
-title: "Orlando Bloom Está Aberto a Retornar Como Legolas em 'The Hunt for Gollum'"
-slug: "senhor-dos-anis-orlando-bloom-diz-se-voltaria-a-viver-legolas"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/yaV0T0uw4Rxq45xbKjiRWMzSRnI=/987x0/smart/uploads/conteudo/fotos/02_njskmXk.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/U0aFhy95djrSmHixR7RLjlEa38s=/480x360/smart/extras/conteudos/01_QSrt5d2.jpg"
-tags: ["Orlando Bloom", "Legolas", "The Hunt for Gollum", "Senhor dos Anéis", "Andy Serkis", "Peter Jackson", "Warner Bros.", "Embracer Group"]
-keywords: "Orlando Bloom, Legolas, The Hunt for Gollum, Senhor dos Anéis, Andy Serkis, Peter Jackson, Warner Bros., Embracer Group"
-author: "Luana Souza"
-data: "2025-05-02T20:21:21.145Z"
+title: Orlando Bloom Está Aberto a Retornar Como Legolas em 'The Hunt for Gollum'
+slug: senhor-dos-anis-orlando-bloom-diz-se-voltaria-a-viver-legolas
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/yaV0T0uw4Rxq45xbKjiRWMzSRnI=/987x0/smart/uploads/conteudo/fotos/02_njskmXk.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/U0aFhy95djrSmHixR7RLjlEa38s=/480x360/smart/extras/conteudos/01_QSrt5d2.jpg
+tags:
+  - Orlando Bloom
+  - Legolas
+  - The Hunt for Gollum
+  - Senhor dos Anéis
+  - Andy Serkis
+  - Peter Jackson
+  - Warner Bros.
+  - Embracer Group
+keywords: >-
+  Orlando Bloom, Legolas, The Hunt for Gollum, Senhor dos Anéis, Andy Serkis,
+  Peter Jackson, Warner Bros., Embracer Group
+author: Luana Souza
+data: '2025-05-02T20:21:21.145Z'
+resumo: >-
+  Orlando Bloom expressou entusiasmo em reviver o icônico Legolas na nova
+  produção de 'O Senhor dos Anéis', dirigida por Andy Serkis.
 ---
 
 ## Orlando Bloom e a Possibilidade de Retorno como Legolas

@@ -1,14 +1,33 @@
 ---
-title: "Explore Alola no Pokémon TCG Pocket: Nova Expansão 'Guardiões Celestiais' Anunciada"
-slug: "pokmon-nova-expanso-do-tcg-ser-baseada-na-regio-de-alola"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/q4TLTHuKf8U?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/wBfZ7Hdz6tW3BDr_nXu_IXnYkr8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_152854.png"
-tags: ["Pokémon TCG Pocket", "Guardiões Celestiais", "expansão Pokémon", "Alola", "Raichu de Alola", "Solgaleo", "Lunala", "jogos de cartas", "Android", "iOS"]
-keywords: "Pokémon TCG Pocket, Guardiões Celestiais, expansão Pokémon, Alola, Raichu de Alola, Solgaleo, Lunala, jogos de cartas, Android, iOS"
-author: "Ana Luiza"
-data: "2025-04-24T19:17:40.833Z"
+title: >-
+  Explore Alola no Pokémon TCG Pocket: Nova Expansão 'Guardiões Celestiais'
+  Anunciada
+slug: pokmon-nova-expanso-do-tcg-ser-baseada-na-regio-de-alola
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/q4TLTHuKf8U?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/wBfZ7Hdz6tW3BDr_nXu_IXnYkr8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_152854.png
+tags:
+  - Pokémon TCG Pocket
+  - Guardiões Celestiais
+  - expansão Pokémon
+  - Alola
+  - Raichu de Alola
+  - Solgaleo
+  - Lunala
+  - jogos de cartas
+  - Android
+  - iOS
+keywords: >-
+  Pokémon TCG Pocket, Guardiões Celestiais, expansão Pokémon, Alola, Raichu de
+  Alola, Solgaleo, Lunala, jogos de cartas, Android, iOS
+author: Ana Luiza
+data: '2025-04-24T19:17:40.833Z'
+resumo: >-
+  A nova expansão 'Guardiões Celestiais' para Pokémon TCG Pocket chega em 30 de
+  abril, trazendo Pokémon icônicos da região de Alola e novos boosters para uma
+  experiência ampliada.
 ---
 
 ## Guardiões Celestiais: Aventura em Alola no Pokémon TCG Pocket

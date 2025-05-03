@@ -1,14 +1,31 @@
 ---
-title: "Produção de 'Solo Leveling': Revelados os Desafios e o Tempo de Criação de Cada Episódio"
-slug: "solo-leveling-produtor-revela-processo-insano-para-produo-de-cada-episdio"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/yL0vZWZ5pnPO_AUbeoUbIwmPIAk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T123543.791.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/FW-oid3Im7n3n22ZRGNJgz4oJEA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T123526.422.png"
-tags: ["Solo Leveling", "Atsushi Kaneko", "produção de anime", "Crunchyroll", "A-1 Pictures", "animes RPG", "Sung Jinwoo"]
-keywords: "Solo Leveling, Atsushi Kaneko, produção de anime, Crunchyroll, A-1 Pictures, animes RPG, Sung Jinwoo"
-author: "Ana Luiza"
-data: "2025-05-02T16:25:12.152Z"
+title: >-
+  Produção de 'Solo Leveling': Revelados os Desafios e o Tempo de Criação de
+  Cada Episódio
+slug: solo-leveling-produtor-revela-processo-insano-para-produo-de-cada-episdio
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/yL0vZWZ5pnPO_AUbeoUbIwmPIAk=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T123543.791.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/FW-oid3Im7n3n22ZRGNJgz4oJEA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T123526.422.png
+tags:
+  - Solo Leveling
+  - Atsushi Kaneko
+  - produção de anime
+  - Crunchyroll
+  - A-1 Pictures
+  - animes RPG
+  - Sung Jinwoo
+keywords: >-
+  Solo Leveling, Atsushi Kaneko, produção de anime, Crunchyroll, A-1 Pictures,
+  animes RPG, Sung Jinwoo
+author: Ana Luiza
+data: '2025-05-02T16:25:12.152Z'
+resumo: >-
+  Atsushi Kaneko, produtor de 'Solo Leveling', revela que cada episódio do anime
+  pode levar até um ano para ser concluído, destacando o meticuloso processo de
+  produção.
 ---
 
 ## Bastidores de 'Solo Leveling': Um Ano para Criar um Único Episódio

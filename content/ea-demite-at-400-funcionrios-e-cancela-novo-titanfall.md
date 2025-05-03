@@ -1,14 +1,29 @@
 ---
-title: "EA Anuncia Demissão de Até 400 Funcionários e Cancelamento de Novo Jogo Titanfall"
-slug: "ea-demite-at-400-funcionrios-e-cancela-novo-titanfall"
-categoria: "GAMES"
-midia: "images/electronicArts.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/jpVNr80gpuOEmM53aNZ7EDJ7dIU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T181900.868.png"
-tags: ["Electronic Arts", "EA demissões", "cancelamento Titanfall", "Respawn Entertainment", "reestruturação EA", "indústria de jogos"]
-keywords: "Electronic Arts, EA demissões, cancelamento Titanfall, Respawn Entertainment, reestruturação EA, indústria de jogos"
-author: "Luana Souza"
-data: "2025-04-29T22:19:41.658Z"
+title: >-
+  EA Anuncia Demissão de Até 400 Funcionários e Cancelamento de Novo Jogo
+  Titanfall
+slug: ea-demite-at-400-funcionrios-e-cancela-novo-titanfall
+categoria: GAMES
+midia: images/electronicArts.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/jpVNr80gpuOEmM53aNZ7EDJ7dIU=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T181900.868.png
+tags:
+  - Electronic Arts
+  - EA demissões
+  - cancelamento Titanfall
+  - Respawn Entertainment
+  - reestruturação EA
+  - indústria de jogos
+keywords: >-
+  Electronic Arts, EA demissões, cancelamento Titanfall, Respawn Entertainment,
+  reestruturação EA, indústria de jogos
+author: Luana Souza
+data: '2025-04-29T22:19:41.658Z'
+resumo: >-
+  A Electronic Arts, em movimento estratégico, descontinua o desenvolvimento de
+  um novo título Titanfall e anuncia corte significativo em sua força de
+  trabalho.
 ---
 
 ## Crise na Electronic Arts: Demissões e Cancelamento de Projeto Titanfall

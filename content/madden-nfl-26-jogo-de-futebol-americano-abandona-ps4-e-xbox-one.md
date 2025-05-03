@@ -1,14 +1,31 @@
 ---
-title: "Madden NFL 26 Chega com Exclusividade para Consoles de Nova Geração e Descontos Especiais"
-slug: "madden-nfl-26-jogo-de-futebol-americano-abandona-ps4-e-xbox-one"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/Es2pM1hvtFU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/gCMNilYF-Toy_n-e9qWlpsF0LYg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T180504.935.png"
-tags: ["Madden NFL 26", "lançamento Madden NFL", "Deluxe Edition", "EA College Football 26", "descontos Madden NFL", "PlayStation 5", "Xbox Series X/S", "Nintendo Switch 2"]
-keywords: "Madden NFL 26, lançamento Madden NFL, Deluxe Edition, EA College Football 26, descontos Madden NFL, PlayStation 5, Xbox Series X/S, Nintendo Switch 2"
-author: "Pablo Moura"
-data: "2025-04-24T21:18:46.756Z"
+title: >-
+  Madden NFL 26 Chega com Exclusividade para Consoles de Nova Geração e
+  Descontos Especiais
+slug: madden-nfl-26-jogo-de-futebol-americano-abandona-ps4-e-xbox-one
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/Es2pM1hvtFU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/gCMNilYF-Toy_n-e9qWlpsF0LYg=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T180504.935.png
+tags:
+  - Madden NFL 26
+  - lançamento Madden NFL
+  - Deluxe Edition
+  - EA College Football 26
+  - descontos Madden NFL
+  - PlayStation 5
+  - Xbox Series X/S
+  - Nintendo Switch 2
+keywords: >-
+  Madden NFL 26, lançamento Madden NFL, Deluxe Edition, EA College Football 26,
+  descontos Madden NFL, PlayStation 5, Xbox Series X/S, Nintendo Switch 2
+author: Pablo Moura
+data: '2025-04-24T21:18:46.756Z'
+resumo: >-
+  Madden NFL 26 estreará em agosto de 2025, excluindo PS4 e Xbox One, mas
+  trazendo novidades como descontos para jogadores veteranos e um lançamento
+  inédito no Nintendo Switch 2.
 ---
 
 A aguardada chegada de **Madden NFL 26** está marcada para 14 de agosto de 2025, anunciou a Electronic Arts. Este lançamento vem com uma novidade especial: os jogadores que optarem pela **Deluxe Edition** terão acesso ao jogo já no dia 11 de agosto, três dias antes do lançamento oficial. 

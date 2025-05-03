@@ -1,14 +1,30 @@
 ---
-title: "Descubra Quantas Cenas Pós-Créditos 'Thunderbolts' Reserva Para os Fãs!"
-slug: "thunderbolts-tem-quantas-cenas-ps-crditos-sem-spoilers"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/n4pguLD1Bfb--M_lu7lJXwaTzC4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-22T200627.598.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dbPPLmgGf0lRcVAME71MnHm8cq0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-22T200627.598.png"
-tags: ["Thunderbolts", "Marvel", "cenas pós-créditos", "MCU", "2025", "cinema", "Julia Louis-Dreyfus", "Harrison Ford"]
-keywords: "Thunderbolts, Marvel, cenas pós-créditos, MCU, 2025, cinema, Julia Louis-Dreyfus, Harrison Ford"
-author: "Luana Souza"
-data: "2025-04-22T23:17:27.622Z"
+title: Descubra Quantas Cenas Pós-Créditos 'Thunderbolts' Reserva Para os Fãs!
+slug: thunderbolts-tem-quantas-cenas-ps-crditos-sem-spoilers
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/n4pguLD1Bfb--M_lu7lJXwaTzC4=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-22T200627.598.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dbPPLmgGf0lRcVAME71MnHm8cq0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-22T200627.598.png
+tags:
+  - Thunderbolts
+  - Marvel
+  - cenas pós-créditos
+  - MCU
+  - '2025'
+  - cinema
+  - Julia Louis-Dreyfus
+  - Harrison Ford
+keywords: >-
+  Thunderbolts, Marvel, cenas pós-créditos, MCU, 2025, cinema, Julia
+  Louis-Dreyfus, Harrison Ford
+author: Luana Souza
+data: '2025-04-22T23:17:27.622Z'
+resumo: >-
+  O novo filme da Marvel, 'Thunderbolts', promete manter os espectadores na
+  expectativa com duas cenas pós-créditos. Saiba mais sobre o que esperar sem
+  spoilers.
 ---
 
 A expectativa para o lançamento de 'Thunderbolts' em 2025 está crescendo, ainda mais após a primeira exibição do filme nesta terça-feira (22). Informações preliminares confirmam que o filme incluirá duas cenas pós-créditos, embora detalhes específicos sobre o conteúdo dessas cenas ainda estejam sob sigilo. 

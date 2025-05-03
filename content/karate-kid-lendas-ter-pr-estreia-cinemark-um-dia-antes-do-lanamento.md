@@ -1,14 +1,29 @@
 ---
-title: "Karate Kid: Lendas une Ralph Macchio e Jackie Chan em pré-estreia exclusiva na Cinemark"
-slug: "karate-kid-lendas-ter-pr-estreia-cinemark-um-dia-antes-do-lanamento"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/RAFl3UwbV6-SWgEr_U1XNDjdOu8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T124927.348.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/cvknrrf1uSR66xOe2NcLbDiMGeA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T124917.697.png"
-tags: ["Karate Kid Lendas", "Ralph Macchio", "Jackie Chan", "Cinemark pré-estreia", "filmes de artes marciais"]
-keywords: "Karate Kid Lendas, Ralph Macchio, Jackie Chan, Cinemark pré-estreia, filmes de artes marciais"
-author: "Ana Luiza"
-data: "2025-04-25T16:23:46.102Z"
+title: >-
+  Karate Kid: Lendas une Ralph Macchio e Jackie Chan em pré-estreia exclusiva na
+  Cinemark
+slug: karate-kid-lendas-ter-pr-estreia-cinemark-um-dia-antes-do-lanamento
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/RAFl3UwbV6-SWgEr_U1XNDjdOu8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T124927.348.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/cvknrrf1uSR66xOe2NcLbDiMGeA=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T124917.697.png
+tags:
+  - Karate Kid Lendas
+  - Ralph Macchio
+  - Jackie Chan
+  - Cinemark pré-estreia
+  - filmes de artes marciais
+keywords: >-
+  Karate Kid Lendas, Ralph Macchio, Jackie Chan, Cinemark pré-estreia, filmes de
+  artes marciais
+author: Ana Luiza
+data: '2025-04-25T16:23:46.102Z'
+resumo: >-
+  A aguardada união de Ralph Macchio e Jackie Chan em 'Karate Kid: Lendas' será
+  exibida em uma pré-estreia especial na Cinemark um dia antes do lançamento
+  oficial.
 ---
 
 ## Karate Kid: Lendas - Uma Pré-estreia Exclusiva

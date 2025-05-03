@@ -1,14 +1,28 @@
 ---
-title: "Estreia Exclusiva: 'Doce Engano' chega à Sessão da Tarde antes de continuar no Globoplay"
-slug: "doce-engano-k-drama-ter-primeiro-episdio-na-sesso-da-tarde"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/rnB2RiXJJ9A?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/RZHdjfpSvUgWSXv_6sx6j0Y8r6Q=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T203316.071.png"
-tags: ["Doce Engano", "K-drama", "Sessão da Tarde", "Globoplay", "série sul-coreana", "Rede Globo"]
-keywords: "Doce Engano, K-drama, Sessão da Tarde, Globoplay, série sul-coreana, Rede Globo"
-author: "Pablo Moura"
-data: "2025-05-03T01:25:06.009Z"
+title: >-
+  Estreia Exclusiva: 'Doce Engano' chega à Sessão da Tarde antes de continuar no
+  Globoplay
+slug: doce-engano-k-drama-ter-primeiro-episdio-na-sesso-da-tarde
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/rnB2RiXJJ9A?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/RZHdjfpSvUgWSXv_6sx6j0Y8r6Q=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T203316.071.png
+tags:
+  - Doce Engano
+  - K-drama
+  - Sessão da Tarde
+  - Globoplay
+  - série sul-coreana
+  - Rede Globo
+keywords: >-
+  Doce Engano, K-drama, Sessão da Tarde, Globoplay, série sul-coreana, Rede
+  Globo
+author: Pablo Moura
+data: '2025-05-03T01:25:06.009Z'
+resumo: >-
+  O k-drama 'Doce Engano' terá seu primeiro episódio exibido na Sessão da Tarde
+  nesta segunda-feira, antes de seguir disponível no Globoplay.
 ---
 
 ## 'Doce Engano' na TV Aberta

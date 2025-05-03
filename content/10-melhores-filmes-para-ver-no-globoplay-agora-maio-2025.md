@@ -1,14 +1,30 @@
 ---
-title: "Descubra os 10 Melhores Filmes para Assistir no Globoplay em Maio de 2025"
-slug: "10-melhores-filmes-para-ver-no-globoplay-agora-maio-2025"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/E_lGNWbD063POe0ECe-pcP6J9h4=/987x0/smart/uploads/conteudo/fotos/melhores-filmes-globoplay-2025.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NRZqEXvfcytv4sZ2TA0VyFoAFOM=/480x360/smart/extras/conteudos/melhores-filmes-globoplay-2025.png"
-tags: ["Globoplay", "melhores filmes", "streaming", "cinema", "filmes no Globoplay", "maio 2025", "filmes premiados", "filmes clássicos", "filmes de terror"]
-keywords: "Globoplay, melhores filmes, streaming, cinema, filmes no Globoplay, maio 2025, filmes premiados, filmes clássicos, filmes de terror"
-author: "Pablo Moura"
-data: "2025-05-01T12:36:25.235Z"
+title: Descubra os 10 Melhores Filmes para Assistir no Globoplay em Maio de 2025
+slug: 10-melhores-filmes-para-ver-no-globoplay-agora-maio-2025
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/E_lGNWbD063POe0ECe-pcP6J9h4=/987x0/smart/uploads/conteudo/fotos/melhores-filmes-globoplay-2025.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NRZqEXvfcytv4sZ2TA0VyFoAFOM=/480x360/smart/extras/conteudos/melhores-filmes-globoplay-2025.png
+tags:
+  - Globoplay
+  - melhores filmes
+  - streaming
+  - cinema
+  - filmes no Globoplay
+  - maio 2025
+  - filmes premiados
+  - filmes clássicos
+  - filmes de terror
+keywords: >-
+  Globoplay, melhores filmes, streaming, cinema, filmes no Globoplay, maio 2025,
+  filmes premiados, filmes clássicos, filmes de terror
+author: Pablo Moura
+data: '2025-05-01T12:36:25.235Z'
+resumo: >-
+  Exploramos uma seleção variada de filmes no Globoplay para todos os gostos,
+  desde clássicos até sucessos recentes.
 ---
 
 ## Globoplay em Maio de 2025: Uma Série de Imperdíveis

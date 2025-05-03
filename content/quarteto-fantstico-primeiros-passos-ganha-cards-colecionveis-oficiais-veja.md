@@ -1,14 +1,29 @@
 ---
-title: "Quarteto Fantástico: Primeiros Passos Anuncia Coleção de Cards e Detalhes do Elenco"
-slug: "quarteto-fantstico-primeiros-passos-ganha-cards-colecionveis-oficiais-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/h8aKKYzjbEuXGUj_ND4AStBy3xQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T121154.777.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Xy2yNMJoLkEt743c73FbCxupjLs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T121123.679.png"
-tags: ["Quarteto Fantástico", "Marvel", "Pedro Pascal", "cards colecionáveis", "MCU", "estreia 2025"]
-keywords: "Quarteto Fantástico, Marvel, Pedro Pascal, cards colecionáveis, MCU, estreia 2025"
-author: "Pablo Moura"
-data: "2025-05-02T15:19:53.371Z"
+title: >-
+  Quarteto Fantástico: Primeiros Passos Anuncia Coleção de Cards e Detalhes do
+  Elenco
+slug: quarteto-fantstico-primeiros-passos-ganha-cards-colecionveis-oficiais-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/h8aKKYzjbEuXGUj_ND4AStBy3xQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T121154.777.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Xy2yNMJoLkEt743c73FbCxupjLs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T121123.679.png
+tags:
+  - Quarteto Fantástico
+  - Marvel
+  - Pedro Pascal
+  - cards colecionáveis
+  - MCU
+  - estreia 2025
+keywords: >-
+  Quarteto Fantástico, Marvel, Pedro Pascal, cards colecionáveis, MCU, estreia
+  2025
+author: Pablo Moura
+data: '2025-05-02T15:19:53.371Z'
+resumo: >-
+  A nova adaptação de Quarteto Fantástico, que estreia em julho de 2025, promete
+  revolucionar com cards colecionáveis e um elenco estelar.
 ---
 
 ## Quarteto Fantástico: Uma Nova Era no MCU

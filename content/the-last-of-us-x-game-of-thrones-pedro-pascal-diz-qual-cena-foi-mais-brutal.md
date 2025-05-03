@@ -1,14 +1,32 @@
 ---
-title: "Pedro Pascal Compara Mortes em 'The Last of Us' e 'Game of Thrones': Qual é a Mais Brutal?"
-slug: "the-last-of-us-x-game-of-thrones-pedro-pascal-diz-qual-cena-foi-mais-brutal"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/klak4Rlj6Xd7fCtCi0O7Qm-J4FY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-23T115622.737.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/FJGQZuGK3jobJtKL0o26aeKH0e8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T115609.624.png"
-tags: ["Pedro Pascal", "The Last of Us", "Game of Thrones", "HBO", "Joel Miller", "Oberyn Martell", "morte em série", "segunda temporada The Last of Us", "especial-The Last of Us"]
-keywords: "Pedro Pascal, The Last of Us, Game of Thrones, HBO, Joel Miller, Oberyn Martell, morte em série, segunda temporada The Last of Us"
-author: "Luana Souza"
-data: "2025-04-23T16:26:36.301Z"
+title: >-
+  Pedro Pascal Compara Mortes em 'The Last of Us' e 'Game of Thrones': Qual é a
+  Mais Brutal?
+slug: the-last-of-us-x-game-of-thrones-pedro-pascal-diz-qual-cena-foi-mais-brutal
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/klak4Rlj6Xd7fCtCi0O7Qm-J4FY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-23T115622.737.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/FJGQZuGK3jobJtKL0o26aeKH0e8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T115609.624.png
+tags:
+  - Pedro Pascal
+  - The Last of Us
+  - Game of Thrones
+  - HBO
+  - Joel Miller
+  - Oberyn Martell
+  - morte em série
+  - segunda temporada The Last of Us
+  - especial-The Last of Us
+keywords: >-
+  Pedro Pascal, The Last of Us, Game of Thrones, HBO, Joel Miller, Oberyn
+  Martell, morte em série, segunda temporada The Last of Us
+author: Luana Souza
+data: '2025-04-23T16:26:36.301Z'
+resumo: >-
+  Pedro Pascal, estrela de 'The Last of Us' e 'Game of Thrones', revela qual
+  cena de morte considera mais brutal entre as duas séries icônicas.
 ---
 
 Pedro Pascal, conhecido por seus papéis intensos e emocionantes, recentemente compartilhou suas reflexões sobre as cenas mais brutais que gravou em 'The Last of Us' e 'Game of Thrones'. Em uma entrevista para o 'Entertainment Weekly', o ator brincou sobre sua frequência em cenas de morte nas séries: "Eu sou morto muitas vezes. Eu gosto de morrer", declarou Pascal.

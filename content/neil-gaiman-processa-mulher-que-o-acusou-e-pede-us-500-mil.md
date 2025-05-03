@@ -1,14 +1,30 @@
 ---
-title: "Neil Gaiman em Contra-Ataque: Processa Acusadora e Exige $500 Mil em Danos"
-slug: "neil-gaiman-processa-mulher-que-o-acusou-e-pede-us-500-mil"
-categoria: "HQ/LIVROS"
-midia: "https://cdn.ome.lt/OIwjdESWVEq0lXcn10av-N0rVtU=/987x0/smart/uploads/conteudo/fotos/neil-gaiman-capa.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/jUxDXjoLkrlS1qilLEkzaS9ekbI=/480x360/smart/extras/conteudos/neil-gaiman_xo4nciu.jpg"
-tags: ["Neil Gaiman", "Sandman", "Good Omens", "abuso sexual", "tráfico humano", "processo judicial", "Caroline Wallner", "acusações", "confidencialidade"]
-keywords: "Neil Gaiman, Sandman, Good Omens, abuso sexual, tráfico humano, processo judicial, Caroline Wallner, acusações, confidencialidade"
-author: "Luana Souza"
-data: "2025-04-21T18:26:38.798Z"
+title: 'Neil Gaiman em Contra-Ataque: Processa Acusadora e Exige $500 Mil em Danos'
+slug: neil-gaiman-processa-mulher-que-o-acusou-e-pede-us-500-mil
+categoria: HQ/LIVROS
+midia: >-
+  https://cdn.ome.lt/OIwjdESWVEq0lXcn10av-N0rVtU=/987x0/smart/uploads/conteudo/fotos/neil-gaiman-capa.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/jUxDXjoLkrlS1qilLEkzaS9ekbI=/480x360/smart/extras/conteudos/neil-gaiman_xo4nciu.jpg
+tags:
+  - Neil Gaiman
+  - Sandman
+  - Good Omens
+  - abuso sexual
+  - tráfico humano
+  - processo judicial
+  - Caroline Wallner
+  - acusações
+  - confidencialidade
+keywords: >-
+  Neil Gaiman, Sandman, Good Omens, abuso sexual, tráfico humano, processo
+  judicial, Caroline Wallner, acusações, confidencialidade
+author: Luana Souza
+data: '2025-04-21T18:26:38.798Z'
+resumo: >-
+  Em meio a acusações graves, Neil Gaiman, conhecido por 'Sandman', processa
+  Caroline Wallner, exigindo $500 mil por quebra de acordo de confidencialidade.
 ---
 
 Neil Gaiman, celebrado autor de obras como 'Sandman' e 'Good Omens', enfrenta sérias acusações de abuso sexual e tráfico humano feitas por sua ex-esposa, Amanda Palmer, e outras mulheres. Em uma reviravolta recente, Gaiman está processando Caroline Wallner, a ceramista que o acusou, por supostamente violar um acordo de não-divulgação ao expor suas alegações à mídia, conforme reportado pela Vulture. Ele busca uma indenização de $500 mil, além de custos legais e $50.000 adicionais por cada entrevista concedida por Wallner.

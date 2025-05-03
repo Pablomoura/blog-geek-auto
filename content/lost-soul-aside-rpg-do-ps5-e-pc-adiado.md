@@ -1,14 +1,29 @@
 ---
-title: "Lost Soul Aside: Lançamento Adiado para Agosto de 2025"
-slug: "lost-soul-aside-rpg-do-ps5-e-pc-adiado"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/gN7Zh_vmMODAu75CI2IRu5ZOJfY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T131027.574.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/2PhDgqLwMBoZREaoRS5V5ceMzv0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T131012.132.png"
-tags: ["Lost Soul Aside", "RPG", "adiamento do jogo", "PlayStation 5", "PC", "Ultizero Games", "Yan Bing", "lançamento de jogos"]
-keywords: "Lost Soul Aside, RPG, adiamento do jogo, PlayStation 5, PC, Ultizero Games, Yan Bing, lançamento de jogos"
-author: "Luana Souza"
-data: "2025-05-01T16:23:46.281Z"
+title: 'Lost Soul Aside: Lançamento Adiado para Agosto de 2025'
+slug: lost-soul-aside-rpg-do-ps5-e-pc-adiado
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/gN7Zh_vmMODAu75CI2IRu5ZOJfY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T131027.574.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/2PhDgqLwMBoZREaoRS5V5ceMzv0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T131012.132.png
+tags:
+  - Lost Soul Aside
+  - RPG
+  - adiamento do jogo
+  - PlayStation 5
+  - PC
+  - Ultizero Games
+  - Yan Bing
+  - lançamento de jogos
+keywords: >-
+  Lost Soul Aside, RPG, adiamento do jogo, PlayStation 5, PC, Ultizero Games,
+  Yan Bing, lançamento de jogos
+author: Luana Souza
+data: '2025-05-01T16:23:46.281Z'
+resumo: >-
+  O aguardado RPG Lost Soul Aside teve seu lançamento adiado para 29 de agosto
+  de 2025, prometendo maior polimento e qualidade.
 ---
 
 ## Novo Cronograma para Lost Soul Aside

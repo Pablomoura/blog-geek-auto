@@ -1,14 +1,30 @@
 ---
-title: "Nintendo Switch 2 Disponível para Pré-Venda no Brasil com Mario Kart World Incluso"
-slug: "nintendo-switch-2-inicia-pr-venda-no-brasil-veja-onde-comprar-e-com-desconto"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/oHqD2DyklYU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/8fhCUPvPsYGylkMTii63mfEAC6A=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_092047.png"
-tags: ["Nintendo Switch 2", "pré-venda", "Brasil", "Mario Kart World", "onde comprar", "características do console", "jogos para Nintendo Switch 2"]
-keywords: "Nintendo Switch 2, pré-venda, Brasil, Mario Kart World, onde comprar, características do console, jogos para Nintendo Switch 2"
-author: "Luana Souza"
-data: "2025-04-30T14:53:09.475Z"
+title: >-
+  Nintendo Switch 2 Disponível para Pré-Venda no Brasil com Mario Kart World
+  Incluso
+slug: nintendo-switch-2-inicia-pr-venda-no-brasil-veja-onde-comprar-e-com-desconto
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/oHqD2DyklYU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/8fhCUPvPsYGylkMTii63mfEAC6A=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_092047.png
+tags:
+  - Nintendo Switch 2
+  - pré-venda
+  - Brasil
+  - Mario Kart World
+  - onde comprar
+  - características do console
+  - jogos para Nintendo Switch 2
+keywords: >-
+  Nintendo Switch 2, pré-venda, Brasil, Mario Kart World, onde comprar,
+  características do console, jogos para Nintendo Switch 2
+author: Luana Souza
+data: '2025-04-30T14:53:09.475Z'
+resumo: >-
+  O lançamento do Nintendo Switch 2 no Brasil vem com exclusividade: os
+  compradores receberão o novo game Mario Kart World. Confira detalhes de compra
+  e características do console.
 ---
 
 ## Nintendo Switch 2: Inovação e Entretenimento em Pré-Venda

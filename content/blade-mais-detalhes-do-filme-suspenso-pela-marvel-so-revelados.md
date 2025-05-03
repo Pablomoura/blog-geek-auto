@@ -1,14 +1,29 @@
 ---
-title: "Blade: Atrasos e Mudanças Marcantes no Filme da Marvel"
-slug: "blade-mais-detalhes-do-filme-suspenso-pela-marvel-so-revelados"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Rp-i0FoVRcsphhyJ0o6RhNgsopo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T134645.647.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/lCiLGYF-uzpIyhdoko3slslDY-4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T134629.188.png"
-tags: ["Blade", "Marvel", "filme Blade", "Mahershala Ali", "Yann Demange", "Marvel Studios", "Ruth E. Carter", "Flying Lotus"]
-keywords: "Blade, Marvel, filme Blade, Mahershala Ali, Yann Demange, Marvel Studios, Ruth E. Carter, Flying Lotus"
-author: "Luana Souza"
-data: "2025-04-25T17:17:44.877Z"
+title: 'Blade: Atrasos e Mudanças Marcantes no Filme da Marvel'
+slug: blade-mais-detalhes-do-filme-suspenso-pela-marvel-so-revelados
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Rp-i0FoVRcsphhyJ0o6RhNgsopo=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T134645.647.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/lCiLGYF-uzpIyhdoko3slslDY-4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T134629.188.png
+tags:
+  - Blade
+  - Marvel
+  - filme Blade
+  - Mahershala Ali
+  - Yann Demange
+  - Marvel Studios
+  - Ruth E. Carter
+  - Flying Lotus
+keywords: >-
+  Blade, Marvel, filme Blade, Mahershala Ali, Yann Demange, Marvel Studios, Ruth
+  E. Carter, Flying Lotus
+author: Luana Souza
+data: '2025-04-25T17:17:44.877Z'
+resumo: >-
+  O reinício de Blade pela Marvel enfrenta desafios significativos, incluindo
+  trocas de diretores e roteiristas, além de alterações no elenco.
 ---
 
 ## Ascensão e Queda do Projeto Blade da Marvel

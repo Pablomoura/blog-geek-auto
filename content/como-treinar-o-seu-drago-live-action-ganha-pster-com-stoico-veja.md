@@ -1,14 +1,34 @@
 ---
-title: "Stoico Retorna em Grande Estilo no Novo Pôster do Live-action de Como Treinar o Seu Dragão"
-slug: "como-treinar-o-seu-drago-live-action-ganha-pster-com-stoico-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/f4HNvLu5oFWCGjnpHxxy9G7lYrc=/987x0/smart/uploads/conteudo/fotos/pbs.twimg_2.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/WebHWdLMOfOwFdpBw51DktWNb8g=/480x360/smart/extras/conteudos/pbs.twimg_2.png"
-tags: ["Como Treinar o Seu Dragão", "live-action", "Stoico", "pôster", "cinema", "filme", "Gerard Butler", "Mason Thames", "Dean DeBlois", "DreamWorks"]
-keywords: "Como Treinar o Seu Dragão, live-action, Stoico, pôster, cinema, filme, Gerard Butler, Mason Thames, Dean DeBlois, DreamWorks"
-author: "Pablo Moura"
-data: "2025-04-22T18:26:53.788Z"
+title: >-
+  Stoico Retorna em Grande Estilo no Novo Pôster do Live-action de Como Treinar
+  o Seu Dragão
+slug: como-treinar-o-seu-drago-live-action-ganha-pster-com-stoico-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/f4HNvLu5oFWCGjnpHxxy9G7lYrc=/987x0/smart/uploads/conteudo/fotos/pbs.twimg_2.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/WebHWdLMOfOwFdpBw51DktWNb8g=/480x360/smart/extras/conteudos/pbs.twimg_2.png
+tags:
+  - Como Treinar o Seu Dragão
+  - live-action
+  - Stoico
+  - pôster
+  - cinema
+  - filme
+  - Gerard Butler
+  - Mason Thames
+  - Dean DeBlois
+  - DreamWorks
+keywords: >-
+  Como Treinar o Seu Dragão, live-action, Stoico, pôster, cinema, filme, Gerard
+  Butler, Mason Thames, Dean DeBlois, DreamWorks
+author: Pablo Moura
+data: '2025-04-22T18:26:53.788Z'
+resumo: >-
+  O aguardado filme live-action de Como Treinar o Seu Dragão, que estreia em
+  junho nos cinemas brasileiros, revela um emocionante pôster com Stoico,
+  trazendo também um elenco estelar para a nova adaptação.
 ---
 
 A nova adaptação live-action de Como Treinar o Seu Dragão acaba de ganhar um pôster empolgante focado em Stoico, o viking pai do protagonista Soluço. A imagem foi divulgada recentemente e já aumentou as expectativas dos fãs para o lançamento do filme.

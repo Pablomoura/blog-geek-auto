@@ -1,14 +1,34 @@
 ---
-title: "Lanternas Verdes Decolam em Novas Cenas de Bastidores para a Série da HBO e Max"
-slug: "lanternas-verdes-vdeo-dos-bastidores-mostram-heris-em-voo"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/MbhVpyPsPuf90zj07YgJusSkHCw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T102521.200.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4k80ZKZWE5v8vf6z8lmWaoCw42s=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T102508.982.png"
-tags: ["Lanternas Verdes", "DCU", "James Gunn", "HBO", "Max", "série", "heróis", "John Stewart", "Hal Jordan", "Damon Lindelof", "DC Studios"]
-keywords: "Lanternas Verdes, DCU, James Gunn, HBO, Max, série, heróis, John Stewart, Hal Jordan, Damon Lindelof, DC Studios"
-author: "Ana Luiza"
-data: "2025-04-22T13:29:12.448Z"
+title: >-
+  Lanternas Verdes Decolam em Novas Cenas de Bastidores para a Série da HBO e
+  Max
+slug: lanternas-verdes-vdeo-dos-bastidores-mostram-heris-em-voo
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/MbhVpyPsPuf90zj07YgJusSkHCw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T102521.200.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4k80ZKZWE5v8vf6z8lmWaoCw42s=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T102508.982.png
+tags:
+  - Lanternas Verdes
+  - DCU
+  - James Gunn
+  - HBO
+  - Max
+  - série
+  - heróis
+  - John Stewart
+  - Hal Jordan
+  - Damon Lindelof
+  - DC Studios
+keywords: >-
+  Lanternas Verdes, DCU, James Gunn, HBO, Max, série, heróis, John Stewart, Hal
+  Jordan, Damon Lindelof, DC Studios
+author: Ana Luiza
+data: '2025-04-22T13:29:12.448Z'
+resumo: >-
+  A nova série 'Lanterns', parte do DCU de James Gunn, revela heróis em ação nos
+  bastidores e promete mistério e aventura para 2026.
 ---
 
 A empolgante série **Lanternas Verdes**, uma nova produção original da Max para o DCU sob a liderança de James Gunn, acaba de revelar imagens inéditas dos bastidores, destacando os heróis voando em ação. 

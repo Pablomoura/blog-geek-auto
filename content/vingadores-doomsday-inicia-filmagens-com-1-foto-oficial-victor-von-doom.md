@@ -1,14 +1,32 @@
 ---
-title: "Robert Downey Jr. é Doutor Destino em 'Vingadores: Doomsday', que inicia filmagens em Londres"
-slug: "vingadores-doomsday-inicia-filmagens-com-1-foto-oficial-victor-von-doom"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/6olFFvXQuVA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/3nuNgPJ-SqFer_FF-SeFmr9Lx7o=/480x360/smart/extras/conteudos/downey-vingadores-doomsday.jpg"
-tags: ["Vingadores Doomsday", "Robert Downey Jr.", "Doutor Destino", "Marvel", "MCU", "filmagens", "Joe Russo", "Anthony Russo", "elenco MCU"]
-keywords: "Vingadores Doomsday, Robert Downey Jr., Doutor Destino, Marvel, MCU, filmagens, Joe Russo, Anthony Russo, elenco MCU"
-author: "Luana Souza"
-data: "2025-04-28T23:18:06.651Z"
+title: >-
+  Robert Downey Jr. é Doutor Destino em 'Vingadores: Doomsday', que inicia
+  filmagens em Londres
+slug: vingadores-doomsday-inicia-filmagens-com-1-foto-oficial-victor-von-doom
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/6olFFvXQuVA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/3nuNgPJ-SqFer_FF-SeFmr9Lx7o=/480x360/smart/extras/conteudos/downey-vingadores-doomsday.jpg
+tags:
+  - Vingadores Doomsday
+  - Robert Downey Jr.
+  - Doutor Destino
+  - Marvel
+  - MCU
+  - filmagens
+  - Joe Russo
+  - Anthony Russo
+  - elenco MCU
+keywords: >-
+  Vingadores Doomsday, Robert Downey Jr., Doutor Destino, Marvel, MCU,
+  filmagens, Joe Russo, Anthony Russo, elenco MCU
+author: Luana Souza
+data: '2025-04-28T23:18:06.651Z'
+resumo: >-
+  O icônico Robert Downey Jr., conhecido por seu papel como Homem de Ferro,
+  retorna ao MCU como o vilão Doutor Destino no novo filme 'Vingadores:
+  Doomsday', cujas filmagens acabam de começar.
 ---
 
 ## Começam as filmagens de 'Vingadores: Doomsday'

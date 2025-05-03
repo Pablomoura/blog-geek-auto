@@ -1,14 +1,31 @@
 ---
-title: "Diretor de 'Sem Chão', Hamdan Ballal, relata sequestro chocante após vitória no Oscar"
-slug: "sem-cho-diretor-palestino-vencedor-do-oscar-d-relato-de-seu-sequestro"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Plf69LSLEo9GVwbAz5UiV53kxtE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T133532.386.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/RcyvaOnhwSDLZPcUc-KKJBO8iXs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T133418.164.png"
-tags: ["Hamdan Ballal", "Sem Chão", "Oscar", "documentário", "sequestro", "cineasta palestino", "conflito Israel-Palestina"]
-keywords: "Hamdan Ballal, Sem Chão, Oscar, documentário, sequestro, cineasta palestino, conflito Israel-Palestina"
-author: "Ana Luiza"
-data: "2025-04-25T17:18:26.971Z"
+title: >-
+  Diretor de 'Sem Chão', Hamdan Ballal, relata sequestro chocante após vitória
+  no Oscar
+slug: sem-cho-diretor-palestino-vencedor-do-oscar-d-relato-de-seu-sequestro
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Plf69LSLEo9GVwbAz5UiV53kxtE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-25T133532.386.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/RcyvaOnhwSDLZPcUc-KKJBO8iXs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T133418.164.png
+tags:
+  - Hamdan Ballal
+  - Sem Chão
+  - Oscar
+  - documentário
+  - sequestro
+  - cineasta palestino
+  - conflito Israel-Palestina
+keywords: >-
+  Hamdan Ballal, Sem Chão, Oscar, documentário, sequestro, cineasta palestino,
+  conflito Israel-Palestina
+author: Ana Luiza
+data: '2025-04-25T17:18:26.971Z'
+resumo: >-
+  Hamdan Ballal, cineasta palestino e diretor do aclamado documentário 'Sem
+  Chão', compartilha os detalhes de seu sequestro e as contrastantes
+  experiências no Oscar.
 ---
 
 ## O Relato de Um Sequestro Após o Oscar

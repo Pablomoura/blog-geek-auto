@@ -1,14 +1,30 @@
 ---
-title: "Descubra os 10 Filmes Imperdíveis para Assistir no Globoplay em Abril de 2025"
-slug: "os-10-melhores-filmes-para-ver-no-globoplay-agora-abril-2025"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/E_lGNWbD063POe0ECe-pcP6J9h4=/987x0/smart/uploads/conteudo/fotos/melhores-filmes-globoplay-2025.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NRZqEXvfcytv4sZ2TA0VyFoAFOM=/480x360/smart/extras/conteudos/melhores-filmes-globoplay-2025.png"
-tags: ["Globoplay", "melhores filmes", "streaming", "cinema", "filmes no Globoplay", "Oscar", "filmes brasileiros", "cine nacional"]
-keywords: "Globoplay, melhores filmes, streaming, cinema, filmes no Globoplay, Oscar, filmes brasileiros, cine nacional"
-author: "Ana Luiza"
-data: "2025-04-25T23:20:18.566Z"
+title: Descubra os 10 Filmes Imperdíveis para Assistir no Globoplay em Abril de 2025
+slug: os-10-melhores-filmes-para-ver-no-globoplay-agora-abril-2025
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/E_lGNWbD063POe0ECe-pcP6J9h4=/987x0/smart/uploads/conteudo/fotos/melhores-filmes-globoplay-2025.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NRZqEXvfcytv4sZ2TA0VyFoAFOM=/480x360/smart/extras/conteudos/melhores-filmes-globoplay-2025.png
+tags:
+  - Globoplay
+  - melhores filmes
+  - streaming
+  - cinema
+  - filmes no Globoplay
+  - Oscar
+  - filmes brasileiros
+  - cine nacional
+keywords: >-
+  Globoplay, melhores filmes, streaming, cinema, filmes no Globoplay, Oscar,
+  filmes brasileiros, cine nacional
+author: Ana Luiza
+data: '2025-04-25T23:20:18.566Z'
+resumo: >-
+  Explorando uma mistura de clássicos e inovações cinematográficas, confira a
+  lista atualizada dos melhores filmes disponíveis no Globoplay, incluindo o
+  primeiro Oscar brasileiro.
 ---
 
 ## Os Melhores Filmes no Globoplay em Abril de 2025

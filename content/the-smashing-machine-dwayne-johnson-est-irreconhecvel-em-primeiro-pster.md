@@ -1,14 +1,29 @@
 ---
-title: "Dwayne Johnson se Transforma em 'The Smashing Machine' - Veja o Novo Pôster!"
-slug: "the-smashing-machine-dwayne-johnson-est-irreconhecvel-em-primeiro-pster"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/vmkc2zHJDcbSGznpZKcAISQdFa4=/987x0/smart/uploads/conteudo/fotos/image_15_gmq7co6.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NWw4tkxYC7vDcYyEDSocwlqqfMk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T100610.077.png"
-tags: ["The Smashing Machine", "Dwayne Johnson", "artes marciais mistas", "cinema", "Benny Safdie", "Emily Blunt", "estreia de filme"]
-keywords: "The Smashing Machine, Dwayne Johnson, artes marciais mistas, cinema, Benny Safdie, Emily Blunt, estreia de filme"
-author: "Ana Luiza"
-data: "2025-04-28T13:11:24.958Z"
+title: Dwayne Johnson se Transforma em 'The Smashing Machine' - Veja o Novo Pôster!
+slug: the-smashing-machine-dwayne-johnson-est-irreconhecvel-em-primeiro-pster
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/vmkc2zHJDcbSGznpZKcAISQdFa4=/987x0/smart/uploads/conteudo/fotos/image_15_gmq7co6.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NWw4tkxYC7vDcYyEDSocwlqqfMk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T100610.077.png
+tags:
+  - The Smashing Machine
+  - Dwayne Johnson
+  - artes marciais mistas
+  - cinema
+  - Benny Safdie
+  - Emily Blunt
+  - estreia de filme
+keywords: >-
+  The Smashing Machine, Dwayne Johnson, artes marciais mistas, cinema, Benny
+  Safdie, Emily Blunt, estreia de filme
+author: Ana Luiza
+data: '2025-04-28T13:11:24.958Z'
+resumo: >-
+  Dwayne Johnson é Mark Kerr em 'The Smashing Machine', um filme que explora os
+  altos e baixos do mundo das artes marciais mistas. Estreia prevista para
+  outubro de 2023.
 ---
 
 ## Dwayne Johnson em 'The Smashing Machine'

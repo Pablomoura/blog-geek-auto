@@ -1,14 +1,31 @@
 ---
-title: "Thunderbolts* Alcança Sucesso nos Cinemas e Prepara Terreno para Futuros Blockbusters da Marvel"
-slug: "thunderbolts-diretor-no-fez-cena-ps-crditos-set-de-produo-comeando"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/x3NLHbioJNk6EVJ783jxNpQx0Q0=/987x0/smart/uploads/conteudo/fotos/thunderbolts_MdUyf9W.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/X7VfsfRh1UEMmZokyBlkSvuAKgQ=/480x360/smart/extras/conteudos/thunderbolts-capitao-america.webp"
-tags: ["Thunderbolts", "MCU", "Marvel", "Vingadores: Doomsday", "cinema", "Jake Schreier", "cena pós-créditos"]
-keywords: "Thunderbolts, MCU, Marvel, Vingadores: Doomsday, cinema, Jake Schreier, cena pós-créditos"
-author: "Ana Luiza"
-data: "2025-05-02T01:24:59.888Z"
+title: >-
+  Thunderbolts* Alcança Sucesso nos Cinemas e Prepara Terreno para Futuros
+  Blockbusters da Marvel
+slug: thunderbolts-diretor-no-fez-cena-ps-crditos-set-de-produo-comeando
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/x3NLHbioJNk6EVJ783jxNpQx0Q0=/987x0/smart/uploads/conteudo/fotos/thunderbolts_MdUyf9W.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/X7VfsfRh1UEMmZokyBlkSvuAKgQ=/480x360/smart/extras/conteudos/thunderbolts-capitao-america.webp
+tags:
+  - Thunderbolts
+  - MCU
+  - Marvel
+  - 'Vingadores: Doomsday'
+  - cinema
+  - Jake Schreier
+  - cena pós-créditos
+keywords: >-
+  Thunderbolts, MCU, Marvel, Vingadores: Doomsday, cinema, Jake Schreier, cena
+  pós-créditos
+author: Ana Luiza
+data: '2025-05-02T01:24:59.888Z'
+resumo: >-
+  Já em exibição, o filme Thunderbolts* do MCU surpreende com uma cena
+  pós-créditos vinculada ao aguardado Vingadores: Doomsday, apesar de não ser
+  dirigida por Jake Schreier.
 ---
 
 ## O Impacto Inicial de Thunderbolts* nos Cinemas

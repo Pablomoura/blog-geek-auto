@@ -1,14 +1,25 @@
 ---
-title: "Nintendo Anuncia Switch 2 com Paul Rudd Revivendo Comercial Clássico"
-slug: "switch-2-nintendo-refaz-comercial-dos-anos-90-com-paul-rudd"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/xYhGL5y4DPQ?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/M654mNNPaazUsmm_bCF680FB6ic=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T134543.101.png"
-tags: ["Nintendo Switch 2", "Paul Rudd", "lançamento do Switch 2", "jogos do Switch 2", "comercial do Nintendo"]
-keywords: "Nintendo Switch 2, Paul Rudd, lançamento do Switch 2, jogos do Switch 2, comercial do Nintendo"
-author: "Ana Luiza"
-data: "2025-04-21T17:18:34.318Z"
+title: Nintendo Anuncia Switch 2 com Paul Rudd Revivendo Comercial Clássico
+slug: switch-2-nintendo-refaz-comercial-dos-anos-90-com-paul-rudd
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/xYhGL5y4DPQ?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/M654mNNPaazUsmm_bCF680FB6ic=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T134543.101.png
+tags:
+  - Nintendo Switch 2
+  - Paul Rudd
+  - lançamento do Switch 2
+  - jogos do Switch 2
+  - comercial do Nintendo
+keywords: >-
+  Nintendo Switch 2, Paul Rudd, lançamento do Switch 2, jogos do Switch 2,
+  comercial do Nintendo
+author: Ana Luiza
+data: '2025-04-21T17:18:34.318Z'
+resumo: >-
+  O Nintendo Switch 2 será lançado globalmente em 5 de junho, com recursos
+  aprimorados e um novo comercial nostálgico estrelado por Paul Rudd.
 ---
 
 A Nintendo está trazendo nostalgia e inovação com o lançamento do Nintendo Switch 2, que foi anunciado atráves de um comercial estrelado por Paul Rudd. O ator, que já havia participado de uma propaganda para o Super Nintendo em 1991, retorna em uma versão modernizada do mesmo anúncio para promover o novo console.

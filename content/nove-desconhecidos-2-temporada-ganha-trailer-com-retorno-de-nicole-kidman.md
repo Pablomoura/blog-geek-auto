@@ -1,14 +1,30 @@
 ---
-title: "Nicole Kidman Retorna em Trailer da 2ª Temporada de 'Nove Desconhecidos'"
-slug: "nove-desconhecidos-2-temporada-ganha-trailer-com-retorno-de-nicole-kidman"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/-pmLKfq8u3s?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/S2n7wLVUaZOlfq0cyxjIaehRZv0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T134457.571.png"
-tags: ["Nove Desconhecidos", "Nicole Kidman", "segunda temporada", "trailer", "Hulu", "David E. Kelley", "Liane Moriarty", "série", "TV"]
-keywords: "Nove Desconhecidos, Nicole Kidman, segunda temporada, trailer, Hulu, David E. Kelley, Liane Moriarty, série, TV"
-author: "Ana Luiza"
-data: "2025-04-29T17:19:10.997Z"
+title: Nicole Kidman Retorna em Trailer da 2ª Temporada de 'Nove Desconhecidos'
+slug: nove-desconhecidos-2-temporada-ganha-trailer-com-retorno-de-nicole-kidman
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/-pmLKfq8u3s?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/S2n7wLVUaZOlfq0cyxjIaehRZv0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T134457.571.png
+tags:
+  - Nove Desconhecidos
+  - Nicole Kidman
+  - segunda temporada
+  - trailer
+  - Hulu
+  - David E. Kelley
+  - Liane Moriarty
+  - série
+  - TV
+keywords: >-
+  Nove Desconhecidos, Nicole Kidman, segunda temporada, trailer, Hulu, David E.
+  Kelley, Liane Moriarty, série, TV
+author: Ana Luiza
+data: '2025-04-29T17:19:10.997Z'
+resumo: >-
+  A aguardada segunda temporada de 'Nove Desconhecidos' estreia em 21 de maio
+  nos EUA, trazendo novos mistérios e um elenco estelar liderado por Nicole
+  Kidman.
 ---
 
 ## 'Nove Desconhecidos': Uma Nova Jornada de Mistérios e Transformação

@@ -1,14 +1,31 @@
 ---
-title: "Deep Cover: Bryce Dallas Howard e Orlando Bloom em Comédia de Ação no Prime Video"
-slug: "deep-cover-comdia-com-bryce-dallas-howard-e-orlando-bloom-ganha-trailer-veja"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/1x--MaHsbEc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/FQq73QS04rfrbtVBhbi8d79GuTU=/480x360/smart/extras/conteudos/Deep-Cover-prime.webp"
-tags: ["Deep Cover", "Prime Video", "Bryce Dallas Howard", "Orlando Bloom", "comédia de ação", "trailer", "Sean Bean", "Nick Mohammed", "Ian McShane"]
-keywords: "Deep Cover, Prime Video, Bryce Dallas Howard, Orlando Bloom, comédia de ação, trailer, Sean Bean, Nick Mohammed, Ian McShane"
-author: "Ana Luiza"
-data: "2025-05-02T01:25:48.352Z"
+title: >-
+  Deep Cover: Bryce Dallas Howard e Orlando Bloom em Comédia de Ação no Prime
+  Video
+slug: deep-cover-comdia-com-bryce-dallas-howard-e-orlando-bloom-ganha-trailer-veja
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/1x--MaHsbEc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/FQq73QS04rfrbtVBhbi8d79GuTU=/480x360/smart/extras/conteudos/Deep-Cover-prime.webp
+tags:
+  - Deep Cover
+  - Prime Video
+  - Bryce Dallas Howard
+  - Orlando Bloom
+  - comédia de ação
+  - trailer
+  - Sean Bean
+  - Nick Mohammed
+  - Ian McShane
+keywords: >-
+  Deep Cover, Prime Video, Bryce Dallas Howard, Orlando Bloom, comédia de ação,
+  trailer, Sean Bean, Nick Mohammed, Ian McShane
+author: Ana Luiza
+data: '2025-05-02T01:25:48.352Z'
+resumo: >-
+  Prime Video lança trailer de 'Deep Cover', comédia de ação estrelada por Bryce
+  Dallas Howard e Orlando Bloom, ambientada no submundo do crime de Londres.
 ---
 
 ## Estreia de Deep Cover no Prime Video

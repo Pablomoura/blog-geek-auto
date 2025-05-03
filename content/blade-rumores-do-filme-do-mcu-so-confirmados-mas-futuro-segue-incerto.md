@@ -1,14 +1,30 @@
 ---
-title: "Blade no MCU Ganha Ambientação nos Anos 1920, mas Futuro Permanece Incerto"
-slug: "blade-rumores-do-filme-do-mcu-so-confirmados-mas-futuro-segue-incerto"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/R3Q1i9JslEILIhdwaRVN6frONzg=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-24T135542.423.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/RD6wlOGjO2rlI79uZI0Aqdw6cpk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T135619.325.png"
-tags: ["Blade", "MCU", "Mahershala Ali", "Ruth E. Carter", "filmes Marvel", "caçador de vampiros", "anos 1920", "Universo Cinematográfico Marvel"]
-keywords: "Blade, MCU, Mahershala Ali, Ruth E. Carter, filmes Marvel, caçador de vampiros, anos 1920, Universo Cinematográfico Marvel"
-author: "Luana Souza"
-data: "2025-04-24T17:18:07.869Z"
+title: 'Blade no MCU Ganha Ambientação nos Anos 1920, mas Futuro Permanece Incerto'
+slug: blade-rumores-do-filme-do-mcu-so-confirmados-mas-futuro-segue-incerto
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/R3Q1i9JslEILIhdwaRVN6frONzg=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-24T135542.423.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/RD6wlOGjO2rlI79uZI0Aqdw6cpk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T135619.325.png
+tags:
+  - Blade
+  - MCU
+  - Mahershala Ali
+  - Ruth E. Carter
+  - filmes Marvel
+  - caçador de vampiros
+  - anos 1920
+  - Universo Cinematográfico Marvel
+keywords: >-
+  Blade, MCU, Mahershala Ali, Ruth E. Carter, filmes Marvel, caçador de
+  vampiros, anos 1920, Universo Cinematográfico Marvel
+author: Luana Souza
+data: '2025-04-24T17:18:07.869Z'
+resumo: >-
+  O novo filme de Blade, estrelado por Mahershala Ali, será ambientado nos anos
+  1920, conforme revelado pela figurinista Ruth E. Carter, mas o projeto
+  enfrenta atrasos e incertezas sobre sua conexão com o MCU.
 ---
 
 A aguardada entrada de Blade no Universo Cinematográfico Marvel (MCU) ganhou um detalhe intrigante, confirmado pela renomada figurinista Ruth E. Carter, conhecida por seu trabalho em 'Pantera Negra'. Em entrevista a John Campea, Carter revelou que o filme, protagonizado por Mahershala Ali, se passará nos agitados anos 1920, uma era de grande transformação social e cultural. No entanto, ainda resta a dúvida de como a trama se encaixará no vasto universo dos Vingadores e outras narrativas do MCU.

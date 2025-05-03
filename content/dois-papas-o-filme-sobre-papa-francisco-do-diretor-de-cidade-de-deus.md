@@ -1,14 +1,32 @@
 ---
-title: "‘Dois Papas’: A Obra Cinematográfica que Revisita as Conversas entre Bento XVI e Papa Francisco"
-slug: "dois-papas-o-filme-sobre-papa-francisco-do-diretor-de-cidade-de-deus"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/Tgdd94j_x18?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/TLyqDQr_zTsf3qw_phQg4aJJQE8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-02-24T104316.089.png"
-tags: ["Dois Papas", "Fernando Meirelles", "Papa Francisco", "Bento XVI", "filme Netflix", "Jonathan Pryce", "Anthony Hopkins", "cinema", "drama histórico"]
-keywords: "Dois Papas, Fernando Meirelles, Papa Francisco, Bento XVI, filme Netflix, Jonathan Pryce, Anthony Hopkins, cinema, drama histórico"
-author: "Ana Luiza"
-data: "2025-04-21T12:36:00.200Z"
+title: >-
+  ‘Dois Papas’: A Obra Cinematográfica que Revisita as Conversas entre Bento XVI
+  e Papa Francisco
+slug: dois-papas-o-filme-sobre-papa-francisco-do-diretor-de-cidade-de-deus
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/Tgdd94j_x18?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/TLyqDQr_zTsf3qw_phQg4aJJQE8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-02-24T104316.089.png
+tags:
+  - Dois Papas
+  - Fernando Meirelles
+  - Papa Francisco
+  - Bento XVI
+  - filme Netflix
+  - Jonathan Pryce
+  - Anthony Hopkins
+  - cinema
+  - drama histórico
+keywords: >-
+  Dois Papas, Fernando Meirelles, Papa Francisco, Bento XVI, filme Netflix,
+  Jonathan Pryce, Anthony Hopkins, cinema, drama histórico
+author: Ana Luiza
+data: '2025-04-21T12:36:00.200Z'
+resumo: >-
+  Explore ‘Dois Papas’, o filme dirigido por Fernando Meirelles que narra
+  encontros ficcionais entre Papa Bento XVI e o futuro Papa Francisco,
+  destacando debates sociais e dilemas da Igreja no século XXI.
 ---
 
 Lançado em 2019 e agora ressurgindo em popularidade, ‘Dois Papas’ é um drama histórico que captura a essência das interações entre o Papa Bento XVI e o cardeal Jorge Mario Bergoglio, antes de se tornar Papa Francisco. Este último faleceu em abril de 2025 aos 89 anos, e o filme ganhou destaque novamente após o sucesso de ‘Conclave’ e a tristeza mundial pela perda de Francisco.

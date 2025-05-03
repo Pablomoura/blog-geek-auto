@@ -1,14 +1,24 @@
 ---
-title: "Lorde Revela Detalhes de 'Virgin', Seu Quarto Álbum de Estúdio"
-slug: "lorde-anuncia-novo-lbum-virgin-veja-capa-e-saiba-a-data"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/mg4QM3GkX7Y41YbjfOSwvF6zZHQ=/987x0/smart/uploads/conteudo/fotos/SnapInsta.to_491444576_18505464967037477_3772239853120929647_n.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/E3QT5n9YmnMBkzc7gH2IG7UF6BY=/480x360/smart/extras/conteudos/SnapInsta.to_491444576_18505464967037477_3772239853120929647_n.jpg"
-tags: ["Lorde", "Virgin", "novo álbum Lorde", "lançamento álbum Virgin", "música"]
-keywords: "Lorde, Virgin, novo álbum Lorde, lançamento álbum Virgin, música"
-author: "Ana Luiza"
-data: "2025-04-30T17:17:27.369Z"
+title: 'Lorde Revela Detalhes de ''Virgin'', Seu Quarto Álbum de Estúdio'
+slug: lorde-anuncia-novo-lbum-virgin-veja-capa-e-saiba-a-data
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/mg4QM3GkX7Y41YbjfOSwvF6zZHQ=/987x0/smart/uploads/conteudo/fotos/SnapInsta.to_491444576_18505464967037477_3772239853120929647_n.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/E3QT5n9YmnMBkzc7gH2IG7UF6BY=/480x360/smart/extras/conteudos/SnapInsta.to_491444576_18505464967037477_3772239853120929647_n.jpg
+tags:
+  - Lorde
+  - Virgin
+  - novo álbum Lorde
+  - lançamento álbum Virgin
+  - música
+keywords: 'Lorde, Virgin, novo álbum Lorde, lançamento álbum Virgin, música'
+author: Ana Luiza
+data: '2025-04-30T17:17:27.369Z'
+resumo: >-
+  Lorde anuncia o lançamento de 'Virgin' para 15 de junho, prometendo uma
+  experiência musical transparente e crua.
 ---
 
 ## 'Virgin': Um Mergulho na Transparência Musical de Lorde

@@ -1,14 +1,31 @@
 ---
-title: "Scarlet: Novo Filme de Mamoru Hosoda Promete Ser o Mais Intenso de Sua Carreira"
-slug: "scarlet-novo-filme-de-mamoru-hosoda-ganha-trailer-e-nova-imagem"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/XETw4Yy79nY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/x2IxcdVWzMR4DOleJNrg26D5T_s=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T205832.426.png"
-tags: ["Scarlet", "Mamoru Hosoda", "novo filme de Mamoru Hosoda", "Studio Chizu", "Columbia Pictures", "Sony", "Toho", "filmes de animação"]
-keywords: "Scarlet, Mamoru Hosoda, novo filme de Mamoru Hosoda, Studio Chizu, Columbia Pictures, Sony, Toho, filmes de animação"
-author: "Ana Luiza"
-data: "2025-04-30T01:24:32.196Z"
+title: >-
+  Scarlet: Novo Filme de Mamoru Hosoda Promete Ser o Mais Intenso de Sua
+  Carreira
+slug: scarlet-novo-filme-de-mamoru-hosoda-ganha-trailer-e-nova-imagem
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/XETw4Yy79nY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/x2IxcdVWzMR4DOleJNrg26D5T_s=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T205832.426.png
+tags:
+  - Scarlet
+  - Mamoru Hosoda
+  - novo filme de Mamoru Hosoda
+  - Studio Chizu
+  - Columbia Pictures
+  - Sony
+  - Toho
+  - filmes de animação
+keywords: >-
+  Scarlet, Mamoru Hosoda, novo filme de Mamoru Hosoda, Studio Chizu, Columbia
+  Pictures, Sony, Toho, filmes de animação
+author: Ana Luiza
+data: '2025-04-30T01:24:32.196Z'
+resumo: >-
+  O aclamado diretor Mamoru Hosoda está de volta com 'Scarlet', um filme que
+  promete ser o mais violento de sua carreira, explorando uma narrativa épica de
+  uma princesa guerreira.
 ---
 
 ## Revelação do Trailer de Scarlet

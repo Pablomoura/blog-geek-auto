@@ -1,14 +1,30 @@
 ---
-title: "Como Treinar Seu Dragão: Balde de Pipoca em Forma de Banguela Chega aos Cinemas dos EUA"
-slug: "como-treinar-seu-drago-banguela-vira-balde-de-pipoca-que-abre-a-boca"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/3Gx4aRmh3mk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/4wiDvIFc9Q_l4m4UPJdlgD_HfsI=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_121204.png"
-tags: ["Como Treinar Seu Dragão", "Banguela", "balde de pipoca", "cinemas Regal", "live-action", "estreia", "merchandising de cinema"]
-keywords: "Como Treinar Seu Dragão, Banguela, balde de pipoca, cinemas Regal, live-action, estreia, merchandising de cinema"
-author: "Luana Souza"
-data: "2025-05-01T15:19:31.525Z"
+title: >-
+  Como Treinar Seu Dragão: Balde de Pipoca em Forma de Banguela Chega aos
+  Cinemas dos EUA
+slug: como-treinar-seu-drago-banguela-vira-balde-de-pipoca-que-abre-a-boca
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/3Gx4aRmh3mk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/4wiDvIFc9Q_l4m4UPJdlgD_HfsI=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_121204.png
+tags:
+  - Como Treinar Seu Dragão
+  - Banguela
+  - balde de pipoca
+  - cinemas Regal
+  - live-action
+  - estreia
+  - merchandising de cinema
+keywords: >-
+  Como Treinar Seu Dragão, Banguela, balde de pipoca, cinemas Regal,
+  live-action, estreia, merchandising de cinema
+author: Luana Souza
+data: '2025-05-01T15:19:31.525Z'
+resumo: >-
+  Acompanhando o lançamento do live-action de Como Treinar Seu Dragão, um balde
+  de pipoca inovador em forma de Banguela será lançado exclusivamente nos
+  cinemas Regal nos EUA.
 ---
 
 ## Inovação e Nostalgia no Merchandising de Cinema

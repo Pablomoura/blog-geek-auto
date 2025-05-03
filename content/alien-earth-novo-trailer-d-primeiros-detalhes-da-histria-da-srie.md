@@ -1,14 +1,32 @@
 ---
-title: "Alien: Earth Revela Detalhes em Novo Trailer e Prepara o Palco para um Prequel Espetacular"
-slug: "alien-earth-novo-trailer-d-primeiros-detalhes-da-histria-da-srie"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/GzzMvcAbjUE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/7BeWFdC-dXl3D9PyeuSQ9368-tg=/480x360/smart/extras/conteudos/alienearth_e83BaCw.jpg"
-tags: ["Alien Earth", "novo trailer Alien", "prelúdio Alien", "série Alien", "Disney+", "Hulu", "Ridley Scott", "xenomorfos", "franquia Alien"]
-keywords: "Alien Earth, novo trailer Alien, prelúdio Alien, série Alien, Disney+, Hulu, Ridley Scott, xenomorfos, franquia Alien"
-author: "Ana Luiza"
-data: "2025-04-26T15:18:11.089Z"
+title: >-
+  Alien: Earth Revela Detalhes em Novo Trailer e Prepara o Palco para um Prequel
+  Espetacular
+slug: alien-earth-novo-trailer-d-primeiros-detalhes-da-histria-da-srie
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/GzzMvcAbjUE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/7BeWFdC-dXl3D9PyeuSQ9368-tg=/480x360/smart/extras/conteudos/alienearth_e83BaCw.jpg
+tags:
+  - Alien Earth
+  - novo trailer Alien
+  - prelúdio Alien
+  - série Alien
+  - Disney+
+  - Hulu
+  - Ridley Scott
+  - xenomorfos
+  - franquia Alien
+keywords: >-
+  Alien Earth, novo trailer Alien, prelúdio Alien, série Alien, Disney+, Hulu,
+  Ridley Scott, xenomorfos, franquia Alien
+author: Ana Luiza
+data: '2025-04-26T15:18:11.089Z'
+resumo: >-
+  O novo trailer de 'Alien: Earth' introduz a trama que antecede o clássico
+  filme de Ridley Scott, prometendo uma nova perspectiva sobre a chegada dos
+  xenomorfos à Terra.
 ---
 
 ## Alien: Earth - A Origem dos Xenomorfos na Terra

@@ -1,14 +1,28 @@
 ---
-title: "Sydney Sweeney se transforma em cantora country no novo filme 'Americana'"
-slug: "sydney-sweeney-quer-ser-cantora-country-nas-primeiras-fotos-de-americana-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/WTldoEJMJOavU4Er-lNSiW0JCLg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_13_I2N1iPf.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NZbUvI2hM0rUdg4BeTFl2y5im5Y=/480x360/smart/extras/conteudos/Design_sem_nome_13_4DDwxFt.jpg"
-tags: ["Americana filme", "Sydney Sweeney", "cantora country", "Paul Walter Hauser", "Halsey", "cinema", "estreia filme"]
-keywords: "Americana filme, Sydney Sweeney, cantora country, Paul Walter Hauser, Halsey, cinema, estreia filme"
-author: "Pablo Moura"
-data: "2025-05-01T21:19:29.426Z"
+title: Sydney Sweeney se transforma em cantora country no novo filme 'Americana'
+slug: sydney-sweeney-quer-ser-cantora-country-nas-primeiras-fotos-de-americana-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/WTldoEJMJOavU4Er-lNSiW0JCLg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_13_I2N1iPf.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NZbUvI2hM0rUdg4BeTFl2y5im5Y=/480x360/smart/extras/conteudos/Design_sem_nome_13_4DDwxFt.jpg
+tags:
+  - Americana filme
+  - Sydney Sweeney
+  - cantora country
+  - Paul Walter Hauser
+  - Halsey
+  - cinema
+  - estreia filme
+keywords: >-
+  Americana filme, Sydney Sweeney, cantora country, Paul Walter Hauser, Halsey,
+  cinema, estreia filme
+author: Pablo Moura
+data: '2025-05-01T21:19:29.426Z'
+resumo: >-
+  No filme 'Americana', Sydney Sweeney encarna uma garçonete com sonhos de
+  grandeza no cenário country, ao lado de Paul Walter Houser e Halsey.
 ---
 
 ## 'Americana': Uma Jornada Rumo ao Estrelato Country

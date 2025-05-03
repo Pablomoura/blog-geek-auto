@@ -1,14 +1,31 @@
 ---
-title: "Netflix Revoluciona com Street Fighter 4: Champion Edition Grátis para Assinantes"
-slug: "netflix-lana-street-fighter-4-para-celulares-veja-como-baixar"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/_3_rt9Rn6yc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Adsz9UeDJBuFsA9yEvRri7xPxkw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-22_162954.png"
-tags: ["Netflix", "Street Fighter 4", "jogos para celular", "Champion Edition", "videogames", "download gratuito", "streaming", "multiplayer"]
-keywords: "Netflix, Street Fighter 4, jogos para celular, Champion Edition, videogames, download gratuito, streaming, multiplayer"
-author: "Pablo Moura"
-data: "2025-04-22T20:21:47.882Z"
+title: >-
+  Netflix Revoluciona com Street Fighter 4: Champion Edition Grátis para
+  Assinantes
+slug: netflix-lana-street-fighter-4-para-celulares-veja-como-baixar
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/_3_rt9Rn6yc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Adsz9UeDJBuFsA9yEvRri7xPxkw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-22_162954.png
+tags:
+  - Netflix
+  - Street Fighter 4
+  - jogos para celular
+  - Champion Edition
+  - videogames
+  - download gratuito
+  - streaming
+  - multiplayer
+keywords: >-
+  Netflix, Street Fighter 4, jogos para celular, Champion Edition, videogames,
+  download gratuito, streaming, multiplayer
+author: Pablo Moura
+data: '2025-04-22T20:21:47.882Z'
+resumo: >-
+  A Netflix expande suas fronteiras no mundo gaming ao oferecer Street Fighter
+  4: Champion Edition para celulares, sem custos adicionais para seus
+  assinantes.
 ---
 
 A gigante do streaming Netflix acaba de enriquecer sua oferta aos assinantes com uma nova adição no mundo dos jogos: **Street Fighter 4: Champion Edition** está agora disponível gratuitamente para dispositivos Android e iOS. Para acessar o jogo, basta ter uma conta ativa na Netflix e realizar o download através da Google Play Store ou da App Store.

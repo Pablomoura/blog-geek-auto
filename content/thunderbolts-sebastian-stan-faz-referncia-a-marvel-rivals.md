@@ -1,14 +1,31 @@
 ---
-title: "Sebastian Stan Revive Frases Icônicas em Promo de Thunderbolts e Conecta com Fãs do Marvel Rivals"
-slug: "thunderbolts-sebastian-stan-faz-referncia-a-marvel-rivals"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/HhfqjFVevMM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/aET_PB1lj7EZhSroEcnxjFVJink=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T213410.056.png"
-tags: ["Sebastian Stan", "Thunderbolts", "Marvel Rivals", "MCU", "Soldado Invernal", "Marvel", "cinema", "filmes de super-heróis"]
-keywords: "Sebastian Stan, Thunderbolts, Marvel Rivals, MCU, Soldado Invernal, Marvel, cinema, filmes de super-heróis"
-author: "Pablo Moura"
-data: "2025-04-26T01:21:37.958Z"
+title: >-
+  Sebastian Stan Revive Frases Icônicas em Promo de Thunderbolts e Conecta com
+  Fãs do Marvel Rivals
+slug: thunderbolts-sebastian-stan-faz-referncia-a-marvel-rivals
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/HhfqjFVevMM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/aET_PB1lj7EZhSroEcnxjFVJink=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T213410.056.png
+tags:
+  - Sebastian Stan
+  - Thunderbolts
+  - Marvel Rivals
+  - MCU
+  - Soldado Invernal
+  - Marvel
+  - cinema
+  - filmes de super-heróis
+keywords: >-
+  Sebastian Stan, Thunderbolts, Marvel Rivals, MCU, Soldado Invernal, Marvel,
+  cinema, filmes de super-heróis
+author: Pablo Moura
+data: '2025-04-26T01:21:37.958Z'
+resumo: >-
+  Sebastian Stan, em um momento de descontração, revive diálogos marcantes de
+  Soldado Invernal em novo material promocional de Thunderbolts, fazendo uma
+  ponte direta com os jogadores de Marvel Rivals.
 ---
 
 ## Sebastian Stan e a Conexão com Marvel Rivals

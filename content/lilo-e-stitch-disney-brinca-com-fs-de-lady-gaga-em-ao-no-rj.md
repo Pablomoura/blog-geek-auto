@@ -1,14 +1,32 @@
 ---
-title: "Stitch Surpreende Fãs no Rio em Ação Promocional do Novo Live-Action de Lilo & Stitch"
-slug: "lilo-e-stitch-disney-brinca-com-fs-de-lady-gaga-em-ao-no-rj"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/oLnS1Ij9-Kk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/_LY3MWD5eOzg7xOQWTdw_3uoW-w=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_162207.png"
-tags: ["Lilo & Stitch", "Disney", "live-action", "Lady Gaga", "Rio de Janeiro", "Copacabana Palace", "marketing", "cinema", "filme"]
-keywords: "Lilo & Stitch, Disney, live-action, Lady Gaga, Rio de Janeiro, Copacabana Palace, marketing, cinema, filme"
-author: "Ana Luiza"
-data: "2025-04-30T20:22:08.970Z"
+title: >-
+  Stitch Surpreende Fãs no Rio em Ação Promocional do Novo Live-Action de Lilo &
+  Stitch
+slug: lilo-e-stitch-disney-brinca-com-fs-de-lady-gaga-em-ao-no-rj
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/oLnS1Ij9-Kk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/_LY3MWD5eOzg7xOQWTdw_3uoW-w=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_162207.png
+tags:
+  - Lilo & Stitch
+  - Disney
+  - live-action
+  - Lady Gaga
+  - Rio de Janeiro
+  - Copacabana Palace
+  - marketing
+  - cinema
+  - filme
+keywords: >-
+  Lilo & Stitch, Disney, live-action, Lady Gaga, Rio de Janeiro, Copacabana
+  Palace, marketing, cinema, filme
+author: Ana Luiza
+data: '2025-04-30T20:22:08.970Z'
+resumo: >-
+  Em uma jogada promocional inusitada, a Disney utilizou a figura de Stitch para
+  surpreender os fãs de Lady Gaga hospedados no Copacabana Palace, no Rio de
+  Janeiro.
 ---
 
 ## Stitch Causa Frenesi entre Fãs de Lady Gaga no Rio

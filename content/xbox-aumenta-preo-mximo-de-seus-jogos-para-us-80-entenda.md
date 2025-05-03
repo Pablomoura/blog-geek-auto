@@ -1,14 +1,28 @@
 ---
-title: "Xbox Eleva Preço de Jogos AAA para US$ 80: Impactos e Detalhes do Ajuste"
-slug: "xbox-aumenta-preo-mximo-de-seus-jogos-para-us-80-entenda"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/WAxIEq9w9ts4Aw9RzI0cVsm3MaM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T111029.707.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/j_S4nvfWv4RuCepjc4D5wbPnDEY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T111016.103.png"
-tags: ["Xbox", "aumento de preço", "jogos AAA", "Microsoft", "mercado de jogos", "Xbox Series X", "Xbox Series S"]
-keywords: "Xbox, aumento de preço, jogos AAA, Microsoft, mercado de jogos, Xbox Series X, Xbox Series S"
-author: "Luana Souza"
-data: "2025-05-01T14:17:46.136Z"
+title: 'Xbox Eleva Preço de Jogos AAA para US$ 80: Impactos e Detalhes do Ajuste'
+slug: xbox-aumenta-preo-mximo-de-seus-jogos-para-us-80-entenda
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/WAxIEq9w9ts4Aw9RzI0cVsm3MaM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T111029.707.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/j_S4nvfWv4RuCepjc4D5wbPnDEY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T111016.103.png
+tags:
+  - Xbox
+  - aumento de preço
+  - jogos AAA
+  - Microsoft
+  - mercado de jogos
+  - Xbox Series X
+  - Xbox Series S
+keywords: >-
+  Xbox, aumento de preço, jogos AAA, Microsoft, mercado de jogos, Xbox Series X,
+  Xbox Series S
+author: Luana Souza
+data: '2025-05-01T14:17:46.136Z'
+resumo: >-
+  A Xbox anuncia uma elevação no preço de seus jogos mais cobiçados para até US$
+  80, refletindo custos de desenvolvimento e estratégias de mercado.
 ---
 
 ## Novo Teto de Preços para Jogos Xbox

@@ -1,14 +1,30 @@
 ---
-title: "BBB 25 Define Finalistas: Guilherme, Renata e João Pedro Disputam o Prêmio!"
-slug: "bbb-25-guilherme-renata-e-joo-pedro-esto-na-grande-final"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/5tB9S_pMC4Qcjrsy1ECrUbmCr1A=/987x0/smart/uploads/conteudo/fotos/bbb25-guilherme-renata-joao-pedro-final.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4Yy-CV2akuG1tAYbJ4FEZIsqitc=/480x360/smart/extras/conteudos/bbb25-renata-final-peq.jpg"
-tags: ["BBB 25", "Big Brother Brasil", "Final BBB 25", "Guilherme BBB", "Renata BBB", "João Pedro BBB", "Tadeu Schmidt", "votação BBB", "Globoplay"]
-keywords: "BBB 25, Big Brother Brasil, Final BBB 25, Guilherme BBB, Renata BBB, João Pedro BBB, Tadeu Schmidt, votação BBB, Globoplay"
-author: "Pablo Moura"
-data: "2025-04-21T03:16:43.565Z"
+title: 'BBB 25 Define Finalistas: Guilherme, Renata e João Pedro Disputam o Prêmio!'
+slug: bbb-25-guilherme-renata-e-joo-pedro-esto-na-grande-final
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/5tB9S_pMC4Qcjrsy1ECrUbmCr1A=/987x0/smart/uploads/conteudo/fotos/bbb25-guilherme-renata-joao-pedro-final.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4Yy-CV2akuG1tAYbJ4FEZIsqitc=/480x360/smart/extras/conteudos/bbb25-renata-final-peq.jpg
+tags:
+  - BBB 25
+  - Big Brother Brasil
+  - Final BBB 25
+  - Guilherme BBB
+  - Renata BBB
+  - João Pedro BBB
+  - Tadeu Schmidt
+  - votação BBB
+  - Globoplay
+keywords: >-
+  BBB 25, Big Brother Brasil, Final BBB 25, Guilherme BBB, Renata BBB, João
+  Pedro BBB, Tadeu Schmidt, votação BBB, Globoplay
+author: Pablo Moura
+data: '2025-04-21T03:16:43.565Z'
+resumo: >-
+  O trio Guilherme, Renata e João Pedro avança para a emocionante final do Big
+  Brother Brasil 25, com a decisão ao vivo na próxima terça-feira.
 ---
 
 A reta final do **Big Brother Brasil 25** está definida. Com a recente eliminação de Vitória Strada, Guilherme, Renata e João Pedro garantiram suas posições na intensa disputa pelo grande prêmio. A grande final será transmitida ao vivo por Tadeu Schmidt na TV Globo, no dia 22 deste mês.

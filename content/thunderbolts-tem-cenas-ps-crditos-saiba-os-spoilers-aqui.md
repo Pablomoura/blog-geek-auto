@@ -1,14 +1,25 @@
 ---
-title: "Thunderbolts da Marvel: Revelações das Cenas Pós-Créditos e Conexões com o MCU"
-slug: "thunderbolts-tem-cenas-ps-crditos-saiba-os-spoilers-aqui"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/r37vwuH7ZPU?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/__2ZweWXrFZTp0EoD8kcR8inXic=/480x360/smart/extras/conteudos/thunderbolts_PrpfJjE.jpg"
-tags: ["Thunderbolts", "Marvel", "MCU", "cenas pós-créditos", "Quarteto Fantástico", "cinema"]
-keywords: "Thunderbolts, Marvel, MCU, cenas pós-créditos, Quarteto Fantástico, cinema"
-author: "Pablo Moura"
-data: "2025-04-29T21:18:07.311Z"
+title: 'Thunderbolts da Marvel: Revelações das Cenas Pós-Créditos e Conexões com o MCU'
+slug: thunderbolts-tem-cenas-ps-crditos-saiba-os-spoilers-aqui
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/r37vwuH7ZPU?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/__2ZweWXrFZTp0EoD8kcR8inXic=/480x360/smart/extras/conteudos/thunderbolts_PrpfJjE.jpg
+tags:
+  - Thunderbolts
+  - Marvel
+  - MCU
+  - cenas pós-créditos
+  - Quarteto Fantástico
+  - cinema
+keywords: 'Thunderbolts, Marvel, MCU, cenas pós-créditos, Quarteto Fantástico, cinema'
+author: Pablo Moura
+data: '2025-04-29T21:18:07.311Z'
+resumo: >-
+  O filme Thunderbolts, com estreia prevista para 1º de maio nos cinemas
+  brasileiros, promete intensificar o legado do MCU com cenas pós-créditos
+  impactantes.
 ---
 
 ## Estreia de Thunderbolts: Cenas Pós-Créditos e Futuro do MCU

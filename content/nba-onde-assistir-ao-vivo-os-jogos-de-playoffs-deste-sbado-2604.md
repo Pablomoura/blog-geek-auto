@@ -1,14 +1,28 @@
 ---
-title: "Playoffs NBA 2024-25: Agenda e Onde Assistir aos Jogos Deste Sábado"
-slug: "nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-deste-sbado-2604"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Cq6PZ9GfB5EjSwpz9lkUHyiomfk=/987x0/smart/uploads/conteudo/fotos/playoffs-nba-stephen-curry-26-04.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/3jMo6JAhXTAORWdi32TnlxlFtiM=/480x360/smart/extras/conteudos/playoffs-nba-stephen-curry-26-04-peq.jpg"
-tags: ["Playoffs NBA 2024-25", "onde assistir NBA", "jogos NBA ao vivo", "NBA League Pass", "ESPN", "Prime Video", "Playoffs NBA sábado"]
-keywords: "Playoffs NBA 2024-25, onde assistir NBA, jogos NBA ao vivo, NBA League Pass, ESPN, Prime Video, Playoffs NBA sábado"
-author: "Pablo Moura"
-data: "2025-04-26T12:33:09.426Z"
+title: 'Playoffs NBA 2024-25: Agenda e Onde Assistir aos Jogos Deste Sábado'
+slug: nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-deste-sbado-2604
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Cq6PZ9GfB5EjSwpz9lkUHyiomfk=/987x0/smart/uploads/conteudo/fotos/playoffs-nba-stephen-curry-26-04.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/3jMo6JAhXTAORWdi32TnlxlFtiM=/480x360/smart/extras/conteudos/playoffs-nba-stephen-curry-26-04-peq.jpg
+tags:
+  - Playoffs NBA 2024-25
+  - onde assistir NBA
+  - jogos NBA ao vivo
+  - NBA League Pass
+  - ESPN
+  - Prime Video
+  - Playoffs NBA sábado
+keywords: >-
+  Playoffs NBA 2024-25, onde assistir NBA, jogos NBA ao vivo, NBA League Pass,
+  ESPN, Prime Video, Playoffs NBA sábado
+author: Pablo Moura
+data: '2025-04-26T12:33:09.426Z'
+resumo: >-
+  Descubra os horários e plataformas para não perder nenhum lance dos
+  emocionantes jogos dos Playoffs da NBA neste sábado, 26 de abril.
 ---
 
 ## Programação dos Playoffs da NBA em 26 de Abril

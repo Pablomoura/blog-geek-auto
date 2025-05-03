@@ -1,14 +1,27 @@
 ---
-title: "Retorno de Personagem Marcante em Grey's Anatomy Agita Fãs"
-slug: "greys-anatomy-teaser-do-prximo-episdio-revela-retorno-de-personagem-veja"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/H8qd6pHweSY?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/-VD814Rl6qU0FihSeY2B8qkz6r8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T114217.528.png"
-tags: ["Grey's Anatomy", "retorno de personagem", "Jake Borelli", "Levi Schmitt", "série médica", "Disney+", "Sony Channel"]
-keywords: "Grey's Anatomy, retorno de personagem, Jake Borelli, Levi Schmitt, série médica, Disney+, Sony Channel"
-author: "Pablo Moura"
-data: "2025-05-02T15:21:15.829Z"
+title: Retorno de Personagem Marcante em Grey's Anatomy Agita Fãs
+slug: greys-anatomy-teaser-do-prximo-episdio-revela-retorno-de-personagem-veja
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/H8qd6pHweSY?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/-VD814Rl6qU0FihSeY2B8qkz6r8=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T114217.528.png
+tags:
+  - Grey's Anatomy
+  - retorno de personagem
+  - Jake Borelli
+  - Levi Schmitt
+  - série médica
+  - Disney+
+  - Sony Channel
+keywords: >-
+  Grey's Anatomy, retorno de personagem, Jake Borelli, Levi Schmitt, série
+  médica, Disney+, Sony Channel
+author: Pablo Moura
+data: '2025-05-02T15:21:15.829Z'
+resumo: >-
+  Um personagem querido retorna ao Grey Sloan no próximo episódio de Grey's
+  Anatomy, prometendo emoções no casamento de Jo e Link.
 ---
 
 ## Grey's Anatomy Anuncia Surpresa para os Fãs

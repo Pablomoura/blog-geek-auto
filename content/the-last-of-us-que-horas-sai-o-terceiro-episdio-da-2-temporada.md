@@ -1,14 +1,30 @@
 ---
-title: "The Last of Us: Detalhes do Emocionante Terceiro Episódio da 2ª Temporada na HBO"
-slug: "the-last-of-us-que-horas-sai-o-terceiro-episdio-da-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/c8wyogd7NXs?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/A_4Ik5DRK_dygBDZN7MXYsuYXEE=/480x360/smart/extras/conteudos/Design_sem_nome_13_FhXXKTQ.jpg"
-tags: ["The Last of Us", "HBO", "segunda temporada", "episódios", "Bella Ramsey", "Max", "série de TV", "especial-The Last of Us"]
-keywords: "The Last of Us, HBO, segunda temporada, episódios, Bella Ramsey, Max, série de TV"
-author: "Luana Souza"
-data: "2025-04-27T12:33:10.390Z"
+title: >-
+  The Last of Us: Detalhes do Emocionante Terceiro Episódio da 2ª Temporada na
+  HBO
+slug: the-last-of-us-que-horas-sai-o-terceiro-episdio-da-2-temporada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/c8wyogd7NXs?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/A_4Ik5DRK_dygBDZN7MXYsuYXEE=/480x360/smart/extras/conteudos/Design_sem_nome_13_FhXXKTQ.jpg
+tags:
+  - The Last of Us
+  - HBO
+  - segunda temporada
+  - episódios
+  - Bella Ramsey
+  - Max
+  - série de TV
+  - especial-The Last of Us
+keywords: >-
+  The Last of Us, HBO, segunda temporada, episódios, Bella Ramsey, Max, série de
+  TV
+author: Luana Souza
+data: '2025-04-27T12:33:10.390Z'
+resumo: >-
+  Acompanhe a continuação da saga de Ellie em 'The Last of Us', que estreia seu
+  terceiro episódio da segunda temporada neste domingo na HBO e Max.
 ---
 
 ## **Lançamento do Terceiro Episódio da 2ª Temporada de The Last of Us**

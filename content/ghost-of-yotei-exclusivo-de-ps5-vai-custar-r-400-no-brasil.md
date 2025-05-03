@@ -1,14 +1,29 @@
 ---
-title: "Ghost of Yotei: Preço e Detalhes da Nova Jóia da Sony para PS5"
-slug: "ghost-of-yotei-exclusivo-de-ps5-vai-custar-r-400-no-brasil"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/okcuRH-DFtXU4sE3UaO12VsDuXE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T104344.326.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/ibspB1cku_Rj_j6meg0gqv-qWzs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T104324.826.png"
-tags: ["Ghost of Yotei", "PS5", "lançamento", "preço", "Brasil", "Ghost of Tsushima", "Sony", "jogos PlayStation"]
-keywords: "Ghost of Yotei, PS5, lançamento, preço, Brasil, Ghost of Tsushima, Sony, jogos PlayStation"
-author: "Ana Luiza"
-data: "2025-05-02T14:19:07.900Z"
+title: 'Ghost of Yotei: Preço e Detalhes da Nova Jóia da Sony para PS5'
+slug: ghost-of-yotei-exclusivo-de-ps5-vai-custar-r-400-no-brasil
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/okcuRH-DFtXU4sE3UaO12VsDuXE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T104344.326.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/ibspB1cku_Rj_j6meg0gqv-qWzs=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T104324.826.png
+tags:
+  - Ghost of Yotei
+  - PS5
+  - lançamento
+  - preço
+  - Brasil
+  - Ghost of Tsushima
+  - Sony
+  - jogos PlayStation
+keywords: >-
+  Ghost of Yotei, PS5, lançamento, preço, Brasil, Ghost of Tsushima, Sony, jogos
+  PlayStation
+author: Ana Luiza
+data: '2025-05-02T14:19:07.900Z'
+resumo: >-
+  O aguardado Ghost of Yotei, sucessor de Ghost of Tsushima, chega ao PS5 em
+  outubro com preço inicial de R$ 400 no Brasil.
 ---
 
 ## Lançamento e Preço no Brasil

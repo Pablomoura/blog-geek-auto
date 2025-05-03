@@ -1,14 +1,32 @@
 ---
-title: "Conclave: Um Thriller Vaticano Que Redefine a Eleição Papal em meio a Polêmicas e Revelações"
-slug: "conclave-explicado-quem-vence-a-disputa-no-final-e-o-que-isso-representa"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/JX9jasdi3ic"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Y8XLCGH-txEYcvPZvXMnpRg1GlE=/480x360/smart/extras/conteudos/conclave.webp"
-tags: ["Conclave", "Edward Berger", "Ralph Fiennes", "Oscar 2025", "Vaticano", "thriller", "Papa", "eleição papal", "filme"]
-keywords: "Conclave, Edward Berger, Ralph Fiennes, Oscar 2025, Vaticano, thriller, Papa, eleição papal, filme"
-author: "Ana Luiza"
-data: "2025-04-27T01:28:14.747Z"
+title: >-
+  Conclave: Um Thriller Vaticano Que Redefine a Eleição Papal em meio a
+  Polêmicas e Revelações
+slug: conclave-explicado-quem-vence-a-disputa-no-final-e-o-que-isso-representa
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/JX9jasdi3ic'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Y8XLCGH-txEYcvPZvXMnpRg1GlE=/480x360/smart/extras/conteudos/conclave.webp
+tags:
+  - Conclave
+  - Edward Berger
+  - Ralph Fiennes
+  - Oscar 2025
+  - Vaticano
+  - thriller
+  - Papa
+  - eleição papal
+  - filme
+keywords: >-
+  Conclave, Edward Berger, Ralph Fiennes, Oscar 2025, Vaticano, thriller, Papa,
+  eleição papal, filme
+author: Ana Luiza
+data: '2025-04-27T01:28:14.747Z'
+resumo: >-
+  O filme 'Conclave', dirigido por Edward Berger e estrelado por Ralph Fiennes,
+  explora a tensa eleição de um novo Papa, recebendo oito indicações ao Oscar
+  2025 e gerando debates acalorados sobre sua narrativa.
 ---
 
 ## 'Conclave' e a Corrida pelo Vaticano

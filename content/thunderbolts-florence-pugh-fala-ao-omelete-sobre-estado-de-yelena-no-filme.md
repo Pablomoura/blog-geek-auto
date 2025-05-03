@@ -1,14 +1,31 @@
 ---
-title: "Thunderbolts Chega com Elenco Estelar: Florence Pugh e Mais no Novo Filme da Marvel"
-slug: "thunderbolts-florence-pugh-fala-ao-omelete-sobre-estado-de-yelena-no-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/3FQfy0LJMIvVxEkmA-qRpbGR2Ow=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T102209.229.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/IJ9kgdifnTCic2LYeLNVpA7WjrI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T102157.426.png"
-tags: ["Thunderbolts", "MCU", "Marvel", "Florence Pugh", "Yelena Belova", "filme de super-heróis", "lançamentos da Marvel 2025"]
-keywords: "Thunderbolts, MCU, Marvel, Florence Pugh, Yelena Belova, filme de super-heróis, lançamentos da Marvel 2025"
-author: "Pablo Moura"
-data: "2025-04-29T13:33:39.666Z"
+title: >-
+  Thunderbolts Chega com Elenco Estelar: Florence Pugh e Mais no Novo Filme da
+  Marvel
+slug: thunderbolts-florence-pugh-fala-ao-omelete-sobre-estado-de-yelena-no-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/3FQfy0LJMIvVxEkmA-qRpbGR2Ow=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T102209.229.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/IJ9kgdifnTCic2LYeLNVpA7WjrI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T102157.426.png
+tags:
+  - Thunderbolts
+  - MCU
+  - Marvel
+  - Florence Pugh
+  - Yelena Belova
+  - filme de super-heróis
+  - lançamentos da Marvel 2025
+keywords: >-
+  Thunderbolts, MCU, Marvel, Florence Pugh, Yelena Belova, filme de
+  super-heróis, lançamentos da Marvel 2025
+author: Pablo Moura
+data: '2025-04-29T13:33:39.666Z'
+resumo: >-
+  O aguardado filme Thunderbolts, com Florence Pugh reprisando seu papel como
+  Yelena Belova, estreará em maio de 2025, prometendo expandir ainda mais o
+  Universo Cinematográfico da Marvel.
 ---
 
 ## Thunderbolts: Uma Nova Equipe de Anti-Heróis no MCU

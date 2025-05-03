@@ -1,14 +1,29 @@
 ---
-title: "One Piece Capítulo 1147: A Sinistra Estratégia dos Cavaleiros Sagrados em Elbaf"
-slug: "one-piece-captulo-1147-revela-misso-dos-cavaleiros-sagrados-em-elbaf"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/Sq1uv5kG_bI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/crYD6UMv-dpF6UXUlD8-s9uwAvg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T113441.806.png"
-tags: ["One Piece", "Capítulo 1147", "Cavaleiros Sagrados", "Governo Mundial", "Elbaf", "manga One Piece"]
-keywords: "One Piece, Capítulo 1147, Cavaleiros Sagrados, Governo Mundial, Elbaf, manga One Piece"
-author: "Luana Souza"
-data: "2025-05-01T15:22:04.690Z"
+title: >-
+  One Piece Capítulo 1147: A Sinistra Estratégia dos Cavaleiros Sagrados em
+  Elbaf
+slug: one-piece-captulo-1147-revela-misso-dos-cavaleiros-sagrados-em-elbaf
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/Sq1uv5kG_bI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/crYD6UMv-dpF6UXUlD8-s9uwAvg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T113441.806.png
+tags:
+  - One Piece
+  - Capítulo 1147
+  - Cavaleiros Sagrados
+  - Governo Mundial
+  - Elbaf
+  - manga One Piece
+keywords: >-
+  One Piece, Capítulo 1147, Cavaleiros Sagrados, Governo Mundial, Elbaf, manga
+  One Piece
+author: Luana Souza
+data: '2025-05-01T15:22:04.690Z'
+resumo: >-
+  O último capítulo de One Piece desvenda os planos terríveis dos Cavaleiros
+  Sagrados em Elbaf, envolvendo sequestro e ameaças para forçar aliança com o
+  Governo Mundial.
 ---
 
 ## Revelações Chocantes em One Piece Capítulo 1147

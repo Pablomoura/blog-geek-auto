@@ -1,14 +1,24 @@
 ---
-title: "Fé nas Alturas: Thriller Aéreo com Dennis Quaid na Sessão da Tarde"
-slug: "f-nas-alturas-ser-exibido-na-tela-quente-da-globo-saiba-horrio"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/yq2maZAlFJ_fAU4PztoFS2mIjb8=/987x0/smart/uploads/conteudo/fotos/fenasalturas_YVzhNut.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/RaW93lpzDoXG4M0s8s5_pIztlCU=/480x360/smart/extras/conteudos/fenasalturas_6pmRCRf.jpg"
-tags: ["Fé nas Alturas", "Dennis Quaid", "Sessão da Tarde", "filme na Globo", "Sean McNamara"]
-keywords: "Fé nas Alturas, Dennis Quaid, Sessão da Tarde, filme na Globo, Sean McNamara"
-author: "Pablo Moura"
-data: "2025-04-21T11:16:41.647Z"
+title: 'Fé nas Alturas: Thriller Aéreo com Dennis Quaid na Sessão da Tarde'
+slug: f-nas-alturas-ser-exibido-na-tela-quente-da-globo-saiba-horrio
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/yq2maZAlFJ_fAU4PztoFS2mIjb8=/987x0/smart/uploads/conteudo/fotos/fenasalturas_YVzhNut.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/RaW93lpzDoXG4M0s8s5_pIztlCU=/480x360/smart/extras/conteudos/fenasalturas_6pmRCRf.jpg
+tags:
+  - Fé nas Alturas
+  - Dennis Quaid
+  - Sessão da Tarde
+  - filme na Globo
+  - Sean McNamara
+keywords: 'Fé nas Alturas, Dennis Quaid, Sessão da Tarde, filme na Globo, Sean McNamara'
+author: Pablo Moura
+data: '2025-04-21T11:16:41.647Z'
+resumo: >-
+  O filme 'Fé nas Alturas', estrelado por Dennis Quaid, promete suspense e
+  emoção na Sessão da Tarde desta segunda-feira às 15h30.
 ---
 
 Prepare-se para uma dose de suspense e adrenalina com o filme 'Fé nas Alturas', que será exibido na Sessão da Tarde desta segunda-feira (21). Com início às 15h30, horário de Brasília, na TV Globo, o filme tem uma duração de 1h40.

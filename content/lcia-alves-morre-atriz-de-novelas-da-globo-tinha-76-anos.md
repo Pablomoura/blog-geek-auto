@@ -1,14 +1,27 @@
 ---
-title: "Lúcia Alves, Estrela de 'Irmãos Coragem', Morre aos 76 Anos"
-slug: "lcia-alves-morre-atriz-de-novelas-da-globo-tinha-76-anos"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/7yusFbQYQBthAezeSbtEb_q25To=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-24T201029.802.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/mBb8qlTpFGbcWlq_7s8Ylboq1RY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T201029.802.png"
-tags: ["Lúcia Alves", "morte Lúcia Alves", "Irmãos Coragem", "O Cravo e a Rosa", "atriz Globo", "câncer no pâncreas"]
-keywords: "Lúcia Alves, morte Lúcia Alves, Irmãos Coragem, O Cravo e a Rosa, atriz Globo, câncer no pâncreas"
-author: "Pablo Moura"
-data: "2025-04-25T12:38:14.480Z"
+title: 'Lúcia Alves, Estrela de ''Irmãos Coragem'', Morre aos 76 Anos'
+slug: lcia-alves-morre-atriz-de-novelas-da-globo-tinha-76-anos
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/7yusFbQYQBthAezeSbtEb_q25To=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-24T201029.802.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/mBb8qlTpFGbcWlq_7s8Ylboq1RY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T201029.802.png
+tags:
+  - Lúcia Alves
+  - morte Lúcia Alves
+  - Irmãos Coragem
+  - O Cravo e a Rosa
+  - atriz Globo
+  - câncer no pâncreas
+keywords: >-
+  Lúcia Alves, morte Lúcia Alves, Irmãos Coragem, O Cravo e a Rosa, atriz Globo,
+  câncer no pâncreas
+author: Pablo Moura
+data: '2025-04-25T12:38:14.480Z'
+resumo: >-
+  Lúcia Alves, atriz renomada por papéis marcantes em novelas da Globo, faleceu
+  após uma batalha contra o câncer no pâncreas.
 ---
 
 ## Perda no Mundo das Novelas: Lúcia Alves

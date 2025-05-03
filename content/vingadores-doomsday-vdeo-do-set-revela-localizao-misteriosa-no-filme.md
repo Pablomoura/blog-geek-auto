@@ -1,14 +1,32 @@
 ---
-title: "Revelações do Set de 'Vingadores: Doomsday' Sugerem Locais Icônicos e Retorno dos X-Men"
-slug: "vingadores-doomsday-vdeo-do-set-revela-localizao-misteriosa-no-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/3-liDLktmEaDmQoYYPKznMTZoCo=/987x0/smart/uploads/conteudo/fotos/imagem_2025-04-25_091640294.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/yQBO9ynwZn3tPnGgn2qfsSNNohQ=/480x360/smart/extras/conteudos/imagem_2025-04-25_091541376.png"
-tags: ["Vingadores Doomsday", "set de filmagem", "MCU", "X-Men", "Latvéria", "Marvel", "Doutor Destino", "Quarteto Fantástico"]
-keywords: "Vingadores Doomsday, set de filmagem, MCU, X-Men, Latvéria, Marvel, Doutor Destino, Quarteto Fantástico"
-author: "Luana Souza"
-data: "2025-04-25T12:37:00.414Z"
+title: >-
+  Revelações do Set de 'Vingadores: Doomsday' Sugerem Locais Icônicos e Retorno
+  dos X-Men
+slug: vingadores-doomsday-vdeo-do-set-revela-localizao-misteriosa-no-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/3-liDLktmEaDmQoYYPKznMTZoCo=/987x0/smart/uploads/conteudo/fotos/imagem_2025-04-25_091640294.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/yQBO9ynwZn3tPnGgn2qfsSNNohQ=/480x360/smart/extras/conteudos/imagem_2025-04-25_091541376.png
+tags:
+  - Vingadores Doomsday
+  - set de filmagem
+  - MCU
+  - X-Men
+  - Latvéria
+  - Marvel
+  - Doutor Destino
+  - Quarteto Fantástico
+keywords: >-
+  Vingadores Doomsday, set de filmagem, MCU, X-Men, Latvéria, Marvel, Doutor
+  Destino, Quarteto Fantástico
+author: Luana Souza
+data: '2025-04-25T12:37:00.414Z'
+resumo: >-
+  Um novo vídeo do set de 'Vingadores: Doomsday' agita especulações sobre locais
+  míticos no filme, incluindo possíveis aparições da Latvéria e da Vila dos
+  Hulks.
 ---
 
 ## Mistérios do Set de 'Vingadores: Doomsday' Despertam Teorias

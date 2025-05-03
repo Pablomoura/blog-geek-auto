@@ -1,14 +1,30 @@
 ---
-title: "Pacificador Retorna para a Segunda Temporada com James Gunn e John Cena: Confira os Detalhes!"
-slug: "pacificador-james-gunn-posta-foto-no-set-da-2-temporada-veja"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/UcLpL_zdW0pUfPGBQgCUeBsqZmQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-23T120919.015.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Oc8oDQtSFThATwwwGA8vHNn8joc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T120909.017.png"
-tags: ["Pacificador segunda temporada", "James Gunn", "John Cena", "DC Universe", "Max", "série de super-heróis", "estreia 2025"]
-keywords: "Pacificador segunda temporada, James Gunn, John Cena, DC Universe, Max, série de super-heróis, estreia 2025"
-author: "Luana Souza"
-data: "2025-04-23T15:21:03.603Z"
+title: >-
+  Pacificador Retorna para a Segunda Temporada com James Gunn e John Cena:
+  Confira os Detalhes!
+slug: pacificador-james-gunn-posta-foto-no-set-da-2-temporada-veja
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/UcLpL_zdW0pUfPGBQgCUeBsqZmQ=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-23T120919.015.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Oc8oDQtSFThATwwwGA8vHNn8joc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T120909.017.png
+tags:
+  - Pacificador segunda temporada
+  - James Gunn
+  - John Cena
+  - DC Universe
+  - Max
+  - série de super-heróis
+  - estreia 2025
+keywords: >-
+  Pacificador segunda temporada, James Gunn, John Cena, DC Universe, Max, série
+  de super-heróis, estreia 2025
+author: Luana Souza
+data: '2025-04-23T15:21:03.603Z'
+resumo: >-
+  James Gunn revela uma nova imagem dos bastidores da segunda temporada de
+  'Pacificador', com estreia marcada para agosto de 2025 no Max.
 ---
 
 A aguardada segunda temporada de 'Pacificador' promete trazer ainda mais ação e intrigas, integrando-se aos eventos do novo Universo DC. Uma recente foto compartilhada por James Gunn no set de filmagens mostra ele ao lado do protagonista, John Cena, aumentando a expectativa dos fãs para o que está por vir.

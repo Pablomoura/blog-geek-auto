@@ -1,14 +1,30 @@
 ---
-title: "David F. Sandberg Abandona Franquias Após Ameaças por Shazam! 2 e Mergulha no Terror com 'Until Dawn'"
-slug: "shazam-diretor-diz-que-recebeu-ameaas-de-morte-por-continuao"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/f6nXasUqYGdo96r3Klmwsn0AgKE=/987x0/smart/uploads/conteudo/fotos/shazam_bb7N4nz.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/FYNLteWt9eHeaD5q3XwocU1M3YU=/480x360/smart/extras/conteudos/shazam_FoXJ0Ln.jpg"
-tags: ["David F. Sandberg", "Shazam! 2", "Until Dawn", "ameaças de morte", "franquias de cinema", "filme de terror"]
-keywords: "David F. Sandberg, Shazam! 2, Until Dawn, ameaças de morte, franquias de cinema, filme de terror"
-author: "Luana Souza"
-data: "2025-04-26T20:18:57.125Z"
+title: >-
+  David F. Sandberg Abandona Franquias Após Ameaças por Shazam! 2 e Mergulha no
+  Terror com 'Until Dawn'
+slug: shazam-diretor-diz-que-recebeu-ameaas-de-morte-por-continuao
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/f6nXasUqYGdo96r3Klmwsn0AgKE=/987x0/smart/uploads/conteudo/fotos/shazam_bb7N4nz.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/FYNLteWt9eHeaD5q3XwocU1M3YU=/480x360/smart/extras/conteudos/shazam_FoXJ0Ln.jpg
+tags:
+  - David F. Sandberg
+  - Shazam! 2
+  - Until Dawn
+  - ameaças de morte
+  - franquias de cinema
+  - filme de terror
+keywords: >-
+  David F. Sandberg, Shazam! 2, Until Dawn, ameaças de morte, franquias de
+  cinema, filme de terror
+author: Luana Souza
+data: '2025-04-26T20:18:57.125Z'
+resumo: >-
+  Após enfrentar ameaças de morte devido ao seu trabalho em 'Shazam! 2', David
+  F. Sandberg decide se afastar de grandes franquias, dedicando-se ao novo filme
+  de terror 'Until Dawn'.
 ---
 
 ## A Dura Realidade das Franquias de Cinema

@@ -1,14 +1,23 @@
 ---
-title: "CBS Cancela 'A Protetora' Após Cinco Temporadas e Descarta Spin-off"
-slug: "a-protetora-cancelada-aps-5-temporadas"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/xfC_r7bGE74?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/8URn_QniebwyQ4tov3NZ02xFj_A=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T214819.347.png"
-tags: ["A Protetora", "CBS", "Queen Latifah", "série cancelada", "spin-off cancelado"]
-keywords: "A Protetora, CBS, Queen Latifah, série cancelada, spin-off cancelado"
-author: "Ana Luiza"
-data: "2025-05-03T01:22:48.374Z"
+title: CBS Cancela 'A Protetora' Após Cinco Temporadas e Descarta Spin-off
+slug: a-protetora-cancelada-aps-5-temporadas
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/xfC_r7bGE74?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/8URn_QniebwyQ4tov3NZ02xFj_A=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T214819.347.png
+tags:
+  - A Protetora
+  - CBS
+  - Queen Latifah
+  - série cancelada
+  - spin-off cancelado
+keywords: 'A Protetora, CBS, Queen Latifah, série cancelada, spin-off cancelado'
+author: Ana Luiza
+data: '2025-05-03T01:22:48.374Z'
+resumo: >-
+  A série 'A Protetora', protagonizada por Queen Latifah, foi cancelada pela CBS
+  após cinco temporadas, encerrando também os planos de um possível spin-off.
 ---
 
 ## Fim da Linha para 'A Protetora'

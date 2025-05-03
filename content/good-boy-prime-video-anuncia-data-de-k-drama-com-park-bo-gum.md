@@ -1,14 +1,32 @@
 ---
-title: "Park Bo-gum Retorna em 'Good Boy': K-Drama de Ação e Comédia Chega ao Prime Video"
-slug: "good-boy-prime-video-anuncia-data-de-k-drama-com-park-bo-gum"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/3yA96twpMmhs3tCMQlE1FRiZ1pU=/480x360/smart/extras/conteudos/good-boy-kdrama-park-bo-gum.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/3yA96twpMmhs3tCMQlE1FRiZ1pU=/480x360/smart/extras/conteudos/good-boy-kdrama-park-bo-gum.jpg"
-tags: ["Good Boy", "K-Drama", "Park Bo-gum", "Prime Video", "comédia", "ação", "série", "investigação criminal", "romance"]
-keywords: "Good Boy, K-Drama, Park Bo-gum, Prime Video, comédia, ação, série, investigação criminal, romance"
-author: "Ana Luiza"
-data: "2025-04-24T21:19:09.933Z"
+title: >-
+  Park Bo-gum Retorna em 'Good Boy': K-Drama de Ação e Comédia Chega ao Prime
+  Video
+slug: good-boy-prime-video-anuncia-data-de-k-drama-com-park-bo-gum
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/3yA96twpMmhs3tCMQlE1FRiZ1pU=/480x360/smart/extras/conteudos/good-boy-kdrama-park-bo-gum.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/3yA96twpMmhs3tCMQlE1FRiZ1pU=/480x360/smart/extras/conteudos/good-boy-kdrama-park-bo-gum.jpg
+tags:
+  - Good Boy
+  - K-Drama
+  - Park Bo-gum
+  - Prime Video
+  - comédia
+  - ação
+  - série
+  - investigação criminal
+  - romance
+keywords: >-
+  Good Boy, K-Drama, Park Bo-gum, Prime Video, comédia, ação, série,
+  investigação criminal, romance
+author: Ana Luiza
+data: '2025-04-24T21:19:09.933Z'
+resumo: >-
+  Com uma trama que une comédia, ação, investigação criminal e romance, o novo
+  K-Drama 'Good Boy' com Park Bo-gum será lançado no Prime Video.
 ---
 
 O aguardado K-Drama 'Good Boy', protagonizado pelo querido ator Park Bo-gum, junto com Kim So-hyun, Lee Sang-yi, Heo Sung-tae e Tae Won-seok, já tem data de estreia confirmada pelo Prime Video para deleite dos fãs de dramas coreanos. A série promete uma mistura envolvente de gêneros, incluindo comédia, ação, investigação criminal e romance, e segue a jornada de ex-atletas medalhistas que embarcam na carreira policial para combater o crime.

@@ -1,14 +1,29 @@
 ---
-title: "Gamescom Latam 2025 em São Paulo: Uma Jornada Gamer Imperdível no Estande do Governo"
-slug: "gamescom-latam-2025-governo-de-sp-apresenta-estande-com-jornada-gamer"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/Wc-jyWToK3A?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/mDt7Kst9WbEPfXcC-LRaJKZaO-o=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T205538.389.png"
-tags: ["Gamescom Latam 2025", "São Paulo", "Jornada Gamer", "governo de São Paulo", "indústria de games", "Museu do Café", "Future Games Show Live"]
-keywords: "Gamescom Latam 2025, São Paulo, Jornada Gamer, governo de São Paulo, indústria de games, Museu do Café, Future Games Show Live"
-author: "Luana Souza"
-data: "2025-04-25T01:17:16.271Z"
+title: >-
+  Gamescom Latam 2025 em São Paulo: Uma Jornada Gamer Imperdível no Estande do
+  Governo
+slug: gamescom-latam-2025-governo-de-sp-apresenta-estande-com-jornada-gamer
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/Wc-jyWToK3A?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/mDt7Kst9WbEPfXcC-LRaJKZaO-o=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T205538.389.png
+tags:
+  - Gamescom Latam 2025
+  - São Paulo
+  - Jornada Gamer
+  - governo de São Paulo
+  - indústria de games
+  - Museu do Café
+  - Future Games Show Live
+keywords: >-
+  Gamescom Latam 2025, São Paulo, Jornada Gamer, governo de São Paulo, indústria
+  de games, Museu do Café, Future Games Show Live
+author: Luana Souza
+data: '2025-04-25T01:17:16.271Z'
+resumo: >-
+  O Governo de São Paulo anuncia participação empolgante na Gamescom Latam 2025
+  com atrações interativas e parcerias inovadoras.
 ---
 
 ## Gamescom Latam 2025: Inovação e Interação no Estande de São Paulo

@@ -1,14 +1,31 @@
 ---
-title: "Wicked: For Good Revela Novas Sombras de Glinda e Elphaba em Imagem Oficial"
-slug: "wicked-for-good-ganha-nova-imagem-oficial-com-sombras-glinda-e-elphaba"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/4PltOsVE78lLqUe1o7GV4cQne7M=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T121935.708.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/zYDJ9n8g9b9Vdo9PxDGycjpzSwE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T121925.398.png"
-tags: ["Wicked: For Good", "CinemaCon", "Elphaba", "Glinda", "Ariana Grande", "Cynthia Erivo", "Jon M. Chu", "filme de fantasia", "estreia 2025", "sequência de Wicked"]
-keywords: "Wicked: For Good, CinemaCon, Elphaba, Glinda, Ariana Grande, Cynthia Erivo, Jon M. Chu, filme de fantasia, estreia 2025, sequência de Wicked"
-author: "Ana Luiza"
-data: "2025-04-22T16:27:03.198Z"
+title: 'Wicked: For Good Revela Novas Sombras de Glinda e Elphaba em Imagem Oficial'
+slug: wicked-for-good-ganha-nova-imagem-oficial-com-sombras-glinda-e-elphaba
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/4PltOsVE78lLqUe1o7GV4cQne7M=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T121935.708.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/zYDJ9n8g9b9Vdo9PxDGycjpzSwE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T121925.398.png
+tags:
+  - 'Wicked: For Good'
+  - CinemaCon
+  - Elphaba
+  - Glinda
+  - Ariana Grande
+  - Cynthia Erivo
+  - Jon M. Chu
+  - filme de fantasia
+  - estreia 2025
+  - sequência de Wicked
+keywords: >-
+  Wicked: For Good, CinemaCon, Elphaba, Glinda, Ariana Grande, Cynthia Erivo,
+  Jon M. Chu, filme de fantasia, estreia 2025, sequência de Wicked
+author: Ana Luiza
+data: '2025-04-22T16:27:03.198Z'
+resumo: >-
+  A sequência de 'Wicked', estrelada por Ariana Grande e Cynthia Erivo, promete
+  mais magia e aventura com a estreia marcada para 20 de novembro de 2025.
 ---
 
 A magia de Oz retorna com força total em 'Wicked: For Good', a esperada continuação que chega aos cinemas em novembro de 2025. A nova imagem oficial do filme acaba de ser divulgada, destacando as enigmáticas sombras de Glinda e Elphaba, prometendo uma narrativa repleta de emoção e reviravoltas.

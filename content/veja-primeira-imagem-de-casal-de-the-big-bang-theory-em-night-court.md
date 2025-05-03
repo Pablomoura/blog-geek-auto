@@ -1,14 +1,31 @@
 ---
-title: "Reunião de Estrelas: Simon Helberg e Melissa Rauch de 'The Big Bang Theory' em 'Night Court'"
-slug: "veja-primeira-imagem-de-casal-de-the-big-bang-theory-em-night-court"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/zXiOFaNhkOc-5fs2ivh0_PEb_-0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T175748.870.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/zXiOFaNhkOc-5fs2ivh0_PEb_-0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T175748.870.png"
-tags: ["Night Court", "The Big Bang Theory", "Simon Helberg", "Melissa Rauch", "reunião de elenco", "séries de TV", "finais de temporada"]
-keywords: "Night Court, The Big Bang Theory, Simon Helberg, Melissa Rauch, reunião de elenco, séries de TV, finais de temporada"
-author: "Pablo Moura"
-data: "2025-04-30T22:18:52.880Z"
+title: >-
+  Reunião de Estrelas: Simon Helberg e Melissa Rauch de 'The Big Bang Theory' em
+  'Night Court'
+slug: veja-primeira-imagem-de-casal-de-the-big-bang-theory-em-night-court
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/zXiOFaNhkOc-5fs2ivh0_PEb_-0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T175748.870.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/zXiOFaNhkOc-5fs2ivh0_PEb_-0=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T175748.870.png
+tags:
+  - Night Court
+  - The Big Bang Theory
+  - Simon Helberg
+  - Melissa Rauch
+  - reunião de elenco
+  - séries de TV
+  - finais de temporada
+keywords: >-
+  Night Court, The Big Bang Theory, Simon Helberg, Melissa Rauch, reunião de
+  elenco, séries de TV, finais de temporada
+author: Pablo Moura
+data: '2025-04-30T22:18:52.880Z'
+resumo: >-
+  Simon Helberg e Melissa Rauch, conhecidos por seus papéis em 'The Big Bang
+  Theory', se reúnem na série 'Night Court', marcando um emocionante final para
+  a terceira temporada.
 ---
 
 ## Reencontro em 'Night Court'

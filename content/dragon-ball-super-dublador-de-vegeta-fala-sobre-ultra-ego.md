@@ -1,14 +1,27 @@
 ---
-title: "Chris Sabat Antecipa Ultra Ego de Vegeta em Evento de Dragon Ball Super"
-slug: "dragon-ball-super-dublador-de-vegeta-fala-sobre-ultra-ego"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/s0opswr1BZk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/nY2hIHdMyYtjqPCQwVXxUdSSuF4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T204043.768.png"
-tags: ["Dragon Ball Super", "Chris Sabat", "Vegeta", "Ultra Ego", "Comic-Con Porto Rico", "Toei Animation", "Dragon Ball Daima"]
-keywords: "Dragon Ball Super, Chris Sabat, Vegeta, Ultra Ego, Comic-Con Porto Rico, Toei Animation, Dragon Ball Daima"
-author: "Pablo Moura"
-data: "2025-04-26T01:22:41.607Z"
+title: Chris Sabat Antecipa Ultra Ego de Vegeta em Evento de Dragon Ball Super
+slug: dragon-ball-super-dublador-de-vegeta-fala-sobre-ultra-ego
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/s0opswr1BZk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/nY2hIHdMyYtjqPCQwVXxUdSSuF4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T204043.768.png
+tags:
+  - Dragon Ball Super
+  - Chris Sabat
+  - Vegeta
+  - Ultra Ego
+  - Comic-Con Porto Rico
+  - Toei Animation
+  - Dragon Ball Daima
+keywords: >-
+  Dragon Ball Super, Chris Sabat, Vegeta, Ultra Ego, Comic-Con Porto Rico, Toei
+  Animation, Dragon Ball Daima
+author: Pablo Moura
+data: '2025-04-26T01:22:41.607Z'
+resumo: >-
+  Durante a Comic-Con em Porto Rico, Chris Sabat, voz de Vegeta, empolgou os fãs
+  com detalhes sobre a nova transformação Ultra Ego ainda não vista no anime.
 ---
 
 ## Chris Sabat Revela Detalhes da Transformação Ultra Ego de Vegeta

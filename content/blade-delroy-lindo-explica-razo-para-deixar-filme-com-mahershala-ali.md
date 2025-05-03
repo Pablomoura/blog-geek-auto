@@ -1,14 +1,31 @@
 ---
-title: "Turbulências em Blade: Delroy Lindo Deixa o Projeto e Revela Bastidores"
-slug: "blade-delroy-lindo-explica-razo-para-deixar-filme-com-mahershala-ali"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Bsf8t4D97mDEbSLzzuCDeYwoOcY=/987x0/smart/uploads/conteudo/fotos/da5bloodsdelroylindo.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/UhJ8nOuk5we9og6mY7VGRd3XmHA=/480x360/smart/extras/conteudos/da5bloodsdelroylindo.jpg"
-tags: ["Blade", "Delroy Lindo", "Marvel Studios", "Mahershala Ali", "Yann Demange", "Bassim Tariq", "filme Blade", "mudanças roteiro Blade", "diretores Blade"]
-keywords: "Blade, Delroy Lindo, Marvel Studios, Mahershala Ali, Yann Demange, Bassim Tariq, filme Blade, mudanças roteiro Blade, diretores Blade"
-author: "Ana Luiza"
-data: "2025-04-20T19:15:35.361Z"
+title: 'Turbulências em Blade: Delroy Lindo Deixa o Projeto e Revela Bastidores'
+slug: blade-delroy-lindo-explica-razo-para-deixar-filme-com-mahershala-ali
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Bsf8t4D97mDEbSLzzuCDeYwoOcY=/987x0/smart/uploads/conteudo/fotos/da5bloodsdelroylindo.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/UhJ8nOuk5we9og6mY7VGRd3XmHA=/480x360/smart/extras/conteudos/da5bloodsdelroylindo.jpg
+tags:
+  - Blade
+  - Delroy Lindo
+  - Marvel Studios
+  - Mahershala Ali
+  - Yann Demange
+  - Bassim Tariq
+  - filme Blade
+  - mudanças roteiro Blade
+  - diretores Blade
+keywords: >-
+  Blade, Delroy Lindo, Marvel Studios, Mahershala Ali, Yann Demange, Bassim
+  Tariq, filme Blade, mudanças roteiro Blade, diretores Blade
+author: Ana Luiza
+data: '2025-04-20T19:15:35.361Z'
+resumo: >-
+  Delroy Lindo se afasta do filme Blade da Marvel, que enfrenta atrasos e
+  mudanças significativas, incluindo a perda de diretores e modificações no
+  roteiro.
 ---
 
 Delroy Lindo, conhecido por seu trabalho em 'Pecadores', confirmou em entrevista à Entertainment Weekly que desligou-se do reboot de Blade, em desenvolvimento pela Marvel Studios. O projeto, que tem Mahershala Ali no papel principal, sofreu múltiplas turbulências, incluindo a saída de dois diretores e alterações profundas na equipe e no roteiro.

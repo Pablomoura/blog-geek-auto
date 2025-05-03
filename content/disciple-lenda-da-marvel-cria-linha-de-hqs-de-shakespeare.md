@@ -1,14 +1,31 @@
 ---
-title: "Joe Quesada Lança 'Disciple', uma HQ Prequela de Hamlet, na CCXP 25"
-slug: "disciple-lenda-da-marvel-cria-linha-de-hqs-de-shakespeare"
-categoria: "HQ/LIVROS"
-midia: "https://cdn.ome.lt/3LmQXheM2XpndoYQk-H-S6l5lwE=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-23T191324.789.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/56eKJgnHNszDwHpRWScLPDQOpUc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-23T191324.789.png"
-tags: ["Joe Quesada", "Disciple", "CCXP 25", "Hamlet", "Shakespeare", "quadrinhos", "Marvel Comics", "Amazing Comics", "prequela", "HQ"]
-keywords: "Joe Quesada, Disciple, CCXP 25, Hamlet, Shakespeare, quadrinhos, Marvel Comics, Amazing Comics, prequela, HQ"
-author: "Luana Souza"
-data: "2025-04-23T22:18:55.711Z"
+title: 'Joe Quesada Lança ''Disciple'', uma HQ Prequela de Hamlet, na CCXP 25'
+slug: disciple-lenda-da-marvel-cria-linha-de-hqs-de-shakespeare
+categoria: HQ/LIVROS
+midia: >-
+  https://cdn.ome.lt/3LmQXheM2XpndoYQk-H-S6l5lwE=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-23T191324.789.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/56eKJgnHNszDwHpRWScLPDQOpUc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-23T191324.789.png
+tags:
+  - Joe Quesada
+  - Disciple
+  - CCXP 25
+  - Hamlet
+  - Shakespeare
+  - quadrinhos
+  - Marvel Comics
+  - Amazing Comics
+  - prequela
+  - HQ
+keywords: >-
+  Joe Quesada, Disciple, CCXP 25, Hamlet, Shakespeare, quadrinhos, Marvel
+  Comics, Amazing Comics, prequela, HQ
+author: Luana Souza
+data: '2025-04-23T22:18:55.711Z'
+resumo: >-
+  Joe Quesada, ex-editor da Marvel, revela 'Disciple', uma prequela inovadora de
+  Hamlet, que será um destaque na CCXP 25.
 ---
 
 Joe Quesada, renomado por sua trajetória na Marvel Comics, anunciou seu mais recente projeto, 'Disciple', uma série de quadrinhos que serve como prequela para a clássica tragédia 'Hamlet' de Shakespeare. A revelação foi feita em antecipação à sua participação na CCXP 25, onde Quesada promoverá a nova série.

@@ -1,14 +1,26 @@
 ---
-title: "Gamescom LATAM 2025 em São Paulo: Guia Completo de Acesso ao Evento"
-slug: "gamescom-latam-2025-como-chegar-no-evento"
-categoria: "GAMESCOM"
-midia: "https://cdn.ome.lt/5zCsKBk1JRE1K9IMSSOGuL4cxSQ=/987x0/smart/uploads/conteudo/fotos/02_OHgYZnD_9mJGKk3.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/cj4E6kyWSZlKqGvxhjq-1s7CX8A=/480x360/smart/extras/conteudos/01_EhRc7CW.jpg"
-tags: ["Gamescom LATAM 2025", "como chegar", "São Paulo", "transporte público", "acesso ao Gamescom"]
-keywords: "Gamescom LATAM 2025, como chegar, São Paulo, transporte público, acesso ao Gamescom"
-author: "Ana Luiza"
-data: "2025-05-01T15:22:36.900Z"
+title: 'Gamescom LATAM 2025 em São Paulo: Guia Completo de Acesso ao Evento'
+slug: gamescom-latam-2025-como-chegar-no-evento
+categoria: GAMESCOM
+midia: >-
+  https://cdn.ome.lt/5zCsKBk1JRE1K9IMSSOGuL4cxSQ=/987x0/smart/uploads/conteudo/fotos/02_OHgYZnD_9mJGKk3.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/cj4E6kyWSZlKqGvxhjq-1s7CX8A=/480x360/smart/extras/conteudos/01_EhRc7CW.jpg
+tags:
+  - Gamescom LATAM 2025
+  - como chegar
+  - São Paulo
+  - transporte público
+  - acesso ao Gamescom
+keywords: >-
+  Gamescom LATAM 2025, como chegar, São Paulo, transporte público, acesso ao
+  Gamescom
+author: Ana Luiza
+data: '2025-05-01T15:22:36.900Z'
+resumo: >-
+  Descubra as melhores rotas e dicas de transporte para chegar ao Gamescom LATAM
+  2025, o maior evento de games da América Latina, acontecendo em São Paulo.
 ---
 
 ## Gamescom LATAM 2025: Localização e Datas

@@ -1,14 +1,33 @@
 ---
-title: "Paul Ben-Victor se Junta ao Elenco de 'Lanterns' Como Vilão Determinado a Vingança"
-slug: "lanternas-srie-da-dc-adiciona-novo-ator-ao-elenco"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/kI_-zrmojCQkxRRtHz-bmCIX9eM=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-23T181953.220.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/pbMBbJn1Jp-AvIgZt1MVgytLWjE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-23T181953.220.png"
-tags: ["Lanterns", "HBO", "Paul Ben-Victor", "DC Studios", "Lanterna Verde", "Kyle Chandler", "Aaron Pierre", "série DC", "universo DC"]
-keywords: "Lanterns, HBO, Paul Ben-Victor, DC Studios, Lanterna Verde, Kyle Chandler, Aaron Pierre, série DC, universo DC"
-author: "Pablo Moura"
-data: "2025-04-23T22:22:50.785Z"
+title: >-
+  Paul Ben-Victor se Junta ao Elenco de 'Lanterns' Como Vilão Determinado a
+  Vingança
+slug: lanternas-srie-da-dc-adiciona-novo-ator-ao-elenco
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/kI_-zrmojCQkxRRtHz-bmCIX9eM=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-23T181953.220.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/pbMBbJn1Jp-AvIgZt1MVgytLWjE=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-23T181953.220.png
+tags:
+  - Lanterns
+  - HBO
+  - Paul Ben-Victor
+  - DC Studios
+  - Lanterna Verde
+  - Kyle Chandler
+  - Aaron Pierre
+  - série DC
+  - universo DC
+keywords: >-
+  Lanterns, HBO, Paul Ben-Victor, DC Studios, Lanterna Verde, Kyle Chandler,
+  Aaron Pierre, série DC, universo DC
+author: Pablo Moura
+data: '2025-04-23T22:22:50.785Z'
+resumo: >-
+  Paul Ben-Victor interpretará um antagonista extraterrestre na nova série
+  'Lanterns' da HBO, prometendo conflitos intensos no universo dos Lanternas
+  Verdes.
 ---
 
 A série 'Lanterns', próxima grande aposta da HBO no universo DC, acaba de ganhar um novo nome em seu elenco. Segundo o Deadline, Paul Ben-Victor foi escalado para um papel recorrente como vilão, antagonizando os personagens de Kyle Chandler e Aaron Pierre. 

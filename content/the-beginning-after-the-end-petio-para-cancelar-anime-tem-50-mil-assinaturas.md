@@ -1,14 +1,28 @@
 ---
-title: "Fãs Exigem Cancelamento de 'The Beginning After the End' Após Recepção Fraca"
-slug: "the-beginning-after-the-end-petio-para-cancelar-anime-tem-50-mil-assinaturas"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/HA3Eu_y5VJM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/kzV2mp4uYMeFcM7AW8p6BXrvW_c=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T213758.758.png"
-tags: ["The Beginning After the End", "anime", "petição", "Crunchyroll", "cancelamento de anime", "críticas de anime", "The King Under Attack"]
-keywords: "The Beginning After the End, anime, petição, Crunchyroll, cancelamento de anime, críticas de anime, The King Under Attack"
-author: "Ana Luiza"
-data: "2025-04-25T01:16:07.219Z"
+title: Fãs Exigem Cancelamento de 'The Beginning After the End' Após Recepção Fraca
+slug: the-beginning-after-the-end-petio-para-cancelar-anime-tem-50-mil-assinaturas
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/HA3Eu_y5VJM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/kzV2mp4uYMeFcM7AW8p6BXrvW_c=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T213758.758.png
+tags:
+  - The Beginning After the End
+  - anime
+  - petição
+  - Crunchyroll
+  - cancelamento de anime
+  - críticas de anime
+  - The King Under Attack
+keywords: >-
+  The Beginning After the End, anime, petição, Crunchyroll, cancelamento de
+  anime, críticas de anime, The King Under Attack
+author: Ana Luiza
+data: '2025-04-25T01:16:07.219Z'
+resumo: >-
+  Uma petição com 50 mil assinaturas pede o cancelamento e refilmagem do anime
+  'The Beginning After the End', após críticas negativas aos primeiros
+  episódios.
 ---
 
 ## A Controvérsia em Torno de 'The Beginning After the End'

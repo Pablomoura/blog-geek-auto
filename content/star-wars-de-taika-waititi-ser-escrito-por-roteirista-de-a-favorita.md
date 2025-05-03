@@ -1,14 +1,30 @@
 ---
-title: "Novo Filme de Star Wars dirigido por Taika Waititi terá roteirista de 'A Favorita'"
-slug: "star-wars-de-taika-waititi-ser-escrito-por-roteirista-de-a-favorita"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/vmN03jUP4YjLyhcJbGUuz0zMkBE=/987x0/smart/uploads/conteudo/fotos/afavorita.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/jfph5YaRi9Cc88y3cAOWCVzRvsY=/480x360/smart/extras/conteudos/afavorita.jpg"
-tags: ["Star Wars", "Taika Waititi", "Tony McNamara", "Kathleen Kennedy", "Lucasfilm", "cinema", "Disney+"]
-keywords: "Star Wars, Taika Waititi, Tony McNamara, Kathleen Kennedy, Lucasfilm, cinema, Disney+"
-author: "Ana Luiza"
-data: "2025-04-20T16:21:34.768Z"
+title: >-
+  Novo Filme de Star Wars dirigido por Taika Waititi terá roteirista de 'A
+  Favorita'
+slug: star-wars-de-taika-waititi-ser-escrito-por-roteirista-de-a-favorita
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/vmN03jUP4YjLyhcJbGUuz0zMkBE=/987x0/smart/uploads/conteudo/fotos/afavorita.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/jfph5YaRi9Cc88y3cAOWCVzRvsY=/480x360/smart/extras/conteudos/afavorita.jpg
+tags:
+  - Star Wars
+  - Taika Waititi
+  - Tony McNamara
+  - Kathleen Kennedy
+  - Lucasfilm
+  - cinema
+  - Disney+
+keywords: >-
+  Star Wars, Taika Waititi, Tony McNamara, Kathleen Kennedy, Lucasfilm, cinema,
+  Disney+
+author: Ana Luiza
+data: '2025-04-20T16:21:34.768Z'
+resumo: >-
+  Ainda sem data de lançamento, o próximo filme de Star Wars será escrito por
+  Tony McNamara.
 ---
 
 O universo de Star Wars está se preparando para mais uma expansão cinematográfica, desta vez sob a direção de Taika Waititi, conhecido por seu trabalho em 'Thor: Ragnarok'. A Lucasfilm confirmou que Tony McNamara, aclamado por seus roteiros em 'A Favorita' e 'Cruella', será o responsável pelo script do novo filme. A revelação foi feita por Kathleen Kennedy, presidente da Lucasfilm, em uma entrevista ao Screenrant neste último fim de semana.

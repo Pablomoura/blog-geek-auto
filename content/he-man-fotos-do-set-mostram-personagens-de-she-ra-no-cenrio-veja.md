@@ -1,14 +1,32 @@
 ---
-title: "She-Ra no Universo de He-Man? Fotos do Set Indicam Surpresas no Filme Live-Action"
-slug: "he-man-fotos-do-set-mostram-personagens-de-she-ra-no-cenrio-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/_GtPABSvJT1Jc4gAc3UmxLOgd94=/987x0/smart/uploads/conteudo/fotos/shra.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/G5LfrJwT3QDbfuZ1vcl8ysXEM38=/480x360/smart/extras/conteudos/shra.jpg"
-tags: ["He-Man", "She-Ra", "Mestres do Universo", "filme live-action", "Nicholas Galitzine", "Jared Leto", "Travis Knight", "fotos do set"]
-keywords: "He-Man, She-Ra, Mestres do Universo, filme live-action, Nicholas Galitzine, Jared Leto, Travis Knight, fotos do set"
-author: "Pablo Moura"
-data: "2025-04-30T19:15:28.177Z"
+title: >-
+  She-Ra no Universo de He-Man? Fotos do Set Indicam Surpresas no Filme
+  Live-Action
+slug: he-man-fotos-do-set-mostram-personagens-de-she-ra-no-cenrio-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/_GtPABSvJT1Jc4gAc3UmxLOgd94=/987x0/smart/uploads/conteudo/fotos/shra.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/G5LfrJwT3QDbfuZ1vcl8ysXEM38=/480x360/smart/extras/conteudos/shra.jpg
+tags:
+  - He-Man
+  - She-Ra
+  - Mestres do Universo
+  - filme live-action
+  - Nicholas Galitzine
+  - Jared Leto
+  - Travis Knight
+  - fotos do set
+keywords: >-
+  He-Man, She-Ra, Mestres do Universo, filme live-action, Nicholas Galitzine,
+  Jared Leto, Travis Knight, fotos do set
+author: Pablo Moura
+data: '2025-04-30T19:15:28.177Z'
+resumo: >-
+  Novas fotos do set de 'Mestres do Universo' sugerem a inclusão de personagens
+  icônicos de She-Ra, apontando para uma possível expansão do universo
+  cinematográfico.
 ---
 
 ## Detalhes Reveladores no Set de 'Mestres do Universo'

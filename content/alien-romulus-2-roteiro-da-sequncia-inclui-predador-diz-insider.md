@@ -1,14 +1,28 @@
 ---
-title: "Alien: Romulus 2 Pode Incorporar Predador na Trama, Revela Insider"
-slug: "alien-romulus-2-roteiro-da-sequncia-inclui-predador-diz-insider"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/qEl-lO7zr_J9Qezv420YO_QBbDs=/987x0/smart/uploads/conteudo/fotos/alienvspredador_9mNu5Iw.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Xoth0dnqGA1_gSi5IASKHOvxvkc=/480x360/smart/extras/conteudos/alienvspredador_OTHn58e.jpg"
-tags: ["Alien Romulus 2", "Predador", "Fede Álvarez", "crossover Alien Vs. Predador", "franquia Alien", "franquia Predador", "cinema"]
-keywords: "Alien Romulus 2, Predador, Fede Álvarez, crossover Alien Vs. Predador, franquia Alien, franquia Predador, cinema"
-author: "Ana Luiza"
-data: "2025-04-26T14:16:05.083Z"
+title: 'Alien: Romulus 2 Pode Incorporar Predador na Trama, Revela Insider'
+slug: alien-romulus-2-roteiro-da-sequncia-inclui-predador-diz-insider
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/qEl-lO7zr_J9Qezv420YO_QBbDs=/987x0/smart/uploads/conteudo/fotos/alienvspredador_9mNu5Iw.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Xoth0dnqGA1_gSi5IASKHOvxvkc=/480x360/smart/extras/conteudos/alienvspredador_OTHn58e.jpg
+tags:
+  - Alien Romulus 2
+  - Predador
+  - Fede Álvarez
+  - crossover Alien Vs. Predador
+  - franquia Alien
+  - franquia Predador
+  - cinema
+keywords: >-
+  Alien Romulus 2, Predador, Fede Álvarez, crossover Alien Vs. Predador,
+  franquia Alien, franquia Predador, cinema
+author: Ana Luiza
+data: '2025-04-26T14:16:05.083Z'
+resumo: >-
+  A aguardada sequência de Alien: Romulus, dirigida por Fede Álvarez, pode
+  surpreender os fãs com a inclusão de um Predador na história.
 ---
 
 ## Alien: Romulus 2 Promete Revolucionar com Crossover Espacial

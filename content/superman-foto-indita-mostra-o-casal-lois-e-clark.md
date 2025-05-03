@@ -1,14 +1,30 @@
 ---
-title: "Superman Renovado: Nova Imagem Revela Lois e Clark em Estilo Clássico"
-slug: "superman-foto-indita-mostra-o-casal-lois-e-clark"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/LFcGfNEjqGE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/zaC-nmRtgP75oOBdL5Nu9Cycdbo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_170806.png"
-tags: ["Superman", "James Gunn", "DCU", "Rachel Brosnahan", "David Corenswet", "Lois Lane", "Clark Kent", "filme Superman 2025", "especial-Superman"]
-keywords: "Superman, James Gunn, DCU, Rachel Brosnahan, David Corenswet, Lois Lane, Clark Kent, filme Superman 2025"
-author: "Luana Souza"
-data: "2025-04-28T20:20:05.145Z"
+title: 'Superman Renovado: Nova Imagem Revela Lois e Clark em Estilo Clássico'
+slug: superman-foto-indita-mostra-o-casal-lois-e-clark
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/LFcGfNEjqGE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/zaC-nmRtgP75oOBdL5Nu9Cycdbo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_170806.png
+tags:
+  - Superman
+  - James Gunn
+  - DCU
+  - Rachel Brosnahan
+  - David Corenswet
+  - Lois Lane
+  - Clark Kent
+  - filme Superman 2025
+  - especial-Superman
+keywords: >-
+  Superman, James Gunn, DCU, Rachel Brosnahan, David Corenswet, Lois Lane, Clark
+  Kent, filme Superman 2025
+author: Luana Souza
+data: '2025-04-28T20:20:05.145Z'
+resumo: >-
+  Uma foto recém-divulgada mostra Rachel Brosnahan e David Corenswet como Lois
+  Lane e Clark Kent em trajes icônicos, antecipando o novo filme de Superman
+  dirigido por James Gunn.
 ---
 
 ## Primeiro Olhar em Lois e Clark no Novo Superman

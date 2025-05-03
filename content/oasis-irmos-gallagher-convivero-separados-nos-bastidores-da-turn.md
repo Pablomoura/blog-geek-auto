@@ -1,14 +1,31 @@
 ---
-title: "Reunião do Oasis: Medidas Excepcionais para Evitar Conflitos entre os Irmãos Gallagher"
-slug: "oasis-irmos-gallagher-convivero-separados-nos-bastidores-da-turn"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/pRXsEVlC05RFe_DI5MlIHGFUGBQ=/987x0/smart/uploads/conteudo/fotos/oasisdivulgacao_mn3HNLH.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/vLZlCOVmHN9YXLlKa7A4mqXtJ9s=/480x360/smart/extras/conteudos/oasisdivulgacao_WqlaxSs.jpg"
-tags: ["Oasis", "Reunião do Oasis", "Irmãos Gallagher", "Turnê do Oasis", "Segurança nos Bastidores", "Noel Gallagher", "Liam Gallagher"]
-keywords: "Oasis, Reunião do Oasis, Irmãos Gallagher, Turnê do Oasis, Segurança nos Bastidores, Noel Gallagher, Liam Gallagher"
-author: "Pablo Moura"
-data: "2025-05-03T15:18:26.087Z"
+title: >-
+  Reunião do Oasis: Medidas Excepcionais para Evitar Conflitos entre os Irmãos
+  Gallagher
+slug: oasis-irmos-gallagher-convivero-separados-nos-bastidores-da-turn
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/pRXsEVlC05RFe_DI5MlIHGFUGBQ=/987x0/smart/uploads/conteudo/fotos/oasisdivulgacao_mn3HNLH.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/vLZlCOVmHN9YXLlKa7A4mqXtJ9s=/480x360/smart/extras/conteudos/oasisdivulgacao_WqlaxSs.jpg
+tags:
+  - Oasis
+  - Reunião do Oasis
+  - Irmãos Gallagher
+  - Turnê do Oasis
+  - Segurança nos Bastidores
+  - Noel Gallagher
+  - Liam Gallagher
+keywords: >-
+  Oasis, Reunião do Oasis, Irmãos Gallagher, Turnê do Oasis, Segurança nos
+  Bastidores, Noel Gallagher, Liam Gallagher
+author: Pablo Moura
+data: '2025-05-03T15:18:26.087Z'
+resumo: >-
+  Na esperada turnê de reunião do Oasis, protocolos especiais foram
+  estabelecidos para prevenir confrontos entre Liam e Noel Gallagher nos
+  bastidores.
 ---
 
 ## Medidas de Segurança na Turnê do Oasis

@@ -1,14 +1,29 @@
 ---
-title: "Thunderbolts Introduz Novos Vingadores em Cenas Pós-Créditos e Ligações com Quarteto Fantástico"
-slug: "thunderbolts-ps-crditos-explicadas-vingadores-e-mais"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/r37vwuH7ZPU?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/__2ZweWXrFZTp0EoD8kcR8inXic=/480x360/smart/extras/conteudos/thunderbolts_PrpfJjE.jpg"
-tags: ["Thunderbolts", "Marvel", "Novos Vingadores", "MCU", "Quarteto Fantástico", "cenas pós-créditos", "cinema"]
-keywords: "Thunderbolts, Marvel, Novos Vingadores, MCU, Quarteto Fantástico, cenas pós-créditos, cinema"
-author: "Pablo Moura"
-data: "2025-05-01T14:19:56.277Z"
+title: >-
+  Thunderbolts Introduz Novos Vingadores em Cenas Pós-Créditos e Ligações com
+  Quarteto Fantástico
+slug: thunderbolts-ps-crditos-explicadas-vingadores-e-mais
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/r37vwuH7ZPU?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/__2ZweWXrFZTp0EoD8kcR8inXic=/480x360/smart/extras/conteudos/thunderbolts_PrpfJjE.jpg
+tags:
+  - Thunderbolts
+  - Marvel
+  - Novos Vingadores
+  - MCU
+  - Quarteto Fantástico
+  - cenas pós-créditos
+  - cinema
+keywords: >-
+  Thunderbolts, Marvel, Novos Vingadores, MCU, Quarteto Fantástico, cenas
+  pós-créditos, cinema
+author: Pablo Moura
+data: '2025-05-01T14:19:56.277Z'
+resumo: >-
+  O novo filme da Marvel, Thunderbolts, estreou em 1º de maio nos cinemas
+  brasileiros trazendo conexões intrigantes e a formação dos Novos Vingadores.
 ---
 
 ## Thunderbolts: A Janela para o Futuro do MCU

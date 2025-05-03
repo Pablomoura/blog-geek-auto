@@ -1,14 +1,31 @@
 ---
-title: "One Piece Revela Influência da Capoeira no Poderoso Gear 5th de Luffy"
-slug: "one-piece-diretor-de-animao-confirma-inspirao-na-capoeira-para-gear-5th"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/s0opswr1BZk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/tPrAO98FSopYP34eBLqYiBnyJqA=/480x360/smart/extras/conteudos/one-piece-gear-5-portada-6505f17bdc0df.png"
-tags: ["One Piece", "Capoeira", "Gear 5th", "Luffy", "Eiichiro Oda", "Brasil", "anime", "mangá", "Netflix", "Crunchyroll"]
-keywords: "One Piece, Capoeira, Gear 5th, Luffy, Eiichiro Oda, Brasil, anime, mangá, Netflix, Crunchyroll"
-author: "Ana Luiza"
-data: "2025-04-29T19:17:06.216Z"
+title: One Piece Revela Influência da Capoeira no Poderoso Gear 5th de Luffy
+slug: one-piece-diretor-de-animao-confirma-inspirao-na-capoeira-para-gear-5th
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/s0opswr1BZk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/tPrAO98FSopYP34eBLqYiBnyJqA=/480x360/smart/extras/conteudos/one-piece-gear-5-portada-6505f17bdc0df.png
+tags:
+  - One Piece
+  - Capoeira
+  - Gear 5th
+  - Luffy
+  - Eiichiro Oda
+  - Brasil
+  - anime
+  - mangá
+  - Netflix
+  - Crunchyroll
+keywords: >-
+  One Piece, Capoeira, Gear 5th, Luffy, Eiichiro Oda, Brasil, anime, mangá,
+  Netflix, Crunchyroll
+author: Ana Luiza
+data: '2025-04-29T19:17:06.216Z'
+resumo: >-
+  Vincent Chansard, animador da série One Piece, confirma que a nova
+  transformação de Luffy, o Gear 5th, foi inspirada na capoeira, refletindo a
+  admiração de Eiichiro Oda pelo Brasil.
 ---
 
 ## Capoeira Inspira Movimentos de Luffy em One Piece

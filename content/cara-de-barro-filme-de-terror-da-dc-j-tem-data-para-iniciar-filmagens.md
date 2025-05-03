@@ -1,14 +1,31 @@
 ---
-title: "Cara de Barro: DC Studios Anuncia Início das Filmagens para Outubro de 2025"
-slug: "cara-de-barro-filme-de-terror-da-dc-j-tem-data-para-iniciar-filmagens"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/f7GKUXz0zeKtoQozrOOm2Fm9TCk=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-30T184142.676.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4COfUkrSN7mKQSrQQ05zrSUkPQM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T184142.676.png"
-tags: ["Cara de Barro", "DC Studios", "Batman", "The Brave and the Bold", "filmagens", "James Gunn", "Peter Safran", "Matt Reeves", "Gotham City", "Damian Wayne"]
-keywords: "Cara de Barro, DC Studios, Batman, The Brave and the Bold, filmagens, James Gunn, Peter Safran, Matt Reeves, Gotham City, Damian Wayne"
-author: "Luana Souza"
-data: "2025-04-30T22:19:21.651Z"
+title: 'Cara de Barro: DC Studios Anuncia Início das Filmagens para Outubro de 2025'
+slug: cara-de-barro-filme-de-terror-da-dc-j-tem-data-para-iniciar-filmagens
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/f7GKUXz0zeKtoQozrOOm2Fm9TCk=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-30T184142.676.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4COfUkrSN7mKQSrQQ05zrSUkPQM=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T184142.676.png
+tags:
+  - Cara de Barro
+  - DC Studios
+  - Batman
+  - The Brave and the Bold
+  - filmagens
+  - James Gunn
+  - Peter Safran
+  - Matt Reeves
+  - Gotham City
+  - Damian Wayne
+keywords: >-
+  Cara de Barro, DC Studios, Batman, The Brave and the Bold, filmagens, James
+  Gunn, Peter Safran, Matt Reeves, Gotham City, Damian Wayne
+author: Luana Souza
+data: '2025-04-30T22:19:21.651Z'
+resumo: >-
+  O aguardado filme de terror da DC, Cara de Barro, começará suas filmagens em
+  outubro de 2025, prometendo uma nova abordagem ao vilão clássico do Batman.
 ---
 
 ## Cara de Barro: Uma Reinvenção do Vilão da DC

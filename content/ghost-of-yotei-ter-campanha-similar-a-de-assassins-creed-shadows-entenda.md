@@ -1,14 +1,28 @@
 ---
-title: "Ghost of Yotei: Uma Saga de Vingança no PS5 com Elementos de Assassin's Creed"
-slug: "ghost-of-yotei-ter-campanha-similar-a-de-assassins-creed-shadows-entenda"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/BCzKX8sZihiqhhuxUVuCvrd0b1w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T124526.684.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/eh9UfFoT-J5LTPttnIqoUwwiRYc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T124512.033.png"
-tags: ["Ghost of Yotei", "PlayStation 5", "Assassin's Creed", "mundo aberto", "franquia", "vingança", "lançamento de jogo"]
-keywords: "Ghost of Yotei, PlayStation 5, Assassin's Creed, mundo aberto, franquia, vingança, lançamento de jogo"
-author: "Ana Luiza"
-data: "2025-04-28T16:24:26.836Z"
+title: 'Ghost of Yotei: Uma Saga de Vingança no PS5 com Elementos de Assassin''s Creed'
+slug: ghost-of-yotei-ter-campanha-similar-a-de-assassins-creed-shadows-entenda
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/BCzKX8sZihiqhhuxUVuCvrd0b1w=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-28T124526.684.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/eh9UfFoT-J5LTPttnIqoUwwiRYc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T124512.033.png
+tags:
+  - Ghost of Yotei
+  - PlayStation 5
+  - Assassin's Creed
+  - mundo aberto
+  - franquia
+  - vingança
+  - lançamento de jogo
+keywords: >-
+  Ghost of Yotei, PlayStation 5, Assassin's Creed, mundo aberto, franquia,
+  vingança, lançamento de jogo
+author: Ana Luiza
+data: '2025-04-28T16:24:26.836Z'
+resumo: >-
+  Com lançamento marcado para outubro no PS5, Ghost of Yotei promete uma jornada
+  épica de vingança com uma campanha inspirada em Assassin's Creed Shadows.
 ---
 
 ## Ghost of Yotei: Inovação e Vingança no PlayStation 5

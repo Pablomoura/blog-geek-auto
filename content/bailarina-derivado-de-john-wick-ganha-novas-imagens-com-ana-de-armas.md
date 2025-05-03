@@ -1,14 +1,28 @@
 ---
-title: "Bailarina: Derivado de John Wick Revela Novas Imagens com Ana de Armas"
-slug: "bailarina-derivado-de-john-wick-ganha-novas-imagens-com-ana-de-armas"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/TZaUk4NL7E1W1JlA5UKbxrlG68k=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T121214.488.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/cUIqGTB98k2Cg-didfB7En9B8eg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T121154.590.png"
-tags: ["Bailarina", "John Wick", "Ana de Armas", "Keanu Reeves", "cinema", "filmes de ação", "spin-off"]
-keywords: "Bailarina, John Wick, Ana de Armas, Keanu Reeves, cinema, filmes de ação, spin-off"
-author: "Pablo Moura"
-data: "2025-05-01T15:20:10.559Z"
+title: 'Bailarina: Derivado de John Wick Revela Novas Imagens com Ana de Armas'
+slug: bailarina-derivado-de-john-wick-ganha-novas-imagens-com-ana-de-armas
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/TZaUk4NL7E1W1JlA5UKbxrlG68k=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T121214.488.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/cUIqGTB98k2Cg-didfB7En9B8eg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T121154.590.png
+tags:
+  - Bailarina
+  - John Wick
+  - Ana de Armas
+  - Keanu Reeves
+  - cinema
+  - filmes de ação
+  - spin-off
+keywords: >-
+  Bailarina, John Wick, Ana de Armas, Keanu Reeves, cinema, filmes de ação,
+  spin-off
+author: Pablo Moura
+data: '2025-05-01T15:20:10.559Z'
+resumo: >-
+  O filme 'Bailarina', primeiro derivado da aclamada franquia John Wick, estreia
+  em junho de 2025 com Ana de Armas em busca de vingança.
 ---
 
 ## Um Novo Capítulo no Universo de John Wick

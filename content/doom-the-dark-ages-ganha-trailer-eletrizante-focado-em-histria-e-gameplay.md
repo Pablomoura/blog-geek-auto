@@ -1,14 +1,31 @@
 ---
-title: "DOOM: The Dark Ages Revela Trailer Arrebatador: Prelúdio Promete Revolução na Franquia"
-slug: "doom-the-dark-ages-ganha-trailer-eletrizante-focado-em-histria-e-gameplay"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/s1i3YfGl5ag?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/0IQhP1sAuYU39ENwTDVKzK1seSc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T130905.170.png"
-tags: ["DOOM: The Dark Ages", "Bethesda", "DOOM 2016", "Hugo Martin", "id Software", "Xbox Series X", "PlayStation 5", "Game Pass", "trailer de DOOM"]
-keywords: "DOOM: The Dark Ages, Bethesda, DOOM 2016, Hugo Martin, id Software, Xbox Series X, PlayStation 5, Game Pass, trailer de DOOM"
-author: "Ana Luiza"
-data: "2025-04-21T16:24:12.825Z"
+title: >-
+  DOOM: The Dark Ages Revela Trailer Arrebatador: Prelúdio Promete Revolução na
+  Franquia
+slug: doom-the-dark-ages-ganha-trailer-eletrizante-focado-em-histria-e-gameplay
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/s1i3YfGl5ag?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/0IQhP1sAuYU39ENwTDVKzK1seSc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T130905.170.png
+tags:
+  - 'DOOM: The Dark Ages'
+  - Bethesda
+  - DOOM 2016
+  - Hugo Martin
+  - id Software
+  - Xbox Series X
+  - PlayStation 5
+  - Game Pass
+  - trailer de DOOM
+keywords: >-
+  DOOM: The Dark Ages, Bethesda, DOOM 2016, Hugo Martin, id Software, Xbox
+  Series X, PlayStation 5, Game Pass, trailer de DOOM
+author: Ana Luiza
+data: '2025-04-21T16:24:12.825Z'
+resumo: >-
+  DOOM: The Dark Ages, o aguardado prelúdio da série DOOM, estreará em 15 de
+  maio, prometendo uma experiência cinematográfica e uma narrativa envolvente.
 ---
 
 A Bethesda surpreendeu os fãs da série DOOM com o lançamento de um novo trailer para DOOM: The Dark Ages. O vídeo destaca uma trama intensa e oferece um vislumbre empolgante das mecânicas de jogo, prometendo uma aventura épica.

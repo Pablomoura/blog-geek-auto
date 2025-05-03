@@ -1,14 +1,31 @@
 ---
-title: "Stitch Está de Volta! Confira o Trailer do Live-Action de Lilo & Stitch Chegando aos Cinemas em Maio"
-slug: "lilo-e-stitch-traz-aliengena-em-fuga-em-novo-trailer-assista"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/xzN9XZYu9Dw?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Oqv03ugCZKE5Lul-H7-OxukTCcU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T134503.330.png"
-tags: ["Lilo & Stitch", "live-action", "Disney", "trailer", "cinemas", "remake", "Stitch", "teaser trailer"]
-keywords: "Lilo & Stitch, live-action, Disney, trailer, cinemas, remake, Stitch, teaser trailer"
-author: "Luana Souza"
-data: "2025-04-24T17:18:44.543Z"
+title: >-
+  Stitch Está de Volta! Confira o Trailer do Live-Action de Lilo & Stitch
+  Chegando aos Cinemas em Maio
+slug: lilo-e-stitch-traz-aliengena-em-fuga-em-novo-trailer-assista
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/xzN9XZYu9Dw?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Oqv03ugCZKE5Lul-H7-OxukTCcU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T134503.330.png
+tags:
+  - Lilo & Stitch
+  - live-action
+  - Disney
+  - trailer
+  - cinemas
+  - remake
+  - Stitch
+  - teaser trailer
+keywords: >-
+  Lilo & Stitch, live-action, Disney, trailer, cinemas, remake, Stitch, teaser
+  trailer
+author: Luana Souza
+data: '2025-04-24T17:18:44.543Z'
+resumo: >-
+  O aguardado remake live-action de Lilo & Stitch promete capturar corações com
+  uma aventura emocionante e um elenco estelar, marcando sua estreia nos cinemas
+  em 22 de maio de 2025.
 ---
 
 O universo de Lilo & Stitch recebe uma nova vida com o lançamento do teaser trailer do remake em live-action. O vídeo mostra o adorável alienígena Stitch em uma espetacular fuga de uma nave espacial, prometendo uma aventura cheia de emoção e humor.

@@ -1,14 +1,29 @@
 ---
-title: "Thunderbolts da Marvel: Novo Trailer Revela 'Delinquentes' Super-Heróis"
-slug: "thunderbolts-novo-trailer-chama-grupo-de-delinquentes-da-marvel"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/6kvuCjKnV2cqV2iLkREvFb7dgqc=/987x0/smart/uploads/conteudo/fotos/thunderboltsvarianteposter_qoVMFoe.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/vYOZzJ64SVAS29ph1Txiwc5HPCk=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_HU1KsPy.jpg"
-tags: ["Thunderbolts", "Marvel Studios", "MCU", "anti-heróis", "cinema", "filmes de super-heróis", "estreia 2025"]
-keywords: "Thunderbolts, Marvel Studios, MCU, anti-heróis, cinema, filmes de super-heróis, estreia 2025"
-author: "Luana Souza"
-data: "2025-04-27T19:16:10.836Z"
+title: 'Thunderbolts da Marvel: Novo Trailer Revela ''Delinquentes'' Super-Heróis'
+slug: thunderbolts-novo-trailer-chama-grupo-de-delinquentes-da-marvel
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/6kvuCjKnV2cqV2iLkREvFb7dgqc=/987x0/smart/uploads/conteudo/fotos/thunderboltsvarianteposter_qoVMFoe.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/vYOZzJ64SVAS29ph1Txiwc5HPCk=/480x360/smart/extras/conteudos/thunderboltsvarianteposter_HU1KsPy.jpg
+tags:
+  - Thunderbolts
+  - Marvel Studios
+  - MCU
+  - anti-heróis
+  - cinema
+  - filmes de super-heróis
+  - estreia 2025
+keywords: >-
+  Thunderbolts, Marvel Studios, MCU, anti-heróis, cinema, filmes de
+  super-heróis, estreia 2025
+author: Luana Souza
+data: '2025-04-27T19:16:10.836Z'
+resumo: >-
+  O novo trailer de 'Thunderbolts' da Marvel Studios apresenta a equipe de
+  anti-heróis liderada por Valentina Allegra de Fontaine, prometendo uma
+  abordagem única no MCU a partir de 2 de maio de 2025.
 ---
 
 ## O Renascer dos Anti-Heróis no MCU com 'Thunderbolts'

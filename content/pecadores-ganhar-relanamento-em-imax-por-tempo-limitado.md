@@ -1,14 +1,24 @@
 ---
-title: "Pecadores Retorna aos Cinemas em Formato IMAX para Exibição Limitada"
-slug: "pecadores-ganhar-relanamento-em-imax-por-tempo-limitado"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/5gg75hru4Ns?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/qNfgB0VdmrFHCIWXKmkBK5pkY_U=/480x360/smart/extras/conteudos/01_OejDUJd.jpg"
-tags: ["Pecadores", "IMAX", "cinema", "Ryan Coogler", "relançamento", "Michael B. Jordan"]
-keywords: "Pecadores, IMAX, cinema, Ryan Coogler, relançamento, Michael B. Jordan"
-author: "Ana Luiza"
-data: "2025-05-01T20:19:44.899Z"
+title: Pecadores Retorna aos Cinemas em Formato IMAX para Exibição Limitada
+slug: pecadores-ganhar-relanamento-em-imax-por-tempo-limitado
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/5gg75hru4Ns?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/qNfgB0VdmrFHCIWXKmkBK5pkY_U=/480x360/smart/extras/conteudos/01_OejDUJd.jpg
+tags:
+  - Pecadores
+  - IMAX
+  - cinema
+  - Ryan Coogler
+  - relançamento
+  - Michael B. Jordan
+keywords: 'Pecadores, IMAX, cinema, Ryan Coogler, relançamento, Michael B. Jordan'
+author: Ana Luiza
+data: '2025-05-01T20:19:44.899Z'
+resumo: >-
+  O aclamado filme 'Pecadores' será relançado em cinemas IMAX selecionados dos
+  EUA, prometendo uma experiência cinematográfica imersiva em 70 mm.
 ---
 
 ## Relançamento Exclusivo em IMAX

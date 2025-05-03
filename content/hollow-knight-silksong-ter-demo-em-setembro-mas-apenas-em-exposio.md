@@ -1,14 +1,31 @@
 ---
-title: "Hollow Knight: Silksong Ganha Demo Exclusiva na Austrália e Previsão de Lançamento"
-slug: "hollow-knight-silksong-ter-demo-em-setembro-mas-apenas-em-exposio"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/OBRpsBPqGivAnMQBjNkLoGHGBls=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T120622.879.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/BqXZHI3K_Ej9txjxXS8qaWqxgVc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T120605.950.png"
-tags: ["Hollow Knight: Silksong", "demo", "lançamento", "Team Cherry", "Nintendo Switch 2", "Game Worlds", "Australian Museum"]
-keywords: "Hollow Knight: Silksong, demo, lançamento, Team Cherry, Nintendo Switch 2, Game Worlds, Australian Museum"
-author: "Ana Luiza"
-data: "2025-05-01T15:20:51.109Z"
+title: >-
+  Hollow Knight: Silksong Ganha Demo Exclusiva na Austrália e Previsão de
+  Lançamento
+slug: hollow-knight-silksong-ter-demo-em-setembro-mas-apenas-em-exposio
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/OBRpsBPqGivAnMQBjNkLoGHGBls=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T120622.879.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/BqXZHI3K_Ej9txjxXS8qaWqxgVc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T120605.950.png
+tags:
+  - 'Hollow Knight: Silksong'
+  - demo
+  - lançamento
+  - Team Cherry
+  - Nintendo Switch 2
+  - Game Worlds
+  - Australian Museum
+keywords: >-
+  Hollow Knight: Silksong, demo, lançamento, Team Cherry, Nintendo Switch 2,
+  Game Worlds, Australian Museum
+author: Ana Luiza
+data: '2025-05-01T15:20:51.109Z'
+resumo: >-
+  A esperada sequência de Hollow Knight, Silksong, terá uma demo jogável em
+  setembro durante uma exposição na Austrália, enquanto rumores sobre a data de
+  lançamento circulam.
 ---
 
 ## Hollow Knight: Silksong - Uma Prévia Exclusiva na Austrália

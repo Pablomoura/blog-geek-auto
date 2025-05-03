@@ -1,14 +1,29 @@
 ---
-title: "Brasileirão 2025: Confira os Horários e Canais para Assistir aos Jogos do Fim de Semana"
-slug: "brasileiro-2025-onde-assistir-ao-vivo-os-jogos-do-fim-de-semana-26-e-2704"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/kZOlpmHH6mOUfJoE7GBhms3ntXQ=/987x0/smart/uploads/conteudo/fotos/brasileirao-hugo-souza-corinthians-rodada-6.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/_Ldz-uRWiX4_b8-kdSULoqXH9gE=/480x360/smart/extras/conteudos/brasileirao-hugo-souza-corinthians-rodada-6-peq.jpg"
-tags: ["Brasileirão 2025", "Jogos ao vivo", "Campeonato Brasileiro", "Horários futebol", "Transmissão Brasileirão"]
-keywords: "Brasileirão 2025, Jogos ao vivo, Campeonato Brasileiro, Horários futebol, Transmissão Brasileirão"
-author: "Ana Luiza"
-data: "2025-04-26T11:15:04.590Z"
+title: >-
+  Brasileirão 2025: Confira os Horários e Canais para Assistir aos Jogos do Fim
+  de Semana
+slug: brasileiro-2025-onde-assistir-ao-vivo-os-jogos-do-fim-de-semana-26-e-2704
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/kZOlpmHH6mOUfJoE7GBhms3ntXQ=/987x0/smart/uploads/conteudo/fotos/brasileirao-hugo-souza-corinthians-rodada-6.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/_Ldz-uRWiX4_b8-kdSULoqXH9gE=/480x360/smart/extras/conteudos/brasileirao-hugo-souza-corinthians-rodada-6-peq.jpg
+tags:
+  - Brasileirão 2025
+  - Jogos ao vivo
+  - Campeonato Brasileiro
+  - Horários futebol
+  - Transmissão Brasileirão
+keywords: >-
+  Brasileirão 2025, Jogos ao vivo, Campeonato Brasileiro, Horários futebol,
+  Transmissão Brasileirão
+author: Ana Luiza
+data: '2025-04-26T11:15:04.590Z'
+resumo: >-
+  Acompanhe a programação completa dos jogos da sexta rodada do Brasileirão 2025
+  nos dias 26 e 27 de abril, com todos os detalhes sobre horários e plataformas
+  de transmissão.
 ---
 
 ## Brasileirão 2025: Rodada Decisiva no Fim de Semana

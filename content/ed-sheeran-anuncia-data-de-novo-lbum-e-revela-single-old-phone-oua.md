@@ -1,14 +1,29 @@
 ---
-title: "Ed Sheeran Revela Single 'Old Phone' e Anuncia Lançamento do Álbum 'Play' para Setembro"
-slug: "ed-sheeran-anuncia-data-de-novo-lbum-e-revela-single-old-phone-oua"
-categoria: "MÚSICA"
-midia: "https://www.youtube.com/embed/KoM13RvBHrk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/x_HfVRwZV-_ysGX7XKc_M-M5W6w=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T132831.981.png"
-tags: ["Ed Sheeran", "Old Phone", "Play", "novo álbum", "lançamento de música", "Azizam", "Autumn Variations"]
-keywords: "Ed Sheeran, Old Phone, Play, novo álbum, lançamento de música, Azizam, Autumn Variations"
-author: "Luana Souza"
-data: "2025-05-01T17:17:59.197Z"
+title: >-
+  Ed Sheeran Revela Single 'Old Phone' e Anuncia Lançamento do Álbum 'Play' para
+  Setembro
+slug: ed-sheeran-anuncia-data-de-novo-lbum-e-revela-single-old-phone-oua
+categoria: MÚSICA
+midia: 'https://www.youtube.com/embed/KoM13RvBHrk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/x_HfVRwZV-_ysGX7XKc_M-M5W6w=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T132831.981.png
+tags:
+  - Ed Sheeran
+  - Old Phone
+  - Play
+  - novo álbum
+  - lançamento de música
+  - Azizam
+  - Autumn Variations
+keywords: >-
+  Ed Sheeran, Old Phone, Play, novo álbum, lançamento de música, Azizam, Autumn
+  Variations
+author: Luana Souza
+data: '2025-05-01T17:17:59.197Z'
+resumo: >-
+  Ed Sheeran divulgou o novo single 'Old Phone' e confirmou a data de lançamento
+  de seu próximo álbum, 'Play', previsto para 12 de setembro.
 ---
 
 ## Novo Single e Detalhes do Álbum 'Play'

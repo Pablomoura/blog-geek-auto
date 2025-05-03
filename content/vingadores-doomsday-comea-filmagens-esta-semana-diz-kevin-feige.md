@@ -1,14 +1,30 @@
 ---
-title: "Vingadores: Doomsday Inicia Produção com Elenco Estelar e Surpresas Épicas"
-slug: "vingadores-doomsday-comea-filmagens-esta-semana-diz-kevin-feige"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/naRQmS5x-bgWs313a6QzocXfCfA=/987x0/smart/uploads/conteudo/fotos/vingadoresdoomsday_Ugq1Fh9.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/xUWirEgIA52_19JTYyV9qKlAY9k=/480x360/smart/extras/conteudos/vingadoresdoomsday_MxaVAEu.jpg"
-tags: ["Vingadores Doomsday", "Marvel", "MCU", "Kevin Feige", "filmagens", "elenco", "X-Men", "Thunderbolts", "Saga do Multiverso"]
-keywords: "Vingadores Doomsday, Marvel, MCU, Kevin Feige, filmagens, elenco, X-Men, Thunderbolts, Saga do Multiverso"
-author: "Ana Luiza"
-data: "2025-04-27T21:16:25.028Z"
+title: 'Vingadores: Doomsday Inicia Produção com Elenco Estelar e Surpresas Épicas'
+slug: vingadores-doomsday-comea-filmagens-esta-semana-diz-kevin-feige
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/naRQmS5x-bgWs313a6QzocXfCfA=/987x0/smart/uploads/conteudo/fotos/vingadoresdoomsday_Ugq1Fh9.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/xUWirEgIA52_19JTYyV9qKlAY9k=/480x360/smart/extras/conteudos/vingadoresdoomsday_MxaVAEu.jpg
+tags:
+  - Vingadores Doomsday
+  - Marvel
+  - MCU
+  - Kevin Feige
+  - filmagens
+  - elenco
+  - X-Men
+  - Thunderbolts
+  - Saga do Multiverso
+keywords: >-
+  Vingadores Doomsday, Marvel, MCU, Kevin Feige, filmagens, elenco, X-Men,
+  Thunderbolts, Saga do Multiverso
+author: Ana Luiza
+data: '2025-04-27T21:16:25.028Z'
+resumo: >-
+  Kevin Feige anuncia o início das filmagens de 'Vingadores: Doomsday' em Los
+  Angeles, revelando um elenco repleto de estrelas e o retorno dos X-Men.
 ---
 
 ## Kevin Feige Anuncia Início das Filmagens de 'Vingadores: Doomsday'

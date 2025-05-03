@@ -1,14 +1,30 @@
 ---
-title: "Penélope Cruz e Javier Bardem Juntos em 'Bunker', o Novo Thriller de Florian Zeller"
-slug: "bunker-suspense-ter-penlope-cruz-e-javier-bardem-como-casal"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Lq9Z2pbNWkvuZY2wkKosMHs-4_Q=/987x0/smart/uploads/conteudo/fotos/02_syWsO0x.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SzFnEFd-kge6PdzFMTAWgVscpmg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_122626.png"
-tags: ["Penélope Cruz", "Javier Bardem", "Bunker", "Florian Zeller", "thriller psicológico", "cinema", "filmes"]
-keywords: "Penélope Cruz, Javier Bardem, Bunker, Florian Zeller, thriller psicológico, cinema, filmes"
-author: "Luana Souza"
-data: "2025-05-01T16:27:01.802Z"
+title: >-
+  Penélope Cruz e Javier Bardem Juntos em 'Bunker', o Novo Thriller de Florian
+  Zeller
+slug: bunker-suspense-ter-penlope-cruz-e-javier-bardem-como-casal
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Lq9Z2pbNWkvuZY2wkKosMHs-4_Q=/987x0/smart/uploads/conteudo/fotos/02_syWsO0x.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SzFnEFd-kge6PdzFMTAWgVscpmg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_122626.png
+tags:
+  - Penélope Cruz
+  - Javier Bardem
+  - Bunker
+  - Florian Zeller
+  - thriller psicológico
+  - cinema
+  - filmes
+keywords: >-
+  Penélope Cruz, Javier Bardem, Bunker, Florian Zeller, thriller psicológico,
+  cinema, filmes
+author: Luana Souza
+data: '2025-05-01T16:27:01.802Z'
+resumo: >-
+  O casal de atores Penélope Cruz e Javier Bardem protagonizará 'Bunker', um
+  thriller psicológico dirigido pelo aclamado Florian Zeller.
 ---
 
 ## 'Bunker': Penélope Cruz e Javier Bardem em um Suspense de Cortar o Fôlego

@@ -1,14 +1,30 @@
 ---
-title: "O Problema dos 3 Corpos: Gravações Consecutivas Podem Atrasar Estreias Até 2028"
-slug: "problema-dos-3-corpos-2-e-3-temporadas-sero-filmadas-juntas-durante-2-anos"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/Q_enYlEQ0-s?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/7J0d9C33f9z_PNpfUFqHZb1Zhpg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_164603.png"
-tags: ["O Problema dos 3 Corpos", "Netflix", "ficção científica", "gravações", "Hungria", "temporada de séries", "estreia 2028"]
-keywords: "O Problema dos 3 Corpos, Netflix, ficção científica, gravações, Hungria, temporada de séries, estreia 2028"
-author: "Ana Luiza"
-data: "2025-04-28T20:20:33.109Z"
+title: >-
+  O Problema dos 3 Corpos: Gravações Consecutivas Podem Atrasar Estreias Até
+  2028
+slug: problema-dos-3-corpos-2-e-3-temporadas-sero-filmadas-juntas-durante-2-anos
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/Q_enYlEQ0-s?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/7J0d9C33f9z_PNpfUFqHZb1Zhpg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_164603.png
+tags:
+  - O Problema dos 3 Corpos
+  - Netflix
+  - ficção científica
+  - gravações
+  - Hungria
+  - temporada de séries
+  - estreia 2028
+keywords: >-
+  O Problema dos 3 Corpos, Netflix, ficção científica, gravações, Hungria,
+  temporada de séries, estreia 2028
+author: Ana Luiza
+data: '2025-04-28T20:20:33.109Z'
+resumo: >-
+  A série 'O Problema dos 3 Corpos' da Netflix, pode enfrentar atrasos
+  significativos, com gravações das próximas temporadas se estendendo de 2025 a
+  2027 na Hungria.
 ---
 
 ## Mudanças na Produção de 'O Problema dos 3 Corpos'

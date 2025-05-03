@@ -1,14 +1,27 @@
 ---
-title: "Susana Vieira brilha em 'Coisa de Novela', destaque na Sessão da Tarde"
-slug: "coisa-de-novela-passa-na-sesso-da-tarde-da-globo-desta-segunda"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/FJ6Gji7gFzgWw-k6GnG1pGjS41U=/987x0/smart/uploads/conteudo/fotos/sessaodatarde_GZNctuz.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/f3PObHMaWmUJJbuGcUtaVLGx-6g=/480x360/smart/extras/conteudos/sessaodatarde_9BGpZoj.jpg"
-tags: ["Coisa de Novela", "Susana Vieira", "Sessão da Tarde", "Globo", "filmes na TV", "Manuh Fontes"]
-keywords: "Coisa de Novela, Susana Vieira, Sessão da Tarde, Globo, filmes na TV, Manuh Fontes"
-author: "Ana Luiza"
-data: "2025-04-28T11:38:39.196Z"
+title: 'Susana Vieira brilha em ''Coisa de Novela'', destaque na Sessão da Tarde'
+slug: coisa-de-novela-passa-na-sesso-da-tarde-da-globo-desta-segunda
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/FJ6Gji7gFzgWw-k6GnG1pGjS41U=/987x0/smart/uploads/conteudo/fotos/sessaodatarde_GZNctuz.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/f3PObHMaWmUJJbuGcUtaVLGx-6g=/480x360/smart/extras/conteudos/sessaodatarde_9BGpZoj.jpg
+tags:
+  - Coisa de Novela
+  - Susana Vieira
+  - Sessão da Tarde
+  - Globo
+  - filmes na TV
+  - Manuh Fontes
+keywords: >-
+  Coisa de Novela, Susana Vieira, Sessão da Tarde, Globo, filmes na TV, Manuh
+  Fontes
+author: Ana Luiza
+data: '2025-04-28T11:38:39.196Z'
+resumo: >-
+  Descubra 'Coisa de Novela', emocionante filme com Susana Vieira, exibido na
+  Sessão da Tarde desta segunda-feira na Globo.
 ---
 
 ## 'Coisa de Novela' na Sessão da Tarde: Uma Jornada Emocional

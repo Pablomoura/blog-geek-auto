@@ -1,14 +1,27 @@
 ---
-title: "Robert De Niro expressa apoio incondicional à filha trans, Airyn"
-slug: "robert-de-niro-defende-filha-trans-amo-e-apoio"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/whUPnyecnUjE6HJUVKJfligXXsw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T110827.845.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Iy58b7ZHIIZ7yh0Hq3h1Byg6xng=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T110755.052.png"
-tags: ["Robert De Niro", "Airyn De Niro", "identidade trans", "apoio familiar", "The Alto Knights", "visibilidade trans"]
-keywords: "Robert De Niro, Airyn De Niro, identidade trans, apoio familiar, The Alto Knights, visibilidade trans"
-author: "Pablo Moura"
-data: "2025-05-02T14:18:17.259Z"
+title: 'Robert De Niro expressa apoio incondicional à filha trans, Airyn'
+slug: robert-de-niro-defende-filha-trans-amo-e-apoio
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/whUPnyecnUjE6HJUVKJfligXXsw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-02T110827.845.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Iy58b7ZHIIZ7yh0Hq3h1Byg6xng=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T110755.052.png
+tags:
+  - Robert De Niro
+  - Airyn De Niro
+  - identidade trans
+  - apoio familiar
+  - The Alto Knights
+  - visibilidade trans
+keywords: >-
+  Robert De Niro, Airyn De Niro, identidade trans, apoio familiar, The Alto
+  Knights, visibilidade trans
+author: Pablo Moura
+data: '2025-05-02T14:18:17.259Z'
+resumo: >-
+  Robert De Niro reafirma seu amor e apoio à sua filha trans, Airyn, em meio a
+  discussões públicas sobre sua identidade.
 ---
 
 ## Robert De Niro e a Defesa da Identidade de Sua Filha

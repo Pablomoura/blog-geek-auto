@@ -37,6 +37,9 @@ jobs:
       - name: Roda o scraper
         run: node scripts/scraper.js
 
+      - name: Roda o atualizador de resumos
+        run: node scripts/atualizar-resumos-md.js
+
       - name: Gerar RSS
         run: npm run rss
 

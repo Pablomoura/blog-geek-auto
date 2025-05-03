@@ -1,14 +1,32 @@
 ---
-title: "Netflix Impulsiona 'Adolescência' para o Emmy com Performance Excepcional de Stephen Graham e Owen Cooper"
-slug: "adolescncia-netflix-lana-campanha-de-owen-cooper-e-stephen-graham-para-emmy"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/BLimvJRMBsRoX53mjuyCsDoPVXQ=/987x0/smart/uploads/conteudo/fotos/adolescencia-netflix-capa_JeJNeNn.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/5Jc-WbkBIDzAlgTZoOYC4serm5M=/480x360/smart/extras/conteudos/Adolescencia_3JyjIZ0.webp"
-tags: ["Netflix", "Adolescência", "Emmy", "Stephen Graham", "Owen Cooper", "série limitada", "drama", "minissérie"]
-keywords: "Netflix, Adolescência, Emmy, Stephen Graham, Owen Cooper, série limitada, drama, minissérie"
-author: "Pablo Moura"
-data: "2025-04-23T19:15:21.838Z"
+title: >-
+  Netflix Impulsiona 'Adolescência' para o Emmy com Performance Excepcional de
+  Stephen Graham e Owen Cooper
+slug: adolescncia-netflix-lana-campanha-de-owen-cooper-e-stephen-graham-para-emmy
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/BLimvJRMBsRoX53mjuyCsDoPVXQ=/987x0/smart/uploads/conteudo/fotos/adolescencia-netflix-capa_JeJNeNn.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/5Jc-WbkBIDzAlgTZoOYC4serm5M=/480x360/smart/extras/conteudos/Adolescencia_3JyjIZ0.webp
+tags:
+  - Netflix
+  - Adolescência
+  - Emmy
+  - Stephen Graham
+  - Owen Cooper
+  - série limitada
+  - drama
+  - minissérie
+keywords: >-
+  Netflix, Adolescência, Emmy, Stephen Graham, Owen Cooper, série limitada,
+  drama, minissérie
+author: Pablo Moura
+data: '2025-04-23T19:15:21.838Z'
+resumo: >-
+  A minissérie 'Adolescência', aclamada pela crítica e público na Netflix, entra
+  com força na corrida pelo Emmy, destacando atuações de Stephen Graham e Owen
+  Cooper.
 ---
 
 A minissérie 'Adolescência', que capturou a atenção de milhões na Netflix, está agora no caminho para conquistar o Emmy, seguindo os passos do sucesso anterior de 'Bebê Rena'. Segundo a Variety, a Netflix está preparada para uma campanha intensa nas premiações deste ano.

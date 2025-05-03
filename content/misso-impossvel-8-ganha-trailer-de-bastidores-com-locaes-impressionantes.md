@@ -1,14 +1,32 @@
 ---
-title: "Tom Cruise e Elenco Estelar em 'Missão: Impossível - O Acerto Final': Bastidores Revelados"
-slug: "misso-impossvel-8-ganha-trailer-de-bastidores-com-locaes-impressionantes"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/ag8TjuWen1jZNRNvROS3iqSlQ-8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T124401.572.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nep3-4kMijH_SbzvrjCCR0nS2o0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T124349.789.png"
-tags: ["Missão Impossível", "Tom Cruise", "Christopher McQuarrie", "cinema", "filme de ação", "Paramount Pictures", "trailer de bastidores", "locações de filme"]
-keywords: "Missão Impossível, Tom Cruise, Christopher McQuarrie, cinema, filme de ação, Paramount Pictures, trailer de bastidores, locações de filme"
-author: "Pablo Moura"
-data: "2025-04-22T16:26:10.399Z"
+title: >-
+  Tom Cruise e Elenco Estelar em 'Missão: Impossível - O Acerto Final':
+  Bastidores Revelados
+slug: misso-impossvel-8-ganha-trailer-de-bastidores-com-locaes-impressionantes
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/ag8TjuWen1jZNRNvROS3iqSlQ-8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-22T124401.572.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nep3-4kMijH_SbzvrjCCR0nS2o0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-22T124349.789.png
+tags:
+  - Missão Impossível
+  - Tom Cruise
+  - Christopher McQuarrie
+  - cinema
+  - filme de ação
+  - Paramount Pictures
+  - trailer de bastidores
+  - locações de filme
+keywords: >-
+  Missão Impossível, Tom Cruise, Christopher McQuarrie, cinema, filme de ação,
+  Paramount Pictures, trailer de bastidores, locações de filme
+author: Pablo Moura
+data: '2025-04-22T16:26:10.399Z'
+resumo: >-
+  O trailer de bastidores de 'Missão: Impossível - O Acerto Final', com locações
+  espetaculares e um elenco de estrelas, antecipa o emocionante desfecho da saga
+  que chega aos cinemas em maio de 2025.
 ---
 
 A icônica série 'Missão: Impossível' se prepara para um grandioso final com o lançamento de 'Missão: Impossível - O Acerto Final'. Tom Cruise, junto com um elenco repleto de talentos, retorna para o oitavo filme da franquia, dirigido por Christopher McQuarrie. Este último capítulo não só traz de volta rostos conhecidos como Ving Rhames, Simon Pegg e Vanessa Kirby, mas também introduz novos atores como Nick Offerman e Hannah Waddingham.

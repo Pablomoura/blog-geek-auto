@@ -1,14 +1,31 @@
 ---
-title: "Perda no Mundo das Novelas: Morre Lúcia Alves, Estrela de 'Irmãos Coragem' e 'O Cravo e a Rosa', aos 76 Anos"
-slug: "morre-lcia-alves-atriz-de-novelas-da-globo-aos-76-anos"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/7yusFbQYQBthAezeSbtEb_q25To=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-24T201029.802.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/mBb8qlTpFGbcWlq_7s8Ylboq1RY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T201029.802.png"
-tags: ["Lúcia Alves", "Irmãos Coragem", "O Cravo e a Rosa", "atriz brasileira", "novelas", "TV Globo", "câncer no pâncreas", "teledramaturgia brasileira"]
-keywords: "Lúcia Alves, Irmãos Coragem, O Cravo e a Rosa, atriz brasileira, novelas, TV Globo, câncer no pâncreas, teledramaturgia brasileira"
-author: "Luana Souza"
-data: "2025-04-24T23:18:08.543Z"
+title: >-
+  Perda no Mundo das Novelas: Morre Lúcia Alves, Estrela de 'Irmãos Coragem' e
+  'O Cravo e a Rosa', aos 76 Anos
+slug: morre-lcia-alves-atriz-de-novelas-da-globo-aos-76-anos
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/7yusFbQYQBthAezeSbtEb_q25To=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-24T201029.802.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/mBb8qlTpFGbcWlq_7s8Ylboq1RY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T201029.802.png
+tags:
+  - Lúcia Alves
+  - Irmãos Coragem
+  - O Cravo e a Rosa
+  - atriz brasileira
+  - novelas
+  - TV Globo
+  - câncer no pâncreas
+  - teledramaturgia brasileira
+keywords: >-
+  Lúcia Alves, Irmãos Coragem, O Cravo e a Rosa, atriz brasileira, novelas, TV
+  Globo, câncer no pâncreas, teledramaturgia brasileira
+author: Luana Souza
+data: '2025-04-24T23:18:08.543Z'
+resumo: >-
+  Lúcia Alves, aclamada atriz de novelas icônicas como 'Irmãos Coragem', faleceu
+  após uma batalha contra o câncer no pâncreas.
 ---
 
 A comunidade artística brasileira perdeu uma de suas mais queridas atrizes, Lúcia Alves, que nos deixou aos 76 anos, nesta quinta-feira (24), no Rio de Janeiro. Internada em estado grave na Casa de Saúde São José desde o dia 14 de abril, a atriz lutava contra um câncer no pâncreas.

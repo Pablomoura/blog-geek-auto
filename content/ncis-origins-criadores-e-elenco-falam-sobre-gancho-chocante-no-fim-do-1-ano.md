@@ -1,14 +1,29 @@
 ---
-title: "NCIS: Origins - Final Eletrizante da 1ª Temporada Promete Reviravoltas"
-slug: "ncis-origins-criadores-e-elenco-falam-sobre-gancho-chocante-no-fim-do-1-ano"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Dw6TkCWJnj3ChwPszdeAIx50XFE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T113621.360.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Dw6TkCWJnj3ChwPszdeAIx50XFE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T113621.360.png"
-tags: ["NCIS: Origins", "final da temporada", "série de TV", "AXN", "Paramount+", "spin-off NCIS", "televisão", "drama policial"]
-keywords: "NCIS: Origins, final da temporada, série de TV, AXN, Paramount+, spin-off NCIS, televisão, drama policial"
-author: "Luana Souza"
-data: "2025-04-29T15:22:16.529Z"
+title: 'NCIS: Origins - Final Eletrizante da 1ª Temporada Promete Reviravoltas'
+slug: ncis-origins-criadores-e-elenco-falam-sobre-gancho-chocante-no-fim-do-1-ano
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Dw6TkCWJnj3ChwPszdeAIx50XFE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T113621.360.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Dw6TkCWJnj3ChwPszdeAIx50XFE=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T113621.360.png
+tags:
+  - 'NCIS: Origins'
+  - final da temporada
+  - série de TV
+  - AXN
+  - Paramount+
+  - spin-off NCIS
+  - televisão
+  - drama policial
+keywords: >-
+  NCIS: Origins, final da temporada, série de TV, AXN, Paramount+, spin-off
+  NCIS, televisão, drama policial
+author: Luana Souza
+data: '2025-04-29T15:22:16.529Z'
+resumo: >-
+  Criadores e elenco de NCIS: Origins discutem o impactante final da primeira
+  temporada e antecipam surpresas para a sequência.
 ---
 
 ## Final de Temporada de NCIS: Origins Deixa Fãs na Expectativa

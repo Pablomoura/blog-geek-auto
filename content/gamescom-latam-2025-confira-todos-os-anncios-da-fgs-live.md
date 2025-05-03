@@ -1,14 +1,36 @@
 ---
-title: "Gamescom Latam 2025 Revela Novidades em Jogos: Confira os Destaques do FGS Live"
-slug: "gamescom-latam-2025-confira-todos-os-anncios-da-fgs-live"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/33VO93loKOg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/kBryIfgkp5MVzTQ7hvHjf8zsuPI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T190318.100.png"
-tags: ["Gamescom Latam 2025", "Future Games Show", "lançamentos de jogos", "trailers de jogos", "WUCHANG Fallen Feathers", "The Shadow Syndicate", "REMATCH", "Sacrifire", "Blades of Fire", "The Alters", "To a T", "Little Mage", "Void Martyrs"]
-keywords: "Gamescom Latam 2025, Future Games Show, lançamentos de jogos, trailers de jogos, WUCHANG Fallen Feathers, The Shadow Syndicate, REMATCH, Sacrifire, Blades of Fire, The Alters, To a T, Little Mage, Void Martyrs"
-author: "Luana Souza"
-data: "2025-05-02T23:18:49.124Z"
+title: >-
+  Gamescom Latam 2025 Revela Novidades em Jogos: Confira os Destaques do FGS
+  Live
+slug: gamescom-latam-2025-confira-todos-os-anncios-da-fgs-live
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/33VO93loKOg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/kBryIfgkp5MVzTQ7hvHjf8zsuPI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-02T190318.100.png
+tags:
+  - Gamescom Latam 2025
+  - Future Games Show
+  - lançamentos de jogos
+  - trailers de jogos
+  - WUCHANG Fallen Feathers
+  - The Shadow Syndicate
+  - REMATCH
+  - Sacrifire
+  - Blades of Fire
+  - The Alters
+  - To a T
+  - Little Mage
+  - Void Martyrs
+keywords: >-
+  Gamescom Latam 2025, Future Games Show, lançamentos de jogos, trailers de
+  jogos, WUCHANG Fallen Feathers, The Shadow Syndicate, REMATCH, Sacrifire,
+  Blades of Fire, The Alters, To a T, Little Mage, Void Martyrs
+author: Luana Souza
+data: '2025-05-02T23:18:49.124Z'
+resumo: >-
+  A Gamescom Latam 2025 foi palco de anúncios empolgantes no Future Games Show,
+  incluindo novos trailers e datas de lançamento para uma variedade de jogos.
 ---
 
 

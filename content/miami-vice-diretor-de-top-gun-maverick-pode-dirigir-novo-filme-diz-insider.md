@@ -1,14 +1,30 @@
 ---
-title: "Miami Vice Retorna às Telonas: Joseph Kosinski, Diretor de Top Gun: Maverick, Pode Comandar o Novo Filme"
-slug: "miami-vice-diretor-de-top-gun-maverick-pode-dirigir-novo-filme-diz-insider"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/p-u-gx1VU9hWdO1gKEJOFw7ecb4=/987x0/smart/uploads/conteudo/fotos/miami-vice.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QvVVdR8t_35eL3yMefXdYt_4d_w=/480x360/smart/extras/conteudos/miamivice.jpg"
-tags: ["Miami Vice", "Joseph Kosinski", "filme", "cinema", "Dan Gilroy", "série policial", "Top Gun: Maverick"]
-keywords: "Miami Vice, Joseph Kosinski, filme, cinema, Dan Gilroy, série policial, Top Gun: Maverick"
-author: "Pablo Moura"
-data: "2025-04-21T23:18:28.088Z"
+title: >-
+  Miami Vice Retorna às Telonas: Joseph Kosinski, Diretor de Top Gun: Maverick,
+  Pode Comandar o Novo Filme
+slug: miami-vice-diretor-de-top-gun-maverick-pode-dirigir-novo-filme-diz-insider
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/p-u-gx1VU9hWdO1gKEJOFw7ecb4=/987x0/smart/uploads/conteudo/fotos/miami-vice.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QvVVdR8t_35eL3yMefXdYt_4d_w=/480x360/smart/extras/conteudos/miamivice.jpg
+tags:
+  - Miami Vice
+  - Joseph Kosinski
+  - filme
+  - cinema
+  - Dan Gilroy
+  - série policial
+  - 'Top Gun: Maverick'
+keywords: >-
+  Miami Vice, Joseph Kosinski, filme, cinema, Dan Gilroy, série policial, Top
+  Gun: Maverick
+author: Pablo Moura
+data: '2025-04-21T23:18:28.088Z'
+resumo: >-
+  O icônico seriado policial Miami Vice pode receber uma adaptação
+  cinematográfica dirigida por Joseph Kosinski, com roteiro de Dan Gilroy.
 ---
 
 A renomada série policial dos anos 80, Miami Vice, conhecida por sua influência estilística e narrativa inovadora, está potencialmente se preparando para uma nova incursão no cinema. Segundo informações do insider Daniel Ritchman, conhecido como DanielRPK, Joseph Kosinski — celebrado por seu trabalho em 'Top Gun: Maverick' e 'F1' — está em negociações preliminares para dirigir o projeto. O filme anterior de Miami Vice, que contou com Colin Farrell e Jamie Foxx, foi dirigido por Michael Mann em 2006.

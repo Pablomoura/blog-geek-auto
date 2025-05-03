@@ -1,14 +1,31 @@
 ---
-title: "Michael B. Jordan Celebra Sucesso de 'Pecadores', que Ruma aos $100 Milhões em Bilheteria"
-slug: "pecadores-michael-b-jordan-agradece-pblico-em-vdeo-nas-redes-sociais"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/UtbFqgm334ayzsAEe5F6ZtBoqCs=/987x0/smart/uploads/conteudo/fotos/pecadores_o6gEHEr.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/_retXlvvOtnsKj0KQ3CMWvacDLA=/480x360/smart/extras/conteudos/pecadores_W9ltFkr.jpg"
-tags: ["Michael B. Jordan", "Pecadores", "Ryan Coogler", "bilheteria", "filme", "thriller sobrenatural", "cinema"]
-keywords: "Michael B. Jordan, Pecadores, Ryan Coogler, bilheteria, filme, thriller sobrenatural, cinema"
-author: "Luana Souza"
-data: "2025-04-26T21:17:10.753Z"
+title: >-
+  Michael B. Jordan Celebra Sucesso de 'Pecadores', que Ruma aos $100 Milhões em
+  Bilheteria
+slug: pecadores-michael-b-jordan-agradece-pblico-em-vdeo-nas-redes-sociais
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/UtbFqgm334ayzsAEe5F6ZtBoqCs=/987x0/smart/uploads/conteudo/fotos/pecadores_o6gEHEr.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/_retXlvvOtnsKj0KQ3CMWvacDLA=/480x360/smart/extras/conteudos/pecadores_W9ltFkr.jpg
+tags:
+  - Michael B. Jordan
+  - Pecadores
+  - Ryan Coogler
+  - bilheteria
+  - filme
+  - thriller sobrenatural
+  - cinema
+keywords: >-
+  Michael B. Jordan, Pecadores, Ryan Coogler, bilheteria, filme, thriller
+  sobrenatural, cinema
+author: Luana Souza
+data: '2025-04-26T21:17:10.753Z'
+resumo: >-
+  Michael B. Jordan expressa gratidão aos fãs pelo sucesso de 'Pecadores', o
+  novo thriller de Ryan Coogler que promete ultrapassar os $100 milhões nas
+  bilheterias americanas.
 ---
 
 ## Michael B. Jordan Agradece Apoio dos Fãs

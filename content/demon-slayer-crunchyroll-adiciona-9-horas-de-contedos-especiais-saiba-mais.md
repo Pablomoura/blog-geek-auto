@@ -1,14 +1,30 @@
 ---
-title: "Crunchyroll Expande Universo de Demon Slayer com 9 Horas de Conteúdos Especiais"
-slug: "demon-slayer-crunchyroll-adiciona-9-horas-de-contedos-especiais-saiba-mais"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/WXNqhOZRHaI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/BgjjEV5PSTqAjjEwqZy0bViGnJs=/480x360/smart/extras/conteudos/demonslayer_hbHFzBG.jpg"
-tags: ["Crunchyroll", "Demon Slayer", "anime", "streaming", "conteúdo especial", "trilogia de filmes", "Tanjiro Kamado"]
-keywords: "Crunchyroll, Demon Slayer, anime, streaming, conteúdo especial, trilogia de filmes, Tanjiro Kamado"
-author: "Ana Luiza"
-data: "2025-05-03T15:18:01.500Z"
+title: >-
+  Crunchyroll Expande Universo de Demon Slayer com 9 Horas de Conteúdos
+  Especiais
+slug: demon-slayer-crunchyroll-adiciona-9-horas-de-contedos-especiais-saiba-mais
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/WXNqhOZRHaI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/BgjjEV5PSTqAjjEwqZy0bViGnJs=/480x360/smart/extras/conteudos/demonslayer_hbHFzBG.jpg
+tags:
+  - Crunchyroll
+  - Demon Slayer
+  - anime
+  - streaming
+  - conteúdo especial
+  - trilogia de filmes
+  - Tanjiro Kamado
+keywords: >-
+  Crunchyroll, Demon Slayer, anime, streaming, conteúdo especial, trilogia de
+  filmes, Tanjiro Kamado
+author: Ana Luiza
+data: '2025-05-03T15:18:01.500Z'
+resumo: >-
+  Crunchyroll enriquece a experiência de Demon Slayer com cinco episódios
+  especiais que resumem a primeira temporada, totalizando nove horas de conteúdo
+  exclusivo para assinantes.
 ---
 
 ## Crunchyroll Apresenta Conteúdo Exclusivo de Demon Slayer

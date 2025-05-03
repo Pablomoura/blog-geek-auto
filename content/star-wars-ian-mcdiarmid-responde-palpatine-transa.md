@@ -1,14 +1,28 @@
 ---
-title: "Ian McDiarmid Esclarece: Palpatine Tem Vida Amorosa em Star Wars?"
-slug: "star-wars-ian-mcdiarmid-responde-palpatine-transa"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/dGNbHTGxRSKyw8KpiucYqVKCf8E=/987x0/smart/uploads/conteudo/fotos/palpatinerindo.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/r85phYgsLe65x9EV9DLh4LM0RSg=/480x360/smart/extras/conteudos/palpatinerindo.jpg"
-tags: ["Ian McDiarmid", "Palpatine", "Star Wars", "A Ascensão Skywalker", "Rey", "descendência", "entrevista"]
-keywords: "Ian McDiarmid, Palpatine, Star Wars, A Ascensão Skywalker, Rey, descendência, entrevista"
-author: "Pablo Moura"
-data: "2025-04-27T16:22:11.920Z"
+title: 'Ian McDiarmid Esclarece: Palpatine Tem Vida Amorosa em Star Wars?'
+slug: star-wars-ian-mcdiarmid-responde-palpatine-transa
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/dGNbHTGxRSKyw8KpiucYqVKCf8E=/987x0/smart/uploads/conteudo/fotos/palpatinerindo.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/r85phYgsLe65x9EV9DLh4LM0RSg=/480x360/smart/extras/conteudos/palpatinerindo.jpg
+tags:
+  - Ian McDiarmid
+  - Palpatine
+  - Star Wars
+  - A Ascensão Skywalker
+  - Rey
+  - descendência
+  - entrevista
+keywords: >-
+  Ian McDiarmid, Palpatine, Star Wars, A Ascensão Skywalker, Rey, descendência,
+  entrevista
+author: Pablo Moura
+data: '2025-04-27T16:22:11.920Z'
+resumo: >-
+  Ian McDiarmid, intérprete do Imperador Palpatine, discute a intrigante questão
+  da paternidade de Rey em 'Star Wars: A Ascensão Skywalker'.
 ---
 
 ## O Mistério da Linhagem de Rey Revelado por Ian McDiarmid

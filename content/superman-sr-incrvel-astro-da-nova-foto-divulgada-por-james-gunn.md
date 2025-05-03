@@ -1,14 +1,31 @@
 ---
-title: "James Gunn Celebra o Aniversário de Sr. Incrível com Nova Foto dos Bastidores de Superman"
-slug: "superman-sr-incrvel-astro-da-nova-foto-divulgada-por-james-gunn"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/DmY6SLXm4Ao?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/9cZCeCC2XCS8QfYHcHt3FkR6P8k=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_121802.png"
-tags: ["Superman", "James Gunn", "Sr. Incrível", "Edi Gathegi", "DCU", "Clark Kent", "Metrópolis", "filme de super-heróis", "especial-Superman"]
-keywords: "Superman, James Gunn, Sr. Incrível, Edi Gathegi, DCU, Clark Kent, Metrópolis, filme de super-heróis"
-author: "Ana Luiza"
-data: "2025-04-30T16:25:29.953Z"
+title: >-
+  James Gunn Celebra o Aniversário de Sr. Incrível com Nova Foto dos Bastidores
+  de Superman
+slug: superman-sr-incrvel-astro-da-nova-foto-divulgada-por-james-gunn
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/DmY6SLXm4Ao?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/9cZCeCC2XCS8QfYHcHt3FkR6P8k=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_121802.png
+tags:
+  - Superman
+  - James Gunn
+  - Sr. Incrível
+  - Edi Gathegi
+  - DCU
+  - Clark Kent
+  - Metrópolis
+  - filme de super-heróis
+  - especial-Superman
+keywords: >-
+  Superman, James Gunn, Sr. Incrível, Edi Gathegi, DCU, Clark Kent, Metrópolis,
+  filme de super-heróis
+author: Ana Luiza
+data: '2025-04-30T16:25:29.953Z'
+resumo: >-
+  James Gunn compartilha uma nova imagem exclusiva do Sr. Incrível, interpretado
+  por Edi Gathegi, nos bastidores do aguardado filme Superman.
 ---
 
 ## Bastidores de Superman Revelam Sr. Incrível

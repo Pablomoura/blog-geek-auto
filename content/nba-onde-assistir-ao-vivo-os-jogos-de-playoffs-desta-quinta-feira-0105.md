@@ -1,14 +1,34 @@
 ---
-title: "Playoffs da NBA 2024: Horários e Onde Assistir os Jogos Decisivos de 1º de Maio"
-slug: "nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-desta-quinta-feira-0105"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/xLpfbDB0hvAWra5oZ3Zqrvo0GU8=/987x0/smart/uploads/conteudo/fotos/zubac-jokic-playoffs-nba.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/DJwCrKR-4wUIqQwIbgUn9Gh7AMs=/480x360/smart/extras/conteudos/zubac-jokic-playoffs-nba-peq.jpg"
-tags: ["NBA Playoffs 2024", "New York Knicks", "Denver Nuggets", "Detroit Pistons", "Los Angeles Clippers", "onde assistir NBA", "NBA League Pass", "Prime Video", "jogos NBA maio"]
-keywords: "NBA Playoffs 2024, New York Knicks, Denver Nuggets, Detroit Pistons, Los Angeles Clippers, onde assistir NBA, NBA League Pass, Prime Video, jogos NBA maio"
-author: "Luana Souza"
-data: "2025-05-01T11:16:22.485Z"
+title: >-
+  Playoffs da NBA 2024: Horários e Onde Assistir os Jogos Decisivos de 1º de
+  Maio
+slug: nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-desta-quinta-feira-0105
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/xLpfbDB0hvAWra5oZ3Zqrvo0GU8=/987x0/smart/uploads/conteudo/fotos/zubac-jokic-playoffs-nba.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/DJwCrKR-4wUIqQwIbgUn9Gh7AMs=/480x360/smart/extras/conteudos/zubac-jokic-playoffs-nba-peq.jpg
+tags:
+  - NBA Playoffs 2024
+  - New York Knicks
+  - Denver Nuggets
+  - Detroit Pistons
+  - Los Angeles Clippers
+  - onde assistir NBA
+  - NBA League Pass
+  - Prime Video
+  - jogos NBA maio
+keywords: >-
+  NBA Playoffs 2024, New York Knicks, Denver Nuggets, Detroit Pistons, Los
+  Angeles Clippers, onde assistir NBA, NBA League Pass, Prime Video, jogos NBA
+  maio
+author: Luana Souza
+data: '2025-05-01T11:16:22.485Z'
+resumo: >-
+  Descubra onde e quando sintonizar para não perder os emocionantes confrontos
+  de playoffs da NBA nesta quinta-feira, incluindo duelos cruciais entre Knicks
+  vs. Pistons e Nuggets vs. Clippers.
 ---
 
 ## Playoffs da NBA: Confrontos Chave em 1º de Maio

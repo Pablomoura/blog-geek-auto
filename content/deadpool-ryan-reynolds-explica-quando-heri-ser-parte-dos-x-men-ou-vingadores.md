@@ -1,14 +1,29 @@
 ---
-title: "Ryan Reynolds Discute o Futuro de Deadpool nos X-Men e Vingadores"
-slug: "deadpool-ryan-reynolds-explica-quando-heri-ser-parte-dos-x-men-ou-vingadores"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/fHgC1yk1VTQPDJRKGq7EBIcTCTI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-24T125122.009.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/D3GUxNZ4qPznSBzHCOLaMDiDh9Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T125109.050.png"
-tags: ["Ryan Reynolds", "Deadpool", "X-Men", "Vingadores", "MCU", "Deadpool & Wolverine", "Ryan Gosling", "Vingadores: Doomsday"]
-keywords: "Ryan Reynolds, Deadpool, X-Men, Vingadores, MCU, Deadpool & Wolverine, Ryan Gosling, Vingadores: Doomsday"
-author: "Luana Souza"
-data: "2025-04-24T16:25:12.921Z"
+title: Ryan Reynolds Discute o Futuro de Deadpool nos X-Men e Vingadores
+slug: deadpool-ryan-reynolds-explica-quando-heri-ser-parte-dos-x-men-ou-vingadores
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/fHgC1yk1VTQPDJRKGq7EBIcTCTI=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-24T125122.009.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/D3GUxNZ4qPznSBzHCOLaMDiDh9Y=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T125109.050.png
+tags:
+  - Ryan Reynolds
+  - Deadpool
+  - X-Men
+  - Vingadores
+  - MCU
+  - Deadpool & Wolverine
+  - Ryan Gosling
+  - 'Vingadores: Doomsday'
+keywords: >-
+  Ryan Reynolds, Deadpool, X-Men, Vingadores, MCU, Deadpool & Wolverine, Ryan
+  Gosling, Vingadores: Doomsday
+author: Luana Souza
+data: '2025-04-24T16:25:12.921Z'
+resumo: >-
+  Ryan Reynolds compartilha insights sobre a possibilidade de Deadpool se juntar
+  aos Vingadores ou X-Men, sugerindo um destino épico para o personagem.
 ---
 
 **Ryan Reynolds revela o destino de Deadpool entre os heróis mais icônicos**

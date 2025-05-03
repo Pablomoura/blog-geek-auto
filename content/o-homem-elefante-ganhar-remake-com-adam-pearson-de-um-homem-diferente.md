@@ -1,14 +1,37 @@
 ---
-title: "Adam Pearson Estrelará o Remake de 'O Homem Elefante' com Início de Produção em 2026"
-slug: "o-homem-elefante-ganhar-remake-com-adam-pearson-de-um-homem-diferente"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/vnV91zmjTMu_ItoB0up2CTox7-g=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T122850.034.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/HgrzUX3Nv-HLsBuZiUZz0rHryog=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T123141.850.png"
-tags: ["O Homem Elefante", "Adam Pearson", "Joseph Merrick", "Bernard Pomerance", "Moby Pomerance", "Frederick Treves", "David Lynch", "Um Homem Diferente", "Sebastian Stan", "cinema", "filme", "biografia"]
-keywords: "O Homem Elefante, Adam Pearson, Joseph Merrick, Bernard Pomerance, Moby Pomerance, Frederick Treves, David Lynch, Um Homem Diferente, Sebastian Stan, cinema, filme, biografia"
-author: "Ana Luiza"
-data: "2025-05-01T16:26:26.587Z"
+title: >-
+  Adam Pearson Estrelará o Remake de 'O Homem Elefante' com Início de Produção
+  em 2026
+slug: o-homem-elefante-ganhar-remake-com-adam-pearson-de-um-homem-diferente
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/vnV91zmjTMu_ItoB0up2CTox7-g=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T122850.034.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/HgrzUX3Nv-HLsBuZiUZz0rHryog=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T123141.850.png
+tags:
+  - O Homem Elefante
+  - Adam Pearson
+  - Joseph Merrick
+  - Bernard Pomerance
+  - Moby Pomerance
+  - Frederick Treves
+  - David Lynch
+  - Um Homem Diferente
+  - Sebastian Stan
+  - cinema
+  - filme
+  - biografia
+keywords: >-
+  O Homem Elefante, Adam Pearson, Joseph Merrick, Bernard Pomerance, Moby
+  Pomerance, Frederick Treves, David Lynch, Um Homem Diferente, Sebastian Stan,
+  cinema, filme, biografia
+author: Ana Luiza
+data: '2025-05-01T16:26:26.587Z'
+resumo: >-
+  A icônica história de Joseph Merrick, 'O Homem Elefante', será recontada em um
+  novo filme protagonizado por Adam Pearson, com filmagens previstas para
+  começar em 2026.
 ---
 
 ## 'O Homem Elefante' Retorna às Telas com Novo Elenco

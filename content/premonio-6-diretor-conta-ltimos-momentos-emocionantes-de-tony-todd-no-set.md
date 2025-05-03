@@ -1,14 +1,27 @@
 ---
-title: "Premonição 6: O Emocionante Adeus de Tony Todd na Franquia de Terror"
-slug: "premonio-6-diretor-conta-ltimos-momentos-emocionantes-de-tony-todd-no-set"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/iDdJ0hEJgT4DKIcgChCU3Vb-gbs=/987x0/smart/uploads/conteudo/fotos/tony-todd-premonicao-6.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/qcksQGLOOwy22Pabt1vwiMmB1vs=/480x360/smart/extras/conteudos/premonicao-6.png"
-tags: ["Premonição 6", "Tony Todd", "Laços de Sangue", "Adam B. Stein", "filme de terror", "estreia de cinema"]
-keywords: "Premonição 6, Tony Todd, Laços de Sangue, Adam B. Stein, filme de terror, estreia de cinema"
-author: "Luana Souza"
-data: "2025-05-02T20:21:57.739Z"
+title: 'Premonição 6: O Emocionante Adeus de Tony Todd na Franquia de Terror'
+slug: premonio-6-diretor-conta-ltimos-momentos-emocionantes-de-tony-todd-no-set
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/iDdJ0hEJgT4DKIcgChCU3Vb-gbs=/987x0/smart/uploads/conteudo/fotos/tony-todd-premonicao-6.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/qcksQGLOOwy22Pabt1vwiMmB1vs=/480x360/smart/extras/conteudos/premonicao-6.png
+tags:
+  - Premonição 6
+  - Tony Todd
+  - Laços de Sangue
+  - Adam B. Stein
+  - filme de terror
+  - estreia de cinema
+keywords: >-
+  Premonição 6, Tony Todd, Laços de Sangue, Adam B. Stein, filme de terror,
+  estreia de cinema
+author: Luana Souza
+data: '2025-05-02T20:21:57.739Z'
+resumo: >-
+  Marcando a despedida de Tony Todd, 'Premonição 6: Laços de Sangue' chega aos
+  cinemas em 15 de maio, trazendo uma performance final inesquecível do ator.
 ---
 
 ## 'Premonição 6: Laços de Sangue' Estreia em Maio

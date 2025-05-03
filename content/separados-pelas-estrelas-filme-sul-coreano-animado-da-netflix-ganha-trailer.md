@@ -1,14 +1,29 @@
 ---
-title: "Separados pelas Estrelas: Netflix lança trailer de seu primeiro filme animado sul-coreano"
-slug: "separados-pelas-estrelas-filme-sul-coreano-animado-da-netflix-ganha-trailer"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/pV_-COLJOiY?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/fD-bsJZtgZhbEFxjdaHmColThd4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T125032.869.png"
-tags: ["Separados pelas Estrelas", "Netflix", "filme animado sul-coreano", "Han Ji-won", "Kim Tae-ri", "Hong Kyung", "animações sul-coreanas"]
-keywords: "Separados pelas Estrelas, Netflix, filme animado sul-coreano, Han Ji-won, Kim Tae-ri, Hong Kyung, animações sul-coreanas"
-author: "Ana Luiza"
-data: "2025-05-01T16:24:53.978Z"
+title: >-
+  Separados pelas Estrelas: Netflix lança trailer de seu primeiro filme animado
+  sul-coreano
+slug: separados-pelas-estrelas-filme-sul-coreano-animado-da-netflix-ganha-trailer
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/pV_-COLJOiY?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/fD-bsJZtgZhbEFxjdaHmColThd4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T125032.869.png
+tags:
+  - Separados pelas Estrelas
+  - Netflix
+  - filme animado sul-coreano
+  - Han Ji-won
+  - Kim Tae-ri
+  - Hong Kyung
+  - animações sul-coreanas
+keywords: >-
+  Separados pelas Estrelas, Netflix, filme animado sul-coreano, Han Ji-won, Kim
+  Tae-ri, Hong Kyung, animações sul-coreanas
+author: Ana Luiza
+data: '2025-05-01T16:24:53.978Z'
+resumo: >-
+  Estreando em 30 de maio, o filme animado sul-coreano da Netflix, 'Separados
+  pelas Estrelas', promete uma emocionante história de amor interplanetário.
 ---
 
 ## 'Separados pelas Estrelas' estreia em maio na Netflix

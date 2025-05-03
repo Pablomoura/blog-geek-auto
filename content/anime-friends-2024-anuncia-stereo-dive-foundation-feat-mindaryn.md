@@ -1,14 +1,30 @@
 ---
-title: "Anime Friends 2025 em São Paulo: Atrações Imperdíveis e Ingressos à Venda!"
-slug: "anime-friends-2024-anuncia-stereo-dive-foundation-feat-mindaryn"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/K_Io75y-MyGDHddSOlyPXO1pZrA=/987x0/smart/uploads/conteudo/fotos/rt2.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/zQ9ZVxqzBWbLO4BF23WiWAQ6e7U=/480x360/smart/extras/conteudos/artwork-600x315.png"
-tags: ["Anime Friends 2025", "Stereo Dive Foundation", "seven oops", "Nightmare", "Flow", "cultura japonesa", "animes", "São Paulo"]
-keywords: "Anime Friends 2025, Stereo Dive Foundation, seven oops, Nightmare, Flow, cultura japonesa, animes, São Paulo"
-author: "Luana Souza"
-data: "2025-04-30T22:18:19.814Z"
+title: 'Anime Friends 2025 em São Paulo: Atrações Imperdíveis e Ingressos à Venda!'
+slug: anime-friends-2024-anuncia-stereo-dive-foundation-feat-mindaryn
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/K_Io75y-MyGDHddSOlyPXO1pZrA=/987x0/smart/uploads/conteudo/fotos/rt2.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/zQ9ZVxqzBWbLO4BF23WiWAQ6e7U=/480x360/smart/extras/conteudos/artwork-600x315.png
+tags:
+  - Anime Friends 2025
+  - Stereo Dive Foundation
+  - seven oops
+  - Nightmare
+  - Flow
+  - cultura japonesa
+  - animes
+  - São Paulo
+keywords: >-
+  Anime Friends 2025, Stereo Dive Foundation, seven oops, Nightmare, Flow,
+  cultura japonesa, animes, São Paulo
+author: Luana Souza
+data: '2025-04-30T22:18:19.814Z'
+resumo: >-
+  O Anime Friends 2025, que ocorrerá em São Paulo, traz grandes nomes como
+  Stereo Dive Foundation e a banda Flow, prometendo agitar os fãs de animes com
+  música ao vivo e muita cultura oriental.
 ---
 
 ## Anime Friends 2025: Programação e Atrações

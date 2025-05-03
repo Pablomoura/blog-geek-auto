@@ -1,14 +1,29 @@
 ---
-title: "Sean Baker Inicia Preparativos para Novo Filme sobre Trabalhadora Sexual"
-slug: "novo-filme-de-sean-baker-deve-comear-a-filmar-em-setembro"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/W4lWi3R9GOYT3Ulc8FAvaIncOHw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T215222.497.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/B9Kl29UaVVg92VPUjjYc2-dtSRw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T215222.497.png"
-tags: ["Sean Baker", "novo filme Sean Baker", "Anora", "trabalhadora sexual", "cinema", "indústria cinematográfica", "filmes sobre prostituição"]
-keywords: "Sean Baker, novo filme Sean Baker, Anora, trabalhadora sexual, cinema, indústria cinematográfica, filmes sobre prostituição"
-author: "Luana Souza"
-data: "2025-04-29T01:23:53.410Z"
+title: Sean Baker Inicia Preparativos para Novo Filme sobre Trabalhadora Sexual
+slug: novo-filme-de-sean-baker-deve-comear-a-filmar-em-setembro
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/W4lWi3R9GOYT3Ulc8FAvaIncOHw=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-28T215222.497.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/B9Kl29UaVVg92VPUjjYc2-dtSRw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-28T215222.497.png
+tags:
+  - Sean Baker
+  - novo filme Sean Baker
+  - Anora
+  - trabalhadora sexual
+  - cinema
+  - indústria cinematográfica
+  - filmes sobre prostituição
+keywords: >-
+  Sean Baker, novo filme Sean Baker, Anora, trabalhadora sexual, cinema,
+  indústria cinematográfica, filmes sobre prostituição
+author: Luana Souza
+data: '2025-04-29T01:23:53.410Z'
+resumo: >-
+  O aclamado diretor Sean Baker, ganhador do Oscar, está se preparando para
+  filmar seu próximo projeto, que promete explorar novamente a temática das
+  trabalhadoras sexuais.
 ---
 
 ## Novo Projeto de Sean Baker em Desenvolvimento

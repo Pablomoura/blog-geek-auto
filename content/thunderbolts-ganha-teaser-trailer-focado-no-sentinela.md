@@ -1,14 +1,27 @@
 ---
-title: "Thunderbolts: Novo Teaser Revela Poderes de Sentinela em Detalhe"
-slug: "thunderbolts-ganha-teaser-trailer-focado-no-sentinela"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/HhfqjFVevMM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/qKbWtXlnDdhMLeBmy_rLT2m-9qw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_173430.png"
-tags: ["Thunderbolts", "MCU", "Sentinela", "Marvel", "Filme de super-heróis", "Teaser trailer", "Anti-heróis"]
-keywords: "Thunderbolts, MCU, Sentinela, Marvel, Filme de super-heróis, Teaser trailer, Anti-heróis"
-author: "Ana Luiza"
-data: "2025-04-28T21:16:58.239Z"
+title: 'Thunderbolts: Novo Teaser Revela Poderes de Sentinela em Detalhe'
+slug: thunderbolts-ganha-teaser-trailer-focado-no-sentinela
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/HhfqjFVevMM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/qKbWtXlnDdhMLeBmy_rLT2m-9qw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_173430.png
+tags:
+  - Thunderbolts
+  - MCU
+  - Sentinela
+  - Marvel
+  - Filme de super-heróis
+  - Teaser trailer
+  - Anti-heróis
+keywords: >-
+  Thunderbolts, MCU, Sentinela, Marvel, Filme de super-heróis, Teaser trailer,
+  Anti-heróis
+author: Ana Luiza
+data: '2025-04-28T21:16:58.239Z'
+resumo: >-
+  O filme Thunderbolts do MCU destaca Bob, o Sentinela, em seu mais recente
+  teaser, prometendo surpresas e desafios para a equipe de anti-heróis.
 ---
 
 ## Sentinela Brilha em Novo Teaser de Thunderbolts

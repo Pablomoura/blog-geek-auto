@@ -1,14 +1,29 @@
 ---
-title: "Fortnite Lança Skin de Stormtrooper Gratuita em Nova Temporada Temática de Star Wars"
-slug: "fortnite-ganha-skin-grtis-de-star-wars-veja-como-resgatar"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/v_QlTpP8u6U?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/1Z5GHSJioYCfF-ybOgOaVJ0mBxI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T193615.163.png"
-tags: ["Fortnite", "skin gratuita", "Star Wars", "temporada de Fortnite", "Galactic Battle", "Stormtrooper", "Epic Games"]
-keywords: "Fortnite, skin gratuita, Star Wars, temporada de Fortnite, Galactic Battle, Stormtrooper, Epic Games"
-author: "Ana Luiza"
-data: "2025-04-29T23:18:16.046Z"
+title: >-
+  Fortnite Lança Skin de Stormtrooper Gratuita em Nova Temporada Temática de
+  Star Wars
+slug: fortnite-ganha-skin-grtis-de-star-wars-veja-como-resgatar
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/v_QlTpP8u6U?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/1Z5GHSJioYCfF-ybOgOaVJ0mBxI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T193615.163.png
+tags:
+  - Fortnite
+  - skin gratuita
+  - Star Wars
+  - temporada de Fortnite
+  - Galactic Battle
+  - Stormtrooper
+  - Epic Games
+keywords: >-
+  Fortnite, skin gratuita, Star Wars, temporada de Fortnite, Galactic Battle,
+  Stormtrooper, Epic Games
+author: Ana Luiza
+data: '2025-04-29T23:18:16.046Z'
+resumo: >-
+  A nova temporada de Fortnite, Galactic Battle, traz uma skin de Stormtrooper
+  gratuita e um calendário temático de Star Wars cheio de eventos.
 ---
 
 ## Conquiste Sua Skin de Stormtrooper Gratuita no Fortnite

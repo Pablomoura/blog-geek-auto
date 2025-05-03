@@ -1,14 +1,28 @@
 ---
-title: "Playoffs NBA 2024-25: Horários e Onde Assistir os Jogos Deste 25 de Abril"
-slug: "nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-desta-sexta-feira-2504"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/UGtqxZWrSBn00EBDX-y9jqcvFrg=/987x0/smart/uploads/conteudo/fotos/playoffs-nba-luka-doncic-25-04.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/wyQ3ed2brzRkAkfr4jeNfrZYIG0=/480x360/smart/extras/conteudos/playoffs-nba-luka-doncic-25-04-peq.jpg"
-tags: ["NBA", "Playoffs NBA 2024-25", "onde assistir NBA", "jogos NBA 25 abril", "ESPN", "NBA League Pass", "Disney+ Premium"]
-keywords: "NBA, Playoffs NBA 2024-25, onde assistir NBA, jogos NBA 25 abril, ESPN, NBA League Pass, Disney+ Premium"
-author: "Luana Souza"
-data: "2025-04-25T11:16:14.901Z"
+title: 'Playoffs NBA 2024-25: Horários e Onde Assistir os Jogos Deste 25 de Abril'
+slug: nba-onde-assistir-ao-vivo-os-jogos-de-playoffs-desta-sexta-feira-2504
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/UGtqxZWrSBn00EBDX-y9jqcvFrg=/987x0/smart/uploads/conteudo/fotos/playoffs-nba-luka-doncic-25-04.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/wyQ3ed2brzRkAkfr4jeNfrZYIG0=/480x360/smart/extras/conteudos/playoffs-nba-luka-doncic-25-04-peq.jpg
+tags:
+  - NBA
+  - Playoffs NBA 2024-25
+  - onde assistir NBA
+  - jogos NBA 25 abril
+  - ESPN
+  - NBA League Pass
+  - Disney+ Premium
+keywords: >-
+  NBA, Playoffs NBA 2024-25, onde assistir NBA, jogos NBA 25 abril, ESPN, NBA
+  League Pass, Disney+ Premium
+author: Luana Souza
+data: '2025-04-25T11:16:14.901Z'
+resumo: >-
+  Confira a programação e plataformas para não perder nenhum lance dos
+  emocionantes jogos dos Playoffs da NBA nesta sexta-feira.
 ---
 
 ## Playoffs NBA 2024-25: Uma Noite de Decisões

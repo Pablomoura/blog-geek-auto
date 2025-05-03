@@ -1,14 +1,32 @@
 ---
-title: "Warner Bros. Anuncia Sessões Especiais de 'Um Filme Minecraft' Permitindo Bagunça e Interatividade"
-slug: "um-filme-minecraft-warner-anuncia-sesses-do-filme-com-baguna-liberada"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/KMJRIh9k3g_gOI47yo1IMVq4j2c=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_172237.png"
-tags: ["Um Filme Minecraft", "Warner Bros", "sessões especiais", "cinema", "interatividade", "Block Party Edition", "Minecraft", "Jason Momoa", "Jack Black"]
-keywords: "Um Filme Minecraft, Warner Bros, sessões especiais, cinema, interatividade, Block Party Edition, Minecraft, Jason Momoa, Jack Black"
-author: "Pablo Moura"
-data: "2025-04-28T21:17:47.230Z"
+title: >-
+  Warner Bros. Anuncia Sessões Especiais de 'Um Filme Minecraft' Permitindo
+  Bagunça e Interatividade
+slug: um-filme-minecraft-warner-anuncia-sesses-do-filme-com-baguna-liberada
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/EVKYAAES6JQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/KMJRIh9k3g_gOI47yo1IMVq4j2c=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_172237.png
+tags:
+  - Um Filme Minecraft
+  - Warner Bros
+  - sessões especiais
+  - cinema
+  - interatividade
+  - Block Party Edition
+  - Minecraft
+  - Jason Momoa
+  - Jack Black
+keywords: >-
+  Um Filme Minecraft, Warner Bros, sessões especiais, cinema, interatividade,
+  Block Party Edition, Minecraft, Jason Momoa, Jack Black
+author: Pablo Moura
+data: '2025-04-28T21:17:47.230Z'
+resumo: >-
+  Em uma jogada ousada, a Warner Bros. transformará as exibições de 'Um Filme
+  Minecraft' em uma experiência interativa onde o público poderá cantar e
+  participar ativamente sem restrições.
 ---
 
 ## 'Um Filme Minecraft' Ganha Versão Interativa em Sessões Especiais

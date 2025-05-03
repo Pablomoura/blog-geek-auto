@@ -1,14 +1,28 @@
 ---
-title: "Michael B. Jordan Dirigirá e Estrelará o Reboot de 'Thomas Crown' com Estreia em 2027"
-slug: "thomas-crown-reboot-com-michael-b-jordan-ganha-data-de-estreia"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/b0criiy_8_Rviri0Kzh6JB4GKps=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-25T185753.927.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/9sP6y1sHaEUd_AOA0S6Xvoyz26w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T185753.927.png"
-tags: ["Thomas Crown", "Michael B. Jordan", "reboot", "filme de espionagem", "2027", "Imax"]
-keywords: "Thomas Crown, Michael B. Jordan, reboot, filme de espionagem, 2027, Imax"
-author: "Ana Luiza"
-data: "2025-04-25T23:18:07.140Z"
+title: >-
+  Michael B. Jordan Dirigirá e Estrelará o Reboot de 'Thomas Crown' com Estreia
+  em 2027
+slug: thomas-crown-reboot-com-michael-b-jordan-ganha-data-de-estreia
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/b0criiy_8_Rviri0Kzh6JB4GKps=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-25T185753.927.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/9sP6y1sHaEUd_AOA0S6Xvoyz26w=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-25T185753.927.png
+tags:
+  - Thomas Crown
+  - Michael B. Jordan
+  - reboot
+  - filme de espionagem
+  - '2027'
+  - Imax
+keywords: 'Thomas Crown, Michael B. Jordan, reboot, filme de espionagem, 2027, Imax'
+author: Ana Luiza
+data: '2025-04-25T23:18:07.140Z'
+resumo: >-
+  O aguardado reboot de 'Thomas Crown: A Arte do Crime', sob a direção de
+  Michael B. Jordan, tem estreia marcada para março de 2027 e promete renovar o
+  gênero de espionagem.
 ---
 
 ## 'Thomas Crown: A Arte do Crime' Retorna com Novo Brilho

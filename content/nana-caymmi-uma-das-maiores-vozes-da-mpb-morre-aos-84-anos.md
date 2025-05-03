@@ -1,14 +1,27 @@
 ---
-title: "Luto na MPB: Nana Caymmi, ícone da música brasileira, falece aos 84 anos"
-slug: "nana-caymmi-uma-das-maiores-vozes-da-mpb-morre-aos-84-anos"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/QLwiESC2r3v1UQ5iQrDShqp50-A=/987x0/smart/uploads/conteudo/fotos/nana-caymmi.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/d0j9QgKiD5J7ChcV-ipP22KStAU=/480x360/smart/extras/conteudos/nana-caymmi.jpg"
-tags: ["Nana Caymmi", "morte Nana Caymmi", "MPB", "música brasileira", "Dorival Caymmi", "cultura brasileira"]
-keywords: "Nana Caymmi, morte Nana Caymmi, MPB, música brasileira, Dorival Caymmi, cultura brasileira"
-author: "Ana Luiza"
-data: "2025-05-01T23:18:41.001Z"
+title: 'Luto na MPB: Nana Caymmi, ícone da música brasileira, falece aos 84 anos'
+slug: nana-caymmi-uma-das-maiores-vozes-da-mpb-morre-aos-84-anos
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/QLwiESC2r3v1UQ5iQrDShqp50-A=/987x0/smart/uploads/conteudo/fotos/nana-caymmi.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/d0j9QgKiD5J7ChcV-ipP22KStAU=/480x360/smart/extras/conteudos/nana-caymmi.jpg
+tags:
+  - Nana Caymmi
+  - morte Nana Caymmi
+  - MPB
+  - música brasileira
+  - Dorival Caymmi
+  - cultura brasileira
+keywords: >-
+  Nana Caymmi, morte Nana Caymmi, MPB, música brasileira, Dorival Caymmi,
+  cultura brasileira
+author: Ana Luiza
+data: '2025-05-01T23:18:41.001Z'
+resumo: >-
+  A renomada cantora Nana Caymmi, voz emblemática da Música Popular Brasileira,
+  morre após longa internação.
 ---
 
 ## Uma Despedida Sentida no Mundo da Música

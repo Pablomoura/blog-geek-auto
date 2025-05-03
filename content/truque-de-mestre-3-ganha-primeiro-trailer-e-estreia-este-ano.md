@@ -1,14 +1,30 @@
 ---
-title: "Truque de Mestre 3: O Retorno dos Mágicos e um Novo Golpe Audacioso"
-slug: "truque-de-mestre-3-ganha-primeiro-trailer-e-estreia-este-ano"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/-E3lMRx7HRQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/aAQ5Y1RixVLXyN86VZL7aJ7LuRU=/480x360/smart/extras/conteudos/opera_2025-04-29_14-06-37.jpg"
-tags: ["Truque de Mestre 3", "cinema", "trailer", "Jesse Eisenberg", "Rosamund Pike", "franquia de filmes", "magia", "roubo", "Lionsgate"]
-keywords: "Truque de Mestre 3, cinema, trailer, Jesse Eisenberg, Rosamund Pike, franquia de filmes, magia, roubo, Lionsgate"
-author: "Ana Luiza"
-data: "2025-04-29T17:18:34.159Z"
+title: 'Truque de Mestre 3: O Retorno dos Mágicos e um Novo Golpe Audacioso'
+slug: truque-de-mestre-3-ganha-primeiro-trailer-e-estreia-este-ano
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/-E3lMRx7HRQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/aAQ5Y1RixVLXyN86VZL7aJ7LuRU=/480x360/smart/extras/conteudos/opera_2025-04-29_14-06-37.jpg
+tags:
+  - Truque de Mestre 3
+  - cinema
+  - trailer
+  - Jesse Eisenberg
+  - Rosamund Pike
+  - franquia de filmes
+  - magia
+  - roubo
+  - Lionsgate
+keywords: >-
+  Truque de Mestre 3, cinema, trailer, Jesse Eisenberg, Rosamund Pike, franquia
+  de filmes, magia, roubo, Lionsgate
+author: Ana Luiza
+data: '2025-04-29T17:18:34.159Z'
+resumo: >-
+  O primeiro trailer de 'Truque de Mestre 3' revela magia, suspense e um elenco
+  estelar, prometendo mais uma aventura eletrizante nos cinemas em novembro de
+  2025.
 ---
 
 ## Revelado o Primeiro Trailer de Truque de Mestre 3

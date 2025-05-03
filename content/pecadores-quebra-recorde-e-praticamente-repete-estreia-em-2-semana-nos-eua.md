@@ -1,14 +1,30 @@
 ---
-title: "Pecadores Mantém Estabilidade Impressionante nas Bilheterias com Queda Mínima de 6%"
-slug: "pecadores-quebra-recorde-e-praticamente-repete-estreia-em-2-semana-nos-eua"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/wRTm8EnikwwvXsxDqTXraeLW1mQ=/987x0/smart/uploads/conteudo/fotos/pecadoresvariante_MWgg1FM.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/tMA1IetrMtg7RX2nRhou9IFDiUU=/480x360/smart/extras/conteudos/pecadoresvariante_UxiHBtd.jpg"
-tags: ["Pecadores", "Ryan Coogler", "bilheterias", "Michael B. Jordan", "filme de terror", "estreia de cinema"]
-keywords: "Pecadores, Ryan Coogler, bilheterias, Michael B. Jordan, filme de terror, estreia de cinema"
-author: "Luana Souza"
-data: "2025-04-27T16:21:19.338Z"
+title: >-
+  Pecadores Mantém Estabilidade Impressionante nas Bilheterias com Queda Mínima
+  de 6%
+slug: pecadores-quebra-recorde-e-praticamente-repete-estreia-em-2-semana-nos-eua
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/wRTm8EnikwwvXsxDqTXraeLW1mQ=/987x0/smart/uploads/conteudo/fotos/pecadoresvariante_MWgg1FM.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/tMA1IetrMtg7RX2nRhou9IFDiUU=/480x360/smart/extras/conteudos/pecadoresvariante_UxiHBtd.jpg
+tags:
+  - Pecadores
+  - Ryan Coogler
+  - bilheterias
+  - Michael B. Jordan
+  - filme de terror
+  - estreia de cinema
+keywords: >-
+  Pecadores, Ryan Coogler, bilheterias, Michael B. Jordan, filme de terror,
+  estreia de cinema
+author: Luana Souza
+data: '2025-04-27T16:21:19.338Z'
+resumo: >-
+  O filme de terror 'Pecadores', dirigido por Ryan Coogler, quase repete sua
+  receita de estreia na segunda semana nos EUA, demonstrando uma performance
+  notável.
 ---
 
 ## Sucesso Sustentado de 'Pecadores' Surpreende o Mercado

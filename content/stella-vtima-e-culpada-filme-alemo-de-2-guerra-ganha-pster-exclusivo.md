@@ -1,14 +1,28 @@
 ---
-title: "Stella: Vítima e Culpada | Drama da Segunda Guerra estreia em maio com Paula Beer"
-slug: "stella-vtima-e-culpada-filme-alemo-de-2-guerra-ganha-pster-exclusivo"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/dv7o9CRYOCmT5q8DOJR-XdEDJD8=/987x0/smart/uploads/conteudo/fotos/SnapInsta.to_495077088_18520925368032660_5526394428267753752_n.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/UOY07bwHV72nEHBwEn-xLxaB6FA=/480x360/smart/extras/conteudos/SnapInsta.to_495077088_18520925368032660_5526394428267753752_n.jpg"
-tags: ["Stella Vítima e Culpada", "Cinema", "Segunda Guerra Mundial", "Paula Beer", "Filmes 2023"]
-keywords: "Stella Vítima e Culpada, Cinema, Segunda Guerra Mundial, Paula Beer, Filmes 2023"
-author: "Luana Souza"
-data: "2025-04-30T20:23:03.763Z"
+title: >-
+  Stella: Vítima e Culpada | Drama da Segunda Guerra estreia em maio com Paula
+  Beer
+slug: stella-vtima-e-culpada-filme-alemo-de-2-guerra-ganha-pster-exclusivo
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/dv7o9CRYOCmT5q8DOJR-XdEDJD8=/987x0/smart/uploads/conteudo/fotos/SnapInsta.to_495077088_18520925368032660_5526394428267753752_n.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/UOY07bwHV72nEHBwEn-xLxaB6FA=/480x360/smart/extras/conteudos/SnapInsta.to_495077088_18520925368032660_5526394428267753752_n.jpg
+tags:
+  - Stella Vítima e Culpada
+  - Cinema
+  - Segunda Guerra Mundial
+  - Paula Beer
+  - Filmes 2023
+keywords: >-
+  Stella Vítima e Culpada, Cinema, Segunda Guerra Mundial, Paula Beer, Filmes
+  2023
+author: Luana Souza
+data: '2025-04-30T20:23:03.763Z'
+resumo: >-
+  O filme 'Stella: Vítima e Culpada' mergulha no dilema de uma jovem judia na
+  Berlim nazista. Estreia prevista para 29 de maio nos cinemas brasileiros.
 ---
 
 ## 'Stella: Vítima e Culpada' chega aos cinemas brasileiros

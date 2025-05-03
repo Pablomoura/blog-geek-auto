@@ -1,14 +1,28 @@
 ---
-title: "D.P.A. 4: O Fantástico Reino de Ondion Revela Pôster Novo e Data de Estreia"
-slug: "dpa-4-o-fantstico-reino-de-ondion-ganha-pster-exclusivo-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/3q3Lkn5M0a1rviD0tHCep3KNU08=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-30T112002.970.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/AatrqZlFAcmS9_vxdDur3fnwO7s=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T111816.605.png"
-tags: ["D.P.A. 4", "Detetives do Prédio Azul", "O Fantástico Reino de Ondion", "estreia de filme", "pôster de filme", "filmes infantis"]
-keywords: "D.P.A. 4, Detetives do Prédio Azul, O Fantástico Reino de Ondion, estreia de filme, pôster de filme, filmes infantis"
-author: "Ana Luiza"
-data: "2025-04-30T14:51:55.651Z"
+title: 'D.P.A. 4: O Fantástico Reino de Ondion Revela Pôster Novo e Data de Estreia'
+slug: dpa-4-o-fantstico-reino-de-ondion-ganha-pster-exclusivo-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/3q3Lkn5M0a1rviD0tHCep3KNU08=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-30T112002.970.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/AatrqZlFAcmS9_vxdDur3fnwO7s=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T111816.605.png
+tags:
+  - D.P.A. 4
+  - Detetives do Prédio Azul
+  - O Fantástico Reino de Ondion
+  - estreia de filme
+  - pôster de filme
+  - filmes infantis
+keywords: >-
+  D.P.A. 4, Detetives do Prédio Azul, O Fantástico Reino de Ondion, estreia de
+  filme, pôster de filme, filmes infantis
+author: Ana Luiza
+data: '2025-04-30T14:51:55.651Z'
+resumo: >-
+  O quarto filme da franquia Detetives do Prédio Azul, D.P.A. 4: O Fantástico
+  Reino de Ondion, estreia em 3 de julho e promete mais uma aventura mágica com
+  um pôster exclusivo já disponível.
 ---
 
 ## Sinopse Oficial de D.P.A. 4: O Fantástico Reino de Ondion

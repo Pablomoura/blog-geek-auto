@@ -1,14 +1,31 @@
 ---
-title: "LEGO Antecipa o Visual de Galactus no Novo 'Quarteto Fantástico': Confira os Detalhes!"
-slug: "quarteto-fantstico-conjunto-da-lego-revela-visual-de-galactus-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/-6AQLWabCUWgP5dy0-8WkIYZL3I=/987x0/smart/uploads/conteudo/fotos/quartetofantasticovariante2025_AP9vS6F.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fnJYZUseYxcVYXkZxR_q2Imw_lo=/480x360/smart/extras/conteudos/quartetofantasticovariante2025_wr6nPzp.jpg"
-tags: ["Quarteto Fantástico", "LEGO", "Galactus", "MCU", "Pedro Pascal", "Ralph Ineson", "Matt Shakman", "Vingadores"]
-keywords: "Quarteto Fantástico, LEGO, Galactus, MCU, Pedro Pascal, Ralph Ineson, Matt Shakman, Vingadores"
-author: "Pablo Moura"
-data: "2025-04-26T21:16:45.860Z"
+title: >-
+  LEGO Antecipa o Visual de Galactus no Novo 'Quarteto Fantástico': Confira os
+  Detalhes!
+slug: quarteto-fantstico-conjunto-da-lego-revela-visual-de-galactus-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/-6AQLWabCUWgP5dy0-8WkIYZL3I=/987x0/smart/uploads/conteudo/fotos/quartetofantasticovariante2025_AP9vS6F.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fnJYZUseYxcVYXkZxR_q2Imw_lo=/480x360/smart/extras/conteudos/quartetofantasticovariante2025_wr6nPzp.jpg
+tags:
+  - Quarteto Fantástico
+  - LEGO
+  - Galactus
+  - MCU
+  - Pedro Pascal
+  - Ralph Ineson
+  - Matt Shakman
+  - Vingadores
+keywords: >-
+  Quarteto Fantástico, LEGO, Galactus, MCU, Pedro Pascal, Ralph Ineson, Matt
+  Shakman, Vingadores
+author: Pablo Moura
+data: '2025-04-26T21:16:45.860Z'
+resumo: >-
+  O novo conjunto de LEGO revela o visual de Galactus e os heróis de 'Quarteto
+  Fantástico', que estreia em julho de 2025 no Brasil.
 ---
 
 ## LEGO Revela Surpresas do 'Quarteto Fantástico'

@@ -1,14 +1,30 @@
 ---
-title: "Jill Sobule, ícone dos anos 90 e voz de 'Supermodel', morre aos 66 anos após incêndio"
-slug: "morre-jill-sobule-cantora-de-supermodel-aos-66-anos"
-categoria: "MÚSICA"
-midia: "https://www.youtube.com/embed/65VOaMJOukk?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/_TxTggpOqvzmE0F-q33pVtwKC04=/480x360/smart/extras/conteudos/SnapInsta.to_486434664_18493917031030304_977978852179821728_n_29slzfX.jpg"
-tags: ["Jill Sobule", "Supermodel", "I Kissed a Girl", "incêndio", "música", "LGBTQIAPN+", "ativismo", "tragédia"]
-keywords: "Jill Sobule, Supermodel, I Kissed a Girl, incêndio, música, LGBTQIAPN+, ativismo, tragédia"
-author: "Ana Luiza"
-data: "2025-05-02T12:37:15.009Z"
+title: >-
+  Jill Sobule, ícone dos anos 90 e voz de 'Supermodel', morre aos 66 anos após
+  incêndio
+slug: morre-jill-sobule-cantora-de-supermodel-aos-66-anos
+categoria: MÚSICA
+midia: 'https://www.youtube.com/embed/65VOaMJOukk?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/_TxTggpOqvzmE0F-q33pVtwKC04=/480x360/smart/extras/conteudos/SnapInsta.to_486434664_18493917031030304_977978852179821728_n_29slzfX.jpg
+tags:
+  - Jill Sobule
+  - Supermodel
+  - I Kissed a Girl
+  - incêndio
+  - música
+  - LGBTQIAPN+
+  - ativismo
+  - tragédia
+keywords: >-
+  Jill Sobule, Supermodel, I Kissed a Girl, incêndio, música, LGBTQIAPN+,
+  ativismo, tragédia
+author: Ana Luiza
+data: '2025-05-02T12:37:15.009Z'
+resumo: >-
+  A talentosa Jill Sobule, conhecida por suas canções marcantes e ativismo
+  LGBTQIAPN+, faleceu tragicamente em um incêndio em sua residência.
 ---
 
 ## Tragédia abala o mundo da música: Jill Sobule perde a vida em incêndio doméstico

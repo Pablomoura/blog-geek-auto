@@ -1,14 +1,31 @@
 ---
-title: "Nova Série de Harry Potter na HBO Gera Polêmica e Expectativa"
-slug: "harry-potter-john-lithgow-defende-nova-srie-em-meio-a-crticas-a-jk-rowling"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/mgSgYWZxjtUjTXM8U6f9NbBWa2I=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T105253.560.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/mgSgYWZxjtUjTXM8U6f9NbBWa2I=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T105253.560.png"
-tags: ["Harry Potter", "HBO", "série nova", "John Lithgow", "J.K. Rowling", "transfobia", "David Fincher", "adaptação", "Max"]
-keywords: "Harry Potter, HBO, série nova, John Lithgow, J.K. Rowling, transfobia, David Fincher, adaptação, Max"
-author: "Pablo Moura"
-data: "2025-04-28T14:21:35.516Z"
+title: Nova Série de Harry Potter na HBO Gera Polêmica e Expectativa
+slug: harry-potter-john-lithgow-defende-nova-srie-em-meio-a-crticas-a-jk-rowling
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/mgSgYWZxjtUjTXM8U6f9NbBWa2I=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T105253.560.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/mgSgYWZxjtUjTXM8U6f9NbBWa2I=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T105253.560.png
+tags:
+  - Harry Potter
+  - HBO
+  - série nova
+  - John Lithgow
+  - J.K. Rowling
+  - transfobia
+  - David Fincher
+  - adaptação
+  - Max
+keywords: >-
+  Harry Potter, HBO, série nova, John Lithgow, J.K. Rowling, transfobia, David
+  Fincher, adaptação, Max
+author: Pablo Moura
+data: '2025-04-28T14:21:35.516Z'
+resumo: >-
+  John Lithgow, escalado para interpretar Dumbledore, defende a nova série de
+  Harry Potter que enfrenta críticas devido ao envolvimento de J.K. Rowling,
+  acusada de transfobia.
 ---
 
 ## John Lithgow Defende Nova Produção de Harry Potter

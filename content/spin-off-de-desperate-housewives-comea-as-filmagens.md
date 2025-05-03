@@ -1,14 +1,27 @@
 ---
-title: "Wisteria Lane: Spin-off de Desperate Housewives Inicia Filmagens"
-slug: "spin-off-de-desperate-housewives-comea-as-filmagens"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/9eSed_NUQNs?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/QrgM72Uhy1rnCq4Q1MDs2KZu8Kw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T200653.032.png"
-tags: ["Wisteria Lane", "Desperate Housewives", "Natalie Chaidez", "série spin-off", "20th Television", "mistério", "drama"]
-keywords: "Wisteria Lane, Desperate Housewives, Natalie Chaidez, série spin-off, 20th Television, mistério, drama"
-author: "Luana Souza"
-data: "2025-04-29T23:17:47.237Z"
+title: 'Wisteria Lane: Spin-off de Desperate Housewives Inicia Filmagens'
+slug: spin-off-de-desperate-housewives-comea-as-filmagens
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/9eSed_NUQNs?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/QrgM72Uhy1rnCq4Q1MDs2KZu8Kw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-29T200653.032.png
+tags:
+  - Wisteria Lane
+  - Desperate Housewives
+  - Natalie Chaidez
+  - série spin-off
+  - 20th Television
+  - mistério
+  - drama
+keywords: >-
+  Wisteria Lane, Desperate Housewives, Natalie Chaidez, série spin-off, 20th
+  Television, mistério, drama
+author: Luana Souza
+data: '2025-04-29T23:17:47.237Z'
+resumo: >-
+  A nova série Wisteria Lane, descrita como uma mistura de mistério e drama no
+  estilo de Desperate Housewives, começou suas filmagens.
 ---
 
 ## Wisteria Lane: O Retorno ao Universo de Desperate Housewives

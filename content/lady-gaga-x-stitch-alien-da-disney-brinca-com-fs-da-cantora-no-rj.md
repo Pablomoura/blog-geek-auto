@@ -1,14 +1,30 @@
 ---
-title: "Lady Gaga no RJ e Surpresa de Stitch: Encontro Inesperado em Copacabana"
-slug: "lady-gaga-x-stitch-alien-da-disney-brinca-com-fs-da-cantora-no-rj"
-categoria: "MÚSICA"
-midia: "https://cdn.ome.lt/4JHDW4q4mcL0x9_LVhFrAVoVSCw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-30T125034.714.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/C7rLPHZcNNwk0-Nc4Xhvssn6Ciw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T125450.772.png"
-tags: ["Lady Gaga", "Stitch", "Copacabana", "Lilo & Stitch", "Disney", "show gratuito", "live-action", "Rio de Janeiro"]
-keywords: "Lady Gaga, Stitch, Copacabana, Lilo & Stitch, Disney, show gratuito, live-action, Rio de Janeiro"
-author: "Luana Souza"
-data: "2025-04-30T16:24:00.327Z"
+title: 'Lady Gaga no RJ e Surpresa de Stitch: Encontro Inesperado em Copacabana'
+slug: lady-gaga-x-stitch-alien-da-disney-brinca-com-fs-da-cantora-no-rj
+categoria: MÚSICA
+midia: >-
+  https://cdn.ome.lt/4JHDW4q4mcL0x9_LVhFrAVoVSCw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-30T125034.714.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/C7rLPHZcNNwk0-Nc4Xhvssn6Ciw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-30T125450.772.png
+tags:
+  - Lady Gaga
+  - Stitch
+  - Copacabana
+  - Lilo & Stitch
+  - Disney
+  - show gratuito
+  - live-action
+  - Rio de Janeiro
+keywords: >-
+  Lady Gaga, Stitch, Copacabana, Lilo & Stitch, Disney, show gratuito,
+  live-action, Rio de Janeiro
+author: Luana Souza
+data: '2025-04-30T16:24:00.327Z'
+resumo: >-
+  Fãs de Lady Gaga no Rio de Janeiro foram surpreendidos por uma aparição do
+  personagem Stitch, promovendo o novo filme da Disney, enquanto aguardavam a
+  cantora.
 ---
 
 ## Surpresa Inusitada em Copacabana

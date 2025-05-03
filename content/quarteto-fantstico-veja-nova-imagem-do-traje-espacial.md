@@ -1,14 +1,32 @@
 ---
-title: "Revelada Nova Imagem de 'Quarteto Fantástico: Primeiros Passos' com Trajes Espaciais Estilizados"
-slug: "quarteto-fantstico-veja-nova-imagem-do-traje-espacial"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FXMgb_LSgXVJ3HLcfD0UIUvVACI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-24T194038.774_H6pie5g.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/XXUfbMohcUbYk3reo_5TPl0QxMA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T194038.774_UhDdRtS.png"
-tags: ["Quarteto Fantástico", "Pedro Pascal", "Vanessa Kirby", "MCU", "Marvel", "trajes espaciais", "Primeiros Passos", "cinema"]
-keywords: "Quarteto Fantástico, Pedro Pascal, Vanessa Kirby, MCU, Marvel, trajes espaciais, Primeiros Passos, cinema"
-author: "Luana Souza"
-data: "2025-04-28T23:19:16.544Z"
+title: >-
+  Revelada Nova Imagem de 'Quarteto Fantástico: Primeiros Passos' com Trajes
+  Espaciais Estilizados
+slug: quarteto-fantstico-veja-nova-imagem-do-traje-espacial
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FXMgb_LSgXVJ3HLcfD0UIUvVACI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-24T194038.774_H6pie5g.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/XXUfbMohcUbYk3reo_5TPl0QxMA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-24T194038.774_UhDdRtS.png
+tags:
+  - Quarteto Fantástico
+  - Pedro Pascal
+  - Vanessa Kirby
+  - MCU
+  - Marvel
+  - trajes espaciais
+  - Primeiros Passos
+  - cinema
+keywords: >-
+  Quarteto Fantástico, Pedro Pascal, Vanessa Kirby, MCU, Marvel, trajes
+  espaciais, Primeiros Passos, cinema
+author: Luana Souza
+data: '2025-04-28T23:19:16.544Z'
+resumo: >-
+  Pedro Pascal e Vanessa Kirby surgem em novos trajes espaciais na última imagem
+  divulgada de 'Quarteto Fantástico: Primeiros Passos', marcando uma nova era
+  para os heróis da Marvel.
 ---
 
 ## 'Quarteto Fantástico: Primeiros Passos' Apresenta Novos Uniformes

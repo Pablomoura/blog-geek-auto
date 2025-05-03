@@ -1,14 +1,29 @@
 ---
-title: "Predador: Badlands Anuncia Estreia para 2025 com Pistas de Crossover com Alien"
-slug: "predador-badlands-trailer-do-novo-filme-revela-conexo-com-alien"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/FLUyg0mP_Ww?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/kjHbNVg8RX248AXo5RqmHhvKD2k=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T134948.060.png"
-tags: ["Predador: Badlands", "Alien", "crossover", "Elle Fanning", "Dan Trachtenberg", "filme de terror", "franquia Predador", "Weyland Yutani"]
-keywords: "Predador: Badlands, Alien, crossover, Elle Fanning, Dan Trachtenberg, filme de terror, franquia Predador, Weyland Yutani"
-author: "Luana Souza"
-data: "2025-04-23T17:17:03.640Z"
+title: 'Predador: Badlands Anuncia Estreia para 2025 com Pistas de Crossover com Alien'
+slug: predador-badlands-trailer-do-novo-filme-revela-conexo-com-alien
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/FLUyg0mP_Ww?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/kjHbNVg8RX248AXo5RqmHhvKD2k=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-23T134948.060.png
+tags:
+  - 'Predador: Badlands'
+  - Alien
+  - crossover
+  - Elle Fanning
+  - Dan Trachtenberg
+  - filme de terror
+  - franquia Predador
+  - Weyland Yutani
+keywords: >-
+  Predador: Badlands, Alien, crossover, Elle Fanning, Dan Trachtenberg, filme de
+  terror, franquia Predador, Weyland Yutani
+author: Luana Souza
+data: '2025-04-23T17:17:03.640Z'
+resumo: >-
+  O novo trailer de 'Predador: Badlands' sugere uma possível conexão com o
+  universo de 'Alien', despertando expectativas para um crossover épico entre as
+  duas franquias icônicas.
 ---
 
 O universo de 'Predador' se expande com o lançamento de 'Predador: Badlands', agendado para 7 de novembro de 2025. O primeiro trailer do filme não apenas animou os fãs, mas também apresentou uma intrigante referência ao universo de 'Alien'. A marca da Weyland Yutani, notória corporação da saga Alien, foi vista nos olhos da personagem interpretada por Elle Fanning, indicando uma possível conexão entre as franquias. Ainda que um novo crossover não tenha sido oficialmente confirmado, as especulações já estão a todo vapor.

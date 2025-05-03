@@ -1,14 +1,31 @@
 ---
-title: "Homem-Aranha: Um Novo Dia Anuncia Retorno de J.K. Simmons e Mais Detalhes do Elenco"
-slug: "homem-aranha-um-novo-dia-jj-jameson-estar-no-filme-diz-insider"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/4e5_y9LplHbhFGYIH3nqk4f7it8=/987x0/smart/uploads/conteudo/fotos/homemaranhajjjameson.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/fvDhFtNleO6j9w-es6j5tnkDr1c=/480x360/smart/extras/conteudos/homemaranhajjjameson.jpg"
-tags: ["Homem-Aranha: Um Novo Dia", "J.K. Simmons", "Tom Holland", "Sadie Sink", "Zendaya", "Marvel", "cinema", "filmes de super-heróis"]
-keywords: "Homem-Aranha: Um Novo Dia, J.K. Simmons, Tom Holland, Sadie Sink, Zendaya, Marvel, cinema, filmes de super-heróis"
-author: "Ana Luiza"
-data: "2025-04-27T22:17:33.593Z"
+title: >-
+  Homem-Aranha: Um Novo Dia Anuncia Retorno de J.K. Simmons e Mais Detalhes do
+  Elenco
+slug: homem-aranha-um-novo-dia-jj-jameson-estar-no-filme-diz-insider
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/4e5_y9LplHbhFGYIH3nqk4f7it8=/987x0/smart/uploads/conteudo/fotos/homemaranhajjjameson.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/fvDhFtNleO6j9w-es6j5tnkDr1c=/480x360/smart/extras/conteudos/homemaranhajjjameson.jpg
+tags:
+  - 'Homem-Aranha: Um Novo Dia'
+  - J.K. Simmons
+  - Tom Holland
+  - Sadie Sink
+  - Zendaya
+  - Marvel
+  - cinema
+  - filmes de super-heróis
+keywords: >-
+  Homem-Aranha: Um Novo Dia, J.K. Simmons, Tom Holland, Sadie Sink, Zendaya,
+  Marvel, cinema, filmes de super-heróis
+author: Ana Luiza
+data: '2025-04-27T22:17:33.593Z'
+resumo: >-
+  J.K. Simmons reprisará seu papel icônico como J.J. Jameson em 'Homem-Aranha:
+  Um Novo Dia', que também explorará novas dimensões com um elenco estelar.
 ---
 
 ## J.K. Simmons Retorna como J.J. Jameson

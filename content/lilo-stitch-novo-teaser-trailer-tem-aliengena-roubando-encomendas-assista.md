@@ -1,14 +1,29 @@
 ---
-title: "Lilo & Stitch Retorna às Telonas: Novo Teaser Destaca Travessuras de Stitch"
-slug: "lilo-stitch-novo-teaser-trailer-tem-aliengena-roubando-encomendas-assista"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Vg8AWiFR6sElKJHrrQv4P_JnNMo=/987x0/smart/uploads/conteudo/fotos/lilo-stitch-capa-2_lejj9N4.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/PREMFJsVH8A3gb-fC8Td_gEoDBQ=/480x360/smart/extras/conteudos/lilo-e-stitch_1zGmtUU.jpg"
-tags: ["Lilo & Stitch", "live-action", "Disney", "teaser trailer", "Dean Fleischer Camp", "Chris Sanders", "Sydney Agudong", "estreia cinema"]
-keywords: "Lilo & Stitch, live-action, Disney, teaser trailer, Dean Fleischer Camp, Chris Sanders, Sydney Agudong, estreia cinema"
-author: "Pablo Moura"
-data: "2025-05-01T19:17:35.809Z"
+title: 'Lilo & Stitch Retorna às Telonas: Novo Teaser Destaca Travessuras de Stitch'
+slug: lilo-stitch-novo-teaser-trailer-tem-aliengena-roubando-encomendas-assista
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Vg8AWiFR6sElKJHrrQv4P_JnNMo=/987x0/smart/uploads/conteudo/fotos/lilo-stitch-capa-2_lejj9N4.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/PREMFJsVH8A3gb-fC8Td_gEoDBQ=/480x360/smart/extras/conteudos/lilo-e-stitch_1zGmtUU.jpg
+tags:
+  - Lilo & Stitch
+  - live-action
+  - Disney
+  - teaser trailer
+  - Dean Fleischer Camp
+  - Chris Sanders
+  - Sydney Agudong
+  - estreia cinema
+keywords: >-
+  Lilo & Stitch, live-action, Disney, teaser trailer, Dean Fleischer Camp, Chris
+  Sanders, Sydney Agudong, estreia cinema
+author: Pablo Moura
+data: '2025-05-01T19:17:35.809Z'
+resumo: >-
+  O aguardado live-action de Lilo & Stitch, dirigido por Dean Fleischer Camp,
+  promete revolucionar as bilheterias com sua estreia em 22 de maio.
 ---
 
 ## Lilo & Stitch: Uma Nova Aventura em Live-Action

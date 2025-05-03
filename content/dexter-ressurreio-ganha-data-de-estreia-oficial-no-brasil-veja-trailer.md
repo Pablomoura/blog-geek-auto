@@ -1,14 +1,26 @@
 ---
-title: "Dexter: Ressurreição Estreia no Brasil em 11 de Julho com Elenco Estelar"
-slug: "dexter-ressurreio-ganha-data-de-estreia-oficial-no-brasil-veja-trailer"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/XjyroRP0OHc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/-Yf1D-qTusYHCzkuCBh_G7vIufo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_141333.png"
-tags: ["Dexter Resurrection", "estreia Dexter Brasil", "Michael C. Hall", "elenco Dexter", "Paramount+"]
-keywords: "Dexter Resurrection, estreia Dexter Brasil, Michael C. Hall, elenco Dexter, Paramount+"
-author: "Pablo Moura"
-data: "2025-04-30T17:18:42.381Z"
+title: 'Dexter: Ressurreição Estreia no Brasil em 11 de Julho com Elenco Estelar'
+slug: dexter-ressurreio-ganha-data-de-estreia-oficial-no-brasil-veja-trailer
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/XjyroRP0OHc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/-Yf1D-qTusYHCzkuCBh_G7vIufo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_141333.png
+tags:
+  - Dexter Resurrection
+  - estreia Dexter Brasil
+  - Michael C. Hall
+  - elenco Dexter
+  - Paramount+
+keywords: >-
+  Dexter Resurrection, estreia Dexter Brasil, Michael C. Hall, elenco Dexter,
+  Paramount+
+author: Pablo Moura
+data: '2025-04-30T17:18:42.381Z'
+resumo: >-
+  A nova temporada de Dexter, intitulada 'Ressurreição', chega ao Brasil
+  simultaneamente aos EUA, prometendo redimir os erros do passado e trazendo
+  estrelas como Peter Dinklage e Uma Thurman.
 ---
 
 ## Dexter: Ressurreição - Uma Nova Chance para o Querido Serial Killer

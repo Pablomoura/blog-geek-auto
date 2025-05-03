@@ -1,14 +1,30 @@
 ---
-title: "Wandinha Retorna: Netflix Revela Pôster e Novidades do Elenco para a Segunda Temporada"
-slug: "wandinha-netflix-lana-pster-da-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/R_taczjSuS8?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/U4_Anb--Y8XFACjNXoGh4dJ0RCg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_161451.png"
-tags: ["Wandinha", "Netflix", "segunda temporada", "Jenna Ortega", "pôster", "novidades no elenco", "Lady Gaga", "Steve Buscemi"]
-keywords: "Wandinha, Netflix, segunda temporada, Jenna Ortega, pôster, novidades no elenco, Lady Gaga, Steve Buscemi"
-author: "Pablo Moura"
-data: "2025-04-21T20:22:02.875Z"
+title: >-
+  Wandinha Retorna: Netflix Revela Pôster e Novidades do Elenco para a Segunda
+  Temporada
+slug: wandinha-netflix-lana-pster-da-2-temporada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/R_taczjSuS8?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/U4_Anb--Y8XFACjNXoGh4dJ0RCg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-21_161451.png
+tags:
+  - Wandinha
+  - Netflix
+  - segunda temporada
+  - Jenna Ortega
+  - pôster
+  - novidades no elenco
+  - Lady Gaga
+  - Steve Buscemi
+keywords: >-
+  Wandinha, Netflix, segunda temporada, Jenna Ortega, pôster, novidades no
+  elenco, Lady Gaga, Steve Buscemi
+author: Pablo Moura
+data: '2025-04-21T20:22:02.875Z'
+resumo: >-
+  A segunda temporada de 'Wandinha' traz um pôster intrigante e um elenco
+  estelar, prometendo mais mistérios e emoção.
 ---
 
 A espera está quase acabando para os fãs de 'Wandinha', a série de sucesso da Netflix estrelada por Jenna Ortega. A plataforma de streaming acaba de lançar um pôster enigmático para a segunda temporada, onde vemos a protagonista em uma situação vulnerável, amarrada e com lágrimas manchando sua maquiagem. A imagem deixa um ar de mistério sobre os desafios que Wandinha enfrentará nos novos episódios.

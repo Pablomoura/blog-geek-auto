@@ -1,14 +1,29 @@
 ---
-title: "The Old Guard 2 Chega em Julho na Netflix com Charlize Theron e Novos Desafios"
-slug: "the-old-guard-2-tudo-sobre-o-filme-com-charlize-theron"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/iUWaskE9egg?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/T-XRyNgCzWeE96tH7-wQN_ks4qQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_162523.png"
-tags: ["The Old Guard 2", "Netflix", "Charlize Theron", "estreia", "filmes de ação", "Uma Thurman", "Henry Golding", "quadrinhos", "imortais"]
-keywords: "The Old Guard 2, Netflix, Charlize Theron, estreia, filmes de ação, Uma Thurman, Henry Golding, quadrinhos, imortais"
-author: "Pablo Moura"
-data: "2025-04-24T20:21:15.259Z"
+title: The Old Guard 2 Chega em Julho na Netflix com Charlize Theron e Novos Desafios
+slug: the-old-guard-2-tudo-sobre-o-filme-com-charlize-theron
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/iUWaskE9egg?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/T-XRyNgCzWeE96tH7-wQN_ks4qQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_162523.png
+tags:
+  - The Old Guard 2
+  - Netflix
+  - Charlize Theron
+  - estreia
+  - filmes de ação
+  - Uma Thurman
+  - Henry Golding
+  - quadrinhos
+  - imortais
+keywords: >-
+  The Old Guard 2, Netflix, Charlize Theron, estreia, filmes de ação, Uma
+  Thurman, Henry Golding, quadrinhos, imortais
+author: Pablo Moura
+data: '2025-04-24T20:21:15.259Z'
+resumo: >-
+  A sequência do sucesso da Netflix, 'The Old Guard', estrelada por Charlize
+  Theron, estreia em 2 de julho com novos personagens e ameaças intensas.
 ---
 
 ## The Old Guard 2: Sequência Promete Mais Ação e Mistérios

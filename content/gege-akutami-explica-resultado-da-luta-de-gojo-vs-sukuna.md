@@ -1,14 +1,25 @@
 ---
-title: "Gege Akutami Revela Bastidores da Épica Luta Gojo vs Sukuna em Jujutsu Kaisen"
-slug: "gege-akutami-explica-resultado-da-luta-de-gojo-vs-sukuna"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/11_85OJ5E5ZYyMYjwLfvnUu0UEs=/987x0/smart/uploads/conteudo/fotos/jujutsukaisen_hxydPNc.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Q1jQMB1DjAM3kzgTSCy1lmQQ5pU=/480x360/smart/extras/conteudos/jujutsukaisen_FwmaAJc.jpg"
-tags: ["Jujutsu Kaisen", "Gege Akutami", "Gojo vs Sukuna", "mangá", "Crunchyroll", "Panini"]
-keywords: "Jujutsu Kaisen, Gege Akutami, Gojo vs Sukuna, mangá, Crunchyroll, Panini"
-author: "Pablo Moura"
-data: "2025-04-20T22:18:39.144Z"
+title: Gege Akutami Revela Bastidores da Épica Luta Gojo vs Sukuna em Jujutsu Kaisen
+slug: gege-akutami-explica-resultado-da-luta-de-gojo-vs-sukuna
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/11_85OJ5E5ZYyMYjwLfvnUu0UEs=/987x0/smart/uploads/conteudo/fotos/jujutsukaisen_hxydPNc.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Q1jQMB1DjAM3kzgTSCy1lmQQ5pU=/480x360/smart/extras/conteudos/jujutsukaisen_FwmaAJc.jpg
+tags:
+  - Jujutsu Kaisen
+  - Gege Akutami
+  - Gojo vs Sukuna
+  - mangá
+  - Crunchyroll
+  - Panini
+keywords: 'Jujutsu Kaisen, Gege Akutami, Gojo vs Sukuna, mangá, Crunchyroll, Panini'
+author: Pablo Moura
+data: '2025-04-20T22:18:39.144Z'
+resumo: >-
+  Gege Akutami, criador de Jujutsu Kaisen, esclarece dúvidas e detalha o
+  confronto entre Gojo e Sukuna, um dos momentos mais controversos do mangá.
 ---
 
 Gege Akutami, mente criativa por trás do aclamado mangá Jujutsu Kaisen, recentemente discutiu um dos pontos mais debatidos da série: a intensa batalha entre Gojo e Sukuna. Durante uma exposição dedicada ao mangá no Japão, Akutami participou de uma sessão de perguntas e respostas, onde abordou o desfecho deste confronto emblemático.

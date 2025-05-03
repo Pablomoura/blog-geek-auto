@@ -1,14 +1,25 @@
 ---
-title: "GOG Adiciona Pix como Opção de Pagamento para Jogos e Conteúdos em PC"
-slug: "gog-rival-do-steam-anuncia-pagamento-de-jogos-por-pix"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/ocSCM_6XZHA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/UkT8JfedH616NPB2Pd86GB-11j4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_161912.png"
-tags: ["GOG", "pagamento Pix", "compra de jogos", "Steam", "jogos para PC", "GOG Pix", "CD Projekt"]
-keywords: "GOG, pagamento Pix, compra de jogos, Steam, jogos para PC, GOG Pix, CD Projekt"
-author: "Ana Luiza"
-data: "2025-04-28T20:21:42.726Z"
+title: GOG Adiciona Pix como Opção de Pagamento para Jogos e Conteúdos em PC
+slug: gog-rival-do-steam-anuncia-pagamento-de-jogos-por-pix
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/ocSCM_6XZHA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/UkT8JfedH616NPB2Pd86GB-11j4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-28_161912.png
+tags:
+  - GOG
+  - pagamento Pix
+  - compra de jogos
+  - Steam
+  - jogos para PC
+  - GOG Pix
+  - CD Projekt
+keywords: 'GOG, pagamento Pix, compra de jogos, Steam, jogos para PC, GOG Pix, CD Projekt'
+author: Ana Luiza
+data: '2025-04-28T20:21:42.726Z'
+resumo: >-
+  A plataforma GOG, concorrente do Steam, agora permite a compra de jogos usando
+  Pix, facilitando ainda mais o acesso dos gamers brasileiros.
 ---
 
 ## GOG Introduz Pix como Método de Pagamento

@@ -1,14 +1,30 @@
 ---
-title: "Xbox Anuncia Aumento de Preço em Consoles, Jogos e Acessórios Globalmente"
-slug: "xbox-anuncia-aumento-de-preo-em-consoles-e-jogos-no-mundo-todo"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/TaBI58YFRwZKNFhbsmCbACZXdkM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T101546.219.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/mUL2x2blvqk5GfBGYzhCIh3ttTU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T101641.513.png"
-tags: ["Xbox", "aumento de preço", "Microsoft", "consoles Xbox", "jogos Xbox", "acessórios Xbox", "Xbox Series S", "Xbox Series X"]
-keywords: "Xbox, aumento de preço, Microsoft, consoles Xbox, jogos Xbox, acessórios Xbox, Xbox Series S, Xbox Series X"
-author: "Ana Luiza"
-data: "2025-05-01T18:26:33.447Z"
+title: 'Xbox Anuncia Aumento de Preço em Consoles, Jogos e Acessórios Globalmente'
+slug: xbox-anuncia-aumento-de-preo-em-consoles-e-jogos-no-mundo-todo
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/TaBI58YFRwZKNFhbsmCbACZXdkM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-05-01T101546.219.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/mUL2x2blvqk5GfBGYzhCIh3ttTU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-01T101641.513.png
+tags:
+  - Xbox
+  - aumento de preço
+  - Microsoft
+  - consoles Xbox
+  - jogos Xbox
+  - acessórios Xbox
+  - Xbox Series S
+  - Xbox Series X
+keywords: >-
+  Xbox, aumento de preço, Microsoft, consoles Xbox, jogos Xbox, acessórios Xbox,
+  Xbox Series S, Xbox Series X
+author: Ana Luiza
+data: '2025-05-01T18:26:33.447Z'
+resumo: >-
+  A Microsoft revelou um aumento nos preços de seus consoles Xbox, jogos e
+  acessórios em todo o mundo, com novos valores já definidos para os Estados
+  Unidos.
 ---
 
 ## Reajuste de Preços dos Produtos Xbox

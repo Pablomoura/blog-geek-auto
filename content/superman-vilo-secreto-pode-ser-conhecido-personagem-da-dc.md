@@ -1,14 +1,32 @@
 ---
-title: "Superman: Revelações Sobre um Possível Segundo Vilão Agitam Fãs da DC"
-slug: "superman-vilo-secreto-pode-ser-conhecido-personagem-da-dc"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/SeH2DFxc1fbDsptJSPVYsq-TnIs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-21T123810.465.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/moDgElgjBrD9-8QygMfJbSu_Imk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T123754.208.png"
-tags: ["Superman", "James Gunn", "DCU", "Lex Luthor", "Ultraman", "David Corenswet", "Rachel Brosnahan", "Nicholas Hoult", "DC Comics", "filme de super-heróis", "especial-Superman"]
-keywords: "Superman, James Gunn, DCU, Lex Luthor, Ultraman, David Corenswet, Rachel Brosnahan, Nicholas Hoult, DC Comics, filme de super-heróis"
-author: "Ana Luiza"
-data: "2025-04-21T16:25:54.484Z"
+title: 'Superman: Revelações Sobre um Possível Segundo Vilão Agitam Fãs da DC'
+slug: superman-vilo-secreto-pode-ser-conhecido-personagem-da-dc
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/SeH2DFxc1fbDsptJSPVYsq-TnIs=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-21T123810.465.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/moDgElgjBrD9-8QygMfJbSu_Imk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-21T123754.208.png
+tags:
+  - Superman
+  - James Gunn
+  - DCU
+  - Lex Luthor
+  - Ultraman
+  - David Corenswet
+  - Rachel Brosnahan
+  - Nicholas Hoult
+  - DC Comics
+  - filme de super-heróis
+  - especial-Superman
+keywords: >-
+  Superman, James Gunn, DCU, Lex Luthor, Ultraman, David Corenswet, Rachel
+  Brosnahan, Nicholas Hoult, DC Comics, filme de super-heróis
+author: Ana Luiza
+data: '2025-04-21T16:25:54.484Z'
+resumo: >-
+  Além de Lex Luthor, o novo filme de Superman sob a direção de James Gunn pode
+  incluir outro antagonista misterioso: Ultraman.
 ---
 
 A nova produção de **James Gunn**, o filme **Superman**, promete trazer grandes emoções com a presença de um possível segundo vilão, além do já conhecido Lex Luthor. Segundo rumores vazados pela conta @MyTimeToShineH, Ultraman pode ser o antagonista surpresa, embora essas informações ainda não sejam oficiais e devam ser tratadas como especulações até a estreia do filme.

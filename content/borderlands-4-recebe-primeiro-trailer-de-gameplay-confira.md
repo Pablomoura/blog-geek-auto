@@ -1,14 +1,29 @@
 ---
-title: "Borderlands 4 Revela Trailer de Gameplay: Novidades e Expectativas para Setembro"
-slug: "borderlands-4-recebe-primeiro-trailer-de-gameplay-confira"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/QkIqhvWWiQQ?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/iHZZSTZDO6KzdMr4Po-_sDbXRbY=/480x360/smart/extras/conteudos/Borderlands_4___Official_Gameplay_Trailer_1-27_screenshot.png"
-tags: ["Borderlands 4", "trailer de gameplay", "Gearbox Entertainment", "lançamento de jogos", "GTA 6", "State of Play"]
-keywords: "Borderlands 4, trailer de gameplay, Gearbox Entertainment, lançamento de jogos, GTA 6, State of Play"
-author: "Luana Souza"
-data: "2025-04-30T23:18:54.396Z"
+title: >-
+  Borderlands 4 Revela Trailer de Gameplay: Novidades e Expectativas para
+  Setembro
+slug: borderlands-4-recebe-primeiro-trailer-de-gameplay-confira
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/QkIqhvWWiQQ?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/iHZZSTZDO6KzdMr4Po-_sDbXRbY=/480x360/smart/extras/conteudos/Borderlands_4___Official_Gameplay_Trailer_1-27_screenshot.png
+tags:
+  - Borderlands 4
+  - trailer de gameplay
+  - Gearbox Entertainment
+  - lançamento de jogos
+  - GTA 6
+  - State of Play
+keywords: >-
+  Borderlands 4, trailer de gameplay, Gearbox Entertainment, lançamento de
+  jogos, GTA 6, State of Play
+author: Luana Souza
+data: '2025-04-30T23:18:54.396Z'
+resumo: >-
+  A Gearbox Entertainment acaba de lançar o tão esperado primeiro trailer de
+  gameplay de Borderlands 4, prometendo inovações e uma experiência acolhedora
+  para novatos e veteranos.
 ---
 
 ## Primeiro Olhar no Gameplay de Borderlands 4

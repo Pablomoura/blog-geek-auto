@@ -1,14 +1,30 @@
 ---
-title: "Scarlett Johansson Lidera o Elenco em 'Jurassic World: Recomeço' com Novas Imagens Reveladas"
-slug: "jurassic-world-recomeo-tem-novas-imagens-com-scarlett-johansson"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/u67Kcz3z-yk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/hN1u0PCPJXLrd3UsSaA64QDrYGs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_152630.png"
-tags: ["Jurassic World Recomeço", "Scarlett Johansson", "novas imagens", "dinossauros", "Empire", "cinema", "estreia de filme"]
-keywords: "Jurassic World Recomeço, Scarlett Johansson, novas imagens, dinossauros, Empire, cinema, estreia de filme"
-author: "Ana Luiza"
-data: "2025-05-01T19:17:02.947Z"
+title: >-
+  Scarlett Johansson Lidera o Elenco em 'Jurassic World: Recomeço' com Novas
+  Imagens Reveladas
+slug: jurassic-world-recomeo-tem-novas-imagens-com-scarlett-johansson
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/u67Kcz3z-yk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/hN1u0PCPJXLrd3UsSaA64QDrYGs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_152630.png
+tags:
+  - Jurassic World Recomeço
+  - Scarlett Johansson
+  - novas imagens
+  - dinossauros
+  - Empire
+  - cinema
+  - estreia de filme
+keywords: >-
+  Jurassic World Recomeço, Scarlett Johansson, novas imagens, dinossauros,
+  Empire, cinema, estreia de filme
+author: Ana Luiza
+data: '2025-05-01T19:17:02.947Z'
+resumo: >-
+  Previsto para julho, 'Jurassic World: Recomeço' traz novos personagens e
+  dinossauros, com destaques para Scarlett Johansson em novas imagens divulgadas
+  pela revista Empire.
 ---
 
 ## Novas Aventuras e Perigos em 'Jurassic World: Recomeço'

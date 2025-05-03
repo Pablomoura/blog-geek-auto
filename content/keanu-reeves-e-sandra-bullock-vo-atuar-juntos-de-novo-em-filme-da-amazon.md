@@ -1,14 +1,29 @@
 ---
-title: "Keanu Reeves e Sandra Bullock Juntos Novamente em Novo Romance da Amazon MGM"
-slug: "keanu-reeves-e-sandra-bullock-vo-atuar-juntos-de-novo-em-filme-da-amazon"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/WzQ4ZXDG9MZsTTH4ldX_sgwz5mk=/987x0/smart/uploads/conteudo/fotos/02_UT1mzYe.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/SJbkDiVidVu-HPpwaw_tGS_4EfQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_155002.png"
-tags: ["Keanu Reeves", "Sandra Bullock", "Amazon MGM", "novo filme", "romance", "Velocidade Máxima", "A Casa do Lago"]
-keywords: "Keanu Reeves, Sandra Bullock, Amazon MGM, novo filme, romance, Velocidade Máxima, A Casa do Lago"
-author: "Luana Souza"
-data: "2025-05-02T19:15:58.030Z"
+title: Keanu Reeves e Sandra Bullock Juntos Novamente em Novo Romance da Amazon MGM
+slug: keanu-reeves-e-sandra-bullock-vo-atuar-juntos-de-novo-em-filme-da-amazon
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/WzQ4ZXDG9MZsTTH4ldX_sgwz5mk=/987x0/smart/uploads/conteudo/fotos/02_UT1mzYe.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/SJbkDiVidVu-HPpwaw_tGS_4EfQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-02_155002.png
+tags:
+  - Keanu Reeves
+  - Sandra Bullock
+  - Amazon MGM
+  - novo filme
+  - romance
+  - Velocidade Máxima
+  - A Casa do Lago
+keywords: >-
+  Keanu Reeves, Sandra Bullock, Amazon MGM, novo filme, romance, Velocidade
+  Máxima, A Casa do Lago
+author: Luana Souza
+data: '2025-05-02T19:15:58.030Z'
+resumo: >-
+  Reunindo-se após sucessos como 'Velocidade Máxima' e 'A Casa do Lago', Keanu
+  Reeves e Sandra Bullock estrelarão um novo filme romântico sob a bandeira da
+  Amazon MGM.
 ---
 
 ## Reencontro de Estrelas em Hollywood

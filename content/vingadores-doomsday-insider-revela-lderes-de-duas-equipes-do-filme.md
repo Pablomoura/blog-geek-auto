@@ -1,14 +1,35 @@
 ---
-title: "Vingadores: Doomsday - Líderes das Equipes e Elenco Estelar Revelados!"
-slug: "vingadores-doomsday-insider-revela-lderes-de-duas-equipes-do-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Yt-rsSC0Ldl13EbSTBtZGlCKoY8=/987x0/smart/uploads/conteudo/fotos/vingadores_l6IYEyj.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/UexV_SDQgBAESnntuRs45YG6qU8=/480x360/smart/extras/conteudos/vingadoresdoomsday_miplcmY.jpg"
-tags: ["Vingadores: Doomsday", "MCU", "Marvel", "elenco", "Thunderbolts", "Yelena", "Sam Wilson", "Capitão América", "Doutor Destino", "Robert Downey Jr.", "Quarteto Fantástico", "X-Men", "Saga do Multiverso"]
-keywords: "Vingadores: Doomsday, MCU, Marvel, elenco, Thunderbolts, Yelena, Sam Wilson, Capitão América, Doutor Destino, Robert Downey Jr., Quarteto Fantástico, X-Men, Saga do Multiverso"
-author: "Ana Luiza"
-data: "2025-04-26T16:21:51.945Z"
+title: 'Vingadores: Doomsday - Líderes das Equipes e Elenco Estelar Revelados!'
+slug: vingadores-doomsday-insider-revela-lderes-de-duas-equipes-do-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Yt-rsSC0Ldl13EbSTBtZGlCKoY8=/987x0/smart/uploads/conteudo/fotos/vingadores_l6IYEyj.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/UexV_SDQgBAESnntuRs45YG6qU8=/480x360/smart/extras/conteudos/vingadoresdoomsday_miplcmY.jpg
+tags:
+  - 'Vingadores: Doomsday'
+  - MCU
+  - Marvel
+  - elenco
+  - Thunderbolts
+  - Yelena
+  - Sam Wilson
+  - Capitão América
+  - Doutor Destino
+  - Robert Downey Jr.
+  - Quarteto Fantástico
+  - X-Men
+  - Saga do Multiverso
+keywords: >-
+  Vingadores: Doomsday, MCU, Marvel, elenco, Thunderbolts, Yelena, Sam Wilson,
+  Capitão América, Doutor Destino, Robert Downey Jr., Quarteto Fantástico,
+  X-Men, Saga do Multiverso
+author: Ana Luiza
+data: '2025-04-26T16:21:51.945Z'
+resumo: >-
+  A próxima grande produção da Marvel, Vingadores: Doomsday, terá duas equipes
+  heroicas lideradas por figuras icônicas, com uma estreia aguardada para 2026.
 ---
 
 ## Novidades em Vingadores: Doomsday

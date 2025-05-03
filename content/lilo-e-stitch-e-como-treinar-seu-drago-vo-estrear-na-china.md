@@ -1,14 +1,28 @@
 ---
-title: "Lilo e Stitch e Como Treinar Seu Dragão Confirmados na China Apesar de Tensões Políticas"
-slug: "lilo-e-stitch-e-como-treinar-seu-drago-vo-estrear-na-china"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/bj5BXZGe3Lo?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/p-UKjJH4IXDbpUF-RkqoNbzbRxg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_113223.png"
-tags: ["Lilo e Stitch", "Como Treinar Seu Dragão", "cinema chinês", "filmes americanos na China", "tensões EUA-China", "embargos cinematográficos"]
-keywords: "Lilo e Stitch, Como Treinar Seu Dragão, cinema chinês, filmes americanos na China, tensões EUA-China, embargos cinematográficos"
-author: "Luana Souza"
-data: "2025-04-30T14:50:54.629Z"
+title: >-
+  Lilo e Stitch e Como Treinar Seu Dragão Confirmados na China Apesar de Tensões
+  Políticas
+slug: lilo-e-stitch-e-como-treinar-seu-drago-vo-estrear-na-china
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/bj5BXZGe3Lo?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/p-UKjJH4IXDbpUF-RkqoNbzbRxg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-30_113223.png
+tags:
+  - Lilo e Stitch
+  - Como Treinar Seu Dragão
+  - cinema chinês
+  - filmes americanos na China
+  - tensões EUA-China
+  - embargos cinematográficos
+keywords: >-
+  Lilo e Stitch, Como Treinar Seu Dragão, cinema chinês, filmes americanos na
+  China, tensões EUA-China, embargos cinematográficos
+author: Luana Souza
+data: '2025-04-30T14:50:54.629Z'
+resumo: >-
+  Mesmo enfrentando um cenário de embargos e tensões políticas, os live-actions
+  de Lilo e Stitch e Como Treinar Seu Dragão têm estreias garantidas na China.
 ---
 
 ## Expansão Cinematográfica em Território Chinês

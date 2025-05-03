@@ -1,14 +1,28 @@
 ---
-title: "Thunderbolts Estreia com Força: Projeções Sugerem Bilheteria Milionária no Primeiro Fim de Semana"
-slug: "bilheteria-thunderbolts-pode-estrear-mundialmente-com-us-175-milhes"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/CWvq2e1Qih4?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Pv7d31Pxq09F2b5g9vd9MyhXZz4=/480x360/smart/extras/conteudos/00_77mUsxR.jpg"
-tags: ["Thunderbolts", "MCU", "Marvel", "bilheteria", "estreia", "cinema", "filme de super-heróis"]
-keywords: "Thunderbolts, MCU, Marvel, bilheteria, estreia, cinema, filme de super-heróis"
-author: "Pablo Moura"
-data: "2025-04-30T14:54:35.368Z"
+title: >-
+  Thunderbolts Estreia com Força: Projeções Sugerem Bilheteria Milionária no
+  Primeiro Fim de Semana
+slug: bilheteria-thunderbolts-pode-estrear-mundialmente-com-us-175-milhes
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/CWvq2e1Qih4?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Pv7d31Pxq09F2b5g9vd9MyhXZz4=/480x360/smart/extras/conteudos/00_77mUsxR.jpg
+tags:
+  - Thunderbolts
+  - MCU
+  - Marvel
+  - bilheteria
+  - estreia
+  - cinema
+  - filme de super-heróis
+keywords: 'Thunderbolts, MCU, Marvel, bilheteria, estreia, cinema, filme de super-heróis'
+author: Pablo Moura
+data: '2025-04-30T14:54:35.368Z'
+resumo: >-
+  O filme 'Thunderbolts' do MCU pode superar seu orçamento inicial já no
+  lançamento, com expectativa de arrecadação global entre US$ 160 e US$ 175
+  milhões.
 ---
 
 ## Sucesso à Vista para Thunderbolts

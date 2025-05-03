@@ -1,14 +1,30 @@
 ---
-title: "David Fincher e Red Hot Chili Peppers Juntos em Episódio de 'Love, Death & Robots'"
-slug: "love-death-robots-ter-episdio-com-red-hot-chilli-peppers-e-david-fincher"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/-15EJ7JsL5o?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/XPXfxfwSFup9-NNFFjWncBVubVU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_143103.png"
-tags: ["Love", "Death & Robots", "David Fincher", "Red Hot Chili Peppers", "Netflix", "série antológica", "animação", "tecnologia"]
-keywords: "Love, Death & Robots, David Fincher, Red Hot Chili Peppers, Netflix, série antológica, animação, tecnologia"
-author: "Pablo Moura"
-data: "2025-04-24T18:27:01.936Z"
+title: >-
+  David Fincher e Red Hot Chili Peppers Juntos em Episódio de 'Love, Death &
+  Robots'
+slug: love-death-robots-ter-episdio-com-red-hot-chilli-peppers-e-david-fincher
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/-15EJ7JsL5o?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/XPXfxfwSFup9-NNFFjWncBVubVU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-24_143103.png
+tags:
+  - Love
+  - Death & Robots
+  - David Fincher
+  - Red Hot Chili Peppers
+  - Netflix
+  - série antológica
+  - animação
+  - tecnologia
+keywords: >-
+  Love, Death & Robots, David Fincher, Red Hot Chili Peppers, Netflix, série
+  antológica, animação, tecnologia
+author: Pablo Moura
+data: '2025-04-24T18:27:01.936Z'
+resumo: >-
+  A quarta temporada de 'Love, Death & Robots' traz uma colaboração épica com a
+  direção de David Fincher e uma performance especial dos Red Hot Chili Peppers.
 ---
 
 ## 'Love, Death & Robots' Vol. 4: Uma Fusão de Música e Animação

@@ -1,14 +1,32 @@
 ---
-title: "Memórias de um Caracol: Animação Indicada ao Oscar Estreia Com Pôster Exclusivo no Brasil"
-slug: "memrias-de-um-caracol-indicado-ao-oscar-ganha-pster-nacional-exclusivo"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/6tPurbvKY5-eKZS3-JJoGZ_t6cE=/987x0/smart/uploads/conteudo/fotos/SnapInsta.to_491440975_18520527448032660_7627734037643665053_n.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Netuj3H9yMavzfSrBbcMrYi_5Mw=/480x360/smart/extras/conteudos/SnapInsta.to_491440975_18520527448032660_7627734037643665053_n.jpg"
-tags: ["Memórias de um Caracol", "Oscar", "Globo de Ouro", "animação", "cinema", "pôster exclusivo", "estreia", "Brasil"]
-keywords: "Memórias de um Caracol, Oscar, Globo de Ouro, animação, cinema, pôster exclusivo, estreia, Brasil"
-author: "Luana Souza"
-data: "2025-04-28T20:21:05.272Z"
+title: >-
+  Memórias de um Caracol: Animação Indicada ao Oscar Estreia Com Pôster
+  Exclusivo no Brasil
+slug: memrias-de-um-caracol-indicado-ao-oscar-ganha-pster-nacional-exclusivo
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/6tPurbvKY5-eKZS3-JJoGZ_t6cE=/987x0/smart/uploads/conteudo/fotos/SnapInsta.to_491440975_18520527448032660_7627734037643665053_n.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Netuj3H9yMavzfSrBbcMrYi_5Mw=/480x360/smart/extras/conteudos/SnapInsta.to_491440975_18520527448032660_7627734037643665053_n.jpg
+tags:
+  - Memórias de um Caracol
+  - Oscar
+  - Globo de Ouro
+  - animação
+  - cinema
+  - pôster exclusivo
+  - estreia
+  - Brasil
+keywords: >-
+  Memórias de um Caracol, Oscar, Globo de Ouro, animação, cinema, pôster
+  exclusivo, estreia, Brasil
+author: Luana Souza
+data: '2025-04-28T20:21:05.272Z'
+resumo: >-
+  A aclamada animação 'Memórias de um Caracol', já indicada ao Oscar e ao Globo
+  de Ouro, chegará aos cinemas brasileiros em 1º de maio com um pôster nacional
+  exclusivo.
 ---
 
 ## Enredo Comovente e Premiações de Peso

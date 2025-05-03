@@ -1,14 +1,26 @@
 ---
-title: "O Eternauta Anuncia Segunda Temporada com Ricardo Darín na Netflix"
-slug: "o-eternauta-ricardo-darn-confirma-produo-da-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/RonFmekvnlc"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/pVs-fX8vhqZeKmSBa5JK4XVOM2Y=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_131947.png"
-tags: ["O Eternauta", "Ricardo Darín", "Netflix", "segunda temporada", "série argentina", "ficção científica"]
-keywords: "O Eternauta, Ricardo Darín, Netflix, segunda temporada, série argentina, ficção científica"
-author: "Luana Souza"
-data: "2025-05-01T17:18:26.858Z"
+title: O Eternauta Anuncia Segunda Temporada com Ricardo Darín na Netflix
+slug: o-eternauta-ricardo-darn-confirma-produo-da-2-temporada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/RonFmekvnlc'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/pVs-fX8vhqZeKmSBa5JK4XVOM2Y=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_131947.png
+tags:
+  - O Eternauta
+  - Ricardo Darín
+  - Netflix
+  - segunda temporada
+  - série argentina
+  - ficção científica
+keywords: >-
+  O Eternauta, Ricardo Darín, Netflix, segunda temporada, série argentina,
+  ficção científica
+author: Luana Souza
+data: '2025-05-01T17:18:26.858Z'
+resumo: >-
+  Ricardo Darín confirma que a aclamada série 'O Eternauta' terá uma segunda
+  temporada, prometendo uma narrativa completa e envolvente.
 ---
 
 ## 'O Eternauta' Continuará a Sua Jornada Apocalíptica na Netflix

@@ -1,14 +1,27 @@
 ---
-title: "GTA 6: Nova Data de Lançamento e Detalhes Revelados!"
-slug: "gta-6-histria-data-atrasos-e-tudo-sobre-o-jogo"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/QdBZY2fkU-0?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/Bdyk1vCSQKahTh4n2VTAzfKnty0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T103303.594.png"
-tags: ["GTA 6", "lançamento de GTA 6", "novidades GTA 6", "protagonista feminina GTA", "mapa GTA 6", "Rockstar Games", "jogos 2026"]
-keywords: "GTA 6, lançamento de GTA 6, novidades GTA 6, protagonista feminina GTA, mapa GTA 6, Rockstar Games, jogos 2026"
-author: "Ana Luiza"
-data: "2025-05-02T14:19:43.463Z"
+title: 'GTA 6: Nova Data de Lançamento e Detalhes Revelados!'
+slug: gta-6-histria-data-atrasos-e-tudo-sobre-o-jogo
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/QdBZY2fkU-0?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/Bdyk1vCSQKahTh4n2VTAzfKnty0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-02T103303.594.png
+tags:
+  - GTA 6
+  - lançamento de GTA 6
+  - novidades GTA 6
+  - protagonista feminina GTA
+  - mapa GTA 6
+  - Rockstar Games
+  - jogos 2026
+keywords: >-
+  GTA 6, lançamento de GTA 6, novidades GTA 6, protagonista feminina GTA, mapa
+  GTA 6, Rockstar Games, jogos 2026
+author: Ana Luiza
+data: '2025-05-02T14:19:43.463Z'
+resumo: >-
+  GTA 6 é adiado para 2026, apresentando a primeira protagonista feminina da
+  série e um mapa expandido que inclui o estado de Leonida.
 ---
 
 ## GTA 6: o Que Esperar do Próximo Lançamento da Rockstar Games

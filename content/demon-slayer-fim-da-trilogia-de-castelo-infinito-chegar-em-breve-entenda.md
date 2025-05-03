@@ -1,14 +1,30 @@
 ---
-title: "Demon Slayer Encerra com Trilogia Épica: Primeiro Filme Estreia em Setembro"
-slug: "demon-slayer-fim-da-trilogia-de-castelo-infinito-chegar-em-breve-entenda"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/Sq1uv5kG_bI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/pBHAIbpX2xKj9b8MeXrBfmAbcF8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_094341.png"
-tags: ["Demon Slayer", "Castelo Infinito", "trilogia", "anime", "filme", "estreia", "Tanjiro", "Nezuko", "Crunchyroll", "Sony"]
-keywords: "Demon Slayer, Castelo Infinito, trilogia, anime, filme, estreia, Tanjiro, Nezuko, Crunchyroll, Sony"
-author: "Pablo Moura"
-data: "2025-05-01T13:29:00.487Z"
+title: 'Demon Slayer Encerra com Trilogia Épica: Primeiro Filme Estreia em Setembro'
+slug: demon-slayer-fim-da-trilogia-de-castelo-infinito-chegar-em-breve-entenda
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/Sq1uv5kG_bI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/pBHAIbpX2xKj9b8MeXrBfmAbcF8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_094341.png
+tags:
+  - Demon Slayer
+  - Castelo Infinito
+  - trilogia
+  - anime
+  - filme
+  - estreia
+  - Tanjiro
+  - Nezuko
+  - Crunchyroll
+  - Sony
+keywords: >-
+  Demon Slayer, Castelo Infinito, trilogia, anime, filme, estreia, Tanjiro,
+  Nezuko, Crunchyroll, Sony
+author: Pablo Moura
+data: '2025-05-01T13:29:00.487Z'
+resumo: >-
+  A saga de Demon Slayer se aproxima do clímax com a estreia da trilogia
+  'Castelo Infinito', marcando o final da jornada de Tanjiro.
 ---
 
 ## O Ato Final de Demon Slayer: Trilogia 'Castelo Infinito' Chega aos Cinemas

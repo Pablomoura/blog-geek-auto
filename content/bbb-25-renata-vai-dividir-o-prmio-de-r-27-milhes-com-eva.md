@@ -1,14 +1,30 @@
 ---
-title: "Renata, campeã do BBB 25, planeja dividir prêmio de R$ 2,7 milhões com amiga Eva"
-slug: "bbb-25-renata-vai-dividir-o-prmio-de-r-27-milhes-com-eva"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/IWNNhg39YYT1b-3aiArCSZJivT8=/987x0/smart/uploads/conteudo/fotos/bbb-25-renata-premio.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/6SPghyMw6p0mVvPZjquBF8ec68k=/480x360/smart/extras/conteudos/bbb-25-renata-premio-peq.jpg"
-tags: ["BBB 25", "Renata BBB", "prêmio BBB 25", "Renata e Eva", "Tadeu Schmidt", "Rodrigo Dourado", "voto da torcida BBB"]
-keywords: "BBB 25, Renata BBB, prêmio BBB 25, Renata e Eva, Tadeu Schmidt, Rodrigo Dourado, voto da torcida BBB"
-author: "Pablo Moura"
-data: "2025-04-25T11:17:07.654Z"
+title: >-
+  Renata, campeã do BBB 25, planeja dividir prêmio de R$ 2,7 milhões com amiga
+  Eva
+slug: bbb-25-renata-vai-dividir-o-prmio-de-r-27-milhes-com-eva
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/IWNNhg39YYT1b-3aiArCSZJivT8=/987x0/smart/uploads/conteudo/fotos/bbb-25-renata-premio.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/6SPghyMw6p0mVvPZjquBF8ec68k=/480x360/smart/extras/conteudos/bbb-25-renata-premio-peq.jpg
+tags:
+  - BBB 25
+  - Renata BBB
+  - prêmio BBB 25
+  - Renata e Eva
+  - Tadeu Schmidt
+  - Rodrigo Dourado
+  - voto da torcida BBB
+keywords: >-
+  BBB 25, Renata BBB, prêmio BBB 25, Renata e Eva, Tadeu Schmidt, Rodrigo
+  Dourado, voto da torcida BBB
+author: Pablo Moura
+data: '2025-04-25T11:17:07.654Z'
+resumo: >-
+  Após vencer o BBB 25, Renata anuncia planos de compartilhar parte do prêmio de
+  R$ 2,7 milhões com sua amiga Eva e investir em projetos sociais.
 ---
 
 ## Renata conquista o BBB 25 e revela planos para o prêmio

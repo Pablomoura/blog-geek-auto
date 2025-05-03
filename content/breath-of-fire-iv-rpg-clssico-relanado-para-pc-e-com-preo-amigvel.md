@@ -1,14 +1,27 @@
 ---
-title: "Breath of Fire IV Retorna ao PC com Preço Acessível via GOG"
-slug: "breath-of-fire-iv-rpg-clssico-relanado-para-pc-e-com-preo-amigvel"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/Es2pM1hvtFU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/0lnhw2uIUaB76m5zaE23yhBwd60=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-25_172022.png"
-tags: ["Breath of Fire IV", "relançamento", "RPG", "GOG", "Capcom", "jogo para PC", "preço acessível"]
-keywords: "Breath of Fire IV, relançamento, RPG, GOG, Capcom, jogo para PC, preço acessível"
-author: "Luana Souza"
-data: "2025-04-25T21:18:36.289Z"
+title: Breath of Fire IV Retorna ao PC com Preço Acessível via GOG
+slug: breath-of-fire-iv-rpg-clssico-relanado-para-pc-e-com-preo-amigvel
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/Es2pM1hvtFU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/0lnhw2uIUaB76m5zaE23yhBwd60=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-25_172022.png
+tags:
+  - Breath of Fire IV
+  - relançamento
+  - RPG
+  - GOG
+  - Capcom
+  - jogo para PC
+  - preço acessível
+keywords: >-
+  Breath of Fire IV, relançamento, RPG, GOG, Capcom, jogo para PC, preço
+  acessível
+author: Luana Souza
+data: '2025-04-25T21:18:36.289Z'
+resumo: >-
+  O clássico RPG Breath of Fire IV, originalmente lançado para PS1, está agora
+  disponível para PC na plataforma GOG a um preço convidativo.
 ---
 
 ## Relançamento de Breath of Fire IV

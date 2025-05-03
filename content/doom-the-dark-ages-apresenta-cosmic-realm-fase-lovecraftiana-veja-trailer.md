@@ -1,14 +1,31 @@
 ---
-title: "DOOM: The Dark Ages Revela o Aterrorizante Cosmic Realm em Novo Trailer"
-slug: "doom-the-dark-ages-apresenta-cosmic-realm-fase-lovecraftiana-veja-trailer"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/DVBI55DbNQI?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/CULNgXcH6dc8zNR8iBRzTj-qspc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T125336.535.png"
-tags: ["DOOM The Dark Ages", "Cosmic Realm", "trailer DOOM", "lançamento DOOM", "Bethesda", "id Software", "Doomslayer", "Hugo Martin", "Game Pass", "PlayStation 5", "Xbox Series X"]
-keywords: "DOOM The Dark Ages, Cosmic Realm, trailer DOOM, lançamento DOOM, Bethesda, id Software, Doomslayer, Hugo Martin, Game Pass, PlayStation 5, Xbox Series X"
-author: "Ana Luiza"
-data: "2025-04-25T16:23:16.926Z"
+title: 'DOOM: The Dark Ages Revela o Aterrorizante Cosmic Realm em Novo Trailer'
+slug: doom-the-dark-ages-apresenta-cosmic-realm-fase-lovecraftiana-veja-trailer
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/DVBI55DbNQI?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/CULNgXcH6dc8zNR8iBRzTj-qspc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-25T125336.535.png
+tags:
+  - DOOM The Dark Ages
+  - Cosmic Realm
+  - trailer DOOM
+  - lançamento DOOM
+  - Bethesda
+  - id Software
+  - Doomslayer
+  - Hugo Martin
+  - Game Pass
+  - PlayStation 5
+  - Xbox Series X
+keywords: >-
+  DOOM The Dark Ages, Cosmic Realm, trailer DOOM, lançamento DOOM, Bethesda, id
+  Software, Doomslayer, Hugo Martin, Game Pass, PlayStation 5, Xbox Series X
+author: Ana Luiza
+data: '2025-04-25T16:23:16.926Z'
+resumo: >-
+  O novo capítulo de DOOM, intitulado The Dark Ages, promete um enredo
+  cinematográfico épico e será lançado em 15 de maio.
 ---
 
 ## DOOM: The Dark Ages Eleva as Expectativas com Cosmic Realm

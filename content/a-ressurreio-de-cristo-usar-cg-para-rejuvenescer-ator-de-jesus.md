@@ -1,14 +1,30 @@
 ---
-title: "A Ressurreição de Cristo: Mel Gibson Utilizará CGI para Rejuvenescer Jim Caviezel"
-slug: "a-ressurreio-de-cristo-usar-cg-para-rejuvenescer-ator-de-jesus"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/-nb_Vs6vkzyJZAtdijA2JSVzHf8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T130512.060.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/4JjY90vGGsMozksGzQGfs225QXc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T130458.177.png"
-tags: ["A Ressurreição de Cristo", "Mel Gibson", "Jim Caviezel", "CGI", "Jesus", "filme religioso", "tecnologia em filmes"]
-keywords: "A Ressurreição de Cristo, Mel Gibson, Jim Caviezel, CGI, Jesus, filme religioso, tecnologia em filmes"
-author: "Luana Souza"
-data: "2025-04-29T16:24:13.008Z"
+title: >-
+  A Ressurreição de Cristo: Mel Gibson Utilizará CGI para Rejuvenescer Jim
+  Caviezel
+slug: a-ressurreio-de-cristo-usar-cg-para-rejuvenescer-ator-de-jesus
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/-nb_Vs6vkzyJZAtdijA2JSVzHf8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-29T130512.060.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/4JjY90vGGsMozksGzQGfs225QXc=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-29T130458.177.png
+tags:
+  - A Ressurreição de Cristo
+  - Mel Gibson
+  - Jim Caviezel
+  - CGI
+  - Jesus
+  - filme religioso
+  - tecnologia em filmes
+keywords: >-
+  A Ressurreição de Cristo, Mel Gibson, Jim Caviezel, CGI, Jesus, filme
+  religioso, tecnologia em filmes
+author: Luana Souza
+data: '2025-04-29T16:24:13.008Z'
+resumo: >-
+  A sequência do aclamado filme 'A Paixão de Cristo', dirigida por Mel Gibson,
+  contará com técnicas de CGI para rejuvenescer Jim Caviezel no papel de Jesus.
 ---
 
 ## A Tecnologia a Serviço da Fé: 'A Ressurreição de Cristo' em Produção

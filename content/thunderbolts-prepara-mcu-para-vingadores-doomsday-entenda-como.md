@@ -1,14 +1,32 @@
 ---
-title: "Thunderbolts Define o Palco para 'Vingadores: Doomsday' com Revelações Cruciais"
-slug: "thunderbolts-prepara-mcu-para-vingadores-doomsday-entenda-como"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/r37vwuH7ZPU?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/yWS8by3xwsJnMerxH8LwOYlRfjc=/480x360/smart/extras/conteudos/thunderbolts-vingadores-doomsday_7ij4N8k.jpg"
-tags: ["Thunderbolts", "Vingadores Doomsday", "MCU", "Fase 5", "Fase 6", "Doutor Destino", "Robert Downey Jr.", "Nova equipe de Vingadores", "Cena pós-créditos", "Quarteto Fantástico"]
-keywords: "Thunderbolts, Vingadores Doomsday, MCU, Fase 5, Fase 6, Doutor Destino, Robert Downey Jr., Nova equipe de Vingadores, Cena pós-créditos, Quarteto Fantástico"
-author: "Luana Souza"
-data: "2025-04-30T21:17:16.622Z"
+title: >-
+  Thunderbolts Define o Palco para 'Vingadores: Doomsday' com Revelações
+  Cruciais
+slug: thunderbolts-prepara-mcu-para-vingadores-doomsday-entenda-como
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/r37vwuH7ZPU?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/yWS8by3xwsJnMerxH8LwOYlRfjc=/480x360/smart/extras/conteudos/thunderbolts-vingadores-doomsday_7ij4N8k.jpg
+tags:
+  - Thunderbolts
+  - Vingadores Doomsday
+  - MCU
+  - Fase 5
+  - Fase 6
+  - Doutor Destino
+  - Robert Downey Jr.
+  - Nova equipe de Vingadores
+  - Cena pós-créditos
+  - Quarteto Fantástico
+keywords: >-
+  Thunderbolts, Vingadores Doomsday, MCU, Fase 5, Fase 6, Doutor Destino, Robert
+  Downey Jr., Nova equipe de Vingadores, Cena pós-créditos, Quarteto Fantástico
+author: Luana Souza
+data: '2025-04-30T21:17:16.622Z'
+resumo: >-
+  O filme 'Thunderbolts' encerra a Fase 5 do MCU, estabelecendo elementos
+  fundamentais para os próximos filmes, incluindo 'Vingadores: Doomsday'.
 ---
 
 ## A Transição Estratégica de Thunderbolts para Vingadores: Doomsday

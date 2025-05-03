@@ -1,14 +1,32 @@
 ---
-title: "Countdown: Prime Video Revela Primeiras Imagens da Nova Série com Jensen Ackles"
-slug: "countdown-nova-srie-com-jensen-ackles-ganha-primeiras-imagens"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/Dabim1QI3HQwDISrHbg5Xr_3-3g=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_162009.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Dabim1QI3HQwDISrHbg5Xr_3-3g=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_162009.png"
-tags: ["Countdown", "Prime Video", "Jensen Ackles", "nova série", "Eric Dane", "Jessica Camacho", "estreia", "The Boys", "Derek Haas"]
-keywords: "Countdown, Prime Video, Jensen Ackles, nova série, Eric Dane, Jessica Camacho, estreia, The Boys, Derek Haas"
-author: "Luana Souza"
-data: "2025-04-29T21:19:40.590Z"
+title: >-
+  Countdown: Prime Video Revela Primeiras Imagens da Nova Série com Jensen
+  Ackles
+slug: countdown-nova-srie-com-jensen-ackles-ganha-primeiras-imagens
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/Dabim1QI3HQwDISrHbg5Xr_3-3g=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_162009.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Dabim1QI3HQwDISrHbg5Xr_3-3g=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-29_162009.png
+tags:
+  - Countdown
+  - Prime Video
+  - Jensen Ackles
+  - nova série
+  - Eric Dane
+  - Jessica Camacho
+  - estreia
+  - The Boys
+  - Derek Haas
+keywords: >-
+  Countdown, Prime Video, Jensen Ackles, nova série, Eric Dane, Jessica Camacho,
+  estreia, The Boys, Derek Haas
+author: Luana Souza
+data: '2025-04-29T21:19:40.590Z'
+resumo: >-
+  Estrelada por Jensen Ackles, a série dramática 'Countdown' tem data de estreia
+  marcada e promete suspense e ação em Los Angeles.
 ---
 
 ## Jensen Ackles Retorna em 'Countdown', Sua Nova Série Dramática

@@ -1,14 +1,25 @@
 ---
-title: "The Ninth Jedi: Star Wars Anuncia Novo Anime Derivado de Visions"
-slug: "the-ninth-jedi-star-wars-ganhar-novo-anime-derivado-de-visions"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/pMIbYo2OgGYvizMTb8x70MTsCFI=/987x0/smart/uploads/conteudo/fotos/starwarstheninthjedi.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/W8XIAfBIGCMaNRcFfRKm7r3vQ28=/480x360/smart/extras/conteudos/starwarstheninthjedi.jpg"
-tags: ["Star Wars", "anime", "The Ninth Jedi", "Star Wars Visions", "Lucasfilm", "Disney+"]
-keywords: "Star Wars, anime, The Ninth Jedi, Star Wars Visions, Lucasfilm, Disney+"
-author: "Ana Luiza"
-data: "2025-04-20T14:16:13.512Z"
+title: 'The Ninth Jedi: Star Wars Anuncia Novo Anime Derivado de Visions'
+slug: the-ninth-jedi-star-wars-ganhar-novo-anime-derivado-de-visions
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/pMIbYo2OgGYvizMTb8x70MTsCFI=/987x0/smart/uploads/conteudo/fotos/starwarstheninthjedi.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/W8XIAfBIGCMaNRcFfRKm7r3vQ28=/480x360/smart/extras/conteudos/starwarstheninthjedi.jpg
+tags:
+  - Star Wars
+  - anime
+  - The Ninth Jedi
+  - Star Wars Visions
+  - Lucasfilm
+  - Disney+
+keywords: 'Star Wars, anime, The Ninth Jedi, Star Wars Visions, Lucasfilm, Disney+'
+author: Ana Luiza
+data: '2025-04-20T14:16:13.512Z'
+resumo: >-
+  A Lucasfilm confirmou a produção de um novo anime de Star Wars, chamado The
+  Ninth Jedi, expandindo a narrativa iniciada em Star Wars Visions.
 ---
 
 A Lucasfilm anunciou neste domingo (20) um novo capítulo para o universo de Star Wars em formato anime, intitulado The Ninth Jedi. A revelação ocorreu durante o evento Star Wars Celebration, gerando grande expectativa entre os fãs.

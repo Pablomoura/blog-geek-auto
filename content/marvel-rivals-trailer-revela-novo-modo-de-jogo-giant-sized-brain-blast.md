@@ -1,14 +1,31 @@
 ---
-title: "Marvel Rivals Apresenta Evento Inusitado: Cabeções em Ação no Giant-Sized Brain Blast!"
-slug: "marvel-rivals-trailer-revela-novo-modo-de-jogo-giant-sized-brain-blast"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/oOzsmite59I?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/DPb7esW29n25JuvCsN0kpjczOMk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-22_155932.png"
-tags: ["Marvel Rivals", "Giant-Sized Brain Blast", "jogos Marvel", "eventos de jogos", "novidades em jogos", "cabeções no jogo", "Marvel Rivals evento", "personagens Marvel"]
-keywords: "Marvel Rivals, Giant-Sized Brain Blast, jogos Marvel, eventos de jogos, novidades em jogos, cabeções no jogo, Marvel Rivals evento, personagens Marvel"
-author: "Ana Luiza"
-data: "2025-04-22T20:22:46.942Z"
+title: >-
+  Marvel Rivals Apresenta Evento Inusitado: Cabeções em Ação no Giant-Sized
+  Brain Blast!
+slug: marvel-rivals-trailer-revela-novo-modo-de-jogo-giant-sized-brain-blast
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/oOzsmite59I?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/DPb7esW29n25JuvCsN0kpjczOMk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-22_155932.png
+tags:
+  - Marvel Rivals
+  - Giant-Sized Brain Blast
+  - jogos Marvel
+  - eventos de jogos
+  - novidades em jogos
+  - cabeções no jogo
+  - Marvel Rivals evento
+  - personagens Marvel
+keywords: >-
+  Marvel Rivals, Giant-Sized Brain Blast, jogos Marvel, eventos de jogos,
+  novidades em jogos, cabeções no jogo, Marvel Rivals evento, personagens Marvel
+author: Ana Luiza
+data: '2025-04-22T20:22:46.942Z'
+resumo: >-
+  O jogo Marvel Rivals introduz um divertido evento temático onde os personagens
+  ganham cabeças gigantes, prometendo visuais hilários e brindes exclusivos a
+  partir de 25 de abril.
 ---
 
 O universo de **Marvel Rivals** está prestes a receber uma dose extra de diversão com o lançamento do evento temático **Giant-Sized Brain Blast**. A partir do dia 25 de abril, os jogadores verão todos os personagens do jogo com cabeças desproporcionalmente grandes, adicionando um toque cômico ao ambiente de batalha.

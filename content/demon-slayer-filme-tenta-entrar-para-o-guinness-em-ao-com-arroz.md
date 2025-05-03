@@ -1,14 +1,31 @@
 ---
-title: "Demon Slayer Bate Recorde com Arte Gigante de Arroz para Lançamento de Filme"
-slug: "demon-slayer-filme-tenta-entrar-para-o-guinness-em-ao-com-arroz"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/qi-q3EV04kPSXcUaYfIi-Frem3k=/987x0/smart/uploads/conteudo/fotos/demonslayer_6nmYYiX.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QHJzs84l-I8aZLLjUAQcHKOYvEc=/480x360/smart/extras/conteudos/demonslayer_VAhcKJi.jpg"
-tags: ["Demon Slayer", "Demon Slayer Infinity Castle", "Guinness World Records", "filme Demon Slayer", "arte de arroz", "Tanjiro Kamado", "mangá", "anime", "Gyoda"]
-keywords: "Demon Slayer, Demon Slayer Infinity Castle, Guinness World Records, filme Demon Slayer, arte de arroz, Tanjiro Kamado, mangá, anime, Gyoda"
-author: "Pablo Moura"
-data: "2025-04-26T15:17:41.891Z"
+title: Demon Slayer Bate Recorde com Arte Gigante de Arroz para Lançamento de Filme
+slug: demon-slayer-filme-tenta-entrar-para-o-guinness-em-ao-com-arroz
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/qi-q3EV04kPSXcUaYfIi-Frem3k=/987x0/smart/uploads/conteudo/fotos/demonslayer_6nmYYiX.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QHJzs84l-I8aZLLjUAQcHKOYvEc=/480x360/smart/extras/conteudos/demonslayer_VAhcKJi.jpg
+tags:
+  - Demon Slayer
+  - Demon Slayer Infinity Castle
+  - Guinness World Records
+  - filme Demon Slayer
+  - arte de arroz
+  - Tanjiro Kamado
+  - mangá
+  - anime
+  - Gyoda
+keywords: >-
+  Demon Slayer, Demon Slayer Infinity Castle, Guinness World Records, filme
+  Demon Slayer, arte de arroz, Tanjiro Kamado, mangá, anime, Gyoda
+author: Pablo Moura
+data: '2025-04-26T15:17:41.891Z'
+resumo: >-
+  O filme 'Demon Slayer Infinity Castle' busca quebrar recordes com uma
+  inusitada arte de arroz em Gyoda, Japão, enquanto se prepara para estrear nos
+  cinemas.
 ---
 
 ## Demon Slayer Almeja Recorde Mundial com Arte Inovadora

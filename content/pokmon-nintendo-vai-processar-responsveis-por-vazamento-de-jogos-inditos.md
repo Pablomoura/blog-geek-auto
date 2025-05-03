@@ -1,14 +1,33 @@
 ---
-title: "Nintendo Enfrenta Vazamento: Processo em Andamento e Detalhes do Nintendo Switch 2 Revelados"
-slug: "pokmon-nintendo-vai-processar-responsveis-por-vazamento-de-jogos-inditos"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/oHqD2DyklYU?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/s4xJddbEfUaJlHF6P9nuuHK-_Pk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-22_152858.png"
-tags: ["Nintendo", "vazamento de jogos", "Nintendo Switch 2", "Teraleak", "processo legal", "Discord", "lançamento de console", "jogos Pokémon", "GameFreakOUT", "FreakLeak"]
-keywords: "Nintendo, vazamento de jogos, Nintendo Switch 2, Teraleak, processo legal, Discord, lançamento de console, jogos Pokémon, GameFreakOUT, FreakLeak"
-author: "Pablo Moura"
-data: "2025-04-22T19:17:17.475Z"
+title: >-
+  Nintendo Enfrenta Vazamento: Processo em Andamento e Detalhes do Nintendo
+  Switch 2 Revelados
+slug: pokmon-nintendo-vai-processar-responsveis-por-vazamento-de-jogos-inditos
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/oHqD2DyklYU?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/s4xJddbEfUaJlHF6P9nuuHK-_Pk=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-22_152858.png
+tags:
+  - Nintendo
+  - vazamento de jogos
+  - Nintendo Switch 2
+  - Teraleak
+  - processo legal
+  - Discord
+  - lançamento de console
+  - jogos Pokémon
+  - GameFreakOUT
+  - FreakLeak
+keywords: >-
+  Nintendo, vazamento de jogos, Nintendo Switch 2, Teraleak, processo legal,
+  Discord, lançamento de console, jogos Pokémon, GameFreakOUT, FreakLeak
+author: Pablo Moura
+data: '2025-04-22T19:17:17.475Z'
+resumo: >-
+  A Nintendo está tomando medidas legais contra o vazamento de informações
+  sigilosas dos seus próximos jogos e detalhes do aguardado Nintendo Switch 2,
+  apelidado de 'Teraleak'.
 ---
 
 A gigante dos jogos, Nintendo, está em busca dos responsáveis por um grande vazamento de informações, envolvendo detalhes ainda não anunciados de futuros jogos da franquia Pokémon e do novo console Nintendo Switch 2. Este incidente, conhecido como 'Teraleak', originou-se na Game Freak, desenvolvedora dos jogos Pokémon, e se espalhou através de um servidor de Discord chamado 'FreakLeak'.

@@ -1,14 +1,32 @@
 ---
-title: "Netflix na Vanguarda: Ted Sarandos Declara que a Plataforma Está 'Salvando Hollywood'"
-slug: "ceo-diz-que-netflix-est-salvando-hollywood-e-que-cinemas-so-ultrapassados"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/qsPnpoM-TS86-8gCZv3ddu_d1pw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-24T115808.331.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/kq2T2U_-VhpTOhbpoa7N2aqfzrI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T115751.821.png"
-tags: ["Netflix", "Ted Sarandos", "Hollywood", "streaming", "cinemas", "indústria cinematográfica", "Beasts of No Nation", "Oscar"]
-keywords: "Netflix, Ted Sarandos, Hollywood, streaming, cinemas, indústria cinematográfica, Beasts of No Nation, Oscar"
-author: "Ana Luiza"
-data: "2025-04-24T15:22:23.878Z"
+title: >-
+  Netflix na Vanguarda: Ted Sarandos Declara que a Plataforma Está 'Salvando
+  Hollywood'
+slug: ceo-diz-que-netflix-est-salvando-hollywood-e-que-cinemas-so-ultrapassados
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/qsPnpoM-TS86-8gCZv3ddu_d1pw=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-24T115808.331.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/kq2T2U_-VhpTOhbpoa7N2aqfzrI=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-24T115751.821.png
+tags:
+  - Netflix
+  - Ted Sarandos
+  - Hollywood
+  - streaming
+  - cinemas
+  - indústria cinematográfica
+  - Beasts of No Nation
+  - Oscar
+keywords: >-
+  Netflix, Ted Sarandos, Hollywood, streaming, cinemas, indústria
+  cinematográfica, Beasts of No Nation, Oscar
+author: Ana Luiza
+data: '2025-04-24T15:22:23.878Z'
+resumo: >-
+  Ted Sarandos, CEO da Netflix, afirma que sua empresa está revitalizando
+  Hollywood e considera os cinemas como um conceito obsoleto, refletindo uma
+  grande mudança no consumo de entretenimento.
 ---
 
 Ted Sarandos, o CEO da Netflix, recentemente fez declarações que sacudiram o universo do cinema e do streaming. De acordo com o executivo, a Netflix não apenas está transformando a indústria de Hollywood, mas também está redefinindo o modo como os filmes são consumidos. 

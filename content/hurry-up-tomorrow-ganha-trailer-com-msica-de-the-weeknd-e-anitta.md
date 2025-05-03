@@ -1,14 +1,26 @@
 ---
-title: "Hurry Up Tomorrow: Novo Trailer Revela Música de The Weeknd e Anitta"
-slug: "hurry-up-tomorrow-ganha-trailer-com-msica-de-the-weeknd-e-anitta"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/G_SfArckqkxyqtL9HjhDdhB-llo=/987x0/smart/uploads/conteudo/fotos/hurryuptomorrow.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/T76Is69zMhb58MZH3xDzyZCIXXA=/480x360/smart/extras/conteudos/hurryuptomorrow.jpg"
-tags: ["Hurry Up Tomorrow", "The Weeknd", "Anitta", "Trailer", "Cinema", "Música"]
-keywords: "Hurry Up Tomorrow, The Weeknd, Anitta, Trailer, Cinema, Música"
-author: "Pablo Moura"
-data: "2025-05-03T16:21:53.061Z"
+title: 'Hurry Up Tomorrow: Novo Trailer Revela Música de The Weeknd e Anitta'
+slug: hurry-up-tomorrow-ganha-trailer-com-msica-de-the-weeknd-e-anitta
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/G_SfArckqkxyqtL9HjhDdhB-llo=/987x0/smart/uploads/conteudo/fotos/hurryuptomorrow.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/T76Is69zMhb58MZH3xDzyZCIXXA=/480x360/smart/extras/conteudos/hurryuptomorrow.jpg
+tags:
+  - Hurry Up Tomorrow
+  - The Weeknd
+  - Anitta
+  - Trailer
+  - Cinema
+  - Música
+keywords: 'Hurry Up Tomorrow, The Weeknd, Anitta, Trailer, Cinema, Música'
+author: Pablo Moura
+data: '2025-05-03T16:21:53.061Z'
+resumo: >-
+  O aguardado filme Hurry Up Tomorrow, estrelado por The Weeknd, ganha um novo
+  trailer com a participação especial de Anitta na trilha sonora. Estreia
+  marcada para 15 de maio nos cinemas brasileiros.
 ---
 
 ## Hurry Up Tomorrow: Uma Jornada Cinematográfica e Musical

@@ -1,14 +1,28 @@
 ---
-title: "Matthew Lillard Negocia Entrada na Série 'Carrie' do Prime Video"
-slug: "carrie-srie-do-prime-video-pode-ter-matthew-lillard-no-elenco"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/HawK83uqftypjtm85JN0iBBgvrE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_153942.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/HawK83uqftypjtm85JN0iBBgvrE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_153942.png"
-tags: ["Matthew Lillard", "Carrie A Estranha", "Prime Video", "Mike Flanagan", "Stephen King", "série de terror"]
-keywords: "Matthew Lillard, Carrie A Estranha, Prime Video, Mike Flanagan, Stephen King, série de terror"
-author: "Luana Souza"
-data: "2025-05-01T19:15:59.411Z"
+title: Matthew Lillard Negocia Entrada na Série 'Carrie' do Prime Video
+slug: carrie-srie-do-prime-video-pode-ter-matthew-lillard-no-elenco
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/HawK83uqftypjtm85JN0iBBgvrE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_153942.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/HawK83uqftypjtm85JN0iBBgvrE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-01_153942.png
+tags:
+  - Matthew Lillard
+  - Carrie A Estranha
+  - Prime Video
+  - Mike Flanagan
+  - Stephen King
+  - série de terror
+keywords: >-
+  Matthew Lillard, Carrie A Estranha, Prime Video, Mike Flanagan, Stephen King,
+  série de terror
+author: Luana Souza
+data: '2025-05-01T19:15:59.411Z'
+resumo: >-
+  Matthew Lillard, conhecido por seus papéis em 'Pânico' e 'Scooby-Doo', está em
+  negociações para integrar o elenco da nova adaptação de 'Carrie' pelo Prime
+  Video.
 ---
 
 ## Matthew Lillard Pode Estar em 'Carrie: A Estranha'

@@ -1,14 +1,28 @@
 ---
-title: "Chuva Ácida: Suspense e Drama na Sessão da Tarde com Guillaume Canet"
-slug: "chuva-cida-ser-exibido-na-sesso-da-tarde-da-globo-desta-quinta"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/6iZdUNKdM-E?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/BwcIumdpOL_PkpIRF8oQOleI6V8=/480x360/smart/extras/conteudos/chuvaacida2023.jpg"
-tags: ["Chuva Ácida", "Sessão da Tarde", "Guillaume Canet", "filmes 2023", "suspense", "drama familiar", "TV Globo"]
-keywords: "Chuva Ácida, Sessão da Tarde, Guillaume Canet, filmes 2023, suspense, drama familiar, TV Globo"
-author: "Luana Souza"
-data: "2025-04-24T11:16:27.057Z"
+title: 'Chuva Ácida: Suspense e Drama na Sessão da Tarde com Guillaume Canet'
+slug: chuva-cida-ser-exibido-na-sesso-da-tarde-da-globo-desta-quinta
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/6iZdUNKdM-E?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/BwcIumdpOL_PkpIRF8oQOleI6V8=/480x360/smart/extras/conteudos/chuvaacida2023.jpg
+tags:
+  - Chuva Ácida
+  - Sessão da Tarde
+  - Guillaume Canet
+  - filmes 2023
+  - suspense
+  - drama familiar
+  - TV Globo
+keywords: >-
+  Chuva Ácida, Sessão da Tarde, Guillaume Canet, filmes 2023, suspense, drama
+  familiar, TV Globo
+author: Luana Souza
+data: '2025-04-24T11:16:27.057Z'
+resumo: >-
+  Nesta quinta-feira, a Sessão da Tarde apresenta 'Chuva Ácida', um thriller de
+  2023 protagonizado por Guillaume Canet, que promete tensão e emoção em uma
+  trama envolvendo desastres naturais.
 ---
 
 ## Chuva Ácida (2023) na Sessão da Tarde

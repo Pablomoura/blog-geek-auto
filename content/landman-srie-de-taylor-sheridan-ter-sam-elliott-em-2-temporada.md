@@ -1,14 +1,28 @@
 ---
-title: "Sam Elliott se junta ao elenco de 'Landman' para a segunda temporada na Paramount+"
-slug: "landman-srie-de-taylor-sheridan-ter-sam-elliott-em-2-temporada"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/7zxh49-bsIk?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/TkjEbnyI8tjRDM8htcMFUkyJJyI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T194548.852.png"
-tags: ["Landman", "Sam Elliott", "Paramount+", "Taylor Sheridan", "séries de sucesso", "segunda temporada"]
-keywords: "Landman, Sam Elliott, Paramount+, Taylor Sheridan, séries de sucesso, segunda temporada"
-author: "Ana Luiza"
-data: "2025-04-30T23:18:28.623Z"
+title: >-
+  Sam Elliott se junta ao elenco de 'Landman' para a segunda temporada na
+  Paramount+
+slug: landman-srie-de-taylor-sheridan-ter-sam-elliott-em-2-temporada
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/7zxh49-bsIk?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/TkjEbnyI8tjRDM8htcMFUkyJJyI=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-30T194548.852.png
+tags:
+  - Landman
+  - Sam Elliott
+  - Paramount+
+  - Taylor Sheridan
+  - séries de sucesso
+  - segunda temporada
+keywords: >-
+  Landman, Sam Elliott, Paramount+, Taylor Sheridan, séries de sucesso, segunda
+  temporada
+author: Ana Luiza
+data: '2025-04-30T23:18:28.623Z'
+resumo: >-
+  A série de sucesso da Paramount+, 'Landman', confirma Sam Elliott em um papel
+  misterioso para sua próxima temporada, elevando as expectativas dos fãs.
 ---
 
 ## Sam Elliott entra para 'Landman' na Paramount+

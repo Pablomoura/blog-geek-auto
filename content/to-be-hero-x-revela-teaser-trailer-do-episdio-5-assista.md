@@ -1,14 +1,25 @@
 ---
-title: "To Be Hero X: Trailer do Episódio 5 Promete Reviravoltas e Superpoderes"
-slug: "to-be-hero-x-revela-teaser-trailer-do-episdio-5-assista"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/mfDjqVmG3ys?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/vP6rmq01XA2fS1wBNA_U55VClLM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T131911.909.png"
-tags: ["To Be Hero X", "Crunchyroll", "anime", "super-heróis", "episódio 5", "trailer"]
-keywords: "To Be Hero X, Crunchyroll, anime, super-heróis, episódio 5, trailer"
-author: "Luana Souza"
-data: "2025-04-28T17:18:05.603Z"
+title: 'To Be Hero X: Trailer do Episódio 5 Promete Reviravoltas e Superpoderes'
+slug: to-be-hero-x-revela-teaser-trailer-do-episdio-5-assista
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/mfDjqVmG3ys?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/vP6rmq01XA2fS1wBNA_U55VClLM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-28T131911.909.png
+tags:
+  - To Be Hero X
+  - Crunchyroll
+  - anime
+  - super-heróis
+  - episódio 5
+  - trailer
+keywords: 'To Be Hero X, Crunchyroll, anime, super-heróis, episódio 5, trailer'
+author: Luana Souza
+data: '2025-04-28T17:18:05.603Z'
+resumo: >-
+  O episódio 5 de To Be Hero X, disponível na Crunchyroll, traz uma prévia
+  eletrizante que expande o universo dos super-heróis alimentados pela confiança
+  popular.
 ---
 
 ## To Be Hero X: Um Novo Capítulo de Heróis e Desafios

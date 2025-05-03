@@ -1,14 +1,28 @@
 ---
-title: "Anime Friends 2025 em São Paulo: Monte Cristo Coral e Orquestra Confirmados!"
-slug: "anime-friends-2025-ter-show-de-monte-cristo-coral-e-orquestra"
-categoria: "MANGÁS E ANIMES"
-midia: "https://cdn.ome.lt/n8uQ91rfLWz7dKv8u2l30jm_i0M=/987x0/smart/uploads/conteudo/fotos/montecristocoral.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/sulKQ0f0n3o0-s4_G07RxzOGKwA=/480x360/smart/extras/conteudos/montecristocoral.jpg"
-tags: ["Anime Friends 2025", "Monte Cristo Coral", "seven oops", "cultura pop", "música em anime", "São Paulo"]
-keywords: "Anime Friends 2025, Monte Cristo Coral, seven oops, cultura pop, música em anime, São Paulo"
-author: "Ana Luiza"
-data: "2025-04-26T22:16:55.629Z"
+title: 'Anime Friends 2025 em São Paulo: Monte Cristo Coral e Orquestra Confirmados!'
+slug: anime-friends-2025-ter-show-de-monte-cristo-coral-e-orquestra
+categoria: MANGÁS E ANIMES
+midia: >-
+  https://cdn.ome.lt/n8uQ91rfLWz7dKv8u2l30jm_i0M=/987x0/smart/uploads/conteudo/fotos/montecristocoral.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/sulKQ0f0n3o0-s4_G07RxzOGKwA=/480x360/smart/extras/conteudos/montecristocoral.jpg
+tags:
+  - Anime Friends 2025
+  - Monte Cristo Coral
+  - seven oops
+  - cultura pop
+  - música em anime
+  - São Paulo
+keywords: >-
+  Anime Friends 2025, Monte Cristo Coral, seven oops, cultura pop, música em
+  anime, São Paulo
+author: Ana Luiza
+data: '2025-04-26T22:16:55.629Z'
+resumo: >-
+  A edição de 2025 do Anime Friends trará performances exclusivas do Monte
+  Cristo Coral e Orquestra e do aclamado grupo seven oops, famoso por suas
+  músicas em Naruto Shippuden.
 ---
 
 ## Grandes Atrações Musicais no Anime Friends 2025
