@@ -17,28 +17,37 @@ export default function JsonLdNoticia({
   slug: string;
   data: NoticiaData;
 }) {
+  const url = `https://www.geeknews.com.br/noticia/${slug}`;
+
+  const rawImage = data.thumb || data.midia || "";
+  const image = rawImage.startsWith("http")
+    ? rawImage
+    : `https://www.geeknews.com.br${rawImage}`;
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
-    headline: data.title,
-    description: data.resumo || "",
-    image: [data.thumb || data.midia || ""],
-    datePublished: data.data || new Date().toISOString(),
-    dateModified: data.data || new Date().toISOString(),
-    mainEntityOfPage: {
+    "headline": data.title,
+    "description": data.resumo || "",
+    "image": [image],
+    "datePublished": data.data || new Date().toISOString(),
+    "dateModified": data.data || new Date().toISOString(),
+    "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://www.geeknews.com.br/noticia/${slug}`,
+      "@id": url,
     },
-    author: {
+    "author": {
       "@type": "Person",
-      name: data.author || "GeekNews",
+      "name": data.author || "GeekNews",
     },
-    publisher: {
+    "publisher": {
       "@type": "Organization",
-      name: "GeekNews",
-      logo: {
+      "name": "GeekNews",
+      "logo": {
         "@type": "ImageObject",
-        url: "https://www.geeknews.com.br/logo.png",
+        "url": "https://www.geeknews.com.br/logo.png",
+        "width": 600,
+        "height": 60,
       },
     },
   };
