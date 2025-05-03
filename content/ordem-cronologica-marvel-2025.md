@@ -9,6 +9,7 @@ resumo: >-
   2027, organizados em ordem cronológica. Veja o que vem por aí no MCU,
   incluindo Thunderbolts, Quarteto Fantástico, Vingadores: Secret Wars e mais.
 data: '2025-04-06T23:00:00.000Z'
+atualizado_em: "2025-05-03"
 thumb: /images/Thumb-marvel-2025.jpg
 midia: /images/marvel-2025-capa.webp
 tipoMidia: imagem
@@ -39,7 +40,7 @@ Neste artigo, reunimos **todos os lançamentos confirmados da Marvel a partir de
 
 Confira os lançamentos confirmados da Marvel Studios para 2025, organizados por ordem de estreia:
 
-### 1. *Thunderbolts* — 2 de maio de 2025 (Filme)
+### 1. *Thunderbolts* — 30 de abril de 2025 (Filme)
 
 ![Thunderbolts](/images/Thunderbolts.jpg "Thunderbolts") 
 
@@ -55,7 +56,7 @@ Derivada de *Pantera Negra: Wakanda Para Sempre*, a série foca em **Riri Willia
 
 ---
 
-### 3. *Fantastic Four: First Steps* — 25 de julho de 2025 (Filme)
+### 3. *Fantastic Four: First Steps* — 24 de julho de 2025 (Filme)
 
 ![Fantastic Four: First Steps](/images/Fantastic-Four-group.jpg "Quarteto Fantástico") 
 
@@ -101,7 +102,7 @@ O retorno dos Vingadores está marcado para 2026. *Doomsday* trará **Robert Dow
 
 ---
 
-### 8. *Spider-Man: Brand New Day* — 31 de julho de 2026 (Filme)
+### 8. *Spider-Man: Brand New Day* — 30 de julho de 2026 (Filme)
 
 ![Spider-Man: Brand New Day](/images/Spider-Man-Brand-New-Day.jpg "Spider-Man: Brand New Day") 
 
@@ -109,7 +110,7 @@ Tom Holland retorna como Peter Parker, agora reconstruindo sua vida após o esqu
 
 ---
 
-### 9. *Avengers: Secret Wars* — maio de 2027 (Filme)
+### 9. *Avengers: Secret Wars* — 7 de maio de 2027 (Filme)
 
 ![Avengers: Secret Wars](/images/AvengersSecretWars.jpg "Avengers: Secret Wars") 
 
@@ -144,7 +145,7 @@ Esses projetos ainda não têm cronograma oficial, mas devem influenciar a próx
 
 ### Qual o próximo filme da Marvel a estrear?
 
-O próximo lançamento da Marvel Studios será *Thunderbolts*, com estreia marcada para **2 de maio de 2025** nos cinemas.
+O próximo lançamento da Marvel Studios será *Thunderbolts*, com estreia marcada para **30 de abril de 2025** nos cinemas.
 
 ---
 
