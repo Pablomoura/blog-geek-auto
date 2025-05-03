@@ -1,8 +1,8 @@
-name: Atualizar cache de posts
+name: Tweetador
 
 on:
   schedule:
-    - cron: '0 11-23,0,1 * * *' # Executa a cada hora entre 11h e 1h do dia seguinte
+    - cron: '0 11-23,0,2 * * *' # Executa a cada hora entre 11h e 1h do dia seguinte
   workflow_dispatch:     # Permite executar manualmente no GitHub
 
 jobs:
@@ -30,12 +30,3 @@ jobs:
 
       - name: Roda o Tweetador
         run: node scripts/tweetador.js
-
-      - name: Commit e push do tweetador
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Posta no Tweeter diariamente"
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/Pablomoura/blog-geek-auto.git HEAD:main
-      
