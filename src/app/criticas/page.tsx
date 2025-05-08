@@ -65,6 +65,7 @@ export default async function CriticasPage() {
                   width={160}
                   height={280}
                   className="w-full h-[320px] object-cover rounded-t"
+                  unoptimized
                 />
               )}
               <div className="p-4">

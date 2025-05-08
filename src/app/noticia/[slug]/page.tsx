@@ -288,6 +288,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   height={450}
                   sizes="(max-width: 768px) 100vw, 800px"
                   className="w-full rounded-lg shadow-lg mb-6"
+                  unoptimized
                   priority
                   />
                 )}
@@ -364,6 +365,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                       width={80}
                       height={80}
                       className="rounded-full border-2 border-orange-400"
+                      unoptimized
                     />
                     <div>
                     <Link
@@ -417,6 +419,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                               width={300}
                               height={128}
                               priority={false}
+                              unoptimized
                             />
                           </Link>
                           </div>

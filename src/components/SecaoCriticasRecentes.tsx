@@ -30,6 +30,7 @@ export default function SecaoCriticasRecentes({ posts }: Props) {
                 width={140}
                 height={207}
                 className="w-full min-h-[207px] rounded-lg shadow"
+                unoptimized
                 />
               </div>
               <h3 className="text-xs font-bold mt-3 text-gray-500 dark:text-gray-500">

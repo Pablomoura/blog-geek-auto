@@ -35,6 +35,7 @@ export default function FichaTecnica({
           width={200}
           height={300}
           className="rounded-lg object-cover"
+          unoptimized
         />
       </div>
 

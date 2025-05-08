@@ -47,6 +47,7 @@ export default function PostsRelacionados({ posts }: { posts: PostResumo[] }) {
                 width={128}
                 height={96}
                 className="w-32 h-24 object-cover rounded-md"
+                unoptimized
               />
             )}
             <div className="flex flex-col justify-center">

@@ -10,6 +10,7 @@ export default function AutorCard({ nome, bio, imagem }: { nome: string, bio: st
         width={80}
         height={80}
         className="rounded-full object-cover"
+        unoptimized
       />
       <div>
         <p className="text-sm text-gray-500 dark:text-gray-400 uppercase">Sobre o autor</p>

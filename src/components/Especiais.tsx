@@ -76,6 +76,7 @@ export default function Especiais({ especiais }: EspeciaisProps) {
                 width={500}
                 height={300}
                 className="w-full h-48 object-cover"
+                unoptimized
               />
             )}
             <div className="p-4">

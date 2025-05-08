@@ -228,6 +228,7 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
                 width={764}
                 height={128}
                 priority={false}
+                unoptimized
               />
             </Link>
             </div>
@@ -247,6 +248,7 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
                 width={300}
                 height={128}
                 priority={false}
+                unoptimized
               />
             </Link>
             </div>

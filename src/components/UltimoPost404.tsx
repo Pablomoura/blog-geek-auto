@@ -26,6 +26,7 @@ export default async function UltimoPost404() {
         width={400}
         height={160}
         className="w-full h-40 object-cover group-hover:scale-105 transition-transform"
+        unoptimized
       />
       <div className="p-4">
         <p className="text-xs uppercase text-orange-500 font-bold mb-1">Último post</p>
