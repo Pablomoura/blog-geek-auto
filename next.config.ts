@@ -11,6 +11,7 @@ const nextConfig = {
       "images.justwatch.com",
       "justwatch.com",
     ],
+    unoptimized: true,
   },
   serverExternalPackages: ["puppeteer-extra", "puppeteer-extra-plugin-stealth"],
   experimental: {
