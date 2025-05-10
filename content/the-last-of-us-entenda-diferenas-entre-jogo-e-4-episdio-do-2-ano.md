@@ -22,6 +22,7 @@ tags:
   - Dina
   - Isaac
   - Seattle
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, Naughty Dog, adaptação, série, jogo, diferenças,
   semelhanças, Ellie, Dina, Isaac, Seattle

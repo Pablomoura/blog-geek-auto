@@ -17,6 +17,7 @@ tags:
   - DC Comics
   - filme Superman
   - skin Superman Fortnite
+  - especial-Superman
 keywords: >-
   Fortnite, Superman, James Gunn, Epic Games, DC Comics, filme Superman, skin
   Superman Fortnite

@@ -15,6 +15,7 @@ tags:
   - Panini
   - mangá
   - anime
+  - especial-Solo Leveling
 keywords: >-
   Solo Leveling, Chugong, Kang Tae-Shik, Sung Jinwoo, Crunchyroll, Panini,
   mangá, anime

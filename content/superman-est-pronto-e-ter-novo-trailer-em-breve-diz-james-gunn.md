@@ -12,6 +12,7 @@ tags:
   - novo trailer Superman
   - DC Universe
   - lançamento filme Superman
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, novo trailer Superman, DC Universe, lançamento filme
   Superman

@@ -15,6 +15,7 @@ tags:
   - Krypto
   - Fortaleza da Solidão
   - filme Superman 2025
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DC, David Corenswet, Krypto, Fortaleza da Solidão, filme
   Superman 2025

@@ -13,6 +13,7 @@ tags:
   - Crunchyroll
   - Sota Furuhashi
   - A-1 Pictures
+  - especial-Solo Leveling
 keywords: >-
   Solo Leveling, terceira temporada Solo Leveling, anime, Crunchyroll, Sota
   Furuhashi, A-1 Pictures

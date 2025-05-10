@@ -16,6 +16,7 @@ tags:
   - Nickelodeon
   - série
   - episódio novo
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, Josh Peck, HBO, segunda temporada, Drake & Josh, Nickelodeon,
   série, episódio novo
