@@ -18,7 +18,6 @@ tags:
   - plataformas
   - Crunchyroll
   - Kindle
-  - especial-Frieren
 data: '2025-04-07T21:32:34.702Z'
 author: Pablo Moura
 ---

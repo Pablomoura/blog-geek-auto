@@ -21,7 +21,6 @@ tags:
   - design de personagem
   - música em filmes
   - análise de arte
-  - especial-Frieren
 data: '2025-04-04T21:35:27.650Z'
 author: Ana Luiza
 ---

@@ -17,6 +17,7 @@ tags:
   - filme Superman
   - DC Universe
   - cultura pop
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, NBA, Jayson Tatum, Boston Celtics, comercial, filme
   Superman, DC Universe, cultura pop

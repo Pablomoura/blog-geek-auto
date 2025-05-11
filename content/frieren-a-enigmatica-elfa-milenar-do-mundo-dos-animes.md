@@ -19,7 +19,6 @@ tags:
   - Aventura
   - Cultura Elfa
   - Imortalidade
-  - especial-Frieren
 data: '2025-04-08T01:09:13.429Z'
 author: Pablo Moura
 ---

@@ -22,7 +22,6 @@ tags:
   - relacionamento
   - análise de personagens
   - cultura
-  - especial-Frieren
 data: '2025-04-08T21:27:09.102Z'
 author: Pablo Moura
 ---

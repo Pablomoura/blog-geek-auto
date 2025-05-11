@@ -21,7 +21,6 @@ tags:
   - fantasia
   - elementos mágicos
   - cultura
-  - especial-Frieren
 data: '2025-04-08T21:27:39.649Z'
 author: Ana Luiza
 ---

@@ -22,7 +22,6 @@ tags:
   - trilha sonora
   - design visual
   - avaliação de anime
-  - especial-Frieren
 data: '2025-04-08T21:23:45.700Z'
 author: Ana Luiza
 ---

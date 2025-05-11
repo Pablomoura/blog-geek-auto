@@ -20,7 +20,6 @@ tags:
   - arte
   - emoção
   - cultura pop
-  - especial-Frieren
 data: '2025-04-08T21:24:42.304Z'
 author: Pablo Moura
 ---

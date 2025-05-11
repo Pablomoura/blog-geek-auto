@@ -15,7 +15,6 @@ tags:
   - segunda temporada
   - curtas de anime
   - lançamento
-  - especial-Frieren
 author: Ana Luiza
 ---
 

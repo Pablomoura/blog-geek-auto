@@ -14,8 +14,6 @@ tags:
   - MCU
   - Quadrinhos
   - Super-herói
-  - Filme
-  - especial-Marvel
 keywords: >-
   Marvel Sentinela, Sentinela Marvel poderes, Robert Reynolds, Thunderbolts,
   Sentinela Marvel filme, herói mais forte da Marvel, MCU, Vácuo

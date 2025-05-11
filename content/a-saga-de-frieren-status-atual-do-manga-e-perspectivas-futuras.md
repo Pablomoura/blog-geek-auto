@@ -20,7 +20,6 @@ tags:
   - História de Frieren
   - Leitura de Mangá
   - Cultura Pop Japonesa
-  - especial-Frieren
 data: '2025-04-07T21:33:25.643Z'
 author: Luana Souza
 ---

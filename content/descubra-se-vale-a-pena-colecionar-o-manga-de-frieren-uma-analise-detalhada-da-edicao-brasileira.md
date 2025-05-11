@@ -25,7 +25,6 @@ tags:
   - qualidade de impressão
   - custo-benefício
   - valor de coleção
-  - especial-Frieren
 data: '2025-04-02T21:33:49.753Z'
 author: Ana Luiza
 ---

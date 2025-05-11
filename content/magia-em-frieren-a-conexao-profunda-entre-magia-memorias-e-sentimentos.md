@@ -22,7 +22,6 @@ tags:
   - desenvolvimento de personagem
   - narrativa
   - emoções
-  - especial-Frieren
 data: '2025-04-08T21:35:05.074Z'
 author: Pablo Moura
 ---

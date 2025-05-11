@@ -19,7 +19,6 @@ tags:
   - filosofia
   - premiações
   - anime
-  - especial-Frieren
 data: '2025-04-06T21:38:34.924Z'
 author: Ana Luiza
 ---

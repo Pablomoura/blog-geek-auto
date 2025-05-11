@@ -20,7 +20,6 @@ tags:
   - arte
   - narrativa
   - emocional
-  - especial-Frieren
 data: '2025-04-08T21:25:22.658Z'
 author: Luana Souza
 ---

@@ -21,7 +21,6 @@ tags:
   - aventura épica
   - personagens icônicos
   - legado
-  - especial-Frieren
 data: '2025-04-08T21:26:19.715Z'
 author: Luana Souza
 ---

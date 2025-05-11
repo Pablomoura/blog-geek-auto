@@ -24,7 +24,6 @@ tags:
   - Anime Analysis
   - Japanese Animation
   - Manga Popularity
-  - especial-Frieren
 data: '2025-04-08T21:24:11.571Z'
 author: Pablo Moura
 ---

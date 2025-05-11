@@ -22,7 +22,6 @@ tags:
   - personagens
   - visual
   - trilha sonora
-  - especial-Frieren
 data: '2025-04-08T21:32:15.170Z'
 author: Luana Souza
 ---

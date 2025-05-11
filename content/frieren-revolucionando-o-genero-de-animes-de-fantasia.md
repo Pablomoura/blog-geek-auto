@@ -22,7 +22,6 @@ tags:
   - Emoções
   - Inovação no Anime
   - Gênero de Fantasia
-  - especial-Frieren
 data: '2025-04-09T21:25:01.895Z'
 author: Luana Souza
 ---

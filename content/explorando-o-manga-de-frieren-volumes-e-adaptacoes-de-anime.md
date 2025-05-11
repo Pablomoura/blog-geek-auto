@@ -19,7 +19,6 @@ tags:
   - fantasia
   - imortalidade
   - narrativa
-  - especial-Frieren
 data: '2025-04-05T21:33:00.922Z'
 author: Ana Luiza
 ---

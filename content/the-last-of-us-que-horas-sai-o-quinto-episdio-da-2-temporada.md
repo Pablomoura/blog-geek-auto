@@ -15,6 +15,7 @@ tags:
   - Craig Mazin
   - Neil Druckmann
   - estreia de episódio
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, segunda temporada, Bella Ramsey, Isabela Merced, Craig
   Mazin, Neil Druckmann, estreia de episódio
