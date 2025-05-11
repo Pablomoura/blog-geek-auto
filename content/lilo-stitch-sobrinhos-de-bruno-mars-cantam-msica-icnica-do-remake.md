@@ -28,7 +28,7 @@ resumo: >-
 
 ## Uma Surpresa Musical no Remake de Lilo & Stitch
 
-<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1921200062530490833"></a></blockquote>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="pt" dir="ltr">O ENCONTRO DE GERAÇÕES!<br><br>Novo featurette sobre a música em ‘Lilo &amp; Stitch’ revela que Mark Keali’i Ho’omalu retornou depois de 23 anos para gravar a nova versão de ‘He Mele No Lilo’, e que os sobrinhos de Bruno Mars é quem cantam ‘Burning Love’.<a href="https://t.co/qLiNT5jrNl">pic.twitter.com/qLiNT5jrNl</a></p>&mdash; AD (@almanaquedisney) <a href="https://twitter.com/almanaquedisney/status/1921200062530490833?ref_src=twsrc%5Etfw">May 10, 2025</a></blockquote> 
 
 A Disney revelou um novo aspecto emocionante do seu próximo remake live-action de Lilo & Stitch. Neste sábado, foi confirmado que os sobrinhos de Bruno Mars contribuirão para a trilha sonora do filme. O convite para essa participação especial partiu de Mark Keali’i Ho’omalu, que já havia trabalhado na animação original de 2002, compondo a canção "Burning Love".
 
