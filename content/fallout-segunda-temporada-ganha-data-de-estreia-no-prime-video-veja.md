@@ -31,7 +31,11 @@ resumo: >-
 
 A série de sucesso **Fallout** acaba de ter sua segunda temporada anunciada para dezembro de 2025, disponível no Prime Video. Durante um evento recente, a Amazon revelou um trailer emocionante que ofereceu um primeiro olhar sobre as novas aventuras em New Vegas, uma das localizações icônicas do universo do jogo.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">First clip from ‘FALLOUT’ Season 2 has been released.<br><br>Streaming this December on Prime Video. <a href="https://t.co/9D6cb0nqcl">pic.twitter.com/9D6cb0nqcl</a></p>&mdash; Nexus Point News (@NexusPointNews) <a href="https://twitter.com/NexusPointNews/status/1922072703206293719?ref_src=twsrc%5Etfw">May 12, 2025</a></blockquote>
+
 Além de confirmar a continuação da saga, foi anunciado que **Fallout** já está renovada para uma terceira temporada, garantindo mais emoções no mundo pós-apocalíptico.
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">A featurette for ‘FALLOUT’ Season 2.<br><br>Premieres December on Prime Video. <a href="https://t.co/ltq65pnypC">pic.twitter.com/ltq65pnypC</a></p>&mdash; Nexus Point News (@NexusPointNews) <a href="https://twitter.com/NexusPointNews/status/1922073334960828499?ref_src=twsrc%5Etfw">May 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Personagens e Enredo
 
