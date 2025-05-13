@@ -17,6 +17,7 @@ tags:
   - crítica
   - roteiro
   - adaptação de jogo
+  - especial-The Last of Us
 keywords: 'The Last of Us, HBO, série, episódio 5, crítica, roteiro, adaptação de jogo'
 author: Pablo Moura
 data: '2025-05-12T12:44:04.909Z'

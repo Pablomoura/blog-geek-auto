@@ -1,4 +1,6 @@
-// src/components/SecaoCriticasRecentes.tsx
+"use client";
+
+import { useEffect, useState } from "react";
 import Link from "@/components/SmartLink";
 import Image from "next/image";
 import { PostResumo } from "@/types/post";
@@ -8,6 +10,18 @@ type Props = {
 };
 
 export default function SecaoCriticasRecentes({ posts }: Props) {
+  const [qtdExibir, setQtdExibir] = useState(5);
+
+  useEffect(() => {
+    const ajustarQtd = () => {
+      setQtdExibir(window.innerWidth < 768 ? 3 : 6); // mobile mostra 3, desktop 6 (ou total)
+    };
+
+    ajustarQtd();
+    window.addEventListener("resize", ajustarQtd);
+    return () => window.removeEventListener("resize", ajustarQtd);
+  }, []);
+
   if (!posts || posts.length === 0) return null;
 
   return (
@@ -17,20 +31,20 @@ export default function SecaoCriticasRecentes({ posts }: Props) {
           Últimas Críticas
         </h2>
         <div className="flex overflow-x-auto gap-4">
-          {posts.map((post, index) => (
+          {posts.slice(0, qtdExibir).map((post, index) => (
             <Link
               key={index}
               href={`/noticia/${post.slug}`}
               className="min-w-[140px] max-w-[140px] flex-shrink-0"
             >
               <div className="w-full h-[207px] relative rounded overflow-hidden">
-              <Image
-                src={post.capaObra || "/images/default.jpg"}
-                alt={post.tituloPortugues || post.titulo}
-                width={140}
-                height={207}
-                className="w-full min-h-[207px] rounded-lg shadow"
-                unoptimized
+                <Image
+                  src={post.capaObra || "/images/default.jpg"}
+                  alt={post.tituloPortugues || post.titulo}
+                  width={140}
+                  height={207}
+                  className="w-full min-h-[207px] rounded-lg shadow"
+                  unoptimized
                 />
               </div>
               <h3 className="text-xs font-bold mt-3 text-gray-500 dark:text-gray-500">
@@ -39,7 +53,6 @@ export default function SecaoCriticasRecentes({ posts }: Props) {
             </Link>
           ))}
 
-          {/* Botão final para ver todas as críticas */}
           <Link
             href="/criticas"
             className="min-w-[140px] max-w-[140px] h-[210px] flex flex-col items-center justify-center border border-gray-600 border-dashed rounded text-sm text-gray-400 hover:bg-gray-800 transition"

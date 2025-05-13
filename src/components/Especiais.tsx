@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import Link from "@/components/SmartLink";
 import Image from "next/image";
 
@@ -42,6 +42,19 @@ export default function Especiais({ especiais }: EspeciaisProps) {
   const tags = Object.keys(especiais).filter(Boolean);
   const [ativa, setAtiva] = useState(tags[0] || "");
 
+  // Define quantos posts mostrar com base no tamanho da tela
+  const [qtdCards, setQtdCards] = useState(3);
+
+  useEffect(() => {
+    const atualizarQtd = () => {
+      setQtdCards(window.innerWidth < 768 ? 1 : 3);
+    };
+
+    atualizarQtd(); // define inicialmente
+    window.addEventListener("resize", atualizarQtd);
+    return () => window.removeEventListener("resize", atualizarQtd);
+  }, []);
+
   return (
     <section className="max-w-6xl mx-auto px-6 py-12">
       <h2 className="text-2xl font-bold mb-6 text-orange-500">Especiais GeekNews</h2>
@@ -63,7 +76,7 @@ export default function Especiais({ especiais }: EspeciaisProps) {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        {especiais[ativa]?.slice(0, 3).map((post: PostEspecial) => (
+        {especiais[ativa]?.slice(0, qtdCards).map((post: PostEspecial) => (
           <Link
             key={post.slug}
             href={`/noticia/${post.slug}`}

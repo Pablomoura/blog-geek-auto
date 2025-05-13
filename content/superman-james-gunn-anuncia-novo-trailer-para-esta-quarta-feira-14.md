@@ -16,6 +16,7 @@ tags:
   - David Corenswet
   - Rachel Brosnahan
   - Nicholas Hoult
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, trailer, DCU, Clark Kent, David Corenswet, Rachel
   Brosnahan, Nicholas Hoult
