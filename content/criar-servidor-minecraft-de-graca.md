@@ -4,8 +4,7 @@ slug: "criar-servidor-minecraft-de-graca"
 categoria: "GAMES E TUTORIAIS"
 midia: 'https://www.youtube.com/embed/nC2n6Pvm46Q?si=91x_2Oj5Ps-lKYAU'
 tipoMidia: "video"
-thumb: >-
-  /imagens/minecraft-servidor-gratis-2025.jpg
+thumb: "/imagens/minecraft-servidor-gratis-2025.jpg"
 tags:
   - Minecraft
   - servidor Minecraft grátis
