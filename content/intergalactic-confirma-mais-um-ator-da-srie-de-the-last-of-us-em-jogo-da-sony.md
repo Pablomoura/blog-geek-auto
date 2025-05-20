@@ -14,7 +14,6 @@ tags:
   - novo jogo Sony
   - ator The Last of Us
   - lançamento jogo Sony
-  - especial-The Last of Us
 keywords: 'The Last of Us, novo jogo Sony, ator The Last of Us, lançamento jogo Sony'
 author: Pablo Moura
 data: '2025-05-19T17:17:48.277Z'

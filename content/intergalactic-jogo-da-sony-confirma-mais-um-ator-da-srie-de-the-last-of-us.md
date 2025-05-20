@@ -17,7 +17,6 @@ tags:
   - PlayStation 5
   - jogos de ficção científica
   - Neil Druckmann
-  - especial-The Last of Us
 keywords: >-
   Intergalactic, Naughty Dog, Tony Dalton, The Last of Us, PlayStation 5, jogos
   de ficção científica, Neil Druckmann

@@ -17,6 +17,7 @@ tags:
   - Kaitlyn Dever
   - segunda temporada
   - reação dos fãs
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, Craig Mazin, HBO, Pedro Pascal, Kaitlyn Dever, segunda
   temporada, reação dos fãs
