@@ -17,6 +17,7 @@ tags:
   - Superman 2025
   - trailer Superman
   - novo filme Superman
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DCU, David Corenswet, Superman 2025, trailer Superman,
   novo filme Superman

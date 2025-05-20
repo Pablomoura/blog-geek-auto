@@ -16,6 +16,7 @@ tags:
   - trailer de Superman
   - elenco de Superman
   - filme novo de Superman
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DCU, Clark Kent, trailer de Superman, elenco de
   Superman, filme novo de Superman

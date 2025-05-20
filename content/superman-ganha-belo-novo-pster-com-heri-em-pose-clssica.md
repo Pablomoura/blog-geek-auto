@@ -14,6 +14,7 @@ tags:
   - filme Superman 2025
   - elenco Superman
   - novo filme DC
+  - especial-Superman
 keywords: 'Superman, James Gunn, DCU, filme Superman 2025, elenco Superman, novo filme DC'
 author: Luana Souza
 data: '2025-05-13T15:21:29.642Z'

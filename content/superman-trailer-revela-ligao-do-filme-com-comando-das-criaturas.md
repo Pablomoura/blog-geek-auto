@@ -15,6 +15,7 @@ tags:
   - elenco Superman
   - DC Comics
   - Comando das Criaturas
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DCU, novo filme Superman, elenco Superman, DC Comics,
   Comando das Criaturas

@@ -14,6 +14,7 @@ tags:
   - filme Superman
   - vilão Superman
   - DC Comics
+  - especial-Superman
 keywords: 'Superman, DCU, Ultraman, James Gunn, filme Superman, vilão Superman, DC Comics'
 author: Pablo Moura
 data: '2025-05-16T19:16:31.212Z'

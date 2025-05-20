@@ -17,6 +17,7 @@ tags:
   - Elenco Superman
   - Clark Kent
   - Metrópoles
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DCU, Filme Superman 2025, Fortaleza da Solidão,
   Brinquedo Superman, Elenco Superman, Clark Kent, Metrópoles

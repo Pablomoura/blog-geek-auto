@@ -14,6 +14,7 @@ tags:
   - Intergalactic
   - cultura pop
   - videogames
+  - especial-The Last of Us
 keywords: >-
   Neil Druckmann, The Last of Us, Naughty Dog, novo jogo, Intergalactic, cultura
   pop, videogames

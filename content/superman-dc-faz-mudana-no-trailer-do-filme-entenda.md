@@ -14,6 +14,7 @@ tags:
   - David Corenswet
   - Filme Superman
   - Mudança Trailer Superman
+  - especial-Superman
 keywords: >-
   Superman, DC Universe, Trailer, James Gunn, David Corenswet, Filme Superman,
   Mudança Trailer Superman

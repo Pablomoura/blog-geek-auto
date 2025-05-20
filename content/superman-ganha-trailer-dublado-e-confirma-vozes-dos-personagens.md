@@ -16,6 +16,7 @@ tags:
   - filme Superman 2025
   - elenco Superman
   - dublagem Superman
+  - especial-Superman
 keywords: >-
   Superman, DCU, James Gunn, filme Superman 2025, elenco Superman, dublagem
   Superman

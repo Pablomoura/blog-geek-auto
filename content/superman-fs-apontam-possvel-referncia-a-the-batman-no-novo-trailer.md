@@ -22,6 +22,7 @@ tags:
   - Lanterna Verde
   - Mulher-Gavião
   - filme de super-heróis
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DC, The Batman, trailer, Clark Kent, David Corenswet,
   Rachel Brosnahan, Nicholas Hoult, Lanterna Verde, Mulher-Gavião, filme de

@@ -17,6 +17,7 @@ tags:
   - série
   - episódio
   - pai de Joel
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, Tony Dalton, Joel, HBO, Pedro Pascal, série, episódio, pai de
   Joel
