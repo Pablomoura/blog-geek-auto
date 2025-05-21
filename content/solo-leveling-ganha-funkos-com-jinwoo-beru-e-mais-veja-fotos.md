@@ -14,6 +14,7 @@ tags:
   - mangá
   - Crunchyroll
   - Panini
+  - especial-Solo Leveling
 keywords: 'Solo Leveling, Funko Pop, colecionáveis, anime, mangá, Crunchyroll, Panini'
 author: Pablo Moura
 data: '2025-05-13T21:20:47.607Z'

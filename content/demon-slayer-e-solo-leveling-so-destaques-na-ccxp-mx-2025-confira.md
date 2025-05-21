@@ -18,6 +18,7 @@ tags:
   - Natsuki Hanae
   - Atsushi Kaneko
   - Yoshihiro Kanno
+  - especial-Solo Leveling
 keywords: >-
   CCXP MX 2025, Demon Slayer, Solo Leveling, Cidade do México, Aniplex, A-1
   Pictures, Natsuki Hanae, Atsushi Kaneko, Yoshihiro Kanno

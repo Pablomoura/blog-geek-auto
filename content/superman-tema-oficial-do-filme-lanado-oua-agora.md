@@ -14,6 +14,7 @@ tags:
   - James Gunn
   - DC
   - filme de super-heróis
+  - especial-Superman
 keywords: >-
   Superman, John Murphy, David Fleming, trilha sonora, James Gunn, DC, filme de
   super-heróis

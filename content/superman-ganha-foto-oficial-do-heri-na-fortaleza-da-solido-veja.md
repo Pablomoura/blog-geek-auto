@@ -14,6 +14,7 @@ tags:
   - David Corenswet
   - Fortaleza da Solidão
   - filme de super-heróis
+  - especial-Superman
 keywords: >-
   Superman, DCU, James Gunn, David Corenswet, Fortaleza da Solidão, filme de
   super-heróis

@@ -15,6 +15,7 @@ tags:
   - filme Superman
   - Clark Kent
   - novo DCU
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DCU, teaser Superman, filme Superman, Clark Kent, novo
   DCU

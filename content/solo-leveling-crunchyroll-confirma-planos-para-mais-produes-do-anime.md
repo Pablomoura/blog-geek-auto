@@ -16,6 +16,7 @@ tags:
   - Chugong
   - Sung Jinwoo
   - A-1 Pictures
+  - especial-Solo Leveling
 keywords: >-
   Solo Leveling, Crunchyroll, anime, terceira temporada, Chugong, Sung Jinwoo,
   A-1 Pictures
