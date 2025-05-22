@@ -23,12 +23,32 @@ export const produtosPorCategoria: Record<string, ProdutoAmazon[]> = {
       asin: "8594540892",
       imagem: "https://m.media-amazon.com/images/I/71ML3IL9orL._SL1200_.jpg",
     },
+    {
+      titulo: "Camiseta Geek Mascilino Cat Wars",
+      asin: "B09RTGTN2J",
+      imagem: "https://m.media-amazon.com/images/I/61fmO3oCqPL._AC_SX679_.jpg",
+    },
+    {
+      titulo: "Livro Garotas brilhantes",
+      asin: "6555324767",
+      imagem: "https://m.media-amazon.com/images/I/81LPsTstM-L._SL1500_.jpg",
+    },
+    {
+      titulo: "Boneco Stitch",
+      asin: "B0DJC1B1BS",
+      imagem: "https://m.media-amazon.com/images/I/61reTE2ADGL._AC_SL1000_.jpg",
+    },
   ],
   games: [
     {
       titulo: "The Legend of Zelda Encyclopedia",
       asin: "150670638X",
       imagem: "https://m.media-amazon.com/images/I/91kaE4XaeLL._SL1500_.jpg",
+    },
+    {
+      titulo: "Jogo, Detective Pikachu Returns, Nintendo Switch",
+      asin: "B0CF3638Q2",
+      imagem: "https://m.media-amazon.com/images/I/61O5Jvd7psL._AC_SL1000_.jpg",
     },
     {
       titulo: "Star Wars Jedi: Survivor - Xbox Series X",
@@ -97,12 +117,32 @@ export const produtosPorCategoria: Record<string, ProdutoAmazon[]> = {
       asin: "B075WQL3JC",
       imagem: "https://m.media-amazon.com/images/I/51F4mLP70OL._AC_SX679_.jpg",
     },
+    {
+      titulo: "Camiseta Jason Freddy Krueger Chucky Friends",
+      asin: "B0C1ZT3QVB",
+      imagem: "https://m.media-amazon.com/images/I/61hokjXiNcL._AC_SX679_.jpg",
+    },
+    {
+      titulo: "Camiseta Schrdinger's Cat",
+      asin: "B091D7WR3T",
+      imagem: "https://m.media-amazon.com/images/I/51++cjuM1UL._AC_SX679_.jpg",
+    },
   ],
   "mangás e animes": [
     {
       titulo: "Solo Leveling 01",
       asin: "6525919495",
       imagem: "https://m.media-amazon.com/images/I/61EYZ1S4tCL.jpg",
+    },
+    {
+      titulo: "Demon Slayer - Kimetsu no Yaiba Vol. 1",
+      asin: "8542629280",
+      imagem: "https://m.media-amazon.com/images/I/61Knjj-wi6L._SL1000_.jpg",
+    },
+    {
+      titulo: "A Menina do Outro Lado: Vol. 3",
+      asin: "8594541732",
+      imagem: "https://m.media-amazon.com/images/I/61PBgLCRKXL._SL1200_.jpg",
     },
     {
       titulo: "Moletom Canguru Anime Jujutsu Kaisen Goju Satoru",
