@@ -13,6 +13,7 @@ tags:
   - filme de Superman
   - teaser de Superman
   - transformação de herói
+  - especial-Superman
 keywords: >-
   Superman, Clark Kent, filme de Superman, teaser de Superman, transformação de
   herói

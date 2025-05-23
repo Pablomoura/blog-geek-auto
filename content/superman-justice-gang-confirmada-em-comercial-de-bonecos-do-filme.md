@@ -17,6 +17,7 @@ tags:
   - filme do Superman
   - Superman 2025
   - DCU
+  - especial-Superman
 keywords: >-
   Superman, Justice Gang, Maxwell Lord, Pacificador, DC, James Gunn, filme do
   Superman, Superman 2025, DCU

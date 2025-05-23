@@ -9,7 +9,7 @@ resumo: >-
   2027, organizados em ordem cronológica. Veja o que vem por aí no MCU,
   incluindo Thunderbolts, Quarteto Fantástico, Vingadores: Secret Wars e mais.
 data: '2025-04-06T23:00:00.000Z'
-atualizado_em: "2025-05-03"
+atualizado_em: "2025-05-24"
 thumb: /images/Thumb-marvel-2025.jpg
 midia: /images/marvel-2025-capa.webp
 tipoMidia: imagem
@@ -94,7 +94,7 @@ Confira os lançamentos já confirmados:
 
 ---
 
-### 7. *Avengers: Doomsday* — 1º de maio de 2026 (Filme)
+### 7. *Avengers: Doomsday* — 18 de dezembro de 2026 (Filme)
 
 ![Avengers: Doomsday](/images/Avengers-Doomsday.jpg "Avengers: Doomsday") 
 
@@ -110,7 +110,7 @@ Tom Holland retorna como Peter Parker, agora reconstruindo sua vida após o esqu
 
 ---
 
-### 9. *Avengers: Secret Wars* — 7 de maio de 2027 (Filme)
+### 9. *Avengers: Secret Wars* — 17 de dezembro de 2027 (Filme)
 
 ![Avengers: Secret Wars](/images/AvengersSecretWars.jpg "Avengers: Secret Wars") 
 
