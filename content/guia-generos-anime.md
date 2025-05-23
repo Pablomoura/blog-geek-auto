@@ -87,7 +87,7 @@ Além dos principais, existem diversos subgêneros que enriquecem o universo dos
 
 Este **guia de gêneros de anime** busca fornecer uma visão ampla, para que você entenda os **gêneros de animes e seus significados** e possa fazer escolhas mais alinhadas ao seu perfil.
 
-![Qual Anime Escolher](/images/qualanimeescolher.jpg)
+![Qual Anime Escolher](/images/qualanimeescolher.png)
 
 ## Gêneros de anime: qual escolher?
 

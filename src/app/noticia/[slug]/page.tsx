@@ -463,7 +463,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
               <section className="mb-8">
                 <div className="flex items-center justify-between mb-4 border-b pb-2">
                   <h2 className="text-sm uppercase tracking-widest font-semibold text-gray-600 dark:text-gray-300">
-                    Recomendados
+                    Guias
                   </h2>
                 </div>
                 <div className="space-y-3">
