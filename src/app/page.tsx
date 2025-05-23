@@ -280,7 +280,7 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
             <section className="mb-8">
               <div className="flex items-center justify-between mb-4 border-b pb-2">
                 <h2 className="text-sm uppercase tracking-widest font-semibold text-gray-600 dark:text-gray-300">
-                  Recomendados
+                  Guias
                 </h2>
               </div>
               <div className="space-y-3">
@@ -304,12 +304,21 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
                     </p>
                   </Link>
                   <Link
-                    href={`/noticia/historia-dos-videogames`}
+                    href={`/noticia/criar-servidor-minecraft-de-graca`}
                     className="flex items-start gap-4 bg-orange-100 dark:bg-orange-400 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
                   >
                     <span className="text-3xl font-light text-gray-400 dark:text-gray-800 w-6">6</span>
                     <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-800 hover:dark:text-gray-200 leading-snug">
-                    <b>A História dos Videogames:</b> Da Era Atari à Geração Atual
+                    <b>Criar servidor Minecraft de graça:</b> guia completo
+                    </p>
+                  </Link>
+                  <Link
+                    href={`/noticia/jogos-multiplayer-local-sofa`}
+                    className="flex items-start gap-4 bg-orange-100 dark:bg-orange-400 p-4 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition"
+                  >
+                    <span className="text-3xl font-light text-gray-400 dark:text-gray-800 w-6">7</span>
+                    <p className="text-sm text-gray-800 hover:text-gray-900 dark:text-gray-800 hover:dark:text-gray-200 leading-snug">
+                    <b>Multiplayer local:</b> 15 jogos incríveis para jogar com amigos no sofá
                     </p>
                   </Link>
                 
