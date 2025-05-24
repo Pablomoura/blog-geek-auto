@@ -12,13 +12,13 @@ keywords: "YES! filme, Festival de Cannes 2025, Nadav Lapid, crítica de cinema,
 author: "Luana Souza"
 data: "2025-05-24T12:39:10.446Z"
 tituloPortugues: "YES!"
-capaObra: "https://cdn.ome.lt/yKUh42tRK6iq7Z-x5i1hZIuIbck=/200x0/smart/extras/capas/IMG_0843.jpeg"
+capaObra: "https://cdn.ome.lt/MyFyyj3wOmGGjH3Xa7YeCy5PcyU=/200x0/smart/extras/capas/yes-poster.jpg"
 notaCritico: 4
 tituloOriginal: "YES! (2025)"
-ano: ""
-pais: ""
+ano: "2025"
+pais: "Chipre, Alemanha, França, Israel"
 classificacao: ""
-duracao: ""
+duracao: "2h30 min"
 direcao: "Nadav Lapid"
 elenco: [""]
 ---
