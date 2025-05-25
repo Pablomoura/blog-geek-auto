@@ -19,6 +19,7 @@ tags:
   - Naughty Dog
   - Claro TV+
   - Max
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, audiência, série de TV, streaming, segunda temporada,
   Craig Mazin, Neil Druckmann, Naughty Dog, Claro TV+, Max

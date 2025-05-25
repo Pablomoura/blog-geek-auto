@@ -22,6 +22,7 @@ tags:
   - videogame
   - adaptação
   - personagens
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, Max, série, episódio final, segunda temporada, Ellie,
   Bella Ramsey, Craig Mazin, Neil Druckmann, videogame, adaptação, personagens

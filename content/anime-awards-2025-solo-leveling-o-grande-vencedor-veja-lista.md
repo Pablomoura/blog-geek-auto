@@ -12,6 +12,7 @@ tags:
   - melhores animes
   - premiação de animes
   - cultura pop japonesa
+  - especial-Solo Leveling
 keywords: >-
   Anime Awards 2025, Solo Leveling, melhores animes, premiação de animes,
   cultura pop japonesa

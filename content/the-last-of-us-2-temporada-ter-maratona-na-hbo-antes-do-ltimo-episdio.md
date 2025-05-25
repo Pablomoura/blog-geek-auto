@@ -17,6 +17,7 @@ tags:
   - Neil Druckmann
   - Kaitlyn Dever
   - Jeffrey Wright
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, maratona, 2ª temporada, último episódio, Craig Mazin,
   Neil Druckmann, Kaitlyn Dever, Jeffrey Wright
