@@ -17,6 +17,7 @@ tags:
   - Ellie
   - Abby
   - diferenças série e jogo
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, adaptação de jogo, Naughty Dog, Ellie, Abby, diferenças
   série e jogo

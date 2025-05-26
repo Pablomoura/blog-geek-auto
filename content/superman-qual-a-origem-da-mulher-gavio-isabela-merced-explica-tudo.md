@@ -18,6 +18,7 @@ tags:
   - Nicholas Hoult
   - filme de heróis
   - DC Comics
+  - especial-Superman
 keywords: >-
   Superman, Isabela Merced, Mulher-Gavião, James Gunn, DCU, David Corenswet,
   Rachel Brosnahan, Nicholas Hoult, filme de heróis, DC Comics

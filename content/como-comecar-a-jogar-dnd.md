@@ -6,7 +6,7 @@ categoria: RPG de Mesa
 resumo: >-
   Aprenda como começar a jogar D&D! Veja dicas práticas, materiais gratuitos, ferramentas online e tudo o que você precisa para sua primeira aventura no maior RPG de mesa do mundo.
 data: '2025-05-23T12:00:00.000Z'
-thumb: /images/thumb-como-jogar-dnd.jpg
+thumb: /images/como-jogar-dnd.jpg
 midia: /images/como-jogar-dnd.jpg
 tipoMidia: imagem
 tags:

@@ -13,6 +13,7 @@ tags:
   - série de TV
   - críticas
   - jogo
+  - especial-The Last of Us
 keywords: 'The Last of Us Parte 2, Ellie, adaptação, série de TV, críticas, jogo'
 author: Pablo Moura
 data: '2025-05-26T12:41:49.393Z'

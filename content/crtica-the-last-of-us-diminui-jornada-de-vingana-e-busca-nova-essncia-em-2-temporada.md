@@ -7,20 +7,20 @@ resumo: "A segunda temporada de 'The Last of Us' na HBO redefine o antagonismo e
 midia: "https://cdn.ome.lt/l8M1BFlNLVzvpFTKP-2bOnypATg=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_25_1bciLfB.jpg"
 tipoMidia: "imagem"
 thumb: "https://cdn.ome.lt/brab4gv7Ie_7WFyCsA0GoMS8dis=/480x360/smart/extras/conteudos/Design_sem_nome_25_mUKUu5q.jpg"
-tags: ["The Last of Us", "HBO", "segunda temporada", "adaptação de jogo", "Pedro Pascal", "Bella Ramsey", "Neil Druckmann", "Craig Mazin", "Ellie", "Abby", "série de TV"]
+tags: ["The Last of Us", "HBO", "segunda temporada", "adaptação de jogo", "Pedro Pascal", "Bella Ramsey", "Neil Druckmann", "Craig Mazin", "Ellie", "Abby", "série de TV", "especial-The Last of Us"]
 keywords: "The Last of Us, HBO, segunda temporada, adaptação de jogo, Pedro Pascal, Bella Ramsey, Neil Druckmann, Craig Mazin, Ellie, Abby, série de TV"
 author: "Pablo Moura"
 data: "2025-05-26T12:43:16.546Z"
 tituloPortugues: "The Last of Us"
 capaObra: "https://cdn.ome.lt/QDEC0i8VYTqvAnO9UNjUWDL8-0o=/200x0/smart/extras/capas/last-of-us-tv-1.jpg"
 notaCritico: 4
-tituloOriginal: ""
-ano: ""
-pais: ""
+tituloOriginal: "The Last of Us"
+ano: "2025"
+pais: "EUA"
 classificacao: ""
-duracao: ""
+duracao: "57min"
 direcao: ""
-elenco: [""]
+elenco: ["Pedro Pascal", "Bella Ramsey", "Gabriel Luna", "Isabela Merced"]
 ---
 
 ## Mudanças Narrativas e Emocionais em 'The Last of Us' na HBO
