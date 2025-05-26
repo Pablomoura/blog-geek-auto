@@ -16,6 +16,7 @@ tags:
   - Naughty Dog
   - Craig Mazin
   - Neil Druckmann
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO Max, 3ª temporada The Last of Us, estreia The Last of Us,
   renovação de série, Naughty Dog, Craig Mazin, Neil Druckmann
