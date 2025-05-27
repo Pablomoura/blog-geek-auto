@@ -248,61 +248,58 @@ async function executarScraper() {
 
   const noticias = await buscarNoticiasBoardGameGeekRSS();
 
-  const resultados = [];
+  let novosPosts = [];
 
-for (const noticia of noticias.slice(0, MAX_POSTS)) {
-  const slug = slugify(noticia.titulo);
+  for (const noticia of noticias.slice(0, MAX_POSTS)) {
+    const slug = slugify(noticia.titulo);
 
-  // ✅ Checa se já existe para evitar duplicação
-  if (!noticia.titulo || postsExistentes.some((p) => slugify(p.slug) === slug)) {
-    console.log(`⚠️ Post já existente, pulando: ${slug}`);
-    continue;
-  }
+    if (postsExistentes.some((p) => slugify(p.slug) === slug)) {
+      console.log(`⚠️ Post já existente, pulando: ${slug}`);
+      continue;
+    }
 
-  console.log(`📖 Processando conteúdo de: ${noticia.titulo}`);
+    const { textoMarkdown, imagens } = await processarConteudoNoticia(noticia.descricaoHtml);
 
-  const { textoMarkdown, imagens } = await processarConteudoNoticia(noticia.descricaoHtml);
+    const capa = imagens.length ? imagens[0] : "/images/default.jpg";
+    const imagensSemCapa = imagens.slice(1);
 
-  const capa = imagens.length ? imagens[0] : "/images/default.jpg";
-  const imagensSemCapa = imagens.slice(1); // ✅ Remove capa do corpo
+    const novaNoticia = {
+      titulo: noticia.titulo,
+      categoria: "Board Games",
+      resumo: "",
+      link: noticia.link,
+      thumb: capa,
+      texto: textoMarkdown,
+      midia: capa,
+      tipoMidia: "imagem",
+      slug,
+      fonte: "BoardGameGeek",
+      reescrito: false,
+      data: noticia.pubDate
+    };
 
-  const novaNoticia = {
-    titulo: noticia.titulo,
-    categoria: "Board Games",
-    resumo: "", // Pode ajustar se quiser gerar um resumo com IA
-    link: noticia.link,
-    thumb: capa,
-    texto: textoMarkdown,
-    midia: capa,
-    tipoMidia: "imagem",
-    slug,
-    fonte: "BoardGameGeek",
-    reescrito: false,
-    data: noticia.pubDate
-  };
+    const reescrito = await retry(() => reescreverNoticia(novaNoticia.titulo, novaNoticia.resumo, novaNoticia.texto));
+    if (!reescrito) continue;
 
-  const reescrito = await retry(() => reescreverNoticia(novaNoticia.titulo, novaNoticia.resumo, novaNoticia.texto));
-  if (!reescrito) continue;
+    novaNoticia.titulo = reescrito.titulo;
+    novaNoticia.resumo = reescrito.resumo;
+    novaNoticia.texto = inserirImagensNoTexto(reescrito.texto, imagensSemCapa);
 
-  novaNoticia.titulo = reescrito.titulo;
-  novaNoticia.resumo = reescrito.resumo;
-  novaNoticia.texto = inserirImagensNoTexto(reescrito.texto, imagensSemCapa);
+    const blocoFontes = await buscarFontesGoogle(novaNoticia.titulo);
+    novaNoticia.texto += blocoFontes;
 
-  const blocoFontes = await buscarFontesGoogle(novaNoticia.titulo);
-  novaNoticia.texto += blocoFontes;
+    novaNoticia.reescrito = true;
 
-  novaNoticia.reescrito = true;
+    const tags = reescrito.keywords
+      ? reescrito.keywords.split(",").map(t => t.trim()).filter(Boolean)
+      : [];
+    const keywords = tags.join(", ");
 
-  const tags = reescrito.keywords
-    ? reescrito.keywords.split(",").map(t => t.trim()).filter(Boolean)
-    : [];
-  const keywords = tags.join(", ");
+    const mdPath = path.join(contentDir, `${slug}.md`);
+    const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
+    const autorEscolhido = autores[Math.floor(Math.random() * autores.length)];
 
-  const mdPath = path.join(contentDir, `${slug}.md`);
-  const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
-  const autorEscolhido = autores[Math.floor(Math.random() * autores.length)];
-
-  const frontMatter = `---
+    const frontMatter = `---
 title: "${reescrito.titulo.replace(/"/g, "'")}"
 slug: "${slug}"
 categoria: "Board Games"
@@ -315,37 +312,39 @@ author: "${autorEscolhido}"
 data: "${new Date().toISOString()}"
 ---\n\n`;
 
-  const markdown = frontMatter + novaNoticia.texto;
-  fs.writeFileSync(mdPath, markdown, "utf-8");
-  console.log(`📝 Markdown salvo em: ${mdPath}`);
+    const markdown = frontMatter + novaNoticia.texto;
+    fs.writeFileSync(mdPath, markdown, "utf-8");
+    console.log(`📝 Markdown salvo em: ${mdPath}`);
 
-  // ✅ Salva no formato correto no posts.json
-  postsExistentes.push({
-    titulo: novaNoticia.titulo,
-    categoria: novaNoticia.categoria,
-    resumo: novaNoticia.resumo,
-    link: novaNoticia.link,
-    thumb: novaNoticia.thumb,
-    texto: novaNoticia.texto,
-    midia: novaNoticia.midia,
-    tipoMidia: novaNoticia.tipoMidia,
-    slug: novaNoticia.slug,
-    fonte: novaNoticia.fonte,
-    reescrito: novaNoticia.reescrito,
-    data: new Date().toISOString()
-  });
+    const postParaJson = {
+      titulo: novaNoticia.titulo,
+      categoria: novaNoticia.categoria,
+      resumo: novaNoticia.resumo,
+      link: novaNoticia.link,
+      thumb: novaNoticia.thumb,
+      texto: novaNoticia.texto,
+      midia: novaNoticia.midia,
+      tipoMidia: novaNoticia.tipoMidia,
+      slug: novaNoticia.slug,
+      fonte: novaNoticia.fonte,
+      reescrito: novaNoticia.reescrito,
+      data: new Date().toISOString()
+    };
 
-  console.log(`✅ Post adicionado ao JSON: ${slug}`);
-}
+    postsExistentes.push(postParaJson);
+    novosPosts.push(postParaJson);
 
-  if (resultados.length > 0) {
+    console.log(`✅ Post adicionado: ${slug}`);
+  }
+
+  if (novosPosts.length > 0) {
     fs.writeFileSync(jsonFilePath, JSON.stringify(postsExistentes, null, 2), "utf-8");
-    console.log(`✅ ${resultados.length} posts salvos do BoardGameGeek.`);
+    console.log(`✅ ${novosPosts.length} novos posts salvos do BoardGameGeek.`);
   } else {
     console.log("🔄 Nenhuma nova notícia do BoardGameGeek encontrada.");
   }
 
-  console.log(`🎯 Finalizado: ${resultados.length} posts adicionados do BoardGameGeek.`);
+  console.log(`🎯 Finalizado: ${novosPosts.length} novos posts adicionados.`);
 }
 
 executarScraper();
@@ -363,10 +362,5 @@ async function retry(fn, retries = 3, delay = 1000) {
       }
     }
   }
-  if (postsExistentes.length > 0) {
-    fs.writeFileSync(jsonFilePath, JSON.stringify(postsExistentes, null, 2), "utf-8");
-    console.log(`✅ ${postsExistentes.length} posts salvos do BoardGameGeek.`);
-  } else {
-    console.log("🔄 Nenhuma nova notícia do BoardGameGeek encontrada.");
-  }
 }
+
