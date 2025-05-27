@@ -10,6 +10,8 @@ const nextConfig = {
       "www.geeknews.com.br",
       "images.justwatch.com",
       "justwatch.com",
+      "cf.geekdo-images.com",
+      "images.com",
     ],
     unoptimized: true,
   },

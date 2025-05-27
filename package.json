@@ -6,6 +6,7 @@
     "dev": "next dev --turbopack",
     "start": "next start",
     "gerar-cache": "node scripts/gerar-cache-posts.js",
+    "scraper-boardgamegeek": "node scripts/scraper-boardgamegeek.js",
     "lint": "next lint",
     "publish-md": "node scripts/publish-md.js",
     "build:cache": "node scripts/build-html-cache.js",
@@ -19,6 +20,7 @@
     "cheerio": "^1.0.0",
     "contentful": "^11.5.11",
     "dotenv": "^16.4.7",
+    "fast-xml-parser": "^5.2.3",
     "glob": "^11.0.1",
     "googleapis": "^148.0.0",
     "gray-matter": "^4.0.3",
@@ -49,6 +51,7 @@
     "styled-components": "^6.1.16",
     "swiper": "^11.2.6",
     "tinacms": "^2.7.3",
+    "turndown": "^7.2.0",
     "twitter-api-v2": "^1.22.0"
   },
   "devDependencies": {
