@@ -1,0 +1,38 @@
+name: Scraper BoardGameGeek
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # ⏰ Executa todos os dias às 6h UTC (ajuste se quiser outro horário)
+  workflow_dispatch:  # ✅ Permite execução manual também
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Executar scraper do BoardGameGeek
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+        run: node scripts/scraper-boardgamegeek.js
+
+      - name: Commit e push das alterações
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "🤖 update: novos posts do BoardGameGeek"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
