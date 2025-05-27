@@ -1,14 +1,33 @@
 ---
-title: "Novidades em Jogos de Tabuleiro: De 'Papyria' a 'Zoology', Descubra os Lançamentos para SPIEL Essen 25"
-slug: "explore-mesopotamia-look-under-the-leaves-and-practice-zoology-at-home"
-categoria: "undefined"
-midia: "https://cf.geekdo-images.com/1ogjFiRnuAP1bxySvuOHdQ__imagepage/img/xaRA7QUe7ej7f6lzIokzqoMBAys=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8829393.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/1ogjFiRnuAP1bxySvuOHdQ__imagepage/img/xaRA7QUe7ej7f6lzIokzqoMBAys=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8829393.jpg"
-tags: ["Papyria", "Zoology", "Under the Leaves", "jogos de tabuleiro", "SPIEL Essen 25", "Bernd Eisenstein", "Jeffrey CCH", "Trevor Benjamin", "Brett J. Gilbert"]
-keywords: "Papyria, Zoology, Under the Leaves, jogos de tabuleiro, SPIEL Essen 25, Bernd Eisenstein, Jeffrey CCH, Trevor Benjamin, Brett J. Gilbert"
-author: "Luana Souza"
-data: "Mon, 26 May 2025 06:00:01 +0000"
+title: >-
+  Novidades em Jogos de Tabuleiro: De 'Papyria' a 'Zoology', Descubra os
+  Lançamentos para SPIEL Essen 25
+slug: explore-mesopotamia-look-under-the-leaves-and-practice-zoology-at-home
+categoria: undefined
+midia: >-
+  https://cf.geekdo-images.com/1ogjFiRnuAP1bxySvuOHdQ__imagepage/img/xaRA7QUe7ej7f6lzIokzqoMBAys=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8829393.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/1ogjFiRnuAP1bxySvuOHdQ__imagepage/img/xaRA7QUe7ej7f6lzIokzqoMBAys=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8829393.jpg
+tags:
+  - Papyria
+  - Zoology
+  - Under the Leaves
+  - jogos de tabuleiro
+  - SPIEL Essen 25
+  - Bernd Eisenstein
+  - Jeffrey CCH
+  - Trevor Benjamin
+  - Brett J. Gilbert
+keywords: >-
+  Papyria, Zoology, Under the Leaves, jogos de tabuleiro, SPIEL Essen 25, Bernd
+  Eisenstein, Jeffrey CCH, Trevor Benjamin, Brett J. Gilbert
+author: Luana Souza
+data: 'Mon, 26 May 2025 06:00:01 +0000'
+resumo: >-
+  Conheça os jogos de tabuleiro que prometem animar o evento SPIEL Essen 25,
+  incluindo títulos como 'Papyria', 'Zoology' e 'Under the Leaves', cada um
+  trazendo mecânicas e temas envolventes.
 ---
 
 ## 'Papyria': Uma Viagem à Mesopotâmia com Bernd Eisenstein

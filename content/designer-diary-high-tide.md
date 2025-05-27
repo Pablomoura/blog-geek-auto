@@ -1,14 +1,29 @@
 ---
-title: "High Tide: Um Jogo de Tabuleiro Nascido da Paixão e do Design Intuitivo"
-slug: "designer-diary-high-tide"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/kHF-2Fg1VWyf_b-cV_YYVw__imagepage/img/gynlccLve96bHsbTG6R_GHg91Cg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8845145.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/kHF-2Fg1VWyf_b-cV_YYVw__imagepage/img/gynlccLve96bHsbTG6R_GHg91Cg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8845145.png"
-tags: ["High Tide", "jogo de tabuleiro", "Marceline Leiman", "design de jogos", "Indie Games Night Market", "PAX Unplugged", "jogos abstratos", "criação de jogos"]
-keywords: "High Tide, jogo de tabuleiro, Marceline Leiman, design de jogos, Indie Games Night Market, PAX Unplugged, jogos abstratos, criação de jogos"
-author: "Luana Souza"
-data: "2025-05-27T14:53:09.745Z"
+title: 'High Tide: Um Jogo de Tabuleiro Nascido da Paixão e do Design Intuitivo'
+slug: designer-diary-high-tide
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/kHF-2Fg1VWyf_b-cV_YYVw__imagepage/img/gynlccLve96bHsbTG6R_GHg91Cg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8845145.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/kHF-2Fg1VWyf_b-cV_YYVw__imagepage/img/gynlccLve96bHsbTG6R_GHg91Cg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8845145.png
+tags:
+  - High Tide
+  - jogo de tabuleiro
+  - Marceline Leiman
+  - design de jogos
+  - Indie Games Night Market
+  - PAX Unplugged
+  - jogos abstratos
+  - criação de jogos
+keywords: >-
+  High Tide, jogo de tabuleiro, Marceline Leiman, design de jogos, Indie Games
+  Night Market, PAX Unplugged, jogos abstratos, criação de jogos
+author: Luana Souza
+data: '2025-05-27T14:53:09.745Z'
+resumo: >-
+  Descubra como High Tide, inicialmente um projeto pessoal para uma feira de
+  jogos indie, capturou a atenção do público e se tornou um fenômeno de vendas.
 ---
 
 ## A Origem de High Tide: Entre o Pessoal e o Profissional
