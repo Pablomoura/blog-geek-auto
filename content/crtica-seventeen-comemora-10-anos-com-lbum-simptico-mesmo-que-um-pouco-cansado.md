@@ -36,11 +36,3 @@ Diversas faixas se destacam por permitir que os membros do grupo explorem indivi
 ### O futuro do Seventeen no cenário do K-pop
 
 Com a indústria do K-pop sempre evoluindo e a emergência de novos talentos, o Seventeen enfrenta o desafio de se reinventar continuamente. 'Happy Burstday' é um esforço para balancear o apelo nostálgico com a necessidade de inovação, uma tarefa cada vez mais complexa em um mercado altamente competitivo. Este álbum não só celebra um marco importante, mas também coloca em perspectiva os desafios futuros que o grupo terá que superar para manter sua relevância e conexão com uma base de fãs global e diversificada.
-
----
-
-#### Fontes e Referências
-
-- [Pip & Nut turns this month. 10 years of munching, spooning… | Pip ... - linkedin.com](https://www.linkedin.com/posts/pippamurray_pip-nut-turns-this-month-10-years-activity-7291000535942406145-Y44I)
-- [Are You the Same Person You Used to Be? | The New Yorker - newyorker.com](https://www.newyorker.com/magazine/2022/10/10/are-you-the-same-person-you-used-to-be-life-is-hard-the-origins-of-you)
-- [Mother's Day - Wikipedia - en.wikipedia.org](https://en.wikipedia.org/wiki/Mother%27s_Day)
