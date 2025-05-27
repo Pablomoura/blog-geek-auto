@@ -15,6 +15,7 @@ tags:
   - filme de super-heróis
   - vilão Ultraman
   - boneco Ultraman
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DCU, Ultraman, filme de super-heróis, vilão Ultraman,
   boneco Ultraman

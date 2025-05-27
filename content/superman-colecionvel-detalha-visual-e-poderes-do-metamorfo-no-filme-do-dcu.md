@@ -15,6 +15,7 @@ tags:
   - colecionável McFarlane
   - estreia de Superman
   - filme DCU
+  - especial-Superman
 keywords: >-
   Superman, DC Universe, James Gunn, Metamorfo, colecionável McFarlane, estreia
   de Superman, filme DCU

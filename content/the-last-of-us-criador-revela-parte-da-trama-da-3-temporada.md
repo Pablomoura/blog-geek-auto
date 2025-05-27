@@ -16,6 +16,7 @@ tags:
   - personagens
   - WLF
   - Serafitas
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO Max, 3ª temporada, Craig Mazin, série, adaptação,
   personagens, WLF, Serafitas

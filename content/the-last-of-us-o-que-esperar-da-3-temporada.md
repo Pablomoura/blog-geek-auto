@@ -19,6 +19,7 @@ tags:
   - personagens
   - trama
   - série
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, terceira temporada, Naughty Dog, Abby, Ellie, Serafitas, WLF,
   conflitos, personagens, trama, série

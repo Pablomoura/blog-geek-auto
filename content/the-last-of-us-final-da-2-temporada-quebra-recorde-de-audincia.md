@@ -18,6 +18,7 @@ tags:
   - Neil Druckmann
   - Pedro Pascal
   - adaptação de videogame
+  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, audiência, segunda temporada, Craig Mazin, Neil
   Druckmann, Pedro Pascal, adaptação de videogame
