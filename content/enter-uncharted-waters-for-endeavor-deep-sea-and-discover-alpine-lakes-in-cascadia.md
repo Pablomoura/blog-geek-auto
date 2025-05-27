@@ -1,14 +1,30 @@
 ---
-title: "Exploração Inédita: 'Endeavor: Deep Sea – Uncharted Waters' Amplia Horizontes em Campanha de Kickstarter"
-slug: "enter-uncharted-waters-for-endeavor-deep-sea-and-discover-alpine-lakes-in-cascadia"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__imagepage/img/DJd1GyY_ylA0u4LnVBVXjcXPmIg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6996584.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__imagepage/img/DJd1GyY_ylA0u4LnVBVXjcXPmIg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6996584.jpg"
-tags: ["Endeavor Deep Sea", "Cascadia Alpine Lakes", "jogos de tabuleiro", "Kickstarter", "expansões de jogos"]
-keywords: "Endeavor Deep Sea, Cascadia Alpine Lakes, jogos de tabuleiro, Kickstarter, expansões de jogos"
-author: "Ana Luiza"
-data: "2025-05-27T15:42:44.448Z"
+title: >-
+  Exploração Inédita: 'Endeavor: Deep Sea – Uncharted Waters' Amplia Horizontes
+  em Campanha de Kickstarter
+slug: >-
+  enter-uncharted-waters-for-endeavor-deep-sea-and-discover-alpine-lakes-in-cascadia
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__imagepage/img/DJd1GyY_ylA0u4LnVBVXjcXPmIg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6996584.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__imagepage/img/DJd1GyY_ylA0u4LnVBVXjcXPmIg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6996584.jpg
+tags:
+  - Endeavor Deep Sea
+  - Cascadia Alpine Lakes
+  - jogos de tabuleiro
+  - Kickstarter
+  - expansões de jogos
+keywords: >-
+  Endeavor Deep Sea, Cascadia Alpine Lakes, jogos de tabuleiro, Kickstarter,
+  expansões de jogos
+author: Ana Luiza
+data: '2025-05-27T15:42:44.448Z'
+resumo: >-
+  Descubra as novidades das expansões 'Endeavor: Deep Sea – Uncharted Waters' e
+  'Cascadia: Alpine Lakes', jogos que prometem revolucionar as experiências de
+  tabuleiro com cenários e desafios inovadores.
 ---
 
 ## Aventuras Subaquáticas com 'Endeavor: Deep Sea – Uncharted Waters'

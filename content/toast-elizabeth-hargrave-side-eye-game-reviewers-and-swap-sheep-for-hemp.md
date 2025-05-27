@@ -1,14 +1,37 @@
 ---
-title: "Elizabeth Hargrave Brilha como Convidada de Honra na Gen Con 2025 e Outras Novidades do Mundo dos Jogos de Tabuleiro"
-slug: "toast-elizabeth-hargrave-side-eye-game-reviewers-and-swap-sheep-for-hemp"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/IaZ2ZdJCM1uPJkxFXcOI8Q__imagepage/img/etgiTAwpZUw9M_2FSUkq11yqij0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5289751.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/IaZ2ZdJCM1uPJkxFXcOI8Q__imagepage/img/etgiTAwpZUw9M_2FSUkq11yqij0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5289751.jpg"
-tags: ["Elizabeth Hargrave", "Gen Con 2025", "jogos de tabuleiro", "Sanibel", "Avalon Hill", "crítica de jogos", "revisores de jogos", "Cardboard Edison", "Dot Com", "insolvência", "HCM Kinzel"]
-keywords: "Elizabeth Hargrave, Gen Con 2025, jogos de tabuleiro, Sanibel, Avalon Hill, crítica de jogos, revisores de jogos, Cardboard Edison, Dot Com, insolvência, HCM Kinzel"
-author: "Ana Luiza"
-data: "2025-05-27T15:38:15.144Z"
+title: >-
+  Elizabeth Hargrave Brilha como Convidada de Honra na Gen Con 2025 e Outras
+  Novidades do Mundo dos Jogos de Tabuleiro
+slug: toast-elizabeth-hargrave-side-eye-game-reviewers-and-swap-sheep-for-hemp
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/IaZ2ZdJCM1uPJkxFXcOI8Q__imagepage/img/etgiTAwpZUw9M_2FSUkq11yqij0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5289751.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/IaZ2ZdJCM1uPJkxFXcOI8Q__imagepage/img/etgiTAwpZUw9M_2FSUkq11yqij0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5289751.jpg
+tags:
+  - Elizabeth Hargrave
+  - Gen Con 2025
+  - jogos de tabuleiro
+  - Sanibel
+  - Avalon Hill
+  - crítica de jogos
+  - revisores de jogos
+  - Cardboard Edison
+  - Dot Com
+  - insolvência
+  - HCM Kinzel
+keywords: >-
+  Elizabeth Hargrave, Gen Con 2025, jogos de tabuleiro, Sanibel, Avalon Hill,
+  crítica de jogos, revisores de jogos, Cardboard Edison, Dot Com, insolvência,
+  HCM Kinzel
+author: Ana Luiza
+data: '2025-05-27T15:38:15.144Z'
+resumo: >-
+  A designer de jogos Elizabeth Hargrave será a convidada de honra na Gen Con
+  2025, com destaque para seu novo jogo 'Sanibel'. Além disso, confira insights
+  sobre a crítica de jogos e atualizações significativas do setor, incluindo a
+  insolvência da editora HCM Kinzel.
 ---
 
 ## Elizabeth Hargrave e o Design de Jogos Baseados na Natureza na Gen Con 2025

@@ -1,14 +1,33 @@
 ---
-title: "Descubra os Jogos de Tabuleiro Mais Aguardados para 2025: De Ilhas Voadoras a Mundos de Fantasia"
-slug: "protect-a-flying-island-box-cookies-and-harness-the-glorious-guilds-of-buttonville"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/n5JcTl5YD7pGQQBf5DM9og__imagepage/img/Rh4tP2KIEOlZRFpyEhcc02m9QrY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8894613.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/n5JcTl5YD7pGQQBf5DM9og__imagepage/img/Rh4tP2KIEOlZRFpyEhcc02m9QrY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8894613.jpg"
-tags: ["jogos de tabuleiro 2025", "Ventopia Die fliegende Insel", "Match Me If You Can", "Die glorreichen Gilden von Buttonville", "Cookie Party", "jogos de estratégia", "jogos de festa"]
-keywords: "jogos de tabuleiro 2025, Ventopia Die fliegende Insel, Match Me If You Can, Die glorreichen Gilden von Buttonville, Cookie Party, jogos de estratégia, jogos de festa"
-author: "Pablo Moura"
-data: "2025-05-27T15:39:57.650Z"
+title: >-
+  Descubra os Jogos de Tabuleiro Mais Aguardados para 2025: De Ilhas Voadoras a
+  Mundos de Fantasia
+slug: >-
+  protect-a-flying-island-box-cookies-and-harness-the-glorious-guilds-of-buttonville
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/n5JcTl5YD7pGQQBf5DM9og__imagepage/img/Rh4tP2KIEOlZRFpyEhcc02m9QrY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8894613.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/n5JcTl5YD7pGQQBf5DM9og__imagepage/img/Rh4tP2KIEOlZRFpyEhcc02m9QrY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8894613.jpg
+tags:
+  - jogos de tabuleiro 2025
+  - Ventopia Die fliegende Insel
+  - Match Me If You Can
+  - Die glorreichen Gilden von Buttonville
+  - Cookie Party
+  - jogos de estratégia
+  - jogos de festa
+keywords: >-
+  jogos de tabuleiro 2025, Ventopia Die fliegende Insel, Match Me If You Can,
+  Die glorreichen Gilden von Buttonville, Cookie Party, jogos de estratégia,
+  jogos de festa
+author: Pablo Moura
+data: '2025-05-27T15:39:57.650Z'
+resumo: >-
+  Conheça os lançamentos de jogos de tabuleiro para 2025, incluindo criações
+  inovadoras como 'Ventopia: Die fliegende Insel' e jogos de festa que prometem
+  animar qualquer reunião.
 ---
 
 À medida que 2025 se aproxima, as editoras de jogos de tabuleiro já estão aquecendo os motores com anúncios de lançamentos emocionantes que prometem enriquecer ainda mais o universo dos jogos. Entre eles, destacam-se propostas inovadoras e reedições de clássicos que vão desde aventuras em ilhas voadoras até desafios de raciocínio em festas animadas.

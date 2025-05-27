@@ -1,14 +1,29 @@
 ---
-title: "SPIEL Essen 25 Revela Novidades de Tabuleiro: 'Recall' e 'Norsewind' em Destaque"
-slug: "prepare-to-recall-a-norsewind-at-spiel-essen-25"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/lZL0ID86ZmraJDGWO-Dyig__imagepage/img/HnCfaA0P9cMgDDOzHNdt-jq5paI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8886325.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/lZL0ID86ZmraJDGWO-Dyig__imagepage/img/HnCfaA0P9cMgDDOzHNdt-jq5paI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8886325.png"
-tags: ["SPIEL Essen 25", "Recall jogo de tabuleiro", "Norsewind jogo de tabuleiro", "jogos de estratégia", "lançamentos de jogos de tabuleiro"]
-keywords: "SPIEL Essen 25, Recall jogo de tabuleiro, Norsewind jogo de tabuleiro, jogos de estratégia, lançamentos de jogos de tabuleiro"
-author: "Ana Luiza"
-data: "2025-05-27T15:40:39.156Z"
+title: >-
+  SPIEL Essen 25 Revela Novidades de Tabuleiro: 'Recall' e 'Norsewind' em
+  Destaque
+slug: prepare-to-recall-a-norsewind-at-spiel-essen-25
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/lZL0ID86ZmraJDGWO-Dyig__imagepage/img/HnCfaA0P9cMgDDOzHNdt-jq5paI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8886325.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/lZL0ID86ZmraJDGWO-Dyig__imagepage/img/HnCfaA0P9cMgDDOzHNdt-jq5paI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8886325.png
+tags:
+  - SPIEL Essen 25
+  - Recall jogo de tabuleiro
+  - Norsewind jogo de tabuleiro
+  - jogos de estratégia
+  - lançamentos de jogos de tabuleiro
+keywords: >-
+  SPIEL Essen 25, Recall jogo de tabuleiro, Norsewind jogo de tabuleiro, jogos
+  de estratégia, lançamentos de jogos de tabuleiro
+author: Ana Luiza
+data: '2025-05-27T15:40:39.156Z'
+resumo: >-
+  Explorando estratégias e civilizações antigas com 'Recall' e defendendo reinos
+  anglo-saxões em 'Norsewind', dois jogos promissores serão lançados na SPIEL
+  Essen 25.
 ---
 
 ## 'Recall': Uma Jornada Estratégica Através do Tempo e da Memória

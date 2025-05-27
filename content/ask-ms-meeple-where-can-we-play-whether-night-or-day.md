@@ -1,14 +1,26 @@
 ---
-title: "Encontre o Espaço Ideal para Eventos de Board Games em Grandes Cidades"
-slug: "ask-ms-meeple-where-can-we-play-whether-night-or-day"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/SuEJRMM3JKYx8TXJdQW5cg__imagepage/img/nQw4JC4TExcPZMRzn5-ifNN5MBM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8324862.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/SuEJRMM3JKYx8TXJdQW5cg__imagepage/img/nQw4JC4TExcPZMRzn5-ifNN5MBM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8324862.jpg"
-tags: ["eventos de board games", "encontrar espaços para jogos", "Ms. Meeple", "jogos de tabuleiro em cidades grandes", "locais para eventos de jogos"]
-keywords: "eventos de board games, encontrar espaços para jogos, Ms. Meeple, jogos de tabuleiro em cidades grandes, locais para eventos de jogos"
-author: "Pablo Moura"
-data: "2025-05-27T15:43:22.089Z"
+title: Encontre o Espaço Ideal para Eventos de Board Games em Grandes Cidades
+slug: ask-ms-meeple-where-can-we-play-whether-night-or-day
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/SuEJRMM3JKYx8TXJdQW5cg__imagepage/img/nQw4JC4TExcPZMRzn5-ifNN5MBM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8324862.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/SuEJRMM3JKYx8TXJdQW5cg__imagepage/img/nQw4JC4TExcPZMRzn5-ifNN5MBM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8324862.jpg
+tags:
+  - eventos de board games
+  - encontrar espaços para jogos
+  - Ms. Meeple
+  - jogos de tabuleiro em cidades grandes
+  - locais para eventos de jogos
+keywords: >-
+  eventos de board games, encontrar espaços para jogos, Ms. Meeple, jogos de
+  tabuleiro em cidades grandes, locais para eventos de jogos
+author: Pablo Moura
+data: '2025-05-27T15:43:22.089Z'
+resumo: >-
+  Descubra como localizar espaços ideais para hospedar eventos semanais de board
+  games em áreas urbanas, superando desafios de espaço e diversidade de jogos.
 ---
 
 ## O Dilema dos Espaços para Eventos de Board Games

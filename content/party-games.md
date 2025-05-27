@@ -1,14 +1,26 @@
 ---
-title: "Os Jogos de Festa Mais Aguardados: Diversão Garantida para Todos os Gostos!"
-slug: "party-games"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png"
-tags: ["jogos de festa", "jogos de tabuleiro", "lançamentos de jogos", "jogos de grupo", "diversão em grupo"]
-keywords: "jogos de festa, jogos de tabuleiro, lançamentos de jogos, jogos de grupo, diversão em grupo"
-author: "Luana Souza"
-data: "2025-05-27T15:36:58.242Z"
+title: 'Os Jogos de Festa Mais Aguardados: Diversão Garantida para Todos os Gostos!'
+slug: party-games
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png
+tags:
+  - jogos de festa
+  - jogos de tabuleiro
+  - lançamentos de jogos
+  - jogos de grupo
+  - diversão em grupo
+keywords: >-
+  jogos de festa, jogos de tabuleiro, lançamentos de jogos, jogos de grupo,
+  diversão em grupo
+author: Luana Souza
+data: '2025-05-27T15:36:58.242Z'
+resumo: >-
+  Conheça os novos e empolgantes jogos de festa que prometem animar qualquer
+  reunião, desde batalhas de mímica até desafios de playlist musical.
 ---
 
 ## Novidades em Jogos de Festa para Todos os Estilos

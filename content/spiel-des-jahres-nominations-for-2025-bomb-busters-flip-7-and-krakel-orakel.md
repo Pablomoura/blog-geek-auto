@@ -1,14 +1,29 @@
 ---
-title: "Revelados os Indicados ao Prestigioso Prêmio Spiel des Jahres 2025"
-slug: "spiel-des-jahres-nominations-for-2025-bomb-busters-flip-7-and-krakel-orakel"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/QZOEYyjcpQ2xPxKcDVLH2w__imagepage/img/O6efBXPHgslrThzBFULhVUhBPaQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2334183.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/QZOEYyjcpQ2xPxKcDVLH2w__imagepage/img/O6efBXPHgslrThzBFULhVUhBPaQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2334183.jpg"
-tags: ["Spiel des Jahres 2025", "indicações", "jogos de tabuleiro", "Bomb Busters", "Flip 7", "Krakel Orakel", "jogos infantis", "premiação de jogos"]
-keywords: "Spiel des Jahres 2025, indicações, jogos de tabuleiro, Bomb Busters, Flip 7, Krakel Orakel, jogos infantis, premiação de jogos"
-author: "Pablo Moura"
-data: "2025-05-27T15:44:54.789Z"
+title: Revelados os Indicados ao Prestigioso Prêmio Spiel des Jahres 2025
+slug: spiel-des-jahres-nominations-for-2025-bomb-busters-flip-7-and-krakel-orakel
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/QZOEYyjcpQ2xPxKcDVLH2w__imagepage/img/O6efBXPHgslrThzBFULhVUhBPaQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2334183.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/QZOEYyjcpQ2xPxKcDVLH2w__imagepage/img/O6efBXPHgslrThzBFULhVUhBPaQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2334183.jpg
+tags:
+  - Spiel des Jahres 2025
+  - indicações
+  - jogos de tabuleiro
+  - Bomb Busters
+  - Flip 7
+  - Krakel Orakel
+  - jogos infantis
+  - premiação de jogos
+keywords: >-
+  Spiel des Jahres 2025, indicações, jogos de tabuleiro, Bomb Busters, Flip 7,
+  Krakel Orakel, jogos infantis, premiação de jogos
+author: Pablo Moura
+data: '2025-05-27T15:44:54.789Z'
+resumo: >-
+  Descubra os jogos nomeados para o cobiçado prêmio Spiel des Jahres de 2025,
+  desde intrigantes jogos de tabuleiro a emocionantes novidades para crianças.
 ---
 
 ## Conheça os Indicados ao Spiel des Jahres 2025

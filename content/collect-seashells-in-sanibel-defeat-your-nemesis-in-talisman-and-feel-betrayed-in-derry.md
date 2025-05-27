@@ -1,14 +1,33 @@
 ---
-title: "Descubra as Novas Aventuras em Board Games: De Coletar Conchas em Sanibel a Enfrentar o Terror em Derry"
-slug: "collect-seashells-in-sanibel-defeat-your-nemesis-in-talisman-and-feel-betrayed-in-derry"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/dAghozqfovVaovADJ5YYSw__imagepage/img/U0eCYqQSbABp56aBWrr6pgD7eoM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8897108.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/dAghozqfovVaovADJ5YYSw__imagepage/img/U0eCYqQSbABp56aBWrr6pgD7eoM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8897108.jpg"
-tags: ["Sanibel", "Betrayal at Neibolt House", "Talisman: Nemesis", "lançamentos de board games", "Avalon Hill", "Elizabeth Hargrave", "Reiner Knizia", "jogos de tabuleiro 2025"]
-keywords: "Sanibel, Betrayal at Neibolt House, Talisman: Nemesis, lançamentos de board games, Avalon Hill, Elizabeth Hargrave, Reiner Knizia, jogos de tabuleiro 2025"
-author: "Luana Souza"
-data: "2025-05-27T15:41:53.076Z"
+title: >-
+  Descubra as Novas Aventuras em Board Games: De Coletar Conchas em Sanibel a
+  Enfrentar o Terror em Derry
+slug: >-
+  collect-seashells-in-sanibel-defeat-your-nemesis-in-talisman-and-feel-betrayed-in-derry
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/dAghozqfovVaovADJ5YYSw__imagepage/img/U0eCYqQSbABp56aBWrr6pgD7eoM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8897108.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/dAghozqfovVaovADJ5YYSw__imagepage/img/U0eCYqQSbABp56aBWrr6pgD7eoM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8897108.jpg
+tags:
+  - Sanibel
+  - Betrayal at Neibolt House
+  - 'Talisman: Nemesis'
+  - lançamentos de board games
+  - Avalon Hill
+  - Elizabeth Hargrave
+  - Reiner Knizia
+  - jogos de tabuleiro 2025
+keywords: >-
+  Sanibel, Betrayal at Neibolt House, Talisman: Nemesis, lançamentos de board
+  games, Avalon Hill, Elizabeth Hargrave, Reiner Knizia, jogos de tabuleiro 2025
+author: Luana Souza
+data: '2025-05-27T15:41:53.076Z'
+resumo: >-
+  Exploramos lançamentos empolgantes de board games para 2025 e 2026, incluindo
+  'Sanibel', uma expansão assustadora de 'Betrayal at House on the Hill' e uma
+  nova expansão de 'Talisman'.
 ---
 
 ## **Sanibel**: Um Passeio Único Pelas Praias da Flórida
