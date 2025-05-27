@@ -251,87 +251,91 @@ async function executarScraper() {
   const resultados = [];
 
 for (const noticia of noticias.slice(0, MAX_POSTS)) {
+  const slug = slugify(noticia.titulo);
+
+  // ✅ Checa se já existe para evitar duplicação
+  if (!noticia.titulo || postsExistentes.some((p) => slugify(p.slug) === slug)) {
+    console.log(`⚠️ Post já existente, pulando: ${slug}`);
+    continue;
+  }
+
   console.log(`📖 Processando conteúdo de: ${noticia.titulo}`);
 
   const { textoMarkdown, imagens } = await processarConteudoNoticia(noticia.descricaoHtml);
 
   const capa = imagens.length ? imagens[0] : "/images/default.jpg";
-  const imagensSemCapa = imagens.slice(1);
+  const imagensSemCapa = imagens.slice(1); // ✅ Remove capa do corpo
 
   const novaNoticia = {
-    ...noticia,
+    titulo: noticia.titulo,
+    categoria: "Board Games",
+    resumo: "", // Pode ajustar se quiser gerar um resumo com IA
+    link: noticia.link,
+    thumb: capa,
     texto: textoMarkdown,
-    imagensInternas: imagensSemCapa,
     midia: capa,
     tipoMidia: "imagem",
+    slug,
     fonte: "BoardGameGeek",
     reescrito: false,
-    data: noticia.pubDate,
-    author: noticia.autor
+    data: noticia.pubDate
   };
 
-  const reescrito = await retry(() => reescreverNoticia(
-    novaNoticia.titulo,
-    novaNoticia.resumo,
-    novaNoticia.texto
-  ));
-
+  const reescrito = await retry(() => reescreverNoticia(novaNoticia.titulo, novaNoticia.resumo, novaNoticia.texto));
   if (!reescrito) continue;
-
-  // ✅ Agora gera slug com título reescrito
-  const slug = slugify(reescrito.titulo);
-
-  // ✅ E só agora checa se já existe
-  if (postsExistentes.some(p => p.slug === slug)) {
-    console.log(`⚠️ Post já existe: ${slug}, pulando...`);
-    continue;
-  }
 
   novaNoticia.titulo = reescrito.titulo;
   novaNoticia.resumo = reescrito.resumo;
-  novaNoticia.slug = slug;
-
   novaNoticia.texto = inserirImagensNoTexto(reescrito.texto, imagensSemCapa);
-  novaNoticia.texto += await buscarFontesGoogle(novaNoticia.titulo);
+
+  const blocoFontes = await buscarFontesGoogle(novaNoticia.titulo);
+  novaNoticia.texto += blocoFontes;
+
   novaNoticia.reescrito = true;
 
+  const tags = reescrito.keywords
+    ? reescrito.keywords.split(",").map(t => t.trim()).filter(Boolean)
+    : [];
+  const keywords = tags.join(", ");
+
   const mdPath = path.join(contentDir, `${slug}.md`);
-  const dataAtual = new Date().toISOString();
+  const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
+  const autorEscolhido = autores[Math.floor(Math.random() * autores.length)];
 
   const frontMatter = `---
 title: "${reescrito.titulo.replace(/"/g, "'")}"
 slug: "${slug}"
 categoria: "Board Games"
-midia: "${capa}"
-tipoMidia: "imagem"
-thumb: "${capa}"
-tags: []
-keywords: ""
-author: "${novaNoticia.author}"
-data: "${dataAtual}"
+midia: "${novaNoticia.midia}"
+tipoMidia: "${novaNoticia.tipoMidia}"
+thumb: "${novaNoticia.thumb}"
+tags: ["${tags.join('", "')}"]
+keywords: "${keywords}"
+author: "${autorEscolhido}"
+data: "${new Date().toISOString()}"
 ---\n\n`;
 
   const markdown = frontMatter + novaNoticia.texto;
   fs.writeFileSync(mdPath, markdown, "utf-8");
   console.log(`📝 Markdown salvo em: ${mdPath}`);
 
-  const post = {
-    titulo: reescrito.titulo,
-    categoria: "Board Games",
-    resumo: reescrito.resumo,
+  // ✅ Salva no formato correto no posts.json
+  postsExistentes.push({
+    titulo: novaNoticia.titulo,
+    categoria: novaNoticia.categoria,
+    resumo: novaNoticia.resumo,
     link: novaNoticia.link,
-    thumb: capa,
+    thumb: novaNoticia.thumb,
     texto: novaNoticia.texto,
-    midia: capa,
-    tipoMidia: "imagem",
-    slug: slug,
-    fonte: "BoardGameGeek",
-    reescrito: true,
-    data: dataAtual
-  };
+    midia: novaNoticia.midia,
+    tipoMidia: novaNoticia.tipoMidia,
+    slug: novaNoticia.slug,
+    fonte: novaNoticia.fonte,
+    reescrito: novaNoticia.reescrito,
+    data: new Date().toISOString()
+  });
 
-  postsExistentes.push(post);
-  resultados.push(post);
+  console.log(`✅ Post adicionado ao JSON: ${slug}`);
 }
 
   if (resultados.length > 0) {
@@ -358,5 +362,11 @@ async function retry(fn, retries = 3, delay = 1000) {
         throw err;
       }
     }
+  }
+  if (postsExistentes.length > 0) {
+    fs.writeFileSync(jsonFilePath, JSON.stringify(postsExistentes, null, 2), "utf-8");
+    console.log(`✅ ${postsExistentes.length} posts salvos do BoardGameGeek.`);
+  } else {
+    console.log("🔄 Nenhuma nova notícia do BoardGameGeek encontrada.");
   }
 }
