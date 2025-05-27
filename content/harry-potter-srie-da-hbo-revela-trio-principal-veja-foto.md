@@ -3,7 +3,7 @@ title: Revelado Elenco do Trio Principal da Nova Série de Harry Potter na HBO
 slug: harry-potter-srie-da-hbo-revela-trio-principal-veja-foto
 categoria: SÉRIES E TV
 midia: >-
-  https://cdn.ome.lt/ggPz4bnwot0EJOTo9w3XX-ZOSUo=/480x360/smart/extras/conteudos/image_-_2025-05-27T120515.028.png
+  https://cdn.ome.lt/3XfJkG5hq0McLkD_rXU8--oYRCo=/fit-in/837x500/smart/uploads/conteudo/fotos/image_-_2025-05-27T120515.028.png
 tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/ggPz4bnwot0EJOTo9w3XX-ZOSUo=/480x360/smart/extras/conteudos/image_-_2025-05-27T120515.028.png
@@ -32,8 +32,6 @@ resumo: >-
 ---
 
 ## Conheça os Novos Rostos de Harry, Hermione e Ron
-
-![Imagem da notícia](https://cdn.ome.lt/3XfJkG5hq0McLkD_rXU8--oYRCo=/fit-in/837x500/smart/uploads/conteudo/fotos/image_-_2025-05-27T120515.028.png)
 
 A nova série da HBO baseada na aclamada saga de Harry Potter finalmente revelou quem serão os jovens atores a interpretar os icônicos personagens. Dominic McLaughlin assume o papel de Harry Potter, Arabella Stanton será Hermione Granger, e Alastair Stout dará vida a Ron Weasley. A primeira imagem do trio já circula nas redes, aumentando a expectativa dos fãs.
 

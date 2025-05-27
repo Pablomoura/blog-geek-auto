@@ -13,7 +13,7 @@ const turndownService = new TurndownService();
 
 const jsonFilePath = "public/posts.json";
 const contentDir = path.join(process.cwd(), "content");
-const MAX_POSTS = 2;
+const MAX_POSTS = 10;
 
 if (!fs.existsSync(contentDir)) {
   fs.mkdirSync(contentDir);

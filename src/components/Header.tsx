@@ -13,7 +13,7 @@ export default function Header() {
 
   const toggleMenu = () => setMenuAberto(!menuAberto);
 
-  const categorias = ["Games", "Séries e TV", "Mangás e Animes", "Filmes"];
+  const categorias = ["Games", "Séries e TV", "Mangás e Animes", "Filmes", "Board Games"];
 
   function slugify(text: string) {
     return text
