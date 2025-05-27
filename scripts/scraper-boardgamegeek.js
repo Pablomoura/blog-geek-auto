@@ -13,7 +13,7 @@ const turndownService = new TurndownService();
 
 const jsonFilePath = "public/posts.json";
 const contentDir = path.join(process.cwd(), "content");
-const MAX_POSTS = 1;
+const MAX_POSTS = 2;
 
 if (!fs.existsSync(contentDir)) {
   fs.mkdirSync(contentDir);
@@ -250,72 +250,89 @@ async function executarScraper() {
 
   const resultados = [];
 
-  for (const noticia of noticias.slice(0, MAX_POSTS)) {
-    const slug = slugify(noticia.titulo);
-    if (!noticia.titulo || postsExistentes.some((p) => slugify(p.slug) === slug)) continue;
+for (const noticia of noticias.slice(0, MAX_POSTS)) {
+  console.log(`📖 Processando conteúdo de: ${noticia.titulo}`);
 
-    console.log(`📖 Processando conteúdo de: ${noticia.titulo}`);
+  const { textoMarkdown, imagens } = await processarConteudoNoticia(noticia.descricaoHtml);
 
-    const { textoMarkdown, imagens } = await processarConteudoNoticia(noticia.descricaoHtml);
+  const capa = imagens.length ? imagens[0] : "/images/default.jpg";
+  const imagensSemCapa = imagens.slice(1);
 
-    const capa = imagens.length ? imagens[0] : "/images/default.jpg";
-    const imagensSemCapa = imagens.slice(1); // Remove a primeira imagem (capa)
+  const novaNoticia = {
+    ...noticia,
+    texto: textoMarkdown,
+    imagensInternas: imagensSemCapa,
+    midia: capa,
+    tipoMidia: "imagem",
+    fonte: "BoardGameGeek",
+    reescrito: false,
+    data: noticia.pubDate,
+    author: noticia.autor
+  };
 
-    const novaNoticia = {
-      ...noticia,
-      texto: textoMarkdown,
-      imagensInternas: imagensSemCapa,
-      midia: capa,
-      tipoMidia: "imagem",
-      slug,
-      fonte: "BoardGameGeek",
-      reescrito: false,
-      data: noticia.pubDate,
-      author: noticia.autor
-    };
+  const reescrito = await retry(() => reescreverNoticia(
+    novaNoticia.titulo,
+    novaNoticia.resumo,
+    novaNoticia.texto
+  ));
 
-    const reescrito = await retry(() => reescreverNoticia(novaNoticia.titulo, novaNoticia.resumo, novaNoticia.texto));
-    if (!reescrito) continue;
+  if (!reescrito) continue;
 
-    novaNoticia.titulo = reescrito.titulo;
-    novaNoticia.resumo = reescrito.resumo;
+  // ✅ Agora gera slug com título reescrito
+  const slug = slugify(reescrito.titulo);
 
-    novaNoticia.texto = inserirImagensNoTexto(reescrito.texto, imagensSemCapa);
+  // ✅ E só agora checa se já existe
+  if (postsExistentes.some(p => p.slug === slug)) {
+    console.log(`⚠️ Post já existe: ${slug}, pulando...`);
+    continue;
+  }
 
-    const blocoFontes = await buscarFontesGoogle(novaNoticia.titulo);
-    novaNoticia.texto += blocoFontes;
+  novaNoticia.titulo = reescrito.titulo;
+  novaNoticia.resumo = reescrito.resumo;
+  novaNoticia.slug = slug;
 
-    novaNoticia.reescrito = true;
+  novaNoticia.texto = inserirImagensNoTexto(reescrito.texto, imagensSemCapa);
+  novaNoticia.texto += await buscarFontesGoogle(novaNoticia.titulo);
+  novaNoticia.reescrito = true;
 
-    const tags = reescrito.keywords ? reescrito.keywords.split(",").map(t => t.trim()).filter(Boolean) : [];
-    const keywords = tags.join(", ");
+  const mdPath = path.join(contentDir, `${slug}.md`);
+  const dataAtual = new Date().toISOString();
 
-    const mdPath = path.join(contentDir, `${slug}.md`);
-    const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
-    const autorEscolhido = autores[Math.floor(Math.random() * autores.length)];
-
-    const frontMatter = `---
+  const frontMatter = `---
 title: "${reescrito.titulo.replace(/"/g, "'")}"
 slug: "${slug}"
-categoria: "${novaNoticia.categoria}"
-midia: "${novaNoticia.midia}"
-tipoMidia: "${novaNoticia.tipoMidia}"
-thumb: "${novaNoticia.midia}"
-tags: ["${tags.join('", "')}"]
-keywords: "${keywords}"
-author: "${autorEscolhido}"
-data: "${novaNoticia.data}"
+categoria: "Board Games"
+midia: "${capa}"
+tipoMidia: "imagem"
+thumb: "${capa}"
+tags: []
+keywords: ""
+author: "${novaNoticia.author}"
+data: "${dataAtual}"
 ---\n\n`;
 
-    const markdown = frontMatter + novaNoticia.texto;
-    fs.writeFileSync(mdPath, markdown, "utf-8");
-    console.log(`📝 Markdown salvo em: ${mdPath}`);
+  const markdown = frontMatter + novaNoticia.texto;
+  fs.writeFileSync(mdPath, markdown, "utf-8");
+  console.log(`📝 Markdown salvo em: ${mdPath}`);
 
-    novaNoticia.data = new Date().toISOString();
+  const post = {
+    titulo: reescrito.titulo,
+    categoria: "Board Games",
+    resumo: reescrito.resumo,
+    link: novaNoticia.link,
+    thumb: capa,
+    texto: novaNoticia.texto,
+    midia: capa,
+    tipoMidia: "imagem",
+    slug: slug,
+    fonte: "BoardGameGeek",
+    reescrito: true,
+    data: dataAtual
+  };
 
-    resultados.push(novaNoticia);
-    salvarNoticia(novaNoticia, reescrito, imagens);
-  }
+  postsExistentes.push(post);
+  resultados.push(post);
+}
 
   if (resultados.length > 0) {
     fs.writeFileSync(jsonFilePath, JSON.stringify(postsExistentes, null, 2), "utf-8");
