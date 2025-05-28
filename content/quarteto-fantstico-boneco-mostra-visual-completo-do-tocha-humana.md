@@ -37,6 +37,8 @@ resumo: >-
 
 Recentemente, imagens de um novo boneco do Tocha Humana começaram a circular na internet, capturando a atenção dos fãs do Quarteto Fantástico. Este colecionável, parte da prestigiada linha Marvel Legends, apresenta o icônico personagem Johnny Storm em todo o seu esplendor ardente, com o corpo envolto em chamas. O design mantém a essência clássica dos quadrinhos, com destaque para o inconfundível cabelo flamejante do herói.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">First look at Hasbro’s Marvel Legends Human Torch figure from ‘THE FANTASTIC FOUR: FIRST STEPS’. <a href="https://t.co/NlI0ghdOTR">pic.twitter.com/NlI0ghdOTR</a></p>&mdash; Fantastic Four Updates (@F4Update) <a href="https://twitter.com/F4Update/status/1927803824380555772?ref_src=twsrc%5Etfw">May 28, 2025</a></blockquote>
+
 ### O Elenco Estelar de 'Quarteto Fantástico: Primeiros Passos'
 
 O filme promete rejuvenescer a franquia com um elenco de peso. Pedro Pascal assume o papel de Reed Richards, também conhecido como Sr. Fantástico, enquanto Vanessa Kirby interpreta Sue Storm, a Mulher-Invisível. Joseph Quinn dá vida ao impetuoso Johnny Storm, e Ebon Moss-Bachrach completa o grupo como Ben Grimm, o Coisa. Com adições como Ralph Ineson como o vilão Galactus e Julia Garner como uma nova versão do Surfista Prateado, o filme dirigido por Matt Shakman, anteriormente responsável por 'WandaVision', está gerando grandes expectativas.
