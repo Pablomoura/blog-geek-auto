@@ -1,14 +1,33 @@
 ---
-title: "Reviva o Clássico e Explore Novidades nos Jogos de Tabuleiro para 2025"
-slug: "go-renegade-against-networks-in-deckers-dump-skunks-and-rediscover-the-conquest-of-paradise"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/pgcSbJx4q5TfR4HRQbJWaQ__imagepage/img/v03_0Qywz7U00pDcMLH9OL5sqrQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8899511.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/pgcSbJx4q5TfR4HRQbJWaQ__imagepage/img/v03_0Qywz7U00pDcMLH9OL5sqrQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8899511.jpg"
-tags: ["jogos de tabuleiro 2025", "Deckers jogo", "Conquest of Paradise", "Hasbro jogos", "Sweet Takes", "Beat the Heat", "Priorities jogo", "Snailed It!", "novidades jogos de tabuleiro"]
-keywords: "jogos de tabuleiro 2025, Deckers jogo, Conquest of Paradise, Hasbro jogos, Sweet Takes, Beat the Heat, Priorities jogo, Snailed It!, novidades jogos de tabuleiro"
-author: "Pablo Moura"
-data: "2025-05-28T06:28:18.330Z"
+title: Reviva o Clássico e Explore Novidades nos Jogos de Tabuleiro para 2025
+slug: >-
+  go-renegade-against-networks-in-deckers-dump-skunks-and-rediscover-the-conquest-of-paradise
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/pgcSbJx4q5TfR4HRQbJWaQ__imagepage/img/v03_0Qywz7U00pDcMLH9OL5sqrQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8899511.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/pgcSbJx4q5TfR4HRQbJWaQ__imagepage/img/v03_0Qywz7U00pDcMLH9OL5sqrQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8899511.jpg
+tags:
+  - jogos de tabuleiro 2025
+  - Deckers jogo
+  - Conquest of Paradise
+  - Hasbro jogos
+  - Sweet Takes
+  - Beat the Heat
+  - Priorities jogo
+  - Snailed It!
+  - novidades jogos de tabuleiro
+keywords: >-
+  jogos de tabuleiro 2025, Deckers jogo, Conquest of Paradise, Hasbro jogos,
+  Sweet Takes, Beat the Heat, Priorities jogo, Snailed It!, novidades jogos de
+  tabuleiro
+author: Pablo Moura
+data: '2025-05-28T06:28:18.330Z'
+resumo: >-
+  Descubra as novas edições e lançamentos de jogos de tabuleiro planejados para
+  2025, incluindo uma nova versão de 'Conquest of Paradise' e o intrigante
+  'Deckers'.
 ---
 
 ## **Deckers: Uma Nova Abordagem em Jogos de Estratégia Cibernética**
