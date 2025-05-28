@@ -15,6 +15,7 @@ tags:
   - estreia de Superman
   - DC Studios
   - filme do Superman
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DCU, mudanças no filme, estreia de Superman, DC Studios,
   filme do Superman
