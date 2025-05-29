@@ -10,7 +10,7 @@
     "lint": "next lint",
     "publish-md": "node scripts/publish-md.js",
     "build:cache": "node scripts/build-html-cache.js",
-    "build": "next build",
+    "build": "npm run build:cache && next build",
     "sitemap:tags": "tsx scripts/gerar-sitemap-tags.ts",
     "sitemap": "tsx scripts/gerar-sitemap.ts",
     "rss": "node scripts/gerar-rss.js"
