@@ -1,8 +1,6 @@
 // src/app/politica-de-privacidade/page.tsx
 import { Metadata } from "next";
 
-export const runtime = 'edge';
-
 export const metadata: Metadata = {
   title: "Política de Privacidade | GeekNews",
   description: "Entenda como tratamos suas informações pessoais no GeekNews conforme a LGPD.",

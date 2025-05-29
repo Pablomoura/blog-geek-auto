@@ -4,8 +4,6 @@ import { FaArrowLeft } from 'react-icons/fa';
 import Header from '@/components/Header';
 import UltimoPost404 from '@/components/UltimoPost404';
 
-export const runtime = 'edge';
-
 export default function NotFoundPage() {
   return (
     <>

@@ -1,8 +1,6 @@
 // components/AutorCard.tsx
 import Image from "next/image";
 
-export const runtime = 'edge';
-
 export default function AutorCard({ nome, bio, imagem }: { nome: string, bio: string, imagem: string }) {
   return (
     <div className="mt-16 flex items-center gap-6 p-4 border-t border-gray-700 pt-6">
