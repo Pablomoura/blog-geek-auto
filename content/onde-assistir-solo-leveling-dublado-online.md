@@ -4,7 +4,7 @@ title: >-
 slug: onde-assistir-solo-leveling-dublado-online
 categoria: MANGÁS E ANIMES
 tipo: artigo
-midia: 'https://www.youtube.com/embed/MWrsQmBIkhM?enablejsapi=1'
+midia: 'https://www.youtube.com/embed/AcJybt95FVs?si=bhr74D-UPi_8UJ59'
 tipoMidia: video
 thumb: >-
   /images/20175836911171.jpg
