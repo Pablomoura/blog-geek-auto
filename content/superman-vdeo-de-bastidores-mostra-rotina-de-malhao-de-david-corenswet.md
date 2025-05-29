@@ -14,6 +14,7 @@ tags:
   - James Gunn
   - DC Comics
   - filme de super-herói
+  - especial-Superman
 keywords: >-
   David Corenswet, Superman, treinamento, James Gunn, DC Comics, filme de
   super-herói

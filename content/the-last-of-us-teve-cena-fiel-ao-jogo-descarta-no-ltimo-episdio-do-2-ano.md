@@ -14,6 +14,7 @@ tags:
   - cena excluída
   - vídeo de bastidores
   - adaptação de jogo
+  - especial-The Last of Us
 keywords: 'The Last of Us, HBO, cena excluída, vídeo de bastidores, adaptação de jogo'
 author: Ana Luiza
 data: '2025-05-29T21:18:46.864Z'

@@ -15,6 +15,7 @@ tags:
   - cinema
   - eventos no Brasil
   - filmes de super-heróis
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, David Corenswet, Rio de Janeiro, cinema, eventos no
   Brasil, filmes de super-heróis

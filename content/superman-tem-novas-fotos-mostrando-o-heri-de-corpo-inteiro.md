@@ -18,6 +18,7 @@ tags:
   - Metrópoles
   - Rachel Brosnahan
   - Nicholas Hoult
+  - especial-Superman
 keywords: >-
   Superman, David Corenswet, James Gunn, DCU, novo filme de Superman, Clark
   Kent, Metrópoles, Rachel Brosnahan, Nicholas Hoult

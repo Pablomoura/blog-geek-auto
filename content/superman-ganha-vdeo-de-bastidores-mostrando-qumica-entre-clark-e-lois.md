@@ -16,6 +16,7 @@ tags:
   - filme de super-heróis
   - cinema
   - DCU
+  - especial-Superman
 keywords: >-
   Superman, DC Comics, James Gunn, David Corenswet, Rachel Brosnahan, filme de
   super-heróis, cinema, DCU
