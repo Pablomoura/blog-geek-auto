@@ -2,6 +2,8 @@ import Link from "@/components/SmartLink";
 import Image from "next/image";
 import { PostResumo } from "@/types/post";
 
+export const runtime = 'edge';
+
 export function getPostsRelacionados(
   slugAtual: string,
   tagsAtuais: string[] = [],

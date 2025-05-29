@@ -1,6 +1,8 @@
 import Image from "next/image";
 import { FaStar } from "react-icons/fa6";
 
+export const runtime = 'edge';
+
 type Props = {
   capa: string;
   tituloPortugues: string;

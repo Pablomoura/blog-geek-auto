@@ -3,6 +3,8 @@ import Link from "next/link";
 import Image from "next/image";
 import { loadPostCache } from "@/utils/loadPostCache";
 
+export const runtime = 'edge';
+
 export default async function UltimoPost404() {
   const posts = await loadPostCache();
 

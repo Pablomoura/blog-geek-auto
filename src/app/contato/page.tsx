@@ -1,6 +1,8 @@
 import Header from "@/components/Header";
 import Script from "next/script";
 
+export const runtime = 'edge';
+
 export const metadata = {
   title: "Contato - GeekNews",
   description: "Entre em contato com a equipe do GeekNews",

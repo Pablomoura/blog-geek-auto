@@ -15,6 +15,7 @@ tags:
   - James Gunn
   - filmes de super-heróis
   - colecionáveis
+  - especial-Superman
 keywords: >-
   Superman, Lanterna Verde, Funko Pop, DCU, James Gunn, filmes de super-heróis,
   colecionáveis

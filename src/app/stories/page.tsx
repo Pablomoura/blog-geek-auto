@@ -4,6 +4,8 @@ import Link from "next/link";
 import Image from "next/image";
 import Header from "@/components/Header";
 
+export const runtime = 'edge';
+
 export const metadata = {
   title: "Web Stories • GeekNews",
   description: "Explore os stories mais recentes do GeekNews",

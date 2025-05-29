@@ -2,6 +2,8 @@
 import { getAllStories } from "@/lib/getStories";
 import FullscreenStory from "./viewer";
 
+export const runtime = 'edge';
+
 export default async function StoryPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const stories = await getAllStories();

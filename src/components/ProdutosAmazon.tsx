@@ -1,6 +1,8 @@
 import { produtosPorCategoria } from "@utils/produtosAmazon";
 import { ProdutoAmazon } from "@/utils/produtosAmazon";
 
+export const runtime = 'edge';
+
 function embaralhar<T>(arr: T[]): T[] {
     return arr.sort(() => Math.random() - 0.5);
   }

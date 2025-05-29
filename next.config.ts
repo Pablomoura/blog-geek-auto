@@ -13,7 +13,7 @@ const nextConfig = {
       "cf.geekdo-images.com",
       "images.com",
     ],
-    unoptimized: true,
+    unoptimized: false,
   },
   serverExternalPackages: ["puppeteer-extra", "puppeteer-extra-plugin-stealth"],
   experimental: {

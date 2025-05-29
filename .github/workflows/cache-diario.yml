@@ -2,7 +2,7 @@ name: Tweetador
 
 on:
   schedule:
-    - cron: '0 11-23,0,2 * * *' # Executa a cada hora entre 11h e 1h do dia seguinte
+    - cron: '20 11-23,0,2 * * *' # Executa a cada hora entre 11h e 1h do dia seguinte
   workflow_dispatch:     # Permite executar manualmente no GitHub
 
 jobs:

@@ -3,7 +3,7 @@ title: >-
   Inimigos da Terra-Média: Novo Board Game Brasileiro de O Senhor dos Anéis
   Promete Aventuras Épicas
 slug: o-senhor-dos-anis-ganha-board-game-brasileiro-que-leva-fs-ao-mundo-dos-filmes
-categoria: GAMES
+categoria: Board Games
 midia: >-
   https://cdn.ome.lt/w6uusE9ax_DK8hKrv4_pR1U2UWU=/987x0/smart/uploads/conteudo/fotos/Untitled_design_72.png
 tipoMidia: imagem

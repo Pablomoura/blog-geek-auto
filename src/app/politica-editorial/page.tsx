@@ -1,6 +1,8 @@
 import React from "react";
 import Header from "@/components/Header";
 
+export const runtime = 'edge';
+
 export const metadata = {
   title: "Política Editorial - GeekNews",
   description:
