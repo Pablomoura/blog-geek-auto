@@ -43,8 +43,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             } catch (_) {}
           `}
         </Script>
-
-        <Analytics/>
       </head>
       <body className="text-neutral-900 dark:text-white font-sans">
       <div className="bg-white dark:bg-black text-neutral-900 dark:text-white transition-all duration-300 ease-in-out">
@@ -98,6 +96,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 </footer>
         </LoadingProvider>
         </div>
+        <Analytics/>
       </body>
     </html>
   );
