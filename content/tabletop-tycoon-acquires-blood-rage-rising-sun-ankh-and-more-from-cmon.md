@@ -1,14 +1,32 @@
 ---
-title: "Tabletop Tycoon Amplia Portfólio com Aquisição de Franquias de Jogos da CMON, Incluindo Blood Rage e Rising Sun"
-slug: "tabletop-tycoon-acquires-blood-rage-rising-sun-ankh-and-more-from-cmon"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__imagepage/img/nLp0poXg-Y6szkicHe7U2thnwhk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2439223.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__imagepage/img/nLp0poXg-Y6szkicHe7U2thnwhk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2439223.jpg"
-tags: ["Tabletop Tycoon", "aquisição de jogos", "CMON", "Blood Rage", "Rising Sun", "Ankh Gods of Egypt", "Arcadia Quest", "Starcadia Quest", "mercado de jogos de tabuleiro"]
-keywords: "Tabletop Tycoon, aquisição de jogos, CMON, Blood Rage, Rising Sun, Ankh Gods of Egypt, Arcadia Quest, Starcadia Quest, mercado de jogos de tabuleiro"
-author: "Pablo Moura"
-data: "2025-05-29T00:08:07.785Z"
+title: >-
+  Tabletop Tycoon Amplia Portfólio com Aquisição de Franquias de Jogos da CMON,
+  Incluindo Blood Rage e Rising Sun
+slug: tabletop-tycoon-acquires-blood-rage-rising-sun-ankh-and-more-from-cmon
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__imagepage/img/nLp0poXg-Y6szkicHe7U2thnwhk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2439223.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__imagepage/img/nLp0poXg-Y6szkicHe7U2thnwhk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2439223.jpg
+tags:
+  - Tabletop Tycoon
+  - aquisição de jogos
+  - CMON
+  - Blood Rage
+  - Rising Sun
+  - Ankh Gods of Egypt
+  - Arcadia Quest
+  - Starcadia Quest
+  - mercado de jogos de tabuleiro
+keywords: >-
+  Tabletop Tycoon, aquisição de jogos, CMON, Blood Rage, Rising Sun, Ankh Gods
+  of Egypt, Arcadia Quest, Starcadia Quest, mercado de jogos de tabuleiro
+author: Pablo Moura
+data: '2025-05-29T00:08:07.785Z'
+resumo: >-
+  A editora Tabletop Tycoon anunciou a compra de várias linhas de jogos
+  renomados da CMON, prometendo expansões e remasterizações futuras.
 ---
 
 Em um movimento estratégico significativo no mundo dos jogos de tabuleiro, a Tabletop Tycoon, uma renomada editora norte-americana, consolidou sua posição no mercado com a aquisição de várias franquias populares da CMON. Anunciada em 28 de maio de 2025, a compra inclui títulos de peso como **Blood Rage**, **Rising Sun**, **Ankh: Gods of Egypt**, **Arcadia Quest** e **Starcadia Quest**.

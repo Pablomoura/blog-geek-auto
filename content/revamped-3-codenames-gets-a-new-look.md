@@ -1,14 +1,29 @@
 ---
-title: "Codenames em Nova Edição: Clássico dos Jogos de Tabuleiro Ganha Visual Renovado e Mais Sustentabilidade"
-slug: "revamped-3-codenames-gets-a-new-look"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/WePTXGRqr-0Eufzn-7yYXw__imagepage/img/3IkauDKggmvvlb7GhTGC5hcDDkg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8907695.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/WePTXGRqr-0Eufzn-7yYXw__imagepage/img/3IkauDKggmvvlb7GhTGC5hcDDkg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8907695.jpg"
-tags: ["Codenames", "jogos de tabuleiro", "Czech Games Edition", "Vlaada Chvátil", "Spiels des Jahres", "sustentabilidade em jogos"]
-keywords: "Codenames, jogos de tabuleiro, Czech Games Edition, Vlaada Chvátil, Spiels des Jahres, sustentabilidade em jogos"
-author: "Pablo Moura"
-data: "2025-05-29T00:08:33.605Z"
+title: >-
+  Codenames em Nova Edição: Clássico dos Jogos de Tabuleiro Ganha Visual
+  Renovado e Mais Sustentabilidade
+slug: revamped-3-codenames-gets-a-new-look
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/WePTXGRqr-0Eufzn-7yYXw__imagepage/img/3IkauDKggmvvlb7GhTGC5hcDDkg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8907695.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/WePTXGRqr-0Eufzn-7yYXw__imagepage/img/3IkauDKggmvvlb7GhTGC5hcDDkg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8907695.jpg
+tags:
+  - Codenames
+  - jogos de tabuleiro
+  - Czech Games Edition
+  - Vlaada Chvátil
+  - Spiels des Jahres
+  - sustentabilidade em jogos
+keywords: >-
+  Codenames, jogos de tabuleiro, Czech Games Edition, Vlaada Chvátil, Spiels des
+  Jahres, sustentabilidade em jogos
+author: Pablo Moura
+data: '2025-05-29T00:08:33.605Z'
+resumo: >-
+  Para celebrar o décimo aniversário do jogo, a Czech Games Edition anuncia uma
+  nova edição de Codenames com arte renovada e componentes eco-friendly.
 ---
 
 ## Codenames: Uma Década de Sucesso e Inovação
