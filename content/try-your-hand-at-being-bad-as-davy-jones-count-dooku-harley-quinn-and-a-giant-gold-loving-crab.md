@@ -1,14 +1,29 @@
 ---
-title: "Novos Jogos de Tabuleiro de 2025 Transformam Vilões Icônicos em Protagonistas"
-slug: "try-your-hand-at-being-bad-as-davy-jones-count-dooku-harley-quinn-and-a-giant-gold-loving-crab"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/Ah_RwCGHtPROEl3V8ya44A__imagepage/img/6_jnBaYRY1nSwqY_T5cvsgFiXU4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8906683.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/Ah_RwCGHtPROEl3V8ya44A__imagepage/img/6_jnBaYRY1nSwqY_T5cvsgFiXU4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8906683.png"
-tags: ["Jogos de Tabuleiro 2025", "Disney Villainous", "Star Wars Villainous", "DC Deck-Building Game", "Vilões de Cinema", "Jogos de Estratégia"]
-keywords: "Jogos de Tabuleiro 2025, Disney Villainous, Star Wars Villainous, DC Deck-Building Game, Vilões de Cinema, Jogos de Estratégia"
-author: "Ana Luiza"
-data: "2025-05-29T06:28:05.848Z"
+title: Novos Jogos de Tabuleiro de 2025 Transformam Vilões Icônicos em Protagonistas
+slug: >-
+  try-your-hand-at-being-bad-as-davy-jones-count-dooku-harley-quinn-and-a-giant-gold-loving-crab
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/Ah_RwCGHtPROEl3V8ya44A__imagepage/img/6_jnBaYRY1nSwqY_T5cvsgFiXU4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8906683.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/Ah_RwCGHtPROEl3V8ya44A__imagepage/img/6_jnBaYRY1nSwqY_T5cvsgFiXU4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8906683.png
+tags:
+  - Jogos de Tabuleiro 2025
+  - Disney Villainous
+  - Star Wars Villainous
+  - DC Deck-Building Game
+  - Vilões de Cinema
+  - Jogos de Estratégia
+keywords: >-
+  Jogos de Tabuleiro 2025, Disney Villainous, Star Wars Villainous, DC
+  Deck-Building Game, Vilões de Cinema, Jogos de Estratégia
+author: Ana Luiza
+data: '2025-05-29T06:28:05.848Z'
+resumo: >-
+  Em 2025, os fãs de jogos de tabuleiro poderão assumir o papel de vilões
+  famosos de Disney, Star Wars e DC Comics em lançamentos inovadores das séries
+  Villainous e DC Deck-Building.
 ---
 
 ## Disney e Star Wars Apostam em Vilões para Novos Jogos em 2025
