@@ -79,17 +79,23 @@ async function gerarTagsComIA(titulo, texto) {
       "https://api.openai.com/v1/chat/completions",
       {
         model: "gpt-4o",
-        messages: [{ role: "user", content: prompt }],
+        messages: [
+          {
+            role: "user",
+            content: `Reescreva este título e resumo para SEO:\nTítulo: ${titulo}\nResumo: ${resumo}\nTexto: ${texto}`,
+          },
+        ],
         temperature: 0.5,
-        service_tier: "flex",
       },
       {
         headers: {
           Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
           "Content-Type": "application/json",
+          "OpenAI-Service-Tier": "flex", // Especifica o uso do tier flexível
         },
       }
     );
+
 
     const content = response.data.choices[0].message.content.trim();
     return content.split(",").map((tag) => tag.trim());
@@ -372,8 +378,7 @@ Responda apenas com JSON válido no formato:
     const response = await axios.post(
       "https://api.openai.com/v1/chat/completions",
       {
-        model: "gpt-4o", // ✅ mais barato e rápido
-        service_tier: "flex", // ✅ modo econômico
+        model: "gpt-4o", // mais barato e melhor
         messages: [
           { role: "system", content: systemPrompt },
           { role: "user", content: userPrompt },
@@ -384,6 +389,7 @@ Responda apenas com JSON válido no formato:
         headers: {
           Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
           "Content-Type": "application/json",
+          "OpenAI-Service-Tier": "flex", // ✅ correto!
         },
       }
     );
