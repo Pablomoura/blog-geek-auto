@@ -1,14 +1,29 @@
 ---
-title: "Novidades de Board Games: Aventuras Solitárias, Sinais Crípticos e Jornada Estelar"
-slug: "escape-a-dungeon-cthulhu-another-dungeon-a-cryptic-signal-and-tribbles"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/xTnG122cWZhOdoI89XLKRg__imagepage/img/aWkgLT44FWLPSDL2BiRdo8feNWs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8284447.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/xTnG122cWZhOdoI89XLKRg__imagepage/img/aWkgLT44FWLPSDL2BiRdo8feNWs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8284447.jpg"
-tags: ["board games 2025", "365 Adventures Cthulhu", "Interstellar Adventures", "Star Trek Tribble Match", "jogos de tabuleiro solo", "UK Games Expo"]
-keywords: "board games 2025, 365 Adventures Cthulhu, Interstellar Adventures, Star Trek Tribble Match, jogos de tabuleiro solo, UK Games Expo"
-author: "Ana Luiza"
-data: "2025-05-30T14:37:36.057Z"
+title: >-
+  Novidades de Board Games: Aventuras Solitárias, Sinais Crípticos e Jornada
+  Estelar
+slug: escape-a-dungeon-cthulhu-another-dungeon-a-cryptic-signal-and-tribbles
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/xTnG122cWZhOdoI89XLKRg__imagepage/img/aWkgLT44FWLPSDL2BiRdo8feNWs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8284447.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/xTnG122cWZhOdoI89XLKRg__imagepage/img/aWkgLT44FWLPSDL2BiRdo8feNWs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8284447.jpg
+tags:
+  - board games 2025
+  - 365 Adventures Cthulhu
+  - Interstellar Adventures
+  - Star Trek Tribble Match
+  - jogos de tabuleiro solo
+  - UK Games Expo
+keywords: >-
+  board games 2025, 365 Adventures Cthulhu, Interstellar Adventures, Star Trek
+  Tribble Match, jogos de tabuleiro solo, UK Games Expo
+author: Ana Luiza
+data: '2025-05-30T14:37:36.057Z'
+resumo: >-
+  Conheça os lançamentos de jogos de tabuleiro que prometem agitar 2025 e 2026,
+  incluindo aventuras solo com Cthulhu e uma experiência estelar interativa.
 ---
 
 ## 365 Adventures: Cthulhu 1926 - Encare os Mistérios de Arkham
