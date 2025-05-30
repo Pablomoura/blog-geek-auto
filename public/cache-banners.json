@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "slug": "twitterx-apresenta-erro-e-fica-fora-do-ar-para-usurios-em-todo-o-mundo",
+      "titulo": "Instabilidade Global: X (antigo Twitter) Sai do Ar Deixando Usuários Desconectados",
+      "thumb": "https://cdn.ome.lt/UuyZcpTp58VC0ilK_12dIgkMNRk=/480x360/smart/extras/conteudos/x-twitter-fora-do-ar_SbYTyRd.png",
+      "categoria": "GAMES"
+    },
+    {
       "slug": "jogo-cancelado-do-pantera-negra-teria-sistema-de-shadow-of-mordor",
       "titulo": "Jogo Cancelado do Pantera Negra Inspirado em Shadow of Mordor é Revelado",
       "thumb": "https://cdn.ome.lt/vCWcjA5SlkNY9WJ373HCpzhqnxU=/480x360/smart/extras/conteudos/imagem_2025-05-30_163344537.png",
@@ -10,12 +16,6 @@
       "slug": "elden-ring-nightreign-bate-2-milhes-de-cpias-vendidas-no-dia-do-lanamento",
       "titulo": "Elden Ring: Nightreign Atinge 2 Milhões de Vendas no Primeiro Dia de Lançamento",
       "thumb": "https://cdn.ome.lt/DoitCC1T7VTtKMEsYxL_LWy7Gx4=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-30T121509.187.png",
-      "categoria": "GAMES"
-    },
-    {
-      "slug": "death-stranding-2-ter-painel-com-kojima-no-summer-game-fest-2025",
-      "titulo": "Death Stranding 2: Hideo Kojima Revela Novidades no Summer Game Fest 2025",
-      "thumb": "https://cdn.ome.lt/zBtaWxa5lIo2FWpvTZAJM-nIZxQ=/480x360/smart/extras/conteudos/imagem_2025-05-30_102538337.png",
       "categoria": "GAMES"
     }
   ],
@@ -61,21 +61,21 @@
   ],
   "filmes": [
     {
-      "slug": "superman-ganha-vdeo-fofo-com-crianas-conhecendo-o-heri-no-set",
-      "titulo": "Superman: Vídeo Emocionante Mostra Crianças Conhecendo o Herói no Set",
-      "thumb": "https://cdn.ome.lt/2o2zTYxqfkSZGuhfWP37uw-MCOo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-30_161123.png",
+      "slug": "lilo-stitch-analista-aponta-polmica-sobre-colonialismo-no-filme-entenda",
+      "titulo": "Lilo & Stitch: Debate sobre Colonialismo no Havaí Ganha Destaque",
+      "thumb": "https://cdn.ome.lt/cq91oRdAqmF9y6l2y0OoRwcZNXs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-30_172821.png",
       "categoria": "FILMES"
     },
     {
-      "slug": "prime-video-estreias-de-junho-tm-pecadores-minecraft-e-mais",
-      "titulo": "Lançamentos de Junho no Prime Video: Pecadores, Minecraft e Mais Novidades Imperdíveis",
-      "thumb": "https://cdn.ome.lt/-yoiIJIApAG_HLR8MUID7hG3ZR4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-30_164049.png",
+      "slug": "a-vida-de-chuck-filme-baseado-em-obra-de-stephen-king-adiado-no-brasil",
+      "titulo": "Adiado o Lançamento de 'A Vida de Chuck', Filme Baseado em Stephen King",
+      "thumb": "https://cdn.ome.lt/P_TawEkgwiSPkuRDj85-bwn1cYo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-30_173951.png",
       "categoria": "FILMES"
     },
     {
-      "slug": "vivo-ou-morto-entre-facas-e-segredos-3-tem-novo-teaser-com-daniel-craig",
-      "titulo": "Vivo ou Morto: Entre Facas e Segredos 3 Revela Novo Teaser com Daniel Craig",
-      "thumb": "https://cdn.ome.lt/fo7Aujz_dTn8AKTD9JT_IuJy1zY=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-30_170513.png",
+      "slug": "superman-james-gunn-faz-tour-no-planeta-dirio-em-novo-vdeo",
+      "titulo": "James Gunn Revela Bastidores do Planeta Diário em Vídeo Exclusivo",
+      "thumb": "https://cdn.ome.lt/MEjjiJ1uLnya2xfIVg6SYo_lHMw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-30_175656.png",
       "categoria": "FILMES"
     }
   ],
