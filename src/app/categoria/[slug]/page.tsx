@@ -10,13 +10,14 @@ import ProdutosAmazon from "@/components/ProdutosAmazon";
 import { Metadata } from "next";
 import Image from "next/image";
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  const categoria = decodeURIComponent(params.slug).replace(/-/g, " ").toUpperCase();
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const categoria = decodeURIComponent(slug).replace(/-/g, " ").toUpperCase();
   return {
     title: `${categoria} - GeekNews`,
     description: `As últimas notícias sobre ${categoria} no GeekNews. Fique por dentro de lançamentos, análises e guias atualizados.`,
     alternates: {
-      canonical: `https://www.geeknews.com.br/categoria/${params.slug}`,
+      canonical: `https://www.geeknews.com.br/categoria/${slug}`,
     },
   };
 }
@@ -53,13 +54,18 @@ async function carregarCacheBanners(categoriaSlug: string): Promise<Banner[]> {
   }
 }
 
-export default async function CategoriaPage({ params, searchParams }: {
-  params: { slug: string };
-  searchParams: { page?: string };
+export default async function CategoriaPage({
+  params,
+  searchParams,
+}: {
+  params: Promise<{ slug: string }>;
+  searchParams: Promise<{ page?: string }>;
 }) {
-  const categoriaSlug = params.slug;
+  const { slug } = await params;
+  const { page } = await searchParams;
+  const categoriaSlug = slug;
   const categoriaNome = decodeURIComponent(categoriaSlug).replace(/-/g, " ").toUpperCase();
-  const paginaAtual = parseInt(searchParams.page || "1", 10);
+  const paginaAtual = parseInt(page || "1", 10);
   const postsPorPagina = 9;
 
   const contentDir = path.join(process.cwd(), "content");
@@ -135,7 +141,8 @@ export default async function CategoriaPage({ params, searchParams }: {
             <div className="flex flex-col gap-4">
               {banners.slice(1, 3).map((banner) => (
                 <Link
-                  href={`/noticia/${banner.slug}`} // href é obrigatório
+                  key={banner.slug}
+                  href={`/noticia/${banner.slug}`}
                   className="relative h-[190px] rounded-xl overflow-hidden shadow-md group"
                 >
                   <Image
@@ -148,12 +155,11 @@ export default async function CategoriaPage({ params, searchParams }: {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/10" />
                   <div className="relative z-10 p-4 text-white">
                     <span className="text-xs uppercase text-orange-400 font-bold">{banner.categoria}</span>
-                    <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">
-                      {banner.titulo}
-                    </h3>
+                    <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">{banner.titulo}</h3>
                   </div>
                 </Link>
               ))}
+
             </div>
           </section>
         )}

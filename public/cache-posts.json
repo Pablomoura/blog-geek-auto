@@ -1792,6 +1792,25 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "a-vida-de-chuck-filme-baseado-em-obra-de-stephen-king-adiado-no-brasil",
+    "titulo": "Adiado o Lançamento de 'A Vida de Chuck', Filme Baseado em Stephen King",
+    "categoria": "FILMES",
+    "resumo": "O filme 'A Vida de Chuck', estrelado por Tom Hiddleston, teve sua estreia no Brasil adiada pela distribuidora Diamond Films. A nova data já foi definida, gerando expectativa entre os fãs de Stephen King.",
+    "thumb": "https://cdn.ome.lt/P_TawEkgwiSPkuRDj85-bwn1cYo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-30_173951.png",
+    "data": "2025-05-30T21:20:12.514Z",
+    "tags": [
+      "A Vida de Chuck",
+      "Stephen King",
+      "Tom Hiddleston",
+      "Diamond Films",
+      "lançamento adiado"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1336,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "a-vida-de-chuck-filme-com-tom-hiddleston-ganha-pster-e-data",
     "titulo": "A Vida de Chuck | Filme com Tom Hiddleston ganha pôster e data",
     "categoria": "FILMES",
@@ -20094,6 +20113,28 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "era-uma-vez-em-hollywood-2-adiciona-novos-nomes-ao-elenco-confira",
+    "titulo": "Era uma Vez em Hollywood 2: Novos Atores Confirmados no Elenco Estelar",
+    "categoria": "FILMES",
+    "resumo": "Elizabeth Debicki, antes especulada, agora é confirmada na sequência de sucesso. Descubra quem mais se junta ao elenco de Era uma Vez em Hollywood 2.",
+    "thumb": "https://cdn.ome.lt/u0lR7mTBA8MHVk7IOaJMFCc0m1c=/480x360/smart/extras/conteudos/Design_sem_nome56.png",
+    "data": "2025-05-30T21:18:07.729Z",
+    "tags": [
+      "Era uma Vez em Hollywood 2",
+      "Elizabeth Debicki",
+      "Quentin Tarantino",
+      "elenco",
+      "sequência",
+      "Tenet",
+      "The Crown",
+      "Oscar"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1377,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "era-uma-vez-em-hollywood-2-deve-ter-leonardo-dicaprio-diz-insider",
     "titulo": "Possível Retorno de Leonardo DiCaprio em 'Era uma Vez em Hollywood 2' Sob Direção de David Fincher",
     "categoria": "FILMES",
@@ -31540,6 +31581,27 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 1713,
+    "slugCategoria": "filmes"
+  },
+  {
+    "slug": "lilo-stitch-analista-aponta-polmica-sobre-colonialismo-no-filme-entenda",
+    "titulo": "Lilo & Stitch: Debate sobre Colonialismo no Havaí Ganha Destaque",
+    "categoria": "FILMES",
+    "resumo": "Especialistas voltam suas atenções para questões de colonialismo em 'Lilo & Stitch', destacando a representação do Havaí no filme da Disney.",
+    "thumb": "https://cdn.ome.lt/cq91oRdAqmF9y6l2y0OoRwcZNXs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-30_172821.png",
+    "data": "2025-05-30T21:20:57.336Z",
+    "tags": [
+      "Lilo & Stitch",
+      "colonialismo",
+      "Havaí",
+      "Disney",
+      "representação cultural",
+      "filme",
+      "crítica cultural"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1404,
     "slugCategoria": "filmes"
   },
   {
@@ -51574,7 +51636,8 @@
       "DCU",
       "Rachel Brosnahan",
       "Nicholas Hoult",
-      "filme Superman 2025"
+      "filme Superman 2025",
+      "especial-Superman"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -51693,6 +51756,28 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 2006,
+    "slugCategoria": "filmes"
+  },
+  {
+    "slug": "superman-james-gunn-faz-tour-no-planeta-dirio-em-novo-vdeo",
+    "titulo": "James Gunn Revela Bastidores do Planeta Diário em Vídeo Exclusivo",
+    "categoria": "FILMES",
+    "resumo": "Diretor James Gunn oferece um olhar inédito sobre o icônico jornal de Metrópolis, o Planeta Diário, em um novo vídeo impressionante.",
+    "thumb": "https://cdn.ome.lt/MEjjiJ1uLnya2xfIVg6SYo_lHMw=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-30_175656.png",
+    "data": "2025-05-30T21:18:49.951Z",
+    "tags": [
+      "James Gunn",
+      "Planeta Diário",
+      "Superman",
+      "Metrópolis",
+      "DC",
+      "quadrinhos",
+      "cinema",
+      "especial-Superman"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1540,
     "slugCategoria": "filmes"
   },
   {
@@ -59219,6 +59304,29 @@
     "tempoLeitura": 1,
     "textoLength": 1146,
     "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "twitterx-apresenta-erro-e-fica-fora-do-ar-para-usurios-em-todo-o-mundo",
+    "titulo": "Instabilidade Global: X (antigo Twitter) Sai do Ar Deixando Usuários Desconectados",
+    "categoria": "GAMES",
+    "resumo": "A plataforma X, anteriormente conhecida como Twitter, enfrentou uma interrupção significativa, afetando usuários em várias regiões do mundo. Relatos de falhas surgiram em redes sociais concorrentes, enquanto a equipe técnica trabalha para resolver o problema.",
+    "thumb": "https://cdn.ome.lt/UuyZcpTp58VC0ilK_12dIgkMNRk=/480x360/smart/extras/conteudos/x-twitter-fora-do-ar_SbYTyRd.png",
+    "data": "2025-05-30T21:19:29.946Z",
+    "tags": [
+      "X",
+      "Twitter",
+      "instabilidade",
+      "Downdetector",
+      "Bluesky",
+      "Threads",
+      "interrupção",
+      "redes sociais",
+      "falha técnica"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 1,
+    "textoLength": 1149,
+    "slugCategoria": "games"
   },
   {
     "slug": "twitterx-est-fora-do-ar-pela-segunda-vez-em-maro",
