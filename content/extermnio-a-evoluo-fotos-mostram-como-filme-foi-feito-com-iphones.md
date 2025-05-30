@@ -48,4 +48,8 @@ Os protagonistas Jamie (Aaron Taylor-Johnson) e Isla (Jodie Comer) vivem na ilha
 
 O elenco conta ainda com Ralph Fiennes, que interpreta um médico sobrevivente com ideias radicais. O roteiro é assinado por Alex Garland, e a trilogia será completada com direção de Nia DaCosta no segundo filme, '28 Years Later: The Bone Temple'.
 
+![Imagem da notícia](https://cdn.ome.lt/oAQjHIahmGaNfQChDorxWc4L98Q=/fit-in/1070x750/smart/filer_public/62/4b/624b0b99-9be8-4bb3-bb7c-2b5f065e2542/28-years-later-2-1748565327867.jpg)
+![Imagem da notícia](https://cdn.ome.lt/DhfjRImXDsjYmn8zO1y742FL0fo=/fit-in/1070x750/smart/filer_public/c1/39/c139bb3b-f843-49f4-8d75-8775e39351ac/28-years-later-3-1748565327866.jpg)
+![Imagem da notícia](https://cdn.ome.lt/qgeHUP4TaPTDivVW8cdpDnILsXc=/fit-in/1070x750/smart/filer_public/01/53/01531fe9-630f-4024-b360-ccde46e54464/28-years-later-4-1748565327866.jpg)
+
 'Extermínio: A Evolução' estreia nos cinemas brasileiros em 20 de junho, prometendo revolucionar o gênero zumbi com sua técnica inovadora de filmagem.

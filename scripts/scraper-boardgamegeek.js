@@ -123,9 +123,6 @@ Responda apenas com o JSON, sem explicações ou texto extra antes ou depois. Fo
 }`;
 
   try {
-    console.log("System prompt:", systemPrompt);
-    console.log("User prompt:", userPrompt);
-
     const response = await axios.post(
           "https://api.openai.com/v1/chat/completions",
           {
