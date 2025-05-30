@@ -126,7 +126,8 @@ Responda apenas com o JSON, sem explicações ou texto extra antes ou depois. Fo
     const response = await axios.post(
       "https://api.openai.com/v1/chat/completions",
       {
-        model: "gpt-4-turbo",
+        model: "gpt-4o", // ✅ mais barato e rápido
+        service_tier: "flex", // ✅ modo econômico
         messages: [
           { role: "system", content: systemPrompt },
           { role: "user", content: userPrompt },

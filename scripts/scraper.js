@@ -78,9 +78,10 @@ async function gerarTagsComIA(titulo, texto) {
     const response = await axios.post(
       "https://api.openai.com/v1/chat/completions",
       {
-        model: "gpt-4-turbo",
+        model: "gpt-4o",
         messages: [{ role: "user", content: prompt }],
         temperature: 0.5,
+        service_tier: "flex",
       },
       {
         headers: {
@@ -331,16 +332,15 @@ async function reescreverNoticia(titulo, resumo, texto) {
   const systemPrompt = `Você é um redator de notícias especializado em cultura pop, cinema, séries, animes e games. Seu papel é reescrever matérias de forma original, clara, profunda e atrativa, com foco em SEO e alto desempenho no Google Discover.
 
 Siga estas diretrizes obrigatórias:
-- Escreva um título impactante, direto e único, evitando clickbait genérico. Priorize palavras com potencial de busca.
-- Crie um resumo cativante com até 2 frases, destacando o gancho principal da matéria.
-- Reescreva o conteúdo de forma autêntica, com parágrafos curtos e informativos (máximo 3 linhas por parágrafo), usando duas quebras de linha (\n\n) entre eles.
-- Utilize **sem exceção** subtítulos em Markdown (##, ###) para estruturar o conteúdo — obrigatoriamente ao menos um H2 e, se possível, H3.
-- Em matérias com vários tópicos ou lançamentos, crie uma seção por tema, com subtítulo, nome da obra, data de estreia, plataforma e detalhes relevantes.
-- Em notícias únicas, aprofunde o contexto com histórico, dados, comparações, impactos, nomes importantes e curiosidades.
-- Use listas quando adequado, destaques em **negrito**, e perguntas estratégicas para engajar o leitor.
-- Nunca omita informações importantes. Corrija erros, remova redundâncias e entregue um conteúdo que pareça inédito.
-- Seu objetivo final é produzir um artigo que tenha alta escaneabilidade, originalidade, clareza, profundidade e estrutura perfeita para SEO.
-- Este conteúdo será publicado em um site de notícias geek. Pense como um editor de destaque do Google News.
+- Crie um **título forte e original**, focado em palavras-chave de busca.
+- Escreva um **resumo cativante com até 2 frases**, destacando o gancho principal.
+- Reescreva o texto com linguagem natural e escaneável: parágrafos curtos (máx. 3 linhas) e separados por duas quebras de linha (\n\n).
+- Use subtítulos em Markdown (##, ###) para dividir o conteúdo (mínimo 1 H2 obrigatório).
+- Aprofunde o conteúdo com contexto, datas, plataformas, curiosidades, comparações e nomes envolvidos.
+- Utilize listas, negrito (**texto**), e perguntas estratégicas para prender o leitor.
+- Corrija redundâncias, erros e melhore a estrutura — como se fosse conteúdo inédito.
+- Pense como um editor do Google News. Otimize para performance orgânica e leitura mobile.
+- No final, gere também as palavras-chave do artigo (inclua nomes próprios, títulos de obras, termos long tail).
 
 Exemplo de estrutura ideal:
 
@@ -360,7 +360,7 @@ Resumo original: ${resumo}
 Texto original:
 ${texto}
 
-Responda apenas com o JSON, sem explicações ou texto extra antes ou depois. Formato:
+Responda apenas com JSON válido no formato:
 {
   "titulo": "...",
   "resumo": "...",
@@ -372,7 +372,8 @@ Responda apenas com o JSON, sem explicações ou texto extra antes ou depois. Fo
     const response = await axios.post(
       "https://api.openai.com/v1/chat/completions",
       {
-        model: "gpt-4-turbo",
+        model: "gpt-4o", // ✅ mais barato e rápido
+        service_tier: "flex", // ✅ modo econômico
         messages: [
           { role: "system", content: systemPrompt },
           { role: "user", content: userPrompt },

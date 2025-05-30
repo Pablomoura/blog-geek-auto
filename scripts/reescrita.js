@@ -18,7 +18,7 @@ async function reescreverNoticias() {
       console.log(`🔄 Reescrevendo: ${post.titulo}`);
 
       const resposta = await openai.chat.completions.create({
-        model: "gpt-4",
+        model: "gpt-4o",
         messages: [{
           role: "user",
           content: `Reescreva este título e texto de forma original e atrativa para SEO:\nTítulo: ${post.titulo}\nTexto: ${post.texto}`,
