@@ -9,8 +9,7 @@ midia: >-
 tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/RMBeKb4K5QLu1q0AAtFPvzOMBOU=/480x360/smart/extras/conteudos/galctus.jpg
-tags:
-  - ''
+tags: ["Quarteto Fantástico", "Galactus", "Iron Studios", "CCXPMX", "Marvel Studios", "MCU Fase 6", "estátua", "colecionável", "super-heróis"]
 keywords: ''
 author: Ana Luiza
 data: '2025-05-30T11:17:22.471Z'
@@ -23,7 +22,7 @@ resumo: >-
 
 ## Galactus e o Quarteto Fantástico: Um novo olhar na CCXPMX
 
-![Imagem da notícia](https://cdn.ome.lt/55Dc8guOALs-Co1Fu0fhuinpb5M=/fit-in/837x500/smart/uploads/conteudo/fotos/Untitled_design_90.png)
+![Estatua colecionável do Galactus - Foto feita pelo Omelete](https://cdn.ome.lt/55Dc8guOALs-Co1Fu0fhuinpb5M=/fit-in/837x500/smart/uploads/conteudo/fotos/Untitled_design_90.png)
 
 Durante a CCXPMX, a Iron Studios encantou os fãs com a revelação de uma estátua impressionante de **Galactus**, o icônico vilão do universo Marvel. Este colecionável faz parte da linha MiniCo do filme 'Quarteto Fantástico: Primeiros Passos', da Marvel Studios. A apresentação da peça destacou o visual imponente do personagem, prometendo ser um dos grandes atrativos do novo longa.
 
@@ -42,3 +41,5 @@ Com tanto mistério em torno do enredo, a expectativa é alta para que 'Quarteto
 ## Palavras-chave
 
 Galactus, Quarteto Fantástico, CCXPMX, Iron Studios, Pedro Pascal, Vanessa Kirby, Joseph Quinn, Ebon Moss-Bachrach, Ralph Ineson, Julia Garner, Matt Shakman, Marvel Studios, Nova York retrofuturista, Doutor Destino, Robert Downey Jr.
+
+**Fonte**: Omelete.com.br
