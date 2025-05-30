@@ -2,8 +2,8 @@
 title: 'The Chosen: Detalhes da Emocionante 5ª Temporada no Brasil'
 slug: the-chosen-5-temporada-ganha-data-no-brasil-confira
 categoria: SÉRIES E TV
-midia: 'https://www.youtube.com/embed/5E-GcsfjX4s?showinfo=0&enablejsapi=1'
-tipoMidia: video
+midia: 'https://cdn.ome.lt/sWquMg64pNGfWmJ7Vcln2dKa3Dk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-27T135324.030.png'
+tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/sWquMg64pNGfWmJ7Vcln2dKa3Dk=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-27T135324.030.png
 tags:
