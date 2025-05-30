@@ -15,6 +15,7 @@ tags:
   - DC
   - quadrinhos
   - cinema
+  - especial-Superman
 keywords: 'James Gunn, Planeta Diário, Superman, Metrópolis, DC, quadrinhos, cinema'
 author: Ana Luiza
 data: '2025-05-30T21:18:49.951Z'

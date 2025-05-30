@@ -1,11 +1,20 @@
-// scripts/gerar-cache-posts.js
 import fs from "fs/promises";
 import path from "path";
 import matter from "gray-matter";
 
+function slugify(text) {
+  return text
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
 async function gerarCache() {
   const contentDir = path.join(process.cwd(), "content");
-  const outputFile = path.join(process.cwd(), "public", "cache-posts.json");
+  const outputPosts = path.join(process.cwd(), "public", "cache-posts.json");
+  const outputBanners = path.join(process.cwd(), "public", "cache-banners.json");
 
   const arquivos = (await fs.readdir(contentDir)).filter((f) => f.endsWith(".md"));
   const dados = [];
@@ -20,25 +29,71 @@ async function gerarCache() {
 
     const tempoLeitura = Math.ceil(content.split(/\s+/).length / 200);
     const slug = arquivo.replace(/\.md$/, "");
+    const autor = data.author || autores[i % autores.length];
 
-    const autor = data.author || autores[i % autores.length]; // usa o autor do .md ou distribui
-
-    dados.push({
-      slug,
-      titulo: data.title,
-      categoria: data.categoria,
-      resumo: data.resumo,
-      thumb: data.thumb,
-      data: data.data,
-      tags: Array.isArray(data.tags) ? data.tags : [],
-      author: autor,
-      tempoLeitura,
-      textoLength: content.length,
-    });
+    if (
+      data.title &&
+      data.thumb &&
+      data.categoria &&
+      data.data &&
+      !isNaN(new Date(data.data).getTime())
+    ) {
+      dados.push({
+        slug,
+        titulo: data.title,
+        categoria: data.categoria,
+        resumo: data.resumo || "",
+        thumb: data.thumb,
+        data: data.data,
+        tags: Array.isArray(data.tags) ? data.tags : [],
+        author: autor,
+        tempoLeitura,
+        textoLength: content.length,
+        slugCategoria: slugify(data.categoria),
+      });
+    }
   }
 
-  await fs.writeFile(outputFile, JSON.stringify(dados, null, 2), "utf-8");
-  console.log("✅ Cache de posts gerado com sucesso!");
+  await fs.writeFile(outputPosts, JSON.stringify(dados, null, 2), "utf-8");
+
+  // 🔖 Lista de categorias desejadas
+  const categoriasPermitidas = [
+    "Games",
+    "Séries e TV",
+    "Mangás e Animes",
+    "Filmes",
+    "Board Games",
+    "Streaming",
+    "HQ/Livros",
+    "Musica"
+  ];
+
+  // Ordena os posts globalmente por data (mais recentes primeiro)
+  dados.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
+
+  const bannersPorCategoria = {};
+
+  for (const categoriaOriginal of categoriasPermitidas) {
+    const slugCategoria = slugify(categoriaOriginal);
+
+    const postsDaCategoria = dados
+      .filter((p) => slugify(p.categoria) === slugCategoria)
+      .slice(0, 3)
+      .map((p) => ({
+        slug: p.slug,
+        titulo: p.titulo,
+        thumb: p.thumb,
+        categoria: p.categoria,
+      }));
+
+    if (postsDaCategoria.length > 0) {
+      bannersPorCategoria[slugCategoria] = postsDaCategoria;
+    }
+  }
+
+  await fs.writeFile(outputBanners, JSON.stringify(bannersPorCategoria, null, 2), "utf-8");
+
+  console.log("✅ Cache de posts e banners por categoria gerado com sucesso!");
 }
 
 gerarCache().catch(console.error);

@@ -23,9 +23,7 @@ type Banner = {
 
 type BannerCache = {
   data: string;
-  filmes?: Banner;
-  games?: Banner;
-  series?: Banner;
+  [categoria: string]: Banner[] | string;
 };
 
 async function carregarCacheBanners(): Promise<BannerCache> {
@@ -33,7 +31,12 @@ async function carregarCacheBanners(): Promise<BannerCache> {
     const data = await fs.readFile(path.join(process.cwd(), "public/cache-banners.json"), "utf-8");
     return JSON.parse(data);
   } catch {
-    return { data: "", filmes: undefined, games: undefined, series: undefined };
+    return {
+      data: "",
+      filmes: [],
+      games: [],
+      series: [],
+    };
   }
 }
 
@@ -152,9 +155,9 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
 
   // 🧊 Carrega cache de banners
   const cache = await carregarCacheBanners();
-  const bannerFilmes = cache.filmes;
-  const bannerGames = cache.games;
-  const bannerSeries = cache.series;
+  const bannerFilmes = Array.isArray(cache["filmes"]) ? cache["filmes"][0] : undefined;
+  const bannerGames = Array.isArray(cache["games"]) ? cache["games"][0] : undefined;
+  const bannerSeries = Array.isArray(cache["series-e-tv"]) ? cache["series-e-tv"][0] : undefined;
 
   const criticasRecentes: PostResumo[] = posts
   .filter((p) => p.tipo === "critica")

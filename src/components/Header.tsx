@@ -23,13 +23,13 @@ export default function Header() {
     "Musica",
   ];
 
-  function slugify(text: string) {
+  function slugify(text: string): string {
     return text
       .toLowerCase()
       .normalize("NFD")
-      .replace(/[̀-ͯ]/g, "")
-      .replace(/\s+/g, "-")
-      .replace(/[^\w-]/g, "");
+      .replace(/[\u0300-\u036f]/g, "") // Remove acentos
+      .replace(/[^a-z0-9]+/g, "-")     // Substitui por hífen
+      .replace(/^-+|-+$/g, "");        // Remove hífens extras no início/fim
   }
 
   return (

@@ -15,6 +15,7 @@ tags:
   - Rachel Brosnahan
   - Nicholas Hoult
   - filme Superman 2025
+  - especial-Superman
 keywords: >-
   Superman, David Corenswet, Warner, James Gunn, DCU, Rachel Brosnahan, Nicholas
   Hoult, filme Superman 2025

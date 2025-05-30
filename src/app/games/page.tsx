@@ -1,34 +1,21 @@
-// src/app/categoria/[slug]/page.tsx
+// src/app/games/page.tsx
 import fs from "fs/promises";
 import path from "path";
 import matter from "gray-matter";
-import { notFound } from "next/navigation";
 import Link from "@/components/SmartLink";
 import Header from "@/components/Header";
-import UltimasNoticias from "@/components/UltimasNoticias";
 import ProdutosAmazon from "@/components/ProdutosAmazon";
+import UltimasNoticias from "@/components/UltimasNoticias";
 import { Metadata } from "next";
-import Image from "next/image";
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  const categoria = decodeURIComponent(params.slug).replace(/-/g, " ").toUpperCase();
-  return {
-    title: `${categoria} - GeekNews`,
-    description: `As últimas notícias sobre ${categoria} no GeekNews. Fique por dentro de lançamentos, análises e guias atualizados.`,
-    alternates: {
-      canonical: `https://www.geeknews.com.br/categoria/${params.slug}`,
-    },
-  };
-}
-
-function slugify(text: string): string {
-  return text
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "") // Remove acentos
-    .replace(/[^a-z0-9]+/g, "-")     // Substitui por hífen
-    .replace(/^-+|-+$/g, "");        // Remove hífens extras no início/fim
-}
+export const metadata: Metadata = {
+  title: "Games - GeekNews",
+  description: "As últimas notícias e novidades do mundo dos games. Descubra lançamentos, análises e guias no GeekNews.",
+  keywords: ["games", "notícias de games", "lançamentos de jogos", "análises de games", "guia de jogos"],
+  alternates: {
+    canonical: "https://www.geeknews.com.br/games",
+  },
+};
 
 type Banner = {
   slug: string;
@@ -38,46 +25,42 @@ type Banner = {
 };
 
 type BannerCache = {
+  data: string;
   animes?: Banner[];
   games?: Banner[];
-  [key: string]: Banner[] | undefined;
 };
 
-async function carregarCacheBanners(categoriaSlug: string): Promise<Banner[]> {
+async function carregarCacheBanners(tipo: "animes" | "games"): Promise<Banner[]> {
   try {
     const raw = await fs.readFile(path.join(process.cwd(), "public/cache-banners.json"), "utf-8");
     const cache: BannerCache = JSON.parse(raw);
-    return cache[categoriaSlug] || [];
+    return Array.isArray(cache[tipo]) ? cache[tipo]! : [];
   } catch {
     return [];
   }
 }
 
-export default async function CategoriaPage({ params, searchParams }: {
-  params: { slug: string };
-  searchParams: { page?: string };
-}) {
-  const categoriaSlug = params.slug;
-  const categoriaNome = decodeURIComponent(categoriaSlug).replace(/-/g, " ").toUpperCase();
-  const paginaAtual = parseInt(searchParams.page || "1", 10);
+export default async function PaginaGames({ searchParams }: { searchParams: Promise<{ page?: string }> }) {
+  const { page } = await searchParams;
+  const paginaAtual = parseInt(page || "1", 10);
   const postsPorPagina = 9;
 
   const contentDir = path.join(process.cwd(), "content");
   const arquivos = await fs.readdir(contentDir);
-  const banners = await carregarCacheBanners(categoriaSlug);
+  const banners = await carregarCacheBanners("games");
 
   const posts = [];
 
   for (const nomeArquivo of arquivos) {
-    const raw = await fs.readFile(path.join(contentDir, nomeArquivo), "utf-8");
-    const { data, content } = matter(raw);
+    const arquivo = await fs.readFile(path.join(contentDir, nomeArquivo), "utf-8");
+    const { data, content } = matter(arquivo);
     const tempoLeitura = Math.ceil(content.split(/\s+/).length / 200);
 
     if (
       data.slug &&
       data.title &&
       data.thumb &&
-      slugify(data.categoria || "") === categoriaSlug &&
+      data.categoria === "GAMES" &&
       data.midia &&
       data.tipoMidia &&
       data.data &&
@@ -100,8 +83,6 @@ export default async function CategoriaPage({ params, searchParams }: {
     }
   }
 
-  if (posts.length === 0) return notFound();
-
   posts.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
   const totalPaginas = Math.ceil(posts.length / postsPorPagina);
   const exibidos = posts.slice((paginaAtual - 1) * postsPorPagina, paginaAtual * postsPorPagina);
@@ -110,23 +91,20 @@ export default async function CategoriaPage({ params, searchParams }: {
     <>
       <Header />
       <div className="max-w-6xl mx-auto px-6 py-10">
-        <h1 className="text-3xl font-extrabold mb-4 text-orange-600">{categoriaNome}</h1>
+        <h1 className="text-3xl font-extrabold mb-4 text-orange-600">🎮 Games</h1>
+        <p className="mb-8 text-gray-700 dark:text-gray-300">
+          Fique por dentro dos lançamentos, análises e guias completos sobre os melhores jogos para PC e consoles.
+        </p>
 
         {banners.length > 0 && (
           <section className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
             <Link
               href={`/noticia/${banners[0].slug}`}
-              className="relative md:col-span-2 h-[320px] md:h-[400px] rounded-xl overflow-hidden shadow-lg group"
+              className="md:col-span-2 h-[320px] md:h-[400px] bg-cover bg-center rounded-xl flex items-end p-6 text-white relative shadow-lg"
+              style={{ backgroundImage: `url(${banners[0].thumb})` }}
             >
-              <Image
-                src={banners[0].thumb}
-                alt={banners[0].titulo}
-                fill
-                className="object-cover group-hover:scale-105 transition-transform duration-300"
-                sizes="(max-width: 768px) 100vw, 66vw"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/20" />
-              <div className="relative z-10 p-6 text-white flex flex-col justify-end h-full">
+              <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/20 rounded-xl" />
+              <div className="relative z-10">
                 <span className="text-sm uppercase text-orange-400 font-bold">{banners[0].categoria}</span>
                 <h2 className="text-2xl md:text-3xl font-extrabold leading-tight mt-1">{banners[0].titulo}</h2>
               </div>
@@ -135,22 +113,15 @@ export default async function CategoriaPage({ params, searchParams }: {
             <div className="flex flex-col gap-4">
               {banners.slice(1, 3).map((banner) => (
                 <Link
-                  href={`/noticia/${banner.slug}`} // href é obrigatório
-                  className="relative h-[190px] rounded-xl overflow-hidden shadow-md group"
+                  key={banner.slug}
+                  href={`/noticia/${banner.slug}`}
+                  className="h-[190px] bg-cover bg-center rounded-xl flex items-end p-4 text-white relative shadow-md"
+                  style={{ backgroundImage: `url(${banner.thumb})` }}
                 >
-                  <Image
-                    src={banner.thumb}
-                    alt={banner.titulo}
-                    fill
-                    className="object-cover group-hover:scale-105 transition-transform duration-300"
-                    sizes="(max-width: 768px) 100vw, 33vw"
-                  />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/10" />
-                  <div className="relative z-10 p-4 text-white">
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/10 rounded-xl" />
+                  <div className="relative z-10">
                     <span className="text-xs uppercase text-orange-400 font-bold">{banner.categoria}</span>
-                    <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">
-                      {banner.titulo}
-                    </h3>
+                    <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">{banner.titulo}</h3>
                   </div>
                 </Link>
               ))}
@@ -164,7 +135,7 @@ export default async function CategoriaPage({ params, searchParams }: {
           </div>
 
           <aside className="w-full lg:w-[300px] flex-shrink-0 space-y-10">
-            <ProdutosAmazon categoria={categoriaNome} />
+            <ProdutosAmazon categoria="GAMES" />
 
             <section className="mb-8">
               <div className="flex items-center justify-between mb-4 border-b pb-2">
@@ -189,6 +160,12 @@ export default async function CategoriaPage({ params, searchParams }: {
               </div>
             </section>
           </aside>
+        </div>
+
+        <div className="mt-10">
+          <p className="text-xs text-gray-500 dark:text-gray-400 italic">
+            Esta página pode conter links afiliados. Ao comprar por eles, você apoia o GeekNews sem pagar nada a mais por isso.
+          </p>
         </div>
       </div>
     </>
