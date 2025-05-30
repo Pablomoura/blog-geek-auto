@@ -389,7 +389,7 @@ Responda apenas com JSON válido no formato:
         headers: {
           Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
           "Content-Type": "application/json",
-          "OpenAI-Service-Tier": "flex", // ✅ correto!
+          "OpenAI-Service-Tier": "flex", 
         },
       }
     );

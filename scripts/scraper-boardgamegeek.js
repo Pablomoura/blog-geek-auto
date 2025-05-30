@@ -124,23 +124,23 @@ Responda apenas com o JSON, sem explicações ou texto extra antes ou depois. Fo
 
   try {
     const response = await axios.post(
-      "https://api.openai.com/v1/chat/completions",
-      {
-        model: "gpt-4o", // ✅ mais barato e rápido
-        service_tier: "flex", // ✅ modo econômico
-        messages: [
-          { role: "system", content: systemPrompt },
-          { role: "user", content: userPrompt },
-        ],
-        temperature: 0.7,
-      },
-      {
-        headers: {
-          Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
-          "Content-Type": "application/json",
-        },
-      }
-    );
+          "https://api.openai.com/v1/chat/completions",
+          {
+            model: "gpt-4o", // mais barato e melhor
+            messages: [
+              { role: "system", content: systemPrompt },
+              { role: "user", content: userPrompt },
+            ],
+            temperature: 0.7,
+          },
+          {
+            headers: {
+              Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+              "Content-Type": "application/json",
+              "OpenAI-Service-Tier": "flex", 
+            },
+          }
+        );
 
     let raw = response.data.choices[0].message.content.trim();
     const match = raw.match(/\{[\s\S]*\}/);
