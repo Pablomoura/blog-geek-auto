@@ -2,7 +2,7 @@
 title: >-
   One Piece: Imagens Reveladoras do Episódio 1.131 Prometem Novas Emoções
 slug: one-piece-divulga-imagens-do-episodio-1-131
-categoria: Séries e TV
+categoria: Mangás e Animes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/05/20250531-one-piece-episodio-1131-imagem-1-ovicio.webp
 tipoMidia: imagem

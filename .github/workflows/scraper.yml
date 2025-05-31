@@ -34,11 +34,14 @@ jobs:
       - name: Instala dependências
         run: npm ci
 
-      - name: Roda o scraper
+      - name: 🤖 Roda o scraper do Omelete
         run: node scripts/scraper.js
 
-      - name: 🤖 Executar scraper do GameSpot
+      - name: 🤖 Executar scraper do GameSpot RSS
         run: node scripts/scraper-gamespot.js
+
+      - name: 🤖 Executar scraper do O Vicio RSS
+        run: node scripts/scraper-ovicio.js
 
       - name: Roda o atualizador de resumos
         run: node scripts/atualizar-resumos-md.js
