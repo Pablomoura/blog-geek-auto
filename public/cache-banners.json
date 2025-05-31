@@ -21,6 +21,12 @@
   ],
   "series-e-tv": [
     {
+      "slug": "hannibal-mads-mikkelsen-diz-que-quer-fazer-nova-temporada",
+      "titulo": "Mads Mikkelsen Revela Desejo de Retorno de 'Hannibal' em Nova Temporada",
+      "thumb": "https://cdn.ome.lt/vY_TnNdUOkNn2oZ4n0NghT5t0pI=/480x360/smart/extras/conteudos/hannibalserie.jpg",
+      "categoria": "SÉRIES E TV"
+    },
+    {
       "slug": "pacificador-james-gunn-e-john-cena-ao-vivo-do-palco-omelete-na-ccxpmx-assista",
       "titulo": "James Gunn e John Cena Revelam Novidades de Pacificador na CCXPMX",
       "thumb": "https://cdn.ome.lt/hy-oCHewzrV7NUA4S7Gt7p1jyAU=/480x360/smart/extras/conteudos/pacificador_jRecYS8.jpg",
@@ -30,12 +36,6 @@
       "slug": "xolo-maridua-confirma-derivados-de-karat-kid-e-cobra-kai-em-painel-da-ccxpmx",
       "titulo": "Xolo Mariduña Revela Expansão do Universo de Karatê Kid e Cobra Kai na CCXPMX",
       "thumb": "https://cdn.ome.lt/EXM2QMOWbUtu5pv21_W91wyth0w=/480x360/smart/extras/conteudos/cobra-kai-xolo_Yky7S3j.jpg",
-      "categoria": "SÉRIES E TV"
-    },
-    {
-      "slug": "entrevista-com-o-vampiro-jason-schwartzmann-escalado-em-spin-off",
-      "titulo": "Jason Schwartzman Estrela Spin-off de Entrevista Com o Vampiro",
-      "thumb": "https://cdn.ome.lt/4bDtdtDWTfglVQHZhZL_LAIWaPw=/480x360/smart/extras/conteudos/sem_titulo32.png",
       "categoria": "SÉRIES E TV"
     }
   ],
@@ -61,21 +61,21 @@
   ],
   "filmes": [
     {
+      "slug": "xolo-mariduea-chama-bruna-marquezine-de-fofoqueira",
+      "titulo": "Xolo Maridueña Revela Curiosidades Sobre Bruna Marquezine na CCXP México",
+      "thumb": "https://cdn.ome.lt/RWejk7lXePp6VHmlOv7od3u0Coc=/480x360/smart/extras/conteudos/besouroazulxolo.jpg",
+      "categoria": "FILMES"
+    },
+    {
+      "slug": "o-telefone-preto-2-ganha-teaser-misterioso-um-dia-antes-de-painel-na-ccxp-mx",
+      "titulo": "O Telefone Preto 2: Teaser Revela Novos Mistérios na Véspera da CCXP MX",
+      "thumb": "https://cdn.ome.lt/h1a6rAj2Rb0ePaxlPhder9Twjsk=/480x360/smart/extras/conteudos/otelefonepretoartsy.jpg",
+      "categoria": "FILMES"
+    },
+    {
       "slug": "russell-brand-se-declara-inocente-em-acusao-de-estupro-e-assdio",
       "titulo": "Russell Brand nega acusações de estupro e assédio sexual: julgamento em 2026",
       "thumb": "https://cdn.ome.lt/I4qiv1TERWBPj_s-NwLipGOGXR8=/480x360/smart/extras/conteudos/arthurrussellbrand.jpg",
-      "categoria": "FILMES"
-    },
-    {
-      "slug": "clint-eastwood-95-anuncia-planos-de-dirigir-mais-um-filme",
-      "titulo": "Clint Eastwood Anuncia Novo Filme aos 95 Anos: Lenda do Cinema Continua na Ativa",
-      "thumb": "https://cdn.ome.lt/_2JKHSXKgRxBCDW13j28fHrR3-k=/480x360/smart/extras/conteudos/clinteastwood.jpg",
-      "categoria": "FILMES"
-    },
-    {
-      "slug": "crtica-mountainhead-como-um-derivado-pouco-afiado-de-sucession",
-      "titulo": "Mountainhead: Uma Reflexão Sobre Bilionários e o Poder da Tecnologia",
-      "thumb": "https://cdn.ome.lt/ifprNZhwURhYpawbQ4za-gf95_8=/480x360/smart/extras/conteudos/mountainhead-critica.jpg",
       "categoria": "FILMES"
     }
   ],
