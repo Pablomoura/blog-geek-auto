@@ -1,15 +1,38 @@
 ---
-title: "Game Cancelado do Pantera Negra da EA Prometia Sistema Nemesis Evoluído e Conflitos Épicos"
-slug: "game-cancelado-do-pantera-negra-da-ea-prometia-sistema-nemesis-evoludo-e-conflitos-picos"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504237-screenshot2025-05-30at2.48.38pm.png"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504237-screenshot2025-05-30at2.48.38pm.png"
-tags: ["EA", "Pantera Negra", "jogo cancelado", "sistema Nemesis", "Cliffhanger Games", "Marvel", "Skrulls", "T'Challa", "Killmonger", "Shuri", "desenvolvimento de jogos"]
-keywords: "EA, Pantera Negra, jogo cancelado, sistema Nemesis, Cliffhanger Games, Marvel, Skrulls, T'Challa, Killmonger, Shuri, desenvolvimento de jogos"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-05-30T18:14:00.000Z"
+title: >-
+  Game Cancelado do Pantera Negra da EA Prometia Sistema Nemesis Evoluído e
+  Conflitos Épicos
+slug: >-
+  game-cancelado-do-pantera-negra-da-ea-prometia-sistema-nemesis-evoludo-e-conflitos-picos
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504237-screenshot2025-05-30at2.48.38pm.png
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504237-screenshot2025-05-30at2.48.38pm.png
+tags:
+  - EA
+  - Pantera Negra
+  - jogo cancelado
+  - sistema Nemesis
+  - Cliffhanger Games
+  - Marvel
+  - Skrulls
+  - T'Challa
+  - Killmonger
+  - Shuri
+  - desenvolvimento de jogos
+keywords: >-
+  EA, Pantera Negra, jogo cancelado, sistema Nemesis, Cliffhanger Games, Marvel,
+  Skrulls, T'Challa, Killmonger, Shuri, desenvolvimento de jogos
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-05-30T18:14:00.000Z'
+resumo: >-
+  A promessa de um jogo inovador do Pantera Negra, desenvolvido pela EA, foi
+  interrompida após quase quatro anos de trabalho. O projeto, que incluiria um
+  sistema Nemesis aprimorado, foi cancelado devido à falta de progresso
+  substancial.
 ---
 ## EA Cancela Jogo Promissor do Pantera Negra e Fecha Estúdio Desenvoldedor  
 

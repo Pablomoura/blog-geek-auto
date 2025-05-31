@@ -1,15 +1,33 @@
 ---
-title: "Judas: Tudo o que Sabemos Sobre o Novo RPG Futurista do Criador de BioShock"
-slug: "judas-tudo-o-que-sabemos-sobre-o-novo-rpg-futurista-do-criador-de-bioshock"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4504182-judas1979.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4504182-judas1979.jpg"
-tags: ["Judas", "RPG", "Ken Levine", "BioShock", "Ghost Story Games", "enredo futurista", "mecânicas de jogo", "lançamento Judas", "The Game Awards", "narrativa interativa"]
-keywords: "Judas, RPG, Ken Levine, BioShock, Ghost Story Games, enredo futurista, mecânicas de jogo, lançamento Judas, The Game Awards, narrativa interativa"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-05-30T15:59:00.000Z"
+title: 'Judas: Tudo o que Sabemos Sobre o Novo RPG Futurista do Criador de BioShock'
+slug: judas-tudo-o-que-sabemos-sobre-o-novo-rpg-futurista-do-criador-de-bioshock
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4504182-judas1979.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4504182-judas1979.jpg
+tags:
+  - Judas
+  - RPG
+  - Ken Levine
+  - BioShock
+  - Ghost Story Games
+  - enredo futurista
+  - mecânicas de jogo
+  - lançamento Judas
+  - The Game Awards
+  - narrativa interativa
+keywords: >-
+  Judas, RPG, Ken Levine, BioShock, Ghost Story Games, enredo futurista,
+  mecânicas de jogo, lançamento Judas, The Game Awards, narrativa interativa
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-05-30T15:59:00.000Z'
+resumo: >-
+  Descubra os mistérios do RPG Judas, a nova aposta de Ken Levine, diretor de
+  BioShock, que promete revolucionar o gênero com seu enredo intrigante e
+  mecânicas inovadoras.
 ---
 ## Judas: Um RPG Futurista com DNA de BioShock
 

@@ -1,15 +1,36 @@
 ---
-title: "Dragon Age: A Polêmica por Trás do Fracasso de The Veilguard e a Reação dos Fãs"
-slug: "dragon-age-a-polmica-por-trs-do-fracasso-de-the-veilguard-e-a-reao-dos-fs"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504112-dragonagetheveilguard2.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504112-dragonagetheveilguard2.jpg"
-tags: ["Dragon Age", "The Veilguard", "BioWare", "Alix Wilton Regan", "EA", "demissões", "indústria de jogos", "Mass Effect", "reestruturação", "futuro de Dragon Age"]
-keywords: "Dragon Age, The Veilguard, BioWare, Alix Wilton Regan, EA, demissões, indústria de jogos, Mass Effect, reestruturação, futuro de Dragon Age"
-author: "Pablo Moura"
-fonte: "GameSpot"
-data: "2025-05-30T15:47:00.000Z"
+title: >-
+  Dragon Age: A Polêmica por Trás do Fracasso de The Veilguard e a Reação dos
+  Fãs
+slug: dragon-age-a-polmica-por-trs-do-fracasso-de-the-veilguard-e-a-reao-dos-fs
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504112-dragonagetheveilguard2.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504112-dragonagetheveilguard2.jpg
+tags:
+  - Dragon Age
+  - The Veilguard
+  - BioWare
+  - Alix Wilton Regan
+  - EA
+  - demissões
+  - indústria de jogos
+  - Mass Effect
+  - reestruturação
+  - futuro de Dragon Age
+keywords: >-
+  Dragon Age, The Veilguard, BioWare, Alix Wilton Regan, EA, demissões,
+  indústria de jogos, Mass Effect, reestruturação, futuro de Dragon Age
+author: Pablo Moura
+fonte: GameSpot
+data: '2025-05-30T15:47:00.000Z'
+resumo: >-
+  Após quase uma década de espera, Dragon Age: The Veilguard não atingiu as
+  expectativas da EA, gerando demissões na BioWare. A atriz Alix Wilton Regan
+  expressa sua tristeza com a recepção negativa, afirmando que alguns fãs
+  desejavam o fracasso do estúdio.
 ---
 ## O Impacto de Dragon Age: The Veilguard no Futuro da BioWare
 

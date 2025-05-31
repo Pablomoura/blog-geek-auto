@@ -1,15 +1,36 @@
 ---
-title: "Atualização da Temporada 4 de Call of Duty Revela Bug que Afeta Lobbies Multiplayer"
-slug: "atualizao-da-temporada-4-de-call-of-duty-revela-bug-que-afeta-lobbies-multiplayer"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504205-blops6large.jpeg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504205-blops6large.jpeg"
-tags: ["Call of Duty Temporada 4", "bug lobbies multiplayer", "atualização Black Ops 6", "novos mapas e armas", "Warzone", "modo Zombies Grief", "escudo antimotim", "crossover John Wick"]
-keywords: "Call of Duty Temporada 4, bug lobbies multiplayer, atualização Black Ops 6, novos mapas e armas, Warzone, modo Zombies Grief, escudo antimotim, crossover John Wick"
-author: "Pablo Moura"
-fonte: "GameSpot"
-data: "2025-05-30T17:12:00.000Z"
+title: >-
+  Atualização da Temporada 4 de Call of Duty Revela Bug que Afeta Lobbies
+  Multiplayer
+slug: >-
+  atualizao-da-temporada-4-de-call-of-duty-revela-bug-que-afeta-lobbies-multiplayer
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504205-blops6large.jpeg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504205-blops6large.jpeg
+tags:
+  - Call of Duty Temporada 4
+  - bug lobbies multiplayer
+  - atualização Black Ops 6
+  - novos mapas e armas
+  - Warzone
+  - modo Zombies Grief
+  - escudo antimotim
+  - crossover John Wick
+keywords: >-
+  Call of Duty Temporada 4, bug lobbies multiplayer, atualização Black Ops 6,
+  novos mapas e armas, Warzone, modo Zombies Grief, escudo antimotim, crossover
+  John Wick
+author: Pablo Moura
+fonte: GameSpot
+data: '2025-05-30T17:12:00.000Z'
+resumo: >-
+  A nova atualização da Temporada 4 de Call of Duty: Black Ops 6 e Warzone
+  trouxe um bug que oculta níveis dos jogadores nos lobbies multiplayer, gerando
+  discussões. A Activision investiga o problema enquanto novos conteúdos são
+  adicionados ao jogo.
 ---
 ## Bug Oculta Informações em Lobbies Multiplayer
 

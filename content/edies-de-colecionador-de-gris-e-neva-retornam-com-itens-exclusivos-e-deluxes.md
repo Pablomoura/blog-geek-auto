@@ -1,15 +1,39 @@
 ---
-title: "Edições de Colecionador de Gris e Neva Retornam com Itens Exclusivos e Deluxes"
-slug: "edies-de-colecionador-de-gris-e-neva-retornam-com-itens-exclusivos-e-deluxes"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4479071-grisnevacollect.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4479071-grisnevacollect.jpg"
-tags: ["Gris", "Neva", "edições de colecionador", "Nintendo Switch", "PS5", "Nomada Studio", "jogos de arte", "edições Deluxe", "GameStop", "Amazon", "plataforma", "cinco estágios do luto", "mudanças climáticas", "paternidade", "arte interativa"]
-keywords: "Gris, Neva, edições de colecionador, Nintendo Switch, PS5, Nomada Studio, jogos de arte, edições Deluxe, GameStop, Amazon, plataforma, cinco estágios do luto, mudanças climáticas, paternidade, arte interativa"
-author: "Luana Souza"
-fonte: "GameSpot"
-data: "2025-05-30T18:39:00.000Z"
+title: Edições de Colecionador de Gris e Neva Retornam com Itens Exclusivos e Deluxes
+slug: edies-de-colecionador-de-gris-e-neva-retornam-com-itens-exclusivos-e-deluxes
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4479071-grisnevacollect.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4479071-grisnevacollect.jpg
+tags:
+  - Gris
+  - Neva
+  - edições de colecionador
+  - Nintendo Switch
+  - PS5
+  - Nomada Studio
+  - jogos de arte
+  - edições Deluxe
+  - GameStop
+  - Amazon
+  - plataforma
+  - cinco estágios do luto
+  - mudanças climáticas
+  - paternidade
+  - arte interativa
+keywords: >-
+  Gris, Neva, edições de colecionador, Nintendo Switch, PS5, Nomada Studio,
+  jogos de arte, edições Deluxe, GameStop, Amazon, plataforma, cinco estágios do
+  luto, mudanças climáticas, paternidade, arte interativa
+author: Luana Souza
+fonte: GameSpot
+data: '2025-05-30T18:39:00.000Z'
+resumo: >-
+  As edições de colecionador dos aclamados jogos Gris e Neva estão de volta ao
+  estoque, oferecendo experiências únicas para fãs de arte interativa. Descubra
+  os detalhes das edições disponíveis para Nintendo Switch e PS5.
 ---
 ## A Volta das Edições de Colecionador de Gris e Neva
 
