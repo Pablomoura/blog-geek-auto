@@ -7,16 +7,16 @@
       "categoria": "Games"
     },
     {
-      "slug": "edio-fsica-de-lunar-remastered-collection-retorna-ao-estoque-na-amazon",
-      "titulo": "Edição Física de Lunar Remastered Collection Retorna ao Estoque na Amazon",
-      "thumb": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg",
-      "categoria": "Games"
-    },
-    {
       "slug": "twitterx-apresenta-erro-e-fica-fora-do-ar-para-usurios-em-todo-o-mundo",
       "titulo": "Instabilidade Global: X (antigo Twitter) Sai do Ar Deixando Usuários Desconectados",
       "thumb": "https://cdn.ome.lt/UuyZcpTp58VC0ilK_12dIgkMNRk=/480x360/smart/extras/conteudos/x-twitter-fora-do-ar_SbYTyRd.png",
       "categoria": "GAMES"
+    },
+    {
+      "slug": "elden-ring-nightreign-mod-de-co-op-para-dois-jogadores-chega-ao-pc",
+      "titulo": "Elden Ring Nightreign: Mod de Co-op para Dois Jogadores Chega ao PC",
+      "thumb": "https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4504256-ss_edfd360b92d6f9b983b759fd837e664b86cd9563.jpg",
+      "categoria": "Games"
     }
   ],
   "series-e-tv": [
@@ -81,12 +81,6 @@
   ],
   "board-games": [
     {
-      "slug": "mime-things-that-can039t-be-named-and-don039t-ask-the-best-ghost-where-the-mine-turtle-is",
-      "titulo": "Novos Jogos de Festa Prometem Diversão com Mímicas e Mapas",
-      "thumb": "https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png",
-      "categoria": "Board Games"
-    },
-    {
       "slug": "knizia-game-round-up-walk-like-a-hobbit-remain-undetected-and-collect-cute-animals",
       "titulo": "Novos Jogos de Reiner Knizia: Hobbit, Ninjas e Influenciadores de Animais",
       "thumb": "https://cf.geekdo-images.com/KCsAkHzgdx9fL78c15N-dw__imagepage/img/9sntqg_YZUqHuV7sYRIEUr7tgDk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8831592.png",
@@ -96,6 +90,12 @@
       "slug": "escape-a-dungeon-cthulhu-another-dungeon-a-cryptic-signal-and-tribbles",
       "titulo": "Novidades de Board Games: Aventuras Solitárias, Sinais Crípticos e Jornada Estelar",
       "thumb": "https://cf.geekdo-images.com/xTnG122cWZhOdoI89XLKRg__imagepage/img/aWkgLT44FWLPSDL2BiRdo8feNWs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8284447.jpg",
+      "categoria": "Board Games"
+    },
+    {
+      "slug": "try-your-hand-at-being-bad-as-davy-jones-count-dooku-harley-quinn-and-a-giant-gold-loving-crab",
+      "titulo": "Novos Jogos de Tabuleiro de 2025 Transformam Vilões Icônicos em Protagonistas",
+      "thumb": "https://cf.geekdo-images.com/Ah_RwCGHtPROEl3V8ya44A__imagepage/img/6_jnBaYRY1nSwqY_T5cvsgFiXU4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8906683.png",
       "categoria": "Board Games"
     }
   ],
