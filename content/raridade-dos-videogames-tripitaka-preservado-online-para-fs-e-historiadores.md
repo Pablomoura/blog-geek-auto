@@ -1,15 +1,34 @@
 ---
-title: "Raridade dos Videogames: TRIPITAKA é Preservado Online para Fãs e Historiadores"
-slug: "raridade-dos-videogames-tripitaka-preservado-online-para-fs-e-historiadores"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504242-tripitaka.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504242-tripitaka.jpg"
-tags: ["preservação de jogos", "TRIPITAKA", "Cosmology of Kyoto", "Bruno de Figueiredo", "indústria de videogames", "história dos videogames", "Xbox", "Sony", "Nintendo"]
-keywords: "preservação de jogos, TRIPITAKA, Cosmology of Kyoto, Bruno de Figueiredo, indústria de videogames, história dos videogames, Xbox, Sony, Nintendo"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-05-30T19:50:00.000Z"
+title: >-
+  Raridade dos Videogames: TRIPITAKA é Preservado Online para Fãs e
+  Historiadores
+slug: raridade-dos-videogames-tripitaka-preservado-online-para-fs-e-historiadores
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504242-tripitaka.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504242-tripitaka.jpg
+tags:
+  - preservação de jogos
+  - TRIPITAKA
+  - Cosmology of Kyoto
+  - Bruno de Figueiredo
+  - indústria de videogames
+  - história dos videogames
+  - Xbox
+  - Sony
+  - Nintendo
+keywords: >-
+  preservação de jogos, TRIPITAKA, Cosmology of Kyoto, Bruno de Figueiredo,
+  indústria de videogames, história dos videogames, Xbox, Sony, Nintendo
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-05-30T19:50:00.000Z'
+resumo: >-
+  O raro jogo TRIPITAKA, continuação de Cosmology of Kyoto, foi finalmente
+  preservado digitalmente. A iniciativa destaca a importância da preservação de
+  jogos em meio à transição digital da indústria.
 ---
 ## Preservação de Jogos: Um Tesouro Cultural Resgatado
 

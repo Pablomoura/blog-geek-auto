@@ -1,14 +1,34 @@
 ---
-title: "Novos Jogos de Festa Prometem Diversão com Mímicas e Mapas"
-slug: "mime-things-that-can039t-be-named-and-don039t-ask-the-best-ghost-where-the-mine-turtle-is"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png"
-tags: ["jogos de festa", "mímicas", "mapas geográficos", "playlists musicais", "jogos criativos", "DVC Games", "IELLO", "Fractal Juegos", "Big Potato", "diversão", "interação social"]
-keywords: "jogos de festa, mímicas, mapas geográficos, playlists musicais, jogos criativos, DVC Games, IELLO, Fractal Juegos, Big Potato, diversão, interação social"
-author: "Pablo Moura"
-data: "2025-05-31T06:25:45.243Z"
+title: Novos Jogos de Festa Prometem Diversão com Mímicas e Mapas
+slug: >-
+  mime-things-that-can039t-be-named-and-don039t-ask-the-best-ghost-where-the-mine-turtle-is
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png
+tags:
+  - jogos de festa
+  - mímicas
+  - mapas geográficos
+  - playlists musicais
+  - jogos criativos
+  - DVC Games
+  - IELLO
+  - Fractal Juegos
+  - Big Potato
+  - diversão
+  - interação social
+keywords: >-
+  jogos de festa, mímicas, mapas geográficos, playlists musicais, jogos
+  criativos, DVC Games, IELLO, Fractal Juegos, Big Potato, diversão, interação
+  social
+author: Pablo Moura
+data: '2025-05-31T06:25:45.243Z'
+resumo: >-
+  Confira os últimos lançamentos de jogos de festa que desafiam a criatividade e
+  o conhecimento geográfico dos jogadores.
 ---
 
 ## Jogos Criativos e Desafiadores para Festas

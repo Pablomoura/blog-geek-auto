@@ -1,15 +1,35 @@
 ---
-title: "Edição Física de Lunar Remastered Collection Retorna ao Estoque na Amazon"
-slug: "edio-fsica-de-lunar-remastered-collection-retorna-ao-estoque-na-amazon"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg"
-tags: ["Lunar Remastered Collection", "edição física", "Amazon", "Nintendo Switch", "PS4", "Xbox One", "RPG clássico", "Sega CD", "PS1", "Sega Saturn", "jogos remasterizados"]
-keywords: "Lunar Remastered Collection, edição física, Amazon, Nintendo Switch, PS4, Xbox One, RPG clássico, Sega CD, PS1, Sega Saturn, jogos remasterizados"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-05-31T00:26:00.000Z"
+title: Edição Física de Lunar Remastered Collection Retorna ao Estoque na Amazon
+slug: edio-fsica-de-lunar-remastered-collection-retorna-ao-estoque-na-amazon
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg
+tags:
+  - Lunar Remastered Collection
+  - edição física
+  - Amazon
+  - Nintendo Switch
+  - PS4
+  - Xbox One
+  - RPG clássico
+  - Sega CD
+  - PS1
+  - Sega Saturn
+  - jogos remasterizados
+keywords: >-
+  Lunar Remastered Collection, edição física, Amazon, Nintendo Switch, PS4, Xbox
+  One, RPG clássico, Sega CD, PS1, Sega Saturn, jogos remasterizados
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-05-31T00:26:00.000Z'
+resumo: >-
+  A aguardada edição física de Lunar Remastered Collection está novamente
+  disponível na Amazon para Nintendo Switch, PS4 e Xbox One. Esta coleção é um
+  marco para fãs de RPG clássicos, trazendo melhorias e novidades aos títulos
+  originais.
 ---
 ## Lunar Remastered Collection: Um Retorno à Era de Ouro dos RPGs
 

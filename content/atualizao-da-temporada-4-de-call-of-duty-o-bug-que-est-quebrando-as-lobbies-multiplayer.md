@@ -1,15 +1,38 @@
 ---
-title: "Atualização da Temporada 4 de Call of Duty: O Bug que Está Quebrando as Lobbies Multiplayer"
-slug: "atualizao-da-temporada-4-de-call-of-duty-o-bug-que-est-quebrando-as-lobbies-multiplayer"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504205-blops6large.jpeg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504205-blops6large.jpeg"
-tags: ["Call of Duty", "Temporada 4", "Black Ops 6", "Warzone", "bug nas lobbies", "atualização", "correções", "novidades", "modo zumbis", "John Wick", "escudo antimotim"]
-keywords: "Call of Duty, Temporada 4, Black Ops 6, Warzone, bug nas lobbies, atualização, correções, novidades, modo zumbis, John Wick, escudo antimotim"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-05-30T17:12:00.000Z"
+title: >-
+  Atualização da Temporada 4 de Call of Duty: O Bug que Está Quebrando as
+  Lobbies Multiplayer
+slug: >-
+  atualizao-da-temporada-4-de-call-of-duty-o-bug-que-est-quebrando-as-lobbies-multiplayer
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504205-blops6large.jpeg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504205-blops6large.jpeg
+tags:
+  - Call of Duty
+  - Temporada 4
+  - Black Ops 6
+  - Warzone
+  - bug nas lobbies
+  - atualização
+  - correções
+  - novidades
+  - modo zumbis
+  - John Wick
+  - escudo antimotim
+keywords: >-
+  Call of Duty, Temporada 4, Black Ops 6, Warzone, bug nas lobbies, atualização,
+  correções, novidades, modo zumbis, John Wick, escudo antimotim
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-05-30T17:12:00.000Z'
+resumo: >-
+  O recente update da Temporada 4 de Call of Duty trouxe um bug inesperado,
+  afetando a exibição de níveis dos jogadores nas lobbies multiplayer. A
+  Activision está investigando o problema enquanto jogadores relatam outras
+  falhas no jogo.
 ---
 ## Atualização da Temporada 4: Um Bug Surpreendente
 

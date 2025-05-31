@@ -1,15 +1,37 @@
 ---
-title: "Gris e Neva: Edições de Colecionador e Deluxe Reabastecidas para Nintendo Switch e PS5"
-slug: "gris-e-neva-edies-de-colecionador-e-deluxe-reabastecidas-para-nintendo-switch-e-ps5"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4479071-grisnevacollect.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4479071-grisnevacollect.jpg"
-tags: ["Gris", "Neva", "Edição de Colecionador", "Edição Deluxe", "Nintendo Switch", "PS5", "Nomada Studio", "GameStop", "Amazon", "jogos artísticos"]
-keywords: "Gris, Neva, Edição de Colecionador, Edição Deluxe, Nintendo Switch, PS5, Nomada Studio, GameStop, Amazon, jogos artísticos"
-author: "Luana Souza"
-fonte: "GameSpot"
-data: "2025-05-30T18:39:00.000Z"
+title: >-
+  Gris e Neva: Edições de Colecionador e Deluxe Reabastecidas para Nintendo
+  Switch e PS5
+slug: >-
+  gris-e-neva-edies-de-colecionador-e-deluxe-reabastecidas-para-nintendo-switch-e-ps5
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4479071-grisnevacollect.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4479071-grisnevacollect.jpg
+tags:
+  - Gris
+  - Neva
+  - Edição de Colecionador
+  - Edição Deluxe
+  - Nintendo Switch
+  - PS5
+  - Nomada Studio
+  - GameStop
+  - Amazon
+  - jogos artísticos
+keywords: >-
+  Gris, Neva, Edição de Colecionador, Edição Deluxe, Nintendo Switch, PS5,
+  Nomada Studio, GameStop, Amazon, jogos artísticos
+author: Luana Souza
+fonte: GameSpot
+data: '2025-05-30T18:39:00.000Z'
+resumo: >-
+  Os jogos Gris e Neva, conhecidos por sua estética artística e narrativas
+  emocionantes, estão novamente disponíveis em edições especiais na GameStop e
+  Amazon. Descubra o que torna essas edições imperdíveis para fãs e
+  colecionadores.
 ---
 ## O Fascínio Artístico de Gris e Neva
 

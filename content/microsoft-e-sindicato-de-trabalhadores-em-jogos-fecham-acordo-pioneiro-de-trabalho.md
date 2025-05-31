@@ -1,15 +1,37 @@
 ---
-title: "Microsoft e Sindicato de Trabalhadores em Jogos Fecham Acordo Pioneiro de Trabalho"
-slug: "microsoft-e-sindicato-de-trabalhadores-em-jogos-fecham-acordo-pioneiro-de-trabalho"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1539/15391776/4504234-4468980-4082290-zenimaxworkersunitedformunion.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1539/15391776/4504234-4468980-4082290-zenimaxworkersunitedformunion.jpg"
-tags: ["Microsoft", "ZeniMax", "sindicato", "QA testers", "contrato de trabalho", "indústria de jogos", "sindicalização", "CWA", "direitos trabalhistas", "inteligência artificial"]
-keywords: "Microsoft, ZeniMax, sindicato, QA testers, contrato de trabalho, indústria de jogos, sindicalização, CWA, direitos trabalhistas, inteligência artificial"
-author: "Pablo Moura"
-fonte: "GameSpot"
-data: "2025-05-30T18:47:00.000Z"
+title: >-
+  Microsoft e Sindicato de Trabalhadores em Jogos Fecham Acordo Pioneiro de
+  Trabalho
+slug: >-
+  microsoft-e-sindicato-de-trabalhadores-em-jogos-fecham-acordo-pioneiro-de-trabalho
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1539/15391776/4504234-4468980-4082290-zenimaxworkersunitedformunion.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1539/15391776/4504234-4468980-4082290-zenimaxworkersunitedformunion.jpg
+tags:
+  - Microsoft
+  - ZeniMax
+  - sindicato
+  - QA testers
+  - contrato de trabalho
+  - indústria de jogos
+  - sindicalização
+  - CWA
+  - direitos trabalhistas
+  - inteligência artificial
+keywords: >-
+  Microsoft, ZeniMax, sindicato, QA testers, contrato de trabalho, indústria de
+  jogos, sindicalização, CWA, direitos trabalhistas, inteligência artificial
+author: Pablo Moura
+fonte: GameSpot
+data: '2025-05-30T18:47:00.000Z'
+resumo: >-
+  O sindicato de testadores de QA da ZeniMax e a Microsoft chegaram a um acordo
+  provisório de trabalho que pode definir novos padrões na indústria de jogos
+  AAA. Este contrato, se aprovado, poderá evitar uma greve e aumentar a proteção
+  e remuneração dos trabalhadores.
 ---
 ## Acordo Histórico Entre Microsoft e Sindicato de Testadores da ZeniMax
 

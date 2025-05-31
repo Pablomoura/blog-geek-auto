@@ -1,15 +1,33 @@
 ---
-title: "Dragon Age: The Veilguard Enfrenta Críticas e Desafios Internos na BioWare"
-slug: "dragon-age-the-veilguard-enfrenta-crticas-e-desafios-internos-na-bioware"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504112-dragonagetheveilguard2.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504112-dragonagetheveilguard2.jpg"
-tags: ["Dragon Age", "The Veilguard", "BioWare", "EA", "Alix Wilton Regan", "críticas", "demissões", "Mass Effect", "indústria de jogos"]
-keywords: "Dragon Age, The Veilguard, BioWare, EA, Alix Wilton Regan, críticas, demissões, Mass Effect, indústria de jogos"
-author: "Pablo Moura"
-fonte: "GameSpot"
-data: "2025-05-30T15:47:00.000Z"
+title: 'Dragon Age: The Veilguard Enfrenta Críticas e Desafios Internos na BioWare'
+slug: dragon-age-the-veilguard-enfrenta-crticas-e-desafios-internos-na-bioware
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504112-dragonagetheveilguard2.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504112-dragonagetheveilguard2.jpg
+tags:
+  - Dragon Age
+  - The Veilguard
+  - BioWare
+  - EA
+  - Alix Wilton Regan
+  - críticas
+  - demissões
+  - Mass Effect
+  - indústria de jogos
+keywords: >-
+  Dragon Age, The Veilguard, BioWare, EA, Alix Wilton Regan, críticas,
+  demissões, Mass Effect, indústria de jogos
+author: Pablo Moura
+fonte: GameSpot
+data: '2025-05-30T15:47:00.000Z'
+resumo: >-
+  Após anos de expectativa, Dragon Age: The Veilguard falhou em atingir as metas
+  da EA, gerando demissões e críticas internas. Alix Wilton Regan, atriz do
+  jogo, expressa sua frustração com a recepção negativa e suspeitas de
+  sabotagem.
 ---
 ## A Reação ao Lançamento de Dragon Age: The Veilguard
 

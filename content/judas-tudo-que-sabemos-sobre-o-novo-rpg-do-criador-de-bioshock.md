@@ -1,15 +1,33 @@
 ---
-title: "Judas: Tudo que Sabemos Sobre o Novo RPG do Criador de BioShock"
-slug: "judas-tudo-que-sabemos-sobre-o-novo-rpg-do-criador-de-bioshock"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4504182-judas1979.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4504182-judas1979.jpg"
-tags: ["Judas", "Ken Levine", "BioShock", "RPG narrativo", "Ghost Story Games", "The Mayflower", "roguelite", "Plasmids", "The Big Three"]
-keywords: "Judas, Ken Levine, BioShock, RPG narrativo, Ghost Story Games, The Mayflower, roguelite, Plasmids, The Big Three"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-05-30T15:59:00.000Z"
+title: 'Judas: Tudo que Sabemos Sobre o Novo RPG do Criador de BioShock'
+slug: judas-tudo-que-sabemos-sobre-o-novo-rpg-do-criador-de-bioshock
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4504182-judas1979.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4504182-judas1979.jpg
+tags:
+  - Judas
+  - Ken Levine
+  - BioShock
+  - RPG narrativo
+  - Ghost Story Games
+  - The Mayflower
+  - roguelite
+  - Plasmids
+  - The Big Three
+keywords: >-
+  Judas, Ken Levine, BioShock, RPG narrativo, Ghost Story Games, The Mayflower,
+  roguelite, Plasmids, The Big Three
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-05-30T15:59:00.000Z'
+resumo: >-
+  O aguardado RPG Judas, do aclamado diretor de BioShock, Ken Levine, promete
+  inovação ao explorar traições espaciais em um cenário distópico. Enquanto
+  detalhes permanecem escassos, trailers e entrevistas começam a revelar suas
+  complexidades únicas.
 ---
 ## Um Olhar Profundo em Judas: O RPG Espacial de Ken Levine
 

@@ -1,15 +1,40 @@
 ---
-title: "EA Cancela Jogo do Pantera Negra com Sistema de Nemesis Evoluído: Entenda os Motivos"
-slug: "ea-cancela-jogo-do-pantera-negra-com-sistema-de-nemesis-evoludo-entenda-os-motivos"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504237-screenshot2025-05-30at2.48.38pm.png"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504237-screenshot2025-05-30at2.48.38pm.png"
-tags: ["EA", "Pantera Negra", "cancelamento", "Cliffhanger Games", "Nemesis System", "jogo Marvel", "T'Challa", "Killmonger", "Shuri", "Skrulls", "Shadow of Mordor", "Iron Man", "Marvel 1943: Rise of Hydra"]
-keywords: "EA, Pantera Negra, cancelamento, Cliffhanger Games, Nemesis System, jogo Marvel, T'Challa, Killmonger, Shuri, Skrulls, Shadow of Mordor, Iron Man, Marvel 1943: Rise of Hydra"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-05-30T18:14:00.000Z"
+title: >-
+  EA Cancela Jogo do Pantera Negra com Sistema de Nemesis Evoluído: Entenda os
+  Motivos
+slug: >-
+  ea-cancela-jogo-do-pantera-negra-com-sistema-de-nemesis-evoludo-entenda-os-motivos
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504237-screenshot2025-05-30at2.48.38pm.png
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504237-screenshot2025-05-30at2.48.38pm.png
+tags:
+  - EA
+  - Pantera Negra
+  - cancelamento
+  - Cliffhanger Games
+  - Nemesis System
+  - jogo Marvel
+  - T'Challa
+  - Killmonger
+  - Shuri
+  - Skrulls
+  - Shadow of Mordor
+  - Iron Man
+  - 'Marvel 1943: Rise of Hydra'
+keywords: >-
+  EA, Pantera Negra, cancelamento, Cliffhanger Games, Nemesis System, jogo
+  Marvel, T'Challa, Killmonger, Shuri, Skrulls, Shadow of Mordor, Iron Man,
+  Marvel 1943: Rise of Hydra
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-05-30T18:14:00.000Z'
+resumo: >-
+  O aguardado jogo do Pantera Negra da EA foi cancelado, encerrando as
+  atividades do estúdio Cliffhanger Games. Descubra o que estava planejado e por
+  que o projeto não seguiu em frente.
 ---
 ## O Fim de um Jogo Promissor do Pantera Negra
 

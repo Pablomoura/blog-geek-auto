@@ -1,15 +1,34 @@
 ---
-title: "Elden Ring Nightreign: Mod de Cooperação para Dois Jogadores Revoluciona Experiência no PC"
-slug: "elden-ring-nightreign-mod-de-cooperao-para-dois-jogadores-revoluciona-experincia-no-pc"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4504256-ss_edfd360b92d6f9b983b759fd837e664b86cd9563.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4504256-ss_edfd360b92d6f9b983b759fd837e664b86cd9563.jpg"
-tags: ["Elden Ring Nightreign", "mod cooperação dois jogadores", "Luke Yui", "comunidade modders", "experiência de jogo", "Elden Ring Nightreign Nexus", "crítica Steam"]
-keywords: "Elden Ring Nightreign, mod cooperação dois jogadores, Luke Yui, comunidade modders, experiência de jogo, Elden Ring Nightreign Nexus, crítica Steam"
-author: "Luana Souza"
-fonte: "GameSpot"
-data: "2025-05-30T20:50:00.000Z"
+title: >-
+  Elden Ring Nightreign: Mod de Cooperação para Dois Jogadores Revoluciona
+  Experiência no PC
+slug: >-
+  elden-ring-nightreign-mod-de-cooperao-para-dois-jogadores-revoluciona-experincia-no-pc
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4504256-ss_edfd360b92d6f9b983b759fd837e664b86cd9563.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4504256-ss_edfd360b92d6f9b983b759fd837e664b86cd9563.jpg
+tags:
+  - Elden Ring Nightreign
+  - mod cooperação dois jogadores
+  - Luke Yui
+  - comunidade modders
+  - experiência de jogo
+  - Elden Ring Nightreign Nexus
+  - crítica Steam
+keywords: >-
+  Elden Ring Nightreign, mod cooperação dois jogadores, Luke Yui, comunidade
+  modders, experiência de jogo, Elden Ring Nightreign Nexus, crítica Steam
+author: Luana Souza
+fonte: GameSpot
+data: '2025-05-30T20:50:00.000Z'
+resumo: >-
+  Mesmo após o recente lançamento de Elden Ring Nightreign, um mod inovador que
+  permite modo cooperativo para dois jogadores já está disponível, atendendo a
+  uma demanda significativa dos fãs. Desenvolvido por Luke Yui, o mod já se
+  tornou um sucesso entre os jogadores de PC.
 ---
 ## Mod de Cooperação Dupla Transforma Elden Ring Nightreign
 

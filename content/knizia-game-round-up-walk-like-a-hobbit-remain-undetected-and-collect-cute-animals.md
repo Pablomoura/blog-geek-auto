@@ -1,14 +1,34 @@
 ---
-title: "Novos Jogos de Reiner Knizia: Hobbit, Ninjas e Influenciadores de Animais"
-slug: "knizia-game-round-up-walk-like-a-hobbit-remain-undetected-and-collect-cute-animals"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/KCsAkHzgdx9fL78c15N-dw__imagepage/img/9sntqg_YZUqHuV7sYRIEUr7tgDk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8831592.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/KCsAkHzgdx9fL78c15N-dw__imagepage/img/9sntqg_YZUqHuV7sYRIEUr7tgDk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8831592.png"
-tags: ["Reiner Knizia", "O Hobbit", "Terra Média", "board games", "jogos de mesa", "influenciadores de animais", "Meister Makatsu", "Paws Up", "Pinatas", "aventuras de Bilbo"]
-keywords: "Reiner Knizia, O Hobbit, Terra Média, board games, jogos de mesa, influenciadores de animais, Meister Makatsu, Paws Up, Pinatas, aventuras de Bilbo"
-author: "Pablo Moura"
-data: "2025-05-31T06:25:01.014Z"
+title: 'Novos Jogos de Reiner Knizia: Hobbit, Ninjas e Influenciadores de Animais'
+slug: >-
+  knizia-game-round-up-walk-like-a-hobbit-remain-undetected-and-collect-cute-animals
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/KCsAkHzgdx9fL78c15N-dw__imagepage/img/9sntqg_YZUqHuV7sYRIEUr7tgDk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8831592.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/KCsAkHzgdx9fL78c15N-dw__imagepage/img/9sntqg_YZUqHuV7sYRIEUr7tgDk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8831592.png
+tags:
+  - Reiner Knizia
+  - O Hobbit
+  - Terra Média
+  - board games
+  - jogos de mesa
+  - influenciadores de animais
+  - Meister Makatsu
+  - Paws Up
+  - Pinatas
+  - aventuras de Bilbo
+keywords: >-
+  Reiner Knizia, O Hobbit, Terra Média, board games, jogos de mesa,
+  influenciadores de animais, Meister Makatsu, Paws Up, Pinatas, aventuras de
+  Bilbo
+author: Pablo Moura
+data: '2025-05-31T06:25:01.014Z'
+resumo: >-
+  Explore novos jogos de Reiner Knizia, incluindo uma aventura na Terra Média e
+  disputas de influenciadores de pets. Descubra como cada título se destaca no
+  universo dos board games.
 ---
 
 ## Aventura na Terra Média com 'O Hobbit: Lá e de Volta Outra Vez'
