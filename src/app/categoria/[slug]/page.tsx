@@ -10,9 +10,10 @@ import ProdutosAmazon from "@/components/ProdutosAmazon";
 import { Metadata } from "next";
 import Image from "next/image";
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  const { slug } = params;
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
   const categoria = decodeURIComponent(slug).replace(/-/g, " ").toUpperCase();
+
   return {
     title: `${categoria} - GeekNews`,
     description: `As últimas notícias sobre ${categoria} no GeekNews. Fique por dentro de lançamentos, análises e guias atualizados.`,
@@ -54,16 +55,16 @@ async function carregarCacheBanners(categoriaSlug: string): Promise<Banner[]> {
   }
 }
 
-export default async function CategoriaPage({
-  params,
-  searchParams,
-}: {
-  params: { slug: string };
-  searchParams: { page?: string };
+export default async function CategoriaPage(props: {
+  params: Promise<{ slug: string }>;
+  searchParams: Promise<{ page?: string }>;
 }) {
-  const categoriaSlug = params.slug;
+  const { slug } = await props.params;
+  const { page } = await props.searchParams;
+
+  const categoriaSlug = slug;
   const categoriaNome = decodeURIComponent(categoriaSlug).replace(/-/g, " ").toUpperCase();
-  const paginaAtual = parseInt(searchParams.page || "1", 10);
+  const paginaAtual = parseInt(page || "1", 10);
   const postsPorPagina = 9;
 
   const contentDir = path.join(process.cwd(), "content");
