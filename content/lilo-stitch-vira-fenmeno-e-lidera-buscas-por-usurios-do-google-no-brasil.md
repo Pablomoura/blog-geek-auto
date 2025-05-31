@@ -1,45 +1,55 @@
 ---
-title: 'Lilo & Stitch Conquista o Brasil: Filme Lidera Tendências de Busca no Google'
+title: 'Lilo & Stitch: Live-action da Disney domina buscas no Google Brasil'
 slug: lilo-stitch-vira-fenmeno-e-lidera-buscas-por-usurios-do-google-no-brasil
 categoria: FILMES
-midia: >-
-  https://cdn.ome.lt/C_fkhlf7MzDkST93n9YtrKFqmpA=/480x360/smart/extras/conteudos/sem_titulo31.png
-tipoMidia: imagem
+midia: 'https://www.youtube.com/embed/aPXdjYAutWo?showinfo=0&enablejsapi=1'
+tipoMidia: video
 thumb: >-
   https://cdn.ome.lt/C_fkhlf7MzDkST93n9YtrKFqmpA=/480x360/smart/extras/conteudos/sem_titulo31.png
 tags:
   - Lilo & Stitch
+  - live-action
   - Disney
   - Google Trends
-  - filme
-  - animação
-  - Brasil
-  - Elvis Presley
-  - live-action
+  - Dean Fleischer Camp
+  - Chris Sanders
+  - Sydney Agudong
+  - Premonição 6
+  - 'Missão: Impossível 8'
+  - bilheteria
 keywords: >-
-  Lilo & Stitch, Disney, Google Trends, filme, animação, Brasil, Elvis Presley,
-  live-action
-author: Ana Luiza
-data: '2025-05-31T01:28:22.534Z'
+  Lilo & Stitch, live-action, Disney, Google Trends, Dean Fleischer Camp, Chris
+  Sanders, Sydney Agudong, Premonição 6, Missão: Impossível 8, bilheteria
+author: Pablo Moura
+data: '2025-05-31T01:49:55.851Z'
 resumo: >-
-  O clássico da Disney, 'Lilo & Stitch', está em alta no Google Trends,
-  capturando a atenção dos brasileiros. A animação se destaca entre as mais
-  procuradas, mostrando sua popularidade contínua.
+  A nova versão de Lilo & Stitch se torna um fenômeno no Google Trends,
+  superando produções como Premonição 6 e Missão: Impossível 8.
 ---
 
-## Lilo & Stitch: A Trajetória de um Clássico da Disney
+## Lilo & Stitch conquista o público brasileiro
 
-'Lilo & Stitch', a adorada animação da Disney lançada em 2002, voltou aos holofotes ao liderar as tendências de busca no Google Brasil. A história do alienígena fofo e problemático que encontra amizade e família no Havaí tem encantado gerações e continua a conquistar novos fãs.
+O live-action de **Lilo & Stitch** tem sido um sucesso estrondoso nas buscas do Google no Brasil. Nos últimos sete dias, as pesquisas sobre a produção triplicaram, registrando um aumento de 200% em relação a semanas anteriores. Este aumento colocou o filme à frente de outros lançamentos populares, como *Premonição 6* e *Missão: Impossível 8*.
 
-### O Impacto Cultural Duradouro
+O interesse não se limita apenas ao filme, mas também ao personagem Stitch, que viu suas buscas crescerem 280% no Brasil e 260% globalmente desde maio de 2024. Uma das perguntas mais frequentes dos usuários é: **"Quem criou o Stitch?"**
 
-Desde seu lançamento, 'Lilo & Stitch' se destacou por sua narrativa original e personagens cativantes. A combinação de humor, emoção e temas de aceitação e pertencimento ressoou com o público, tornando-o um favorito atemporal.
+## Curiosidades sobre Lilo & Stitch
 
-### Por Que Agora?
+O filme está recheado de detalhes que atraem a curiosidade do público. Confira algumas das perguntas mais populares sobre o filme no Brasil:
 
-O aumento recente nas buscas pode ser atribuído a vários fatores, incluindo novas exibições em plataformas de streaming, notícias sobre uma possível adaptação live-action, ou simplesmente a nostalgia que a animação traz. Essa redescoberta do filme no Brasil evidencia como os clássicos da Disney mantêm sua relevância ao longo dos anos.
+- **O que Stitch mais gosta de destruir?**
 
-**Curiosidade:** Sabia que a famosa trilha sonora do filme inclui músicas de Elvis Presley, reforçando ainda mais a conexão emocional com os espectadores?
+- **De qual planeta veio o Stitch?**
 
-Com o filme retornando ao centro das atenções, a Disney prova novamente seu domínio no mercado de entretenimento e sua habilidade de capturar corações, independentemente da idade.
+- **Lilo e Stitch tem pós-crédito?**
+
+O live-action, dirigido por **Dean Fleischer Camp**, traz de volta **Chris Sanders** como a voz de Stitch e conta com **Sydney Agudong** no papel de Nani. Originalmente planejado para o **Disney+**, o filme ganhou lançamento nos cinemas, reforçando a aposta da Disney em suas adaptações live-action.
+
+Lançada em 2002, a animação original **Lilo e Stitch** tornou-se um clássico, narrando a história de uma amizade improvável entre uma garotinha havaiana e um alienígena. Com um custo de produção de US$ 80 milhões, o filme arrecadou US$ 273 milhões mundialmente.
+
+## Aposta da Disney para 2024
+
+A Disney tem grandes expectativas para *Lilo e Stitch*, que integra uma série de esforços para transformar seus clássicos animados em live-actions lucrativos. A campanha de marketing incluiu um comercial no Super Bowl e referências a outros sucessos da Disney, como *Moana* e *O Rei Leão*. Com a estreia marcada para as férias de verão do hemisfério norte, a Disney espera repetir o sucesso de lançamentos anteriores como *Mufasa: O Rei Leão*.
+
+O que você acha que faz de **Lilo & Stitch** um fenômeno tão duradouro e amado?
 

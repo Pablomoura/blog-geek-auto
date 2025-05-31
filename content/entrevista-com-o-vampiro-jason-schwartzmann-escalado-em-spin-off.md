@@ -1,5 +1,5 @@
 ---
-title: Jason Schwartzmann Estrela Spin-off de Entrevista com o Vampiro
+title: Jason Schwartzman Estrela Spin-off de Entrevista Com o Vampiro
 slug: entrevista-com-o-vampiro-jason-schwartzmann-escalado-em-spin-off
 categoria: SÉRIES E TV
 midia: >-
@@ -8,36 +8,43 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/4bDtdtDWTfglVQHZhZL_LAIWaPw=/480x360/smart/extras/conteudos/sem_titulo32.png
 tags:
-  - Jason Schwartzmann
-  - Entrevista com o Vampiro
-  - 'Talamasca: The Secret Order'
+  - Jason Schwartzman
   - Anne Rice
-  - spin-off
-  - série de TV
-  - universo vampírico
+  - 'The Talamasca: The Secret Order'
+  - Entrevista Com o Vampiro
+  - Immortal Universe
+  - Mayfair Witches
+  - Crônicas Vampirescas
+  - Prime Video
+  - AMC
 keywords: >-
-  Jason Schwartzmann, Entrevista com o Vampiro, Talamasca: The Secret Order,
-  Anne Rice, spin-off, série de TV, universo vampírico
-author: Luana Souza
-data: '2025-05-31T01:27:40.663Z'
+  Jason Schwartzman, Anne Rice, The Talamasca: The Secret Order, Entrevista Com
+  o Vampiro, Immortal Universe, Mayfair Witches, Crônicas Vampirescas, Prime
+  Video, AMC
+author: Pablo Moura
+data: '2025-05-31T01:49:20.192Z'
 resumo: >-
-  Jason Schwartzmann é confirmado em 'Talamasca: The Secret Order', spin-off de
-  'Entrevista com o Vampiro'. A série promete expandir o universo criado por
-  Anne Rice.
+  Jason Schwartzman se junta ao universo de Anne Rice em 'The Talamasca: The
+  Secret Order'. A série promete explorar o lado oculto e misterioso das
+  criações da autora.
 ---
 
-## Talamasca: The Secret Order - Expansão do Universo de Anne Rice
+## Jason Schwartzman no Universo de Anne Rice
 
-O ator Jason Schwartzmann, conhecido por papéis em filmes como 'Rushmore' e 'The Grand Budapest Hotel', foi escalado para participar do spin-off da famosa série 'Entrevista com o Vampiro'. O novo projeto, intitulado 'Talamasca: The Secret Order', está em desenvolvimento e pretende explorar ainda mais o rico mundo criado pela autora Anne Rice.
+O ator Jason Schwartzman foi escalado para participar do spin-off 'Anne Rice's The Talamasca: The Secret Order', conforme anunciado pelo perfil oficial de Entrevista Com o Vampiro nesta sexta-feira (30). Schwartzman interpretará Burton, um vampiro, neste novo capítulo do rico universo criado por Anne Rice.
 
-### O que esperar de 'Talamasca: The Secret Order'?
+A série 'The Talamasca: The Secret Order' mergulha no mundo de sociedades secretas, responsáveis por vigiar e controlar entidades sobrenaturais como vampiros, bruxas e lobisomens. Composta por seis episódios em sua primeira temporada, a produção é descrita como um 'thriller de espionagem sobrenatural', oferecendo uma mistura intrigante de suspense e ocultismo.
 
-A série 'Talamasca: The Secret Order' se concentrará na misteriosa organização Talamasca, que desempenha um papel crucial na saga dos vampiros de Anne Rice. Esta organização secreta é dedicada a estudar e monitorar fenômenos sobrenaturais, incluindo vampiros, fantasmas e outras criaturas das trevas.
+### Expansão do Universo de Anne Rice
 
-A inclusão de Jason Schwartzmann no elenco promete trazer um toque único à série, com sua habilidade para interpretar personagens complexos e intrigantes. Os fãs podem esperar uma narrativa rica e envolvente, que aprofundará o lore já estabelecido na obra original.
+Além de Schwartzman, o elenco inclui nomes como Nicholas Denton, William Fichtner, Elizabeth McGovern e Celine Buckens. Este projeto faz parte do 'Immortal Universe', que também inclui 'Mayfair Witches'. Essa série estreou em 2023 e já tem uma terceira temporada confirmada.
 
-### Expansão do Universo Vampírico
+## Legado de Entrevista Com o Vampiro
 
-Desde sua publicação, 'Entrevista com o Vampiro' cativou leitores e espectadores com sua abordagem distinta do mito vampírico. A série original já foi adaptada para o cinema, e agora, com 'Talamasca: The Secret Order', o universo de Anne Rice está prestes a se expandir ainda mais nas telinhas.
+'Entrevista Com o Vampiro', baseado nos livros de Anne Rice, já foi adaptado para o cinema nos anos 90, com Brad Pitt e Tom Cruise nos papéis principais. As duas primeiras temporadas da série estão disponíveis no Prime Video, enquanto a terceira estreia exclusivamente na AMC e AMC+.
 
-Com a promessa de explorar novas histórias e personagens, o spin-off tem gerado grande expectativa entre os fãs, que aguardam ansiosamente por mais detalhes sobre a trama e a data de estreia.
+Anne Rice, autora de obras icônicas como 'O Vampiro Lestat' e 'A Rainha dos Condenados', faleceu em 2021, mas seu legado continua a inspirar novas produções audiovisuais.
+
+### Curiosidades e Adaptações
+
+As Crônicas Vampirescas de Anne Rice incluem diversos volumes que exploram personagens complexos, como 'O Vampiro Armand' e 'A História do Ladrão de Corpos'. Além das adaptações cinematográficas, suas histórias continuam a ganhar vida através de séries e novos formatos de mídia.

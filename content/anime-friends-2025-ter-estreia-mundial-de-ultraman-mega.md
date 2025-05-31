@@ -1,56 +1,47 @@
 ---
-title: >-
-  Ultraman Ômega faz estreia mundial no Anime Friends 2025: um marco fora do
-  Japão
+title: 'Anime Friends 2025: Ultraman Ômega Faz Estreia Mundial em Evento'
 slug: anime-friends-2025-ter-estreia-mundial-de-ultraman-mega
 categoria: MANGÁS E ANIMES
-midia: 'https://www.youtube.com/embed/8Cg43N9z6mc?showinfo=0&enablejsapi=1'
-tipoMidia: video
+midia: >-
+  https://cdn.ome.lt/lCgHw2gnt-i18hrJ9wBhPgtZzoA=/480x360/smart/extras/conteudos/sem_titulo30.png
+tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/lCgHw2gnt-i18hrJ9wBhPgtZzoA=/480x360/smart/extras/conteudos/sem_titulo30.png
 tags:
   - Anime Friends 2025
   - Ultraman Ômega
-  - Ultraman Live in Brazil 2025
-  - Ultraman
-  - Ultraman Zero
-  - Ultraman Mebius
-  - Distrito Anhembi
-  - São Paulo
-  - Stereo Dive Foundation
-  - MindaRyn
-  - That Time I Got Reincarnated as a Slime
-  - seven oops
-  - Naruto Shippuden
-  - Nightmare
-  - Death Note
-  - Claymore
-  - Flow
-  - Code Geass
+  - estreia mundial
+  - evento de anime
+  - franquia Ultraman
+  - cultura pop
+  - super-heróis japoneses
 keywords: >-
-  Anime Friends 2025, Ultraman Ômega, Ultraman Live in Brazil 2025, Ultraman,
-  Ultraman Zero, Ultraman Mebius, Distrito Anhembi, São Paulo, Stereo Dive
-  Foundation, MindaRyn, That Time I Got Reincarnated as a Slime, seven oops,
-  Naruto Shippuden, Nightmare, Death Note, Claymore, Flow, Code Geass
-author: Luana Souza
-data: '2025-05-31T01:29:44.508Z'
+  Anime Friends 2025, Ultraman Ômega, estreia mundial, evento de anime, franquia
+  Ultraman, cultura pop, super-heróis japoneses
+author: Pablo Moura
+data: '2025-05-31T01:51:15.831Z'
 resumo: >-
-  O Anime Friends 2025 será palco da estreia mundial de Ultraman Ômega, marcando
-  a primeira apresentação do novo herói fora do Japão.
+  O aguardado Ultraman Ômega será apresentado pela primeira vez fora do Japão
+  durante o Anime Friends 2025. Este evento promete ser um marco para os fãs da
+  franquia.
 ---
 
-## Estreia Mundial de Ultraman Ômega no Brasil
+## Anime Friends 2025: Um Evento Imperdível para Fãs de Ultraman
 
-O Anime Friends 2025, um dos maiores eventos de cultura pop do Brasil, revelou que será o palco da estreia mundial do Ultraman Ômega, o novo herói ultramaniano. Esta será a primeira vez que o personagem será apresentado fora do Japão, trazendo uma experiência inédita para os fãs brasileiros.
+O Anime Friends 2025 está preparado para ser um evento histórico, pois marcará a estreia mundial de **Ultraman Ômega**, a mais nova adição à icônica franquia de super-heróis japoneses. Esta será a primeira vez que o herói será apresentado fora do Japão, trazendo grande expectativa entre os fãs.
 
-O evento, que ocorre de 3 a 6 de julho no Distrito Anhembi em São Paulo, contará com duas apresentações diárias do espetáculo 'Ultraman Live in Brazil 2025'. Além de Ultraman Ômega, o show contará com a presença dos icônicos Ultraman, Ultraman Zero e Ultraman Mebius, todos em uma performance dublada.
+O **Ultraman Ômega** promete inovar dentro do universo Ultraman, com novos poderes e uma narrativa envolvente. A escolha do Anime Friends 2025 para essa estreia reafirma a importância do evento como um dos maiores encontros de cultura pop e anime da América Latina.
 
-## Atrações do Anime Friends 2025
+### O que esperar do Evento
 
-Além da estreia de Ultraman Ômega, o Anime Friends 2025 promete uma programação rica e diversificada. Entre os destaques, a banda Stereo Dive Foundation Feat. MindaRyn, conhecida pelo jogo de RPG 'That Time I Got Reincarnated as a Slime', se apresentará no último dia do evento.
+Além da estreia de Ultraman Ômega, o Anime Friends 2025 oferecerá uma programação recheada de atividades, incluindo painéis com criadores de animes, concursos de cosplay e stands de produtos exclusivos. **Para os fãs de Ultraman**, esta é uma oportunidade única de vivenciar o lançamento de um novo capítulo na franquia em primeira mão.
 
-Outro grande nome é o trio seven oops, que traz ao Brasil suas músicas marcantes, incluindo aberturas de 'Naruto Shippuden'. A banda japonesa Nightmare também fará sua estreia no país, oferecendo temas icônicos de animes como 'Death Note' e 'Claymore'.
+Com a crescente popularidade dos heróis japoneses no ocidente, a estreia mundial de Ultraman Ômega no Anime Friends 2025 é um indicativo do crescente interesse global e da expansão da franquia além das fronteiras do Japão.
 
-O festival ainda contará com a presença do Flow, famoso por suas aberturas de 'Naruto Shippuden' e 'Code Geass', encerrando o evento com chave de ouro.
+---
 
-Para mais informações sobre os ingressos e a programação completa, acesse o site oficial do evento.
+#### Fontes e Referências
+
+- [Ultraman - Wikipedia - en.wikipedia.org](https://en.wikipedia.org/wiki/Ultraman)
+- [Tsuburaya Productions - Ultraman Global - facebook.com](https://www.facebook.com/tsuburayaglobal/)
+- [New TV Series ULTRAMAN OMEGA Broadcast Starts July 5th 9:00 ... - tsuburaya-prod.com](https://tsuburaya-prod.com/news/8339)
