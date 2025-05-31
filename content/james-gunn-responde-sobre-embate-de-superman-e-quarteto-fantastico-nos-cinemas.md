@@ -17,6 +17,7 @@ tags:
   - rivalidade
   - bilheteria
   - cinema
+  - especial-Superman
 keywords: >-
   James Gunn, Superman 2025, Quarteto Fantástico, Marvel, DC, rivalidade, bilheteria, cinema
 author: Ana Luiza

@@ -15,6 +15,7 @@ tags:
   - filme
   - DC
   - julho 2024
+  - especial-Superman
 keywords: 'Superman, James Gunn, bilheteria, estreia, filme, DC, julho 2024'
 author: Luana Souza
 data: '2025-05-31T20:20:12.660Z'

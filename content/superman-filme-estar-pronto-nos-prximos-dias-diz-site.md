@@ -18,6 +18,7 @@ tags:
   - DCU
   - DC Comics
   - filme Superman 2025
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, Warner Bros, The Hollywood Reporter, David Corenswet,
   Rachel Brosnahan, Nicholas Hoult, DCU, DC Comics, filme Superman 2025

@@ -17,6 +17,7 @@ tags:
   - estreia em julho
   - Guardiões da Galáxia
   - O Esquadrão Suicida
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, novo pôster, filme de Superman, herói, cinema, estreia
   em julho, Guardiões da Galáxia, O Esquadrão Suicida
