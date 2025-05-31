@@ -61,6 +61,12 @@
   ],
   "filmes": [
     {
+      "slug": "russell-brand-se-declara-inocente-em-acusao-de-estupro-e-assdio",
+      "titulo": "Russell Brand nega acusações de estupro e assédio sexual: julgamento em 2026",
+      "thumb": "https://cdn.ome.lt/I4qiv1TERWBPj_s-NwLipGOGXR8=/480x360/smart/extras/conteudos/arthurrussellbrand.jpg",
+      "categoria": "FILMES"
+    },
+    {
       "slug": "clint-eastwood-95-anuncia-planos-de-dirigir-mais-um-filme",
       "titulo": "Clint Eastwood Anuncia Novo Filme aos 95 Anos: Lenda do Cinema Continua na Ativa",
       "thumb": "https://cdn.ome.lt/_2JKHSXKgRxBCDW13j28fHrR3-k=/480x360/smart/extras/conteudos/clinteastwood.jpg",
@@ -70,12 +76,6 @@
       "slug": "crtica-mountainhead-como-um-derivado-pouco-afiado-de-sucession",
       "titulo": "Mountainhead: Uma Reflexão Sobre Bilionários e o Poder da Tecnologia",
       "thumb": "https://cdn.ome.lt/ifprNZhwURhYpawbQ4za-gf95_8=/480x360/smart/extras/conteudos/mountainhead-critica.jpg",
-      "categoria": "FILMES"
-    },
-    {
-      "slug": "quarteto-fantstico-pedro-pascal-ao-vivo-do-palco-omelete-na-ccxpmx-veja",
-      "titulo": "Pedro Pascal Apresenta 'Quarteto Fantástico' ao Vivo na CCXPMX 2025",
-      "thumb": "https://cdn.ome.lt/exkyGHpDDKY1s7lCKCwamqBYIaI=/480x360/smart/extras/conteudos/quarteto-fantastico_l4Kg4k9.png",
       "categoria": "FILMES"
     }
   ],
