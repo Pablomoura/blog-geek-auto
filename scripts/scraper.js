@@ -162,7 +162,7 @@ async function extrairConteudoNoticia(url) {
     await page.setUserAgent("Mozilla/5.0");
     await page.goto(url, { waitUntil: "networkidle2" });
     await autoScroll(page);
-    await page.waitForSelector("p", { timeout: 10000 });
+    await page.waitForSelector("p", { timeout: 60000 });
 
     // 🟡 Extrair ficha técnica se for crítica
     let notaCritico = null;
