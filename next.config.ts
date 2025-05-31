@@ -12,6 +12,8 @@ const nextConfig = {
       "justwatch.com",
       "cf.geekdo-images.com",
       "images.com",
+      "www.gamespot.com",
+      "gamespot.com",
     ],
     unoptimized: false,
   },
