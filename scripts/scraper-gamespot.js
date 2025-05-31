@@ -103,6 +103,12 @@ async function executarScraper() {
   let novosPosts = [];
 
   for (const noticia of noticias.slice(0, MAX_POSTS)) {
+
+        if (postsExistentes.some((p) => p.link === noticia.link)) {
+      console.log(`⚠️ Já existe (link duplicado): ${noticia.link}`);
+      continue;
+    }
+
     const markdownOriginal = turndownService.turndown(noticia.descricaoHtml);
 
     const reescrito = await retry(() =>
