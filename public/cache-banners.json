@@ -1,27 +1,162 @@
 {
-  "data": "2025-05-31",
-  "filmes": {
-    "slug": "a-vida-de-chuck-filme-baseado-em-obra-de-stephen-king-adiado-no-brasil",
-    "titulo": "Adiado o Lançamento de 'A Vida de Chuck', Filme Baseado em Stephen King",
-    "thumb": "https://cdn.ome.lt/P_TawEkgwiSPkuRDj85-bwn1cYo=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-30_173951.png",
-    "categoria": "FILMES",
-    "resumo": "O filme 'A Vida de Chuck', estrelado por Tom Hiddleston, teve sua estreia no Brasil adiada pela distribuidora Diamond Films. A nova data já foi definida, gerando expectativa entre os fãs de Stephen King.",
-    "data": "2025-05-30T21:20:12.514Z"
-  },
-  "games": {
-    "slug": "edio-fsica-de-lunar-remastered-collection-reabastecida-na-amazon",
-    "titulo": "Edição Física de Lunar Remastered Collection é Reabastecida na Amazon",
-    "thumb": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg",
-    "categoria": "Games",
-    "resumo": "A edição física da Lunar Remastered Collection, um dos conjuntos mais aguardados por fãs de RPGs clássicos, está de volta ao estoque da Amazon para as plataform",
-    "data": "2025-05-31T00:26:00.000Z"
-  },
-  "series": {
-    "slug": "entrevista-com-o-vampiro-jason-schwartzmann-escalado-em-spin-off",
-    "titulo": "Jason Schwartzman Estrela Spin-off de Entrevista Com o Vampiro",
-    "thumb": "https://cdn.ome.lt/4bDtdtDWTfglVQHZhZL_LAIWaPw=/480x360/smart/extras/conteudos/sem_titulo32.png",
-    "categoria": "SÉRIES E TV",
-    "resumo": "Jason Schwartzman se junta ao universo de Anne Rice em 'The Talamasca: The Secret Order'. A série promete explorar o lado oculto e misterioso das criações da autora.",
-    "data": "2025-05-31T01:49:20.192Z"
-  }
+  "games": [
+    {
+      "slug": "edio-fsica-de-lunar-remastered-collection-reabastecida-na-amazon",
+      "titulo": "Edição Física de Lunar Remastered Collection é Reabastecida na Amazon",
+      "thumb": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg",
+      "categoria": "Games"
+    },
+    {
+      "slug": "edio-fsica-de-lunar-remastered-collection-retorna-ao-estoque-na-amazon",
+      "titulo": "Edição Física de Lunar Remastered Collection Retorna ao Estoque na Amazon",
+      "thumb": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg",
+      "categoria": "Games"
+    },
+    {
+      "slug": "twitterx-apresenta-erro-e-fica-fora-do-ar-para-usurios-em-todo-o-mundo",
+      "titulo": "Instabilidade Global: X (antigo Twitter) Sai do Ar Deixando Usuários Desconectados",
+      "thumb": "https://cdn.ome.lt/UuyZcpTp58VC0ilK_12dIgkMNRk=/480x360/smart/extras/conteudos/x-twitter-fora-do-ar_SbYTyRd.png",
+      "categoria": "GAMES"
+    }
+  ],
+  "series-e-tv": [
+    {
+      "slug": "pacificador-james-gunn-e-john-cena-ao-vivo-do-palco-omelete-na-ccxpmx-assista",
+      "titulo": "James Gunn e John Cena Revelam Novidades de Pacificador na CCXPMX",
+      "thumb": "https://cdn.ome.lt/hy-oCHewzrV7NUA4S7Gt7p1jyAU=/480x360/smart/extras/conteudos/pacificador_jRecYS8.jpg",
+      "categoria": "SÉRIES E TV"
+    },
+    {
+      "slug": "xolo-maridua-confirma-derivados-de-karat-kid-e-cobra-kai-em-painel-da-ccxpmx",
+      "titulo": "Xolo Mariduña Revela Expansão do Universo de Karatê Kid e Cobra Kai na CCXPMX",
+      "thumb": "https://cdn.ome.lt/EXM2QMOWbUtu5pv21_W91wyth0w=/480x360/smart/extras/conteudos/cobra-kai-xolo_Yky7S3j.jpg",
+      "categoria": "SÉRIES E TV"
+    },
+    {
+      "slug": "entrevista-com-o-vampiro-jason-schwartzmann-escalado-em-spin-off",
+      "titulo": "Jason Schwartzman Estrela Spin-off de Entrevista Com o Vampiro",
+      "thumb": "https://cdn.ome.lt/4bDtdtDWTfglVQHZhZL_LAIWaPw=/480x360/smart/extras/conteudos/sem_titulo32.png",
+      "categoria": "SÉRIES E TV"
+    }
+  ],
+  "mangas-e-animes": [
+    {
+      "slug": "anime-friends-2025-ter-estreia-mundial-de-ultraman-mega",
+      "titulo": "Anime Friends 2025: Ultraman Ômega Faz Estreia Mundial em Evento",
+      "thumb": "https://cdn.ome.lt/lCgHw2gnt-i18hrJ9wBhPgtZzoA=/480x360/smart/extras/conteudos/sem_titulo30.png",
+      "categoria": "MANGÁS E ANIMES"
+    },
+    {
+      "slug": "demon-slayer-castelo-infinito-tem-pster-com-o-hashira-do-vento",
+      "titulo": "Demon Slayer: Novo Pôster do Hashira do Vento Aquece Estreia de Castelo Infinito",
+      "thumb": "https://cdn.ome.lt/44UwrEw_2UUr62h9w5_TU5AC4JA=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-30_162159.png",
+      "categoria": "MANGÁS E ANIMES"
+    },
+    {
+      "slug": "to-your-eternity-3-temporada-ganha-trailer-oficial-assista",
+      "titulo": "To Your Eternity: A Terceira Temporada Estreia em Outubro com Novo Trailer Envolvente",
+      "thumb": "https://cdn.ome.lt/kfyKjw3L_YonWq4jDPuUaaMhhy4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-29_162713.png",
+      "categoria": "MANGÁS E ANIMES"
+    }
+  ],
+  "filmes": [
+    {
+      "slug": "crtica-mountainhead-como-um-derivado-pouco-afiado-de-sucession",
+      "titulo": "Mountainhead: Uma Reflexão Sobre Bilionários e o Poder da Tecnologia",
+      "thumb": "https://cdn.ome.lt/ifprNZhwURhYpawbQ4za-gf95_8=/480x360/smart/extras/conteudos/mountainhead-critica.jpg",
+      "categoria": "FILMES"
+    },
+    {
+      "slug": "quarteto-fantstico-pedro-pascal-ao-vivo-do-palco-omelete-na-ccxpmx-veja",
+      "titulo": "Pedro Pascal Apresenta 'Quarteto Fantástico' ao Vivo na CCXPMX 2025",
+      "thumb": "https://cdn.ome.lt/exkyGHpDDKY1s7lCKCwamqBYIaI=/480x360/smart/extras/conteudos/quarteto-fantastico_l4Kg4k9.png",
+      "categoria": "FILMES"
+    },
+    {
+      "slug": "jurassic-world-scarlett-johansson-e-elenco-ao-vivo-do-palco-omelete-na-ccxpmx",
+      "titulo": "Scarlett Johansson e Estrelas de Jurassic World Agitam Palco da CCXPMX",
+      "thumb": "https://cdn.ome.lt/LqPgyKzpAJ9zvYoiRoDAcpdm6xs=/480x360/smart/extras/conteudos/jurassic-world-capa.jpg",
+      "categoria": "FILMES"
+    }
+  ],
+  "board-games": [
+    {
+      "slug": "mime-things-that-can039t-be-named-and-don039t-ask-the-best-ghost-where-the-mine-turtle-is",
+      "titulo": "Novos Jogos de Festa Prometem Diversão com Mímicas e Mapas",
+      "thumb": "https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png",
+      "categoria": "Board Games"
+    },
+    {
+      "slug": "knizia-game-round-up-walk-like-a-hobbit-remain-undetected-and-collect-cute-animals",
+      "titulo": "Novos Jogos de Reiner Knizia: Hobbit, Ninjas e Influenciadores de Animais",
+      "thumb": "https://cf.geekdo-images.com/KCsAkHzgdx9fL78c15N-dw__imagepage/img/9sntqg_YZUqHuV7sYRIEUr7tgDk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8831592.png",
+      "categoria": "Board Games"
+    },
+    {
+      "slug": "escape-a-dungeon-cthulhu-another-dungeon-a-cryptic-signal-and-tribbles",
+      "titulo": "Novidades de Board Games: Aventuras Solitárias, Sinais Crípticos e Jornada Estelar",
+      "thumb": "https://cf.geekdo-images.com/xTnG122cWZhOdoI89XLKRg__imagepage/img/aWkgLT44FWLPSDL2BiRdo8feNWs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8284447.jpg",
+      "categoria": "Board Games"
+    }
+  ],
+  "streaming": [
+    {
+      "slug": "kings-league-mundial-de-clubes-ser-transmitido-pelo-disney",
+      "titulo": "Kings League: Disney+ Transmite Mundial de Clubes com Neymar e Gerard Piqué",
+      "thumb": "https://cdn.ome.lt/dXugG1BWzVrmFFvw4diLfsLuPKs=/480x360/smart/extras/conteudos/sem_titulo5.png",
+      "categoria": "STREAMING"
+    },
+    {
+      "slug": "netflix-revelou-os-jogos-da-nfl-no-natal-confira",
+      "titulo": "Netflix Anuncia Transmissão de Jogos da NFL no Natal e Planos Futuros para Exclusividade",
+      "thumb": "https://cdn.ome.lt/mca4BpIhziItGHd4FHEwhXT6YrA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-14T202133.399.png",
+      "categoria": "STREAMING"
+    },
+    {
+      "slug": "nfl-revela-novo-jogo-no-brasil-veja-como-assistir-de-graa",
+      "titulo": "NFL Anuncia Partida Histórica em São Paulo com Transmissão Global pelo YouTube",
+      "thumb": "https://cdn.ome.lt/HgEiTjTmWup6vARXxGxgzlZ1GZw=/480x360/smart/extras/conteudos/nfl-brasil-2025.png",
+      "categoria": "STREAMING"
+    }
+  ],
+  "hq-livros": [
+    {
+      "slug": "deadpoolbatman-marvel-e-dc-anunciam-crossover-indito",
+      "titulo": "Deadpool Encontra Batman: Marvel e DC Anunciam Crossover Histórico nos Quadrinhos",
+      "thumb": "https://cdn.ome.lt/FwyNIBeIYj-sa3tP7xWWLduNogU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-27_132212.png",
+      "categoria": "HQ/LIVROS"
+    },
+    {
+      "slug": "morre-peter-david-quadrinista-do-hulk-e-da-supergirl-aos-68-anos",
+      "titulo": "Peter David, Lendário Escritor de Hulk e Supergirl, Falece aos 68 Anos",
+      "thumb": "https://cdn.ome.lt/vuTcQ3Itm2j7aYdHKjoJYT5e234=/480x360/smart/extras/conteudos/peterdavid.jpg",
+      "categoria": "HQ/LIVROS"
+    },
+    {
+      "slug": "justiceiro-marvel-anuncia-nova-srie-para-adultos-do-anti-heri",
+      "titulo": "O Justiceiro Retorna em Nova Série Adulta da Marvel com Selo Red Band",
+      "thumb": "https://cdn.ome.lt/gk_b_snfcqmaoeN7rHEmk241AMk=/480x360/smart/extras/conteudos/Design_sem_nome39.png",
+      "categoria": "HQ/LIVROS"
+    }
+  ],
+  "musica": [
+    {
+      "slug": "radiohead-thom-yorke-se-pronuncia-contra-israel-hamas-e-redes-sociais",
+      "titulo": "Thom Yorke do Radiohead Critica Israel, Hamas e Redes Sociais",
+      "thumb": "https://cdn.ome.lt/0W7LHjCPoF7xdafjl0woF5cKKd0=/480x360/smart/extras/conteudos/sem_titulo35.png",
+      "categoria": "MÚSICA"
+    },
+    {
+      "slug": "crtica-referencial-something-beautiful-o-melhor-de-miley-cyrus-e-de-2025",
+      "titulo": "Something Beautiful de Miley Cyrus: O Álbum Revolucionário de 2025",
+      "thumb": "https://cdn.ome.lt/XCR1DqXUuCrSVwZOpyqssKFtgug=/480x360/smart/extras/conteudos/miley_escYBd1.jpg",
+      "categoria": "MÚSICA"
+    },
+    {
+      "slug": "taylor-swift-adquire-os-direitos-de-seus-seis-primeiros-lbuns",
+      "titulo": "Taylor Swift Recupera Direitos de Seus Seis Primeiros Álbuns em Acordo Histórico",
+      "thumb": "https://cdn.ome.lt/xyzSno2CmKBa_jxxxqKhJ4qSWtQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-30T130339.573.png",
+      "categoria": "MÚSICA"
+    }
+  ]
 }
