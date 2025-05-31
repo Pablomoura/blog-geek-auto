@@ -1,15 +1,35 @@
 ---
-title: "Call of Duty: Black Ops 6 Intensifica Anúncios In-Game para Vender Passe de Batalha e Pacotes"
-slug: "call-of-duty-black-ops-6-intensifica-anncios-in-game-para-vender-passe-de-batalha-e-pacotes"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4504106-blackops6ingameads.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4504106-blackops6ingameads.jpg"
-tags: ["Call of Duty Black Ops 6", "anúncios in-game", "passe de batalha", "microtransações", "temporada 4", "Activision", "monetização", "projetos de armas"]
-keywords: "Call of Duty Black Ops 6, anúncios in-game, passe de batalha, microtransações, temporada 4, Activision, monetização, projetos de armas"
-author: "Luana Souza"
-fonte: "GameSpot"
-data: "2025-05-30T14:48:00.000Z"
+title: >-
+  Call of Duty: Black Ops 6 Intensifica Anúncios In-Game para Vender Passe de
+  Batalha e Pacotes
+slug: >-
+  call-of-duty-black-ops-6-intensifica-anncios-in-game-para-vender-passe-de-batalha-e-pacotes
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4504106-blackops6ingameads.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4504106-blackops6ingameads.jpg
+tags:
+  - Call of Duty Black Ops 6
+  - anúncios in-game
+  - passe de batalha
+  - microtransações
+  - temporada 4
+  - Activision
+  - monetização
+  - projetos de armas
+keywords: >-
+  Call of Duty Black Ops 6, anúncios in-game, passe de batalha, microtransações,
+  temporada 4, Activision, monetização, projetos de armas
+author: Luana Souza
+fonte: GameSpot
+data: '2025-05-30T14:48:00.000Z'
+resumo: >-
+  A quarta temporada de Call of Duty: Black Ops 6 traz uma enxurrada de anúncios
+  in-game, incentivando os jogadores a adquirir o passe de batalha premium e
+  pacotes de itens. A nova estratégia de monetização tem gerado descontentamento
+  entre a comunidade de fãs.
 ---
 ## Call of Duty: Black Ops 6 Adota Nova Estratégia de Monetização com Anúncios In-Game
 

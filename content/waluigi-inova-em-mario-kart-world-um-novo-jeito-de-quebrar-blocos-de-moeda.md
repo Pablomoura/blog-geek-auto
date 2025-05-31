@@ -1,15 +1,33 @@
 ---
-title: "Waluigi Inova em Mario Kart World: Um Novo Jeito de Quebrar Blocos de Moeda"
-slug: "waluigi-inova-em-mario-kart-world-um-novo-jeito-de-quebrar-blocos-de-moeda"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1850/18504982/4504120-waluigimariokartworld.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1850/18504982/4504120-waluigimariokartworld.jpg"
-tags: ["Waluigi", "Mario Kart World", "Nintendo Switch 2", "Bloco de Moeda", "Personagens de Mario", "Wario", "Jogos de Corrida", "Mario Party", "Super Mario", "Animações Inusitadas"]
-keywords: "Waluigi, Mario Kart World, Nintendo Switch 2, Bloco de Moeda, Personagens de Mario, Wario, Jogos de Corrida, Mario Party, Super Mario, Animações Inusitadas"
-author: "Pablo Moura"
-fonte: "GameSpot"
-data: "2025-05-30T15:25:00.000Z"
+title: 'Waluigi Inova em Mario Kart World: Um Novo Jeito de Quebrar Blocos de Moeda'
+slug: waluigi-inova-em-mario-kart-world-um-novo-jeito-de-quebrar-blocos-de-moeda
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1850/18504982/4504120-waluigimariokartworld.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1850/18504982/4504120-waluigimariokartworld.jpg
+tags:
+  - Waluigi
+  - Mario Kart World
+  - Nintendo Switch 2
+  - Bloco de Moeda
+  - Personagens de Mario
+  - Wario
+  - Jogos de Corrida
+  - Mario Party
+  - Super Mario
+  - Animações Inusitadas
+keywords: >-
+  Waluigi, Mario Kart World, Nintendo Switch 2, Bloco de Moeda, Personagens de
+  Mario, Wario, Jogos de Corrida, Mario Party, Super Mario, Animações Inusitadas
+author: Pablo Moura
+fonte: GameSpot
+data: '2025-05-30T15:25:00.000Z'
+resumo: >-
+  Waluigi surpreende os fãs de Mario Kart World com uma técnica inusitada para
+  ganhar moedas nos jogos de corrida. Descubra como o personagem subverte a
+  tradição ao usar os pés em vez das mãos.
 ---
 ## Waluigi: O Mestre da Excentricidade em Mario Kart World
 

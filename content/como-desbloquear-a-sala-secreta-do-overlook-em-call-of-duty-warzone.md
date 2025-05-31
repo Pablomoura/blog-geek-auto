@@ -1,15 +1,31 @@
 ---
-title: "Como Desbloquear a Sala Secreta do Overlook em Call of Duty: Warzone"
-slug: "como-desbloquear-a-sala-secreta-do-overlook-em-call-of-duty-warzone"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1639/16394540/4504129-bo6-season-04-announcement-035.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1639/16394540/4504129-bo6-season-04-announcement-035.jpg"
-tags: ["Call of Duty Warzone", "Overlook", "Temporada 4", "Easter egg", "sala secreta", "Verdansk", "guia Warzone", "desbloquear sala Overlook"]
-keywords: "Call of Duty Warzone, Overlook, Temporada 4, Easter egg, sala secreta, Verdansk, guia Warzone, desbloquear sala Overlook"
-author: "Pablo Moura"
-fonte: "GameSpot"
-data: "2025-05-30T15:42:00.000Z"
+title: 'Como Desbloquear a Sala Secreta do Overlook em Call of Duty: Warzone'
+slug: como-desbloquear-a-sala-secreta-do-overlook-em-call-of-duty-warzone
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1639/16394540/4504129-bo6-season-04-announcement-035.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1639/16394540/4504129-bo6-season-04-announcement-035.jpg
+tags:
+  - Call of Duty Warzone
+  - Overlook
+  - Temporada 4
+  - Easter egg
+  - sala secreta
+  - Verdansk
+  - guia Warzone
+  - desbloquear sala Overlook
+keywords: >-
+  Call of Duty Warzone, Overlook, Temporada 4, Easter egg, sala secreta,
+  Verdansk, guia Warzone, desbloquear sala Overlook
+author: Pablo Moura
+fonte: GameSpot
+data: '2025-05-30T15:42:00.000Z'
+resumo: >-
+  A Temporada 4 de Call of Duty: Warzone introduziu o Overlook, um arranha-céu
+  em Verdansk com um Easter egg que oferece recompensas valiosas. Aprenda a
+  abrir a sala secreta do Overlook seguindo nosso guia detalhado.
 ---
 ## Descubra o Novo Ponto de Interesse: Overlook em Warzone
 

@@ -1,15 +1,33 @@
 ---
-title: "Guia Completo da Classe Executor em Elden Ring Nightreign: Dicas e Estratégias"
-slug: "guia-completo-da-classe-executor-em-elden-ring-nightreign-dicas-e-estratgias"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4504121-executor.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4504121-executor.jpg"
-tags: ["Elden Ring Nightreign", "executor", "guia", "habilidades", "relíquias", "destreza", "combate corpo a corpo", "parry", "From Software", "estratégia"]
-keywords: "Elden Ring Nightreign, executor, guia, habilidades, relíquias, destreza, combate corpo a corpo, parry, From Software, estratégia"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-05-30T15:25:00.000Z"
+title: 'Guia Completo da Classe Executor em Elden Ring Nightreign: Dicas e Estratégias'
+slug: guia-completo-da-classe-executor-em-elden-ring-nightreign-dicas-e-estratgias
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4504121-executor.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1745/17457013/4504121-executor.jpg
+tags:
+  - Elden Ring Nightreign
+  - executor
+  - guia
+  - habilidades
+  - relíquias
+  - destreza
+  - combate corpo a corpo
+  - parry
+  - From Software
+  - estratégia
+keywords: >-
+  Elden Ring Nightreign, executor, guia, habilidades, relíquias, destreza,
+  combate corpo a corpo, parry, From Software, estratégia
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-05-30T15:25:00.000Z'
+resumo: >-
+  Descubra como dominar a classe Executor em Elden Ring Nightreign com nosso
+  guia detalhado sobre habilidades, estilo de jogo e relíquias essenciais.
+  Aprenda a maximizar o potencial desta classe de alta destreza e dano.
 ---
 ## Conheça a Classe Executor em Elden Ring Nightreign
 

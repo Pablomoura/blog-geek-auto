@@ -1,15 +1,33 @@
 ---
-title: "Desenvolvedor de MindsEye Comenta Comparações com GTA: Benefícios e Desafios"
-slug: "desenvolvedor-de-mindseye-comenta-comparaes-com-gta-benefcios-e-desafios"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504127-screenshot2025-05-30at11.39.16am.png"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504127-screenshot2025-05-30at11.39.16am.png"
-tags: ["MindsEye", "Leslie Benzies", "GTA", "Build a Rocket Boy", "lançamento de jogos", "comparação de jogos", "narrativa de games", "inovação em jogos", "indústria de games"]
-keywords: "MindsEye, Leslie Benzies, GTA, Build a Rocket Boy, lançamento de jogos, comparação de jogos, narrativa de games, inovação em jogos, indústria de games"
-author: "Luana Souza"
-fonte: "GameSpot"
-data: "2025-05-30T15:14:00.000Z"
+title: 'Desenvolvedor de MindsEye Comenta Comparações com GTA: Benefícios e Desafios'
+slug: desenvolvedor-de-mindseye-comenta-comparaes-com-gta-benefcios-e-desafios
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504127-screenshot2025-05-30at11.39.16am.png
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504127-screenshot2025-05-30at11.39.16am.png
+tags:
+  - MindsEye
+  - Leslie Benzies
+  - GTA
+  - Build a Rocket Boy
+  - lançamento de jogos
+  - comparação de jogos
+  - narrativa de games
+  - inovação em jogos
+  - indústria de games
+keywords: >-
+  MindsEye, Leslie Benzies, GTA, Build a Rocket Boy, lançamento de jogos,
+  comparação de jogos, narrativa de games, inovação em jogos, indústria de games
+author: Luana Souza
+fonte: GameSpot
+data: '2025-05-30T15:14:00.000Z'
+resumo: >-
+  Leslie Benzies, ex-desenvolvedor da Rockstar, aborda comparações entre seu
+  novo jogo, MindsEye, e a franquia GTA. Ele destaca a importância de avaliar
+  MindsEye por seus próprios méritos, enquanto reconhece a inevitabilidade das
+  comparações.
 ---
 ## MindsEye: Um Novo Capítulo no Universo dos Games
 
