@@ -61,6 +61,12 @@
   ],
   "filmes": [
     {
+      "slug": "superman-heri-segura-o-prprio-logo-em-novo-pster-do-filme-veja",
+      "titulo": "Superman: Novo Pôster do Filme de James Gunn Revela Detalhe Inusitado",
+      "thumb": "https://cdn.ome.lt/7OJVlfz3n754vFH0bxhOS9JYP1U=/480x360/smart/extras/conteudos/supermanvariante_ofXWYc6.jpg",
+      "categoria": "FILMES"
+    },
+    {
       "slug": "xolo-mariduea-chama-bruna-marquezine-de-fofoqueira",
       "titulo": "Xolo Maridueña Revela Curiosidades Sobre Bruna Marquezine na CCXP México",
       "thumb": "https://cdn.ome.lt/RWejk7lXePp6VHmlOv7od3u0Coc=/480x360/smart/extras/conteudos/besouroazulxolo.jpg",
@@ -70,12 +76,6 @@
       "slug": "o-telefone-preto-2-ganha-teaser-misterioso-um-dia-antes-de-painel-na-ccxp-mx",
       "titulo": "O Telefone Preto 2: Teaser Revela Novos Mistérios na Véspera da CCXP MX",
       "thumb": "https://cdn.ome.lt/h1a6rAj2Rb0ePaxlPhder9Twjsk=/480x360/smart/extras/conteudos/otelefonepretoartsy.jpg",
-      "categoria": "FILMES"
-    },
-    {
-      "slug": "russell-brand-se-declara-inocente-em-acusao-de-estupro-e-assdio",
-      "titulo": "Russell Brand nega acusações de estupro e assédio sexual: julgamento em 2026",
-      "thumb": "https://cdn.ome.lt/I4qiv1TERWBPj_s-NwLipGOGXR8=/480x360/smart/extras/conteudos/arthurrussellbrand.jpg",
       "categoria": "FILMES"
     }
   ],
