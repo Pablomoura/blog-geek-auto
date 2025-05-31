@@ -10,7 +10,7 @@ const turndownService = new TurndownService();
 
 const jsonFilePath = "public/posts.json";
 const contentDir = path.join(process.cwd(), "content");
-const MAX_POSTS = 10;
+const MAX_POSTS = 15;
 
 if (!fs.existsSync(contentDir)) fs.mkdirSync(contentDir);
 
@@ -97,6 +97,19 @@ Formato de resposta obrigatório:
   reescrito.texto = reescrito.texto.replace(/\\n/g, "\n").replace(/(?<!\n)\n(?!\n)/g, "\n\n");
   return reescrito;
 }
+function extrairImagensDoHtml(html) {
+  const imagens = [];
+
+  const regexImageTag = /<image[^>]+data-img-src="([^">]+)"/gi;
+  let match;
+
+  while ((match = regexImageTag.exec(html)) !== null) {
+    imagens.push(match[1]);
+  }
+
+  return imagens;
+}
+
 async function executarScraper() {
   const noticias = await buscarNoticiasGameSpotRSS();
   const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
@@ -111,6 +124,11 @@ async function executarScraper() {
 
     const markdownOriginal = turndownService.turndown(noticia.descricaoHtml);
 
+    const imagensDoRSS = extrairImagensDoHtml(noticia.descricaoHtml);
+
+    // Remove thumb se estiver entre as imagens internas
+    const imagensParaInserir = imagensDoRSS.filter((img) => img !== noticia.thumb);
+
     const reescrito = await retry(() =>
         reescreverNoticia(noticia.titulo, noticia.resumo, markdownOriginal)
     );
@@ -123,7 +141,6 @@ async function executarScraper() {
     continue;
     }
 
-    const imagensParaInserir = noticia.thumb ? [noticia.thumb] : [];
     const textoComImagens = inserirImagensNoTexto(reescrito.texto, imagensParaInserir);
 
     const blocoFontes = await buscarFontesGoogle(reescrito.titulo);
