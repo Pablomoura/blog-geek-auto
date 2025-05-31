@@ -10,8 +10,8 @@ import ProdutosAmazon from "@/components/ProdutosAmazon";
 import { Metadata } from "next";
 import Image from "next/image";
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
-  const { slug } = await params;
+export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+  const { slug } = params;
   const categoria = decodeURIComponent(slug).replace(/-/g, " ").toUpperCase();
   return {
     title: `${categoria} - GeekNews`,
@@ -58,14 +58,12 @@ export default async function CategoriaPage({
   params,
   searchParams,
 }: {
-  params: Promise<{ slug: string }>;
-  searchParams: Promise<{ page?: string }>;
+  params: { slug: string };
+  searchParams: { page?: string };
 }) {
-  const { slug } = await params;
-  const { page } = await searchParams;
-  const categoriaSlug = slug;
+  const categoriaSlug = params.slug;
   const categoriaNome = decodeURIComponent(categoriaSlug).replace(/-/g, " ").toUpperCase();
-  const paginaAtual = parseInt(page || "1", 10);
+  const paginaAtual = parseInt(searchParams.page || "1", 10);
   const postsPorPagina = 9;
 
   const contentDir = path.join(process.cwd(), "content");
@@ -166,7 +164,13 @@ export default async function CategoriaPage({
 
         <div className="flex flex-col lg:flex-row gap-10">
           <div className="flex-1">
-            <UltimasNoticias posts={exibidos} paginaAtual={paginaAtual} totalPaginas={totalPaginas} />
+            <UltimasNoticias
+              posts={exibidos}
+              paginaAtual={paginaAtual}
+              totalPaginas={totalPaginas}
+              baseUrl={`/categoria/${categoriaSlug}`}
+            />
+
           </div>
 
           <aside className="w-full lg:w-[300px] flex-shrink-0 space-y-10">

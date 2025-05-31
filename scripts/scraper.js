@@ -44,7 +44,7 @@ puppeteer.use(StealthPlugin());
 
 const jsonFilePath = "public/posts.json";
 const contentDir = path.join(process.cwd(), "content");
-const MAX_POSTS = 8;
+const MAX_POSTS = 10;
 
 if (!fs.existsSync(contentDir)) {
   fs.mkdirSync(contentDir);
@@ -162,7 +162,7 @@ async function extrairConteudoNoticia(url) {
     await page.setUserAgent("Mozilla/5.0");
     await page.goto(url, { waitUntil: "networkidle2" });
     await autoScroll(page);
-    await page.waitForSelector("p", { timeout: 60000 });
+    await page.waitForSelector("p", { timeout: 10000 });
 
     // 🟡 Extrair ficha técnica se for crítica
     let notaCritico = null;
