@@ -1,14 +1,37 @@
 ---
-title: "Divertidos Jogos de Festa Prometem Agitar Seu Próximo Encontro"
-slug: "mime-things-that-can039t-be-named-and-don039t-ask-the-best-ghost-where-the-mine-turtle-is"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png"
-tags: ["jogos de festa", "Thing Thing", "Mime Battle", "Where is That?", "Add to Playlist", "What's the Best Thing?", "Don't Press That Mine Turtle", "Don't Fall for It!", "Ghosts Can't Draw", "Big Potato", "DVC Games", "IELLO", "Fractal Juegos"]
-keywords: "jogos de festa, Thing Thing, Mime Battle, Where is That?, Add to Playlist, What's the Best Thing?, Don't Press That Mine Turtle, Don't Fall for It!, Ghosts Can't Draw, Big Potato, DVC Games, IELLO, Fractal Juegos"
-author: "Luana Souza"
-data: "2025-06-01T00:49:09.778Z"
+title: Divertidos Jogos de Festa Prometem Agitar Seu Próximo Encontro
+slug: >-
+  mime-things-that-can039t-be-named-and-don039t-ask-the-best-ghost-where-the-mine-turtle-is
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/M-g9vR_WhiLjwhmrnwHC8w__imagepage/img/2S4MecA_XdFiK8zMMgUtRuY32GY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8554052.png
+tags:
+  - jogos de festa
+  - Thing Thing
+  - Mime Battle
+  - Where is That?
+  - Add to Playlist
+  - What's the Best Thing?
+  - Don't Press That Mine Turtle
+  - Don't Fall for It!
+  - Ghosts Can't Draw
+  - Big Potato
+  - DVC Games
+  - IELLO
+  - Fractal Juegos
+keywords: >-
+  jogos de festa, Thing Thing, Mime Battle, Where is That?, Add to Playlist,
+  What's the Best Thing?, Don't Press That Mine Turtle, Don't Fall for It!,
+  Ghosts Can't Draw, Big Potato, DVC Games, IELLO, Fractal Juegos
+author: Luana Souza
+data: '2025-06-01T00:49:09.778Z'
+resumo: >-
+  Conheça os lançamentos mais recentes em jogos de festa que prometem trazer
+  muita diversão e risadas para suas reuniões. Descubra mecânicas inovadoras e
+  desafios únicos que vão encantar jogadores de todas as idades.
 ---
 
 ## Thing Thing: Conecte as Cartas por Categorias
