@@ -15,7 +15,6 @@ tags:
   - TUDUM
   - Netflix
   - estreia
-  - 2025
   - Kyle Newacheck
   - Benny Safdie
   - Christopher McDonald
