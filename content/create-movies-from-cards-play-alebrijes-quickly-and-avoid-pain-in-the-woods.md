@@ -1,14 +1,28 @@
 ---
-title: "Descubra Novas Aventuras com Jogos de Cartas Inovadores e Desafiadores"
-slug: "create-movies-from-cards-play-alebrijes-quickly-and-avoid-pain-in-the-woods"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/q7KAQnyp0CwLfJVqsgk4JQ__imagepage/img/QCSpSJ1Ca0AbcRj8zX7BGrjAtQQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8794268.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/q7KAQnyp0CwLfJVqsgk4JQ__imagepage/img/QCSpSJ1Ca0AbcRj8zX7BGrjAtQQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8794268.png"
-tags: ["jogos de cartas", "Movie Tricks", "Alebrijes", "Woodlanders", "trick-taking", "criação de filmes", "board games"]
-keywords: "jogos de cartas, Movie Tricks, Alebrijes, Woodlanders, trick-taking, criação de filmes, board games"
-author: "Pablo Moura"
-data: "2025-06-01T06:26:12.983Z"
+title: Descubra Novas Aventuras com Jogos de Cartas Inovadores e Desafiadores
+slug: create-movies-from-cards-play-alebrijes-quickly-and-avoid-pain-in-the-woods
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/q7KAQnyp0CwLfJVqsgk4JQ__imagepage/img/QCSpSJ1Ca0AbcRj8zX7BGrjAtQQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8794268.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/q7KAQnyp0CwLfJVqsgk4JQ__imagepage/img/QCSpSJ1Ca0AbcRj8zX7BGrjAtQQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8794268.png
+tags:
+  - jogos de cartas
+  - Movie Tricks
+  - Alebrijes
+  - Woodlanders
+  - trick-taking
+  - criação de filmes
+  - board games
+keywords: >-
+  jogos de cartas, Movie Tricks, Alebrijes, Woodlanders, trick-taking, criação
+  de filmes, board games
+author: Pablo Moura
+data: '2025-06-01T06:26:12.983Z'
+resumo: >-
+  Explore três jogos de cartas únicos que prometem desafiar suas habilidades
+  estratégicas com mecânicas inovadoras e temáticas cativantes.
 ---
 
 ## Crie Filmes com Cartas: Movie Tricks
