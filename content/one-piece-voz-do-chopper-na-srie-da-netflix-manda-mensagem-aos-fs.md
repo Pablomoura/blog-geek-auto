@@ -1,7 +1,7 @@
 ---
 title: 'One Piece: Mikaela Hoover assume papel de Chopper no live-action da Netflix'
 slug: one-piece-voz-do-chopper-na-srie-da-netflix-manda-mensagem-aos-fs
-categoria: MANGÁS E ANIMES
+categoria: Séries e TV
 midia: >-
   https://cdn.ome.lt/XpLD5Zz_8EuHES76Fe3L-rzx_nw=/987x0/smart/uploads/conteudo/fotos/onepiecechoppernetflix.jpg
 tipoMidia: imagem

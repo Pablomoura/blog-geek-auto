@@ -174,7 +174,7 @@ tipoMidia: imagem
 thumb: >-
   ${thumb}
 tags:
-${tags.map((t) => "  - " + limparTag(t)).join("\n")}
+${tags.map((t) => `  - '${limparTag(t)}'`).join("\n")}
 keywords: >-
   ${tags.join(", ")}
 author: ${autor}

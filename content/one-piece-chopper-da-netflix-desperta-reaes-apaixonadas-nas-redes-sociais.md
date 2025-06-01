@@ -3,7 +3,7 @@ title: >-
   Chopper em One Piece Live-Action da Netflix: Reação dos Fãs e Detalhes da
   Segunda Temporada
 slug: one-piece-chopper-da-netflix-desperta-reaes-apaixonadas-nas-redes-sociais
-categoria: FILMES
+categoria: Séries e TV
 midia: >-
   https://cdn.ome.lt/3k2HnlXgpOPDR9R6sP04rxYlvjs=/987x0/smart/uploads/conteudo/fotos/onepiecechoppernetflix_9wWVWFN.jpg
 tipoMidia: imagem
