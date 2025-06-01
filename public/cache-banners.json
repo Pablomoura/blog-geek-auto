@@ -1,162 +1,27 @@
 {
-  "games": [
-    {
-      "slug": "splinter-cell-revelacao-do-remake-pode-estar-proxima",
-      "titulo": "Splinter Cell Remake: Revelação Está Prestes a Despertar Curiosidade dos Fãs",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2021/12/20211208-ovicio-splinter-cell-ubisoft.jpg",
-      "categoria": "Games"
-    },
-    {
-      "slug": "vem-ai-halo-vai-receber-grande-anuncio-em-outubro-diz-insider",
-      "titulo": "Grande Anúncio de Halo Pode Revelar Novo Jogo em Outubro, Sugere Insider",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2023/01/20230127-ovicio-halo-infinite-xbox.jpg",
-      "categoria": "Games"
-    },
-    {
-      "slug": "edio-fsica-de-lunar-remastered-collection-reabastecida-na-amazon",
-      "titulo": "Edição Física de Lunar Remastered Collection é Reabastecida na Amazon",
-      "thumb": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg",
-      "categoria": "Games"
-    }
-  ],
-  "series-e-tv": [
-    {
-      "slug": "cara-de-barro-mike-flanagan-diz-que-roteiro-e-inspirado-em-episodio-de-batman-a-serie-animada",
-      "titulo": "Mike Flanagan se Inspira em Batman: A Série Animada para Criar o Roteiro de Cara-de-Barro",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/05/20250531-batman-clayface.webp",
-      "categoria": "Séries e TV"
-    },
-    {
-      "slug": "harry-potter-conheca-o-elenco-da-serie-da-hbo",
-      "titulo": "Elenco da Série da HBO de Harry Potter Promete Recontar a Saga com Foco na Fidelidade",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/05/20250531-elenco-de-harry-potter-hbo.webp",
-      "categoria": "Séries e TV"
-    },
-    {
-      "slug": "one-piece-divulga-imagens-do-episodio-1-131",
-      "titulo": "One Piece: Imagens Reveladoras do Episódio 1.131 Prometem Novas Emoções",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/05/20250531-one-piece-episodio-1131-imagem-1-ovicio.webp",
-      "categoria": "Séries e TV"
-    }
-  ],
-  "mangas-e-animes": [
-    {
-      "slug": "fate-zero-madoka-magica-e-mais-titulos-da-aniplex-podem-ganhar-dublagem-em-portugues",
-      "titulo": "Aniplex Anuncia Dublagem em Português para Clássicos do Anime incluindo Fate/Zero e Madoka Magica",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/05/20250531-gurren-lugann-madoka-magica-e-fate-zero-ovicio.webp",
-      "categoria": "Mangás e Animes"
-    },
-    {
-      "slug": "demon-slayer-castelo-infinito-ganha-poster-focado-em-gyomei-himejima",
-      "titulo": "Demon Slayer: Novo Pôster de Castelo Infinito Destaca o Hashira Gyomei Himejima",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/05/20250531-gyomei-himejima-em-video-promocional-de-demon-slayer-castelo-inifinito-ovicio.webp",
-      "categoria": "Mangás e Animes"
-    },
-    {
-      "slug": "black-butler-divulga-trailer-do-climax-do-arco-emerald-witch",
-      "titulo": "Black Butler: Trailer Revela Clímax do Arco Emerald Witch na Crunchyroll",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/05/20250531-black-butler-emerald-witch-arc-climax-trailer-ovicio.webp",
-      "categoria": "Mangás e Animes"
-    }
-  ],
-  "filmes": [
-    {
-      "slug": "star-wars-mark-hamill-no-far-mais-o-papel-de-luke-skywalker",
-      "titulo": "Mark Hamill Se Despede de Luke Skywalker e Abre Espaço para Novas Histórias em Star Wars",
-      "thumb": "https://cdn.ome.lt/Bz4KFTevoyrxfxmNs9uA9MVpMWU=/480x360/smart/extras/conteudos/starwarslukeskywalker.jpg",
-      "categoria": "FILMES"
-    },
-    {
-      "slug": "cara-de-barro-roteiro-foi-influenciado-pela-srie-animada-do-batman",
-      "titulo": "Cara-de-Barro: Filme Inspirado pela Série Animada do Batman Chega em 2026",
-      "thumb": "https://cdn.ome.lt/_gFI1wEtcQEtDq5B2aoo0pdazwQ=/480x360/smart/extras/conteudos/batmanserieanimada.jpg",
-      "categoria": "FILMES"
-    },
-    {
-      "slug": "bilheteria-superman-pode-fazer-us-175-milhes-na-estreia-nos-eua",
-      "titulo": "Superman de James Gunn Pode Arrecadar US$ 175 Milhões em Estreia nos EUA",
-      "thumb": "https://cdn.ome.lt/shHab1n-vFQCjJ9xUvtWKT8YqUA=/480x360/smart/extras/conteudos/superman_baxM1IK.jpg",
-      "categoria": "FILMES"
-    }
-  ],
-  "board-games": [
-    {
-      "slug": "knizia-game-round-up-walk-like-a-hobbit-remain-undetected-and-collect-cute-animals",
-      "titulo": "Novos Jogos de Reiner Knizia: Hobbit, Ninjas e Influenciadores de Animais",
-      "thumb": "https://cf.geekdo-images.com/KCsAkHzgdx9fL78c15N-dw__imagepage/img/9sntqg_YZUqHuV7sYRIEUr7tgDk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8831592.png",
-      "categoria": "Board Games"
-    },
-    {
-      "slug": "escape-a-dungeon-cthulhu-another-dungeon-a-cryptic-signal-and-tribbles",
-      "titulo": "Novidades de Board Games: Aventuras Solitárias, Sinais Crípticos e Jornada Estelar",
-      "thumb": "https://cf.geekdo-images.com/xTnG122cWZhOdoI89XLKRg__imagepage/img/aWkgLT44FWLPSDL2BiRdo8feNWs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8284447.jpg",
-      "categoria": "Board Games"
-    },
-    {
-      "slug": "try-your-hand-at-being-bad-as-davy-jones-count-dooku-harley-quinn-and-a-giant-gold-loving-crab",
-      "titulo": "Novos Jogos de Tabuleiro de 2025 Transformam Vilões Icônicos em Protagonistas",
-      "thumb": "https://cf.geekdo-images.com/Ah_RwCGHtPROEl3V8ya44A__imagepage/img/6_jnBaYRY1nSwqY_T5cvsgFiXU4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8906683.png",
-      "categoria": "Board Games"
-    }
-  ],
-  "streaming": [
-    {
-      "slug": "kings-league-mundial-de-clubes-ser-transmitido-pelo-disney",
-      "titulo": "Kings League: Disney+ Transmite Mundial de Clubes com Neymar e Gerard Piqué",
-      "thumb": "https://cdn.ome.lt/dXugG1BWzVrmFFvw4diLfsLuPKs=/480x360/smart/extras/conteudos/sem_titulo5.png",
-      "categoria": "STREAMING"
-    },
-    {
-      "slug": "netflix-revelou-os-jogos-da-nfl-no-natal-confira",
-      "titulo": "Netflix Anuncia Transmissão de Jogos da NFL no Natal e Planos Futuros para Exclusividade",
-      "thumb": "https://cdn.ome.lt/mca4BpIhziItGHd4FHEwhXT6YrA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-14T202133.399.png",
-      "categoria": "STREAMING"
-    },
-    {
-      "slug": "nfl-revela-novo-jogo-no-brasil-veja-como-assistir-de-graa",
-      "titulo": "NFL Anuncia Partida Histórica em São Paulo com Transmissão Global pelo YouTube",
-      "thumb": "https://cdn.ome.lt/HgEiTjTmWup6vARXxGxgzlZ1GZw=/480x360/smart/extras/conteudos/nfl-brasil-2025.png",
-      "categoria": "STREAMING"
-    }
-  ],
-  "hq-livros": [
-    {
-      "slug": "deadpoolbatman-marvel-e-dc-anunciam-crossover-indito",
-      "titulo": "Deadpool Encontra Batman: Marvel e DC Anunciam Crossover Histórico nos Quadrinhos",
-      "thumb": "https://cdn.ome.lt/FwyNIBeIYj-sa3tP7xWWLduNogU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-27_132212.png",
-      "categoria": "HQ/LIVROS"
-    },
-    {
-      "slug": "morre-peter-david-quadrinista-do-hulk-e-da-supergirl-aos-68-anos",
-      "titulo": "Peter David, Lendário Escritor de Hulk e Supergirl, Falece aos 68 Anos",
-      "thumb": "https://cdn.ome.lt/vuTcQ3Itm2j7aYdHKjoJYT5e234=/480x360/smart/extras/conteudos/peterdavid.jpg",
-      "categoria": "HQ/LIVROS"
-    },
-    {
-      "slug": "justiceiro-marvel-anuncia-nova-srie-para-adultos-do-anti-heri",
-      "titulo": "O Justiceiro Retorna em Nova Série Adulta da Marvel com Selo Red Band",
-      "thumb": "https://cdn.ome.lt/gk_b_snfcqmaoeN7rHEmk241AMk=/480x360/smart/extras/conteudos/Design_sem_nome39.png",
-      "categoria": "HQ/LIVROS"
-    }
-  ],
-  "musica": [
-    {
-      "slug": "radiohead-thom-yorke-se-pronuncia-contra-israel-hamas-e-redes-sociais",
-      "titulo": "Thom Yorke do Radiohead Critica Israel, Hamas e Redes Sociais",
-      "thumb": "https://cdn.ome.lt/0W7LHjCPoF7xdafjl0woF5cKKd0=/480x360/smart/extras/conteudos/sem_titulo35.png",
-      "categoria": "MÚSICA"
-    },
-    {
-      "slug": "crtica-referencial-something-beautiful-o-melhor-de-miley-cyrus-e-de-2025",
-      "titulo": "Something Beautiful de Miley Cyrus: O Álbum Revolucionário de 2025",
-      "thumb": "https://cdn.ome.lt/XCR1DqXUuCrSVwZOpyqssKFtgug=/480x360/smart/extras/conteudos/miley_escYBd1.jpg",
-      "categoria": "MÚSICA"
-    },
-    {
-      "slug": "taylor-swift-adquire-os-direitos-de-seus-seis-primeiros-lbuns",
-      "titulo": "Taylor Swift Recupera Direitos de Seus Seis Primeiros Álbuns em Acordo Histórico",
-      "thumb": "https://cdn.ome.lt/xyzSno2CmKBa_jxxxqKhJ4qSWtQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-30T130339.573.png",
-      "categoria": "MÚSICA"
-    }
-  ]
+  "data": "2025-06-01",
+  "filmes": {
+    "slug": "frankenstein-de-del-toro-ganha-trailer-com-jacob-elordi-como-monstro",
+    "titulo": "Frankenstein de Guillermo Del Toro: Jacob Elordi e Oscar Isaac brilham no novo trailer",
+    "thumb": "https://cdn.ome.lt/21zr142Zxc4EzjrTPdpE2G3xBaw=/480x360/smart/extras/conteudos/franken.png",
+    "categoria": "FILMES",
+    "resumo": "A Netflix revela o aguardado trailer de 'Frankenstein', dirigido por Guillermo Del Toro, com Jacob Elordi como o icônico monstro e Oscar Isaac como Dr. Frankenstein.",
+    "data": "2025-06-01T01:33:58.393Z"
+  },
+  "games": {
+    "slug": "edio-fsica-de-lunar-remastered-collection-reabastecida-na-amazon",
+    "titulo": "Edição Física de Lunar Remastered Collection é Reabastecida na Amazon",
+    "thumb": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg",
+    "categoria": "Games",
+    "resumo": "A edição física da Lunar Remastered Collection, um dos conjuntos mais aguardados por fãs de RPGs clássicos, está de volta ao estoque da Amazon para as plataform",
+    "data": "2025-05-31T00:26:00.000Z"
+  },
+  "series": {
+    "slug": "gen-v-2-temporada-ganha-trailer-com-ao-the-boys-e-data-na-ccxp-mx",
+    "titulo": "Gen V: Trailer da 2ª Temporada Revela Crossovers com The Boys e Data de Lançamento na CCXP MX",
+    "thumb": "https://cdn.ome.lt/L7NQMvzzpG3rAhH_1zPzpXrZhTA=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-27_180034.png",
+    "categoria": "SÉRIES E TV",
+    "resumo": "A aguardada segunda temporada de 'Gen V' surpreende os fãs com um novo trailer, revelando cenas de ação intensas e crossovers com 'The Boys'. As novidades foram apresentadas durante a CCXP MX.",
+    "data": "2025-06-01T01:34:36.418Z"
+  }
 }
