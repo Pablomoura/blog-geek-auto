@@ -1,15 +1,37 @@
 ---
-title: "Possível Remake de Assassin's Creed 4: Black Flag Pode Ter Sido Revelado em Transmissão de Merchandising"
-slug: "possvel-remake-de-assassins-creed-4-black-flag-pode-ter-sido-revelado-em-transmisso-de-merchandising"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4505083-ss_60b905d803c94cd1a1e02bd62eeb6f9e4ca2b3ec.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4505083-ss_60b905d803c94cd1a1e02bd62eeb6f9e4ca2b3ec.jpg"
-tags: ["Assassin's Creed 4", "Black Flag", "remake", "Ubisoft", "Edward Kenway", "Pure Arts", "rumores", "desenvolvimento de jogos", "transmissão ao vivo", "PC Gaming Show"]
-keywords: "Assassin's Creed 4, Black Flag, remake, Ubisoft, Edward Kenway, Pure Arts, rumores, desenvolvimento de jogos, transmissão ao vivo, PC Gaming Show"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-06-02T20:09:00.000Z"
+title: >-
+  Possível Remake de Assassin's Creed 4: Black Flag Pode Ter Sido Revelado em
+  Transmissão de Merchandising
+slug: >-
+  possvel-remake-de-assassins-creed-4-black-flag-pode-ter-sido-revelado-em-transmisso-de-merchandising
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4505083-ss_60b905d803c94cd1a1e02bd62eeb6f9e4ca2b3ec.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4505083-ss_60b905d803c94cd1a1e02bd62eeb6f9e4ca2b3ec.jpg
+tags:
+  - Assassin's Creed 4
+  - Black Flag
+  - remake
+  - Ubisoft
+  - Edward Kenway
+  - Pure Arts
+  - rumores
+  - desenvolvimento de jogos
+  - transmissão ao vivo
+  - PC Gaming Show
+keywords: >-
+  Assassin's Creed 4, Black Flag, remake, Ubisoft, Edward Kenway, Pure Arts,
+  rumores, desenvolvimento de jogos, transmissão ao vivo, PC Gaming Show
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-06-02T20:09:00.000Z'
+resumo: >-
+  Uma transmissão ao vivo da Pure Arts levantou especulações sobre um possível
+  remake de Assassin's Creed 4: Black Flag após a ausência intrigante de uma
+  estátua de Edward Kenway. A confusão entre os apresentadores alimentou os
+  rumores sobre um projeto em desenvolvimento.
 ---
 ## Indícios de um Remake: Assassin's Creed 4: Black Flag Sob os Holofotes
 

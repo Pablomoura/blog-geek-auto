@@ -1,15 +1,31 @@
 ---
-title: "Cyberpunk 2077 no Switch 2: Desafios Superados e Surpresas Tecnológicas"
-slug: "cyberpunk-2077-no-switch-2-desafios-superados-e-surpresas-tecnolgicas"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4505028-cyberpunk2077ultimateedition_03.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4505028-cyberpunk2077ultimateedition_03.jpg"
-tags: ["Cyberpunk 2077", "Nintendo Switch 2", "CD Projekt Red", "portabilidade de jogos", "tecnologia de jogos", "Phantom Liberty", "DLSS", "jogos portáteis"]
-keywords: "Cyberpunk 2077, Nintendo Switch 2, CD Projekt Red, portabilidade de jogos, tecnologia de jogos, Phantom Liberty, DLSS, jogos portáteis"
-author: "Pablo Moura"
-fonte: "GameSpot"
-data: "2025-06-02T18:40:00.000Z"
+title: 'Cyberpunk 2077 no Switch 2: Desafios Superados e Surpresas Tecnológicas'
+slug: cyberpunk-2077-no-switch-2-desafios-superados-e-surpresas-tecnolgicas
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4505028-cyberpunk2077ultimateedition_03.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4505028-cyberpunk2077ultimateedition_03.jpg
+tags:
+  - Cyberpunk 2077
+  - Nintendo Switch 2
+  - CD Projekt Red
+  - portabilidade de jogos
+  - tecnologia de jogos
+  - Phantom Liberty
+  - DLSS
+  - jogos portáteis
+keywords: >-
+  Cyberpunk 2077, Nintendo Switch 2, CD Projekt Red, portabilidade de jogos,
+  tecnologia de jogos, Phantom Liberty, DLSS, jogos portáteis
+author: Pablo Moura
+fonte: GameSpot
+data: '2025-06-02T18:40:00.000Z'
+resumo: >-
+  CD Projekt Red revela que levar Cyberpunk 2077 para o Nintendo Switch 2 foi
+  menos complicado do que o esperado, graças a avanços tecnológicos e
+  colaboração com a Nintendo.
 ---
 O lançamento de **Cyberpunk 2077** para o Nintendo Switch 2, programado para 5 de junho, promete ser um dos eventos mais aguardados do ano para os fãs de tecnologia e games. Apesar do jogo ser notoriamente exigente em termos de recursos, Charles Tremblay, vice-presidente de tecnologia da CD Projekt Red, surpreendeu ao afirmar que o processo de adaptação para o novo console da Nintendo foi, na verdade, menos desafiador do que se imaginava.
 

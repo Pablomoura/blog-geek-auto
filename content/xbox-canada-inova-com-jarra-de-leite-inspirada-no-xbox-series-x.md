@@ -1,15 +1,31 @@
 ---
-title: "Xbox Canada Inova com Jarra de Leite Inspirada no Xbox Series X"
-slug: "xbox-canada-inova-com-jarra-de-leite-inspirada-no-xbox-series-x"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1813/18138562/4505030-xboxmilk.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1813/18138562/4505030-xboxmilk.jpg"
-tags: ["Xbox Canada", "Xbox Milk Pitcher", "Xbox Series X", "produtos Xbox", "mini geladeira Xbox", "torradeira Xbox", "mercado de consoles"]
-keywords: "Xbox Canada, Xbox Milk Pitcher, Xbox Series X, produtos Xbox, mini geladeira Xbox, torradeira Xbox, mercado de consoles"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-06-02T15:59:00.000Z"
+title: Xbox Canada Inova com Jarra de Leite Inspirada no Xbox Series X
+slug: xbox-canada-inova-com-jarra-de-leite-inspirada-no-xbox-series-x
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1813/18138562/4505030-xboxmilk.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1813/18138562/4505030-xboxmilk.jpg
+tags:
+  - Xbox Canada
+  - Xbox Milk Pitcher
+  - Xbox Series X
+  - produtos Xbox
+  - mini geladeira Xbox
+  - torradeira Xbox
+  - mercado de consoles
+keywords: >-
+  Xbox Canada, Xbox Milk Pitcher, Xbox Series X, produtos Xbox, mini geladeira
+  Xbox, torradeira Xbox, mercado de consoles
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-06-02T15:59:00.000Z'
+resumo: >-
+  Em uma jogada inusitada, a Xbox Canada apresentou uma jarra para leite em
+  sacos, estilizada como o console Xbox Series X. A novidade segue a linha de
+  produtos criativos da marca, que já lançou uma mini geladeira e um torradeira
+  Xbox.
 ---
 ## Xbox Canada: A Criatividade em Produto
 

@@ -1,15 +1,39 @@
 ---
-title: "Guia Definitivo de Acessórios para Nintendo Switch 2: Mais de 100 Opções de Terceiros"
-slug: "guia-definitivo-de-acessrios-para-nintendo-switch-2-mais-de-100-opes-de-terceiros"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4505227-switch2accessoriesroundup.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4505227-switch2accessoriesroundup.jpg"
-tags: ["Nintendo Switch 2", "acessórios", "capas de transporte", "protetores de tela", "grips ergonômicos", "microSD Express", "8BitDo", "Skull & Co.", "JSAUX", "RDS Industries", "Tomtoc"]
-keywords: "Nintendo Switch 2, acessórios, capas de transporte, protetores de tela, grips ergonômicos, microSD Express, 8BitDo, Skull & Co., JSAUX, RDS Industries, Tomtoc"
-author: "Luana Souza"
-fonte: "GameSpot"
-data: "2025-06-02T21:44:00.000Z"
+title: >-
+  Guia Definitivo de Acessórios para Nintendo Switch 2: Mais de 100 Opções de
+  Terceiros
+slug: >-
+  guia-definitivo-de-acessrios-para-nintendo-switch-2-mais-de-100-opes-de-terceiros
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4505227-switch2accessoriesroundup.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4505227-switch2accessoriesroundup.jpg
+tags:
+  - Nintendo Switch 2
+  - acessórios
+  - capas de transporte
+  - protetores de tela
+  - grips ergonômicos
+  - microSD Express
+  - 8BitDo
+  - Skull & Co.
+  - JSAUX
+  - RDS Industries
+  - Tomtoc
+keywords: >-
+  Nintendo Switch 2, acessórios, capas de transporte, protetores de tela, grips
+  ergonômicos, microSD Express, 8BitDo, Skull & Co., JSAUX, RDS Industries,
+  Tomtoc
+author: Luana Souza
+fonte: GameSpot
+data: '2025-06-02T21:44:00.000Z'
+resumo: >-
+  Com o lançamento do Nintendo Switch 2, uma vasta gama de acessórios de
+  terceiros já está disponível, oferecendo alternativas acessíveis aos produtos
+  oficiais da Nintendo. Explore tudo sobre capas, protetores de tela, grips
+  ergonômicos e muito mais para melhorar sua experiência de jogo.
 ---
 ## A Nova Era de Acessórios para Nintendo Switch 2
 

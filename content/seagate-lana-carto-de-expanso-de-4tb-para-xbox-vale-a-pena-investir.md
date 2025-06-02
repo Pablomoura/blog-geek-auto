@@ -1,15 +1,31 @@
 ---
-title: "Seagate Lança Cartão de Expansão de 4TB para Xbox: Vale a Pena Investir?"
-slug: "seagate-lana-carto-de-expanso-de-4tb-para-xbox-vale-a-pena-investir"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4505046-seagate-1.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4505046-seagate-1.jpg"
-tags: ["Seagate", "Xbox", "Cartão de Expansão", "4TB", "Armazenamento", "Xbox Series X|S", "Western Digital", "Preço"]
-keywords: "Seagate, Xbox, Cartão de Expansão, 4TB, Armazenamento, Xbox Series X|S, Western Digital, Preço"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-06-02T17:06:00.000Z"
+title: 'Seagate Lança Cartão de Expansão de 4TB para Xbox: Vale a Pena Investir?'
+slug: seagate-lana-carto-de-expanso-de-4tb-para-xbox-vale-a-pena-investir
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4505046-seagate-1.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4505046-seagate-1.jpg
+tags:
+  - Seagate
+  - Xbox
+  - Cartão de Expansão
+  - 4TB
+  - Armazenamento
+  - Xbox Series X|S
+  - Western Digital
+  - Preço
+keywords: >-
+  Seagate, Xbox, Cartão de Expansão, 4TB, Armazenamento, Xbox Series X|S,
+  Western Digital, Preço
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-06-02T17:06:00.000Z'
+resumo: >-
+  A Seagate está prestes a lançar um cartão de expansão de 4TB para Xbox, mas o
+  preço elevado pode ser um obstáculo para jogadores. Com a concorrência
+  acirrada no mercado, será que vale o investimento?
 ---
 Nos últimos anos, os cartões de expansão da Seagate se tornaram a opção preferida para usuários do Xbox Series X|S que buscam aumentar a capacidade de armazenamento de seus consoles. Recentemente, surgiu a notícia de que a empresa planeja lançar um novo cartão de memória de 4TB. No entanto, o preço, que apareceu brevemente em um anúncio da Best Buy por $430, pode ser um fator decisivo para muitos consumidores, já que a listagem foi rapidamente removida, sugerindo um possível anúncio oficial no próximo Xbox Showcase, agendado para 8 de junho.
 

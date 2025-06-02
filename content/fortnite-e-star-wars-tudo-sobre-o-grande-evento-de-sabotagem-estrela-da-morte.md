@@ -1,15 +1,33 @@
 ---
-title: "Fortnite e Star Wars: Tudo Sobre o Grande Evento de Sabotagem à Estrela da Morte"
-slug: "fortnite-e-star-wars-tudo-sobre-o-grande-evento-de-sabotagem-estrela-da-morte"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4505103-fortnitestarwarsfinale.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4505103-fortnitestarwarsfinale.jpg"
-tags: ["Fortnite", "Star Wars", "Sabotagem à Estrela da Morte", "evento ao vivo Fortnite", "temporada de Star Wars Fortnite", "Darth Vader", "Fishstick", "battle royale"]
-keywords: "Fortnite, Star Wars, Sabotagem à Estrela da Morte, evento ao vivo Fortnite, temporada de Star Wars Fortnite, Darth Vader, Fishstick, battle royale"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-06-02T21:57:00.000Z"
+title: >-
+  Fortnite e Star Wars: Tudo Sobre o Grande Evento de Sabotagem à Estrela da
+  Morte
+slug: fortnite-e-star-wars-tudo-sobre-o-grande-evento-de-sabotagem-estrela-da-morte
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4505103-fortnitestarwarsfinale.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4505103-fortnitestarwarsfinale.jpg
+tags:
+  - Fortnite
+  - Star Wars
+  - Sabotagem à Estrela da Morte
+  - evento ao vivo Fortnite
+  - temporada de Star Wars Fortnite
+  - Darth Vader
+  - Fishstick
+  - battle royale
+keywords: >-
+  Fortnite, Star Wars, Sabotagem à Estrela da Morte, evento ao vivo Fortnite,
+  temporada de Star Wars Fortnite, Darth Vader, Fishstick, battle royale
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-06-02T21:57:00.000Z'
+resumo: >-
+  O evento especial de Fortnite com temática de Star Wars está chegando ao seu
+  clímax com a Sabotagem à Estrela da Morte. Descubra quando e como participar
+  deste evento único e o que esperar dele.
 ---
 ## A Conclusão Épica de Star Wars em Fortnite: Sabotagem à Estrela da Morte
 

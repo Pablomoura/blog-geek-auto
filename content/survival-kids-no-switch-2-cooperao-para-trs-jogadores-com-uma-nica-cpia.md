@@ -1,15 +1,34 @@
 ---
-title: "Survival Kids no Switch 2: Cooperação para Três Jogadores com uma Única Cópia"
-slug: "survival-kids-no-switch-2-cooperao-para-trs-jogadores-com-uma-nica-cpia"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4505057-survivalkidsswitch2coopgameshare.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4505057-survivalkidsswitch2coopgameshare.jpg"
-tags: ["Survival Kids", "Switch 2", "Nintendo", "GameShare", "jogo cooperativo", "lançamento", "cooperação de três jogadores", "Nintendo Online", "Switch 1", "novos jogos"]
-keywords: "Survival Kids, Switch 2, Nintendo, GameShare, jogo cooperativo, lançamento, cooperação de três jogadores, Nintendo Online, Switch 1, novos jogos"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-06-02T17:12:00.000Z"
+title: 'Survival Kids no Switch 2: Cooperação para Três Jogadores com uma Única Cópia'
+slug: survival-kids-no-switch-2-cooperao-para-trs-jogadores-com-uma-nica-cpia
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4505057-survivalkidsswitch2coopgameshare.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4505057-survivalkidsswitch2coopgameshare.jpg
+tags:
+  - Survival Kids
+  - Switch 2
+  - Nintendo
+  - GameShare
+  - jogo cooperativo
+  - lançamento
+  - cooperação de três jogadores
+  - Nintendo Online
+  - Switch 1
+  - novos jogos
+keywords: >-
+  Survival Kids, Switch 2, Nintendo, GameShare, jogo cooperativo, lançamento,
+  cooperação de três jogadores, Nintendo Online, Switch 1, novos jogos
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-06-02T17:12:00.000Z'
+resumo: >-
+  Survival Kids chega ao Nintendo Switch 2 com a inovadora função GameShare,
+  permitindo cooperação de até três jogadores com apenas uma cópia do jogo.
+  Descubra como essa funcionalidade promete revolucionar a experiência de jogo
+  compartilhado.
 ---
 ## Survival Kids: A Evolução da Cooperação no Switch 2
 

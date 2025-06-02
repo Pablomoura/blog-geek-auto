@@ -1,15 +1,34 @@
 ---
-title: "Sega Lança Edição Especial de Yakuza 0 com Linha Direta para Personagens Icônicos"
-slug: "sega-lana-edio-especial-de-yakuza-0-com-linha-direta-para-personagens-icnicos"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1732/17320263/4505033-yakuza0directorscut.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1732/17320263/4505033-yakuza0directorscut.jpg"
-tags: ["Yakuza 0", "Sega", "Nintendo Switch 2", "Edição do Diretor", "Red Light Raid", "Kazuma Kiryu", "Goro Majima", "Smile Burger", "jogos beat-'em-up"]
-keywords: "Yakuza 0, Sega, Nintendo Switch 2, Edição do Diretor, Red Light Raid, Kazuma Kiryu, Goro Majima, Smile Burger, jogos beat-'em-up"
-author: "Luana Souza"
-fonte: "GameSpot"
-data: "2025-06-02T16:26:00.000Z"
+title: >-
+  Sega Lança Edição Especial de Yakuza 0 com Linha Direta para Personagens
+  Icônicos
+slug: sega-lana-edio-especial-de-yakuza-0-com-linha-direta-para-personagens-icnicos
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1732/17320263/4505033-yakuza0directorscut.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1732/17320263/4505033-yakuza0directorscut.jpg
+tags:
+  - Yakuza 0
+  - Sega
+  - Nintendo Switch 2
+  - Edição do Diretor
+  - Red Light Raid
+  - Kazuma Kiryu
+  - Goro Majima
+  - Smile Burger
+  - jogos beat-'em-up
+keywords: >-
+  Yakuza 0, Sega, Nintendo Switch 2, Edição do Diretor, Red Light Raid, Kazuma
+  Kiryu, Goro Majima, Smile Burger, jogos beat-'em-up
+author: Luana Souza
+fonte: GameSpot
+data: '2025-06-02T16:26:00.000Z'
+resumo: >-
+  A Sega revelou a Edição do Diretor de Yakuza 0 para o Nintendo Switch 2, com
+  estreia marcada para 5 de junho. A novidade inclui um modo multiplayer online
+  e um intrigante número de telefone interativo que promete surpresas.
 ---
 ## Yakuza 0: Expansão e Interatividade em Novo Lançamento
 

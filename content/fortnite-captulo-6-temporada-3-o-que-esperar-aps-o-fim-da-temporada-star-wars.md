@@ -1,15 +1,35 @@
 ---
-title: "Fortnite Capítulo 6 Temporada 3: O Que Esperar Após o Fim da Temporada Star Wars"
-slug: "fortnite-captulo-6-temporada-3-o-que-esperar-aps-o-fim-da-temporada-star-wars"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4499937-locker.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4499937-locker.jpg"
-tags: ["Fortnite", "Capítulo 6 Temporada 3", "Star Wars", "evento ao vivo", "super-heróis", "DC Comics", "skins", "passe de batalha", "The Visitor", "Lego Fortnite"]
-keywords: "Fortnite, Capítulo 6 Temporada 3, Star Wars, evento ao vivo, super-heróis, DC Comics, skins, passe de batalha, The Visitor, Lego Fortnite"
-author: "Luana Souza"
-fonte: "GameSpot"
-data: "2025-06-02T15:21:00.000Z"
+title: >-
+  Fortnite Capítulo 6 Temporada 3: O Que Esperar Após o Fim da Temporada Star
+  Wars
+slug: fortnite-captulo-6-temporada-3-o-que-esperar-aps-o-fim-da-temporada-star-wars
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4499937-locker.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4499937-locker.jpg
+tags:
+  - Fortnite
+  - Capítulo 6 Temporada 3
+  - Star Wars
+  - evento ao vivo
+  - super-heróis
+  - DC Comics
+  - skins
+  - passe de batalha
+  - The Visitor
+  - Lego Fortnite
+keywords: >-
+  Fortnite, Capítulo 6 Temporada 3, Star Wars, evento ao vivo, super-heróis, DC
+  Comics, skins, passe de batalha, The Visitor, Lego Fortnite
+author: Luana Souza
+fonte: GameSpot
+data: '2025-06-02T15:21:00.000Z'
+resumo: >-
+  Com a temporada de Star Wars em Fortnite chegando ao fim, os jogadores estão
+  ansiosos pelo que vem a seguir. Rumores indicam uma possível temática de
+  super-heróis, com a inclusão de personagens da DC Comics.
 ---
 A temporada atual de Fortnite, marcada pela colaboração com Star Wars, está prestes a terminar e os fãs estão repletos de perguntas sobre o que a Epic Games reserva para o futuro do jogo. Até agora, as informações oficiais são escassas, mas os rumores já começaram a circular, alimentando a expectativa dos jogadores.
 

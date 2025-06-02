@@ -1,15 +1,38 @@
 ---
-title: "Skyrim Grandma Retorna aos Holofotes com Oblivion Remastered: Um Novo Capítulo em sua Jornada Gamer"
-slug: "skyrim-grandma-retorna-aos-holofotes-com-oblivion-remastered-um-novo-captulo-em-sua-jornada-gamer"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4505059-skyrimgrandma.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4505059-skyrimgrandma.jpg"
-tags: ["Skyrim Grandma", "Shirley Curry", "Oblivion Remastered", "Elder Scrolls", "Bethesda", "streaming", "jogos", "videogames", "Skyrim", "Starfield", "Elder Scrolls VI"]
-keywords: "Skyrim Grandma, Shirley Curry, Oblivion Remastered, Elder Scrolls, Bethesda, streaming, jogos, videogames, Skyrim, Starfield, Elder Scrolls VI"
-author: "Pablo Moura"
-fonte: "GameSpot"
-data: "2025-06-02T18:08:00.000Z"
+title: >-
+  Skyrim Grandma Retorna aos Holofotes com Oblivion Remastered: Um Novo Capítulo
+  em sua Jornada Gamer
+slug: >-
+  skyrim-grandma-retorna-aos-holofotes-com-oblivion-remastered-um-novo-captulo-em-sua-jornada-gamer
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4505059-skyrimgrandma.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4505059-skyrimgrandma.jpg
+tags:
+  - Skyrim Grandma
+  - Shirley Curry
+  - Oblivion Remastered
+  - Elder Scrolls
+  - Bethesda
+  - streaming
+  - jogos
+  - videogames
+  - Skyrim
+  - Starfield
+  - Elder Scrolls VI
+keywords: >-
+  Skyrim Grandma, Shirley Curry, Oblivion Remastered, Elder Scrolls, Bethesda,
+  streaming, jogos, videogames, Skyrim, Starfield, Elder Scrolls VI
+author: Pablo Moura
+fonte: GameSpot
+data: '2025-06-02T18:08:00.000Z'
+resumo: >-
+  A famosa streamer Shirley Curry, conhecida como Skyrim Grandma, saiu da
+  aposentadoria para explorar Oblivion Remastered, reacendendo seu legado na
+  comunidade gamer. Aos 89 anos, Curry continua a encantar fãs com sua paixão
+  pelos jogos da série Elder Scrolls.
 ---
 ## Shirley Curry: A Lenda Viva dos Games
 

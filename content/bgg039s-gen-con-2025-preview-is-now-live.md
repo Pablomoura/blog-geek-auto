@@ -1,14 +1,30 @@
 ---
-title: "Prévia da Gen Con 2025 no BGG Destaca Mais de 150 Novos Jogos"
-slug: "bgg039s-gen-con-2025-preview-is-now-live"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/3uzwoSV4R9A6h2SyKkLuSQ__imagepage/img/KCHORp__9hObQMDWoEtcAIcnUeQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4223752.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/3uzwoSV4R9A6h2SyKkLuSQ__imagepage/img/KCHORp__9hObQMDWoEtcAIcnUeQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4223752.jpg"
-tags: ["Gen Con 2025", "BoardGameGeek", "prévia jogos de tabuleiro", "lançamentos Gen Con", "eventos de jogos 2025", "BGG Hot Games Room", "Origins Game Fair", "SPIEL Essen 25"]
-keywords: "Gen Con 2025, BoardGameGeek, prévia jogos de tabuleiro, lançamentos Gen Con, eventos de jogos 2025, BGG Hot Games Room, Origins Game Fair, SPIEL Essen 25"
-author: "Pablo Moura"
-data: "2025-06-02T16:07:18.213Z"
+title: Prévia da Gen Con 2025 no BGG Destaca Mais de 150 Novos Jogos
+slug: bgg039s-gen-con-2025-preview-is-now-live
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/3uzwoSV4R9A6h2SyKkLuSQ__imagepage/img/KCHORp__9hObQMDWoEtcAIcnUeQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4223752.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/3uzwoSV4R9A6h2SyKkLuSQ__imagepage/img/KCHORp__9hObQMDWoEtcAIcnUeQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4223752.jpg
+tags:
+  - Gen Con 2025
+  - BoardGameGeek
+  - prévia jogos de tabuleiro
+  - lançamentos Gen Con
+  - eventos de jogos 2025
+  - BGG Hot Games Room
+  - Origins Game Fair
+  - SPIEL Essen 25
+keywords: >-
+  Gen Con 2025, BoardGameGeek, prévia jogos de tabuleiro, lançamentos Gen Con,
+  eventos de jogos 2025, BGG Hot Games Room, Origins Game Fair, SPIEL Essen 25
+author: Pablo Moura
+data: '2025-06-02T16:07:18.213Z'
+resumo: >-
+  A aguardada prévia da Gen Con 2025 já está disponível no BoardGameGeek,
+  trazendo uma seleção impressionante de mais de 150 títulos. Saiba como
+  participar e quais são as novidades deste ano.
 ---
 
 ## Gen Con 2025: Um Olhar Antecipado para os Lançamentos

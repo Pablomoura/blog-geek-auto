@@ -1,15 +1,38 @@
 ---
-title: "James Bond: 007 First Light Promete Revolucionar Jogos de Espionagem com História Inédita"
-slug: "james-bond-007-first-light-promete-revolucionar-jogos-de-espionagem-com-histria-indita"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504997-screenshot2025-06-02at11.12.57am.png"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504997-screenshot2025-06-02at11.12.57am.png"
-tags: ["007 First Light", "James Bond", "IO Interactive", "lançamento", "Nintendo Switch 2", "história original", "trilogia", "Amazon MGM Studios", "jogos de espionagem", "Glacier engine"]
-keywords: "007 First Light, James Bond, IO Interactive, lançamento, Nintendo Switch 2, história original, trilogia, Amazon MGM Studios, jogos de espionagem, Glacier engine"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-06-02T15:13:00.000Z"
+title: >-
+  James Bond: 007 First Light Promete Revolucionar Jogos de Espionagem com
+  História Inédita
+slug: >-
+  james-bond-007-first-light-promete-revolucionar-jogos-de-espionagem-com-histria-indita
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504997-screenshot2025-06-02at11.12.57am.png
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504997-screenshot2025-06-02at11.12.57am.png
+tags:
+  - 007 First Light
+  - James Bond
+  - IO Interactive
+  - lançamento
+  - Nintendo Switch 2
+  - história original
+  - trilogia
+  - Amazon MGM Studios
+  - jogos de espionagem
+  - Glacier engine
+keywords: >-
+  007 First Light, James Bond, IO Interactive, lançamento, Nintendo Switch 2,
+  história original, trilogia, Amazon MGM Studios, jogos de espionagem, Glacier
+  engine
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-06-02T15:13:00.000Z'
+resumo: >-
+  007 First Light, desenvolvido pela IO Interactive, traz uma história original
+  de origem para James Bond, prometendo iniciar uma nova trilogia. Descubra tudo
+  sobre o lançamento, personagens e o impacto das mudanças na gestão da
+  franquia.
 ---
 ## O Que Sabemos Sobre 007: First Light, o Novo Jogo do James Bond
 

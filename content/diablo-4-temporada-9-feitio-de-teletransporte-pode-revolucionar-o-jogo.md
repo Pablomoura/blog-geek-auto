@@ -1,15 +1,37 @@
 ---
-title: "Diablo 4 Temporada 9: Feitiço de Teletransporte Pode Revolucionar o Jogo"
-slug: "diablo-4-temporada-9-feitio-de-teletransporte-pode-revolucionar-o-jogo"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4505026-diablo4season9teleporttrick.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4505026-diablo4season9teleporttrick.jpg"
-tags: ["Diablo 4", "Temporada 9", "teletransporte", "Blizzard", "jogo", "poderes sazonais", "servidor de teste", "Pecados dos Horadrim", "Catalisadores", "Arcanas", "feitiços", "farm intensivo"]
-keywords: "Diablo 4, Temporada 9, teletransporte, Blizzard, jogo, poderes sazonais, servidor de teste, Pecados dos Horadrim, Catalisadores, Arcanas, feitiços, farm intensivo"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-06-02T15:41:00.000Z"
+title: 'Diablo 4 Temporada 9: Feitiço de Teletransporte Pode Revolucionar o Jogo'
+slug: diablo-4-temporada-9-feitio-de-teletransporte-pode-revolucionar-o-jogo
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4505026-diablo4season9teleporttrick.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4505026-diablo4season9teleporttrick.jpg
+tags:
+  - Diablo 4
+  - Temporada 9
+  - teletransporte
+  - Blizzard
+  - jogo
+  - poderes sazonais
+  - servidor de teste
+  - Pecados dos Horadrim
+  - Catalisadores
+  - Arcanas
+  - feitiços
+  - farm intensivo
+keywords: >-
+  Diablo 4, Temporada 9, teletransporte, Blizzard, jogo, poderes sazonais,
+  servidor de teste, Pecados dos Horadrim, Catalisadores, Arcanas, feitiços,
+  farm intensivo
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-06-02T15:41:00.000Z'
+resumo: >-
+  A Temporada 9 de Diablo 4 promete uma habilidade de teletransporte que pode
+  modificar drasticamente a jogabilidade, se a Blizzard não fizer ajustes.
+  Jogadores têm a chance de explorar essa novidade no servidor de teste, mas seu
+  futuro na versão oficial ainda é incerto.
 ---
 A comunidade de Diablo 4 está em polvorosa com as novidades da Temporada 9, intitulada 'Pecados dos Horadrim'. Em fase de testes, jogadores descobriram uma combinação de poderes sazonais que permite a todas as classes realizar teletransportes quase infinitos. Essa descoberta pode transformar a dinâmica do jogo, especialmente em atividades de farm intensivo.
 

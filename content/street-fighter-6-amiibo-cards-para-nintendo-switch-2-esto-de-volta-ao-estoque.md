@@ -1,15 +1,37 @@
 ---
-title: "Street Fighter 6: Amiibo Cards para Nintendo Switch 2 Estão de Volta ao Estoque"
-slug: "street-fighter-6-amiibo-cards-para-nintendo-switch-2-esto-de-volta-ao-estoque"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4482137-sf6-cards-4.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4482137-sf6-cards-4.jpg"
-tags: ["Street Fighter 6", "Amiibo Cards", "Nintendo Switch 2", "GameStop", "Blu-ray", "Street Fighter Animated Series", "Street Fighter 2 Animated Movie", "DLC", "Game-Key Card", "Gyro Battle", "Calorie Contest"]
-keywords: "Street Fighter 6, Amiibo Cards, Nintendo Switch 2, GameStop, Blu-ray, Street Fighter Animated Series, Street Fighter 2 Animated Movie, DLC, Game-Key Card, Gyro Battle, Calorie Contest"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-06-02T15:39:00.000Z"
+title: >-
+  Street Fighter 6: Amiibo Cards para Nintendo Switch 2 Estão de Volta ao
+  Estoque
+slug: street-fighter-6-amiibo-cards-para-nintendo-switch-2-esto-de-volta-ao-estoque
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4482137-sf6-cards-4.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4482137-sf6-cards-4.jpg
+tags:
+  - Street Fighter 6
+  - Amiibo Cards
+  - Nintendo Switch 2
+  - GameStop
+  - Blu-ray
+  - Street Fighter Animated Series
+  - Street Fighter 2 Animated Movie
+  - DLC
+  - Game-Key Card
+  - Gyro Battle
+  - Calorie Contest
+keywords: >-
+  Street Fighter 6, Amiibo Cards, Nintendo Switch 2, GameStop, Blu-ray, Street
+  Fighter Animated Series, Street Fighter 2 Animated Movie, DLC, Game-Key Card,
+  Gyro Battle, Calorie Contest
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-06-02T15:39:00.000Z'
+resumo: >-
+  As cobiçadas Amiibo Cards de Street Fighter 6 retornam às prateleiras antes do
+  lançamento do Nintendo Switch 2, oferecendo uma alternativa econômica aos fãs
+  do jogo.
 ---
 ## Amiibo Cards de Street Fighter 6: Uma Alternativa Acessível
 

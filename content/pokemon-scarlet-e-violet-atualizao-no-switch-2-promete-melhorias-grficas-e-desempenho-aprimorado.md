@@ -1,15 +1,34 @@
 ---
-title: "Pokemon Scarlet e Violet: Atualização no Switch 2 Promete Melhorias Gráficas e Desempenho Aprimorado"
-slug: "pokemon-scarlet-e-violet-atualizao-no-switch-2-promete-melhorias-grficas-e-desempenho-aprimorado"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4505063-sprigatito.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4505063-sprigatito.jpg"
-tags: ["Pokemon Scarlet e Violet", "Switch 2", "atualização gratuita", "melhorias gráficas", "desempenho aprimorado", "Nintendo", "Pokemon Legends Z-A"]
-keywords: "Pokemon Scarlet e Violet, Switch 2, atualização gratuita, melhorias gráficas, desempenho aprimorado, Nintendo, Pokemon Legends Z-A"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-06-02T17:51:00.000Z"
+title: >-
+  Pokemon Scarlet e Violet: Atualização no Switch 2 Promete Melhorias Gráficas e
+  Desempenho Aprimorado
+slug: >-
+  pokemon-scarlet-e-violet-atualizao-no-switch-2-promete-melhorias-grficas-e-desempenho-aprimorado
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4505063-sprigatito.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4505063-sprigatito.jpg
+tags:
+  - Pokemon Scarlet e Violet
+  - Switch 2
+  - atualização gratuita
+  - melhorias gráficas
+  - desempenho aprimorado
+  - Nintendo
+  - Pokemon Legends Z-A
+keywords: >-
+  Pokemon Scarlet e Violet, Switch 2, atualização gratuita, melhorias gráficas,
+  desempenho aprimorado, Nintendo, Pokemon Legends Z-A
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-06-02T17:51:00.000Z'
+resumo: >-
+  Com a chegada do Switch 2, Pokemon Scarlet e Violet recebem uma atualização
+  gratuita que promete resolver problemas técnicos e melhorar significativamente
+  a experiência de jogo. Novas imagens de gameplay mostram um mundo mais rico e
+  uma jogabilidade mais fluida.
 ---
 ## Atualização Promissora para Pokemon Scarlet e Violet no Switch 2
 

@@ -1,15 +1,34 @@
 ---
-title: "Fã Constrói Nave Super Destroyer de Lego com 10.000 Peças para Celebrar Helldivers 2"
-slug: "f-constri-nave-super-destroyer-de-lego-com-10000-peas-para-celebrar-helldivers-2"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4505087-helldivers2legosuperdestroyerimg.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4505087-helldivers2legosuperdestroyerimg.jpg"
-tags: ["Helldivers 2", "Lego Super Destroyer", "construção de Lego", "fan art de jogos", "Super Earth", "nave espacial de Lego", "comunidade de gamers"]
-keywords: "Helldivers 2, Lego Super Destroyer, construção de Lego, fan art de jogos, Super Earth, nave espacial de Lego, comunidade de gamers"
-author: "Pablo Moura"
-fonte: "GameSpot"
-data: "2025-06-02T19:18:00.000Z"
+title: >-
+  Fã Constrói Nave Super Destroyer de Lego com 10.000 Peças para Celebrar
+  Helldivers 2
+slug: >-
+  f-constri-nave-super-destroyer-de-lego-com-10000-peas-para-celebrar-helldivers-2
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4505087-helldivers2legosuperdestroyerimg.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4505087-helldivers2legosuperdestroyerimg.jpg
+tags:
+  - Helldivers 2
+  - Lego Super Destroyer
+  - construção de Lego
+  - fan art de jogos
+  - Super Earth
+  - nave espacial de Lego
+  - comunidade de gamers
+keywords: >-
+  Helldivers 2, Lego Super Destroyer, construção de Lego, fan art de jogos,
+  Super Earth, nave espacial de Lego, comunidade de gamers
+author: Pablo Moura
+fonte: GameSpot
+data: '2025-06-02T19:18:00.000Z'
+resumo: >-
+  Um entusiasta de Helldivers 2 surpreendeu a comunidade ao construir uma
+  impressionante nave Super Destroyer de Lego, com mais de 10.000 peças, em
+  homenagem ao jogo. A construção detalhada reflete o espírito de defesa de
+  Super Earth contra invasões alienígenas.
 ---
 ## Uma Homenagem Monumental a Helldivers 2 com Legos
 
