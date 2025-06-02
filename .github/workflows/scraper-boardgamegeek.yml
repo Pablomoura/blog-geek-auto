@@ -27,6 +27,12 @@ jobs:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
         run: node scripts/scraper-boardgamegeek.js
 
+      - name: 🤖 Executar scraper do O Vicio RSS
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+        run: node scripts/scraper-ovicio.js
+
       - name: 💾 Commit e push das alterações
         run: |
           git config --global user.name "github-actions[bot]"
