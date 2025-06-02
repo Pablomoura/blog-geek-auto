@@ -68,14 +68,24 @@ async function gerarCache() {
     "Musica"
   ];
 
-  // Ordena os posts globalmente por data (mais recentes primeiro)
-  dados.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
+  // ✅ Atualiza cache de banners apenas 1x por dia
+  const hoje = new Date().toISOString().split("T")[0];
+  let bannersAtuais = {};
 
-  const bannersPorCategoria = {};
+  try {
+    const existente = JSON.parse(await fs.readFile(outputBanners, "utf-8"));
+    if (existente.data === hoje) {
+      console.log("🕒 Cache de banners já está atualizado para hoje.");
+      return; // encerra o script aqui
+    }
+  } catch {
+    // Continua se o arquivo ainda não existir
+  }
+
+  dados.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
 
   for (const categoriaOriginal of categoriasPermitidas) {
     const slugCategoria = slugify(categoriaOriginal);
-
     const postsDaCategoria = dados
       .filter((p) => slugify(p.categoria) === slugCategoria)
       .slice(0, 3)
@@ -87,13 +97,12 @@ async function gerarCache() {
       }));
 
     if (postsDaCategoria.length > 0) {
-      bannersPorCategoria[slugCategoria] = postsDaCategoria;
+      bannersAtuais[slugCategoria] = postsDaCategoria;
     }
   }
 
-  await fs.writeFile(outputBanners, JSON.stringify(bannersPorCategoria, null, 2), "utf-8");
-
-  console.log("✅ Cache de posts e banners por categoria gerado com sucesso!");
+  await fs.writeFile(outputBanners, JSON.stringify({ data: hoje, ...bannersAtuais }, null, 2), "utf-8");
+  console.log("✅ Cache de banners atualizado com sucesso!");
 }
 
 gerarCache().catch(console.error);
