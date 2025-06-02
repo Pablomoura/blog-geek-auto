@@ -103,17 +103,31 @@ Formato de resposta obrigatório:
     }
   );
 
-  const raw = response.data.choices[0].message.content.trim();
-  const jsonMatch = raw.match(/\{[\s\S]*\}/);
-  if (!jsonMatch) throw new Error("❌ JSON inválido retornado pela IA.");
+    const raw = response.data.choices[0].message.content.trim();
+    const jsonMatch = raw.match(/\{[\s\S]*\}/);
 
-  const resposta = JSON.parse(jsonMatch[0]);
+    if (!jsonMatch) {
+      console.error("❌ JSON não encontrado. Resposta bruta da IA:");
+      console.error(raw);
+      throw new Error("JSON inválido retornado pela IA");
+    }
 
-  if (!resposta.keywords || !resposta.texto || !resposta.titulo || !resposta.resumo) {
-    throw new Error("❌ Resposta incompleta da IA: falta algum campo obrigatório.");
-  }
+    let resposta;
+    try {
+      resposta = JSON.parse(jsonMatch[0]);
+    } catch (e) {
+      console.error("❌ Erro ao fazer parse do JSON:");
+      console.error(jsonMatch[0]);
+      throw e;
+    }
 
-  return resposta;
+    if (!resposta.keywords || !resposta.texto || !resposta.titulo || !resposta.resumo) {
+      console.error("❌ Resposta incompleta da IA:", resposta);
+      throw new Error("Resposta da IA incompleta ou malformada.");
+    }
+
+    return resposta;
+
 }
 function limparTexto(html) {
   return turndownService.turndown(
