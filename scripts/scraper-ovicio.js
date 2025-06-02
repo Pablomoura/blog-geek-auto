@@ -74,6 +74,7 @@ async function reescreverComOpenAI(titulo, resumo, markdownOriginal) {
 - Não use clickbait barato. Entregue valor real com contexto, curiosidades, dados, comparações e explicações.
 - Não reescreva a sessão de Leia Mais...
 - Entregue um texto que pareça inédito, autoral e digno de destaque no Google Discover e agregadores de notícia.
+IMPORTANTE: certifique-se de que a resposta seja um JSON válido com aspas corretamente escapadas (sem aspas não fechadas, sem caracteres especiais inválidos).
 
 Formato de resposta obrigatório:
 {
@@ -112,18 +113,25 @@ Formato de resposta obrigatório:
       throw new Error("JSON inválido retornado pela IA");
     }
 
+    let jsonString = jsonMatch[0];
+
+    // Corrige caracteres comuns que quebram o JSON
+    jsonString = jsonString
+      .replace(/\\(?!["\\/bfnrtu])/g, '\\\\')  // corrige barras não escapadas
+      .replace(/\u0000/g, "")                  // remove caracteres nulos
+      .replace(/[\u0001-\u001F\u007F]/g, "");  // remove outros caracteres de controle
+
     let resposta;
     try {
-      resposta = JSON.parse(jsonMatch[0]);
+      resposta = JSON.parse(jsonString);
     } catch (e) {
       console.error("❌ Erro ao fazer parse do JSON:");
-      console.error(jsonMatch[0]);
+      console.error(jsonString);
       throw e;
     }
 
     if (!resposta.keywords || !resposta.texto || !resposta.titulo || !resposta.resumo) {
-      console.error("❌ Resposta incompleta da IA:", resposta);
-      throw new Error("Resposta da IA incompleta ou malformada.");
+      throw new Error("❌ Resposta incompleta da IA: falta algum campo obrigatório.");
     }
 
     return resposta;
