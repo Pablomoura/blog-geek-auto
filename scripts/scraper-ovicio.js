@@ -72,8 +72,8 @@ async function reescreverComOpenAI(titulo, resumo, markdownOriginal) {
 - Traduza nomes de obras ou termos, se forem conhecidos no Brasil.
 - Não converta valores em moeda estrangeira.
 - Não use clickbait barato. Entregue valor real com contexto, curiosidades, dados, comparações e explicações.
-- Entregue um texto que pareça inédito, autoral e digno de destaque no Google Discover e agregadores de notícia.
 - Não reescreva a sessão de Leia Mais...
+- Entregue um texto que pareça inédito, autoral e digno de destaque no Google Discover e agregadores de notícia.
 
 Formato de resposta obrigatório:
 {
@@ -106,10 +106,14 @@ Formato de resposta obrigatório:
   const raw = response.data.choices[0].message.content.trim();
   const jsonMatch = raw.match(/\{[\s\S]*\}/);
   if (!jsonMatch) throw new Error("❌ JSON inválido retornado pela IA.");
-  return JSON.parse(jsonMatch[0]);
+
+  const resposta = JSON.parse(jsonMatch[0]);
+
   if (!resposta.keywords || !resposta.texto || !resposta.titulo || !resposta.resumo) {
     throw new Error("❌ Resposta incompleta da IA: falta algum campo obrigatório.");
   }
+
+  return resposta;
 }
 function limparTexto(html) {
   return turndownService.turndown(
