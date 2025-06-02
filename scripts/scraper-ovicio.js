@@ -107,6 +107,9 @@ Formato de resposta obrigatório:
   const jsonMatch = raw.match(/\{[\s\S]*\}/);
   if (!jsonMatch) throw new Error("❌ JSON inválido retornado pela IA.");
   return JSON.parse(jsonMatch[0]);
+  if (!resposta.keywords || !resposta.texto || !resposta.titulo || !resposta.resumo) {
+    throw new Error("❌ Resposta incompleta da IA: falta algum campo obrigatório.");
+  }
 }
 function limparTexto(html) {
   return turndownService.turndown(
@@ -161,7 +164,10 @@ async function processarRSS() {
 
     const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
     const autor = autores[Math.floor(Math.random() * autores.length)];
-    const tags = reescrito.keywords.split(",").map((t) => t.trim()).filter(Boolean);
+    const tags = (reescrito.keywords || "")
+    .split(",")
+    .map((t) => t.trim())
+    .filter(Boolean);
 
     const frontmatter = `---
 title: >-
