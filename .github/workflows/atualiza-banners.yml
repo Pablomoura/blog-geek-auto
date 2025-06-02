@@ -21,7 +21,7 @@ jobs:
          PUPPETEER_SKIP_DOWNLOAD: "true"
 
       - name: Executa script de atualização dos banners
-        run: npx tsx scripts/atualiza-banners.ts
+        run: node scripts/gerar-cache-posts.js
 
       - name: Commit e push das alterações
         run: |

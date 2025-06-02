@@ -1,27 +1,162 @@
 {
-  "data": "2025-06-02",
-  "filmes": {
-    "slug": "five-nights-at-freddys-2-ganha-novo-pster-na-ccxp-mx",
-    "titulo": "Five Nights at Freddy's 2: Novo Pôster Revelado na CCXP MX Aumenta Expectativa para o Lançamento",
-    "thumb": "https://cdn.ome.lt/7nEnH2cfcm6N9Wu6i1ziUyrtIK8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-28_125927.png",
-    "categoria": "FILMES",
-    "resumo": "O aguardado filme de terror 'Five Nights at Freddy's 2' ganhou um novo pôster na CCXP MX 2025, aumentando a expectativa para sua estreia em dezembro. Matthew Lillard comenta sobre seu papel e a importância da sequência.",
-    "data": "2025-06-02T00:51:16.680Z"
-  },
-  "games": {
-    "slug": "atriz-de-dragon-age-the-veilguard-diz-que-alguns-fas-queriam-ver-a-bioware-flopar",
-    "titulo": "Dragon Age: The Veilguard e a Controvérsia: Atriz Fala Sobre Reação dos Fãs",
-    "thumb": "https://ovicio.com.br/wp-content/uploads/2024/10/20241031-ovicio-dragon-age-bioware.webp",
-    "categoria": "Games",
-    "resumo": "Após uma espera de quase uma década, Dragon Age: The Veilguard não conseguiu atender às expectativas. A atriz Alix Wilton Regan compartilha sua perspectiva sobre a recepção mista e as críticas dos fãs antes mesmo do lançamento.",
-    "data": "2025-06-01T23:10:10.000Z"
-  },
-  "series": {
-    "slug": "demolidor-renascido-visual-do-novo-tigre-branco-revelado-em-foto-do-set",
-    "titulo": "Demolidor: Renascido revela visual do novo Tigre Branco em fotos do set",
-    "thumb": "https://cdn.ome.lt/AUErTP9SHNKa3qO72ztQQb0JR-s=/480x360/smart/extras/conteudos/demolidorrenascido_Q8UQgqB.jpg",
-    "categoria": "SÉRIES E TV",
-    "resumo": "A aguardada segunda temporada de 'Demolidor: Renascido' promete uma nova versão do Tigre Branco, com imagens inéditas surgindo do set de filmagens. Descubra os detalhes por trás desse esperado retorno.",
-    "data": "2025-06-01T21:17:29.595Z"
-  }
+  "games": [
+    {
+      "slug": "nintendo-switch-2-welcome-tour-jogo-de-lanamento-do-console-ganha-trailer",
+      "titulo": "Nintendo Switch 2: Novo Trailer de Jogo Interativo Revela Funcionalidades do Console",
+      "thumb": "https://cdn.ome.lt/1rWZIQpzaHVkyHssykOUOs5Gaws=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-02T112505.433.png",
+      "categoria": "GAMES"
+    },
+    {
+      "slug": "elden-ring-nightreign-solta-patch-que-facilita-partidas-para-jogadores-solo",
+      "titulo": "FromSoftware Lança Patch de Elden Ring Nightreign com Melhorias para Jogadores Solo",
+      "thumb": "https://cdn.ome.lt/A1is5iMzWwNMxqX09pBP_4zqRu0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-02T113727.359.png",
+      "categoria": "GAMES"
+    },
+    {
+      "slug": "james-bond-primeiro-jogo-da-nova-trilogia-007-first-light-promete-surpresas",
+      "titulo": "James Bond: Primeiro Jogo da Nova Trilogia '007: First Light' Promete Surpresas",
+      "thumb": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504997-screenshot2025-06-02at11.12.57am.png",
+      "categoria": "Games"
+    }
+  ],
+  "series-e-tv": [
+    {
+      "slug": "andor-124-criador-confirma-orcamento-astronomico-8220-lutamos-muito-pelo-dinheiro-8221",
+      "titulo": "Andor: O Impactante Orçamento de US$ 650 Milhões e a Batalha pela Continuidade",
+      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/04/20250421-image-21.png",
+      "categoria": "Séries e TV"
+    },
+    {
+      "slug": "the-walking-dead-daryl-dixon-ganha-trailer-para-sua-3-temporada",
+      "titulo": "Trailer da 3ª Temporada de The Walking Dead: Daryl Dixon é Revelado",
+      "thumb": "https://cdn.ome.lt/Mgddh94bV3g_dNhCpdLvnYUsLRg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-02T114406.522.png",
+      "categoria": "SÉRIES E TV"
+    },
+    {
+      "slug": "ningum-quer-2-temporada-ganha-data-de-estreia-e-teaser-com-elenco",
+      "titulo": "Ninguém Quer: Segunda Temporada Chega em Outubro com Novidades no Elenco",
+      "thumb": "https://cdn.ome.lt/wAp4-I-D2CpSI-dOoQL6ns5t01M=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-02T115123.691.png",
+      "categoria": "SÉRIES E TV"
+    }
+  ],
+  "mangas-e-animes": [
+    {
+      "slug": "filme-de-miss-kobayashi-8217-s-dragon-maid-ganha-novo-trailer",
+      "titulo": "Miss Kobayashi's Dragon Maid: Novo Trailer do Filme Revela Relação Entre Pai e Filha",
+      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/06/20250602-cena-do-filme-de-miss-kobayashis-dragon-maid-ovicio.webp",
+      "categoria": "Mangás e Animes"
+    },
+    {
+      "slug": "anime-de-tom-038-jerry-sera-lancado-no-youtube",
+      "titulo": "Tom & Jerry Gokko: Novo Anime Chega ao YouTube Internacionalmente",
+      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/06/20250602-tom-e-jerry-gokko-ovicio.webp",
+      "categoria": "Mangás e Animes"
+    },
+    {
+      "slug": "o-verao-em-que-hikaru-morreu-ganha-novo-trailer-e-data-de-estreia",
+      "titulo": "O Verão em que Hikaru Morreu: Novo Trailer e Estreia Mundial na Netflix",
+      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/06/20250602-chiaki-kobayahsi-e-hikaru-indou-em-cena-do-anime-o-verao-em-que-hikaru-morreu-ovicio.webp",
+      "categoria": "Mangás e Animes"
+    }
+  ],
+  "filmes": [
+    {
+      "slug": "superman-site-revela-oramento-e-arrecadao-necessria-para-evitar-prejuzo",
+      "titulo": "Superman de James Gunn: Orçamento e Expectativas de Bilheteria Revelados",
+      "thumb": "https://cdn.ome.lt/pVYkAKiPw_1SMrixf9w_JqGyJnY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-02T121614.221.png",
+      "categoria": "FILMES"
+    },
+    {
+      "slug": "o-contador-2-com-ben-affleck-ganha-data-de-estreia-no-prime-video",
+      "titulo": "O Contador 2 com Ben Affleck: Data de Estreia no Prime Video Anunciada",
+      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/02/20250211-image-4.png",
+      "categoria": "Filmes"
+    },
+    {
+      "slug": "o-contador-2-onde-assistir-ao-filme-com-ben-affleck-e-jon-bernthal",
+      "titulo": "O Contador 2: Data de Lançamento no Prime Video com Ben Affleck e Jon Bernthal",
+      "thumb": "https://cdn.ome.lt/acr8KzzNj4nGm2o_yBpbKzpOt4s=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-02T102430.395.png",
+      "categoria": "FILMES"
+    }
+  ],
+  "board-games": [
+    {
+      "slug": "bgg039s-gen-con-2025-preview-is-now-live",
+      "titulo": "Prévia da Gen Con 2025 no BGG Destaca Mais de 150 Novos Jogos",
+      "thumb": "https://cf.geekdo-images.com/3uzwoSV4R9A6h2SyKkLuSQ__imagepage/img/KCHORp__9hObQMDWoEtcAIcnUeQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4223752.jpg",
+      "categoria": "Board Games"
+    },
+    {
+      "slug": "game-review-meister-makatsu-or-avoid-striking-high-to-score-low",
+      "titulo": "Domine a Estratégia: Análise Completa de Meister Makatsu, o Novo Sucesso de Reiner Knizia",
+      "thumb": "https://cf.geekdo-images.com/cB5otss5NgQoRsmW-Ju5kA__imagepage/img/TGz4cRHiWaQ2G3TL_vhCV8_bYIc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8907902.jpg",
+      "categoria": "Board Games"
+    },
+    {
+      "slug": "create-movies-from-cards-play-alebrijes-quickly-and-avoid-pain-in-the-woods",
+      "titulo": "Descubra Novas Aventuras com Jogos de Cartas Inovadores e Desafiadores",
+      "thumb": "https://cf.geekdo-images.com/q7KAQnyp0CwLfJVqsgk4JQ__imagepage/img/QCSpSJ1Ca0AbcRj8zX7BGrjAtQQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8794268.png",
+      "categoria": "Board Games"
+    }
+  ],
+  "streaming": [
+    {
+      "slug": "kings-league-mundial-de-clubes-ser-transmitido-pelo-disney",
+      "titulo": "Kings League: Disney+ Transmite Mundial de Clubes com Neymar e Gerard Piqué",
+      "thumb": "https://cdn.ome.lt/dXugG1BWzVrmFFvw4diLfsLuPKs=/480x360/smart/extras/conteudos/sem_titulo5.png",
+      "categoria": "STREAMING"
+    },
+    {
+      "slug": "netflix-revelou-os-jogos-da-nfl-no-natal-confira",
+      "titulo": "Netflix Anuncia Transmissão de Jogos da NFL no Natal e Planos Futuros para Exclusividade",
+      "thumb": "https://cdn.ome.lt/mca4BpIhziItGHd4FHEwhXT6YrA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-14T202133.399.png",
+      "categoria": "STREAMING"
+    },
+    {
+      "slug": "nfl-revela-novo-jogo-no-brasil-veja-como-assistir-de-graa",
+      "titulo": "NFL Anuncia Partida Histórica em São Paulo com Transmissão Global pelo YouTube",
+      "thumb": "https://cdn.ome.lt/HgEiTjTmWup6vARXxGxgzlZ1GZw=/480x360/smart/extras/conteudos/nfl-brasil-2025.png",
+      "categoria": "STREAMING"
+    }
+  ],
+  "hq-livros": [
+    {
+      "slug": "deadpoolbatman-marvel-e-dc-anunciam-crossover-indito",
+      "titulo": "Deadpool Encontra Batman: Marvel e DC Anunciam Crossover Histórico nos Quadrinhos",
+      "thumb": "https://cdn.ome.lt/FwyNIBeIYj-sa3tP7xWWLduNogU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-05-27_132212.png",
+      "categoria": "HQ/LIVROS"
+    },
+    {
+      "slug": "morre-peter-david-quadrinista-do-hulk-e-da-supergirl-aos-68-anos",
+      "titulo": "Peter David, Lendário Escritor de Hulk e Supergirl, Falece aos 68 Anos",
+      "thumb": "https://cdn.ome.lt/vuTcQ3Itm2j7aYdHKjoJYT5e234=/480x360/smart/extras/conteudos/peterdavid.jpg",
+      "categoria": "HQ/LIVROS"
+    },
+    {
+      "slug": "justiceiro-marvel-anuncia-nova-srie-para-adultos-do-anti-heri",
+      "titulo": "O Justiceiro Retorna em Nova Série Adulta da Marvel com Selo Red Band",
+      "thumb": "https://cdn.ome.lt/gk_b_snfcqmaoeN7rHEmk241AMk=/480x360/smart/extras/conteudos/Design_sem_nome39.png",
+      "categoria": "HQ/LIVROS"
+    }
+  ],
+  "musica": [
+    {
+      "slug": "radiohead-thom-yorke-se-pronuncia-contra-israel-hamas-e-redes-sociais",
+      "titulo": "Thom Yorke do Radiohead Critica Israel, Hamas e Redes Sociais",
+      "thumb": "https://cdn.ome.lt/0W7LHjCPoF7xdafjl0woF5cKKd0=/480x360/smart/extras/conteudos/sem_titulo35.png",
+      "categoria": "MÚSICA"
+    },
+    {
+      "slug": "crtica-referencial-something-beautiful-o-melhor-de-miley-cyrus-e-de-2025",
+      "titulo": "Something Beautiful de Miley Cyrus: O Álbum Revolucionário de 2025",
+      "thumb": "https://cdn.ome.lt/XCR1DqXUuCrSVwZOpyqssKFtgug=/480x360/smart/extras/conteudos/miley_escYBd1.jpg",
+      "categoria": "MÚSICA"
+    },
+    {
+      "slug": "taylor-swift-adquire-os-direitos-de-seus-seis-primeiros-lbuns",
+      "titulo": "Taylor Swift Recupera Direitos de Seus Seis Primeiros Álbuns em Acordo Histórico",
+      "thumb": "https://cdn.ome.lt/xyzSno2CmKBa_jxxxqKhJ4qSWtQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-30T130339.573.png",
+      "categoria": "MÚSICA"
+    }
+  ]
 }
