@@ -44,7 +44,7 @@ puppeteer.use(StealthPlugin());
 
 const jsonFilePath = "public/posts.json";
 const contentDir = path.join(process.cwd(), "content");
-const MAX_POSTS = 10;
+const MAX_POSTS = 15;
 
 if (!fs.existsSync(contentDir)) {
   fs.mkdirSync(contentDir);

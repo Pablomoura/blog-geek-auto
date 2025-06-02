@@ -185,7 +185,15 @@ async function processarRSS() {
     const thumb = extrairThumb(noticia["content:encoded"] || "") || "/images/default.jpg";
 
     const markdownOriginal = limparTexto(noticia["content:encoded"] || "");
-    const reescrito = await reescreverComOpenAI(titulo, resumo, markdownOriginal);
+    let reescrito;
+    try {
+      reescrito = await reescreverComOpenAI(titulo, resumo, markdownOriginal);
+    } catch (err) {
+      console.error(`❌ Erro ao reescrever a matéria: ${titulo}`);
+      console.error(err.message);
+      continue;
+    }
+
     if (!reescrito?.texto) continue;
 
     const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
