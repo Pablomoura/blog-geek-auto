@@ -1,14 +1,33 @@
 ---
-title: "Domine a Estratégia: Análise Completa de Meister Makatsu, o Novo Sucesso de Reiner Knizia"
-slug: "game-review-meister-makatsu-or-avoid-striking-high-to-score-low"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/cB5otss5NgQoRsmW-Ju5kA__imagepage/img/TGz4cRHiWaQ2G3TL_vhCV8_bYIc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8907902.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/cB5otss5NgQoRsmW-Ju5kA__imagepage/img/TGz4cRHiWaQ2G3TL_vhCV8_bYIc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8907902.jpg"
-tags: ["Meister Makatsu", "Reiner Knizia", "AMIGO", "jogo de cartas", "estratégia", "board game", "análise de jogos", "LAMA", "jogos de tabuleiro"]
-keywords: "Meister Makatsu, Reiner Knizia, AMIGO, jogo de cartas, estratégia, board game, análise de jogos, LAMA, jogos de tabuleiro"
-author: "Luana Souza"
-data: "2025-06-02T06:29:00.138Z"
+title: >-
+  Domine a Estratégia: Análise Completa de Meister Makatsu, o Novo Sucesso de
+  Reiner Knizia
+slug: game-review-meister-makatsu-or-avoid-striking-high-to-score-low
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/cB5otss5NgQoRsmW-Ju5kA__imagepage/img/TGz4cRHiWaQ2G3TL_vhCV8_bYIc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8907902.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/cB5otss5NgQoRsmW-Ju5kA__imagepage/img/TGz4cRHiWaQ2G3TL_vhCV8_bYIc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8907902.jpg
+tags:
+  - Meister Makatsu
+  - Reiner Knizia
+  - AMIGO
+  - jogo de cartas
+  - estratégia
+  - board game
+  - análise de jogos
+  - LAMA
+  - jogos de tabuleiro
+keywords: >-
+  Meister Makatsu, Reiner Knizia, AMIGO, jogo de cartas, estratégia, board game,
+  análise de jogos, LAMA, jogos de tabuleiro
+author: Luana Souza
+data: '2025-06-02T06:29:00.138Z'
+resumo: >-
+  Descubra os segredos por trás do novo jogo de cartas de Reiner Knizia, onde a
+  chave é evitar pontuar alto para garantir a vitória. Meister Makatsu promete
+  desafios estratégicos em cada rodada.
 ---
 
 ## Mestre Makatsu: O Novo Desafio da AMIGO
