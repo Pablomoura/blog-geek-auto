@@ -31,7 +31,11 @@ resumo: >-
 
 Em uma emocionante preparação para o lançamento do próximo filme da Marvel Studios, o Quarteto Fantástico é destaque em novas artes promocionais que revelam uma ambiciosa missão no espaço. Conhecidos tanto por suas habilidades científicas quanto por seu heroísmo, os membros da equipe se encontram no centro de uma nova aventura intergaláctica.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New promotional art for <a href="https://twitter.com/hashtag/TheFantasticFourFirstSteps?src=hash&amp;ref_src=twsrc%5Etfw">#TheFantasticFourFirstSteps</a>. <br><br>In theaters July 25. <a href="https://t.co/npxx6wJZGA">pic.twitter.com/npxx6wJZGA</a></p>&mdash; Screen Rant (@screenrant) <a href="https://twitter.com/screenrant/status/1929720378563109142?ref_src=twsrc%5Etfw">June 3, 2025</a></blockquote>
+
 Com a estreia marcada para 25 de julho, a produção faz parte da aguardada Fase 6 do MCU. O site Screen Rant divulgou imagens inéditas que mostram a emblemática equipe em ação, prometendo intensas cenas de exploração e combate em meio ao vasto cosmos. Este novo capítulo do universo Marvel surge em meio à **Saga do Multiverso**, prometendo elevar a franquia a novas dimensões narrativas.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New promotional art for <a href="https://twitter.com/hashtag/TheFantasticFourFirstSteps?src=hash&amp;ref_src=twsrc%5Etfw">#TheFantasticFourFirstSteps</a>. <br><br>In theaters July 25. <a href="https://t.co/zWfD6wH217">pic.twitter.com/zWfD6wH217</a></p>&mdash; Screen Rant (@screenrant) <a href="https://twitter.com/screenrant/status/1929720466089947376?ref_src=twsrc%5Etfw">June 3, 2025</a></blockquote> 
 
 ### Enfrentando Galactus: Um Novo Desafio
 

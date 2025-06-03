@@ -3,6 +3,7 @@ const path = require("path");
 const axios = require("axios");
 const { XMLParser } = require("fast-xml-parser");
 const TurndownService = require("turndown");
+const { JSDOM } = require("jsdom");
 require("dotenv").config();
 
 const turndownService = new TurndownService({ headingStyle: "atx" });
@@ -15,7 +16,53 @@ turndownService.addRule("embedBlockquotes", {
     return isTwitter || isInstagram;
   },
   replacement: (_content, node) => {
+    return `\n\n${node.outerHTML || node.innerHTML || ""}\n\n`;
+  },
+});
+
+// Mantém iframes de vídeos (como YouTube)
+turndownService.addRule("embedIframes", {
+  filter: (node) => node.nodeName === "IFRAME" && node.src?.includes("youtube.com/embed"),
+  replacement: (_content, node) => {
+    return `\n\n${node.outerHTML || node.innerHTML || ""}\n\n`;
+  },
+});
+
+// Mantém embeds do Reddit
+turndownService.addRule("embedReddit", {
+  filter: (node) =>
+    node.nodeName === "BLOCKQUOTE" &&
+    node.className.includes("reddit-embed-bq"),
+  replacement: (_content, node) => {
     return `\n\n${node.outerHTML}\n\n`;
+  },
+});
+
+// Mantém blocos de imagem com <figure> no HTML
+turndownService.addRule("preserveImagesWithFigure", {
+  filter: (node) =>
+    node.nodeName === "FIGURE" && node.querySelector("img"),
+  replacement: (_content, node) => {
+    return `\n\n${node.outerHTML || node.innerHTML || ""}\n\n`;
+  },
+});
+
+turndownService.addRule("image", {
+  filter: "img",
+  replacement: function (content, node) {
+    const alt = node.getAttribute("alt") || "";
+    const src = node.getAttribute("src") || "";
+    return `![${alt}](${src})`;
+  },
+});
+
+turndownService.addRule("preserveWpBlockImages", {
+  filter: (node) =>
+    node.nodeName === "DIV" &&
+    node.className.includes("wp-block-image") &&
+    node.querySelector("img"),
+  replacement: (_content, node) => {
+    return `\n\n${node.outerHTML || node.innerHTML || ""}\n\n`;
   },
 });
 
@@ -138,16 +185,27 @@ Formato de resposta obrigatório:
 
 }
 function limparTexto(html) {
-  return turndownService.turndown(
-    html
-      .replace(/<script[\s\S]*?<\/script>/gi, "")
-      .replace(/<div class="banner[\s\S]*?<\/div>/gi, "")
-      .replace(/<h\d[^>]*>Leia também:<\/h\d>[\s\S]*?(<ul[\s\S]*?<\/ul>|<p>[\s\S]*?<\/p>)/gi, "")
-      .replace(/<h\d[^>]*id="h-leia-tambem"[^>]*>[\s\S]*?(<ul[\s\S]*?<\/ul>|<p>[\s\S]*?<\/p>)/gi, "")
-      .replace(/<strong>Fonte:.*?<\/a><\/p>/gi, "")
-      .replace(/https?:\/\/(www\.)?ovicio\.com\.br[^\s"'<>]+/gi, "") // melhor abrangência de URL
-      .replace(/O Vício/gi, "")
-  );
+  const dom = new JSDOM(html);
+  const document = dom.window.document;
+
+  // Remove elementos indesejados do DOM
+  document.querySelectorAll("script, .banner, [id*='leia-tambem']").forEach(el => el.remove());
+  document.querySelectorAll("h2, h3, h4").forEach(el => {
+    if (el.textContent.toLowerCase().includes("leia também")) el.remove();
+  });
+  document.querySelectorAll("strong").forEach(el => {
+    if (el.textContent.includes("Fonte:")) el.remove();
+  });
+
+// Remove menções diretas ao site do conteúdo do body
+document.body.innerHTML = document.body.innerHTML
+  .replace(/https?:\/\/(www\.)?ovicio\.com\.br[^\s"'<>]*/gi, "")
+  .replace(/O Vício/gi, "");
+
+console.log("🧪 HTML final antes do Turndown:\n", document.body.innerHTML);
+
+// Retorna Markdown com preservação dos embeds e imagens
+return turndownService.turndown(document.body.innerHTML);
 }
 
 function extrairThumb(contentEncoded) {
@@ -182,9 +240,22 @@ async function processarRSS() {
     if (postsExistentes.some((p) => slugify(p.slug) === slugBase)) continue;
 
     const slug = gerarSlugUnico(titulo, postsExistentes);
-    const thumb = extrairThumb(noticia["content:encoded"] || "") || "/images/default.jpg";
+    let midia = extrairThumb(noticia["content:encoded"] || "") || "/images/default.jpg";
+    let tipoMidia = "imagem";
+    let thumb = midia;
 
-    const markdownOriginal = limparTexto(noticia["content:encoded"] || "");
+    // Verifica se tem media:content com vídeo do YouTube
+    const mediaContent = noticia["media:content"];
+    if (mediaContent?.url?.includes("youtube.com/embed")) {
+      midia = mediaContent.url;
+      tipoMidia = "video";
+      if (mediaContent["media:thumbnail"]?.url) {
+        thumb = mediaContent["media:thumbnail"].url;
+      }
+    }
+
+    const htmlLimpo = limparTexto(noticia["content:encoded"] || "");
+    const markdownOriginal = htmlLimpo;
     let reescrito;
     try {
       reescrito = await reescreverComOpenAI(titulo, resumo, markdownOriginal);
@@ -209,8 +280,8 @@ title: >-
 slug: ${slug}
 categoria: ${categoria}
 midia: >-
-  ${thumb}
-tipoMidia: imagem
+  ${midia}
+tipoMidia: ${tipoMidia}
 thumb: >-
   ${thumb}
 tags:
@@ -233,8 +304,8 @@ resumo: >-
       link: noticia.link,
       thumb,
       texto: reescrito.texto,
-      midia: thumb,
-      tipoMidia: "imagem",
+      midia,
+      tipoMidia,
       slug,
       fonte: "O Vício",
       reescrito: true,
