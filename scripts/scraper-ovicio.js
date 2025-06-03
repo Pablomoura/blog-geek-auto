@@ -77,6 +77,15 @@ if (fs.existsSync(jsonFilePath)) {
   postsExistentes = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
 }
 
+function extrairImagensCorpo(html) {
+  const dom = new JSDOM(html);
+  const document = dom.window.document;
+  const imagens = Array.from(document.querySelectorAll("img"))
+    .map(img => img.src)
+    .filter(src => src && src.startsWith("http") && !src.includes("blank")); // remove imagens vazias ou placeholders
+  return imagens;
+}
+
 function limparTag(tag) {
   return tag
     .replace(/[:]/g, "")  // remove dois-pontos
@@ -188,7 +197,7 @@ function limparTexto(html) {
   const dom = new JSDOM(html);
   const document = dom.window.document;
 
-  // Remove elementos indesejados do DOM
+  // Limpa elementos desnecessários
   document.querySelectorAll("script, .banner, [id*='leia-tambem']").forEach(el => el.remove());
   document.querySelectorAll("h2, h3, h4").forEach(el => {
     if (el.textContent.toLowerCase().includes("leia também")) el.remove();
@@ -197,15 +206,13 @@ function limparTexto(html) {
     if (el.textContent.includes("Fonte:")) el.remove();
   });
 
-// Remove menções diretas ao site do conteúdo do body
-document.body.innerHTML = document.body.innerHTML
-  .replace(/https?:\/\/(www\.)?ovicio\.com\.br[^\s"'<>]*/gi, "")
-  .replace(/O Vício/gi, "");
+  // Remove menções diretas ao site
+  document.body.innerHTML = document.body.innerHTML
+    .replace(/https?:\/\/(www\.)?ovicio\.com\.br[^\s"'<>]*/gi, "")
+    .replace(/O Vício/gi, "");
 
-console.log("🧪 HTML final antes do Turndown:\n", document.body.innerHTML);
-
-// Retorna Markdown com preservação dos embeds e imagens
-return turndownService.turndown(document.body.innerHTML);
+  const imagens = extrairImagensCorpo(document.body.innerHTML);
+  return { html: document.body.innerHTML, imagens };
 }
 
 function extrairThumb(contentEncoded) {
@@ -254,8 +261,9 @@ async function processarRSS() {
       }
     }
 
-    const htmlLimpo = limparTexto(noticia["content:encoded"] || "");
-    const markdownOriginal = htmlLimpo;
+    const { html, imagens } = limparTexto(noticia["content:encoded"] || "");
+    const markdownOriginal = turndownService.turndown(html);
+
     let reescrito;
     try {
       reescrito = await reescreverComOpenAI(titulo, resumo, markdownOriginal);
@@ -294,7 +302,9 @@ resumo: >-
   ${reescrito.resumo}
 ---\n\n`;
 
-    const markdownCompleto = frontmatter + reescrito.texto;
+    const textoFinal = inserirImagensNoTexto(reescrito.texto, imagens.slice(1)); // primeira imagem fica como capa
+    const markdownCompleto = frontmatter + textoFinal;
+
     fs.writeFileSync(path.join(contentDir, `${slug}.md`), markdownCompleto, "utf-8");
 
     novosPosts.push({
@@ -319,3 +329,18 @@ resumo: >-
 }
 
 processarRSS();
+
+function inserirImagensNoTexto(texto, imagens) {
+  if (!imagens?.length) return texto;
+  const paragrafos = texto.split("\n\n");
+  const resultado = [];
+
+  for (let i = 0; i < paragrafos.length; i++) {
+    resultado.push(paragrafos[i]);
+    if (i < imagens.length) {
+      resultado.push(`![Imagem relacionada](${imagens[i]})`);
+    }
+  }
+
+  return resultado.join("\n\n");
+}
