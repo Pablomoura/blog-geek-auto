@@ -197,18 +197,8 @@ function limparTexto(html) {
   const dom = new JSDOM(html);
   const document = dom.window.document;
 
-  // Limpa elementos desnecessários
-  document.querySelectorAll("script, .banner, [id*='leia-tambem']").forEach(el => el.remove());
-  document.querySelectorAll("h2, h3, h4").forEach(el => {
-    if (el.textContent.toLowerCase().includes("leia também")) el.remove();
-  });
-  document.querySelectorAll("strong").forEach(el => {
-    if (el.textContent.includes("Fonte:")) el.remove();
-  });
-
   // Remove menções diretas ao site
   document.body.innerHTML = document.body.innerHTML
-    .replace(/https?:\/\/(www\.)?ovicio\.com\.br[^\s"'<>]*/gi, "")
     .replace(/O Vício/gi, "");
 
   const imagens = extrairImagensCorpo(document.body.innerHTML);
