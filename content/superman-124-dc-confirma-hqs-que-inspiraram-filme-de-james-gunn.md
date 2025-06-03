@@ -29,11 +29,11 @@ resumo: >-
 
 ## DC Comics Aponta as HQs que Moldaram o Novo Superman de James Gunn
 
-![Imagem relacionada](https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250603-superman-quadrinhos-que-inspiraram-filme.webp?resize=730%2C995&ssl=1)
-
 A DC Comics recentemente iluminou o caminho criativo por trás do novo filme do Superman, dirigido por James Gunn, revelando as histórias em quadrinhos que serviram como inspiração. Este filme, anteriormente conhecido como "Superman: Legacy", é mais do que uma simples aventura cinematográfica; é uma celebração aos 87 anos de legado do Homem de Aço nos quadrinhos.
 
 Entre os diversos criadores que contribuíram para a evolução do Superman, a DC destaca três obras que exerceram uma influência direta. **"Grandes Astros: Superman"** (2005), uma minissérie escrita por Grant Morrison e ilustrada por Frank Quitely, é conhecida por sua abordagem inovadora e emocional do personagem. A clássica **"Superman: As Quatro Estações"** (1998), de Jeph Loeb e Tim Sale, oferece uma visão introspectiva e humana do herói, enquanto **"Lex Luthor: O Homem de Aço"** (2005), de Brian Azzarello e Lee Bermejo, explora a complexidade do arqui-inimigo de Superman.
+
+![Imagem relacionada](https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250603-superman-quadrinhos-que-inspiraram-filme.webp?resize=730%2C995&ssl=1)
 
 ### Uma Coletânea Exclusiva para os Fãs
 

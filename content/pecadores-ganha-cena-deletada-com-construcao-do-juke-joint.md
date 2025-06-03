@@ -34,6 +34,8 @@ resumo: >-
 
 O aclamado filme **Pecadores**, dirigido por **Ryan Coogler**, conhecido por seu trabalho em **Pantera Negra**, acaba de ganhar uma cena deletada que promete encantar os fãs. A cena, que dura cerca de três minutos, mostra a construção do **Juke Joint**, o vibrante bar de blues que serve como pano de fundo para muitos dos eventos do filme. Este espaço é comandado pelos irmãos Fumaça e Faísca, interpretados pelo talentoso **Michael B. Jordan**.
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">The Smokestack twins have come home.<br><br>Check out this exclusive deleted scene featuring the building of the Juke Joint, and watch <a href="https://twitter.com/hashtag/SinnersMovie?src=hash&amp;ref_src=twsrc%5Etfw">#SinnersMovie</a> today on Fandango at Home. <a href="https://t.co/RjAOsBROpj">https://t.co/RjAOsBROpj</a> <a href="https://t.co/Bsnt2DodRN">pic.twitter.com/Bsnt2DodRN</a></p>&mdash; Fandango (@Fandango) <a href="https://twitter.com/Fandango/status/1929916242577490391?ref_src=twsrc%5Etfw">June 3, 2025</a></blockquote>
+
 ### Onde Assistir?
 
 Para aqueles que ainda não conferiram a produção, **Pecadores** está disponível para compra ou aluguel em várias plataformas digitais, incluindo **Prime Video**, **Claro TV+**, **YouTube**, **Apple TV**, **Vivo Play** e **Microsoft**. A cena deletada é um bônus especial para os entusiastas que desejam se aprofundar na rica ambientação do filme.
