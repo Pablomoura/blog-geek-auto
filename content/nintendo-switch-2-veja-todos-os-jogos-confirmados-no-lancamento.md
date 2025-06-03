@@ -2,7 +2,7 @@
 title: >-
   Nintendo Switch 2: Conheça os 27 Jogos Incríveis de Lançamento
 slug: nintendo-switch-2-veja-todos-os-jogos-confirmados-no-lancamento
-categoria: Séries e TV
+categoria: Games
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/06/20250603-switch2-launch.webp
 tipoMidia: imagem
@@ -36,10 +36,35 @@ O catálogo de lançamento traz uma seleção impressionante de **27 jogos**, ab
 
 Entre os títulos confirmados, encontramos:
 
-* **The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition** e **Tears of the Kingdom** prometem encantar os fãs com gráficos aprimorados e novas aventuras.
-* **Mario Kart World** e **Fortnite** garantem horas de diversão com modos multiplayer emocionantes.
-* **Cyberpunk 2077: Ultimate Edition** e **Hitman: World of Assassination - Signature Edition** trazem o melhor dos jogos de mundo aberto e stealth.
-* Para os amantes de estratégia, **Civilization VII** e **Nobunaga’s Ambition: Awakening - Complete Edition** oferecem desafios intelectuais envolventes.
+**The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition** e **Tears of the Kingdom** prometem encantar os fãs com gráficos aprimorados e novas aventuras.
+**Mario Kart World** e **Fortnite** garantem horas de diversão com modos multiplayer emocionantes.
+**Cyberpunk 2077: Ultimate Edition** e **Hitman: World of Assassination - Signature Edition** trazem o melhor dos jogos de mundo aberto e stealth.
+Para os amantes de estratégia, **Civilization VII** e **Nobunaga’s Ambition: Awakening - Complete Edition** oferecem desafios intelectuais envolventes.
+
+- Arcade Archives 2: Ridge Racer
+- Bravely Default: Flying Fairy HD Remaster
+- Civilization VII
+- Cyberpunk 2077: Ultimate Edition
+- Deltarune
+- Fantasy Life i: The Girl Who Steals Time - Nintendo Switch 2 Edition
+- Fast Fusion
+- Fortnite
+- Hitman: World of Assassination - Signature Edition
+- Hogwarts Legacy
+- Kunitsu-Gami: Path of the Goddess
+- The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition
+- The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition
+- Mario Kart World
+- Nintendo Switch 2 Welcome Tour
+- Nobunaga’s Ambition: Awakening - Complete Edition
+- Puyo Puyo Tetris 2S
+- Rune Factory: Guardians of Azuma - Nintendo Switch 2 Edition
+- Sonic X Shadow Generations
+- Split Fiction
+- Street Fighter 6
+- Suikoden I & II HD Remaster: Gate Rune and Dunan Unification Wars
+- Survival Kids
+- Yakuza 0 - Director’s Cut
 
 ### Clássicos Reimaginados
 
