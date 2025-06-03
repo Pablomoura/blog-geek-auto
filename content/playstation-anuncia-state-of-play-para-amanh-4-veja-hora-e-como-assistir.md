@@ -1,5 +1,5 @@
 ---
-title: 'State of Play: Sony Revela Novidades do PlayStation 5 em Transmissão ao Vivo'
+title: 'State of Play: Sony Revela Novidades para PlayStation 5 em Transmissão ao Vivo'
 slug: playstation-anuncia-state-of-play-para-amanh-4-veja-hora-e-como-assistir
 categoria: GAMES
 midia: 'https://www.youtube.com/embed/AbBHaXtHx4Q?showinfo=0&enablejsapi=1'
@@ -10,28 +10,34 @@ tags:
   - State of Play
   - Sony
   - PlayStation 5
-  - Death Stranding 2
+  - PS5
   - Hideo Kojima
+  - Death Stranding 2
   - Sam Bridges
   - transmissão ao vivo
-  - lançamento de jogos
+  - YouTube
+  - Twitch
 keywords: >-
-  State of Play, Sony, PlayStation 5, Death Stranding 2, Hideo Kojima, Sam
-  Bridges, transmissão ao vivo, lançamento de jogos
-author: Luana Souza
-data: '2025-06-03T13:35:16.031Z'
+  State of Play, Sony, PlayStation 5, PS5, Hideo Kojima, Death Stranding 2, Sam
+  Bridges, transmissão ao vivo, YouTube, Twitch
+author: Pablo Moura
+data: '2025-06-03T14:23:51.789Z'
 resumo: >-
-  A Sony anunciou um novo State of Play para apresentar os lançamentos do
-  PlayStation 5 nesta quarta-feira (4). O evento será transmitido ao vivo, com
-  destaque para o aguardado Death Stranding 2.
+  Sony confirma State of Play com duração de 40 minutos para apresentar
+  lançamentos do PS5. Descubra como assistir ao evento ao vivo.
 ---
 
-## Transmissão ao Vivo do State of Play
+## State of Play: O que Esperar do Evento da Sony
 
-A Sony revelou que o próximo evento State of Play será realizado nesta quarta-feira, 4 de outubro, com foco nas novidades do PlayStation 5. A transmissão, que promete durar mais de 40 minutos, irá explorar os principais lançamentos e estará disponível nos canais oficiais da PlayStation no YouTube e Twitch. O evento começará às 18h, horário de Brasília.
+A Sony anunciou oficialmente a realização de uma nova edição do State of Play nesta quarta-feira, 4 de outubro. Este evento é altamente aguardado pelos fãs da marca, pois revela as últimas novidades e lançamentos para o PlayStation 5. Com uma duração estimada de mais de 40 minutos, a apresentação promete trazer atualizações emocionantes sobre os principais jogos do console.
 
-## Destaques de Lançamentos: Death Stranding 2
+## Como Acompanhar a Transmissão ao Vivo
 
-Entre os jogos mais esperados está **Death Stranding 2: On the Beach**, de Hideo Kojima, que dará continuidade às aventuras de Sam Bridges. Embora trailers tenham sido liberados, a verdadeira essência do jogo ainda permanece um mistério intrigante. O lançamento exclusivo para PlayStation 5 está previsto para 24 de junho, com uma futura versão para PC.
+O State of Play será transmitido ao vivo em inglês através dos canais oficiais da PlayStation no YouTube e na Twitch. A transmissão está programada para começar às 18h e finalizar por volta das 19h, horário de Brasília.
 
-Além disso, outros títulos e novidades sobre futuros lançamentos devem ser abordados durante o evento, aumentando as expectativas dos fãs e jogadores em todo o mundo.
+## Destaques do Evento: Death Stranding 2 e Mais
+
+Um dos jogos mais esperados para o evento é **Death Stranding 2: On the Beach**, do renomado diretor Hideo Kojima. A sequência continuará a saga de Sam Bridges, protagonista do primeiro título, com novos desafios e narrativas misteriosas. O jogo, exclusivo para PS5, tem lançamento previsto para 24 de junho, com uma versão para PC planejada posteriormente.
+
+Os fãs também estão ansiosos por possíveis surpresas e anúncios de outros títulos exclusivos para o console. Com a Sony mantendo alguns detalhes em sigilo, o evento promete ser um verdadeiro espetáculo para os aficionados por games.
+
