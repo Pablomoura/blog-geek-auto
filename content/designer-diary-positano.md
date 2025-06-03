@@ -1,14 +1,31 @@
 ---
-title: "A Jornada de Criação do Jogo de Tabuleiro Positano: Da Inspiração à Realização"
-slug: "designer-diary-positano"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/HhqaR_Fs6r58Zk21f29tSw__imagepage/img/9JFKLPk-E6b6JyZ6cXtA1us0tXk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8281271.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/HhqaR_Fs6r58Zk21f29tSw__imagepage/img/9JFKLPk-E6b6JyZ6cXtA1us0tXk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8281271.png"
-tags: ["Positano", "jogo de tabuleiro", "Costa Amalfitana", "design de jogos", "SlugFest Games", "estratégia", "protótipo", "Cardboard Edison", "mecânicas de jogo"]
-keywords: "Positano, jogo de tabuleiro, Costa Amalfitana, design de jogos, SlugFest Games, estratégia, protótipo, Cardboard Edison, mecânicas de jogo"
-author: "Ana Luiza"
-data: "2025-06-03T06:29:25.447Z"
+title: 'A Jornada de Criação do Jogo de Tabuleiro Positano: Da Inspiração à Realização'
+slug: designer-diary-positano
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/HhqaR_Fs6r58Zk21f29tSw__imagepage/img/9JFKLPk-E6b6JyZ6cXtA1us0tXk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8281271.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/HhqaR_Fs6r58Zk21f29tSw__imagepage/img/9JFKLPk-E6b6JyZ6cXtA1us0tXk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8281271.png
+tags:
+  - Positano
+  - jogo de tabuleiro
+  - Costa Amalfitana
+  - design de jogos
+  - SlugFest Games
+  - estratégia
+  - protótipo
+  - Cardboard Edison
+  - mecânicas de jogo
+keywords: >-
+  Positano, jogo de tabuleiro, Costa Amalfitana, design de jogos, SlugFest
+  Games, estratégia, protótipo, Cardboard Edison, mecânicas de jogo
+author: Ana Luiza
+data: '2025-06-03T06:29:25.447Z'
+resumo: >-
+  Explore os bastidores do desenvolvimento de Positano, um jogo de estratégia
+  que captura a beleza da Costa Amalfitana e os desafios de design enfrentados
+  para trazer essa visão à vida.
 ---
 
 ## A Inspiração por Trás de Positano
