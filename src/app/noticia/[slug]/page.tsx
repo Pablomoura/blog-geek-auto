@@ -394,6 +394,13 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                       data-ad-format="fluid"
                       data-ad-client="ca-pub-9111051074987830"
                       data-ad-slot="6194213530"></ins>
+                      <Script id="ad-reload" strategy="afterInteractive">
+                        {`
+                          try {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                          } catch (e) {}
+                        `}
+                      </Script>
                 </div>
 
                 <PostsRelacionados posts={relacionados} />
@@ -448,17 +455,19 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 </div>
               </section>
 
-              <Script id="adsense-init" strategy="afterInteractive">
-                {`(adsbygoogle = window.adsbygoogle || []).push({});`}
-              </Script>
-
               <ins className="adsbygoogle"
                   style={{ display: 'block' }}
                   data-ad-client="ca-pub-9111051074987830"
                   data-ad-slot="3961133566" // substitua pelo slot do seu bloco
                   data-ad-format="auto"
                   data-full-width-responsive="true"></ins>
-
+              <Script id="ad-reload" strategy="afterInteractive">
+                {`
+                  try {
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                  } catch (e) {}
+                `}
+              </Script>
 
               <section className="mb-8">
                 <div className="flex items-center justify-between mb-4 border-b pb-2">

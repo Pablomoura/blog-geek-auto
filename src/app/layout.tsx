@@ -31,6 +31,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           crossOrigin="anonymous"
           /> 
         <CookieScripts />
+        <Script id="adsbygoogle-init" strategy="afterInteractive">
+          {`
+            (adsbygoogle = window.adsbygoogle || []).push({});
+          `}
+        </Script>
         <Script id="set-theme" strategy="beforeInteractive">
           {`
             try {
