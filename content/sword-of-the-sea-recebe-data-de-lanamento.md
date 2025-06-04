@@ -7,7 +7,13 @@ tipoMidia: video
 thumb: >-
   https://cdn.ome.lt/tNZjmUCyOG9HB7GqAbdpFIJ0wu4=/480x360/smart/extras/conteudos/sem_titulo59.png
 tags:
-  - ''
+  - 'Sword of the Sea'
+  - PlayStation 5
+  - Giant Squid
+  - ABZU
+  - The Pathless
+  - Journey
+  - 'lançamento agosto 2023'
 keywords: ''
 author: Luana Souza
 data: '2025-06-04T22:41:23.092Z'
@@ -32,7 +38,3 @@ O trailer de Sword of the Sea revela um mundo visualmente rico, onde um personag
 - Comparações visuais e de jogabilidade com títulos anteriores da Giant Squid
 
 Com uma data de lançamento tão aguardada, Sword of the Sea promete ser uma adição imperdível para os fãs de aventuras imersivas.
-
----
-
-**Palavras-chave:** Sword of the Sea, PlayStation 5, Giant Squid, ABZU, The Pathless, Journey, lançamento agosto 2023
