@@ -30,6 +30,8 @@ resumo: >-
 
 O aguardado filme 'Superman', que marca uma nova era para a DC Studios, trouxe à luz interessantes novidades dos bastidores, especialmente sobre o Robô #4. Esse personagem, que promete ser um dos auxiliares do Homem de Aço, terá sua voz interpretada por **Alan Tudyk**, um ator frequentemente associado ao diretor **James Gunn**. Tudyk já emprestou sua voz para personagens em 'Comando das Criaturas', da HBO Max, como Doutor Fósforo e Cara de Barro, mostrando sua versatilidade na dublagem de personalidades complexas.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Superman Robot #4, but #1 in our hearts. 💙❤️<a href="https://twitter.com/hashtag/Superman?src=hash&amp;ref_src=twsrc%5Etfw">#Superman</a> - only in theaters July 11.<a href="https://twitter.com/DCOfficial?ref_src=twsrc%5Etfw">@DCOfficial</a> <a href="https://twitter.com/Superman?ref_src=twsrc%5Etfw">@Superman</a> <a href="https://t.co/hFQgxakPSc">pic.twitter.com/hFQgxakPSc</a></p>&mdash; James Gunn (@JamesGunn) <a href="https://twitter.com/JamesGunn/status/1930322114680062295?ref_src=twsrc%5Etfw">June 4, 2025</a></blockquote>
+
 ### Inovação com Efeitos Práticos
 
 Diferentemente de muitas produções modernas que dependem quase exclusivamente de computação gráfica, a equipe criativa do novo 'Superman' optou por construir um autômato totalmente funcional. Essa escolha visa proporcionar um realismo impressionante nas cenas ambientadas na icônica Fortaleza da Solidão, um dos cenários mais emblemáticos dos quadrinhos e filmes do Superman.

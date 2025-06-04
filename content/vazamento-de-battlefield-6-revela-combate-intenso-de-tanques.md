@@ -30,6 +30,8 @@ resumo: >-
 ---
 As expectativas para Battlefield 6, o próximo grande lançamento da popular série de jogos de tiro, estão crescendo com o recente vazamento de imagens que mostram um intenso combate de tanque contra tanque. A série Battlefield é conhecida por sua ação caótica e esta nova prévia não decepciona, apresentando uma batalha envolvente onde vemos motoristas de tanques rivalizando enquanto engenheiros se esforçam para reparar os veículos sob fogo cerrado. O clímax do vídeo ocorre quando um dos tanques é destruído em meio a uma nuvem de fumaça, em uma cena que já se tornou um clássico do universo Battlefield.
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">New Battlefield 6 tank vs tank pre-alpha gameplay 🔥 <a href="https://twitter.com/hashtag/Battlefield6?src=hash&amp;ref_src=twsrc%5Etfw">#Battlefield6</a> <a href="https://t.co/BvmMgA1qq2">pic.twitter.com/BvmMgA1qq2</a></p>&mdash; Rebs Gaming (@Mr_Rebs_) <a href="https://twitter.com/Mr_Rebs_/status/1929863487162917162?ref_src=twsrc%5Etfw">June 3, 2025</a></blockquote> 
+
 ### O Que Sabemos Até Agora
 
 O vídeo foi aparentemente extraído dos testes do Battlefield Labs, um programa que busca aprimorar o jogo antes de seu lançamento oficial. Embora o compartilhamento de clipes seja estritamente proibido, várias filmagens têm escapado, oferecendo aos fãs um vislumbre antecipado do que está por vir.

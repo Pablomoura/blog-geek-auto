@@ -32,23 +32,19 @@ resumo: >-
 ---
 A mais recente atualização de **Fallout 76** trouxe a Temporada 21: Gone Fission, centrada em uma mecânica inédita de pesca e missões relacionadas a peixes. Este guia detalhado aborda tudo o que você precisa saber para completar a missão de pesca, desde o desbloqueio inicial até a captura de peixes lendários e Axolotl.
 
-![Imagem da notícia](https://www.gamespot.com/a/uploads/original/1639/16394540/4506910-fishermensrestmaplocationmarked.jpg)
-
 ## Como Desbloquear a Pesca em Fallout 76
 
-![Imagem da notícia](https://www.gamespot.com/a/uploads/original/1639/16394540/4506913-nightfishing.jpg)
+![Imagem da notícia](https://www.gamespot.com/a/uploads/original/1639/16394540/4506910-fishermensrestmaplocationmarked.jpg)
 
 Para começar a pescar, é necessário iniciar a nova missão "Casting Off" da Temporada 21. Essa missão fornecerá sua primeira vara de pesca e ensinará as mecânicas básicas.
 
-![Imagem da notícia](https://www.gamespot.com/a/uploads/original/1639/16394540/4506914-upgradingthefishingrod.jpg)
-
 ### Iniciando a Missão Casting Off
-
-![Imagem da notícia](https://www.gamespot.com/a/uploads/original/1639/16394540/4506916-lindalee.jpg)
 
 Dirija-se à região do Mire no mapa de Appalachia e sintonize seu Pip-Boy no "Sinal de Onda Curta de Linda-Lee". Isso o levará ao local chamado Fisherman's Rest, onde novos personagens como O Pescador, Capitão Raymon Clark e Linda-Lee esperam por você. Caso a missão não seja ativada automaticamente, converse com O Pescador.
 
 ## Como Pescar
+
+![Imagem da notícia](https://www.gamespot.com/a/uploads/original/1639/16394540/4506913-nightfishing.jpg)
 
 Após reunir-se com os personagens no Fisherman's Rest, você receberá sua primeira vara de pesca. Para pescar, compre iscas comuns do Pescador por 4 tampinhas cada. A mecânica é simples: aproxime-se de água profunda, selecione a opção para lançar a linha e espere que um peixe puxe o flutuador para baixo antes de recolhê-lo. **Dica:** cada tentativa consome uma isca.
 
@@ -74,6 +70,8 @@ As condições climáticas influenciam os tipos de peixes que você pode captura
 
 ## Como Melhorar sua Vara de Pesca
 
+![Imagem da notícia](https://www.gamespot.com/a/uploads/original/1639/16394540/4506914-upgradingthefishingrod.jpg)
+
 A vara "gambiarra" inicial não será suficiente para as maiores capturas. Complete desafios sazonais e missões diárias de pesca para ganhar itens de melhoria, como planos para varas melhores.
 
 ## Captura de Peixes Lendários
@@ -85,6 +83,8 @@ Com uma vara aprimorada, aventure-se para capturar peixes lendários em locais e
 Para capturar todos os 12 tipos de Axolotl, você precisará pescar mensalmente em diferentes regiões. A conclusão deste desafio anual concede um título único de jogador.
 
 ## O Que Fazer com os Peixes Após a Captura
+
+![Imagem da notícia](https://www.gamespot.com/a/uploads/original/1639/16394540/4506916-lindalee.jpg)
 
 Peixes podem ser cozidos para restaurar saúde ou convertidos em **pedaços de peixe** para alimentar Linda-Lee no Fisherman's Rest. Alimente-a até que esteja "quase cheia" para aumentar suas chances de receber um item lendário.
 
