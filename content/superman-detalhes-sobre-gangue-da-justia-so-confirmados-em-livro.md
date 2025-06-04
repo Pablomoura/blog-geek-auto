@@ -1,5 +1,5 @@
 ---
-title: 'Superman: Detalhes da ''Gangue da Justiça'' Revelados em Livro Promocional'
+title: 'Superman: Novo Filme Revela Detalhes da ''Gangue da Justiça'''
 slug: superman-detalhes-sobre-gangue-da-justia-so-confirmados-em-livro
 categoria: FILMES
 midia: >-
@@ -10,35 +10,40 @@ thumb: >-
 tags:
   - Superman
   - James Gunn
-  - Gangue da Justiça
   - David Corenswet
   - Lanterna Verde
   - Mulher-Gavião
-  - Senhor Incrível
+  - Sr. Incrível
   - DCU
-  - Rachel Brosnahan
-  - Nicholas Hoult
+  - filme Superman 2025
+  - elenco Superman
+  - Gangue da Justiça
 keywords: >-
-  Superman, James Gunn, Gangue da Justiça, David Corenswet, Lanterna Verde,
-  Mulher-Gavião, Senhor Incrível, DCU, Rachel Brosnahan, Nicholas Hoult
-author: Luana Souza
-data: '2025-06-04T15:36:07.046Z'
+  Superman, James Gunn, David Corenswet, Lanterna Verde, Mulher-Gavião, Sr.
+  Incrível, DCU, filme Superman 2025, elenco Superman, Gangue da Justiça
+author: Ana Luiza
+data: '2025-06-04T15:44:57.523Z'
 resumo: >-
-  Novo livro sobre o Superman de James Gunn revela informações sobre a 'Gangue
-  da Justiça', incluindo heróis como Lanterna Verde e Mulher-Gavião. Veja como
-  eles se juntam ao icônico herói interpretado por David Corenswet.
+  O próximo filme de Superman, dirigido por James Gunn, trará um grupo de heróis
+  icônicos ao lado de David Corenswet, incluindo Lanterna Verde, Mulher-Gavião e
+  Sr. Incrível. Descubra como a nova equipe se formará e o que esperar dessa
+  aventura cinematográfica.
 ---
 
-## 'Gangue da Justiça' no Novo Filme do Superman
+## A 'Gangue da Justiça' no Novo Superman
 
 <blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1930010220908163283"></a></blockquote>
 
-Um livro promocional do tão aguardado filme do **Superman**, dirigido por **James Gunn**, revelou detalhes intrigantes sobre a 'Gangue da Justiça'. Esta equipe de heróis, que acompanha o Superman nesta nova aventura, não é unanimemente chamada assim por todos os membros, mas a tentativa de adoção do nome é liderada por Guy Gardner, o Lanterna Verde.
+Um livro promocional recentemente lançado trouxe à tona informações sobre a 'Gangue da Justiça', um grupo de heróis que se unirá ao Superman no aguardado filme dirigido por James Gunn. Este time será composto por Lanterna Verde, Mulher-Gavião e Sr. Incrível. O livro revela que, embora Guy Gardner, o Lanterna Verde, tente batizar a equipe de 'Gangue da Justiça', ele não consegue persuadir seus colegas.
 
-A equipe, composta por **Lanterna Verde**, **Mulher-Gavião** e **Senhor Incrível**, é descrita como um grupo que age de forma independente para promover o bem maior. Este novo filme do Superman contará com **David Corenswet** no papel do Homem de Aço, ao lado de um elenco estelar incluindo **Rachel Brosnahan** como Lois Lane e **Nicholas Hoult** como Lex Luthor.
+### Elenco e Personagens
 
-## Elenco e Participações Especiais
+David Corenswet assume o manto de Superman, com Rachel Brosnahan interpretando Lois Lane. Outros rostos conhecidos incluem Nicholas Hoult como Lex Luthor e Skyler Gisondo no papel de Jimmy Olsen. Nathan Fillion, Isabela Merced e Edi Gathegi se juntarão ao elenco como Guy Gardner, Mulher-Gavião e Sr. Incrível, respectivamente.
 
-Além dos já mencionados, o filme verá **Skyler Gisondo** como Jimmy Olsen e **Wendell Pierce** como Perry White. Outros personagens icônicos da **DC** também farão aparições, com **Nathan Fillion** como Guy Gardner, **Isabela Merced** como Mulher-Gavião, **Edi Gathegi** como Sr. Incrível e **Anthony Carrigan** como Metamorfo. A **Supergirl**, interpretada por **Milly Alcock**, poderá aparecer em um cameo.
+O filme trará também participações especiais de personagens da DC, como Metamorfo, interpretado por Anthony Carrigan, e a Engenheira, que será vivida por María Gabriela De Faria. Espera-se que a Supergirl de Milly Alcock também faça uma aparição.
 
-**James Gunn** não só dirige, mas também escreve o roteiro deste filme que se concentra em um **Clark Kent** jovem, logo após sua saída de Smallville, enquanto ele inicia sua carreira como repórter em Metrópoles. Gunn, como o novo chefe da DC, supervisiona todas as produções do novo universo cinematográfico, com lançamento do filme agendado para **10 de julho de 2025**.
+### Direção e Lançamento
+
+James Gunn, que além de dirigir é o roteirista do filme, foca em uma versão jovem de Clark Kent, abordando seus primeiros passos em Metrópolis como repórter e super-herói. O longa não será uma história de origem, portanto, não revisitaremos eventos como a destruição de Krypton. 
+
+O lançamento de 'Superman' está previsto para 10 de julho de 2025, marcando o início do novo Universo DC nos cinemas. Entretanto, a cronologia já começou com a série animada 'Comando das Criaturas' na HBO Max.

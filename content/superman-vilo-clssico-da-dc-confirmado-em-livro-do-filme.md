@@ -1,49 +1,50 @@
 ---
-title: 'Vilão Icônico Retorna em Superman: Livro do Filme Revela Surpresa'
+title: 'Superman de James Gunn Revela Clássico Vilão da DC: Metallo Confirmado'
 slug: superman-vilo-clssico-da-dc-confirmado-em-livro-do-filme
 categoria: FILMES
 midia: >-
-  https://cdn.ome.lt/eFlgnYZ8jLEElgRAe162WolvRjU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-04T112821.429.png
+  https://cdn.ome.lt/2tYtCXOfEQrrw9tTOz77WHt5w7c=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-06-04T112901.347.png
 tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/eFlgnYZ8jLEElgRAe162WolvRjU=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-04T112821.429.png
 tags:
   - Superman
+  - James Gunn
   - DCU
-  - vilão clássico
-  - livro do filme
-  - estreia em julho
-  - Universo DC
-  - Homem de Aço
+  - Metallo
+  - David Corenswet
+  - Rachel Brosnahan
+  - Nicholas Hoult
+  - filme do Superman 2025
+  - novo DCU
+  - Lex Luthor
+  - Clark Kent
+  - Lois Lane
+  - estreia julho 2025
 keywords: >-
-  Superman, DCU, vilão clássico, livro do filme, estreia em julho, Universo DC,
-  Homem de Aço
-author: Ana Luiza
-data: '2025-06-04T15:38:33.024Z'
+  Superman, James Gunn, DCU, Metallo, David Corenswet, Rachel Brosnahan,
+  Nicholas Hoult, filme do Superman 2025, novo DCU, Lex Luthor, Clark Kent, Lois
+  Lane, estreia julho 2025
+author: Luana Souza
+data: '2025-06-04T15:47:14.724Z'
 resumo: >-
-  O aguardado filme do novo Universo DC traz de volta um inimigo clássico de
-  Superman. Descubra quem é o vilão que promete desafiar o Homem de Aço em
-  julho.
+  O novo filme do Superman dirigido por James Gunn confirma a presença de
+  Metallo, um dos vilões clássicos da DC. O longa, que estreia em julho de 2025,
+  promete trazer um Clark Kent jovem em sua jornada heroica.
 ---
 
-## Superman: Legado do DCU
+## Metallo no Novo Superman de James Gunn
 
-O próximo filme do Universo DC, programado para estrear em julho, promete não apenas trazer uma nova visão do Superman, mas também ressuscitar um vilão clássico que os fãs certamente reconhecerão. A revelação vem de um livro associado ao filme, aumentando a expectativa dos admiradores do herói.
+O aguardado filme do Superman, dirigido por James Gunn, trará Metallo como um dos antagonistas, conforme revelado por um livro promocional da produção. Conhecido nos quadrinhos como um robô com Kryptonita no peito, Metallo foi criado por Lex Luthor e enfrentará o Superman de David Corenswet antes dos eventos principais do filme.
 
-### Quem é o Vilão?
+### Detalhes do Elenco e Personagens
 
-Embora detalhes específicos sobre a trama ainda estejam sob sigilo, o retorno deste antagonista sugere uma trama cheia de tensão e desafios para o Superman. O vilão, que já foi um espinho no lado do Homem de Aço em várias ocasiões nos quadrinhos, deverá ser um teste poderoso para o novo rumo que o DCU está tomando.
+O elenco do filme inclui **David Corenswet** no papel de Clark Kent/Superman e **Rachel Brosnahan** como Lois Lane. **Nicholas Hoult** interpretará Lex Luthor, enquanto **Skyler Gisondo** será Jimmy Olsen. Além disso, **Wendell Pierce** assume o papel de Perry White, editor-chefe do Planeta Diário.
 
-### O Novo DCU
+Outros heróis e vilões da DC também farão parte do filme: **Nathan Fillion** como Lanterna Verde Guy Gardner, **Isabela Merced** como Mulher-Gavião, **Edi Gathegi** como Sr. Incrível e **Anthony Carrigan** como Metamorfo. Há expectativas de que a Supergirl, interpretada por **Milly Alcock**, faça uma participação especial.
 
-Com o filme agendado para julho, este lançamento faz parte do esforço da DC em revitalizar seu universo cinematográfico, introduzindo elementos clássicos e novas narrativas. Os fãs do Superman e do DCU têm motivos de sobra para ficarem empolgados com o que está por vir.
+### A Nova Era do DCU
 
-**Curiosidade:** Será que este vilão trará referências diretas de suas aparições nos quadrinhos anteriores? A resposta só será revelada quando o filme chegar às telonas.
+James Gunn, além de dirigir e roteirizar o filme, lidera a nova fase do DCU, planejando e supervisionando várias produções futuras, incluindo **Lanternas Verdes**, **Supergirl** e **Batman: The Brave and the Bold**, dirigido por **Andy Muschietti**. É importante lembrar que o universo de **The Batman**, de **Matt Reeves**, estrelado por **Robert Pattinson**, permanece separado, apesar de discussões sobre uma possível integração.
 
----
-
-#### Fontes e Referências
-
-- [Sabretooth (TV Movie 2002) - News - IMDb - imdb.com](https://www.imdb.com/title/tt0284445/news/)
-- [What James Gunn's Superman Costume Reveals About David ... - nordic.ign.com](https://nordic.ign.com/kingdom-come/79522/feature/what-james-gunns-superman-costume-reveals-about-david-corenswets-man-of-steel)
-- [Ultraman - News - IMDb - imdb.com](https://www.imdb.com/name/nm3118212/news/)
+O filme está programado para estrear em **10 de julho de 2025** e será o primeiro longa-metragem do novo universo compartilhado, que já começou com a série animada **Comando das Criaturas** na **HBO Max**.

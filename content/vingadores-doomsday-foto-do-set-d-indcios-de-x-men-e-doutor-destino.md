@@ -1,5 +1,7 @@
 ---
-title: 'Vingadores: Doomsday Pode Trazer X-Men e Doutor Destino, Revela Foto do Set'
+title: >-
+  Nova Foto de Vingadores: Doomsday Sugere Participação dos X-Men e Doutor
+  Destino
 slug: vingadores-doomsday-foto-do-set-d-indcios-de-x-men-e-doutor-destino
 categoria: FILMES
 midia: >-
@@ -9,43 +11,38 @@ thumb: >-
   https://cdn.ome.lt/5nmUopblu70Sp-7eoUw51BhZDSM=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-04T112147.771.png
 tags:
   - 'Vingadores: Doomsday'
-  - MCU
   - X-Men
   - Doutor Destino
+  - MCU
   - Robert Downey Jr.
   - Chris Hemsworth
-  - Anthony Mackie
-  - Tom Hiddleston
-  - Simu Liu
-  - Quarteto Fantástico
   - Patrick Stewart
-  - Ian McKellen
+  - Marvel
+  - Quarteto Fantástico
+  - Thunderbolts
 keywords: >-
-  Vingadores: Doomsday, MCU, X-Men, Doutor Destino, Robert Downey Jr., Chris
-  Hemsworth, Anthony Mackie, Tom Hiddleston, Simu Liu, Quarteto Fantástico,
-  Patrick Stewart, Ian McKellen
+  Vingadores: Doomsday, X-Men, Doutor Destino, MCU, Robert Downey Jr., Chris
+  Hemsworth, Patrick Stewart, Marvel, Quarteto Fantástico, Thunderbolts
 author: Pablo Moura
-data: '2025-06-04T15:39:14.149Z'
+data: '2025-06-04T15:47:53.040Z'
 resumo: >-
-  Uma imagem dos bastidores de Vingadores: Doomsday sugere a presença dos X-Men
-  e do vilão Doutor Destino. O filme, que promete ser um marco no MCU, estreia
-  em 2026.
+  Imagem dos bastidores de 'Vingadores: Doomsday' levanta especulações sobre a
+  inclusão dos X-Men e Doutor Destino no novo filme do MCU. Estreia marcada para
+  2026 promete um elenco estelar.
 ---
 
-## Vingadores: Doomsday e os possíveis novos rostos no MCU
+## Expectativas para Vingadores: Doomsday
 
 <blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1930017264667181426"></a></blockquote>
 
-Uma recente foto dos bastidores de **Vingadores: Doomsday**, novo longa do Universo Cinematográfico Marvel (MCU), trouxe à tona especulações sobre a presença dos X-Men e do vilão Doutor Destino. A imagem revela anjos e estátuas que podem estar relacionadas tanto à mansão dos mutantes quanto ao lar de Victor Von Doom, interpretado por **Robert Downey Jr.**. No entanto, até o momento, estas são apenas suposições.
+Uma imagem dos bastidores de 'Vingadores: Doomsday', próximo grande lançamento do MCU, está agitando os fãs. A foto revela detalhes intrigantes, como anjos e estátuas, que podem estar associados a locais icônicos, como a mansão dos X-Men ou a do vilão Victor Von Doom, interpretado por Robert Downey Jr. Enquanto isso, as especulações continuam a crescer.
 
 ### Elenco Estelar Confirmado
 
-A Marvel já anunciou um elenco de peso para o filme, que inclui veteranos dos Vingadores como **Chris Hemsworth** (Thor), **Anthony Mackie** (Capitão América), e **Tom Hiddleston** (Loki). Além disso, a nova geração do MCU também marcará presença, com **Simu Liu** como Shang-Chi e o novo **Quarteto Fantástico**, liderado por **Pedro Pascal** como Sr. Fantástico.
+A Marvel anunciou um elenco impressionante para 'Vingadores: Doomsday', criando expectativa para um dos maiores encontros de heróis já vistos. Retornam ao universo Chris Hemsworth (Thor), Anthony Mackie (Capitão América), Sebastian Stan (Soldado Invernal), Paul Rudd (Homem-Formiga), Winston Duke (M'Baku), Letitia Wright (Pantera Negra) e Tom Hiddleston (Loki).
 
-O filme ainda promete trazer de volta os clássicos **X-Men** dos filmes da Fox, com **Patrick Stewart** reprisando seu papel como Professor X, ao lado de **Ian McKellen** como Magneto e outros favoritos dos fãs.
+Além disso, heróis introduzidos após 'Vingadores: Ultimato' também estarão presentes, incluindo Simu Liu (Shang-Chi), Danny Ramirez (Falcão), e o novo Quarteto Fantástico com Pedro Pascal, Vanessa Kirby, Joseph Quinn e Ebon Moss-Bachrach. O elenco de 'Thunderbolts', com Florence Pugh, Wyatt Russell, David Harbour, Hanah John-Kamen e Lewis Pullman, também está confirmado.
 
-### Lançamento e Expectativas
+### Retorno dos X-Men
 
-**Vingadores: Doomsday** está programado para estrear em 17 de dezembro de 2026 no Brasil. Este filme será uma preparação para **Vingadores: Guerras Secretas**, que chega aos cinemas em 16 de dezembro de 2027, finalizando a Saga do Multiverso.
-
-Com um elenco tão diversificado e a promessa de integrar personagens icônicos, o filme já está entre os lançamentos mais aguardados da próxima fase do MCU.
+A grande surpresa é a volta dos X-Men clássicos da era Fox, com Patrick Stewart (Professor X), Ian McKellen (Magneto), James Marsden (Ciclope), Alan Cumming (Noturno), Kelsey Grammer (Fera), Rebecca Romijn (Mística) e Channing Tatum (Gambit) se juntando ao elenco. 'Vingadores: Doomsday' está previsto para estrear em 17 de dezembro de 2026 no Brasil, preparando o caminho para 'Vingadores: Guerras Secretas', que será lançado em 16 de dezembro de 2027.
