@@ -114,7 +114,7 @@ tipoMidia: "imagem"
 thumb: "${midia}"
 keywords: "${tags.join(", ")}"
 tags: [${tags.map((t) => `"${t}"`).join(", ")}]
-author: "Equipe GeekNews"
+author: "Pablo Moura"
 data: "${data}"
 ---
 

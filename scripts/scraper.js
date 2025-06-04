@@ -510,7 +510,7 @@ data: "${new Date().toISOString()}"
     novaNoticia.data = new Date().toISOString();
     
     resultados.push(novaNoticia);
-    await enviarParaIndexingAPI(`https://www.geeknews.com.br/noticia/${slug}`);
+   // await enviarParaIndexingAPI(`https://www.geeknews.com.br/noticia/${slug}`);
   }
 
   return resultados;
@@ -664,7 +664,7 @@ elenco: ["${(Array.isArray(novaCritica.elenco) ? novaCritica.elenco : []).join('
       novaCritica.data = new Date().toISOString();
 
       resultados.push(novaCritica);
-      await enviarParaIndexingAPI(`https://www.geeknews.com.br/noticia/${slug}`);
+    //  await enviarParaIndexingAPI(`https://www.geeknews.com.br/noticia/${slug}`);
     } catch (err) {
       console.warn("⚠️ Falha ao capturar crítica:", critica.titulo, err.message);
       continue;
