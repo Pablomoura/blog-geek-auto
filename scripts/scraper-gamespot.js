@@ -112,7 +112,7 @@ function extrairImagensDoHtml(html) {
 
 async function executarScraper() {
   const noticias = await buscarNoticiasGameSpotRSS();
-  const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
+  const autores = ["Pablo Moura"];
   let novosPosts = [];
 
   for (const noticia of noticias.slice(0, MAX_POSTS)) {
