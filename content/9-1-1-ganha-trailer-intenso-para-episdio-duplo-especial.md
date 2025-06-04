@@ -2,7 +2,7 @@
 title: 9-1-1 apresenta trailer emocionante para episódio duplo sobre contágio
 slug: 9-1-1-ganha-trailer-intenso-para-episdio-duplo-especial
 categoria: SÉRIES E TV
-midia: 'https://www.youtube.com/embed/fRiGdJw_xeE?showinfo=0&enablejsapi=1'
+midia: 'https://www.youtube.com/embed/Hc04-NumdKg?si=l1EYB96VbrFqUv-3'
 tipoMidia: video
 thumb: >-
   https://cdn.ome.lt/hls1ecEYbiqeIf-2E2T0rII_xPs=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-04_094330.png
