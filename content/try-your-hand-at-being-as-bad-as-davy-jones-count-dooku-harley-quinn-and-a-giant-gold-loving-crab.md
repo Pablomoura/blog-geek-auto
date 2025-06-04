@@ -1,14 +1,33 @@
 ---
-title: "Novos Jogos Villainous e Arkham Asylum Chegam para Aumentar sua Coleção de Vilões"
-slug: "try-your-hand-at-being-as-bad-as-davy-jones-count-dooku-harley-quinn-and-a-giant-gold-loving-crab"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/Ah_RwCGHtPROEl3V8ya44A__imagepage/img/6_jnBaYRY1nSwqY_T5cvsgFiXU4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8906683.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/Ah_RwCGHtPROEl3V8ya44A__imagepage/img/6_jnBaYRY1nSwqY_T5cvsgFiXU4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8906683.png"
-tags: ["Disney Villainous", "Star Wars Villainous", "DC Comics", "Arkham Asylum", "jogos de tabuleiro", "Ravensburger", "Cryptozoic Entertainment", "lançamentos 2025"]
-keywords: "Disney Villainous, Star Wars Villainous, DC Comics, Arkham Asylum, jogos de tabuleiro, Ravensburger, Cryptozoic Entertainment, lançamentos 2025"
-author: "Pablo Moura"
-data: "2025-06-04T06:29:06.190Z"
+title: >-
+  Novos Jogos Villainous e Arkham Asylum Chegam para Aumentar sua Coleção de
+  Vilões
+slug: >-
+  try-your-hand-at-being-as-bad-as-davy-jones-count-dooku-harley-quinn-and-a-giant-gold-loving-crab
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/Ah_RwCGHtPROEl3V8ya44A__imagepage/img/6_jnBaYRY1nSwqY_T5cvsgFiXU4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8906683.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/Ah_RwCGHtPROEl3V8ya44A__imagepage/img/6_jnBaYRY1nSwqY_T5cvsgFiXU4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8906683.png
+tags:
+  - Disney Villainous
+  - Star Wars Villainous
+  - DC Comics
+  - Arkham Asylum
+  - jogos de tabuleiro
+  - Ravensburger
+  - Cryptozoic Entertainment
+  - lançamentos 2025
+keywords: >-
+  Disney Villainous, Star Wars Villainous, DC Comics, Arkham Asylum, jogos de
+  tabuleiro, Ravensburger, Cryptozoic Entertainment, lançamentos 2025
+author: Pablo Moura
+data: '2025-06-04T06:29:06.190Z'
+resumo: >-
+  A Ravensburger e a Cryptozoic Entertainment revelam novos títulos imperdíveis
+  para fãs de jogos de tabuleiro. Prepare-se para enfrentar vilões icônicos da
+  Disney, Star Wars e DC Comics em aventuras emocionantes.
 ---
 
 ## Novos Jogos Villainous Anunciados pela Ravensburger

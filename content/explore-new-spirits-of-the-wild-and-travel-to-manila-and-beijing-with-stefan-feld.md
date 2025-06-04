@@ -1,14 +1,35 @@
 ---
-title: "Novidades em Board Games: 'Spirits of the Wild: Awakening' e Coleção 'Stefan Feld City'"
-slug: "explore-new-spirits-of-the-wild-and-travel-to-manila-and-beijing-with-stefan-feld"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/0s0bK-xBlP_UQBBA5xoLTg__imagepage/img/D81oWM7MntIS5nqqS-KMC35wK2A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8917073.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/0s0bK-xBlP_UQBBA5xoLTg__imagepage/img/D81oWM7MntIS5nqqS-KMC35wK2A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8917073.png"
-tags: ["Spirits of the Wild: Awakening", "jogos de tabuleiro", "Stefan Feld City Collection", "Manila", "Beijing", "Mattel", "Queen Games", "Nick Hayes", "estratégia", "board games"]
-keywords: "Spirits of the Wild: Awakening, jogos de tabuleiro, Stefan Feld City Collection, Manila, Beijing, Mattel, Queen Games, Nick Hayes, estratégia, board games"
-author: "Ana Luiza"
-data: "2025-06-04T06:28:05.485Z"
+title: >-
+  Novidades em Board Games: 'Spirits of the Wild: Awakening' e Coleção 'Stefan
+  Feld City'
+slug: >-
+  explore-new-spirits-of-the-wild-and-travel-to-manila-and-beijing-with-stefan-feld
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/0s0bK-xBlP_UQBBA5xoLTg__imagepage/img/D81oWM7MntIS5nqqS-KMC35wK2A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8917073.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/0s0bK-xBlP_UQBBA5xoLTg__imagepage/img/D81oWM7MntIS5nqqS-KMC35wK2A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8917073.png
+tags:
+  - 'Spirits of the Wild: Awakening'
+  - jogos de tabuleiro
+  - Stefan Feld City Collection
+  - Manila
+  - Beijing
+  - Mattel
+  - Queen Games
+  - Nick Hayes
+  - estratégia
+  - board games
+keywords: >-
+  Spirits of the Wild: Awakening, jogos de tabuleiro, Stefan Feld City
+  Collection, Manila, Beijing, Mattel, Queen Games, Nick Hayes, estratégia,
+  board games
+author: Ana Luiza
+data: '2025-06-04T06:28:05.485Z'
+resumo: >-
+  Descubra o relançamento aprimorado de 'Spirits of the Wild: Awakening' e as
+  adições inovadoras na coleção de Stefan Feld com 'Manila' e 'Beijing'.
 ---
 
 ## **Spirits of the Wild: Awakening - Um Novo Olhar Sob a Perspectiva Espiritual**

@@ -1,14 +1,34 @@
 ---
-title: "Descubra Relíquias em The Four Doors e Experimente Jungo: Novidades da Happy Camper"
-slug: "search-for-relics-in-the-four-doors-and-welcome-to-the-jungo-we-got-fun-and-games"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/zFIEf3IRg7SnCpaWRXv9Rw__imagepage/img/rb4o7WlHzWBUz3X3-HSk-ZkSPfA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8918873.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/zFIEf3IRg7SnCpaWRXv9Rw__imagepage/img/rb4o7WlHzWBUz3X3-HSk-ZkSPfA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8918873.jpg"
-tags: ["The Four Doors", "Jungo", "Happy Camper", "Matt Leacock", "Gen Con 2025", "jogos de tabuleiro", "jogos cooperativos", "jogos de cartas"]
-keywords: "The Four Doors, Jungo, Happy Camper, Matt Leacock, Gen Con 2025, jogos de tabuleiro, jogos cooperativos, jogos de cartas"
-author: "Ana Luiza"
-data: "2025-06-04T06:28:29.334Z"
+title: >-
+  Descubra Relíquias em The Four Doors e Experimente Jungo: Novidades da Happy
+  Camper
+slug: >-
+  search-for-relics-in-the-four-doors-and-welcome-to-the-jungo-we-got-fun-and-games
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/zFIEf3IRg7SnCpaWRXv9Rw__imagepage/img/rb4o7WlHzWBUz3X3-HSk-ZkSPfA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8918873.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/zFIEf3IRg7SnCpaWRXv9Rw__imagepage/img/rb4o7WlHzWBUz3X3-HSk-ZkSPfA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8918873.jpg
+tags:
+  - The Four Doors
+  - Jungo
+  - Happy Camper
+  - Matt Leacock
+  - Gen Con 2025
+  - jogos de tabuleiro
+  - jogos cooperativos
+  - jogos de cartas
+keywords: >-
+  The Four Doors, Jungo, Happy Camper, Matt Leacock, Gen Con 2025, jogos de
+  tabuleiro, jogos cooperativos, jogos de cartas
+author: Ana Luiza
+data: '2025-06-04T06:28:29.334Z'
+resumo: >-
+  A Happy Camper está lançando dois novos jogos, incluindo uma colaboração de
+  Matt Leacock, Matt Riddle e Ben Pinchback. Entre eles, The Four Doors oferece
+  uma emocionante aventura cooperativa, enquanto Jungo promete desafiar suas
+  habilidades de estratégia.
 ---
 
 ## The Four Doors: Aventura Cooperativa para Salvar o Mundo
