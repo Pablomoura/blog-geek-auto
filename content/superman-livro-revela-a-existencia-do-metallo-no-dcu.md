@@ -2,7 +2,7 @@
 title: >-
   Superman 2025: Livro Prelúdio Revela a Introdução de Metallo no Novo Universo DC
 slug: superman-livro-revela-a-existencia-do-metallo-no-dcu
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   https://www.youtube.com/embed/SLeE1q3z08o
 tipoMidia: video

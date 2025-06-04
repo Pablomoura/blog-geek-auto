@@ -1,7 +1,7 @@
 ---
 title: Sessão da Tarde Apresenta 'Um Casal Inseparável' nesta Quarta-feira
 slug: um-casal-inseparvel-ser-exibido-na-sesso-da-tarde-da-globo-desta-quarta
-categoria: SÉRIES E TV
+categoria: Filmes
 midia: >-
   https://cdn.ome.lt/6ioAglozRj1nK6gI8BYUJpoqXiY=/987x0/smart/uploads/conteudo/fotos/umcasalinseparavel.jpg
 tipoMidia: imagem

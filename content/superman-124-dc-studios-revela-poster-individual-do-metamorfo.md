@@ -2,7 +2,7 @@
 title: >-
   DC Studios Lança Pôster Inédito de Metamorfo no Novo Filme do Superman
 slug: superman-124-dc-studios-revela-poster-individual-do-metamorfo
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/06/20250603-ovicio-metamorfo-superman.jpg
 tipoMidia: imagem

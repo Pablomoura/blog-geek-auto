@@ -2,7 +2,7 @@
 title: >-
   DC Comics Revela Quadrinhos Inspiradores para Novo Filme do Superman de James Gunn
 slug: superman-124-dc-confirma-hqs-que-inspiraram-filme-de-james-gunn
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/05/20250530-image-1.png
 tipoMidia: imagem

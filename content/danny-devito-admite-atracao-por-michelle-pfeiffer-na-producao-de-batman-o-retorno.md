@@ -2,7 +2,7 @@
 title: >-
   Danny DeVito Recorda Fascínio por Michelle Pfeiffer nos Bastidores de Batman: O Retorno
 slug: danny-devito-admite-atracao-por-michelle-pfeiffer-na-producao-de-batman-o-retorno
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/06/20250603-mulher-gato-pinguim-batman-o-retorno.webp
 tipoMidia: imagem

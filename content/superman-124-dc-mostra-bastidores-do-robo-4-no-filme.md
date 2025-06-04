@@ -2,7 +2,7 @@
 title: >-
   Superman: Bastidores do Robô #4 Revelam Inovação no Novo Filme da DC
 slug: superman-124-dc-mostra-bastidores-do-robo-4-no-filme
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/04/20250403-ovicio-superman-dc-studios-2.jpg
 tipoMidia: imagem

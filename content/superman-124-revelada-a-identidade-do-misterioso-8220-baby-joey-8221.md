@@ -2,7 +2,7 @@
 title: >-
   Superman: Identidade do Enigmático 'Baby Joey' Finalmente Revelada
 slug: superman-124-revelada-a-identidade-do-misterioso-8220-baby-joey-8221
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/06/20250604-baby-joey-e-superman.webp
 tipoMidia: imagem

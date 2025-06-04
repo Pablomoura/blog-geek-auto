@@ -2,7 +2,7 @@
 title: >-
   DC Studios Apresenta Vilões Memoráveis de Superman em Cartazes Inéditos
 slug: lex-luthor-engenheira-e-mais-dc-studios-revela-cartazes-dos-viloes-de-superman
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/06/20250604-image-7.png
 tipoMidia: imagem

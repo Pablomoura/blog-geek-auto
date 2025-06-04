@@ -2,7 +2,7 @@
 title: >-
   Novo Pantera Negra: Marvel Choca com Revelação de Filho Perdido de T'Challa
 slug: marvel-faz-revelacao-polemica-ao-confirmar-novo-pantera-negra-dos-quadrinhos
-categoria: Séries e TV
+categoria: HQ/Livros
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/06/20250604-pantera-negra-em-the-world-to-come.jpg
 tipoMidia: imagem
