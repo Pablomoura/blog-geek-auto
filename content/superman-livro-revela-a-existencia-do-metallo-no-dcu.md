@@ -7,7 +7,7 @@ midia: >-
   https://www.youtube.com/embed/SLeE1q3z08o
 tipoMidia: video
 thumb: >-
-  https://ovicio.com.br/wp-content/uploads/2025/06/20250603-20250603--slee1q3z08o.jpg
+  /images/MetalloSilverAge.jpg
 tags:
   - 'Superman 2025'
   - 'Metallo'

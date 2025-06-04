@@ -20,6 +20,7 @@ tags:
   - 'quadrinhos'
   - 'estreia'
   - 'Warner Bros Pictures'
+  - especial-Superman
 keywords: >-
   Superman, Metamorfo, DC Studios, Anthony Carrigan, Superman: Legacy, James Gunn, Lex Luthor, DCU, quadrinhos, estreia, Warner Bros. Pictures
 author: Pablo Moura
