@@ -19,6 +19,7 @@ tags:
   - 'quadrinhos'
   - 'cinema'
   - 'estreia Superman'
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DC Comics, Grandes Astros: Superman, Superman: As Quatro Estações, Lex Luthor: O Homem de Aço, filme do Superman, quadrinhos, cinema, estreia Superman
 author: Luana Souza

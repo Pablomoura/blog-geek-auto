@@ -22,10 +22,32 @@ const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
 async function gerarEvergreen(tema) {
   const prompt = `
-Crie um artigo evergreen otimizado para SEO com título, resumo e corpo do texto em Markdown (com ## para H2, ### para H3 e listas com "-").
-Use linguagem clara, parágrafos curtos (2-3 frases), com no mínimo 2000 palavras.
-Baseie a categoria no tema.
-Gere também até 8 tags curtas e relevantes.
+Você é um especialista em SEO, GEO (Generative Engine Optimization) e AEO (Answer Engine Optimization). Escreva um artigo completo, evergreen e otimizado para o Google e IAs como ChatGPT e Gemini de 1200 a 2000 palavras.
+Estrutura do artigo:
+- Introdução com a palavra-chave principal na primeira frase. Use parágrafos curtos, com linguagem fluida, didática e convidativa.
+- H2: Blocos principais com conteúdo profundo, escaneável e informativo. Inicie o primeiro parágrafo de cada H2 com a palavra-chave principal sempre que possível.
+- H3: Subtópicos e perguntas diretas (AEO), respondidas de forma clara e objetiva, com até 2 parágrafos curtos.
+- H2 Final: “Dúvidas Frequentes” com respostas rápidas em bullet points (250–300 caracteres).
+- Conclusão: 1 ou 2 parágrafos curtos com CTA convidando o leitor a continuar navegando no site.
+
+Regras de repetição:
+- Repita a palavra-chave principal a cada 125 palavras aproximadamente.
+- Cada palavra-chave secundária deve aparecer pelo menos 2 vezes em blocos diferentes.
+- Use variações naturais e semânticas para evitar repetições robóticas.
+
+Estilo e tom:
+- Use linguagem informacional, natural, fluida e humanizada.
+- Seja claro, direto e gentil, como um especialista explicando para um amigo.
+- Evite jargões técnicos, repetições mecânicas ou linguagem artificial.
+- Use exemplos, provas sociais ou comparações quando fizer sentido.
+
+Regras de SEO semântico:
+- Extraia palavras semânticas relevantes e aplique de forma natural no texto.
+- Respeite a originalidade: todo o conteúdo deve ser único e parecer escrito por um humano com domínio do assunto.
+
+- Não copie frases de outros sites. Gere tudo de forma original.
+- Gere em HTML estruturado com tags <h1>, <h2>, <h3>, <p>, <ul> etc.
+- Gere também até 8 tags curtas e relevantes para serem usadas como palavras-chave.
 
 Tema: ${tema}
 
@@ -38,24 +60,29 @@ Responda em JSON válido (sem markdown ou quebras extras):
   "tags": ["tag1", "tag2", "tag3"],
   "categoria": "..."
 }`;
-
   try {
-    const res = await axios.post(
-      "https://api.openai.com/v1/chat/completions",
-      {
-        model: "gpt-4-turbo",
-        messages: [{ role: "user", content: prompt }],
-        temperature: 0.7,
-      },
-      {
-        headers: {
-          Authorization: `Bearer ${OPENAI_API_KEY}`,
-          "Content-Type": "application/json",
+      const response = await axios.post(
+        "https://api.openai.com/v1/chat/completions",
+        {
+          model: "gpt-4o",
+          messages: [
+            {
+              role: "user",
+              content: prompt,
+            },
+          ],
+          temperature: 0.5,
         },
-      }
-    );
+        {
+          headers: {
+            Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+            "Content-Type": "application/json",
+            "OpenAI-Service-Tier": "flex", // Especifica o uso do tier flexível
+          },
+        }
+      );
 
-    let raw = res.data.choices[0].message.content.trim();
+    let raw = response.data.choices[0].message.content.trim();
 
     // Corrigir caso venha com bloco markdown ```json ... ```
     raw = raw.replace(/^```json[\r\n]+/, "").replace(/```$/, "").trim();

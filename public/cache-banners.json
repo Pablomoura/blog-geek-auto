@@ -1,85 +1,92 @@
 {
+  "data": "2025-06-04",
   "games": [
     {
-      "slug": "nintendo-switch-2-welcome-tour-jogo-de-lanamento-do-console-ganha-trailer",
-      "titulo": "Nintendo Switch 2: Novo Trailer de Jogo Interativo Revela Funcionalidades do Console",
-      "thumb": "https://cdn.ome.lt/1rWZIQpzaHVkyHssykOUOs5Gaws=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-02T112505.433.png",
-      "categoria": "GAMES"
-    },
-    {
-      "slug": "elden-ring-nightreign-solta-patch-que-facilita-partidas-para-jogadores-solo",
-      "titulo": "FromSoftware Lança Patch de Elden Ring Nightreign com Melhorias para Jogadores Solo",
-      "thumb": "https://cdn.ome.lt/A1is5iMzWwNMxqX09pBP_4zqRu0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-02T113727.359.png",
-      "categoria": "GAMES"
-    },
-    {
-      "slug": "james-bond-primeiro-jogo-da-nova-trilogia-007-first-light-promete-surpresas",
-      "titulo": "James Bond: Primeiro Jogo da Nova Trilogia '007: First Light' Promete Surpresas",
-      "thumb": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504997-screenshot2025-06-02at11.12.57am.png",
+      "slug": "ofertas-imperdveis-de-pokmon-scarlet-e-violet-com-atualizao-grtis-no-switch-2",
+      "titulo": "Ofertas Imperdíveis de Pokémon Scarlet e Violet com Atualização Grátis no Switch 2",
+      "thumb": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4505565-pokemon-sv.jpg",
       "categoria": "Games"
+    },
+    {
+      "slug": "descubra-os-mistrios-ocultos-em-the-sims-4-vampiros-lobisomens-feiticeiros-e-mais",
+      "titulo": "Descubra os Mistérios Ocultos em The Sims 4: Vampiros, Lobisomens, Feiticeiros e Mais",
+      "thumb": "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4505674-sims4werewolves.jpg",
+      "categoria": "Games"
+    },
+    {
+      "slug": "licenas-de-games-em-brinquedos-cresceu-20-no-brasil-diz-anlise",
+      "titulo": "Licenciamento de Brinquedos Baseados em Games Cresce 20% no Brasil",
+      "thumb": "https://cdn.ome.lt/D-z2E6iv0tJ_PwHcHGJrwh0MlrA=/480x360/smart/extras/conteudos/imagem_2025-06-03_174708369.png",
+      "categoria": "GAMES"
     }
   ],
   "series-e-tv": [
     {
-      "slug": "andor-124-criador-confirma-orcamento-astronomico-8220-lutamos-muito-pelo-dinheiro-8221",
-      "titulo": "Andor: O Impactante Orçamento de US$ 650 Milhões e a Batalha pela Continuidade",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/04/20250421-image-21.png",
-      "categoria": "Séries e TV"
-    },
-    {
-      "slug": "the-walking-dead-daryl-dixon-ganha-trailer-para-sua-3-temporada",
-      "titulo": "Trailer da 3ª Temporada de The Walking Dead: Daryl Dixon é Revelado",
-      "thumb": "https://cdn.ome.lt/Mgddh94bV3g_dNhCpdLvnYUsLRg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-02T114406.522.png",
+      "slug": "a-casa-do-drago-terceira-temporada-vai-adaptar-momentos-icnicos-do-livro",
+      "titulo": "Momentos Épicos de Fogo & Sangue Serão Adotados na Terceira Temporada de A Casa do Dragão",
+      "thumb": "https://cdn.ome.lt/fhiuaZk6b5kWUOKjklw19N2Dv2s=/480x360/smart/extras/conteudos/sem_titulo49.png",
       "categoria": "SÉRIES E TV"
     },
     {
-      "slug": "ningum-quer-2-temporada-ganha-data-de-estreia-e-teaser-com-elenco",
-      "titulo": "Ninguém Quer: Segunda Temporada Chega em Outubro com Novidades no Elenco",
-      "thumb": "https://cdn.ome.lt/wAp4-I-D2CpSI-dOoQL6ns5t01M=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-02T115123.691.png",
+      "slug": "slow-horses-124-5-temporada-estreia-em-setembro-no-apple-tv-e-ganha-primeiras-imagens",
+      "titulo": "Slow Horses: Quinta Temporada Chega em Setembro ao Apple TV+ com Novas Imagens",
+      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/06/20250603-slow-horses-quinta-temporada.webp",
+      "categoria": "Séries e TV"
+    },
+    {
+      "slug": "adolescncia-se-torna-2-srie-em-ingls-mais-vista-da-netflix",
+      "titulo": "Adolescência se Destaca como Segunda Série em Inglês Mais Assistida da Netflix",
+      "thumb": "https://cdn.ome.lt/S-wSy2sCqBgnInv_nPOI7zV1NS8=/480x360/smart/extras/conteudos/sem_titulo46.png",
       "categoria": "SÉRIES E TV"
     }
   ],
   "mangas-e-animes": [
     {
-      "slug": "filme-de-miss-kobayashi-8217-s-dragon-maid-ganha-novo-trailer",
-      "titulo": "Miss Kobayashi's Dragon Maid: Novo Trailer do Filme Revela Relação Entre Pai e Filha",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/06/20250602-cena-do-filme-de-miss-kobayashis-dragon-maid-ovicio.webp",
+      "slug": "jogo-de-kaiju-no-8-alcanca-300-mil-pre-registros",
+      "titulo": "Kaiju No. 8: Jogo Bate Recorde de 300 Mil Pré-Registros e Traz Personagem Inédita",
+      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/06/20250603-kaiju-no-the-game-arte-promocional-ovicio.webp",
       "categoria": "Mangás e Animes"
     },
     {
-      "slug": "anime-de-tom-038-jerry-sera-lancado-no-youtube",
-      "titulo": "Tom & Jerry Gokko: Novo Anime Chega ao YouTube Internacionalmente",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/06/20250602-tom-e-jerry-gokko-ovicio.webp",
+      "slug": "shonen-jump-lanca-concurso-para-encontrar-mangas-com-os-melhores-viloes",
+      "titulo": "Concurso da Shonen Jump+ Busca Mangás com Vilões Memoráveis e Inovadores",
+      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/06/20250603-banner-do-concurso-bad-guy-manga-award-ovicio.webp",
       "categoria": "Mangás e Animes"
     },
     {
-      "slug": "o-verao-em-que-hikaru-morreu-ganha-novo-trailer-e-data-de-estreia",
-      "titulo": "O Verão em que Hikaru Morreu: Novo Trailer e Estreia Mundial na Netflix",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/06/20250602-chiaki-kobayahsi-e-hikaru-indou-em-cena-do-anime-o-verao-em-que-hikaru-morreu-ovicio.webp",
-      "categoria": "Mangás e Animes"
+      "slug": "one-piece-trailer-do-episdio-1132-mostra-kuma-lutando-em-seu-auge-assista",
+      "titulo": "One Piece: Trailer do Episódio 1132 Destaca Batalha Épica de Kuma em Seu Melhor Momento",
+      "thumb": "https://cdn.ome.lt/Ei4N7v8rCv08CU7Yn-P97Fy6R3c=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-03T110302.596.png",
+      "categoria": "MANGÁS E ANIMES"
     }
   ],
   "filmes": [
     {
-      "slug": "superman-site-revela-oramento-e-arrecadao-necessria-para-evitar-prejuzo",
-      "titulo": "Superman de James Gunn: Orçamento e Expectativas de Bilheteria Revelados",
-      "thumb": "https://cdn.ome.lt/pVYkAKiPw_1SMrixf9w_JqGyJnY=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-02T121614.221.png",
-      "categoria": "FILMES"
-    },
-    {
-      "slug": "o-contador-2-com-ben-affleck-ganha-data-de-estreia-no-prime-video",
-      "titulo": "O Contador 2 com Ben Affleck: Data de Estreia no Prime Video Anunciada",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/02/20250211-image-4.png",
+      "slug": "pecadores-ganha-cena-deletada-com-construcao-do-juke-joint",
+      "titulo": "Cena Deletada de Pecadores Revela Construção do Icônico Juke Joint",
+      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/04/20250419-ovicio-pecadores-critica.webp",
       "categoria": "Filmes"
     },
     {
-      "slug": "o-contador-2-onde-assistir-ao-filme-com-ben-affleck-e-jon-bernthal",
-      "titulo": "O Contador 2: Data de Lançamento no Prime Video com Ben Affleck e Jon Bernthal",
-      "thumb": "https://cdn.ome.lt/acr8KzzNj4nGm2o_yBpbKzpOt4s=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-02T102430.395.png",
-      "categoria": "FILMES"
+      "slug": "clint-eastwood-nega-entrevista-a-site-austriaco-jornalista-e-demitida-e-rebate-acusacoes",
+      "titulo": "Clint Eastwood Desmente Entrevista e Situação Gera Polêmica Internacional",
+      "thumb": "https://ovicio.com.br/wp-content/uploads/2024/05/20240531-clint-eastwood.webp",
+      "categoria": "Filmes"
+    },
+    {
+      "slug": "mattel-anuncia-criacao-de-estudio-cinematografico",
+      "titulo": "Mattel Lança Estúdio de Cinema e TV para Expandir Marcas Icônicas",
+      "thumb": "https://ovicio.com.br/wp-content/uploads/2024/01/20240123-ovicio-oscar-barbie.jpg",
+      "categoria": "Filmes"
     }
   ],
   "board-games": [
+    {
+      "slug": "designer-diary-positano",
+      "titulo": "A Jornada de Criação do Jogo de Tabuleiro Positano: Da Inspiração à Realização",
+      "thumb": "https://cf.geekdo-images.com/HhqaR_Fs6r58Zk21f29tSw__imagepage/img/9JFKLPk-E6b6JyZ6cXtA1us0tXk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8281271.png",
+      "categoria": "Board Games"
+    },
     {
       "slug": "bgg039s-gen-con-2025-preview-is-now-live",
       "titulo": "Prévia da Gen Con 2025 no BGG Destaca Mais de 150 Novos Jogos",
@@ -90,12 +97,6 @@
       "slug": "game-review-meister-makatsu-or-avoid-striking-high-to-score-low",
       "titulo": "Domine a Estratégia: Análise Completa de Meister Makatsu, o Novo Sucesso de Reiner Knizia",
       "thumb": "https://cf.geekdo-images.com/cB5otss5NgQoRsmW-Ju5kA__imagepage/img/TGz4cRHiWaQ2G3TL_vhCV8_bYIc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8907902.jpg",
-      "categoria": "Board Games"
-    },
-    {
-      "slug": "create-movies-from-cards-play-alebrijes-quickly-and-avoid-pain-in-the-woods",
-      "titulo": "Descubra Novas Aventuras com Jogos de Cartas Inovadores e Desafiadores",
-      "thumb": "https://cf.geekdo-images.com/q7KAQnyp0CwLfJVqsgk4JQ__imagepage/img/QCSpSJ1Ca0AbcRj8zX7BGrjAtQQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8794268.png",
       "categoria": "Board Games"
     }
   ],
@@ -141,21 +142,21 @@
   ],
   "musica": [
     {
+      "slug": "sabrina-carpenter-anuncia-lanamento-de-nova-msica-manchild",
+      "titulo": "Sabrina Carpenter Revela Data de Lançamento de 'Manchild'",
+      "thumb": "https://cdn.ome.lt/daKjlTjT_CHu_LzSK8JK_R5orz8=/480x360/smart/extras/conteudos/sabrina-carpenter-2_8BQyLrl.jpg",
+      "categoria": "MÚSICA"
+    },
+    {
+      "slug": "fall-out-boy-far-show-no-rio-de-janeiro-com-yellowcard-veja-data-e-ingressos",
+      "titulo": "Fall Out Boy e Yellowcard Agitam Rio de Janeiro: Datas e Ingressos",
+      "thumb": "https://cdn.ome.lt/znM4e3S4c48rMK-Wpm6zkGFedJg=/480x360/smart/extras/conteudos/fall-out-boys.jpg",
+      "categoria": "MÚSICA"
+    },
+    {
       "slug": "radiohead-thom-yorke-se-pronuncia-contra-israel-hamas-e-redes-sociais",
       "titulo": "Thom Yorke do Radiohead Critica Israel, Hamas e Redes Sociais",
       "thumb": "https://cdn.ome.lt/0W7LHjCPoF7xdafjl0woF5cKKd0=/480x360/smart/extras/conteudos/sem_titulo35.png",
-      "categoria": "MÚSICA"
-    },
-    {
-      "slug": "crtica-referencial-something-beautiful-o-melhor-de-miley-cyrus-e-de-2025",
-      "titulo": "Something Beautiful de Miley Cyrus: O Álbum Revolucionário de 2025",
-      "thumb": "https://cdn.ome.lt/XCR1DqXUuCrSVwZOpyqssKFtgug=/480x360/smart/extras/conteudos/miley_escYBd1.jpg",
-      "categoria": "MÚSICA"
-    },
-    {
-      "slug": "taylor-swift-adquire-os-direitos-de-seus-seis-primeiros-lbuns",
-      "titulo": "Taylor Swift Recupera Direitos de Seus Seis Primeiros Álbuns em Acordo Histórico",
-      "thumb": "https://cdn.ome.lt/xyzSno2CmKBa_jxxxqKhJ4qSWtQ=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-05-30T130339.573.png",
       "categoria": "MÚSICA"
     }
   ]

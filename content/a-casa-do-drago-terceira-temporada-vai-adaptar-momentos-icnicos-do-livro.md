@@ -10,7 +10,17 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/fhiuaZk6b5kWUOKjklw19N2Dv2s=/480x360/smart/extras/conteudos/sem_titulo49.png
 tags:
-  - ''
+  - "A Casa do Dragão"
+  - "Fogo & Sangue"
+  - "Ryan Condal"
+  - "Dança dos Dragões"
+  - "Pouso de Gralhas"
+  - "Batalha da Goela"
+  - "Max"
+  - "Game of Thrones"
+  - "Rei Viserys I"
+  - "Rhaenyra Targaryen"
+  - "Alicent Hightower"
 keywords: ''
 author: Luana Souza
 data: '2025-06-03T23:18:39.623Z'
@@ -33,7 +43,3 @@ Com a **Batalha da Goela** confirmada como um dos pontos centrais, os fãs estã
 A série, disponível na **Max**, segue a linha do tempo de **Game of Thrones**, começando com o reinado do Rei Viserys I, interpretado por **Paddy Considine**, e os desafios em torno da sucessão do trono. A rivalidade entre os Pretos (Rhaenyra) e os Verdes (Alicent) intensifica-se, levando a uma guerra que promete mudar o destino dos Sete Reinos.
 
 Com a quarta temporada anunciada como a última, a expectativa é de que a série conclua de forma épica.
-
-### Palavras-chave:
-
-"A Casa do Dragão", "Fogo & Sangue", "Ryan Condal", "Dança dos Dragões", "Pouso de Gralhas", "Batalha da Goela", "Max", "Game of Thrones", "Rei Viserys I", "Rhaenyra Targaryen", "Alicent Hightower"

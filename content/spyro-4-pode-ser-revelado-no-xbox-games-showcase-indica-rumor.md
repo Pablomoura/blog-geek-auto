@@ -50,8 +50,3 @@ Para a comunidade gamer, a presença de Spyro 4 no Xbox Showcase é um sinal de 
 Com a proximidade do evento, os fãs aguardam ansiosamente por novidades não apenas sobre Spyro 4, mas também sobre outros projetos potentes. A revelação de **Spyro 4** seria um marco emocionante, trazendo um toque de nostalgia e expectativa por novas experiências com o icônico dragão.
 
 Com o crescente interesse em torno dos rumores, resta aos fãs aguardarem para ver se o Xbox Games Showcase trará essa esperada surpresa. Até lá, as especulações continuam a alimentar o entusiasmo da comunidade gamer, que anseia por mais uma jornada emocionante ao lado de Spyro.
-
-### Leia também sobre Spyro:
-
-* [Spyro Reignited Trilogy está chegando ao Xbox Game Pass](https://ovicio.com.br/spyro-reignited-trilogy-chega-ao-xbox-game-pass/)
-* [Crash Bandicoot 5 | Jogo cancelado teria crossover com Spyro](https://ovicio.com.br/crash-bandicoot-5-jogo-cancelado-teria-crossover-com-spyro/)

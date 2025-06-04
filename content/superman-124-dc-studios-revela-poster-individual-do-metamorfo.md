@@ -32,6 +32,8 @@ resumo: >-
 
 A DC Studios lançou recentemente um pôster exclusivo do personagem Metamorfo, que será interpretado por Anthony Carrigan, conhecido por seu papel na série 'Barry'. O personagem promete ser um elemento chave na trama de 'Superman: Legacy', próximo filme do icônico herói da DC. No trailer oficial, Metamorfo é visto utilizando suas habilidades únicas para criar kryptonita, enfraquecendo Superman, interpretado por Kal-El, dentro da prisão do lendário vilão Lex Luthor.
 
+<blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1930052987197542548"></a></blockquote>
+
 ### Quem é Metamorfo?
 
 Nos quadrinhos, Metamorfo, cujo verdadeiro nome é Rex Mason, era um explorador contratado por Simon Stagg. Durante uma expedição no Egito, Mason foi traído e exposto ao Orbe de Rá, um misterioso artefato que o transformou em Metamorfo, um ser capaz de alterar sua forma em qualquer elemento ou combinação de elementos químicos. Essa habilidade única o torna um personagem fascinante e potencialmente perigoso no universo da DC.

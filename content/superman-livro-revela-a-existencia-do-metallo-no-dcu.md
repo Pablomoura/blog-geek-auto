@@ -20,6 +20,7 @@ tags:
   - 'Era de Prata'
   - 'Quadrinhos DC'
   - 'Livro Preldio'
+  - especial-Superman
 keywords: >-
   Superman 2025, Metallo, Lex Luthor, DCU, Metrópolis, Lois Lane, Clark Kent, Jimmy Olsen, Era de Prata, Quadrinhos DC, Livro Prelúdio
 author: Ana Luiza
