@@ -31,6 +31,7 @@ resumo: >-
 
 Marvel Rivals, o popular jogo da NetEase Games, apresentou recentemente o primeiro vislumbre da skin Arma X de Wolverine, prometendo uma experiência emocionante para os jogadores a partir de 5 de junho. Esta revelação é parte de uma atualização significativa na temporada 2.5 do jogo, que não apenas adicionou novos elementos visuais, mas também trouxe o icônico vilão Ultron para a arena de combate.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🩸 Awaken the Weapon! 💥<br> <br>&quot;I AM -- LOGAN! LOGAN! I AM A MAN! And you—are the animal!&quot;<br> <br>Clawed, broken, and reborn through fire and pain - Wolverine emerges from the shadows of Weapon X. First appearing in Marvel Comics Presents (1988) #79, this brutal legend wears every scar… <a href="https://t.co/AudqSqI7xH">pic.twitter.com/AudqSqI7xH</a></p>&mdash; Marvel Rivals (@MarvelRivals) <a href="https://twitter.com/MarvelRivals/status/1929915980236402694?ref_src=twsrc%5Etfw">June 3, 2025</a></blockquote>
 ### O Impacto de Wolverine no Jogo
 
 Como um dos duelistas mais formidáveis do universo Marvel Rivals, Wolverine tem sido um favorito dos jogadores. A nova skin Arma X presta homenagem a uma das histórias mais emblemáticas de Logan. Originalmente apresentada em 'Marvel Comics Presents' de 1988, a saga Arma X é um marco na história dos quadrinhos, explorando a transformação dolorosa e visceral de Logan em uma arma viva.
