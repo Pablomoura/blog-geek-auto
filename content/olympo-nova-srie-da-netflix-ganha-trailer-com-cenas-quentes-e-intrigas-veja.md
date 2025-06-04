@@ -5,8 +5,8 @@ title: >-
 slug: olympo-nova-srie-da-netflix-ganha-trailer-com-cenas-quentes-e-intrigas-veja
 categoria: SÉRIES E TV
 midia: >-
-  https://cdn.ome.lt/nFL50MSqO878CGebrJGsq7kgrug=/480x360/smart/extras/conteudos/olympo-netflix.jpg
-tipoMidia: imagem
+  https://www.youtube.com/embed/j-nHEQ5LAp4?si=RlX61r8PGFyOjMXg
+tipoMidia: video
 thumb: >-
   https://cdn.ome.lt/nFL50MSqO878CGebrJGsq7kgrug=/480x360/smart/extras/conteudos/olympo-netflix.jpg
 tags:

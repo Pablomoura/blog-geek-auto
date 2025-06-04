@@ -1,6 +1,6 @@
 ---
 title: >-
-  Mikey Madison Declina Papel em Star Wars: Starfighter por Divergências Salariais
+  Mikey Madison Recusa Papel em Star Wars: Starfighter por Divergências Salariais
 slug: mikey-madison-recusou-papel-de-vila-em-star-wars-starfighter-por-disputa-salarial
 categoria: Filmes
 midia: >-
