@@ -29,6 +29,8 @@ resumo: >-
 
 O universo cinematográfico da Marvel está prestes a ganhar uma nova dimensão com o lançamento de 'Quarteto Fantástico: Primeiros Passos'. Em um teaser inédito e surpreendente, os espectadores são apresentados a uma trama repleta de ameaças cósmicas, destacando a presença imponente de Galactus, o temido Devorador de Mundos. Este vilão icônico representa um perigo sem precedentes para a Terra, e cabe ao Quarteto Fantástico a missão de salvar o planeta da destruição iminente.
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Their greatest strength is each other.<br><br>Marvel Studios’ <a href="https://twitter.com/hashtag/TheFantasticFour?src=hash&amp;ref_src=twsrc%5Etfw">#TheFantasticFour</a>: First Steps arrives in theaters July 25. Get tickets now: <a href="https://t.co/gPgiaXM296">https://t.co/gPgiaXM296</a> <a href="https://t.co/zASZQ40ErF">pic.twitter.com/zASZQ40ErF</a></p>&mdash; Fantastic Four (@FantasticFour) <a href="https://twitter.com/FantasticFour/status/1930248174318563817?ref_src=twsrc%5Etfw">June 4, 2025</a></blockquote>
+
 ## O Desafio Cósmico
 
 O teaser traz cenas eletrizantes de Galactus causando caos em uma Terra paralela, enquanto o Surfista Prateado faz sua entrada triunfal. Este personagem, conhecido por sua conexão com Galactus, promete adicionar uma camada de complexidade à narrativa. A dinâmica entre os heróis e essas forças cósmicas será crucial para o desenrolar dos eventos.

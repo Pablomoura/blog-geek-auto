@@ -3,8 +3,8 @@ import fs from "fs/promises";
 import path from "path";
 import axios from "axios";
 import readline from "readline";
-import { fileURLToPath } from 'url';
-import { dirname } from 'path';
+import { fileURLToPath } from "url";
+import { dirname } from "path";
 import slugify from "slugify";
 import dotenv from "dotenv";
 dotenv.config();
@@ -16,7 +16,7 @@ const rootDir = path.join(__dirname, "../");
 const contentDir = path.join(rootDir, "content");
 const temasPath = path.join(rootDir, "public", "temas.txt");
 
-console.log("\uD83D\uDCC1 Salvando artigos em:", contentDir);
+console.log("📁 Salvando artigos em:", contentDir);
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
@@ -51,40 +51,32 @@ Regras de SEO semântico:
 
 Tema: ${tema}
 
-Responda em JSON válido (sem markdown ou quebras extras):
-
+Responda apenas com JSON válido no formato:
 {
   "titulo": "...",
   "resumo": "...",
   "texto": "...",
-  "tags": ["tag1", "tag2", "tag3"],
-  "categoria": "..."
+  "keywords": "..."
 }`;
+
   try {
-      const response = await axios.post(
-        "https://api.openai.com/v1/chat/completions",
-        {
-          model: "gpt-4o",
-          messages: [
-            {
-              role: "user",
-              content: prompt,
-            },
-          ],
-          temperature: 0.5,
+    const response = await axios.post(
+      "https://api.openai.com/v1/chat/completions",
+      {
+        model: "gpt-4o",
+        messages: [{ role: "user", content: prompt }],
+        temperature: 0.5,
+      },
+      {
+        headers: {
+          Authorization: `Bearer ${OPENAI_API_KEY}`,
+          "Content-Type": "application/json",
+          "OpenAI-Service-Tier": "flex",
         },
-        {
-          headers: {
-            Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
-            "Content-Type": "application/json",
-            "OpenAI-Service-Tier": "flex", // Especifica o uso do tier flexível
-          },
-        }
-      );
+      }
+    );
 
     let raw = response.data.choices[0].message.content.trim();
-
-    // Corrigir caso venha com bloco markdown ```json ... ```
     raw = raw.replace(/^```json[\r\n]+/, "").replace(/```$/, "").trim();
 
     let json;
@@ -96,20 +88,33 @@ Responda em JSON válido (sem markdown ou quebras extras):
       return;
     }
 
-    const slug = slugify(json.titulo, { lower: true, strict: true });
+    if (!json.titulo || !json.resumo || !json.texto) {
+      console.error("❌ JSON recebido está incompleto.");
+      console.log("🧪 Conteúdo:", raw);
+      return;
+    }
+
+    const tags = Array.isArray(json.tags)
+      ? json.tags
+      : json.keywords?.split(",").map((t) => t.trim()) || [];
+
+    const slugBase = json.titulo || tema;
+    const slug = slugify(slugBase, { lower: true, strict: true }) || `evergreen-${Date.now()}`;
     const data = new Date().toISOString();
     const midia = "/images/evergreen.jpg";
+    const categoria = json.categoria || "evergreen";
 
     const frontMatter = `---
 title: "${json.titulo.replace(/\"/g, "'")}"
 slug: "${slug}"
 resumo: "${json.resumo}"
-categoria: "${json.categoria}"
+categoria: "${categoria}"
 midia: "${midia}"
 tipoMidia: "imagem"
 thumb: "${midia}"
-keywords: "${json.tags.join(", ")}"
-tags: [${json.tags.map((t) => `"${t}"`).join(", ")}]
+keywords: "${tags.join(", ")}"
+tags: [${tags.map((t) => `"${t}"`).join(", ")}]
+author: "Equipe GeekNews"
 data: "${data}"
 ---
 

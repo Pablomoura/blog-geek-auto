@@ -32,8 +32,6 @@ resumo: >-
 ---
 ## Nintendo Switch Online Oferece Recompensa Exclusiva para Fãs de Super Mario Bros. 3
 
-![Imagem da notícia](https://www.gamespot.com/a/uploads/original/1597/15975876/4506727-125430-nintendo-classics-super-mario-bros-3-desktop-metal-display-displayed-1200x675-2.jpg)
-
 Os membros do Nintendo Switch Online foram presenteados com uma novidade emocionante: a possibilidade de adquirir uma exclusiva peça de exibição em metal, reproduzindo a clássica arte da caixa do jogo **Super Mario Bros. 3**. Esta recompensa é um item de colecionador que pode ser conquistado através do programa My Nintendo por 1.000 pontos de platina. 
 
 ### Detalhes do Item de Colecionador

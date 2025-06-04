@@ -50,3 +50,8 @@ A nova trilogia promete expandir o universo de Extermínio, com **Nia DaCosta** 
 O retorno de Danny Boyle à direção, combinado com o roteiro de Alex Garland, promete trazer uma nova perspectiva à clássica narrativa de zumbis.
 
 O público aguarda ansioso por este novo capítulo, que promete reiniciar a franquia com energia renovada.
+
+![Poster](https://cdn.ome.lt/YVBgyzEnW0eiYUHJ5mEcVNXNyuk=/fit-in/1070x750/smart/filer_public/78/26/78260b83-cfee-4185-b066-d03b4b8e17f0/gsmgnfawsaas5x4.jpg)
+![Poster](https://cdn.ome.lt/1QvcZGRNejwjJ2dA9amjLUhJT2E=/fit-in/1070x750/smart/filer_public/84/69/8469eaaf-289f-4b3f-b1f3-a249fa3146ac/gsmgnfaxmaahlue.jpg)
+![Poster](https://cdn.ome.lt/_cLER-rpR7ZzA4iY9t50maHQaEU=/fit-in/1070x750/smart/filer_public/b9/5e/b95ebaab-49d3-4332-b74e-12b6fd55895c/gsmgnenxyaaxsg2.jpg)
+![Poster](https://cdn.ome.lt/czQb2FnctmyOvEta4Nqu6beWJeM=/fit-in/1070x750/smart/filer_public/39/cf/39cfb8ef-6add-4c07-aac5-36a8f689362d/gsmgnekwaaa8w_x.jpg)
