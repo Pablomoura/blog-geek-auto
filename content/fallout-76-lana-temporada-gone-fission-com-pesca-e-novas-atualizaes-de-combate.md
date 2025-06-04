@@ -35,6 +35,8 @@ resumo: >-
 
 A aguardada atualização de **Fallout 76**, denominada 'Gone Fission', inaugura a Temporada 21 e oferece uma nova dimensão de jogabilidade: a pesca. Esta atividade relaxante agora pode ser desfrutada em qualquer corpo d'água do mapa, trazendo diversidade ao universo pós-apocalíptico do jogo. Através da missão 'Casting Off', jogadores obtêm a vara de pesca básica, que pode ser aprimorada na bancada de trabalho Tinker.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxEvXeylL50?si=8yYLx_JIuyro0QoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Expansão da Experiência de Pesca
 
 A pesca não se limita a um único local. **Qualquer área onde se possa nadar, agora serve como ponto de pesca**, ampliando as possibilidades de exploração. Os jogadores podem capturar desde peixes comuns até espécies raras, como o axolote, que possui 12 variantes, com uma nova disponível a cada mês. Além disso, o clima influencia as capturas, e os peixes podem ser consumidos, transformados em receitas, ou expostos no C.A.M.P. com itens de exibição especialmente desenvolvidos.
