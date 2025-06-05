@@ -1,3 +1,4 @@
+// scripts/ping-indexnow.js
 const fs = require("fs");
 const path = require("path");
 const fetch = require("node-fetch");
@@ -12,7 +13,7 @@ const postsPath = path.join(__dirname, "..", "public", "posts.json");
 function getRecentPostUrls() {
   try {
     const posts = JSON.parse(fs.readFileSync(postsPath, "utf-8"));
-    return posts.slice(0, 20).map((post) => `${BASE_URL}/noticia/${post.slug}`);
+    return posts.slice(-20).reverse().map((post) => `${BASE_URL}/noticia/${post.slug}`);
   } catch (error) {
     console.error("Erro ao carregar posts.json:", error);
     return [];

@@ -6,6 +6,19 @@ const TurndownService = require("turndown");
 require("dotenv").config();
 const buscarFontesGoogle = require("./buscarFontesGoogle");
 
+async function pingIndexNow(url) {
+  const fetch = require("node-fetch");
+  const TOKEN = "geeknews-indexnow-verification";
+  const pingUrl = `https://api.indexnow.org/indexnow?url=${encodeURIComponent(url)}&key=${TOKEN}`;
+
+  try {
+    const res = await fetch(pingUrl);
+    console.log(`✔️ IndexNow enviado: ${url} | Código: ${res.status}`);
+  } catch (err) {
+    console.error(`❌ Erro ao enviar IndexNow para ${url}:`, err.message);
+  }
+}
+
 const turndownService = new TurndownService();
 
 const jsonFilePath = "public/posts.json";
@@ -192,6 +205,14 @@ data: "${new Date(noticia.pubDate).toISOString()}"
   if (novosPosts.length > 0) {
     fs.writeFileSync(jsonFilePath, JSON.stringify(postsExistentes, null, 2));
     console.log(`✅ ${novosPosts.length} posts do GameSpot adicionados.`);
+
+    // ✅ Envia para IndexNow
+    console.log("🔔 Enviando novos posts para IndexNow...");
+    for (const slug of novosPosts) {
+      const url = `https://www.geeknews.com.br/noticia/${slug}`;
+      await pingIndexNow(url);
+    }
+
   } else {
     console.log("🔄 Nenhuma nova notícia do GameSpot adicionada.");
   }

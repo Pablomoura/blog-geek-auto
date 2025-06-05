@@ -7,6 +7,20 @@ require("dotenv").config();
 const { google } = require("googleapis");
 const buscarFontesGoogle = require("./buscarFontesGoogle");
 
+async function pingIndexNow(url) {
+  const fetch = require("node-fetch");
+  const TOKEN = "geeknews-indexnow-verification";
+  const pingUrl = `https://api.indexnow.org/indexnow?url=${encodeURIComponent(url)}&key=${TOKEN}`;
+
+  try {
+    const res = await fetch(pingUrl);
+    console.log(`✔️ IndexNow enviado: ${url} | Código: ${res.status}`);
+  } catch (err) {
+    console.error(`❌ Erro ao enviar IndexNow para ${url}:`, err.message);
+  }
+}
+
+
 if (!process.env.GOOGLE_CREDENTIALS) {
   throw new Error("❌ GOOGLE_CREDENTIALS não definida. Verifique suas variáveis de ambiente no GitHub.");
 }
@@ -547,12 +561,20 @@ function limparUrlInstagram(url) {
   const novosPosts = [...novasNoticias, ...novasCriticas];
 
   if (novosPosts.length > 0) {
-    const todas = force ? novosPosts : [...postsExistentes, ...novosPosts];
-    fs.writeFileSync(jsonFilePath, JSON.stringify(todas, null, 2), "utf-8");
-    console.log(`✅ ${novosPosts.length} posts salvos (notícias + críticas).`);
-  } else {
-    console.log("🔄 Nenhuma nova notícia ou crítica encontrada.");
+  const todas = force ? novosPosts : [...postsExistentes, ...novosPosts];
+  fs.writeFileSync(jsonFilePath, JSON.stringify(todas, null, 2), "utf-8");
+  console.log(`✅ ${novosPosts.length} posts salvos (notícias + críticas).`);
+
+  console.log("🔔 Enviando novos posts para IndexNow...");
+  for (const post of novosPosts) {
+    const url = `https://www.geeknews.com.br/noticia/${post.slug}`;
+    await pingIndexNow(url);
   }
+
+} else {
+  console.log("🔄 Nenhuma nova notícia ou crítica encontrada.");
+}
+
 })();
 
 async function buscarCriticasOmelete() {

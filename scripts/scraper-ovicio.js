@@ -6,6 +6,19 @@ const TurndownService = require("turndown");
 const { JSDOM } = require("jsdom");
 require("dotenv").config();
 
+async function pingIndexNow(url) {
+  const fetch = require("node-fetch");
+  const TOKEN = "geeknews-indexnow-verification";
+  const pingUrl = `https://api.indexnow.org/indexnow?url=${encodeURIComponent(url)}&key=${TOKEN}`;
+
+  try {
+    const res = await fetch(pingUrl);
+    console.log(`✔️ IndexNow enviado: ${url} | Código: ${res.status}`);
+  } catch (err) {
+    console.error(`❌ Erro ao enviar IndexNow para ${url}:`, err.message);
+  }
+}
+
 const turndownService = new TurndownService({ headingStyle: "atx" });
 
 // Mantém embeds de Twitter e Instagram
@@ -316,6 +329,15 @@ resumo: >-
   const atualizados = [...postsExistentes, ...novosPosts];
   fs.writeFileSync(jsonFilePath, JSON.stringify(atualizados, null, 2), "utf-8");
   console.log("✅ Notícias salvas:", novosPosts.length);
+
+    if (novosPosts.length > 0) {
+    console.log("🔔 Enviando novos posts para IndexNow...");
+    for (const post of novosPosts) {
+      const url = `https://www.geeknews.com.br/noticia/${post.slug}`;
+      await pingIndexNow(url);
+    }
+  }
+
 }
 
 processarRSS();
