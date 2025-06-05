@@ -4,20 +4,9 @@ const axios = require("axios");
 const { XMLParser } = require("fast-xml-parser");
 const TurndownService = require("turndown");
 const { JSDOM } = require("jsdom");
+const https = require("https");
+const { createWriteStream } = require("fs");
 require("dotenv").config();
-
-async function pingIndexNow(url) {
-  const fetch = require("node-fetch");
-  const TOKEN = "geeknews-indexnow-verification";
-  const pingUrl = `https://api.indexnow.org/indexnow?url=${encodeURIComponent(url)}&key=${TOKEN}`;
-
-  try {
-    const res = await fetch(pingUrl);
-    console.log(`✔️ IndexNow enviado: ${url} | Código: ${res.status}`);
-  } catch (err) {
-    console.error(`❌ Erro ao enviar IndexNow para ${url}:`, err.message);
-  }
-}
 
 const turndownService = new TurndownService({ headingStyle: "atx" });
 
@@ -81,10 +70,13 @@ turndownService.addRule("preserveWpBlockImages", {
 
 const FEED_URL = "https://ovicio.com.br/feed/";
 const contentDir = path.join(process.cwd(), "content");
+const uploadsDir = path.join(process.cwd(), "public", "uploads");
 const jsonFilePath = "public/posts.json";
 const MAX_POSTS = 10;
 
 if (!fs.existsSync(contentDir)) fs.mkdirSync(contentDir);
+if (!fs.existsSync(uploadsDir)) fs.mkdirSync(uploadsDir);
+
 let postsExistentes = [];
 if (fs.existsSync(jsonFilePath)) {
   postsExistentes = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
@@ -93,10 +85,25 @@ if (fs.existsSync(jsonFilePath)) {
 function extrairImagensCorpo(html) {
   const dom = new JSDOM(html);
   const document = dom.window.document;
-  const imagens = Array.from(document.querySelectorAll("img"))
+  return Array.from(document.querySelectorAll("img"))
     .map(img => img.src)
-    .filter(src => src && src.startsWith("http") && !src.includes("blank")); // remove imagens vazias ou placeholders
-  return imagens;
+    .filter(src => src && src.startsWith("http") && !src.includes("blank"));
+}
+
+async function baixarImagem(url, slug, tipo = "thumb") {
+  if (!url || !url.startsWith("http")) return null;
+  const extensao = path.extname(new URL(url).pathname).split("?")[0] || ".jpg";
+  const nomeArquivo = `${slug}-${tipo}${extensao}`;
+  const caminho = path.join(uploadsDir, nomeArquivo);
+
+  return new Promise((resolve) => {
+    https.get(url, (res) => {
+      if (res.statusCode !== 200) return resolve(null);
+      const stream = createWriteStream(caminho);
+      res.pipe(stream);
+      stream.on("finish", () => resolve(`/uploads/${nomeArquivo}`));
+    }).on("error", () => resolve(null));
+  });
 }
 
 function limparTag(tag) {
@@ -250,19 +257,19 @@ async function processarRSS() {
     if (postsExistentes.some((p) => slugify(p.slug) === slugBase)) continue;
 
     const slug = gerarSlugUnico(titulo, postsExistentes);
-    let midia = extrairThumb(noticia["content:encoded"] || "") || "/images/default.jpg";
-    let tipoMidia = "imagem";
-    let thumb = midia;
 
-    // Verifica se tem media:content com vídeo do YouTube
+    let urlThumb = extrairThumb(noticia["content:encoded"] || "") || "/images/default.jpg";
+    let tipoMidia = "imagem";
+
     const mediaContent = noticia["media:content"];
     if (mediaContent?.url?.includes("youtube.com/embed")) {
-      midia = mediaContent.url;
+      urlThumb = mediaContent.url;
       tipoMidia = "video";
-      if (mediaContent["media:thumbnail"]?.url) {
-        thumb = mediaContent["media:thumbnail"].url;
-      }
     }
+
+    const imagemLocal = tipoMidia === "imagem" ? await baixarImagem(urlThumb, slug, "thumb") : null;
+    let midia = imagemLocal || urlThumb;
+    let thumb = imagemLocal || urlThumb;
 
     const { html, imagens } = limparTexto(noticia["content:encoded"] || "");
     const markdownOriginal = turndownService.turndown(html);
@@ -272,7 +279,6 @@ async function processarRSS() {
       reescrito = await reescreverComOpenAI(titulo, resumo, markdownOriginal);
     } catch (err) {
       console.error(`❌ Erro ao reescrever a matéria: ${titulo}`);
-      console.error(err.message);
       continue;
     }
 
@@ -280,10 +286,7 @@ async function processarRSS() {
 
     const autores = ["Pablo Moura", "Luana Souza", "Ana Luiza"];
     const autor = autores[Math.floor(Math.random() * autores.length)];
-    const tags = (reescrito.keywords || "")
-    .split(",")
-    .map((t) => t.trim())
-    .filter(Boolean);
+    const tags = (reescrito.keywords || "").split(",").map(t => t.trim()).filter(Boolean);
 
     const frontmatter = `---
 title: >-
@@ -305,7 +308,7 @@ resumo: >-
   ${reescrito.resumo}
 ---\n\n`;
 
-    const textoFinal = inserirImagensNoTexto(reescrito.texto, imagens.slice(1)); // primeira imagem fica como capa
+    const textoFinal = inserirImagensNoTexto(reescrito.texto, imagens.slice(1));
     const markdownCompleto = frontmatter + textoFinal;
 
     fs.writeFileSync(path.join(contentDir, `${slug}.md`), markdownCompleto, "utf-8");
@@ -329,15 +332,6 @@ resumo: >-
   const atualizados = [...postsExistentes, ...novosPosts];
   fs.writeFileSync(jsonFilePath, JSON.stringify(atualizados, null, 2), "utf-8");
   console.log("✅ Notícias salvas:", novosPosts.length);
-
-    if (novosPosts.length > 0) {
-    console.log("🔔 Enviando novos posts para IndexNow...");
-    for (const post of novosPosts) {
-      const url = `https://www.geeknews.com.br/noticia/${post.slug}`;
-      await pingIndexNow(url);
-    }
-  }
-
 }
 
 processarRSS();
