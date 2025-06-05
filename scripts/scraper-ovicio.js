@@ -96,7 +96,8 @@ async function baixarImagem(url, slug, tipo = "thumb") {
     return null;
   }
 
-  const extensao = path.extname(new URL(url).pathname).split("?")[0] || ".jpg";
+  const pathname = new URL(url).pathname;
+  const extensao = path.extname(pathname).split("?")[0] || ".webp";
   const nomeArquivo = `${slug}-${tipo}${extensao}`;
   const caminho = path.join(uploadsDir, nomeArquivo);
 
