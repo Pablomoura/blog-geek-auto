@@ -44,6 +44,8 @@ next-env.d.ts
 scripts/gerar-tags.js
 google-service-account.json
 
+/public/uploads/
+
 temp.txt
 
 public/posts.json
