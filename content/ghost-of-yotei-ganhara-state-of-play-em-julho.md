@@ -7,7 +7,7 @@ midia: >-
   https://www.youtube.com/embed/qRiTEkU3Utg
 tipoMidia: video
 thumb: >-
-  https://www.youtube.com/embed/qRiTEkU3Utg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/05/20250502-image.png
 tags:
   - 'Ghost of Yotei'
   - 'State of Play'

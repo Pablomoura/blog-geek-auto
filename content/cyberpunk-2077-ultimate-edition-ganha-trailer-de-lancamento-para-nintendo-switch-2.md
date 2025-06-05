@@ -7,7 +7,7 @@ midia: >-
   https://www.youtube.com/embed/iRswiS_NvgA
 tipoMidia: video
 thumb: >-
-  https://www.youtube.com/embed/iRswiS_NvgA
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/05/20250519-ovicio-cyberpunk-switch.jpg
 tags:
   - 'Cyberpunk 2077'
   - 'Ultimate Edition'
