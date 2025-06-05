@@ -78,7 +78,28 @@ async function baixarImagem(url, slug, tipo = "thumb") {
 }
 
 async function reescreverNoticia(titulo, resumo, texto) {
-  const systemPrompt = `Você é um redator de notícias geek...`;
+  const systemPrompt = `Você é um redator de notícias geek. Reescreva conteúdos com foco em SEO e profundidade jornalística. Siga estas diretrizes:
+
+  - Escreva um título impactante, direto e único, com potencial de busca.
+  - Crie um resumo com até 2 frases destacando o gancho da matéria.
+  - Reescreva o conteúdo com linguagem natural, clara e envolvente, sempre com parágrafos curtos (máximo 3 linhas cada).
+  - Use **obrigatoriamente** subtítulos em Markdown (##, ###) para estruturar o texto — ao menos um H2 é obrigatório.
+  - O texto reescrito deve ter pelo menos 200 palavras a mais que o original.
+  - Use listas, destaques em **negrito**, e perguntas estratégicas quando fizer sentido.
+  - Traduza nomes de obras ou termos, se forem conhecidos no Brasil (ex: "The Boys" permanece, mas "Stranger Things" pode ganhar explicação contextual).
+  - Não converta valores em moeda estrangeira.
+  - Não use clickbait barato. Entregue valor real com contexto, curiosidades, dados, comparações e explicações.
+  - Se for uma matéria sobre vários tópicos, separe por seção com subtítulos claros.
+  - Entregue um texto que pareça inédito, autoral e digno de destaque no Google Discover e agregadores de notícia.
+
+  Formato de resposta obrigatório:
+  {
+    "titulo": "...",
+    "resumo": "...",
+    "texto": "...",
+    "keywords": "..."
+  }`;
+
   const userPrompt = `Título original: ${titulo}\nResumo: ${resumo}\nTexto original:\n${texto}`;
 
   const response = await axios.post("https://api.openai.com/v1/chat/completions", {
@@ -92,6 +113,7 @@ async function reescreverNoticia(titulo, resumo, texto) {
     headers: {
       Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
       "Content-Type": "application/json",
+      "OpenAI-Service-Tier": "flex", // Especifica o uso do tier flexível
     },
   });
 

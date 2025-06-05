@@ -90,19 +90,39 @@ function extrairImagensCorpo(html) {
     .filter(src => src && src.startsWith("http") && !src.includes("blank"));
 }
 
-async function baixarImagem(url, slug, index) {
-  if (!url || !url.startsWith("http")) return null;
+async function baixarImagem(url, slug, tipo = "thumb") {
+  if (!url || !url.startsWith("http")) {
+    console.warn(`⚠️ URL inválida para imagem: ${url}`);
+    return null;
+  }
+
   const extensao = path.extname(new URL(url).pathname).split("?")[0] || ".jpg";
-  const nomeArquivo = `${slug}-img${index}${extensao}`;
+  const nomeArquivo = `${slug}-${tipo}${extensao}`;
   const caminho = path.join(uploadsDir, nomeArquivo);
 
   return new Promise((resolve) => {
     https.get(url, (res) => {
-      if (res.statusCode !== 200) return resolve(null);
+      if (res.statusCode !== 200) {
+        console.warn(`❌ Falha ao baixar imagem (${res.statusCode}): ${url}`);
+        return resolve(null);
+      }
+
       const stream = createWriteStream(caminho);
       res.pipe(stream);
-      stream.on("finish", () => resolve(`/uploads/${nomeArquivo}`));
-    }).on("error", () => resolve(null));
+
+      stream.on("finish", () => {
+        console.log(`✅ Imagem baixada: ${caminho}`);
+        resolve(`/uploads/${nomeArquivo}`);
+      });
+
+      stream.on("error", (err) => {
+        console.warn(`❌ Erro ao salvar imagem: ${url} → ${err.message}`);
+        resolve(null);
+      });
+    }).on("error", (err) => {
+      console.warn(`❌ Erro ao baixar imagem: ${url} → ${err.message}`);
+      resolve(null);
+    });
   });
 }
 
@@ -176,6 +196,7 @@ Formato de resposta obrigatório:
       headers: {
         Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
         "Content-Type": "application/json",
+        "OpenAI-Service-Tier": "flex", // Especifica o uso do tier flexível
       },
     }
   );
@@ -270,8 +291,18 @@ async function processarRSS() {
     }
 
     // Agora faz download da thumb (imagem de preview) — não da midia
-    const imagemThumbLocal = tipoMidia === "imagem" ? await baixarImagem(thumb, slug, "thumb") : await baixarImagem(thumb, slug, "preview");
-    if (imagemThumbLocal) thumb = imagemThumbLocal;
+    const imagemThumbLocal = tipoMidia === "imagem"
+      ? await baixarImagem(thumb, slug, "thumb")
+      : await baixarImagem(thumb, slug, "preview");
+
+    if (imagemThumbLocal) {
+      console.log(`📥 Thumb salva: ${imagemThumbLocal}`);
+      thumb = imagemThumbLocal;
+    }
+
+    if (tipoMidia === "imagem") {
+      midia = thumb; // garante que midia também use o caminho salvo
+    }
 
     const { html, imagens } = limparTexto(noticia["content:encoded"] || "");
     const markdownOriginal = turndownService.turndown(html);
