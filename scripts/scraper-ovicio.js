@@ -101,7 +101,13 @@ async function baixarImagem(url, slug, tipo = "thumb") {
   const caminho = path.join(uploadsDir, nomeArquivo);
 
   return new Promise((resolve) => {
-    https.get(url, (res) => {
+    const options = {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36"
+      }
+    };
+
+    https.get(url, options, (res) => {
       if (res.statusCode !== 200) {
         console.warn(`❌ Falha ao baixar imagem (${res.statusCode}): ${url}`);
         return resolve(null);

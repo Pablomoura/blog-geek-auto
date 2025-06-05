@@ -4,22 +4,22 @@ slug: "crtica-predador-assassino-de-assassinos-encontra-na-ao-a-receita-do-suces
 categoria: "FILMES"
 tipo: "critica"
 resumo: "Dan Trachtenberg volta com mais histórias eletrizantes do icônico alienígena após o sucesso de A Caçada. A ação intensa é a chave para atrair fãs antigos e novos."
-midia: "https://cdn.ome.lt/tRKWudBzx9tQPSkSfoZFn9p8x8E=/480x360/smart/extras/conteudos/predador_wvnXjXF.png"
-tipoMidia: "imagem"
+midia: "https://www.youtube.com/embed/fbddYji1F8s?si=OS9d7AVwjsxhUSas"
+tipoMidia: "video"
 thumb: "https://cdn.ome.lt/tRKWudBzx9tQPSkSfoZFn9p8x8E=/480x360/smart/extras/conteudos/predador_wvnXjXF.png"
 tags: ["Predador", "Dan Trachtenberg", "A Caçada", "Assassino de Assassinos", "filme de ação", "cultura pop", "alienígena", "saga Predador"]
 keywords: "Predador, Dan Trachtenberg, A Caçada, Assassino de Assassinos, filme de ação, cultura pop, alienígena, saga Predador"
 author: "Pablo Moura"
 data: "2025-06-05T15:02:12.691Z"
 tituloPortugues: ""
-capaObra: ""
-notaCritico: null
-tituloOriginal: ""
-ano: ""
-pais: ""
+capaObra: "https://cdn.ome.lt/filkBfgfncCg8v4zOphoKrnakck=/308x500/smart/extras/capas/predador-poster.jpeg"
+notaCritico: 4
+tituloOriginal: "Predator: Killer of Killers"
+ano: "2025"
+pais: "Estados Unidos"
 classificacao: ""
 duracao: ""
-direcao: ""
+direcao: "Dan Trachtenberg"
 elenco: [""]
 ---
 
