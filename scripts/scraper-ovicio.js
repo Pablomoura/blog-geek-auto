@@ -90,10 +90,10 @@ function extrairImagensCorpo(html) {
     .filter(src => src && src.startsWith("http") && !src.includes("blank"));
 }
 
-async function baixarImagem(url, slug, tipo = "thumb") {
+async function baixarImagem(url, slug, index) {
   if (!url || !url.startsWith("http")) return null;
   const extensao = path.extname(new URL(url).pathname).split("?")[0] || ".jpg";
-  const nomeArquivo = `${slug}-${tipo}${extensao}`;
+  const nomeArquivo = `${slug}-img${index}${extensao}`;
   const caminho = path.join(uploadsDir, nomeArquivo);
 
   return new Promise((resolve) => {
@@ -258,18 +258,20 @@ async function processarRSS() {
 
     const slug = gerarSlugUnico(titulo, postsExistentes);
 
-    let urlThumb = extrairThumb(noticia["content:encoded"] || "") || "/images/default.jpg";
-    let tipoMidia = "imagem";
-
     const mediaContent = noticia["media:content"];
+    let midia = extrairThumb(noticia["content:encoded"] || "") || "/images/default.jpg";
+    let tipoMidia = "imagem";
+    let thumb = midia; // valor inicial
+
     if (mediaContent?.url?.includes("youtube.com/embed")) {
-      urlThumb = mediaContent.url;
+      midia = mediaContent.url;           // agora a capa é o vídeo
       tipoMidia = "video";
+      thumb = mediaContent["media:thumbnail"]?.url || thumb; // thumb é a miniatura do vídeo
     }
 
-    const imagemLocal = tipoMidia === "imagem" ? await baixarImagem(urlThumb, slug, "thumb") : null;
-    let midia = imagemLocal || urlThumb;
-    let thumb = imagemLocal || urlThumb;
+    // Agora faz download da thumb (imagem de preview) — não da midia
+    const imagemThumbLocal = tipoMidia === "imagem" ? await baixarImagem(thumb, slug, "thumb") : await baixarImagem(thumb, slug, "preview");
+    if (imagemThumbLocal) thumb = imagemThumbLocal;
 
     const { html, imagens } = limparTexto(noticia["content:encoded"] || "");
     const markdownOriginal = turndownService.turndown(html);
@@ -308,7 +310,16 @@ resumo: >-
   ${reescrito.resumo}
 ---\n\n`;
 
-    const textoFinal = inserirImagensNoTexto(reescrito.texto, imagens.slice(1));
+    const imagensInternas = imagens.slice(1); // Ignora a imagem de capa
+    const imagensBaixadas = [];
+
+    for (let i = 0; i < imagensInternas.length; i++) {
+      const local = await baixarImagem(imagensInternas[i], slug, i);
+      imagensBaixadas.push(local || imagensInternas[i]); // fallback para URL original
+    }
+
+    const textoFinal = inserirImagensNoTexto(reescrito.texto, imagensBaixadas);
+
     const markdownCompleto = frontmatter + textoFinal;
 
     fs.writeFileSync(path.join(contentDir, `${slug}.md`), markdownCompleto, "utf-8");
