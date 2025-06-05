@@ -1,14 +1,33 @@
 ---
-title: "Novidades em Board Games: Expansões de Wingspan, Clank! Catacombs e HeroQuest"
-slug: "visit-the-underworld-in-clank-catacombs-welcome-new-faces-in-wild-gardens-and-explore-joe-manganiello039s-crypt-of-perpetual-darkness"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg"
-tags: ["board games", "expansões", "Wingspan", "Clank! Catacombs", "HeroQuest", "Joe Manganiello", "Stonemaier Games", "Capstone Games", "Rose Gauntlet Entertainment", "Bézier Games"]
-keywords: "board games, expansões, Wingspan, Clank! Catacombs, HeroQuest, Joe Manganiello, Stonemaier Games, Capstone Games, Rose Gauntlet Entertainment, Bézier Games"
-author: "Pablo Moura"
-data: "2025-06-05T06:28:59.054Z"
+title: 'Novidades em Board Games: Expansões de Wingspan, Clank! Catacombs e HeroQuest'
+slug: >-
+  visit-the-underworld-in-clank-catacombs-welcome-new-faces-in-wild-gardens-and-explore-joe-manganiello039s-crypt-of-perpetual-darkness
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg
+tags:
+  - board games
+  - expansões
+  - Wingspan
+  - Clank! Catacombs
+  - HeroQuest
+  - Joe Manganiello
+  - Stonemaier Games
+  - Capstone Games
+  - Rose Gauntlet Entertainment
+  - Bézier Games
+keywords: >-
+  board games, expansões, Wingspan, Clank! Catacombs, HeroQuest, Joe
+  Manganiello, Stonemaier Games, Capstone Games, Rose Gauntlet Entertainment,
+  Bézier Games
+author: Pablo Moura
+data: '2025-06-05T06:28:59.054Z'
+resumo: >-
+  Confira os detalhes das expansões de jogos de tabuleiro como Wingspan, Clank!
+  Catacombs e a colaboração de Joe Manganiello com HeroQuest.
 ---
 
 ## Wingspan: Expansões no Horizonte
