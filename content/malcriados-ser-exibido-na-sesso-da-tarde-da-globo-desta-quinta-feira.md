@@ -3,7 +3,7 @@ title: >-
   Sessão da Tarde Exibe 'Malcriados' nesta Quinta: Conheça o Filme de Felipe
   Martinez
 slug: malcriados-ser-exibido-na-sesso-da-tarde-da-globo-desta-quinta-feira
-categoria: SÉRIES E TV
+categoria: Filmes
 midia: 'https://www.youtube.com/embed/2BhCj0O7xco?enablejsapi=1'
 tipoMidia: video
 thumb: >-

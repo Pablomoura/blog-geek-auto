@@ -7,7 +7,7 @@ midia: "/images/Capa-krypto.jpg"
 tipoMidia: "imagem"
 thumb: "/images/Capa-krypto.jpg"
 keywords: "Krypto, DCU, James Gunn, Família Superman, super-herói, DC Comics, narrativa, lealdade"
-tags: ["Krypto", "DCU", "James Gunn", "Família Superman", "super-herói", "DC Comics", "narrativa", "lealdade"]
+tags: ["Krypto", "DCU", "James Gunn", "Família Superman", "super-herói", "DC Comics", "narrativa", "lealdade", "especial-Superman"]
 author: "Pablo Moura"
 data: "2025-06-04T21:03:28.256Z"
 ---

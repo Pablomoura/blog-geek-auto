@@ -2,7 +2,7 @@
 title: >-
   Kohei Horikoshi Homenageia Dragon Ball em Novo Artbook de My Hero Academia
 slug: criador-de-my-hero-academia-comenta-sobre-arte-em-homenagem-a-dragon-ball
-categoria: Séries e TV
+categoria: Hq/Livros
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/04/20250423-my-hero-academia-ultra-artworks-capa-ovicio.webp
 tipoMidia: imagem

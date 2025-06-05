@@ -2,7 +2,7 @@
 title: >-
   James Gunn Rebate Rumores de Corte na Duração de Superman pela Warner
 slug: warner-obrigou-james-gunn-a-reduzir-duracao-de-superman-diretor-se-pronuncia
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/04/20250414-bastidores-de-superman-da-dc-studios.webp
 tipoMidia: imagem
@@ -18,6 +18,7 @@ tags:
   - 'David Corenswet'
   - 'Supergirl'
   - 'Milly Alcock'
+  - especial-Superman
 keywords: >-
   James Gunn, Superman 2025, Warner Bros., DC Studios, duração do filme, cenas pós-créditos, David Corenswet, Supergirl, Milly Alcock
 author: Ana Luiza

@@ -19,6 +19,7 @@ tags:
   - 'Anthony Carrigan'
   - 'colecionveis Superman'
   - 'enredo Superman'
+  - especial-Superman
 keywords: >-
   Superman, Baby Joey, Metamorfo, Lex Luthor, DC Studios, James Gunn, filme Superman 2025, Anthony Carrigan, colecionáveis Superman, enredo Superman
 author: Ana Luiza

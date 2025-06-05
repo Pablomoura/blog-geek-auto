@@ -2,7 +2,7 @@
 title: >-
   Nintendo Switch 2: Dicas Essenciais para Aproveitar ao Máximo o Novo Console
 slug: 10-coisas-que-voce-precisa-fazer-no-seu-nintendo-switch-2
-categoria: Séries e TV
+categoria: Games
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/05/20250508-nintendo-switch-2-estimativa-vendas.webp
 tipoMidia: imagem

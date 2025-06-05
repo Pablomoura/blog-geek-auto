@@ -17,6 +17,7 @@ tags:
   - 'DCU'
   - 'Metallo'
   - 'viles do Superman'
+  - especial-Superman
 keywords: >-
   Superman, DC Studios, Lex Luthor, Engenheira, James Gunn, DCU, Metallo, vilões do Superman
 author: Luana Souza

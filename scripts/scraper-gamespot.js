@@ -53,7 +53,7 @@ async function buscarNoticiasGameSpotRSS() {
 
 function extrairImagensDoHtml(html) {
   const imagens = [];
-  const regexImageTag = /<image[^>]+data-img-src="([^">]+)"/gi;
+  const regexImageTag = /<img[^>]+src=["']([^"'>]+)["']/gi;
   let match;
   while ((match = regexImageTag.exec(html)) !== null) {
     imagens.push(match[1]);
@@ -118,7 +118,7 @@ function inserirImagensNoTexto(texto, imagens) {
 }
 
 function substituirLinksAmazon(texto, codigoAfiliado) {
-  return texto.replace(/https:\/\/(www\.)?amazon\.com(\.br)?\/[^\s)\"]+/gi, (url) => {
+  return texto.replace(/https:\/\/(www\.)?amazon\.com(\.br)?\/[^"]+/gi, (url) => {
     const temTag = url.includes("tag=");
     const conector = url.includes("?") ? "&" : "?";
     if (temTag) return url.replace(/tag=[^&]+/, `tag=${codigoAfiliado}`);
@@ -135,8 +135,8 @@ async function executarScraper() {
     if (postsExistentes.some((p) => p.link === noticia.link)) continue;
 
     const markdownOriginal = turndownService.turndown(noticia.descricaoHtml);
-    const imagensDoRSS = extrairImagensDoHtml(noticia.descricaoHtml);
-    const imagensParaInserir = imagensDoRSS.filter((img) => img !== noticia.thumb);
+    const imagensOriginais = extrairImagensDoHtml(noticia.descricaoHtml);
+    const imagensParaInserir = imagensOriginais.filter((img) => img !== noticia.thumb);
 
     const reescrito = await retry(() => reescreverNoticia(noticia.titulo, noticia.resumo, markdownOriginal));
     if (!reescrito) continue;
@@ -144,9 +144,16 @@ async function executarScraper() {
     const slug = slugify(reescrito.titulo);
     if (postsExistentes.some((p) => slugify(p.slug) === slug)) continue;
 
-    const imagemLocal = await baixarImagem(noticia.thumb, slug, "thumb");
-    const midia = imagemLocal || noticia.thumb;
-    const textoComImagens = inserirImagensNoTexto(reescrito.texto, imagensParaInserir);
+    const imagemThumbLocal = await baixarImagem(noticia.thumb, slug, "thumb");
+    const midia = imagemThumbLocal || noticia.thumb;
+
+    const imagensBaixadas = [];
+    for (let i = 0; i < imagensParaInserir.length; i++) {
+      const local = await baixarImagem(imagensParaInserir[i], slug, `img${i}`);
+      imagensBaixadas.push(local || imagensParaInserir[i]);
+    }
+
+    const textoComImagens = inserirImagensNoTexto(reescrito.texto, imagensBaixadas);
     const blocoFontes = await buscarFontesGoogle(reescrito.titulo);
     const textoComAfiliado = substituirLinksAmazon(textoComImagens, "geeknews06-20");
     const markdownFinal = textoComAfiliado + blocoFontes;
@@ -154,19 +161,7 @@ async function executarScraper() {
     const tags = reescrito.keywords ? reescrito.keywords.split(",").map(t => t.trim()).filter(Boolean) : [];
     const autor = autores[Math.floor(Math.random() * autores.length)];
 
-const frontmatter = `---
-title: "${reescrito.titulo.replace(/"/g, "'")}"
-slug: "${slug}"
-categoria: "Games"
-midia: "${midia}"
-tipoMidia: "imagem"
-thumb: "${midia}"
-tags: [${tags.map(tag => `"${tag}"`).join(", ")}]
-keywords: "${tags.join(", ")}"
-author: "${autor}"
-fonte: "GameSpot"
-data: "${new Date(noticia.pubDate).toISOString()}"
----\n\n`;
+    const frontmatter = `---\ntitle: "${reescrito.titulo.replace(/"/g, "'")}"\nslug: "${slug}"\ncategoria: "Games"\nmidia: "${midia}"\ntipoMidia: "imagem"\nthumb: "${midia}"\ntags: [${tags.map(tag => `"${tag}"`).join(", ")}]\nkeywords: "${tags.join(", ")}"\nauthor: "${autor}"\nfonte: "GameSpot"\ndata: "${new Date(noticia.pubDate).toISOString()}"\n---\n\n`;
 
     const caminho = path.join(contentDir, `${slug}.md`);
     fs.writeFileSync(caminho, frontmatter + markdownFinal, "utf-8");

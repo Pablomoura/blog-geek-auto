@@ -20,6 +20,7 @@ tags:
   - DCU
   - 'Batman: The Brave and the Bold'
   - Comando das Criaturas
+  - especial-Superman
 keywords: >-
   James Gunn, Superman, DC Studios, Warner Bros. Discovery, David Corenswet,
   Rachel Brosnahan, Lex Luthor, Lanterna Verde, Mulher-Gavião, DCU, Batman: The

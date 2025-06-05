@@ -31,6 +31,7 @@ tags:
   - HBO Max
   - Clark Kent
   - Metrópoles
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, David Corenswet, DCU, AMC Theaters, Rachel Brosnahan,
   Nicholas Hoult, Skyler Gisondo, Wendell Pierce, Nathan Fillion, Isabela

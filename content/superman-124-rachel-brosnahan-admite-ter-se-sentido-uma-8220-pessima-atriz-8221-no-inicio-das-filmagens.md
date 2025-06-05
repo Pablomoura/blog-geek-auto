@@ -2,7 +2,7 @@
 title: >-
   Rachel Brosnahan Revela Desafios e Superação nas Filmagens de Superman
 slug: superman-124-rachel-brosnahan-admite-ter-se-sentido-uma-8220-pessima-atriz-8221-no-inicio-das-filmagens
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/06/20250605-rachel-brosnahan-e-david-corenswet-se-encarando-em-superman.webp
 tipoMidia: imagem
@@ -18,6 +18,7 @@ tags:
   - 'Krypto'
   - 'DCU'
   - 'filme 2025'
+  - especial-Superman
 keywords: >-
   Rachel Brosnahan, Lois Lane, Superman, James Gunn, David Corenswet, efeitos especiais, Krypto, DCU, filme 2025
 author: Luana Souza

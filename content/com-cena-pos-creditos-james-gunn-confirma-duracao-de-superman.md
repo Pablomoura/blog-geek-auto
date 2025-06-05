@@ -2,7 +2,7 @@
 title: >-
   Duração do Novo Filme do Superman é Revelada por James Gunn, Incluindo Cena Pós-Créditos
 slug: com-cena-pos-creditos-james-gunn-confirma-duracao-de-superman
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/05/20250527-david-corenswet-com-uniforme-do-superman.webp
 tipoMidia: imagem
@@ -19,6 +19,7 @@ tags:
   - 'durao Superman'
   - 'universo DC'
   - 'Superman Legacy'
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, cena pós-créditos, Milly Alcock, Supergirl, DC Studios, filme Superman, duração Superman, universo DC, Superman: Legacy
 author: Pablo Moura

@@ -7,7 +7,7 @@ midia: "/images/Capa-The-Authority.jpg"
 tipoMidia: "imagem"
 thumb: "/images/Capa-The-Authority.jpg"
 keywords: "The Authority, Superman, moralidade, DC Comics, anti-heróis, Jenny Sparks, Apollo, cinema"
-tags: ["The Authority", "Superman", "moralidade", "DC Comics", "anti-heróis", "Jenny Sparks", "Apollo", "cinema"]
+tags: ["The Authority", "Superman", "moralidade", "DC Comics", "anti-heróis", "Jenny Sparks", "Apollo", "cinema", "especial-Superman"]
 author: "Pablo Moura"
 data: "2025-06-04T21:03:12.899Z"
 ---

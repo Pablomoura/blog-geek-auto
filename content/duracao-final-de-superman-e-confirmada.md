@@ -15,6 +15,7 @@ tags:
   - 'durao do filme'
   - 'estreia'
   - 'Universo DC'
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, Warner Bros., duração do filme, estreia, Universo DC
 author: Ana Luiza

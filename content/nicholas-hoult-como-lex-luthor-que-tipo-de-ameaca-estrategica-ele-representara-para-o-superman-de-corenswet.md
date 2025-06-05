@@ -7,7 +7,7 @@ midia: "/images/Capa-Nicholas-Hoult-Lex.jpg"
 tipoMidia: "imagem"
 thumb: "/images/Capa-Nicholas-Hoult-Lex.jpg"
 keywords: "Nicholas Hoult, Lex Luthor, Superman, DC, ameaça estratégica, universo DC, Corenswet"
-tags: ["Nicholas Hoult", "Lex Luthor", "Superman", "DC", "ameaça estratégica", "universo DC", "Corenswet"]
+tags: ["Nicholas Hoult", "Lex Luthor", "Superman", "DC", "ameaça estratégica", "universo DC", "Corenswet", "especial-Superman"]
 author: "Pablo Moura"
 data: "2025-06-04T21:03:00.296Z"
 ---
