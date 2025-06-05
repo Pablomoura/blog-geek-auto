@@ -1,5 +1,5 @@
 ---
-title: 'Quarteto Fantástico: Recorde de Pré-venda Aumenta Expectativas nos EUA'
+title: 'Quarteto Fantástico: Recorde de Pré-venda Antecipa Sucesso em 2025 nos EUA'
 slug: quarteto-fantstico-bate-recorde-de-2025-em-pr-venda-nos-eua
 categoria: FILMES
 midia: 'https://www.youtube.com/embed/ewtfT7EPk9s?showinfo=0&enablejsapi=1'
@@ -8,47 +8,48 @@ thumb: >-
   https://cdn.ome.lt/soaeuSE0V5CetAakAus1d1TOaGw=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-06-05T103245.334.png
 tags:
   - Quarteto Fantástico
-  - Pré-venda
+  - Primeiros Passos
+  - pré-venda
   - MCU
   - Pedro Pascal
   - Vanessa Kirby
   - Joseph Quinn
   - Ebon Moss-Bachrach
-  - Ralph Ineson
+  - Galactus
   - Julia Garner
   - Matt Shakman
-  - Marvel Studios
   - Fandango
+  - Marvel Studios
 keywords: >-
-  Quarteto Fantástico, Pré-venda, MCU, Pedro Pascal, Vanessa Kirby, Joseph
-  Quinn, Ebon Moss-Bachrach, Ralph Ineson, Julia Garner, Matt Shakman, Marvel
-  Studios, Fandango
-author: Ana Luiza
-data: '2025-06-05T14:20:43.852Z'
+  Quarteto Fantástico, Primeiros Passos, pré-venda, MCU, Pedro Pascal, Vanessa
+  Kirby, Joseph Quinn, Ebon Moss-Bachrach, Galactus, Julia Garner, Matt Shakman,
+  Fandango, Marvel Studios
+author: Luana Souza
+data: '2025-06-05T14:20:59.827Z'
 resumo: >-
-  O aguardado 'Quarteto Fantástico: Primeiros Passos' já quebra recordes de
-  pré-venda antes de sua estreia em dezembro. O novo sucesso do MCU promete uma
-  nova visão do famoso grupo de heróis.
+  O aguardado filme 'Quarteto Fantástico: Primeiros Passos' já quebrou recordes
+  de pré-venda nos Estados Unidos, mesmo antes de sua estreia em novembro. Com
+  um elenco estelar e direção de Matt Shakman, o longa promete ser uma das
+  grandes atrações do MCU.
 ---
 
-## Recorde de Pré-venda nos EUA
+## Quarteto Fantástico: Primeiros Passos promete agitar o MCU
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DKhSC23pDML/" data-instgrm-version="14" style="width:100%; max-width:540px; margin:1rem auto;"><a href="https://www.instagram.com/p/DKhSC23pDML/">Ver post no Instagram</a></blockquote>
 
-O filme 'Quarteto Fantástico: Primeiros Passos' ainda nem chegou aos cinemas, mas já está fazendo história. Previsto para estrear no próximo mês, o longa alcançou o recorde de pré-venda de 2025 nos Estados Unidos, superando todas as expectativas. A plataforma de vendas de ingressos Fandango relatou que foi o filme mais vendido em seu primeiro dia.
+A estreia de 'Quarteto Fantástico: Primeiros Passos' está marcada para o próximo mês, mas o filme já está dando o que falar nos Estados Unidos. O novo título do MCU quebrou recordes de pré-venda pelo sistema Fandango, tornando-se o filme mais vendido do ano em seu primeiro dia de vendas.
 
-## Quem é Quem no Novo Quarteto Fantástico
+### Um elenco de peso e uma nova visão
 
-Nesta nova adaptação do MCU, Pedro Pascal, conhecido por 'The Last of Us', assume o papel de Reed Richards, o Sr. Fantástico. Vanessa Kirby, de 'Missão: Impossível - Acerto de Contas', interpreta Sue Storm, a Mulher-Invisível. Joseph Quinn, de 'Stranger Things', e Ebon Moss-Bachrach, de 'O Urso' e 'Justiceiro', completam o time como Johnny Storm (Tocha-Humana) e Ben Grimm (O Coisa), respectivamente.
+O filme traz Pedro Pascal, famoso por 'The Last of Us', no papel de Reed Richards, o Sr. Fantástico. Vanessa Kirby, conhecida por 'Missão: Impossível - Acerto de Contas', interpreta Sue Storm, a Mulher-Invisível. Completando o icônico quarteto estão Joseph Quinn, de 'Stranger Things', como Johnny Storm, o Tocha-Humana, e Ebon Moss-Bachrach, de 'O Urso', como Ben Grimm, o Coisa.
 
-## Vilões e Participações Especiais
+O vilão Galactus será vivido por Ralph Ineson, enquanto Julia Garner assume o papel de Shalla-Bal, uma versão alternativa do Surfista Prateado. Rumores indicam que Franklin Richards, filho de Reed e Sue, também fará parte da trama, com Natasha Lyonne, Paul Walter Hauser e John Malkovich completando o elenco.
 
-Ralph Ineson, de 'A Bruxa', assume o papel do temível Galactus, enquanto Julia Garner, de 'Ozark', traz uma nova versão do Surfista Prateado, Shalla-Bal. Rumores indicam que Franklin Richards, filho de Reed e Sue, também poderá aparecer. O elenco ainda conta com Natasha Lyonne, Paul Walter Hauser e John Malkovich.
+### Direção e ambientação inovadoras
 
-Dirigido por Matt Shakman, que anteriormente comandou 'WandaVision', o filme promete trazer uma nova perspectiva para o lendário grupo de heróis da Marvel. A trama, que se passa em uma Nova York retrofuturista de outro universo, ainda guarda surpresas, como a possível aparição de Robert Downey Jr. como Doutor Destino.
+A direção fica por conta de Matt Shakman, conhecido por seu trabalho em 'WandaVision', substituindo Jon Watts. O filme é a terceira adaptação do Quarteto Fantástico nos cinemas e um dos projetos mais esperados do Marvel Studios. Desta vez, a história se desenrola em uma Nova York retrofuturista de outro universo, sem focar na origem dos heróis.
 
-## O Impacto do Novo Filme no MCU
+Há ainda especulações sobre uma possível aparição de Robert Downey Jr. como Doutor Destino, adicionando ainda mais expectativa à estreia.
 
-Este é o terceiro grande projeto do Quarteto Fantástico nos cinemas e é considerado um dos mais importantes para o Marvel Studios. A expectativa é alta, não apenas pelo elenco estelar, mas também pela forma como a história se entrelaçará com o universo já estabelecido do MCU.
+Com um elenco impressionante e uma abordagem inovadora, 'Quarteto Fantástico: Primeiros Passos' tem tudo para ser um marco no universo cinematográfico da Marvel.
 
-A estreia de 'Quarteto Fantástico: Primeiros Passos' está marcada para dezembro, prometendo fechar o ano com chave de ouro para os fãs de super-heróis.
