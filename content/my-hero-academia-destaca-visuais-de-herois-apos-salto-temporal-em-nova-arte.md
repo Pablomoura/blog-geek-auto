@@ -2,7 +2,7 @@
 title: >-
   My Hero Academia Revela Transformação dos Heróis com Salto Temporal em Nova Arte
 slug: my-hero-academia-destaca-visuais-de-herois-apos-salto-temporal-em-nova-arte
-categoria: Séries e TV
+categoria: Mangás e Animes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/06/20250604-deku-all-might-e-herois-de-my-hero-academia-em-arte-ovicio.webp
 tipoMidia: imagem

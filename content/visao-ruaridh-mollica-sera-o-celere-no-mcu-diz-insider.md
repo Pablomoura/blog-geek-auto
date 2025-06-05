@@ -2,7 +2,7 @@
 title: >-
   Ruaridh Mollica é Cotado como Célere no MCU: Novo Rumor Ganha Força
 slug: visao-ruaridh-mollica-sera-o-celere-no-mcu-diz-insider
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/06/20250604-image-10.png
 tipoMidia: imagem

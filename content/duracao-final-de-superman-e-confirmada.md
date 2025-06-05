@@ -2,7 +2,7 @@
 title: >-
   Duração Oficial do Novo Filme de Superman é Revelada
 slug: duracao-final-de-superman-e-confirmada
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/05/20250526-ovicio-superman-banner-2.jpg
 tipoMidia: imagem

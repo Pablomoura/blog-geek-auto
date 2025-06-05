@@ -2,7 +2,7 @@
 title: >-
   Panini Books: Novo Selo Editorial Destaca Literatura Asiática na Bienal do Livro 2025
 slug: panini-lanca-selo-editorial-focado-em-literatura-asiatica
-categoria: Séries e TV
+categoria: HQ/Livros
 midia: >-
   https://ovicio.com.br/wp-content/uploads/2025/06/20250604-image-12.png
 tipoMidia: imagem
