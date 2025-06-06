@@ -1,4 +1,5 @@
 const fs = require("fs");
+const { createWriteStream } = require("fs");
 const path = require("path");
 const axios = require("axios");
 const puppeteer = require("puppeteer-extra");
@@ -7,20 +8,6 @@ const https = require("https");
 require("dotenv").config();
 const { google } = require("googleapis");
 const buscarFontesGoogle = require("./buscarFontesGoogle");
-
-async function pingIndexNow(url) {
-  const fetch = require("node-fetch");
-  const TOKEN = "geeknews-indexnow-verification";
-  const pingUrl = `https://api.indexnow.org/indexnow?url=${encodeURIComponent(url)}&key=${TOKEN}`;
-
-  try {
-    const res = await fetch(pingUrl);
-    console.log(`✔️ IndexNow enviado: ${url} | Código: ${res.status}`);
-  } catch (err) {
-    console.error(`❌ Erro ao enviar IndexNow para ${url}:`, err.message);
-  }
-}
-
 
 if (!process.env.GOOGLE_CREDENTIALS) {
   throw new Error("❌ GOOGLE_CREDENTIALS não definida. Verifique suas variáveis de ambiente no GitHub.");
@@ -31,28 +18,6 @@ try {
   serviceAccount = JSON.parse(decoded);
 } catch (error) {
   throw new Error("❌ GOOGLE_CREDENTIALS inválida. Certifique-se de que está em base64 e contém JSON válido.");
-}
-
-
-const auth = new google.auth.GoogleAuth({
-  credentials: serviceAccount,
-  scopes: ["https://www.googleapis.com/auth/indexing"],
-});
-
-const indexingClient = google.indexing({ version: "v3", auth });
-
-async function enviarParaIndexingAPI(url) {
-  try {
-    await indexingClient.urlNotifications.publish({
-      requestBody: {
-        url,
-        type: "URL_UPDATED",
-      },
-    });
-    console.log("📬 Enviado para indexação:", url);
-  } catch (error) {
-    console.error("❌ Erro ao enviar para indexação:", url, error.response?.data || error.message);
-  }
 }
 
 puppeteer.use(StealthPlugin());
@@ -611,12 +576,6 @@ function limparUrlInstagram(url) {
   const todas = force ? novosPosts : [...postsExistentes, ...novosPosts];
   fs.writeFileSync(jsonFilePath, JSON.stringify(todas, null, 2), "utf-8");
   console.log(`✅ ${novosPosts.length} posts salvos (notícias + críticas).`);
-
-  console.log("🔔 Enviando novos posts para IndexNow...");
-  for (const post of novosPosts) {
-    const url = `https://www.geeknews.com.br/noticia/${post.slug}`;
-    await pingIndexNow(url);
-  }
 
 } else {
   console.log("🔄 Nenhuma nova notícia ou crítica encontrada.");
