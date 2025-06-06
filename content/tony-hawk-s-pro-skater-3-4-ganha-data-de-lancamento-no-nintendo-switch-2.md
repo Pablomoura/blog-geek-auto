@@ -20,6 +20,7 @@ tags:
   - 'nova gerao'
   - 'remakes'
   - 'Tony Hawk'
+  - especial-Nintendo Switch 2
 keywords: >-
   Tony Hawk’s Pro Skater 3 + 4, Nintendo Switch 2, Activision, lançamento, skatistas, Bam Margera, Margielyn Didal, jogos clássicos, nova geração, remakes, Tony Hawk
 author: Pablo Moura

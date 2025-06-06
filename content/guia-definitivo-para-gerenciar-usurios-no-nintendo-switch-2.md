@@ -12,6 +12,7 @@ tags:
   - conta Nintendo
   - configuração Switch 2
   - gerenciar perfis Switch 2
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, adicionar usuário Switch 2, remover usuário Switch 2, conta
   Nintendo, configuração Switch 2, gerenciar perfis Switch 2

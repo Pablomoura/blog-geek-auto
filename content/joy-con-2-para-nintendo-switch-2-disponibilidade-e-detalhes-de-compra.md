@@ -15,6 +15,7 @@ tags:
   - Joy-Con 2 Racing Wheels
   - acessórios Nintendo Switch 2
   - lançamento Joy-Con 2
+  - especial-Nintendo Switch 2
 keywords: >-
   Joy-Con 2, Nintendo Switch 2, Mario Kart World, Joy-Con 2 Charging Grip,
   Joy-Con 2 Racing Wheels, acessórios Nintendo Switch 2, lançamento Joy-Con 2

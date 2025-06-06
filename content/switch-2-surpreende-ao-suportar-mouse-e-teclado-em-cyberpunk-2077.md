@@ -15,6 +15,7 @@ tags:
   - CD Projekt Red
   - Joy-Con 2
   - lançamento Switch 2
+  - especial-Nintendo Switch 2
 keywords: >-
   Switch 2, Cyberpunk 2077, suporte mouse teclado, Nintendo, CD Projekt Red,
   Joy-Con 2, lançamento Switch 2

@@ -17,6 +17,7 @@ tags:
   - 'atualizao grfica'
   - 'PS5'
   - 'Xbox Series XS'
+  - especial-Nintendo Switch 2
 keywords: >-
   Red Dead Redemption 2, Nintendo Switch 2, Rockstar Games, lançamento, rumores, atualização gráfica, PS5, Xbox Series X/S
 author: Pablo Moura

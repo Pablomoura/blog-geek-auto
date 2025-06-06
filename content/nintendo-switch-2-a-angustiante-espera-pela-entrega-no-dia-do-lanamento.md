@@ -18,6 +18,7 @@ tags:
   - Nintendo
   - problemas de entrega
   - varejistas
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, lançamento, pré-venda, entrega, console, jogos exclusivos,
   Mario Kart World, Nintendo, problemas de entrega, varejistas

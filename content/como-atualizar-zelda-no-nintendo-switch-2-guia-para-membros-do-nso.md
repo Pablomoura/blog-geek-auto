@@ -15,6 +15,7 @@ tags:
   - Breath of the Wild
   - eShop
   - GameCube no Switch 2
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, Zelda atualização, Nintendo Switch Online, Tears of the
   Kingdom, Breath of the Wild, eShop, GameCube no Switch 2

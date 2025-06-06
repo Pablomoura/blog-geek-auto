@@ -15,6 +15,7 @@ tags:
   - TrueVistage
   - Mario Kart World
   - 'The Legend of Zelda: Tears of the Kingdom'
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, chat de vídeo, smartphone, cabo USB-C para HDMI, Will It
   Work?, TrueVistage, Mario Kart World, The Legend of Zelda: Tears of the

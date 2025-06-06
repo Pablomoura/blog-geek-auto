@@ -14,6 +14,7 @@ tags:
   - configuração Switch 2
   - guia de transferência Switch
   - jogos Nintendo
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, transferir dados de jogo, saves na nuvem, configuração
   Switch 2, guia de transferência Switch, jogos Nintendo

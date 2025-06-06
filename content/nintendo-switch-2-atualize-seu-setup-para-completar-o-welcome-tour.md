@@ -18,6 +18,7 @@ tags:
   - GL/GR
   - custo adicional
   - experiência imersiva
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, Welcome Tour, acessórios, tech demo, câmera USB, TV 4K,
   controle Pro, GL/GR, custo adicional, experiência imersiva

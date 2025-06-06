@@ -16,6 +16,7 @@ tags:
   - 'melhorias grficas'
   - 'desempenho'
   - 'regio de Paldea'
+  - especial-Nintendo Switch 2
 keywords: >-
   Pokémon Scarlet, Pokémon Violet, Nintendo Switch 2, atualização gratuita, melhorias gráficas, desempenho, região de Paldea
 author: Pablo Moura

@@ -14,6 +14,7 @@ tags:
   - melhorias de jogo
   - compatibilidade retroativa
   - jogos Nintendo Switch 2
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, HDR, configuração HDR, melhorias de jogo, compatibilidade
   retroativa, jogos Nintendo Switch 2

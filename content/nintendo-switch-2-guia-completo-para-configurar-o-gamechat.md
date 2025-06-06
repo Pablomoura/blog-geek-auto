@@ -12,6 +12,7 @@ tags:
   - comunicação Nintendo Switch
   - GameShare
   - controle parental Switch 2
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, GameChat, configuração GameChat, comunicação Nintendo
   Switch, GameShare, controle parental Switch 2

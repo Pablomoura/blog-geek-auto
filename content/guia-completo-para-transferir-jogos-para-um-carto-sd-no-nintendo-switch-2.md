@@ -14,6 +14,7 @@ tags:
   - transferência de jogos
   - armazenamento
   - Cartões de Jogo Virtuais
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, cartão SD, microSD Express, transferência de jogos,
   armazenamento, Cartões de Jogo Virtuais
@@ -34,6 +35,8 @@ Com a chegada do Nintendo Switch 2, um dos desafios mais comuns enfrentados pelo
 
 Diferentemente do seu antecessor, o Nintendo Switch 2 requer um **microSD Express card**. Este tipo de cartão não só oferece maior velocidade de leitura e gravação, mas também é essencial para a compatibilidade total com o novo console. Antes de iniciar a configuração, é crucial adquirir este cartão, disponível em diversas lojas online e físicas.
 
+![Configurar Switch 2](/images/4507604-switch-2-sd-card-port.jpg)
+
 ### Passo a Passo para Inserir e Transferir Jogos
 
 1. **Inserção do Cartão SD:**
@@ -50,6 +53,8 @@ Diferentemente do seu antecessor, o Nintendo Switch 2 requer um **microSD Expres
 
    - Jogos compatíveis que já estavam no seu Nintendo Switch original serão baixados novamente assim que você acessar a tela inicial do Switch 2.
 
+![Configurar Switch 2](/images/4507606-switch-2-virtual-cards.jpg)
+
 ### Gerenciando sua Coleção de Jogos
 
 A Nintendo introduziu o conceito de **Cartões de Jogo Virtuais**, facilitando o gerenciamento da sua biblioteca. Acesse-os através do ícone na parte inferior da tela inicial. **Dicas importantes:**
@@ -57,6 +62,8 @@ A Nintendo introduziu o conceito de **Cartões de Jogo Virtuais**, facilitando o
 - Um **ícone azul** indica que o jogo está no cartão SD.
 
 - Um **ícone preto** significa que o jogo ainda não foi baixado.
+
+![Configurar Switch 2](/images/4507326-20250605005554-01jwz73crfvnk4h82zf5y37s5f.jpg)
 
 ### Considerações Finais
 

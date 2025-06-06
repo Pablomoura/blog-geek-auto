@@ -14,6 +14,7 @@ tags:
   - configuração Switch 2
   - conta Nintendo
   - jogos Nintendo
+  - especial-Nintendo Switch 2
 keywords: >-
   Transferir conta Nintendo, Nintendo Switch 2, transferência de dados Switch,
   configuração Switch 2, conta Nintendo, jogos Nintendo
@@ -45,6 +46,8 @@ Antes de iniciar a transferência, é importante estar preparado. Você precisar
 
 - Cerca de 30 minutos para completar o processo.
 
+![Switch 2](/images/4508006-switch-2-save-data-import-2.jpg)
+
 ### Processo de Transferência Durante a Configuração Inicial
 
 Ao ligar o Nintendo Switch 2 pela primeira vez e conectá-lo à internet, você será notificado sobre a possibilidade de transferir os dados do Switch original. É recomendável fazer isso logo no início para evitar complicações futuras.
@@ -64,6 +67,8 @@ No Switch original:
 - Role até o final e escolha "Transferência de Sistema para Switch 2".
 
 Se essa opção não aparecer, atualize o Switch e reinicie.
+
+![Switch 2](/images/4508008-switch-2-save-data-import-3.jpg)
 
 ### E se Perder a Oportunidade Inicial?
 

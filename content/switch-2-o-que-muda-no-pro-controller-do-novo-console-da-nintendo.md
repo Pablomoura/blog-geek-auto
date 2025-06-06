@@ -17,6 +17,7 @@ tags:
   - Donkey Kong Bananza
   - 4K
   - HDR
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, Pro Controller, HD Rumble 2, GameChat, Nintendo, Mario Kart
   World, Hades 2, Donkey Kong Bananza, 4K, HDR

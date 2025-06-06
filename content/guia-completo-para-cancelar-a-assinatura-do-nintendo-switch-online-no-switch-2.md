@@ -15,6 +15,7 @@ tags:
   - jogos online
   - GameCube
   - configuração de conta
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch Online, cancelar assinatura, Switch 2, renovação automática,
   jogos online, GameCube, configuração de conta

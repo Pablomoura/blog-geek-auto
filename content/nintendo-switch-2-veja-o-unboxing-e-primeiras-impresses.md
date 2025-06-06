@@ -16,6 +16,7 @@ tags:
   - Metroid Prime 4
   - HDR
   - 4K
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, unboxing, console, jogos, Mario Kart World, The Legend of
   Zelda, Metroid Prime 4, HDR, 4K

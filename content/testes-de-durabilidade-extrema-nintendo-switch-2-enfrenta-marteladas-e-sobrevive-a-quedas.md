@@ -19,6 +19,7 @@ tags:
   - console
   - Mario Kart World
   - protetor de tela
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, teste de durabilidade, TechRex, marteladas, resistência a
   quedas, console, Mario Kart World, protetor de tela

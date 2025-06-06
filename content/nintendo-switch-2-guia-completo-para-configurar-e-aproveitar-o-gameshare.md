@@ -14,6 +14,7 @@ tags:
   - como configurar GameShare
   - empréstimo de jogos
   - GameChat
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, GameShare, jogos compatíveis, como configurar GameShare,
   empréstimo de jogos, GameChat

@@ -17,6 +17,7 @@ tags:
   - restaurar console
   - backup de dados
   - problemas técnicos
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, redefinição de fábrica, apagar dados, restaurar console,
   backup de dados, problemas técnicos

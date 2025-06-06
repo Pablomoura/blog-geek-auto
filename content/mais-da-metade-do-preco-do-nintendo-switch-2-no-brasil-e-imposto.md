@@ -20,6 +20,7 @@ tags:
   - 'PISCOFINS'
   - 'impostos de importao'
   - 'lanamento Nintendo Switch 2'
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, impostos no Brasil, carga tributária, preço do console, mercado de games, eletrônicos no Brasil, IPI, ICMS, PIS/COFINS, impostos de importação, lançamento Nintendo Switch 2
 author: Luana Souza

@@ -18,6 +18,7 @@ tags:
   - 'atualizao'
   - 'expanso de memria'
   - 'jogos de lanamento'
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, proteção de tela, transferência de dados, acessórios, controles parentais, Nintendo Switch Online, atualização, expansão de memória, jogos de lançamento
 author: Luana Souza

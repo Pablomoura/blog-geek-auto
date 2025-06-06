@@ -17,6 +17,7 @@ tags:
   - Pokémon Legends Z-A
   - HDR
   - 4K
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, KaBuM!, Amazon, Mercado Livre, Gonzalo Greco, Mario Kart
   World, The Legend of Zelda: Tears of the Kingdom, Pokémon Legends Z-A, HDR, 4K

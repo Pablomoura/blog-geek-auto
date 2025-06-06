@@ -12,6 +12,7 @@ tags:
   - LAN Switch 2
   - GameChat Switch 2
   - jogos online Nintendo Switch 2
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, conexão internet Switch 2, Wi-Fi Switch 2, LAN Switch 2,
   GameChat Switch 2, jogos online Nintendo Switch 2

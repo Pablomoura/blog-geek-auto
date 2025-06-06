@@ -16,6 +16,7 @@ tags:
   - restrições de idade
   - chat de vídeo
   - monitoramento de atividades
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, controles parentais, segurança digital, tempo de tela,
   compras online, restrições de idade, chat de vídeo, monitoramento de

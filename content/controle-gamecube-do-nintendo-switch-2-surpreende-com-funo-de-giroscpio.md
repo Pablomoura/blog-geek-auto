@@ -13,6 +13,7 @@ tags:
   - giroscópio
   - Nintendo Switch Online
   - inovação em jogos
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, controle GameCube, giroscópio, Nintendo Switch Online,
   inovação em jogos

@@ -20,6 +20,7 @@ tags:
   - 'mundo aberto'
   - 'Night City'
   - 'recursos exclusivos'
+  - especial-Nintendo Switch 2
 keywords: >-
   Cyberpunk 2077, Ultimate Edition, Nintendo Switch 2, CD PROJEKT RED, lançamento, trailer, Phantom Liberty, jogos de RPG, mundo aberto, Night City, recursos exclusivos
 author: Ana Luiza

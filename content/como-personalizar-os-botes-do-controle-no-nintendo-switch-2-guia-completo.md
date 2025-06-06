@@ -14,6 +14,7 @@ tags:
   - acessibilidade no Nintendo Switch
   - ajuste de controle
   - tutorial de mapeamento de botões
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, remapeamento de botões, personalizar controle,
   acessibilidade no Nintendo Switch, ajuste de controle, tutorial de mapeamento
