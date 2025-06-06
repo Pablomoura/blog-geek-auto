@@ -1,12 +1,12 @@
 name: Scrape automático
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # permite rodar manualmente
   schedule:
     - cron: '0 11-23,0,1 * * *'
 
 permissions:
-  contents: write
+  contents: write # permite push com GITHUB_TOKEN
 
 jobs:
   scrape:
@@ -63,6 +63,7 @@ jobs:
           else
             git commit -m "📸 Upload de imagens salvas automaticamente"
             git push
+          fi
 
       - name: Comita novos posts
         run: |
