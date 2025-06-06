@@ -37,9 +37,11 @@ const posts = arquivos
   // 3️⃣ filtra só os que têm os campos obrigatórios
   .filter((post) => post.title && post.slug && post.data && post.resumo)
   // 4️⃣ ordena por data DESC
-  .sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
+  .sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime())
+  // 5️⃣ limita a 20 posts mais recentes
+  .slice(0, 20);
 
-// 5️⃣ adiciona no feed
+// 6️⃣ adiciona no feed
 for (const post of posts) {
   const url = `https://www.geeknews.com.br/noticia/${post.slug}`;
   const pubDate = new Date(post.data);
