@@ -42,17 +42,17 @@ Wes Crawford, o cérebro por trás de 'Engine Thieves', é um designer de jogos 
 
 Seu primeiro jogo, lançado em parceria com Ryan Heilman, foi 'The Pursuit of John Wilkes Booth', publicado pela Blue Panther, LLC. Desde então, Crawford tem se dedicado a criar jogos que unem história e estratégia, como 'Engine Thieves', que explora o famoso incidente ferroviário da Guerra Civil Americana conhecido como 'The Great Locomotive Chase'.
 
-![Imagem da notícia](https://cf.geekdo-images.com/-Xwd4Fot3H13b4yWQK8_UQ__imagepage/img/moxfmjfCM_45sc12NI1psmjsmmw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790657.jpg)
-
 ## Quem Desenvolveu o Jogo?
 
-![Imagem da notícia](https://cf.geekdo-images.com/w6ZVuhyEUEC9hWipf1MBjg__imagepage/img/udXsnS2ja1HJLBpAPXIVJhv2KbM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790659.png)
+![Imagem da notícia](https://cf.geekdo-images.com/-Xwd4Fot3H13b4yWQK8_UQ__imagepage/img/moxfmjfCM_45sc12NI1psmjsmmw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790657.jpg)
 
 O desenvolvimento de 'Engine Thieves' ganhou uma dimensão única com a participação de Gregg Pittenger, um parente distante de um dos raiders originais, William Pittenger. Com um forte interesse em história militar e experiência como reencenador da Guerra Civil, Gregg trouxe autenticidade e conhecimento histórico ao projeto. Sua contribuição foi crucial para garantir que o jogo refletisse com precisão os eventos reais, evitando representações superficiais da história.
 
-![Imagem da notícia](https://cf.geekdo-images.com/VlV0r28zSYV5NBBuJtCnkQ__imagepage/img/5L--sYwyYVoL7CmPP6dm5H81TPw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790663.jpg)
+![Imagem da notícia](https://cf.geekdo-images.com/w6ZVuhyEUEC9hWipf1MBjg__imagepage/img/udXsnS2ja1HJLBpAPXIVJhv2KbM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790659.png)
 
 ## A História dos Raiders
+
+![Imagem da notícia](https://cf.geekdo-images.com/VlV0r28zSYV5NBBuJtCnkQ__imagepage/img/5L--sYwyYVoL7CmPP6dm5H81TPw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790663.jpg)
 
 ![Imagem da notícia](https://cf.geekdo-images.com/ZUGcpQIRE42P4GUdbowCLQ__imagepage/img/25LQ-ejT2Me_fB2Y71DDzMhVcvo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790672.jpg)
 
@@ -78,20 +78,20 @@ A perseguição ao trem roubado foi liderada por Fuller, Murphy e Cain, que inca
 
 ## Por Que Criar 'Engine Thieves'?
 
-![Imagem da notícia](https://cf.geekdo-images.com/StpMxUF6PWuiuEQUnslmDA__imagepage/img/QZVKzltc7NFL9-7EYy_Xm7QK3Is=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790738.png)
-
 A inspiração para 'Engine Thieves' nasceu de um encontro casual em uma livraria, onde Crawford descobriu um relato fascinante de um raid confederado em Vermont. Isso o levou a uma investigação sobre incursões similares da União, culminando na recriação do roubo de trem liderado por Andrews. A paixão de Crawford por história e jogos de tabuleiro se uniu para criar uma experiência de jogo que captura a tensão e a emoção de um dos episódios mais ousados da Guerra Civil.
-
-![Imagem da notícia](https://cf.geekdo-images.com/N7SZLKSgQlbiyW2_QsaoPw__imagepage/img/uN0XeHUVroZPQxjuF5PwrxnR_3E=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790747.png)
 
 ## Como Jogar 'Engine Thieves'?
 
-![Imagem da notícia](https://cf.geekdo-images.com/KZsTRzSlVveRyAVvktQa5A__imagepage/img/ps_HVMkLi8pdO2X1oWq3o2uTUw8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790751.jpg)
-
 O jogo oferece modos solo e para dois jogadores, onde os jogadores devem executar ações estratégicas para completar missões, como destruir infraestrutura inimiga e evitar a captura. A mecânica de jogo é rica em detalhes históricos, permitindo que os jogadores experimentem diferentes estratégias e explorem 'e se?' de cenários históricos alternativos.
 
-![Imagem da notícia](https://cf.geekdo-images.com/-oyytYIP8dCY5kTGmgLnwQ__imagepage/img/xV44lxrJ_Ia70l7T14k0l4CEdbw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790700.jpg)
+![Imagem da notícia](https://cf.geekdo-images.com/StpMxUF6PWuiuEQUnslmDA__imagepage/img/QZVKzltc7NFL9-7EYy_Xm7QK3Is=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790738.png)
+
+![Imagem da notícia](https://cf.geekdo-images.com/N7SZLKSgQlbiyW2_QsaoPw__imagepage/img/uN0XeHUVroZPQxjuF5PwrxnR_3E=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790747.png)
 
 Em 'Engine Thieves', cada movimento é crucial, e os jogadores devem equilibrar riscos e recompensas para alcançar a vitória. A experiência de jogo é intensificada por um sistema de cartas de ação e uma mecânica de combate que simula as incertezas e desafios enfrentados pelos raiders durante o assalto original.
 
+![Imagem da notícia](https://cf.geekdo-images.com/KZsTRzSlVveRyAVvktQa5A__imagepage/img/ps_HVMkLi8pdO2X1oWq3o2uTUw8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790751.jpg)
+
 Com 'Engine Thieves', Crawford não apenas traz à vida um evento histórico fascinante, mas também oferece aos jogadores uma janela para o passado, onde decisões estratégicas podem mudar o curso da história.
+
+![Imagem da notícia](https://cf.geekdo-images.com/-oyytYIP8dCY5kTGmgLnwQ__imagepage/img/xV44lxrJ_Ia70l7T14k0l4CEdbw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8790700.jpg)

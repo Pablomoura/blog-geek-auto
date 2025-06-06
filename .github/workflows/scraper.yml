@@ -51,8 +51,8 @@ jobs:
 
       - name: Configura usuário git
         run: |
-          git config --global user.name "GeekNews Bot"
-          git config --global user.email "bot@geeknews.com.br"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit imagens salvas
         run: |
