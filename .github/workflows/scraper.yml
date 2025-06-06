@@ -51,25 +51,20 @@ jobs:
 
       - name: Configura usuário git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GeekNews Bot"
+          git config --global user.email "bot@geeknews.com.br"
 
       - name: Commit imagens salvas
         run: |
-          git config --global user.email "bot@geeknews.com.br"
-          git config --global user.name "GeekNews Bot"
           git add public/uploads
           if git diff --cached --quiet; then
             echo "🟡 Nenhuma imagem nova para commit."
           else
             git commit -m "📸 Upload de imagens salvas automaticamente"
             git push
-          fi
 
       - name: Comita novos posts
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin main
           git reset --soft origin/main
           git add -f content/ public/posts.json

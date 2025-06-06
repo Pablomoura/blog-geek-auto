@@ -4,10 +4,10 @@ title: >-
 slug: o-agente-secreto-com-wagner-moura-ganha-data-e-detalhes-de-exibicoes-antecipadas
 categoria: Filmes
 midia: >-
-  /uploads/o-agente-secreto-com-wagner-moura-ganha-data-e-detalhes-de-exibicoes-antecipadas-thumb.png
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/05/20250521-image-6.png
 tipoMidia: imagem
 thumb: >-
-  /uploads/o-agente-secreto-com-wagner-moura-ganha-data-e-detalhes-de-exibicoes-antecipadas-thumb.png
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/05/20250521-image-6.png
 tags:
   - 'O Agente Secreto'
   - 'Wagner Moura'

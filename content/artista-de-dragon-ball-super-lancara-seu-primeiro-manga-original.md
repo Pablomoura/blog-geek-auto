@@ -4,10 +4,10 @@ title: >-
 slug: artista-de-dragon-ball-super-lancara-seu-primeiro-manga-original
 categoria: Mangás e Animes
 midia: >-
-  /uploads/artista-de-dragon-ball-super-lancara-seu-primeiro-manga-original-thumb.webp
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2024/08/20240826-dragon-ball-super-volume-1-ovicio.webp
 tipoMidia: imagem
 thumb: >-
-  /uploads/artista-de-dragon-ball-super-lancara-seu-primeiro-manga-original-thumb.webp
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2024/08/20240826-dragon-ball-super-volume-1-ovicio.webp
 tags:
   - 'Toyotaro'
   - 'Dragon Ball Super'

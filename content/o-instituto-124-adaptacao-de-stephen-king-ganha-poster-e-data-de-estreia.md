@@ -4,10 +4,10 @@ title: >-
 slug: o-instituto-124-adaptacao-de-stephen-king-ganha-poster-e-data-de-estreia
 categoria: Séries e TV
 midia: >-
-  /uploads/o-instituto-124-adaptacao-de-stephen-king-ganha-poster-e-data-de-estreia-thumb.jpeg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-ovicio-stephen-king-instituto-scaled.jpeg
 tipoMidia: imagem
 thumb: >-
-  /uploads/o-instituto-124-adaptacao-de-stephen-king-ganha-poster-e-data-de-estreia-thumb.jpeg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-ovicio-stephen-king-instituto-scaled.jpeg
 tags:
   - 'Stephen King'
   - 'O Instituto'

@@ -4,10 +4,10 @@ title: >-
 slug: superman-tem-pre-venda-de-ingressos-antecipada-nos-eua
 categoria: Séries e TV
 midia: >-
-  /uploads/superman-tem-pre-venda-de-ingressos-antecipada-nos-eua-thumb.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/05/20250528-ovicio-superman-duracao.jpg
 tipoMidia: imagem
 thumb: >-
-  /uploads/superman-tem-pre-venda-de-ingressos-antecipada-nos-eua-thumb.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/05/20250528-ovicio-superman-duracao.jpg
 tags:
   - 'Superman'
   - 'DC Studios'
