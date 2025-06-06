@@ -4,10 +4,10 @@ title: >-
 slug: jurassic-world-recomeco-tem-orcamento-revelado
 categoria: Filmes
 midia: >-
-  /uploads/jurassic-world-recomeco-tem-orcamento-revelado-thumb.webp
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/05/20250522-scarlett-johansson-e-zora-bennett-em-jurassic-world-recomeco.webp
 tipoMidia: imagem
 thumb: >-
-  /uploads/jurassic-world-recomeco-tem-orcamento-revelado-thumb.webp
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/05/20250522-scarlett-johansson-e-zora-bennett-em-jurassic-world-recomeco.webp
 tags:
   - 'Jurassic World Recomeo'
   - 'Scarlett Johansson'

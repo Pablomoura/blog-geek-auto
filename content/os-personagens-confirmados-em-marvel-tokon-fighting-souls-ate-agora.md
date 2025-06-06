@@ -4,10 +4,10 @@ title: >-
 slug: os-personagens-confirmados-em-marvel-tokon-fighting-souls-ate-agora
 categoria: Games
 midia: >-
-  /uploads/os-personagens-confirmados-em-marvel-tokon-fighting-souls-ate-agora-thumb.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-ovicio-marvel-tokon-game.jpg
 tipoMidia: imagem
 thumb: >-
-  /uploads/os-personagens-confirmados-em-marvel-tokon-fighting-souls-ate-agora-thumb.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-ovicio-marvel-tokon-game.jpg
 tags:
   - 'Marvel Tokon Fighting Souls'
   - 'Arc System Works'

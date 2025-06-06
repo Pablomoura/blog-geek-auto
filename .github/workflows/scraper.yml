@@ -37,12 +37,6 @@ jobs:
       - name: 🤖 Roda o scraper do Omelete
         run: node scripts/scraper.js
 
-      - name: 🤖 Executar scraper do GameSpot RSS
-        run: node scripts/scraper-gamespot.js
-
-      - name: 🤖 Executar scraper do O Vicio RSS
-        run: node scripts/scraper-ovicio.js
-
       - name: Roda o atualizador de resumos
         run: node scripts/atualizar-resumos-md.js
 
@@ -53,15 +47,6 @@ jobs:
         run: |
           git config --global user.name "GeekNews Bot"
           git config --global user.email "bot@geeknews.com.br"
-
-      - name: Commit imagens salvas
-        run: |
-          git add public/uploads
-          if git diff --cached --quiet; then
-            echo "🟡 Nenhuma imagem nova para commit."
-          else
-            git commit -m "📸 Upload de imagens salvas automaticamente"
-            git push
 
       - name: Comita novos posts
         run: |

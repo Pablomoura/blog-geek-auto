@@ -4,10 +4,10 @@ title: >-
 slug: diretor-de-alien-romulus-confirma-sondagens-para-batman-marvel-e-james-bond
 categoria: Séries e TV
 midia: >-
-  /uploads/diretor-de-alien-romulus-confirma-sondagens-para-batman-marvel-e-james-bond-thumb.png
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-image-13.png
 tipoMidia: imagem
 thumb: >-
-  /uploads/diretor-de-alien-romulus-confirma-sondagens-para-batman-marvel-e-james-bond-thumb.png
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-image-13.png
 tags:
   - 'Fede Alvarez'
   - 'liberdade criativa'

@@ -6,10 +6,10 @@ slug: >-
   nintendo-switch-2-ofertas-imperdveis-em-jogos-super-mario-e-zelda-com-upgrades-grtis
 categoria: Games
 midia: >-
-  /uploads/nintendo-switch-2-ofertas-imperdveis-em-jogos-super-mario-e-zelda-com-upgrades-grtis-thumb.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-brad-pitt-channing-tatum.webp
 tipoMidia: imagem
 thumb: >-
-  /uploads/nintendo-switch-2-ofertas-imperdveis-em-jogos-super-mario-e-zelda-com-upgrades-grtis-thumb.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-brad-pitt-channing-tatum.webp
 tags:
   - Nintendo Switch 2
   - Super Mario
