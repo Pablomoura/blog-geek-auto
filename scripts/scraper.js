@@ -79,6 +79,45 @@ function slugify(text) {
     .replace(/-+$/, "");
 }
 
+async function baixarImagem(url, slug, tipo = "thumb") {
+  if (!url || !url.startsWith("http")) {
+    console.warn(`⚠️ URL inválida para imagem: ${url}`);
+    return null;
+  }
+
+  const uploadsDir = path.join(process.cwd(), "public", "uploads");
+  if (!fs.existsSync(uploadsDir)) fs.mkdirSync(uploadsDir, { recursive: true });
+
+  const extensao = path.extname(new URL(url).pathname).split("?")[0] || ".jpg";
+  const nomeArquivo = `${slug}-${tipo}${extensao}`;
+  const caminho = path.join(uploadsDir, nomeArquivo);
+
+  return new Promise((resolve) => {
+    https.get(url, (res) => {
+      if (res.statusCode !== 200) {
+        console.warn(`❌ Falha ao baixar imagem (${res.statusCode}): ${url}`);
+        return resolve(null);
+      }
+
+      const stream = createWriteStream(caminho);
+      res.pipe(stream);
+
+      stream.on("finish", () => {
+        console.log(`✅ Imagem baixada: ${caminho}`);
+        resolve(`/uploads/${nomeArquivo}`);
+      });
+
+      stream.on("error", (err) => {
+        console.warn(`❌ Erro ao salvar imagem: ${url} → ${err.message}`);
+        resolve(null);
+      });
+    }).on("error", (err) => {
+      console.warn(`❌ Erro ao baixar imagem: ${url} → ${err.message}`);
+      resolve(null);
+    });
+  });
+}
+
 // Função auxiliar para gerar tags com IA
 async function gerarTagsComIA(titulo, texto) {
   const prompt = `Gere até 8 tags curtas e relevantes separadas por vírgula com base no título e texto:
@@ -478,6 +517,13 @@ async function buscarNoticiasOmelete() {
       reescrito: false,
     };
 
+    const imagemThumbLocal = await baixarImagem(novaNoticia.thumb, slug, "thumb");
+    if (imagemThumbLocal) {
+      console.log(`📥 Thumb salva: ${imagemThumbLocal}`);
+      novaNoticia.thumb = imagemThumbLocal;
+      if (novaNoticia.tipoMidia === "imagem") novaNoticia.midia = imagemThumbLocal;
+    }
+
     const reescrito = await reescreverNoticia(novaNoticia.titulo, novaNoticia.resumo, novaNoticia.texto);
     if (!reescrito) continue;
 
@@ -631,6 +677,14 @@ async function buscarCriticasOmelete() {
         fonte: "Omelete",
         reescrito: false,
       };
+
+      // 🖼️ Baixa thumb local
+      const imagemThumbLocal = await baixarImagem(novaCritica.thumb, slug, "thumb");
+      if (imagemThumbLocal) {
+        console.log(`📥 Thumb salva: ${imagemThumbLocal}`);
+        novaCritica.thumb = imagemThumbLocal;
+        if (novaCritica.tipoMidia === "imagem") novaCritica.midia = imagemThumbLocal;
+      }
 
       const reescrito = await reescreverNoticia(novaCritica.titulo, novaCritica.resumo, novaCritica.texto);
       if (!reescrito) continue;
