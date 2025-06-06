@@ -3,6 +3,7 @@ const path = require("path");
 const axios = require("axios");
 const puppeteer = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
+const https = require("https");
 require("dotenv").config();
 const { google } = require("googleapis");
 const buscarFontesGoogle = require("./buscarFontesGoogle");
