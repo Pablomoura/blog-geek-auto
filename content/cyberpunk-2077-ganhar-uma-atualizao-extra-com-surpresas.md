@@ -1,5 +1,5 @@
 ---
-title: 'Cyberpunk 2077: Atualização Surpresa Promete Novidades em 2024'
+title: 'Cyberpunk 2077: Atualização Surpresa Promete Novidades em 2025'
 slug: cyberpunk-2077-ganhar-uma-atualizao-extra-com-surpresas
 categoria: GAMES
 midia: 'https://www.youtube.com/embed/dAoQjqhVHUU?showinfo=0&enablejsapi=1'
@@ -32,7 +32,7 @@ resumo: >-
 
 <blockquote class="twitter-tweet"><a href="https://twitter.com/user/status/1930657862054707704"></a></blockquote>
 
-A CD Projekt Red revelou que o famoso RPG em mundo aberto, **Cyberpunk 2077**, receberá uma atualização adicional cheia de surpresas. O esperado **Patch 2.3** está programado para ser lançado ainda em 2024, sucedendo o Patch 2.2, que chegou aos jogadores em dezembro do mesmo ano.
+A CD Projekt Red revelou que o famoso RPG em mundo aberto, **Cyberpunk 2077**, receberá uma atualização adicional cheia de surpresas. O esperado **Patch 2.3** está programado para ser lançado ainda em 2025, sucedendo o Patch 2.2, que chegou aos jogadores em dezembro do mesmo ano.
 
 Paweł Sasko, Diretor Associado de Jogo da CD Projekt, compartilhou através das redes sociais: "Estamos preparando algo secreto para vocês há algum tempo. Como de costume, estou cuidando da atualização pessoalmente e nos comunicaremos mais quando estiver pronto. Com muito amor, meus queridos”.
 

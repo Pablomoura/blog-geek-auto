@@ -366,6 +366,7 @@ Siga estas diretrizes obrigatórias:
 - Corrija redundâncias, erros e melhore a estrutura — como se fosse conteúdo inédito.
 - Pense como um editor do Google News. Otimize para performance orgânica e leitura mobile.
 - No final, gere também as palavras-chave do artigo (inclua nomes próprios, títulos de obras, termos long tail).
+- O ano atual é 2025, use isso para contextualizar eventos recentes.
 
 Exemplo de estrutura ideal:
 

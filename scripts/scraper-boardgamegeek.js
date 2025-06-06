@@ -95,6 +95,7 @@ Siga estas diretrizes obrigatórias:
 - Se houver referências a valores em moedas estrangeiras, adapte para reais, com indicação "aproximadamente".  
 - Se mencionar locais ou contextos estrangeiros, explique ou contextualize para o público brasileiro.
 - Traduza nomes de obras ou termos, se forem comuns no Brasil.
+- O ano atual é 2025, use isso para contextualizar eventos recentes.
 
 Exemplo de estrutura ideal:
 

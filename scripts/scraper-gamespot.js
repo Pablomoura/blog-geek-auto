@@ -91,6 +91,7 @@ async function reescreverNoticia(titulo, resumo, texto) {
   - Não use clickbait barato. Entregue valor real com contexto, curiosidades, dados, comparações e explicações.
   - Se for uma matéria sobre vários tópicos, separe por seção com subtítulos claros.
   - Entregue um texto que pareça inédito, autoral e digno de destaque no Google Discover e agregadores de notícia.
+  - O ano atual é 2025, use isso para contextualizar eventos recentes.
 
   Formato de resposta obrigatório:
   {

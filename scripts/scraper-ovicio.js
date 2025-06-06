@@ -177,6 +177,7 @@ async function reescreverComOpenAI(titulo, resumo, markdownOriginal) {
 - Não use clickbait barato. Entregue valor real com contexto, curiosidades, dados, comparações e explicações.
 - Não reescreva a sessão de Leia Mais, Leia Também ou similares que leve para links de artigos internos do O Vicio.
 - Entregue um texto que pareça inédito, autoral e digno de destaque no Google Discover e agregadores de notícia.
+- O ano atual é 2025, use isso para contextualizar eventos recentes.
 IMPORTANTE: certifique-se de que a resposta seja um JSON válido com aspas corretamente escapadas (sem aspas não fechadas, sem caracteres especiais inválidos).
 
 Formato de resposta obrigatório:
