@@ -1,14 +1,35 @@
 ---
-title: "Explorando os Bastidores de 'Engine Thieves': Uma Jornada de Criação e História"
-slug: "designer-diary-engine-thieves"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/kOyeE_s-LXkIJ44goSRfAw__imagepage/img/8t9K09E2OhhDmq_sgPVjQbdI398=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8594762.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/kOyeE_s-LXkIJ44goSRfAw__imagepage/img/8t9K09E2OhhDmq_sgPVjQbdI398=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8594762.png"
-tags: ["Engine Thieves", "board game", "Guerra Civil Americana", "Wes Crawford", "The Great Locomotive Chase", "design de jogos", "história", "jogos de tabuleiro históricos", "estratégia", "mecânica de jogo"]
-keywords: "Engine Thieves, board game, Guerra Civil Americana, Wes Crawford, The Great Locomotive Chase, design de jogos, história, jogos de tabuleiro históricos, estratégia, mecânica de jogo"
-author: "Ana Luiza"
-data: "2025-06-06T06:29:14.394Z"
+title: >-
+  Explorando os Bastidores de 'Engine Thieves': Uma Jornada de Criação e
+  História
+slug: designer-diary-engine-thieves
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/kOyeE_s-LXkIJ44goSRfAw__imagepage/img/8t9K09E2OhhDmq_sgPVjQbdI398=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8594762.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/kOyeE_s-LXkIJ44goSRfAw__imagepage/img/8t9K09E2OhhDmq_sgPVjQbdI398=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8594762.png
+tags:
+  - Engine Thieves
+  - board game
+  - Guerra Civil Americana
+  - Wes Crawford
+  - The Great Locomotive Chase
+  - design de jogos
+  - história
+  - jogos de tabuleiro históricos
+  - estratégia
+  - mecânica de jogo
+keywords: >-
+  Engine Thieves, board game, Guerra Civil Americana, Wes Crawford, The Great
+  Locomotive Chase, design de jogos, história, jogos de tabuleiro históricos,
+  estratégia, mecânica de jogo
+author: Ana Luiza
+data: '2025-06-06T06:29:14.394Z'
+resumo: >-
+  Descubra a criação de 'Engine Thieves', um jogo de tabuleiro que revive o
+  ousado assalto ferroviário da Guerra Civil Americana. Mergulhe nos detalhes
+  históricos e no desenvolvimento deste jogo fascinante.
 ---
 
 ## Quem é o Criador de 'Engine Thieves'?
