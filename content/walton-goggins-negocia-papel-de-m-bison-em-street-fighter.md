@@ -4,10 +4,10 @@ title: >-
 slug: walton-goggins-negocia-papel-de-m-bison-em-street-fighter
 categoria: Filmes
 midia: >-
-  /uploads/walton-goggins-negocia-papel-de-m-bison-em-street-fighter-thumb.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-ovicio-bison-fighter.jpg
 tipoMidia: imagem
 thumb: >-
-  /uploads/walton-goggins-negocia-papel-de-m-bison-em-street-fighter-thumb.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-ovicio-bison-fighter.jpg
 tags:
   - 'Walton Goggins'
   - 'M Bison'

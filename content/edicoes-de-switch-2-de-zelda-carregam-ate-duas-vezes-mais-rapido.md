@@ -4,10 +4,10 @@ title: >-
 slug: edicoes-de-switch-2-de-zelda-carregam-ate-duas-vezes-mais-rapido
 categoria: Games
 midia: >-
-  /uploads/edicoes-de-switch-2-de-zelda-carregam-ate-duas-vezes-mais-rapido-thumb.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2023/11/20231108-ovicio-zelda-zippo.jpg
 tipoMidia: imagem
 thumb: >-
-  /uploads/edicoes-de-switch-2-de-zelda-carregam-ate-duas-vezes-mais-rapido-thumb.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2023/11/20231108-ovicio-zelda-zippo.jpg
 tags:
   - 'Nintendo Switch 2'
   - 'Zelda'

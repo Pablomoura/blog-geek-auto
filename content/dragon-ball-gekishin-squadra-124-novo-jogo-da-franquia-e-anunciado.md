@@ -7,7 +7,7 @@ midia: >-
   https://www.youtube.com/embed/OvBVN0PnsU8
 tipoMidia: video
 thumb: >-
-  /uploads/dragon-ball-gekishin-squadra-124-novo-jogo-da-franquia-e-anunciado-preview.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-goku-em-dragon-ball-gekishin-squadra-ovicio.webp
 tags:
   - 'Dragon Ball'
   - 'Gekishin Squadra'

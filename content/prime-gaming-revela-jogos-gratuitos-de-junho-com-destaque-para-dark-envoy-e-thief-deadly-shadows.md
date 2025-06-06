@@ -4,10 +4,10 @@ title: >-
 slug: prime-gaming-revela-jogos-gratuitos-de-junho-com-destaque-para-dark-envoy-e-thief-deadly-shadows
 categoria: Games
 midia: >-
-  /uploads/prime-gaming-revela-jogos-gratuitos-de-junho-com-destaque-para-dark-envoy-e-thief-deadly-shadows-thumb.webp
+ https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-dark-envoy.webp
 tipoMidia: imagem
 thumb: >-
-  /uploads/prime-gaming-revela-jogos-gratuitos-de-junho-com-destaque-para-dark-envoy-e-thief-deadly-shadows-thumb.webp
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-dark-envoy.webp
 tags:
   - 'Prime Gaming'
   - 'jogos gratuitos'

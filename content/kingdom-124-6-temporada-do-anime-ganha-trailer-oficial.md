@@ -4,10 +4,10 @@ title: >-
 slug: kingdom-124-6-temporada-do-anime-ganha-trailer-oficial
 categoria: Mangás e Animes
 midia: >-
-  /uploads/kingdom-124-6-temporada-do-anime-ganha-trailer-oficial-thumb.webp
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-kingdom-temporada-6-ovicio.webp
 tipoMidia: imagem
 thumb: >-
-  /uploads/kingdom-124-6-temporada-do-anime-ganha-trailer-oficial-thumb.webp
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-kingdom-temporada-6-ovicio.webp
 tags:
   - 'Kingdom'
   - 'anime'

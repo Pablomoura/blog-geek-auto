@@ -4,10 +4,10 @@ title: >-
 slug: fallout-serie-do-prime-video-tera-casa-mal-assombrada-no-halloween-horror-nights-da-universal
 categoria: Séries e TV
 midia: >-
-  /uploads/fallout-serie-do-prime-video-tera-casa-mal-assombrada-no-halloween-horror-nights-da-universal-thumb.webp
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2024/05/20240531-walton-goggins-na-adaptacao-de-fallout.webp
 tipoMidia: imagem
 thumb: >-
-  /uploads/fallout-serie-do-prime-video-tera-casa-mal-assombrada-no-halloween-horror-nights-da-universal-thumb.webp
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2024/05/20240531-walton-goggins-na-adaptacao-de-fallout.webp
 tags:
   - 'Fallout'
   - 'Amazon Prime Video'

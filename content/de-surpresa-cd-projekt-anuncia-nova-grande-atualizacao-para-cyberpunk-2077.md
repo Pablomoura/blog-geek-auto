@@ -4,10 +4,10 @@ title: >-
 slug: de-surpresa-cd-projekt-anuncia-nova-grande-atualizacao-para-cyberpunk-2077
 categoria: Games
 midia: >-
-  /uploads/de-surpresa-cd-projekt-anuncia-nova-grande-atualizacao-para-cyberpunk-2077-thumb.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2023/08/20230818-ovicio-cyberpunk-2077-expansao.jpg
 tipoMidia: imagem
 thumb: >-
-  /uploads/de-surpresa-cd-projekt-anuncia-nova-grande-atualizacao-para-cyberpunk-2077-thumb.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2023/08/20230818-ovicio-cyberpunk-2077-expansao.jpg
 tags:
   - 'CD Projekt RED'
   - 'Cyberpunk 2077'
