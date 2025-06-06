@@ -4,10 +4,10 @@ title: >-
 slug: street-fighter-124-ator-de-vega-no-live-action-pode-ter-sido-revelado
 categoria: Filmes
 midia: >-
-  /uploads/street-fighter-124-ator-de-vega-no-live-action-pode-ter-sido-revelado-thumb.webp
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-street-fighter-vega.webp
 tipoMidia: imagem
 thumb: >-
-  /uploads/street-fighter-124-ator-de-vega-no-live-action-pode-ter-sido-revelado-thumb.webp
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-street-fighter-vega.webp
 tags:
   - 'Street Fighter'
   - 'Orville Peck'

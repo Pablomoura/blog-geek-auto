@@ -7,7 +7,7 @@ midia: >-
   https://www.youtube.com/embed/m3yAIWZQ6gM
 tipoMidia: video
 thumb: >-
-  /uploads/call-of-the-night-apresenta-tema-de-abertura-por-creepy-nuts-em-novo-trailer-da-2-temporada-preview.jpg
+  https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-nazuna-nanakusa-em-trailer-da-segunda-temporada-de-call-of-the-night-ovicio.webp
 tags:
   - 'Call of the Night'
   - 'Creepy Nuts'
