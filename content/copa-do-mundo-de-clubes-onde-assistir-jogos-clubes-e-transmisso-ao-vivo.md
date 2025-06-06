@@ -1,5 +1,5 @@
 ---
-title: 'Copa do Mundo de Clubes 2023: Onde Assistir e Times Brasileiros em Campo'
+title: 'Copa do Mundo de Clubes 2025: Onde Assistir e Times Brasileiros em Campo'
 slug: copa-do-mundo-de-clubes-onde-assistir-jogos-clubes-e-transmisso-ao-vivo
 categoria: FILMES
 midia: >-
@@ -8,7 +8,7 @@ tipoMidia: imagem
 thumb: >-
   https://cdn.ome.lt/tkbwZTAOo64klNR0LVblONCkrTs=/480x360/smart/extras/conteudos/Screenshot_2025-06-05_at_16.09.15.png
 tags:
-  - Copa do Mundo de Clubes 2023
+  - Copa do Mundo de Clubes 2025
   - transmissão ao vivo
   - Globo
   - DAZN
@@ -22,19 +22,19 @@ tags:
   - futebol
   - FIFA
 keywords: >-
-  Copa do Mundo de Clubes 2023, transmissão ao vivo, Globo, DAZN, CazéTV, Disney
+  Copa do Mundo de Clubes 2025, transmissão ao vivo, Globo, DAZN, CazéTV, Disney
   Plus, Prime Vídeo, Flamengo, Fluminense, Botafogo, Palmeiras, futebol, FIFA
 author: Pablo Moura
 data: '2025-06-05T23:21:37.136Z'
 resumo: >-
-  Prepare-se para a Copa do Mundo de Clubes da FIFA 2023, com transmissão ao
+  Prepare-se para a Copa do Mundo de Clubes da FIFA 2025, com transmissão ao
   vivo no Brasil por gigantes como Globo e DAZN. Saiba quais times brasileiros
   participam e confira a programação completa dos jogos.
 ---
 
-## Transmissão da Copa do Mundo de Clubes 2023
+## Transmissão da Copa do Mundo de Clubes 2025
 
-A Copa do Mundo de Clubes da FIFA está marcada para começar em 14 de junho de 2023, nos Estados Unidos, prometendo partidas emocionantes. No Brasil, a competição será transmitida por uma ampla gama de canais e plataformas, incluindo Globo, SporTV, CazéTV, DAZN, Disney Plus e Prime Vídeo.
+A Copa do Mundo de Clubes da FIFA está marcada para começar em 14 de junho de 2025, nos Estados Unidos, prometendo partidas emocionantes. No Brasil, a competição será transmitida por uma ampla gama de canais e plataformas, incluindo Globo, SporTV, CazéTV, DAZN, Disney Plus e Prime Vídeo.
 
 ### Onde assistir aos jogos?
 
