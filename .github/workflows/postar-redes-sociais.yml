@@ -10,10 +10,10 @@ jobs:
       - name: 🔄 Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: 📤 Publicar nas redes sociais
+      - name: 📣 Compartilhar novo post nas redes sociais
         run: node scripts/postar-redes-sociais.js
         env:
-          FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
-          FACEBOOK_PAGE_ACCESS_TOKEN: ${{ secrets.FACEBOOK_PAGE_ACCESS_TOKEN }}
-          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
-          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+            FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
+            FACEBOOK_PAGE_ACCESS_TOKEN: ${{ secrets.FACEBOOK_PAGE_ACCESS_TOKEN }}
+            THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+            THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}

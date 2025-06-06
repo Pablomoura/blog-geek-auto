@@ -1,35 +1,59 @@
-const axios = require('axios');
-const fs = require('fs');
-const path = require('path');
-require('dotenv').config();
+import axios from 'axios';
+import fs from 'fs/promises';
+import path from 'path';
+import dotenv from 'dotenv';
+import { fileURLToPath } from 'url';
+
+dotenv.config();
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Carrega os posts
-const postsPath = path.join(__dirname, 'public', 'posts.json');
-if (!fs.existsSync(postsPath)) {
-  console.error('❌ Arquivo posts.json não encontrado.');
+const postsPath = path.join(__dirname, '../public/posts.json');
+const logPath = path.join(__dirname, '../public/social-post-log.json');
+
+console.log(`📂 Lendo posts de: ${postsPath}`);
+
+let posts = [];
+try {
+  const postsRaw = await fs.readFile(postsPath, 'utf-8');
+  posts = JSON.parse(postsRaw);
+} catch (err) {
+  console.error('❌ Erro ao ler posts.json:', err);
   process.exit(1);
 }
-const posts = JSON.parse(fs.readFileSync(postsPath, 'utf-8'));
 
 // Carrega o log de posts já publicados
-const logPath = path.join(__dirname, 'public', 'social-post-log.json');
 let postLog = [];
-if (fs.existsSync(logPath)) {
-  postLog = JSON.parse(fs.readFileSync(logPath, 'utf-8'));
+try {
+  const logRaw = await fs.readFile(logPath, 'utf-8');
+  postLog = JSON.parse(logRaw);
+  console.log(`🗂️ Log de posts já publicados carregado (${postLog.length} posts).`);
+} catch {
+  console.log('ℹ️ Nenhum log existente, criando um novo.');
 }
 
 // Seleciona o primeiro post que ainda não foi publicado
 const postParaPostar = posts.find((p) => !postLog.includes(p.slug));
 
+if (!postParaPostar) {
+  console.log('✅ Nenhum post novo para compartilhar.');
+  process.exit(0);
+}
+
+console.log(`📢 Preparando para compartilhar: ${postParaPostar.titulo} (${postParaPostar.slug})`);
+
 // Publica no Facebook
 async function postToFacebook(post) {
   const message = `📰 ${post.titulo}\n\nLeia mais: https://www.geeknews.com.br/noticia/${post.slug}`;
   try {
+    console.log('➡️ Publicando no Facebook...');
     const response = await axios.post(`https://graph.facebook.com/${process.env.FACEBOOK_PAGE_ID}/feed`, {
       message,
       access_token: process.env.FACEBOOK_PAGE_ACCESS_TOKEN,
     });
-    console.log('✅ Post publicado no Facebook:', response.data);
+    console.log('✅ Facebook:', response.data);
   } catch (error) {
     console.error('❌ Erro ao postar no Facebook:', error.response?.data || error.message);
   }
@@ -39,6 +63,7 @@ async function postToFacebook(post) {
 async function postToThreads(post) {
   const message = `📰 ${post.titulo}\n\nLeia mais: https://www.geeknews.com.br/noticia/${post.slug}`;
   try {
+    console.log('➡️ Criando post no Threads...');
     const createResponse = await axios.post(
       `https://graph.threads.net/${process.env.THREADS_USER_ID}/threads`,
       null,
@@ -52,7 +77,9 @@ async function postToThreads(post) {
     );
 
     const creationId = createResponse.data.id;
+    console.log(`✅ Container Threads criado (creation_id=${creationId})`);
 
+    console.log('➡️ Publicando no Threads...');
     const publishResponse = await axios.post(
       `https://graph.threads.net/${process.env.THREADS_USER_ID}/threads_publish`,
       null,
@@ -64,7 +91,7 @@ async function postToThreads(post) {
       }
     );
 
-    console.log('✅ Post publicado no Threads:', publishResponse.data);
+    console.log('✅ Threads:', publishResponse.data);
   } catch (error) {
     console.error('❌ Erro ao postar no Threads:', error.response?.data || error.message);
   }
@@ -72,17 +99,15 @@ async function postToThreads(post) {
 
 // Executa as funções
 (async () => {
-  if (!postParaPostar) {
-    console.log('✅ Nenhum post novo para compartilhar.');
-    return;
-  }
-
-  console.log(`📢 Compartilhando post: ${postParaPostar.titulo}`);
+  console.log(`🚀 Iniciando publicação do post: ${postParaPostar.slug}`);
 
   await postToFacebook(postParaPostar);
   await postToThreads(postParaPostar);
 
-  // Atualiza o log
+  console.log('📝 Atualizando log de posts...');
   postLog.push(postParaPostar.slug);
-  fs.writeFileSync(logPath, JSON.stringify(postLog, null, 2));
+  await fs.writeFile(logPath, JSON.stringify(postLog, null, 2));
+  console.log('✅ Log atualizado.');
+
+  console.log('🏁 Script concluído.');
 })();

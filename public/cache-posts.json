@@ -157,6 +157,51 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "007-first-light-veja-quem-ser-o-novo-james-bond",
+    "titulo": "Novo Jogo '007 First Light' Revela Escolha Surpreendente para James Bond",
+    "categoria": "GAMES",
+    "resumo": "Detalhes inéditos sobre o desenvolvimento do jogo '007 First Light' destacam o novo ator que dará vida ao icônico espião. Descubra quem será o próximo James Bond no mundo dos games.",
+    "thumb": "/uploads/007-first-light-veja-quem-ser-o-novo-james-bond-thumb.png",
+    "data": "2025-06-06T15:03:54.867Z",
+    "tags": [
+      "007 First Light",
+      "James Bond",
+      "George McKay",
+      "IO Interactive",
+      "novo jogo de James Bond",
+      "lançamento 2024"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1281,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "007-mads-mikkelsen-volta-a-viver-vilo-em-misso-de-hitman",
+    "titulo": "Mads Mikkelsen Revive Vilão de 007 em Missão Especial de Hitman: World of Assassination",
+    "categoria": "GAMES",
+    "resumo": "Mads Mikkelsen retorna como o icônico Le Chiffre em uma missão especial de Hitman, disponível por tempo limitado. Descubra como enfrentar o vilão de 007: Casino Royale e desbloquear recompensas exclusivas.",
+    "thumb": "/uploads/007-mads-mikkelsen-volta-a-viver-vilo-em-misso-de-hitman-thumb.png",
+    "data": "2025-06-06T23:20:08.107Z",
+    "tags": [
+      "Mads Mikkelsen",
+      "Le Chiffre",
+      "007: Casino Royale",
+      "Hitman: World of Assassination",
+      "Summer Game Fest",
+      "IO Interactive",
+      "Agente 47",
+      "007: First Light",
+      "Alvos Elusivos",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1407,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "10-coisas-que-eu-odeio-em-voc-ganhar-trs-continuaes-veja-ttulos",
     "titulo": "Trilogia Expande o Universo de '10 Coisas Que Eu Odeio em Você' com Novos Filmes",
     "categoria": "FILMES",
@@ -192,7 +237,8 @@
       "Nintendo Switch Online",
       "atualizao",
       "expanso de memria",
-      "jogos de lanamento"
+      "jogos de lanamento",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 3,
@@ -875,6 +921,28 @@
     "tempoLeitura": 1,
     "textoLength": 1080,
     "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "a-arte-do-roubo-filme-de-assalto-com-reynaldo-gianecchini-ganha-imagens",
+    "titulo": "A Arte do Roubo: Filme Brasileiro com Gianecchini Revela Primeiras Imagens e Estreia em 2026",
+    "categoria": "FILMES",
+    "resumo": "O aguardado filme de assalto 'A Arte do Roubo', estrelado por Reynaldo Gianecchini, Carla Diaz e Débora Nascimento, está previsto para chegar aos cinemas em 2026.",
+    "thumb": "/uploads/a-arte-do-roubo-filme-de-assalto-com-reynaldo-gianecchini-ganha-imagens-thumb.png",
+    "data": "2025-06-06T17:19:28.953Z",
+    "tags": [
+      "A Arte do Roubo",
+      "Reynaldo Gianecchini",
+      "Carla Diaz",
+      "Débora Nascimento",
+      "filme de assalto",
+      "cinema brasileiro",
+      "Marcos Jorge",
+      "2026 estreia"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1525,
+    "slugCategoria": "filmes"
   },
   {
     "slug": "a-ascensao-dos-influencers-geeks-no-brasil-perfis-e-impacto",
@@ -2499,6 +2567,19 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "acts-of-blood-novo-jogo-indonsio-promete-ao-intensa-ao-estilo-the-raid",
+    "titulo": "Acts of Blood: Novo Jogo Indonésio Promete Ação Intensa ao Estilo 'The Raid'",
+    "categoria": "Games",
+    "resumo": "Durante o Summer Game Fest 2025, o desenvolvedor indonésio Fajrul FN revelou um trailer impressionante de Acts of Blood, um jogo beat-'em-up com parkour que remete à ação frenética de 'The Raid'. Previsto para 2026, o título promete uma experiência eletrizante para os fãs do gênero.",
+    "thumb": "/uploads/acts-of-blood-novo-jogo-indonsio-promete-ao-intensa-ao-estilo-the-raid-thumb.png",
+    "data": "2025-06-06T22:14:00.000Z",
+    "tags": [],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2207,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "adolescencia-supera-as-visualizacoes-de-stranger-things-4-na-netflix",
     "titulo": "Adolescência se Torna a Segunda Série em Inglês Mais Vista na História da Netflix",
     "categoria": "Séries e TV",
@@ -2816,6 +2897,29 @@
     "tempoLeitura": 1,
     "textoLength": 1313,
     "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "agente-47-invade-mindseye-crossover-inesperado-com-hitman-chega-em-2025",
+    "titulo": "Agente 47 Invade MindsEye: Crossover Inesperado com Hitman Chega em 2025",
+    "categoria": "Games",
+    "resumo": "O icônico Agente 47, da série Hitman, fará uma aparição especial no novo jogo de ficção científica MindsEye. Desenvolvido por Leslie Benzies, ex-líder da Rockstar, o jogo promete agitar o mercado de games em junho de 2025.",
+    "thumb": "/uploads/agente-47-invade-mindseye-crossover-inesperado-com-hitman-chega-em-2025-thumb.jpg",
+    "data": "2025-06-06T22:56:00.000Z",
+    "tags": [
+      "MindsEye",
+      "Hitman",
+      "Agente 47",
+      "Leslie Benzies",
+      "Build a Rocket Boy",
+      "Summer Game Fest 2025",
+      "GTA",
+      "jogos de ficção científica",
+      "IOI Partners"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1964,
+    "slugCategoria": "games"
   },
   {
     "slug": "agents-of-the-four-seasons-mang-da-autora-de-violet-evergarden-ganhar-anime",
@@ -4312,6 +4416,36 @@
     "slugCategoria": "mangas-e-animes"
   },
   {
+    "slug": "anime-friends-2025-anuncia-presena-do-diretor-shinichiro-watanabe",
+    "titulo": "Shinichiro Watanabe Confirmado no Anime Friends 2025: Uma Imersão no Mundo do Diretor de Cowboy Bebop",
+    "categoria": "MANGÁS E ANIMES",
+    "resumo": "O renomado diretor Shinichiro Watanabe, famoso por 'Cowboy Bebop' e 'Samurai Champloo', marcará presença no Anime Friends 2025. Conhecido por integrar música e narrativa, Watanabe participará de atividades exclusivas nos dias 4, 5 e 6 de julho.",
+    "thumb": "/uploads/anime-friends-2025-anuncia-presena-do-diretor-shinichiro-watanabe-thumb.png",
+    "data": "2025-06-06T22:20:49.355Z",
+    "tags": [
+      "Anime Friends 2025",
+      "Shinichiro Watanabe",
+      "Cowboy Bebop",
+      "Samurai Champloo",
+      "Lazarus",
+      "Animatrix",
+      "São Paulo",
+      "Distrito Anhembi",
+      "Stereo Dive Foundation",
+      "seven oops",
+      "Nightmare",
+      "Flow",
+      "Naruto Shippuden",
+      "Code Geass",
+      "Carole & Tuesday",
+      "Zankyou no Terror"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1892,
+    "slugCategoria": "mangas-e-animes"
+  },
+  {
     "slug": "anime-friends-2025-anuncia-show-de-yuyu20-para-abertura-do-evento",
     "titulo": "Anime Friends 2025 em São Paulo: YUYU20, Nightmare e mais atrações confirmadas!",
     "categoria": "MANGÁS E ANIMES",
@@ -5567,6 +5701,31 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "atomic-heart-se-transforma-em-franquia-com-sequncia-e-spin-off-mmo-inovador",
+    "titulo": "Atomic Heart se Transforma em Franquia com Sequência e Spin-Off MMO Inovador",
+    "categoria": "Games",
+    "resumo": "Mundfish expande o universo de Atomic Heart com o anúncio de Atomic Heart 2 e um spin-off MMO, The Cube, trazendo novos desafios e realidades alternativas. Descubra como a franquia promete revolucionar o cenário dos jogos nos próximos anos.",
+    "thumb": "/uploads/atomic-heart-se-transforma-em-franquia-com-sequncia-e-spin-off-mmo-inovador-thumb.png",
+    "data": "2025-06-06T21:32:00.000Z",
+    "tags": [
+      "Atomic Heart",
+      "Mundfish",
+      "Atomic Heart 2",
+      "The Cube",
+      "MMO",
+      "franquia de jogos",
+      "Summer Game Fest",
+      "RPG",
+      "BioShock",
+      "jogos de ação",
+      "jogos de aventura"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 2726,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "ator-de-friends-e-escola-do-rock-nicky-katt-morre-aos-54-anos",
     "titulo": "Nicky Katt, ator de Friends e Escola do Rock, morre aos 54 anos",
     "categoria": "FILMES",
@@ -5898,7 +6057,8 @@
       "atualizao gratuita",
       "melhorias grficas",
       "desempenho",
-      "regio de Paldea"
+      "regio de Paldea",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -6538,6 +6698,29 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "bailarina-124-derivado-de-john-wick-com-ana-de-armas-tem-cena-pos-creditos",
+    "titulo": "Bailarina: Novo Filme da Franquia John Wick Não Inclui Cena Pós-Créditos",
+    "categoria": "Filmes",
+    "resumo": "O filme 'Bailarina', derivado da saga John Wick estrelado por Ana de Armas, estreia nos cinemas sem cenas pós-créditos, mas com potencial para uma sequência. Saiba mais sobre os detalhes e expectativas em torno dessa produção de grande orçamento.",
+    "thumb": "/uploads/bailarina-124-derivado-de-john-wick-com-ana-de-armas-tem-cena-pos-creditos-thumb.jpg",
+    "data": "2025-06-06T14:07:23.000Z",
+    "tags": [
+      "Bailarina",
+      "John Wick",
+      "Ana de Armas",
+      "cena ps-crditos",
+      "spin-off",
+      "Lionsgate",
+      "oramento",
+      "bilheteria",
+      "Eve Macarro"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2337,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "bailarina-cena-do-filme-mostra-ana-de-armas-e-norman-reedus",
     "titulo": "Bailarina: Primeiro Spin-off de John Wick Estrelado por Ana de Armas Chega aos Cinemas em Junho",
     "categoria": "FILMES",
@@ -6739,6 +6922,32 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 1774,
+    "slugCategoria": "filmes"
+  },
+  {
+    "slug": "bailarina-evanescence-lana-msica-indita-para-o-filme-oua-agora",
+    "titulo": "Evanescence Lança 'Fight Like a Girl' para Filme Bailarina do Universo John Wick",
+    "categoria": "FILMES",
+    "resumo": "A banda Evanescence, em colaboração com K. Flay, lança a música 'Fight Like a Girl' para a trilha sonora do spin-off de John Wick, 'Bailarina'. Descubra mais sobre o envolvimento de Amy Lee e as expectativas para o filme.",
+    "thumb": "https://cdn.ome.lt/xWfkTXCjXyp3Hmq-rtk2h8p-lA4=/480x360/smart/extras/conteudos/Captura_de_tela_2025-06-06_082625.png",
+    "data": "2025-06-06T13:03:14.001Z",
+    "tags": [
+      "Evanescence",
+      "Amy Lee",
+      "Bailarina",
+      "John Wick",
+      "Fight Like a Girl",
+      "K. Flay",
+      "Ana De Armas",
+      "Len Wiseman",
+      "Shay Hatten",
+      "Chad Stahelski",
+      "The Continental",
+      "Prime Video"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2091,
     "slugCategoria": "filmes"
   },
   {
@@ -6960,6 +7169,28 @@
     "tempoLeitura": 2,
     "textoLength": 1263,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "bandai-namco-apresenta-towa-e-os-guardies-da-rvore-sagrada-um-roguelike-inspirado-em-anime",
+    "titulo": "Bandai Namco Apresenta Towa e os Guardiões da Árvore Sagrada: Um Roguelike Inspirado em Anime",
+    "categoria": "Games",
+    "resumo": "A Bandai Namco revelou um novo jogo roguelike, Towa e os Guardiões da Árvore Sagrada, durante o Summer Game Fest 2025. O jogo, que combina arte clássica japonesa e misticismo oriental, estará disponível em setembro para todas as principais plataformas.",
+    "thumb": "/uploads/bandai-namco-apresenta-towa-e-os-guardies-da-rvore-sagrada-um-roguelike-inspirado-em-anime-thumb.png",
+    "data": "2025-06-06T22:37:00.000Z",
+    "tags": [
+      "Bandai Namco",
+      "Towa e os Guardiões da Árvore Sagrada",
+      "roguelike",
+      "Summer Game Fest 2025",
+      "PS5",
+      "Xbox Series X/S",
+      "Nintendo Switch",
+      "jogos inspirados em anime"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2435,
+    "slugCategoria": "games"
   },
   {
     "slug": "barney-ayo-edebiri-confirma-que-escrever-filme-da-a24",
@@ -10559,6 +10790,30 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "black-myth-wukong-chega-ao-xbox-em-2025-com-desconto-especial",
+    "titulo": "Black Myth: Wukong Chega ao Xbox em 2025 com Desconto Especial",
+    "categoria": "Games",
+    "resumo": "Após um ano de exclusividade no PlayStation 5, Black Myth: Wukong finalmente chega ao Xbox Series X|S em agosto de 2025. O lançamento vem acompanhado de um desconto de 20% para quem fizer a compra antecipada.",
+    "thumb": "/uploads/black-myth-wukong-chega-ao-xbox-em-2025-com-desconto-especial-thumb.png",
+    "data": "2025-06-06T12:09:00.000Z",
+    "tags": [
+      "Black Myth: Wukong",
+      "Xbox Series X|S",
+      "PlayStation 5",
+      "lançamento",
+      "exclusividade",
+      "desconto",
+      "Game Science",
+      "vendas",
+      "China",
+      "controvérsias"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 2712,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "black-myth-wukong-jogo-confirmado-para-xbox-e-j-tem-data",
     "titulo": "Black Myth: Wukong Chega ao Xbox com Data de Lançamento e Desconto Exclusivo",
     "categoria": "GAMES",
@@ -10990,6 +11245,19 @@
     "tempoLeitura": 2,
     "textoLength": 1312,
     "slugCategoria": "ofertas"
+  },
+  {
+    "slug": "borderlands-2-grtis-no-steam-aproveite-a-promoo-limitada-e-descontos-da-franquia",
+    "titulo": "Borderlands 2 Grátis no Steam: Aproveite a Promoção Limitada e Descontos da Franquia",
+    "categoria": "Games",
+    "resumo": "A 2K Games está distribuindo cópias gratuitas de Borderlands 2 no Steam até 8 de junho, além de oferecer descontos em toda a franquia. Descubra como aproveitar essas ofertas imperdíveis antes do lançamento de Borderlands 4.",
+    "thumb": "/uploads/borderlands-2-grtis-no-steam-aproveite-a-promoo-limitada-e-descontos-da-franquia-thumb.png",
+    "data": "2025-06-06T14:51:00.000Z",
+    "tags": [],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2232,
+    "slugCategoria": "games"
   },
   {
     "slug": "borderlands-4-adiantado-e-aquece-rumores-sobre-gta-6-em-novembro",
@@ -13764,6 +14032,28 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "chronicles-medieval-promete-revolucionar-rpgs-com-mundo-aberto-e-escolhas-impactantes",
+    "titulo": "Chronicles: Medieval Promete Revolucionar RPGs com Mundo Aberto e Escolhas Impactantes",
+    "categoria": "Games",
+    "resumo": "O estúdio Raw Power Games, fundado por veteranos de jogos como Cyberpunk 2077, revelou seu novo projeto, Chronicles: Medieval, um RPG de ação com ênfase em escolhas do jogador. O jogo proporciona uma experiência única, onde cada decisão molda o mundo medieval ao seu redor.",
+    "thumb": "/uploads/chronicles-medieval-promete-revolucionar-rpgs-com-mundo-aberto-e-escolhas-impactantes-thumb.jpg",
+    "data": "2025-06-06T21:17:00.000Z",
+    "tags": [
+      "Chronicles: Medieval",
+      "RPG de ação",
+      "sandbox medieval",
+      "modding",
+      "Summer Game Fest",
+      "Raw Power Games",
+      "escolha do jogador",
+      "lançamento 2026"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2338,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "chrono-trigger-remake-pode-ter-sido-confirmado-por-acidente",
     "titulo": "Chrono Trigger Remake: Revelação Acidental por Yuji Horii Incendeia Rumores",
     "categoria": "GAMES",
@@ -14258,6 +14548,29 @@
     "slugCategoria": "musica"
   },
   {
+    "slug": "code-vein-2-bandai-namco-revela-sequncia-com-viagem-no-tempo-e-estilo-medieval",
+    "titulo": "Code Vein 2: Bandai Namco Revela Sequência com Viagem no Tempo e Estilo Medieval",
+    "categoria": "Games",
+    "resumo": "Durante o Summer Game Fest 2025, a Bandai Namco surpreendeu os fãs ao anunciar Code Vein 2, prometendo uma fusão intrigante de estilos e épocas. O jogo, que chega em 2026, promete expandir o universo do aclamado RPG com novos desafios e um enredo envolvente.",
+    "thumb": "/uploads/code-vein-2-bandai-namco-revela-sequncia-com-viagem-no-tempo-e-estilo-medieval-thumb.png",
+    "data": "2025-06-06T21:49:00.000Z",
+    "tags": [
+      "Code Vein 2",
+      "Bandai Namco",
+      "RPG de ação",
+      "Summer Game Fest 2025",
+      "fantasia medieval",
+      "viagem no tempo",
+      "PS5",
+      "Xbox Series X/S",
+      "lançamento 2026"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2479,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "coisa-de-novela-passa-na-sesso-da-tarde-da-globo-desta-segunda",
     "titulo": "Susana Vieira brilha em 'Coisa de Novela', destaque na Sessão da Tarde",
     "categoria": "SÉRIES E TV",
@@ -14389,6 +14702,31 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 2206,
+    "slugCategoria": "filmes"
+  },
+  {
+    "slug": "com-criador-de-yellowstone-disputa-pelos-direitos-de-o-massacre-da-serra-eletrica-aumenta",
+    "titulo": "Direitos de O Massacre da Serra Elétrica: Atração por Cineastas de Yellowstone e Mais",
+    "categoria": "Filmes",
+    "resumo": "A disputa pelos direitos da icônica franquia de terror, O Massacre da Serra Elétrica, atrai grandes nomes como Taylor Sheridan, criador de Yellowstone. Com múltiplos estúdios na corrida, o futuro da série promete novas adaptações e formatos.",
+    "thumb": "/uploads/com-criador-de-yellowstone-disputa-pelos-direitos-de-o-massacre-da-serra-eletrica-aumenta-thumb.jpg",
+    "data": "2025-06-06T18:18:12.000Z",
+    "tags": [
+      "O Massacre da Serra Eltrica",
+      "Taylor Sheridan",
+      "direitos de produo",
+      "franquia de terror",
+      "Yellowstone",
+      "Tobe Hooper",
+      "Kim Henkel",
+      "NEON",
+      "Netflix",
+      "Jordan Peele",
+      "A24"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2058,
     "slugCategoria": "filmes"
   },
   {
@@ -14641,7 +14979,8 @@
       "Tears of the Kingdom",
       "Breath of the Wild",
       "eShop",
-      "GameCube no Switch 2"
+      "GameCube no Switch 2",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 3,
@@ -14682,7 +15021,8 @@
       "Wi-Fi Switch 2",
       "LAN Switch 2",
       "GameChat Switch 2",
-      "jogos online Nintendo Switch 2"
+      "jogos online Nintendo Switch 2",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -14819,6 +15159,27 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "como-importar-dados-de-jogos-no-nintendo-switch-2-guia-completo",
+    "titulo": "Como Importar Dados de Jogos no Nintendo Switch 2: Guia Completo",
+    "categoria": "Games",
+    "resumo": "Aprender a importar dados de jogos para o Nintendo Switch 2 pode ser essencial ao configurar o novo console. Descubra como transferir seus saves, seja durante a configuração inicial ou posteriormente, utilizando o armazenamento na nuvem.",
+    "thumb": "/uploads/como-importar-dados-de-jogos-no-nintendo-switch-2-guia-completo-thumb.jpg",
+    "data": "2025-06-06T16:54:00.000Z",
+    "tags": [
+      "Nintendo Switch 2",
+      "transferir dados de jogo",
+      "saves na nuvem",
+      "configuração Switch 2",
+      "guia de transferência Switch",
+      "jogos Nintendo",
+      "especial-Nintendo Switch 2"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 2757,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "como-ir-ao-lollapalooza-2025-confira-opes-de-transporte-e-horrio-de-abertura",
     "titulo": "Como chegar ao Lollapalooza 2025? Veja opções de transporte e horários",
     "categoria": "MÚSICA",
@@ -14901,6 +15262,27 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "como-obter-recompensas-exclusivas-de-dune-awakening-no-twitch",
+    "titulo": "Como Obter Recompensas Exclusivas de Dune: Awakening no Twitch",
+    "categoria": "Games",
+    "resumo": "Descubra como ganhar recompensas exclusivas de Dune: Awakening através do Twitch Drops e participe do evento 'Support a Creator'. Saiba os detalhes para obter itens que aprimoram suas defesas no jogo.",
+    "thumb": "/uploads/como-obter-recompensas-exclusivas-de-dune-awakening-no-twitch-thumb.jpg",
+    "data": "2025-06-06T13:24:00.000Z",
+    "tags": [
+      "Dune: Awakening",
+      "Twitch Drops",
+      "recompensas",
+      "Support a Creator",
+      "Atreides Officer Suit",
+      "como ganhar",
+      "lançamento antecipado"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2506,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "como-personalizar-os-botes-do-controle-no-nintendo-switch-2-guia-completo",
     "titulo": "Como Personalizar os Botões do Controle no Nintendo Switch 2: Guia Completo",
     "categoria": "Games",
@@ -14913,7 +15295,8 @@
       "personalizar controle",
       "acessibilidade no Nintendo Switch",
       "ajuste de controle",
-      "tutorial de mapeamento de botões"
+      "tutorial de mapeamento de botões",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -15737,6 +16120,27 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "configuraes-ideais-para-melhorar-fps-e-reduzir-travamentos-em-dune-awakening-no-pc",
+    "titulo": "Configurações Ideais para Melhorar FPS e Reduzir Travamentos em Dune: Awakening no PC",
+    "categoria": "Games",
+    "resumo": "Dune: Awakening enfrenta desafios de desempenho no PC, mesmo em máquinas de ponta. Ajustar configurações gráficas pode melhorar a experiência de jogo, evitando quedas de FPS e travamentos.",
+    "thumb": "/uploads/configuraes-ideais-para-melhorar-fps-e-reduzir-travamentos-em-dune-awakening-no-pc-thumb.jpg",
+    "data": "2025-06-06T03:40:00.000Z",
+    "tags": [
+      "Dune: Awakening",
+      "configurações de PC",
+      "melhorar FPS",
+      "reduzir travamentos",
+      "performance de jogos",
+      "ajustes gráficos",
+      "Nvidia Control Panel"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 3373,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "confira-todos-os-trailers-apresentados-na-state-of-play",
     "titulo": "State of Play: Todos os Trailers e Anúncios da Sony para o PlayStation",
     "categoria": "Games",
@@ -15929,6 +16333,26 @@
     "tempoLeitura": 1,
     "textoLength": 475,
     "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "controle-gamecube-do-nintendo-switch-2-surpreende-com-funo-de-giroscpio",
+    "titulo": "Controle GameCube do Nintendo Switch 2 Surpreende com Função de Giroscópio",
+    "categoria": "Games",
+    "resumo": "A Nintendo surpreende fãs ao incluir controles giroscópicos no novo controle GameCube para o Switch 2, oferecendo uma experiência de jogo renovada. Conheça as novidades e implicações dessa adição inesperada.",
+    "thumb": "/uploads/controle-gamecube-do-nintendo-switch-2-surpreende-com-funo-de-giroscpio-thumb.jpg",
+    "data": "2025-06-06T13:27:00.000Z",
+    "tags": [
+      "Nintendo Switch 2",
+      "controle GameCube",
+      "giroscópio",
+      "Nintendo Switch Online",
+      "inovação em jogos",
+      "especial-Nintendo Switch 2"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 3102,
+    "slugCategoria": "games"
   },
   {
     "slug": "controle-pro-para-nintendo-switch-2-estoque-reabastecido-e-mais-detalhes",
@@ -16562,6 +16986,34 @@
     "tempoLeitura": 2,
     "textoLength": 1771,
     "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "criador-de-jojo-8217-s-bizarre-adventure-reune-os-9-protagonistas-em-artes-ineditas",
+    "titulo": "Hirohiko Araki Lança Artes Inéditas de JoJo's Bizarre Adventure para Evento no Japão",
+    "categoria": "Mangás e Animes",
+    "resumo": "O aclamado criador Hirohiko Araki divulgou ilustrações exclusivas reunindo os nove protagonistas de JoJo's Bizarre Adventure, em preparação para o evento The JoJo World, que ocorre em julho no Japão.",
+    "thumb": "/uploads/criador-de-jojo-8217-s-bizarre-adventure-reune-os-9-protagonistas-em-artes-ineditas-thumb.webp",
+    "data": "2025-06-06T16:34:28.000Z",
+    "tags": [
+      "JoJos Bizarre Adventure",
+      "Hirohiko Araki",
+      "The JoJo World",
+      "Jonathan Joestar",
+      "Joseph Joestar",
+      "Jotaro Kujo",
+      "Josuke Higashikata",
+      "Giorno Giovanna",
+      "Jolyne Cujoh",
+      "Johnny Joestar",
+      "Jodio Joestar",
+      "Steel Ball Run",
+      "evento",
+      "Japo"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2728,
+    "slugCategoria": "mangas-e-animes"
   },
   {
     "slug": "criador-de-mario-no-queria-que-wii-sports-viesse-incluso-no-console",
@@ -18789,6 +19241,30 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "cyberpunk-2077-ganhar-uma-atualizao-extra-com-surpresas",
+    "titulo": "Cyberpunk 2077: Atualização Surpresa Promete Novidades em 2025",
+    "categoria": "GAMES",
+    "resumo": "A CD Projekt Red anunciou que Cyberpunk 2077 receberá uma atualização surpreendente ainda este ano, mas detalhes permanecem sob sigilo. O Patch 2.3 é aguardado após o sucesso da atualização anterior.",
+    "thumb": "/uploads/cyberpunk-2077-ganhar-uma-atualizao-extra-com-surpresas-thumb.png",
+    "data": "2025-06-06T18:31:20.880Z",
+    "tags": [
+      "Cyberpunk 2077",
+      "CD Projekt Red",
+      "Paweł Sasko",
+      "Night City",
+      "Johnny Silverhand",
+      "Keanu Reeves",
+      "Patch 2.3",
+      "Nintendo Switch 2",
+      "atualização surpresa",
+      "RPG mundo aberto"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2035,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "cyberpunk-2077-no-switch-2-desafios-superados-e-surpresas-tecnolgicas",
     "titulo": "Cyberpunk 2077 no Switch 2: Desafios Superados e Surpresas Tecnológicas",
     "categoria": "Games",
@@ -18871,7 +19347,8 @@
       "jogos de RPG",
       "mundo aberto",
       "Night City",
-      "recursos exclusivos"
+      "recursos exclusivos",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -19210,6 +19687,28 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "data-de-lanamento-de-mecha-break-anunciada-no-summer-game-fest-2025",
+    "titulo": "Data de Lançamento de Mecha Break é Anunciada no Summer Game Fest 2025",
+    "categoria": "Games",
+    "resumo": "O aguardado jogo de tiro mecha online, Mecha Break, tem data de lançamento marcada para 1º de julho de 2025. O anúncio foi feito durante o evento Summer Game Fest, prometendo uma experiência de ação intensa para os jogadores.",
+    "thumb": "/uploads/data-de-lanamento-de-mecha-break-anunciada-no-summer-game-fest-2025-thumb.jpg",
+    "data": "2025-06-06T22:40:00.000Z",
+    "tags": [
+      "Mecha Break",
+      "Summer Game Fest 2025",
+      "lançamento de jogos",
+      "jogos de tiro",
+      "mechas",
+      "beta aberta",
+      "experiência de jogo",
+      "indústria de games"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2450,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "dave-filoni-de-star-wars-exalta-lideranca-de-kevin-feige-na-marvel-studios-8220-estou-fascinado-8221",
     "titulo": "Dave Filoni Elogia Estratégia de Kevin Feige na Marvel Studios: Uma Liderança Inspiradora",
     "categoria": "Filmes",
@@ -19370,6 +19869,32 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "de-surpresa-lies-of-p-overture-e-lancada-na-summer-game-fest",
+    "titulo": "Lies of P: Overture é Lançado Inesperadamente na Summer Game Fest e Surpreende Jogadores",
+    "categoria": "Games",
+    "resumo": "A expansão Lies of P: Overture foi revelada de forma surpreendente durante a Summer Game Fest, prometendo mais de 15 horas de intenso conteúdo. Este lançamento inesperado já está disponível para múltiplas plataformas, trazendo uma nova perspectiva ao universo do jogo.",
+    "thumb": "/uploads/de-surpresa-lies-of-p-overture-e-lancada-na-summer-game-fest-preview.jpg",
+    "data": "2025-06-06T21:56:21.000Z",
+    "tags": [
+      "Lies of P",
+      "Overture",
+      "Summer Game Fest",
+      "expanso",
+      "Neowiz",
+      "Krat",
+      "Frenesi dos Bonecos",
+      "RPG",
+      "PlayStation",
+      "Xbox",
+      "PC",
+      "Unreal Engine 5"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2074,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "dead-by-daylight-ter-crossover-com-the-witcher-e-five-nights-at-freddys",
     "titulo": "Dead by Daylight Anuncia Expansões com The Witcher e Five Nights at Freddy's para Celebrar 9 Anos",
     "categoria": "GAMES",
@@ -19387,6 +19912,29 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 2300,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "deadpool-ganha-jogo-de-realidade-virtual-o-mercenrio-tagarela-invade-o-meta-quest-3",
+    "titulo": "Deadpool Ganha Jogo de Realidade Virtual: O Mercenário Tagarela Invade o Meta Quest 3",
+    "categoria": "Games",
+    "resumo": "No Summer Game Fest 2025, a Marvel revelou um novo jogo de realidade virtual protagonizado por Deadpool, com a voz de Neil Patrick Harris. Desenvolvido por Twisted Pixel, o game promete uma aventura repleta de ação e humor no universo Marvel.",
+    "thumb": "/uploads/deadpool-ganha-jogo-de-realidade-virtual-o-mercenrio-tagarela-invade-o-meta-quest-3-thumb.jpg",
+    "data": "2025-06-06T22:16:00.000Z",
+    "tags": [
+      "Deadpool",
+      "Marvel",
+      "realidade virtual",
+      "jogo VR",
+      "Meta Quest 3",
+      "Neil Patrick Harris",
+      "Summer Game Fest 2025",
+      "Twisted Pixel",
+      "jogos de super-heróis"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2415,
     "slugCategoria": "games"
   },
   {
@@ -19453,6 +20001,28 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "deadpool-vr-e-anunciado-no-summer-game-fest",
+    "titulo": "Deadpool VR: Neil Patrick Harris Dá Voz ao Mercenário em Experiência Imersiva",
+    "categoria": "Games",
+    "resumo": "Marvel's Deadpool VR foi revelado no Summer Game Fest 2025, prometendo trazer a irreverência do personagem para os headsets de realidade virtual. Neil Patrick Harris assume o papel icônico, adicionando uma nova camada de carisma ao jogo.",
+    "thumb": "/uploads/deadpool-vr-e-anunciado-no-summer-game-fest-preview.jpg",
+    "data": "2025-06-06T22:14:14.000Z",
+    "tags": [
+      "Deadpool VR",
+      "Neil Patrick Harris",
+      "Marvel",
+      "Realidade Virtual",
+      "Meta Quest 3",
+      "Summer Game Fest 2025",
+      "Jogos VR",
+      "Mercenrio Tagarela"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2246,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "deadpool-wolverine-ryan-reynolds-revela-mais-uma-regra-da-disney-pro-filme",
     "titulo": "Disney Proíbe Piadas com Mickey e Bambi em 'Deadpool & Wolverine'",
     "categoria": "FILMES",
@@ -19492,6 +20062,29 @@
     "tempoLeitura": 2,
     "textoLength": 1414,
     "slugCategoria": "hq-livros"
+  },
+  {
+    "slug": "death-stranding-2-ganha-novo-clipe-destacando-neil-e-lucy-no-summer-game-fest",
+    "titulo": "Novo Trailer de Death Stranding 2 Revela Detalhes de Neil e Lucy no Summer Game Fest 2025",
+    "categoria": "Séries e TV",
+    "resumo": "Durante o Summer Game Fest 2025, um novo trailer de Death Stranding 2: On the Beach foi apresentado, destacando os personagens Neil e Lucy. O jogo, exclusivo para PlayStation 5, será lançado em 26 de junho.",
+    "thumb": "/uploads/death-stranding-2-ganha-novo-clipe-destacando-neil-e-lucy-no-summer-game-fest-preview.jpg",
+    "data": "2025-06-06T21:19:04.000Z",
+    "tags": [
+      "Death Stranding 2",
+      "Summer Game Fest 2025",
+      "Neil e Lucy",
+      "Hideo Kojima",
+      "PlayStation 5",
+      "lanamento exclusivo",
+      "trailer",
+      "Luca Marinelli",
+      "Alissa Jung"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2146,
+    "slugCategoria": "series-e-tv"
   },
   {
     "slug": "death-stranding-2-j-est-pronto-para-ser-lanado",
@@ -20137,6 +20730,29 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1515,
+    "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "demolidor-renascido-descartou-ideia-envolvendo-o-multiverso-revela-charlie-cox",
+    "titulo": "Demolidor: Renascido Abandona Multiverso para Respeitar a Essência Original",
+    "categoria": "Séries e TV",
+    "resumo": "Charlie Cox revela que 'Demolidor: Renascido' quase seguiu o caminho do Multiverso, mas optou por manter a conexão com a série original. Essa decisão visa atrair tanto novos espectadores quanto fãs de longa data.",
+    "thumb": "/uploads/demolidor-renascido-descartou-ideia-envolvendo-o-multiverso-revela-charlie-cox-thumb.webp",
+    "data": "2025-06-06T13:14:17.000Z",
+    "tags": [
+      "Demolidor Renascido",
+      "Multiverso",
+      "Charlie Cox",
+      "Marvel",
+      "MCU",
+      "Netflix",
+      "Rei do Crime",
+      "Jessica Jones",
+      "Disney"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2506,
     "slugCategoria": "series-e-tv"
   },
   {
@@ -20977,6 +21593,26 @@
     "slugCategoria": "mangas-e-animes"
   },
   {
+    "slug": "descubra-como-evitar-a-temida-casca-azul-em-mario-kart-world-com-truque-inovador",
+    "titulo": "Descubra Como Evitar a Temida Casca Azul em Mario Kart World com Truque Inovador",
+    "categoria": "Games",
+    "resumo": "Mario Kart World introduziu uma nova maneira engenhosa de escapar da famosa Casca Azul, sem depender de itens raros. Saiba como a funcionalidade de Rebobinar pode ser sua melhor aliada nas corridas.",
+    "thumb": "/uploads/descubra-como-evitar-a-temida-casca-azul-em-mario-kart-world-com-truque-inovador-thumb.png",
+    "data": "2025-06-06T19:02:00.000Z",
+    "tags": [
+      "Mario Kart World",
+      "Casca Azul",
+      "truque para evitar Casca Azul",
+      "função de Rebobinar",
+      "dicas Mario Kart",
+      "estratégias Mario Kart World"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2087,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "descubra-o-pais-mais-geek-do-mundo-um-mergulho-na-cultura-pop",
     "titulo": "Descubra o País Mais Geek do Mundo: Um Mergulho na Cultura Pop",
     "categoria": "Cultura Pop",
@@ -21090,6 +21726,31 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "desenvolvedores-de-nioh-3-evitam-chamar-o-jogo-de-mundo-aberto",
+    "titulo": "Por Que Nioh 3 Não é Considerado um Jogo de Mundo Aberto?",
+    "categoria": "Games",
+    "resumo": "Os desenvolvedores de Nioh 3, Team Ninja, explicam que o jogo adota um modelo de 'campo aberto', preservando a identidade da franquia sem se tornar um mundo aberto tradicional.",
+    "thumb": "/uploads/desenvolvedores-de-nioh-3-evitam-chamar-o-jogo-de-mundo-aberto-thumb.webp",
+    "data": "2025-06-06T19:24:56.000Z",
+    "tags": [
+      "Nioh 3",
+      "Team Ninja",
+      "mundo aberto",
+      "campo aberto",
+      "Fumihiko Yasuda",
+      "Kohei Shibata",
+      "PS5",
+      "PC",
+      "Samurai Style",
+      "Ninja Style",
+      "franquia Nioh"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 3,
+    "textoLength": 2629,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "designer-diary-engine-thieves",
     "titulo": "Explorando os Bastidores de 'Engine Thieves': Uma Jornada de Criação e História",
     "categoria": "Board Games",
@@ -21110,7 +21771,7 @@
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 4,
-    "textoLength": 6915,
+    "textoLength": 6913,
     "slugCategoria": "board-games"
   },
   {
@@ -21664,6 +22325,54 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "diarios-de-uma-apotecaria-foi-o-manga-mais-vendido-em-maio",
+    "titulo": "Diários de uma Apotecária lidera vendas de mangás em maio de 2025 no Japão",
+    "categoria": "Mangás e Animes",
+    "resumo": "O mangá 'Diários de uma Apotecária' surpreendeu ao alcançar o topo das vendas no Japão em maio de 2025, apesar do hiato devido à saúde da ilustradora. Com uma narrativa envolvente, a série continua a cativar fãs ao redor do mundo.",
+    "thumb": "/uploads/diarios-de-uma-apotecaria-foi-o-manga-mais-vendido-em-maio-thumb.webp",
+    "data": "2025-06-06T15:21:24.000Z",
+    "tags": [
+      "Dirios de uma Apotecria",
+      "mang mais vendido",
+      "Oricon",
+      "Natsu Hyga",
+      "Itsuki Nanao",
+      "Nekokurage",
+      "Square Enix",
+      "Crunchyroll",
+      "hiato",
+      "anime"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2297,
+    "slugCategoria": "mangas-e-animes"
+  },
+  {
+    "slug": "dicas-essenciais-para-obter-gua-e-sangue-em-dune-awakening",
+    "titulo": "Dicas Essenciais para Obter Água e Sangue em Dune: Awakening",
+    "categoria": "Games",
+    "resumo": "Sobreviver no deserto de Arrakis em 'Dune: Awakening' depende de estratégias eficazes para manter-se hidratado. Descubra como maximizar sua obtenção de água e sangue no jogo.",
+    "thumb": "/uploads/dicas-essenciais-para-obter-gua-e-sangue-em-dune-awakening-thumb.jpg",
+    "data": "2025-06-06T15:05:00.000Z",
+    "tags": [
+      "Dune: Awakening",
+      "hidratação",
+      "plantas de orvalho",
+      "Stillsuit",
+      "Windtrap",
+      "Moisture Harvester",
+      "Dew Reaper",
+      "sangue",
+      "Extrator de Sangue",
+      "sobrevivência em Arrakis"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 2716,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "dicionario-geek-termos-nerds",
     "titulo": "Dicionário Geek: 50 Termos que Todo Nerd Precisa Conhecer",
     "categoria": "Cultura Geek",
@@ -21839,6 +22548,29 @@
     "tempoLeitura": 1,
     "textoLength": 1249,
     "slugCategoria": "games"
+  },
+  {
+    "slug": "digimon-story-time-stranger-revela-detalhes-de-resolucao-e-taxa-de-quadros-para-consoles-e-pc",
+    "titulo": "Digimon Story: Time Stranger: Detalhes de Resolução e Desempenho para PS5, Xbox e PC Revelados",
+    "categoria": "Mangás e Animes",
+    "resumo": "A Bandai Namco divulgou informações cruciais sobre a resolução e o desempenho do aguardado jogo Digimon Story: Time Stranger nas plataformas PS5, Xbox Series e PC, com destaque para diferenças significativas nas taxas de quadros.",
+    "thumb": "/uploads/digimon-story-time-stranger-revela-detalhes-de-resolucao-e-taxa-de-quadros-para-consoles-e-pc-preview.jpg",
+    "data": "2025-06-06T12:20:57.000Z",
+    "tags": [
+      "Digimon Story Time Stranger",
+      "Bandai Namco",
+      "PS5",
+      "Xbox Series",
+      "PC",
+      "resoluo",
+      "taxa de quadros",
+      "lanamento",
+      "State of Play"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2236,
+    "slugCategoria": "mangas-e-animes"
   },
   {
     "slug": "dire-wolf-explicado-qual-o-papel-dos-lobos-terrveis-em-game-of-thrones",
@@ -22288,6 +23020,29 @@
     "tempoLeitura": 1,
     "textoLength": 657,
     "slugCategoria": "games"
+  },
+  {
+    "slug": "dna-do-crime-explicado-3-crimes-que-inspiraram-a-2-temporada",
+    "titulo": "DNA do Crime: Os Três Casos Reais que Inspiraram a Nova Temporada na Netflix",
+    "categoria": "SÉRIES E TV",
+    "resumo": "A série 'DNA do Crime', da Netflix, transforma crimes reais em ficção na sua segunda temporada, incluindo o histórico furto ao Banco Central em Fortaleza. Descubra como esses episódios se conectam com a realidade.",
+    "thumb": "/uploads/dna-do-crime-explicado-3-crimes-que-inspiraram-a-2-temporada-thumb.png",
+    "data": "2025-06-06T17:20:42.307Z",
+    "tags": [
+      "DNA do Crime",
+      "Netflix",
+      "Banco Central Fortaleza",
+      "Araçatuba",
+      "Confresa",
+      "série policial",
+      "Rômulo Braga",
+      "Maeve Jinkings",
+      "Heitor Dhalia"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1805,
+    "slugCategoria": "series-e-tv"
   },
   {
     "slug": "do-sul-a-vingana-filme-do-mato-grosso-do-sul-ganha-data-de-estreia",
@@ -22785,6 +23540,30 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "doom-the-dark-ages-traz-grande-melhoria-e-correcoes-de-erros-em-atualizacao",
+    "titulo": "Doom: The Dark Ages Recebe Atualização com Melhorias e Correções Importantes",
+    "categoria": "Games",
+    "resumo": "O jogo Doom: The Dark Ages, da Bethesda, acaba de receber uma atualização significativa, trazendo melhorias na jogabilidade e correções de erros pouco tempo após seu lançamento. As novidades prometem otimizar a experiência dos jogadores em todas as plataformas.",
+    "thumb": "/uploads/doom-the-dark-ages-traz-grande-melhoria-e-correcoes-de-erros-em-atualizacao-thumb.webp",
+    "data": "2025-06-06T11:33:54.000Z",
+    "tags": [
+      "Doom The Dark Ages",
+      "atualizao",
+      "Bethesda",
+      "melhorias",
+      "correes de erros",
+      "jogabilidade",
+      "personalizao sonora",
+      "sistema de combate",
+      "estabilidade",
+      "Doom Slayer"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2195,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "dora-a-aventureira-novo-filme-recebe-primeiras-imagens-confira",
     "titulo": "Dora e a Busca pelo Sol Dorado: Confira as Primeiras Imagens do Novo Filme",
     "categoria": "FILMES",
@@ -23004,6 +23783,28 @@
     "tempoLeitura": 2,
     "textoLength": 1829,
     "slugCategoria": "mangas-e-animes"
+  },
+  {
+    "slug": "dracula-caleb-landry-jones-da-vida-ao-lendario-vampiro-no-trailer-do-filme-de-luc-besson",
+    "titulo": "Drácula de Luc Besson: Caleb Landry Jones Revive o Vampiro Icone em Filme de 2025",
+    "categoria": "Filmes",
+    "resumo": "A aguardada adaptação de Drácula, dirigida por Luc Besson, tem Caleb Landry Jones como protagonista e estreia no Brasil em agosto de 2025.",
+    "thumb": "/uploads/dracula-caleb-landry-jones-da-vida-ao-lendario-vampiro-no-trailer-do-filme-de-luc-besson-preview.jpg",
+    "data": "2025-06-06T21:02:07.000Z",
+    "tags": [
+      "Drcula",
+      "Caleb Landry Jones",
+      "Luc Besson",
+      "filme 2025",
+      "estreia",
+      "vampiro",
+      "cinema",
+      "Paris Filmes"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2173,
+    "slugCategoria": "filmes"
   },
   {
     "slug": "dragon-age-no-combinava-com-a-ea-diz-ex-roteirista",
@@ -23307,6 +24108,28 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "drinkbox-studios-inova-com-blighted-primeira-aventura-3d-em-co-op-dos-criadores-de-guacamelee",
+    "titulo": "Drinkbox Studios Inova com Blighted: Primeira Aventura 3D em Co-Op dos Criadores de Guacamelee",
+    "categoria": "Games",
+    "resumo": "Drinkbox Studios, famoso por Guacamelee, revela Blighted, um jogo de ação em 3D com modo cooperativo, durante o Summer Game Fest 2025. Este título promete uma experiência imersiva e visualmente impactante, mantendo a estética vibrante que é marca registrada do estúdio.",
+    "thumb": "/uploads/drinkbox-studios-inova-com-blighted-primeira-aventura-3d-em-co-op-dos-criadores-de-guacamelee-thumb.png",
+    "data": "2025-06-06T22:55:00.000Z",
+    "tags": [
+      "Drinkbox Studios",
+      "Blighted",
+      "Guacamelee",
+      "Summer Game Fest 2025",
+      "jogos 3D",
+      "cooperação",
+      "ação RPG",
+      "Steam"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2009,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "duna-3-momoa-brinca-com-seu-retorno-se-voc-no-leu-no-minha-culpa",
     "titulo": "Duna 3 | Jason Momoa Confirma Retorno como Duncan Idaho",
     "categoria": "FILMES",
@@ -23394,6 +24217,27 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 1244,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "dune-awakening-surpreende-com-popularidade-em-acesso-antecipado-premium",
+    "titulo": "Dune: Awakening Surpreende com Popularidade em Acesso Antecipado Premium",
+    "categoria": "Games",
+    "resumo": "Embora ainda em acesso antecipado pago, Dune: Awakening já conquistou um público massivo. O jogo, que só será lançado oficialmente em junho, atraiu milhares de jogadores dispostos a investir nas edições Deluxe e Ultimate.",
+    "thumb": "/uploads/dune-awakening-surpreende-com-popularidade-em-acesso-antecipado-premium-thumb.jpg",
+    "data": "2025-06-06T16:21:00.000Z",
+    "tags": [
+      "Dune: Awakening",
+      "acesso antecipado premium",
+      "Steam",
+      "jogadores simultâneos",
+      "Twitch",
+      "edições Deluxe e Ultimate",
+      "jogo de sobrevivência multiplayer"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2310,
     "slugCategoria": "games"
   },
   {
@@ -23515,6 +24359,76 @@
     "tempoLeitura": 1,
     "textoLength": 1491,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "dying-light-the-beast-chega-em-agosto-com-ao-intensa-e-novidades-empolgantes",
+    "titulo": "Dying Light: The Beast Chega em Agosto com Ação Intensa e Novidades Empolgantes",
+    "categoria": "Games",
+    "resumo": "Dying Light: The Beast, o novo capítulo da aclamada série de zumbis da Techland, chega em 22 de agosto de 2025 e promete mergulhar os jogadores em uma jornada de vingança e sobrevivência em Castor Woods.",
+    "thumb": "/uploads/dying-light-the-beast-chega-em-agosto-com-ao-intensa-e-novidades-empolgantes-thumb.jpg",
+    "data": "2025-06-06T22:12:00.000Z",
+    "tags": [
+      "Dying Light: The Beast",
+      "lançamento agosto 2025",
+      "Kyle Crane",
+      "Techland",
+      "Castor Woods",
+      "Summer Game Fest 2025",
+      "zumbis",
+      "parkour",
+      "Hero of Harran Bundle"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2463,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "dying-light-the-beast-ganha-data-de-lanamento-veja-trailer",
+    "titulo": "Dying Light: The Beast Revela Data de Lançamento e Trailer Incrível",
+    "categoria": "GAMES",
+    "resumo": "Novo trailer de Dying Light: The Beast revela data de lançamento e detalhes empolgantes sobre o retorno de Kyle Crane. Descubra o que esperar deste jogo de mundo aberto.",
+    "thumb": "/uploads/dying-light-the-beast-ganha-data-de-lanamento-veja-trailer-thumb.png",
+    "data": "2025-06-06T22:20:12.233Z",
+    "tags": [
+      "Dying Light: The Beast",
+      "Kyle Crane",
+      "Techland",
+      "Summer Game Fest 2025",
+      "Castor Woods",
+      "Modo Fera",
+      "lançamento Dying Light",
+      "jogos de mundo aberto",
+      "Dying Light 2: Stay Human"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1775,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "dying-light-the-beast-tem-data-de-lancamento-anunciada-na-summer-game-fest",
+    "titulo": "Dying Light: The Beast Lançamento Confirmado para Agosto: O Retorno de um Herói",
+    "categoria": "Games",
+    "resumo": "Dying Light: The Beast chegará em 22 de agosto, trazendo de volta o icônico protagonista Kyle Crane para uma nova aventura de terror e sobrevivência. A revelação ocorreu durante a Summer Game Fest, junto com um trailer emocionante.",
+    "thumb": "/uploads/dying-light-the-beast-tem-data-de-lancamento-anunciada-na-summer-game-fest-preview.jpg",
+    "data": "2025-06-06T22:15:39.000Z",
+    "tags": [
+      "Dying Light The Beast",
+      "lanamento",
+      "Kyle Crane",
+      "Summer Game Fest",
+      "terror de sobrevivncia",
+      "Techland",
+      "trailer de jogabilidade",
+      "PlayStation 5",
+      "Xbox Series X",
+      "PC"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2522,
+    "slugCategoria": "games"
   },
   {
     "slug": "dynamic-duo-animao-dos-robin-ganha-teaser-trailer-na-cinemacon",
@@ -23653,6 +24567,35 @@
     "tempoLeitura": 2,
     "textoLength": 2263,
     "slugCategoria": "games"
+  },
+  {
+    "slug": "ebon-moss-bachrach-detestou-roupa-de-captao-de-cgi-no-respira-muito-bem",
+    "titulo": "Ebon Moss-Bachrach Enfrenta Desafios com Traje de CGI no Quarteto Fantástico",
+    "categoria": "FILMES",
+    "resumo": "Ebon Moss-Bachrach compartilha as dificuldades e liberdades de atuar como Ben Grimm, o Coisa, em Quarteto Fantástico: Primeiros Passos. O ator revela como a roupa de captação de CGI afeta sua performance.",
+    "thumb": "/uploads/ebon-moss-bachrach-detestou-roupa-de-captao-de-cgi-no-respira-muito-bem-thumb.jpg",
+    "data": "2025-06-06T15:19:06.464Z",
+    "tags": [
+      "Ebon Moss-Bachrach",
+      "Coisa",
+      "Quarteto Fantástico: Primeiros Passos",
+      "Marvel Studios",
+      "CGI",
+      "Ben Grimm",
+      "Pedro Pascal",
+      "Vanessa Kirby",
+      "Joseph Quinn",
+      "Ralph Ineson",
+      "Julia Garner",
+      "Nova York retrofuturista",
+      "Robert Downey Jr.",
+      "Doutor Destino",
+      "Fase 6 do MCU"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1659,
+    "slugCategoria": "filmes"
   },
   {
     "slug": "ecco-the-dolphin-clssico-do-mega-drive-vai-ganhar-remaster-e-continuao",
@@ -24880,6 +25823,27 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "end-of-abyss-novo-trailer-revela-atmosfera-assustadora-e-criaturas-horripilantes",
+    "titulo": "End of Abyss: Novo Trailer Revela Atmosfera Assustadora e Criaturas Horripilantes",
+    "categoria": "Games",
+    "resumo": "Os desenvolvedores de 'Little Nightmares' apresentam 'End of Abyss', um jogo de tiro e sobrevivência com lançamento previsto para 2026. O trailer recente destaca o ambiente sombrio e criaturas bizarras que prometem assustar os jogadores.",
+    "thumb": "/uploads/end-of-abyss-novo-trailer-revela-atmosfera-assustadora-e-criaturas-horripilantes-thumb.jpg",
+    "data": "2025-06-06T21:00:00.000Z",
+    "tags": [
+      "End of Abyss",
+      "Little Nightmares",
+      "Summer Game Fest 2025",
+      "survival horror",
+      "Epic Games Store",
+      "jogo de terror",
+      "lançamento 2026"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2419,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "enola-holmes-3-comea-filmagens-com-retorno-de-millie-bobby-brown-e-henry-cavill",
     "titulo": "Millie Bobby Brown e Henry Cavill Retornam em 'Enola Holmes 3': Filmagens Oficiais Iniciadas!",
     "categoria": "FILMES",
@@ -25527,6 +26491,31 @@
     "tempoLeitura": 2,
     "textoLength": 1975,
     "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "erro-em-skin-de-call-of-duty-fora-remoo-temporria-entenda-o-problema",
+    "titulo": "Erro em Skin de Call of Duty Força Remoção Temporária: Entenda o Problema",
+    "categoria": "Games",
+    "resumo": "Um bug no update da Temporada 4 de Call of Duty deixou uma skin de Frank Woods fora de controle, forçando a desenvolvedora Treyarch a removê-la temporariamente. Descubra os detalhes por trás desse problema e o que esperar para o futuro.",
+    "thumb": "/uploads/erro-em-skin-de-call-of-duty-fora-remoo-temporria-entenda-o-problema-thumb.jpg",
+    "data": "2025-06-06T14:46:00.000Z",
+    "tags": [
+      "Call of Duty",
+      "Temporada 4",
+      "Frank Woods",
+      "skin Números",
+      "Treyarch",
+      "Black Ops 6",
+      "Warzone",
+      "bug de skin",
+      "evento Ballerina",
+      "John Wick",
+      "atualização do jogo"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2291,
+    "slugCategoria": "games"
   },
   {
     "slug": "erro-na-temporada-4-de-call-of-duty-afeta-lobbies-multijogador-activision-promete-soluo",
@@ -26958,6 +27947,30 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "extermnio-a-evoluo-novo-teaser-trailer-tem-cenas-inditas",
+    "titulo": "Extermínio: A Evolução revela cenas inéditas em novo teaser impressionante",
+    "categoria": "FILMES",
+    "resumo": "O aguardado Extermínio: A Evolução, sequência da famosa saga de zumbis, lança teaser com imagens inéditas antes de sua estreia em 19 de junho.",
+    "thumb": "/uploads/extermnio-a-evoluo-novo-teaser-trailer-tem-cenas-inditas-thumb.png",
+    "data": "2025-06-06T15:00:28.886Z",
+    "tags": [
+      "Extermínio: A Evolução",
+      "Danny Boyle",
+      "Alex Garland",
+      "28 Days Later",
+      "Aaron Taylor-Johnson",
+      "Jodie Comer",
+      "Ralph Fiennes",
+      "Nia DaCosta",
+      "Cillian Murphy",
+      "28 Years Later"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1943,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "extermnio-a-evoluo-tem-10-minutos-revelados-na-ccxp-mx-confira",
     "titulo": "Extermínio: A Evolução - 10 Minutos Inéditos Revelados na CCXP MX",
     "categoria": "FILMES",
@@ -27683,6 +28696,31 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "fast-038-loose-novo-filme-de-michael-bay-com-will-smith-sera-produzido-ainda-este-ano",
+    "titulo": "Fast & Loose: Filme de Michael Bay com Will Smith Inicia Produção Este Ano",
+    "categoria": "Filmes",
+    "resumo": "Michael Bay e Will Smith se reunirão para filmar 'Fast & Loose', um thriller repleto de ação sobre um homem com amnésia vivendo duas vidas. A produção está marcada para começar em agosto e promete trazer uma nova dinâmica à parceria icônica.",
+    "thumb": "/uploads/fast-038-loose-novo-filme-de-michael-bay-com-will-smith-sera-produzido-ainda-este-ano-thumb.png",
+    "data": "2025-06-06T20:17:28.000Z",
+    "tags": [
+      "Fast  Loose",
+      "Michael Bay",
+      "Will Smith",
+      "filme de ao",
+      "produo Netflix",
+      "enredo intrigante",
+      "vida dupla",
+      "agente secreto",
+      "Tijuana",
+      "Bad Boys",
+      "parceria icnica"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2339,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "fatal-fury-aps-cristiano-ronaldo-jogo-ter-dj-salvatore-ganacci",
     "titulo": "Fatal Fury | Após Cristiano Ronaldo, jogo terá DJ Salvatore Ganacci",
     "categoria": "GAMES",
@@ -27946,6 +28984,27 @@
     "tempoLeitura": 1,
     "textoLength": 1179,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "felt-that-boxing-revoluciona-jogos-de-luta-com-personagens-estilo-muppet",
+    "titulo": "Felt That: Boxing Revoluciona Jogos de Luta com Personagens Estilo Muppet",
+    "categoria": "Games",
+    "resumo": "Felt That: Boxing transforma o mundo dos esportes de combate com personagens inspirados em Muppets. Revelado no Summer Game Fest 2025, o jogo promete uma experiência visual única e divertida.",
+    "thumb": "/uploads/felt-that-boxing-revoluciona-jogos-de-luta-com-personagens-estilo-muppet-thumb.png",
+    "data": "2025-06-06T21:01:00.000Z",
+    "tags": [
+      "Felt That: Boxing",
+      "Summer Game Fest 2025",
+      "jogos de boxe",
+      "marionetes",
+      "Muppets",
+      "lista de desejos no Steam",
+      "narrativa criativa"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2169,
+    "slugCategoria": "games"
   },
   {
     "slug": "fern-e-stark-a-nova-dupla-dinamica-na-jornada-de-frieren",
@@ -28934,6 +29993,30 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "fortnite-evento-ao-vivo-da-estrela-da-morte-promete-batalha-pica-e-mudanas-no-jogo",
+    "titulo": "Fortnite: Evento ao Vivo da Estrela da Morte Promete Batalha Épica e Mudanças no Jogo",
+    "categoria": "Games",
+    "resumo": "O aguardado evento ao vivo de Fortnite, que encerra a temporada temática de Star Wars, promete uma experiência única com batalhas espaciais e enredo envolvente. O evento marca o retorno de grandes eventos ao jogo e prepara o terreno para a nova temporada.",
+    "thumb": "/uploads/fortnite-evento-ao-vivo-da-estrela-da-morte-promete-batalha-pica-e-mudanas-no-jogo-thumb.jpg",
+    "data": "2025-06-06T21:16:00.000Z",
+    "tags": [
+      "Fortnite",
+      "evento ao vivo",
+      "Estrela da Morte",
+      "Star Wars",
+      "Epic Games",
+      "Capítulo 6 Temporada 3",
+      "Summer Game Fest",
+      "X-Wings",
+      "The Visitor",
+      "The Foundation"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1938,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "fortnite-festival-evento-com-sabrina-carpenter-comea-no-fim-de-maio",
     "titulo": "Fortnite Festival Apresenta 'Dance com Sabrina': Uma Imersão Musical com Sabrina Carpenter!",
     "categoria": "GAMES",
@@ -29553,6 +30636,57 @@
     "slugCategoria": "mangas-e-animes"
   },
   {
+    "slug": "gachiakuta-124-crunchyroll-anuncia-campanha-global-do-anime",
+    "titulo": "Crunchyroll Lança Campanha Global para Anime Gachiakuta com Pré-estreia no Brasil",
+    "categoria": "Mangás e Animes",
+    "resumo": "A Crunchyroll, em colaboração com a Kodansha, Avex e o estúdio Bones, revelou uma campanha global para promover o aguardado anime Gachiakuta. O Brasil contará com uma estreia antecipada durante o evento Anime Friends 2025.",
+    "thumb": "/uploads/gachiakuta-124-crunchyroll-anuncia-campanha-global-do-anime-preview.jpg",
+    "data": "2025-06-06T14:41:35.000Z",
+    "tags": [
+      "Gachiakuta",
+      "Crunchyroll",
+      "anime",
+      "campanha global",
+      "pr-estreia Brasil",
+      "Anime Friends 2025",
+      "Kodansha",
+      "Avex",
+      "estdio Bones",
+      "Gachiakuta Graffiti Maker",
+      "Kei Urana",
+      "Hideyoshi Andou"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2099,
+    "slugCategoria": "mangas-e-animes"
+  },
+  {
+    "slug": "gachiakuta-anime-ganha-trailer-e-data-e-ter-pr-estreia-no-anime-friends",
+    "titulo": "Gachiakuta: Anime Revela Trailer e Estreia em Julho com Pré-Exibição no Anime Friends",
+    "categoria": "MANGÁS E ANIMES",
+    "resumo": "O aguardado anime Gachiakuta chega em julho, mas fãs brasileiros poderão conferir a pré-estreia no Anime Friends. Descubra todos os detalhes do evento e da trama envolvente.",
+    "thumb": "/uploads/gachiakuta-anime-ganha-trailer-e-data-e-ter-pr-estreia-no-anime-friends-thumb.png",
+    "data": "2025-06-06T19:17:19.987Z",
+    "tags": [
+      "Gachiakuta",
+      "Crunchyroll",
+      "Anime Friends",
+      "Kodansha",
+      "Avex",
+      "Bones",
+      "Gita Rebbapragada",
+      "Anime",
+      "Mangá",
+      "Rudo",
+      "Cleaners"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 1,
+    "textoLength": 1287,
+    "slugCategoria": "mangas-e-animes"
+  },
+  {
     "slug": "gacho-and-the-grassland-game-brasileiro-ganha-data-de-lanamento-em-julho",
     "titulo": "Gaúcho and the Grassland: Simulador de Fazenda Brasileiro Chega em Julho",
     "categoria": "GAMES",
@@ -29680,6 +30814,29 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "game-of-thrones-jon-snow-vira-caminhante-branco-em-novo-jogo-confira",
+    "titulo": "Jon Snow se Transforma em Caminhante Branco no Novo Game of Thrones: War for Westeros",
+    "categoria": "GAMES",
+    "resumo": "Jon Snow enfrenta o Rei da Noite e se transforma em Caminhante Branco no jogo revelado durante o Summer Game Fest. O novo título de estratégia em tempo real promete batalhas épicas entre as casas de Westeros.",
+    "thumb": "/uploads/game-of-thrones-jon-snow-vira-caminhante-branco-em-novo-jogo-confira-thumb.png",
+    "data": "2025-06-06T22:21:24.010Z",
+    "tags": [
+      "Game of Thrones",
+      "War for Westeros",
+      "Jon Snow",
+      "Caminhante Branco",
+      "PlaySide Studios",
+      "Summer Game Fest 2025",
+      "Rei da Noite",
+      "Jaime Lannister",
+      "jogo de estratégia em tempo real"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 1,
+    "textoLength": 1186,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "game-of-thrones-lobo-terrvel-espcie-mostrada-na-srie-volta-da-extino",
     "titulo": "Game of Thrones | Lobo terrível, espécie mostrada na série, volta da extinção",
     "categoria": "SÉRIES E TV",
@@ -29722,6 +30879,52 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 1397,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "game-of-thrones-novo-jogo-de-estratgia-em-tempo-real-chega-para-pcs",
+    "titulo": "Game of Thrones: Novo Jogo de Estratégia em Tempo Real Chega para PCs",
+    "categoria": "Games",
+    "resumo": "Game of Thrones: War for Westeros, o mais recente jogo de estratégia em tempo real, foi revelado durante o Summer Game Fest. Desenvolvido pela PlaySide Studios em parceria com a Warner Bros., o jogo promete colocar os fãs no controle das icônicas Casas de Westeros.",
+    "thumb": "/uploads/game-of-thrones-novo-jogo-de-estratgia-em-tempo-real-chega-para-pcs-thumb.png",
+    "data": "2025-06-06T21:26:00.000Z",
+    "tags": [
+      "Game of Thrones",
+      "War for Westeros",
+      "jogo de estratégia em tempo real",
+      "PC",
+      "PlaySide Studios",
+      "Warner Bros",
+      "Casas de Westeros",
+      "lançamento 2026"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2247,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "game-of-thrones-war-for-westeros-e-anunciado-na-summer-game-fest",
+    "titulo": "Game of Thrones: War for Westeros Promete Revolucionar Jogos de Estratégia em 2026",
+    "categoria": "Games",
+    "resumo": "Durante o Summer Game Fest 2025, a série icônica retorna aos jogos com 'Game of Thrones: War for Westeros', um título de estratégia em tempo real aguardado para PC. O jogo promete trazer toda a intriga e batalhas épicas do universo criado por George R. R. Martin.",
+    "thumb": "/uploads/game-of-thrones-war-for-westeros-e-anunciado-na-summer-game-fest-preview.jpg",
+    "data": "2025-06-06T21:36:09.000Z",
+    "tags": [
+      "Game of Thrones",
+      "War for Westeros",
+      "jogo de estratgia",
+      "Summer Game Fest 2025",
+      "PlaySide Studios",
+      "George R R Martin",
+      "lanamento de jogos 2026",
+      "PC",
+      "intriga poltica",
+      "batalhas picas"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2186,
     "slugCategoria": "games"
   },
   {
@@ -31812,6 +33015,29 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "gta-6-suposto-vazamento-indica-mais-detalhes-sobre-o-jogo-da-rockstar",
+    "titulo": "GTA 6: Vazamento Revela Lojas e Sistema de Armas Inédito no Jogo da Rockstar",
+    "categoria": "GAMES",
+    "resumo": "Novas informações de um vazamento sugerem que GTA 6 terá mais de 700 lojas e um sistema de armas reformulado, prometendo inovar a experiência para os jogadores.",
+    "thumb": "https://cdn.ome.lt/FePFjzcwSL4UuzwldDwqN4bjTZQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-06-06_095531.png",
+    "data": "2025-06-06T13:32:28.763Z",
+    "tags": [
+      "GTA 6",
+      "Rockstar Games",
+      "Jason",
+      "Lucia",
+      "Red Dead Redemption 2",
+      "Vice City",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "lançamento 2026"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1678,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "gta-6-ter-estratgia-especial-de-lanamento-diz-ceo-da-take-two",
     "titulo": "Take-Two Anuncia Estratégia de Lançamento Inovadora para GTA 6",
     "categoria": "GAMES",
@@ -31895,6 +33121,30 @@
     "slugCategoria": "mangas-e-animes"
   },
   {
+    "slug": "guia-completo-como-utilizar-o-app-zelda-notes-para-tears-of-the-kingdom-e-breath-of-the-wild",
+    "titulo": "Guia Completo: Como Utilizar o App Zelda Notes para Tears of the Kingdom e Breath of the Wild",
+    "categoria": "Games",
+    "resumo": "Descubra como o aplicativo Zelda Notes pode aprimorar sua experiência em Tears of the Kingdom e Breath of the Wild com funcionalidades úteis e exclusivas. Explore desde a vinculação do app ao jogo até o uso de bônus diários e navegação aprimorada.",
+    "thumb": "/uploads/guia-completo-como-utilizar-o-app-zelda-notes-para-tears-of-the-kingdom-e-breath-of-the-wild-thumb.jpg",
+    "data": "2025-06-06T18:47:00.000Z",
+    "tags": [
+      "Zelda Notes",
+      "Nintendo Switch 2",
+      "Breath of the Wild",
+      "Tears of the Kingdom",
+      "aplicativo Zelda",
+      "funcionalidades Zelda Notes",
+      "bônus diários Zelda",
+      "navegação Zelda",
+      "amiibo Zelda",
+      "compartilhamento de itens Zelda"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 4,
+    "textoLength": 4042,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "guia-completo-da-classe-executor-em-elden-ring-nightreign-dicas-e-estratgias",
     "titulo": "Guia Completo da Classe Executor em Elden Ring Nightreign: Dicas e Estratégias",
     "categoria": "Games",
@@ -31916,6 +33166,27 @@
     "author": "Ana Luiza",
     "tempoLeitura": 3,
     "textoLength": 3423,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "guia-completo-de-multiplayer-em-dune-awakening-como-jogar-com-amigos",
+    "titulo": "Guia Completo de Multiplayer em Dune: Awakening: Como Jogar com Amigos",
+    "categoria": "Games",
+    "resumo": "Descubra como explorar o vasto mundo de Arrakis em grupo com amigos em Dune: Awakening, o novo MMORPG. Aprenda a adicionar amigos, formar grupos e otimizar sua experiência de jogo multiplayer.",
+    "thumb": "/uploads/guia-completo-de-multiplayer-em-dune-awakening-como-jogar-com-amigos-thumb.jpg",
+    "data": "2025-06-06T17:40:00.000Z",
+    "tags": [
+      "Dune: Awakening",
+      "jogo multiplayer",
+      "adicionar amigos",
+      "guia multiplayer",
+      "MMORPG",
+      "Arrakis",
+      "jogar com amigos"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 3744,
     "slugCategoria": "games"
   },
   {
@@ -32042,7 +33313,8 @@
       "renovação automática",
       "jogos online",
       "GameCube",
-      "configuração de conta"
+      "configuração de conta",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 3,
@@ -32064,11 +33336,36 @@
       "compras online",
       "restrições de idade",
       "chat de vídeo",
-      "monitoramento de atividades"
+      "monitoramento de atividades",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 3,
     "textoLength": 3385,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "guia-completo-para-construir-bases-em-dune-awakening-melhores-locais-e-dicas-de-destruio",
+    "titulo": "Guia Completo para Construir Bases em Dune: Awakening – Melhores Locais e Dicas de Destruição",
+    "categoria": "Games",
+    "resumo": "Embarque na jornada de construção de bases em Dune: Awakening e descubra os melhores locais para estabelecer seu refúgio em Arrakis. Explore estratégias de coleta de recursos e proteção contra perigos do deserto.",
+    "thumb": "/uploads/guia-completo-para-construir-bases-em-dune-awakening-melhores-locais-e-dicas-de-destruio-thumb.jpg",
+    "data": "2025-06-06T17:40:00.000Z",
+    "tags": [
+      "Dune: Awakening",
+      "construção de bases",
+      "Arrakis",
+      "guia de jogo",
+      "pedras de granito",
+      "metal recuperado",
+      "console de sub-fief",
+      "deserto",
+      "vermes de areia",
+      "tempestades de areia"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 2993,
     "slugCategoria": "games"
   },
   {
@@ -32094,6 +33391,26 @@
     "author": "Pablo Moura",
     "tempoLeitura": 3,
     "textoLength": 3211,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "guia-completo-para-encontrar-metal-reciclado-e-clulas-de-combustvel-em-dune-awakening",
+    "titulo": "Guia Completo para Encontrar Metal Reciclado e Células de Combustível em Dune: Awakening",
+    "categoria": "Games",
+    "resumo": "Descubra as melhores estratégias para obter os valiosos recursos de Metal Reciclado e Células de Combustível em Dune: Awakening. Dicas essenciais para otimizar seu progresso no jogo e fortalecer seu personagem.",
+    "thumb": "/uploads/guia-completo-para-encontrar-metal-reciclado-e-clulas-de-combustvel-em-dune-awakening-thumb.jpg",
+    "data": "2025-06-06T15:05:00.000Z",
+    "tags": [
+      "Dune: Awakening",
+      "Metal Reciclado",
+      "Células de Combustível",
+      "guia de recursos",
+      "acampamentos de saqueadores",
+      "dicas de jogo"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 3539,
     "slugCategoria": "games"
   },
   {
@@ -32133,7 +33450,8 @@
       "apagar dados",
       "restaurar console",
       "backup de dados",
-      "problemas técnicos"
+      "problemas técnicos",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 3,
@@ -32153,11 +33471,12 @@
       "microSD Express",
       "transferência de jogos",
       "armazenamento",
-      "Cartões de Jogo Virtuais"
+      "Cartões de Jogo Virtuais",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 3,
-    "textoLength": 2971,
+    "textoLength": 3199,
     "slugCategoria": "games"
   },
   {
@@ -32173,11 +33492,12 @@
       "transferência de dados Switch",
       "configuração Switch 2",
       "conta Nintendo",
-      "jogos Nintendo"
+      "jogos Nintendo",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 3,
-    "textoLength": 3445,
+    "textoLength": 3573,
     "slugCategoria": "games"
   },
   {
@@ -32348,7 +33668,8 @@
       "remover usuário Switch 2",
       "conta Nintendo",
       "configuração Switch 2",
-      "gerenciar perfis Switch 2"
+      "gerenciar perfis Switch 2",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 3,
@@ -34026,6 +35347,28 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "hitman-world-of-assassination-tera-mads-mikkelsen-como-le-chiffre",
+    "titulo": "Mads Mikkelsen Revive Le Chiffre em Hitman: World of Assassination",
+    "categoria": "Games",
+    "resumo": "Durante o Summer Game Fest 2025, a IO Interactive revelou que Mads Mikkelsen reprisa seu papel icônico como Le Chiffre em um evento especial de Hitman: World of Assassination. Os jogadores terão uma missão única que conecta o universo de Hitman ao novo título 007: First Light.",
+    "thumb": "/uploads/hitman-world-of-assassination-tera-mads-mikkelsen-como-le-chiffre-thumb.jpg",
+    "data": "2025-06-06T22:35:56.000Z",
+    "tags": [
+      "Mads Mikkelsen",
+      "Le Chiffre",
+      "Hitman World of Assassination",
+      "Summer Game Fest 2025",
+      "007 First Light",
+      "IO Interactive",
+      "Agente 47",
+      "Cassino Royale"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2365,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "hogwarts-legacy-warner-cancelou-expanso-do-jogo-e-edio-definitiva",
     "titulo": "Warner Bros. Cancela Expansão e Edição Definitiva de Hogwarts Legacy Apesar das Altas Vendas",
     "categoria": "GAMES",
@@ -34190,6 +35533,34 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "homem-aranha-4-sadie-sink-deve-ser-gwen-stacy-no-filme-diz-reprter",
+    "titulo": "Sadie Sink Poderá Ser Gwen Stacy em 'Homem-Aranha 4', Revela Insider",
+    "categoria": "FILMES",
+    "resumo": "A atriz Sadie Sink está cotada para interpretar Gwen Stacy no próximo filme do Homem-Aranha, previsto para 2026. Embora sem confirmação oficial, a informação vem do conhecido insider Jeff Schneider.",
+    "thumb": "/uploads/homem-aranha-4-sadie-sink-deve-ser-gwen-stacy-no-filme-diz-reprter-thumb.png",
+    "data": "2025-06-06T15:18:26.039Z",
+    "tags": [
+      "Sadie Sink",
+      "Gwen Stacy",
+      "Homem-Aranha 4",
+      "Tom Holland",
+      "Zendaya",
+      "Jeff Schneider",
+      "Destin Daniel Cretton",
+      "Erik Sommers",
+      "Chris McKenna",
+      "Marvel",
+      "Vingadores",
+      "MCU",
+      "Jean Grey",
+      "Mary Jane Watson"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1668,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "homem-aranha-4-sadie-sink-faz-mistrio-sobre-seu-personagem",
     "titulo": "Sadie Sink e o Enigma de 'Homem-Aranha 4': Rumores e Teorias Sobre Seu Papel",
     "categoria": "FILMES",
@@ -34214,6 +35585,30 @@
     "author": "Luana Souza",
     "tempoLeitura": 2,
     "textoLength": 1344,
+    "slugCategoria": "filmes"
+  },
+  {
+    "slug": "homem-aranha-4-sadie-sink-pode-interpretar-gwen-stacy-no-mcu-diz-jornalista",
+    "titulo": "Homem-Aranha: Sadie Sink pode viver Gwen Stacy em novo filme do MCU, segundo rumores",
+    "categoria": "Filmes",
+    "resumo": "Rumores apontam que Sadie Sink pode interpretar Gwen Stacy em 'Homem-Aranha: Um Novo Dia'. A personagem pode surgir de um universo alternativo, similar ao que ocorre nas animações do Aranhaverso.",
+    "thumb": "/uploads/homem-aranha-4-sadie-sink-pode-interpretar-gwen-stacy-no-mcu-diz-jornalista-thumb.png",
+    "data": "2025-06-06T16:06:15.000Z",
+    "tags": [
+      "Homem-Aranha",
+      "Sadie Sink",
+      "Gwen Stacy",
+      "MCU",
+      "Marvel",
+      "multiverso",
+      "Aranhaverso",
+      "cinema",
+      "rumores",
+      "Jeff Sneider"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 3,
+    "textoLength": 2530,
     "slugCategoria": "filmes"
   },
   {
@@ -34873,6 +36268,29 @@
     "tempoLeitura": 2,
     "textoLength": 1928,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "infinitesimals-o-novo-game-de-ao-sci-fi-que-promete-revolucionar-o-gnero",
+    "titulo": "Infinitesimals: O Novo Game de Ação Sci-Fi que Promete Revolucionar o Gênero",
+    "categoria": "Games",
+    "resumo": "Cubit Studios lança trailer de Infinitesimals, um jogo de ação sci-fi onde jogadores enfrentam desafios em um mundo gigantesco. Inspirado por 'Querida, Encolhi as Crianças', o game chega com uma proposta inovadora para 2026.",
+    "thumb": "/uploads/infinitesimals-o-novo-game-de-ao-sci-fi-que-promete-revolucionar-o-gnero-thumb.jpg",
+    "data": "2025-06-06T22:44:00.000Z",
+    "tags": [
+      "Infinitesimals",
+      "Cubit Studios",
+      "Summer Game Fest 2025",
+      "jogo de ação sci-fi",
+      "Epic Games",
+      "lançamento 2026",
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PC"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2543,
+    "slugCategoria": "games"
   },
   {
     "slug": "influncias-de-kingdom-come-e-baldurs-gate-na-evoluo-de-the-witcher-4",
@@ -36707,6 +38125,28 @@
     "slugCategoria": "musica"
   },
   {
+    "slug": "jovens-titas-dc-studios-deve-comecar-a-escalacao-do-elenco-ainda-este-ano-diz-jornalista",
+    "titulo": "DC Studios Inicia Escalação de Elenco para Jovens Titãs Ainda em 2023",
+    "categoria": "Séries e TV",
+    "resumo": "A DC Studios pode dar início à escalação do elenco para o filme dos Jovens Titãs até o final deste ano, segundo informações de Jeff Sneider. O roteiro, assinado por Ana Nogueira, está recebendo elogios e avançando rapidamente.",
+    "thumb": "/uploads/jovens-titas-dc-studios-deve-comecar-a-escalacao-do-elenco-ainda-este-ano-diz-jornalista-thumb.png",
+    "data": "2025-06-06T16:23:15.000Z",
+    "tags": [
+      "Jovens Tits",
+      "DC Studios",
+      "elenco",
+      "filme",
+      "Ana Nogueira",
+      "James Gunn",
+      "Superman 2025",
+      "universo cinematogrfico DC"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2310,
+    "slugCategoria": "series-e-tv"
+  },
+  {
     "slug": "joy-con-2-para-nintendo-switch-2-disponibilidade-e-detalhes-de-compra",
     "titulo": "Joy-Con 2 para Nintendo Switch 2: Disponibilidade e Detalhes de Compra",
     "categoria": "Games",
@@ -36720,7 +38160,8 @@
       "Joy-Con 2 Charging Grip",
       "Joy-Con 2 Racing Wheels",
       "acessórios Nintendo Switch 2",
-      "lançamento Joy-Con 2"
+      "lançamento Joy-Con 2",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 2,
@@ -37505,6 +38946,30 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "justica-autoriza-lancamento-internacional-de-superman-apos-nova-tentativa-de-bloqueio",
+    "titulo": "Justiça Americana Libera Estreia Internacional de 'Superman' em Meio a Disputa de Direitos Autorais",
+    "categoria": "Séries e TV",
+    "resumo": "A aguardada estreia internacional do novo filme 'Superman', dirigido por James Gunn, foi autorizada após um juiz de Nova York rejeitar um pedido da família de Joe Shuster para bloquear o lançamento. Entenda os detalhes desta batalha judicial.",
+    "thumb": "/uploads/justica-autoriza-lancamento-internacional-de-superman-apos-nova-tentativa-de-bloqueio-thumb.webp",
+    "data": "2025-06-06T22:12:14.000Z",
+    "tags": [
+      "Superman",
+      "James Gunn",
+      "David Corenswet",
+      "Rachel Brosnahan",
+      "DC Studios",
+      "direitos autorais",
+      "Joe Shuster",
+      "estreia internacional",
+      "Universo DC",
+      "filme Superman 2025"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 3,
+    "textoLength": 2513,
+    "slugCategoria": "series-e-tv"
+  },
+  {
     "slug": "justiceiro-marvel-anuncia-nova-srie-para-adultos-do-anti-heri",
     "titulo": "O Justiceiro Retorna em Nova Série Adulta da Marvel com Selo Red Band",
     "categoria": "HQ/LIVROS",
@@ -37609,6 +39074,32 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 1758,
+    "slugCategoria": "mangas-e-animes"
+  },
+  {
+    "slug": "kaiju-no-8-124-crunchyroll-alerta-fas-sobre-anuncio-especial-da-2-temporada-saiba-quando-acontecera",
+    "titulo": "Anime Kaiju No. 8: Crunchyroll Revela Anúncio Especial da 2ª Temporada na Anime Expo 2025",
+    "categoria": "Mangás e Animes",
+    "resumo": "A Crunchyroll prepara uma surpresa para os fãs de Kaiju No. 8 com um anúncio especial durante a Anime Expo 2025. A estreia da nova temporada está marcada para 19 de julho.",
+    "thumb": "/uploads/kaiju-no-8-124-crunchyroll-alerta-fas-sobre-anuncio-especial-da-2-temporada-saiba-quando-acontecera-thumb.webp",
+    "data": "2025-06-06T11:38:33.000Z",
+    "tags": [
+      "Kaiju No 8",
+      "Crunchyroll",
+      "Anime Expo 2025",
+      "nova temporada",
+      "estreia",
+      "anncio especial",
+      "Kafka Hibino",
+      "Naoya Matsumoto",
+      "Shonen Jump",
+      "mang",
+      "animes",
+      "monstros gigantes"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 3,
+    "textoLength": 2586,
     "slugCategoria": "mangas-e-animes"
   },
   {
@@ -38385,6 +39876,30 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "kevin-feige-sugere-reviravolta-sobre-quarteto-fantastico-em-cena-pos-creditos-de-thunderbolts",
+    "titulo": "Kevin Feige Revela Reviravolta do Quarteto Fantástico em Cena Pós-Créditos de Thunderbolts",
+    "categoria": "Filmes",
+    "resumo": "Cena pós-créditos de Thunderbolts pode indicar uma nova abordagem para o Quarteto Fantástico no MCU. Kevin Feige sugere que a equipe apresentada pode não ser a mesma conhecida dos fãs.",
+    "thumb": "/uploads/kevin-feige-sugere-reviravolta-sobre-quarteto-fantastico-em-cena-pos-creditos-de-thunderbolts-thumb.webp",
+    "data": "2025-06-06T11:05:28.000Z",
+    "tags": [
+      "Kevin Feige",
+      "Quarteto Fantstico",
+      "Thunderbolts",
+      "cena ps-crditos",
+      "Marvel Studios",
+      "Universo Cinematogrfico Marvel",
+      "Terra-616",
+      "Avengers Doomsday",
+      "Galactus",
+      "Doutor Destino"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 2547,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "kevin-smith-exalta-visao-de-james-gunn-para-superman-8220-parece-com-um-gibi-8221",
     "titulo": "Kevin Smith Elogia Abordagem de James Gunn para Novo Filme do Superman",
     "categoria": "Filmes",
@@ -38448,6 +39963,49 @@
     "tempoLeitura": 2,
     "textoLength": 1481,
     "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "killer-inn-e-anunciado-pela-square-enix-na-summer-game-fest",
+    "titulo": "Square Enix Revela Killer Inn: Novo Jogo Multiplayer de Dedução Social",
+    "categoria": "Séries e TV",
+    "resumo": "A Square Enix surpreende os fãs na Summer Game Fest 2025 com o anúncio de Killer Inn, um jogo multiplayer que promete revolucionar a dinâmica de dedução social para até 24 jogadores.",
+    "thumb": "/uploads/killer-inn-e-anunciado-pela-square-enix-na-summer-game-fest-preview.jpg",
+    "data": "2025-06-06T21:44:56.000Z",
+    "tags": [
+      "Killer Inn",
+      "Square Enix",
+      "Summer Game Fest 2025",
+      "jogo multiplayer",
+      "deduo social",
+      "Among Us",
+      "Town of Salem",
+      "novos jogos 2025"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2168,
+    "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "killer-inn-mistrio-e-ao-em-um-jogo-multiplayer-inovador-da-square-enix",
+    "titulo": "Killer Inn: Mistério e Ação em um Jogo Multiplayer Inovador da Square Enix",
+    "categoria": "Games",
+    "resumo": "Killer Inn, revelado no Summer Game Fest Live, promete uma experiência única ao combinar mistério de assassinato com ação multiplayer assimétrica. Desenvolvido pela Tactic Studio, o jogo desafia jogadores a resolverem crimes enquanto lutam pela sobrevivência em uma mansão isolada.",
+    "thumb": "/uploads/killer-inn-mistrio-e-ao-em-um-jogo-multiplayer-inovador-da-square-enix-thumb.jpg",
+    "data": "2025-06-06T21:39:00.000Z",
+    "tags": [
+      "Killer Inn",
+      "Square Enix",
+      "Tactic Studio",
+      "jogo de mistério",
+      "multiplayer assimétrico",
+      "Summer Game Fest Live",
+      "lançamento 2025"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 3160,
+    "slugCategoria": "games"
   },
   {
     "slug": "kingdom-124-6-temporada-do-anime-ganha-trailer-oficial",
@@ -38811,6 +40369,27 @@
     "tempoLeitura": 1,
     "textoLength": 968,
     "slugCategoria": "musica"
+  },
+  {
+    "slug": "lanamento-de-arc-raiders-tudo-o-que-voc-precisa-saber-sobre-o-novo-shooter-de-extrao",
+    "titulo": "Lançamento de Arc Raiders: Tudo o que Você Precisa Saber Sobre o Novo Shooter de Extração",
+    "categoria": "Games",
+    "resumo": "O aguardado jogo Arc Raiders, da Embark Studios, chega em 30 de outubro para PC, PS5 e Xbox Series X|S. Saiba como o título evoluiu desde seu anúncio inicial e o que esperar deste inovador shooter pós-apocalíptico.",
+    "thumb": "/uploads/lanamento-de-arc-raiders-tudo-o-que-voc-precisa-saber-sobre-o-novo-shooter-de-extrao-thumb.jpg",
+    "data": "2025-06-06T21:41:00.000Z",
+    "tags": [
+      "Arc Raiders",
+      "Embark Studios",
+      "lançamento",
+      "shooter de extração",
+      "PvPvE",
+      "pós-apocalíptico",
+      "jogo premium"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2572,
+    "slugCategoria": "games"
   },
   {
     "slug": "lanamento-de-i-am-your-beast-no-ps5-e-xbox-o-tiro-de-espionagem-imperdvel-de-2024",
@@ -39388,6 +40967,28 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "lego-party-o-novo-jogo-de-festa-que-promete-revolucionar-o-mundo-dos-jogos-de-tabuleiro",
+    "titulo": "Lego Party: O Novo Jogo de Festa Que Promete Revolucionar o Mundo dos Jogos de Tabuleiro",
+    "categoria": "Games",
+    "resumo": "Lego Party surge como uma proposta inovadora no universo dos jogos de festa, trazendo o icônico mundo das peças Lego para uma experiência interativa e competitiva. Descubra as novidades apresentadas no Summer Game Fest 2025 e como o título promete encantar jogadores de todas as idades.",
+    "thumb": "/uploads/lego-party-o-novo-jogo-de-festa-que-promete-revolucionar-o-mundo-dos-jogos-de-tabuleiro-thumb.jpg",
+    "data": "2025-06-06T22:27:00.000Z",
+    "tags": [
+      "Lego Party",
+      "Summer Game Fest 2025",
+      "jogos de festa",
+      "personalização de minifiguras",
+      "multiplataforma",
+      "Fictions",
+      "Private Division",
+      "iam8bit"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2355,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "leo-xiv-assistiu-conclave-logo-antes-de-ser-escolhido-como-papa",
     "titulo": "Leão XIV e a Influência de 'Conclave': Um Olhar Sobre a Eleição Papal",
     "categoria": "FILMES",
@@ -39546,6 +41147,30 @@
     "tempoLeitura": 1,
     "textoLength": 1379,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "lies-of-p-overture-lanado-de-surpresa-confira-trailer",
+    "titulo": "Lies of P: Overture é Lançado de Forma Surpresa no Summer Game Fest",
+    "categoria": "GAMES",
+    "resumo": "A expansão 'Lies of P: Overture' foi disponibilizada inesperadamente durante o Summer Game Fest, trazendo novos desafios e monstros para os jogadores.",
+    "thumb": "/uploads/lies-of-p-overture-lanado-de-surpresa-confira-trailer-thumb.png",
+    "data": "2025-06-06T22:19:35.321Z",
+    "tags": [
+      "Lies of P",
+      "Overture",
+      "Summer Game Fest 2025",
+      "expansão surpresa",
+      "shadowdrop",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC",
+      "Xbox Game Pass"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 1,
+    "textoLength": 1054,
+    "slugCategoria": "games"
   },
   {
     "slug": "liga-da-justia-de-joss-whedon-na-temperatura-mxima-da-globo-saiba-horrio",
@@ -41245,6 +42870,55 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "mafia-the-old-country-recebe-trailer-de-historia-no-summer-game-fest",
+    "titulo": "Mafia: The Old Country Surpreende com Trailer de História no Summer Game Fest 2025",
+    "categoria": "Games",
+    "resumo": "O aguardado 'Mafia: The Old Country' da 2K Games revela seu trailer de história no Summer Game Fest 2025, prometendo uma narrativa rica em lealdade e poder na Sicília do século XX.",
+    "thumb": "/uploads/mafia-the-old-country-recebe-trailer-de-historia-no-summer-game-fest-preview.jpg",
+    "data": "2025-06-06T21:59:04.000Z",
+    "tags": [
+      "Mafia The Old Country",
+      "Summer Game Fest 2025",
+      "trailer de histria",
+      "2K Games",
+      "lanamento",
+      "Siclia",
+      "PlayStation 5",
+      "Xbox Series",
+      "PC",
+      "narrativa",
+      "lealdade",
+      "poder",
+      "ambientao histrica"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2393,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "mafia-the-old-country-trailer-explora-lealdade-e-tenso-na-siclia-do-sculo-20",
+    "titulo": "Mafia: The Old Country: Trailer Explora Lealdade e Tensão na Sicília do Século 20",
+    "categoria": "Games",
+    "resumo": "Novo trailer de 'Mafia: The Old Country' revela a luta de Enzo Favara pela sobrevivência em uma Sicília dominada pelo crime organizado. A lealdade à 'família' é o tema central dessa narrativa envolvente.",
+    "thumb": "/uploads/mafia-the-old-country-trailer-explora-lealdade-e-tenso-na-siclia-do-sculo-20-thumb.jpg",
+    "data": "2025-06-06T21:58:00.000Z",
+    "tags": [
+      "Mafia: The Old Country",
+      "trailer",
+      "Enzo Favara",
+      "lealdade",
+      "crime organizado",
+      "Sicília",
+      "Hangar 13",
+      "Summer Game Fest 2025"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1980,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "magia-em-frieren-a-conexao-profunda-entre-magia-memorias-e-sentimentos",
     "titulo": "Magia em Frieren: A Conexão Profunda entre Magia, Memórias e Sentimentos",
     "categoria": "MANGÁS E ANIMES",
@@ -41374,7 +43048,8 @@
       "ICMS",
       "PISCOFINS",
       "impostos de importao",
-      "lanamento Nintendo Switch 2"
+      "lanamento Nintendo Switch 2",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 2,
@@ -41686,6 +43361,54 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "mario-kart-world-a-ausncia-sentida-da-caixa-de-item-falsa",
+    "titulo": "Mario Kart World: A Ausência Sentida da Caixa de Item Falsa",
+    "categoria": "Games",
+    "resumo": "Em Mario Kart World, a falta da icônica Caixa de Item Falsa desaponta fãs que apreciam desafios estratégicos. Enquanto novos itens surgem, a nostalgia e a jogabilidade tática ficam de fora.",
+    "thumb": "/uploads/mario-kart-world-a-ausncia-sentida-da-caixa-de-item-falsa-thumb.jpg",
+    "data": "2025-06-06T20:30:00.000Z",
+    "tags": [
+      "Mario Kart World",
+      "Caixa de Item Falsa",
+      "Nintendo",
+      "Mario Kart 64",
+      "inovação",
+      "estratégia",
+      "jogo de corrida",
+      "itens clássicos",
+      "Alimento de Dash"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 2840,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "mario-kart-world-a-vaca-que-conquistou-os-jogadores-no-switch-2",
+    "titulo": "Mario Kart World: A Vaca que Conquistou os Jogadores no Switch 2",
+    "categoria": "Games",
+    "resumo": "A introdução da Vaca como personagem jogável em Mario Kart World para o Switch 2 está conquistando fãs ao redor do mundo. Descubra por que esse novo elemento está gerando tanto entusiasmo e memes nas redes sociais.",
+    "thumb": "/uploads/mario-kart-world-a-vaca-que-conquistou-os-jogadores-no-switch-2-thumb.jpg",
+    "data": "2025-06-06T16:58:00.000Z",
+    "tags": [
+      "Mario Kart World",
+      "Vaca",
+      "Switch 2",
+      "Nintendo",
+      "personagem jogável",
+      "Moo Moos",
+      "redes sociais",
+      "memes",
+      "popularidade",
+      "inovação",
+      "franquia Mario Kart"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2216,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "mario-kart-world-anunciado-oficialmente-para-nintendo-switch-2",
     "titulo": "Mario Kart World é anunciado oficialmente para Nintendo Switch 2",
     "categoria": "GAMES",
@@ -41722,6 +43445,28 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 2113,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "mario-kart-world-do-switch-2-recria-iconico-meme-viral-do-luigi",
+    "titulo": "Nintendo Switch 2: Mario Kart World Revive Meme Icônico do Luigi com Novo Toque",
+    "categoria": "Games",
+    "resumo": "O recém-lançado Mario Kart World para o Nintendo Switch 2 recria o famoso meme 'Olhar da Morte' de Luigi, agora com um elenco expandido de personagens exibindo o olhar intimidador.",
+    "thumb": "/uploads/mario-kart-world-do-switch-2-recria-iconico-meme-viral-do-luigi-thumb.webp",
+    "data": "2025-06-06T10:40:58.000Z",
+    "tags": [
+      "Mario Kart World",
+      "Nintendo Switch 2",
+      "Olhar da Morte",
+      "Luigi",
+      "meme viral",
+      "Yoshi",
+      "franquia Mario Kart",
+      "cultura pop"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2264,
     "slugCategoria": "games"
   },
   {
@@ -41793,6 +43538,29 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "mario-kart-world-nintendo-substitui-dubladora-da-princesa-peach",
+    "titulo": "Nintendo Revela Nova Voz para Princesa Peach em Mario Kart World",
+    "categoria": "GAMES",
+    "resumo": "A Nintendo anunciou a troca da dubladora da Princesa Peach no aguardado Mario Kart World para o Switch 2. Samantha Kelly, antiga voz de Peach e Toad, compartilhou a notícia emocionada.",
+    "thumb": "/uploads/mario-kart-world-nintendo-substitui-dubladora-da-princesa-peach-thumb.png",
+    "data": "2025-06-06T18:30:40.241Z",
+    "tags": [
+      "Nintendo",
+      "Mario Kart World",
+      "Princesa Peach",
+      "Switch 2",
+      "Samantha Kelly",
+      "Toad",
+      "Nintendo Switch 2",
+      "lançamento",
+      "dubladora"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1620,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "mario-kart-world-no-jogo-de-mundo-aberto-para-os-desenvolvedores",
     "titulo": "Mario Kart World: Desenvolvedores Rejeitam Conceito de Mundo Aberto",
     "categoria": "GAMES",
@@ -41812,6 +43580,27 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1599,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "mario-kart-world-no-switch-2-como-desativar-o-controle-inteligente-e-mais-novidades",
+    "titulo": "Mario Kart World no Switch 2: Como Desativar o Controle Inteligente e Mais Novidades",
+    "categoria": "Games",
+    "resumo": "Mario Kart World, um dos jogos mais aguardados para o Switch 2, vem com o controle inteligente ativado por padrão, mas é simples desativá-lo. Descubra como ajustar essa e outras configurações e saiba mais sobre os destaques e curiosidades do lançamento.",
+    "thumb": "/uploads/mario-kart-world-no-switch-2-como-desativar-o-controle-inteligente-e-mais-novidades-thumb.jpeg",
+    "data": "2025-06-06T14:14:00.000Z",
+    "tags": [
+      "Mario Kart World",
+      "Switch 2",
+      "controle inteligente",
+      "auto-aceleração",
+      "Rainbow Road",
+      "lançamento de jogos",
+      "Nintendo"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2386,
     "slugCategoria": "games"
   },
   {
@@ -41875,6 +43664,61 @@
     "tempoLeitura": 3,
     "textoLength": 2892,
     "slugCategoria": "games"
+  },
+  {
+    "slug": "mario-kart-world-vaca-a-personagem-mais-popular-do-jogo-entenda",
+    "titulo": "Vaca Rouba a Cena em Mario Kart World, Lançado com o Novo Switch 2",
+    "categoria": "GAMES",
+    "resumo": "Mario Kart World chega junto ao Nintendo Switch 2 e surpreende com a Vaca como personagem favorita entre os jogadores. Descubra por que essa escolha inusitada está dominando as pistas.",
+    "thumb": "/uploads/mario-kart-world-vaca-a-personagem-mais-popular-do-jogo-entenda-thumb.png",
+    "data": "2025-06-06T18:27:48.043Z",
+    "tags": [
+      "Vaca",
+      "Mario Kart World",
+      "Nintendo Switch 2",
+      "Mario",
+      "Luigi",
+      "Bowser",
+      "Nintendo",
+      "lançamento",
+      "console",
+      "GameChat",
+      "4K",
+      "HDR",
+      "Joy-Con",
+      "jogos",
+      "The Duskbloods",
+      "Hades 2",
+      "The Legend of Zelda"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1786,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "mark-hamill-nao-assiste-star-wars-uma-nova-esperanca-desde-1977",
+    "titulo": "Mark Hamill Confessa: Não Reviu 'Star Wars: Uma Nova Esperança' Desde 1977",
+    "categoria": "Filmes",
+    "resumo": "Mark Hamill, o lendário Luke Skywalker, revelou recentemente que não assiste 'Star Wars: Uma Nova Esperança' desde sua estreia em 1977. O ator compartilhou essa curiosidade em uma entrevista, surpreendendo fãs ao redor do mundo.",
+    "thumb": "/uploads/mark-hamill-nao-assiste-star-wars-uma-nova-esperanca-desde-1977-thumb.jpg",
+    "data": "2025-06-06T20:51:27.000Z",
+    "tags": [
+      "Mark Hamill",
+      "Star Wars",
+      "Uma Nova Esperana",
+      "Luke Skywalker",
+      "George Lucas",
+      "The Mandalorian",
+      "O Livro de Boba Fett",
+      "Darth Vader",
+      "Obi-Wan Kenobi",
+      "Han Solo"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2342,
+    "slugCategoria": "filmes"
   },
   {
     "slug": "mark-hamill-responde-se-voltara-no-episodio-x-de-star-wars",
@@ -41982,6 +43826,31 @@
     "tempoLeitura": 2,
     "textoLength": 1521,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "marvel-cosmic-invasion-she-hulk-e-rocket-raccoon-chegam-com-tudo-no-summer-game-fest-2025",
+    "titulo": "Marvel Cosmic Invasion: She-Hulk e Rocket Raccoon Chegam com Tudo no Summer Game Fest 2025",
+    "categoria": "Games",
+    "resumo": "O aguardado jogo Marvel Cosmic Invasion revela She-Hulk e Rocket Raccoon como personagens jogáveis, prometendo ação frenética no Summer Game Fest 2025. Descubra como esses heróis se encaixam no elenco estelar e o que esperar dessa aventura cósmica.",
+    "thumb": "/uploads/marvel-cosmic-invasion-she-hulk-e-rocket-raccoon-chegam-com-tudo-no-summer-game-fest-2025-thumb.jpg",
+    "data": "2025-06-06T21:47:00.000Z",
+    "tags": [
+      "Marvel Cosmic Invasion",
+      "She-Hulk",
+      "Rocket Raccoon",
+      "Summer Game Fest 2025",
+      "Dotemu",
+      "beat-'em-up",
+      "Aniquilador",
+      "Homem-Aranha",
+      "Capitão América",
+      "Wolverine",
+      "Tempestade"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2730,
+    "slugCategoria": "games"
   },
   {
     "slug": "marvel-faz-revelacao-polemica-ao-confirmar-novo-pantera-negra-dos-quadrinhos",
@@ -42281,6 +44150,51 @@
     "tempoLeitura": 3,
     "textoLength": 2414,
     "slugCategoria": "games"
+  },
+  {
+    "slug": "mass-effect-roteirista-de-mindhunter-e-star-trek-sera-showrunner-da-serie-do-prime-video",
+    "titulo": "Adaptação de Mass Effect para Prime Video Avança com Showrunner de Peso",
+    "categoria": "Games",
+    "resumo": "A série de Mass Effect ganha novo fôlego com Doug Jung, roteirista de Mindhunter e Star Trek, assumindo a função de showrunner. A produção da Amazon MGM Studios está em andamento, prometendo trazer a rica narrativa dos jogos para o universo televisivo.",
+    "thumb": "/uploads/mass-effect-roteirista-de-mindhunter-e-star-trek-sera-showrunner-da-serie-do-prime-video-thumb.jpg",
+    "data": "2025-06-06T17:20:11.000Z",
+    "tags": [
+      "Mass Effect",
+      "Doug Jung",
+      "Prime Video",
+      "srie de TV",
+      "adaptao de videogame",
+      "Mindhunter",
+      "Star Trek",
+      "Amazon MGM Studios",
+      "Dan Casey",
+      "Avi Arad"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 3,
+    "textoLength": 2650,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "mass-effect-srie-do-prime-video-ter-roteirista-de-star-trek-como-showrunner",
+    "titulo": "Mass Effect: Série do Prime Video Ganha Showrunner de Star Trek",
+    "categoria": "SÉRIES E TV",
+    "resumo": "A aguardada adaptação de Mass Effect para o Prime Video contará com o talento de um roteirista experiente de Star Trek como showrunner. Ainda sem data para início das filmagens, a produção promete trazer o universo do game à vida.",
+    "thumb": "/uploads/mass-effect-srie-do-prime-video-ter-roteirista-de-star-trek-como-showrunner-thumb.png",
+    "data": "2025-06-06T18:32:04.648Z",
+    "tags": [
+      "Mass Effect",
+      "Prime Video",
+      "Star Trek",
+      "série",
+      "showrunner",
+      "adaptação",
+      "games"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1551,
+    "slugCategoria": "series-e-tv"
   },
   {
     "slug": "masterchef-brasil-2025-tudo-sobre-a-nova-temporada-do-reality-culinrio",
@@ -42897,6 +44811,30 @@
     "slugCategoria": "mangas-e-animes"
   },
   {
+    "slug": "mia-goth-entra-para-o-elenco-de-star-wars-starfighter",
+    "titulo": "Mia Goth Se Junta ao Universo Star Wars: Starfighter com Papel de Vilã",
+    "categoria": "Filmes",
+    "resumo": "A estrela do terror Mia Goth foi confirmada no elenco de Star Wars: Starfighter, possivelmente como antagonista. O filme, dirigido por Shawn Levy, promete uma trama envolvente e novas aventuras na galáxia muito, muito distante.",
+    "thumb": "/uploads/mia-goth-entra-para-o-elenco-de-star-wars-starfighter-thumb.jpg",
+    "data": "2025-06-06T16:45:44.000Z",
+    "tags": [
+      "Mia Goth",
+      "Star Wars Starfighter",
+      "vil",
+      "elenco",
+      "Shawn Levy",
+      "Jonathan Tropper",
+      "Ryan Gosling",
+      "Lucasfilm",
+      "filme",
+      "lanamento"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2130,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "miami-vice-diretor-de-top-gun-maverick-pode-dirigir-novo-filme-diz-insider",
     "titulo": "Miami Vice Retorna às Telonas: Joseph Kosinski, Diretor de Top Gun: Maverick, Pode Comandar o Novo Filme",
     "categoria": "FILMES",
@@ -43158,6 +45096,27 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1439,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "microsoft-deve-promover-rodada-de-demissoes-na-xbox-este-mes",
+    "titulo": "Demissões na Xbox: Microsoft Enfrenta Nova Crise em Meio a Incertezas na Indústria de Games",
+    "categoria": "Games",
+    "resumo": "A Microsoft planeja uma nova rodada de demissões no Xbox Game Studios, aumentando as incertezas na já turbulenta indústria de games. Funcionários expressam preocupações sobre o futuro, enquanto a empresa busca minimizar o impacto negativo.",
+    "thumb": "/uploads/microsoft-deve-promover-rodada-de-demissoes-na-xbox-este-mes-thumb.png",
+    "data": "2025-06-06T19:09:12.000Z",
+    "tags": [
+      "Microsoft",
+      "demisses Xbox",
+      "indstria de games",
+      "Xbox Game Studios",
+      "Tom Warren",
+      "The Verge",
+      "Xbox Games Showcase"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 3,
+    "textoLength": 2638,
     "slugCategoria": "games"
   },
   {
@@ -45013,6 +46972,74 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "mortal-shell-ii-e-anunciado-na-summer-game-fest",
+    "titulo": "Mortal Shell II: Sequência Promissora é Revelada na Summer Game Fest 2025",
+    "categoria": "Games",
+    "resumo": "Durante a Summer Game Fest 2025, a Cold Symmetry surpreendeu os fãs ao anunciar Mortal Shell II, com previsão de lançamento para 2026. O jogo promete expandir o universo sombrio e desafiador que conquistou uma legião de jogadores.",
+    "thumb": "/uploads/mortal-shell-ii-e-anunciado-na-summer-game-fest-preview.jpg",
+    "data": "2025-06-06T21:15:03.000Z",
+    "tags": [
+      "Mortal Shell II",
+      "Cold Symmetry",
+      "Summer Game Fest 2025",
+      "RPG de ao",
+      "lanamento 2026",
+      "PlayStation 5",
+      "Xbox",
+      "PC",
+      "sequncia independente",
+      "combates intensos",
+      "conchas de guerreiros"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2047,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "mortal-shell-ii-ganha-trailer-de-anncio-no-summer-game-fest",
+    "titulo": "Mortal Shell II é Anunciado no Summer Game Fest com Trailer Impactante",
+    "categoria": "GAMES",
+    "resumo": "Mortal Shell II surpreendeu os fãs com seu anúncio no Summer Game Fest, prometendo uma experiência de combate e exploração ainda mais intensa.",
+    "thumb": "/uploads/mortal-shell-ii-ganha-trailer-de-anncio-no-summer-game-fest-thumb.png",
+    "data": "2025-06-06T22:22:33.773Z",
+    "tags": [
+      "Mortal Shell II",
+      "Summer Game Fest",
+      "PlayStack",
+      "Cold Symmetry",
+      "PlayStation 5",
+      "Xbox Series",
+      "PC",
+      "lançamento 2026"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 1,
+    "textoLength": 1287,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "mortal-shell-ii-promete-intensificar-a-brutalidade-no-summer-game-fest-2025",
+    "titulo": "Mortal Shell II Promete Intensificar a Brutalidade no Summer Game Fest 2025",
+    "categoria": "Games",
+    "resumo": "O aguardado Mortal Shell II promete elevar o nível de brutalidade e imersão, com novos inimigos e trilha sonora impactante, conforme revelado no Summer Game Fest 2025. Conheça os detalhes do trailer e o que esperar desse sombrio universo de jogo.",
+    "thumb": "/uploads/mortal-shell-ii-promete-intensificar-a-brutalidade-no-summer-game-fest-2025-thumb.png",
+    "data": "2025-06-06T21:07:00.000Z",
+    "tags": [
+      "Mortal Shell II",
+      "Summer Game Fest 2025",
+      "Playstack",
+      "trailer Mortal Shell II",
+      "jogo brutalidade",
+      "Behemoth Ben Sahar",
+      "lançamento Mortal Shell II 2026"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1896,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "morten-harket-vocalista-do-a-ha-diagnosticado-com-parkinson",
     "titulo": "Morten Harket do a-ha Revela Diagnóstico de Parkinson e Fala Sobre Desafios",
     "categoria": "MÚSICA",
@@ -45125,6 +47152,30 @@
     "tempoLeitura": 2,
     "textoLength": 1617,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "mouse-pi-for-hire-traz-troy-baker-em-papel-principal-no-jogo-inspirado-em-desenhos-clssicos",
+    "titulo": "Mouse: P.I. For Hire Traz Troy Baker em Papel Principal no Jogo Inspirado em Desenhos Clássicos",
+    "categoria": "Games",
+    "resumo": "O aguardado jogo 'Mouse: P.I. For Hire' promete encantar fãs com seu estilo visual nostálgico e participação de Troy Baker como protagonista. Descubra como essa mistura única de ação e animação clássica se desenrola em Mouseburg.",
+    "thumb": "/uploads/mouse-pi-for-hire-traz-troy-baker-em-papel-principal-no-jogo-inspirado-em-desenhos-clssicos-thumb.jpg",
+    "data": "2025-06-06T21:42:00.000Z",
+    "tags": [
+      "Mouse: P.I. For Hire",
+      "Troy Baker",
+      "Summer Game Fest 2025",
+      "Fumi Games",
+      "PlaySide Studios",
+      "Jack Pepper",
+      "Mouseburg",
+      "animação clássica",
+      "Fleischer Studios",
+      "lançamento de jogos 2025"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2261,
+    "slugCategoria": "games"
   },
   {
     "slug": "mquina-mortfera-chega-ao-streming-no-brasil-pelo-adrenalina-pura",
@@ -47581,6 +49632,28 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "nintendo-substitui-dubladora-de-princesa-peach-e-toad-aps-18-anos",
+    "titulo": "Nintendo Substitui Dubladora de Princesa Peach e Toad Após 18 Anos",
+    "categoria": "Games",
+    "resumo": "Samantha Kelly, a voz icônica da Princesa Peach e Toad, anuncia que Nintendo a substituiu, encerrando quase duas décadas de parceria. A decisão coincide com lançamentos importantes, como o Switch 2 e Mario Kart World.",
+    "thumb": "/uploads/nintendo-substitui-dubladora-de-princesa-peach-e-toad-aps-18-anos-thumb.jpeg",
+    "data": "2025-06-06T15:30:00.000Z",
+    "tags": [
+      "Nintendo",
+      "Samantha Kelly",
+      "Princesa Peach",
+      "Toad",
+      "dubladora",
+      "substituição",
+      "Switch 2",
+      "Mario Kart World"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2380,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "nintendo-sugere-que-switch-2-ter-verses-melhoradas-de-games-do-switch-1",
     "titulo": "Nintendo Switch 2 Pode Trazer Versões Aprimoradas de Jogos do Switch Original",
     "categoria": "GAMES",
@@ -47636,7 +49709,8 @@
       "Mario Kart World",
       "Nintendo",
       "problemas de entrega",
-      "varejistas"
+      "varejistas",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Luana Souza",
     "tempoLeitura": 3,
@@ -47679,7 +49753,8 @@
       "controle Pro",
       "GL/GR",
       "custo adicional",
-      "experiência imersiva"
+      "experiência imersiva",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 3,
@@ -47719,11 +49794,35 @@
       "configuração HDR",
       "melhorias de jogo",
       "compatibilidade retroativa",
-      "jogos Nintendo Switch 2"
+      "jogos Nintendo Switch 2",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 2830,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "nintendo-switch-2-compatvel-com-celulares-para-chat-de-vdeo-saiba-usar",
+    "titulo": "Nintendo Switch 2 Inova com Chat de Vídeo via Celular: Aprenda a Configurar",
+    "categoria": "GAMES",
+    "resumo": "Descubra como o Nintendo Switch 2 permite chamadas de vídeo usando seu smartphone como câmera. Veja o passo a passo para conectar e aproveitar essa nova funcionalidade.",
+    "thumb": "/uploads/nintendo-switch-2-compatvel-com-celulares-para-chat-de-vdeo-saiba-usar-thumb.png",
+    "data": "2025-06-06T16:28:41.553Z",
+    "tags": [
+      "Nintendo Switch 2",
+      "chat de vídeo",
+      "smartphone",
+      "cabo USB-C para HDMI",
+      "Will It Work?",
+      "TrueVistage",
+      "Mario Kart World",
+      "The Legend of Zelda: Tears of the Kingdom",
+      "especial-Nintendo Switch 2"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1390,
     "slugCategoria": "games"
   },
   {
@@ -47765,7 +49864,8 @@
       "The Legend of Zelda: Tears of the Kingdom",
       "Pokémon Legends Z-A",
       "HDR",
-      "4K"
+      "4K",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 1,
@@ -47918,6 +50018,48 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1704,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "nintendo-switch-2-guia-completo-para-configurar-e-aproveitar-o-gameshare",
+    "titulo": "Nintendo Switch 2: Guia Completo para Configurar e Aproveitar o GameShare",
+    "categoria": "Games",
+    "resumo": "Descubra como o recurso de GameShare do Nintendo Switch 2 pode revolucionar suas sessões de jogo em grupo, permitindo que amigos joguem juntos mesmo sem possuir todos os títulos. Confira nossa orientação passo a passo e a lista de jogos compatíveis.",
+    "thumb": "/uploads/nintendo-switch-2-guia-completo-para-configurar-e-aproveitar-o-gameshare-thumb.jpg",
+    "data": "2025-06-06T04:29:00.000Z",
+    "tags": [
+      "Nintendo Switch 2",
+      "GameShare",
+      "jogos compatíveis",
+      "como configurar GameShare",
+      "empréstimo de jogos",
+      "GameChat",
+      "especial-Nintendo Switch 2"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 2708,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "nintendo-switch-2-guia-completo-para-configurar-o-gamechat",
+    "titulo": "Nintendo Switch 2: Guia Completo para Configurar o GameChat",
+    "categoria": "Games",
+    "resumo": "A Nintendo está revolucionando a comunicação no Switch 2 com o lançamento do GameChat. Descubra como configurar e aproveitar ao máximo essa nova funcionalidade.",
+    "thumb": "/uploads/nintendo-switch-2-guia-completo-para-configurar-o-gamechat-thumb.jpeg",
+    "data": "2025-06-05T20:48:00.000Z",
+    "tags": [
+      "Nintendo Switch 2",
+      "GameChat",
+      "configuração GameChat",
+      "comunicação Nintendo Switch",
+      "GameShare",
+      "controle parental Switch 2",
+      "especial-Nintendo Switch 2"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 3768,
     "slugCategoria": "games"
   },
   {
@@ -48480,7 +50622,8 @@
       "The Legend of Zelda",
       "Metroid Prime 4",
       "HDR",
-      "4K"
+      "4K",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Ana Luiza",
     "tempoLeitura": 1,
@@ -48528,6 +50671,27 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 1778,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "nintendo-switch-2-vouchers-no-valem-para-jogos-exclusivos",
+    "titulo": "Nintendo Switch 2: Vouchers Não Valem para Jogos Exclusivos",
+    "categoria": "Games",
+    "resumo": "Os cupons de jogo da Nintendo, uma forma econômica de adquirir títulos digitais, não são válidos para jogos exclusivos do Switch 2. Descubra como ainda tirar proveito desses vouchers com a nova geração de consoles.",
+    "thumb": "/uploads/nintendo-switch-2-vouchers-no-valem-para-jogos-exclusivos-thumb.jpg",
+    "data": "2025-06-06T13:18:00.000Z",
+    "tags": [
+      "Nintendo Switch 2",
+      "vouchers de jogo",
+      "Nintendo Switch Online",
+      "economia em jogos",
+      "títulos exclusivos",
+      "edições aprimoradas",
+      "atualizações gratuitas"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2508,
     "slugCategoria": "games"
   },
   {
@@ -49353,6 +51517,29 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "novo-massacre-da-serra-eltrica-pode-ser-produzido-por-criador-de-yellowstone",
+    "titulo": "Taylor Sheridan pode liderar novo remake de O Massacre da Serra Elétrica",
+    "categoria": "FILMES",
+    "resumo": "Taylor Sheridan, criador de Yellowstone, está em negociações para produzir um novo remake de O Massacre da Serra Elétrica. Vários estúdios demonstram interesse, mas ainda não há definição sobre o responsável pela produção.",
+    "thumb": "/uploads/novo-massacre-da-serra-eltrica-pode-ser-produzido-por-criador-de-yellowstone-thumb.png",
+    "data": "2025-06-06T18:28:24.849Z",
+    "tags": [
+      "Taylor Sheridan",
+      "Yellowstone",
+      "O Massacre da Serra Elétrica",
+      "Tobe Hooper",
+      "Leatherface",
+      "Sicário",
+      "A Qualquer Custo",
+      "Netflix",
+      "David Blue Garcia"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1634,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "novo-shooter-esta-viralizando-no-playstation",
     "titulo": "Hypercharge: Unboxed Conquista o Topo de Vendas no PlayStation",
     "categoria": "Games",
@@ -49443,6 +51630,30 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 2587,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "novo-volume-do-mang-little-mega-man-chega-em-agosto-um-mergulho-nas-aventuras-e-curiosidades-do-heri-azul",
+    "titulo": "Novo Volume do Mangá Little Mega Man Chega em Agosto: Um Mergulho nas Aventuras e Curiosidades do Herói Azul",
+    "categoria": "Games",
+    "resumo": "Enquanto o futuro dos jogos de Mega Man permanece incerto, o lançamento do próximo volume do mangá Little Mega Man promete manter viva a paixão dos fãs pelas aventuras do herói da Capcom. Descubra mais sobre essa série cativante e outras obras que celebram o legado de Mega Man.",
+    "thumb": "/uploads/novo-volume-do-mang-little-mega-man-chega-em-agosto-um-mergulho-nas-aventuras-e-curiosidades-do-heri-azul-thumb.jpg",
+    "data": "2025-06-06T20:27:00.000Z",
+    "tags": [
+      "Mega Man",
+      "Little Mega Man",
+      "mangá",
+      "Capcom",
+      "Udon Entertainment",
+      "Robot Masters",
+      "Mega Man Mastermix",
+      "Mega Man Gigamix",
+      "Mega Man Tribute",
+      "lançamentos de mangá 2025"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 2500,
     "slugCategoria": "games"
   },
   {
@@ -53141,6 +55352,55 @@
     "slugCategoria": "mangas-e-animes"
   },
   {
+    "slug": "one-punch-man-destaca-gums-e-evil-mineral-water-em-cartazes-da-3-temporada",
+    "titulo": "One-Punch Man: Gums e Evil Mineral Water Brilham em Cartazes da 3ª Temporada",
+    "categoria": "Mangás e Animes",
+    "resumo": "A aguardada terceira temporada de One-Punch Man, que estreia em outubro, lança novos cartazes destacando os vilões Gums e Evil Mineral Water. A produção, realizada pelo renomado estúdio J.C. Staff, promete trazer ainda mais ação e emoção para os fãs.",
+    "thumb": "/uploads/one-punch-man-destaca-gums-e-evil-mineral-water-em-cartazes-da-3-temporada-thumb.webp",
+    "data": "2025-06-06T12:48:31.000Z",
+    "tags": [
+      "One-Punch Man",
+      "terceira temporada",
+      "Gums",
+      "Evil Mineral Water",
+      "JC Staff",
+      "anime",
+      "Ryosuke Shirokawa",
+      "Shinjiro Kuroda",
+      "estreia",
+      "outubro",
+      "mang",
+      "Yusuke Murata",
+      "ONE",
+      "Mob Psycho 100"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2587,
+    "slugCategoria": "mangas-e-animes"
+  },
+  {
+    "slug": "one-punch-man-revela-inimigos-macabros-do-terceiro-ano-confira",
+    "titulo": "One Punch Man: Novos Inimigos Aterrorizantes da 3ª Temporada São Revelados",
+    "categoria": "MANGÁS E ANIMES",
+    "resumo": "A terceira temporada de One Punch Man promete surpreender com novos vilões sombrios. Enquanto aguardamos a estreia, confira os detalhes sobre o retorno do anime.",
+    "thumb": "/uploads/one-punch-man-revela-inimigos-macabros-do-terceiro-ano-confira-thumb.png",
+    "data": "2025-06-06T18:29:47.937Z",
+    "tags": [
+      "One Punch Man",
+      "terceira temporada",
+      "Saitama",
+      "anime",
+      "MadHouse",
+      "JC Staff",
+      "Netflix"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 1,
+    "textoLength": 1384,
+    "slugCategoria": "mangas-e-animes"
+  },
+  {
     "slug": "one-punch-man-ter-novo-hiato-de-dois-meses-entenda",
     "titulo": "One Punch Man: Mangá Entra em Hiato de Dois Meses; Entenda os Motivos e Impactos",
     "categoria": "MANGÁS E ANIMES",
@@ -53160,6 +55420,87 @@
     "tempoLeitura": 2,
     "textoLength": 1537,
     "slugCategoria": "mangas-e-animes"
+  },
+  {
+    "slug": "onimusha-way-of-the-sword-destaca-batalhas-em-trailer-de-jogabilidade",
+    "titulo": "Onimusha: Way of the Sword Promete Emoção em Novo Trailer de Jogabilidade",
+    "categoria": "Games",
+    "resumo": "O aguardado Onimusha: Way of the Sword, previsto para 2026, ganha um trailer de jogabilidade que destaca suas intensas batalhas. O jogo será lançado para PlayStation 5, Xbox Series e PC, marcando o retorno da franquia após duas décadas.",
+    "thumb": "/uploads/onimusha-way-of-the-sword-destaca-batalhas-em-trailer-de-jogabilidade-preview.jpg",
+    "data": "2025-06-06T21:42:49.000Z",
+    "tags": [
+      "Onimusha",
+      "Way of the Sword",
+      "Capcom",
+      "trailer de jogabilidade",
+      "lanamento 2026",
+      "PlayStation 5",
+      "Xbox Series",
+      "PC",
+      "Summer Game Fest",
+      "Genma",
+      "Luva Oni",
+      "era Edo",
+      "Kyoto"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2264,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "onimusha-way-of-the-sword-ganha-novo-trailer-assista",
+    "titulo": "Onimusha: Way of the Sword Revela Trailer Inédito no Summer Game Fest",
+    "categoria": "GAMES",
+    "resumo": "O aguardado Onimusha: Way of the Sword da Capcom ganha novo trailer, destacando o lendário samurai Miyamoto Musashi como protagonista. Descubra mais sobre a jogabilidade e o cenário intrigante do jogo.",
+    "thumb": "/uploads/onimusha-way-of-the-sword-ganha-novo-trailer-assista-thumb.png",
+    "data": "2025-06-06T22:22:00.552Z",
+    "tags": [
+      "Onimusha: Way of the Sword",
+      "Capcom",
+      "Summer Game Fest",
+      "Miyamoto Musashi",
+      "The Game Awards 2024",
+      "Satoru Nihei",
+      "Akihito Kadowaki",
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PC",
+      "Steam",
+      "Kyoto",
+      "período Edo",
+      "Manopla Oni",
+      "Genma",
+      "sistema Issen",
+      "estado Onimusha"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1474,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "onimusha-way-of-the-sword-revela-gameplay-inovador-com-musashi-miyamoto",
+    "titulo": "Onimusha: Way of the Sword Revela Gameplay Inovador com Musashi Miyamoto",
+    "categoria": "Games",
+    "resumo": "O aguardado 'Onimusha: Way of the Sword' da Capcom promete uma experiência intensa com Musashi Miyamoto à frente. Novas imagens reveladas no Summer Game Fest 2025 destacam a jogabilidade focada em parry e técnicas de combate históricas.",
+    "thumb": "/uploads/onimusha-way-of-the-sword-revela-gameplay-inovador-com-musashi-miyamoto-thumb.png",
+    "data": "2025-06-06T21:45:00.000Z",
+    "tags": [
+      "Onimusha",
+      "Capcom",
+      "Musashi Miyamoto",
+      "Toshiro Mifune",
+      "Summer Game Fest 2025",
+      "Kojiro Sasaki",
+      "Ganryu Sasaki",
+      "gameplay",
+      "lançamento 2026"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2115,
+    "slugCategoria": "games"
   },
   {
     "slug": "only-murders-in-the-building-logan-lerman-o-percy-jackson-far-5-ano",
@@ -53290,6 +55631,30 @@
     "tempoLeitura": 2,
     "textoLength": 1662,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "os-10-maiores-plot-twists-do-universo-cinematografico-marvel",
+    "titulo": "As Reviravoltas Mais Surpreendentes do Universo Cinematográfico Marvel",
+    "categoria": "Séries e TV",
+    "resumo": "O Universo Cinematográfico Marvel é conhecido por seus momentos de tirar o fôlego, repletos de reviravoltas inesperadas que surpreendem os fãs. Vamos explorar as maiores surpresas que os filmes da Marvel nos proporcionaram ao longo dos anos.",
+    "thumb": "/uploads/os-10-maiores-plot-twists-do-universo-cinematografico-marvel-thumb.jpg",
+    "data": "2025-06-06T17:52:50.000Z",
+    "tags": [
+      "Marvel",
+      "MCU",
+      "reviravoltas",
+      "plot twists",
+      "Vingadores",
+      "Homem-Aranha",
+      "Capito Amrica",
+      "Tony Stark",
+      "Skrulls",
+      "Thanos"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 3,
+    "textoLength": 4147,
+    "slugCategoria": "series-e-tv"
   },
   {
     "slug": "os-10-melhores-filmes-para-ver-no-globoplay-agora-abril-2025",
@@ -54325,6 +56690,27 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "pantera-negra-3-ter-denzel-washington-confirma-ryan-coogler",
+    "titulo": "Denzel Washington Confirmado em Pantera Negra 3 por Ryan Coogler",
+    "categoria": "FILMES",
+    "resumo": "Ryan Coogler confirmou a participação de Denzel Washington no aguardado Pantera Negra 3 durante uma entrevista. O filme promete trazer novas surpresas, mas ainda não possui data de lançamento.",
+    "thumb": "/uploads/pantera-negra-3-ter-denzel-washington-confirma-ryan-coogler-thumb.png",
+    "data": "2025-06-06T16:27:55.342Z",
+    "tags": [
+      "Denzel Washington",
+      "Ryan Coogler",
+      "Pantera Negra 3",
+      "Marvel",
+      "Chadwick Boseman",
+      "Wakanda Para Sempre",
+      "Letitia Wright"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1668,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "pantera-negra-chadwick-assustou-disney-com-sotaque-africano-diz-diretor",
     "titulo": "Pantera Negra | Chadwick Boseman surpreendeu Disney com sotaque africano, revela Ryan Coogler",
     "categoria": "FILMES",
@@ -54345,6 +56731,30 @@
     "tempoLeitura": 2,
     "textoLength": 2125,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "pantera-negra-tem-novo-filho-nas-hqs-e-ele-branco-entenda-polmica",
+    "titulo": "Pantera Negra nos Quadrinhos: Filho Branco de T'Challa Causa Polêmica",
+    "categoria": "HQ/LIVROS",
+    "resumo": "A mais recente edição de Marvel Knights traz à tona um novo filho de T'Challa, Ketema, que é surpreendentemente branco. A novidade tem gerado debates sobre representatividade e o futuro do personagem.",
+    "thumb": "/uploads/pantera-negra-tem-novo-filho-nas-hqs-e-ele-branco-entenda-polmica-thumb.png",
+    "data": "2025-06-06T14:59:47.826Z",
+    "tags": [
+      "Pantera Negra",
+      "T'Challa",
+      "Marvel Knights",
+      "The World To Come",
+      "Ketema",
+      "quadrinhos Marvel",
+      "Joe Quesada",
+      "Christopher Priest",
+      "representatividade",
+      "Wakanda"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2099,
+    "slugCategoria": "hq-livros"
   },
   {
     "slug": "papa-leo-xiv-vai-ganhar-card-colecionvel-indito",
@@ -54525,6 +56935,30 @@
     "tempoLeitura": 3,
     "textoLength": 3964,
     "slugCategoria": "board-games"
+  },
+  {
+    "slug": "path-of-exile-revela-detalhes-de-secrets-of-the-atlas-sua-proxima-atualizacao",
+    "titulo": "Path of Exile: Atualização 'Segredos do Atlas' Promete Revolucionar o RPG",
+    "categoria": "Games",
+    "resumo": "A aguardada atualização 'Segredos do Atlas' trará uma série de novidades para Path of Exile, incluindo novos chefes, mapas e a intrigante história de Zana. Descubra o que esperar dessa expansão que chega em breve.",
+    "thumb": "/uploads/path-of-exile-revela-detalhes-de-secrets-of-the-atlas-sua-proxima-atualizacao-thumb.webp",
+    "data": "2025-06-06T13:49:31.000Z",
+    "tags": [
+      "Path of Exile",
+      "Segredos do Atlas",
+      "atualizao",
+      "RPG",
+      "Zana",
+      "Eagon",
+      "novos chefes",
+      "mapas",
+      "liga de desafio",
+      "Mercenrios de Trathus"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2249,
+    "slugCategoria": "games"
   },
   {
     "slug": "patricinhas-de-beverly-hills-ganhar-srie-com-alicia-silverstone",
@@ -55157,6 +57591,50 @@
     "author": "Luana Souza",
     "tempoLeitura": 2,
     "textoLength": 1315,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "persona-4-remake-deve-ser-revelado-no-xbox-games-showcase",
+    "titulo": "Revelação de Remake de Persona 4 Pode Acontecer no Xbox Games Showcase 2025",
+    "categoria": "Games",
+    "resumo": "Rumores apontam que o aguardado remake de Persona 4 será anunciado oficialmente no próximo Xbox Games Showcase. A Atlus parece pronta para surpreender os fãs com a nova versão do clássico.",
+    "thumb": "/uploads/persona-4-remake-deve-ser-revelado-no-xbox-games-showcase-thumb.png",
+    "data": "2025-06-06T19:38:35.000Z",
+    "tags": [
+      "Persona 4 Remake",
+      "Xbox Games Showcase 2025",
+      "Atlus",
+      "Persona 3 Reload",
+      "RPG japons",
+      "PlayStation 5",
+      "Xbox Series XS",
+      "lanamento de jogos"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1938,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "personagem-icnico-de-james-bond-chega-ao-hitman-world-of-assassination",
+    "titulo": "Personagem icônico de James Bond chega ao Hitman: World of Assassination",
+    "categoria": "Games",
+    "resumo": "O vilão LeChiffre, interpretado por Mads Mikkelsen em Casino Royale, é o novo alvo elusivo no Hitman: World of Assassination. O personagem está disponível a partir de hoje e traz itens exclusivos para o jogo.",
+    "thumb": "/uploads/personagem-icnico-de-james-bond-chega-ao-hitman-world-of-assassination-thumb.png",
+    "data": "2025-06-06T22:22:00.000Z",
+    "tags": [
+      "Hitman",
+      "James Bond",
+      "LeChiffre",
+      "Mads Mikkelsen",
+      "Summer Game Fest",
+      "IO Interactive",
+      "007: First Light",
+      "alvos elusivos"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1976,
     "slugCategoria": "games"
   },
   {
@@ -56095,6 +58573,28 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "por-que-black-myth-wukong-no-xbox-demorou-tanto-devs-respondem",
+    "titulo": "Black Myth: Wukong Chega ao Xbox — Entenda a Demora e o Futuro da Franquia",
+    "categoria": "Games",
+    "resumo": "Após uma longa espera, Black Myth: Wukong finalmente será lançado para Xbox em 20 de agosto. Descubra os desafios enfrentados pela Game Science e o que o futuro reserva para esta franquia ambiciosa.",
+    "thumb": "/uploads/por-que-black-myth-wukong-no-xbox-demorou-tanto-devs-respondem-thumb.webp",
+    "data": "2025-06-06T19:36:53.000Z",
+    "tags": [
+      "Black Myth Wukong",
+      "Xbox Series XS",
+      "Game Science",
+      "RPG de ao",
+      "Jornada ao Oeste",
+      "lanamento",
+      "franquia",
+      "ARPG"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 3,
+    "textoLength": 2596,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "por-que-frieren-e-um-dos-animes-mais-bem-avaliados-de-todos-os-tempos",
     "titulo": "Por que Frieren é um dos Animes Mais Bem Avaliados de Todos os Tempos",
     "categoria": "MANGÁS E ANIMES",
@@ -56555,6 +59055,30 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1877,
+    "slugCategoria": "filmes"
+  },
+  {
+    "slug": "predador-assassino-de-assassinos-quebra-recorde-da-franquia-no-rotten-tomatoes",
+    "titulo": "Predador: Assassino de Assassinos atinge aprovação recorde no Rotten Tomatoes",
+    "categoria": "Filmes",
+    "resumo": "A mais recente animação da franquia Predador conquista a crítica, estabelecendo um recorde de aprovação nunca visto antes. Descubra os detalhes que levaram o filme ao topo e como ele se compara aos seus predecessores.",
+    "thumb": "/uploads/predador-assassino-de-assassinos-quebra-recorde-da-franquia-no-rotten-tomatoes-thumb.jpg",
+    "data": "2025-06-06T17:25:11.000Z",
+    "tags": [
+      "Predador",
+      "Assassino de Assassinos",
+      "Rotten Tomatoes",
+      "Dan Trachtenberg",
+      "Disney",
+      "20th Century Studios",
+      "crtica",
+      "filme animado",
+      "franquia Predador",
+      "Predator Badlands"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2294,
     "slugCategoria": "filmes"
   },
   {
@@ -57581,6 +60105,30 @@
     "slugCategoria": "ofertas"
   },
   {
+    "slug": "promoo-impredvel-lenovo-legion-go-cai-para-melhor-preo-do-ano-na-amazon",
+    "titulo": "Promoção Impredível: Lenovo Legion Go Cai para Melhor Preço do Ano na Amazon",
+    "categoria": "Games",
+    "resumo": "A Amazon oferece o Lenovo Legion Go, um dos PCs portáteis mais versáteis do mercado, por apenas $500. Descubra o que torna este dispositivo uma escolha atraente para gamers em 2025.",
+    "thumb": "/uploads/promoo-impredvel-lenovo-legion-go-cai-para-melhor-preo-do-ano-na-amazon-thumb.png",
+    "data": "2025-06-06T01:41:00.000Z",
+    "tags": [
+      "Lenovo Legion Go",
+      "PC portátil",
+      "jogos",
+      "Amazon",
+      "Windows 11",
+      "promoção",
+      "Legion Go S",
+      "SteamOS",
+      "controle destacável",
+      "jogos modernos"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2297,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "protect-a-flying-island-box-cookies-and-harness-the-glorious-guilds-of-buttonville",
     "titulo": "Descubra os Jogos de Tabuleiro Mais Aguardados para 2025: De Ilhas Voadoras a Mundos de Fantasia",
     "categoria": "Board Games",
@@ -57930,6 +60478,30 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "quanto-jurassic-world-recomeco-precisa-arrecadar-para-se-pagar",
+    "titulo": "Jurassic World: Recomeço: Análise dos Desafios Financeiros e Projeções de Bilheteria",
+    "categoria": "Filmes",
+    "resumo": "Com um orçamento robusto e desafios de marketing, 'Jurassic World: Recomeço' enfrenta a árdua tarefa de alcançar o equilíbrio financeiro nas bilheterias globais. Descubra os números por trás dessa nova jornada jurássica.",
+    "thumb": "/uploads/quanto-jurassic-world-recomeco-precisa-arrecadar-para-se-pagar-thumb.jpg",
+    "data": "2025-06-06T11:58:57.000Z",
+    "tags": [
+      "Jurassic World",
+      "Recomeo",
+      "bilheteria",
+      "Universal Pictures",
+      "Scarlett Johansson",
+      "franquia",
+      "cinema",
+      "lanamento",
+      "marketing",
+      "dinossauros"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2457,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "quanto-tempo-leva-para-cruzar-o-mapa-gigante-de-mario-kart-world-no-nintendo-switch-2",
     "titulo": "Quanto Tempo Leva para Cruzar o Mapa Gigante de Mario Kart World no Nintendo Switch 2?",
     "categoria": "Games",
@@ -58072,6 +60644,31 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 2600,
+    "slugCategoria": "filmes"
+  },
+  {
+    "slug": "quarteto-fantastico-pode-arrecadar-quase-us-140-milhoes-em-abertura",
+    "titulo": "Quarteto Fantástico: Expectativa de Bilheteria Alcança US$ 140 Milhões na Estreia",
+    "categoria": "Filmes",
+    "resumo": "Com uma pré-venda recorde, 'Quarteto Fantástico: Primeiros Passos' promete uma abertura impressionante, colocando-se entre os maiores sucessos da Marvel Studios. A projeção de arrecadação reflete uma forte demanda, desafiando gigantes nas bilheterias.",
+    "thumb": "/uploads/quarteto-fantastico-pode-arrecadar-quase-us-140-milhoes-em-abertura-thumb.jpg",
+    "data": "2025-06-06T18:59:16.000Z",
+    "tags": [
+      "Quarteto Fantstico",
+      "bilheteria",
+      "Marvel Studios",
+      "pr-venda",
+      "lanamento",
+      "cinema",
+      "super-heris",
+      "Pedro Pascal",
+      "Vanessa Kirby",
+      "Joseph Quinn",
+      "Ebon Moss-Bachrach"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2420,
     "slugCategoria": "filmes"
   },
   {
@@ -59308,6 +61905,33 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "quarteto-fantstico-pedro-pascal-tentou-colocar-fogo-em-joseph-quinn-no-set",
+    "titulo": "Pedro Pascal e Joseph Quinn protagonizam momento hilário nos bastidores de Quarteto Fantástico",
+    "categoria": "FILMES",
+    "resumo": "Pedro Pascal e Joseph Quinn protagonizaram uma cena engraçada no set de Quarteto Fantástico, quando uma brincadeira quase incendiária ocorreu. O relato do episódio foi compartilhado por Joseph Quinn em entrevista.",
+    "thumb": "https://cdn.ome.lt/g0Cumy9WMHyKeTEcTglAnxj6ML8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-06-06_081936.png",
+    "data": "2025-06-06T13:03:51.284Z",
+    "tags": [
+      "Pedro Pascal",
+      "Joseph Quinn",
+      "Quarteto Fantástico: Primeiros Passos",
+      "Johnny Storm",
+      "Tocha Humana",
+      "Reed Richards",
+      "Sr. Fantástico",
+      "Sue Storm",
+      "Mulher-Invisível",
+      "Marvel Studios",
+      "Matt Shakman",
+      "Ralph Ineson",
+      "Julia Garner"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1725,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "quarteto-fantstico-posio-do-filme-na-cronologia-do-time-confirmada",
     "titulo": "Quarteto Fantástico: Primeiros Passos Define Sua Linha Temporal no MCU e Promete Grandes Surpresas",
     "categoria": "FILMES",
@@ -60358,7 +62982,8 @@
       "rumores",
       "atualizao grfica",
       "PS5",
-      "Xbox Series XS"
+      "Xbox Series XS",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -60472,6 +63097,27 @@
     "tempoLeitura": 2,
     "textoLength": 2075,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "remake-de-persona-4-pode-ser-revelado-no-xbox-showcase-o-que-esperar",
+    "titulo": "Remake de Persona 4 Pode Ser Revelado no Xbox Showcase: O Que Esperar",
+    "categoria": "Games",
+    "resumo": "Rumores indicam que o aguardado remake de Persona 4 será anunciado no Xbox Showcase. Descubra o que sabemos até agora sobre essa possível revelação e o que esperar do evento.",
+    "thumb": "/uploads/remake-de-persona-4-pode-ser-revelado-no-xbox-showcase-o-que-esperar-thumb.jpg",
+    "data": "2025-06-06T16:59:00.000Z",
+    "tags": [
+      "Persona 4 remake",
+      "Xbox Showcase",
+      "Atlus",
+      "Summer Game Fest",
+      "Persona 3 Reload",
+      "jogos de videogame",
+      "anúncio de remake"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2265,
+    "slugCategoria": "games"
   },
   {
     "slug": "remaster-de-final-fantasy-tactics-anunciado",
@@ -60607,6 +63253,53 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "resident-evil-9-capcom-sugere-novidades-na-summer-game-fest-2025",
+    "titulo": "Resident Evil 9: Capcom Sugere Novidades na Summer Game Fest 2025",
+    "categoria": "Games",
+    "resumo": "Durante a Summer Game Fest 2025, a Capcom mencionou brevemente o aguardado Resident Evil 9, pedindo aos fãs um pouco mais de paciência. Com o 30º aniversário da franquia Resident Evil, a expectativa por novidades continua alta.",
+    "thumb": "/uploads/resident-evil-9-capcom-sugere-novidades-na-summer-game-fest-2025-thumb.jpg",
+    "data": "2025-06-06T22:47:00.000Z",
+    "tags": [
+      "Resident Evil 9",
+      "Capcom",
+      "Summer Game Fest 2025",
+      "Koshi Nakanishi",
+      "Lady Dimitrescu",
+      "Resident Evil Village",
+      "remakes Resident Evil",
+      "Zach Cregger",
+      "aniversário Resident Evil"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2378,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "resident-evil-9-requiem-chega-em-2026-confira",
+    "titulo": "Resident Evil 9: Requiem será lançado em 2026; saiba todos os detalhes",
+    "categoria": "GAMES",
+    "resumo": "Capcom anunciou oficialmente o lançamento de Resident Evil 9: Requiem para fevereiro de 2026 durante o Summer Game Fest. Confira as informações sobre o desenvolvimento do jogo e sua data de lançamento.",
+    "thumb": "/uploads/resident-evil-9-requiem-chega-em-2026-confira-thumb.png",
+    "data": "2025-06-06T23:19:34.526Z",
+    "tags": [
+      "Resident Evil 9",
+      "Resident Evil: Requiem",
+      "Capcom",
+      "Koshi Kanishi",
+      "Summer Game Fest",
+      "Capcom NEXT",
+      "Resident Evil 5 remake",
+      "lançamento fevereiro 2026",
+      "PlayStation 5",
+      "Xbox Series X/S"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 1,
+    "textoLength": 1264,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "resident-evil-mikey-madison-desejo-da-sony-para-filme-diz-site",
     "titulo": "Resident Evil | Mikey Madison é Escolhida pela Sony para o Reboot do Filme, Segundo Site",
     "categoria": "FILMES",
@@ -60625,6 +63318,29 @@
     "tempoLeitura": 2,
     "textoLength": 1505,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "resident-evil-requiem-e-anunciado-na-summer-game-fest-e-ja-tem-data-de-lancamento",
+    "titulo": "Resident Evil: Requiem é Revelado na Summer Game Fest 2025 com Data de Lançamento Confirmada",
+    "categoria": "Games",
+    "resumo": "Durante a Summer Game Fest 2025, a Capcom surpreendeu os fãs ao anunciar Resident Evil: Requiem, prometendo uma nova experiência de terror e suspense. O jogo chega às plataformas no início de 2026, trazendo uma protagonista inédita e ambientes claustrofóbicos.",
+    "thumb": "/uploads/resident-evil-requiem-e-anunciado-na-summer-game-fest-e-ja-tem-data-de-lancamento-preview.jpg",
+    "data": "2025-06-06T23:00:40.000Z",
+    "tags": [
+      "Resident Evil Requiem",
+      "lanamento Resident Evil",
+      "Summer Game Fest 2025",
+      "Capcom",
+      "survival horror",
+      "PlayStation 5",
+      "Xbox Series",
+      "PC",
+      "nova protagonista Resident Evil"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2084,
+    "slugCategoria": "games"
   },
   {
     "slug": "resident-playbook-novo-trailer-apresenta-protagonistas-do-k-drama-veja",
@@ -61649,6 +64365,29 @@
     "slugCategoria": "musica"
   },
   {
+    "slug": "sabrina-carpenter-lana-clipe-da-nova-msica-manchild-assista-agora",
+    "titulo": "Sabrina Carpenter Lança Clipe de 'Manchild'; Confira Novidades",
+    "categoria": "MÚSICA",
+    "resumo": "Sabrina Carpenter surpreende fãs com o lançamento do clipe de 'Manchild', disponível em todas as plataformas digitais. Além disso, a cantora pode estar envolvida no próximo filme da franquia Mamma Mia!",
+    "thumb": "/uploads/sabrina-carpenter-lana-clipe-da-nova-msica-manchild-assista-agora-thumb.png",
+    "data": "2025-06-06T15:03:11.182Z",
+    "tags": [
+      "Sabrina Carpenter",
+      "Manchild",
+      "Mamma Mia",
+      "ABBA",
+      "videoclipe",
+      "Prime Video",
+      "Telecine",
+      "Meryl Streep",
+      "Amanda Seyfried"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1401,
+    "slugCategoria": "musica"
+  },
+  {
     "slug": "sada-de-executivos-abala-estdio-de-mindseye-antes-do-lanamento",
     "titulo": "Saída de Executivos Abala Estúdio de MindsEye Antes do Lançamento",
     "categoria": "Games",
@@ -61795,6 +64534,30 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "samuel-l-jackson-diz-nao-ter-ambicao-por-oscar-8220-faco-filmes-pipoca-8221",
+    "titulo": "Samuel L. Jackson Revela Preferência por 'Filmes Pipoca' e Desprezo pelo Oscar",
+    "categoria": "Filmes",
+    "resumo": "O icônico ator Samuel L. Jackson compartilhou que sua escolha de filmes se baseia na diversão, não na busca por prêmios como o Oscar. Conhecido por seus papéis em grandes blockbusters, Jackson explica sua preferência por projetos que ele mesmo gostaria de assistir.",
+    "thumb": "/uploads/samuel-l-jackson-diz-nao-ter-ambicao-por-oscar-8220-faco-filmes-pipoca-8221-thumb.jpeg",
+    "data": "2025-06-06T18:31:56.000Z",
+    "tags": [
+      "Samuel L Jackson",
+      "Oscar",
+      "filmes pipoca",
+      "carreira",
+      "Hollywood",
+      "Pulp Fiction",
+      "blockbusters",
+      "Marvel",
+      "Star Wars",
+      "NOLA King"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2404,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "samuel-l-jackson-vai-estrelar-derivado-de-tulsa-king",
     "titulo": "Samuel L. Jackson Estrela Novo Spin-off de Tulsa King na Paramount+",
     "categoria": "SÉRIES E TV",
@@ -61816,6 +64579,30 @@
     "tempoLeitura": 2,
     "textoLength": 1786,
     "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "sanda-124-anime-da-criadora-de-beastars-ganha-novo-teaser-e-data-de-estreia",
+    "titulo": "Sanda: Novo Anime da Criadora de Beastars Revela Teaser e Data de Estreia Global",
+    "categoria": "Mangás e Animes",
+    "resumo": "Com estreia mundial marcada para a Anime Expo 2025, 'Sanda', da mesma criadora de 'Beastars', ganha novo teaser e promete surpreender com sua narrativa única.",
+    "thumb": "/uploads/sanda-124-anime-da-criadora-de-beastars-ganha-novo-teaser-e-data-de-estreia-preview.jpg",
+    "data": "2025-06-06T13:23:48.000Z",
+    "tags": [
+      "Sanda",
+      "Beastars",
+      "Paru Itagaki",
+      "Anime Expo 2025",
+      "Science SARU",
+      "anime",
+      "estreia mundial",
+      "elenco de voz",
+      "Tomohisa Shimoyama",
+      "Khei Sakita"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2435,
+    "slugCategoria": "mangas-e-animes"
   },
   {
     "slug": "sandman-2-temporada-ganha-trailer-e-data",
@@ -61981,6 +64768,57 @@
     "tempoLeitura": 1,
     "textoLength": 1136,
     "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "scott-pilgrim-ex-e-anunciado-na-summer-game-fest",
+    "titulo": "Scott Pilgrim EX: Nova Jornada Beat 'em Up Revelada na Summer Game Fest 2025",
+    "categoria": "Games",
+    "resumo": "Scott Pilgrim retorna em uma emocionante aventura beat 'em up, agora com o inovador Scott Pilgrim EX, revelado na Summer Game Fest 2025. O jogo promete uma experiência cooperativa única com sete personagens jogáveis e narrativa de Bryan Lee O'Malley.",
+    "thumb": "/uploads/scott-pilgrim-ex-e-anunciado-na-summer-game-fest-preview.jpg",
+    "data": "2025-06-06T22:23:19.000Z",
+    "tags": [
+      "Scott Pilgrim EX",
+      "Summer Game Fest 2025",
+      "beat em up",
+      "Bryan Lee OMalley",
+      "jogo cooperativo",
+      "Ramona Flowers",
+      "Toronto",
+      "viagem no tempo",
+      "esttica retr",
+      "lanamento 2026"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2381,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "scott-pilgrim-ex-revive-a-nostalgia-dos-jogos-beat-em-up-com-novas-aventuras-cooperativas",
+    "titulo": "Scott Pilgrim EX Revive a Nostalgia dos Jogos Beat-'em-up com Novas Aventuras Cooperativas",
+    "categoria": "Games",
+    "resumo": "Tribute Games anuncia Scott Pilgrim EX, um retorno empolgante ao universo dos jogos beat-'em-up, prometendo uma experiência cooperativa inovadora e nostálgica. Descubra como essa parceria criativa mantém a essência do clássico enquanto introduz novidades emocionantes.",
+    "thumb": "/uploads/scott-pilgrim-ex-revive-a-nostalgia-dos-jogos-beat-em-up-com-novas-aventuras-cooperativas-thumb.jpg",
+    "data": "2025-06-06T22:16:00.000Z",
+    "tags": [
+      "Scott Pilgrim EX",
+      "Tribute Games",
+      "beat-'em-up",
+      "cooperação",
+      "jogos retrô",
+      "Brian Lee O'Malley",
+      "Paul Robertson",
+      "Anamanaguchi",
+      "lançamento 2026",
+      "Xbox Series X|S",
+      "PlayStation 5",
+      "Nintendo Switch",
+      "PC"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2370,
+    "slugCategoria": "games"
   },
   {
     "slug": "screamboat-mickey-ataca-em-cena-exclusiva-do-filme-de-terror-veja",
@@ -62271,6 +65109,29 @@
     "tempoLeitura": 2,
     "textoLength": 1606,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "sem-superman-surgem-detalhes-dos-planos-da-dc-studios-na-sdcc-2025",
+    "titulo": "DC Studios na SDCC 2025: Foco em Pacificador enquanto Superman fica de fora",
+    "categoria": "Séries e TV",
+    "resumo": "Com Superman fora dos holofotes na Comic-Con 2025, a DC Studios concentra suas atenções na série Pacificador. A ausência se deve ao lançamento próximo do filme do herói, enquanto Supergirl também não será destaque.",
+    "thumb": "/uploads/sem-superman-surgem-detalhes-dos-planos-da-dc-studios-na-sdcc-2025-thumb.jpg",
+    "data": "2025-06-06T22:48:43.000Z",
+    "tags": [
+      "DC Studios",
+      "SDCC 2025",
+      "Comic-Con",
+      "Superman",
+      "Pacificador",
+      "James Gunn",
+      "Supergirl",
+      "John Cena",
+      "novidades DC"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2332,
+    "slugCategoria": "series-e-tv"
   },
   {
     "slug": "senhor-dos-anis-condado-tema-de-novo-set-de-lego-confira",
@@ -62572,6 +65433,30 @@
     "slugCategoria": "musica"
   },
   {
+    "slug": "sexta-feira-ainda-mais-louca-ganha-novo-trailer-e-pster",
+    "titulo": "Sexta-Feira Ainda Mais Louca: Novo Trailer e Pôster Revelados para a Sequência com Lindsay Lohan",
+    "categoria": "FILMES",
+    "resumo": "Sexta-Feira Ainda Mais Louca, continuação do clássico estrelado por Lindsay Lohan e Jamie Lee Curtis, ganha novos materiais promocionais antes de sua estreia em agosto de 2025.",
+    "thumb": "/uploads/sexta-feira-ainda-mais-louca-ganha-novo-trailer-e-pster-thumb.png",
+    "data": "2025-06-06T16:25:53.136Z",
+    "tags": [
+      "Sexta-Feira Ainda Mais Louca",
+      "Lindsay Lohan",
+      "Jamie Lee Curtis",
+      "Manny Jacinto",
+      "Chad Michael Murray",
+      "Disney+",
+      "troca de corpos",
+      "comédia",
+      "Jordan Weiss",
+      "Nisha Ganatra"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1536,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "sexta-feira-em-apuros-ganhar-novo-filme-com-ice-cube",
     "titulo": "Sexta-feira em Apuros ganhará novo filme com Ice Cube",
     "categoria": "FILMES",
@@ -62591,6 +65476,29 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 1356,
+    "slugCategoria": "filmes"
+  },
+  {
+    "slug": "sexta-feira-muito-louca-2-novas-trocas-de-corpos-sao-destaques-em-trailer-inedito",
+    "titulo": "Trailer de 'Uma Sexta-Feira Mais Louca Ainda' Revela Trocas Quádruplas de Corpo",
+    "categoria": "Filmes",
+    "resumo": "O aguardado filme 'Uma Sexta-Feira Mais Louca Ainda' promete uma nova rodada de confusões com trocas de corpos múltiplas, e estreia nos cinemas em 7 de agosto. O novo trailer, lançado pela Disney, revela detalhes intrigantes sobre essa aventura cômica.",
+    "thumb": "/uploads/sexta-feira-muito-louca-2-novas-trocas-de-corpos-sao-destaques-em-trailer-inedito-preview.jpg",
+    "data": "2025-06-06T16:55:53.000Z",
+    "tags": [
+      "Uma Sexta-Feira Mais Louca Ainda",
+      "trailer",
+      "troca de corpos",
+      "Disney",
+      "Jamie Lee Curtis",
+      "Lindsay Lohan",
+      "comdia",
+      "lanamento",
+      "cinema"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2489,
     "slugCategoria": "filmes"
   },
   {
@@ -63153,6 +66061,32 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "snoop-dogg-cinebiografia-do-rapper-enfim-encontra-diretor",
+    "titulo": "Cinebiografia de Snoop Dogg Ganha Direção de Craig Brewer",
+    "categoria": "FILMES",
+    "resumo": "O aguardado filme sobre Snoop Dogg será dirigido por Craig Brewer, conhecido pelo sucesso de 'Meu Nome É Dolemite'. O projeto promete explorar a vida do icônico rapper americano.",
+    "thumb": "/uploads/snoop-dogg-cinebiografia-do-rapper-enfim-encontra-diretor-thumb.png",
+    "data": "2025-06-06T19:16:44.389Z",
+    "tags": [
+      "Snoop Dogg",
+      "Craig Brewer",
+      "cinebiografia",
+      "Meu Nome É Dolemite",
+      "rap americano",
+      "Joe Robert Cole",
+      "Pantera Negra",
+      "Brian Grazer",
+      "Sara Ramaker",
+      "One Love",
+      "Bob Marley",
+      "Michael Jackson"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1546,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "so-paulo-ter-shows-gratuitos-de-ivete-sangalo-ludmilla-e-mano-brown",
     "titulo": "São Paulo terá shows gratuitos de Ivete Sangalo, Ludmilla e Mano Brown",
     "categoria": "MÚSICA",
@@ -63657,6 +66591,52 @@
     "slugCategoria": "entretenimento"
   },
   {
+    "slug": "sonic-racing-crossworlds-ganha-data-de-lanamento-veja-trailer",
+    "titulo": "Sonic Racing: Crossworlds Chega em Setembro com Trailer Empolgante",
+    "categoria": "GAMES",
+    "resumo": "A SEGA revela o lançamento de Sonic Racing: Crossworlds para 25 de setembro de 2025, com novidades emocionantes no Summer Game Fest.",
+    "thumb": "/uploads/sonic-racing-crossworlds-ganha-data-de-lanamento-veja-trailer-thumb.png",
+    "data": "2025-06-06T22:23:10.858Z",
+    "tags": [
+      "Sonic Racing: Crossworlds",
+      "SEGA",
+      "Summer Game Fest",
+      "lançamento 2025",
+      "PlayStation 5",
+      "Xbox Series X",
+      "Nintendo Switch",
+      "Travel Rings",
+      "Hatsune Miku",
+      "Joker",
+      "Ichiban Kasuga"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1593,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "sonic-racing-crossworlds-traz-hatsune-miku-joker-e-crossover-com-minecraft",
+    "titulo": "Sonic Racing: CrossWorlds Traz Hatsune Miku, Joker e Crossover com Minecraft",
+    "categoria": "Games",
+    "resumo": "O novo jogo de corrida da Sega, Sonic Racing: CrossWorlds, surpreende com personagens icônicos como Hatsune Miku e Joker de Persona 5, além de prometer uma colaboração com Minecraft. O jogo, que chega em setembro, oferece uma experiência inovadora de dimensionamento cruzado.",
+    "thumb": "/uploads/sonic-racing-crossworlds-traz-hatsune-miku-joker-e-crossover-com-minecraft-thumb.png",
+    "data": "2025-06-06T21:27:00.000Z",
+    "tags": [
+      "Sonic Racing: CrossWorlds",
+      "Hatsune Miku",
+      "Persona 5 Joker",
+      "Minecraft crossover",
+      "Sega",
+      "cross-play",
+      "Summer Game Fest 2025"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2254,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "sonic-rumble-do-estdio-de-angry-birds-adiado-indefinidamente",
     "titulo": "Sonic Rumble: Lançamento do Novo Jogo da SEGA é Adiado Indefinidamente",
     "categoria": "GAMES",
@@ -63962,6 +66942,30 @@
     "author": "Ana Luiza",
     "tempoLeitura": 3,
     "textoLength": 2611,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "splitgate-2-lanamento-oficial-traz-modo-battle-royale-e-surpreende-comunidade",
+    "titulo": "Splitgate 2: Lançamento Oficial Traz Modo Battle Royale e Surpreende Comunidade",
+    "categoria": "Games",
+    "resumo": "O aclamado shooter gratuito Splitgate 2 finalmente chegou à sua versão 1.0, introduzindo um aguardado modo battle royale. A revelação ocorreu durante o Summer Game Fest 2025, trazendo novidades emocionantes para os fãs.",
+    "thumb": "/uploads/splitgate-2-lanamento-oficial-traz-modo-battle-royale-e-surpreende-comunidade-thumb.png",
+    "data": "2025-06-06T22:58:00.000Z",
+    "tags": [
+      "Splitgate 2",
+      "battle royale",
+      "versão 1.0",
+      "Summer Game Fest 2025",
+      "1047 Games",
+      "Ian Proulx",
+      "shooter gratuito",
+      "comunidade de jogadores",
+      "mecânicas de portais",
+      "novidades em jogos"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2112,
     "slugCategoria": "games"
   },
   {
@@ -64767,6 +67771,27 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "star-wars-starfighter-ter-mia-goth-como-vil-em-filme-com-ryan-gosling",
+    "titulo": "Mia Goth e Ryan Gosling se Enfrentam em Novo Filme de Star Wars: Starfighter",
+    "categoria": "FILMES",
+    "resumo": "O universo de Star Wars se expande com 'Starfighter', trazendo Mia Goth como vilã ao lado de Ryan Gosling. A estreia está prevista para 2027, prometendo uma nova aventura intergaláctica.",
+    "thumb": "/uploads/star-wars-starfighter-ter-mia-goth-como-vil-em-filme-com-ryan-gosling-thumb.png",
+    "data": "2025-06-06T17:18:52.809Z",
+    "tags": [
+      "Star Wars",
+      "Starfighter",
+      "Mia Goth",
+      "Ryan Gosling",
+      "filme 2027",
+      "universo Star Wars",
+      "vilã Star Wars"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1626,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "star-wars-ter-srie-escrita-pelos-criadores-de-lost-e-watchmen-diz-insider",
     "titulo": "Expansão Galáctica: Criadores de 'Lost' e 'Watchmen' Escreverão Nova Série Star Wars",
     "categoria": "SÉRIES E TV",
@@ -65441,6 +68466,31 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "stranger-things-wandinha-e-round-6-novas-temporadas-ganham-trailer",
+    "titulo": "Netflix Lança Trailer das Novas Temporadas de Stranger Things, Wandinha e Round 6",
+    "categoria": "SÉRIES E TV",
+    "resumo": "A Netflix revelou um novo trailer que antecipa as próximas temporadas de suas séries de sucesso, incluindo Stranger Things, Wandinha e Round 6, com estreias marcadas para 2025.",
+    "thumb": "/uploads/stranger-things-wandinha-e-round-6-novas-temporadas-ganham-trailer-thumb.png",
+    "data": "2025-06-06T15:01:53.068Z",
+    "tags": [
+      "Netflix",
+      "Stranger Things",
+      "Wandinha",
+      "Round 6",
+      "novas temporadas",
+      "trailer",
+      "2025",
+      "Jenna Ortega",
+      "Emma Myers",
+      "Catherine Zeta-Jones",
+      "Lady Gaga"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1331,
+    "slugCategoria": "series-e-tv"
+  },
+  {
     "slug": "stranger-things-wandinha-round-6-e-mais-netflix-confirma-tudum-2025-em-maio",
     "titulo": "TUDUM 2025: Netflix Anuncia Data para o Grande Evento com 'Stranger Things', 'Wandinha' e 'Round 6'",
     "categoria": "SÉRIES E TV",
@@ -65460,6 +68510,32 @@
     "tempoLeitura": 2,
     "textoLength": 1898,
     "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "street-fighter-124-ator-de-vega-no-live-action-e-confirmado",
+    "titulo": "Orville Peck será Vega no Novo Filme de Street Fighter: Elenco Surpreende",
+    "categoria": "Filmes",
+    "resumo": "Orville Peck, famoso por seu mistério e talento musical, foi confirmado como Vega no próximo filme de Street Fighter. A produção está atraindo atenção com um elenco estrelado e uma direção promissora.",
+    "thumb": "/uploads/street-fighter-124-ator-de-vega-no-live-action-e-confirmado-thumb.webp",
+    "data": "2025-06-06T21:14:43.000Z",
+    "tags": [
+      "Orville Peck",
+      "Street Fighter",
+      "Vega",
+      "filme live-action",
+      "Legendary Entertainment",
+      "Capcom",
+      "Kitao Sakurai",
+      "elenco",
+      "Andrew Koji",
+      "Jason Momoa",
+      "Noah Centineo",
+      "Roman Reigns"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2588,
+    "slugCategoria": "filmes"
   },
   {
     "slug": "street-fighter-124-ator-de-vega-no-live-action-pode-ter-sido-revelado",
@@ -65613,6 +68689,30 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 1479,
+    "slugCategoria": "filmes"
+  },
+  {
+    "slug": "street-fighter-novo-filme-escala-o-cantor-country-orville-peck",
+    "titulo": "Orville Peck Estreia no Cinema em Novo Filme de Street Fighter",
+    "categoria": "FILMES",
+    "resumo": "O cantor country Orville Peck, famoso por suas máscaras, embarca no elenco do novo filme de Street Fighter ao lado de estrelas como Jason Momoa e Noah Centineo. A estreia cinematográfica do artista promete surpreender os fãs com uma possível conexão ao personagem Vega.",
+    "thumb": "/uploads/street-fighter-novo-filme-escala-o-cantor-country-orville-peck-thumb.jpg",
+    "data": "2025-06-06T21:19:04.794Z",
+    "tags": [
+      "Orville Peck",
+      "Street Fighter",
+      "Jason Momoa",
+      "Noah Centineo",
+      "Vega",
+      "Kitao Sakurai",
+      "Dalan Musson",
+      "Legendary Entertainment",
+      "Street Fighter 6",
+      "cinema"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1833,
     "slugCategoria": "filmes"
   },
   {
@@ -65833,6 +68933,27 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "summer-game-fest-2025-124-saiba-o-horario-e-onde-acompanhar-o-evento-ao-vivo",
+    "titulo": "Summer Game Fest 2025: Horário, Transmissão e Destaques Imperdíveis",
+    "categoria": "Games",
+    "resumo": "Prepare-se para o Summer Game Fest 2025, um dos eventos mais aguardados do universo dos games, trazendo novidades de mais de 60 estúdios. Descubra como e onde assistir às revelações ao vivo e o que esperar dessa edição.",
+    "thumb": "/uploads/summer-game-fest-2025-124-saiba-o-horario-e-onde-acompanhar-o-evento-ao-vivo-preview.jpg",
+    "data": "2025-06-06T14:34:24.000Z",
+    "tags": [
+      "Summer Game Fest 2025",
+      "Geoff Keighley",
+      "transmisso ao vivo",
+      "novidades de games",
+      "Hideo Kojima",
+      "Death Stranding 2",
+      "Xbox Games Showcase"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2270,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "summer-game-fest-2025-hideo-kojima-confirmado-no-evento",
     "titulo": "Hideo Kojima Confirmado no Summer Game Fest 2025: O Que Esperar?",
     "categoria": "GAMES",
@@ -65854,6 +68975,28 @@
     "slugCategoria": "games"
   },
   {
+    "slug": "summer-game-fest-2025-horrios-transmisso-e-destaques-do-evento-imperdvel",
+    "titulo": "Summer Game Fest 2025: Horários, Transmissão e Destaques do Evento Imperdível",
+    "categoria": "Games",
+    "resumo": "O Summer Game Fest 2025 promete ser uma vitrine espetacular para novos lançamentos no mundo dos games, com participações de peso e revelações aguardadas. Saiba como assistir, os horários e o que esperar deste evento que movimenta a indústria.",
+    "thumb": "/uploads/summer-game-fest-2025-horrios-transmisso-e-destaques-do-evento-imperdvel-thumb.jpeg",
+    "data": "2025-06-06T13:12:00.000Z",
+    "tags": [
+      "Summer Game Fest 2025",
+      "como assistir",
+      "horário",
+      "Geoff Keighley",
+      "Death Stranding 2",
+      "Hideo Kojima",
+      "lançamentos de jogos",
+      "Day of the Devs"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2408,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "summer-game-fest-2025-revela-desenvolvedoras-parceiras",
     "titulo": "Summer Game Fest 2025 em Los Angeles: Confira as Principais Desenvolvedoras e a Esperada Participação de Hideo Kojima",
     "categoria": "GAMES",
@@ -65872,6 +69015,29 @@
     "author": "Pablo Moura",
     "tempoLeitura": 1,
     "textoLength": 1280,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "summer-game-fest-2025-tudo-sobre-o-evento-e-onde-assistir",
+    "titulo": "Summer Game Fest 2025: Datas, Jogos e Onde Assistir ao Mega Evento",
+    "categoria": "GAMES",
+    "resumo": "O Summer Game Fest 2025 promete uma enxurrada de anúncios e revelações de jogos para todos os consoles. Descubra como acompanhar o evento ao vivo e fique por dentro das principais datas no calendário de games.",
+    "thumb": "/uploads/summer-game-fest-2025-tudo-sobre-o-evento-e-onde-assistir-thumb.png",
+    "data": "2025-06-06T16:27:19.063Z",
+    "tags": [
+      "Summer Game Fest 2025",
+      "Geoff Keighley",
+      "The Game Awards",
+      "transmissão ao vivo",
+      "cronograma de eventos",
+      "anúncios de jogos",
+      "Dying Light: The Beast",
+      "The Seven Deadly Sins: Origin",
+      "Death Stranding 2: On the Beach"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2005,
     "slugCategoria": "games"
   },
   {
@@ -66253,6 +69419,28 @@
     "tempoLeitura": 2,
     "textoLength": 2448,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "superman-124-fas-notam-mudanca-no-visual-do-filme",
+    "titulo": "Superman: Alterações no Visual do Filme Surpreendem Fãs da DC",
+    "categoria": "Séries e TV",
+    "resumo": "Os novos comerciais de TV do filme 'Superman' revelaram mudanças significativas no 'color grading', que agora apresenta uma paleta de cores mais vibrante. Esta modificação tem gerado discussões entre os fãs e especialistas em cinema.",
+    "thumb": "/uploads/superman-124-fas-notam-mudanca-no-visual-do-filme-thumb.webp",
+    "data": "2025-06-06T23:18:41.000Z",
+    "tags": [
+      "Superman",
+      "DC Studios",
+      "James Gunn",
+      "color grading",
+      "filme Superman 2025",
+      "mudanas visuais",
+      "estreia Superman",
+      "ps-produo cinematogrfica"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2148,
+    "slugCategoria": "series-e-tv"
   },
   {
     "slug": "superman-124-rachel-brosnahan-admite-ter-se-sentido-uma-8220-pessima-atriz-8221-no-inicio-das-filmagens",
@@ -66744,6 +69932,29 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "superman-esta-totalmente-finalizado-confirma-james-gunn-com-registro-inedito",
+    "titulo": "Superman 2025: James Gunn Confirma Finalização e Revela Registro Inédito",
+    "categoria": "Séries e TV",
+    "resumo": "James Gunn anuncia a conclusão da pós-produção de 'Superman' com uma imagem inédita do elenco no icônico Planeta Diário. A estreia do aguardado filme está marcada para julho de 2025.",
+    "thumb": "/uploads/superman-esta-totalmente-finalizado-confirma-james-gunn-com-registro-inedito-thumb.webp",
+    "data": "2025-06-06T10:16:04.000Z",
+    "tags": [
+      "Superman 2025",
+      "James Gunn",
+      "DC Studios",
+      "David Corenswet",
+      "ps-produo",
+      "estreia",
+      "filme Superman",
+      "Planeta Dirio",
+      "cenas ps-crditos"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2420,
+    "slugCategoria": "series-e-tv"
+  },
+  {
     "slug": "superman-filme-estar-pronto-nos-prximos-dias-diz-site",
     "titulo": "Superman: Filme de James Gunn está prestes a ser finalizado, revela site",
     "categoria": "FILMES",
@@ -67071,6 +70282,34 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "superman-ganha-teaser-apresentando-o-planeta-dirio-assista",
+    "titulo": "Superman: Novo Teaser Revela o Planeta Diário na Visão de James Gunn",
+    "categoria": "FILMES",
+    "resumo": "Um novo teaser do aguardado filme de Superman revela detalhes do Planeta Diário, onde Clark Kent inicia sua jornada como repórter. Estreia agendada para julho de 2025 promete um olhar fresco sobre o herói.",
+    "thumb": "/uploads/superman-ganha-teaser-apresentando-o-planeta-dirio-assista-thumb.png",
+    "data": "2025-06-06T18:29:16.156Z",
+    "tags": [
+      "Superman",
+      "James Gunn",
+      "Planeta Diário",
+      "David Corenswet",
+      "Rachel Brosnahan",
+      "Nicholas Hoult",
+      "DCU",
+      "Lanterna Verde",
+      "Mulher-Gavião",
+      "Metamorfo",
+      "Engenheira",
+      "The Authority",
+      "Clark Kent",
+      "Metrópoles"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1994,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "superman-ganha-teaser-aquecendo-para-o-trailer-desta-quarta-feira",
     "titulo": "Superman Retorna: Novo Filme do DCU Sob a Direção de James Gunn Promete Renovar o Legado do Herói",
     "categoria": "FILMES",
@@ -67132,6 +70371,32 @@
     "author": "Luana Souza",
     "tempoLeitura": 1,
     "textoLength": 815,
+    "slugCategoria": "filmes"
+  },
+  {
+    "slug": "superman-ganha-teaser-indito-com-lex-luthor-e-cenas-de-ao",
+    "titulo": "Novo Teaser de Superman Revela Confronto com Lex Luthor e Ação Intensa",
+    "categoria": "FILMES",
+    "resumo": "O mais recente teaser de Superman destaca cenas inéditas do herói enfrentando seu arqui-inimigo Lex Luthor, prometendo muita ação. Com um elenco estelar e direção de James Gunn, o filme estreia em julho de 2025.",
+    "thumb": "/uploads/superman-ganha-teaser-indito-com-lex-luthor-e-cenas-de-ao-thumb.png",
+    "data": "2025-06-06T15:01:14.596Z",
+    "tags": [
+      "Superman",
+      "Lex Luthor",
+      "Nicholas Hoult",
+      "David Corenswet",
+      "Rachel Brosnahan",
+      "James Gunn",
+      "DCU",
+      "filme de Superman",
+      "Lanterna Verde",
+      "Mulher-Gavião",
+      "HBO Max",
+      "estreia Superman 2025"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1794,
     "slugCategoria": "filmes"
   },
   {
@@ -67313,6 +70578,32 @@
     "tempoLeitura": 2,
     "textoLength": 2037,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "superman-inicia-marketing-viral-com-planeta-diario",
+    "titulo": "Marketing Viral de Superman Revoluciona a Promoção do Filme com Planeta Diário",
+    "categoria": "Séries e TV",
+    "resumo": "A Warner Bros. e a DC Studios inovam com uma campanha imersiva no Instagram, trazendo o Planeta Diário para a vida real. A ação envolve os fãs em uma experiência única, conectando o universo do Superman ao mundo atual.",
+    "thumb": "/uploads/superman-inicia-marketing-viral-com-planeta-diario-thumb.webp",
+    "data": "2025-06-06T20:23:18.000Z",
+    "tags": [
+      "Superman",
+      "marketing viral",
+      "Planeta Dirio",
+      "Warner Bros",
+      "DC Studios",
+      "Clark Kent",
+      "Perry White",
+      "campanha imersiva",
+      "Instagram",
+      "James Gunn",
+      "filme do Superman",
+      "universo cinematogrfico DC"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2512,
+    "slugCategoria": "series-e-tv"
   },
   {
     "slug": "superman-james-gunn-anuncia-novo-trailer-para-esta-quarta-feira-14",
@@ -67520,6 +70811,30 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "superman-krypto-deve-chegar-ao-fortnite-em-breve",
+    "titulo": "Krypto, o Supercão de Superman, em Breve no Fortnite: O Que Esperar?",
+    "categoria": "Séries e TV",
+    "resumo": "O icônico Krypto, o supercão de Superman, está prestes a fazer sua entrada triunfal no Fortnite, conforme rumores de fontes confiáveis. Descubra o impacto dessa adição no multijogador e como ela fortalece a parceria entre DC e Fortnite.",
+    "thumb": "/uploads/superman-krypto-deve-chegar-ao-fortnite-em-breve-thumb.png",
+    "data": "2025-06-06T17:38:49.000Z",
+    "tags": [
+      "Krypto",
+      "Superman",
+      "Fortnite",
+      "DC Comics",
+      "colaborao",
+      "jogo",
+      "multijogador",
+      "skins",
+      "atualizao",
+      "cultura pop"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 2269,
+    "slugCategoria": "series-e-tv"
+  },
+  {
     "slug": "superman-lanterna-verde-e-novos-viles-ganham-bonecos-funko-pop-veja-detalhes",
     "titulo": "Superman e Lanterna Verde Brilham em Novos Colecionáveis Funko Pop!",
     "categoria": "FILMES",
@@ -67588,6 +70903,30 @@
     "tempoLeitura": 2,
     "textoLength": 2367,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "superman-mostra-david-corenswet-em-acao-em-previas-com-cenas-ineditas",
+    "titulo": "Superman 2025: David Corenswet Brilha em Novas Cenas Inéditas",
+    "categoria": "Séries e TV",
+    "resumo": "O aguardado filme 'Superman' de 2025, dirigido por James Gunn, revela cenas inéditas com David Corenswet como protagonista. Com estreia marcada para julho, o longa promete redefinir o universo DC nos cinemas.",
+    "thumb": "/uploads/superman-mostra-david-corenswet-em-acao-em-previas-com-cenas-ineditas-thumb.webp",
+    "data": "2025-06-06T14:56:41.000Z",
+    "tags": [
+      "Superman 2025",
+      "David Corenswet",
+      "James Gunn",
+      "DC Studios",
+      "filme Superman",
+      "cenas inditas",
+      "universo DC",
+      "Rachel Brosnahan",
+      "Nicholas Hoult",
+      "estreia Superman"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 3,
+    "textoLength": 2552,
+    "slugCategoria": "series-e-tv"
   },
   {
     "slug": "superman-nova-imagem-de-lex-e-superman-revelada-confira",
@@ -68063,6 +71402,56 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "superman-ter-balde-de-pipoca-incrvel-nos-cinemas-do-reino-unido",
+    "titulo": "Novo Balde de Pipoca do Superman Surpreende Fãs no Reino Unido",
+    "categoria": "GAMES",
+    "resumo": "Fãs do Superman no Reino Unido podem desfrutar de um balde de pipoca exclusivo que simula a visão de calor do herói. Descubra todos os detalhes dessa novidade e do novo filme do DC Studios.",
+    "thumb": "https://cdn.ome.lt/fyeUyK3AVN1FJDcOt_CUQwayfIA=/480x360/smart/extras/conteudos/Captura_de_tela_2025-06-06_100643.png",
+    "data": "2025-06-06T13:31:42.925Z",
+    "tags": [
+      "Superman",
+      "DC Studios",
+      "James Gunn",
+      "David Corenswet",
+      "Rachel Brosnahan",
+      "Nicholas Hoult",
+      "Reino Unido",
+      "balde de pipoca Superman",
+      "VUE Cinemas",
+      "DC Universe",
+      "data de lançamento Superman"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2304,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "superman-ter-cena-ps-crditos-confirma-james-gunn",
+    "titulo": "Cena Pós-Créditos de Superman é Confirmada por James Gunn",
+    "categoria": "FILMES",
+    "resumo": "O novo filme do Superman, dirigido por James Gunn, terá pelo menos uma cena pós-créditos. O filme estreia em julho de 2025, e a expectativa é alta para o conteúdo dessas cenas.",
+    "thumb": "https://cdn.ome.lt/NULzCkl3l5veEXFpm8RvN5yJnjE=/480x360/smart/extras/conteudos/Captura_de_tela_2025-06-06_093124.png",
+    "data": "2025-06-06T13:00:38.258Z",
+    "tags": [
+      "Superman",
+      "James Gunn",
+      "cena pós-créditos",
+      "DC Studios",
+      "David Corenswet",
+      "Rachel Brosnahan",
+      "Nicholas Hoult",
+      "Lanterna Verde",
+      "Mulher-Gavião",
+      "DCU",
+      "filmes de super-herói"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1392,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "superman-ter-novo-trailer-nas-prximas-semanas",
     "titulo": "Superman terá novo trailer nas próximas semanas",
     "categoria": "FILMES",
@@ -68128,6 +71517,30 @@
     "tempoLeitura": 2,
     "textoLength": 1751,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "superman-usa-visao-de-calor-em-incrivel-novo-balde-de-pipoca-do-filme",
+    "titulo": "Superman e a Nova Experiência Cinematográfica: Balde de Pipoca com Visão de Calor",
+    "categoria": "Séries e TV",
+    "resumo": "A DC Studios inova ao lançar um balde de pipoca temático que destaca a emblemática visão de calor do Superman. O acessório antecipa um dos elementos marcantes do próximo filme do herói, que estreia em julho.",
+    "thumb": "/uploads/superman-usa-visao-de-calor-em-incrivel-novo-balde-de-pipoca-do-filme-thumb.webp",
+    "data": "2025-06-06T12:47:19.000Z",
+    "tags": [
+      "Superman",
+      "DC Studios",
+      "balde de pipoca",
+      "viso de calor",
+      "James Gunn",
+      "lanamento",
+      "Lex Luthor",
+      "David Corenswet",
+      "filme",
+      "marketing cinematogrfico"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 3,
+    "textoLength": 3021,
+    "slugCategoria": "series-e-tv"
   },
   {
     "slug": "superman-vai-custar-mais-de-us-400-milhoes-para-a-warner-e-dc",
@@ -68249,6 +71662,29 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "superman-veja-incrivel-balde-de-pipoca-inspirado-no-planeta-diario",
+    "titulo": "Superman 2025: Balde de Pipoca do Planeta Diário Aquece Expectativas para o Filme",
+    "categoria": "Séries e TV",
+    "resumo": "O lançamento de 'Superman (2025)' está gerando grande expectativa, e um balde de pipoca temático do Planeta Diário promete ser o novo queridinho dos fãs. Saiba mais sobre essa novidade exclusiva da Cineplex e os detalhes finais do filme de James Gunn.",
+    "thumb": "/uploads/superman-veja-incrivel-balde-de-pipoca-inspirado-no-planeta-diario-thumb.jpg",
+    "data": "2025-06-06T15:32:50.000Z",
+    "tags": [
+      "Superman 2025",
+      "James Gunn",
+      "Planeta Dirio",
+      "DC Comics",
+      "Cineplex",
+      "balde de pipoca temtico",
+      "estreia Superman",
+      "filme do Superman",
+      "DC Studios"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 2617,
+    "slugCategoria": "series-e-tv"
+  },
+  {
     "slug": "superman-vilo-clssico-da-dc-confirmado-em-livro-do-filme",
     "titulo": "Superman de James Gunn Revela Clássico Vilão da DC: Metallo Confirmado",
     "categoria": "FILMES",
@@ -68342,6 +71778,29 @@
     "author": "Ana Luiza",
     "tempoLeitura": 1,
     "textoLength": 1196,
+    "slugCategoria": "filmes"
+  },
+  {
+    "slug": "superman-warner-no-mudou-e-nem-poderia-mudar-o-filme-diz-james-gunn",
+    "titulo": "James Gunn Desmente Rumores de Cortes no Novo Filme do Superman",
+    "categoria": "FILMES",
+    "resumo": "James Gunn assegura aos fãs que a Warner não alterou o tempo de duração do novo filme do Superman. O diretor afirma que a produção está sob controle total do DC Studios.",
+    "thumb": "https://cdn.ome.lt/E8PWM-uokKhiCFBHxFdyzQbFVJU=/480x360/smart/extras/conteudos/Captura_de_tela_2025-06-06_085542.png",
+    "data": "2025-06-06T13:02:23.417Z",
+    "tags": [
+      "James Gunn",
+      "Superman",
+      "DC Studios",
+      "Warner",
+      "David Corenswet",
+      "Rachel Brosnahan",
+      "Lex Luthor",
+      "DCU",
+      "filme do Superman"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1528,
     "slugCategoria": "filmes"
   },
   {
@@ -68768,12 +72227,38 @@
       "Hades 2",
       "Donkey Kong Bananza",
       "4K",
-      "HDR"
+      "HDR",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1844,
     "slugCategoria": "games"
+  },
+  {
+    "slug": "switch-2-onde-comprar-zelda-acessrios-e-mais-jogos-para-o-console",
+    "titulo": "Nintendo Switch 2: Onde Comprar Zelda, Acessórios e Jogos no Brasil",
+    "categoria": "OFERTAS",
+    "resumo": "Descubra onde adquirir o novo Nintendo Switch 2, seus acessórios e jogos icônicos como Zelda no Brasil. Confira as melhores ofertas disponíveis nas principais lojas online.",
+    "thumb": "/uploads/switch-2-onde-comprar-zelda-acessrios-e-mais-jogos-para-o-console-thumb.png",
+    "data": "2025-06-06T15:02:34.070Z",
+    "tags": [
+      "Nintendo Switch 2",
+      "Zelda",
+      "The Legend of Zelda",
+      "acessórios Switch 2",
+      "onde comprar Switch 2",
+      "jogos Nintendo Switch 2",
+      "Mercado Livre",
+      "Kabum",
+      "Mario Kart World",
+      "Hades 2",
+      "Joy-Con"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 2,
+    "textoLength": 1745,
+    "slugCategoria": "ofertas"
   },
   {
     "slug": "switch-2-pode-vender-15-milhes-de-unidades-em-menos-de-um-ano",
@@ -68811,6 +72296,28 @@
     "author": "Pablo Moura",
     "tempoLeitura": 1,
     "textoLength": 1062,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "switch-2-surpreende-ao-suportar-mouse-e-teclado-em-cyberpunk-2077",
+    "titulo": "Switch 2 Surpreende ao Suportar Mouse e Teclado em Cyberpunk 2077",
+    "categoria": "Games",
+    "resumo": "O recém-lançado Switch 2 traz Cyberpunk 2077 como destaque e surpreende ao oferecer suporte nativo para mouse e teclado, ampliando as possibilidades de jogabilidade. Descubra como essa inovação pode mudar a experiência dos jogadores na nova geração da Nintendo.",
+    "thumb": "/uploads/switch-2-surpreende-ao-suportar-mouse-e-teclado-em-cyberpunk-2077-thumb.jpg",
+    "data": "2025-06-06T19:02:00.000Z",
+    "tags": [
+      "Switch 2",
+      "Cyberpunk 2077",
+      "suporte mouse teclado",
+      "Nintendo",
+      "CD Projekt Red",
+      "Joy-Con 2",
+      "lançamento Switch 2",
+      "especial-Nintendo Switch 2"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2532,
     "slugCategoria": "games"
   },
   {
@@ -68953,6 +72460,33 @@
     "tempoLeitura": 2,
     "textoLength": 1382,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "sydney-sweeney-diz-que-cassie-esta-8220-ainda-pior-8221-na-3-temporada-de-euphoria",
+    "titulo": "Sydney Sweeney revela: Cassie está mais instável na 3ª temporada de Euphoria",
+    "categoria": "Séries e TV",
+    "resumo": "A atriz Sydney Sweeney compartilhou detalhes sobre o retorno de sua personagem Cassie em Euphoria, prometendo uma versão ainda mais intensa. A série da HBO está prevista para voltar em 2026.",
+    "thumb": "/uploads/sydney-sweeney-diz-que-cassie-esta-8220-ainda-pior-8221-na-3-temporada-de-euphoria-preview.jpg",
+    "data": "2025-06-06T20:45:52.000Z",
+    "tags": [
+      "Sydney Sweeney",
+      "Euphoria",
+      "Cassie",
+      "terceira temporada",
+      "HBO",
+      "2026",
+      "rumores de casamento",
+      "Nate",
+      "Jacob Elordi",
+      "Echo Valley",
+      "Apple TV",
+      "Sam Levinson",
+      "drama jovem"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2356,
+    "slugCategoria": "series-e-tv"
   },
   {
     "slug": "sydney-sweeney-diz-que-esta-amando-sua-nova-fase-apos-separacao",
@@ -69355,6 +72889,28 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "tencent-adquire-parte-das-acoes-da-arrowhead-games-estudio-de-helldivers",
+    "titulo": "Tencent Expande Influência com Aquisição de Ações da Arrowhead Games, Criadora de Helldivers",
+    "categoria": "Games",
+    "resumo": "A gigante chinesa Tencent adquiriu 15,75% das ações da Arrowhead Games, desenvolvedora do aclamado Helldivers, por US$ 83 milhões, visando expandir o alcance da franquia no mercado chinês.",
+    "thumb": "/uploads/tencent-adquire-parte-das-acoes-da-arrowhead-games-estudio-de-helldivers-thumb.webp",
+    "data": "2025-06-06T12:27:56.000Z",
+    "tags": [
+      "Tencent",
+      "Arrowhead Games",
+      "Helldivers",
+      "aquisio",
+      "mercado de jogos",
+      "parceria",
+      "investimento",
+      "indstria de games"
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 2433,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "terra-da-mfia-pierce-brosnan-criticado-por-sotaque-ruim-na-srie",
     "titulo": "Críticas ao Sotaque de Pierce Brosnan em 'Terra da Máfia': Uma Questão de Autenticidade",
     "categoria": "SÉRIES E TV",
@@ -69569,7 +73125,8 @@
       "resistência a quedas",
       "console",
       "Mario Kart World",
-      "protetor de tela"
+      "protetor de tela",
+      "especial-Nintendo Switch 2"
     ],
     "author": "Pablo Moura",
     "tempoLeitura": 2,
@@ -73579,6 +77136,30 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "thunderbolts-124-arte-conceitual-revela-visual-alternativo-da-treinadora",
+    "titulo": "Thunderbolts: Arte Conceitual Revela Visual Inédito e Sombrio da Treinadora",
+    "categoria": "Filmes",
+    "resumo": "Uma nova arte conceitual da Treinadora em 'Thunderbolts' traz um visual alternativo intrigante e mais tático. O artista Aleksi Briclot compartilhou a imagem e suas inspirações nas redes sociais.",
+    "thumb": "/uploads/thunderbolts-124-arte-conceitual-revela-visual-alternativo-da-treinadora-thumb.webp",
+    "data": "2025-06-06T21:37:50.000Z",
+    "tags": [
+      "Thunderbolts",
+      "Treinadora",
+      "Marvel Studios",
+      "Aleksi Briclot",
+      "Viva Negra",
+      "BlackOps",
+      "Olga Kurylenko",
+      "Disney",
+      "Universo Cinematogrfico da Marvel",
+      "Arte Conceitual"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2176,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "thunderbolts-agente-americano-chamado-de-capito-amrica-juvenil-em-cena",
     "titulo": "Cenas Inéditas de 'Thunderbolts' Reveal Tensão e Humor no MCU",
     "categoria": "FILMES",
@@ -73941,6 +77522,21 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 1493,
+    "slugCategoria": "filmes"
+  },
+  {
+    "slug": "thunderbolts-feige-explica-cena-ps-crditos-e-impacto-em-vingadores-doomsday",
+    "titulo": "Thunderbolts: Cena Pós-Créditos Pode Redefinir Rumos dos Vingadores",
+    "categoria": "FILMES",
+    "resumo": "Kevin Feige sugere que a cena pós-créditos de Thunderbolts pode não ser o que parece, impactando diretamente Vingadores: Doomsday. O crossover com o Quarteto Fantástico e outras surpresas prometem mexer com o MCU.",
+    "thumb": "https://cdn.ome.lt/vcVHjGS3LJ8emLYv8Ybs4d0aRZM=/480x360/smart/extras/conteudos/Captura_de_tela_2025-06-06_090404.png",
+    "data": "2025-06-06T13:01:22.723Z",
+    "tags": [
+      ""
+    ],
+    "author": "Ana Luiza",
+    "tempoLeitura": 2,
+    "textoLength": 1893,
     "slugCategoria": "filmes"
   },
   {
@@ -75277,6 +78873,44 @@
     "slugCategoria": "filmes"
   },
   {
+    "slug": "tom-cruise-entra-para-o-guinness-book-com-cena-de-misso-impossvel-8",
+    "titulo": "Tom Cruise Quebra Recorde no Guinness com Salto Inédito em Missão Impossível 8",
+    "categoria": "FILMES",
+    "resumo": "Tom Cruise entra para o Guinness Book após realizar 16 saltos de paraquedas em chamas durante as filmagens de Missão: Impossível - O Acerto Final. A cena marca um dos momentos mais ousados da saga de Ethan Hunt.",
+    "thumb": "/uploads/tom-cruise-entra-para-o-guinness-book-com-cena-de-misso-impossvel-8-thumb.png",
+    "data": "2025-06-06T16:26:38.580Z",
+    "tags": [
+      "Tom Cruise",
+      "Guinness Book",
+      "Missão Impossível 8",
+      "Missão: Impossível - O Acerto Final",
+      "Ethan Hunt",
+      "Craig Glenday",
+      "Christopher McQuarrie",
+      "Ving Rhames",
+      "Henry Czerny",
+      "Simon Pegg",
+      "Vanessa Kirby",
+      "Esai Morales",
+      "Hayley Atwell",
+      "Shea Whigham",
+      "Greg Tarzan Davis",
+      "Pom Klementieff",
+      "Katy O'Brian",
+      "Holt McCallany",
+      "Nick Offerman",
+      "Janet McTeer",
+      "Hannah Waddingham",
+      "William Donloe",
+      "Rolf Saxon",
+      "Paramount Pictures"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1784,
+    "slugCategoria": "filmes"
+  },
+  {
     "slug": "tom-cruise-homenageia-val-kilmer-parceiro-de-top-gun-na-cinemacon",
     "titulo": "Tom Cruise presta homenagem a Val Kilmer durante a CinemaCon 2025",
     "categoria": "FILMES",
@@ -75450,6 +79084,32 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 1773,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "tony-hawk-s-pro-skater-3-4-ganha-data-de-lancamento-no-nintendo-switch-2",
+    "titulo": "Tony Hawk’s Pro Skater 3 + 4: Lançamento no Nintendo Switch 2 Surpreende Fãs",
+    "categoria": "Games",
+    "resumo": "A Activision confirma a chegada de Tony Hawk’s Pro Skater 3 + 4 ao Nintendo Switch 2, com lançamento simultâneo em várias plataformas. Conheça as novidades e relembre os clássicos skatistas que estarão de volta.",
+    "thumb": "/uploads/tony-hawk-s-pro-skater-3-4-ganha-data-de-lancamento-no-nintendo-switch-2-thumb.webp",
+    "data": "2025-06-06T19:40:56.000Z",
+    "tags": [
+      "Tony Hawks Pro Skater 3  4",
+      "Nintendo Switch 2",
+      "Activision",
+      "lanamento",
+      "skatistas",
+      "Bam Margera",
+      "Margielyn Didal",
+      "jogos clssicos",
+      "nova gerao",
+      "remakes",
+      "Tony Hawk",
+      "especial-Nintendo Switch 2"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2341,
     "slugCategoria": "games"
   },
   {
@@ -76107,6 +79767,30 @@
     "author": "Pablo Moura",
     "tempoLeitura": 2,
     "textoLength": 2282,
+    "slugCategoria": "series-e-tv"
+  },
+  {
+    "slug": "turma-da-mnica-jovem-ganha-especial-na-max-e-cartoon-network-saiba-tudo",
+    "titulo": "Turma da Mônica Jovem: Especial Exclusivo Chega ao Max e Cartoon Network",
+    "categoria": "SÉRIES E TV",
+    "resumo": "Descubra todos os detalhes do especial da Turma da Mônica Jovem, incluindo pôster, data de estreia e o enredo que promete surpreender os fãs.",
+    "thumb": "/uploads/turma-da-mnica-jovem-ganha-especial-na-max-e-cartoon-network-saiba-tudo-thumb.jpg",
+    "data": "2025-06-06T17:20:05.229Z",
+    "tags": [
+      "Turma da Mônica Jovem",
+      "especial",
+      "Max",
+      "Cartoon Network",
+      "Mônica e Cebola",
+      "Incertezas",
+      "Milena",
+      "data de estreia",
+      "pôster",
+      "primeira temporada"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 1889,
     "slugCategoria": "series-e-tv"
   },
   {
@@ -77447,6 +81131,28 @@
     "tempoLeitura": 3,
     "textoLength": 2848,
     "slugCategoria": "filmes"
+  },
+  {
+    "slug": "vaza-a-suposta-data-de-lancamento-de-crimson-desert",
+    "titulo": "Data de Lançamento de Crimson Desert Pode Ter Sido Revelada por Vazamento",
+    "categoria": "Games",
+    "resumo": "Uma listagem vazada sugere que Crimson Desert será lançado em 2 de dezembro, antes mesmo de um anúncio na Summer Game Fest. As edições Deluxe e Colecionador também tiveram detalhes revelados.",
+    "thumb": "/uploads/vaza-a-suposta-data-de-lancamento-de-crimson-desert-thumb.jpg",
+    "data": "2025-06-06T17:37:05.000Z",
+    "tags": [
+      "Crimson Desert",
+      "Pearl Abyss",
+      "lanamento",
+      "Summer Game Fest",
+      "edio Deluxe",
+      "edio Colecionador",
+      "RPG de ao",
+      "data de lanamento"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 3,
+    "textoLength": 2698,
+    "slugCategoria": "games"
   },
   {
     "slug": "vaza-imagem-da-colecao-lego-minifigures-de-homem-aranha-atraves-do-aranhaverso",
@@ -80841,6 +84547,29 @@
     "slugCategoria": "series-e-tv"
   },
   {
+    "slug": "wildgate-beta-aberta-do-jogo-espacial-pvp-comea-em-breve",
+    "titulo": "Wildgate: Beta Aberta do Jogo Espacial PvP Começa em Breve",
+    "categoria": "Games",
+    "resumo": "Prepare-se para explorar os confins do espaço com Wildgate, o novo jogo PvP da Dreamhaven. A beta aberta começa em 9 de junho, oferecendo uma experiência de combate intergaláctico intensa.",
+    "thumb": "/uploads/wildgate-beta-aberta-do-jogo-espacial-pvp-comea-em-breve-thumb.png",
+    "data": "2025-06-06T22:41:00.000Z",
+    "tags": [
+      "Wildgate",
+      "jogo PvP",
+      "beta aberta",
+      "Dreamhaven",
+      "Michael Morhaime",
+      "combate espacial",
+      "Steam NextFest",
+      "PS5",
+      "Xbox Series X|S"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 2,
+    "textoLength": 2291,
+    "slugCategoria": "games"
+  },
+  {
     "slug": "will-smith-lana-based-on-a-true-story-seu-primeiro-lbum-em-20-anos",
     "titulo": "Will Smith estreia 'Based on a True Story', seu primeiro álbum em duas décadas",
     "categoria": "MÚSICA",
@@ -81031,6 +84760,50 @@
     "author": "Ana Luiza",
     "tempoLeitura": 2,
     "textoLength": 1780,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "wu-tang-clan-retorna-aos-games-com-wu-tang-rise-of-the-deceiver",
+    "titulo": "Wu-Tang Clan Retorna aos Games com Wu-Tang: Rise of the Deceiver",
+    "categoria": "Games",
+    "resumo": "O lendário grupo Wu-Tang Clan está de volta ao universo dos jogos com 'Wu-Tang: Rise of the Deceiver', um brawler cooperativo eletrizante. Descubra os detalhes do jogo e o que esperar dessa nova aventura épica.",
+    "thumb": "/uploads/wu-tang-clan-retorna-aos-games-com-wu-tang-rise-of-the-deceiver-thumb.png",
+    "data": "2025-06-06T23:02:00.000Z",
+    "tags": [
+      "Wu-Tang Clan",
+      "Rise of the Deceiver",
+      "brawler cooperativo",
+      "Summer Game Fest 2025",
+      "jogos de ação",
+      "cultura hip-hop",
+      "inovação cultural"
+    ],
+    "author": "Pablo Moura",
+    "tempoLeitura": 3,
+    "textoLength": 2766,
+    "slugCategoria": "games"
+  },
+  {
+    "slug": "wuchang-fallen-feathers-confira-novo-trailer-do-game-de-ao",
+    "titulo": "Wuchang: Fallen Feathers Revela Trailer Inédito e Data de Lançamento",
+    "categoria": "GAMES",
+    "resumo": "Durante o Summer Game Fest 2025, Wuchang: Fallen Feathers ganhou um novo trailer, destacando a protagonista e o universo sombrio do game. O lançamento está previsto para julho deste ano.",
+    "thumb": "/uploads/wuchang-fallen-feathers-confira-novo-trailer-do-game-de-ao-thumb.png",
+    "data": "2025-06-06T23:19:02.901Z",
+    "tags": [
+      "Wuchang: Fallen Feathers",
+      "Summer Game Fest 2025",
+      "PS5",
+      "Xbox Series",
+      "PC",
+      "soulslike",
+      "dinastia Ming",
+      "mitologia chinesa",
+      "Feathering"
+    ],
+    "author": "Luana Souza",
+    "tempoLeitura": 1,
+    "textoLength": 1177,
     "slugCategoria": "games"
   },
   {
