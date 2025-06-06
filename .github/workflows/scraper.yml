@@ -1,12 +1,12 @@
 name: Scrape automático
 
 on:
-  workflow_dispatch: # permite rodar manualmente
+  workflow_dispatch:
   schedule:
     - cron: '0 11-23,0,1 * * *'
 
 permissions:
-  contents: write # permite push com GITHUB_TOKEN
+  contents: write
 
 jobs:
   scrape:
@@ -54,10 +54,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Commit imagens salvas
+        run: |
+          git add public/uploads
+          if git diff --cached --quiet; then
+            echo "🟡 Nenhuma imagem nova para commit."
+          else
+            git commit -m "📸 Upload de imagens salvas automaticamente"
+            git push
+
       - name: Comita novos posts
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin main
           git reset --soft origin/main
           git add -f content/ public/posts.json
