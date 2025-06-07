@@ -40,11 +40,15 @@ jobs:
           git fetch origin tweet-log || echo "Branch tweet-log ainda não existe, tudo bem."
           git checkout -B tweet-log origin/tweet-log || git checkout -b tweet-log
 
-      # Commit e push do tweet log
       - name: Commit e push do tweet log
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/tweet-log.json
-          git commit -m "🤖 Atualiza tweet log automaticamente" || echo "Nada para commitar"
-          git push origin tweet-log
+
+          if [ -f public/tweet-log.json ]; then
+            git add public/tweet-log.json
+            git commit -m "🤖 Atualiza tweet log automaticamente" || echo "Nada para commitar"
+            git push origin tweet-log
+          else
+            echo "⚠️ tweet-log.json não encontrado, nada para commitar."
+          fi
