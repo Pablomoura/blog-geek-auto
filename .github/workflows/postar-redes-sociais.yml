@@ -35,7 +35,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin social-log || echo "Rebase falhou ou não necessário"
+
+          # Garante que você está sincronizado com o social-log antes de rodar
+          git fetch origin social-log
+          git reset --hard origin/social-log
+
+          # Agora adiciona e commita
           git add public/social-post-log.json
           git commit -m "🤖 Atualiza log de posts sociais" || echo "Nada para commitar"
           git push origin HEAD:social-log
