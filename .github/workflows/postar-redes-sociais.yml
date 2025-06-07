@@ -1,11 +1,9 @@
 name: 📣 Postar nas redes sociais
 
 on:
-  workflow_dispatch: # permite rodar manualmente
-  workflow_run:
-    workflows: ["Scrape automático"]
-    types:
-      - completed
+  schedule:
+    - cron: '0 6 * * *'  # ⏰ Executa todos os dias às 6h UTC
+  workflow_dispatch:  # ✅ Permite execução manual
 
 jobs:
   postar-redes-sociais:
