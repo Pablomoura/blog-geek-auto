@@ -11,7 +11,7 @@ tags: ["Predador", "Dan Trachtenberg", "A Caçada", "Assassino de Assassinos", "
 keywords: "Predador, Dan Trachtenberg, A Caçada, Assassino de Assassinos, filme de ação, cultura pop, alienígena, saga Predador"
 author: "Pablo Moura"
 data: "2025-06-05T15:02:12.691Z"
-tituloPortugues: ""
+tituloPortugues: "Predador: Assassino de Assassinos"
 capaObra: "https://cdn.ome.lt/filkBfgfncCg8v4zOphoKrnakck=/308x500/smart/extras/capas/predador-poster.jpeg"
 notaCritico: 4
 tituloOriginal: "Predator: Killer of Killers"

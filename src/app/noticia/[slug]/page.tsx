@@ -53,9 +53,9 @@ export async function generateMetadata({
     const { data } = matter(file);
 
     const imageUrl =
-      data.thumb?.startsWith("http") || data.midia?.startsWith("http")
-        ? data.thumb || data.midia
-        : `https://www.geeknews.com.br${data.thumb || data.midia || ""}`;
+      data.tipoMidia === "imagem"
+        ? (data.midia?.startsWith("http") ? data.midia : `https://www.geeknews.com.br${data.midia}`)
+        : (data.thumb?.startsWith("http") ? data.thumb : `https://www.geeknews.com.br${data.thumb}`);
 
     const canonicalUrl = `https://www.geeknews.com.br/noticia/${slug}`;
 

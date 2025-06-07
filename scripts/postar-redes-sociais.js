@@ -35,7 +35,9 @@ try {
 }
 
 // Ordena por data DESC → para pegar o post mais recente ainda não publicado
-posts.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
+posts = posts
+  .sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime())
+  .slice(0, 20);
 
 // Seleciona o primeiro post que ainda não foi publicado
 const postParaPostar = posts.find((p) => !postLog.includes(p.slug));
@@ -49,7 +51,7 @@ console.log(`📢 Preparando para compartilhar: ${postParaPostar.titulo} (${post
 
 // Publica no Facebook com imagem
 async function postToFacebook(post) {
-  const caption = `📰 ${post.titulo}\n\nLeia mais: https://www.geeknews.com.br/noticia/${post.slug}`;
+  const caption = `${post.titulo}\n\nLeia mais: https://www.geeknews.com.br/noticia/${post.slug}`;
 
   if (!post.thumb || post.thumb.trim() === '') {
     console.warn('⚠️ Post não tem thumb definida, pulando postagem no Facebook.');
@@ -76,7 +78,7 @@ async function postToFacebook(post) {
 
 // Publica no Threads
 async function postToThreads(post) {
-  const message = `📰 ${post.titulo}\n\nLeia mais: https://www.geeknews.com.br/noticia/${post.slug}`;
+  const message = `${post.titulo}\n\nLeia mais: https://www.geeknews.com.br/noticia/${post.slug}`;
   try {
     console.log('➡️ Criando post no Threads...');
     const createResponse = await axios.post(

@@ -69,6 +69,7 @@ jobs:
         run: |
           git fetch origin main
           git reset --soft origin/main
+          git pull --rebase origin main || echo "Rebase falhou ou não necessário"
           git add -f content/ public/posts.json
           git commit -m "🤖 Atualiza posts automaticamente" || echo "Nada para commitar"
           git push origin HEAD:main

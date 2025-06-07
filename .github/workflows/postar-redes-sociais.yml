@@ -1,19 +1,14 @@
 name: 📣 Postar nas redes sociais
 
 on:
+  schedule:
+    - cron: '*/10 * * * *' # a cada 10 minutos
   workflow_dispatch: # permite rodar manualmente
-  workflow_run:
-    workflows: ["Scrape automático"] # roda automaticamente após o Scrape
-    types:
-      - completed
 
 jobs:
   postar-redes-sociais:
     name: 🤖 Postar nas redes sociais
     runs-on: ubuntu-latest
-
-    # Só se o workflow de Scrape terminou com sucesso
-    # if: ${{ github.event.workflow_run.conclusion == 'success' }}
 
     env:
       FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
@@ -40,6 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main || echo "Rebase falhou ou não necessário"
           git add public/social-post-log.json
           git commit -m "🤖 Atualiza log de posts sociais" || echo "Nada para commitar"
           git push origin main
