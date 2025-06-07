@@ -1,14 +1,19 @@
 name: 📣 Postar nas redes sociais
 
 on:
-  schedule:
-    - cron: '0 6 * * *'  # ⏰ Executa todos os dias às 6h UTC
-  workflow_dispatch:  # ✅ Permite execução manual
+  workflow_dispatch: # permite rodar manualmente
+  workflow_run:
+    workflows: ["Scrape automático"] # roda automaticamente após o Scrape
+    types:
+      - completed
 
 jobs:
   postar-redes-sociais:
     name: 🤖 Postar nas redes sociais
     runs-on: ubuntu-latest
+
+    # Só se o workflow de Scrape terminou com sucesso
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
 
     env:
       FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
@@ -30,3 +35,11 @@ jobs:
 
       - name: 🚀 Rodar script de postagem nas redes sociais
         run: npx tsx scripts/postar-redes-sociais.js
+
+      - name: 📝 Commit log de posts sociais
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/social-post-log.json
+          git commit -m "🤖 Atualiza log de posts sociais" || echo "Nada para commitar"
+          git push origin main
