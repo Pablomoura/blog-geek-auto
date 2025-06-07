@@ -1,14 +1,31 @@
 ---
-title: "Novidades Emocionantes da Happy Camper: Descubra 'The Four Doors' e 'Jungo'"
-slug: "break-on-through-the-four-doors-and-welcome-to-the-jungo"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/zFIEf3IRg7SnCpaWRXv9Rw__imagepage/img/rb4o7WlHzWBUz3X3-HSk-ZkSPfA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8918873.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/zFIEf3IRg7SnCpaWRXv9Rw__imagepage/img/rb4o7WlHzWBUz3X3-HSk-ZkSPfA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8918873.jpg"
-tags: ["Happy Camper", "Gen Con 2025", "The Four Doors", "Jungo", "jogos de tabuleiro", "Matt Leacock", "Toshiki Arao", "jogos cooperativos", "construção de mãos"]
-keywords: "Happy Camper, Gen Con 2025, The Four Doors, Jungo, jogos de tabuleiro, Matt Leacock, Toshiki Arao, jogos cooperativos, construção de mãos"
-author: "Ana Luiza"
-data: "2025-06-07T06:25:12.530Z"
+title: 'Novidades Emocionantes da Happy Camper: Descubra ''The Four Doors'' e ''Jungo'''
+slug: break-on-through-the-four-doors-and-welcome-to-the-jungo
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/zFIEf3IRg7SnCpaWRXv9Rw__imagepage/img/rb4o7WlHzWBUz3X3-HSk-ZkSPfA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8918873.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/zFIEf3IRg7SnCpaWRXv9Rw__imagepage/img/rb4o7WlHzWBUz3X3-HSk-ZkSPfA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8918873.jpg
+tags:
+  - Happy Camper
+  - Gen Con 2025
+  - The Four Doors
+  - Jungo
+  - jogos de tabuleiro
+  - Matt Leacock
+  - Toshiki Arao
+  - jogos cooperativos
+  - construção de mãos
+keywords: >-
+  Happy Camper, Gen Con 2025, The Four Doors, Jungo, jogos de tabuleiro, Matt
+  Leacock, Toshiki Arao, jogos cooperativos, construção de mãos
+author: Ana Luiza
+data: '2025-06-07T06:25:12.530Z'
+resumo: >-
+  Happy Camper traz dois jogos imperdíveis para a Gen Con 2025: 'The Four
+  Doors', um jogo cooperativo inovador, e 'Jungo', uma emocionante experiência
+  de construção de mãos.
 ---
 
 ## The Four Doors: Uma Aventura Cooperativa
