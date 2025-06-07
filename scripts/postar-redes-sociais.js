@@ -34,6 +34,9 @@ try {
   console.log('ℹ️ Nenhum log existente, criando um novo.');
 }
 
+// Ordena por data DESC → para pegar o post mais recente ainda não publicado
+posts.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
+
 // Seleciona o primeiro post que ainda não foi publicado
 const postParaPostar = posts.find((p) => !postLog.includes(p.slug));
 
@@ -44,13 +47,20 @@ if (!postParaPostar) {
 
 console.log(`📢 Preparando para compartilhar: ${postParaPostar.titulo} (${postParaPostar.slug})`);
 
-// Publica no Facebook
+// Publica no Facebook com imagem
 async function postToFacebook(post) {
-  const message = `📰 ${post.titulo}\n\nLeia mais: https://www.geeknews.com.br/noticia/${post.slug}`;
+  const caption = `📰 ${post.titulo}\n\nLeia mais: https://www.geeknews.com.br/noticia/${post.slug}`;
+
+  if (!post.thumb || post.thumb.trim() === '') {
+    console.warn('⚠️ Post não tem thumb definida, pulando postagem no Facebook.');
+    return;
+  }
+
   try {
-    console.log('➡️ Publicando no Facebook...');
-    const response = await axios.post(`https://graph.facebook.com/${process.env.FACEBOOK_PAGE_ID}/feed`, {
-      message,
+    console.log(`➡️ Publicando no Facebook com imagem: ${post.thumb}`);
+    const response = await axios.post(`https://graph.facebook.com/${process.env.FACEBOOK_PAGE_ID}/photos`, {
+      url: post.thumb,
+      caption,
       access_token: process.env.FACEBOOK_PAGE_ACCESS_TOKEN,
     });
     console.log('✅ Facebook:', response.data);
