@@ -31,16 +31,18 @@ jobs:
       - name: 🚀 Rodar script de postagem nas redes sociais
         run: npx tsx scripts/postar-redes-sociais.js
 
-      - name: 📝 Commit log de posts sociais (branch social-log)
+      # Checkout na branch social-log (cria se não existir)
+      - name: Checkout branch social-log
+        run: |
+          git fetch origin social-log || echo "Branch social-log ainda não existe, tudo bem."
+          git checkout -B social-log origin/social-log || git checkout -b social-log
+
+      # Commit e push do social-post-log.json
+      - name: Commit e push do log de posts sociais
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Garante que você está sincronizado com o social-log antes de rodar
-          git fetch origin social-log
-          git reset --hard origin/social-log
-
-          # Agora adiciona e commita
           git add public/social-post-log.json
           git commit -m "🤖 Atualiza log de posts sociais" || echo "Nada para commitar"
-          git push origin HEAD:social-log
+          git push origin social-log

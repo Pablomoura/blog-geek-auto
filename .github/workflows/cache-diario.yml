@@ -3,7 +3,7 @@ name: Tweetador
 on:
   schedule:
     - cron: '30 11-23,0,2 * * *' # Executa a cada hora entre 11h e 1h do dia seguinte
-  workflow_dispatch:     # Permite executar manualmente no GitHub
+  workflow_dispatch: # Permite executar manualmente no GitHub
 
 jobs:
   gerar-cache:
@@ -34,20 +34,17 @@ jobs:
       - name: Roda o gerador de cache
         run: node scripts/gerar-cache-posts.js
 
-      - name: Commit e push do cache (somente se mudou)
+      # Checkout na branch tweet-log (cria se não existir)
+      - name: Checkout branch tweet-log
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main || echo "Rebase falhou ou não necessário"
-          git diff --quiet public/cache-posts.json || git add public/cache-posts.json
-          git commit -m "update: cache atualizado automaticamente" || echo "nada para commitar"
-          git push origin main
+          git fetch origin tweet-log || echo "Branch tweet-log ainda não existe, tudo bem."
+          git checkout -B tweet-log origin/tweet-log || git checkout -b tweet-log
 
-      - name: Commit e push do tweet log (em branch tweet-log)
+      # Commit e push do tweet log
+      - name: Commit e push do tweet log
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin tweet-log || echo "Rebase falhou ou não necessário"
-          git add path/do/tweet-log.json
+          git add public/tweet-log.json
           git commit -m "🤖 Atualiza tweet log automaticamente" || echo "Nada para commitar"
-          git push origin HEAD:tweet-log
+          git push origin tweet-log
