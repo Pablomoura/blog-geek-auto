@@ -1,83 +1,83 @@
 {
-  "data": "2025-06-06",
+  "data": "2025-06-07",
   "games": [
     {
-      "slug": "black-myth-wukong-jogo-confirmado-para-xbox-e-j-tem-data",
-      "titulo": "Black Myth: Wukong Chega ao Xbox com Data de Lançamento e Desconto Exclusivo",
-      "thumb": "https://cdn.ome.lt/NTl2KBtQdxsjcXoMuDbF0JjW48I=/480x360/smart/extras/conteudos/Captura_de_tela_2025-06-06_065846.png",
+      "slug": "007-mads-mikkelsen-volta-a-viver-vilo-em-misso-de-hitman",
+      "titulo": "Mads Mikkelsen Revive Vilão de 007 em Missão Especial de Hitman: World of Assassination",
+      "thumb": "/uploads/007-mads-mikkelsen-volta-a-viver-vilo-em-misso-de-hitman-thumb.png",
       "categoria": "GAMES"
     },
     {
-      "slug": "nintendo-switch-2-esgota-em-varejistas-brasileiros-no-lanamento",
-      "titulo": "Nintendo Switch 2 esgota rapidamente nas principais lojas do Brasil",
-      "thumb": "https://cdn.ome.lt/Jd77ihlNDboLZ5SSzNTDuukSoC0=/480x360/smart/extras/conteudos/sem_titulo70.png",
+      "slug": "resident-evil-9-requiem-chega-em-2026-confira",
+      "titulo": "Resident Evil 9: Requiem será lançado em 2026; saiba todos os detalhes",
+      "thumb": "/uploads/resident-evil-9-requiem-chega-em-2026-confira-thumb.png",
       "categoria": "GAMES"
     },
     {
-      "slug": "edicoes-de-switch-2-de-zelda-carregam-ate-duas-vezes-mais-rapido",
-      "titulo": "Nintendo Switch 2: Carregamento de Jogos Zelda é Revolucionado com o Dobro de Velocidade",
-      "thumb": "https://i0.wp.com/ovicio.com.br/wp-content/uploads/2023/11/20231108-ovicio-zelda-zippo.jpg",
-      "categoria": "Games"
+      "slug": "wuchang-fallen-feathers-confira-novo-trailer-do-game-de-ao",
+      "titulo": "Wuchang: Fallen Feathers Revela Trailer Inédito e Data de Lançamento",
+      "thumb": "/uploads/wuchang-fallen-feathers-confira-novo-trailer-do-game-de-ao-thumb.png",
+      "categoria": "GAMES"
     }
   ],
   "series-e-tv": [
     {
-      "slug": "como-treinar-o-seu-drago-3-passa-na-sesso-da-tarde-da-globo-desta-sexta",
-      "titulo": "Como Treinar o seu Dragão 3 é destaque na Sessão da Tarde desta sexta-feira",
-      "thumb": "https://cdn.ome.lt/CYdt219JetbJQ9xpCzg21H43QR0=/480x360/smart/extras/conteudos/comotreinaroseudragao3.jpg",
-      "categoria": "SÉRIES E TV"
+      "slug": "superman-124-fas-notam-mudanca-no-visual-do-filme",
+      "titulo": "Superman: Alterações no Visual do Filme Surpreendem Fãs da DC",
+      "thumb": "/uploads/superman-124-fas-notam-mudanca-no-visual-do-filme-thumb.webp",
+      "categoria": "Séries e TV"
     },
     {
-      "slug": "com-owen-wilson-stick-comdia-que-faz-chorar",
-      "titulo": "Stick: Nova Comédia com Owen Wilson Garante Riso e Emoção no Apple TV+",
-      "thumb": "https://cdn.ome.lt/FZ8zXjElmdZla32vlKLiwjnQpWQ=/480x360/smart/extras/conteudos/stick-owen-wilson.webp",
-      "categoria": "SÉRIES E TV"
+      "slug": "sem-superman-surgem-detalhes-dos-planos-da-dc-studios-na-sdcc-2025",
+      "titulo": "DC Studios na SDCC 2025: Foco em Pacificador enquanto Superman fica de fora",
+      "thumb": "/uploads/sem-superman-surgem-detalhes-dos-planos-da-dc-studios-na-sdcc-2025-thumb.jpg",
+      "categoria": "Séries e TV"
     },
     {
-      "slug": "unboxing-de-pokemon-tcg-rivais-predestinados",
-      "titulo": "Pokémon TCG: Rivais Predestinados Desembarca com Inovações e Cartas Exclusivas",
-      "thumb": "/uploads/unboxing-de-pokemon-tcg-rivais-predestinados-thumb.jpg",
+      "slug": "justica-autoriza-lancamento-internacional-de-superman-apos-nova-tentativa-de-bloqueio",
+      "titulo": "Justiça Americana Libera Estreia Internacional de 'Superman' em Meio a Disputa de Direitos Autorais",
+      "thumb": "/uploads/justica-autoriza-lancamento-internacional-de-superman-apos-nova-tentativa-de-bloqueio-thumb.webp",
       "categoria": "Séries e TV"
     }
   ],
   "mangas-e-animes": [
     {
-      "slug": "gachiakuta-124-anime-ganha-trailer-oficial-e-data-de-estreia",
-      "titulo": "Gachiakuta: Trailer Oficial do Anime Revela Data de Estreia e Evento de Pré-estreia no Brasil",
-      "thumb": "/uploads/gachiakuta-124-anime-ganha-trailer-oficial-e-data-de-estreia-thumb.webp",
-      "categoria": "Mangás e Animes"
+      "slug": "anime-friends-2025-anuncia-presena-do-diretor-shinichiro-watanabe",
+      "titulo": "Shinichiro Watanabe Confirmado no Anime Friends 2025: Uma Imersão no Mundo do Diretor de Cowboy Bebop",
+      "thumb": "/uploads/anime-friends-2025-anuncia-presena-do-diretor-shinichiro-watanabe-thumb.png",
+      "categoria": "MANGÁS E ANIMES"
     },
     {
-      "slug": "one-piece-124-eiichiro-oda-ilustra-arte-de-colaboracao-com-o-los-angeles-dodgers",
-      "titulo": "One Piece e Los Angeles Dodgers: Arte Exclusiva de Eiichiro Oda para Evento Especial",
-      "thumb": "/uploads/one-piece-124-eiichiro-oda-ilustra-arte-de-colaboracao-com-o-los-angeles-dodgers-thumb.webp",
-      "categoria": "Mangás e Animes"
+      "slug": "gachiakuta-anime-ganha-trailer-e-data-e-ter-pr-estreia-no-anime-friends",
+      "titulo": "Gachiakuta: Anime Revela Trailer e Estreia em Julho com Pré-Exibição no Anime Friends",
+      "thumb": "/uploads/gachiakuta-anime-ganha-trailer-e-data-e-ter-pr-estreia-no-anime-friends-thumb.png",
+      "categoria": "MANGÁS E ANIMES"
     },
     {
-      "slug": "call-of-the-night-apresenta-tema-de-abertura-por-creepy-nuts-em-novo-trailer-da-2-temporada",
-      "titulo": "Call of the Night: Creepy Nuts Retorna com Novo Tema de Abertura na 2ª Temporada",
-      "thumb": "https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250605-nazuna-nanakusa-em-trailer-da-segunda-temporada-de-call-of-the-night-ovicio.webp",
-      "categoria": "Mangás e Animes"
+      "slug": "one-punch-man-revela-inimigos-macabros-do-terceiro-ano-confira",
+      "titulo": "One Punch Man: Novos Inimigos Aterrorizantes da 3ª Temporada São Revelados",
+      "thumb": "/uploads/one-punch-man-revela-inimigos-macabros-do-terceiro-ano-confira-thumb.png",
+      "categoria": "MANGÁS E ANIMES"
     }
   ],
   "filmes": [
     {
-      "slug": "thunderbolts-deve-ter-bilheteria-pior-que-eternos-e-ado-negro",
-      "titulo": "Thunderbolts: Filme Pode Não Superar Bilheterias de Eternos e Adão Negro",
-      "thumb": "https://cdn.ome.lt/Vo7_xb7Dgwv3OkLfTcvbjc-8V08=/480x360/smart/extras/conteudos/Screenshot_2025-06-05_at_19.30.37.png",
+      "slug": "thunderbolts-124-arte-conceitual-revela-visual-alternativo-da-treinadora",
+      "titulo": "Thunderbolts: Arte Conceitual Revela Visual Inédito e Sombrio da Treinadora",
+      "thumb": "/uploads/thunderbolts-124-arte-conceitual-revela-visual-alternativo-da-treinadora-thumb.webp",
+      "categoria": "Filmes"
+    },
+    {
+      "slug": "street-fighter-novo-filme-escala-o-cantor-country-orville-peck",
+      "titulo": "Orville Peck Estreia no Cinema em Novo Filme de Street Fighter",
+      "thumb": "/uploads/street-fighter-novo-filme-escala-o-cantor-country-orville-peck-thumb.jpg",
       "categoria": "FILMES"
     },
     {
-      "slug": "jurassic-world-recomeo-ganha-teaser-com-homenagem-ao-filme-original",
-      "titulo": "Teaser de Jurassic World: Recomeço Revive Cena Icônica do Filme Original",
-      "thumb": "https://cdn.ome.lt/HTRu5cbcuAyqVTv3O4nYQJIysFI=/480x360/smart/extras/conteudos/Screenshot_2025-06-05_at_19.37.32.png",
-      "categoria": "FILMES"
-    },
-    {
-      "slug": "quarteto-fantstico-tema-musical-da-equipe-lanado-oficialmente-oua-aqui",
-      "titulo": "Tema Musical do Quarteto Fantástico é Lançado: Ouça Agora",
-      "thumb": "https://cdn.ome.lt/ApwnT0Cm97z7kj0aW-OJP5OY5Ag=/480x360/smart/extras/conteudos/Captura_de_tela_2025-06-06_070921.png",
-      "categoria": "FILMES"
+      "slug": "street-fighter-124-ator-de-vega-no-live-action-e-confirmado",
+      "titulo": "Orville Peck será Vega no Novo Filme de Street Fighter: Elenco Surpreende",
+      "thumb": "/uploads/street-fighter-124-ator-de-vega-no-live-action-e-confirmado-thumb.webp",
+      "categoria": "Filmes"
     }
   ],
   "board-games": [
@@ -122,6 +122,12 @@
   ],
   "hq-livros": [
     {
+      "slug": "pantera-negra-tem-novo-filho-nas-hqs-e-ele-branco-entenda-polmica",
+      "titulo": "Pantera Negra nos Quadrinhos: Filho Branco de T'Challa Causa Polêmica",
+      "thumb": "/uploads/pantera-negra-tem-novo-filho-nas-hqs-e-ele-branco-entenda-polmica-thumb.png",
+      "categoria": "HQ/LIVROS"
+    },
+    {
       "slug": "criador-de-my-hero-academia-comenta-sobre-arte-em-homenagem-a-dragon-ball",
       "titulo": "Kohei Horikoshi Homenageia Dragon Ball em Novo Artbook de My Hero Academia",
       "thumb": "https://ovicio.com.br/wp-content/uploads/2025/04/20250423-my-hero-academia-ultra-artworks-capa-ovicio.webp",
@@ -132,15 +138,15 @@
       "titulo": "Panini Books: Novo Selo Editorial Destaca Literatura Asiática na Bienal do Livro 2025",
       "thumb": "https://ovicio.com.br/wp-content/uploads/2025/06/20250604-image-12.png",
       "categoria": "HQ/Livros"
-    },
-    {
-      "slug": "marvel-faz-revelacao-polemica-ao-confirmar-novo-pantera-negra-dos-quadrinhos",
-      "titulo": "Novo Pantera Negra: Marvel Choca com Revelação de Filho Perdido de T'Challa",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/06/20250604-pantera-negra-em-the-world-to-come.jpg",
-      "categoria": "HQ/Livros"
     }
   ],
   "musica": [
+    {
+      "slug": "sabrina-carpenter-lana-clipe-da-nova-msica-manchild-assista-agora",
+      "titulo": "Sabrina Carpenter Lança Clipe de 'Manchild'; Confira Novidades",
+      "thumb": "/uploads/sabrina-carpenter-lana-clipe-da-nova-msica-manchild-assista-agora-thumb.png",
+      "categoria": "MÚSICA"
+    },
     {
       "slug": "ed-sheeran-lana-clipe-de-sapphire-sua-nova-msica",
       "titulo": "Ed Sheeran Lança Clipe 'Sapphire' Gravado na Índia com Participação de Arijit Singh",
@@ -151,12 +157,6 @@
       "slug": "s-track-boa-tudo-sobre-o-maior-festival-de-eletrnica-de-so-paulo",
       "titulo": "Festival Só Track Boa 2025: Conheça o Line-Up e Surpresas do Maior Evento de Música Eletrônica de São Paulo",
       "thumb": "https://cdn.ome.lt/I7efouIHobwu-A5nRMp9DKNDEHk=/480x360/smart/extras/conteudos/stb.png",
-      "categoria": "MÚSICA"
-    },
-    {
-      "slug": "wonho-marca-show-nico-em-so-paulo-saiba-data-preos-de-ingressos-e-mais",
-      "titulo": "WONHO Anuncia Show Exclusivo em São Paulo: Detalhes de Data e Ingressos",
-      "thumb": "https://cdn.ome.lt/ReBWyP6yCZSsnQWHDi_9tf_rQi0=/480x360/smart/extras/conteudos/SnapInsta.to_504072146_17865251820401753_4503992857742531992_n.jpg",
       "categoria": "MÚSICA"
     }
   ]
