@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     # Só se o workflow de Scrape terminou com sucesso
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    # if: ${{ github.event.workflow_run.conclusion == 'success' }}
 
     env:
       FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
