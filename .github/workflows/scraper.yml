@@ -67,9 +67,15 @@ jobs:
 
       - name: Comita novos posts
         run: |
-          git fetch origin main
-          git reset --soft origin/main
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase origin main || echo "Rebase falhou ou não necessário"
-          git add -f content/ public/posts.json
+          
+          # Só adiciona content/ se mudou
+          git diff --quiet content/ || git add content/
+          
+          # Só adiciona posts.json se mudou
+          git diff --quiet public/posts.json || git add -f public/posts.json
+          
           git commit -m "🤖 Atualiza posts automaticamente" || echo "Nada para commitar"
           git push origin HEAD:main

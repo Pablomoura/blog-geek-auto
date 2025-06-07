@@ -31,11 +31,11 @@ jobs:
       - name: 🚀 Rodar script de postagem nas redes sociais
         run: npx tsx scripts/postar-redes-sociais.js
 
-      - name: 📝 Commit log de posts sociais
+      - name: 📝 Commit log de posts sociais (branch social-log)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main || echo "Rebase falhou ou não necessário"
+          git pull --rebase origin social-log || echo "Rebase falhou ou não necessário"
           git add public/social-post-log.json
           git commit -m "🤖 Atualiza log de posts sociais" || echo "Nada para commitar"
-          git push origin main
+          git push origin HEAD:social-log

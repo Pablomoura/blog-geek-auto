@@ -34,10 +34,20 @@ jobs:
       - name: Roda o gerador de cache
         run: node scripts/gerar-cache-posts.js
 
-      - name: Commit e push das alterações
+      - name: Commit e push do cache (somente se mudou)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Pablomoura/blog-geek-auto.git
+          git pull --rebase origin main || echo "Rebase falhou ou não necessário"
+          git diff --quiet public/cache-posts.json || git add public/cache-posts.json
           git commit -m "update: cache atualizado automaticamente" || echo "nada para commitar"
           git push origin main
+
+      - name: Commit e push do tweet log (em branch tweet-log)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin tweet-log || echo "Rebase falhou ou não necessário"
+          git add path/do/tweet-log.json
+          git commit -m "🤖 Atualiza tweet log automaticamente" || echo "Nada para commitar"
+          git push origin HEAD:tweet-log
