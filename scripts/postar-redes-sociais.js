@@ -56,10 +56,15 @@ async function postToFacebook(post) {
     return;
   }
 
+  // Converte thumb em URL absoluta
+  const thumbUrl = post.thumb.startsWith('http')
+    ? post.thumb
+    : `https://www.geeknews.com.br${post.thumb}`;
+
   try {
-    console.log(`➡️ Publicando no Facebook com imagem: ${post.thumb}`);
+    console.log(`➡️ Publicando no Facebook com imagem: ${thumbUrl}`);
     const response = await axios.post(`https://graph.facebook.com/${process.env.FACEBOOK_PAGE_ID}/photos`, {
-      url: post.thumb,
+      url: thumbUrl,
       caption,
       access_token: process.env.FACEBOOK_PAGE_ACCESS_TOKEN,
     });
