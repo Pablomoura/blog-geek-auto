@@ -21,6 +21,10 @@ keywords: >-
   2025, Paramount Pictures
 data: '2025-04-03T19:11:35.652Z'
 author: Ana Luiza
+resumo: >-
+  A Paramount revelou o trailer de 'Missão: Impossível - O Acerto Final' na
+  CinemaCon. Tom Cruise e elenco estrelam cenas intensas e emocionantes,
+  prometendo a...
 ---
 
 Durante a CinemaCon, a Paramount Pictures liberou um empolgante trailer de 'Missão: Impossível - O Acerto Final', o oitavo e último filme da conhecida série protagonizada por Ethan Hunt. O trailer exibido é uma montagem de cenas intensas que inclui Ethan Hunt pendurado em um avião, explosões no Kremlin, e várias sequências de ação que utilizam máscaras e disfarces, uma marca registrada da franquia. Um destaque no trailer é uma bomba sendo desativada em Londres, além de cenas com jatos e um porta-aviões.

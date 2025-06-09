@@ -17,6 +17,10 @@ tags:
   - vinícius
   - diego hypólito
 author: Luana Souza
+resumo: >-
+  No BBB 25, Maike é o novo líder, conquistando R$10 mil. Diego, Vilma e
+  Vinícius estão no Paredão. A eliminação ocorre terça, 1º de abril. Assista na
+  Globo e...
 ---
 
 No BBB 25, um novo líder foi coroado e um novo Paredão formado neste domingo, 30. Com 11 participantes ainda na disputa, nove enfrentaram o desafio pela liderança, com Maike saindo vitorioso e embolsando também R$ 10 mil.

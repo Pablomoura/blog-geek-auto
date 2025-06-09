@@ -19,6 +19,10 @@ tags:
   - cartaz de filme
   - comédia
 author: Luana Souza
+resumo: >-
+  CinemaCon agita Las Vegas com o primeiro cartaz de 'Corra Que A Polícia Vem
+  Aí'. Liam Neeson estrela o remake, dirigido por Akiva Schaffer. Estreia em
+  18/07/...
 ---
 
 A agitação toma conta do Caesars Palace em Las Vegas, onde a CinemaCon ocorre esta semana. Um dos destaques do evento é a revelação do primeiro cartaz e logo do filme 'Corra Que A Polícia Vem Aí', que traz Liam Neeson no papel principal, anteriormente interpretado por Leslie Nielsen.

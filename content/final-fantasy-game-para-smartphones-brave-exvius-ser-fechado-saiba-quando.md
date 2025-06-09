@@ -16,6 +16,9 @@ tags:
   - encerramento de jogo
   - maio 2023
 author: Ana Luiza
+resumo: >-
+  Final Fantasy: Brave Exvius será descontinuado em 30 de maio de 2023. Square
+  Enix agradece aos fãs, enquanto a franquia avança com novos desenvolvimentos.
 ---
 
 O popular jogo de RPG para smartphones, Final Fantasy: Brave Exvius, será descontinuado em breve. Lançado em março de 2020 pela renomada desenvolvedora Square Enix, o jogo deixará de estar disponível a partir do dia 30 de maio de 2023.

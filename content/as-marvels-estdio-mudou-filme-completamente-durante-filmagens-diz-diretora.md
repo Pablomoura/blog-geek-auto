@@ -21,6 +21,10 @@ keywords: >-
   Fantástico, bilheteria, mudanças no filme
 data: '2025-04-04T14:13:53.033Z'
 author: Ana Luiza
+resumo: >-
+  As Marvels" enfrenta bilheteria decepcionante. Diretora Nia DaCosta revela
+  mudanças no roteiro original. Filme ainda disponível no Disney+. Thunderbolts
+  vem aí!
 ---
 
 O filme As Marvels, parte do universo cinematográfico da Marvel (MCU), não alcançou o sucesso esperado nas bilheterias, e a diretora Nia DaCosta recentemente compartilhou insights que podem esclarecer as razões por trás desse resultado. Em uma entrevista ao Deadline, DaCosta explicou que o filme sofreu alterações substanciais durante as filmagens, divergindo significativamente do seu conceito original. 'Eles tinham uma data definida e estavam preparando certos elementos, o que me obrigou a mergulhar de cabeça no processo', comentou DaCosta. Ela acrescentou que, em determinado momento, percebeu que o filme estava se desviando de sua visão inicial, transformando-se em uma experiência de aprendizado e fortalecimento de suas habilidades como cineasta.

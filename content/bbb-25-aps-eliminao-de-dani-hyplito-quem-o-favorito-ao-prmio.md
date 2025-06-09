@@ -21,6 +21,10 @@ keywords: >-
   Dourado, votação, reality show
 data: '2025-04-07T05:11:05.728Z'
 author: Luana Souza
+resumo: >-
+  No BBB 25, após a saída de Daniele Hypólito, Vitória Strada lidera as
+  preferências para vencer, com 34,65% dos votos. Renata e Vinícius seguem na
+  disputa aci...
 ---
 
 O Big Brother Brasil 25 avança e, após o 13º Paredão que resultou na eliminação de Daniele Hypólito, o jogo segue acirrado com nove competidores ainda na disputa pelo prêmio milionário. Segundo uma recente pesquisa realizada pelo portal UOL, Vitória Strada destaca-se como a principal favorita para ganhar a competição, recebendo 34,65% dos votos na enquete, marcando sua liderança pelo terceiro levantamento consecutivo.

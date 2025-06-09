@@ -15,6 +15,10 @@ tags:
   - usuários afetados
   - redes sociais
 author: Luana Souza
+resumo: >-
+  A plataforma X, ex-Twitter, enfrenta instabilidade global, com 53 mil queixas
+  de usuários sem acesso. Problemas persistem, afetando também Threads e
+  BlueSky.
 ---
 
 A plataforma X, anteriormente conhecida como Twitter, enfrenta instabilidades significativas desde a tarde de quinta-feira (27), afetando milhares de usuários ao redor do globo. Relatos indicam que os usuários não conseguem carregar, visualizar ou interagir com as postagens. Este incidente marca a segunda grande falha do serviço neste mês.

@@ -21,6 +21,10 @@ keywords: >-
   científica, espionagem digital, adaptação de livro, elenco estrelado
 data: '2025-04-09T17:10:26.111Z'
 author: Ana Luiza
+resumo: >-
+  Imagens do set da série 'Neuromancer' revelam novo visual de Molly, vivida por
+  Briana Middleton. Produção da AppleTV+ traz elenco estrelado e trama de
+  espion...
 ---
 
 Novas imagens do set da série baseada no icônico livro 'Neuromancer' foram divulgadas recentemente nas redes sociais, exibindo um novo visual para o personagem Molly, interpretado por Briana Middleton. As fotos despertaram grande interesse entre os fãs da obra original.

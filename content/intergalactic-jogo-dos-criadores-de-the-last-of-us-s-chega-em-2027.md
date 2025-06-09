@@ -15,6 +15,10 @@ tags:
   - 'the last of us: part ii'
   - especial-The Last of Us
 author: Ana Luiza
+resumo: >-
+  Intergalactic: The Heretic Prophet, novo jogo da Naughty Dog, chega em 2027.
+  Exclusivo para PS5, aborda fé em um futuro distante e promete inovar
+  narrativa.
 ---
 
 O aguardado jogo Intergalactic: The Heretic Prophet, desenvolvido pela Naughty Dog, tem previsão de lançamento apenas para 2027, conforme divulgado pelo renomado jornalista Jason Schreier. Este título é o primeiro grande projeto do estúdio desde o sucesso de The Last of Us: Part II. Até o momento, nem a Naughty Dog nem a Sony confirmaram uma data oficial de lançamento.

@@ -18,6 +18,8 @@ tags:
   - evolução dos jogos
   - inovações em videogames
 author: Luana Souza
+resumo: >-
+  Descubra como os videogames evoluíram de simples pixels para experiências imersivas que moldam a cultura pop mundial.
 ---
 
 Os videogames evoluíram de simples pixels para experiências imersivas que moldam a cultura pop mundial. Este artigo traça a trajetória dos videogames, desde os primórdios com o Atari até as inovações da geração atual, destacando marcos, avanços tecnológicos e seu impacto cultural.

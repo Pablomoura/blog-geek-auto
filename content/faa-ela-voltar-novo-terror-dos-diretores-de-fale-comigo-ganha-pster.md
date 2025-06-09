@@ -21,6 +21,10 @@ tags:
   - a24
   - trailer
 author: Pablo Moura
+resumo: >-
+  A24 revela pôster de 'Faça Ela Voltar', novo terror dos irmãos Philippou.
+  Trailer estreia na CinemaCon 2025. Sally Hawkins está no elenco. Estreia
+  indefinida.
 ---
 
 A produtora A24 divulgou neste domingo (30) o pôster oficial do novo filme de terror 'Faça Ela Voltar', dirigido por Danny e Michael Philippou, também conhecidos como RackaRacka. Os irmãos Philippou ganharam destaque com o filme 'Fale Comigo'.

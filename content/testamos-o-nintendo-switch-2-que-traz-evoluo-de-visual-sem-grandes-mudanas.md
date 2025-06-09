@@ -22,6 +22,9 @@ keywords: >-
   upscaling, Joy-Con magnético, lançamento de console, HDR suporte
 data: '2025-04-03T14:12:32.976Z'
 author: Pablo Moura
+resumo: >-
+  Nintendo revela o Switch 2 com tela 4K, novos Joy-Cons e função de mouse.
+  Lançamento global em 5 de junho por US$ 450. Descubra as novidades e jogos!
 ---
 
 A Nintendo anunciou o lançamento do Nintendo Switch 2, trazendo consigo um design aprimorado e especificações técnicas superiores às do modelo anterior. Durante um evento exclusivo para a imprensa, ocorrido na última quarta-feira, a companhia compartilhou detalhes sobre as funcionalidades, os primeiros jogos disponíveis e o preço do novo console.

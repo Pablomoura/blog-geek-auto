@@ -16,6 +16,9 @@ tags:
   - x-men
   - universo cinematográfico
 author: Luana Souza
+resumo: >-
+  Marvel revela elenco de 'Vingadores: Doomsday', com Vingadores, X-Men e
+  Quarteto Fantástico. Estreia em 2024, promete ser o maior crossover do MCU.
 ---
 
 A Marvel Studios acaba de revelar oficialmente o elenco completo para o aguardado filme 'Vingadores: Doomsday'. A produção promete ser um dos maiores crossovers do universo cinematográfico da Marvel até hoje.

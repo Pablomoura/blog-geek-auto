@@ -21,6 +21,9 @@ keywords: >-
   Dourado, Globo
 data: '2025-04-07T03:32:18.713Z'
 author: Pablo Moura
+resumo: >-
+  Daniele Hypólito é eliminada do BBB 25 com 50,97% dos votos, em um paredão
+  acirrado contra João Pedro e Maike. Tadeu Schmidt segue no comando do reality.
 ---
 
 Na noite deste domingo (06), o resultado do 13º Paredão do BBB 25 foi revelado ao vivo, apresentando uma competição acirrada entre João Pedro, Daniele Hypólito e Maike. Daniele Hypólito, que se ofereceu para ir ao Paredão, foi a eliminada da vez, recebendo 50,97% dos votos do público. João Pedro ficou em segundo lugar, com 45,38% dos votos, enquanto Maike obteve apenas 4,25%, ficando em último na preferência para saída.

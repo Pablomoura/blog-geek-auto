@@ -23,6 +23,9 @@ keywords: >-
   Oz, saga Wicked, Ariana Grande
 data: '2025-04-03T00:42:16.401Z'
 author: Luana Souza
+resumo: >-
+  Na CinemaCon 2025, o trailer de "Wicked: For Good" foi revelado, destacando
+  Glinda, Elphaba e o Mágico de Oz. Com cenas eletrizantes e um elenco estelar!
 ---
 
 Durante a CinemaCon 2025, o aguardado trailer de 'Wicked: For Good', a conclusão da renomada saga Wicked, foi revelado. 

@@ -21,6 +21,10 @@ tags:
   - terceira temporada
   - eleição donald trump
 author: Ana Luiza
+resumo: >-
+  The White Lotus alterou sua terceira temporada após a eleição de Trump,
+  cortando uma subtrama sobre um personagem não binário. A série retorna em
+  2026.
 ---
 
 A série The White Lotus teve uma alteração significativa em sua terceira temporada devido à eleição de Donald Trump como presidente dos Estados Unidos, conforme revelado por Carrie Coon em entrevista à Harper's Bazaar. Durante a pós-produção, foi decidido remover a trama de um personagem não binário que seria filho de Laurie, personagem de Coon.

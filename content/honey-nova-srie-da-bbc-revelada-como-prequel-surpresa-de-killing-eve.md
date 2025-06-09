@@ -21,6 +21,10 @@ keywords: >-
   espionagem
 data: '2025-04-03T14:10:08.855Z'
 author: Luana Souza
+resumo: >-
+  BBC anuncia 'Honey', prelúdio de 'Killing Eve', centrado em uma agente do MI6
+  na Guerra Fria. Com roteiro de Emma Moran, detalhes do elenco ainda são
+  segredo.
 ---
 
 A BBC revelou a produção de uma nova série intitulada 'Honey', que servirá como prelúdio para o aclamado thriller 'Killing Eve'. A série, ambientada durante a tensa época da Guerra Fria em 1982, focará na trajetória de uma agente secreta do MI6 chamada Marta. Descrita como um drama de espionagem, a série mostrará Marta em constante perigo, lutando para manter sua identidade em segredo enquanto enfrenta o perspicaz Friedrich Bauman, novo Chefe de Contra Espionagem da Stasi.

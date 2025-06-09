@@ -21,6 +21,10 @@ tags:
   - cinemacon 2025
   - universal studios
 author: Luana Souza
+resumo: >-
+  Universal Studios revela live-action de 'Como Treinar o Seu Dragão' na
+  CinemaCon 2025. Confira o elenco estelar e um brinde exclusivo de Banguela no
+  Brasil!
 ---
 
 Um dos destaques da Universal Studios na CinemaCon 2025 é o lançamento do filme live-action de 'Como Treinar o Seu Dragão', programado para uma exibição completa antes do painel do estúdio em 2 de abril. O evento também será palco para a introdução de um brinde especial: um balde de pipoca inspirado no dragão Banguela, que será disponibilizado no Brasil.

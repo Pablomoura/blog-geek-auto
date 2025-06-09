@@ -1,14 +1,28 @@
 ---
-title: "Broke | Filme estrelado por Wyatt Russell ganha trailer; confira"
-slug: "broke-filme-estrelado-por-wyatt-russell-ganha-trailer-confira"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/kzgsb7zUEZE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/MbafDg8N7rTLJUZuAQbYb25bNyc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T194936.884.png"
-tags: ["Wyatt Russell", "Broke filme", "trailer lançado", "drama de sobrevivência", "nevasca", "rodeio", "Sony Pictures", "estreia 2025"]
-keywords: "Wyatt Russell, Broke filme, trailer lançado, drama de sobrevivência, nevasca, rodeio, Sony Pictures, estreia 2025"
-author: "Ana Luiza"
-data: "2025-04-10T23:10:46.745Z"
+title: Broke | Filme estrelado por Wyatt Russell ganha trailer; confira
+slug: broke-filme-estrelado-por-wyatt-russell-ganha-trailer-confira
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/kzgsb7zUEZE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/MbafDg8N7rTLJUZuAQbYb25bNyc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T194936.884.png
+tags:
+  - Wyatt Russell
+  - Broke filme
+  - trailer lançado
+  - drama de sobrevivência
+  - nevasca
+  - rodeio
+  - Sony Pictures
+  - estreia 2025
+keywords: >-
+  Wyatt Russell, Broke filme, trailer lançado, drama de sobrevivência, nevasca,
+  rodeio, Sony Pictures, estreia 2025
+author: Ana Luiza
+data: '2025-04-10T23:10:46.745Z'
+resumo: >-
+  Confira o intenso trailer de 'Broke', onde Wyatt Russell vive um vaqueiro
+  enfrentando nevasca e dilemas pessoais. Estreia em 6 de maio de 2025.
 ---
 
 A Sony Pictures Entertainment acaba de lançar o trailer do novo filme 'Broke', protagonizado por Wyatt Russell. O filme explora a jornada de um vaqueiro que retorna ao seu lar. 

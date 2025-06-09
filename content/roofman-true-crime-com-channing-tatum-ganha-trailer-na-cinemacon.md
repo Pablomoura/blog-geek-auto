@@ -23,6 +23,10 @@ keywords: >-
   Jeffrey Manchester, Kirsten Dunst, ladrão do telhado
 data: '2025-04-03T18:13:36.621Z'
 author: Ana Luiza
+resumo: >-
+  Na CinemaCon 2025, 'Roofman', de Derek Cianfrance, ganha trailer. Channing
+  Tatum vive Jeffrey Manchester, o 'ladrão do telhado'. Estreia no Brasil em
+  dezembro.
 ---
 
 Durante a CinemaCon 2025, foi revelado o primeiro trailer de 'Roofman', um filme dirigido por Derek Cianfrance, conhecido por 'O Som do Silêncio', e protagonizado por Channing Tatum. A trama de 'Roofman' é baseada nos feitos de Jeffrey Manchester, um notório criminoso apelidado de 'ladrão do telhado'. Manchester ganhou fama após invadir mais de 60 restaurantes McDonald’s, acessando-os pelo telhado e subtraindo dinheiro dos caixas, enquanto confinava os funcionários em freezers. Ex-oficial da Reserva do Exército dos EUA, ele era reconhecido por sua conduta pacífica, evitando violência em suas ações criminosas.

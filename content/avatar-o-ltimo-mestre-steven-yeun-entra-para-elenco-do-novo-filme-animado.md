@@ -18,6 +18,9 @@ tags:
   - filmes animados
   - série aclamada
 author: Pablo Moura
+resumo: >-
+  Avatar: O Último Mestre do Ar' expande seu universo com uma trilogia de filmes
+  animados. Steven Yeun integra o elenco, e o lançamento inicial é para 2026.
 ---
 
 A aclamada série 'Avatar: O Último Mestre do Ar' está expandindo seu universo com uma trilogia de filmes animados. Segundo a Variety, Steven Yeun, conhecido por seu trabalho em 'Invencível', fará parte do elenco vocal deste projeto ainda sem título oficial.

@@ -16,6 +16,9 @@ tags:
   - mangá
   - badminton
 author: Pablo Moura
+resumo: >-
+  Anime 'Blue Box' confirma 2ª temporada com novo trailer! A série segue Taiki,
+  jogador de badminton, e sua paixão por Chinatsu, estrela do basquete escolar.
 ---
 
 O aclamado anime 'Blue Box' garantiu sua continuação com o anúncio oficial de sua segunda temporada, acompanhada de um empolgante trailer. 

@@ -21,6 +21,10 @@ keywords: >-
   paranormal, Crunchyroll
 data: '2025-04-03T17:10:41.004Z'
 author: Luana Souza
+resumo: >-
+  A segunda temporada de 'Dan da Dan' chega com um novo pôster, destacando os
+  espíritos inéditos que vão agitar o anime. Estreia em julho promete mais
+  sucesso!
 ---
 
 A aguardada segunda temporada de 'Dan da Dan' revelou um empolgante novo pôster que realça os inéditos espíritos que surgirão nos próximos episódios do anime. O anúncio foi feito recentemente e já aguça a curiosidade dos fãs.

@@ -23,6 +23,9 @@ keywords: >-
   Gracey, Kathryn Hahn
 data: '2025-04-03T20:12:11.749Z'
 author: Ana Luiza
+resumo: >-
+  Disney pausa indefinidamente o live-action de 'Enrolados', com direção de
+  Michael Gracey. A decisão vem após o desempenho fraco de 'Branca de Neve'.
 ---
 
 A Disney decidiu pausar o desenvolvimento do live-action de 'Enrolados', remake do sucesso animado de 2010. Segundo informações do The Hollywood Reporter, o projeto não está cancelado, mas enfrenta uma suspensão indefinida, sem previsões claras para seu futuro. A direção estaria a cargo de Michael Gracey, conhecido por seu trabalho em 'O Rei do Show', e o roteiro seria assinado por Jennifer Kaytin Robinson, de 'Thor: Amor e Trovão'.

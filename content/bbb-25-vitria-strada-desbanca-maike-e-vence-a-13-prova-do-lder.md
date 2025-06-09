@@ -21,6 +21,9 @@ keywords: >-
   Dourado, Globoplay, votação online
 data: '2025-04-04T03:27:19.597Z'
 author: Pablo Moura
+resumo: >-
+  Vitória Strada é a nova líder do BBB 25 após vencer a 13ª Prova do Líder. A
+  atriz escolheu Diego e Daniele Hypólito para o VIP e indicou três ao Paredão.
 ---
 
 O Big Brother Brasil 25 tem uma nova líder. Na noite de quinta-feira, 03, a atriz Vitória Strada emergiu como vencedora da 13ª Prova do Líder, superando outros competidores. Neste desafio, todos, exceto Vinícius que foi vetado pelo então líder Maike, tiveram a chance de competir pela liderança. A prova exigiu dos participantes habilidades de atenção e rapidez ao montarem manequins para replicar um modelo previamente exibido.

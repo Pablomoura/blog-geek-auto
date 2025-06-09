@@ -16,6 +16,10 @@ tags:
   - série
   - escalação
 author: Pablo Moura
+resumo: >-
+  A HBO pode ter encontrado seu Hagrid para a nova série de Harry Potter. Nick
+  Frost negocia o papel, enquanto John Lithgow e outros são cotados para papéis
+  ic...
 ---
 
 A HBO está em processo de escalação para sua série de Harry Potter e pode ter encontrado seu Rúbeo Hagrid. Segundo o site Deadline, Nick Frost, conhecido por seu trabalho em 'Todo Mundo Quase Morto', está em negociações para assumir o papel do amado meio-gigante. Esta informação surge após rumores que apontavam Brett Goldstein para o papel.

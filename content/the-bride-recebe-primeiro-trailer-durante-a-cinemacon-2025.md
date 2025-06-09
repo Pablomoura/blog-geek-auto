@@ -17,6 +17,10 @@ tags:
   - warner bros. pictures
   - trailer de filme
 author: Pablo Moura
+resumo: >-
+  Na CinemaCon 2025, 'The Bride!', dirigido por Maggie Gyllenhaal, promete uma
+  visão punk e intensa da Noiva de Frankenstein, com Jessie Buckley e Christian
+  Bale.
 ---
 
 A Warner Bros. Pictures destacou-se na CinemaCon 2025, realizada nesta terça-feira, ao apresentar detalhes do aguardado filme 'The Bride!'. Sob a direção de Maggie Gyllenhaal, que também subiu ao palco para discutir o projeto, o filme promete uma nova visão sobre a clássica Noiva de Frankenstein.

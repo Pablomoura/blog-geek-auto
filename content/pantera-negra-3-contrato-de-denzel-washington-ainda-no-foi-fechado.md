@@ -15,6 +15,9 @@ tags:
   - casting
   - marvel
 author: Luana Souza
+resumo: >-
+  Ryan Coogler quer Denzel Washington em Pantera Negra 3, mas contratação ainda
+  não está finalizada. Diretor elogia Washington como "lenda viva" e exemplo.
 ---
 
 Durante sua participação no podcast Nightcap com Shannon Sharpe, Ryan Coogler, diretor da franquia Pantera Negra, discutiu a possível inclusão de Denzel Washington no próximo filme. Coogler expressou seu entusiasmo em trabalhar com Washington, mas ressaltou que a contratação do ator ainda não está finalizada. "Estou ansioso para colaborar com Denzel e farei tudo para que isso aconteça", afirmou Coogler, destacando que a participação do ator ainda depende de seu interesse.

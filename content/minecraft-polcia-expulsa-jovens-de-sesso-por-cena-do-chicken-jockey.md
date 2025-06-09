@@ -23,6 +23,10 @@ keywords: >-
   videogames
 data: '2025-04-06T19:05:53.245Z'
 author: Ana Luiza
+resumo: >-
+  A exibição de 'Um Filme Minecraft' nos EUA gerou tumulto quando jovens
+  vibraram com a cena do 'chicken jockey', levando a polícia a intervir no
+  cinema.
 ---
 
 A animação do público com 'Um Filme Minecraft' tem alcançado patamares surpreendentes. Nos Estados Unidos, durante uma sessão do filme no último sábado, a polícia foi chamada para intervir após alguns jovens espectadores causarem distúrbios no cinema. O incidente ocorreu quando uma cena envolvendo um 'chicken jockey' — um zumbi criança montado em uma galinha, muito conhecido entre os jogadores do jogo de 2011 — apareceu na tela, levando a plateia ao delírio.

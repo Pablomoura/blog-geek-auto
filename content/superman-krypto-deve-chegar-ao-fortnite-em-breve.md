@@ -19,6 +19,7 @@ tags:
   - 'skins'
   - 'atualizao'
   - 'cultura pop'
+  - especial-Superman
 keywords: >-
   Krypto, Superman, Fortnite, DC Comics, colaboração, jogo, multijogador, skins, atualização, cultura pop
 author: Luana Souza

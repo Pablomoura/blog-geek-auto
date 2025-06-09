@@ -18,6 +18,10 @@ tags:
   - telêmaco
   - fotos do set
 author: Ana Luiza
+resumo: >-
+  Veja Tom Holland em armadura nas primeiras imagens de 'A Odisseia', dirigida
+  por Christopher Nolan. Estreia prevista para 2026, com elenco estelar e épica
+  na...
 ---
 
 Recentes imagens do set de 'A Odisseia', dirigido por Christopher Nolan, oferecem uma visão empolgante de Tom Holland vestido com armadura, alimentando rumores de que ele interpretará Telêmaco, filho de Ulisses. As fotos revelam detalhes do visual que Holland adotará na narrativa épica.

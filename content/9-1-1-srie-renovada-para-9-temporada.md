@@ -21,6 +21,9 @@ keywords: >-
   Bassett, primeiros respondentes, Disney streaming
 data: '2025-04-03T20:13:09.251Z'
 author: Ana Luiza
+resumo: >-
+  A série '9-1-1' é renovada para a 9ª temporada e ganha spin-off '9-1-1:
+  Nashville'. Aclamada, a série continua a explorar heróis de emergência em LA.
 ---
 
 A popular série '9-1-1' foi oficialmente renovada para sua nona temporada, garantindo a continuação das narrativas envolvendo policiais, bombeiros e paramédicos de Los Angeles. A confirmação veio antes mesmo da conclusão da oitava temporada, que ainda está sendo exibida. A renovação é parte de um amplo pacote de produções que inclui séries como 'The Rookie', 'Will Trent', 'Shifting Gears' e 'Grey's Anatomy'.

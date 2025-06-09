@@ -20,6 +20,9 @@ keywords: >-
   Abutre, super-herói
 data: '2025-04-06T07:09:04.472Z'
 author: Luana Souza
+resumo: >-
+  Neste domingo, a Temperatura Máxima exibe 'Homem-Aranha: De Volta ao Lar' às
+  12h30. Acompanhe Peter Parker enfrentando o vilão Abutre em Nova York.
 ---
 
 Neste domingo, a sessão Temperatura Máxima da Rede Globo traz o filme 'Homem-Aranha: De Volta ao Lar', lançado em 2017. A transmissão está programada para começar às 12h30, horário de Brasília. Com duração de 2h15, o filme é dirigido por Jon Watts e apresenta a jornada de Peter Parker em sua volta a Nova York após a experiência com os Vingadores.

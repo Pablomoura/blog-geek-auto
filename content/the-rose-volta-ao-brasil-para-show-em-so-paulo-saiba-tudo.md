@@ -21,6 +21,10 @@ keywords: >-
   música alternativa, Dual album
 data: '2025-04-04T14:10:22.188Z'
 author: Pablo Moura
+resumo: >-
+  A banda sul-coreana The Rose retorna ao Brasil em 8 de agosto de 2023 para um
+  show único em São Paulo. Parte da Once Upon a WRLD Tour, ingressos à venda em
+  a...
 ---
 
 A aclamada banda sul-coreana The Rose confirmou uma nova apresentação em território brasileiro. Após uma passagem bem-sucedida pelo país, incluindo uma performance marcante no Lollapalooza, o grupo retorna para um show único no Vibra São Paulo, marcado para o dia 8 de agosto de 2023.

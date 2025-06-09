@@ -21,6 +21,9 @@ keywords: >-
   Disney, aventuras animadas, sucesso de bilheteria
 data: '2025-04-04T00:44:57.193Z'
 author: Luana Souza
+resumo: >-
+  CinemaCon 2025 revela o primeiro trailer de 'Zootopia 2' e a participação de
+  Quinta Brunson. Novas aventuras e personagens animam a aguardada sequência.
 ---
 
 A CinemaCon 2025 foi palco para o lançamento do aguardado primeiro trailer de 'Zootopia 2'. Durante o evento, foi revelada também a participação de Quinta Brunson, que emprestará sua voz a uma nova personagem, aparentemente uma Chinchila. O filme promete trazer de volta a vibrante bicharada em novas aventuras.

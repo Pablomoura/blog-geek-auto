@@ -15,6 +15,10 @@ tags:
   - ios
   - lançamento de jogos
 author: Ana Luiza
+resumo: >-
+  Ubisoft lança 'Prince of Persia: The Lost Crown' para Android e iOS em 14 de
+  abril. Jogo roda a 60fps em smartphones recentes e oferece teste gratuito no
+  lan...
 ---
 
 A Ubisoft anunciou nesta sexta-feira (28) que 'Prince of Persia: The Lost Crown' terá sua versão mobile lançada no dia 14 de abril para Android e iOS. A empresa assegurou que o jogo operará a 60 quadros por segundo em modelos de smartphones de gerações mais recentes. Esta nova edição incluirá funcionalidades como poções automáticas, parry automático e opção para redução de velocidade, além de várias opções de acessibilidade já integradas ao jogo.

@@ -21,6 +21,10 @@ keywords: >-
   planeswalkers
 data: '2025-04-09T23:10:10.941Z'
 author: Luana Souza
+resumo: >-
+  Matt Johnson é cotado para dirigir o filme live-action de Magic: The
+  Gathering, com Legendary e Hasbro. Detalhes do enredo e roteiro ainda são
+  desconhecidos.
 ---
 
 De acordo com informações exclusivas do site Deadline, Matt Johnson é o principal candidato para dirigir a adaptação live-action de Magic: The Gathering, sob o patrocínio da Legendary Entertainment e da Hasbro Entertainment. Fontes próximas ao projeto indicam que, embora uma oferta formal ainda não tenha sido apresentada a Johnson, devido ao estágio preliminar do projeto, ele é a primeira escolha para assumir a direção do filme. Até o momento, detalhes sobre o enredo ou o escritor do roteiro permanecem em aberto.

@@ -21,6 +21,10 @@ keywords: >-
   produção sul-coreana, relações modernas, fãs ansiosos
 data: '2025-04-04T15:14:12.868Z'
 author: Luana Souza
+resumo: >-
+  O K-drama 'A Parceira Ideal' é renovado para a 2ª temporada. Produtores
+  negociam retorno do elenco original, prometendo mais romance e reviravoltas
+  emocionan...
 ---
 
 O sucesso do K-drama 'A Parceira Ideal', que foi transmitido no Brasil através do serviço de streaming Rakuten Viki, garantiu a renovação para uma segunda temporada. A série, que capturou a atenção do público com sua trama envolvente e personagens carismáticos, está atualmente em processo de negociação para o retorno de seus protagonistas.

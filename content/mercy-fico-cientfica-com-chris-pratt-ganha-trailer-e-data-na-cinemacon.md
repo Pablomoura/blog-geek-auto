@@ -23,6 +23,9 @@ keywords: >-
   artificial, Rebecca Ferguson, filme distópico, suspense
 data: '2025-04-03T04:12:54.435Z'
 author: Pablo Moura
+resumo: >-
+  Na CinemaCon 2025, 'Mercy' ganha seu primeiro trailer. Chris Pratt e Rebecca
+  Ferguson estrelam esse thriller futurístico repleto de ação e suspense.
 ---
 
 Durante a CinemaCon 2025, foi revelado o primeiro trailer de 'Mercy', a nova ficção científica que conta com Chris Pratt e Rebecca Ferguson no elenco. O filme está programado para lançamento em breve, marcando mais uma colaboração de destaque no cinema de gênero.

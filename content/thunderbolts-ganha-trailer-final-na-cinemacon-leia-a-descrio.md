@@ -21,6 +21,10 @@ keywords: >-
   Fase 6, ação e super-heróis, trailer final
 data: '2025-04-03T23:11:34.115Z'
 author: Luana Souza
+resumo: >-
+  Marvel revela trailer eletrizante de 'Thunderbolts' na CinemaCon 2025, com
+  ação intensa e humor sagaz. Bucky, Yelena e equipe enfrentam desafios em Nova
+  York.
 ---
 
 Durante a CinemaCon 2025, a Marvel Studios apresentou o último trailer de 'Thunderbolts', que promete ser um dos grandes lançamentos do estúdio nos cinemas. O trailer começa com uma música animada enquanto mostra Nova York. Bucky e Guardião Vermelho discutem sobre soros dentro de uma van, com Guardião mostrando admiração e fazendo piadas sobre formarem uma dupla. Em outro canto, Agente Americano e Yelena Belova conversam sobre seus uniformes, com uma troca divertida sobre o 'chapéu' que na verdade é um capacete. A equipe então irrompe em um prédio dirigindo o carro, começando uma intensa cena de ação onde enfrentam vários guardas.

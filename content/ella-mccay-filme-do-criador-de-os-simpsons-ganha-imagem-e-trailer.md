@@ -21,6 +21,10 @@ keywords: >-
   Emma Mackey, Woody Harrelson, filme político
 data: '2025-04-03T23:13:43.202Z'
 author: Pablo Moura
+resumo: >-
+  Jamie Lee Curtis e Emma Mackey revelam novidades de 'Ella McCay' na CinemaCon
+  2025. James L. Brooks, diretor do filme, é homenageado com o prêmio Cinema
+  Verd...
 ---
 
 No recente evento CinemaCon 2025, uma presença notável foi a de Jamie Lee Curtis e Emma Mackey, que apresentaram novidades sobre o filme 'Ella McCay', dirigido por James L. Brooks, conhecido como um dos criadores de 'Os Simpsons'. Durante o evento, foi exibido um trailer inovador, juntamente com uma imagem exclusiva do filme.

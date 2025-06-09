@@ -17,6 +17,9 @@ tags:
   - animação japonesa
   - geração de imagens
 author: Luana Souza
+resumo: >-
+  A nova tecnologia de imagem da OpenAI, integrada ao Chat GPT-4, viraliza por
+  imitar o estilo do Studio Ghibli. CEO da OpenAI, Sam Altman, entra na onda.
 ---
 
 A mais recente tecnologia de geração de imagens da OpenAI desencadeou uma onda de usuários compartilhando artes nas redes sociais que imitam o estilo do Studio Ghibli, renomado estúdio de animação japonês, responsável por sucessos como 'A Viagem de Chihiro', 'Meu Amigo Totoro' e 'Princesa Mononoke'.

@@ -1,14 +1,33 @@
 ---
-title: "O Último Azul recebe mais um prêmio e garante espaço em festivais internacionais"
-slug: "o-ltimo-azul-recebe-mais-um-prmio-e-garante-espao-em-festivais-internacionais"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/HjM8TqGvwjp38UPM89WyZg-DbaE=/987x0/smart/uploads/conteudo/fotos/The_Blue_Trail_Guilhermo_Garza__Desvia.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QazfkEviiPvQsxPPV7DvTuPXAeg=/480x360/smart/extras/conteudos/The_Blue_Trail_Guilhermo_Garza__Desvia.jpg"
-tags: ["Gabriel Mascaro", "cinema brasileiro", "festivais internacionais", "Urso de Prata", "Festival de Berlim", "distribuição de filmes", "cinema latino-americano", "temas de resistência"]
-keywords: "Gabriel Mascaro, cinema brasileiro, festivais internacionais, Urso de Prata, Festival de Berlim, distribuição de filmes, cinema latino-americano, temas de resistência"
-author: "Pablo Moura"
-data: "2025-04-10T15:11:20.934Z"
+title: >-
+  O Último Azul recebe mais um prêmio e garante espaço em festivais
+  internacionais
+slug: o-ltimo-azul-recebe-mais-um-prmio-e-garante-espao-em-festivais-internacionais
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/HjM8TqGvwjp38UPM89WyZg-DbaE=/987x0/smart/uploads/conteudo/fotos/The_Blue_Trail_Guilhermo_Garza__Desvia.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QazfkEviiPvQsxPPV7DvTuPXAeg=/480x360/smart/extras/conteudos/The_Blue_Trail_Guilhermo_Garza__Desvia.jpg
+tags:
+  - Gabriel Mascaro
+  - cinema brasileiro
+  - festivais internacionais
+  - Urso de Prata
+  - Festival de Berlim
+  - distribuição de filmes
+  - cinema latino-americano
+  - temas de resistência
+keywords: >-
+  Gabriel Mascaro, cinema brasileiro, festivais internacionais, Urso de Prata,
+  Festival de Berlim, distribuição de filmes, cinema latino-americano, temas de
+  resistência
+author: Pablo Moura
+data: '2025-04-10T15:11:20.934Z'
+resumo: >-
+  O Último Azul, de Gabriel Mascaro, coleciona prêmios e será exibido em 13
+  festivais internacionais. O filme, estrelado por Denise Weinberg e Rodrigo
+  Santoro,...
 ---
 
 O Último Azul, dirigido por Gabriel Mascaro, continua a acumular reconhecimentos internacionais. Recentemente, o filme foi premiado pela Associação Nacional das Distribuidoras Audiovisuais Independentes (ANDAI), que destacou sua relevância no cenário cinematográfico brasileiro e assegurou sua exibição em pelo menos 40 salas nacionais ao entrar no circuito comercial.

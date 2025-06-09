@@ -16,6 +16,9 @@ tags:
   - jogo de ação
   - exclusivo nintendo
 author: Pablo Moura
+resumo: >-
+  A Nintendo e Koei Tecmo revelam 'Hyrule Warriors Age of Imprisonment' para
+  Switch 2. Com ação intensa e nova história, o jogo chega ainda este ano.
 ---
 
 A Nintendo, em parceria com a Koei Tecmo, revelou a produção do novo título 'Hyrule Warriors Age of Imprisonment', que será lançado exclusivamente para o Nintendo Switch 2. Esta sequência do sucesso 'Hyrule Warriors' promete manter a dinâmica de ação intensa, característica marcante da série, diferenciando-se dos elementos tradicionais de RPG encontrados na franquia Zelda.

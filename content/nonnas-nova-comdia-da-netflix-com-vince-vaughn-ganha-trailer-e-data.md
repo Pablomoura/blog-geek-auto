@@ -22,6 +22,9 @@ keywords: >-
   italiano, elenco estelar
 data: '2025-04-09T17:11:50.236Z'
 author: Pablo Moura
+resumo: >-
+  Nonas', nova comédia da Netflix com Vince Vaughn, estreia em 9 de maio.
+  Dirigida por Stephen Chbosky, promete humor e emoção com um elenco estelar.
 ---
 
 A nova comédia da Netflix, intitulada 'Nonnas', estrelada por Vince Vaughn, acaba de lançar seu trailer completo e anunciar a data de estreia. O filme, que promete arrancar risadas e emoções, tem previsão de chegada ao catálogo em 9 de maio.

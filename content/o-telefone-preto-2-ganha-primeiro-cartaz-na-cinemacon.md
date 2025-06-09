@@ -17,6 +17,9 @@ tags:
   - cartaz de filme
   - suspense
 author: Pablo Moura
+resumo: >-
+  O primeiro cartaz de O Telefone Preto 2 foi revelado na CinemaCon 2025. Com
+  direção de Scott Derrickson, o filme estreia em 17 de outubro de 2025.
 ---
 
 Durante a CinemaCon 2025, o primeiro cartaz de O Telefone Preto 2 foi oficialmente revelado. O banner, que adota um design simples, destaca o tom sombrio do filme e anuncia a data de lançamento, sem revelar detalhes sobre o elenco ou apresentar imagens de personagens.

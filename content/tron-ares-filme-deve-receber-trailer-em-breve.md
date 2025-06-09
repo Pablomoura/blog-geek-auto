@@ -18,6 +18,10 @@ tags:
   - jared leto
   - filme de ficção científica
 author: Pablo Moura
+resumo: >-
+  O trailer de 'Tron: Ares', estrelado por Jared Leto, está pronto e pode
+  estrear na CinemaCon. A trama explora a interação entre humanos e IA. Estreia
+  em 2025.
 ---
 
 De acordo com o The Hollywood Handle, o trailer de 'Tron: Ares' já recebeu classificação indicativa e está pronto para ser divulgado. A expectativa é que o lançamento ocorra durante a CinemaCon.

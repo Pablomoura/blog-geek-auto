@@ -15,6 +15,9 @@ tags:
   - entrevista
   - academia
 author: Luana Souza
+resumo: >-
+  Will Smith fala sobre seu banimento de 10 anos do Oscar após agredir Chris
+  Rock. O ator revela foco em melhorar como pessoa e expressa arrependimento.
 ---
 
 Em uma entrevista recente com a Associated Press, Will Smith discutiu seu banimento de 10 anos dos eventos da Academia, incluindo o Oscar, uma penalidade decorrente de um incidente ocorrido há três anos. Na cerimônia em que ganhou seu primeiro Oscar por 'King Richard: Criando Campeãs', Smith agrediu fisicamente o comediante Chris Rock no palco, em resposta a uma piada sobre Jada Pinkett Smith, sua esposa.

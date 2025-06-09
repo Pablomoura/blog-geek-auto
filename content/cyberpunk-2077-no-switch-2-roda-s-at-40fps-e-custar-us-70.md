@@ -21,6 +21,10 @@ keywords: >-
   console, lançamento de console
 data: '2025-04-03T15:10:52.968Z'
 author: Luana Souza
+resumo: >-
+  Nintendo Direct confirma Cyberpunk 2077 para Switch 2, com lançamento global
+  em 5 de junho. Novo console traz melhorias gráficas, Joy-Cons magnéticos e
+  GameC...
 ---
 
 Durante o evento Nintendo Direct deste ano, foi confirmado que o jogo Cyberpunk 2077 estará disponível no futuro console Switch 2, alcançando até 40fps com um preço estipulado em US$ 70, aproximadamente R$ 400 em conversão direta. A informação foi divulgada pelo renomado jornalista Jason Schreier, que esteve presente na cobertura.

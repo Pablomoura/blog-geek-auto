@@ -16,6 +16,10 @@ tags:
   - cinema de terror
   - lançamento de trailer
 author: Ana Luiza
+resumo: >-
+  O trailer de 'Premonição 6: Laços de Sangue' atinge 178,7 milhões de
+  visualizações em 24h, tornando-se o 2º mais visto em terror. Estreia no Brasil
+  em 15 de...
 ---
 
 De acordo com o Deadline, o trailer de 'Premonição 6: Laços de Sangue' atingiu um marco impressionante ao registrar 178,7 milhões de visualizações globais nas primeiras 24 horas após seu lançamento. Esse feito posiciona o trailer como o segundo mais visto na categoria terror, ficando atrás apenas do trailer do remake de 'It — A Coisa', que acumulou quase 200 milhões de visualizações no mesmo intervalo de tempo.

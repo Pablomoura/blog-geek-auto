@@ -21,6 +21,10 @@ keywords: >-
   Miller, trailer, lançamento
 data: '2025-04-08T18:14:28.025Z'
 author: Luana Souza
+resumo: >-
+  A quarta temporada de 'Love, Death + Robots' chega à Netflix com 10 episódios,
+  trazendo animações diversificadas e gêneros como fantasia e ficção
+  científica....
 ---
 
 A aguardada quarta temporada da série antológica 'Love, Death + Robots', exclusiva da Netflix, acaba de ter seu primeiro trailer divulgado. Mantendo a tradição das temporadas anteriores, o trailer apresenta uma variedade de estilos de animação e introduz elementos surpreendentes como dinossauros entre outras peculiaridades.

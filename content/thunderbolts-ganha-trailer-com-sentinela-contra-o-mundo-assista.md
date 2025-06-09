@@ -20,6 +20,9 @@ keywords: >-
   super-heróis, confronto épico
 data: '2025-04-07T14:12:00.591Z'
 author: Ana Luiza
+resumo: >-
+  Marvel expande seu universo com 'Thunderbolts', destacando anti-heróis como
+  Yelena e Bucky. Prepare-se para confrontos épicos e novos lançamentos em 2025!
 ---
 
 O universo cinematográfico da Marvel está prestes a expandir com o lançamento de 'Thunderbolts', um filme que coloca alguns dos mais complexos anti-heróis do MCU no centro da ação. O filme, que teve seu novo trailer divulgado, destaca o vilão Sentinela enfrentando os Thunderbolts, que se preparam para um confronto que pode decidir o destino do mundo.

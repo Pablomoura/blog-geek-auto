@@ -18,6 +18,10 @@ tags:
   - série de crime
   - bastidores
 author: Ana Luiza
+resumo: >-
+  A filmagem da 2ª temporada de 'Paradise' começou! Criador Dan Fogelman
+  confirma o retorno do elenco estelar para mais drama e mistérios. Assista a 1ª
+  tempora...
 ---
 
 A aguardada segunda temporada de 'Paradise' já começou a ser filmada, conforme revela uma nova foto dos bastidores divulgada recentemente. Dan Fogelman, criador e roteirista da aclamada série de crime e drama, foi quem confirmou o início das gravações. Ambientada em uma comunidade aparentemente perfeita, a série se desenrola ao redor de um perturbador assassinato que abala a tranquilidade do local e desencadeia uma complexa investigação.

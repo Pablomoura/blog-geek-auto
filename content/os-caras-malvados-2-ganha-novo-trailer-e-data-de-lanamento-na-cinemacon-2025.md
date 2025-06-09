@@ -23,6 +23,10 @@ keywords: >-
   animação, ficção científica, elenco de vozes, aventura e humor
 data: '2025-04-03T00:15:39.152Z'
 author: Ana Luiza
+resumo: >-
+  Na CinemaCon 2025, o trailer de 'Os Caras Malvados 2' revela as Bad Girls como
+  novas rivais. Estreia em 31 de julho, com ação e humor em uma aventura
+  espacial.
 ---
 
 Durante a CinemaCon 2025, foi revelado o aguardado trailer de 'Os Caras Malvados 2', juntamente com o anúncio da data de estreia do filme. A novidade empolgante deste ano é a introdução das Bad Girls, anunciada pelo ator Craig Robinson durante o evento.

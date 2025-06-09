@@ -15,6 +15,10 @@ tags:
   - vilões da disney
   - potionista
 author: Ana Luiza
+resumo: >-
+  Disney Villains Cursed Café chega ao Nintendo Switch, permitindo que jogadores
+  administrem um café para vilões da Disney, criando poções para Malévola e
+  outros.
 ---
 
 Disney Villains Cursed Café é o mais recente lançamento para o Nintendo Switch, disponível a partir desta quinta-feira (27). O jogo oferece uma experiência única onde os jogadores administram um café destinado aos icônicos vilões da Disney.

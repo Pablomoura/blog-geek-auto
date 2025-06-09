@@ -21,6 +21,10 @@ keywords: >-
   estelar, estreia de filme, animação
 data: '2025-04-03T18:14:47.905Z'
 author: Ana Luiza
+resumo: >-
+  Na CinemaCon 2025, a Paramount revelou um trailer de Smurfs com uma música
+  inédita de Rihanna, que será Smurfette. A estreia está marcada para 18 de
+  julho.
 ---
 
 Durante a CinemaCon 2025, a Paramount Animation revelou um novo trailer de Smurfs, que contou com a presença de um público ansioso. O destaque do trailer foi uma música inédita de Rihanna, que também dará vida à personagem Smurfette na nova adaptação da série. A música completa e seu título ainda serão anunciados oficialmente pelo estúdio.

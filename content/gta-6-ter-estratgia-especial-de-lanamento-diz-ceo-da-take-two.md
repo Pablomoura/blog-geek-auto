@@ -17,6 +17,10 @@ tags:
   - jogos
   - indústria de videogames
 author: Ana Luiza
+resumo: >-
+  A Rockstar Games retém a data de lançamento de GTA 6 para aumentar a
+  expectativa, diz Strauss Zelnick, CEO da Take-Two. Lançamento previsto para
+  2025.
 ---
 
 A Rockstar Games está deliberadamente retendo a data de lançamento de GTA 6, revelou Strauss Zelnick, CEO da Take-Two Interactive, proprietária do estúdio responsável pela franquia de jogos mais rentável. Em entrevista à Bloomberg, Zelnick destacou que a estratégia visa capitalizar a grande expectativa em torno do jogo. "A expectativa em torno deste título pode ser a maior que já presenciei para qualquer propriedade intelectual", disse ele.

@@ -20,6 +20,10 @@ keywords: >-
   Angela Bassett, Disney+ streaming
 data: '2025-04-04T13:22:07.354Z'
 author: Luana Souza
+resumo: >-
+  A série '9-1-1' lança trailer tenso para a oitava temporada com um arco de
+  contágio. Novidades incluem a nona temporada e o spin-off '9-1-1: Nashville'.
+  Saib...
 ---
 
 A série '9-1-1' divulgou um trailer empolgante para os próximos episódios da oitava temporada, que prometem grande tensão com um arco narrativo focado num contágio. A história se desenrolará ao longo de dois episódios, onde emergências se sucedem após pessoas serem aprisionadas em um ambiente exposto a um vírus letal. Os episódios, intitulados '9-1-1: Contagion', serão exibidos na próxima semana nos Estados Unidos, embora ainda não haja uma data confirmada para sua estreia no Brasil.

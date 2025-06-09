@@ -16,6 +16,10 @@ tags:
   - diego hypólito
   - maike
 author: Pablo Moura
+resumo: >-
+  No BBB 25, Aline, Maike e Diego Hypólito estão no décimo Paredão. Maike lidera
+  nas enquetes. Resultado ao vivo nesta terça; acompanhe na TV Globo e
+  Globoplay.
 ---
 
 O décimo Paredão do BBB 25, formado na última noite de domingo, 23, coloca Aline, Maike e Diego Hypólito na berlinda. A eliminação será na próxima terça-feira, dia 25.

@@ -21,6 +21,10 @@ keywords: >-
   feriado de 4 de julho, salto temporal, plataforma Max
 data: '2025-04-06T22:10:33.703Z'
 author: Luana Souza
+resumo: >-
+  Com o final da 1ª temporada de 'The Pitt' se aproximando, a 2ª promete
+  surpresas com um salto temporal de 10 meses e ambientação no feriado de 4 de
+  julho.
 ---
 
 À medida que a primeira temporada de 'The Pitt' se aproxima de sua conclusão, aumenta a curiosidade dos fãs sobre o rumo que a série médica tomará em seu segundo ano. R. Scott Gemmill, produtor executivo da série, revelou detalhes sobre os futuros episódios durante um painel no evento do Deadline, ocorrido no último sábado, dia 5. Ele anunciou que a segunda temporada será ambientada durante o feriado de 4 de julho e incluirá um salto temporal de 10 meses.

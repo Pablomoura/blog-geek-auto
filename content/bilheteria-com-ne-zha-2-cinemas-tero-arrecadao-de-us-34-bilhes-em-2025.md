@@ -21,6 +21,10 @@ tags:
   - tendências de cinema
   - análise de mercado
 author: Pablo Moura
+resumo: >-
+  O cinema global deve arrecadar US$ 34,1 bilhões em 2025, impulsionado pelo
+  sucesso de 'Ne Zha 2', que já faturou US$ 2 bilhões, segundo a Gower Street
+  Analyt...
 ---
 
 O setor cinematográfico global está projetado para alcançar uma arrecadação impressionante de US$ 34,1 bilhões em 2025, conforme relatório recente da Gower Street Analytics. A revisão das estimativas, que anteriormente apontavam para US$ 33 bilhões, foi motivada pelo desempenho surpreendente de 'Ne Zha 2'. Este filme de animação chinês já acumulou mais de US$ 2 bilhões mundialmente, posicionando-se como a quinta maior bilheteria de todos os tempos.

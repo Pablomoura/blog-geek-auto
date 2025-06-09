@@ -23,6 +23,10 @@ keywords: >-
   Marvel Comics, Estreia 2025
 data: '2025-04-04T16:13:27.169Z'
 author: Ana Luiza
+resumo: >-
+  Matt Shakman revela inspiração em Stanley Kubrick para 'Quarteto Fantástico:
+  Primeiros Passos', buscando recriar a estética de 1965 com lentes antigas e
+  CGI.
 ---
 
 Em recente entrevista concedida à revista Empire, Matt Shakman, diretor de 'Quarteto Fantástico: Primeiros Passos', compartilhou insights sobre sua fonte de inspiração para o comando do novo filme do Marvel Cinematic Universe (MCU). Shakman expressou seu desejo de recriar uma atmosfera que remetesse ao ano de 1965, conforme seria feito pelo renomado diretor Stanley Kubrick. 'Eu realmente queria fazer que o filme parecesse feito em 1965, da forma que Stanley Kubrick teria feito', explicou o diretor. Para alcançar essa estética, Shakman e sua equipe optaram pelo uso de lentes antigas e uma abordagem cinematográfica diferenciada, visando a uma maior imersão temporal, embora não tenham dispensado o uso extensivo de CGI.

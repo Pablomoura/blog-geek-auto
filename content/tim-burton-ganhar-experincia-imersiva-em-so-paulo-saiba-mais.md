@@ -21,6 +21,9 @@ keywords: >-
   experiência sensorial, cinema gótico, ingressos, acessibilidade
 data: '2025-04-08T21:09:46.625Z'
 author: Ana Luiza
+resumo: >-
+  Explore a magia de Tim Burton na exposição imersiva 'O Estranho Mundo de
+  Jack', em São Paulo. Ingressos disponíveis a partir de 8 de abril. Não perca!
 ---
 
 Os aficionados por Tim Burton têm motivos para comemorar, pois uma exposição imersiva baseada na obra do cineasta está a caminho de São Paulo. Marcada para maio, esta será a primeira vez que a exposição chega ao Brasil, trazendo personagens de 'O Estranho Mundo de Jack' em tamanho real.

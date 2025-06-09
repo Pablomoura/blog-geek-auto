@@ -17,6 +17,9 @@ tags:
   - selva
   - retorno
 author: Luana Souza
+resumo: >-
+  Jack Black confirma retorno em 'Jumanji 3', ao lado de Dwayne Johnson, Kevin
+  Hart e Karen Gillan, sob direção de Jake Kasdan. Sucesso garantido na selva!
 ---
 
 Jack Black estará de volta à selva em 'Jumanji 3', também conhecido por alguns como 'Jumanji 4', dependendo da perspectiva de sequência. Inicialmente, o ator incitou especulações sobre sua participação no projeto, chegando a negar seu retorno em uma brincadeira de primeiro de abril. No entanto, ele confirmou que fará parte do elenco do novo filme. Durante a divulgação de 'Um Filme Minecraft', ao lado de Jason Momoa, Black esclareceu os rumores sobre sua continuidade na franquia.

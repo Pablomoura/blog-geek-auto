@@ -17,6 +17,10 @@ tags:
   - fortaleza da solidão
   - especial-Superman
 author: Pablo Moura
+resumo: >-
+  Warner Bros. revela imagens de 'Superman' na CinemaCon com David Corenswet.
+  Dirigido por James Gunn, o filme inicia um novo universo DC com grandes
+  expectati...
 ---
 
 A Warner Bros. apresentou novas imagens de 'Superman' com David Corenswet no papel principal durante a CinemaCon em Las Vegas, neste domingo (30). O material promocional mostra o ator em pleno voo sobre a icônica Fortaleza da Solidão.

@@ -15,6 +15,9 @@ tags:
   - x-men
   - super-heróis
 author: Pablo Moura
+resumo: >-
+  Marvel anuncia elenco de 'Vingadores: Doomsday', com X-Men da era Fox, mas sem
+  Hugh Jackman, Ryan Reynolds e atores dos Homens-Aranhas. Confira detalhes!
 ---
 
 A Marvel Studios promoveu um evento online nesta quarta-feira, 26, para anunciar o elenco principal do aguardado filme 'Vingadores: Doomsday'. A produção do novo longa da saga de super-heróis já está a todo vapor, e a lista inclui o retorno dos X-Men originais da era Fox.

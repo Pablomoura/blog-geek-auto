@@ -18,6 +18,10 @@ tags:
   - charlie brooker
   - tecnologia
 author: Ana Luiza
+resumo: >-
+  A Netflix lança o trailer da 7ª temporada de Black Mirror, com seis episódios
+  sobre os impactos da tecnologia. Confira o elenco estelar e cenários
+  distópicos!
 ---
 
 A espera acabou para os fãs de Black Mirror, pois a Netflix acaba de lançar o trailer da sétima temporada da série antológica. Confira já o trailer no site da Netflix!

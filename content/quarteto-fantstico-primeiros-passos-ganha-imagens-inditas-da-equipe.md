@@ -20,6 +20,9 @@ keywords: >-
   2025, Robert Downey Jr.
 data: '2025-04-04T15:13:22.010Z'
 author: Luana Souza
+resumo: >-
+  Quarteto Fantástico: Primeiros Passos' revela novas imagens e marca a estreia
+  da família icônica no MCU, após aquisição dos direitos pela Disney. Confira!
 ---
 
 O aguardado filme 'Quarteto Fantástico: Primeiros Passos', que marca a reintrodução da família de super-heróis no Universo Cinematográfico Marvel (MCU), divulgou recentemente duas novas imagens através da revista Empire. Este é o primeiro filme do Quarteto Fantástico produzido pelo estúdio, após a aquisição dos direitos pela Disney, e a terceira adaptação cinematográfica do grupo, amplamente reconhecido como a 'primeira família da Marvel' devido ao seu papel crucial no sucesso inicial dos quadrinhos.

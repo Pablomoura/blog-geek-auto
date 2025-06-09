@@ -1,14 +1,27 @@
 ---
-title: "One Piece pode ter revelado real destino de Big Mom em Wano; entenda"
-slug: "one-piece-pode-ter-revelado-real-destino-de-big-mom-em-wano-entenda"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/uKCzx_yVGoE?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/YYMJ1V5auouBg55XNWsGjZBt3Tk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T210339.066.png"
-tags: ["One Piece", "Big Mom", "Wano", "mangá", "Soru Soru no Mi", "Elbaf", "gigantes", "homie"]
-keywords: "One Piece, Big Mom, Wano, mangá, Soru Soru no Mi, Elbaf, gigantes, homie"
-author: "Luana Souza"
-data: "2025-04-10T00:49:48.122Z"
+title: One Piece pode ter revelado real destino de Big Mom em Wano; entenda
+slug: one-piece-pode-ter-revelado-real-destino-de-big-mom-em-wano-entenda
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/uKCzx_yVGoE?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/YYMJ1V5auouBg55XNWsGjZBt3Tk=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T210339.066.png
+tags:
+  - One Piece
+  - Big Mom
+  - Wano
+  - mangá
+  - Soru Soru no Mi
+  - Elbaf
+  - gigantes
+  - homie
+keywords: 'One Piece, Big Mom, Wano, mangá, Soru Soru no Mi, Elbaf, gigantes, homie'
+author: Luana Souza
+data: '2025-04-10T00:49:48.122Z'
+resumo: >-
+  No último capítulo de One Piece, uma revelação sobre o escudo homie de
+  Goldberg pode indicar o destino de Big Mom, sugerindo seu possível fim em
+  Wano.
 ---
 
 Durante a leitura do último capítulo do mangá One Piece, uma revelação crucial pode ter esclarecido o destino de Big Mom, a notória pirata que desapareceu após o arco de Wano. No capítulo 1145, uma informação chave é fornecida por Goldberg, que discorre sobre a origem de seu escudo. Este, conforme revelado, é um homie, trazido à vida pela fruta Soru Soru no Mi. Goldberg esclarece que o escudo foi animado há muitos anos, durante uma expedição liderada por seu pai para derrotar Big Mom. Este evento é anterior à posse da Soru Soru no Mi por Big Mom, indicando que foi Mãe Carmel, e não a Younkou, quem deu vida ao escudo.

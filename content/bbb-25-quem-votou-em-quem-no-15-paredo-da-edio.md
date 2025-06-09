@@ -21,6 +21,9 @@ keywords: >-
   Popular
 data: '2025-04-09T03:28:31.587Z'
 author: Pablo Moura
+resumo: >-
+  No 15º paredão do BBB 25, sem Prova do Anjo ou Bate-Volta, Maike, Renata e
+  Vinícius estão na berlinda. Acompanhe ao vivo no Globoplay e Globo.com!
 ---
 
 Na noite desta terça-feira, o 15º paredão do Big Brother Brasil 25 foi estabelecido sob a condução do apresentador Tadeu Schmidt. A formação do paredão desta semana não contou com a Prova do Anjo devido ao modo turbo do programa, o que eliminou a possibilidade de imunização.

@@ -21,6 +21,10 @@ keywords: >-
   Cinema, Produtora
 data: '2025-04-03T05:11:49.332Z'
 author: Pablo Moura
+resumo: >-
+  A Amazon MGM Studios anunciou Amy Pascal como produtora do novo filme de James
+  Bond, enquanto a família Broccoli vendeu o controle criativo da saga por US$
+  1...
 ---
 
 Durante a CinemaCon deste ano, o painel da Amazon MGM Studios revelou novidades significativas sobre a saga 007, uma das franquias mais antigas e amadas do cinema. A principal notícia foi a confirmação de Amy Pascal como produtora do próximo filme de James Bond. Pascal é conhecida por seu envolvimento nas produções da franquia Homem-Aranha e outros filmes notáveis como 'Rivais' de Luca Guadagnino, 'Adoráveis Mulheres' de Greta Gerwig e 'The Post' de Steven Spielberg.

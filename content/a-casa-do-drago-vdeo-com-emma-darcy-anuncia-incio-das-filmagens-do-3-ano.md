@@ -19,6 +19,10 @@ tags:
   - game of thrones
   - rhaenyra targaryen
 author: Pablo Moura
+resumo: >-
+  A série 'A Casa do Dragão' retorna para a terceira temporada com Emma D'Arcy.
+  Filmagens começam em 2025, prometendo grandes eventos e um episódio
+  conceitual.
 ---
 
 A série 'A Casa do Dragão', derivada do sucesso 'Game of Thrones', iniciará as filmagens de sua terceira temporada em breve, com Emma D'Arcy reprisando seu papel como Rhaenyra Targaryen. Em um recente vídeo de bastidores, a atriz compartilhou a empolgação com o novo ciclo da série.

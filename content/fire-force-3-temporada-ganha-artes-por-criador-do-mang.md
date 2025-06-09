@@ -21,6 +21,10 @@ keywords: >-
   Resgate do Obi, White Clad
 data: '2025-04-04T15:12:49.044Z'
 author: Luana Souza
+resumo: >-
+  A terceira temporada de Fire Force chega em 5 de abril de 2025, explorando
+  novos arcos intensos e revelando mistérios do Império de Tóquio. Prepare-se
+  para a...
 ---
 
 O mangaká responsável por Fire Force, Atsushi Ohkubo, acaba de divulgar novas artes conceituais para a terceira temporada do anime. A aguardada sequência será lançada em 5 de abril e promete emocionar os fãs, adaptando a história a partir do Capítulo 175 do mangá.

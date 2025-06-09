@@ -1,14 +1,30 @@
 ---
-title: "Resident Playbook | Conheça os protagonistas do novo k-drama em trailer recém-divulgado"
-slug: "resident-playbook-novo-trailer-apresenta-protagonistas-do-k-drama-veja"
-categoria: "SÉRIES E TV"
-midia: "https://www.youtube.com/embed/xRfbAmTr-Ps?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/I3APBB2k2xMEUVFKfEidvwdKf_Y=/480x360/smart/extras/conteudos/resident_bwyFpKV.png"
-tags: ["k-drama", "Netflix", "Resident Playbook", "Hospital Playlist", "médico", "spin-off", "série coreana", "trailer"]
-keywords: "k-drama, Netflix, Resident Playbook, Hospital Playlist, médico, spin-off, série coreana, trailer"
-author: "Ana Luiza"
-data: "2025-04-10T12:17:59.666Z"
+title: >-
+  Resident Playbook | Conheça os protagonistas do novo k-drama em trailer
+  recém-divulgado
+slug: resident-playbook-novo-trailer-apresenta-protagonistas-do-k-drama-veja
+categoria: SÉRIES E TV
+midia: 'https://www.youtube.com/embed/xRfbAmTr-Ps?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/I3APBB2k2xMEUVFKfEidvwdKf_Y=/480x360/smart/extras/conteudos/resident_bwyFpKV.png
+tags:
+  - k-drama
+  - Netflix
+  - Resident Playbook
+  - Hospital Playlist
+  - médico
+  - spin-off
+  - série coreana
+  - trailer
+keywords: >-
+  k-drama, Netflix, Resident Playbook, Hospital Playlist, médico, spin-off,
+  série coreana, trailer
+author: Ana Luiza
+data: '2025-04-10T12:17:59.666Z'
+resumo: >-
+  Netflix lança trailer de 'Resident Playbook', spin-off de 'Hospital Playlist'.
+  A série, que estreia em 21/04, explora desafios de residentes em obstetrícia.
 ---
 
 A plataforma Netflix disponibilizou um novo trailer para o k-drama médico 'Resident Playbook', que é um spin-off do aclamado 'Hospital Playlist' (2020-2021). O vídeo, lançado nesta manhã de terça-feira (10), destaca os personagens principais, introduzindo-os com detalhes curiosos e divertidos sobre cada um.

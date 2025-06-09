@@ -21,6 +21,10 @@ keywords: >-
   da tecnologia, ética em IA, inteligência artificial
 data: '2025-04-04T12:17:56.609Z'
 author: Ana Luiza
+resumo: >-
+  Goro Miyazaki, do Studio Ghibli, reflete sobre IA no cinema, admirando seu
+  potencial, mas destacando a profundidade única das obras do estúdio enraizadas
+  em...
 ---
 
 Goro Miyazaki, filho do renomado Hayao Miyazaki e também integrante do Studio Ghibli, compartilhou suas perspectivas sobre a inteligência artificial em uma entrevista à Agence France-Presse. Ele expressou admiração pela capacidade tecnológica atual, sugerindo que em breve, possivelmente em dois anos, poderemos ver um filme totalmente produzido por IA.

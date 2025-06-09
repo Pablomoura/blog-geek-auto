@@ -16,6 +16,9 @@ tags:
   - filme 2021
   - tv globo
 author: Pablo Moura
+resumo: >-
+  Nesta terça, 1° de outubro, a Sessão da Tarde exibe 'A Vida É Agora', com
+  Billy Crystal. Uma amizade inesperada na trama promete emoção e humor.
 ---
 
 Nesta terça-feira, 1° de outubro, a Sessão da Tarde da TV Globo apresenta o filme 'A Vida É Agora', lançado em 2021. Com início previsto para as 15h25, horário de Brasília, o longa possui uma duração total de duas horas.

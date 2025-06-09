@@ -17,6 +17,10 @@ tags:
   - transmissão ao vivo
   - chris hemsworth
 author: Pablo Moura
+resumo: >-
+  Marvel revela elenco de 'Vingadores: Doomsday' em transmissão ao vivo, com
+  Chris Hemsworth e Vanessa Kirby. Surpresa: Robert Downey Jr. será Doutor
+  Destino!
 ---
 
 A Marvel iniciou uma enigmática transmissão ao vivo em suas redes sociais, trazendo uma grande novidade para os entusiastas do MCU: a revelação do elenco de 'Vingadores: Doomsday'. Acompanhe a transmissão ao vivo para mais atualizações.

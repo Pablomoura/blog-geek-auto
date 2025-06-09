@@ -19,6 +19,10 @@ tags:
   - filmes animados
   - warner bros.
 author: Luana Souza
+resumo: >-
+  Na CinemaCon 2025, a Warner Animation revelou novos projetos, incluindo um
+  filme dos Flintstones em 3D e um animado 'Cat in the Hat' com Bill Hader,
+  agendado...
 ---
 
 No evento CinemaCon 2025, a Warner Animation, uma divisão da Warner Bros., apresentou detalhes emocionantes sobre seus próximos projetos. Segundo cobertura do portal Omelete, que esteve presente no evento, o estúdio preparou uma apresentação vibrante que incluiu um clipe compilando desde os clássicos como Pernalonga até os mais recentes filmes da franquia LEGO, bem como futuros lançamentos.

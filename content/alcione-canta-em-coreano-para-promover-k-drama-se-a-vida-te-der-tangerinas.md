@@ -17,6 +17,9 @@ tags:
   - marketing
   - iu
 author: Luana Souza
+resumo: >-
+  Netflix inova ao promover k-drama 'Se a Vida Te Der Tangerinas' com Alcione
+  cantando em coreano. A série estrelada por IU e Park Bo-gum finaliza amanhã.
 ---
 
 Em uma estratégia de marketing inovadora, a Netflix divulgou um vídeo de Alcione performando seu hit 'Você Me Vira a Cabeça' em coreano. A iniciativa visa promover o lançamento do k-drama 'Se a Vida Te Der Tangerinas'.

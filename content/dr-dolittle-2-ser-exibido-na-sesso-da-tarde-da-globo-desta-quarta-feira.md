@@ -20,6 +20,9 @@ keywords: >-
   animal, filme para família, aventura, TV Globo
 data: '2025-04-09T07:10:31.151Z'
 author: Luana Souza
+resumo: >-
+  Prepare-se para diversão com 'Dr. Dolittle 2' na Sessão da Tarde! Eddie Murphy
+  retorna como o médico que fala com animais, em uma missão para salvar ursos.
 ---
 
 A Sessão da Tarde desta quarta-feira (8) promete trazer diversão e aventuras para a tela da TV Globo, com a exibição do filme 'Dr. Dolittle 2', a partir das 15h25, horário de Brasília. O filme, dirigido por Steve Carr e lançado em 2001, tem uma duração original de 1h30.

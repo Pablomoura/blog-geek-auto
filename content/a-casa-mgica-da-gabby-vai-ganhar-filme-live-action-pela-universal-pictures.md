@@ -23,6 +23,9 @@ keywords: >-
   Wiig, CinemaCon, filme infantil
 data: '2025-04-03T00:15:03.691Z'
 author: Luana Souza
+resumo: >-
+  Universal anuncia live-action de 'A Casa Mágica da Gabby' com Gloria Stephan e
+  Kristen Wiig. Filme mesclará animação 3D e live-action, estreia em setembro.
 ---
 
 No recente evento da CinemaCon, a Universal Pictures revelou que está desenvolvendo uma versão live-action do popular desenho infantil 'A Casa Mágica da Gabby'. A divulgação incluiu a apresentação da primeira arte promocional do projeto.

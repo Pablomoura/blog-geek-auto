@@ -18,6 +18,10 @@ tags:
   - retorno
   - saga
 author: Pablo Moura
+resumo: >-
+  Jason Momoa confirma retorno como Duncan Idaho em 'Duna: Messias'. Em
+  entrevista, brinca sobre spoilers e discute sua participação em 'Supergirl'
+  como Lobo.
 ---
 
 Jason Momoa confirmou sua participação em 'Duna: Messias' no papel de Duncan Idaho. Em entrevista ao programa TODAY, nos Estados Unidos, Momoa discutiu seu retorno à saga e brincou com o apresentador Craig Melvin sobre a antecipação da notícia.

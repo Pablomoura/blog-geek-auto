@@ -21,6 +21,9 @@ keywords: >-
   criação artística, propriedade intelectual, ética em IA, inovação tecnológica
 data: '2025-04-09T15:13:21.374Z'
 author: Pablo Moura
+resumo: >-
+  A Turma da Mônica é alvo de reinterpretações por IA, levando a MSP Estúdios a
+  anunciar medidas legais para proteger seus personagens e direitos autorais.
 ---
 
 Recentemente, a Turma da Mônica entrou para a lista de conteúdos reinterpretados por meio de inteligência artificial, seguindo o exemplo de outras produções como as do Studio Ghibli. Nas redes sociais, é possível encontrar uma variedade de montagens que utilizam os personagens criados por Mauricio de Sousa, geradas por ferramentas como ChatGPT. Em resposta a essa tendência, o estúdio responsável pelos personagens anunciou que tomará medidas legais para proteger sua propriedade intelectual.

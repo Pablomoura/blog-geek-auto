@@ -20,6 +20,10 @@ tags:
   - sequência de filme
   - cinema hollywood
 author: Pablo Moura
+resumo: >-
+  David Fincher dirigirá a sequência de 'Era uma Vez em... Hollywood', com Brad
+  Pitt confirmado. Leonardo DiCaprio ainda negocia sua participação com a
+  Netflix.
 ---
 
 Recentemente, o site The Playlist divulgou que David Fincher assumirá a direção da sequência do aclamado filme 'Era uma Vez em... Hollywood'. Seguindo essa linha, informações do site The InSneider indicam que Leonardo DiCaprio também pode retornar à franquia. Inicialmente, apenas a participação de Brad Pitt, focando no personagem Cliff Booth, havia sido confirmada, com Quentin Tarantino responsável pelo roteiro.

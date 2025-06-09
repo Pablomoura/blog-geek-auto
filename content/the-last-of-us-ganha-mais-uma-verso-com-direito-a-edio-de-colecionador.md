@@ -1,14 +1,31 @@
 ---
-title: "The Last of Us ganha mais uma versão, com direito a edição de colecionador"
-slug: "the-last-of-us-ganha-mais-uma-verso-com-direito-a-edio-de-colecionador"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/A3oycZhvLtFwU7VMSQI9FrsXq18=/987x0/smart/uploads/conteudo/fotos/02_zyEvy5h.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/EE2xg0HImGOh1zumIjx5r0PLf98=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_155655.png"
-tags: ["The Last of Us", "PlayStation 5", "edição de colecionador", "série televisiva", "Neil Druckmann", "Naughty Dog", "Pedro Pascal", "Bella Ramsey", "especial-The Last of Us"]
-keywords: "The Last of Us, PlayStation 5, edição de colecionador, série televisiva, Neil Druckmann, Naughty Dog, Pedro Pascal, Bella Ramsey"
-author: "Luana Souza"
-data: "2025-04-10T19:08:48.315Z"
+title: 'The Last of Us ganha mais uma versão, com direito a edição de colecionador'
+slug: the-last-of-us-ganha-mais-uma-verso-com-direito-a-edio-de-colecionador
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/A3oycZhvLtFwU7VMSQI9FrsXq18=/987x0/smart/uploads/conteudo/fotos/02_zyEvy5h.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/EE2xg0HImGOh1zumIjx5r0PLf98=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_155655.png
+tags:
+  - The Last of Us
+  - PlayStation 5
+  - edição de colecionador
+  - série televisiva
+  - Neil Druckmann
+  - Naughty Dog
+  - Pedro Pascal
+  - Bella Ramsey
+  - especial-The Last of Us
+keywords: >-
+  The Last of Us, PlayStation 5, edição de colecionador, série televisiva, Neil
+  Druckmann, Naughty Dog, Pedro Pascal, Bella Ramsey
+author: Luana Souza
+data: '2025-04-10T19:08:48.315Z'
+resumo: >-
+  The Last of Us lança edição especial para PS5 em 10 de julho com itens
+  exclusivos. Pré-venda a partir de US$ 100. Série TV estreia 2ª temporada em 13
+  de abril.
 ---
 
 The Last of Us, a aclamada franquia de jogos, está prestes a receber uma nova edição especial para o PlayStation 5. Marcada para lançamento em 10 de julho, esta versão incluirá ambos os jogos da série. Os interessados já podem realizar a pré-venda, que está disponível por US$ 100 na versão digital e US$ 110 na versão física.

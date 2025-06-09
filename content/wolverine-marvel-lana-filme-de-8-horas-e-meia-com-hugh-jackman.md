@@ -20,6 +20,9 @@ keywords: >-
   Stress Awareness Month, filme promocional, streaming Disney+
 data: '2025-04-08T20:12:19.673Z'
 author: Ana Luiza
+resumo: >-
+  Marvel lança vídeo de 8h de Hugh Jackman como Wolverine para promover
+  'Deadpool & Wolverine' e conscientizar sobre estresse. Disponível no Disney+.
 ---
 
 Em um movimento inesperado, a Marvel Entertainment surpreendeu os fãs ao lançar um vídeo inusitado no YouTube, protagonizado por Hugh Jackman como Wolverine. O conteúdo, intitulado 'Exercício de respiração de Wolverine', apresenta mais de oito horas de duração e consiste basicamente em Wolverine encarando a câmera e respirando profundamente.

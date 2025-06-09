@@ -15,6 +15,9 @@ tags:
   - ação
   - série
 author: Pablo Moura
+resumo: >-
+  Demolidor: Renascido' traz de volta Charlie Cox e Vincent D'Onofrio com muita
+  ação e novas adições ao elenco. Confira o trailer e as novidades da série!
 ---
 
 O aguardado retorno do 'Demolidor' às telas é marcado por um empolgante trailer de meio de temporada divulgado recentemente. O vídeo promocional de 'Demolidor: Renascido' traz cenas repletas de ação, indicando o que os fãs podem esperar dos próximos episódios.

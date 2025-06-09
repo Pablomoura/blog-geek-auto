@@ -21,6 +21,9 @@ keywords: >-
   filmes, retorno de elenco, estreia 2025, adaptação moderna
 data: '2025-04-09T14:04:02.186Z'
 author: Pablo Moura
+resumo: >-
+  Brandy Norwood pode retornar ao clássico de terror 'Eu Sei O Que Vocês Fizeram
+  no Verão Passado'. Diretora e atriz sugerem surpresa no novo filme!
 ---
 
 A possibilidade de Brandy Norwood retornar ao universo de 'Eu Sei O Que Vocês Fizeram no Verão Passado' está ganhando força. A diretora Jennifer Kaytin Robinson, em entrevista à revista People, deixou em aberto o retorno da atriz ao mencionar que os fãs "vão precisar ir assistir ao filme" para descobrir. Norwood, que interpretou Karla Wilson na sequência de 1998, também comentou sobre a possibilidade de sua volta em uma conversa com o Entertainment Tonight, expressando seu entusiasmo e esperança de que isso aconteça.

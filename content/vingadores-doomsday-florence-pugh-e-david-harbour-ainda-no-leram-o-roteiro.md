@@ -21,6 +21,10 @@ keywords: >-
   Russo, Marvel 2025, Anti-heróis
 data: '2025-04-04T17:09:51.108Z'
 author: Ana Luiza
+resumo: >-
+  Florence Pugh e David Harbour lideram Thunderbolts, sem roteiro em mãos, mas
+  prontos para filmar. Marvel promete um ano incrível com novos lançamentos em
+  2025!
 ---
 
 Florence Pugh e David Harbour, ambos protagonistas de Thunderbolts e confirmados no elenco de Vingadores: Doomsday, afirmaram em entrevista ao Entertainment Now que ainda não tiveram acesso ao roteiro do próximo grande lançamento dos irmãos Russo. As filmagens estão programadas para iniciar em breve nos Estados Unidos, e a declaração pode ser uma estratégia para evitar vazamentos de detalhes da trama.

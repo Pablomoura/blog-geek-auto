@@ -17,6 +17,10 @@ tags:
   - ceticismo
   - entrevista
 author: Luana Souza
+resumo: >-
+  Josef Fares expressa entusiasmo e cautela sobre o filme 'Split Fiction',
+  destacando desafios na adaptação do jogo. Detalhes do novo projeto da
+  Hazelight são...
 ---
 
 Josef Fares, conhecido por seu entusiasmo em relação aos seus projetos, revelou uma postura de cautela sobre a adaptação cinematográfica de 'Split Fiction'. Em uma entrevista recente à Variety, ele compartilhou seu misto de emoção e ceticismo. 'Sabe o que eu digo? Só acredito vendo. Seria fantástico se o filme realmente acontecesse, mas por enquanto, são apenas conversas', afirmou Fares.

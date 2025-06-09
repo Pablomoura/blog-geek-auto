@@ -16,6 +16,10 @@ tags:
   - rumores
   - indústria cinematográfica
 author: Luana Souza
+resumo: >-
+  Boots Riley desmente rumores sobre problemas no filme de Paul Thomas Anderson
+  com a Warner Bros, afirmando que o longa ainda está em edição. Elenco de peso
+  e...
 ---
 
 Boots Riley, conhecido por seu trabalho em 'Desculpe te Incomodar', respondeu às recentes alegações de que o filme de Paul Thomas Anderson, 'One Battle After Another', estaria enfrentando dificuldades com o estúdio Warner Bros. Segundo uma reportagem da Variety, o estúdio estaria pressionando o diretor para reduzir a duração do filme e mostrou preocupações quanto ao seu desempenho comercial. 

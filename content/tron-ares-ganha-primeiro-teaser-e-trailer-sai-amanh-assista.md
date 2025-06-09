@@ -21,6 +21,10 @@ keywords: >-
   filme, estreia em cinema
 data: '2025-04-04T17:10:22.110Z'
 author: Luana Souza
+resumo: >-
+  Confira o teaser de Tron: Ares, com Jared Leto e Jeff Bridges. Dirigido por
+  Joachim Rønning, o filme promete reviver a magia cult da franquia. Trailer
+  comple...
 ---
 
 A Disney divulgou o primeiro teaser de Tron: Ares, a mais recente sequência da icônica franquia que teve Jeff Bridges como protagonista. O lançamento do trailer completo está agendado para este sábado, dia 5. O filme conta com um elenco estelar que inclui Jared Leto, Evan Peters e Jeff Bridges, além de novos nomes como Gillian Anderson, conhecida por seu papel em Arquivo X, Jodie Turner-Smith de Queen & Slim, Greta Lee de Vidas Passadas e Cameron Monaghan de Gotham.

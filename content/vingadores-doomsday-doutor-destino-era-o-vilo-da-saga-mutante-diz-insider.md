@@ -18,6 +18,10 @@ tags:
   - guerras secretas
   - dinastia kang
 author: Luana Souza
+resumo: >-
+  Doutor Destino será o vilão central em "Vingadores: Doomsday", após a saída de
+  Jonathan Majors. A Marvel promete um elenco estelar e surpresas
+  multiversais!...
 ---
 
 Inicialmente destinado a ser o antagonista da Saga Mutante, Doutor Destino foi realocado para os filmes Vingadores: Doomsday e Vingadores: Guerras Secretas. A mudança ocorreu após a demissão de Jonathan Majors, conforme reportado por Alex Perez, do Comics Circus. Antes chamado de Dinastia Kang, o quinto filme da franquia teve seu enredo e título alterados.

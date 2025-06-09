@@ -16,6 +16,9 @@ tags:
   - sucesso de jogos
   - indústria de videogames
 author: Ana Luiza
+resumo: >-
+  Death Stranding alcança 20 milhões de jogadores! A Kojima Productions celebra
+  o marco, impulsionado pelo Xbox Game Pass. Sequência chega em 2024 no PS5.
 ---
 
 O jogo Death Stranding, lançado em 2019 e desenvolvido por Hideo Kojima, atingiu a impressionante marca de 20 milhões de jogadores em todo o mundo. A Kojima Productions anunciou esse feito através de suas redes sociais, onde expressou gratidão a todos os jogadores que contribuíram para esse sucesso. 

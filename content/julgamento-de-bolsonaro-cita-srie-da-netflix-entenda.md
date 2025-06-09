@@ -16,6 +16,10 @@ tags:
   - golpe de estado
   - stf
 author: Pablo Moura
+resumo: >-
+  No julgamento de Bolsonaro no STF, defesa cita série da Netflix, 'O Problema
+  dos 3 Corpos', para criticar a construção das acusações. Sessões continuam em
+  ab...
 ---
 
 O julgamento de Jair Bolsonaro, acusado de planejar um golpe de estado, foi palco de uma intrigante referência à cultura pop. No STF, Matheus Mayer Milanez, advogado de defesa, fez uma comparação entre a acusação e uma famosa série da Netflix.

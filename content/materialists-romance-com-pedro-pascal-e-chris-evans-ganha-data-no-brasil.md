@@ -18,6 +18,9 @@ tags:
   - estreia 2025
   - a24
 author: Luana Souza
+resumo: >-
+  Materialists', de Celine Song, estreia no Brasil em 31/07/2025. Com Chris
+  Evans e Pedro Pascal, o filme explora um triângulo amoroso em Nova York.
 ---
 
 O aguardado filme 'Materialists', produzido pela A24 e dirigido por Celine Song, já tem data marcada para estrear no Brasil. Com um elenco de estrelas como Chris Evans, Pedro Pascal e Dakota Johnson, o longa ganhou o título nacional de 'Amores Materialistas' e será lançado em 31 de julho de 2025 pela Sony Pictures.

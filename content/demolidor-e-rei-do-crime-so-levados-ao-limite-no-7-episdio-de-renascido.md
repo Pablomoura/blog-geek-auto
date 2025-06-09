@@ -16,6 +16,10 @@ tags:
   - série de tv
   - marvel
 author: Ana Luiza
+resumo: >-
+  Wilson Fisk, agora prefeito de Nova York, enfrenta a volta do Demolidor com
+  raiva e vê Matt Murdock como uma ameaça à sua trégua. O confronto promete
+  esquentar!
 ---
 
 A expressão de Wilson Fisk (Vincent D’Onofrio) ao descobrir que o Demolidor está de volta é notável. O novo prefeito de Nova York, visivelmente furioso, parece considerar o retorno de Matt Murdock (Charlie Cox) uma violação de uma trégua implícita. Embora Fisk nunca tenha abandonado completamente seus métodos violentos, como evidenciado pelo sequestro de Adam (Lou Taylor Pucci) na semana anterior, ele encontra uma estranha liberação ao saber que seu rival está ativo novamente. A raiva e frustração de Fisk encontram um alvo perfeito em Murdock.

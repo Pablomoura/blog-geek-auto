@@ -23,6 +23,10 @@ keywords: >-
   anime, elenco principal
 data: '2025-04-09T16:12:16.386Z'
 author: Ana Luiza
+resumo: >-
+  Ty Keogh elogia a dedicação da equipe e os detalhes de Drum Island na
+  adaptação de One Piece da Netflix, prometendo que a 2ª temporada superará
+  expectativas.
 ---
 
 O ator Ty Keogh compartilhou suas impressões sobre interpretar Dalton na adaptação live-action de One Piece da Netflix através de um vídeo recente. Em suas palavras, 'A equipe está totalmente dedicada. Drum Island, onde a história se passa, é incrivelmente detalhada e rica em texturas... Aprendi muito nos últimos meses e acredito que a segunda temporada superará todas as expectativas.'

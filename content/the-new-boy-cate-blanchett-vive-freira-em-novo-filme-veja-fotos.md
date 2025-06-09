@@ -1,14 +1,32 @@
 ---
-title: "The New Boy | Cate Blanchett interpreta freira em novo thriller; confira as fotos"
-slug: "the-new-boy-cate-blanchett-vive-freira-em-novo-filme-veja-fotos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Ev9XbNHRzL2kmf-b6WvmGzbQXbg=/987x0/smart/uploads/conteudo/fotos/blanchett_topo.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/xrG_i2AdhRmmcq3PGRzt3YY_k7c=/480x360/smart/extras/conteudos/blanchett_topo.jpg"
-tags: ["Cate Blanchett", "thriller", "freira", "poderes sobrenaturais", "Austrália", "anos 1940", "Festival de Cannes", "filme australiano"]
-keywords: "Cate Blanchett, thriller, freira, poderes sobrenaturais, Austrália, anos 1940, Festival de Cannes, filme australiano"
-author: "Pablo Moura"
-data: "2025-04-10T13:23:18.060Z"
+title: >-
+  The New Boy | Cate Blanchett interpreta freira em novo thriller; confira as
+  fotos
+slug: the-new-boy-cate-blanchett-vive-freira-em-novo-filme-veja-fotos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Ev9XbNHRzL2kmf-b6WvmGzbQXbg=/987x0/smart/uploads/conteudo/fotos/blanchett_topo.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/xrG_i2AdhRmmcq3PGRzt3YY_k7c=/480x360/smart/extras/conteudos/blanchett_topo.jpg
+tags:
+  - Cate Blanchett
+  - thriller
+  - freira
+  - poderes sobrenaturais
+  - Austrália
+  - anos 1940
+  - Festival de Cannes
+  - filme australiano
+keywords: >-
+  Cate Blanchett, thriller, freira, poderes sobrenaturais, Austrália, anos 1940,
+  Festival de Cannes, filme australiano
+author: Pablo Moura
+data: '2025-04-10T13:23:18.060Z'
+resumo: >-
+  Cate Blanchett brilha em 'The New Boy', novo suspense de Warwick Thornton.
+  Enfrentando dilemas de fé nos anos 1940, o filme estreia em 23 de maio nos
+  EUA.
 ---
 
 No novo suspense dirigido por Warwick Thornton, conhecido por 'Doce País', Cate Blanchett assume o papel de uma freira que enfrentará um dilema de fé em 'The New Boy'. Veja as primeiras imagens oficiais liberadas abaixo.

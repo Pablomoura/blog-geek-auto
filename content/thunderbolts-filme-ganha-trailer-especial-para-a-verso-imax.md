@@ -20,6 +20,10 @@ keywords: >-
   MCU, Estreias 2025
 data: '2025-04-09T20:12:34.053Z'
 author: Ana Luiza
+resumo: >-
+  Marvel revela trailer IMAX de Thunderbolts, destacando ação intensa e
+  bastidores com Florence Pugh e Sebastian Stan. Lançamento aguarda
+  ansiosamente.
 ---
 
 À medida que a data de lançamento se aproxima, a Marvel intensifica a divulgação de seu novo filme, Thunderbolts, que acaba de receber um trailer especial para a versão IMAX. Este novo trailer não apenas destaca cenas intensas de ação, mas também oferece um vislumbre dos bastidores, mostrando interações entre o elenco e a equipe de produção, com destaque para a diretora Florence Pugh, Sebastian Stan e o diretor Jake Scherier.

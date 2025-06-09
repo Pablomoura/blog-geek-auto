@@ -21,6 +21,10 @@ keywords: >-
   multiversal, X-Men, Saga do Multiverso
 data: '2025-04-08T20:10:50.679Z'
 author: Ana Luiza
+resumo: >-
+  Tom Hiddleston retorna como Loki em 'Vingadores: Doomsday', ao lado de um
+  elenco estelar. Detalhes do filme são secretos, mas prometem ação multiversal
+  épica!
 ---
 
 Tom Hiddleston, conhecido por seu papel como Loki, confirmou sua participação em 'Vingadores: Doomsday', embora os detalhes de seu papel permaneçam sob sigilo. Durante sua aparição nos Olivier Awards 2025, Hiddleston insinuou que sua atuação no filme será significativa, destacando que 'interpretar Loki tem sido um capítulo extraordinário da minha vida e ainda não acabou'. Ele acrescentou que seu papel em 'Doomsday' é 'notável' em comparação com os anteriores.

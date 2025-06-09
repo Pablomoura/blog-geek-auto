@@ -21,6 +21,9 @@ keywords: >-
   adaptação cinematográfica, IMAX, streaming
 data: '2025-04-03T17:11:22.617Z'
 author: Ana Luiza
+resumo: >-
+  Meryl Streep pode interpretar Aslan no novo filme de Nárnia, dirigido por
+  Greta Gerwig para a Netflix. Estreia prevista: Dia de Ação de Graças de 2026.
 ---
 
 Um burburinho recente envolve a comunidade de fãs de As Crônicas de Nárnia. De acordo com informações do NexusPointNews, a renomada atriz Meryl Streep está em negociações preliminares com a Netflix para encarnar Aslan no próximo filme dirigido por Greta Gerwig. A proposta já teria sido apresentada à atriz, que discute atualmente os termos com o serviço de streaming. Aslan, que é uma figura central na narrativa de C. S. Lewis, serve como guia das crianças no mundo encantado de Nárnia e é frequentemente comparado a Jesus Cristo. Tradicionalmente, o personagem tem sido retratado por figuras masculinas.

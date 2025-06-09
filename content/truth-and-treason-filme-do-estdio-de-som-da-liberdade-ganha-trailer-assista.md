@@ -17,6 +17,10 @@ tags:
   - estreia de filme
   - som da liberdade
 author: Ana Luiza
+resumo: >-
+  Truth & Treason', do estúdio de 'Som da Liberdade', estreia em 17 de outubro
+  nos EUA. O filme retrata a resistência de jovens contra o regime nazista.
+  Confir...
 ---
 
 O novo filme 'Truth & Treason', produzido pelo mesmo estúdio responsável por 'Som da Liberdade', está previsto para estrear nos cinemas dos Estados Unidos no final deste ano. O trailer oficial já pode ser conferido.

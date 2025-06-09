@@ -23,6 +23,10 @@ keywords: >-
   literária, ação, Nas Terras Perdidas
 data: '2025-04-09T19:08:48.131Z'
 author: Ana Luiza
+resumo: >-
+  Nas Terras Perdidas', com Milla Jovovich e Dave Bautista, adapta conto de
+  George R.R. Martin. Sob direção de Paul W.S. Anderson, o filme explora
+  fantasia e s...
 ---
 
 A adaptação cinematográfica de 'Nas Terras Perdidas', baseada no conto de George R.R. Martin, famoso autor de 'As Crônicas de Gelo e Fogo', traz Milla Jovovich em mais um papel marcante. Sob a direção de Paul W.S. Anderson, com quem Jovovich já colaborou em diversos projetos como 'Resident Evil', 'Os Três Mosqueteiros' e 'Monster Hunter', a atriz se aventura novamente em um universo de fantasia e ação.

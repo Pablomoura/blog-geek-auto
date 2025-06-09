@@ -15,6 +15,9 @@ tags:
   - armaduras
   - quadrinhos
 author: Pablo Moura
+resumo: >-
+  Imagens do set de 'Supergirl: A Mulher do Amanhã' revelam armaduras de vilões
+  piratas espaciais, com estreia em julho de 2026. Milly Alcock vive a heroína.
 ---
 
 Imagens recentes do set de filmagem de 'Supergirl: A Mulher do Amanhã' começaram a circular online, revelando uma arara repleta de armaduras. Essa descoberta indica que o filme pode incluir o grupo de vilões piratas espaciais, conhecidos dos quadrinhos que servem de base para a trama.

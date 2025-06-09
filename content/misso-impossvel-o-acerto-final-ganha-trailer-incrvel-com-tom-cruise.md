@@ -20,6 +20,10 @@ keywords: >-
   filme de ação, Paramount Pictures, estreia 2025
 data: '2025-04-07T13:23:09.559Z'
 author: Pablo Moura
+resumo: >-
+  Paramount revela trailer de 'Missão: Impossível - O Acerto Final', com Tom
+  Cruise em sua última aventura como Ethan Hunt. Estreia traz elenco estelar e
+  vilão...
 ---
 
 A Paramount Pictures revelou nesta segunda-feira o aguardado trailer de ‘Missão: Impossível - O Acerto Final’. O filme promete ser o grande encerramento das aventuras de Ethan Hunt, interpretado por Tom Cruise.

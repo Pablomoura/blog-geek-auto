@@ -16,6 +16,10 @@ tags:
   - Walter Salles
   - Fernanda Torres
 author: Ana Luiza
+resumo: >-
+  Ainda Estou Aqui', vencedor do Oscar de Melhor Filme Internacional, estreia no
+  Globoplay em 6 de abril. Dirigido por Walter Salles, o filme destaca
+  Fernanda...
 ---
 
 A aclamada produção 'Ainda Estou Aqui', recente vencedora do Oscar de Melhor Filme Internacional, tem estreia marcada no Globoplay. A plataforma de streaming confirmou que o filme estará disponível no catálogo a partir de abril deste ano, especificamente no dia 6, um domingo.

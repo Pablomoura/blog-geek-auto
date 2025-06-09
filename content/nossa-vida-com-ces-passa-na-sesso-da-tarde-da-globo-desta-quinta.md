@@ -16,6 +16,9 @@ tags:
   - cães
   - ken marino
 author: Ana Luiza
+resumo: >-
+  Nesta quinta, 27, a Sessão da Tarde exibe 'Nossa Vida com Cães', às 15h25. O
+  filme de Ken Marino mostra como cães transformam vidas em Los Angeles.
 ---
 
 A Sessão da Tarde desta quinta-feira, 27 de janeiro, traz o filme 'Nossa Vida com Cães', lançado em 2018. A exibição está programada para começar às 15h25, horário de Brasília, na Rede Globo.

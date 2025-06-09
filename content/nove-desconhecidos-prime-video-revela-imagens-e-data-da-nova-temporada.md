@@ -21,6 +21,10 @@ keywords: >-
   suspense, lançamento de temporada, streaming, adaptação literária
 data: '2025-04-03T21:11:06.079Z'
 author: Ana Luiza
+resumo: >-
+  O Prime Video anuncia a 2ª temporada de 'Nove Desconhecidos' com estreia em 22
+  de maio. Nicole Kidman retorna como Masha, liderando um retiro cheio de
+  mistér...
 ---
 
 O Prime Video finalmente divulgou detalhes esperados pelos fãs sobre a segunda temporada de 'Nove Desconhecidos'. A plataforma de streaming anunciou que a série estará de volta em 22 de maio, disponibilizando os dois primeiros episódios em todos os territórios, com exceção dos Estados Unidos.

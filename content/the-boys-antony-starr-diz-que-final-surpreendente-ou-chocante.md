@@ -19,6 +19,10 @@ tags:
   - entrevista
   - collider
 author: Ana Luiza
+resumo: >-
+  Antony Starr revela expectativas para o final imprevisível de The Boys. A
+  série termina na quinta temporada, prometendo surpreender os fãs. Estreia
+  prevista...
 ---
 
 Em uma recente entrevista ao site Collider, Antony Starr, conhecido por seu papel como Capitão Pátria em The Boys, discutiu suas expectativas para o final da série, que conclui na quinta temporada. Starr, que ainda não assistiu ao último episódio, expressou sua surpresa com os roteiros finais, destacando a imprevisibilidade da série: 'Os roteiros são incrivelmente imprevisíveis. Mesmo avançado na leitura, cada novo script traz uma surpresa', disse o ator.

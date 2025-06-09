@@ -21,6 +21,9 @@ keywords: >-
   filme de super-heróis, trailer
 data: '2025-04-05T17:07:51.623Z'
 author: Ana Luiza
+resumo: >-
+  Marvel revela trailer de 'Thunderbolts', destacando Sentinela. Anti-heróis do
+  MCU enfrentam nova ameaça. Estreia em 2 de maio de 2025. Confira as novidades!
 ---
 
 O Marvel Studios lançou um novo trailer para o aguardado filme 'Thunderbolts' neste sábado (5), colocando em destaque o antagonista da trama, o Sentinela, interpretado por Lewis Pullman. O vídeo mostra o grupo de anti-heróis debatendo como enfrentar essa nova ameaça.

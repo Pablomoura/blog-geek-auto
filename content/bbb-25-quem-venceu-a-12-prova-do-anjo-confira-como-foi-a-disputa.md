@@ -21,6 +21,10 @@ keywords: >-
   Schmidt, Rodrigo Dourado, Voto da Torcida
 data: '2025-04-04T18:14:10.211Z'
 author: Pablo Moura
+resumo: >-
+  Vinícius vence a Prova do Anjo no BBB 25, garantindo imunidade ao lado da
+  líder Vitória Strada. Acompanhe tudo pelo Globoplay e veja quem cumpre o
+  Castigo do...
 ---
 
 O BBB 25 já definiu o novo Anjo da semana, que se junta à líder Vitória Strada na imunidade. A Prova do Anjo, essencial para a formação do Paredão, ocorreu na tarde desta sexta-feira. A etapa final da competição foi marcada por um jogo de sorte, culminando em um duelo entre Vinícius e João Gabriel, onde o objetivo era escolher a carta correta para conquistar o colar do Anjo. Vinícius acabou levando a melhor nessa disputa.

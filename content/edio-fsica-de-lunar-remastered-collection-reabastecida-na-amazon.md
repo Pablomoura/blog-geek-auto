@@ -1,15 +1,32 @@
 ---
-    title: "Edição Física de Lunar Remastered Collection é Reabastecida na Amazon"
-    slug: "edio-fsica-de-lunar-remastered-collection-reabastecida-na-amazon"
-    categoria: "Games"
-    midia: "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg"
-    tipoMidia: "imagem"
-    thumb: "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg"
-    tags: ["Lunar Remastered Collection", "RPG clássico", "Nintendo Switch", "PS4", "Xbox One", "edição física", "Amazon Brasil", "dublagem", "remasterização"]
-    keywords: "Lunar Remastered Collection, RPG clássico, Nintendo Switch, PS4, Xbox One, edição física, Amazon Brasil, dublagem, remasterização"
-    author: "Luana Souza"
-    fonte: "GameSpot"
-    data: "2025-05-31T00:26:00.000Z"
+title: Edição Física de Lunar Remastered Collection é Reabastecida na Amazon
+slug: edio-fsica-de-lunar-remastered-collection-reabastecida-na-amazon
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4427479-lunar.jpg
+tags:
+  - Lunar Remastered Collection
+  - RPG clássico
+  - Nintendo Switch
+  - PS4
+  - Xbox One
+  - edição física
+  - Amazon Brasil
+  - dublagem
+  - remasterização
+keywords: >-
+  Lunar Remastered Collection, RPG clássico, Nintendo Switch, PS4, Xbox One,
+  edição física, Amazon Brasil, dublagem, remasterização
+author: Luana Souza
+fonte: GameSpot
+data: '2025-05-31T00:26:00.000Z'
+resumo: >-
+  A Lunar Remastered Collection retorna ao estoque da Amazon para Switch, PS4 e
+  Xbox One. A edição física, a US$ 55, revive clássicos RPGs dos anos 16 e 32
+  bits.
 ---
 A edição física da Lunar Remastered Collection, um dos conjuntos mais aguardados por fãs de RPGs clássicos, está de volta ao estoque da Amazon para as plataformas Nintendo Switch, PlayStation 4 e Xbox One. Exclusiva para a Amazon nos Estados Unidos, essa edição tem sido um item difícil de conseguir desde o seu lançamento em 18 de abril. A versão para Nintendo Switch, em particular, esgota mais rapidamente do que as versões para PS4 e Xbox One, reflexo da popularidade do console híbrido no mundo dos games.
 

@@ -21,6 +21,10 @@ keywords: >-
   Black, videogames, Warner Bros
 data: '2025-04-07T16:11:35.620Z'
 author: Pablo Moura
+resumo: >-
+  Um Filme Minecraft surpreende ao arrecadar US$ 300 milhões no fim de semana de
+  estreia. Diretor Jared Hess expressa interesse em sequência; Warner Bros
+  consi...
 ---
 
 O recente sucesso de bilheteria, Um Filme Minecraft, surpreendeu o mercado cinematográfico ao arrecadar impressionantes US$ 300 milhões em seu fim de semana de estreia, um feito que não era visto desde as estreias de Deadpool & Wolverine. Diante deste sucesso estrondoso, a pergunta que fica é: teremos uma sequência? E quando será lançada? Ainda não há uma confirmação oficial de uma continuação, mas o diretor Jared Hess já manifestou seu interesse em retornar ao universo de Minecraft. Em entrevista ao GamesRadar+, Hess revelou seu entusiasmo: 'Seria muito divertido. Digo, olha, esse mundo é infinito, e há tantas coisas incríveis e personagens e biomas que não exploramos, então seria incrível.'

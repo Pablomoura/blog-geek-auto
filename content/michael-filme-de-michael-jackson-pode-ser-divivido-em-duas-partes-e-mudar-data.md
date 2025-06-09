@@ -18,6 +18,10 @@ tags:
   - estreia alterada
   - deadline
 author: Ana Luiza
+resumo: >-
+  A cinebiografia 'Michael', sobre Michael Jackson, pode ser dividida em duas
+  partes, adiando sua estreia. Dirigido por Antoine Fuqua, estreia em outubro de
+  2025.
 ---
 
 A cinebiografia 'Michael', que retrata a vida do icônico Michael Jackson, está considerando uma grande mudança em sua estrutura e data de estreia. De acordo com informações do Deadline, existe a possibilidade de que o filme, que atualmente tem um corte próximo a quatro horas, seja dividido em duas partes distintas. Esta decisão, ainda em discussão pelos produtores da Lionsgate, poderia alterar significativamente a data de lançamento inicialmente prevista para outubro deste ano.

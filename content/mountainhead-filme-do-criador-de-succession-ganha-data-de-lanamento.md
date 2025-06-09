@@ -21,6 +21,10 @@ keywords: >-
   Carell, crise internacional, elenco estelar
 data: '2025-04-05T01:07:17.290Z'
 author: Luana Souza
+resumo: >-
+  HBO revela primeira imagem de Mountainhead, novo filme de Jesse Armstrong,
+  criador de Succession. Estreia em 31 de maio com elenco estelar, incluindo
+  Steve C...
 ---
 
 A HBO anunciou nesta sexta-feira (04) a primeira imagem de Mountainhead, o novo projeto de Jesse Armstrong, célebre criador de Succession. O lançamento do filme está previsto para 31 de maio, disponível na HBO e na plataforma Max.

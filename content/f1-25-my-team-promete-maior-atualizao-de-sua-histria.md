@@ -1,14 +1,30 @@
 ---
-title: "F1 25 | My Team promete maior atualização de sua história"
-slug: "f1-25-my-team-promete-maior-atualizao-de-sua-histria"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/bt4lJFGgvYnxvMtdYtUGKKpG6xs=/987x0/smart/uploads/conteudo/fotos/imagem_2025-04-09_181233549.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/rz0ksLiTVQLvqd9oVv4xV_wVPno=/480x360/smart/extras/conteudos/imagem_2025-04-09_181229821.png"
-tags: ["F1 25", "My Team", "EA Sports", "simulação de corrida", "gestão de equipe", "atualização de jogo", "Fórmula 1", "lançamento de jogo"]
-keywords: "F1 25, My Team, EA Sports, simulação de corrida, gestão de equipe, atualização de jogo, Fórmula 1, lançamento de jogo"
-author: "Luana Souza"
-data: "2025-04-10T15:12:03.953Z"
+title: F1 25 | My Team promete maior atualização de sua história
+slug: f1-25-my-team-promete-maior-atualizao-de-sua-histria
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/bt4lJFGgvYnxvMtdYtUGKKpG6xs=/987x0/smart/uploads/conteudo/fotos/imagem_2025-04-09_181233549.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/rz0ksLiTVQLvqd9oVv4xV_wVPno=/480x360/smart/extras/conteudos/imagem_2025-04-09_181229821.png
+tags:
+  - F1 25
+  - My Team
+  - EA Sports
+  - simulação de corrida
+  - gestão de equipe
+  - atualização de jogo
+  - Fórmula 1
+  - lançamento de jogo
+keywords: >-
+  F1 25, My Team, EA Sports, simulação de corrida, gestão de equipe, atualização
+  de jogo, Fórmula 1, lançamento de jogo
+author: Luana Souza
+data: '2025-04-10T15:12:03.953Z'
+resumo: >-
+  F1 25 revoluciona o modo My Team com a função 'Piloto Dono', novo sistema de
+  progressão e contratos reformulados. Prepare-se para uma experiência de gestão
+  i...
 ---
 
 A próxima edição do simulador anual de Fórmula 1, F1 25, desenvolvido pela EA, está preparando terreno para uma transformação sem precedentes no modo My Team, que se foca na gestão de equipes de corrida. Desde a introdução deste modo em 2020, poucas atualizações significativas foram implementadas, mas isso está prestes a mudar radicalmente em 2025.

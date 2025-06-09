@@ -20,6 +20,10 @@ tags:
   - estúdio de som da liberdade
   - truth and treason
 author: Luana Souza
+resumo: >-
+  Truth and Treason', novo filme do Estúdio de Som da Liberdade, estreia em
+  outubro nos EUA, explorando a resistência ao nazismo com precisão histórica e
+  narra...
 ---
 
 O Estúdio de Som da Liberdade, conhecido por suas produções históricas impactantes, anunciou o lançamento de 'Truth and Treason', um filme que promete uma nova perspectiva sobre os acontecimentos da Segunda Guerra Mundial. A estreia está prevista para outubro nos cinemas dos Estados Unidos, prometendo atrair entusiastas da história e do cinema com sua narrativa envolvente e produção de alta qualidade.

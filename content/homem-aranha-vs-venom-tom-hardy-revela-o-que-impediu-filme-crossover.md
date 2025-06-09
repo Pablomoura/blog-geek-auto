@@ -19,6 +19,10 @@ tags:
   - estúdios
   - políticas internas
 author: Pablo Moura
+resumo: >-
+  Crossover entre Homem-Aranha e Venom não ocorreu devido a políticas dos
+  estúdios. Venom finaliza nos cinemas, enquanto Homem-Aranha 4 estreia em julho
+  de 2025.
 ---
 
 A possibilidade de um crossover entre o Homem-Aranha, interpretado por Tom Holland, e o Venom de Tom Hardy foi muito discutida, mas acabou não se concretizando. Segundo Hardy, o principal obstáculo foram as 'políticas internas dos estúdios'.

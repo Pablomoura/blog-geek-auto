@@ -16,6 +16,10 @@ tags:
   - experiência em jogos
   - akira
 author: Luana Souza
+resumo: >-
+  Den of Wolves, dos criadores de Payday e GTFO, mistura Blade Runner e Akira em
+  uma aventura distópica. Descubra a mecânica inovadora 'Dive' e missões
+  intensas.
 ---
 
 A comunidade de jogos cooperativos está em festa com o anúncio de Den of Wolves, uma criação dos desenvolvedores por trás de Payday 1 e 2 e GTFO. Este novo título promete uma experiência enriquecida com influências de Blade Runner e Akira. Em março, o Omelete teve a oportunidade exclusiva de testar o jogo em São Francisco, Califórnia, revelado com um trailer eletrizante no The Game Awards 2024.

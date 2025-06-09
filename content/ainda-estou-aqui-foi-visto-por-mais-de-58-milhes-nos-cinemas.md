@@ -21,6 +21,10 @@ keywords: >-
   Walter Salles, premiação Platino, filme histórico, Globoplay
 data: '2025-04-04T23:09:50.557Z'
 author: Pablo Moura
+resumo: >-
+  O filme 'Ainda Estou Aqui' alcançou 5,8 milhões de espectadores em 42 países
+  após 21 semanas em cartaz. Vencedor do Oscar, concorre agora ao Prêmio
+  Platino.
 ---
 
 Foi divulgado nesta sexta-feira que o filme 'Ainda Estou Aqui', após 21 semanas em exibição, alcançou a marca de mais de 5,8 milhões de espectadores em 42 países. O filme, que já foi premiado com o Oscar de Melhor Filme Internacional e concorreu também nas categorias de Melhor Atriz e Melhor Filme, registrou um público total de 5,834 milhões de pessoas globalmente. A produção foi lançada em diversos países, incluindo Itália, Bolívia, Chile, Venezuela, Colômbia, Israel, Argentina, República Dominicana, Nova Zelândia, Paraguai, Peru, Uruguai, México, Romênia, Espanha, Polônia, Austrália, Eslováquia, Turquia, Alemanha e Taiwan, onde estreou nesta semana.

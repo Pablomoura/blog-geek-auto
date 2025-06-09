@@ -24,6 +24,10 @@ keywords: >-
   adaptação de jogo, série de TV
 data: '2025-04-08T19:10:54.474Z'
 author: Pablo Moura
+resumo: >-
+  A nova temporada de The Last of Us apresenta os temíveis Perseguidores,
+  expandindo a trama com novos personagens e eventos do segundo jogo da
+  franquia.
 ---
 
 Uma recente prévia divulgada nesta terça-feira (08) anuncia uma empolgante adição à segunda temporada de The Last of Us: a introdução dos Perseguidores, um novo tipo de infectado. A cena destaca Ellie, interpretada por Bella Ramsey, enfrentando essas novas ameaças.

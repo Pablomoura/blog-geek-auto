@@ -15,6 +15,10 @@ tags:
   - andré zuliani
   - pedrinho
 author: Luana Souza
+resumo: >-
+  One Piece retorna com o Arco de Egghead; descubra os momentos cruciais com
+  André Zuliani e Pedrinho. Assista na Netflix e Crunchyroll! Explore a saga
+  épica.
 ---
 
 Após um hiato, One Piece está de volta com novos episódios focados no emocionante Arco de Egghead. André Zuliani e Pedrinho trazem um resumo detalhado dos acontecimentos cruciais da primeira parte deste arco. Confira o vídeo no link acima para não perder nenhum detalhe.

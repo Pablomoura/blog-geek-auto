@@ -21,6 +21,10 @@ keywords: >-
   adaptações, produção cinematográfica
 data: '2025-04-04T16:12:25.699Z'
 author: Luana Souza
+resumo: >-
+  A série 'Arcane' da Netflix lança trilha sonora estendida da 2ª temporada.
+  Novas adaptações focadas em 'Noxus, Ionia e Demacia' prometem expandir o
+  universo...
 ---
 
 A aclamada série 'Arcane', baseada no universo de 'League of Legends' e disponível na Netflix, acaba de enriquecer seu repertório musical com o lançamento de uma versão estendida da trilha sonora da segunda temporada. Os fãs da série podem agora desfrutar de uma experiência sonora ampliada, acessível através das principais plataformas de streaming. 

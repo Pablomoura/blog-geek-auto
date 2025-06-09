@@ -20,6 +20,10 @@ keywords: >-
   lançamento de jogos, roguelike, plataformas de console, acesso antecipado
 data: '2025-04-08T14:12:08.789Z'
 author: Ana Luiza
+resumo: >-
+  Hades 2 será lançado inicialmente como exclusivo temporário no Nintendo Switch
+  2, segundo a Supergiant Games. Sem data definida, o título promete mais
+  conteúdo.
 ---
 
 Seguindo a mesma estratégia de lançamento de seu antecessor, Hades 2 será inicialmente exclusivo para o console Nintendo Switch 2. A Supergiant Games, desenvolvedora do jogo, anunciou através de um vídeo em seu canal que o título roguelike será lançado primeiro no Switch 2, antes de ser disponibilizado para outras plataformas de console. Ainda não há uma data específica para o lançamento do jogo.

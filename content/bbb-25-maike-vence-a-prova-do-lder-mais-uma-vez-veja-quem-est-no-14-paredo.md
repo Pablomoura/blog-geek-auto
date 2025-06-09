@@ -23,6 +23,9 @@ keywords: >-
   Gabriel, Vitória Strada, votação pública.
 data: '2025-04-07T04:12:28.531Z'
 author: Pablo Moura
+resumo: >-
+  Maike vence a prova de liderança no BBB 25, formando Paredão com Diego, João
+  Gabriel e Vitória Strada. Agora, a votação decide quem será eliminado.
 ---
 
 O Big Brother Brasil 25 presenciou mais uma emocionante disputa pela liderança neste domingo, dia 06, com Maike emergindo como o grande vencedor. Com oito dos nove participantes restantes competindo, a prova exigiu não apenas velocidade, mas também coordenação e sorte. A atual líder, Vitória Strada, excluiu João Pedro da competição, e os competidores foram organizados em quatro duplas: Vinícius e João Gabriel, Maike e Renata, Delma e Guilherme, além de Vitória e Diego Hypólito.

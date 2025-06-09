@@ -21,6 +21,9 @@ keywords: >-
   SMP
 data: '2025-04-05T12:15:07.130Z'
 author: Ana Luiza
+resumo: >-
+  Technoblade, ícone do Minecraft, recebe tributo em 'Um Filme Minecraft', com
+  Jack Black. Mojang também o homenageia no launcher, eternizando sua memória.
 ---
 
 Conhecido no mundo do Minecraft como Technoblade, Alexander deixou um legado incontestável. Destacando-se inicialmente no servidor Hypixel, reconhecido pelo Guinness como o mais popular do jogo, ele alcançou fama ainda maior ao se juntar ao Dream SMP em 2020, período em que seu canal no YouTube experimentou um crescimento exponencial de inscritos. Em 2021, o jovem foi diagnosticado com câncer, uma batalha que, tristemente, culminou em seu falecimento em 2022, quando tinha apenas 23 anos.

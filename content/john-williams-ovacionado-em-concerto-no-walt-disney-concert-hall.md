@@ -21,6 +21,10 @@ keywords: >-
   da Morte, música de cinema, Disney+
 data: '2025-04-07T15:13:26.268Z'
 author: Ana Luiza
+resumo: >-
+  John Williams é ovacionado em concerto no Walt Disney Concert Hall. Evento
+  celebra sua carreira e revela novidades da série 'Andor', do universo 'Star
+  Wars'.
 ---
 
 Em uma noite memorável, John Williams, aclamado compositor e vencedor de cinco Oscars, foi calorosamente ovacionado em um concerto realizado no Walt Disney Concert Hall. Williams, que se aposentou recentemente após uma carreira ilustre no cinema americano, marcou presença e encantou o público com sua presença.

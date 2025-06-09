@@ -21,6 +21,10 @@ keywords: >-
   episódios, Estrela da Morte, streaming
 data: '2025-04-08T22:09:59.594Z'
 author: Ana Luiza
+resumo: >-
+  A nova temporada de 'Andor' estreia em abril no Disney+, com episódios em
+  trios semanais. Diego Luna retorna como Cassian Andor em uma trama cheia de
+  intrigas.
 ---
 
 A aguardada segunda temporada da série 'Andor' está programada para estrear em abril no Disney+, apresentando um formato de lançamento inovador com episódios disponibilizados em grupos de três por semana. Confira a seguir o calendário completo divulgado pelo serviço de streaming.

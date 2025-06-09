@@ -21,6 +21,10 @@ keywords: >-
   Comics, Disciple, pré-venda ingressos
 data: '2025-04-08T14:10:45.248Z'
 author: Luana Souza
+resumo: >-
+  Joe Quesada, ex-editor da Marvel, estará na CCXP25 para lançar sua HQ
+  'Disciple' e divulgar sua nova editora, Amazing Comics. Ingressos à venda em
+  breve!
 ---
 
 A CCXP25 traz uma novidade empolgante para os fãs de quadrinhos: Joe Quesada, ex-editor-chefe da Marvel Comics, marcará presença no Artists' Valley deste ano. Renomado por suas contribuições a títulos como Demolidor e O Espetacular Homem-Aranha, Quesada aproveitará o evento para divulgar seu mais recente projeto autoral, 'Disciple'. Além de quadrinista e roteirista, Quesada tem uma vasta experiência como editor e produtor, com mais de 70 créditos em produções de destaque no cinema, como Homem de Ferro, Logan e Capitão América. Durante seu período à frente da Marvel, de 2000 a 2011, ele foi peça-chave para a superação da crise financeira pela qual a empresa passava.

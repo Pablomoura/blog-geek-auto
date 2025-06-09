@@ -21,6 +21,10 @@ keywords: >-
   jogo não-oficial, atualizações de códigos
 data: '2025-04-08T18:13:30.953Z'
 author: Luana Souza
+resumo: >-
+  Explore o universo de Solo Leveling no Roblox com o jogo Hunters! Descubra
+  como usar códigos promocionais para ganhar cristais e evoluir seus
+  equipamentos.
 ---
 
 O universo de Solo Leveling expandiu-se para o Roblox com o lançamento do jogo Hunters, desenvolvido por aficionados da plataforma. Este jogo não-oficial permite aos jogadores equipar-se adequadamente para adentrar em masmorras desafiadoras e combater legiões de inimigos. Para auxiliar nessa jornada, existem códigos promocionais que fornecem cristais, os quais podem ser utilizados para adquirir novos equipamentos ou melhorias.

@@ -18,6 +18,7 @@ tags:
   - 'filme Superman'
   - 'Planeta Dirio'
   - 'cenas ps-crditos'
+  - especial-Superman
 keywords: >-
   Superman 2025, James Gunn, DC Studios, David Corenswet, pós-produção, estreia, filme Superman, Planeta Diário, cenas pós-créditos
 author: Ana Luiza

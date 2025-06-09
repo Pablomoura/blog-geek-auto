@@ -15,6 +15,9 @@ tags:
   - filme de ação
   - tv globo
 author: Ana Luiza
+resumo: >-
+  Jackie Chan estrela 'Kung Fu Yoga' na Sessão da Tarde. A aventura arqueológica
+  dirigida por Stanley Tong será exibida às 15h25 na TV Globo. Não perca!
 ---
 
 Nesta sexta-feira, 28 de abril, a Sessão da Tarde traz o filme ‘Kung Fu Yoga’, lançado em 2017. A transmissão ocorrerá às 15h25, horário de Brasília, pela TV Globo. 

@@ -23,6 +23,10 @@ keywords: >-
   série de mistério, Disney+, streaming, estreia em outubro
 data: '2025-04-06T20:10:18.923Z'
 author: Luana Souza
+resumo: >-
+  Logan Lerman se junta ao elenco estelar da 5ª temporada de 'Only Murders in
+  the Building', ao lado de Renée Zellweger e Christoph Waltz. Estreia em
+  outubro n...
 ---
 
 A quinta temporada de 'Only Murders in the Building' acaba de ganhar um reforço de peso com a confirmação de Logan Lerman no elenco. A revelação foi feita por Selena Gomez em suas redes sociais no último sábado (5). Lerman, conhecido por seu papel como Percy Jackson nos cinemas, junta-se a um elenco estelar que inclui nomes como Renée Zellweger, conhecida por 'O Diário de Bridget Jones', e Christoph Waltz, de 'Bastardos Inglórios'.

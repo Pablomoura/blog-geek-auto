@@ -16,6 +16,10 @@ tags:
   - hamdan ballal
   - documentário
 author: Luana Souza
+resumo: >-
+  A Academia do Oscar condena a agressão ao cineasta Hamdan Ballal, destacando a
+  importância do cinema como ferramenta de perspectivas diversas e liberdade
+  cri...
 ---
 
 A Academia de Artes e Ciências Cinematográficas, entidade por trás do prestigiado Oscar, emitiu um comunicado a respeito dos recentes episódios de violência envolvendo o cineasta palestino Hamdan Ballal, vencedor do Oscar de Melhor Documentário pelo filme 'Sem Chão'. A declaração foi divulgada após o cineasta ter sido agredido e sequestrado. 

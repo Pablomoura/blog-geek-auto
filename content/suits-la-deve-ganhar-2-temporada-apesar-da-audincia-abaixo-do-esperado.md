@@ -21,6 +21,9 @@ keywords: >-
   direito criminal, entretenimento legal
 data: '2025-04-09T15:14:32.508Z'
 author: Pablo Moura
+resumo: >-
+  Suits L.A.' pode ganhar segunda temporada na NBC, apesar da estreia morna.
+  Série derivada traz Stephen Amell e Gabriel Macht, apostando em alto retorno.
 ---
 
 A série 'Suits L.A.', derivada de 'Suits', está prestes a ter sua segunda temporada confirmada, conforme informações do portal Deadline. Apesar de uma recepção inicial não tão positiva em termos de audiência, a NBC mantém expectativas elevadas para o futuro da produção. A franquia é vista como uma aposta de alto valor para a emissora, que acredita na possibilidade de retorno significativo dos investimentos realizados até o momento.

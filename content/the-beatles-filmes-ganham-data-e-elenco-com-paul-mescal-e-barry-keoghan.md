@@ -19,6 +19,10 @@ tags:
   - barry keoghan
   - cinemacon
 author: Luana Souza
+resumo: >-
+  Sam Mendes anuncia cinebiografias dos Beatles com estreia simultânea em 2028.
+  Paul Mescal, Harris Dickinson, Barry Keoghan e Joseph Quinn estrelam o
+  projeto.
 ---
 
 Durante a CinemaCon em Las Vegas, o renomado diretor Sam Mendes anunciou uma audaciosa abordagem para as cinebiografias dos Beatles, com um filme dedicado a cada um dos quatro membros da icônica banda. Mendes revelou que os filmes serão lançados todos no mesmo dia, descrevendo o evento como 'a primeira experiência de cinema para maratonar'.

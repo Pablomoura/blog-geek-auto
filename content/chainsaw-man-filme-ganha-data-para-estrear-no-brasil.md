@@ -19,6 +19,9 @@ tags:
   - sony pictures
   - tatsuki fujimoto
 author: Ana Luiza
+resumo: >-
+  Chainsaw Man: Reze Arc' chega ao Brasil em 30 de outubro! Baseado no mangá de
+  Tatsuki Fujimoto, o filme promete ação e emoção com Denji e Pochita.
 ---
 
 A Sony Pictures anunciou, conforme reportagem do Portal Exibidor, que o filme 'Chainsaw Man: Reze Arc' será lançado no Brasil em 30 de outubro. O lançamento no Japão ocorrerá anteriormente, em 19 de setembro.

@@ -21,6 +21,10 @@ keywords: >-
   Voquezna, conscientização sobre saúde, Phantom Pharmaceuticals
 data: '2025-04-05T01:06:40.058Z'
 author: Luana Souza
+resumo: >-
+  Kenan Thompson, do SNL, revela luta contra Refluxo Gastroesofágico. Após
+  sintomas que afetaram sua voz e sono, busca tratamento e apoia campanha de
+  conscient...
 ---
 
 Kenan Thompson, conhecido por seu trabalho no programa Saturday Night Live, abriu o coração em uma entrevista à People Magazine sobre sua batalha contra o Refluxo Gastroesofágico (DRGE), condição que ele enfrentou em silêncio por vários anos. O ator revelou que os sintomas começaram a se manifestar em 2022, caracterizados por uma azia intensa após a ingestão de alimentos ácidos, impactando significativamente sua rotina e performances no SNL.

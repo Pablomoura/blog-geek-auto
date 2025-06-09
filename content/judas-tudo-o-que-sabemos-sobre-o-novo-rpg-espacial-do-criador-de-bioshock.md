@@ -1,15 +1,36 @@
 ---
-title: "Judas: Tudo o Que Sabemos Sobre o Novo RPG Espacial do Criador de BioShock"
-slug: "judas-tudo-o-que-sabemos-sobre-o-novo-rpg-espacial-do-criador-de-bioshock"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4504182-judas1979.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4504182-judas1979.jpg"
-tags: ["Judas RPG", "Ken Levine", "BioShock", "Ghost Story Games", "lançamento Judas", "Judas narrativa", "Judas gameplay", "jogo espacial", "roguelite", "The Mayflower", "Os Três Grandes", "jogos de Ken Levine"]
-keywords: "Judas RPG, Ken Levine, BioShock, Ghost Story Games, lançamento Judas, Judas narrativa, Judas gameplay, jogo espacial, roguelite, The Mayflower, Os Três Grandes, jogos de Ken Levine"
-author: "Ana Luiza"
-fonte: "GameSpot"
-data: "2025-05-30T15:59:00.000Z"
+title: 'Judas: Tudo o Que Sabemos Sobre o Novo RPG Espacial do Criador de BioShock'
+slug: judas-tudo-o-que-sabemos-sobre-o-novo-rpg-espacial-do-criador-de-bioshock
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4504182-judas1979.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4504182-judas1979.jpg
+tags:
+  - Judas RPG
+  - Ken Levine
+  - BioShock
+  - Ghost Story Games
+  - lançamento Judas
+  - Judas narrativa
+  - Judas gameplay
+  - jogo espacial
+  - roguelite
+  - The Mayflower
+  - Os Três Grandes
+  - jogos de Ken Levine
+keywords: >-
+  Judas RPG, Ken Levine, BioShock, Ghost Story Games, lançamento Judas, Judas
+  narrativa, Judas gameplay, jogo espacial, roguelite, The Mayflower, Os Três
+  Grandes, jogos de Ken Levine
+author: Ana Luiza
+fonte: GameSpot
+data: '2025-05-30T15:59:00.000Z'
+resumo: >-
+  Prepare-se para Judas, o aguardado RPG espacial de Ken Levine, criador de
+  BioShock. Com uma trama envolvente e mecânicas inovadoras, chega em breve para
+  PC e...
 ---
 ## Judas: Um RPG Espacial com a Marca de Ken Levine
 

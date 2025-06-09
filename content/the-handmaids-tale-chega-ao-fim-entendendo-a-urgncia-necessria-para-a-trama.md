@@ -20,6 +20,10 @@ keywords: >-
   Gilead, The Testaments, autoritarismo
 data: '2025-04-08T10:12:10.236Z'
 author: Pablo Moura
+resumo: >-
+  The Handmaid’s Tale chega à sua sexta e última temporada, prometendo uma
+  conclusão impactante. June e Nichole fogem para o Alasca, enquanto uma
+  revolução se...
 ---
 
 The Handmaid’s Tale, série que estreou simultaneamente ao início do mandato de Donald Trump, destacou-se por sua crítica aguda aos retrocessos em direitos humanos e seu paralelo com um governo teocrático e patriarcal. A narrativa, baseada no livro de Margaret Atwood de 1985, tornou-se um ícone de resistência, especialmente diante de políticas anti-femininas e contra a comunidade LGBTQIA+. A série apresenta Gilead, um regime autoritário que emerge nos EUA pós uma segunda Guerra Civil, trazendo à tona temores reais de regressão social e política.

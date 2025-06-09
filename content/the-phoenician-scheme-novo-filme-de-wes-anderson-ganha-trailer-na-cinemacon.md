@@ -21,6 +21,10 @@ keywords: >-
   estelar, Festival de Cannes, filmes de 2023
 data: '2025-04-03T00:13:10.610Z'
 author: Luana Souza
+resumo: >-
+  Universal revela trailer de 'The Phoenician Scheme', novo filme de Wes
+  Anderson, com elenco estrelado e trama de espionagem na década de 1940.
+  Confira!
 ---
 
 Durante o evento CinemaCon, a Universal Pictures e a Focus Features apresentaram o primeiro trailer de 'The Phoenician Scheme' (O Esquema Fenício, em tradução livre), a mais recente obra do aclamado diretor Wes Anderson, conhecido por filmes como 'O Grande Hotel Budapeste' e 'Os Excêntricos Tenenbaums'.

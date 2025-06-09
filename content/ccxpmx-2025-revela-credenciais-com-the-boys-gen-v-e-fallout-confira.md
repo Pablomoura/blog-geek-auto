@@ -18,6 +18,9 @@ tags:
   - fallout
   - credenciais
 author: Pablo Moura
+resumo: >-
+  A CCXP MX 2025 revela artes das credenciais com séries como The Boys, Gen V e
+  Fallout. Evento acontece de 30 de maio a 1º de junho, na Cidade do México.
 ---
 
 A CCXP MX, em parceria recente com o Prime Video, divulgou nesta quinta-feira (27) as artes das credenciais para sua edição de 2025, destacando séries populares como The Boys, Gen V e Fallout. As imagens prometem encantar os fãs ansiosos pelo evento.

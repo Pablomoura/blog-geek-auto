@@ -23,6 +23,10 @@ keywords: >-
   de livro, pôsteres de filme, A2 Filmes, cultura pop
 data: '2025-04-04T14:13:08.511Z'
 author: Ana Luiza
+resumo: >-
+  A comédia romântica sul-coreana 'Regras do Amor na Cidade Grande' chega aos
+  cinemas brasileiros em 10 de abril. Confira novos pôsteres e detalhes do
+  enredo!
 ---
 
 A comédia romântica sul-coreana 'Regras do Amor na Cidade Grande', baseada no best-seller homônimo, teve sua estreia nos cinemas brasileiros reprogramada para o dia 10 de abril. A distribuição do filme será realizada pela A2 Filmes.

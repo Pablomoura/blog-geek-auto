@@ -19,6 +19,9 @@ tags:
   - vilão
   - cinema
 author: Pablo Moura
+resumo: >-
+  Giancarlo Esposito, de 'Breaking Bad', quer se unir ao DCU como Sr. Frio em um
+  filme dirigido por James Gunn. Será que ele será o próximo vilão do Batman?
 ---
 
 Giancarlo Esposito, famoso por seu papel de Gus Fring em 'Breaking Bad' e recentemente como antagonista em 'Capitão América: Admirável Mundo Novo', manifestou interesse em participar do DCU (Universo Cinematográfico da DC). O ator revelou que gostaria de encarnar o vilão Sr. Frio sob a direção de James Gunn. 

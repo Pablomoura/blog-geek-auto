@@ -18,6 +18,7 @@ tags:
   - Mulher-Gavião
   - DCU
   - filmes de super-herói
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, cena pós-créditos, DC Studios, David Corenswet, Rachel
   Brosnahan, Nicholas Hoult, Lanterna Verde, Mulher-Gavião, DCU, filmes de

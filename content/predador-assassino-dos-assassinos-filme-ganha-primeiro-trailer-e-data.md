@@ -22,6 +22,10 @@ keywords: >-
   Trachtenberg, Predador: Badlands, franquia Predador, antologia animada
 data: '2025-04-08T19:09:06.428Z'
 author: Luana Souza
+resumo: >-
+  Predador: Assassino dos Assassinos' estreia em 6 de junho no Disney+. O
+  trailer revela caçadas históricas do Predador. Descubra mais sobre esse
+  suspense anim...
 ---
 
 A aguardada animação 'Predador: Assassino dos Assassinos' acaba de lançar seu primeiro trailer e revelar a data de estreia, marcada para 6 de junho deste ano, exclusivamente no Disney+. O pôster oficial do filme também foi divulgado, complementando a atmosfera de suspense e ação.

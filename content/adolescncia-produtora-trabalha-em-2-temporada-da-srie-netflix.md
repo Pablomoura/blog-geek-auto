@@ -21,6 +21,10 @@ keywords: >-
   visualizações recordes, Stephen Graham, drama adolescente
 data: '2025-04-09T16:14:03.685Z'
 author: Luana Souza
+resumo: >-
+  A série 'Adolescência' da Netflix pode ganhar uma 2ª temporada. Com 114,5
+  milhões de visualizações, ela supera hits como 'Bridgerton' e 'La Casa de
+  Papel'.
 ---
 
 A série 'Adolescência' da Netflix pode estar se preparando para uma segunda temporada. A produtora por trás do projeto, Plan B, que tem Brad Pitt entre seus fundadores, está em discussões para expandir a narrativa da minissérie que rapidamente capturou a atenção global desde seu lançamento em março.

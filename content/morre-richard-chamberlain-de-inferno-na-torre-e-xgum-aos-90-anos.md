@@ -16,6 +16,10 @@ tags:
   - ator americano
   - derrame
 author: Ana Luiza
+resumo: >-
+  Richard Chamberlain, icônico ator de 'Dr. Kildare' e 'Xógum', faleceu aos 90
+  anos. Conhecido por seus papéis marcantes no cinema e TV, ele deixa um legado
+  im...
 ---
 
 Richard Chamberlain, célebre ator americano, faleceu no último sábado, 29 de abril, aos 90 anos. Segundo Harlan Boll, seu agente, a causa da morte foi um derrame, conforme reportou a revista Variety.

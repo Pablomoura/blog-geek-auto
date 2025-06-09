@@ -15,6 +15,9 @@ tags:
   - jogo de ritmo
   - lançamento exclusivo
 author: Ana Luiza
+resumo: >-
+  No Nintendo Direct, a Nintendo anunciou Rhythm Heaven Groove para 2026 no
+  Switch. O jogo trará jogabilidade rítmica inovadora, encantando fãs da série.
 ---
 
 Durante o Nintendo Direct desta quinta-feira, a Nintendo trouxe uma notícia empolgante para os fãs de longa data da série Rhythm Heaven. O novo jogo, intitulado Rhythm Heaven Groove, está programado para ser lançado em 2026 exclusivamente para o Nintendo Switch.

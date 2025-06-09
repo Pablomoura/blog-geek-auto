@@ -21,6 +21,10 @@ keywords: >-
   cinematográfico, influência cultural.
 data: '2025-04-08T16:15:25.253Z'
 author: Luana Souza
+resumo: >-
+  A China pode limitar filmes americanos em resposta às tarifas de Trump. A
+  medida afetaria Hollywood, que depende do mercado chinês para grandes
+  bilheterias.
 ---
 
 Os blockbusters americanos podem estar com os dias contados nos cinemas chineses. De acordo com informações veiculadas por diversos portais dos Estados Unidos, a China, sob a liderança de Xi Jinping, estaria avaliando a possibilidade de proibir ou limitar a exibição de filmes americanos em seu território. Essas ações seriam uma resposta às tarifas impostas por Donald Trump e incluiriam medidas como a proibição da importação de filmes americanos, além de aumento significativo de tarifas sobre produtos agrícolas, como a soja.

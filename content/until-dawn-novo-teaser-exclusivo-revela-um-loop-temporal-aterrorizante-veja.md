@@ -21,6 +21,10 @@ keywords: >-
   adaptação de jogo, Ella Rubin, estreia de filme
 data: '2025-04-09T15:13:49.433Z'
 author: Luana Souza
+resumo: >-
+  Ella Rubin estrela teaser de 'Until Dawn - Noite de Terror', dirigido por
+  David F. Sandberg. Filme, inspirado no jogo homônimo, estreia no Brasil em 24
+  de ab...
 ---
 
 A atriz Ella Rubin, conhecida por 'Uma Ideia de Você', participou de um teaser exclusivo divulgado pela Sony Pictures, onde detalha a premissa do novo filme 'Until Dawn - Noite de Terror'. Este é dirigido por David F. Sandberg, famoso por sua direção em 'Shazam!', e apresenta uma trama baseada no popular jogo homônimo. No filme, um grupo de jovens se encontra preso em um loop temporal numa pequena cidade hostil. A cada morte, a noite se reinicia, trazendo consigo novos horrores.

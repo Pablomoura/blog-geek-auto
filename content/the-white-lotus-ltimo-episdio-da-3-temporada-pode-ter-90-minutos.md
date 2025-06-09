@@ -19,6 +19,10 @@ tags:
   - série de tv
   - duração estendida
 author: Pablo Moura
+resumo: >-
+  O final da 3ª temporada de The White Lotus, com 90 minutos, promete
+  surpreender. Com estreia no domingo na HBO e Max, a trama na Tailândia
+  encerra-se.
 ---
 
 O aguardado desfecho da terceira temporada de The White Lotus promete surpreender os fãs com a sua duração. De acordo com a HBO, o episódio final, identificado como S3E8, terá 90 minutos, tornando-se o mais extenso de toda a série até o momento. 

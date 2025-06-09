@@ -22,6 +22,10 @@ keywords: >-
   Universo Cinematográfico da DC
 data: '2025-04-03T21:09:21.065Z'
 author: Pablo Moura
+resumo: >-
+  James Gunn revela cenas inéditas de 'Superman' na CinemaCon 2025, destacando
+  Krypto e a Fortaleza da Solidão. Estrelas como David Corenswet e Rachel
+  Brosnaha...
 ---
 
 James Gunn, diretor do aguardado filme 'Superman', compartilhou em seu perfil oficial do Instagram nesta quinta-feira (03) um vídeo com cenas inéditas apresentadas durante o painel da CinemaCon 2025. O vídeo destaca um momento em que Krypto, o supercão, transporta Superman para a Fortaleza da Solidão, onde o herói recebe tratamento com raios solares para curar feridas causadas por um confronto recente com um adversário ainda não revelado. Estas cenas são similares às mostradas anteriormente no primeiro trailer do filme.

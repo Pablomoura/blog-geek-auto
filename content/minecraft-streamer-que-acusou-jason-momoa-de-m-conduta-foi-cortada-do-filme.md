@@ -20,6 +20,10 @@ keywords: >-
   de jogos
 data: '2025-04-08T21:11:21.215Z'
 author: Luana Souza
+resumo: >-
+  Valkyrae revela exclusão de 'Um Filme Minecraft' após acusações contra Jason
+  Momoa. Sua participação de 30 segundos foi cortada, evitando possível
+  processo.
 ---
 
 A streamer Rachell Marie, conhecida como Valkyrae, revelou ter sido excluída do elenco de 'Um Filme Minecraft'. Durante uma transmissão ao vivo, a influenciadora digital de 33 anos compartilhou que sua participação no filme foi removida, limitando-se a dizer: 'Não vou falar muito sobre isso, mas seria tipo uns 30 segundos. Prefiro não ter esses 30 segundos e não ser processada'.

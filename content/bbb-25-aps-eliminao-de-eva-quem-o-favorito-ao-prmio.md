@@ -19,6 +19,10 @@ tags:
   - enquete uol
   - paredão
 author: Ana Luiza
+resumo: >-
+  Eva é eliminada do BBB 25, mudando o jogo. Vitória Strada lidera as enquetes
+  com 34,09%. Guilherme e Vilma seguem com 19,32%. Renata tem 18,18%. Quem
+  vencerá?
 ---
 
 No último Paredão do BBB 25, Eva foi eliminada, alterando significativamente a percepção do público sobre os competidores. Com 11 participantes ainda na disputa pelo prêmio milionário, a enquete realizada pelo UOL aponta Vitória Strada como a grande favorita, detendo 34,09% da preferência dos votos.

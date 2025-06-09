@@ -21,6 +21,10 @@ keywords: >-
   Doutor Destino
 data: '2025-04-03T19:08:51.399Z'
 author: Pablo Moura
+resumo: >-
+  Thunderbolts traz brinde exclusivo em formato de limusine e estreia em 2025
+  com anti-heróis do MCU. Marvel ainda lançará Capitão América e Quarteto
+  Fantástico!
 ---
 
 A criatividade nos brindes de cinema atinge novos patamares com a chegada de Thunderbolts*, que contará com um balde de pipoca especial em formato de limusine, oferecido exclusivamente pela rede AMC nos Estados Unidos. 

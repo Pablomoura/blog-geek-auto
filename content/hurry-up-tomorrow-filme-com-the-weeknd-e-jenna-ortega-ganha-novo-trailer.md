@@ -20,6 +20,10 @@ keywords: >-
   Trey Edward Shults, insônia, estreia 2025
 data: '2025-04-09T17:11:00.229Z'
 author: Pablo Moura
+resumo: >-
+  Hurry Up Tomorrow', estrelado por The Weeknd e Jenna Ortega, estreia em 15 de
+  maio de 2025, com uma trama intensa sobre insônia e fama. Confira o novo
+  trailer!
 ---
 
 O aguardado filme 'Hurry Up Tomorrow', estrelado por The Weeknd e Jenna Ortega, acaba de lançar um emocionante novo trailer. The Weeknd, no papel de um cantor famoso, e Jenna Ortega, interpretando uma fã obsessiva, prometem uma narrativa intensa e envolvente. A trama é descrita como a jornada de um músico lutando contra a insônia, cuja vida toma um rumo inesperado ao conhecer um enigmático estranho que o faz confrontar a essência de sua própria existência.

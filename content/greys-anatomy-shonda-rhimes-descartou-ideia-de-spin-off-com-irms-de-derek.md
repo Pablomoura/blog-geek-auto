@@ -18,6 +18,9 @@ tags:
   - séries de tv
   - private practice
 author: Pablo Moura
+resumo: >-
+  Grey's Anatomy' quase teve mais spin-offs! Shonda Rhimes revelou planos para
+  uma série focada nas irmãs Shepherd. Saiba por que a ideia não foi adiante.
 ---
 
 Com duas décadas de sucesso, 'Grey's Anatomy' consolidou-se como um dos maiores fenômenos televisivos dos Estados Unidos, gerando spin-offs de sucesso como 'Private Practice' e 'Station 19'. No entanto, o universo da série poderia ter se expandido ainda mais. 

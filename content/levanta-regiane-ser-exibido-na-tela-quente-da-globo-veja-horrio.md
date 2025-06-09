@@ -17,6 +17,9 @@ tags:
   - filme brasileiro
   - milena ribeiro
 author: Ana Luiza
+resumo: >-
+  Na próxima segunda, 31, 'Levanta, Regiane' estreia na Tela Quente. Acompanhe
+  às 23h25 a história de uma mulher que precisa arrecadar R$ 50 mil em 45 dias.
 ---
 
 A sessão Tela Quente da próxima segunda-feira, 31 de julho, trará o filme 'Levanta, Regiane', lançado em 2025. Com uma duração de 41 minutos, o filme será transmitido na TV Globo às 23h25, horário de Brasília.

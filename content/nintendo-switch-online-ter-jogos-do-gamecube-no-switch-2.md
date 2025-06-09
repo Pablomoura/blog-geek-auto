@@ -19,6 +19,10 @@ tags:
   - f-zero gx
   - soulcalibur ii
 author: Pablo Moura
+resumo: >-
+  A Nintendo anunciou o Switch 2, com jogos do GameCube no Nintendo Switch
+  Online, controles clássicos e Game Chat para chamadas durante os jogos.
+  Lançamento e...
 ---
 
 No evento Direct deste ano, a Nintendo revelou que o seu próximo console, o Switch 2, incluirá jogos do GameCube através do serviço Nintendo Switch Online. Entre os primeiros jogos disponíveis estarão The Legend of Zelda: The Wind Waker, SoulCalibur II e F-Zero GX, todos apresentando melhorias na resolução de imagem em comparação com suas versões originais, além de suportarem multiplayer local. Esses jogos estarão acessíveis já no lançamento do console.

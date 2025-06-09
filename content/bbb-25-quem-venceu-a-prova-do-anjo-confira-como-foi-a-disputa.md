@@ -16,6 +16,9 @@ tags:
   - semana turbo
   - paredão
 author: Luana Souza
+resumo: >-
+  João Pedro vence Prova do Anjo no BBB 25, garantindo imunidade na Semana
+  Turbo. Reality show pode ser assistido na Globo e Globoplay. Paredão hoje!
 ---
 
 O Big Brother Brasil 25 já tem um novo imune para esta semana. A Prova do Anjo, realizada na tarde desta sexta-feira, foi decisiva para a imunização do vencedor na Semana Turbo, que inclui a formação de Paredão já na noite de hoje (28).

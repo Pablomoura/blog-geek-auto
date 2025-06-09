@@ -16,6 +16,10 @@ tags:
   - lançamento
   - tecnologia
 author: Ana Luiza
+resumo: >-
+  A Apple surpreende ao lançar o Lumon Terminal Pro, computador da série
+  'Ruptura'. Veja o produto e assista a vídeo exclusivo com Ben Stiller.
+  Cuidado: spoilers!
 ---
 
 Nesta quinta-feira (27), a Apple surpreendeu os fãs ao disponibilizar em sua loja o Lumon Terminal Pro, o mesmo modelo de computador usado pelos personagens da série 'Ruptura'. Ao visitar o site da empresa, os interessados podem visualizar o produto em destaque.

@@ -22,6 +22,10 @@ keywords: >-
   streaming, super-heróis
 data: '2025-04-07T16:13:10.793Z'
 author: Pablo Moura
+resumo: >-
+  Descubra a nova abertura do spin-off 'My Hero Academia: Vigilantes', que traz
+  Koichi Haimawari como protagonista. Arte inédita e mais detalhes já
+  disponíveis!
 ---
 
 Foi recentemente divulgada a abertura do novo anime 'My Hero Academia: Vigilantes'. O vídeo já está disponível para visualização online. Além da abertura, também foi lançada uma arte inédita, que pode ser apreciada abaixo.

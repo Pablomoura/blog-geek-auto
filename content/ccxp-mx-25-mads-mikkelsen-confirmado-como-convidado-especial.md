@@ -21,6 +21,10 @@ keywords: >-
   filmes e séries, ator dinamarquês, Comic Con
 data: '2025-04-07T16:12:10.557Z'
 author: Ana Luiza
+resumo: >-
+  CCXP MX 2025 promete grandes atrações na Cidade do México. Mads Mikkelsen,
+  conhecido por Hannibal e Cassino Royale, será destaque com painéis e
+  interações co...
 ---
 
 A próxima edição do CCXP MX, que acontecerá em 2025 e que já atraiu 100 mil pessoas em sua estreia, promete ser um grande evento na Cidade do México. Entre os destaques, Mads Mikkelsen foi confirmado como convidado especial. O ator, conhecido por papéis icônicos como Hannibal Lecter, Galen Erso e Gellert Grindelwald, participará de diversas atividades no evento.

@@ -17,6 +17,9 @@ tags:
   - nintendo switch 2
   - jogos de vampiros
 author: Ana Luiza
+resumo: >-
+  A FromSoftware anuncia 'The Duskbloods', exclusivo para Nintendo Switch 2. Com
+  atmosfera gótica e foco no multiplayer, promete desafiar como 'Bloodborne'.
 ---
 
 A FromSoftware, renomada desenvolvedora de jogos, revelou seu mais recente projeto: 'The Duskbloods'. Este título será lançado exclusivamente para o Nintendo Switch 2, prometendo uma experiência imersiva no melhor estilo do aclamado 'Bloodborne' do PlayStation. A ambientação do jogo é profundamente gótica, repleta de cenas de terror e criaturas assustadoras, garantindo arrepios aos jogadores.

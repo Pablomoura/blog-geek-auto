@@ -18,6 +18,9 @@ tags:
   - reality show
   - competição
 author: Luana Souza
+resumo: >-
+  A 11ª Prova do Líder do BBB 25 promete emoções intensas! Com 12 participantes,
+  a disputa ao vivo acontece em 27 de abril. Um novo Paredão será formado!
 ---
 
 A próxima quinta-feira, 27 de abril, será palco da 11ª Prova do Líder do Big Brother Brasil 25. Segundo o apresentador Tadeu Schmidt, a competição entre os 12 participantes remanescentes será intensa e emocional.

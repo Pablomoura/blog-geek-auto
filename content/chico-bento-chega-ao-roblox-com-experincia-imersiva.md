@@ -21,6 +21,10 @@ keywords: >-
   Vila Abobrinha, Trexx, Geração Alpha
 data: '2025-04-09T14:05:08.582Z'
 author: Pablo Moura
+resumo: >-
+  Chico Bento estreia no Roblox em uma parceria entre MSP Estúdios e Trexx,
+  trazendo a Vila Abobrinha e personagens icônicos para uma experiência virtual
+  imers...
 ---
 
 Chico Bento, o icônico personagem do universo de Maurício de Sousa, faz sua estreia no ambiente virtual do Roblox, graças a uma colaboração entre MSP Estúdios e a startup brasileira de games Trexx. A chegada do caipira mais querido dos quadrinhos brasileiros ao mundo dos jogos digitais inclui também personagens adorados como Zé Lelé, Rosinha e a galinha Giselda.

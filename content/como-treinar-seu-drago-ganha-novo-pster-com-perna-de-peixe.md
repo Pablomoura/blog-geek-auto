@@ -16,6 +16,10 @@ tags:
   - mason thames
   - gerard butler
 author: Pablo Moura
+resumo: >-
+  DreamWorks revela novos pôsteres do remake live-action de 'Como Treinar Seu
+  Dragão', com elenco de estrelas como Mason Thames e Gerard Butler. Descubra as
+  no...
 ---
 
 A DreamWorks lançou uma nova coleção de pôsteres para o aguardado remake em live-action de 'Como Treinar Seu Dragão'. Confira as artes que destacam os principais personagens!

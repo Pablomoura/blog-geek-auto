@@ -21,6 +21,10 @@ keywords: >-
   streaming, adaptação de jogo, série de TV
 data: '2025-04-09T16:12:46.075Z'
 author: Pablo Moura
+resumo: >-
+  HBO confirma terceira temporada de 'The Last of Us'. Criadores planejam
+  explorar toda a narrativa dos jogos em quatro temporadas. Novos personagens
+  prometem...
 ---
 
 A HBO já confirmou a continuação de 'The Last of Us' com a renovação para uma terceira temporada. A notícia foi divulgada através das redes sociais da HBO e da plataforma de streaming Max, onde foi postado que 'a terceira temporada está a caminho', embora sem uma data específica de lançamento. 

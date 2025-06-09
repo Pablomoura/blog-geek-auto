@@ -17,6 +17,10 @@ tags:
   - filme de super-herói
   - especial-Superman
 author: Ana Luiza
+resumo: >-
+  Warner Bros. revela novas imagens de David Corenswet como Superman em filme de
+  James Gunn. Com elenco estrelado, trama explora início de Clark Kent em
+  Metróp...
 ---
 
 A Warner Bros. divulgou neste domingo (30) imagens inéditas de David Corenswet encarnando Superman, em material promocional do novo filme dirigido por James Gunn. Nas fotos, o ator é visto voando e exibindo uma postura confiante, possivelmente na Fortaleza da Solidão.

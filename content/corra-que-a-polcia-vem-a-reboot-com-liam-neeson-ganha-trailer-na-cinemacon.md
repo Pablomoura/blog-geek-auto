@@ -20,6 +20,10 @@ keywords: >-
   Pictures, estreia em agosto
 data: '2025-04-03T18:17:07.668Z'
 author: Pablo Moura
+resumo: >-
+  CinemaCon revela trailer e pôster do reboot de 'Corra Que A Polícia Vem Aí'.
+  Liam Neeson lidera elenco estelar com Pamela Anderson. Estreia em 14 de
+  agosto!
 ---
 
 Durante a CinemaCon, realizada nesta quinta-feira (3), o público teve a oportunidade de assistir ao primeiro trailer do reboot de 'Corra Que A Polícia Vem Aí'. O evento também foi palco para a divulgação do primeiro pôster do filme.

@@ -17,6 +17,9 @@ tags:
   - ator
   - cinema
 author: Ana Luiza
+resumo: >-
+  Val Kilmer, estrela de 'Batman' e 'Top Gun', faleceu aos 65 anos. Celebrado
+  por papéis icônicos, deixa um legado duradouro no cinema e teatro.
 ---
 
 Val Kilmer, conhecido por seus marcantes papéis como Batman e no clássico filme 'Top Gun', faleceu aos 65 anos, conforme reportado pelo The New York Times. A causa da morte ainda não foi divulgada.

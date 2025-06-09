@@ -17,6 +17,9 @@ tags:
   - manifestações exageradas
   - etiqueta no teatro
 author: Luana Souza
+resumo: >-
+  A produção brasileira de Wicked adota avisos para coibir excessos do público.
+  Enquanto isso, a sequência do filme estreia em 2025, após sucesso global.
 ---
 
 A produção brasileira do musical Wicked, que começou suas apresentações no dia 20 de março, anunciou que exibirá avisos para coibir manifestações exageradas do público durante o espetáculo. Segundo Carlos Cavalcanti, presidente do Instituto Artium, a medida busca assegurar o respeito entre os espectadores. 'Iniciaremos as sessões com um comunicado solicitando que aplausos e vivas sejam feitos ao final de cada número musical, a fim de preservar a experiência de todos', explicou ele em entrevista à CBN.

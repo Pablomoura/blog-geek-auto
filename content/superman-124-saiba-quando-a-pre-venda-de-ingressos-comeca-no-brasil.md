@@ -21,6 +21,7 @@ tags:
   - 'bilheteria'
   - 'estreia'
   - 'filme de super-heri'
+  - especial-Superman
 keywords: >-
   Superman, pré-venda de ingressos, David Corenswet, James Gunn, Rachel Brosnahan, Nicholas Hoult, DC Studios, Warner Bros, marketing de cinema, bilheteria, estreia, filme de super-herói
 author: Luana Souza

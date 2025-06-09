@@ -16,6 +16,10 @@ tags:
   - filme romântico
   - eric winter
 author: Luana Souza
+resumo: >-
+  Assista 'Receita para o Amor' na Sessão da Tarde desta quarta, às 15h30. Uma
+  rivalidade culinária se transforma em romance neste filme estrelado por Eric
+  Win...
 ---
 
 Nesta quarta-feira, dia 2, a Sessão da Tarde traz para seus telespectadores o filme 'Receita para o Amor', lançado em 2019. A transmissão ocorrerá na TV Globo, às 15h30, horário de Brasília, com a duração de 1h22.

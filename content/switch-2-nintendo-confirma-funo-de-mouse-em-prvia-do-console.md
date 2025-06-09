@@ -15,6 +15,10 @@ tags:
   - evento online
   - console gaming
 author: Ana Luiza
+resumo: >-
+  Nintendo sugere nova função de mouse para Joy-Con do Switch 2 em vídeo.
+  Detalhes do console, incluindo gráficos aprimorados, serão revelados em 2 de
+  abril.
 ---
 
 A Nintendo parece ter revelado uma nova funcionalidade para o controle do Nintendo Switch 2: o uso como mouse. Um vídeo divulgado mostra a contagem regressiva de um dia para um evento online, onde mais detalhes do console serão revelados. Nas imagens, é possível ver o Joy-Con sendo usado na horizontal, similarmente a um mouse.

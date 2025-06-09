@@ -23,6 +23,10 @@ keywords: >-
   elenco estelar, Grant Sputore, ameaça global
 data: '2025-04-09T18:14:15.747Z'
 author: Ana Luiza
+resumo: >-
+  Alycia Debnam-Carey se junta a 'Godzilla e Kong 3', ao lado de um elenco
+  estelar. Detalhes do filme são mantidos em sigilo, com estreia prevista para
+  2027.
 ---
 
 Alycia Debnam-Carey, conhecida por suas atuações em 'Vinagre de Maçã', 'The 100' e 'Fear the Walking Dead', é a mais recente adição ao elenco de 'Godzilla e Kong 3'. A confirmação veio através de uma publicação do Deadline, que também destaca que os detalhes sobre o personagem de Alycia ainda são mantidos em sigilo.

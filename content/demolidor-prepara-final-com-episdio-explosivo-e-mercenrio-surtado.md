@@ -20,6 +20,9 @@ keywords: >-
   clímax emocionante
 data: '2025-04-09T02:22:47.427Z'
 author: Luana Souza
+resumo: >-
+  Em 'Demolidor: Renascido', o mistério da morte de Foggy Nelson se intensifica.
+  Revelações chocantes e alianças inesperadas desafiam Matt Murdock.
 ---
 
 O mistério sobre quem mandou matar Foggy Nelson se aprofunda em 'Demolidor: Renascido'. Benjamin Poindexter, conhecido como Mercenário, apesar de psicopata, revela-se uma peça de um quebra-cabeça maior em uma conspiração que visava atingir Foggy. O episódio começa com Poindexter sendo atacado na prisão, sugerindo que alguém deseja silenciá-lo. Matt Murdock, inicialmente, pensa que é uma distração de Fisk, mas uma conversa no Josie’s com Cherry faz ele perceber que há mais por trás.

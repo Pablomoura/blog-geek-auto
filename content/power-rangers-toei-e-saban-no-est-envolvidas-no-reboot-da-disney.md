@@ -18,6 +18,10 @@ tags:
   - showrunners
 data: '2025-04-02T22:48:45.890Z'
 author: Pablo Moura
+resumo: >-
+  A nova série de Power Rangers no Disney+ será produzida pela Hasbro, sem
+  envolvimento da Toei Company. Showrunners de Percy Jackson estão em
+  negociações para...
 ---
 
 A nova série de Power Rangers do Disney+, que será produzida pela Hasbro, não contará com a participação da Toei Company, a empresa japonesa responsável pela série original. De acordo com informações do Deadline, nem a Toei nem a Saban Brands estão envolvidas no novo projeto. A Hasbro, que adquiriu os direitos globais da franquia em 2018, com exceção do território asiático, será a responsável pela produção.

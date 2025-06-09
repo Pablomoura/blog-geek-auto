@@ -14,6 +14,10 @@ tags:
   - duração do filme
   - lançamento cinematográfico
 author: Ana Luiza
+resumo: >-
+  Thunderbolts, novo filme da Marvel, estreia em 2 de maio de 2025, com 126
+  minutos de ação. O elenco inclui anti-heróis como o Soldado Invernal e Viúva
+  Negra.
 ---
 
 O filme Thunderbolts, aguardado lançamento da Marvel Studios, terá uma duração total de 126 minutos, ou seja, 2 horas e 6 minutos. Essa informação foi confirmada pelo CBR e segue a tendência de recentes produções do estúdio, como Capitão América: Admirável Mundo Novo, que também alcançou a marca dos 120 minutos de exibição.

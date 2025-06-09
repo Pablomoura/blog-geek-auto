@@ -19,6 +19,10 @@ tags:
   - um novo dia
   - filme de super-herói
 author: Ana Luiza
+resumo: >-
+  O quarto filme do Homem-Aranha, estrelado por Tom Holland, ganha título 'Um
+  Novo Dia'. Sadie Sink junta-se ao elenco, e rumores indicam trama no 'Mundo
+  Bélico'.
 ---
 
 O tão esperado quarto filme da franquia Homem-Aranha, protagonizado por Tom Holland, foi destaque na CinemaCon, onde o título oficial, 'Um Novo Dia' ('Brand New Day' em inglês), foi anunciado. A revelação incluiu a exibição da logo oficial em português.

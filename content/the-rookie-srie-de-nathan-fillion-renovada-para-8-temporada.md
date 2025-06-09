@@ -21,6 +21,9 @@ keywords: >-
   meia-idade, elenco estrelado, Universal+
 data: '2025-04-03T20:12:42.545Z'
 author: Ana Luiza
+resumo: >-
+  The Rookie', estrelada por Nathan Fillion, é renovada para a 8ª temporada. A
+  série acompanha o recruta mais velho do LAPD e está disponível no Universal+.
 ---
 
 Alegria para os admiradores de John Nolan: a série 'The Rookie', com Nathan Fillion no papel principal, garantiu renovação para sua oitava temporada, conforme anunciado antes da conclusão da temporada atual em exibição. Este anúncio foi feito pela Variety, que também incluiu outras produções como 'Grey's Anatomy', 'Will Trent', 'Shifting Gears' e '9-1-1' na lista de renovações.

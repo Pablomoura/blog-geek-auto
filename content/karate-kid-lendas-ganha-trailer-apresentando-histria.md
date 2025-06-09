@@ -16,6 +16,9 @@ tags:
   - kung fu
   - narrativa emocionante
 author: Ana Luiza
+resumo: >-
+  Karate Kid: Lendas' revela um novo capítulo emocionante com Li Fong, guiado
+  por Jackie Chan e Ralph Macchio. Um épico de artes marciais imperdível!
 ---
 
 O aguardado filme 'Karate Kid: Lendas' acaba de divulgar um emocionante trailer que destaca sua narrativa. Assista no vídeo acima!

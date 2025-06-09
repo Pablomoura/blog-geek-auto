@@ -21,6 +21,10 @@ keywords: >-
   diretor em desenvolvimento, Samurai de Olhos Azuis, projetos futuros
 data: '2025-04-08T02:22:09.313Z'
 author: Ana Luiza
+resumo: >-
+  John Aoshima, diretor de 'Ultraman: Rising', assina contrato exclusivo com a
+  Warner Bros. Pictures Animation. Ele dirigirá projetos futuros e um episódio
+  esp...
 ---
 
 John Aoshima, renomado diretor de 'Ultraman: Rising', firmou um contrato de exclusividade de longa duração com a Warner Bros. Pictures Animation para desenvolver novos projetos como Diretor em Desenvolvimento. Além de seu envolvimento em futuros projetos, Aoshima também assumirá a direção de um episódio especial de 'Samurai de Olhos Azuis' como diretor convidado. Com 25 anos de experiência no campo da animação, Aoshima fez sua estreia como diretor no aclamado 'Ultraman: Rising' da Netflix, e possui em seu currículo direção de episódios de 'DuckTales', 'American Dad!' e 'Gravity Falls'. A sinopse oficial de 'Ultraman Rising' descreve: 'Quando Tóquio é ameaçada por crescentes ataques de monstros, um atleta famoso retorna relutantemente para casa para assumir o papel de Ultraman, descobrindo que seu maior desafio não é lutar contra monstros gigantes... é criar um'. Detalhes adicionais sobre os projetos futuros de Aoshima com a Warner Bros. ainda não foram divulgados. Na recente CinemaCon, a Warner Bros. anunciou que estão a caminho novos filmes dos 'Flintstones' e 'Looney Tunes', além de um filme de 'Cat in the Hat', que contará com Bill Hader como voz principal. As datas de lançamento para estes filmes ainda não foram anunciadas.

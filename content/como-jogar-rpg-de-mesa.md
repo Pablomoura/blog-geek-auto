@@ -16,6 +16,10 @@ tags:
   - criação de personagens
   - dicas de rpg
 author: Ana Luiza
+resumo: >-
+  Descubra o fascinante mundo do RPG de mesa, onde a imaginação ganha vida
+  através de histórias e aventuras colaborativas. Um guia para iniciantes
+  desbravarem...
 ---
 
 Se você já ouviu falar de **RPG de mesa**, mas acha tudo muito complexo ou “só pra nerds experientes”, relaxe! Este guia foi feito para você que quer entrar nesse mundo incrível de histórias, personagens, aventuras, monstros e **muita imaginação**.

@@ -16,6 +16,9 @@ tags:
   - bring her back
   - horror explícito
 author: Luana Souza
+resumo: >-
+  A24 lança trailer de 'Bring Her Back', novo filme de horror dos Philippou. Com
+  Sally Hawkins, o filme envolve rituais sinistros e estreia nos EUA em 2025.
 ---
 
 O estúdio A24 revelou o primeiro trailer completo de 'Bring Her Back', o mais recente projeto de horror dirigido por Danny e Michael Philippou, conhecidos pelo filme 'Fale Comigo'. O trailer promete uma experiência repleta de tensão, sons perturbadores e violência explícita.

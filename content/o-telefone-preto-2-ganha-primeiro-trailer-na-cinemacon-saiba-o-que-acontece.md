@@ -21,6 +21,10 @@ keywords: >-
   Universal Pictures, sequência
 data: '2025-04-03T00:33:21.984Z'
 author: Luana Souza
+resumo: >-
+  O trailer de 'O Telefone Preto 2' estreia na CinemaCon 2025, prometendo uma
+  nova e sinistra franquia. Tensão e mistério cercam a sequência, com Ethan
+  Hawke.
 ---
 
 O aguardado teaser trailer de 'O Telefone Preto 2' foi revelado durante a CinemaCon 2025, capturando a atenção do público com uma sequência de cenas intensas e misteriosas. O evento contou com a presença de figuras notáveis como Madeleine McGraw e o produtor Jason Blum, que apresentaram o trailer aos entusiasmados participantes.

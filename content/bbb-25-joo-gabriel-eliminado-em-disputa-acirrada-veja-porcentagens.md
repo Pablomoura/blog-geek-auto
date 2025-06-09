@@ -21,6 +21,10 @@ keywords: >-
   Strada, Tadeu Schmidt, sistema de votação, Rodrigo Dourado
 data: '2025-04-09T02:22:14.142Z'
 author: Ana Luiza
+resumo: >-
+  No 14º Paredão do BBB 25, João Gabriel foi eliminado com 51,95% dos votos. A
+  edição de 2024 trouxe mudanças na votação e tem Tadeu Schmidt como
+  apresentador.
 ---
 
 Na emocionante noite desta terça-feira (08), o 14º Paredão do BBB 25 revelou seu resultado ao vivo, marcando a saída de João Gabriel do jogo. Ele foi eliminado com 51,95% dos votos, enquanto Diego Hypólito, que também estava em risco, recebeu 45,76% dos votos. Vitória Strada, por sua vez, obteve apenas 2,29% dos votos, permanecendo na casa.

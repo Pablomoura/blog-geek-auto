@@ -18,6 +18,10 @@ tags:
   - Jonathan Bailey
   - pôsteres
 author: Luana Souza
+resumo: >-
+  Na CinemaCon 2025, novos pôsteres de 'Jurassic World: Recomeço' revelam
+  Scarlett Johansson e Jonathan Bailey enfrentando dinossauros, prometendo
+  suspense e t...
 ---
 
 A CinemaCon 2025 foi palco para a revelação dos novos pôsteres do filme 'Jurassic World: Recomeço', que chamaram atenção pelo destaque dado a Scarlett Johansson e Jonathan Bailey. Cada um dos atores aparece em confronto com diferentes espécies de dinossauros nas artes divulgadas.

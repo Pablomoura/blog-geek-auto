@@ -16,6 +16,7 @@ tags:
   - Lex Luthor
   - DCU
   - filme do Superman
+  - especial-Superman
 keywords: >-
   James Gunn, Superman, DC Studios, Warner, David Corenswet, Rachel Brosnahan,
   Lex Luthor, DCU, filme do Superman

@@ -16,6 +16,10 @@ tags:
   - cinema
   - pôsteres
 author: Luana Souza
+resumo: >-
+  Marvel revela pôsteres de Thunderbolts, destacando anti-heróis como Agente
+  Americano e Viúva Negra. O filme estreia em maio de 2025, liderado por Julia
+  Louis...
 ---
 
 A Marvel Studios divulgou recentemente uma série de pôsteres para o aguardado filme Thunderbolts, marcando sua estreia nos cinemas em maio. Os pôsteres destacam os protagonistas, uma equipe composta por conhecidos anti-heróis do MCU. Entre eles estão John Walker/Agente Americano (Wyatt Russell), Yelena Belova/Viúva Negra (Florence Pugh), Alexei Alanovich Shostakov/Guardião Vermelho (David Harbour), Bucky Barnes/Soldado Invernal (Sebastian Stan), Fantasma (Hannah John-Kamen) e Treinadora (Olga Kurylenko).

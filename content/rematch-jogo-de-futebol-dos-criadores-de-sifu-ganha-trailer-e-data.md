@@ -1,14 +1,28 @@
 ---
-title: "Rematch | Jogo de futebol dos criadores de Sifu ganha trailer e data"
-slug: "rematch-jogo-de-futebol-dos-criadores-de-sifu-ganha-trailer-e-data"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/EFMw23F-KbA?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/tfw7OtMl9QjAbYkFwoPOW4yIv2w=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_142505.png"
-tags: ["Rematch", "Sloclap", "futebol", "jogo de luta", "PS5", "Xbox Series X", "Steam", "teste aberto"]
-keywords: "Rematch, Sloclap, futebol, jogo de luta, PS5, Xbox Series X, Steam, teste aberto"
-author: "Pablo Moura"
-data: "2025-04-10T18:14:48.920Z"
+title: Rematch | Jogo de futebol dos criadores de Sifu ganha trailer e data
+slug: rematch-jogo-de-futebol-dos-criadores-de-sifu-ganha-trailer-e-data
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/EFMw23F-KbA?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/tfw7OtMl9QjAbYkFwoPOW4yIv2w=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_142505.png
+tags:
+  - Rematch
+  - Sloclap
+  - futebol
+  - jogo de luta
+  - PS5
+  - Xbox Series X
+  - Steam
+  - teste aberto
+keywords: >-
+  Rematch, Sloclap, futebol, jogo de luta, PS5, Xbox Series X, Steam, teste
+  aberto
+author: Pablo Moura
+data: '2025-04-10T18:14:48.920Z'
+resumo: >-
+  Rematch, novo jogo da Sloclap, mistura futebol, ação e luta. Lançamento em
+  19/06 para PS5, Xbox Series e PC. Teste aberto em 18/04 para inscritos!
 ---
 
 O aguardado jogo Rematch, que combina elementos de futebol, ação e luta, tem lançamento marcado para 19 de junho, disponível para PS5, Xbox Series S, Xbox Series X e PC através da plataforma Steam. A produtora Sloclap também anunciou que haverá um teste aberto do jogo no dia 18 de abril, oportunidade para os interessados que se registrarem através do site oficial do jogo.

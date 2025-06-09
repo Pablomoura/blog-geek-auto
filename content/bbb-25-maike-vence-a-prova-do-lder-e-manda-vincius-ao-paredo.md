@@ -16,6 +16,10 @@ tags:
   - paredão
   - reality show
 author: Ana Luiza
+resumo: >-
+  Maike é o novo líder do BBB 25! Em prova acirrada, ele se destacou e garantiu
+  sua permanência na casa. Vinícius e João Gabriel enfrentam o Paredão. Assista
+  a...
 ---
 
 O Big Brother Brasil 25 tem um novo líder! Na disputa pela liderança nesta quinta-feira, Maike se destacou entre os 12 participantes e garantiu sua segurança na casa por mais uma semana.

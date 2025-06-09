@@ -21,6 +21,9 @@ keywords: >-
   Vingadores X-Men, MCU, retorno elenco X-Men, Saga do Multiverso, estreia 2026
 data: '2025-04-08T21:12:00.921Z'
 author: Ana Luiza
+resumo: >-
+  Novo vídeo do set de Vingadores: Doomsday revela crateras misteriosas. Rumores
+  envolvem fusão de realidades e confronto épico entre Vingadores e X-Men.
 ---
 
 Um novo vídeo do set de filmagens de Vingadores: Doomsday foi divulgado recentemente, exibindo várias crateras notáveis em um único cenário. A natureza exata do local ainda é incerta, porém specula-se que as crateras sejam resultado de quedas de meteoros ou objetos espaciais, indicando uma possível incursão, onde duas realidades se fundem em destruição.

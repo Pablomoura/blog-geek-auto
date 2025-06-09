@@ -19,6 +19,9 @@ tags:
   - imagens oficiais
   - dia da mentira
 author: Pablo Moura
+resumo: >-
+  A oitava temporada de Rick and Morty estreia em 25 de maio nos EUA, sem Justin
+  Roiland. Novas imagens oficiais e especial anime prometem novidades.
 ---
 
 A oitava temporada de Rick and Morty, série de grande sucesso, acaba de ter sua data de estreia anunciada, juntamente com a divulgação de duas novas imagens oficiais. Estas foram apresentadas durante um especial do Adult Swim no último 31 de março, que celebrou o Dia da Mentira com um segmento em live-action de cenas icônicas da série.

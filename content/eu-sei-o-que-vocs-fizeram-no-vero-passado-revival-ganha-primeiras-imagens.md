@@ -21,6 +21,9 @@ keywords: >-
   original
 data: '2025-04-08T17:12:01.092Z'
 author: Luana Souza
+resumo: >-
+  Imagens do revival de 'Eu Sei O Que Vocês Fizeram no Verão Passado' são
+  reveladas, reacendendo o suspense. Freddie Prinze Jr. deve retornar ao elenco.
 ---
 
 As primeiras imagens do aguardado revival de 'Eu Sei O Que Vocês Fizeram no Verão Passado' foram divulgadas, trazendo um novo olhar sobre a renovação da clássica história de suspense e terror. As imagens foram publicadas pela revista People, capturando a atenção dos fãs da série original.

@@ -21,6 +21,10 @@ keywords: >-
   genética, Crispr, conservação da biodiversidade, ciência avançada
 data: '2025-04-08T13:22:24.457Z'
 author: Pablo Moura
+resumo: >-
+  A Colossal Biosciences reviveu o lobo terrível, extinto há 10 mil anos, com o
+  nascimento de três filhotes usando DNA antigo, marcando um feito histórico na
+  c...
 ---
 
 A Colossal Biosciences fez um anúncio significativo nesta segunda-feira (07), marcando um feito histórico na ciência: a desextinção do lobo terrível, ou dire wolf em inglês, uma espécie extinta há mais de 10 mil anos. Esta espécie ganhou notoriedade através da série de televisão Game of Thrones, onde simbolizava a família Stark, com os lobos sendo presentes marcantes na trama.

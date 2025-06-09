@@ -1,14 +1,30 @@
 ---
-title: "Screamboat | Mickey surge como antagonista em nova cena do filme de terror"
-slug: "screamboat-mickey-ataca-em-cena-exclusiva-do-filme-de-terror-veja"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/05AeI14HCxMvKIDKOt6sEr54tHg=/987x0/smart/uploads/conteudo/fotos/scream_RbQrVeF.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/3uerrr_PW_gFjOBFv6yx4pFMjWo=/480x360/smart/extras/conteudos/scream_hfLu1Wl.jpg"
-tags: ["Screamboat", "Mickey Mouse", "filme de terror", "comédia", "Steamboat Willie", "estreia de filme", "assassinatos", "terror e comédia"]
-keywords: "Screamboat, Mickey Mouse, filme de terror, comédia, Steamboat Willie, estreia de filme, assassinatos, terror e comédia"
-author: "Luana Souza"
-data: "2025-04-10T13:22:23.969Z"
+title: Screamboat | Mickey surge como antagonista em nova cena do filme de terror
+slug: screamboat-mickey-ataca-em-cena-exclusiva-do-filme-de-terror-veja
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/05AeI14HCxMvKIDKOt6sEr54tHg=/987x0/smart/uploads/conteudo/fotos/scream_RbQrVeF.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/3uerrr_PW_gFjOBFv6yx4pFMjWo=/480x360/smart/extras/conteudos/scream_hfLu1Wl.jpg
+tags:
+  - Screamboat
+  - Mickey Mouse
+  - filme de terror
+  - comédia
+  - Steamboat Willie
+  - estreia de filme
+  - assassinatos
+  - terror e comédia
+keywords: >-
+  Screamboat, Mickey Mouse, filme de terror, comédia, Steamboat Willie, estreia
+  de filme, assassinatos, terror e comédia
+author: Luana Souza
+data: '2025-04-10T13:22:23.969Z'
+resumo: >-
+  Screamboat: Terror a Bordo' revela um Mickey Mouse aterrorizante em cena
+  inédita. Estreia em 1º de maio, misturando terror e comédia à clássica
+  animação.
 ---
 
 A Imagem Filmes lançou hoje, dia 10, uma cena inédita do filme 'Screamboat: Terror a Bordo', que apresenta uma versão horripilante do icônico Mickey Mouse, inspirado no clássico 'Steamboat Willie' de 1928. O filme é uma produção dos mesmos realizadores de 'Terrifier 2' e promete trazer uma mistura de terror e comédia aos espectadores.

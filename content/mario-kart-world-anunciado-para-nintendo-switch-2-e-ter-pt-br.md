@@ -15,6 +15,9 @@ tags:
   - lançamento
   - suporte pt-br
 author: Pablo Moura
+resumo: >-
+  Nintendo revela o Nintendo Switch 2 e Mario Kart World, com mundo aberto e
+  suporte em português. Lançamento global em 5 de junho por US$ 450. Confira!
 ---
 
 Em um evento recente, a Nintendo anunciou o lançamento do Nintendo Switch 2, juntamente com uma série de novos jogos, destacando-se o Mario Kart World, exclusivo para essa nova plataforma. O jogo, que introduz o conceito de mundo aberto na franquia Mario Kart, também será lançado com suporte ao idioma português brasileiro, ampliando sua acessibilidade no Brasil.

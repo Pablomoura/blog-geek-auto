@@ -20,6 +20,9 @@ keywords: >-
   episódio Post Mortem, retorno de personagem, análise de incêndio
 data: '2025-04-03T20:11:01.183Z'
 author: Ana Luiza
+resumo: >-
+  Chicago Fire' surpreende fãs com o retorno de Wallace Boden no episódio 18 da
+  13ª temporada. Transmitido em 16/04, promete emoção e flashbacks intensos.
 ---
 
 A série de sucesso 'Chicago Fire' traz uma surpresa para os fãs no 18º episódio de sua 13ª temporada, com o retorno do carismático Wallace Boden, interpretado por Eamonn Walker. O episódio, intitulado 'Post Mortem', será transmitido nos Estados Unidos no dia 16 de abril e promete emocionar o público com uma trama envolvente.

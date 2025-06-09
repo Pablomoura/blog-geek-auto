@@ -21,6 +21,10 @@ keywords: >-
   Brasil, Pedro Pascal, Galactus, Fase 6 do MCU
 data: '2025-04-04T15:10:26.420Z'
 author: Ana Luiza
+resumo: >-
+  Quarteto Fantástico: Primeiros Passos' revela pôster nacional com elenco
+  estelar, incluindo Pedro Pascal e Vanessa Kirby. Marvel Studios revive heróis
+  icônic...
 ---
 
 O aguardado filme 'Quarteto Fantástico: Primeiros Passos', que marca a reintrodução da icônica família de heróis no MCU, acaba de divulgar seu primeiro pôster voltado ao público brasileiro. Este é o primeiro filme do Quarteto Fantástico produzido pelo estúdio, que é frequentemente referido como 'a primeira família da Marvel' devido ao seu papel crucial no sucesso inicial dos quadrinhos.

@@ -20,6 +20,10 @@ keywords: >-
   Elle Fanning, Franquia Alien
 data: '2025-04-08T17:13:04.211Z'
 author: Pablo Moura
+resumo: >-
+  O universo de Predador se expande com 'Predador: Killer of Killers', animação
+  que estreia em junho, e 'Badlands', filme com Elle Fanning para 2025.
+  Descubra...
 ---
 
 O universo de Predador se expande com o lançamento do trailer de 'Predador: Killer of Killers'. A animação, prevista para estrear em 6 de junho nos Estados Unidos pela Hulu, ainda não tem data de lançamento confirmada no Brasil. O trailer revela uma série de caçadas protagonizadas pelo Predador em variadas épocas históricas, incluindo a era dos vikings, uma grande guerra mundial e o Japão feudal, configurando o filme como uma antologia animada que explora diferentes períodos e regiões.

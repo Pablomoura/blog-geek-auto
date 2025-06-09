@@ -19,6 +19,10 @@ tags:
   - cinema
   - especial-Superman
 author: Pablo Moura
+resumo: >-
+  Rumores indicam Bradley Cooper como Jor-El no novo filme do Superman, dirigido
+  por James Gunn. Estreia em julho com elenco estelar e personagens icônicos da
+  DC.
 ---
 
 A nova produção cinematográfica do Superman está prevista para estrear em julho nos cinemas. Rumores recentes indicam que um importante anúncio de elenco está por vir, relacionado ao personagem Jor-El, pai de Kal-El, conhecido na Terra como Clark Kent.

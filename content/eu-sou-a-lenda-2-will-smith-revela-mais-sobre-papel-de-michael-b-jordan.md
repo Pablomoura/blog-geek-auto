@@ -21,6 +21,10 @@ keywords: >-
   alternativo, filme pós-apocalíptico, vampiros, bilheteria
 data: '2025-04-08T20:11:51.907Z'
 author: Luana Souza
+resumo: >-
+  Will Smith revela detalhes sobre 'Eu Sou a Lenda 2', destacando a participação
+  crucial de Michael B. Jordan. Sequência seguirá o final alternativo do
+  primeir...
 ---
 
 O aguardado filme 'Eu Sou a Lenda 2' está avançando em seu desenvolvimento, e Will Smith compartilhou novos detalhes sobre o envolvimento de Michael B. Jordan no projeto durante uma entrevista com o site Gazette Sci-Fi. Smith esclareceu que Jordan não interpretará seu filho, mas terá um papel crucial na sequência. 'Inicialmente, consideramos um prólogo, mas Akiva Goldsman sugeriu adotarmos uma nova abordagem baseada no final alternativo do primeiro filme, onde meu personagem sobrevive. Neste contexto, o personagem de Jordan liderará uma nova base humana', explicou Smith.

@@ -21,6 +21,9 @@ keywords: >-
   eliminação BBB, reality show, TV Globo
 data: '2025-04-09T03:29:00.245Z'
 author: Luana Souza
+resumo: >-
+  No BBB 25, Guilherme conquista a liderança ao vencer prova de frases e forma
+  Paredão com Maike, Renata e Vinícius. A eliminação será na quinta-feira.
 ---
 
 O Big Brother Brasil 25 viu a ascensão de um novo líder e a formação imediata de um Paredão nesta terça-feira. Com oito competidores ainda no jogo, a disputa pela liderança foi intensa. Guilherme emergiu como o vencedor da prova, garantindo sua segurança na casa por mais uma semana.

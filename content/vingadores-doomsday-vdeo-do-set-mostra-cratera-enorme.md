@@ -20,6 +20,10 @@ keywords: >-
   MCU, elenco estelar, Saga do Multiverso
 data: '2025-04-05T16:12:46.873Z'
 author: Luana Souza
+resumo: >-
+  Vingadores: Doomsday' avança na Inglaterra com cratera crucial revelada.
+  Doutor Destino, vivido por Robert Downey Jr., lidera trama multiversal. Elenco
+  estel...
 ---
 
 A produção de 'Vingadores: Doomsday' avança intensamente na Inglaterra. Um vídeo divulgado na madrugada deste sábado (5) pelo canal UnBoxPHD no YouTube, exibiu uma enorme cratera, cenário que promete ser crucial na trama do filme. O enredo do filme permanece envolto em mistério, contudo, especula-se que envolverá uma complexa trama multiversal sob a influência do Doutor Destino, interpretado por Robert Downey Jr. Nas histórias em quadrinhos, o personagem é conhecido por sua maestria em artes místicas e tecnologia avançada.

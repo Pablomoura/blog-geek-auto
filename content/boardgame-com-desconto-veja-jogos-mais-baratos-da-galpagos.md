@@ -16,6 +16,9 @@ tags:
   - jogos de tabuleiro
   - omelete
 author: Ana Luiza
+resumo: >-
+  A Galápagos Jogos oferece descontos especiais na Amazon em boardgames como
+  Unlock!, Eleven e mais. Aproveite até 20% de desconto em jogos populares!
 ---
 
 A Galápagos Jogos lançou uma promoção especial na Amazon, oferecendo descontos significativos em uma ampla seleção de seus boardgames. Confira alguns dos destaques escolhidos para você aproveitar: 

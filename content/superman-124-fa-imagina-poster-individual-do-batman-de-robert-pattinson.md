@@ -11,14 +11,15 @@ thumb: >-
 tags:
   - 'Batman'
   - 'Robert Pattinson'
-  - 'pster'
+  - 'poster'
   - 'Superman'
   - 'crossover'
   - 'DCU'
   - 'Matt Reeves'
   - 'James Gunn'
   - 'universo cinematogrfico DC'
-  - 'fs'
+  - 'fas'
+  - especial-Superman
 keywords: >-
   Batman, Robert Pattinson, pôster, Superman, crossover, DCU, Matt Reeves, James Gunn, universo cinematográfico DC, fãs
 author: Luana Souza

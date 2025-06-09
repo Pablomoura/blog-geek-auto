@@ -16,6 +16,10 @@ tags:
   - futuro dos jogos
   - alain tascan
 author: Pablo Moura
+resumo: >-
+  Alain Tascan, da Netflix, discute o futuro dos games longe dos consoles, com
+  foco em flexibilidade. Em 2024, a gigante encerrou seu estúdio AAA Equipe
+  Azul.
 ---
 
 Em recente entrevista ao The Gaming Business, Alain Tascan, presidente de jogos da Netflix, expressou suas visões sobre o futuro da indústria de jogos. Segundo Tascan, o foco não está mais nos consoles como conhecemos. 'Começamos a olhar para um futuro onde a plataforma é irrelevante. As crianças de hoje, entre oito e dez anos, realmente sonham com um PlayStation 6? Acredito que não', comentou ele.

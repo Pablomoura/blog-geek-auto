@@ -23,6 +23,10 @@ keywords: >-
   iOS, Android, lançamento de jogos
 data: '2025-04-08T16:14:13.215Z'
 author: Ana Luiza
+resumo: >-
+  Sonic ganha nova aventura em maio com jogo da Rovio, criadora de Angry Birds.
+  Pré-registre-se no iOS e Android para ser o primeiro a jogar e ganhar bônus
+  exc...
 ---
 
 A espera dos fãs de Sonic por novas aventuras está prestes a terminar com o lançamento de um novo jogo em maio. Desenvolvido pela Rovio Entertainment, conhecida pelo icônico Angry Birds, o jogo promete trazer uma experiência vibrante e dinâmica com o amado ouriço azul. Os usuários de dispositivos iOS e Android já podem realizar o pré-registro para serem os primeiros a jogar assim que for lançado.

@@ -18,6 +18,7 @@ tags:
   - Mulher-Gavião
   - HBO Max
   - estreia Superman 2025
+  - especial-Superman
 keywords: >-
   Superman, Lex Luthor, Nicholas Hoult, David Corenswet, Rachel Brosnahan, James
   Gunn, DCU, filme de Superman, Lanterna Verde, Mulher-Gavião, HBO Max, estreia

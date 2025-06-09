@@ -21,6 +21,10 @@ keywords: >-
   Sicheng, Dai Mo, franquia bilionária, filmes de mistério
 data: '2025-04-03T16:11:50.669Z'
 author: Pablo Moura
+resumo: >-
+  Detetive Chinatown: O Mistério de 1900 estreia no Brasil em 15 de maio. O
+  filme, sucesso de bilheteria na China, traz elenco estrelado e direção de Chen
+  Sich...
 ---
 
 A aguardada continuação da série cinematográfica Detetive Chinatown, intitulada Detetive Chinatown: O Mistério de 1900, finalmente tem sua data de estreia confirmada no Brasil. O filme, que é parte de uma franquia de enorme sucesso na China, já acumulou quase US$ 2 bilhões em receitas de bilheteria globalmente. A distribuição no Brasil ficará por conta da Sato Company, com previsão de lançamento para o primeiro semestre deste ano.

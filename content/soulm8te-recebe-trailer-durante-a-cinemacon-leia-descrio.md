@@ -21,6 +21,10 @@ keywords: >-
   doméstico, Kate Dolan, Rafael Jordan
 data: '2025-04-03T00:31:11.475Z'
 author: Pablo Moura
+resumo: >-
+  Na CinemaCon, a Universal revelou o trailer de SOULM8TE, um filme de terror
+  sobre uma robô ciumenta que se torna mortal. Estreia prevista para 2 de
+  janeiro d...
 ---
 
 A Universal apresentou, em seu painel na CinemaCon nesta quarta-feira (02), o primeiro trailer de SOULM8TE, um novo filme de terror que introduz uma robô chamada Sarah. 

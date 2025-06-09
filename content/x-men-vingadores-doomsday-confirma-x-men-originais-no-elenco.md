@@ -16,6 +16,10 @@ tags:
   - elenco original
   - crossover
 author: Pablo Moura
+resumo: >-
+  A Marvel anuncia o elenco de 'Vingadores: Doomsday', trazendo de volta
+  estrelas dos X-Men como Patrick Stewart e Ian McKellen. Channing Tatum estreia
+  como Ga...
 ---
 
 A Marvel revelou, durante uma transmissão online, o elenco de 'Vingadores: Doomsday', confirmando a participação de importantes membros originais dos X-Men. A apresentação começou com a possível volta de Kelsey Grammer como o Fera. Logo após, foi anunciado o retorno de Patrick Stewart no papel do Professor Xavier, seguido pela confirmação de Ian McKellen como Magneto, marcando sua estreia no Universo Cinematográfico Marvel (MCU).

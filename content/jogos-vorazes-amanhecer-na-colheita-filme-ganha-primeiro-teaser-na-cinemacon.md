@@ -18,6 +18,10 @@ tags:
   - franquia
   - símbolos icônicos
 author: Pablo Moura
+resumo: >-
+  Jogos Vorazes: Amanhecer na Colheita' ganha teaser em animação CG na CinemaCon
+  2025, explorando a juventude de Haymitch. Filme estreia em 20 de novembro de
+  2...
 ---
 
 A franquia 'Jogos Vorazes' expande seu universo com o lançamento do primeiro teaser de 'Jogos Vorazes: Amanhecer na Colheita' na CinemaCon 2025. O teaser, criado inteiramente em animação CG, destaca o tordo e a serpente, símbolos icônicos do mais recente livro da série, que foca nos anos de juventude de Haymitch Abernathy.

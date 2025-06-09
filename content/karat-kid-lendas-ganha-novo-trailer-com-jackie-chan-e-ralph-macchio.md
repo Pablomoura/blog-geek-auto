@@ -19,6 +19,9 @@ tags:
   - cinemacon 2025
   - sony
 author: Luana Souza
+resumo: >-
+  Karate Kid: Lendas' revela seu novo trailer na CinemaCon 2025, destacando a
+  química entre Jackie Chan e Ralph Macchio. Estréia digital em 1º de abril.
 ---
 
 O aguardado filme 'Karate Kid: Lendas' teve seu novo trailer divulgado durante a CinemaCon 2025, no painel da Sony. A prévia, que será lançada online na próxima terça-feira, 1º de abril, oferece um vislumbre mais detalhado da trama e da química entre Jackie Chan e Ralph Macchio, figuras centrais da produção.

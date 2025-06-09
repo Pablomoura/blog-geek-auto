@@ -18,6 +18,7 @@ tags:
   - 'estreia Superman'
   - 'filme do Superman'
   - 'DC Studios'
+  - especial-Superman
 keywords: >-
   Superman 2025, James Gunn, Planeta Diário, DC Comics, Cineplex, balde de pipoca temático, estreia Superman, filme do Superman, DC Studios
 author: Pablo Moura

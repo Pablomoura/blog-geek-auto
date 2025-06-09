@@ -20,6 +20,9 @@ keywords: >-
   Universal Studios, sequência de filme, estreia 2025
 data: '2025-04-03T15:10:22.387Z'
 author: Pablo Moura
+resumo: >-
+  Trailer de M3GAN 2.0 é revelado na CinemaCon! A sequência promete mais terror
+  com M3GAN enfrentando a versão militar Amelia. Estreia em 27 de junho de 2025.
 ---
 
 A sequência do aclamado filme de terror de 2022, M3GAN 2.0, acaba de ter seu primeiro trailer revelado durante um painel da Universal Studios na CinemaCon. O vídeo já está disponível para visualização online.

@@ -21,6 +21,10 @@ keywords: >-
   Classics, ditadura militar, Melhor Filme Internacional, campanha Oscar
 data: '2025-04-07T14:10:53.189Z'
 author: Pablo Moura
+resumo: >-
+  Walter Salles revela bastidores da vitória histórica de 'Ainda Estou Aqui' no
+  Oscar 2025, destacando a essência do cinema sobre campanhas e o apoio da Sony
+  C...
 ---
 
 Em uma reveladora entrevista ao Deadline, o renomado cineasta brasileiro Walter Salles discutiu a trajetória e a estratégia por trás da campanha do filme 'Ainda Estou Aqui' no Oscar de 2025, evento que marcou uma vitória histórica para o cinema brasileiro com a conquista de sua primeira estatueta.

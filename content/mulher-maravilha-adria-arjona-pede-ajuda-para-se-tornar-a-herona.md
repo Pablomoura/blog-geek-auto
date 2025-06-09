@@ -17,6 +17,10 @@ tags:
   - dc comics
   - cinema
 author: Luana Souza
+resumo: >-
+  Adria Arjona revela desejo de ser a nova Mulher-Maravilha e convida fãs a
+  apoiarem a ideia. Com filmes em pausa, DCU aguarda planos de Gunn para a
+  heroína.
 ---
 
 Em recente aparição na estreia de 'Um Filme Minecraft', a atriz Adria Arjona revelou seu interesse em interpretar a icônica Mulher-Maravilha nos cinemas. Ela até incentivou os fãs a entrarem em contato com James Gunn, um dos responsáveis pelo universo cinematográfico da DC na Warner Bros, para apoiá-la nessa jornada.

@@ -19,6 +19,7 @@ tags:
   - 'David Corenswet'
   - 'filme'
   - 'marketing cinematogrfico'
+  - especial-Superman
 keywords: >-
   Superman, DC Studios, balde de pipoca, visão de calor, James Gunn, lançamento, Lex Luthor, David Corenswet, filme, marketing cinematográfico
 author: Luana Souza

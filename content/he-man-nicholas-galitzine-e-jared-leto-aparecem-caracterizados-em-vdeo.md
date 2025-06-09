@@ -23,6 +23,9 @@ keywords: >-
   Universo, adaptação cinematográfica, Eternia
 data: '2025-04-03T05:12:27.589Z'
 author: Ana Luiza
+resumo: >-
+  Na CinemaCon, cenas do live-action de He-Man revelam Jared Leto como Esqueleto
+  e Nicholas Galitzine como He-Man, prometendo uma adaptação fiel e empolgante.
 ---
 
 Durante a recente CinemaCon, foram divulgadas as primeiras cenas do aguardado live-action de He-Man e os Mestres do Universo. A prévia apresentou um vislumbre empolgante dos personagens icônicos, que foram meticulosamente recriados para a tela grande. Os fãs da franquia ficarão entusiasmados ao ver Jared Leto na pele do vilão Esqueleto, enquanto Nicholas Galitzine encarna o heróico He-Man. As reações destacam a incrível semelhança dos atores com os personagens originais do desenho animado, além do uso extensivo de maquiagem e efeitos práticos para trazer o mundo de Eternia à vida.

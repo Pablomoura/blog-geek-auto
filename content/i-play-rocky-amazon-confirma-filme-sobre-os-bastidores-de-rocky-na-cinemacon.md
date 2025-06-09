@@ -21,6 +21,9 @@ keywords: >-
   Farrelly, filme biográfico, bastidores de cinema, Oscar
 data: '2025-04-03T05:11:19.373Z'
 author: Luana Souza
+resumo: >-
+  Na CinemaCon 2025, a Amazon anunciou 'I Play Rocky', filme de Peter Farrelly
+  sobre a jornada de Stallone na criação de Rocky Balboa. Detalhes em breve!
 ---
 
 Durante a CinemaCon 2025, a Amazon revelou detalhes sobre a produção do filme 'I Play Rocky', dirigido por Peter Farrelly (Green Book), que promete desvendar os desafios enfrentados por Sylvester Stallone na criação de seu personagem icônico, Rocky Balboa, e os bastidores do filme 'Rocky, um Lutador'. A apresentação ocorreu no painel do Amazon MGM Studios, onde foi exibida a logo oficial do filme. 

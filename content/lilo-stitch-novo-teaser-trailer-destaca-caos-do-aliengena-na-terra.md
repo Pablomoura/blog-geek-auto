@@ -21,6 +21,10 @@ keywords: >-
   animação, adaptação live-action
 data: '2025-04-04T19:10:24.458Z'
 author: Luana Souza
+resumo: >-
+  A Disney lança o teaser da versão live-action de 'Lilo e Stitch', destacando o
+  caos trazido por Stitch à vida de Lilo. Estreia nos cinemas com elenco
+  estelar.
 ---
 
 A aguardada versão live-action de 'Lilo e Stitch', que recria a clássica animação da Disney, acaba de lançar seu novo teaser trailer. O vídeo ressalta o tumulto que o alienígena Stitch promete trazer após desembarcar na vida da jovem havaiana Lilo. O filme, com direção de Dean Fleischer Camp, conhecido por 'Marcel, a Concha de Sapatos', traz de volta Chris Sanders, a voz original de Stitch, confirmando a fidelidade ao personagem que encantou o público na animação original.

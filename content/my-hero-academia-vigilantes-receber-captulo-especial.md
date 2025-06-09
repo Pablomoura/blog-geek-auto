@@ -1,14 +1,28 @@
 ---
-title: "My Hero Academia: Vigilantes receberá capítulo especial"
-slug: "my-hero-academia-vigilantes-receber-captulo-especial"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/4mlJqLYKpt8?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/vFmlKx3EX_jcXcdinxSftaGRP4k=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T202332.140.png"
-tags: ["My Hero Academia", "Vigilantes", "mangá", "Shonen Jump Plus", "Koichi Haimawari", "Knuckleduster", "anime", "Crunchyroll"]
-keywords: "My Hero Academia, Vigilantes, mangá, Shonen Jump Plus, Koichi Haimawari, Knuckleduster, anime, Crunchyroll"
-author: "Luana Souza"
-data: "2025-04-11T00:44:48.808Z"
+title: 'My Hero Academia: Vigilantes receberá capítulo especial'
+slug: my-hero-academia-vigilantes-receber-captulo-especial
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/4mlJqLYKpt8?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/vFmlKx3EX_jcXcdinxSftaGRP4k=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T202332.140.png
+tags:
+  - My Hero Academia
+  - Vigilantes
+  - mangá
+  - Shonen Jump Plus
+  - Koichi Haimawari
+  - Knuckleduster
+  - anime
+  - Crunchyroll
+keywords: >-
+  My Hero Academia, Vigilantes, mangá, Shonen Jump Plus, Koichi Haimawari,
+  Knuckleduster, anime, Crunchyroll
+author: Luana Souza
+data: '2025-04-11T00:44:48.808Z'
+resumo: >-
+  My Hero Academia: Vigilantes retorna com capítulo especial em abril. Criadores
+  originais estão envolvidos. One-shot sobre Natsuya Todoroki também é esperado!
 ---
 
 Após três anos do término de My Hero Academia: Vigilantes em 2022, foi anunciado que o mangá receberá um capítulo especial. Este novo capítulo, que ainda não teve seus detalhes revelados, contará com a participação dos criadores originais, Hideyuki Furuhashi e Betten Court. O lançamento está previsto para o dia 15 de abril na plataforma Shonen Jump Plus.

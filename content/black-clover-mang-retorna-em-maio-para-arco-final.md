@@ -20,6 +20,10 @@ keywords: >-
   Crunchyroll
 data: '2025-04-08T18:14:04.693Z'
 author: Pablo Moura
+resumo: >-
+  Black Clover' entra na reta final com Asta e Yuno enfrentando Lucius Zogratis.
+  Capítulos finais começam em 2 de maio, prometendo batalhas épicas e um novo
+  Re...
 ---
 
 O popular mangá 'Black Clover' está prestes a entrar em sua fase derradeira com o lançamento dos capítulos finais, marcados para começar em 2 de maio. Os protagonistas Asta e Yuno se encontram no clímax de sua batalha contra Lucius Zogratis, sinalizando que o desfecho da série se aproxima.

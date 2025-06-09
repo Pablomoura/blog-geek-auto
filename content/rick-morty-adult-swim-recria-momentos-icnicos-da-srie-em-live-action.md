@@ -18,6 +18,10 @@ tags:
   - série de tv
   - momentos icônicos
 author: Luana Souza
+resumo: >-
+  Adult Swim revela estreia da 8ª temporada de 'Rick and Morty' para 25 de maio
+  nos EUA e lança especial live-action. Série segue sem Justin Roiland após
+  polêm...
 ---
 
 Adult Swim anunciou a data de estreia da 8ª temporada de 'Rick and Morty' e aproveitou o 1º de abril para surpreender os fãs com um especial de live-action. O especial, com duração de 26 minutos, recriou alguns dos momentos icônicos da série e já está disponível para visualização.

@@ -21,6 +21,10 @@ keywords: >-
   estreia 2027, elenco de estrelas, nova ameaça global, direção de Grant Sputore
 data: '2025-04-06T22:10:03.587Z'
 author: Pablo Moura
+resumo: >-
+  Godzilla e Kong 3' já está sendo filmado na Austrália! Com direção de Grant
+  Sputore, o elenco traz novidades e promete uma nova ameaça global. Estreia:
+  26/03...
 ---
 
 As filmagens do aguardado filme 'Godzilla e Kong 3' já estão em andamento na Austrália, conforme reportado pelo 7 News Australia. A equipe foi avistada durante o evento de lançamento da segunda temporada da série 'The Last of Us'.

@@ -21,6 +21,9 @@ keywords: >-
   super-heróis, streaming, Marvel
 data: '2025-04-05T20:09:33.591Z'
 author: Ana Luiza
+resumo: >-
+  Disney+ revela pôster de 'Demolidor: Renascido', destacando o vilão Muse. A
+  série, que estreou em 2025, traz Charlie Cox de volta como Demolidor.
 ---
 
 O serviço de streaming Disney+ divulgou neste sábado (5) um intrigante pôster da série 'Demolidor: Renascido', dando destaque ao vilão Muse. A arte mostra o antagonista tanto com quanto sem a máscara de vigilante que ele utilizou no episódio mais recente.

@@ -1,14 +1,32 @@
 ---
-title: "Quarteto Fantástico | Moss-Bachrach destaca desafios e colaboração em grande equipe de produção"
-slug: "quarteto-fantstico-moss-bachrach-diz-que-nunca-trabalhou-com-time-to-grande"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/7svDcJjAYpn5zvZRgZAOu7e_JrY=/987x0/smart/uploads/conteudo/fotos/quarteto-fantastico-o-coisa.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/nVD3MT-wDYj0E_mdVOP_j0n3Gog=/480x360/smart/extras/conteudos/fantastic-four-first-steps-coisa.webp"
-tags: ["Quarteto Fantástico", "Marvel Studios", "Ebon Moss-Bachrach", "efeitos visuais", "MCU Fase 6", "elenco estrelado", "produção cinematográfica", "retrofuturismo"]
-keywords: "Quarteto Fantástico, Marvel Studios, Ebon Moss-Bachrach, efeitos visuais, MCU Fase 6, elenco estrelado, produção cinematográfica, retrofuturismo"
-author: "Luana Souza"
-data: "2025-04-10T18:15:18.160Z"
+title: >-
+  Quarteto Fantástico | Moss-Bachrach destaca desafios e colaboração em grande
+  equipe de produção
+slug: quarteto-fantstico-moss-bachrach-diz-que-nunca-trabalhou-com-time-to-grande
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/7svDcJjAYpn5zvZRgZAOu7e_JrY=/987x0/smart/uploads/conteudo/fotos/quarteto-fantastico-o-coisa.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/nVD3MT-wDYj0E_mdVOP_j0n3Gog=/480x360/smart/extras/conteudos/fantastic-four-first-steps-coisa.webp
+tags:
+  - Quarteto Fantástico
+  - Marvel Studios
+  - Ebon Moss-Bachrach
+  - efeitos visuais
+  - MCU Fase 6
+  - elenco estrelado
+  - produção cinematográfica
+  - retrofuturismo
+keywords: >-
+  Quarteto Fantástico, Marvel Studios, Ebon Moss-Bachrach, efeitos visuais, MCU
+  Fase 6, elenco estrelado, produção cinematográfica, retrofuturismo
+author: Luana Souza
+data: '2025-04-10T18:15:18.160Z'
+resumo: >-
+  Ebon Moss-Bachrach, de 'O Urso', fala sobre a grandiosidade do projeto
+  'Quarteto Fantástico: Primeiros Passos'. Conheça os bastidores e o elenco
+  estelar da M...
 ---
 
 A transição de Ebon Moss-Bachrach, conhecido por seu papel em 'O Urso', para 'Quarteto Fantástico: Primeiros Passos', o próximo grande lançamento da Marvel, marcou uma mudança significativa na escala de produção para o ator. Em uma recente entrevista à Entertainment Weekly, Moss-Bachrach, que interpreta Ben Grimm, o Coisa, expressou seu espanto com a magnitude do projeto. 'Nunca colaborei com tantas pessoas antes. A equipe inclui literalmente centenas, entre animadores e designers. Foi um verdadeiro esforço coletivo,' disse ele.

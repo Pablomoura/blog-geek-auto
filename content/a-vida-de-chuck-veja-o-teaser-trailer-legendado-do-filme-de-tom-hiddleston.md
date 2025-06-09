@@ -20,6 +20,9 @@ keywords: >-
   adaptação literária, Festival de Toronto, elenco estelar
 data: '2025-04-08T18:12:37.464Z'
 author: Ana Luiza
+resumo: >-
+  A Vida de Chuck', dirigido por Mike Flanagan e estrelado por Tom Hiddleston,
+  lança teaser intrigante. Adaptação de Stephen King estreia em junho nos EUA.
 ---
 
 O aguardado filme 'A Vida de Chuck', dirigido e roteirizado por Mike Flanagan e estrelado por Tom Hiddleston, acaba de lançar seu primeiro teaser trailer legendado. O vídeo, breve em sua duração, oferece um vislumbre de algumas cenas, estabelecendo imediatamente o clima de drama emocionante que permeia a produção.

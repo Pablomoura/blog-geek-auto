@@ -15,6 +15,10 @@ tags:
   - apresentação ao vivo
   - festival de música
 author: Pablo Moura
+resumo: >-
+  Marina Lima enfrentou falhas técnicas no Lollapalooza 2025, pedindo ajustes no
+  som da guitarra. O show, com Pabllo Vittar, destacou-se no Palco Samsung
+  Galaxy.
 ---
 
 A cantora Marina Lima enfrentou dificuldades técnicas durante sua apresentação no Lollapalooza 2025, ocorrida neste sábado, 29 de março. Visivelmente insatisfeita, Marina fez um apelo à equipe técnica para ajustar o volume da guitarra, que segundo ela, estava muito baixo. 'Bando de homem lerdo, aumenta essa porra. Isso aqui é um festival', exclamou a cantora em meio ao show.

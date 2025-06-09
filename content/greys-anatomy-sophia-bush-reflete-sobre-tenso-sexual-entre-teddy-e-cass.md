@@ -23,6 +23,10 @@ keywords: >-
   nova temporada, personagens multifacetados, Sony Channel
 data: '2025-04-04T14:11:14.421Z'
 author: Luana Souza
+resumo: >-
+  Grey's Anatomy volta com tensão entre Teddy e Cass, enquanto Sophia Bush
+  discute questões de meia-idade. Novos personagens e dramas prometem prender o
+  público.
 ---
 
 O seriado Grey's Anatomy, conhecido por explorar as complexidades das relações humanas no contexto hospitalar, traz novamente à tona uma intensa tensão sexual entre os personagens Teddy e Cass. Sophia Bush, a atriz que dá vida a Cass, compartilhou suas reflexões sobre a dinâmica entre os dois personagens em uma entrevista ao Deadline. Bush expressou que muitas mulheres na meia-idade podem se identificar com a jornada de Cass, questionando as escolhas de vida conforme os padrões sociais. Ela comentou sobre a importância de discutir tais questões em uma plataforma como Grey's Anatomy, onde as narrativas permitem uma exploração mais profunda das emoções e desejos dos personagens.

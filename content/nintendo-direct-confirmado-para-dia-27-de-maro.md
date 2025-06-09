@@ -15,6 +15,9 @@ tags:
   - evento de jogos
   - transmissão ao vivo
 author: Luana Souza
+resumo: >-
+  Nintendo Direct acontece em 27 de março, às 11h (horário de Brasília), focando
+  em novos jogos para o Nintendo Switch, sem novidades sobre o Switch 2.
 ---
 
 A Nintendo anunciou que realizará um evento Nintendo Direct na próxima quinta-feira, 27 de março. A transmissão está marcada para começar às 11h, horário de Brasília, e terá duração de aproximadamente trinta minutos. 

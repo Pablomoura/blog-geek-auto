@@ -23,6 +23,9 @@ keywords: >-
   pandemia, Darius Khondji, Pedro Pascal
 data: '2025-04-05T22:08:40.134Z'
 author: Luana Souza
+resumo: >-
+  Eddington', dirigido por Ari Aster e estrelado por Joaquin Phoenix, estreia em
+  Cannes. Com elenco de peso, o faroeste político promete intriga e tensão.
 ---
 
 O filme 'Eddington', dirigido por Ari Aster (conhecido por 'Hereditário' e 'Midsommar'), parece estar pronto para estrear no próximo Festival de Cannes. A informação foi confirmada por Darius Khondji, diretor de fotografia do filme, em entrevista ao Deadline. Khondji, que está retornando a Nova York para finalizar a coloração do filme, mencionou que ouviu sobre a inclusão do filme em Cannes há cerca de duas semanas.

@@ -16,6 +16,10 @@ tags:
   - merchandise oficial
   - omelete
 author: Luana Souza
+resumo: >-
+  Descubra os produtos oficiais do Lollapalooza Brasil 2025, com preços variados
+  e localização estratégica entre os palcos principais no Autódromo de
+  Interlagos.
 ---
 
 A Lolla Store, loja oficial do Lollapalooza Brasil 2025 com produtos disponíveis e seus respectivos preços.

@@ -19,6 +19,7 @@ tags:
   - 'estreia internacional'
   - 'Universo DC'
   - 'filme Superman 2025'
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, David Corenswet, Rachel Brosnahan, DC Studios, direitos autorais, Joe Shuster, estreia internacional, Universo DC, filme Superman 2025
 author: Luana Souza

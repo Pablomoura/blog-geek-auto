@@ -1,86 +1,92 @@
 {
-  "data": "2025-06-07",
+  "data": "2025-06-09",
   "games": [
     {
-      "slug": "007-mads-mikkelsen-volta-a-viver-vilo-em-misso-de-hitman",
-      "titulo": "Mads Mikkelsen Revive Vilão de 007 em Missão Especial de Hitman: World of Assassination",
-      "thumb": "/uploads/007-mads-mikkelsen-volta-a-viver-vilo-em-misso-de-hitman-thumb.png",
-      "categoria": "GAMES"
+      "slug": "final-fantasy-xvi-ja-esta-disponivel-no-xbox",
+      "titulo": "Final Fantasy XVI Chega ao Xbox: Uma Nova Era para Fãs da Franquia",
+      "thumb": "/uploads/final-fantasy-xvi-ja-esta-disponivel-no-xbox-preview.jpg",
+      "categoria": "Games"
     },
     {
-      "slug": "resident-evil-9-requiem-chega-em-2026-confira",
-      "titulo": "Resident Evil 9: Requiem será lançado em 2026; saiba todos os detalhes",
-      "thumb": "/uploads/resident-evil-9-requiem-chega-em-2026-confira-thumb.png",
-      "categoria": "GAMES"
+      "slug": "mario-kart-world-tem-um-segredo-para-fas-de-mario-64",
+      "titulo": "Mario Kart World Revela Easter Egg Surpreendente Inspirado em Super Mario 64",
+      "thumb": "/uploads/mario-kart-world-tem-um-segredo-para-fas-de-mario-64-thumb.jpg",
+      "categoria": "Games"
     },
     {
-      "slug": "wuchang-fallen-feathers-confira-novo-trailer-do-game-de-ao",
-      "titulo": "Wuchang: Fallen Feathers Revela Trailer Inédito e Data de Lançamento",
-      "thumb": "/uploads/wuchang-fallen-feathers-confira-novo-trailer-do-game-de-ao-thumb.png",
-      "categoria": "GAMES"
+      "slug": "ea-sports-fc-26-124-possivel-data-de-lancamento-vaza-on-line",
+      "titulo": "EA Sports FC 26: Data de Lançamento Sugerida Vaza na Web com Detalhes Surpreendentes",
+      "thumb": "/uploads/ea-sports-fc-26-124-possivel-data-de-lancamento-vaza-on-line-thumb.webp",
+      "categoria": "Games"
     }
   ],
   "series-e-tv": [
     {
-      "slug": "superman-124-fas-notam-mudanca-no-visual-do-filme",
-      "titulo": "Superman: Alterações no Visual do Filme Surpreendem Fãs da DC",
-      "thumb": "/uploads/superman-124-fas-notam-mudanca-no-visual-do-filme-thumb.webp",
-      "categoria": "Séries e TV"
+      "slug": "por-que-bushman-nao-apareceu-na-serie-do-cavaleiro-da-lua",
+      "titulo": "Cavaleiro da Lua: Razões Por Trás da Ausência de Bushman na Série",
+      "thumb": "/uploads/por-que-bushman-nao-apareceu-na-serie-do-cavaleiro-da-lua-thumb.jpg",
+      "categoria": "SÉRIES E TV"
     },
     {
-      "slug": "sem-superman-surgem-detalhes-dos-planos-da-dc-studios-na-sdcc-2025",
-      "titulo": "DC Studios na SDCC 2025: Foco em Pacificador enquanto Superman fica de fora",
-      "thumb": "/uploads/sem-superman-surgem-detalhes-dos-planos-da-dc-studios-na-sdcc-2025-thumb.jpg",
-      "categoria": "Séries e TV"
+      "slug": "cara-de-barro-124-escalacao-do-protagonista-e-reduzida-a-tres-atores",
+      "titulo": "Cara-de-Barro: Três Atores Finais na Disputa pelo Papel Principal no Filme da DC",
+      "thumb": "/uploads/cara-de-barro-124-escalacao-do-protagonista-e-reduzida-a-tres-atores-thumb.webp",
+      "categoria": "SÉRIES E TV"
     },
     {
-      "slug": "justica-autoriza-lancamento-internacional-de-superman-apos-nova-tentativa-de-bloqueio",
-      "titulo": "Justiça Americana Libera Estreia Internacional de 'Superman' em Meio a Disputa de Direitos Autorais",
-      "thumb": "/uploads/justica-autoriza-lancamento-internacional-de-superman-apos-nova-tentativa-de-bloqueio-thumb.webp",
-      "categoria": "Séries e TV"
+      "slug": "corao-de-ferro-discute-tica-do-crime-em-novo-clipe-da-srie-da-marvel",
+      "titulo": "Coração de Ferro Explora Conflitos Morais em Novo Clipe da Marvel",
+      "thumb": "/uploads/corao-de-ferro-discute-tica-do-crime-em-novo-clipe-da-srie-da-marvel-thumb.jpg",
+      "categoria": "SÉRIES E TV"
     }
   ],
   "mangas-e-animes": [
     {
-      "slug": "anime-friends-2025-anuncia-presena-do-diretor-shinichiro-watanabe",
-      "titulo": "Shinichiro Watanabe Confirmado no Anime Friends 2025: Uma Imersão no Mundo do Diretor de Cowboy Bebop",
-      "thumb": "/uploads/anime-friends-2025-anuncia-presena-do-diretor-shinichiro-watanabe-thumb.png",
+      "slug": "anime-friends-2025-anuncia-nami-tamaki-voz-da-abertura-de-gundam-seed",
+      "titulo": "Nami Tamaki Confirmada no Anime Friends 2025: Voz de Gundam Seed se Apresenta em São Paulo",
+      "thumb": "/uploads/anime-friends-2025-anuncia-nami-tamaki-voz-da-abertura-de-gundam-seed-thumb.jpg",
       "categoria": "MANGÁS E ANIMES"
     },
     {
-      "slug": "gachiakuta-anime-ganha-trailer-e-data-e-ter-pr-estreia-no-anime-friends",
-      "titulo": "Gachiakuta: Anime Revela Trailer e Estreia em Julho com Pré-Exibição no Anime Friends",
-      "thumb": "/uploads/gachiakuta-anime-ganha-trailer-e-data-e-ter-pr-estreia-no-anime-friends-thumb.png",
-      "categoria": "MANGÁS E ANIMES"
+      "slug": "demon-slayer-the-hinokami-chronicles-2-revela-mecanicas-de-combate-em-novo-trailer",
+      "titulo": "Demon Slayer: The Hinokami Chronicles 2: Novas Mecânicas de Combate Reveladas em Trailer Inédito",
+      "thumb": "/uploads/demon-slayer-the-hinokami-chronicles-2-revela-mecanicas-de-combate-em-novo-trailer-thumb.webp",
+      "categoria": "Mangás e Animes"
     },
     {
-      "slug": "one-punch-man-revela-inimigos-macabros-do-terceiro-ano-confira",
-      "titulo": "One Punch Man: Novos Inimigos Aterrorizantes da 3ª Temporada São Revelados",
-      "thumb": "/uploads/one-punch-man-revela-inimigos-macabros-do-terceiro-ano-confira-thumb.png",
-      "categoria": "MANGÁS E ANIMES"
+      "slug": "shinichiro-watanabe-diretor-de-cowboy-bebop-estara-presente-no-anime-friends-2025",
+      "titulo": "Shinichiro Watanabe Confirmado no Anime Friends 2025: Encontro Imperdível para Fãs de Animação",
+      "thumb": "/uploads/shinichiro-watanabe-diretor-de-cowboy-bebop-estara-presente-no-anime-friends-2025-thumb.webp",
+      "categoria": "Mangás e Animes"
     }
   ],
   "filmes": [
     {
-      "slug": "thunderbolts-124-arte-conceitual-revela-visual-alternativo-da-treinadora",
-      "titulo": "Thunderbolts: Arte Conceitual Revela Visual Inédito e Sombrio da Treinadora",
-      "thumb": "/uploads/thunderbolts-124-arte-conceitual-revela-visual-alternativo-da-treinadora-thumb.webp",
-      "categoria": "Filmes"
-    },
-    {
-      "slug": "street-fighter-novo-filme-escala-o-cantor-country-orville-peck",
-      "titulo": "Orville Peck Estreia no Cinema em Novo Filme de Street Fighter",
-      "thumb": "/uploads/street-fighter-novo-filme-escala-o-cantor-country-orville-peck-thumb.jpg",
+      "slug": "he-man-nicholas-galitzine-d-prvia-do-visual-do-heri-em-vdeo",
+      "titulo": "Nicholas Galitzine surpreende com visual de He-Man em nova prévia",
+      "thumb": "/uploads/he-man-nicholas-galitzine-d-prvia-do-visual-do-heri-em-vdeo-thumb.jpg",
       "categoria": "FILMES"
     },
     {
-      "slug": "street-fighter-124-ator-de-vega-no-live-action-e-confirmado",
-      "titulo": "Orville Peck será Vega no Novo Filme de Street Fighter: Elenco Surpreende",
-      "thumb": "/uploads/street-fighter-124-ator-de-vega-no-live-action-e-confirmado-thumb.webp",
-      "categoria": "Filmes"
+      "slug": "bridget-jones-rene-zellweger-quer-fazer-mais-filmes-da-franquia",
+      "titulo": "Renée Zellweger Deseja Novo Filme para a Franquia Bridget Jones",
+      "thumb": "/uploads/bridget-jones-rene-zellweger-quer-fazer-mais-filmes-da-franquia-thumb.jpg",
+      "categoria": "FILMES"
+    },
+    {
+      "slug": "harry-potter-tom-felton-o-draco-diz-no-ligar-para-transfobia-de-jk-rowling",
+      "titulo": "Tom Felton se Pronuncia sobre Polêmicas de J.K. Rowling: 'Não me Atento Muito'",
+      "thumb": "/uploads/harry-potter-tom-felton-o-draco-diz-no-ligar-para-transfobia-de-jk-rowling-thumb.jpg",
+      "categoria": "FILMES"
     }
   ],
   "board-games": [
+    {
+      "slug": "break-on-through-the-four-doors-and-welcome-to-the-jungo",
+      "titulo": "Novidades Emocionantes da Happy Camper: Descubra 'The Four Doors' e 'Jungo'",
+      "thumb": "https://cf.geekdo-images.com/zFIEf3IRg7SnCpaWRXv9Rw__imagepage/img/rb4o7WlHzWBUz3X3-HSk-ZkSPfA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8918873.jpg",
+      "categoria": "Board Games"
+    },
     {
       "slug": "designer-diary-engine-thieves",
       "titulo": "Explorando os Bastidores de 'Engine Thieves': Uma Jornada de Criação e História",
@@ -91,12 +97,6 @@
       "slug": "visit-the-underworld-in-clank-catacombs-welcome-new-faces-in-wild-gardens-and-explore-joe-manganiello039s-crypt-of-perpetual-darkness",
       "titulo": "Novidades em Board Games: Expansões de Wingspan, Clank! Catacombs e HeroQuest",
       "thumb": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg",
-      "categoria": "Board Games"
-    },
-    {
-      "slug": "search-for-relics-in-the-four-doors-and-welcome-to-the-jungo-we-got-fun-and-games",
-      "titulo": "Descubra Relíquias em The Four Doors e Experimente Jungo: Novidades da Happy Camper",
-      "thumb": "https://cf.geekdo-images.com/zFIEf3IRg7SnCpaWRXv9Rw__imagepage/img/rb4o7WlHzWBUz3X3-HSk-ZkSPfA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8918873.jpg",
       "categoria": "Board Games"
     }
   ],
@@ -142,6 +142,12 @@
   ],
   "musica": [
     {
+      "slug": "morre-arthur-hamilton-autor-de-cry-me-a-river-aos-98-anos",
+      "titulo": "Arthur Hamilton, Lendário Compositor de 'Cry Me a River', Morre aos 98 Anos",
+      "thumb": "/uploads/morre-arthur-hamilton-autor-de-cry-me-a-river-aos-98-anos-thumb.jpg",
+      "categoria": "MÚSICA"
+    },
+    {
       "slug": "sabrina-carpenter-lana-clipe-da-nova-msica-manchild-assista-agora",
       "titulo": "Sabrina Carpenter Lança Clipe de 'Manchild'; Confira Novidades",
       "thumb": "/uploads/sabrina-carpenter-lana-clipe-da-nova-msica-manchild-assista-agora-thumb.png",
@@ -151,12 +157,6 @@
       "slug": "ed-sheeran-lana-clipe-de-sapphire-sua-nova-msica",
       "titulo": "Ed Sheeran Lança Clipe 'Sapphire' Gravado na Índia com Participação de Arijit Singh",
       "thumb": "https://cdn.ome.lt/9siOKP5DsFQdYw4Dki0ybs3mDqo=/480x360/smart/extras/conteudos/sem_titulo66.png",
-      "categoria": "MÚSICA"
-    },
-    {
-      "slug": "s-track-boa-tudo-sobre-o-maior-festival-de-eletrnica-de-so-paulo",
-      "titulo": "Festival Só Track Boa 2025: Conheça o Line-Up e Surpresas do Maior Evento de Música Eletrônica de São Paulo",
-      "thumb": "https://cdn.ome.lt/I7efouIHobwu-A5nRMp9DKNDEHk=/480x360/smart/extras/conteudos/stb.png",
       "categoria": "MÚSICA"
     }
   ]

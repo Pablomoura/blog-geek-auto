@@ -21,6 +21,10 @@ keywords: >-
   animação, estreia em dezembro
 data: '2025-04-03T18:14:08.276Z'
 author: Pablo Moura
+resumo: >-
+  O trailer de 'Bob Esponja 4' revela uma aventura épica com Bob e Patrick
+  enfrentando o Holandês Voador, vivido por Mark Hamill. Estreia prevista para
+  dezembro!
 ---
 
 O aguardado trailer de 'Bob Esponja 4' foi finalmente revelado durante a apresentação da Paramount Pictures na CinemaCon deste ano. A prévia inicia com um pirata narrando a história de uma maldição que só pode ser quebrada ao encontrar a alma mais pura e inocente. Logo após, vemos Bob Esponja despertando, ainda de cueca, e proclamando que, agora como adulto, será visto de maneira diferente.

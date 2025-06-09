@@ -23,6 +23,9 @@ keywords: >-
   trailer, kung fu, karatê
 data: '2025-04-04T20:11:08.581Z'
 author: Luana Souza
+resumo: >-
+  Karate Kid: Lendas' revela teaser empolgante com Jackie Chan e Ralph Macchio
+  treinando Ben Wang. A ação une kung fu e karatê em uma trama emocionante.
 ---
 
 O universo de 'Karate Kid' se expande com o novo filme 'Karate Kid: Lendas', que acaba de divulgar um empolgante teaser trailer. Nele, vemos Jackie Chan e Ralph Macchio orientando o jovem Ben Wang nos estilos de kung fu e karatê. O trailer promete muita ação e emoção, conforme os mestres unem forças para treinar o novo prodígio.

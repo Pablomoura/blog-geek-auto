@@ -19,6 +19,10 @@ tags:
   - greta gerwig
   - adaptação cinematográfica
 author: Luana Souza
+resumo: >-
+  Rumores indicam Meryl Streep como Aslan e Charli XCX como Jadis em nova
+  adaptação de 'Nárnia' por Greta Gerwig. Estreia prevista para novembro de
+  2026.
 ---
 
 Um rumor recente agitou os fãs de 'As Crônicas de Nárnia'. De acordo com o NexusPointNews, a renomada atriz Meryl Streep pode estar em conversas para assumir o papel de Aslan na nova adaptação de Greta Gerwig para a Netflix. A proposta já teria sido realizada, e discussões estão em andamento para trazer Streep para o papel do leão, figura central e mentor das crianças no mundo mágico de Nárnia, tradicionalmente retratado como uma representação de Jesus Cristo.

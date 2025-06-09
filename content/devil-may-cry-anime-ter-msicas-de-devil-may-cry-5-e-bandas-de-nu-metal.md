@@ -18,6 +18,10 @@ tags:
   - nu metal
   - devil may cry 5
 author: Ana Luiza
+resumo: >-
+  A Netflix revela a trilha do anime Devil May Cry com músicas de Devil May Cry
+  5 e bandas como Evanescence. Produzido por Adi Shankar, o anime promete ação
+  in...
 ---
 
 A Netflix anunciou oficialmente as músicas que farão parte da primeira temporada do aguardado anime de Devil May Cry. A trilha sonora incluirá faixas icônicas do jogo Devil May Cry 5, como 'Devil Trigger' e 'Bury the Light'.

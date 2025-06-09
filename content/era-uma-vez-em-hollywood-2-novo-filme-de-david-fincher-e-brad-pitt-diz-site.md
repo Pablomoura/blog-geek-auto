@@ -21,6 +21,10 @@ tags:
   - quentin tarantino
   - sequência de filme
 author: Luana Souza
+resumo: >-
+  Netflix confirma sequência de 'Era Uma Vez em... Hollywood' com Brad Pitt e
+  direção de David Fincher. Quentin Tarantino assina o roteiro. Filmagens em
+  2025.
 ---
 
 A Netflix anunciou que produzirá a sequência do aclamado filme 'Era Uma Vez em... Hollywood', dirigida por David Fincher e estrelada por Brad Pitt, reprisando seu papel como Cliff Booth. Conforme divulgado pelo site The Playlist, Quentin Tarantino é responsável pelo roteiro da nova obra, a qual ele desenvolveu paralelamente ao seu outro projeto em andamento, 'The Movie Critic'.

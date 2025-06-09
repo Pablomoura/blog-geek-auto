@@ -21,6 +21,9 @@ keywords: >-
   show
 data: '2025-04-05T02:58:51.776Z'
 author: Pablo Moura
+resumo: >-
+  No 13º Paredão do BBB 25, João Pedro, Daniele Hypólito e Maike enfrentam a
+  berlinda. Sem Prova Bate-Volta, a decisão fica nas mãos do público.
 ---
 
 O 13º Paredão do Big Brother Brasil 25 já está definido, marcando mais um momento crítico na competição. Após intensas atividades no modo turbo, João Pedro, Daniele Hypólito e Maike foram os indicados para a berlinda. A decisão de quem deixará o programa será no próximo domingo, dia 06. 

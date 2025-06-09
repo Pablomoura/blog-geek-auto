@@ -17,6 +17,10 @@ tags:
   - pôster oficial
   - dean fleischer camp
 author: Pablo Moura
+resumo: >-
+  O remake live-action de 'Lilo e Stitch' estreia em maio de 2025, com Chris
+  Sanders como a voz de Stitch e um elenco estelar. Veja o pôster revelado na
+  Cinema...
 ---
 
 O aguardado remake live-action de 'Lilo e Stitch' foi destaque no painel da Disney na CinemaCon, realizada nesta quinta-feira (3) às 18h30. Um imponente pôster do filme foi revelado durante o evento, gerando grande expectativa. 

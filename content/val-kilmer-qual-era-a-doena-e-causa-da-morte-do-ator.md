@@ -17,6 +17,9 @@ tags:
   - 'batman: eternamente'
   - legado cinematográfico
 author: Ana Luiza
+resumo: >-
+  Val Kilmer, estrela de Top Gun e Batman, faleceu aos 65 anos em Los Angeles.
+  Lutando contra um câncer de garganta, ele deixa um legado duradouro no cinema.
 ---
 
 Val Kilmer, consagrado ator de filmes marcantes como Top Gun e Batman: Eternamente, veio a falecer na última terça-feira, dia 1 de abril, aos 65 anos, em Los Angeles. Reconhecido por seu estilo irreverente e pela intensidade com que encarnava seus personagens, Kilmer deixa um legado notável no cinema.

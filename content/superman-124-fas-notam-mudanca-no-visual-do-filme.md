@@ -17,6 +17,7 @@ tags:
   - 'mudanas visuais'
   - 'estreia Superman'
   - 'ps-produo cinematogrfica'
+  - especial-Superman
 keywords: >-
   Superman, DC Studios, James Gunn, color grading, filme Superman 2025, mudanças visuais, estreia Superman, pós-produção cinematográfica
 author: Luana Souza

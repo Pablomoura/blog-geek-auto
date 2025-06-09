@@ -20,6 +20,10 @@ keywords: >-
   Variations
 data: '2025-04-04T16:12:45.405Z'
 author: Pablo Moura
+resumo: >-
+  Ed Sheeran lança o single 'Azizam' com clipe filmado nos EUA e Ipswich. A
+  faixa integra o futuro álbum 'Play'. Conheça mais sobre essa nova obra
+  musical!
 ---
 
 Ed Sheeran, renomado cantor e compositor britânico, acaba de enriquecer a cena musical com o lançamento de seu mais recente single, intitulado 'Azizam'. O artista também divulgou o videoclipe da canção, que foi filmado entre os Estados Unidos e Ipswich. Segundo Sheeran, a gravação ocorreu enquanto ele promovia a faixa e quis capturar a atmosfera vibrante que experimentou durante esse período. Ele expressou gratidão a Liam Pethick, o diretor do vídeo, e aos fãs que participaram da jornada, destacando os corações rosas que se tornaram um símbolo nas apresentações ao redor do mundo.

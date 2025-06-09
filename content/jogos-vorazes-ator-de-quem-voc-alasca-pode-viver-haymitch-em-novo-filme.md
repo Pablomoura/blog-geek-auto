@@ -23,6 +23,10 @@ keywords: >-
   Billy Ray, Panem, Massacre Quaternário
 data: '2025-04-04T20:10:37.322Z'
 author: Luana Souza
+resumo: >-
+  Na CinemaCon 2025, o teaser de 'Jogos Vorazes: Amanhecer na Colheita' foi
+  revelado. Charlie Plummer pode interpretar Haymitch; direção de Francis
+  Lawrence.
 ---
 
 Durante a CinemaCon 2025, foi revelado o primeiro teaser trailer de 'Jogos Vorazes: Amanhecer na Colheita', a mais recente adição à franquia Jogos Vorazes. No evento, também foi mencionado que a equipe de produção está em processo de seleção para o elenco deste novo filme.

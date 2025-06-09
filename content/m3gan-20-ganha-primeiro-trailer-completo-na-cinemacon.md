@@ -21,6 +21,10 @@ keywords: >-
   sequência de filme, Universal Studios, ação e terror
 data: '2025-04-03T00:31:44.377Z'
 author: Luana Souza
+resumo: >-
+  Universal Studios surpreende na CinemaCon com o trailer de 'M3GAN 2.0'. A
+  boneca robótica retorna mais poderosa, enfrentando uma nova vilã em uma trama
+  eletr...
 ---
 
 Durante o evento CinemaCon, a Universal Studios revelou o primeiro trailer completo de 'M3GAN 2.0', a sequência do aclamado filme de terror de 2022. O lançamento, muito aguardado, ocorre após o sucesso estrondoso do primeiro filme. O trailer foi introduzido após uma performance breve de uma orquestra, e abre com a boneca M3GAN observando pela janela enquanto corpos são removidos pela polícia. Ela declara seu compromisso contínuo em proteger sua família, enquanto sua consciência opera dentro de um robô.

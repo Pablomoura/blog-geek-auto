@@ -1,14 +1,29 @@
 ---
-title: "Lilo e Stitch | Nova imagem revela Stitch adorável no filme live-action"
-slug: "lilo-e-stitch-stitch-fofo-surge-em-nova-imagem-do-filme"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/HR57a4tK_WM?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/t8ynLZYVR_f-pCb61hIu8lAm83I=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_171014.png"
-tags: ["Lilo e Stitch", "live-action", "Disney", "filme 2025", "Stitch fofo", "estreia nos cinemas", "adaptações Disney", "bilheteria"]
-keywords: "Lilo e Stitch, live-action, Disney, filme 2025, Stitch fofo, estreia nos cinemas, adaptações Disney, bilheteria"
-author: "Luana Souza"
-data: "2025-04-10T21:10:51.821Z"
+title: Lilo e Stitch | Nova imagem revela Stitch adorável no filme live-action
+slug: lilo-e-stitch-stitch-fofo-surge-em-nova-imagem-do-filme
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/HR57a4tK_WM?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/t8ynLZYVR_f-pCb61hIu8lAm83I=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_171014.png
+tags:
+  - Lilo e Stitch
+  - live-action
+  - Disney
+  - filme 2025
+  - Stitch fofo
+  - estreia nos cinemas
+  - adaptações Disney
+  - bilheteria
+keywords: >-
+  Lilo e Stitch, live-action, Disney, filme 2025, Stitch fofo, estreia nos
+  cinemas, adaptações Disney, bilheteria
+author: Luana Souza
+data: '2025-04-10T21:10:51.821Z'
+resumo: >-
+  O filme live-action 'Lilo e Stitch' divulga imagem encantadora de Stitch com
+  óculos. Dirigido por Dean Fleischer Camp, estreia nos cinemas promete encantar
+  fãs.
 ---
 
 O aguardado filme live-action 'Lilo e Stitch', que recria a adorada animação da Disney, divulgou uma nova imagem que captura a essência encantadora do personagem Stitch. Na foto, ele aparece usando óculos, adicionando um toque ainda mais fofo ao seu visual já amado pelos fãs. A imagem foi compartilhada pelo site Collider.

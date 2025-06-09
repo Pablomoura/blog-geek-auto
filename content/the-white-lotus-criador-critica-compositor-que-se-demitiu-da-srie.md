@@ -23,6 +23,10 @@ keywords: >-
   compositor, série de TV, HBO, drama
 data: '2025-04-08T17:10:51.847Z'
 author: Ana Luiza
+resumo: >-
+  A tensão entre Mike White e Cristobal Tapia de Veer agita os bastidores de
+  'The White Lotus'. Apesar das críticas, a série segue firme rumo à terceira
+  tempor...
 ---
 
 A controvérsia envolvendo Mike White, criador de 'The White Lotus', e o compositor Cristobal Tapia de Veer ganhou novos capítulos. Após Tapia de Veer renunciar ao seu papel na série e expressar críticas públicas a White, o criador da série não hesitou em responder. Em uma recente entrevista ao Howard Stern Show, conforme relatado pela Variety, White expressou seu desconcerto com a situação: 'Eu honestamente não sei o que aconteceu, exceto que agora estou lendo suas entrevistas porque ele decidiu fazer uma campanha de relações públicas sobre ele sair da série. Eu não acho que ele me respeitou.' White detalhou que as interações entre eles raramente incluíam confrontos diretos, limitando-se a trocas de emails relacionados ao trabalho, nas quais ele enviava notas e sugestões para Tapia de Veer.

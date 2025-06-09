@@ -21,6 +21,10 @@ keywords: >-
   Jared Leto, Travis Knight
 data: '2025-04-09T00:43:47.074Z'
 author: Pablo Moura
+resumo: >-
+  Imagens do set de "Mestres do Universo" revelam detalhes de Esqueleto e
+  Maligna, além de um possível Homem-Fera em CGI, prometendo um épico retorno a
+  Eternia.
 ---
 
 As gravações do filme Mestres do Universo, que reimagina o icônico desenho He-Man e os Mestres do Universo, revelaram novas imagens diretamente do set. Nessas imagens, surgem em destaque personagens como Esqueleto e Maligna, além de figuras que parecem ser capangas do notório antagonista de Eternia. 

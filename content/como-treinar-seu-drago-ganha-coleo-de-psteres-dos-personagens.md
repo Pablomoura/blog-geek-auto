@@ -16,6 +16,10 @@ tags:
   - mason thames
   - gerard butler
 author: Ana Luiza
+resumo: >-
+  A DreamWorks lança pôsteres impressionantes do live-action de 'Como Treinar
+  Seu Dragão'. Estreia em 5 de junho no Brasil, com elenco de estrelas e direção
+  de...
 ---
 
 A DreamWorks revelou recentemente uma nova coleção de pôsteres para a versão live-action de 'Como Treinar Seu Dragão'. Os pôsteres destacam visuais impressionantes dos principais personagens.

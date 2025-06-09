@@ -17,6 +17,10 @@ tags:
   - novela brasileira
   - capítulo segundo
 author: Pablo Moura
+resumo: >-
+  Vale Tudo' estreia com 31 pontos de audiência no Rio. No próximo episódio,
+  Raquel busca respostas sobre a filha Maria de Fátima, que aplica golpes no
+  Rio.
 ---
 
 A TV Globo celebrou a boa recepção do episódio inaugural de 'Vale Tudo', que alcançou 31 pontos de audiência no Rio de Janeiro e superou o desempenho do antecessor, 'Mania de Você', em São Paulo. Apesar de não serem resultados extraordinários, a emissora mantém expectativas positivas para a adesão do público nos próximos capítulos.

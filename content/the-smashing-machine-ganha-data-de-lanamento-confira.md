@@ -18,6 +18,10 @@ tags:
   - Mark Kerr
 data: '2025-04-02T23:09:33.993Z'
 author: Ana Luiza
+resumo: >-
+  The Smashing Machine', com Dwayne Johnson e direção de Benny Safdie, estreia
+  nos EUA em 3/10 e no Brasil em 16/10. O filme explora a vida de Mark Kerr no
+  MMA.
 ---
 
 O aguardado filme 'The Smashing Machine', com Dwayne Johnson no papel principal e direção de Benny Safdie, conhecido por 'Joias Brutas', já tem data marcada para chegar aos cinemas americanos: 3 de outubro. A distribuição no Brasil ficará por conta da Diamond, que anunciou o lançamento nacional para 16 de outubro, duas semanas após a estreia nos Estados Unidos.

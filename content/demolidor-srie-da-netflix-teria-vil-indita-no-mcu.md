@@ -18,6 +18,10 @@ tags:
   - série cancelada
 data: '2025-04-02T22:49:17.197Z'
 author: Pablo Moura
+resumo: >-
+  Erik Oleson revela planos cancelados de Demolidor na Netflix: Mary Tyfoid
+  seria a vilã central na 4ª temporada. Ele celebra retorno de colegas na nova
+  série...
 ---
 
 Em uma reveladora entrevista ao The Wrap, Erik Oleson, showrunner de Demolidor da Netflix, compartilhou os planos que tinha para a série após a terceira temporada, que foram interrompidos pelo cancelamento em 2018. Oleson expressou que a quarta temporada apresentaria uma narrativa distinta, introduzindo Mary Tyfoid como a vilã central, antes de retornar ao enredo envolvendo o Mercenário na quinta temporada. 'A quarta temporada que eu planejei era bem diferente. Seria uma história com a Mary Tyfoid. Eu estava indo em uma direção diferente. E depois eu voltaria para a trama com o Mercenário na quinta temporada', explicou Oleson.

@@ -21,6 +21,10 @@ tags:
   - streaming
   - série policial
 author: Luana Souza
+resumo: >-
+  Paramount+ revela cartazes da nova temporada de Criminal Minds: Evolution, que
+  estreia em 8 de maio. FBI e Elias Voit unem forças para caçar o assassino
+  Gold...
 ---
 
 O serviço de streaming Paramount+ divulgou recentemente os cartazes dos personagens principais para a nova temporada de Criminal Minds: Evolution. Os fãs da série podem conferir as novas artes abaixo.

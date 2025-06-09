@@ -16,6 +16,9 @@ tags:
   - modo exclusivo
   - 'sinners: survive the night'
 author: Ana Luiza
+resumo: >-
+  O modo Sinners: Survive the Night chega ao Fortnite em 28 de abril, trazendo
+  vampiros e sobrevivência inspirados no filme 'Pecadores', de Ryan Coogler.
 ---
 
 O filme 'Pecadores', dirigido por Ryan Coogler e estrelado por Michael B. Jordan, terá um modo especial no popular jogo Fortnite. Segundo a Variety, o modo será chamado de Sinners: Survive the Night. 

@@ -16,6 +16,10 @@ tags:
   - dc comics
   - especial-Superman
 author: Luana Souza
+resumo: >-
+  Nova camisa infantil revela arte oficial do próximo filme de Superman,
+  estrelado por David Corenswet. Com estreia em 2025, o filme integra o novo
+  universo DC.
 ---
 
 Uma nova camisa infantil lançada no Canadá revela arte oficial do próximo filme de Superman, protagonizado por David Corenswet. Embora a arte não apresente uma nova fotografia do herói, ela exibe um desenho estilizado que parece ser obra de Jorge Jimenez, renomado artista dos quadrinhos da DC Comics.

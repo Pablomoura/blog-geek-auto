@@ -19,6 +19,10 @@ tags:
   - cinemacon
   - shannon tindle
 author: Luana Souza
+resumo: >-
+  Lionsgate expande o universo John Wick com um prelúdio animado dirigido por
+  Shannon Tindle, focando na missão que libertou Wick. Fique atento a
+  atualizações!
 ---
 
 A Lionsgate revelou na CinemaCon que está expandindo o universo de John Wick com um novo filme animado. Este prelúdio, ainda sem título, será dirigido por Shannon Tindle, conhecido por seu trabalho em 'Ultraman: Rising'. O filme vai retratar eventos antes do primeiro 'John Wick', focando na Tarefa Impossível que definiu o destino do protagonista.

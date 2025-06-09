@@ -19,6 +19,10 @@ tags:
   - vivi
   - livro ilustrado
 author: Pablo Moura
+resumo: >-
+  A Square Enix celebra 25 anos de Final Fantasy IX com um site especial, itens
+  promocionais e um livro ilustrado, reacendendo rumores sobre um possível
+  remake.
 ---
 
 Em comemoração ao 25º aniversário de Final Fantasy IX, a Square Enix lançou um site dedicado ao evento, além de anunciar itens promocionais e um novo livro ilustrado. O livro, intitulado 'Vivi and Grandpa on Day of Departure' ('Vivi e o Vovô no Dia da Partida'), explora os dias que antecedem a jornada de Vivi para Alexandria através de belas ilustrações. 

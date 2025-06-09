@@ -15,6 +15,10 @@ tags:
   - indústria cinematográfica
   - cinepop
 author: Pablo Moura
+resumo: >-
+  A Universal revelou um novo pôster de 'Jurassic World: Recomeço' na CinemaCon,
+  destacando personagens inéditos e resgatando o espírito do clássico de
+  Spielberg.
 ---
 
 A Universal apresentou um impactante novo pôster de 'Jurassic World: Recomeço' durante a CinemaCon, neste domingo (30). O evento, que reúne os principais nomes da indústria cinematográfica, foi palco para a revelação da arte que decorou o chão da feira, capturada pela equipe do Cinepop.

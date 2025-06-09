@@ -16,6 +16,10 @@ tags:
   - g.t. karber
   - legendary television
 author: Ana Luiza
+resumo: >-
+  Amazon MGM Studios e Legendary Television adaptam 'Murdle' de G.T. Karber para
+  TV. Série promete mistério e rivalidade, explorando um universo estendido de
+  e...
 ---
 
 De acordo com informações do Deadline, a Amazon MGM Studios adquiriu os direitos para adaptar 'Murdle', uma série baseada nos populares livros de mistério de G.T. Karber. A adaptação será realizada em parceria com a Legendary Television.

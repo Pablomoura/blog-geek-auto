@@ -21,6 +21,10 @@ keywords: >-
   maquiagem de efeitos especiais, elenco estelar
 data: '2025-04-06T20:11:06.059Z'
 author: Luana Souza
+resumo: >-
+  Alan Cumming retorna como Noturno em 'Vingadores: Doomsday', destacando
+  avanços na maquiagem. Filme promete crise multiversal e elenco estelar da
+  Marvel.
 ---
 
 Alan Cumming, conhecido por interpretar Noturno em filmes dos X-Men nos anos 2000, discutiu seu retorno ao papel no próximo filme 'Vingadores: Doomsday' durante uma entrevista ao Collider. O ator expressou entusiasmo e admiração ao revisitar seu personagem depois de tanto tempo. 'Estou animado e impressionado', declarou Cumming. Ele revelou avanços significativos na aplicação da maquiagem, que antes levava quatro horas e meia e agora é concluída em apenas 90 minutos. 'Antes, todas as tatuagens eram feitas à mão. Agora, elas são aplicadas rapidamente no meu rosto, o que é uma grande mudança', explicou.

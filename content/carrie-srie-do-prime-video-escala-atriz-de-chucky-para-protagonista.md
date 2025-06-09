@@ -21,6 +21,10 @@ keywords: >-
   adaptação literária, poderes sobrenaturais
 data: '2025-04-09T11:09:23.727Z'
 author: Ana Luiza
+resumo: >-
+  A nova adaptação de 'Carrie, A Estranha', de Stephen King, chega ao Prime
+  Video com Summer H. Howell como protagonista e produção de Mike Flanagan.
+  Estreia a...
 ---
 
 A nova adaptação do livro 'Carrie, A Estranha', de Stephen King, encontra-se em desenvolvimento no Prime Video sob a produção executiva de Mike Flanagan. Recentemente, foi anunciado que Summer H. Howell, conhecida por seu trabalho em 'A Maldição de Chucky' (2013) e 'O Culto de Chucky' (2017), assumirá o papel da protagonista Carrie. Esta personagem já foi interpretada no passado por atrizes como Sissy Spacek e Chloë Grace Moretz.

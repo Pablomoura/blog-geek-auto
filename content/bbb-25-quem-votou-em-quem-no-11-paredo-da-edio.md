@@ -16,6 +16,9 @@ tags:
   - vinícius
   - maike
 author: Ana Luiza
+resumo: >-
+  O 11º paredão do BBB 25 foi formado com Vinícius, Delma e Eva. Sob nova
+  direção, o programa traz inovações no sistema de votação. Acompanhe ao vivo!
 ---
 
 O 11º paredão do BBB 25 foi definido na noite de sexta-feira, 28 de abril. Sob a condução de Tadeu Schmidt, os participantes participaram da formação da berlinda, que já contava com Vinícius devido ao resultado da Prova do Líder. O líder da semana, Maike, escolheu Delma para enfrentar o paredão, enquanto Eva foi a mais votada pela casa. Confira como foram os votos:

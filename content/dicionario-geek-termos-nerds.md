@@ -17,6 +17,9 @@ tags:
   - fandom
   - linguagem geek
 author: Ana Luiza
+resumo: >-
+  Descubra 50 termos essenciais do universo geek, de "canon" a "shippam". Ideal
+  para iniciantes e veteranos, com definições claras e exemplos práticos!
 ---
 
 ## 📚 Dicionário Geek: 50 Termos que Todo Nerd Precisa Conhecer

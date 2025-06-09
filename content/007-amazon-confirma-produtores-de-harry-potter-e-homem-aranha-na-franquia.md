@@ -18,6 +18,10 @@ tags:
   - homem-aranha
   - harry potter
 author: Luana Souza
+resumo: >-
+  Amy Pascal e David Heyman produzirão o novo filme de James Bond, confirmado
+  pela Amazon MGM Studios. A dupla promete honrar o legado de 007 em sua nova
+  fase.
 ---
 
 A Amazon MGM Studios anunciou oficialmente que Amy Pascal e David Heyman, conhecidos por suas produções em 'Homem-Aranha' e 'Harry Potter', serão os produtores do novo filme de James Bond. A confirmação vem após rumores sobre a participação da dupla no projeto. O acordo atual prevê a produção de apenas um filme, sem incluir possíveis derivados ou sequências, o que exigiria novas negociações.

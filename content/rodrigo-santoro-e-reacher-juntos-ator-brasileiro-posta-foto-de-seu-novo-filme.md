@@ -1,14 +1,29 @@
 ---
-title: "Rodrigo Santoro e Reacher juntos: Ator brasileiro posta foto de seu novo filme"
-slug: "rodrigo-santoro-e-reacher-juntos-ator-brasileiro-posta-foto-de-seu-novo-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/YNgGW3KURmfOhFEYSDYRbd9FcyM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T183748.203_ilGBwVb.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/hqJsjdylfxZW7MuKUi6xxrnmU3o=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T183716.313_LZ3xa7J.png"
-tags: ["Rodrigo Santoro", "Reacher", "Runner", "Alan Ritchson", "filme de ação", "suspense", "elenco estelar", "bastidores"]
-keywords: "Rodrigo Santoro, Reacher, Runner, Alan Ritchson, filme de ação, suspense, elenco estelar, bastidores"
-author: "Luana Souza"
-data: "2025-04-10T14:12:40.637Z"
+title: 'Rodrigo Santoro e Reacher juntos: Ator brasileiro posta foto de seu novo filme'
+slug: rodrigo-santoro-e-reacher-juntos-ator-brasileiro-posta-foto-de-seu-novo-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/YNgGW3KURmfOhFEYSDYRbd9FcyM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-02T183748.203_ilGBwVb.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/hqJsjdylfxZW7MuKUi6xxrnmU3o=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-02T183716.313_LZ3xa7J.png
+tags:
+  - Rodrigo Santoro
+  - Reacher
+  - Runner
+  - Alan Ritchson
+  - filme de ação
+  - suspense
+  - elenco estelar
+  - bastidores
+keywords: >-
+  Rodrigo Santoro, Reacher, Runner, Alan Ritchson, filme de ação, suspense,
+  elenco estelar, bastidores
+author: Luana Souza
+data: '2025-04-10T14:12:40.637Z'
+resumo: >-
+  Rodrigo Santoro será o vilão em 'Runner', ao lado de Alan Ritchson. O thriller
+  promete ação intensa, com direção de Scott Waugh e elenco estelar.
 ---
 
 Rodrigo Santoro, conhecido por seu papel em Westworld, acaba de revelar uma nova imagem dos bastidores de 'Runner', filme no qual desempenhará o papel de antagonista contra o protagonista Alan Ritchson, de Reacher. A imagem já está gerando expectativas entre os fãs.

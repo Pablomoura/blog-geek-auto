@@ -20,6 +20,9 @@ keywords: >-
   comerciais, melhorias no console, jogos novos, mercado japonês
 data: '2025-04-04T12:17:30.769Z'
 author: Luana Souza
+resumo: >-
+  Nintendo Switch 2 chega em 5 de junho por US$ 450. No Japão, preço reduzido de
+  US$ 330, mas com trava de região. Novas tarifas nos EUA podem elevar custos.
 ---
 
 O lançamento do Nintendo Switch 2 gerou discussões nas redes sociais devido ao seu preço inicial de US$ 450 nos Estados Unidos. Entretanto, a Nintendo optou por uma estratégia de precificação diferenciada para o mercado japonês, onde o console será oferecido por 49,980 ienes, cerca de US$ 330, representando uma economia de mais de US$ 100 em comparação com outros mercados.

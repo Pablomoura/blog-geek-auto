@@ -19,6 +19,10 @@ tags:
   - sequência de filme
   - produção cinematográfica
 author: Luana Souza
+resumo: >-
+  Michael Mann entrega à Warner Bros. o roteiro de 'Fogo Contra Fogo 2',
+  aumentando a expectativa dos fãs. A sequência do clássico de 1995 promete
+  surpreender.
 ---
 
 Michael Mann, em entrevista ao Vulture, anunciou que o roteiro da aguardada sequência 'Fogo Contra Fogo 2' foi entregue aos executivos da Warner Bros. 'Acabei o roteiro e já passei o primeiro esboço para eles', disse Mann, aumentando as expectativas para o início da produção do filme.

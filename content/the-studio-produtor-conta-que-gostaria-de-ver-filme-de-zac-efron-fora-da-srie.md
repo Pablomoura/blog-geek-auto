@@ -23,6 +23,10 @@ keywords: >-
   Blackout, cinema, série original
 data: '2025-04-09T10:12:56.181Z'
 author: Pablo Moura
+resumo: >-
+  The Studio', nova série da Apple TV+, revela os bastidores de uma produtora
+  fictícia com Seth Rogen. Destaques incluem Scorsese, Efron e Wilde. Filmes
+  podem...
 ---
 
 A nova série original da Apple TV+, 'The Studio', oferece aos espectadores uma visão intrigante do mundo interno de uma produtora de cinema fictícia, o Continental Studios, com Seth Rogen interpretando o papel principal. Entre os destaques estão as participações de renomados cineastas e atores como Martin Scorsese, Greta Lee, Sarah Polley, Ron Howard e Anthony Mackie, que aparecem nos três primeiros episódios. O quarto episódio introduz Zac Efron e Olivia Wilde, adicionando mais estrelas ao projeto.

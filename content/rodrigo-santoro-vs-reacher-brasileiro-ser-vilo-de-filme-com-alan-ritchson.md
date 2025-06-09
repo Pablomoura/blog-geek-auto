@@ -16,6 +16,10 @@ tags:
   - filme de ação
   - thriller
 author: Luana Souza
+resumo: >-
+  Thriller 'Runner' traz Alan Ritchson e Rodrigo Santoro em um intenso jogo de
+  gato e rato. Dirigido por Scott Waugh, filme promete ação e suspense de tirar
+  o...
 ---
 
 O cenário cinematográfico se prepara para receber o thriller de ação 'Runner', protagonizado por Alan Ritchson, conhecido por seu papel em 'Reacher'. A novidade é que o ator brasileiro Rodrigo Santoro foi escolhido para interpretar o antagonista do filme. O roteiro, que estava arquivado anteriormente, é uma criação de Tommy White e Miles Hubley e promete fortes emoções.

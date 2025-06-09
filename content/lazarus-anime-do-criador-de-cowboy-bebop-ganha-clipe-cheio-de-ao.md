@@ -15,6 +15,9 @@ tags:
   - adult swim
   - mappa
 author: Luana Souza
+resumo: >-
+  Adult Swim revela trailer de 'Lazarus', anime de Shinichiro Watanabe e MAPPA.
+  Ação e tensão marcam a trama de 2052, onde uma droga ameaça a humanidade.
 ---
 
 Adult Swim lançou recentemente um trailer empolgante de 'Lazarus', a mais nova criação de Shinichiro Watanabe, conhecido por 'Cowboy Bebop' e 'Samurai Champloo'. O anime, produzido pelo renomado estúdio MAPPA, contará com um total de 13 episódios.

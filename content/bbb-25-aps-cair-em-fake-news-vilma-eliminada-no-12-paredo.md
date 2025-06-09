@@ -17,6 +17,10 @@ tags:
   - fake news
   - reality show
 author: Ana Luiza
+resumo: >-
+  Vilma é eliminada do 12º Paredão do BBB 25 com 58,91% dos votos. Fake news
+  envolvendo Vinícius causou desentendimentos na casa. Acompanhe mais no
+  Globoplay!
 ---
 
 Na emocionante eliminação do 12º Paredão do BBB 25, que ocorreu ao vivo na noite desta terça-feira, Vilma foi a participante eliminada, recebendo 58,91% dos votos do público. Em segundo lugar, com uma quantidade significativa de votos, Vinícius obteve 39,69%, enquanto Diego Hypólito teve apenas 1,4% das preferências para saída.

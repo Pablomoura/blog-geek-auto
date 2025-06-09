@@ -17,6 +17,10 @@ tags:
   - ator
   - cinema
 author: Pablo Moura
+resumo: >-
+  Val Kilmer, icônico ator de 'Top Gun' e 'Batman Eternamente', faleceu aos 65
+  anos. Conhecido por seus papéis marcantes, sua morte foi confirmada pela
+  filha.
 ---
 
 Faleceu na última terça-feira, dia 1º, o renomado ator Val Kilmer, aos 65 anos, conhecido pelos seus papéis em filmes como 'Batman Eternamente', 'Fogo Contra Fogo' e 'Top Gun'. Segundo o New York Times, que obteve a confirmação através de Mercedes Kilmer, filha do ator, a causa da morte foi uma pneumonia.

@@ -20,6 +20,10 @@ keywords: >-
   trama de crime, trailer de filme
 data: '2025-04-07T16:14:58.190Z'
 author: Ana Luiza
+resumo: >-
+  A Netflix lança trailer de 'Caos e Destruição', com Tom Hardy e Forest
+  Whitaker. O filme de Gareth Evans estreia em 25 de abril, cheio de suspense e
+  ação.
 ---
 
 A Netflix lançou recentemente um empolgante trailer do seu mais novo filme, 'Caos e Destruição', protagonizado por Tom Hardy e Forest Whitaker. O trailer promete entregar uma trama repleta de suspense e ação.

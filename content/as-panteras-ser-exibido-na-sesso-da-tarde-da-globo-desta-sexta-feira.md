@@ -20,6 +20,9 @@ keywords: >-
   energia sustentável, sororidade, Elizabeth Banks
 data: '2025-04-04T07:10:20.484Z'
 author: Luana Souza
+resumo: >-
+  Não perca As Panteras na Sessão da Tarde! Sexta, 4 de novembro, às 15h25 na TV
+  Globo. Ação e sororidade em uma trama eletrizante com Kristen Stewart.
 ---
 
 A Sessão da Tarde desta sexta-feira, dia 4, apresentará o filme As Panteras, produzido em 2019. Esta versão, que tem duração de 1h40, será transmitida pela TV Globo a partir das 15h25, horário de Brasília.

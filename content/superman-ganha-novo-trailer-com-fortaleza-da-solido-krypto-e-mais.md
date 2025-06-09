@@ -22,6 +22,9 @@ keywords: >-
 data: '2025-04-04T13:23:22.918Z'
 story: true
 author: Pablo Moura
+resumo: >-
+  DC Studios revela novo trailer de Superman dirigido por James Gunn, destacando
+  Krypto e a Fortaleza da Solidão. Trailer completo será lançado em 14 de abril.
 ---
 
 O DC Studios lançou um novo trailer do filme Superman, dirigido por James Gunn, na última quinta-feira. O material, que foi exibido originalmente na CinemaCon, serve como uma prévia que será mostrada antes das sessões de Um Filme Minecraft nos cinemas. James Gunn esclareceu que, apesar do lançamento, este não é o trailer oficial, que será divulgado em breve, mais precisamente no dia 14 de abril, durante o Superman Day.

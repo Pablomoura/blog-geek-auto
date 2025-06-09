@@ -17,6 +17,7 @@ tags:
   - 'bilheteria'
   - 'franquias de cinema'
   - 'investimento cinematogrfico'
+  - especial-Superman
 keywords: >-
   Superman 2025, Warner Bros., DC Studios, James Gunn, orçamento de filmes, bilheteria, franquias de cinema, investimento cinematográfico
 author: Pablo Moura

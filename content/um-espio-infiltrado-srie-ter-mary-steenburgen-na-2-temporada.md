@@ -18,6 +18,10 @@ tags:
   - série de antologia
   - elenco
 author: Pablo Moura
+resumo: >-
+  A 2ª temporada de 'Um Espião Infiltrado' traz Mary Steenburgen junto a Ted
+  Danson, explorando um novo mistério em uma faculdade. Estreia promete
+  surpresas!
 ---
 
 A segunda temporada de 'Um Espião Infiltrado' promete novidades significativas com a inclusão de Mary Steenburgen no elenco, ao lado de seu esposo, o protagonista Ted Danson.

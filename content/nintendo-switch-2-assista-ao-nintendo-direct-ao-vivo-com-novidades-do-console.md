@@ -17,6 +17,9 @@ tags:
   - jogos nintendo
   - transmissão ao vivo
 author: Pablo Moura
+resumo: >-
+  Nintendo revela detalhes do Switch 2 em live, incluindo preço, data de
+  lançamento e jogos. Acompanhe pelo canal Omelete Z com análises ao vivo.
 ---
 
 A Nintendo está realizando uma transmissão ao vivo para apresentar oficialmente o Nintendo Switch 2, revelando detalhes cruciais como o preço, a data de lançamento, os jogos disponíveis e outras informações relevantes. 

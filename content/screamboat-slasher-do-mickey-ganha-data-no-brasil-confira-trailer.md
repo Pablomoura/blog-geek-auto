@@ -21,6 +21,10 @@ tags:
   - trailer oficial
   - imagem filmes
 author: Pablo Moura
+resumo: >-
+  Screamboat: Terror a Bordo', sátira de 'Steamboat Willie', chega aos cinemas
+  brasileiros em 1º de maio. Trailer oficial já disponível. Prepare-se para o
+  terror!
 ---
 
 A distribuidora Imagem Filmes confirmou na terça-feira (01) que o filme 'Screamboat: Terror a Bordo' estará disponível nos cinemas brasileiros a partir de 1º de maio. O anúncio veio acompanhado do lançamento do trailer oficial do filme. Até então, a data de estreia nos Estados Unidos estava marcada para a próxima quarta-feira (02).

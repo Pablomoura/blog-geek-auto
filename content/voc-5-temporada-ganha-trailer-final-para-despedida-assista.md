@@ -15,6 +15,10 @@ tags:
   - última temporada
   - penn badgley
 author: Ana Luiza
+resumo: >-
+  A série 'Você' da Netflix lança trailer da última temporada. Joe Goldberg
+  enfrenta seu passado sombrio antes do casamento. Estreia em 24 de abril. Não
+  perca!
 ---
 
 A série de suspense da Netflix, 'Você', revelou o trailer final de sua quinta e última temporada, trazendo à tona os eventos cruciais das temporadas anteriores. Assista ao emocionante desfecho no vídeo disponibilizado acima.

@@ -21,6 +21,9 @@ keywords: >-
   Patrick Schwarzenegger, HBO, elenco estelar, filmagens na Tailândia
 data: '2025-04-06T22:09:07.925Z'
 author: Luana Souza
+resumo: >-
+  The White Lotus' pode reunir personagens icônicos em futuras temporadas.
+  Patrick Schwarzenegger revela discussões sobre uma edição 'all star' da série.
 ---
 
 A aclamada série 'The White Lotus' pode estar planejando futuras temporadas com um retorno de personagens icônicos, além de Jennifer Coolidge, Natasha Rothwell e Jon Gries. Patrick Schwarzenegger, parte do elenco do terceiro ano, revelou em uma entrevista ao The Hollywood Reporter a discussão sobre uma possível temporada 'all star'. 'Eles poderiam reunir todos os babacas em um mesmo hotel', comentou Schwarzenegger, referindo-se a uma conversa com Mike White, o criador da série. 'Mike me disse um dia no set algo como 'Meu Deus, seria tão bom ter você, Jake Lacy e Theo James na mesma sala'.

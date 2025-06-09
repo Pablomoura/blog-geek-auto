@@ -22,6 +22,9 @@ keywords: >-
   cultural
 data: '2025-04-03T01:05:08.924Z'
 author: Ana Luiza
+resumo: >-
+  Netflix investe R$ 5 milhões na Cinemateca Brasileira para restaurar a Sala
+  Oscarito, modernizar instalações e promover a cultura audiovisual nacional.
 ---
 
 A Netflix revelou nesta quarta-feira (2) o estabelecimento de uma nova parceria com a Cinemateca Brasileira, prometendo um investimento de R$ 5 milhões para a restauração e modernização da sede desta renomada instituição cultural. O montante será utilizado especificamente na reestruturação da Sala Oscarito, primeiro espaço de projeção da atual sede, inaugurada em 1997. Este projeto também envolve a atualização das instalações técnicas e a modernização do sistema de climatização, objetivando a melhoria da acessibilidade e a incorporação de tecnologias mais avançadas para uma experiência otimizada.

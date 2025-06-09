@@ -21,6 +21,10 @@ tags:
   - seth rogen
   - comédia
 author: Luana Souza
+resumo: >-
+  Na CinemaCon 2025, Lionsgate revelou 'Good Fortune', comédia dirigida por Aziz
+  Ansari. Keanu Reeves brilha como um anjo atípico ao lado de Seth Rogen.
+  Estrei...
 ---
 
 Durante o evento da Lionsgate na CinemaCon 2025, foi revelado o primeiro trailer da comédia 'Good Fortune', prometendo muitas risadas e situações inusitadas. O filme, dirigido por Aziz Ansari, mostra ele mesmo no papel de um assistente desafortunado de um magnata da tecnologia, interpretado por Seth Rogen. A trama toma um rumo inesperado com a chegada do anjo Gabriel, vivido por Keanu Reeves, que traz à tona a ideia de que mudar de vida nem sempre resolve os problemas - embora, nesta comédia, acabe resolvendo.

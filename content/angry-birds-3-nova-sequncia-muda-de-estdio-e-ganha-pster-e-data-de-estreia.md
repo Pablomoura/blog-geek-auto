@@ -23,6 +23,9 @@ keywords: >-
   de animação, jogos para filmes, franquia Angry Birds
 data: '2025-04-08T18:13:04.511Z'
 author: Pablo Moura
+resumo: >-
+  Prepare-se para "Angry Birds 3"! Com elenco estelar, a sequência da animação
+  chega em 29 de janeiro de 2027 pela Paramount. Novos desafios aguardam!
 ---
 
 A franquia de filmes baseada no popular jogo Angry Birds prepara-se para lançar sua terceira sequência, trazendo de volta vozes conhecidas como Jason Sudeikis, Rachel Bloom, Josh Gad e Danny McBride. Segundo informações do The Hollywood Reporter, o novo filme não será mais produzido pela Sony Pictures, mas sim pela Paramount, com lançamento previsto para 29 de janeiro de 2027.

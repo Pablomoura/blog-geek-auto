@@ -21,6 +21,10 @@ keywords: >-
   Kazunori Ozawa, Netflix, adaptação de mangá
 data: '2025-04-04T14:10:51.000Z'
 author: Pablo Moura
+resumo: >-
+  A terceira temporada de 'One-Punch Man' revela novos antagonistas, mas
+  enfrenta desafios de produção. Fãs esperam ansiosos, enquanto a equipe lida
+  com pressão.
 ---
 
 A terceira temporada de 'One-Punch Man' apresentou recentemente artes visuais que introduzem os novos antagonistas da série. Essas novidades foram compartilhadas com entusiasmo pelos fãs, ansiosos pelos próximos capítulos do anime.

@@ -20,6 +20,9 @@ keywords: >-
   Skarsgård, série de livros, robô-assassino, streaming
 data: '2025-04-09T16:16:07.351Z'
 author: Pablo Moura
+resumo: >-
+  Apple TV+ revela o trailer de 'Diários de um Robô-Assassino', série baseada no
+  livro 'Murderbot'. Com Alexander Skarsgård, estreia dia 16 de maio.
 ---
 
 A Apple TV+ lançou o primeiro trailer oficial de 'Diários de um Robô-Assassino', adaptação da aclamada série de livros 'Murderbot' de Martha Wells. O vídeo apresenta uma visão geral da trama e dos personagens principais, com destaque para o protagonista, um robô interpretado por Alexander Skarsgård.

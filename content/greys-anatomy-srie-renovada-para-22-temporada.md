@@ -21,6 +21,10 @@ keywords: >-
   Channel, Disney+, renovação de série, personagens LGBTQ
 data: '2025-04-03T20:13:31.761Z'
 author: Ana Luiza
+resumo: >-
+  Grey's Anatomy' é renovada para a 22ª temporada. A série, atualmente na 21ª
+  temporada, traz novidades e retornos no elenco. Assista no Sony Channel e
+  Disney+.
 ---
 
 A aclamada série de drama médico 'Grey's Anatomy' assegurou sua continuidade com a confirmação de uma 22ª temporada. Atualmente, a série está exibindo sua 21ª temporada. Esta notícia foi divulgada por fontes como a Variety, que também mencionou a renovação de outras séries populares, incluindo 'The Rookie', 'Will Trent', 'Shifting Gears' e '9-1-1'.

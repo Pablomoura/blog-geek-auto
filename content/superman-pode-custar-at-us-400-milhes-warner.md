@@ -20,6 +20,7 @@ tags:
   - Clark Kent
   - Metrópolis
   - Smallville
+  - especial-Superman
 keywords: >-
   Superman, Warner, James Gunn, David Corenswet, Rachel Brosnahan, Lex Luthor,
   DCU, marketing, bilheteria, filme, Clark Kent, Metrópolis, Smallville

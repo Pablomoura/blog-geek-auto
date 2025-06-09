@@ -21,6 +21,10 @@ keywords: >-
   emocional, segredos familiares, CinemaCon 2025, estreia 2025
 data: '2025-04-04T02:20:48.705Z'
 author: Luana Souza
+resumo: >-
+  Na CinemaCon 2025, a Paramount anunciou o início das filmagens de 'Se Não
+  Fosse Você', adaptação da obra de Colleen Hoover, com elenco estrelado e
+  direção de...
 ---
 
 A CinemaCon 2025 foi palco de anúncios importantes, entre eles, o início das filmagens de 'Se Não Fosse Você', adaptação da aclamada obra de Colleen Hoover, conhecida por 'É Assim Que Acaba'. O anúncio foi feito durante o painel da Paramount, onde um vídeo com participação do elenco revelou que as gravações já estão a todo vapor. A direção fica a cargo de Josh Boone, renomado por seu trabalho em 'A Culpa É das Estrelas'.

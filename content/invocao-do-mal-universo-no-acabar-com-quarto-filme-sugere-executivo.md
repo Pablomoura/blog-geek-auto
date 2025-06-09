@@ -23,6 +23,9 @@ keywords: >-
   de terror, sequências de filmes, bilheteria, investigadores paranormais
 data: '2025-04-03T14:11:24.881Z'
 author: Pablo Moura
+resumo: >-
+  Invocação do Mal 4' encerra a saga de Ed e Lorraine Warren, mas o universo de
+  James Wan pode continuar. Estreia em 2025; novas direções são exploradas.
 ---
 
 Embora 'Invocação do Mal 4' seja o último filme anunciado com os personagens Ed e Lorraine Warren, interpretados por Patrick Wilson e Vera Farmiga, o universo estabelecido por James Wan pode não chegar ao fim. Richard Brener, chefe da New Line Cinema, destacou em entrevista ao The Hollywood Reporter que a empresa busca inovar em suas sequências para evitar a sensação de repetição. 'Tentamos sempre apresentar algo novo, e acredito que temos conseguido isso com êxito em nossas franquias', afirmou.

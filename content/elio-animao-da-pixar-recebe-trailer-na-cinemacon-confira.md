@@ -21,6 +21,10 @@ keywords: >-
   alienígenas
 data: '2025-04-03T23:10:32.168Z'
 author: Ana Luiza
+resumo: >-
+  Disney revela novo trailer de 'Elio' na CinemaCon. A animação da Pixar traz o
+  jovem Elio em uma aventura cósmica, destacando-se pelo uso impressionante do
+  3D.
 ---
 
 A Disney aproveitou o palco da CinemaCon para lançar um novo trailer da animação 'Elio', revelando mais detalhes sobre a trama e as aventuras do jovem protagonista. O trailer introduz Elio chegando ao Comuniverso, um conglomerado de representantes de diversas espécies universais. A animação impressiona pelo uso eficaz do 3D, que realça a profundidade e a vivacidade das cores.

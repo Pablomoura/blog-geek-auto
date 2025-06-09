@@ -1,14 +1,29 @@
 ---
-title: "Thunderbolts | Novo teaser destaca os protagonistas do filme"
-slug: "thunderbolts-novo-teaser-destaca-os-protagonistas-do-filme"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/-JVK4QE3ps0?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/y4DqVdfqhiCUeiab6ZfyDR97Re0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_131232.png"
-tags: ["Thunderbolts", "MCU", "anti-heróis", "Marvel", "filme de super-heróis", "estreia 2025", "teaser", "protagonistas"]
-keywords: "Thunderbolts, MCU, anti-heróis, Marvel, filme de super-heróis, estreia 2025, teaser, protagonistas"
-author: "Pablo Moura"
-data: "2025-04-10T17:13:19.306Z"
+title: Thunderbolts | Novo teaser destaca os protagonistas do filme
+slug: thunderbolts-novo-teaser-destaca-os-protagonistas-do-filme
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/-JVK4QE3ps0?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/y4DqVdfqhiCUeiab6ZfyDR97Re0=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_131232.png
+tags:
+  - Thunderbolts
+  - MCU
+  - anti-heróis
+  - Marvel
+  - filme de super-heróis
+  - estreia 2025
+  - teaser
+  - protagonistas
+keywords: >-
+  Thunderbolts, MCU, anti-heróis, Marvel, filme de super-heróis, estreia 2025,
+  teaser, protagonistas
+author: Pablo Moura
+data: '2025-04-10T17:13:19.306Z'
+resumo: >-
+  O teaser de 'Thunderbolts' destaca os anti-heróis do MCU liderados por
+  Valentina. Com estreia em maio de 2025, o filme reúne nomes como Bucky e o
+  Guardião Ve...
 ---
 
 O aguardado filme do MCU, Thunderbolts, revelou um teaser inédito, focando nos personagens principais da trama. O vídeo é marcado por um discurso proferido pelo Guardião Vermelho sobre a equipe, a quem ele chama de 'Thunderbolta', sendo prontamente corrigido por Bucky com visível impaciência.

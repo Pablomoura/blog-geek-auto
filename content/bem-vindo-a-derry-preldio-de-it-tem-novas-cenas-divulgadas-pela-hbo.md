@@ -20,6 +20,10 @@ keywords: >-
   de terror, estreia 2026
 data: '2025-04-07T04:13:21.396Z'
 author: Ana Luiza
+resumo: >-
+  A série Bem-Vindo a Derry, prelúdio de It: A Coisa, estreia em 2026 na HBO.
+  Com Bill Skarsgård como Pennywise, explora a origem do mal em Derry nos anos
+  60.
 ---
 
 A expectativa em torno da série Bem-Vindo a Derry, o aguardado prelúdio de It: A Coisa, continua crescendo. Recentemente, a HBO incluiu novas cenas da série em um vídeo promocional que apresenta os próximos lançamentos do canal. Neste material, a sinistra voz de Pennywise pode ser ouvida, aumentando a antecipação dos fãs.

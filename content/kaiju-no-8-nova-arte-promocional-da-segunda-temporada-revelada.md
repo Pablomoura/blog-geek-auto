@@ -21,6 +21,10 @@ keywords: >-
   Jump+, Panini, mangás
 data: '2025-04-09T02:23:07.335Z'
 author: Pablo Moura
+resumo: >-
+  Toho Animation adapta Kaiju No. 8 em anime exclusivo na Crunchyroll. A Panini
+  distribui o mangá no Brasil, oferecendo aos fãs locais acesso à empolgante
+  série.
 ---
 
 A Toho Animation, conhecida por sua participação em sucessos como Boku no Hero Academia e Godzilla, está envolvida na adaptação para anime de Kaiju No. 8, que começou a ser publicado em 2020 pela Shōnen Jump+. Este anime ganhou um destaque especial com sua exclusividade na plataforma Crunchyroll, reconhecida por ser um dos principais serviços de streaming de anime. A Panini, por sua vez, é responsável pela distribuição dos mangás da série no Brasil, proporcionando aos fãs brasileiros acesso a essa empolgante narrativa. A nova temporada promete continuar a tradição de excelência, trazendo novas aventuras e desenvolvimentos para os queridos personagens.

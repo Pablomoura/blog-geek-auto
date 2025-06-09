@@ -17,6 +17,10 @@ tags:
   - série de tv
   - marvel
 author: Pablo Moura
+resumo: >-
+  Os episódios 5 e 6 de 'Demolidor: Renascido' chegaram com ação e reviravoltas.
+  Enquanto um roubo de banco diverte, o drama se intensifica no embate com o
+  Rei...
 ---
 
 Os episódios cinco e seis de 'Demolidor: Renascido' foram lançados simultaneamente, antecipando o final da temporada para acomodar o retorno da série 'Andor'. Essa estratégia de lançamento não apenas beneficia o ritmo da série, mas também permite que o episódio cinco, que poderia ser visto como um 'filler', seja apreciado como um exercício de gênero bem-sucedido. Já o episódio seis avança significativamente a trama, equilibrando a narrativa.

@@ -20,6 +20,10 @@ keywords: >-
   Momoa, Jared Hess, recordes de bilheteria, Warner Bros
 data: '2025-04-05T20:10:29.359Z'
 author: Pablo Moura
+resumo: >-
+  Um Filme Minecraft' pode estrear com US$ 135 milhões nos EUA, superando
+  'Capitão América'. Estrelado por Jason Momoa e Jack Black, é a grande aposta
+  da Warner.
 ---
 
 A adaptação cinematográfica de 'Um Filme Minecraft' pode ultrapassar US$ 135 milhões em bilheteria nos Estados Unidos e atingir globalmente US$ 260 milhões já em seu lançamento. Segundo informações do Deadline, o filme tem potencial para se tornar a maior estreia de 2025 até agora, superando os US$ 40,9 milhões arrecadados por 'Capitão América: Admirável Mundo Novo' em fevereiro nos EUA.

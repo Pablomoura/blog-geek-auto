@@ -21,6 +21,10 @@ keywords: >-
   development, next-gen console
 data: '2025-04-03T14:10:54.078Z'
 author: Pablo Moura
+resumo: >-
+  Nintendo revela tecnologias Ray Tracing e DLSS no aguardado Switch 2,
+  prometendo jogos em 4K. Lançamento global em 5 de junho por US$ 450. Detalhes
+  a seguir!
 ---
 
 Durante a apresentação da Direct na manhã da última quarta-feira, a Nintendo forneceu mais informações sobre o aguardado Switch 2. Confirmou-se que o sistema incluirá tecnologias avançadas como Ray Tracing e DLSS, porém detalhes específicos ainda não foram divulgados.

@@ -21,6 +21,10 @@ keywords: >-
   live-action Netflix, adaptação televisiva
 data: '2025-04-08T15:11:09.690Z'
 author: Pablo Moura
+resumo: >-
+  One Piece retorna após seis meses com novos episódios, mas fãs criticam a
+  diretora Megumi Ishitani por suposta preferência por Zoro. Ishitani rebate
+  acusações.
 ---
 
 O renomado anime One Piece, após um hiato de seis meses, regressou com episódios inéditos, especificamente os capítulos 1123 e 1124, lançados simultaneamente. No entanto, nem todos os fãs ficaram satisfeitos com os novos capítulos, e a diretora Megumi Ishitani foi alvo de críticas. Um fã expressou descontentamento nas redes sociais, acusando a diretora de dar preferência ao personagem Zoro em detrimento de Sanji, alegando que este último foi retratado de forma simplificada. Em resposta, Ishitani esclareceu: 'Por favor, não me diga isso, pois não estou envolvida, e claro que outros membros também não. Por favor, evite descontar sua insatisfação com todo o projeto em indivíduos no futuro'.

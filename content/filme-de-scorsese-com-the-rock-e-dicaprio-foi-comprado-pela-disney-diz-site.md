@@ -18,6 +18,9 @@ tags:
   - negociações cinematográficas
   - aquisição de filme
 author: Pablo Moura
+resumo: >-
+  Martin Scorsese negocia filme de máfia com The Rock e DiCaprio para a Disney.
+  Produção pode estrear nos cinemas antes de chegar ao streaming.
 ---
 
 Um novo projeto cinematográfico de Martin Scorsese, com a participação de astros como The Rock e Leonardo DiCaprio, está em negociações avançadas para ser adquirido pela Disney, de acordo com informações do The Hollywood Reporter. Ainda sem um estúdio definitivo, a oferta da Disney se destaca na concorrência pelo filme de máfia.

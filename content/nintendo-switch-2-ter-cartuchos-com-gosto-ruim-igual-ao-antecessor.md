@@ -23,6 +23,10 @@ keywords: >-
   console, inovações em jogos, suporte 4K, HDR, prevenção de ingestão
 data: '2025-04-08T23:09:59.266Z'
 author: Luana Souza
+resumo: >-
+  O Nintendo Switch 2 manterá os cartuchos com gosto desagradável para evitar
+  ingestão acidental. Com lançamento em 5 de junho, o console trará novas
+  funções e...
 ---
 
 Em recente entrevista concedida ao GameSpot, representantes da Nintendo confirmaram que os cartuchos do Nintendo Switch 2 manterão a característica introduzida no modelo anterior: um gosto intencionalmente desagradável. A medida busca evitar que crianças pequenas ou pets possam engolir os cartuchos, mantendo a segurança do usuário em primeiro plano. Takuhiro Dohta, diretor sênior na Nintendo EPD, destacou a importância dessa característica. 'Queremos garantir que ninguém corra riscos com consumo acidental. Se colocar na boca, a reação natural será cuspir', explicou Dohta. Kouichi Kawamoto, outro executivo da empresa, relembrou sua experiência pessoal com o gosto do cartucho original do Switch, descrevendo-o como uma experiência única e não repetível.

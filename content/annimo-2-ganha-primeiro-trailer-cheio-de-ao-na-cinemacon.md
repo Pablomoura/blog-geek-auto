@@ -21,6 +21,9 @@ keywords: >-
   sequência de filme, trailer de filme, máfia
 data: '2025-04-03T00:14:28.563Z'
 author: Pablo Moura
+resumo: >-
+  Na CinemaCon 2025, o primeiro trailer de 'Anônimo 2' revela Bob Odenkirk em
+  ação contra a máfia liderada por Sharon Stone, prometendo adrenalina e emoção.
 ---
 
 Durante a CinemaCon 2025, realizada em Las Vegas, foi revelado o aguardado primeiro trailer da sequência do filme 'Anônimo'. O evento foi palco para a introdução de novas cenas empolgantes que prometem elevar o nível de ação do novo longa.

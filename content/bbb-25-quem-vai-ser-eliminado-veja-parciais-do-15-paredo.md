@@ -21,6 +21,9 @@ keywords: >-
   votação, reality show
 data: '2025-04-09T03:27:32.561Z'
 author: Ana Luiza
+resumo: >-
+  No 15º Paredão do BBB 25, Maike, Renata e Vinícius disputam a permanência.
+  Vinícius lidera as enquetes para eliminação. Resultado ao vivo nesta quinta!
 ---
 
 O 15º Paredão do BBB 25 foi estabelecido na noite de terça-feira, dia 8, e colocou Maike, Renata e Vinícius na berlinda. O resultado, que determinará quem será eliminado, será revelado na próxima quinta-feira, dia 10.

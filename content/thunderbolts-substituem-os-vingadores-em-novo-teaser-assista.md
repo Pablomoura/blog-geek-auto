@@ -16,6 +16,9 @@ tags:
   - teaser
   - vingadores
 author: Pablo Moura
+resumo: >-
+  Marvel libera teaser de 'Thunderbolts', destacando Bucky Barnes e uma equipe
+  de heróis complexos. Filme do MCU estreia em 2 de maio de 2025. Confira!
 ---
 
 Marvel Studios revelou um emocionante novo teaser de 'Thunderbolts', o próximo grande lançamento do MCU, neste sábado (29). A prévia ressalta que o filme narra a saga de um novo grupo de heróis. No teaser, Bucky Barnes, interpretado por Sebastian Stan, informa aos seus companheiros de equipe que eles são os 'Vingadores da vez'.

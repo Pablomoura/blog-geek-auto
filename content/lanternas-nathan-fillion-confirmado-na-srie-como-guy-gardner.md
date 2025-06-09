@@ -17,6 +17,9 @@ tags:
   - série tv
   - entertainment weekly
 author: Luana Souza
+resumo: >-
+  Nathan Fillion retorna como Guy Gardner em 'Lanternas', série da HBO Max sobre
+  Lanternas Verdes. Estreia em 2026, com trama envolvente e elenco de peso.
 ---
 
 Segundo informações da Entertainment Weekly, Nathan Fillion está confirmado no elenco de 'Lanternas', nova série da HBO Max que trará os Lanternas Verdes para as telas de TV. Fillion reprisará o papel de Guy Gardner, conhecido de suas atuações anteriores em projetos relacionados ao universo Superman.

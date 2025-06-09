@@ -19,6 +19,10 @@ tags:
   - trailer
   - filme
 author: Ana Luiza
+resumo: >-
+  Na CinemaCon, o trailer de 'Hurry Up Tomorrow' com The Weeknd e Jenna Ortega
+  foi destaque. Drama e suspense cercam a trama, que estreia em 15 de maio de
+  2025.
 ---
 
 A CinemaCon foi palco para a estreia do novo trailer de 'Hurry Up Tomorrow', filme que traz no elenco The Weeknd e Jenna Ortega. O trailer, ainda não lançado online, foi detalhado pelo site Omelete, que esteve presente no evento.

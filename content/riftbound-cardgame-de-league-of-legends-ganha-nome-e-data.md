@@ -18,6 +18,10 @@ tags:
   - lançamento 2025
   - project k
 author: Ana Luiza
+resumo: >-
+  Riftbound, o novo cardgame da Riot Games baseado em League of Legends, chega
+  em 2025. Com personagens icônicos e cartas raras, promete eventos globais e
+  supo...
 ---
 
 Riftbound foi anunciado como o nome oficial do novo cardgame da Riot Games, baseado no renomado League of Legends. O jogo, que já havia sido confirmado no ano anterior sob o codinome Project K, agora recebe um título definitivo e uma janela de lançamento estabelecida para 2025.

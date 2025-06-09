@@ -18,6 +18,10 @@ tags:
   - line-up
   - são paulo
 author: Luana Souza
+resumo: >-
+  Shawn Mendes lidera o Lollapalooza 2025 neste sábado em São Paulo, com Alanis
+  Morissette e outros grandes nomes. Confira a programação e prepare-se para o
+  ev...
 ---
 
 Shawn Mendes é o grande destaque deste sábado (29) no Lollapalooza 2025, que acontece no Autódromo de Interlagos, em São Paulo. Além dele, nomes como Alanis Morissette, Tate McRae, Marina Lima e Zedd estão entre as principais atrações.

@@ -19,6 +19,10 @@ tags:
   - festival de música
   - merchandising
 author: Pablo Moura
+resumo: >-
+  Descubra produtos oficiais dos artistas na Lolla Band Store no Lollapalooza
+  2025. Camisetas, moletons e mais estão disponíveis para fãs no Autódromo de
+  Inter...
 ---
 
 Para os fãs que desejam guardar uma lembrança especial do Lollapalooza 2025, a Lolla Band Store é o destino certo para encontrar produtos oficiais dos artistas. Quem visitar o festival neste domingo (30), após três dias repletos de apresentações, encontrará uma variedade de itens à venda.

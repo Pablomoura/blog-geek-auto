@@ -16,6 +16,9 @@ tags:
   - jogos
   - tecnologia
 author: Luana Souza
+resumo: >-
+  Nintendo Switch 2 chega em 5 de junho! Lançamento será em fases, com jogos
+  exclusivos da Nintendo primeiro. Detalhes de preço no próximo Nintendo Direct.
 ---
 
 A Nintendo revelou que o lançamento do aguardado Nintendo Switch 2 ocorrerá em 5 de junho deste ano. Detalhes sobre o preço serão divulgados em breve durante um evento Nintendo Direct.

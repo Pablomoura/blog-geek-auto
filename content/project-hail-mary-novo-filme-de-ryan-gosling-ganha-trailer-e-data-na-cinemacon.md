@@ -23,6 +23,9 @@ keywords: >-
   Lord e Chris Miller, trailer de filme, exploração espacial, Andy Weir
 data: '2025-04-03T04:13:56.852Z'
 author: Pablo Moura
+resumo: >-
+  Project Hail Mary', com Ryan Gosling, brilha na CinemaCon 2025 com seu trailer
+  épico. Prime Video estreia no evento, destacando seu peso no cinema atual.
 ---
 
 O aguardado filme 'Project Hail Mary', dirigido pela dupla Phill Lord e Chris Miller, conhecidos por 'Homem-Aranha no Aranhaverso', foi destaque na CinemaCon 2025 com a revelação de seu primeiro trailer. Este evento marcou a primeira vez que o Prime Video participou da CinemaCon, destacando a importância crescente do filme no cenário cinematográfico.

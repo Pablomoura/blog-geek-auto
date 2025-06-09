@@ -21,6 +21,10 @@ keywords: >-
   Cinematográfico da DC, Superman Day, elenco de Superman
 data: '2025-04-04T11:08:47.131Z'
 author: Luana Souza
+resumo: >-
+  James Gunn anuncia um novo trailer de 'Superman', com lançamento possivelmente
+  no 'Superman Day', 18 de abril. Estrelado por David Corenswet e Rachel
+  Brosnahan.
 ---
 
 O diretor James Gunn anunciou que um novo trailer do filme 'Superman' será lançado em breve. A declaração foi feita por Gunn em seu perfil no Threads, seguindo a empolgante prévia que foi revelada na CinemaCon 2025. Ele expressou sua gratidão pelo entusiasmo dos fãs e compartilhou seu entusiasmo com o próximo material: 'Muito obrigado pela empolgação, embora o que mostrei não seja bem um trailer, mas uma espiadinha. Atualmente, estou finalizando o próximo trailer para todos vocês e mal posso esperar para que vejam!'.

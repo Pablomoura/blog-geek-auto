@@ -21,6 +21,10 @@ keywords: >-
   cultura americana, streaming
 data: '2025-04-09T17:09:46.119Z'
 author: Pablo Moura
+resumo: >-
+  The Pitt' retorna em janeiro de 2026 com a 2ª temporada, explorando o 4 de
+  julho. Noah Wyle estrela e escreve. Série pode se tornar tradição anual na
+  Max.
 ---
 
 A aclamada série 'The Pitt' está confirmada para retornar com sua segunda temporada em janeiro de 2026. Conforme divulgado pela Variety em uma entrevista exclusiva com Noah Wyle, protagonista da série, o retorno já é muito aguardado pelos fãs. Além disso, foi revelado que a Max pretende transformar a série em uma tradição anual, planejando lançar novas temporadas a cada início de ano.

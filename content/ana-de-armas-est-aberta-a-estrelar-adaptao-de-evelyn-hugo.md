@@ -23,6 +23,10 @@ keywords: >-
   Reid, Hollywood, Jessica Chastain, diversidade em carreira
 data: '2025-04-05T01:08:19.358Z'
 author: Pablo Moura
+resumo: >-
+  Ana de Armas expressa interesse em 'Os Sete Maridos de Evelyn Hugo', enquanto
+  Jessica Chastain descarta papel na adaptação da Netflix do best-seller de
+  Taylo...
 ---
 
 Em recente entrevista ao Entertainment Tonight, Ana de Armas revelou interesse em participar da adaptação cinematográfica de 'Os Sete Maridos de Evelyn Hugo', um projeto da Netflix baseado no aclamado livro de Taylor Jenkins Reid. A atriz destacou que a possibilidade de interpretar a protagonista vem ao encontro do seu desejo por diversidade em sua carreira. 'Acho importante experimentar tudo que é possível', afirmou Ana de Armas, comentando sobre os apelos dos fãs para que ela assuma o papel. 

@@ -18,6 +18,9 @@ tags:
   - filmes
   - deadline
 author: Luana Souza
+resumo: >-
+  Resgate Implacável', com Jason Statham, deve liderar bilheterias nos EUA,
+  superando 'Branca de Neve'. O filme arrecadou US$ 5,6 milhões na sexta-feira.
 ---
 
 Parece que o domínio de 'Branca de Neve' nas bilheterias americanas será breve. Segundo informações do Deadline, o filme 'Resgate Implacável', estrelado por Jason Statham, é esperado para assumir a liderança neste fim de semana, desbancando 'Branca de Neve' da Disney em sua segunda semana de exibição.

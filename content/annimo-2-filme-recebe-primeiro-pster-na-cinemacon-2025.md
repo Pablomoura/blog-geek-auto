@@ -15,6 +15,9 @@ tags:
   - lançamento de filme
   - indústria cinematográfica
 author: Ana Luiza
+resumo: >-
+  Anônimo 2' ganha pôster revelado na CinemaCon 2025, destacando-se nas portas
+  dos elevadores. Bob Odenkirk retorna sob a direção de Timo Tjahjanto.
 ---
 
 O aguardado lançamento de 'Anônimo 2' foi celebrado com a revelação do primeiro pôster na CinemaCon 2025. O evento, que é um ponto de encontro para os entusiastas do cinema, ocorreu recentemente, onde o pôster foi estrategicamente colocado nas portas dos elevadores. A imagem foi compartilhada pelo site CinePop em seu perfil oficial no Instagram.

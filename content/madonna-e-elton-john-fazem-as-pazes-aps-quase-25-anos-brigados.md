@@ -21,6 +21,10 @@ keywords: >-
   da música
 data: '2025-04-08T14:12:49.010Z'
 author: Ana Luiza
+resumo: >-
+  Após 25 anos de desavenças, Madonna e Elton John reatam amizade. A cantora
+  revelou nas redes sociais que o reencontro ocorreu após um show icônico no
+  SNL.
 ---
 
 Uma ótima notícia para os fãs de Madonna e Elton John. Após quase 25 anos de desavenças, os dois ícones da música internacional reconciliaram-se e retomaram sua amizade. A revelação veio de Madonna, que compartilhou a novidade em uma publicação em suas redes sociais.

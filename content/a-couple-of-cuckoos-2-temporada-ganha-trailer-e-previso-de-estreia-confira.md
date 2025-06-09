@@ -22,6 +22,10 @@ keywords: >-
   mangá, casamento arranjado, troca na maternidade, influenciadora digital
 data: '2025-04-08T02:22:39.290Z'
 author: Ana Luiza
+resumo: >-
+  Confira o trailer da 2ª temporada de A Couple of Cuckoos, com estreia em
+  julho! Conheça a nova personagem Ai Mochizuki e descubra o tema de
+  encerramento.
 ---
 
 O site oficial de A Couple of Cuckoos liberou o trailer da aguardada segunda temporada do anime, sinalizando seu lançamento para o mês de julho. No novo trailer, a personagem Ai Mochizuki, que será dublada por Hina Yomiya (conhecida por seu trabalho em My Dress-up Darling), é apresentada aos fãs. Além disso, o vídeo revela o tema de encerramento da série.

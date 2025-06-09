@@ -22,6 +22,10 @@ keywords: >-
   Stranding 2
 data: '2025-04-07T15:14:04.010Z'
 author: Pablo Moura
+resumo: >-
+  Michael Sarnoski dirigirá a adaptação de Death Stranding, em parceria com a
+  Kojima Productions e A24. O filme ainda não tem data de estreia ou elenco
+  revelados.
 ---
 
 Michael Sarnoski foi nomeado como diretor e roteirista da adaptação cinematográfica do jogo Death Stranding, uma colaboração entre a Kojima Productions e o estúdio A24, conforme reportado pelo Deadline. Sarnoski já dirigiu obras como Um Lugar Silencioso: Dia Um e Pig: A Vingança, e atualmente trabalha em The Death of Robin Hood, que conta com Hugh Jackman, Jodie Comer e Bill Skarsgard no elenco, também sob a égide da A24.

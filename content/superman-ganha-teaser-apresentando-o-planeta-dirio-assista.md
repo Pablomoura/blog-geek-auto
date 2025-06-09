@@ -20,6 +20,7 @@ tags:
   - The Authority
   - Clark Kent
   - Metrópoles
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, Planeta Diário, David Corenswet, Rachel Brosnahan,
   Nicholas Hoult, DCU, Lanterna Verde, Mulher-Gavião, Metamorfo, Engenheira, The

@@ -24,6 +24,10 @@ keywords: >-
   para console
 data: '2025-04-09T15:12:40.925Z'
 author: Ana Luiza
+resumo: >-
+  Tarifas de Trump ameaçam produtos licenciados de Hollywood, elevando preços e
+  afetando empresas como Mattel e Hasbro. Disney e Nintendo enfrentam desafios
+  si...
 ---
 
 A recente imposição de tarifas pelo presidente Donald Trump está ameaçando significativamente o mercado de produtos licenciados de Hollywood. Itens variados como bonecos, camisetas e maquiagens, que são essenciais para a lucratividade da indústria cinematográfica, provavelmente verão um aumento considerável em seus preços. Estes produtos, que frequentemente dependem de taxas de importação e exportação competitivas para serem viáveis financeiramente, podem não mais sustentar as margens de lucro anteriores.

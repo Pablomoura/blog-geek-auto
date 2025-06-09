@@ -16,6 +16,9 @@ tags:
   - pôster
   - marvel
 author: Ana Luiza
+resumo: >-
+  Disney+ lança pôster de 'Demolidor: Renascido', destacando Wilson Fisk, o Rei
+  do Crime. A série, com Charlie Cox e Vincent D'Onofrio, já está disponível.
 ---
 
 O Disney+ revelou um empolgante novo pôster de 'Demolidor: Renascido' neste sábado (29), destacando o personagem Wilson Fisk, o infame Rei do Crime, interpretado por Vincent D'Onofrio. A arte surge após os dramáticos eventos dos capítulos cinco e seis, que foram disponibilizados simultaneamente esta semana. Confira a imagem abaixo.

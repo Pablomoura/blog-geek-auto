@@ -17,6 +17,10 @@ tags:
   - humor ácido
   - sátira social
 author: Luana Souza
+resumo: >-
+  A 27ª temporada de 'South Park' estreia em 9 de julho nos EUA, prometendo
+  sátira social e humor ácido. Episódios abordarão Diddy, conflitos EUA-Canadá e
+  tráf...
 ---
 
 A aguardada vigésima sétima temporada de 'South Park' tem estreia marcada para o dia 9 de julho nos Estados Unidos, ainda sem data definida para lançamento no Brasil. O novo ciclo promete episódios recheados de humor ácido e sátira social, incluindo piadas envolvendo o rapper Diddy e uma intensa 'guerra violenta' entre os EUA e o Canadá. Além disso, problemas no tráfego aéreo serão abordados na temporada, mantendo a tradição da série em comentar aspectos contemporâneos.

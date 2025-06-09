@@ -17,6 +17,9 @@ tags:
   - retrocompatibilidade
   - joy-cons magnéticos
 author: Ana Luiza
+resumo: >-
+  Nintendo Switch 2 é anunciado com tela maior e Joy-Cons magnéticos. Lançamento
+  global em 5 de junho; chegada ao Brasil e preço ainda são incertos.
 ---
 
 O aguardado Nintendo Switch 2 foi oficialmente anunciado pela Nintendo, trazendo uma série de inovações que prometem entusiasmar os fãs da marca. O novo console se destaca por possuir uma tela maior, retrocompatibilidade com a versão anterior do Switch e Joy-Cons magnéticos, além de oferecer um significativo aumento na capacidade de processamento.

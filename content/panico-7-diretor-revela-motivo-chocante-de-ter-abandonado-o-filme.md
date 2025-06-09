@@ -21,6 +21,9 @@ keywords: >-
   Williamson, Neve Campbell, suspense, franquia de terror
 data: '2025-04-09T18:13:40.907Z'
 author: Pablo Moura
+resumo: >-
+  A produção de 'Pânico 7' sofre reviravolta com a saída do diretor Landon após
+  ameaças de morte. Kevin Williamson assume a direção; Neve Campbell retorna.
 ---
 
 O cenário de produção de 'Pânico 7' foi marcado por uma reviravolta surpreendente com a saída do diretor Christopher Landon. Em entrevista à Vanity Fair, Landon revelou que decidiu deixar o projeto após receber ameaças de morte. Segundo ele, as mensagens ameaçadoras incluíam avisos de que sua família seria encontrada e morta. Essas ameaças surgiram em meio à controvérsia envolvendo a demissão da atriz Melissa Barrera, que apoiou publicamente a Palestina no conflito com Israel.

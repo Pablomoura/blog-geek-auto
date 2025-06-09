@@ -20,6 +20,10 @@ keywords: >-
   choque de gerações, educação infantil, métodos disciplinares, Rede Globo
 data: '2025-04-08T07:10:32.051Z'
 author: Luana Souza
+resumo: >-
+  Assista 'Uma Família em Apuros' na Sessão da Tarde de terça, 15h25. Billy
+  Crystal estrela essa comédia familiar que explora o divertido choque de
+  gerações.
 ---
 
 A Rede Globo programou para a Sessão da Tarde desta terça-feira, às 15h25, o filme 'Uma Família em Apuros', lançado originalmente em 2012. Com duração de 1h45, a comédia familiar promete entreter o público com uma história envolvente e divertida.

@@ -22,6 +22,10 @@ keywords: >-
   jogo, habilidades sobre-humanas, Twilight of Humanity
 data: '2025-04-04T14:09:58.990Z'
 author: Pablo Moura
+resumo: >-
+  Hidetaka Miyazaki revela detalhes de 'The Duskbloods', destacando Bloodsworn,
+  seres com habilidades sobre-humanas, em uma narrativa única sem romantismo
+  vamp...
 ---
 
 Em uma recente entrevista ao blog oficial da Nintendo, Hidetaka Miyazaki, renomado game designer, revelou detalhes sobre a produção de 'The Duskbloods', enfatizando a construção única de seu universo. Miyazaki descreveu que o protagonista do jogo é um Bloodsworn, termo que se refere a indivíduos dotados de habilidades sobre-humanas, assemelhando-se aos vampiros. No entanto, ele destacou que, embora compartilhem semelhanças com vampiros, os Bloodsworn não são retratados como as criaturas monstruosas tradicionalmente vinculadas ao vampirismo. A abordagem do jogo é desprovida do romantismo habitualmente associado aos vampiros, concentrando-se mais na questão do sangue.

@@ -16,6 +16,10 @@ tags:
   - entrevista
   - entretenimento
 author: Luana Souza
+resumo: >-
+  Viola Davis considera entrar no MCU, revelando seu interesse em entrevista.
+  Atualmente, ela brilha em 'G20' como a presidente dos EUA em um intenso
+  thriller.
 ---
 
 

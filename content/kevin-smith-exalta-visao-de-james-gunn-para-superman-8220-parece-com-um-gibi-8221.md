@@ -20,6 +20,7 @@ tags:
   - 'Warner Bros'
   - 'quadrinhos'
   - 'bilheteria'
+  - especial-Superman
 keywords: >-
   Kevin Smith, James Gunn, Superman, DC Comics, Krypto, Lois Lane, filme do Superman, estreia, Warner Bros, quadrinhos, bilheteria
 author: Luana Souza

@@ -21,6 +21,10 @@ keywords: >-
   significativas, Taylor Sheridan, saga Dutton
 data: '2025-04-07T15:11:43.747Z'
 author: Pablo Moura
+resumo: >-
+  A segunda temporada de 1923, na Paramount+, encerra-se com um episódio intenso
+  de duas horas. A batalha entre Jacob Dutton e Whitfield traz perdas
+  significat...
 ---
 
 A aguardada segunda temporada de 1923, disponível no serviço de streaming Paramount+, culminou em um episódio especial de mais de duas horas repleto de momentos intensos e decisivos para os personagens da saga Dutton. Para aqueles que não temem spoilers, este artigo detalha os eventos finais e as perdas que moldaram o desfecho da temporada.

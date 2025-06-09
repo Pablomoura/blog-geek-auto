@@ -1,14 +1,20 @@
 ---
-title: "High Tide: O Jogo Abstrato Que Conquistou a Noite Indie em PAX Unplugged 2024"
-slug: "high-tide-o-jogo-abstrato-que-conquistou-a-noite-indie-em-pax-unplugged-2024"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/kHF-2Fg1VWyf_b-cV_YYVw__imagepage/img/gynlccLve96bHsbTG6R_GHg91Cg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8845145.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/kHF-2Fg1VWyf_b-cV_YYVw__imagepage/img/gynlccLve96bHsbTG6R_GHg91Cg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8845145.png"
+title: 'High Tide: O Jogo Abstrato Que Conquistou a Noite Indie em PAX Unplugged 2024'
+slug: high-tide-o-jogo-abstrato-que-conquistou-a-noite-indie-em-pax-unplugged-2024
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/kHF-2Fg1VWyf_b-cV_YYVw__imagepage/img/gynlccLve96bHsbTG6R_GHg91Cg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8845145.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/kHF-2Fg1VWyf_b-cV_YYVw__imagepage/img/gynlccLve96bHsbTG6R_GHg91Cg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8845145.png
 tags: []
-keywords: ""
-author: "GeyseyAdvisor"
-data: "2025-05-27T14:08:43.145Z"
+keywords: ''
+author: GeyseyAdvisor
+data: '2025-05-27T14:08:43.145Z'
+resumo: >-
+  High Tide" nasceu de um projeto pessoal voltado para o PAX Unplugged,
+  conquistando sucesso ao equilibrar design inovador e apelo ao público gamer.
+  Descubra c...
 ---
 
 ## A Gênese de High Tide: Um Projeto Pessoal que Virou Sucesso

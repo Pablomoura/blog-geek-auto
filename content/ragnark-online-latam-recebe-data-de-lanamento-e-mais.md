@@ -21,6 +21,10 @@ keywords: >-
   cosméticos, adaptações culturais, Ragnarök 3
 data: '2025-04-08T22:09:29.059Z'
 author: Ana Luiza
+resumo: >-
+  A Gravity anunciou a estreia do servidor LATAM de Ragnarök Online para 28 de
+  maio, prometendo um jogo sem pay to win e focado em itens cosméticos. Um open
+  be...
 ---
 
 Em uma recente coletiva de imprensa, a Gravity, responsável pelo renomado MMORPG Ragnarök Online, divulgou importantes atualizações sobre o futuro do jogo no Brasil e na América Latina. A grande revelação foi a data de estreia do servidor LATAM, marcada para 28 de maio.

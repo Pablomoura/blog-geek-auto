@@ -16,6 +16,10 @@ tags:
   - mcu
   - surpresas
 author: Pablo Moura
+resumo: >-
+  A Marvel surpreende com transmissão ao vivo, revelando novos filmes do MCU:
+  'Vingadores: Doomsday' e 'Guerras Secretas'. Destaques incluem Chris Hemsworth
+  e...
 ---
 
 A Marvel iniciou uma transmissão ao vivo inesperada em suas plataformas digitais, gerando expectativa entre os fãs do Universo Cinematográfico Marvel (MCU) com a promessa de revelações importantes.

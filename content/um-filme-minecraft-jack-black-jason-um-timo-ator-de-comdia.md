@@ -20,6 +20,10 @@ keywords: >-
   Jared Hess, cultura pop
 data: '2025-04-07T15:12:21.030Z'
 author: Luana Souza
+resumo: >-
+  Um Filme Minecraft', da Warner Bros., estreia com Jason Momoa e Jack Black em
+  atuações hilárias. A química entre os astros e a direção de Jared Hess
+  prometem...
 ---
 
 A estreia de 'Um Filme Minecraft' pela Warner Bros. Pictures aconteceu globalmente, recebendo atenção especial pela atuação conjunta de Jason Momoa e Jack Black. Conhecidos por suas carreiras distintas, ambos os atores têm mostrado uma química excepcional, tanto nas telas quanto fora delas. Jack Black, reconhecido por seu papel em 'Jumanji', compartilhou suas impressões sobre Momoa, destacando seu talento para a comédia. 'Jason tem um senso de humor fantástico, que é evidente tanto em frente quanto por trás das câmeras. Estou entusiasmado para que o público descubra essa faceta dele', comentou Black em uma entrevista à Radio 10, onde também mencionou que essa foi uma das 'melhores experiências cinematográficas de sua vida', graças também à descoberta de talentos culinários de Momoa.

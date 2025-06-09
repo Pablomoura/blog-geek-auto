@@ -1,14 +1,29 @@
 ---
-title: "gamescom latam2025 | Nintendo confirma participação no evento"
-slug: "gamescom-latam2025-nintendo-confirma-participao-no-evento"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/10n6tcqm-8I?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/_YnqsrNeCm8go3UP9SaWZk-Dyeg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_101140.png"
-tags: ["gamescom latam 2025", "Nintendo", "Nintendo Switch 2", "Future Games Show Live", "evento de games", "São Paulo", "indústria de jogos", "anúncios de games"]
-keywords: "gamescom latam 2025, Nintendo, Nintendo Switch 2, Future Games Show Live, evento de games, São Paulo, indústria de jogos, anúncios de games"
-author: "Pablo Moura"
-data: "2025-04-10T13:22:50.873Z"
+title: gamescom latam2025 | Nintendo confirma participação no evento
+slug: gamescom-latam2025-nintendo-confirma-participao-no-evento
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/10n6tcqm-8I?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/_YnqsrNeCm8go3UP9SaWZk-Dyeg=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_101140.png
+tags:
+  - gamescom latam 2025
+  - Nintendo
+  - Nintendo Switch 2
+  - Future Games Show Live
+  - evento de games
+  - São Paulo
+  - indústria de jogos
+  - anúncios de games
+keywords: >-
+  gamescom latam 2025, Nintendo, Nintendo Switch 2, Future Games Show Live,
+  evento de games, São Paulo, indústria de jogos, anúncios de games
+author: Pablo Moura
+data: '2025-04-10T13:22:50.873Z'
+resumo: >-
+  Nintendo confirma presença na gamescom latam 2025, mas sem o Switch 2. Evento
+  em SP reunirá gigantes dos games e promete surpresas no Future Games Show
+  Live.
 ---
 
 A Nintendo revelou por meio de suas plataformas digitais que marcará presença na gamescom latam 2025, que ocorrerá de 1 a 4 de maio. Em sua comunicação, a empresa esclareceu que o Nintendo Switch 2 não estará disponível em seu estande durante o evento, embora não tenha especificado quais atividades ou apresentações planeja realizar.

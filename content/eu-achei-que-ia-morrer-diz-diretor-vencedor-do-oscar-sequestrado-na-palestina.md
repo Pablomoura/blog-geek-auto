@@ -16,6 +16,9 @@ tags:
   - documentário
   - palestina
 author: Ana Luiza
+resumo: >-
+  Hamdan Ballal, co-diretor do premiado 'Sem Chão', foi brutalmente atacado por
+  colonos israelenses em Susiya, relatando ter temido por sua vida. Saiba mais.
 ---
 
 Hamdan Ballal, co-diretor do aclamado documentário 'Sem Chão', vencedor do Oscar, foi vítima de um violento ataque por colonos israelenses em Susiya, na última segunda-feira (24). Em entrevista à Al Jazeera nesta quarta-feira (26), Ballal expressou seu temor durante o incidente: 'Eu achei que ia morrer'.

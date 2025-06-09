@@ -20,6 +20,10 @@ keywords: >-
   live-action, Crunchyroll
 data: '2025-04-05T20:09:56.524Z'
 author: Ana Luiza
+resumo: >-
+  A série 'One Piece' retorna com novos episódios e uma nova abertura,
+  continuando o arco de Egghead. Netflix expande o universo com live-action e
+  nova animação.
 ---
 
 Após um período de pausa na produção, a aclamada série de anime 'One Piece' retomou com novos episódios no Japão esta semana. O destaque deste retorno é a continuação do arco de Egghead, que promete trazer novas aventuras e desafios para Monkey D. Luffy e sua tripulação. Além disso, a retomada foi marcada pela estreia de uma nova vinheta de abertura, que já está disponível para o público. 

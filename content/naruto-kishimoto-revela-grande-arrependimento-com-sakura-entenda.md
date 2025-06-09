@@ -1,14 +1,31 @@
 ---
-title: "Naruto | Kishimoto expressa arrependimento em relação ao desenvolvimento de Sakura"
-slug: "naruto-kishimoto-revela-grande-arrependimento-com-sakura-entenda"
-categoria: "MANGÁS E ANIMES"
-midia: "https://www.youtube.com/embed/QZ1PsFikZHc?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/sZ7qsXgncUPu5RvzTixeYEPqi2w=/480x360/smart/extras/conteudos/omelete_THUMB_93_BiyRA0D.png"
-tags: ["Naruto", "Sakura Haruno", "Kishimoto", "desenvolvimento de personagem", "mangá", "Boruto", "representação feminina", "anime"]
-keywords: "Naruto, Sakura Haruno, Kishimoto, desenvolvimento de personagem, mangá, Boruto, representação feminina, anime"
-author: "Ana Luiza"
-data: "2025-04-10T15:14:23.719Z"
+title: >-
+  Naruto | Kishimoto expressa arrependimento em relação ao desenvolvimento de
+  Sakura
+slug: naruto-kishimoto-revela-grande-arrependimento-com-sakura-entenda
+categoria: MANGÁS E ANIMES
+midia: 'https://www.youtube.com/embed/QZ1PsFikZHc?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/sZ7qsXgncUPu5RvzTixeYEPqi2w=/480x360/smart/extras/conteudos/omelete_THUMB_93_BiyRA0D.png
+tags:
+  - Naruto
+  - Sakura Haruno
+  - Kishimoto
+  - desenvolvimento de personagem
+  - mangá
+  - Boruto
+  - representação feminina
+  - anime
+keywords: >-
+  Naruto, Sakura Haruno, Kishimoto, desenvolvimento de personagem, mangá,
+  Boruto, representação feminina, anime
+author: Ana Luiza
+data: '2025-04-10T15:14:23.719Z'
+resumo: >-
+  Masashi Kishimoto, criador de Naruto, admite arrependimento no desenvolvimento
+  de Sakura Haruno, destacando Sarada como exemplo de melhor representação
+  femin...
 ---
 
 Masashi Kishimoto, renomado mangaká e criador da série Naruto, recentemente expressou um significativo arrependimento quanto ao desenvolvimento de um dos personagens principais, Sakura Haruno. Durante uma entrevista concedida ao ComicBook, Kishimoto revelou suas dificuldades em moldar a trajetória de Sakura de maneira satisfatória dentro da narrativa.

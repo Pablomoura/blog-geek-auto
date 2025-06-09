@@ -17,6 +17,10 @@ tags:
   - jogos eletrônicos
   - estoque esgotado
 author: Ana Luiza
+resumo: >-
+  O Nintendo Switch 2 promete esgotar na pré-venda, começando em 9 de abril. O
+  evento Nintendo Direct revelará mais detalhes e jogos aguardados como 'Metroid
+  P...
 ---
 
 A chegada do Nintendo Switch 2 está gerando grandes expectativas, com previsões de que os estoques possam esgotar já na pré-venda. Segundo informações obtidas pelo Insider Gaming, comunicados internos de varejistas norte-americanos sugerem que as unidades disponíveis podem acabar no primeiro dia de vendas, apesar da Nintendo garantir uma ampla distribuição do produto.

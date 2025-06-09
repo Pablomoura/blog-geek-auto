@@ -19,6 +19,7 @@ tags:
   - 'uniformes temticos'
   - 'bilheteria'
   - 'cinema nos EUA'
+  - especial-Superman
 keywords: >-
   AMC Theatres, Superman 2025, James Gunn, Warner Bros. Discovery, DC Studios, lançamento de filme, marketing de cinema, uniformes temáticos, bilheteria, cinema nos EUA
 author: Ana Luiza

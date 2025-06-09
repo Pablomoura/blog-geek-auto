@@ -18,6 +18,10 @@ tags:
   - prime video
   - comentaristas esportivos
 author: Luana Souza
+resumo: >-
+  Amazon escala Galvão Bueno, Romário e Ronaldo Nazário para narrar jogos do
+  Brasileirão 2025 no Prime Video. Estreia acontece em 5 de abril, com Vasco x
+  Corin...
 ---
 
 A Amazon confirmou a contratação de Galvão Bueno, Romário e Ronaldo Nazário para a narração de jogos selecionados do Campeonato Brasileiro de 2025 no Prime Video. A estreia dos comentaristas acontecerá no confronto entre Corinthians e Vasco, marcado para 5 de abril, um sábado, válido pela segunda rodada do torneio.

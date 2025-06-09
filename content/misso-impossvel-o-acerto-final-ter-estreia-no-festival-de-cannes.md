@@ -21,6 +21,10 @@ keywords: >-
   estreia de filme, filme de ação, submarino, Inteligência Artificial
 data: '2025-04-08T14:11:19.972Z'
 author: Luana Souza
+resumo: >-
+  O Festival de Cannes sediará a estreia de "Missão: Impossível - O Acerto
+  Final", com Tom Cruise e direção de Christopher McQuarrie. Exibição especial
+  em 14 d...
 ---
 
 O prestigiado Festival de Cannes será palco da estreia mundial do aguardado último capítulo da série Missão: Impossível. O filme, intitulado Missão: Impossível - O Acerto Final, será apresentado no Grand Théâtre Lumière em 14 de maio, contando com a presença de figuras ilustres como o protagonista Tom Cruise e o diretor Christopher McQuarrie, além de outros membros do elenco cuja participação ainda será confirmada. O filme será exibido de forma especial, fora da competição oficial.

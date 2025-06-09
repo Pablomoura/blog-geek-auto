@@ -23,6 +23,9 @@ keywords: >-
   Carolina do Norte, lançamento de série, elenco estelar
 data: '2025-04-09T23:10:43.008Z'
 author: Ana Luiza
+resumo: >-
+  A Netflix estreia 'The Waterfront' de Kevin Williamson em 19 de junho. Com um
+  elenco estelar, a série explora o drama familiar dos Buckley em Havenport.
 ---
 
 A Netflix finalmente anunciou a data de estreia de 'The Waterfront', o mais recente trabalho do aclamado roteirista Kevin Williamson, conhecido por 'Dawson's Creek'. A série, que representa o retorno de Williamson ao campo das séries de TV, estará disponível a partir de 19 de junho. 

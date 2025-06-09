@@ -22,6 +22,9 @@ keywords: >-
   cinematográfica
 data: '2025-04-05T16:11:41.520Z'
 author: Luana Souza
+resumo: >-
+  Paul Schrader enfrenta acusações de assédio por ex-assistente após violação de
+  acordo judicial. Caso avança em Nova York; diretor nega as alegações.
 ---
 
 Paul Schrader, renomado diretor e roteirista de obras como Taxi Driver, enfrenta acusações de assédio sexual e moral por parte de uma ex-assistente. A queixa foi formalizada após uma violação de acordo judicial e submetida ao tribunal de Nova York na última quinta-feira. Schrader refuta as alegações.

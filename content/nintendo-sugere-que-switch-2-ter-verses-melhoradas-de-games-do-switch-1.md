@@ -16,6 +16,10 @@ tags:
   - retrocompatibilidade
   - nintendo
 author: Ana Luiza
+resumo: >-
+  Nintendo sugere que Switch 2, previsto para 2024, terá versões melhoradas de
+  clássicos. Especulações apontam para sistema de transferência de jogos via
+  Virtu...
 ---
 
 A Nintendo insinuou que o Nintendo Switch 2, seu mais recente console programado para ser revelado no final de 2024, poderá oferecer versões aprimoradas de jogos lançados originalmente para o seu antecessor de 2017.

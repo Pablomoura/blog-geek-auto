@@ -1,14 +1,30 @@
 ---
-title: "Além do Switch 2: Tarifas de Trump afetam mercado de PCs gamers"
-slug: "alm-do-switch-2-tarifas-de-trump-passam-a-afetar-pcs-gamers"
-categoria: "GAMES"
-midia: "https://cdn.ome.lt/UazZjdC7IQJXkG6BZSyecMx4cqM=/987x0/smart/uploads/conteudo/fotos/imagem_2025-04-10_114730460.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/7E0taK1Kw4BAG15XndEAdSNWMvw=/480x360/smart/extras/conteudos/imagem_2025-04-10_114727653.png"
-tags: ["Tarifas Trump", "mercado de PCs gamers", "Nintendo Switch 2", "Razer Blade", "eletrônicos afetados", "política comercial", "impacto nos jogos", "incerteza no mercado"]
-keywords: "Tarifas Trump, mercado de PCs gamers, Nintendo Switch 2, Razer Blade, eletrônicos afetados, política comercial, impacto nos jogos, incerteza no mercado"
-author: "Ana Luiza"
-data: "2025-04-10T15:13:16.368Z"
+title: 'Além do Switch 2: Tarifas de Trump afetam mercado de PCs gamers'
+slug: alm-do-switch-2-tarifas-de-trump-passam-a-afetar-pcs-gamers
+categoria: GAMES
+midia: >-
+  https://cdn.ome.lt/UazZjdC7IQJXkG6BZSyecMx4cqM=/987x0/smart/uploads/conteudo/fotos/imagem_2025-04-10_114730460.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/7E0taK1Kw4BAG15XndEAdSNWMvw=/480x360/smart/extras/conteudos/imagem_2025-04-10_114727653.png
+tags:
+  - Tarifas Trump
+  - mercado de PCs gamers
+  - Nintendo Switch 2
+  - Razer Blade
+  - eletrônicos afetados
+  - política comercial
+  - impacto nos jogos
+  - incerteza no mercado
+keywords: >-
+  Tarifas Trump, mercado de PCs gamers, Nintendo Switch 2, Razer Blade,
+  eletrônicos afetados, política comercial, impacto nos jogos, incerteza no
+  mercado
+author: Ana Luiza
+data: '2025-04-10T15:13:16.368Z'
+resumo: >-
+  As tarifas de Trump afetam o mercado gamer nos EUA. A Razer suspende a venda
+  de laptops Blade, e a pré-venda do Nintendo Switch 2 enfrenta incertezas.
 ---
 
 As tarifas impostas pela administração de Donald Trump a diversos países asiáticos, incluindo China, Taiwan e Vietnã, têm impactado severamente o setor de eletrônicos nos Estados Unidos. Recentemente, essas medidas impediram a pré-venda do aguardado Nintendo Switch 2, e agora, afetam outro gigante do segmento gamer: a Razer. A empresa retirou sua nova linha de laptops, a Blade, de sua loja oficial, deixando apenas a opção para que os interessados sejam notificados sobre a disponibilidade futura.

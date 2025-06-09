@@ -17,6 +17,10 @@ tags:
   - universal+
   - série tv
 author: Pablo Moura
+resumo: >-
+  Poker Face' retorna ao Brasil! A 2ª temporada estreia em 9 de maio no
+  Universal+. Prepare-se para mais mistérios com Charlie, vivida por Natasha
+  Lyonne.
 ---
 
 A espera acabou para os fãs de 'Poker Face'. A Universal+ anunciou, em exclusividade ao Omelete, que a segunda temporada da série estreará no Brasil em maio. A data de lançamento foi confirmada para o dia 9 de maio, apenas um dia depois da estreia nos Estados Unidos.

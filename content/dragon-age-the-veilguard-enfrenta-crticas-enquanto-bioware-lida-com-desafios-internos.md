@@ -1,15 +1,36 @@
 ---
-title: "Dragon Age: The Veilguard Enfrenta Críticas Enquanto BioWare Lida com Desafios Internos"
-slug: "dragon-age-the-veilguard-enfrenta-crticas-enquanto-bioware-lida-com-desafios-internos"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504112-dragonagetheveilguard2.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504112-dragonagetheveilguard2.jpg"
-tags: ["Dragon Age", "The Veilguard", "BioWare", "EA", "Alix Wilton Regan", "críticas", "indústria de games", "demissões", "Mass Effect", "futuro da franquia"]
-keywords: "Dragon Age, The Veilguard, BioWare, EA, Alix Wilton Regan, críticas, indústria de games, demissões, Mass Effect, futuro da franquia"
-author: "Pablo Moura"
-fonte: "GameSpot"
-data: "2025-05-30T15:47:00.000Z"
+title: >-
+  Dragon Age: The Veilguard Enfrenta Críticas Enquanto BioWare Lida com Desafios
+  Internos
+slug: >-
+  dragon-age-the-veilguard-enfrenta-crticas-enquanto-bioware-lida-com-desafios-internos
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504112-dragonagetheveilguard2.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4504112-dragonagetheveilguard2.jpg
+tags:
+  - Dragon Age
+  - The Veilguard
+  - BioWare
+  - EA
+  - Alix Wilton Regan
+  - críticas
+  - indústria de games
+  - demissões
+  - Mass Effect
+  - futuro da franquia
+keywords: >-
+  Dragon Age, The Veilguard, BioWare, EA, Alix Wilton Regan, críticas, indústria
+  de games, demissões, Mass Effect, futuro da franquia
+author: Pablo Moura
+fonte: GameSpot
+data: '2025-05-30T15:47:00.000Z'
+resumo: >-
+  Dragon Age: The Veilguard decepciona a EA e gera demissões na BioWare. Alix
+  Wilton Regan lamenta críticas e defende o jogo, enquanto o futuro da franquia
+  é i...
 ---
 Após quase uma década de espera, Dragon Age: The Veilguard finalmente chegou ao mercado, mas não conseguiu alcançar as expectativas da EA, levando a mudanças significativas na BioWare, incluindo demissões. A atriz Alix Wilton Regan, que dá voz à Inquisidora feminina tanto em Dragon Age: Inquisition quanto em The Veilguard, compartilhou sua decepção com a recepção negativa dos fãs. Em entrevista à IGN, Regan afirmou seu amor pelo jogo e acredita que muitos dos críticos estavam, na verdade, torcendo para que a BioWare fracassasse.
 

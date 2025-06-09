@@ -21,6 +21,10 @@ keywords: >-
   homenagem, Maverick, legado cinematográfico
 data: '2025-04-03T18:13:02.677Z'
 author: Luana Souza
+resumo: >-
+  Na CinemaCon 2025, Tom Cruise homenageia Val Kilmer, destacando sua
+  importância em 'Top Gun' e 'Maverick'. Kilmer, falecido recentemente, deixa um
+  legado ete...
 ---
 
 Durante sua participação na CinemaCon 2025, Tom Cruise, ao introduzir 'Missão: Impossível 8', dedicou um momento para homenagear Val Kilmer, que faleceu recentemente aos 66 anos. Cruise expressou profunda admiração e gratidão por Kilmer, lembrando o público da importância do ator no cinema. 

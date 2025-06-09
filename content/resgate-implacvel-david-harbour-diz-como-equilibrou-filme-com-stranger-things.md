@@ -18,6 +18,9 @@ tags:
   - cinema
   - séries tv
 author: Pablo Moura
+resumo: >-
+  David Harbour encara uma agenda agitada em 2024, filmando 'Stranger Things',
+  'Thunderbolts' e 'Resgate Implacável'. Descubra como ele equilibra tudo isso!
 ---
 
 A agenda de David Harbour em 2024 é um verdadeiro teste de resistência. Entre maio e junho, o ator se desdobrou entre três diferentes sets de filmagem nos Estados Unidos, participando simultaneamente de 'Stranger Things', 'Thunderbolts' e 'Resgate Implacável'.

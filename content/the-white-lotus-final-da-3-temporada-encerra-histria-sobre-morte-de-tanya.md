@@ -21,6 +21,10 @@ keywords: >-
   crítica social, resorts luxuosos, Mike White, destino de personagens
 data: '2025-04-07T03:30:44.340Z'
 author: Ana Luiza
+resumo: >-
+  O final da 3ª temporada de 'The White Lotus' surpreendeu ao explorar as
+  consequências da morte de Tanya na Tailândia, mantendo a crítica social e o
+  mistério.
 ---
 
 Na noite de domingo, o último episódio da terceira temporada de 'The White Lotus' foi ao ar, trazendo grandes expectativas sobre o desfecho de várias tramas. A série, conhecida por seu humor ácido e crítica social, tem seguido diferentes grupos de hóspedes em resorts luxuosos, explorando suas vidas e segredos.

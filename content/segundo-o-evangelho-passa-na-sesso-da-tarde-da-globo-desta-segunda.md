@@ -20,6 +20,9 @@ keywords: >-
   música, cinema
 data: '2025-04-07T07:11:47.356Z'
 author: Ana Luiza
+resumo: >-
+  A Sessão da Tarde desta segunda (7) exibe "Segundo o Evangelho", com Idris
+  Elba. O drama aborda fé e música, às 15h25, na TV Globo. Não perca!
 ---
 
 Nesta segunda-feira, 7 de agosto, a Sessão da Tarde da TV Globo traz o filme 'Segundo o Evangelho', lançado em 2005. Com início previsto para as 15h25, horário de Brasília, o filme tem uma duração de 1h50.

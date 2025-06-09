@@ -1,14 +1,32 @@
 ---
-title: "Thunderbolts apresentará balde de pipoca exclusivo com design do capacete do Guardião Vermelho"
-slug: "thunderbolts-ter-balde-de-pipoca-com-capacete-do-guardio-vermelho"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/U_tz3m_xjsBvHl_9gRk_SEnUnlY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T203433.644.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/U_tz3m_xjsBvHl_9gRk_SEnUnlY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T203433.644.png"
-tags: ["Thunderbolts", "Guardião Vermelho", "Marvel Studios", "colecionáveis", "cinema", "experiência de fãs", "produtos temáticos", "universo Marvel"]
-keywords: "Thunderbolts, Guardião Vermelho, Marvel Studios, colecionáveis, cinema, experiência de fãs, produtos temáticos, universo Marvel"
-author: "Pablo Moura"
-data: "2025-04-10T00:51:26.043Z"
+title: >-
+  Thunderbolts apresentará balde de pipoca exclusivo com design do capacete do
+  Guardião Vermelho
+slug: thunderbolts-ter-balde-de-pipoca-com-capacete-do-guardio-vermelho
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/U_tz3m_xjsBvHl_9gRk_SEnUnlY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T203433.644.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/U_tz3m_xjsBvHl_9gRk_SEnUnlY=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T203433.644.png
+tags:
+  - Thunderbolts
+  - Guardião Vermelho
+  - Marvel Studios
+  - colecionáveis
+  - cinema
+  - experiência de fãs
+  - produtos temáticos
+  - universo Marvel
+keywords: >-
+  Thunderbolts, Guardião Vermelho, Marvel Studios, colecionáveis, cinema,
+  experiência de fãs, produtos temáticos, universo Marvel
+author: Pablo Moura
+data: '2025-04-10T00:51:26.043Z'
+resumo: >-
+  Na estreia de Thunderbolts, fãs da Marvel podem obter um balde de pipoca
+  exclusivo em forma de capacete do Guardião Vermelho. Item limitado e
+  irresistível!
 ---
 
 Na estreia do filme Thunderbolts, os fãs terão a oportunidade de imergir ainda mais no universo Marvel com um item colecionável exclusivo: um balde de pipoca desenhado como o capacete do Guardião Vermelho. Este lançamento é uma colaboração entre os cinemas e a Marvel Studios, visando oferecer uma experiência única aos espectadores.

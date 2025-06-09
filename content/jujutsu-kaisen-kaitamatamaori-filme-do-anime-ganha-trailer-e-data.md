@@ -22,6 +22,10 @@ keywords: >-
   5.1ch
 data: '2025-04-04T16:11:27.809Z'
 author: Luana Souza
+resumo: >-
+  Jujutsu Kaisen: Kaitama/Tamaori' estreia em 30 de maio no Japão, expandindo o
+  universo com cinco episódios focados em Gojo e Geto. Globoplay planeja mais
+  ani...
 ---
 
 O universo de 'Jujutsu Kaisen' se expande com o lançamento do filme 'Jujutsu Kaisen: Kaitama/Tamaori', que acaba de receber um trailer oficial e uma data de estreia marcada para 30 de maio no Japão. Este filme é uma compilação de episódios focados na narrativa de Satoru Gojo e Suguro Geto. Composto por cinco episódios, 'Kaitama Tamaori' será exibido nos cinemas, agregando músicas remixadas e reorganizadas para proporcionar uma experiência imersiva em surround 5.1ch.

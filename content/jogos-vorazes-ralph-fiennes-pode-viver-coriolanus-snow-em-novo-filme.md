@@ -21,6 +21,10 @@ keywords: >-
   Quaternário, Haymitch Abernathy, Panem, estreia 2026
 data: '2025-04-04T23:11:09.641Z'
 author: Ana Luiza
+resumo: >-
+  Jogos Vorazes: Amanhecer na Colheita' está a caminho, com rumores de Ralph
+  Fiennes como Snow e Charlie Plummer como Haymitch. Direção de Francis
+  Lawrence.
 ---
 
 A franquia Jogos Vorazes está prestes a receber um novo capítulo com o filme 'Jogos Vorazes: Amanhecer na Colheita', e rumores circulam de que Ralph Fiennes poderia interpretar Coriolanus Snow, conforme informações do insider DanielRPK.

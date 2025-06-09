@@ -16,6 +16,10 @@ tags:
   - trailer
   - graphic novel
 author: Pablo Moura
+resumo: >-
+  O trailer final da série 'O Eternauta', com Ricardo Darin, foi lançado. A
+  adaptação da clássica graphic novel estreia na Netflix em 30 de abril.
+  Confira!
 ---
 
 Acaba de ser divulgado o trailer final da série argentina 'O Eternauta', estrelada pelo renomado ator Ricardo Darin. Confira a emocionante prévia no site da Netflix.

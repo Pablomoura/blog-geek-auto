@@ -21,6 +21,10 @@ keywords: >-
   Toronto, People's Choice Award, adaptação literária, elenco estelar
 data: '2025-04-03T19:10:46.084Z'
 author: Luana Souza
+resumo: >-
+  Descubra o novo pôster de 'A Vida de Chuck', dirigido por Mike Flanagan e
+  estrelado por Tom Hiddleston. Aclamado no Festival de Toronto, o filme adapta
+  Steph...
 ---
 
 Foi recentemente revelado o novo pôster do filme 'A Vida de Chuck', uma obra premiada dirigida e roteirizada por Mike Flanagan, com a estrela Tom Hiddleston no papel principal. O filme, que foi aclamado no Festival de Toronto de 2024, onde recebeu o People's Choice Award, oferece uma narrativa invertida da vida de Charles Krantz, iniciando com sua morte causada por um tumor cerebral aos 39 anos e retrocedendo até sua infância em uma casa mal assombrada. A obra é uma adaptação de um conto de Stephen King.

@@ -17,6 +17,9 @@ tags:
   - lançamento de filme
   - site oficial
 author: Luana Souza
+resumo: >-
+  A expectativa cresce para o quarto filme de Homem-Aranha com Tom Holland,
+  previsto para julho de 2026. Sony pode revelar detalhes na CinemaCon hoje.
 ---
 
 A expectativa para o quarto filme da saga Homem-Aranha, com Tom Holland no papel principal, cresce à medida que a Sony Pictures lança um site oficial. Agendado para estrear em julho de 2026, o site foi divulgado no último fim de semana pela filial francesa da Sony, sugerindo que novos detalhes sobre o filme podem ser revelados na CinemaCon hoje, dia 31 de março.

@@ -17,6 +17,10 @@ tags:
   - estreia 2027
   - jharrel jerome
 author: Ana Luiza
+resumo: >-
+  A sequência 'Homem-Aranha: Além do Aranhaverso' estreia em 4 de junho de 2027.
+  Diretores e elenco confirmados prometem mais aventuras no multiverso de
+  Miles...
 ---
 
 A aguardada continuação da saga Aranhaverso, 'Homem-Aranha: Além do Aranhaverso', já tem data de lançamento confirmada. O anúncio foi feito durante a CinemaCon deste ano, trazendo alívio aos fãs ansiosos por novidades.

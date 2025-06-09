@@ -1,14 +1,30 @@
 ---
-title: "The Elder Scrolls Online revela novidades para 2025; confira"
-slug: "the-elder-scrolls-online-revela-novidades-para-2025-confira"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/uCA05lRp75w?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/4NZkDsMjdQ9h3tAFu0OPd0aE0W0=/480x360/smart/extras/conteudos/unnamed_7_rIi4edR.jpg"
-tags: ["The Elder Scrolls Online", "ESO Direct 2025", "ZeniMax Online Studios", "Seasons of the Worm Cult", "expansões de jogos", "atualizações de jogos", "Subclassing", "Hero's Return"]
-keywords: "The Elder Scrolls Online, ESO Direct 2025, ZeniMax Online Studios, Seasons of the Worm Cult, expansões de jogos, atualizações de jogos, Subclassing, Hero's Return"
-author: "Ana Luiza"
-data: "2025-04-10T22:10:11.136Z"
+title: The Elder Scrolls Online revela novidades para 2025; confira
+slug: the-elder-scrolls-online-revela-novidades-para-2025-confira
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/uCA05lRp75w?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/4NZkDsMjdQ9h3tAFu0OPd0aE0W0=/480x360/smart/extras/conteudos/unnamed_7_rIi4edR.jpg
+tags:
+  - The Elder Scrolls Online
+  - ESO Direct 2025
+  - ZeniMax Online Studios
+  - Seasons of the Worm Cult
+  - expansões de jogos
+  - atualizações de jogos
+  - Subclassing
+  - Hero's Return
+keywords: >-
+  The Elder Scrolls Online, ESO Direct 2025, ZeniMax Online Studios, Seasons of
+  the Worm Cult, expansões de jogos, atualizações de jogos, Subclassing, Hero's
+  Return
+author: Ana Luiza
+data: '2025-04-10T22:10:11.136Z'
+resumo: >-
+  ZeniMax revela expansão Seasons of the Worm Cult para The Elder Scrolls
+  Online, levando jogadores à ilha de Solstice. Lançamento em junho de 2025 para
+  PC e c...
 ---
 
 Durante o ESO Direct 2025, realizado nesta quinta-feira (10), a ZeniMax Online Studios anunciou as próximas expansões de The Elder Scrolls Online para o ano de 2025. Entre as principais adições está o Seasons of the Worm Cult, que transportará os jogadores à ilha de Solstice, um novo território no mapa do jogo, dividido pela enigmática Writhing Wall. Este local está sob o domínio do temível Worm Cult, marcando a primeira vez que uma narrativa iniciada no jogo base terá continuação, embora não seja necessário ter completado a história original para participar desta nova aventura.

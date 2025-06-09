@@ -16,6 +16,9 @@ tags:
   - universal+
   - séries de tv
 author: Ana Luiza
+resumo: >-
+  Universal+ lança crossover épico entre 'Chicago PD', 'Chicago Fire' e 'Chicago
+  Med' em 1º de abril. Episódio especial promete ação e drama em três partes.
 ---
 
 O serviço de streaming Universal+ anunciou que o aguardado crossover entre 'Chicago PD', 'Chicago Fire' e 'Chicago Med' será lançado no dia 1º de abril. Este evento especial reunirá os protagonistas das três populares séries, marcando a primeira colaboração do tipo desde 2019.

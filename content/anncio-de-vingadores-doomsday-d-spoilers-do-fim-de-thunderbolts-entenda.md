@@ -18,6 +18,10 @@ tags:
   - spoilers
   - filmes de super-heróis
 author: Luana Souza
+resumo: >-
+  A Marvel pode ter revelado o destino dos personagens de 'Thunderbolts' durante
+  o evento de 'Vingadores: Doomsday', sugerindo que sobrevivem a um confronto
+  ép...
 ---
 
 A Marvel pode ter inadvertidamente revelado detalhes cruciais do final de 'Thunderbolts' durante a apresentação ao vivo do elenco de 'Vingadores: Doomsday'. Entre os atores confirmados estão Sebastian Stan como Bucky/Soldado Invernal e Florence Pugh como Yelena Belova/Viúva Negra, ambos também parte do filme 'Thunderbolts'.

@@ -15,6 +15,10 @@ tags:
   - animação
   - trailer
 author: Luana Souza
+resumo: >-
+  Evanescence compõe música para a animação 'Devil May Cry' da Netflix. A série,
+  baseada nos jogos da Capcom, estreia com ação intensa e demônios. Ouça
+  'Afterl...
 ---
 
 A Netflix revelou recentemente que a banda Evanescence compôs uma música original para a nova animação 'Devil May Cry', baseada na famosa série de jogos da Capcom. O tema, intitulado 'Afterlife', foi apresentado em um novo trailer que exibe cenas da série. Confira o vídeo no site oficial da Netflix!

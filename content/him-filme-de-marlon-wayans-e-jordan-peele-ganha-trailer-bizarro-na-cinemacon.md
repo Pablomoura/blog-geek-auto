@@ -21,6 +21,10 @@ keywords: >-
   bizarro, Universal Pictures, mistério
 data: '2025-04-03T00:13:54.411Z'
 author: Ana Luiza
+resumo: >-
+  Na CinemaCon, foi revelado o trailer de 'HIM', estrelado por Marlon Wayans e
+  produzido por Jordan Peele. O filme mistura terror e esporte, prometendo
+  suspens...
 ---
 
 Durante a CinemaCon, um evento destinado à indústria cinematográfica, foi apresentado o primeiro trailer do filme 'HIM', uma produção estrelada por Marlon Wayans e sob a batuta do produtor Jordan Peele. O lançamento ocorreu no painel da Universal Pictures, capturando a atenção do público presente.

@@ -20,6 +20,9 @@ keywords: >-
   ficção científica, crise global
 data: '2025-04-08T17:11:35.434Z'
 author: Pablo Moura
+resumo: >-
+  Lazarus', anime dirigido por Shinichiro Watanabe, estreia na Max com uma trama
+  de suspense futurista. Em 2052, uma droga milagrosa revela um segredo mortal.
 ---
 
 O ano de 2025 promete grandes novidades para os fãs de anime, e uma das obras mais esperadas é 'Lazarus', que já causou grande impressão com os seus três primeiros episódios disponíveis na plataforma Max. Sob a direção criativa de Shinichiro Watanabe, conhecido por seu trabalho inovador, e a colaboração de Chad Stahelski, diretor dos filmes 'John Wick', na concepção das cenas de ação, 'Lazarus' apresenta uma trama envolvente e promissora.

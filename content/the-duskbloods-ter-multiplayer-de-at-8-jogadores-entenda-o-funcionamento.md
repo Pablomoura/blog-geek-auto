@@ -20,6 +20,10 @@ keywords: >-
   FromSoftware, último jogador em pé
 data: '2025-04-04T14:11:49.879Z'
 author: Ana Luiza
+resumo: >-
+  Hidetaka Miyazaki revela The Duskbloods, um jogo multiplayer dinâmico da
+  FromSoftware com até oito jogadores, misturando batalhas PvP e PvE em um
+  inovador es...
 ---
 
 Em uma revelação empolgante para os fãs de games, Hidetaka Miyazaki, renomado game designer, concedeu uma entrevista ao blog oficial da Nintendo para discutir detalhes sobre seu mais novo projeto, The Duskbloods. Durante a conversa, Miyazaki destacou que o jogo será dedicado ao multiplayer, suportando até oito jogadores simultaneamente. O jogo apresentará uma combinação de modos PvP (Player versus Player) e PvE (Player versus Environment), proporcionando uma experiência dinâmica e variada.

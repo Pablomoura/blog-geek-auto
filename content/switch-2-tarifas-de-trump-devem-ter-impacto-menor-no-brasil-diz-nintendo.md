@@ -24,6 +24,9 @@ keywords: >-
   comercial
 data: '2025-04-07T14:12:53.893Z'
 author: Luana Souza
+resumo: >-
+  Doug Bowser, presidente da Nintendo nos EUA, prevê impacto tarifário menor no
+  Brasil para o Nintendo Switch 2, com lançamento global em 5 de novembro.
 ---
 
 Em meio ao adiamento da pré-venda do novo console Nintendo Switch 2 nos Estados Unidos, Doug Bowser, presidente da Nintendo naquela região, trouxe uma perspectiva mais otimista para o mercado brasileiro. Segundo ele, o impacto das recentes tarifas impostas pelo governo de Donald Trump será menos significativo no Brasil. Em uma entrevista concedida à Folha na última semana, Bowser destacou que, baseado nas decisões políticas recentes, a América Latina, e em particular o Brasil, enfrentará menos dificuldades.

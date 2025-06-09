@@ -21,6 +21,9 @@ keywords: >-
   Barry Keoghan, thriller policial
 data: '2025-04-03T05:12:57.291Z'
 author: Pablo Moura
+resumo: >-
+  Revelado na CinemaCon 2025, 'Crime 101' traz Chris Hemsworth e Halle Berry em
+  um suspense eletrizante sobre ladrões de joias e perseguições intensas.
 ---
 
 Durante a CinemaCon 2025, foi revelado o primeiro trailer de 'Crime 101', um suspense baseado no livro homônimo de Don Winslow, estrelado por Chris Hemsworth. O filme, que também conta com a participação de Halle Berry e Barry Keoghan, tem previsão de lançamento anunciada no evento.

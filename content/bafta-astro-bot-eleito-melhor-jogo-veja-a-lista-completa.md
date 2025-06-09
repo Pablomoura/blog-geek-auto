@@ -23,6 +23,10 @@ keywords: >-
   Black Myth: Wukong, jogos de família, animação em jogos
 data: '2025-04-08T21:10:48.938Z'
 author: Luana Souza
+resumo: >-
+  Astro Bot brilha no BAFTA Game Awards, vencendo Melhor Jogo, Família e
+  Animação. Senua's Saga: Hellblade 2 lidera indicações, destacando-se entre 41
+  jogos.
 ---
 
 A 21ª edição do BAFTA Game Awards, um dos eventos mais prestigiados do mundo dos videogames, anunciou seus vencedores recentemente. O grande destaque da noite foi o jogo Astro Bot para PS5, que não só ganhou o prêmio de Melhor Jogo, mas também foi reconhecido nas categorias de Melhor Jogo Família e Melhor Animação, consolidando sua posição de destaque na indústria.

@@ -17,6 +17,10 @@ tags:
   - pôster
   - eu sei o que vocês fizeram no verão passado
 author: Ana Luiza
+resumo: >-
+  O revival de 'Eu Sei o Que Vocês Fizeram no Verão Passado' ganha pôster e gera
+  expectativas. Freddie Prinze Jr. deve retornar; estreia em 18 de julho de
+  2025.
 ---
 
 O aguardado revival do filme 'Eu Sei o Que Vocês Fizeram no Verão Passado' acaba de ser agraciado com um novo pôster, que promete reviver o suspense que cativou tantos fãs. A arte do pôster foi divulgada recentemente e já está gerando expectativas.

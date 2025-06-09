@@ -19,6 +19,10 @@ tags:
   - cinemacon
   - cinema de ação
 author: Pablo Moura
+resumo: >-
+  Novo spin-off de 'John Wick' focará em Caine, de Donnie Yen, sob influência do
+  cinema de ação de Hong Kong. Filmagens começam em 2025; roteiro por Mattson
+  To...
 ---
 
 A franquia 'John Wick' está se expandindo com um novo spin-off centrado no personagem Caine, interpretado por Donnie Yen, que também assumirá a direção do filme. A confirmação veio durante a CinemaCon, onde foi revelado que o estilo do filme será fortemente influenciado pelo cinema de ação de Hong Kong, uma marca registrada de Yen em obras como 'O Grande Mestre'.

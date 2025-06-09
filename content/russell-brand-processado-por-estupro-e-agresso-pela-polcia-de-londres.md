@@ -22,6 +22,10 @@ keywords: >-
   entretenimento
 data: '2025-04-04T14:12:38.276Z'
 author: Pablo Moura
+resumo: >-
+  Russell Brand enfrenta graves acusações de estupro e agressão sexual, com
+  investigações em curso pela Polícia Metropolitana de Londres, após denúncias
+  de vár...
 ---
 
 O ator e comediante Russell Brand enfrenta acusações formais de estupro, agressão sexual e agressão indecente pela Polícia Metropolitana de Londres. A investigação, que teve início há 18 meses, foi motivada por alegações detalhadas em reportagens do Channel 4 e do The Sunday Times, envolvendo quatro mulheres distintas. 

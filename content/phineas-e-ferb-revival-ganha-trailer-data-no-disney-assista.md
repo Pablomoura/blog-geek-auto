@@ -20,6 +20,10 @@ keywords: >-
   Perry o ornitorrinco, lançamento 2023
 data: '2025-04-03T17:10:05.778Z'
 author: Pablo Moura
+resumo: >-
+  Phineas e Ferb' retorna com trailer e estreia no Disney+ em 6 de junho.
+  Prepare-se para 104 dias de verão repletos de aventuras, novos desafios e
+  diversão!
 ---
 
 A aclamada série animada 'Phineas e Ferb' está de volta com um novo trailer e uma data oficial de lançamento no Disney+. A prévia já está disponível para o público e pode ser assistida na plataforma. Na narrativa original, Phineas e Ferb se tornam irmãos e melhores amigos após o casamento de seus pais. Phineas é conhecido por suas ideias inovadoras para invenções, enquanto Ferb sempre se mostra um colaborador entusiasta. Candace, a irmã mais velha, tenta constantemente expor as travessuras dos irmãos aos pais, mas sempre chega um passo atrás, encontrando tudo já arrumado. Além disso, Perry, o ornitorrinco de estimação da família, desempenha um papel duplo como agente secreto combatendo o vilão Dr. Heinz Doofenshmirtz.

@@ -21,6 +21,9 @@ keywords: >-
   Pounder, crimes reais, hitchcockiano
 data: '2025-04-08T02:23:12.955Z'
 author: Ana Luiza
+resumo: >-
+  Apple TV+ anuncia série 'Cabo do Medo' com CHH Pounder e direção de Morten
+  Tyldum. O thriller hitchcockiano explora a fixação dos EUA por crimes reais.
 ---
 
 Apple TV+ confirmou nesta segunda-feira (07) novidades sobre a adaptação de 'Cabo do Medo'. A atriz CHH Pounder foi escalada para o elenco, e Morten Tyldum, conhecido por dirigir 'Silo', será o responsável pela direção do episódio piloto, além de assumir o papel de produtor executivo.

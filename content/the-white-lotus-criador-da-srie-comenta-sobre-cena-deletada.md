@@ -20,6 +20,10 @@ keywords: >-
   drama, comédia romântica
 data: '2025-04-08T02:21:43.385Z'
 author: Luana Souza
+resumo: >-
+  Mike White, de The White Lotus, revela cena cortada do final: Piper, após
+  deixar o monastério, decide perder a virgindade, mas a cena foi excluída para
+  mante...
 ---
 
 Durante sua participação no podcast oficial de The White Lotus, Mike White, o criador e diretor da série, discutiu o desfecho do programa e mencionou uma cena importante que foi cortada do final. White expressou que, apesar das críticas sobre a falta de enredo, ele acredita que a 'vibe' da série é um elemento crucial. 'Estou criando um universo. Se você não quer dormir comigo, então saia da minha cama. Estou te provocando! Aproveite a provocação,' disse ele, enfatizando a experiência provocativa que deseja oferecer ao público.

@@ -16,6 +16,10 @@ tags:
   - mike hopkins
   - prime video
 author: Ana Luiza
+resumo: >-
+  Jennifer Salke deixa a chefia da Amazon MGM Studios para abrir sua produtora.
+  Courtenay Valenti e Vernon Sanders assumem temporariamente. Salke foi crucial
+  n...
 ---
 
 Jennifer Salke anunciou sua saída do cargo de chefe da Amazon MGM Studios. A notícia foi divulgada através de um e-mail interno enviado aos funcionários por Mike Hopkins, chefe do Prime Video. Salke planeja fundar sua própria produtora de cinema e televisão, com projetos ainda não divulgados.

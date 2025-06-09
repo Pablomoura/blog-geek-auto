@@ -17,6 +17,10 @@ tags:
   - adiamento de filme
   - turnê mundial
 author: Luana Souza
+resumo: >-
+  O filme de Kendrick Lamar com os criadores de South Park é adiado para março
+  de 2026. Lamar embarca em turnê mundial enquanto trama do filme permanece em
+  sig...
 ---
 
 A estreia do aguardado filme que une Kendrick Lamar aos criadores de South Park, Matt Stone e Trey Parker, foi adiada de 4 de julho de 2025 para 20 de março de 2026. 

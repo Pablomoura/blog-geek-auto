@@ -21,6 +21,10 @@ keywords: >-
   Fanning, franquia Predador, Predador: Badlands
 data: '2025-04-03T22:11:11.675Z'
 author: Ana Luiza
+resumo: >-
+  Em 2025, Predador: Killer of Killers, uma antologia animada, estreia no
+  streaming antes de Predador: Badlands, dirigido por Dan Trachtenberg, em
+  novembro.
 ---
 
 No último ano, foi revelado que 2025 marcará o lançamento de dois novos filmes da série Predador. Um deles, já conhecido, é Predador: Badlands, dirigido por Dan Trachtenberg, responsável por O Predador: A Caçada. O outro filme, até então envolto em mistério, começou a ser desvendado em outubro último, quando o Gizmodo divulgou um 'rumor' sobre sua natureza. Segundo o site, o filme seria uma antologia animada, contendo três histórias distintas, onde o Predador enfrenta grandes guerreiros humanos em diferentes épocas e locais, incluindo um samurai e um pirata. 

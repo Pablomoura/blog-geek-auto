@@ -21,6 +21,10 @@ keywords: >-
   Multiverso, elenco estelar, Saga do Multiverso
 data: '2025-04-03T23:13:08.451Z'
 author: Ana Luiza
+resumo: >-
+  Kevin Feige revela detalhes de 'Vingadores: Doomsday' na CinemaCon 2025, com
+  heróis icônicos e Robert Downey Jr. como Doutor Destino em uma batalha
+  multiversal.
 ---
 
 No recente painel da Disney na CinemaCon 2025, Kevin Feige, notório produtor da Marvel, compartilhou informações diretamente do set de filmagem de 'Vingadores: Doomsday' na Inglaterra. Ele anunciou que o filme integrará um elenco diverso de heróis, incluindo os Vingadores, Wakandanos, o Quarteto Fantástico, os Thunderbolts e os X-Men originais, todos unidos contra o antagonista Doutor Destino, interpretado por Robert Downey Jr.

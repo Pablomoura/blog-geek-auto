@@ -18,6 +18,9 @@ tags:
   - cinemacon 2025
   - filme de artes marciais
 author: Pablo Moura
+resumo: >-
+  O pôster de 'Karate Kid: Lendas' destaca Jackie Chan e aumenta a expectativa
+  para o lançamento em maio. Confira novidades da CinemaCon 2025 sobre o filme!
 ---
 
 O mais recente pôster de 'Karate Kid: Lendas' traz em destaque o mestre de Kung-fu interpretado pelo icônico Jackie Chan. A arte promocional foi revelada e já está gerando grande expectativa entre os fãs.

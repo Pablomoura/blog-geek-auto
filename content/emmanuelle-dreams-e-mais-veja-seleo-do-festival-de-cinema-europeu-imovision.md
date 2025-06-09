@@ -24,6 +24,10 @@ keywords: >-
   contemporâneo
 data: '2025-04-04T13:21:00.089Z'
 author: Luana Souza
+resumo: >-
+  O Festival de Cinema Europeu Imovision estreia com 14 filmes inéditos de 8
+  países, incluindo 'Dreams' de Dag Johan Hauregard e uma nova versão de
+  'Emmanuelle'.
 ---
 
 A 1ª edição do Festival de Cinema Europeu Imovision, que ocorrerá de 24 a 30 de abril, revelou hoje (4) sua seleção completa de filmes, englobando 14 produções inéditas de oito diferentes países europeus. Entre as obras destacadas está 'Dreams', do cineasta Dag Johan Hauregard, vencedor do Urso de Ouro no Festival de Berlim 2025. Este filme faz parte da trilogia 'Sex, Love & Dreams', já parcialmente exibida nos cinemas brasileiros.

@@ -1,14 +1,30 @@
 ---
-title: "Karatê Kid: Lendas | Ben Wang treina intensamente para novo filme"
-slug: "karat-kid-lendas-vdeo-mostra-treinamento-de-ben-wang-para-filme"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/uSz1XGm3boU7XD6AT5ki6YUgUCY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-10T104817.235.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/dZN_xaYx2efMjZIbkaUucvvBuJg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T104801.460.png"
-tags: ["Karate Kid: Lendas", "Ben Wang", "treinamento de artes marciais", "Ralph Macchio", "Jackie Chan", "filme de ação", "saga cinematográfica", "kung fu e karatê"]
-keywords: "Karate Kid: Lendas, Ben Wang, treinamento de artes marciais, Ralph Macchio, Jackie Chan, filme de ação, saga cinematográfica, kung fu e karatê"
-author: "Luana Souza"
-data: "2025-04-10T14:11:17.760Z"
+title: 'Karatê Kid: Lendas | Ben Wang treina intensamente para novo filme'
+slug: karat-kid-lendas-vdeo-mostra-treinamento-de-ben-wang-para-filme
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/uSz1XGm3boU7XD6AT5ki6YUgUCY=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-10T104817.235.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/dZN_xaYx2efMjZIbkaUucvvBuJg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T104801.460.png
+tags:
+  - 'Karate Kid: Lendas'
+  - Ben Wang
+  - treinamento de artes marciais
+  - Ralph Macchio
+  - Jackie Chan
+  - filme de ação
+  - saga cinematográfica
+  - kung fu e karatê
+keywords: >-
+  Karate Kid: Lendas, Ben Wang, treinamento de artes marciais, Ralph Macchio,
+  Jackie Chan, filme de ação, saga cinematográfica, kung fu e karatê
+author: Luana Souza
+data: '2025-04-10T14:11:17.760Z'
+resumo: >-
+  Descubra os bastidores do treinamento de Ben Wang para 'Karate Kid: Lendas'. O
+  filme reúne Ralph Macchio e Jackie Chan em uma saga épica de superação e
+  artes...
 ---
 
 Um vídeo recentemente divulgado pela Sony Pictures revela os bastidores do treinamento de Ben Wang para o seu papel em 'Karate Kid: Lendas', a mais nova adição à icônica série cinematográfica que também traz de volta Ralph Macchio e Jackie Chan. O filme, aguardado com expectativa, promete emocionar os fãs da saga. 

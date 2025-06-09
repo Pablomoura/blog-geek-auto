@@ -20,6 +20,10 @@ keywords: >-
   videogames, recorde de bilheteria
 data: '2025-04-05T16:11:14.113Z'
 author: Ana Luiza
+resumo: >-
+  Um Filme Minecraft' estreia com expectativa de arrecadar mais de US$ 135
+  milhões, superando recordes nos EUA e contando com um elenco estelar liderado
+  por Ja...
 ---
 
 A estreia de 'Um Filme Minecraft' promete marcar a história da bilheteria global com uma projeção de arrecadação que pode ultrapassar os US$ 135 milhões. Segundo informações do Deadline, somente nos Estados Unidos, o filme está projetado para ganhar cerca de US$ 58 milhões, posicionando-se como a maior estreia do ano de 2025 até agora, superando os US$ 40,9 milhões arrecadados por 'Capitão América: Admirável Mundo Novo' em fevereiro.

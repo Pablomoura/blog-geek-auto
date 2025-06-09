@@ -18,6 +18,10 @@ tags:
   - conexões marvel
   - spoilers série
 author: Luana Souza
+resumo: >-
+  No episódio 5 de 'Demolidor: Renascido', conexões intrigantes sugerem o futuro
+  de Kamala Khan e os Jovens Vingadores na série 'Campeões', explorando novas
+  al...
 ---
 
 [Alerta de spoilers do episódio 5 de 'Demolidor: Renascido' a seguir]

@@ -20,6 +20,10 @@ keywords: >-
   Stephen Graham, séries populares, streaming
 data: '2025-04-08T20:11:25.610Z'
 author: Luana Souza
+resumo: >-
+  Adolescência', nova minissérie da Netflix, atinge 114,5 milhões de
+  visualizações, superando sucessos como 'La Casa de Papel'. Filmada em
+  plano-sequência, é u...
 ---
 
 A nova minissérie da Netflix, 'Adolescência', tem alcançado marcos notáveis em termos de audiência desde sua estreia em março. Segundo informações do UOL que cita a plataforma de streaming, a série já acumulou mais de 114,5 milhões de visualizações. Apenas na última semana, registrou mais de 17,8 milhões de visualizações completas, referentes a espectadores que assistiram todos os episódios.

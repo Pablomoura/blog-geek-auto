@@ -24,6 +24,9 @@ keywords: >-
   assédio sexual, Deadpool & Wolverine, Wayfarer Studios
 data: '2025-04-04T13:22:45.173Z'
 author: Ana Luiza
+resumo: >-
+  A disputa legal entre Justin Baldoni e Blake Lively ganha nova dimensão com
+  Ryan Reynolds acusado de manipular acusações de assédio para acumular poder.
 ---
 
 A disputa legal envolvendo Justin Baldoni e Blake Lively ganha novos contornos com a inclusão de Ryan Reynolds. Em março, Reynolds solicitou ser removido de um processo de difamação, no valor de US$ 400 milhões, iniciado por Justin Baldoni. No entanto, Baldoni está contestando essa exclusão e acusa Reynolds de manipular acusações de assédio para se fortalecer nos bastidores durante a produção do filme 'É Assim que Acaba'.

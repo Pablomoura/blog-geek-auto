@@ -20,6 +20,10 @@ keywords: >-
   estreia 2025, Fase 6 MCU
 data: '2025-04-04T15:12:14.202Z'
 author: Luana Souza
+resumo: >-
+  Quarteto Fantástico: Primeiros Passos' introduz os heróis em seu próprio
+  universo no MCU. Dirigido por Matt Shakman, o filme estrela Pedro Pascal e
+  Vanessa K...
 ---
 
 O aguardado filme 'Quarteto Fantástico: Primeiros Passos', que marca o retorno da família de heróis ao cinema sob a égide do MCU, teve uma importante teoria confirmada por Matt Shakman, seu diretor. 'Nós somos nosso próprio universo, o que é ótimo e libertador', declarou Shakman, esclarecendo que os personagens originam-se de outra dimensão. 'Então realmente não há outros super-heróis. Não há easter eggs... eventualmente, esse mundo se encontrará com outros mundos mas, por ora, é o nosso próprio cantinho', explicou ele em entrevista à revista Empire.

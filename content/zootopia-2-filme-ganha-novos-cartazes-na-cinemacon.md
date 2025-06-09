@@ -21,6 +21,9 @@ keywords: >-
   antropomórficos, sucesso de bilheteria, streaming Disney+, elenco estelar
 data: '2025-04-03T21:10:40.350Z'
 author: Ana Luiza
+resumo: >-
+  Zootopia 2' ganha novo cartaz na CinemaCon 2025, elevando a expectativa dos
+  fãs. Mais novidades da Disney são aguardadas no painel do evento nesta quinta.
 ---
 
 O aguardado filme 'Zootopia 2' teve um novo cartaz divulgado durante a CinemaCon 2025, aumentando a expectativa dos fãs para o que está por vir. A revelação ocorreu nas redes sociais do site CinePop, onde o público pode conferir a nova arte promocional.

@@ -21,6 +21,10 @@ keywords: >-
   Series X, PlayStation 5, gameplay, The Game Awards
 data: '2025-04-09T14:05:42.655Z'
 author: Luana Souza
+resumo: >-
+  A Xbox anuncia o Games Showcase 2025 para 8 de junho, com destaque para The
+  Outer Worlds 2. Expectativa por novidades de jogos e transmissões em 40
+  idiomas.
 ---
 
 A Xbox anunciou oficialmente a data do Xbox Games Showcase 2025, evento que continuará a tradição de ser seguido por uma apresentação especial, desta vez com foco em The Outer Worlds 2. Nos anos anteriores, o showcase foi acompanhado por jogos de grande calibre, como Starfield em 2023 e Call of Duty: Black Ops 6 em 2024. O próximo evento está marcado para 8 de junho e promete trazer atualizações importantes sobre os principais projetos em desenvolvimento pelos estúdios da Microsoft, além de novidades de jogos de terceiros para as plataformas da empresa.

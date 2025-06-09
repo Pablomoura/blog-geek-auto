@@ -23,6 +23,10 @@ keywords: >-
   2025, Marvel, bastidores
 data: '2025-04-04T22:10:14.477Z'
 author: Luana Souza
+resumo: >-
+  Vídeo promocional de Thunderbolts mostra David Harbour como Guardião Vermelho
+  dirigindo uma limusine vermelha rumo à CinemaCon 2025, gerando expectativa
+  entr...
 ---
 
 Um vídeo recentemente divulgado na página oficial do filme Thunderbolts no X (antigo Twitter) nesta sexta-feira (04) capturou a atenção dos fãs ao mostrar David Harbour, caracterizado como Guardião Vermelho, dirigindo uma limusine vermelha. Durante o trajeto, Harbour entretém seus colegas de elenco com o sotaque do personagem enquanto se dirigem à CinemaCon 2025.

@@ -23,6 +23,9 @@ keywords: >-
   X-Men, Marvel, Multiverso
 data: '2025-04-05T16:12:13.116Z'
 author: Pablo Moura
+resumo: >-
+  Oscar Isaac pode se juntar aos Vingadores em 'Doomsday'. Rumores surgem após
+  cancelamento de evento. Doutor Destino e X-Men prometem agitar o MCU.
 ---
 
 O ator Oscar Isaac, conhecido por sua performance como Cavaleiro da Lua na série do Disney+, pode ter se juntado ao elenco de 'Vingadores: Doomsday', de acordo com informações do ComicBookMovie. A especulação ganhou força após Isaac cancelar abruptamente sua participação na Star Wars Celebration no Japão devido a alterações em sua agenda de produção, conforme anunciado pelos organizadores do evento no site oficial da Disney.

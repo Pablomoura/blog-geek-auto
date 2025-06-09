@@ -20,6 +20,10 @@ tags:
   - animação
   - tecnologia
 author: Ana Luiza
+resumo: >-
+  A postura de Hayao Miyazaki sobre IA gera polêmica online. O cineasta,
+  conhecido por 'O Menino e a Garça', já criticou duramente a tecnologia. Saiba
+  mais!
 ---
 
 O impacto das criações de Inteligência Artificial, que imitam o estilo do Studio Ghibli, tem gerado intensas discussões online. Diante disso, muitos se perguntam qual é a posição de Hayao Miyazaki, figura icônica por trás do estúdio, sobre essa tecnologia.

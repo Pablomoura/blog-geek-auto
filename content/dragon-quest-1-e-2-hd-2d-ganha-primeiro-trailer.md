@@ -16,6 +16,10 @@ tags:
   - trailer
   - jogos clássicos
 author: Ana Luiza
+resumo: >-
+  A Square Enix revela o trailer dos remakes em HD-2D de Dragon Quest 1 e 2,
+  prometendo revitalizar a experiência clássica. Data de lançamento ainda não
+  anunci...
 ---
 
 A Square Enix acaba de lançar o primeiro trailer dos aguardados remakes de Dragon Quest 1 e 2 em HD-2D. Essa nova apresentação visual promete revitalizar a experiência clássica dos jogos originais.

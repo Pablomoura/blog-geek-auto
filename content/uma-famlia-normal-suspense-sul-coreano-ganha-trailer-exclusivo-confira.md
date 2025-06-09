@@ -21,6 +21,9 @@ keywords: >-
   cinema sul-coreano, Pandora Filmes, elenco estrelado, estreia em maio
 data: '2025-04-09T12:17:14.338Z'
 author: Ana Luiza
+resumo: >-
+  Uma Família Normal', novo filme sul-coreano adaptado de 'O Jantar', ganha
+  trailer. Estreia em 1º de maio no Brasil, com Sul Kyung-gu e Jang Dong-gun.
 ---
 
 A nova produção cinematográfica sul-coreana, 'Uma Família Normal', que traz uma adaptação do aclamado livro 'O Jantar' de Herman Koch, acaba de ter seu trailer exclusivo divulgado. Este foi gentilmente disponibilizado pela Pandora Filmes ao site Omelete. 

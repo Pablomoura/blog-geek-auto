@@ -21,6 +21,10 @@ keywords: >-
   Dakota Johnson, Josh Hartnett, thriller psicológico, Amazon MGM Studios
 data: '2025-04-03T04:13:26.010Z'
 author: Pablo Moura
+resumo: >-
+  Verity', adaptação de Colleen Hoover, encanta na CinemaCon 2025 com Anne
+  Hathaway e Josh Hartnett. Mistério e tensão em cenas impactantes. Descubra
+  mais!
 ---
 
 A aguardada adaptação cinematográfica de 'Verity', baseada na obra de Colleen Hoover, foi destaque na CinemaCon 2025, onde foram exibidas as primeiras cenas do filme que conta com Anne Hathaway no papel principal. No trailer revelado, Anne Hathaway e Josh Hartnett são vistos em uma festa, onde ele a aconselha a não beber mais, mostrando interesse em convidá-la para sair. 

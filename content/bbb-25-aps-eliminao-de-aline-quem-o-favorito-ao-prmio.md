@@ -16,6 +16,10 @@ tags:
   - paredão
   - pesquisa uol
 author: Pablo Moura
+resumo: >-
+  A eliminação de Aline no BBB 25 trouxe novas dinâmicas ao jogo. Vitória Strada
+  lidera as preferências com 30,88%, seguida por Renata em empate técnico. 13
+  co...
 ---
 
 A recente eliminação de Aline no oitavo Paredão do BBB 25 revelou uma nova dinâmica no jogo, alterando as preferências do público. Atualmente, 13 participantes continuam na disputa pelo cobiçado prêmio de R$ 2,53 milhões.

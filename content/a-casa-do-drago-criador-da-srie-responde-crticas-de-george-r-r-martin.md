@@ -19,6 +19,9 @@ tags:
   - adaptação de série
   - entertainment weekly
 author: Ana Luiza
+resumo: >-
+  Ryan Condal, de 'A Casa do Dragão', expressa decepção com críticas de George
+  R.R. Martin sobre adaptações da série. Terceira temporada já está em produção.
 ---
 
 Ryan Condal, o showrunner de 'A Casa do Dragão', discutiu em entrevista à Entertainment Weekly a sua decepção com as críticas de George R.R. Martin, autor das 'As Crônicas de Gelo e Fogo'. Martin recentemente expressou insatisfação em seu blog sobre como a série adaptou o episódio 'Sangue & Queijo', destacando a omissão do personagem Príncipe Maelor e as potenciais implicações dessa mudança para o enredo futuro da série.

@@ -17,6 +17,10 @@ tags:
   - estreia
   - streaming
 author: Pablo Moura
+resumo: >-
+  Chefe de Guerra', série de Jason Momoa, estreia em 1º de agosto no Apple TV+.
+  Inspirada em eventos reais, a trama promete imersão na cultura havaiana do
+  sécu...
 ---
 
 A aguardada série 'Chefe de Guerra', protagonizada e escrita por Jason Momoa, finalmente tem data de estreia no Apple TV+. O lançamento está marcado para 1º de agosto, com dois episódios inaugurais, seguidos de lançamentos semanais até 19 de setembro, quando o nono e último episódio será disponibilizado.

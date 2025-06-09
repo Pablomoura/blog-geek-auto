@@ -18,6 +18,10 @@ tags:
   - festival de música
   - shows ao vivo
 author: Ana Luiza
+resumo: >-
+  Olivia Rodrigo é destaque no Lollapalooza 2025 em São Paulo. Confira a
+  programação completa, horários e mapa do Autódromo de Interlagos no portal
+  Omelete.
 ---
 
 Olivia Rodrigo é a grande atração de hoje (28) no Lollapalooza 2025, que tem início no Autódromo de Interlagos, em São Paulo. Para quem planeja aproveitar o festival, é essencial conhecer os palcos e os horários dos shows de artistas como Olivia Rodrigo, Jão, Rüfus Du Sol, Empire of the Sun e Tropkillaz.

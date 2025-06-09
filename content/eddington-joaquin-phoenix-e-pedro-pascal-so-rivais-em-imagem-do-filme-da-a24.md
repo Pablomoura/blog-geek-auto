@@ -1,14 +1,31 @@
 ---
-title: "Eddington | Joaquin Phoenix e Pedro Pascal são rivais em imagem do filme da A24"
-slug: "eddington-joaquin-phoenix-e-pedro-pascal-so-rivais-em-imagem-do-filme-da-a24"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/9WFCoBo_t7DdXXBjng98rxVkLog=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-10T105756.860.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/2LK5yGFyYDsv6UKgEdvxS6vlrNg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T110241.940.png"
-tags: ["Joaquin Phoenix", "Pedro Pascal", "Ari Aster", "A24", "Festival de Cannes", "faroeste", "pandemia", "rivalidade política"]
-keywords: "Joaquin Phoenix, Pedro Pascal, Ari Aster, A24, Festival de Cannes, faroeste, pandemia, rivalidade política"
-author: "Ana Luiza"
-data: "2025-04-10T14:10:39.704Z"
+title: >-
+  Eddington | Joaquin Phoenix e Pedro Pascal são rivais em imagem do filme da
+  A24
+slug: eddington-joaquin-phoenix-e-pedro-pascal-so-rivais-em-imagem-do-filme-da-a24
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/9WFCoBo_t7DdXXBjng98rxVkLog=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-10T105756.860.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/2LK5yGFyYDsv6UKgEdvxS6vlrNg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T110241.940.png
+tags:
+  - Joaquin Phoenix
+  - Pedro Pascal
+  - Ari Aster
+  - A24
+  - Festival de Cannes
+  - faroeste
+  - pandemia
+  - rivalidade política
+keywords: >-
+  Joaquin Phoenix, Pedro Pascal, Ari Aster, A24, Festival de Cannes, faroeste,
+  pandemia, rivalidade política
+author: Ana Luiza
+data: '2025-04-10T14:10:39.704Z'
+resumo: >-
+  A A24 revela imagem e pôster de 'Eddington', de Ari Aster, com Joaquin Phoenix
+  e Pedro Pascal, rivais em um faroeste pandêmico. Filme é destaque em Cannes.
 ---
 
 A A24 lançou uma nova imagem e um pôster para o filme 'Eddington', dirigido por Ari Aster, mostrando Joaquin Phoenix e Pedro Pascal como rivais. A divulgação aconteceu na mesma manhã em que o filme foi anunciado como um dos selecionados para o Festival de Cannes deste ano. Dentre outros títulos confirmados estão 'Missão: Impossível - O Acerto Final' e 'O Agente Secreto', de Kleber Mendonça Filho, com Wagner Moura.

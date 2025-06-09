@@ -16,6 +16,9 @@ tags:
   - tropa dos lanternas verdes
   - séries
 author: Pablo Moura
+resumo: >-
+  Jasmine Cephas Jones, de 'Hamilton', se junta à série da HBO 'Lanternas',
+  explorando o passado do herói John Stewart. Estreia prevista para 2026.
 ---
 
 A atriz Jasmine Cephas Jones, conhecida por seu papel em 'Hamilton', foi escalada para a série da HBO 'Lanternas', baseada na Tropa dos Lanternas Verdes. Jones fará uma participação especial como 'jovem Bernadette', mãe de John Stewart, retratada como uma mãe resiliente e perceptiva que exige excelência de si mesma e de sua família. Ainda não foi revelado quantos episódios contarão com sua presença, mas seu papel será fundamental em flashbacks que exploram o passado do herói John Stewart.

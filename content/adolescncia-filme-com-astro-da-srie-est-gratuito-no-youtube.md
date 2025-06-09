@@ -20,6 +20,10 @@ keywords: >-
   Filmelier TV BR, Netflix, O Chef
 data: '2025-04-04T23:10:24.578Z'
 author: Ana Luiza
+resumo: >-
+  Assista gratuitamente no YouTube ao filme 'O Chef', estrelado por Stephen
+  Graham, a partir de 4 de novembro. A obra, filmada em plano sequência, promete
+  tens...
 ---
 
 A partir desta sexta-feira (04), o canal Filmelier TV BR no YouTube disponibiliza gratuitamente o filme 'O Chef', estrelado por Stephen Graham, conhecido por seu papel como Eddie Miller na série 'Adolescência' da Netflix. No filme, Graham interpreta um chef de cozinha que luta para manter o controle de seu restaurante durante uma noite particularmente caótica. Assim como 'Adolescência', 'O Chef' foi inteiramente filmado em plano sequência.

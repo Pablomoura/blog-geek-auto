@@ -20,6 +20,9 @@ tags:
   - festival de sundance
   - paris filmes
 author: Pablo Moura
+resumo: >-
+  A Lenda de Ochi', da A24 e Irmãos Russo, encanta no Festival de Sundance. Com
+  Helena Zengel e Finn Wolfhard, estreia no Brasil pela Paris Filmes.
 ---
 
 O aguardado filme 'A Lenda de Ochi', uma produção da A24 com a colaboração dos renomados Irmãos Russo, acaba de lançar seu pôster e trailer no Brasil. A distribuição nacional fica por conta da Paris Filmes. O filme fez sua estreia no prestigiado Festival de Sundance deste ano, onde foi bem recebido pela crítica especializada, incluindo avaliações do site Omelete.

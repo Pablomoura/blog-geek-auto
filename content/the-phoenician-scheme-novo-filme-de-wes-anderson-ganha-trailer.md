@@ -20,6 +20,10 @@ keywords: >-
   Festival de Cannes, Roman Coppola, cinema de autor
 data: '2025-04-07T14:11:25.481Z'
 author: Ana Luiza
+resumo: >-
+  Universal e Focus Features revelam trailer de 'The Phoenician Scheme', novo
+  filme de espionagem de Wes Anderson, estrelando Benicio del Toro e Mia
+  Threapleton.
 ---
 
 A Universal Pictures e Focus Features lançaram, nesta segunda-feira (7), o primeiro trailer de 'The Phoenician Scheme' (O Esquema Fenício, na tradução livre), a mais recente obra do renomado diretor Wes Anderson, conhecido por filmes como 'O Grande Hotel Budapeste' e 'Os Excêntricos Tenenbaums'.

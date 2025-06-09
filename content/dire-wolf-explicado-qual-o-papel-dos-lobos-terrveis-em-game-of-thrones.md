@@ -21,6 +21,9 @@ keywords: >-
   George R. R. Martin, A Casa do Dragão
 data: '2025-04-08T15:12:21.278Z'
 author: Pablo Moura
+resumo: >-
+  A busca para reviver o lobo-terrível remete aos direwolves de Game of Thrones,
+  essenciais à saga Stark. De guardiões a símbolos, eles marcaram a série.
 ---
 
 À medida que a ciência no mundo real trabalha para trazer de volta o extinto lobo-terrível, os entusiastas de Game of Thrones são lembrados das marcantes presenças desses animais na série. No início da saga, seis direwolves foram adotados pelos irmãos Stark e desempenharam papéis cruciais ao longo da história. Esses lobos não apenas acompanharam a família Stark, mas também serviram como seus protetores. Um exemplo disso é na primeira temporada, quando Bran Stark, incapacitado após cair de uma torre em Winterfell, é salvo de um assassino pelo seu lobo, Verão.

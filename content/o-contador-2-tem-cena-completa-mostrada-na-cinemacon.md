@@ -21,6 +21,10 @@ keywords: >-
   investigação criminal, sequência de filme
 data: '2025-04-03T05:10:48.879Z'
 author: Ana Luiza
+resumo: >-
+  Amazon MGM Studios revela cena de 'O Contador 2' na CinemaCon. Ben Affleck e
+  Jon Bernthal retornam para desvendar um assassinato, prometendo ação e drama
+  int...
 ---
 
 Durante o evento da CinemaCon, a Amazon MGM Studios revelou uma cena completa de 'O Contador 2', com Ben Affleck e Jon Bernthal. A prévia apresentada oferece um vislumbre mais profundo da trama que continua a saga iniciada no filme de 2016.

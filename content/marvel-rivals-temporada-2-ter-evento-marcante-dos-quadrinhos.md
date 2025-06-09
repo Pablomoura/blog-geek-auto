@@ -20,6 +20,10 @@ keywords: >-
   super-heróis, PlayStation 5, Xbox Series X
 data: '2025-04-04T19:08:37.561Z'
 author: Ana Luiza
+resumo: >-
+  Marvel Rivals retorna em 11 de abril com a aguardada segunda temporada.
+  Destaques incluem o Hellfire Gala, novos personagens como Emma Frost e Ultron,
+  e even...
 ---
 
 A aguardada segunda temporada de Marvel Rivals já tem data marcada para começar: 11 de abril. O evento principal desta atualização será o Hellfire Gala, conhecido nos quadrinhos como Baile do Inferno, que introduzirá novos personagens jogáveis, incluindo Emma Frost e Ultron. 

@@ -23,6 +23,10 @@ keywords: >-
   Downey Jr., multiverso, X-Men, Quarteto Fantástico
 data: '2025-04-03T23:10:58.898Z'
 author: Luana Souza
+resumo: >-
+  Kevin Feige revela novidades de 'Vingadores: Doomsday' na CinemaCon 2025, com
+  Robert Downey Jr. como Doutor Destino e elenco estelar. Estreia em 30 de
+  abril...
 ---
 
 Em recente apresentação na CinemaCon 2025, Kevin Feige, direto do set na Inglaterra, compartilhou novidades sobre 'Vingadores: Doomsday'. O produtor revelou que ainda há atores a serem anunciados para o elenco, cujas filmagens iniciarão em breve, neste mês de abril. Feige também adiantou que o enredo envolverá uma complexa narrativa multiversal, com o Doutor Destino, interpretado por Robert Downey Jr., desempenhando um papel central.

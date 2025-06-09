@@ -21,6 +21,9 @@ tags:
   - mcu
   - colecionáveis
 author: Pablo Moura
+resumo: >-
+  Hasbro revela o Sentinela no MCU! 'Thunderbolts' estreia em maio de 2025, com
+  anti-heróis icônicos. Marvel planeja grandes lançamentos até 2025. Confira!
 ---
 
 O aguardado visual do Sentinela no Universo Cinematográfico Marvel (MCU) foi finalmente revelado pela Hasbro. As novas imagens destacam o action-figure da linha Marvel Legends, uma coleção premium de colecionáveis da Marvel.

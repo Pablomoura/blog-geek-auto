@@ -21,6 +21,9 @@ keywords: >-
   das Rosas, filme, Disney
 data: '2025-04-03T23:12:37.975Z'
 author: Luana Souza
+resumo: >-
+  Disney revela primeira imagem de 'The Roses', com Olivia Coleman e Benedict
+  Cumberbatch. A comédia, inspirada na Guerra das Rosas, promete humor e drama.
 ---
 
 Durante a CinemaCon, a Disney divulgou a primeira imagem oficial de 'The Roses', filme que conta com Olivia Coleman e Benedict Cumberbatch nos papéis principais. Esta comédia é inspirada na Guerra das Rosas, um notório conflito histórico que sacudiu a Inglaterra entre 1455 e 1485.

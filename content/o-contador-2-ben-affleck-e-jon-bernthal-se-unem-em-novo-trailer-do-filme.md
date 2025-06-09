@@ -20,6 +20,10 @@ keywords: >-
   sequência de filme, cinema
 data: '2025-04-03T22:09:53.044Z'
 author: Luana Souza
+resumo: >-
+  Novo trailer de 'O Contador 2' destaca Ben Affleck e Jon Bernthal em ação e
+  mistério. Com direção de Gavin O'Connor, o filme promete intensas
+  reviravoltas.
 ---
 
 Foi divulgado um novo trailer de 'O Contador 2', destacando a união dos personagens de Ben Affleck e Jon Bernthal. O vídeo já está disponível para visualização.

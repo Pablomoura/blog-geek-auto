@@ -15,6 +15,10 @@ tags:
   - filme marvel
   - impacto cinematográfico
 author: Pablo Moura
+resumo: >-
+  Paul Walter Hauser compartilha otimismo sobre 'Quarteto Fantástico', que
+  promete ser um marco no MCU. Estreia em 2025 com um elenco de peso e direção
+  de Matt...
 ---
 
 Em recente entrevista ao Direct, Paul Walter Hauser, parte do elenco do próximo filme 'Quarteto Fantástico', compartilhou seu otimismo quanto ao sucesso do filme dentro do Universo Cinematográfico Marvel (MCU). Segundo Hauser, o filme promete ser um marco, similar aos impactos causados por 'Guardiões da Galáxia' e 'Pantera Negra'. "Esperamos iniciar uma nova onda de narrativas de sucesso", afirmou o ator.

@@ -17,6 +17,10 @@ tags:
   - franquia de filmes
   - omelete
 author: Pablo Moura
+resumo: >-
+  Na CinemaCon 2023, foi revelado o trailer de 'Extermínio: A Evolução',
+  dirigido por Danny Boyle. O filme, ambientado 28 anos após o apocalipse zumbi,
+  traz te...
 ---
 
 Durante a CinemaCon 2023, foi revelado o aguardado trailer de 'Extermínio: A Evolução (28 Years Later)', o mais recente filme da franquia dirigida por Danny Boyle. Embora o trailer ainda não esteja disponível online, a equipe do Omelete assistiu e compartilha os detalhes da prévia.

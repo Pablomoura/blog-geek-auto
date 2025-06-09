@@ -21,6 +21,10 @@ tags:
   - hayao miyazaki
   - redes sociais
 author: Ana Luiza
+resumo: >-
+  Ghibli Fest é anunciado pela Sato Company, celebrando os filmes de Hayao
+  Miyazaki. A IA da OpenAI, que imita o estilo Ghibli, aquece debates sobre arte
+  e tec...
 ---
 
 A Sato Company revelou hoje a realização do Ghibli Fest, um festival dedicado aos filmes icônicos do Studio Ghibli, destacando as obras de Hayao Miyazaki e seus parceiros. O anúncio chega em um momento oportuno, com o Studio Ghibli dominando as discussões nas redes sociais. 

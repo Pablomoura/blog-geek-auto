@@ -16,6 +16,9 @@ tags:
   - anúncio de jogos
   - transmissão ao vivo
 author: Luana Souza
+resumo: >-
+  A Nintendo revelará jogos do Nintendo Switch 2 em eventos nos dias 3 e 4 de
+  abril. Pré-venda começa em 9 de abril, com possível esgotamento imediato.
 ---
 
 A Nintendo confirmou que realizará apresentações consecutivas nos dias 3 e 4 de abril para anunciar os jogos originais do aguardado Nintendo Switch 2. O evento, que será transmitido globalmente via YouTube, promete revelar títulos inéditos e muito esperados pelo público.

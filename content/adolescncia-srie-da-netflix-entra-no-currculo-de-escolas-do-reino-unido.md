@@ -17,6 +17,10 @@ tags:
   - série adolescência
   - temas adolescentes
 author: Pablo Moura
+resumo: >-
+  A minissérie 'Adolescência', da Netflix, integra o currículo escolar do Reino
+  Unido, abordando temas como crime e redes sociais para fomentar discussões
+  educ...
 ---
 
 A minissérie 'Adolescência', um dos recentes sucessos originais da Netflix, foi oficialmente adicionada ao currículo escolar do Reino Unido. A decisão foi uma iniciativa do governo britânico, que reconhece a importância dos temas abordados pela série. 

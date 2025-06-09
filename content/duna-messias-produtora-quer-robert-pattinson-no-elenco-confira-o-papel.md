@@ -21,6 +21,10 @@ keywords: >-
   sequência de Duna, elenco estelar, especiaria Melange
 data: '2025-04-08T21:10:24.062Z'
 author: Luana Souza
+resumo: >-
+  Duna: Messias', de Denis Villeneuve, pode contar com Robert Pattinson no
+  elenco. Legendary estuda o ator para um papel em meio ao estrelado elenco da
+  franquia.
 ---
 
 O universo de 'Duna' de Denis Villeneuve se prepara para expandir com o próximo filme, 'Duna: Messias'. Segundo informações do Deadline, a produtora Legendary está considerando incluir Robert Pattinson no elenco desta nova jornada cinematográfica. Embora o diretor Denis Villeneuve ainda esteja finalizando o roteiro do filme, fontes ligadas ao projeto indicam que, embora ainda não tenha sido feita uma oferta formal, existe um forte interesse na participação do ator conhecido por seu papel em 'Batman'.

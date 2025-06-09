@@ -20,6 +20,9 @@ keywords: >-
   bilheteria, colaboração de atores, crítica de cinema
 data: '2025-04-07T15:13:00.294Z'
 author: Ana Luiza
+resumo: >-
+  Um Filme Minecraft' da Warner Bros. estreia com sucesso global, impulsionado
+  pela química entre Jason Momoa e Jack Black. Confira a crítica completa!
 ---
 
 A Warner Bros. Pictures estreou o aguardado 'Um Filme Minecraft' em cinemas globais, e a crítica você pode conferir em nossa plataforma. O filme já alcançou um sucesso notável nos primeiros dias de lançamento, muito devido à dinâmica entre Jason Momoa e Jack Black. Em uma entrevista pré-lançamento, Momoa, famoso por seu papel como Aquaman, compartilhou sua previsão sobre a química bem-sucedida com Black.

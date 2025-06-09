@@ -21,6 +21,10 @@ keywords: >-
   carreira
 data: '2025-04-09T16:15:12.524Z'
 author: Ana Luiza
+resumo: >-
+  Lisa, do Blackpink, brilha na 3ª temporada de The White Lotus. Após o final,
+  ela agradece por sua estreia como atriz e destaca a representação da
+  Tailândia.
 ---
 
 A cantora tailandesa Lisa, do Blackpink, teve uma destacada participação na terceira temporada de The White Lotus, cujo último episódio foi ao ar neste domingo. Após o encerramento da temporada, Lisa compartilhou uma foto em suas redes sociais e expressou sua gratidão pela oportunidade de atuar na série. Em uma mensagem emocionante, ela agradeceu ao criador da série, Mike White, por confiar-lhe o papel de Mook, uma personagem que, segundo Lisa, transformou sua vida.

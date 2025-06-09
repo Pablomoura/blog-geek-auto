@@ -23,6 +23,10 @@ keywords: >-
   trilha sonora, conflitos criativos, temporada 4, HBO
 data: '2025-04-03T16:12:40.596Z'
 author: Luana Souza
+resumo: >-
+  Cristobal Tapia de Veer, compositor de The White Lotus, deixará a série após
+  desavenças com o criador Mike White sobre a direção musical da quarta
+  temporada.
 ---
 
 Cristobal Tapia de Veer, renomado compositor responsável pela trilha sonora da aclamada série The White Lotus, anunciou que não retornará para a quarta temporada do show produzido pela Max. O artista, que já foi laureado com três Emmys por seu trabalho na série, citou desavenças prolongadas com Mike White, o criador e roteirista da série, como o principal motivo para sua saída.

@@ -23,6 +23,9 @@ keywords: >-
   Infinito, MCU, Thunderbolts, Quarteto Fantástico
 data: '2025-04-04T20:11:50.761Z'
 author: Pablo Moura
+resumo: >-
+  Vingadores: Doomsday' entra em pré-produção com homenagem a Robert Downey Jr.
+  enquanto Marvel revela detalhes do filme 'Thunderbolts' para 2025.
 ---
 
 O filme 'Vingadores: Doomsday' já está em fase de pré-produção, com filmagens previstas para iniciar em breve. Antecipando o começo das gravações, os diretores Joe e Anthony Russo prestaram uma homenagem especial a Robert Downey Jr., icônico ator do MCU que retorna para mais um filme. O ator celebrou seus 60 anos na última sexta-feira, dia 4, e, para comemorar, os irmãos Russo compartilharam uma ilustração de Dr. Destino, criada pelo artista Bosslogic, repleta de elementos do universo Marvel. A arte inclui a Manopla do Infinito, desenvolvida por Tony Stark em 'Vingadores: Ultimato', o elmo de Thanos, o reator Arc e a frase '3000', símbolo das homenagens ao ator e ao personagem desde o encerramento da última saga do grupo.

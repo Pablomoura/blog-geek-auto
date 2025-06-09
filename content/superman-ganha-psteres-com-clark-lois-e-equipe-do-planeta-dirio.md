@@ -18,6 +18,7 @@ tags:
   - Mulher-Gavião
   - DCU
   - estreia Superman 2025
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, David Corenswet, Rachel Brosnahan, Planeta Diário, Lex
   Luthor, Lanterna Verde, Mulher-Gavião, DCU, estreia Superman 2025

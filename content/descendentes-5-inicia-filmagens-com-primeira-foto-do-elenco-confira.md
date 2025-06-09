@@ -21,6 +21,9 @@ keywords: >-
   Maravilhas, viagem no tempo, estreia de filme
 data: '2025-04-03T02:20:31.810Z'
 author: Luana Souza
+resumo: >-
+  Descendentes 5' inicia filmagens e revela elenco com Alexandro Byrd como Luis
+  Madrigal. A trama seguirá Red e Chloe no País das Maravilhas atual.
 ---
 
 As filmagens de 'Descendentes 5' começaram, e a primeira foto do elenco foi compartilhada nas redes sociais, revelando a caracterização dos personagens para a nova sequência. A imagem foi divulgada na conta oficial do filme no Instagram.

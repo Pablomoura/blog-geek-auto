@@ -20,6 +20,10 @@ keywords: >-
   anti-heróis
 data: '2025-04-04T00:43:19.650Z'
 author: Pablo Moura
+resumo: >-
+  Na CinemaCon 2025, a Marvel revelou cenas de Thunderbolts*, destacando
+  Florence Pugh em ação. O evento celebrou o filme com um balde de pipoca
+  temático.
 ---
 
 A CinemaCon 2025, realizada em Las Vegas, foi palco de grandes revelações da Marvel, incluindo um novo olhar sobre os bastidores de Thunderbolts*. O trailer divulgado mostra detalhes das empolgantes cenas de ação, destacando um impressionante salto realizado por Florence Pugh do segundo maior edifício do mundo.

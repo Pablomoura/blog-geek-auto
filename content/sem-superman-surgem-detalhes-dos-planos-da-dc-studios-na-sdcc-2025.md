@@ -18,6 +18,7 @@ tags:
   - 'Supergirl'
   - 'John Cena'
   - 'novidades DC'
+  - especial-Superman
 keywords: >-
   DC Studios, SDCC 2025, Comic-Con, Superman, Pacificador, James Gunn, Supergirl, John Cena, novidades DC
 author: Ana Luiza

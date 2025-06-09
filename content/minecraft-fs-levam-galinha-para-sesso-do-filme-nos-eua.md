@@ -21,6 +21,10 @@ keywords: >-
   Austin, Texas, segurança em cinema
 data: '2025-04-09T23:09:43.227Z'
 author: Pablo Moura
+resumo: >-
+  Fãs causam alvoroço ao levar uma galinha viva a uma sessão do filme
+  'Minecraft' em Austin, Texas, gerando desconforto e resultando na expulsão do
+  grupo do ci...
 ---
 
 Em um evento incomum e que gerou grande repercussão, fãs do filme 'Minecraft' nos Estados Unidos causaram um grande alvoroço ao levar uma galinha viva para uma sessão de cinema. O incidente ocorreu durante uma exibição do filme, baseado no popular jogo de vídeo game, em um cinema na cidade de Austin, Texas. Os espectadores estavam assistindo ao filme quando um grupo de fãs, em um gesto de entusiasmo, ergueu uma galinha viva dentro da sala.

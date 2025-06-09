@@ -21,6 +21,10 @@ keywords: >-
   Bull, Bandsports
 data: '2025-04-04T19:09:14.172Z'
 author: Luana Souza
+resumo: >-
+  A temporada de F1 agita-se com a primeira vitória de Piastri na China e a
+  troca de Lawson por Tsunoda na Red Bull. Próximo: GP do Japão em Suzuka, dia
+  6. Aco...
 ---
 
 A temporada de Fórmula 1 deste ano iniciou com um evento memorável no GP da Austrália, realizado em Melbourne, que viu vários carros abandonarem a prova já nas primeiras voltas, inclusive durante a volta de apresentação. Em contraste, o GP da China foi menos tumultuado, destacando-se pela primeira vitória de Oscar Piastri, piloto da McLaren.

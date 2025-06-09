@@ -23,6 +23,9 @@ keywords: >-
   Povo das Cinzas, Jake Sully, saga Avatar
 data: '2025-04-04T00:44:17.995Z'
 author: Ana Luiza
+resumo: >-
+  Na CinemaCon 2025, o trailer de 'Avatar: Fogo e Cinzas' revela a nova tribo
+  Povo das Cinzas e promete intensificar o conflito entre Na'vi e humanos.
 ---
 
 Durante a CinemaCon 2025, foi revelado o primeiro trailer de 'Avatar: Fogo e Cinzas', o terceiro filme da célebre franquia dirigida por James Cameron. O trailer inicia com uma imersão nas águas de Pandora, reencontrando a tribo aquática introduzida em 'O Caminho da Água'. A seguir, a cena sobe aos céus, apresentando a Tribo dos Vento entre as montanhas voadoras e barcos aéreos de design impressionante.

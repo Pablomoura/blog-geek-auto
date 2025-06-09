@@ -17,6 +17,10 @@ tags:
   - showtime
   - renovação de série
 author: Pablo Moura
+resumo: >-
+  Dexter: Pecado Original é renovada para a 2ª temporada! Paramount+ e Showtime
+  confirmam continuação, enquanto Dexter: Resurrection avança para 2026.
+  Confira!
 ---
 
 A série prelúdio Dexter: Pecado Original acaba de ser oficialmente renovada para sua segunda temporada, conforme anunciado pelo Deadline. Paramount+ e Showtime já confirmaram a continuação da produção.

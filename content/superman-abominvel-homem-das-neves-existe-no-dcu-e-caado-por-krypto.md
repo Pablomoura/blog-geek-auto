@@ -25,6 +25,7 @@ tags:
   - Andy Muschietti
   - Comando das Criaturas
   - HBO Max
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DCU, Krypto, Abominável Homem das Neves, David
   Corenswet, Rachel Brosnahan, Nicholas Hoult, Nathan Fillion, Isabela Merced,

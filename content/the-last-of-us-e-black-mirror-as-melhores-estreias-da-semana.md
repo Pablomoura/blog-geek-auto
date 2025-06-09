@@ -21,6 +21,9 @@ keywords: >-
   suspense, tecnologia distópica, pós-apocalíptico
 data: '2025-04-07T13:24:08.980Z'
 author: Ana Luiza
+resumo: >-
+  The Last of Us' e 'Black Mirror' retornam ao streaming com novos episódios na
+  HBO Max e Netflix, enquanto 'Drop' e 'Operação Vingança' estreiam nos cinemas.
 ---
 
 Este fim de semana marca o retorno triunfal de duas aclamadas séries ao mundo do streaming. Após longa expectativa, 'The Last of Us' e 'Black Mirror' estreiam novos episódios na HBO Max e na Netflix, respectivamente, explorando cenários pós-apocalípticos e distopias impulsionadas pela tecnologia. Paralelamente, as telonas recebem 'Drop', um thriller de terror, e 'Operação Vingança', um filme de suspense que envolve espionagem.

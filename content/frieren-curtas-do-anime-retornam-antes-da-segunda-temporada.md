@@ -16,6 +16,10 @@ tags:
   - curtas de anime
   - lançamento
 author: Ana Luiza
+resumo: >-
+  Frieren e a Jornada para o Além' retorna com novos curtas no YouTube em 2 de
+  abril. Acompanhe a elfa Frieren em aventuras mágicas e emocionantes após a
+  morte...
 ---
 
 A conta oficial de 'Frieren e a Jornada para o Além' no X (anteriormente conhecido como Twitter) anunciou o retorno da série de curtas que foram lançados durante a primeira temporada do anime. A nova leva de episódios começará a ser disponibilizada no YouTube a partir do dia 2 de abril. 

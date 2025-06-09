@@ -24,6 +24,10 @@ keywords: >-
   avançados
 data: '2025-04-08T17:09:28.431Z'
 author: Pablo Moura
+resumo: >-
+  O Nintendo Switch 2 chega em 5 de junho por US$ 450, com novidades como
+  Joy-Con magnético e GameChat. Doug Bowser defende o preço, apesar das
+  incertezas.
 ---
 
 Ainda sem um preço definido no ocidente, o Nintendo Switch 2 tem gerado muitas especulações, especialmente após a empresa postergar a pré-venda em diversos países. A medida foi tomada para recalibrar o valor do produto em resposta às tarifas recentemente impostas pelo presidente Donald Trump. Em meio a essas incertezas, Doug Bowser, presidente da Nintendo nos Estados Unidos, defendeu o preço que será praticado. Segundo ele, considerando os recursos avançados do console, o valor estipulado é proporcional à qualidade e à experiência oferecida ao usuário.

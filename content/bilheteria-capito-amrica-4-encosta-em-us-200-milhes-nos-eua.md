@@ -20,6 +20,10 @@ keywords: >-
   Vermelho, bilheteria global, cinema 2025
 data: '2025-04-06T18:11:55.983Z'
 author: Ana Luiza
+resumo: >-
+  Capitão América: Admirável Mundo Novo' arrecada US$ 410 milhões globalmente,
+  superando 'O Primeiro Vingador'. Apesar de mediano para a Marvel, lidera 2025
+  no...
 ---
 
 O filme 'Capitão América: Admirável Mundo Novo' continua sua trajetória de sucesso nas bilheterias globais, acumulando até agora um total de US$ 410 milhões mundialmente. Em sua oitava semana de exibição nos Estados Unidos, arrecadou novos US$ 1,3 milhões, totalizando US$ 199 milhões no país. Atualmente, ocupa a décima posição no ranking das maiores bilheterias americanas.

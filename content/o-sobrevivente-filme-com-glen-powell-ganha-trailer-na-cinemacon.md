@@ -21,6 +21,10 @@ keywords: >-
   Running Man, Josh Brolin, estreia 2025
 data: '2025-04-03T18:16:10.643Z'
 author: Ana Luiza
+resumo: >-
+  Descubra o eletrizante trailer de 'O Sobrevivente', com Glen Powell, baseado
+  em Stephen King. Ação e suspense aguardam na estreia em 27 de novembro de
+  2025!
 ---
 
 Foi revelado na CinemaCon deste ano o primeiro trailer do filme 'O Sobrevivente', protagonizado por Glen Powell. A obra é uma adaptação do livro de Stephen King e tem direção de Edgar Wright. 

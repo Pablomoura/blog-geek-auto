@@ -21,6 +21,10 @@ keywords: >-
   mangá, super-heróis
 data: '2025-04-09T00:42:49.398Z'
 author: Luana Souza
+resumo: >-
+  My Hero Academia: Vigilantes estreia e explora eventos cinco anos antes de
+  Deku entrar na UA. Conheça Koichi e os vigilantes ao lado de Eraser Head e
+  outros.
 ---
 
 O universo de My Hero Academia continua a expandir-se com a estreia do novo anime, My Hero Academia: Vigilantes, que foi ao ar na última segunda-feira (07). Este spin-off introduz uma nova perspectiva ao apresentar eventos que ocorrem cinco anos antes de Izuku Midoriya, conhecido como Deku, ingressar na Academia UA. 

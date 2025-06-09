@@ -21,6 +21,10 @@ keywords: >-
   estelar, CinemaCon 2025, obra-prima cinematográfica, filme épico
 data: '2025-04-03T01:05:58.249Z'
 author: Luana Souza
+resumo: >-
+  Na CinemaCon 2025, Jim Orr da Universal elogia 'A Odisseia' de Christopher
+  Nolan como 'obra-prima visionária'. Estrelas como Matt Damon e Zendaya lideram
+  o e...
 ---
 
 Durante a CinemaCon 2025, Jim Orr, executivo da Universal, fez uma declaração audaciosa sobre o filme 'A Odisseia', que está atualmente em produção sob a direção de Christopher Nolan. Orr, que é o chefe de distribuição do estúdio, descreveu o filme como 'uma obra-prima cinematográfica visionária, única em uma geração', sugerindo que até mesmo Homero, o autor do poema épico original, aprovaria a adaptação. A plateia, segundo relatos da Variety, reagiu com risos à descrição entusiasmada do executivo.

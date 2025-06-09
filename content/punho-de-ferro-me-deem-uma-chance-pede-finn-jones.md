@@ -19,6 +19,10 @@ tags:
   - retorno
   - laconve
 author: Luana Souza
+resumo: >-
+  Finn Jones quer outra chance como Punho de Ferro no MCU. Apesar das críticas,
+  o ator está pronto para retornar, enquanto a Marvel considera trazer Os
+  Defenso...
 ---
 
 Durante sua participação na convenção LaConve no México, Finn Jones, conhecido por seu papel como Punho de Ferro na série da Netflix, manifestou seu interesse em voltar a interpretar o personagem. "Estou consciente das críticas que recebi", disse Jones. "Peço apenas uma chance para mostrar que podem estar errados. Estou pronto e ansioso para essa oportunidade."

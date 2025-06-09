@@ -19,6 +19,10 @@ tags:
   - Tracy Letts
   - eMCU
 author: Luana Souza
+resumo: >-
+  Carrie Coon recusou voltar como Proxima Midnight em 'Vingadores: Ultimato' por
+  falta de aumento salarial. Em 'Vingadores: Doomsday', Doutor Destino promete
+  a...
 ---
 
 O elenco já estelar de 'Vingadores: Ultimato' quase contou com mais uma renomada atriz. Recentemente, foi revelado que a Marvel Studios enfrentou uma recusa de Carrie Coon para reprisar seu papel como Proxima Midnight. Segundo Tracy Letts, marido de Coon, a decisão ocorreu após a empresa não oferecer um aumento salarial. 'Ela questionou se haveria algum aumento, considerando o sucesso precedente do filme, e a resposta foi negativa', detalhou Letts em entrevista ao Deadline. Diante da negativa, Coon optou por não participar do projeto, mesmo com a Marvel destacando a oportunidade como um privilégio.

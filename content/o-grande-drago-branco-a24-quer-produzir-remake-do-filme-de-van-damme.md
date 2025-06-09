@@ -23,6 +23,9 @@ keywords: >-
   Kumite, cinema de ação, streaming
 data: '2025-04-08T15:11:45.743Z'
 author: Luana Souza
+resumo: >-
+  O clássico dos anos 80, O Grande Dragão Branco, pode ganhar nova versão pela
+  A24. Estúdio negocia direitos para reinventar filme estrelado por Van Damme.
 ---
 
 Um dos filmes mais emblemáticos dos anos 80, O Grande Dragão Branco, estrelado por Jean-Claude Van Damme, pode estar prestes a ser reinventado pelo estúdio A24. De acordo com informações do insider Jeff Sneider, o estúdio ainda está em fase de negociação para a aquisição dos direitos do filme. Até o momento, não foram revelados detalhes sobre a direção ou o elenco da nova versão.

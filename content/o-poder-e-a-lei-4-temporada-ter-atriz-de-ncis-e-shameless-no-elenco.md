@@ -21,6 +21,10 @@ keywords: >-
   The Lincoln Lawyer, Michael Connelly
 data: '2025-04-09T21:08:57.205Z'
 author: Ana Luiza
+resumo: >-
+  O Poder e a Lei' da Netflix ganha reforço com Sasha Alexander na 4ª temporada.
+  Novos episódios contarão com Manuel Garcia-Rulfo e são baseados em 'The Law
+  of...
 ---
 
 A aclamada série de drama jurídico da Netflix, 'O Poder e a Lei', anunciou uma adição significativa ao seu elenco para a quarta temporada. Após a renovação da série, três meses após o lançamento da terceira temporada, o novo ciclo contará com 10 episódios e verá o retorno de Manuel Garcia-Rulfo no papel principal de Mickey Haller. Além dele, Becki Newton como Lorna, Jazz Raycole como Izzy, Angus Sampson como Cisco e Neve Campbell como Maggie McPherson também retornarão, com Campbell aparecendo após um breve papel em dois episódios da temporada anterior.

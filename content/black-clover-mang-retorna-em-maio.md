@@ -19,6 +19,10 @@ tags:
 keywords: 'Black Clover, mangá, Yūki Tabata, retorno, arco final, Rei Mago, Asta, Yuno'
 data: '2025-04-08T02:21:12.156Z'
 author: Luana Souza
+resumo: >-
+  O mangá 'Black Clover' retorna em 2 de maio com seu arco final. Asta e Yuno
+  enfrentam Lucius Zogratis na batalha decisiva, prometendo surpresas e
+  reviravoltas.
 ---
 
 O popular mangá 'Black Clover' de Yūki Tabata retoma a publicação em maio, iniciando o arco final da série. A nova fase começa no dia 2 de maio, com a publicação dos capítulos 379 e 380. A trama segue Asta e Yuno enfrentando Lucius Zogratis na batalha decisiva. Após superar inúmeras lutas secundárias contra os Paladinos, os Touros Negros, com a ajuda de Asta e seu poder de Anti-Magia, conseguiram derrotar outras ameaças espalhadas pelo reino.

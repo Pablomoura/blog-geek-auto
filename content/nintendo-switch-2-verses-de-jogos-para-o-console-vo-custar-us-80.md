@@ -18,6 +18,10 @@ tags:
   - upgrades gratuitos
 data: '2025-04-02T22:47:48.197Z'
 author: Ana Luiza
+resumo: >-
+  Nintendo revela preços dos jogos do Switch 2 no evento Direct. Mario Kart
+  World custa US$ 80, enquanto Donkey Kong Bananza sai por US$ 70. Console chega
+  em 5...
 ---
 
 No recente evento Nintendo Direct, que se focou no lançamento do Nintendo Switch 2, a Nintendo revelou os preços dos jogos para o novo console. Mario Kart World será comercializado por US$ 80 na versão física. Por outro lado, Donkey Kong Bananza terá o preço de US$ 70 na versão física e US$ 65 na digital, sem explicações da empresa sobre a diferença de preços. Em conversão direta, os valores oscilam entre R$ 367,84 e R$ 390,14 conforme a cotação atual do dólar.

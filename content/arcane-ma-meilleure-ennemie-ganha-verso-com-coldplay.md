@@ -20,6 +20,10 @@ keywords: >-
   animação, Netflix
 data: '2025-04-04T16:11:57.099Z'
 author: Ana Luiza
+resumo: >-
+  Riot Games e Virgin Music lançam remix de 'Ma Meilleure Ennemie' com Coldplay
+  para promover Arcane. Novas séries do universo LoL são confirmadas, mas sem
+  det...
 ---
 
 Em uma colaboração inovadora entre a Riot Games e a Virgin Music Group, foi lançada uma nova versão da música 'Ma Meilleure Ennemie', originalmente de Stromae e Pomme, agora com a participação da banda britânica Coldplay. A música faz parte da promoção da série animada Arcane, baseada no universo de League of Legends (LoL).

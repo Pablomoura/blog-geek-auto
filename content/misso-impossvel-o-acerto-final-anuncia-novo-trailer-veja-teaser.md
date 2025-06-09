@@ -21,6 +21,9 @@ keywords: >-
   Pictures, franquia de ação, estreia 2025, Festival de Cannes
 data: '2025-04-06T15:05:17.090Z'
 author: Pablo Moura
+resumo: >-
+  A Paramount libera teaser de 'Missão: Impossível - O Acerto Final', com Tom
+  Cruise. Trailer completo sai 7 de abril. Direção de Christopher McQuarrie.
 ---
 
 A Paramount Pictures anunciou neste domingo (6) o lançamento de um novo trailer para 'Missão: Impossível - O Acerto Final', que será revelado na próxima segunda-feira, 7 de abril. Um teaser com a participação de Tom Cruise foi liberado como aperitivo para os fãs.

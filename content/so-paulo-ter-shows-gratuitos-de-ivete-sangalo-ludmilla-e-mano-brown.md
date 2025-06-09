@@ -21,6 +21,10 @@ keywords: >-
   festival de música, Parque Ibirapuera
 data: '2025-04-03T22:09:23.818Z'
 author: Ana Luiza
+resumo: >-
+  TIM Music chega a São Paulo com shows gratuitos no Parque Ibirapuera em 12 e
+  13 de abril. Destaques incluem Ivete Sangalo, Iza, Ludmilla e Mano Brown. Não
+  pe...
 ---
 
 A primeira edição do TIM Music em São Paulo foi anunciada nesta quinta-feira (03), prometendo agitar o Parque Ibirapuera com uma programação estelar. O evento, que já ocorreu no Rio de Janeiro, Goiânia e São Luís, chega à capital paulista nos dias 12 e 13 de abril, com entrada gratuita para o público. Fabio Avellar, vice-presidente de receitas da operadora, destacou a importância do festival para o desenvolvimento cultural de São Paulo e a relação duradoura com a cidade.

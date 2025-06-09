@@ -16,6 +16,9 @@ tags:
   - anime online
   - datas de lançamento
 author: Luana Souza
+resumo: >-
+  One Piece retorna em 5 de abril com um especial de 83 min sobre Egghead. Novo
+  episódio sai dia 6 no Crunchyroll e chega à Netflix uma semana depois.
 ---
 
 A Toei Animation anunciou as datas oficiais para o retorno do anime One Piece, dando continuidade à segunda parte do arco Egghead. A série será retomada online no dia 5 de abril com um episódio especial de 83 minutos, que recapitulará a primeira parte do arco Egghead. Já o episódio inédito, número 1124, será transmitido em 6 de abril.

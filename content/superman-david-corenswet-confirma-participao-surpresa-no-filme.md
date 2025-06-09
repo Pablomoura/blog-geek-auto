@@ -22,6 +22,9 @@ keywords: >-
   elenco de Superman, estreia de filme, Universo Cinematográfico da DC
 data: '2025-04-06T21:09:47.643Z'
 author: Pablo Moura
+resumo: >-
+  David Corenswet, o novo Superman, provoca fãs com prévia do filme e pistas
+  sobre o elenco. Rumores sobre Jor-El ganham força após postagem no X. Confira!
 ---
 
 O ator David Corenswet, que dá vida ao novo Superman, recentemente falou sobre os rumores que cercam a nova produção do filme, especialmente sobre quem interpretará Jor-El, o pai do protagonista. Em uma postagem no X, anteriormente conhecido como Twitter, Corenswet comentou sobre a prévia estendida do filme, que foi divulgada na última sexta-feira. 'Enquanto eu voava, alguém compartilhou um vislumbre do novo filme do Superman. Alguém reconheceu algumas vozes familiares', escreveu ele, referindo-se aos robôs apresentados no material e à voz de Jor-El ao fundo.

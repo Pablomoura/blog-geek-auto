@@ -21,6 +21,10 @@ keywords: >-
   desconto Amazon, estratégia de jogo, cultura gamer
 data: '2025-04-08T16:12:34.422Z'
 author: Ana Luiza
+resumo: >-
+  Descubra a coleção definitiva de guias de Minecraft com 25% de desconto! Cinco
+  volumes essenciais para fãs e novatos, agora por menos de R$ 40 cada na
+  Amazon.
 ---
 
 Coincidindo com a estreia do filme 'Um Filme Minecraft' nos cinemas, o jogo Minecraft continua a capturar a imaginação de milhões. Para aqueles interessados em mergulhar neste universo, o Guia Oficial de Minecraft é uma ferramenta indispensável. A coleção, intitulada 'Minecraft: A coleção definitiva de guias', é composta por cinco volumes de capa dura produzidos pela Mojang, criadora do jogo. Cada guia aborda diferentes aspectos do jogo: Modo Criativo, Combate, Exploração, Modo de Sobrevivência e um guia dedicado à Redstone, um material que permite construções complexas no jogo.

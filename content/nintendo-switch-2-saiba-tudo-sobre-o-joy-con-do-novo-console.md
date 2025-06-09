@@ -15,6 +15,10 @@ tags:
   - inovação
   - videogames
 author: Pablo Moura
+resumo: >-
+  Nintendo Switch 2 é revelado com novos Joy-Cons magnéticos e funcionalidades
+  como GameChat. Console terá tela LCD de 8" e suporte a jogos do Switch
+  original.
 ---
 
 A Nintendo revelou informações sobre o aguardado Nintendo Switch 2 e seus novos controles, os Joy-Cons. Estes controles inovam ao adotar um sistema de fixação magnética, substituindo os tradicionais trilhos de encaixe do modelo anterior. Este recurso permite que os controles 'grudem' no console através do magnetismo, além de serem ligeiramente maiores que os predecessores.

@@ -1,14 +1,30 @@
 ---
-title: "Carrie: A Estranha | Prime Video confirma lançamento da série de Mike Flanagan"
-slug: "carrie-a-estranha-prime-video-confirma-lanamento-da-srie-de-mike-flanagan"
-categoria: "SÉRIES E TV"
-midia: "https://cdn.ome.lt/mkfdHnrquCoogHaovPxlKI9tVys=/987x0/smart/uploads/conteudo/fotos/carrie-prime-capa.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/NzKykaucmI2RWZOVRL49t2yJbX8=/480x360/smart/extras/conteudos/carrie.webp"
-tags: ["Carrie A Estranha", "Mike Flanagan", "Prime Video", "Stephen King", "telecinésia", "bullying", "adaptação literária", "série de terror"]
-keywords: "Carrie A Estranha, Mike Flanagan, Prime Video, Stephen King, telecinésia, bullying, adaptação literária, série de terror"
-author: "Luana Souza"
-data: "2025-04-10T18:14:15.999Z"
+title: 'Carrie: A Estranha | Prime Video confirma lançamento da série de Mike Flanagan'
+slug: carrie-a-estranha-prime-video-confirma-lanamento-da-srie-de-mike-flanagan
+categoria: SÉRIES E TV
+midia: >-
+  https://cdn.ome.lt/mkfdHnrquCoogHaovPxlKI9tVys=/987x0/smart/uploads/conteudo/fotos/carrie-prime-capa.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/NzKykaucmI2RWZOVRL49t2yJbX8=/480x360/smart/extras/conteudos/carrie.webp
+tags:
+  - Carrie A Estranha
+  - Mike Flanagan
+  - Prime Video
+  - Stephen King
+  - telecinésia
+  - bullying
+  - adaptação literária
+  - série de terror
+keywords: >-
+  Carrie A Estranha, Mike Flanagan, Prime Video, Stephen King, telecinésia,
+  bullying, adaptação literária, série de terror
+author: Luana Souza
+data: '2025-04-10T18:14:15.999Z'
+resumo: >-
+  Prime Video confirma nova série de 'Carrie, A Estranha' com Summer H. Howell
+  no papel principal. Produzida por Mike Flanagan, adaptação promete modernidade
+  e...
 ---
 
 A nova série baseada no livro 'Carrie, A Estranha' de Stephen King, agora sob a produção e roteiro de Mike Flanagan, foi confirmada pelo Prime Video, conforme anunciado nesta quinta-feira pelo The Hollywood Reporter. Este lançamento ocorre próximo ao cinquentenário do filme original em 2026.

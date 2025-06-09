@@ -18,6 +18,7 @@ tags:
   - VUE Cinemas
   - DC Universe
   - data de lançamento Superman
+  - especial-Superman
 keywords: >-
   Superman, DC Studios, James Gunn, David Corenswet, Rachel Brosnahan, Nicholas
   Hoult, Reino Unido, balde de pipoca Superman, VUE Cinemas, DC Universe, data

@@ -18,6 +18,10 @@ tags:
   - atraso na série
   - spin-offs paralisados
 author: Pablo Moura
+resumo: >-
+  A 2ª temporada de Citadel, da Amazon MGM, é adiada para 2026 devido a
+  insatisfações. Spin-offs estão paralisados. Elenco estrelado retorna; veja no
+  Prime Video.
 ---
 
 De acordo com informações do The Hollywood Reporter, a aclamada série Citadel, dos irmãos Joe e Anthony Russo, teve sua segunda temporada adiada para a primavera de 2026, inicialmente prevista para o outono de 2025. A Amazon MGM, responsável pela produção, expressou insatisfações com os episódios desenvolvidos até o momento, o que motivou o adiamento.

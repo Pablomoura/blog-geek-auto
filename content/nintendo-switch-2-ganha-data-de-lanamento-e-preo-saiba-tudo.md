@@ -16,6 +16,10 @@ tags:
   - mercado brasileiro
   - mercado americano
 author: Ana Luiza
+resumo: >-
+  Nintendo Brasil revela que o Switch 2 será lançado em 5 de junho, com preço de
+  US$ 450 nos EUA. Novidades incluem Joy-Con magnético, tela maior e gráficos
+  4K.
 ---
 
 A Nintendo Brasil anunciou oficialmente que o Nintendo Switch 2 será lançado no dia 5 de junho. O console chegará ao mercado americano com o preço de US$ 450, enquanto o valor para o mercado brasileiro ainda será anunciado.

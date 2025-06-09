@@ -21,6 +21,10 @@ keywords: >-
   Johnson, filme de suspense, lançamento de filme, Hollywood
 data: '2025-04-08T02:23:49.343Z'
 author: Luana Souza
+resumo: >-
+  Anne Hathaway anuncia o fim das filmagens de 'Verity' com estreia para 15 de
+  maio de 2026. O filme, baseado no livro de Colleen Hoover, promete intrigas e
+  se...
 ---
 
 Anne Hathaway, reconhecida atriz de Hollywood, compartilhou um vídeo em sua conta do Instagram nesta segunda-feira (07), anunciando o término das filmagens de 'Verity', uma adaptação cinematográfica do livro de Colleen Hoover. No vídeo, Hathaway surge segurando um exemplar do livro, que magicamente se transforma no roteiro do filme, revelando a capa deste. Na mesma publicação, a atriz expressou seu entusiasmo pelo lançamento do filme, previsto para 15 de maio de 2026, e convidou os fãs a assisti-lo nos cinemas.

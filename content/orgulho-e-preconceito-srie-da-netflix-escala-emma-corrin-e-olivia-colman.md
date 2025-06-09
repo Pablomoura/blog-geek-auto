@@ -1,14 +1,30 @@
 ---
-title: "Orgulho e Preconceito | Série da Netflix escala Emma Corrin e Olivia Colman"
-slug: "orgulho-e-preconceito-srie-da-netflix-escala-emma-corrin-e-olivia-colman"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/uFO1sXGYIeDAxZnnblrkOfa9Sh8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-10T131200.966.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/YjiXwVnvfq2us-NzHmoYcwvkbfg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T131559.410.png"
-tags: ["Netflix", "Orgulho e Preconceito", "Emma Corrin", "Olivia Colman", "Jane Austen", "adaptação literária", "série de época", "Dolly Alderton"]
-keywords: "Netflix, Orgulho e Preconceito, Emma Corrin, Olivia Colman, Jane Austen, adaptação literária, série de época, Dolly Alderton"
-author: "Pablo Moura"
-data: "2025-04-10T17:13:57.210Z"
+title: Orgulho e Preconceito | Série da Netflix escala Emma Corrin e Olivia Colman
+slug: orgulho-e-preconceito-srie-da-netflix-escala-emma-corrin-e-olivia-colman
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/uFO1sXGYIeDAxZnnblrkOfa9Sh8=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-10T131200.966.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/YjiXwVnvfq2us-NzHmoYcwvkbfg=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T131559.410.png
+tags:
+  - Netflix
+  - Orgulho e Preconceito
+  - Emma Corrin
+  - Olivia Colman
+  - Jane Austen
+  - adaptação literária
+  - série de época
+  - Dolly Alderton
+keywords: >-
+  Netflix, Orgulho e Preconceito, Emma Corrin, Olivia Colman, Jane Austen,
+  adaptação literária, série de época, Dolly Alderton
+author: Pablo Moura
+data: '2025-04-10T17:13:57.210Z'
+resumo: >-
+  Netflix revela elenco da nova série de 'Orgulho e Preconceito': Emma Corrin
+  será Elizabeth Bennet e Olivia Colman viverá a Sra. Bennet nesta adaptação de
+  Jan...
 ---
 
 A Netflix anunciou recentemente os nomes que completarão o elenco da sua nova série baseada no clássico 'Orgulho e Preconceito', de Jane Austen. Emma Corrin (conhecida por 'Nosferatu' e 'Deadpool & Wolverine') e Olivia Colman (destacada em 'A Favorita') são as mais recentes adições, juntando-se a Jack Lowden, que já havia sido confirmado no papel do Sr. Darcy.

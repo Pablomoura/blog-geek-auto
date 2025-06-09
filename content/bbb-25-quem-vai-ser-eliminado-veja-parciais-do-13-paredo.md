@@ -21,6 +21,9 @@ keywords: >-
   Schmidt, Rodrigo Dourado
 data: '2025-04-05T02:58:22.577Z'
 author: Pablo Moura
+resumo: >-
+  No 13º Paredão do BBB 25, João Pedro e Daniele Hypólito disputam eliminação
+  acirrada, enquanto Maike tem menor risco de saída. Resultado sai no domingo!
 ---
 
 O 13º Paredão do Big Brother Brasil 25, marcado como o terceiro do modo turbo, foi estabelecido na noite de sexta-feira (04), envolvendo os participantes João Pedro, Daniele Hypólito e Maike. A eliminação ocorrerá no próximo domingo, dia 06.

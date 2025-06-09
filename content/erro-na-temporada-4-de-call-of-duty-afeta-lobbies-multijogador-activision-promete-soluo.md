@@ -1,15 +1,36 @@
 ---
-title: "Erro na Temporada 4 de Call of Duty Afeta Lobbies Multijogador: Activision Promete Solução"
-slug: "erro-na-temporada-4-de-call-of-duty-afeta-lobbies-multijogador-activision-promete-soluo"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504205-blops6large.jpeg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504205-blops6large.jpeg"
-tags: ["Call of Duty", "Temporada 4", "atualização", "bugs", "Black Ops 6", "Warzone", "Activision", "lobbies multijogador", "novos mapas", "modo Zombies"]
-keywords: "Call of Duty, Temporada 4, atualização, bugs, Black Ops 6, Warzone, Activision, lobbies multijogador, novos mapas, modo Zombies"
-author: "Pablo Moura"
-fonte: "GameSpot"
-data: "2025-05-30T17:12:00.000Z"
+title: >-
+  Erro na Temporada 4 de Call of Duty Afeta Lobbies Multijogador: Activision
+  Promete Solução
+slug: >-
+  erro-na-temporada-4-de-call-of-duty-afeta-lobbies-multijogador-activision-promete-soluo
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504205-blops6large.jpeg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4504205-blops6large.jpeg
+tags:
+  - Call of Duty
+  - Temporada 4
+  - atualização
+  - bugs
+  - Black Ops 6
+  - Warzone
+  - Activision
+  - lobbies multijogador
+  - novos mapas
+  - modo Zombies
+keywords: >-
+  Call of Duty, Temporada 4, atualização, bugs, Black Ops 6, Warzone,
+  Activision, lobbies multijogador, novos mapas, modo Zombies
+author: Pablo Moura
+fonte: GameSpot
+data: '2025-05-30T17:12:00.000Z'
+resumo: >-
+  A Temporada 4 de Call of Duty enfrenta bugs nos lobbies multijogador, com
+  erros nos níveis e ícones. Activision investiga o problema enquanto outras
+  falhas s...
 ---
 ## Atualização da Temporada 4 de Call of Duty: Problemas nos Lobbies Multijogador
 

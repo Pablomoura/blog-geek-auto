@@ -19,6 +19,7 @@ tags:
   - 'Rachel Brosnahan'
   - 'Nicholas Hoult'
   - 'estreia Superman'
+  - especial-Superman
 keywords: >-
   Superman 2025, David Corenswet, James Gunn, DC Studios, filme Superman, cenas inéditas, universo DC, Rachel Brosnahan, Nicholas Hoult, estreia Superman
 author: Luana Souza

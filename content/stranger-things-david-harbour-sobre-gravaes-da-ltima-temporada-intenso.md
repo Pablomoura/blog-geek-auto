@@ -18,6 +18,10 @@ tags:
   - netflix
   - série tv
 author: Ana Luiza
+resumo: >-
+  Stranger Things 5 estreia em 2025 na Netflix. David Harbour revela filmagens
+  intensas. Enquanto isso, ele estrela 'Resgate Implacável', nos cinemas em
+  27/03.
 ---
 
 A aguardada conclusão de Stranger Things está a caminho, com estreia programada para 2025 na Netflix, embora a data exata ainda não tenha sido anunciada. Enquanto aguardam, os fãs estão atentos às novidades compartilhadas pelos atores, especialmente David Harbour, que recentemente falou sobre a intensidade das filmagens da quinta e última temporada.

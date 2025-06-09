@@ -21,6 +21,9 @@ keywords: >-
   subscrição, cancelamento de assinatura
 data: '2025-04-09T17:12:15.710Z'
 author: Luana Souza
+resumo: >-
+  Sony anuncia aumento nos preços do PlayStation Plus a partir de abril. Novos
+  valores impactam todos os assinantes, com mudanças válidas a partir de 16/04.
 ---
 
 A Sony anunciou recentemente que, junto com a introdução dos jogos de abril, ocorrerá um aumento nos preços da assinatura do PlayStation Plus. Este reajuste afetará tanto novos assinantes quanto os atuais, modificando a estrutura de custos do serviço de subscrição. A partir do dia 16 de abril, os novos assinantes já serão recebidos com os valores ajustados, enquanto os assinantes atuais verão o aumento refletido em suas mensalidades a partir de 25 de junho.

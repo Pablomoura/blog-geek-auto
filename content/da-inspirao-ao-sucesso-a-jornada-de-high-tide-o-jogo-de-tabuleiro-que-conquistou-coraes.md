@@ -1,14 +1,32 @@
 ---
-title: "Da Inspiração ao Sucesso: A Jornada de 'High Tide', o Jogo de Tabuleiro que Conquistou Corações"
-slug: "designer-diary-high-tide"
-categoria: "undefined"
-midia: "https://cf.geekdo-images.com/kHF-2Fg1VWyf_b-cV_YYVw__imagepage/img/gynlccLve96bHsbTG6R_GHg91Cg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8845145.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/kHF-2Fg1VWyf_b-cV_YYVw__imagepage/img/gynlccLve96bHsbTG6R_GHg91Cg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8845145.png"
-tags: ["High Tide", "jogo de tabuleiro", "Marceline Leiman", "Indie Games Night Market", "PAX Unplugged", "design de jogos", "produção artesanal", "jogos abstratos"]
-keywords: "High Tide, jogo de tabuleiro, Marceline Leiman, Indie Games Night Market, PAX Unplugged, design de jogos, produção artesanal, jogos abstratos"
-author: "Ana Luiza"
-data: "Tue, 27 May 2025 06:00:02 +0000"
+title: >-
+  Da Inspiração ao Sucesso: A Jornada de 'High Tide', o Jogo de Tabuleiro que
+  Conquistou Corações
+slug: designer-diary-high-tide
+categoria: undefined
+midia: >-
+  https://cf.geekdo-images.com/kHF-2Fg1VWyf_b-cV_YYVw__imagepage/img/gynlccLve96bHsbTG6R_GHg91Cg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8845145.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/kHF-2Fg1VWyf_b-cV_YYVw__imagepage/img/gynlccLve96bHsbTG6R_GHg91Cg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8845145.png
+tags:
+  - High Tide
+  - jogo de tabuleiro
+  - Marceline Leiman
+  - Indie Games Night Market
+  - PAX Unplugged
+  - design de jogos
+  - produção artesanal
+  - jogos abstratos
+keywords: >-
+  High Tide, jogo de tabuleiro, Marceline Leiman, Indie Games Night Market, PAX
+  Unplugged, design de jogos, produção artesanal, jogos abstratos
+author: Ana Luiza
+data: 'Tue, 27 May 2025 06:00:02 +0000'
+resumo: >-
+  Marceline Leiman transforma paixão em realidade com _High Tide_, um jogo de
+  tabuleiro inovador criado para o Indie Games Night Market na PAX Unplugged
+  2024....
 ---
 
 ## Uma Ideia Nascida da Paixão Pessoal

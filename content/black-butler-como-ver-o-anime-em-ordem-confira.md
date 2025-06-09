@@ -22,6 +22,8 @@ keywords: >-
 data: '2025-04-04T02:20:20.404Z'
 author: Ana Luiza
 experiencia: true
+resumo: >-
+  Black Butler é uma série de anime que narra as aventuras de Ciel Phantomhive, um jovem nobre em busca de vingança após o trágico assassinato de sua família.
 ---
 
 Black Butler, uma criação de Yana Toboso, é uma série de anime que narra as aventuras de Ciel Phantomhive, um jovem nobre em busca de vingança após o trágico assassinato de sua família. Acompanhado por Sebastian Michaelis, seu mordomo demoníaco, o anime oscila entre cenas de humor e drama intenso.

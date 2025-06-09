@@ -21,6 +21,10 @@ keywords: >-
   Adamantium, Hulk Vermelho, Universo Cinematográfico Marvel, Harrison Ford
 data: '2025-04-08T23:10:28.032Z'
 author: Pablo Moura
+resumo: >-
+  Cena deletada de 'Capitão América 4' revela treino de Sam Wilson com Leila
+  Taylor, despertando curiosidade sobre missão no Brasil. Filme estreia dia
+  15/04.
 ---
 
 Foi divulgada uma cena deletada do filme 'Capitão América 4: Admirável Mundo Novo' nesta terça-feira (08), antecedendo o lançamento do filme nas plataformas digitais previsto para 15 de abril. Nessa cena específica, o Capitão América, interpretado por Anthony Mackie, é visto treinando com Leila Taylor, personagem de Xosha Roquemore, na academia de Isaiah Bradley. Durante um treino de sparring, Taylor menciona uma missão realizada pelo herói em São Paulo, além de outra em Dubai, elogiando as ações de Mackie. Apesar de breve, a referência ao Brasil despertou curiosidade, embora não sejam dados mais detalhes sobre essa missão.

@@ -21,6 +21,10 @@ keywords: >-
   LEGO, Animal Crossing LEGO, Speed Champions LEGO
 data: '2025-04-04T13:21:40.730Z'
 author: Luana Souza
+resumo: >-
+  Aproveite as promoções do Mercado Livre em sets LEGO! Destaques incluem Harry
+  Potter, Minecraft e Batman com até 32% de desconto. Imperdível para
+  colecionado...
 ---
 
 Os colecionáveis LEGO são não apenas uma fonte de diversão, mas também um excelente meio de desenvolver o raciocínio lógico através do desafio que é montar suas peças. Para os aficionados por LEGO, uma boa notícia: o Mercado Livre está com promoções imperdíveis em diversos temas populares. 

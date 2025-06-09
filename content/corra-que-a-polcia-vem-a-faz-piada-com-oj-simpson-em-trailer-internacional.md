@@ -21,6 +21,10 @@ keywords: >-
   trailer internacional, estreia em cinema, elenco estelar
 data: '2025-04-03T19:09:30.953Z'
 author: Ana Luiza
+resumo: >-
+  O novo trailer do remake de 'Corra Que a Polícia Vem Aí' traz piada com O.J.
+  Simpson e revela elenco estrelado. Estreia em 14 de agosto, com Liam Neeson e
+  Pa...
 ---
 
 O aguardado trailer internacional do remake de 'Corra Que a Polícia Vem Aí' surpreendeu ao incluir uma piada envolvendo O.J. Simpson, ex-atleta da NFL que faleceu em 2024 e foi condenado em 1994 por duplo homicídio. Na prévia, observa-se uma cena onde Liam Neeson e Paul Walter Hauser prestam homenagem a ex-policiais, observando quadros na parede de uma delegacia. Um terceiro policial hesita ao se deparar com o retrato de Simpson, refletindo seu controverso passado. Simpson participou dos três filmes originais da série.

@@ -18,6 +18,10 @@ tags:
   - brand new day
   - filmes de super-heróis
 author: Luana Souza
+resumo: >-
+  O quarto filme do Homem-Aranha, 'Brand New Day', trará Tom Holland e Sadie
+  Sink em uma trama potencialmente no 'Mundo Bélico'. Expectativas elevadas na
+  Cinem...
 ---
 
 Revelações empolgantes sobre o quarto filme do Homem-Aranha, estrelado por Tom Holland, foram feitas durante a CinemaCon. O filme, intitulado 'Brand New Day' ('Um Novo Dia' em português), promete novas aventuras para o herói aracnídeo. O diretor Destin Daniel Cretton expressou sua longa admiração pelo personagem, destacando a força e vulnerabilidades que definem o herói mascarado.

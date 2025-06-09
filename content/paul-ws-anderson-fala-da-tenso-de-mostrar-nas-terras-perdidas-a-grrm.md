@@ -1,14 +1,31 @@
 ---
-title: "Paul W.S. Anderson fala da tensão de mostrar Nas Terras Perdidas a GRRM"
-slug: "paul-ws-anderson-fala-da-tenso-de-mostrar-nas-terras-perdidas-a-grrm"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/AkyvCf8yz2unJxL0zFfPKvVG2vA=/987x0/smart/uploads/conteudo/fotos/nasterrasperdidastopo3.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Gu_YjT7WrTMJBXO2Oj9pILbmTPc=/480x360/smart/extras/conteudos/inthelostlandstb_qdOLcWV.jpg"
-tags: ["Paul W.S. Anderson", "Milla Jovovich", "George R.R. Martin", "Nas Terras Perdidas", "cinema de ação", "adaptação cinematográfica", "filmes de fantasia", "tecnologia em filmes"]
-keywords: "Paul W.S. Anderson, Milla Jovovich, George R.R. Martin, Nas Terras Perdidas, cinema de ação, adaptação cinematográfica, filmes de fantasia, tecnologia em filmes"
-author: "Pablo Moura"
-data: "2025-04-10T19:09:36.338Z"
+title: Paul W.S. Anderson fala da tensão de mostrar Nas Terras Perdidas a GRRM
+slug: paul-ws-anderson-fala-da-tenso-de-mostrar-nas-terras-perdidas-a-grrm
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/AkyvCf8yz2unJxL0zFfPKvVG2vA=/987x0/smart/uploads/conteudo/fotos/nasterrasperdidastopo3.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Gu_YjT7WrTMJBXO2Oj9pILbmTPc=/480x360/smart/extras/conteudos/inthelostlandstb_qdOLcWV.jpg
+tags:
+  - Paul W.S. Anderson
+  - Milla Jovovich
+  - George R.R. Martin
+  - Nas Terras Perdidas
+  - cinema de ação
+  - adaptação cinematográfica
+  - filmes de fantasia
+  - tecnologia em filmes
+keywords: >-
+  Paul W.S. Anderson, Milla Jovovich, George R.R. Martin, Nas Terras Perdidas,
+  cinema de ação, adaptação cinematográfica, filmes de fantasia, tecnologia em
+  filmes
+author: Pablo Moura
+data: '2025-04-10T19:09:36.338Z'
+resumo: >-
+  Milla Jovovich e Paul W.S. Anderson celebram 24 anos de colaborações
+  frutíferas com "Nas Terras Perdidas", adaptando a obra de George R.R. Martin
+  com cenário...
 ---
 
 A parceria entre a atriz Milla Jovovich e o diretor Paul W.S. Anderson, embora não seja amplamente reconhecida fora dos círculos de aficionados por cinema de ação, celebra quase um quarto de século de colaborações frutíferas. 'Estamos quase aniversariando, porque filmamos o primeiro Resident Evil em 2001. Vinte e quatro anos! Desde então tem sido muito divertido, sempre explorando novos territórios, estendendo os limites, sempre procurando fazer algo divertido, criativo e diferente', comenta Anderson.

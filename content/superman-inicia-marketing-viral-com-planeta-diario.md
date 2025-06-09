@@ -21,6 +21,7 @@ tags:
   - 'James Gunn'
   - 'filme do Superman'
   - 'universo cinematogrfico DC'
+  - especial-Superman
 keywords: >-
   Superman, marketing viral, Planeta Diário, Warner Bros., DC Studios, Clark Kent, Perry White, campanha imersiva, Instagram, James Gunn, filme do Superman, universo cinematográfico DC
 author: Pablo Moura

@@ -21,6 +21,10 @@ keywords: >-
   adaptação cinematográfica, cultura gamer
 data: '2025-04-06T16:11:21.910Z'
 author: Luana Souza
+resumo: >-
+  A adaptação de Minecraft homenageará Technoblade, influenciador falecido,
+  graças à iniciativa de Sebastian Hansen. O filme conta com Jason Momoa e Jack
+  Black.
 ---
 
 A adaptação cinematográfica de Minecraft inclui uma homenagem especial ao falecido jogador e influenciador Technoblade, graças a uma iniciativa do ator Sebastian Hansen, que interpreta um dos protagonistas do filme. Em entrevista ao Collider, o diretor Jared Hess explicou que a inclusão dessa referência foi uma sugestão de Hansen, motivada pela admiração e respeito que a comunidade de Minecraft tinha por Technoblade, que veio a falecer em 2022 devido a um câncer.

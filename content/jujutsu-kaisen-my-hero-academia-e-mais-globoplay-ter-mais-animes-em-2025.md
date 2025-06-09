@@ -22,6 +22,10 @@ keywords: >-
   oriental, mercado brasileiro, expansão de catálogo
 data: '2025-04-04T11:09:48.333Z'
 author: Ana Luiza
+resumo: >-
+  Em 2025, o Globoplay expandirá seu catálogo de animes, priorizando títulos
+  populares como 'Spy X Family' e 'My Hero Academia', visando o público otaku
+  brasil...
 ---
 
 O Globoplay ampliará seu catálogo de animes em 2025, visando atender ao crescente interesse do público otaku no Brasil. Em uma entrevista exclusiva concedida ao Omelete, Tatiana Costa, Diretora de Canais de Entretenimento e Notícias & Conteúdo da Globo, destacou que os animes serão uma das prioridades do serviço de streaming no próximo ano. 

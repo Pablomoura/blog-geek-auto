@@ -16,6 +16,10 @@ tags:
   - streaming
 author: Ana Luiza
 experiencia: true
+resumo: >-
+  Adolescência se torna a minissérie mais assistida da Netflix, com 66,3 milhões
+  de visualizações em duas semanas. A trama intensa narra o drama de um jovem
+  su...
 ---
 
 A minissérie Adolescência alcançou um marco impressionante ao se tornar a minissérie mais assistida na história da Netflix. Segundo dados recentes, a produção acumulou 66,3 milhões de visualizações em menos de duas semanas após sua estreia em 13 de março.

@@ -15,6 +15,9 @@ tags:
   - mapa
   - nostalgia
 author: Pablo Moura
+resumo: >-
+  Activision traz Verdansk de volta em Warzone e relança Modern Warfare 2 no
+  Game Pass. Nostalgia e ação cinematográfica prometem agitar os fãs em abril!
 ---
 
 A Activision anunciou grandes novidades para a 3ª temporada de Call of Duty: Warzone, que incluem o retorno do adorado mapa Verdansk. A atualização está prevista para o dia 3 de abril e promete reviver a nostalgia dos jogadores com esse cenário icônico. Confira acima a prévia divulgada.

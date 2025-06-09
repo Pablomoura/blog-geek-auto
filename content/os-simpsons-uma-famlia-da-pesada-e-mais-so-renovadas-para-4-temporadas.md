@@ -20,6 +20,10 @@ tags:
   - Bob's Burgers
   - American Dad
 author: Pablo Moura
+resumo: >-
+  Fox renova Os Simpsons, Uma Família da Pesada, Bob's Burgers e American Dad!
+  até 2028-29. Novo contrato Hulu de US$ 1,5 bi impulsiona streaming e novas
+  anima...
 ---
 
 A Fox anunciou a renovação de quatro séries animadas para mais quatro temporadas cada. As séries incluem Os Simpsons, Uma Família da Pesada, Bob's Burgers e American Dad!, que retorna após um hiato de 11 anos. Estas extensões garantem a continuidade das séries até a temporada televisiva de 2028-29. Este movimento foi possível graças a um novo contrato com a Hulu, avaliado em US$ 1,5 bilhões, que se estende até 2029 e inclui os direitos de streaming dos conteúdos da Fox. 

@@ -16,6 +16,10 @@ tags:
   - reboot
   - cinema
 author: Ana Luiza
+resumo: >-
+  Laia Costa e Jack Reynor estrelam o reboot de 'A Múmia', dirigido por Lee
+  Cronin. Com estreia prevista para 2026, o filme promete uma abordagem
+  inovadora.
 ---
 
 O reboot de 'A Múmia' acaba de anunciar a atriz espanhola Laia Costa como a protagonista feminina. Este anúncio ocorre um dia após a confirmação de Jack Reynor no papel do protagonista masculino. Costa, conhecida por seus papéis em 'Victoria' e 'Newness', interpretará a esposa do personagem de Reynor. Detalhes específicos sobre os personagens ainda não foram divulgados, mas especula-se que o casal possa ter uma filha e que se envolverão em uma expedição que os leva a encontrar a múmia titular.

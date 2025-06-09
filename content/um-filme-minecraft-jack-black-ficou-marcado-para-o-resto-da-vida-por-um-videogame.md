@@ -23,6 +23,10 @@ keywords: >-
   Momoa, Warner Bros, adaptação cinematográfica
 data: '2025-04-07T15:10:57.888Z'
 author: Pablo Moura
+resumo: >-
+  Warner Bros. lança 'Um Filme Minecraft', estrelado por Jack Black e Jason
+  Momoa. Black relembra sua paixão por videogames desde a infância. Descubra
+  mais!
 ---
 
 Com a estreia global de 'Um Filme Minecraft', a Warner Bros. Pictures apresenta uma adaptação cinematográfica aguardada de uma das maiores franquias de videogame. Jack Black, um dos protagonistas, expressou sua alegria em fazer parte do projeto e relembrou os momentos marcantes de sua infância ligados aos jogos eletrônicos. Em entrevista à Radio 10, Black disse: 'Desde pequeno, eu era fascinado por BMX e videogames. Confesso que fingia estar doente só para ficar em casa jogando ao invés de ir à escola, onde muitas vezes adormecia.'

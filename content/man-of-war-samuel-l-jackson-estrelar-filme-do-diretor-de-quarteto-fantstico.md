@@ -1,14 +1,32 @@
 ---
-title: "Man of War | Samuel L. Jackson estrelará filme do diretor de Quarteto Fantástico"
-slug: "man-of-war-samuel-l-jackson-estrelar-filme-do-diretor-de-quarteto-fantstico"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/IlJoNkvCVB625Crlle92N15ytPI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-10T192333.015.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/_MGAdkGRJg1LcSeEtozvtxaiXnc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T192333.015.png"
-tags: ["Samuel L. Jackson", "Tim Story", "Man of War", "corrupção", "racismo", "filme de ação", "Paramount Pictures", "Quarteto Fantástico"]
-keywords: "Samuel L. Jackson, Tim Story, Man of War, corrupção, racismo, filme de ação, Paramount Pictures, Quarteto Fantástico"
-author: "Pablo Moura"
-data: "2025-04-10T23:11:14.245Z"
+title: >-
+  Man of War | Samuel L. Jackson estrelará filme do diretor de Quarteto
+  Fantástico
+slug: man-of-war-samuel-l-jackson-estrelar-filme-do-diretor-de-quarteto-fantstico
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/IlJoNkvCVB625Crlle92N15ytPI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-10T192333.015.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/_MGAdkGRJg1LcSeEtozvtxaiXnc=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-10T192333.015.png
+tags:
+  - Samuel L. Jackson
+  - Tim Story
+  - Man of War
+  - corrupção
+  - racismo
+  - filme de ação
+  - Paramount Pictures
+  - Quarteto Fantástico
+keywords: >-
+  Samuel L. Jackson, Tim Story, Man of War, corrupção, racismo, filme de ação,
+  Paramount Pictures, Quarteto Fantástico
+author: Pablo Moura
+data: '2025-04-10T23:11:14.245Z'
+resumo: >-
+  Samuel L. Jackson lidera "Man of War", dirigido por Tim Story. Ele interpreta
+  um general que enfrenta corrupção e racismo em sua cidade natal. Data de
+  estrei...
 ---
 
 De acordo com informações obtidas pelo Deadline, o renomado ator Samuel L. Jackson será o protagonista do novo filme Man of War, dirigido por Tim Story, conhecido por seu trabalho em Quarteto Fantástico. No enredo de Man of War, Jackson interpreta um general recém-aposentado e altamente condecorado que, após a morte de sua esposa, retorna à sua cidade natal na Georgia. Lá, ele descobre que o local está sendo devastado pela corrupção, gentrificação e racismo. Armado com suas habilidades de estratégia e combate, ele declara guerra contra os poderes corruptos da cidade e um bilionário que os explora.

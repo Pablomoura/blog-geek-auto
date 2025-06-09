@@ -1,14 +1,32 @@
 ---
-title: "Quarteto Fantástico | Desafios na escolha do elenco marcam nova produção, afirma diretor"
-slug: "quarteto-fantstico-elenco-foi-o-maior-desafio-do-filme-diz-diretor"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/oDi3l3Xg1FEpwB4WFoih0UnTZ3s=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-10T134129.497.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/2_W-BL412kj853jQAcKaFKbELB0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T134118.837.png"
-tags: ["Quarteto Fantástico", "MCU", "Matt Shakman", "elenco de cinema", "heróis Marvel", "Pedro Pascal", "Vanessa Kirby", "filmes de super-heróis"]
-keywords: "Quarteto Fantástico, MCU, Matt Shakman, elenco de cinema, heróis Marvel, Pedro Pascal, Vanessa Kirby, filmes de super-heróis"
-author: "Luana Souza"
-data: "2025-04-10T17:12:07.721Z"
+title: >-
+  Quarteto Fantástico | Desafios na escolha do elenco marcam nova produção,
+  afirma diretor
+slug: quarteto-fantstico-elenco-foi-o-maior-desafio-do-filme-diz-diretor
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/oDi3l3Xg1FEpwB4WFoih0UnTZ3s=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-10T134129.497.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/2_W-BL412kj853jQAcKaFKbELB0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T134118.837.png
+tags:
+  - Quarteto Fantástico
+  - MCU
+  - Matt Shakman
+  - elenco de cinema
+  - heróis Marvel
+  - Pedro Pascal
+  - Vanessa Kirby
+  - filmes de super-heróis
+keywords: >-
+  Quarteto Fantástico, MCU, Matt Shakman, elenco de cinema, heróis Marvel, Pedro
+  Pascal, Vanessa Kirby, filmes de super-heróis
+author: Luana Souza
+data: '2025-04-10T17:12:07.721Z'
+resumo: >-
+  O diretor Matt Shakman revela desafios na escolha do elenco de 'Quarteto
+  Fantástico: Primeiros Passos', introduzindo Pedro Pascal e Vanessa Kirby ao
+  MCU.
 ---
 
 Em recente entrevista ao Entertainment Weekly, o diretor Matt Shakman compartilhou insights sobre os desafios enfrentados durante a produção do filme 'Quarteto Fantástico: Primeiros Passos', que introduz a icônica equipe de heróis no Universo Cinematográfico da Marvel (MCU). 'A escolha do elenco foi definitivamente o maior desafio', revelou Shakman, enfatizando a complexidade de encontrar os atores certos para cada papel, bem como a química entre eles como uma família e como casal.

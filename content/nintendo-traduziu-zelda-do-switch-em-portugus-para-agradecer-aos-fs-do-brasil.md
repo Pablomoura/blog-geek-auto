@@ -22,6 +22,9 @@ keywords: >-
   gratuitas, lançamento global, tradução de jogos, Joy-Con magnético, HDR e 4K
 data: '2025-04-03T21:09:54.534Z'
 author: Ana Luiza
+resumo: >-
+  Nintendo anuncia tradução dos jogos Zelda para português, atendendo fãs
+  brasileiros. Switch 2 estreia em 5 de junho com melhorias e novos jogos.
 ---
 
 Em conversa com a equipe do Omelete durante o lançamento do Nintendo Switch 2 nos Estados Unidos, Pilar Pueblita, gerente de relações públicas e eventos para a América Latina da Nintendo of America, expressou gratidão aos admiradores brasileiros da série Zelda. 'É uma maneira de agradecer e mostrar que estamos atentos aos desejos dos fãs', afirmou Pueblita. Ela também destacou a intensa paixão dos brasileiros pelo universo de Zelda, ressaltando o entusiasmo da empresa com a recepção positiva ao anúncio da tradução dos jogos.

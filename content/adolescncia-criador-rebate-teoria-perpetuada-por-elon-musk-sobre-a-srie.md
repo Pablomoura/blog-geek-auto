@@ -17,6 +17,10 @@ tags:
   - netflix
   - plataforma x
 author: Luana Souza
+resumo: >-
+  Jack Thorne, co-criador de 'Adolescência', rebateu a teoria de Elon Musk sobre
+  a série promover uma agenda 'anti-brancos', reafirmando seu foco na
+  masculinid...
 ---
 
 Jack Thorne, co-criador da minissérie 'Adolescência', sucesso da Netflix em 2025, refutou recentemente uma teoria conspiratória disseminada por Elon Musk na plataforma X (anteriormente conhecida como Twitter). Thorne descreveu como absurda a ideia de que a série promova uma agenda 'anti-brancos'.

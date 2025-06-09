@@ -1,14 +1,30 @@
 ---
-title: "Highest 2 Lowest | Spike Lee lançará seu novo filme no Festival de Cannes"
-slug: "highest-2-lowest-spike-lee-lanar-seu-novo-filme-no-festival-de-cannes"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/BVN2X5BfYkSTfnIsWcNsegXbSmE=/987x0/smart/uploads/conteudo/fotos/chrome_iR9W5F1G1W.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/3Qwb5NEDyDVD3_Ayy5HvU8GlaNQ=/480x360/smart/extras/conteudos/highest-2-lowest.jpg"
-tags: ["Spike Lee", "Denzel Washington", "Festival de Cannes", "remake", "Akira Kurosawa", "filme de suspense", "colaboração cinematográfica", "A24"]
-keywords: "Spike Lee, Denzel Washington, Festival de Cannes, remake, Akira Kurosawa, filme de suspense, colaboração cinematográfica, A24"
-author: "Luana Souza"
-data: "2025-04-10T12:17:29.264Z"
+title: Highest 2 Lowest | Spike Lee lançará seu novo filme no Festival de Cannes
+slug: highest-2-lowest-spike-lee-lanar-seu-novo-filme-no-festival-de-cannes
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/BVN2X5BfYkSTfnIsWcNsegXbSmE=/987x0/smart/uploads/conteudo/fotos/chrome_iR9W5F1G1W.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/3Qwb5NEDyDVD3_Ayy5HvU8GlaNQ=/480x360/smart/extras/conteudos/highest-2-lowest.jpg
+tags:
+  - Spike Lee
+  - Denzel Washington
+  - Festival de Cannes
+  - remake
+  - Akira Kurosawa
+  - filme de suspense
+  - colaboração cinematográfica
+  - A24
+keywords: >-
+  Spike Lee, Denzel Washington, Festival de Cannes, remake, Akira Kurosawa,
+  filme de suspense, colaboração cinematográfica, A24
+author: Luana Souza
+data: '2025-04-10T12:17:29.264Z'
+resumo: >-
+  Denzel Washington protagoniza 'Highest 2 Lowest', remake do clássico de
+  Kurosawa. Spike Lee confirma estreia em Cannes, apesar de ausência no anúncio
+  oficial.
 ---
 
 O aguardado remake de 'Céu e Inferno', clássico de Akira Kurosawa, intitulado 'Highest 2 Lowest', acaba de ganhar uma nova imagem oficial. A foto destaca Denzel Washington, colaborador frequente do cineasta Spike Lee. Através de uma publicação no Instagram, Lee confirmou que o filme será apresentado no prestigiado Festival de Cannes, apesar de não ter sido mencionado no anúncio oficial do evento realizado nesta manhã.

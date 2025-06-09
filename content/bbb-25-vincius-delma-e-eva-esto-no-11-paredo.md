@@ -16,6 +16,10 @@ tags:
   - eva
   - prova do líder
 author: Luana Souza
+resumo: >-
+  O 11º Paredão do BBB 25 está formado com Vinícius, Delma e Eva. A decisão
+  acontece no domingo, dia 30. João Pedro garantiu imunidade, e Maike indicou
+  Delma.
 ---
 
 O 11º Paredão do Big Brother Brasil 25 já está definido, trazendo Vinícius, Delma e Eva para a zona de risco. A decisão de quem deixará o programa será no próximo domingo, dia 30. 

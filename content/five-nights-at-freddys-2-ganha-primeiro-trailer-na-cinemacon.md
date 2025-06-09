@@ -20,6 +20,9 @@ keywords: >-
   de trailer, Matthew Lillard, adaptação de videogame, Halloween
 data: '2025-04-03T00:11:52.308Z'
 author: Ana Luiza
+resumo: >-
+  Five Nights at Freddy's 2' ganha trailer na CinemaCon. Exclusivo para cinemas,
+  o filme traz Matthew Lillard em destaque. Estreia prevista para Halloween.
 ---
 
 O aguardado terror 'Five Nights at Freddy's 2' teve seu primeiro trailer divulgado pela Universal Pictures na CinemaCon deste ano. Durante o evento, Jason Blum subiu ao palco e destacou que o primeiro filme foi o maior sucesso da Blumhouse, marcando a história do estúdio. Ele ressaltou ainda que, diferentemente do primeiro filme, que foi lançado em plataformas de streaming, 'FNAF 2' será exclusivo para os cinemas.

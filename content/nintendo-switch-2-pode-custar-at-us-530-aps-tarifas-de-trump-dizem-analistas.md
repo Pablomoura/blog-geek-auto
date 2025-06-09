@@ -23,6 +23,10 @@ keywords: >-
   funcionalidades de jogo, HDR e 4K, jogos novos, mercado de videogames
 data: '2025-04-08T16:14:46.936Z'
 author: Pablo Moura
+resumo: >-
+  O Nintendo Switch 2 pode custar até US$ 530 nos EUA devido a tarifas,
+  impactando vendas. Lançamento global em 5 de junho traz novidades e suporte a
+  4K HDR.
 ---
 
 De acordo com uma análise realizada pela DFC Intelligence, o preço do Nintendo Switch 2 pode chegar a US$ 530 nos Estados Unidos. Inicialmente anunciado por US$ 450, o aumento significativo no preço é atribuído às tarifas impostas recentemente. A DFC Intelligence destaca que, além de elevar o custo para o consumidor, estas tarifas poderão resultar em uma redução nas vendas, com uma previsão de 15 milhões de unidades vendidas nos EUA, contra os 17 milhões anteriormente estimados. A agência prevê que este aumento de 20% no preço se mantenha pelos próximos dois anos.

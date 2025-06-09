@@ -19,6 +19,10 @@ tags:
   - mods
   - direitos autorais
 author: Pablo Moura
+resumo: >-
+  A Hasbro mandou remover do Nexus Mods um mod de Stardew Valley com personagens
+  de Baldur's Gate 3, alegando violação de direitos, apesar do apoio inicial
+  da...
 ---
 
 O site Nexus Mods anunciou recentemente que a Hasbro, empresa-mãe da Wizards of the Coast e detentora dos direitos de Dungeons & Dragons e Baldur's Gate 3, determinou a remoção de um popular mod de Stardew Valley. Este mod, criado pelo usuário BV e publicado em 8 de março, incorporava 20 personagens de Baldur's Gate 3 ao simulador de fazenda, junto com novas localidades, lojas, itens especiais e missões.

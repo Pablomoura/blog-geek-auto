@@ -16,6 +16,10 @@ tags:
   - teatro
   - bastidores
 author: Pablo Moura
+resumo: >-
+  A Netflix lança 'Behind the Curtain', documentário sobre a adaptação de
+  Stranger Things para a Broadway. Estreia em 15 de abril, trazendo bastidores e
+  desafios.
 ---
 
 A Netflix vai explorar a adaptação de Stranger Things para os palcos da Broadway em um novo documentário original. Intitulado 'Behind the Curtain: Stranger Things: The First Shadow', o filme revelará os desafios e bastidores da produção teatral que levou a amada série para Nova York. A estreia está marcada para 15 de abril no serviço de streaming.

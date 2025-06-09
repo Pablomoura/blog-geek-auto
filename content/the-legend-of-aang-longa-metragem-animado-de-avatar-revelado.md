@@ -21,6 +21,9 @@ keywords: >-
   animação, Nickelodeon, Paramount, expansão de universo, 2026
 data: '2025-04-03T18:15:40.260Z'
 author: Luana Souza
+resumo: >-
+  CinemaCon revela 'The Legend of Aang: The Last Airbender', filme amadurecido
+  de Avatar, com estreia em 2026. A trama explora Aang e amigos nos 30 anos.
 ---
 
 A CinemaCon foi palco para a revelação do novo longa-metragem de 'Avatar: A Lenda de Aang', intitulado 'The Legend of Aang: The Last Airbender', com previsão de lançamento para 2026. O enredo do filme abordará uma fase mais madura dos personagens Aang, Katara, Sokka, Zuko e Toph, explorando suas vidas no final dos 20 anos e início dos 30.

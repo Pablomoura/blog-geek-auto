@@ -21,6 +21,10 @@ keywords: >-
   estelar, Jared Hess, recorde de vendas, fenômeno global
 data: '2025-04-06T16:10:11.983Z'
 author: Ana Luiza
+resumo: >-
+  Um Filme Minecraft' quebra recorde de estreia nos EUA, arrecadando US$ 157
+  milhões. Com Jason Momoa e Jack Black, supera 'Super Mario Bros.' em
+  bilheteria in...
 ---
 
 O novo sucesso de bilheteria, 'Um Filme Minecraft', estabeleceu um novo recorde neste fim de semana nos Estados Unidos ao se tornar a maior estreia para uma adaptação de videogames, arrecadando impressionantes US$ 157 milhões. Este valor ultrapassa os US$ 146,4 milhões alcançados por 'Super Mario Bros. - O Filme', apesar deste último ter tido o benefício de estrear durante um feriado de cinco dias, período no qual acumulou US$ 191 milhões.

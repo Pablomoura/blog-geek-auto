@@ -20,6 +20,10 @@ keywords: >-
   tecnológicas, jogos 4K, HDR, Joy-Con magnético, GameChat
 data: '2025-04-03T14:11:56.598Z'
 author: Ana Luiza
+resumo: >-
+  Nintendo Switch 2 pode chegar ao Brasil em 5 de junho, junto com os EUA. O
+  console, com novas funcionalidades e preço acessível, promete revolucionar o
+  mercado.
 ---
 
 A Nintendo planeja lançar o Nintendo Switch 2 no Brasil ao mesmo tempo que nos Estados Unidos, especificamente em 5 de junho. Contudo, ainda não há uma data confirmada para a chegada do console ao mercado brasileiro.

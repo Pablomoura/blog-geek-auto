@@ -21,6 +21,10 @@ keywords: >-
   loop temporal, franquia de filmes, sequência de filme, anúncio de filme
 data: '2025-04-06T22:09:33.683Z'
 author: Pablo Moura
+resumo: >-
+  A franquia 'A Morte Te Dá Parabéns' pode ganhar um terceiro filme! O diretor
+  Christopher Landon e a atriz Jessica Rothe anunciaram a novidade em evento
+  recente.
 ---
 
 Seis anos após a estreia de seu segundo capítulo, a franquia 'A Morte Te Dá Parabéns' parece estar pronta para receber um terceiro filme. Essa novidade foi compartilhada pelo diretor Christopher Landon e pela atriz principal, Jessica Rothe, durante uma sessão de perguntas e respostas na Cinemateca Americana, realizada no último sábado (5). O evento contou com a exibição dos dois primeiros filmes da série.

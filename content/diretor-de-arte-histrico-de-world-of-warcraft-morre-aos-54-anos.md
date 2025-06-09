@@ -21,6 +21,9 @@ keywords: >-
   arte, videogames, falecimento, indústria de jogos
 data: '2025-04-09T22:10:13.661Z'
 author: Luana Souza
+resumo: >-
+  Bill Petras, lendário diretor de arte da Blizzard, faleceu. Com 25 anos na
+  empresa, deixou sua marca em clássicos como World of Warcraft e Overwatch.
 ---
 
 Na última sexta-feira (04), foi anunciada a morte de Bill Petras, renomado diretor de arte que dedicou 25 anos de sua carreira à Blizzard Entertainment. A notícia foi divulgada por Harley D. Huggins II, colega de longa data de Petras na empresa responsável por sucessos como World of Warcraft e Overwatch.

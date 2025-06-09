@@ -17,6 +17,9 @@ tags:
   - tv globo
   - multishow
 author: Ana Luiza
+resumo: >-
+  O 12º Paredão do BBB 25 aquece a disputa com três participantes na berlinda.
+  Acompanhe pelo Globoplay e saiba como a votação pode decidir o destino deles!
 ---
 
 O 12º Paredão do BBB 25, marcado para a noite deste domingo (28), promete intensas emoções com três participantes enfrentando a ameaça da eliminação na terça-feira, dia 1º. O reality show, que captura a atenção do público brasileiro, é exibido pela TV Globo diariamente, e também pelo Multishow após a transmissão na rede aberta. Para os assinantes, o Globoplay e Globo.com oferecem a chance de acompanhar o programa com câmeras exclusivas.

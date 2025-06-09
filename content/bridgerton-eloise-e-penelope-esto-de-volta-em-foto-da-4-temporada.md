@@ -16,6 +16,10 @@ tags:
   - série de tv
   - entertainment weekly
 author: Pablo Moura
+resumo: >-
+  A quarta temporada de 'Bridgerton' destaca Eloise e Penelope em nova imagem.
+  Com estreia em 2026, a série focará em Benedict Bridgerton. Confira os
+  detalhes!
 ---
 
 A aguardada quarta temporada de 'Bridgerton' acaba de ser apresentada em uma nova imagem, destacando o retorno das personagens Eloise, interpretada por Claudia Jessie, e Penelope, vivida por Nicola Coughlan. A foto foi divulgada pela Entertainment Weekly.

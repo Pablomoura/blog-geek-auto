@@ -17,6 +17,9 @@ tags:
   - jogos xbox
   - lançamentos de abril
 author: Luana Souza
+resumo: >-
+  Xbox Game Pass revela lista de abril com Diablo 3 e Borderlands 3. Assinantes
+  ganham 20% de desconto, aproveitando jogos antes que deixem o catálogo.
 ---
 
 O serviço de assinatura Game Pass da Xbox revelou sua lista de jogos para abril, prometendo empolgar os gamers com adições significativas ao seu catálogo. Entre os destaques estão a edição completa de Diablo 3 e Borderlands 3, além do aguardado novo título, South of Midnight, cuja inclusão já havia sido confirmada anteriormente.

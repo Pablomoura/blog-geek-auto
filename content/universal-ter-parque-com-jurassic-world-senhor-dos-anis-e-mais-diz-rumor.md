@@ -1,14 +1,32 @@
 ---
-title: "Universal planeja novo parque temático no Reino Unido com atrações de Jurassic World e Senhor dos Anéis"
-slug: "universal-ter-parque-com-jurassic-world-senhor-dos-anis-e-mais-diz-rumor"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/FmcuuU5dW6FAutkIjMlUDmeg37I=/987x0/smart/uploads/conteudo/fotos/02_1YGTL71.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/iqc_xXcnhntJ6Lsg8OYvVhYzHQw=/480x360/smart/extras/conteudos/jurassic-world-logo.png"
-tags: ["Universal", "parque temático", "Jurassic World", "Senhor dos Anéis", "Minions", "James Bond", "De Volta para o Futuro", "Paddington"]
-keywords: "Universal, parque temático, Jurassic World, Senhor dos Anéis, Minions, James Bond, De Volta para o Futuro, Paddington"
-author: "Ana Luiza"
-data: "2025-04-10T20:11:17.591Z"
+title: >-
+  Universal planeja novo parque temático no Reino Unido com atrações de Jurassic
+  World e Senhor dos Anéis
+slug: universal-ter-parque-com-jurassic-world-senhor-dos-anis-e-mais-diz-rumor
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/FmcuuU5dW6FAutkIjMlUDmeg37I=/987x0/smart/uploads/conteudo/fotos/02_1YGTL71.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/iqc_xXcnhntJ6Lsg8OYvVhYzHQw=/480x360/smart/extras/conteudos/jurassic-world-logo.png
+tags:
+  - Universal
+  - parque temático
+  - Jurassic World
+  - Senhor dos Anéis
+  - Minions
+  - James Bond
+  - De Volta para o Futuro
+  - Paddington
+keywords: >-
+  Universal, parque temático, Jurassic World, Senhor dos Anéis, Minions, James
+  Bond, De Volta para o Futuro, Paddington
+author: Ana Luiza
+data: '2025-04-10T20:11:17.591Z'
+resumo: >-
+  A Universal planeja um parque temático em Bedford, com atrações de ícones pop
+  como Jurassic World e 007. A construção pode começar em 2024, com abertura
+  prev...
 ---
 
 A Universal, em sua divisão britânica, está planejando a construção de um novo parque temático em Bedford, Inglaterra, revelou a BBC. Este ambicioso projeto incluirá atrações baseadas em ícones da cultura pop como Minions, Jurassic World, O Senhor dos Anéis, James Bond, De Volta para o Futuro e Paddington, entre outros. No entanto, o parque não contará com atrações de Harry Potter.

@@ -17,6 +17,10 @@ tags:
   - homem de aço
   - especial-Superman
 author: Pablo Moura
+resumo: >-
+  Na CinemaCon, foi revelada uma prévia do novo filme do Superman, destacando a
+  icônica Fortaleza da Solidão. Estreia em julho com David Corenswet no papel
+  pri...
 ---
 
 A CinemaCon deste ano foi palco de uma revelação significativa para os fãs de Superman, com a exibição de uma prévia exclusiva do próximo filme do Homem de Aço, programado para estrear em julho. A apresentação destacou uma das cenas mais aguardadas: a primeira visão da Fortaleza da Solidão na nova era do Superman, com David Corenswet assumindo o icônico manto azul e vermelho.

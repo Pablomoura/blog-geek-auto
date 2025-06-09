@@ -16,6 +16,10 @@ tags:
   - franquia
   - desenvolvimento
 author: Pablo Moura
+resumo: >-
+  CD Projekt Red faz parceria com Scopely para adaptar franquia a plataformas
+  móveis. Detalhes são escassos, mas The Witcher 4 segue em produção para
+  pós-2026.
 ---
 
 Em recente reunião de resultados financeiros, a CD Projekt Red anunciou uma colaboração inédita com a Scopely, empresa que adquiriu a Niantic, desenvolvedora do famoso Pokémon GO. A parceria visa adaptar uma das franquias da desenvolvedora polonesa para uma nova plataforma móvel, embora detalhes específicos sobre qual franquia será adaptada ainda não tenham sido revelados.

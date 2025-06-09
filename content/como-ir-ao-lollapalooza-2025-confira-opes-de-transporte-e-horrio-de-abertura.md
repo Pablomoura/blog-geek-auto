@@ -15,6 +15,10 @@ tags:
   - linha 9-esmeralda
   - planejamento de viagem
 author: Luana Souza
+resumo: >-
+  Descubra as melhores formas de chegar ao Lollapalooza 2025 em Interlagos! Com
+  opções de transporte público e rodoviário, planeje sua ida ao festival sem
+  perr...
 ---
 
 O Lollapalooza 2025 está próximo e muitos já estão com ingressos em mãos, mas ainda há dúvidas sobre como chegar ao Autódromo de Interlagos, em São Paulo, local do evento. Acompanhe nossas dicas e planeje sua ida.

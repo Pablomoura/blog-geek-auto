@@ -16,6 +16,10 @@ tags:
   - barrado no baile
   - reality show
 author: Ana Luiza
+resumo: >-
+  No 'BBB 25', a líder Renata vetou Vinícius da festa semanal. Ele enfrenta um
+  desafio no cômodo extra: encontrar 33 tiras de papel entre 250 mil para
+  participar.
 ---
 
 O 'Big Brother Brasil 25' introduziu uma nova dinâmica chamada 'Barrado no Baile', onde o líder da semana tem o poder de vetar um participante de sua festa de liderança. Nesta semana, a líder Renata escolheu excluir Vinícius da celebração, que ocorre todas as quartas-feiras.

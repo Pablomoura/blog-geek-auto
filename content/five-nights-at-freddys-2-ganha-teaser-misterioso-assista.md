@@ -16,6 +16,10 @@ tags:
   - filme de terror
   - sequência
 author: Pablo Moura
+resumo: >-
+  Jason Blum revela teaser de 'Five Nights at Freddy's 2' para 2 de abril. Com
+  estreia em 4 de dezembro, o filme traz Josh Hutcherson e Matthew Lillard de
+  volta.
 ---
 
 Jason Blum, produtor de 'Five Nights at Freddy's 2', anunciou que a sequência do filme receberá seu primeiro teaser oficial no dia 2 de abril. A prévia será inicialmente apresentada na CinemaCon, com a expectativa de ser liberada ao público em geral logo em seguida.

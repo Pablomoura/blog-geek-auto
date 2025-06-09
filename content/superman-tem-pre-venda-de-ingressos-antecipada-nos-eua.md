@@ -20,6 +20,7 @@ tags:
   - 'lanamento de filme'
   - 'bilheteria'
   - 'universo cinematogrfico da DC'
+  - especial-Superman
 keywords: >-
   Superman, DC Studios, Warner Bros., pré-venda de ingressos, DCU, James Gunn, David Corenswet, Rachel Brosnahan, lançamento de filme, bilheteria, universo cinematográfico da DC
 author: Ana Luiza

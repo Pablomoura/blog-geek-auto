@@ -17,6 +17,10 @@ tags:
   - bilheteria
 author: Luana Souza
 experiencia: true
+resumo: >-
+  O remake de Branca de Neve enfrenta bilheteria baixa e controvérsias de
+  manipulação de avaliações no IMDb. No Rotten Tomatoes, mantém 74% de aprovação
+  do púb...
 ---
 
 O lançamento do remake em live-action de Branca de Neve tem sido marcado por desafios. Nos cinemas, o filme iniciou sua trajetória abaixo das expectativas tanto nos Estados Unidos quanto globalmente, alcançando apenas metade da bilheteria de estreia de A Pequena Sereia.

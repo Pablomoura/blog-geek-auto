@@ -16,6 +16,9 @@ tags:
   - jogos para ps5
   - sony
 author: Pablo Moura
+resumo: >-
+  Descubra os jogos de abril da PS Plus Essentials: Robocop, The Texas Chain Saw
+  Massacre e Digimon Story prometem ação e nostalgia. Disponíveis de 1/4 a 5/5!
 ---
 
 A Sony divulgou a lista de jogos para abril da PS Plus Essentials, a versão mais acessível da assinatura da PS Plus. Entre os destaques estão Robocop, para PS4 e PS5, que permite aos jogadores encarnar o icônico policial ciborgue em uma aventura em primeira pessoa.

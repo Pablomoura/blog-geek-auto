@@ -21,6 +21,10 @@ tags:
   - filmes de videogame
   - cinema brasileiro
 author: Pablo Moura
+resumo: >-
+  Estreias nos cinemas: 'Minecraft' com Jack Black e Jason Momoa, 'Presença' de
+  Steven Soderbergh, e 'Código Alarum' com Isis Valverde e Sylvester Stallone.
+  Im...
 ---
 
 Esta semana promete ser movimentada nos cinemas brasileiros com a estreia de 'Minecraft', uma adaptação do popular jogo da Microsoft. Estrelado por Jack Black e Jason Momoa, o filme é uma homenagem ao universo do jogo e promete cativar os fãs com uma narrativa vibrante.

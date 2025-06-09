@@ -21,6 +21,10 @@ keywords: >-
   global
 data: '2025-04-04T15:11:00.159Z'
 author: Luana Souza
+resumo: >-
+  Nintendo adia pré-venda do Switch 2 nos EUA devido a novas taxas, mas mantém
+  lançamento global em 5 de junho de 2025. Console traz inovações e preço
+  inicial...
 ---
 
 A Nintendo anunciou um adiamento no início da pré-venda do Nintendo Switch 2 nos Estados Unidos, inicialmente marcada para 9 de abril de 2025. A decisão foi tomada para que a empresa possa avaliar o impacto das novas taxas de importação impostas pelo governo americano. Apesar do adiamento da pré-venda, a data de lançamento do console está confirmada para 5 de junho de 2025.

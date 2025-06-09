@@ -16,6 +16,9 @@ tags:
   - cinema
   - dana white
 author: Ana Luiza
+resumo: >-
+  Zack Snyder dirigirá 'Brawler', filme sobre UFC, explorando lutas intensas e
+  superação. Com roteiro de Hatten e Johnstad, a produção começa ano que vem.
 ---
 
 Zack Snyder, renomado cineasta americano, está preparando seu próximo grande projeto: a direção do filme 'Brawler', uma produção oficial sobre o Ultimate Fighting Championship (UFC). O anúncio foi feito nesta segunda-feira pelo CEO do UFC, Dana White, que confirmou Snyder no comando do projeto.

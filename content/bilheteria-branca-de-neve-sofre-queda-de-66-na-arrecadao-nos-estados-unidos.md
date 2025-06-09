@@ -15,6 +15,10 @@ tags:
   - gal gadot
   - cinema
 author: Luana Souza
+resumo: >-
+  O remake de 'Branca de Neve', com Rachel Zegler e Gal Gadot, enfrenta
+  dificuldades nas bilheterias dos EUA, arrecadando US$ 14,2 milhões no segundo
+  fim de se...
 ---
 
 O remake de 'Branca de Neve e os Sete Anões', estrelado por Rachel Zegler e Gal Gadot, enfrenta dificuldades nas bilheterias dos Estados Unidos, registrando um declínio de 66% em seu segundo fim de semana, com uma arrecadação de apenas US$ 14,2 milhões. No total, o filme acumula US$ 66,8 milhões nos EUA e US$ 143,1 milhões globalmente.

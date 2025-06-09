@@ -21,6 +21,9 @@ keywords: >-
   Productions, Ian Fleming, franquia cinematográfica
 data: '2025-04-04T15:11:37.078Z'
 author: Ana Luiza
+resumo: >-
+  Pierce Brosnan apoia Aaron Taylor-Johnson como o novo 007, apesar do
+  desinteresse do ator. A Amazon agora controla a franquia após compra da MGM.
 ---
 
 Enquanto o futuro da franquia 007 permanece incerto, Pierce Brosnan, o renomado ator irlandês que deu vida a James Bond em quatro ocasiões, expressou seu apoio para que Aaron Taylor-Johnson assuma o icônico papel do espião. Em recente entrevista concedida ao Deadline, Brosnan relembrou sua experiência com Taylor-Johnson no filme 'Em Busca de Uma Nova Chance' (2009), destacando a paixão e energia que o jovem ator trouxe ao set. 'Se ele quisesse, ele seria excelente como Bond', afirmou Brosnan.

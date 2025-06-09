@@ -15,6 +15,10 @@ tags:
   - ação
   - detetive
 author: Ana Luiza
+resumo: >-
+  O trailer de 'Força Bruta: Punição' revela o detetive Ma Seok-do enfrentando
+  um cartel de drogas e apostas. O filme chega aos cinemas brasileiros em 10 de
+  ab...
 ---
 
 O aguardado quarto capítulo da franquia de sucesso sul-coreana, 'Força Bruta: Punição', acaba de ganhar um empolgante trailer nacional com Don Lee em destaque. Confira no vídeo acima.

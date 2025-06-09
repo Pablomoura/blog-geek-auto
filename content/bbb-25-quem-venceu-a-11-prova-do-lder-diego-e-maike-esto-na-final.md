@@ -16,6 +16,10 @@ tags:
   - liderança
   - competição
 author: Ana Luiza
+resumo: >-
+  Diego e Maike brilham no BBB 25! Após vencerem a emocionante Prova do Líder em
+  duas fases, garantem segurança e vaga na final. Acompanhe ao vivo no Globo e
+  M...
 ---
 
 O BBB 25 já tem seus novos líderes! Na noite de quinta-feira, 27, os 12 participantes do reality show se enfrentaram em mais uma emocionante Prova do Líder. A competição foi dividida em duas fases, começando com a formação de duplas através de um sorteio.

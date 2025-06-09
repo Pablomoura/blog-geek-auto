@@ -21,6 +21,10 @@ keywords: >-
   partes, dublado em português, Chun Woo-Hee, Kim Dong-Wook
 data: '2025-04-09T00:44:10.843Z'
 author: Luana Souza
+resumo: >-
+  Globoplay expande catálogo com 'Doce Engano', K-Drama sul-coreano que estreia
+  em abril. A série promete drama e vingança, com dublagem em português
+  disponível.
 ---
 
 A Globoplay anunciou na última terça-feira a inclusão de novas séries em seu catálogo, destacando a chegada do K-Drama sul-coreano 'Doce Engano'. A série, dirigida por Su Hyun Lee e escrita por Han Woo-Joo, será lançada em duas partes, com a primeira estreando no dia 17 de abril e a segunda no dia 24 do mesmo mês. Ambas as partes serão lançadas numa quinta-feira, com uma semana de intervalo entre elas.

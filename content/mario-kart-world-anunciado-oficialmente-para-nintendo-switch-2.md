@@ -16,6 +16,10 @@ tags:
   - lançamento
   - exclusivo nintendo
 author: Ana Luiza
+resumo: >-
+  Nintendo revela 'Mario Kart World' para Switch 2, trazendo mundo aberto,
+  corridas com 24 jogadores, clima dinâmico e gráficos aprimorados. Prepare-se
+  para su...
 ---
 
 Em um movimento empolgante para os fãs de jogos de corrida, a Nintendo acaba de anunciar o lançamento de 'Mario Kart World', exclusivo para o recém-anunciado Nintendo Switch 2. Este novo título promete revolucionar a franquia, introduzindo um conceito de mundo aberto na jogabilidade.

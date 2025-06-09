@@ -16,6 +16,9 @@ tags:
   - streaming
   - eventos
 author: Luana Souza
+resumo: >-
+  Prime Video confirma presença na CCXP MX 2025, prometendo revelar novidades
+  sobre 'The Boys' e 'Invencível'. Evento ocorre entre 30 de maio e 1º de junho.
 ---
 
 O Prime Video acaba de anunciar sua participação na CCXP MX 2025, a versão mexicana da aclamada Comic Con Experience. A confirmação aumenta a expectativa de anúncios significativos durante o evento.

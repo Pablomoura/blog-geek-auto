@@ -1,14 +1,30 @@
 ---
-title: "Nuntius Games: Influenciadores formam publicadora de jogos brasileiros"
-slug: "nuntius-games-influenciadores-formam-publicadora-de-jogos-brasileiros"
-categoria: "GAMES"
-midia: "https://www.youtube.com/embed/Pz8qkLl4_hs?enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/c2kfSIKtiLQ-arE73xWnu_o391U=/480x360/smart/extras/conteudos/nuntius-games.jpg"
-tags: ["Nuntius Games", "jogos independentes", "publicadora brasileira", "influenciadores", "Rodrigo Coelho", "Nintendo Switch 2", "desenvolvimento de jogos", "ecossistema de jogos no Brasil"]
-keywords: "Nuntius Games, jogos independentes, publicadora brasileira, influenciadores, Rodrigo Coelho, Nintendo Switch 2, desenvolvimento de jogos, ecossistema de jogos no Brasil"
-author: "Pablo Moura"
-data: "2025-04-10T21:10:14.257Z"
+title: 'Nuntius Games: Influenciadores formam publicadora de jogos brasileiros'
+slug: nuntius-games-influenciadores-formam-publicadora-de-jogos-brasileiros
+categoria: GAMES
+midia: 'https://www.youtube.com/embed/Pz8qkLl4_hs?enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/c2kfSIKtiLQ-arE73xWnu_o391U=/480x360/smart/extras/conteudos/nuntius-games.jpg
+tags:
+  - Nuntius Games
+  - jogos independentes
+  - publicadora brasileira
+  - influenciadores
+  - Rodrigo Coelho
+  - Nintendo Switch 2
+  - desenvolvimento de jogos
+  - ecossistema de jogos no Brasil
+keywords: >-
+  Nuntius Games, jogos independentes, publicadora brasileira, influenciadores,
+  Rodrigo Coelho, Nintendo Switch 2, desenvolvimento de jogos, ecossistema de
+  jogos no Brasil
+author: Pablo Moura
+data: '2025-04-10T21:10:14.257Z'
+resumo: >-
+  A Nuntius Games nomeia Rodrigo Coelho como sócio, ampliando seu time para
+  promover jogos independentes brasileiros. Coelho trará expertise em conteúdo e
+  netw...
 ---
 
 A Nuntius Games, em um comunicado oficial nesta quinta-feira (10), anunciou a inclusão de Rodrigo Coelho como o sexto e último sócio da empresa. Criada no final de março, a publisher tem como foco a promoção de jogos independentes brasileiros em plataformas de consoles e PC.

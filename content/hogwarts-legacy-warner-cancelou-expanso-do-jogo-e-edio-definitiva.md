@@ -18,6 +18,10 @@ tags:
   - vendas altas
   - indústria de jogos
 author: Ana Luiza
+resumo: >-
+  Warner Bros. cancela conteúdo adicional de Hogwarts Legacy em meio a
+  reestruturação. Mesmo assim, o jogo vendeu 34 milhões de cópias e sequência já
+  está conf...
 ---
 
 Segundo informações de Jason Schreier, da Bloomberg, a Warner Bros. decidiu cancelar conteúdo adicional planejado para o jogo Hogwarts Legacy. A Bloomberg tentou obter um posicionamento oficial da empresa, que optou por não comentar sobre o cancelamento.

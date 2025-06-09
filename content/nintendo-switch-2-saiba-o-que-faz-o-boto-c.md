@@ -16,6 +16,9 @@ tags:
   - comunicação em jogo
   - nintendo direct
 author: Ana Luiza
+resumo: >-
+  No Nintendo Direct, a Nintendo revelou o botão C do Switch 2, o 'GameChat',
+  que facilita comunicação por voz e vídeo e compartilhamento de tela no jogo.
 ---
 
 Durante a recente apresentação online do Nintendo Direct, a Nintendo desvendou a funcionalidade do inovador botão C no seu próximo console, o Switch 2. Este botão, denominado 'GameChat', é projetado especificamente para facilitar a comunicação durante o jogo, permitindo aos usuários abrir um chat instantâneo utilizando o microfone integrado do dispositivo.

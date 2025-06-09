@@ -21,6 +21,9 @@ keywords: >-
   Oscar 2025, corrida de kart
 data: '2025-04-03T19:10:11.148Z'
 author: Ana Luiza
+resumo: >-
+  Tom Cruise está animado para 'F1', filme de Fórmula 1 estrelado por Brad Pitt
+  e dirigido por Joseph Kosinski. O lançamento está previsto para junho de 2025.
 ---
 
 Durante a CinemaCon, Tom Cruise compartilhou sua empolgação pelo novo filme da Fórmula 1, estrelado por Brad Pitt, chamado simplesmente de 'F1'. Cruise relembrou: 'Brad Pitt é um grande piloto, eu já corri com ele antes! Nós fomos para uma corrida de kart enquanto filmávamos Entrevista Com o Vampiro.' Ambos os atores têm trabalhado com o cineasta Joseph Kosinski, que dirigiu Cruise em 'Top Gun: Maverick' e agora dirige Pitt em 'F1'.

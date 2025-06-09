@@ -16,6 +16,9 @@ tags:
   - feira de games
   - indústria de jogos
 author: Ana Luiza
+resumo: >-
+  A Gamescom LATAM 2025, em São Paulo, trará Roblox e Twitch como destaques, com
+  áreas exclusivas, workshops e presença de influenciadores renomados.
 ---
 
 A Gamescom LATAM 2025, prevista para ocorrer entre os dias 1 e 4 de maio no Distrito Anhembi, em São Paulo, anunciou a inclusão de Roblox e Twitch em sua lista de atrações. Este evento, que é a versão latino-americana da renomada feira europeia de games, promete trazer experiências únicas para os entusiastas de jogos.

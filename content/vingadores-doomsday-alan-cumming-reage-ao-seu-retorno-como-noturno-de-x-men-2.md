@@ -18,6 +18,10 @@ tags:
   - marvel
   - elenco estelar
 author: Ana Luiza
+resumo: >-
+  Vingadores: Doomsday trará X-Men de volta, com Alan Cumming como Noturno e
+  Robert Downey Jr. como Doutor Destino. Estreia em 2026; épico multiversal à
+  vista!
 ---
 
 A revelação do elenco de Vingadores: Doomsday trouxe uma surpresa emocionante: o retorno dos X-Men, incluindo Alan Cumming reprisando seu papel como Noturno, marcante desde sua aparição em X-Men 2.

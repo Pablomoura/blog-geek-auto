@@ -17,6 +17,10 @@ tags:
   - anime
   - clamp
 author: Luana Souza
+resumo: >-
+  São Paulo recebe um café temático de Cardcaptor Sakura em maio, após
+  adiamentos. O espaço promete imersão total com decoração e menu inspirados no
+  anime.
 ---
 
 Os fãs de Cardcaptor Sakura terão uma surpresa especial em São Paulo. Um café temático inspirado na popular série de mangá e anime será inaugurado em maio, após um adiamento causado por problemas técnicos. Esse espaço promete oferecer uma experiência única para os admiradores da obra de CLAMP.

@@ -18,6 +18,9 @@ tags:
   - cinema
   - instagram
 author: Luana Souza
+resumo: >-
+  Glen Powell e Edgar Wright celebram o fim das filmagens de 'The Running Man',
+  adaptação de Stephen King. Estreia em 27 de novembro de 2025 promete emoção!
 ---
 
 Glen Powell, ator conhecido por seus papéis em Hollywood, usou seu Instagram na última sexta-feira (28) para anunciar o fim das gravações de 'The Running Man'. A foto postada por Powell mostra-o ao lado do diretor Edgar Wright, ambos aparentemente contentes com a conclusão do projeto.

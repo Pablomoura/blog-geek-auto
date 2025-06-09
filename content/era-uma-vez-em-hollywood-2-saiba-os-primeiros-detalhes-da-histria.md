@@ -21,6 +21,10 @@ keywords: >-
   sequência de filme, filme de 1977, universo de Tarantino, Oscar
 data: '2025-04-08T12:17:44.862Z'
 author: Ana Luiza
+resumo: >-
+  David Fincher dirigirá a sequência de 'Era Uma Vez em... Hollywood', escrita
+  por Quentin Tarantino. Brad Pitt retorna como Cliff Booth, agora em 1977.
+  Filmag...
 ---
 
 Após a surpreendente notícia de que 'Era Uma Vez em... Hollywood' terá uma sequência dirigida por David Fincher, conhecido por filmes como 'A Rede Social' e 'Se7en', e escrita por Quentin Tarantino, mais detalhes sobre o projeto foram revelados. O filme, que marcará o retorno de Brad Pitt como o dublê Cliff Booth — papel que lhe rendeu um Oscar de Melhor Ator Coadjuvante —, começará as filmagens em julho deste ano, conforme divulgado no podcast The Big Picture por Sean Fennessey, jornalista próximo a Tarantino.

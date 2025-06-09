@@ -23,6 +23,10 @@ keywords: >-
   filme Minecraft, cultura pop, videogames, registro histórico
 data: '2025-04-09T17:12:53.202Z'
 author: Ana Luiza
+resumo: >-
+  A trilha sonora de Minecraft: Volume Alpha é incluída no registro histórico
+  dos EUA ao lado de clássicos como Hamilton e Goodbye Yellow Brick Road. O
+  filme M...
 ---
 
 A Biblioteca do Congresso dos Estados Unidos anunciou recentemente as novas adições ao seu registro de preservação histórica para o ano de 2025. Dentre os selecionados, destaca-se a trilha sonora Minecraft: Volume Alpha, acompanhando outras obras icônicas como o álbum Goodbye Yellow Brick Road de Elton John e a aclamada peça musical Hamilton.

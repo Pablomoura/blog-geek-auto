@@ -1,14 +1,30 @@
 ---
-title: "Supergirl de Milly Alcock surge uniformizada em foto e vídeo do set"
-slug: "supergirl-de-milly-alcock-surge-uniformizada-em-foto-e-vdeo-do-set"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/6GfbI1Rfbc9fFx-6fv7zMeTECTQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_140444.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/6GfbI1Rfbc9fFx-6fv7zMeTECTQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_140444.png"
-tags: ["Supergirl", "Milly Alcock", "DC Comics", "filme de super-heróis", "ficção científica", "Jason Momoa", "Tom King", "estreia 2026"]
-keywords: "Supergirl, Milly Alcock, DC Comics, filme de super-heróis, ficção científica, Jason Momoa, Tom King, estreia 2026"
-author: "Luana Souza"
-data: "2025-04-10T17:10:13.503Z"
+title: Supergirl de Milly Alcock surge uniformizada em foto e vídeo do set
+slug: supergirl-de-milly-alcock-surge-uniformizada-em-foto-e-vdeo-do-set
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/6GfbI1Rfbc9fFx-6fv7zMeTECTQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_140444.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/6GfbI1Rfbc9fFx-6fv7zMeTECTQ=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_140444.png
+tags:
+  - Supergirl
+  - Milly Alcock
+  - DC Comics
+  - filme de super-heróis
+  - ficção científica
+  - Jason Momoa
+  - Tom King
+  - estreia 2026
+keywords: >-
+  Supergirl, Milly Alcock, DC Comics, filme de super-heróis, ficção científica,
+  Jason Momoa, Tom King, estreia 2026
+author: Luana Souza
+data: '2025-04-10T17:10:13.503Z'
+resumo: >-
+  Confira o primeiro vislumbre de 'Supergirl: A Mulher do Amanhã' com Milly
+  Alcock em ação! Fotos e vídeos revelam detalhes e elenco estelar para a
+  estreia de...
 ---
 
 O filme 'Supergirl: A Mulher do Amanhã' ofereceu aos fãs o primeiro olhar sobre a nova heroína em ação, com uma foto e um vídeo do set de filmagens revelados. A atriz Milly Alcock aparece trajada como a icônica personagem, em um uniforme que remete à versão inicial da série televisiva de Supergirl.

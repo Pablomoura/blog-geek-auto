@@ -18,6 +18,9 @@ tags:
   - '2026'
   - bastidores
 author: Pablo Moura
+resumo: >-
+  Marvel inicia filmagens de 'Vingadores: Doomsday'. Robert Downey Jr. retorna
+  como Doutor Destino. 'Capitão América: Admirável Mundo Novo' já nos cinemas.
 ---
 
 A Marvel Studios anunciou o início das filmagens de 'Vingadores: Doomsday', o mais recente capítulo da sua série de sucessos, que segue após 'Vingadores: Ultimato' de 2019. Um teaser de bastidores foi divulgado para marcar o começo da produção.

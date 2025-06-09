@@ -18,6 +18,10 @@ tags:
   - disney+
   - série nova
 author: Pablo Moura
+resumo: >-
+  Disney+ expande universo Star Wars com 'Tales of the Underworld', enquanto
+  'Andor' retorna para a segunda temporada. Diego Luna lidera elenco estelar.
+  Saiba...
 ---
 
 O Disney+ revelou a adição de uma nova série ao portfólio de Star Wars, intitulada 'Tales of the Underworld'. O lançamento foi acompanhado de um trailer empolgante e do primeiro pôster da série. A narrativa será centrada em dois personagens icônicos da saga, Asajj Ventress e Cad Bane, embora detalhes sobre o elenco e a trama ainda não tenham sido divulgados. Acompanhe mais atualizações no Omelete.

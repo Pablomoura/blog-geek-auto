@@ -16,6 +16,10 @@ tags:
   - série brasileira
   - drama psicológico
 author: Luana Souza
+resumo: >-
+  A série 'Sessão de Terapia' ganha reforço na sexta temporada com Olivia
+  Torres. A atriz promete trazer novas dinâmicas, mas detalhes de seu papel são
+  mantido...
 ---
 
 A série 'Sessão de Terapia', aclamada pelo público e crítica, anuncia um novo reforço para o seu elenco na sexta temporada. A atriz Olivia Torres, famosa por sua atuação no filme 'Ainda Estou Aqui', é a mais recente adição ao time. 

@@ -18,6 +18,9 @@ tags:
   - tv globo
   - filme de aventura
 author: Pablo Moura
+resumo: >-
+  A Sessão da Tarde exibe 'O Chamado da Floresta' com Harrison Ford, às 15h25.
+  Acompanhe a jornada de um cão sequestrado rumo ao selvagem Alasca. Não perca!
 ---
 
 Nesta segunda-feira, 31 de outubro, a Sessão da Tarde traz o emocionante filme 'O Chamado da Floresta', lançado em 2020. A exibição está programada para começar às 15h25, horário de Brasília, na TV Globo.

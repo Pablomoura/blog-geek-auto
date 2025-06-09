@@ -21,6 +21,10 @@ keywords: >-
   filmes de animais, comédia, mercado chinês
 data: '2025-04-03T23:09:59.169Z'
 author: Pablo Moura
+resumo: >-
+  CinemaCon 2025 revela o emocionante trailer de 'Zootopia 2'. Quinta Brunson
+  junta-se ao elenco, prometendo diversão com sua chinchila carismática.
+  Novidades...
 ---
 
 A CinemaCon 2025 foi palco para o lançamento do aguardado primeiro trailer de 'Zootopia 2', a sequência do sucesso de animação da Disney. Durante o evento, foi também revelada a inclusão de Quinta Brunson no elenco de vozes, interpretando uma nova personagem que promete ser uma chinchila carismática.

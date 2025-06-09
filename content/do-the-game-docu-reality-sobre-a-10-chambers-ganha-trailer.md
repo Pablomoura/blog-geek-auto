@@ -20,6 +20,9 @@ keywords: >-
   Wolves, indústria de jogos, bastidores, trailer lançado
 data: '2025-04-07T16:12:37.063Z'
 author: Pablo Moura
+resumo: >-
+  Assista ao trailer de 'Do The Game', docu-reality que revela os desafios da 10
+  Chambers ao criar Den of Wolves. Descubra os bastidores da indústria de games!
 ---
 
 Foi lançado hoje o trailer do docu-reality 'Do The Game', que documenta os últimos cinco anos de trabalho da desenvolvedora 10 Chambers. O trailer já está disponível para visualização.

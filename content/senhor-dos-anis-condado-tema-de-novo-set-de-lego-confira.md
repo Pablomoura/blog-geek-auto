@@ -16,6 +16,9 @@ tags:
   - brinquedos
   - colecionáveis
 author: Pablo Moura
+resumo: >-
+  A LEGO lança o Condado de 'O Senhor dos Anéis' em blocos, com 2017 peças. Novo
+  filme live-action da franquia chega em 2027. Confira mais detalhes!
 ---
 
 A LEGO anunciou um emocionante lançamento para os fãs de 'O Senhor dos Anéis', uma parceria que traz o Condado, o idílico lar dos hobbits, para o mundo dos blocos de montar. Imagens divulgadas mostram Sean Astin, que interpretou Sam na famosa trilogia de Peter Jackson, montando o set.

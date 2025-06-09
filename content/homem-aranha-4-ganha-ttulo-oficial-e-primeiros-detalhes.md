@@ -21,6 +21,10 @@ tags:
   - um novo dia
   - brand new day
 author: Pablo Moura
+resumo: >-
+  Homem-Aranha 4: Um Novo Dia' estreia em 31 de julho de 2026, com Tom Holland
+  retornando ao papel. Sadie Sink se junta ao elenco e mistérios cercam o
+  enredo.
 ---
 
 O aguardado quarto filme da série Homem-Aranha, protagonizado por Tom Holland, foi destaque na CinemaCon, onde foi anunciado seu título oficial: 'Um Novo Dia' ('Brand New Day'). O diretor do filme, Destin Daniel Cretton, compartilhou sua admiração pelo personagem, destacando a força e as fraquezas que fazem do Homem-Aranha um herói tão relatable.

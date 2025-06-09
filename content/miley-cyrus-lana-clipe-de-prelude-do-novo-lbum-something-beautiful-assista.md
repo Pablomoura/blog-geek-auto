@@ -20,6 +20,9 @@ tags:
   - thierry mugler
   - alta costura
 author: Pablo Moura
+resumo: >-
+  Miley Cyrus lança o clipe de 'Prelude', parte do álbum 'Something Beautiful'.
+  O vídeo traz moda vintage de Thierry Mugler. Álbum chega em 30 de maio.
 ---
 
 A renomada cantora americana Miley Cyrus apresentou o novo videoclipe para a música 'Prelude', que faz parte de seu próximo álbum 'Something Beautiful'. O vídeo já está disponível para visualização.

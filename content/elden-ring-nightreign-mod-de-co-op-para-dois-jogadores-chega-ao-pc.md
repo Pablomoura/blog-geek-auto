@@ -1,15 +1,32 @@
 ---
-title: "Elden Ring Nightreign: Mod de Co-op para Dois Jogadores Chega ao PC"
-slug: "elden-ring-nightreign-mod-de-co-op-para-dois-jogadores-chega-ao-pc"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4504256-ss_edfd360b92d6f9b983b759fd837e664b86cd9563.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4504256-ss_edfd360b92d6f9b983b759fd837e664b86cd9563.jpg"
-tags: ["Elden Ring Nightreign", "mod", "cooperação", "dois jogadores", "PC", "Luke Yui", "modders", "From Software", "jogo online", "Junya Ishizaki"]
-keywords: "Elden Ring Nightreign, mod, cooperação, dois jogadores, PC, Luke Yui, modders, From Software, jogo online, Junya Ishizaki"
-author: "Luana Souza"
-fonte: "GameSpot"
-data: "2025-05-30T20:50:00.000Z"
+title: 'Elden Ring Nightreign: Mod de Co-op para Dois Jogadores Chega ao PC'
+slug: elden-ring-nightreign-mod-de-co-op-para-dois-jogadores-chega-ao-pc
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4504256-ss_edfd360b92d6f9b983b759fd837e664b86cd9563.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1853/18530236/4504256-ss_edfd360b92d6f9b983b759fd837e664b86cd9563.jpg
+tags:
+  - Elden Ring Nightreign
+  - mod
+  - cooperação
+  - dois jogadores
+  - PC
+  - Luke Yui
+  - modders
+  - From Software
+  - jogo online
+  - Junya Ishizaki
+keywords: >-
+  Elden Ring Nightreign, mod, cooperação, dois jogadores, PC, Luke Yui, modders,
+  From Software, jogo online, Junya Ishizaki
+author: Luana Souza
+fonte: GameSpot
+data: '2025-05-30T20:50:00.000Z'
+resumo: >-
+  Elden Ring Nightreign ganha destaque com mod de Luke Yui, permitindo co-op
+  para dois jogadores. Disponível no site Nexus, a novidade agrada fãs do game.
 ---
 O recém-lançado Elden Ring Nightreign já está ganhando a atenção dos fãs graças a um mod que permite uma experiência de cooperação para dois jogadores. Desenvolvido por Luke Yui, um modder famoso na comunidade de jogos da From Software, o mod já está disponível para download no site Elden Ring Nightreign Nexus, dedicado a modificações do jogo para PC.
 

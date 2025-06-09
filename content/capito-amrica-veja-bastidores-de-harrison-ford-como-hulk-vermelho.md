@@ -1,14 +1,30 @@
 ---
-title: "Capitão América | Bastidores Revelam Harrison Ford como Hulk Vermelho"
-slug: "capito-amrica-veja-bastidores-de-harrison-ford-como-hulk-vermelho"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/S-U8_gvSKfauPAzI037_ZtpAxSI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-09T201007.470.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/wUmMkwVRI4_Xch5uZMdwKFkzRBw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T201007.470.png"
-tags: ["Capitão América", "Harrison Ford", "Hulk Vermelho", "Marvel", "Sam Wilson", "Adamantium", "Universo Cinematográfico Marvel", "Eternos"]
-keywords: "Capitão América, Harrison Ford, Hulk Vermelho, Marvel, Sam Wilson, Adamantium, Universo Cinematográfico Marvel, Eternos"
-author: "Luana Souza"
-data: "2025-04-10T00:51:55.709Z"
+title: Capitão América | Bastidores Revelam Harrison Ford como Hulk Vermelho
+slug: capito-amrica-veja-bastidores-de-harrison-ford-como-hulk-vermelho
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/S-U8_gvSKfauPAzI037_ZtpAxSI=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-09T201007.470.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/wUmMkwVRI4_Xch5uZMdwKFkzRBw=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T201007.470.png
+tags:
+  - Capitão América
+  - Harrison Ford
+  - Hulk Vermelho
+  - Marvel
+  - Sam Wilson
+  - Adamantium
+  - Universo Cinematográfico Marvel
+  - Eternos
+keywords: >-
+  Capitão América, Harrison Ford, Hulk Vermelho, Marvel, Sam Wilson, Adamantium,
+  Universo Cinematográfico Marvel, Eternos
+author: Luana Souza
+data: '2025-04-10T00:51:55.709Z'
+resumo: >-
+  Harrison Ford estreia como Hulk Vermelho em 'Capitão América: Admirável Mundo
+  Novo', com Sam Wilson assumindo o escudo. A trama gira em torno da disputa
+  pelo...
 ---
 
 Um vislumbre dos bastidores de 'Capitão América: Admirável Mundo Novo' foi compartilhado recentemente, destacando Harrison Ford em sua transformação para o papel de Hulk Vermelho. No clipe divulgado, Ford é visto gritando intensamente antes de se transformar, exclamando 'O que foi isso?' após um rugido prolongado. Conhecido por seu semblante sério, o vídeo mostra um lado mais descontraído do ator durante as filmagens.

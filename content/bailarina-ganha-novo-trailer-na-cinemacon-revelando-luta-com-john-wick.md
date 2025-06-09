@@ -19,6 +19,10 @@ tags:
   - confronto épico
   - john wick
 author: Ana Luiza
+resumo: >-
+  Na CinemaCon 2025, cenas inéditas de 'Bailarina' revelam um confronto épico
+  entre Ana de Armas e Keanu Reeves como John Wick, prometendo ação intensa e
+  duelo...
 ---
 
 Durante a CinemaCon 2025, foram reveladas cenas inéditas do filme 'Bailarina', destacando um confronto tenso entre a personagem de Ana de Armas e John Wick, interpretado por Keanu Reeves. A primeira cena divulgada mostra a habilidade de combate da protagonista, que logo se encontra com Wick. Ele expressa o desejo de abandonar seu passado violento, enquanto ela embarca em uma missão em uma cidade nevada, que culmina em um intenso tiroteio.

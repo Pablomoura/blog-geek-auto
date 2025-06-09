@@ -23,6 +23,10 @@ keywords: >-
   participantes, votação do público, Tadeu Schmidt, Rodrigo Dourado
 data: '2025-04-08T03:26:59.550Z'
 author: Pablo Moura
+resumo: >-
+  No BBB 25, o 12º Sincerão trouxe surpresas com uma piscina de gosma vermelha.
+  Tadeu Schmidt comanda a tensão e alianças entre os nove participantes
+  restantes.
 ---
 
 Na noite desta segunda-feira (07), o Big Brother Brasil 25 apresentou seu 12º Sincerão, marcando outro momento de tensões e alianças entre os nove participantes ainda na disputa. A dinâmica desta vez envolveu um elemento surpresa: uma piscina de gosma vermelha, onde o participante escolhido na rodada era literalmente 'tombado'.

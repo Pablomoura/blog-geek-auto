@@ -21,6 +21,10 @@ keywords: >-
   Torcida, Rodrigo Dourado
 data: '2025-04-04T05:10:55.273Z'
 author: Ana Luiza
+resumo: >-
+  Vitória Strada lidera no BBB 25 e enfrenta o desafio de indicar João Pedro ao
+  Paredão. Com mudanças na direção e sistema de votação, o reality promete
+  surpre...
 ---
 
 Assumindo a liderança no BBB 25, Vitória Strada enfrenta o desafio de indicar um concorrente ao Paredão. Seus escolhidos para a possível eliminação são João Pedro, João Gabriel e Renata. Em uma estratégica conversa com aliados no quarto Anos 50, Vitória revelou sua tendência em indicar João Pedro, marcado por nunca ter ido ao Paredão e por tê-la indicado anteriormente.

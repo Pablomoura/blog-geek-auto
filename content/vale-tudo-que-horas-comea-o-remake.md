@@ -17,6 +17,9 @@ tags:
   - horário de estreia
   - manuela dias
 author: Luana Souza
+resumo: >-
+  A clássica novela 'Vale Tudo' retorna reescrita por Manuela Dias, com Taís
+  Araujo e Deborah Bloch, às 21h20 na TV Globo e Globoplay. Não perca a estreia!
 ---
 
 A aguardada nova versão da novela 'Vale Tudo' chega às telas nesta segunda-feira (31), marcando o retorno de um dos maiores clássicos da teledramaturgia brasileira. A obra, originalmente criada por Gilberto Braga, Aguinaldo Silva e Leonor Bassères, foi reescrita por Manuela Dias para a TV Globo e Globoplay. A trama central gira em torno do conflito entre Raquel (Taís Araujo), uma mulher que acredita na honestidade como base para a vida, e sua filha Maria de Fátima (Bella Campos), que possui uma visão bem diferente.

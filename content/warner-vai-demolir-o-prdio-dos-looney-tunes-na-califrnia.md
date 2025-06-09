@@ -18,6 +18,10 @@ tags:
   - hbo
   - produções cinematográficas
 author: Pablo Moura
+resumo: >-
+  A Warner Bros. Discovery inicia a demolição do icônico Edifício 131, lar dos
+  Looney Tunes, para expandir produções da HBO. Novo filme dos personagens
+  estreia...
 ---
 
 A Warner Bros. Discovery está em processo de demolição do Edifício 131 em Burbank, Califórnia, conhecido por ser o local de criação dos clássicos desenhos dos Looney Tunes. A decisão visa criar mais espaço para as crescentes produções da HBO no local. 

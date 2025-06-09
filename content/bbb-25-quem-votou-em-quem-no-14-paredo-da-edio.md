@@ -21,6 +21,9 @@ keywords: >-
   Votação, Globo
 data: '2025-04-07T04:12:54.688Z'
 author: Ana Luiza
+resumo: >-
+  No 14º paredão do BBB 25, Maike indicou Diego Hypólito e a casa escolheu João
+  Gabriel e Vitória Strada. Sem Anjo, a berlinda foi definida no modo turbo.
 ---
 
 A formação do 14º paredão do BBB 25 aconteceu na noite deste domingo, dia 06 de abril, seguindo a dinâmica apresentada por Tadeu Schmidt. Sem a Prova do Anjo devido ao modo turbo, ninguém recebeu imunidade esta semana. Maike, o líder da semana, indicou Diego Hypólito diretamente para o paredão. Na votação da casa, João Gabriel e Vitória Strada foram os mais votados pelos colegas, completando assim a berlinda, sem chance de escape pela Prova Bate-Volta.

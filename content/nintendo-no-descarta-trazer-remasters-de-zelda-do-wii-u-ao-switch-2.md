@@ -20,6 +20,9 @@ keywords: >-
   Switch Online, GameCube, remakes de jogos
 data: '2025-04-09T22:09:45.746Z'
 author: Ana Luiza
+resumo: >-
+  Tim Gettys revelou discussões com Nate Bihldorff, da Nintendo, sobre remasters
+  de Zelda para o Switch 2, sugerindo que todas as possibilidades estão na mesa.
 ---
 
 Durante uma participação no programa Kinda Funny Games na última quinta-feira (08), Tim Gettys, o apresentador, revelou ter conversado com Nate Bihldorff, vice-presidente sênior da Nintendo of America. Gettys, que encontrou Bihldorff em um evento dedicado ao Switch 2 em Nova Iorque, indagou o executivo sobre a possibilidade de trazer os remasters de The Legend of Zelda: Wind Waker e The Legend of Zelda: Twilight Princess, originalmente lançados para Wii U, para o novo console, o Nintendo Switch 2.

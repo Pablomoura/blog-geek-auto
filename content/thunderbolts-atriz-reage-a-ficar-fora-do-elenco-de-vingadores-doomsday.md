@@ -23,6 +23,10 @@ keywords: >-
   Marvel, filmes de super-heróis, elenco
 data: '2025-04-09T19:09:27.811Z'
 author: Pablo Moura
+resumo: >-
+  Elenco de Thunderbolts confirmado em Vingadores: Doomsday, mas Julia
+  Louis-Dreyfus fica de fora. Atriz reage com humor à exclusão e brinca sobre
+  demissões.
 ---
 
 Em uma recente revelação que surpreendeu os fãs, quase todos os principais integrantes do elenco de Thunderbolts, o aguardado filme do MCU, foram confirmados para aparecer em Vingadores: Doomsday. A confirmação veio durante uma transmissão ao vivo no final de março. Contudo, nem todos os atores do grupo conseguiram um lugar no próximo grande lançamento da Marvel, incluindo Julia Louis-Dreyfus, conhecida por seu papel como Valentina Allegra de Fontaine, ou simplesmente Val, desde sua aparição em Falcão e o Soldado Invernal.

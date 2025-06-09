@@ -16,6 +16,10 @@ tags:
   - roma
   - filme religioso
 author: Pablo Moura
+resumo: >-
+  A Ressurreição de Cristo', sequência de Mel Gibson para 'A Paixão de Cristo',
+  será filmado em Roma. Jim Caviezel retorna como Jesus, explorando eventos
+  místi...
 ---
 
 O aguardado filme 'A Ressurreição de Cristo', dirigido por Mel Gibson, será gravado em Roma este ano. A produção ocorrerá no renomado Cinecittà Studios, conforme anunciado por Manuela Cacciamani, CEO do estúdio, em entrevista ao jornal Il Sole 24 Ore. 'Posso confirmar que o próximo filme de Mel Gibson, produzido pela Icon Productions, será inteiramente filmado aqui a partir de agosto, com intensa construção de cenários', revelou Cacciamani.

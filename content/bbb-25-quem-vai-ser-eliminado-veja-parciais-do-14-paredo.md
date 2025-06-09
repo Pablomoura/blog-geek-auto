@@ -21,6 +21,10 @@ keywords: >-
   Globoplay, reality show
 data: '2025-04-07T03:31:10.730Z'
 author: Luana Souza
+resumo: >-
+  O 14º Paredão do BBB 25 esquenta a competição: três participantes disputam a
+  permanência, com eliminação marcada para terça-feira. Vote e acompanhe tudo ao
+  v...
 ---
 
 O 14º Paredão do BBB 25 será configurado na noite de domingo, 06 de abril, envolvendo três competidores na disputa pela permanência na casa. O resultado será revelado na terça-feira, 08 de abril, quando um dos participantes será eliminado. 

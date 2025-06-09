@@ -16,6 +16,10 @@ tags:
   - homem sem medo
   - logo dd
 author: Pablo Moura
+resumo: >-
+  A segunda temporada de Demolidor: Renascido traz Charlie Cox no uniforme preto
+  icônico. A série estreia em 4 de março de 2025 no Disney+, com elenco
+  renomado.
 ---
 
 As gravações da segunda temporada de Demolidor: Renascido estão a todo vapor em Nova York, e as recentes fotos do set revelam a aguardada estreia do uniforme preto do Homem Sem Medo, interpretado por Charlie Cox. Este visual clássico do personagem vem acompanhado do emblemático logo 'DD' estampado no peito.

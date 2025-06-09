@@ -21,6 +21,9 @@ keywords: >-
   DeBlois, CinemaCon 2025, estreia 2027, filmes de fantasia, adaptação de livro
 data: '2025-04-03T00:32:30.192Z'
 author: Pablo Moura
+resumo: >-
+  Universal Studios anuncia remakes live-action de 'Como Treinar o Seu Dragão',
+  com Dean DeBlois na direção. Estreia do segundo filme prevista para 2027.
 ---
 
 No evento da CinemaCon 2025, realizado em 02 de abril, o Universal Studios revelou planos empolgantes para os fãs da saga 'Como Treinar o Seu Dragão'. Além de um remake do primeiro filme, o estúdio anunciou que está desenvolvendo um remake live-action de 'Como Treinar o Seu Dragão 2', com estreia prevista para 11 de junho de 2027. Dean DeBlois, que dirigiu a trilogia original e o próximo filme live-action, reassume a direção nesta sequência, prometendo manter a fidelidade à animação de 2014.

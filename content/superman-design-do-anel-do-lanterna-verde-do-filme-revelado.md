@@ -22,6 +22,9 @@ keywords: >-
   filmes, Guy Gardner, réplica de anel
 data: '2025-04-04T23:11:54.809Z'
 author: Pablo Moura
+resumo: >-
+  O anel do Lanterna Verde de Guy Gardner, do novo filme do Superman, é revelado
+  pela GameStop. A réplica fiel promete ser um sucesso entre colecionadores.
 ---
 
 Em uma revelação aguardada pelos fãs da DC Comics, o design do anel do Lanterna Verde, usado por Guy Gardner no novo filme de Superman, foi oficialmente divulgado. A peça, que tem capturado a imaginação de muitos entusiastas do universo DC, será comercializada exclusivamente pela GameStop. 

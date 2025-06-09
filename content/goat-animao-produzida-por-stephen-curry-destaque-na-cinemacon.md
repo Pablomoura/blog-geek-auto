@@ -19,6 +19,10 @@ tags:
   - nba
   - goat
 author: Luana Souza
+resumo: >-
+  A Sony e a NBA revelam 'GOAT', animação inovadora com Stephen Curry. A
+  história segue um jovem bode aspirante a astro no basquete animal. Lançamento
+  previsto...
 ---
 
 A CinemaCon 2025 foi palco para a Sony Pictures divulgar detalhes de 'GOAT', uma inovadora animação desenvolvida em parceria com a NBA e o renomado jogador Stephen Curry, do Golden State Warriors. 

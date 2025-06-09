@@ -19,6 +19,7 @@ tags:
   - 'Metrpolis'
   - 'filme'
   - 'estreia'
+  - especial-Superman
 keywords: >-
   Superman 2025, Lex Luthor, trailer, rivalidade, Nicholas Hoult, Grandes Astros Superman, DC Comics, Metrópolis, filme, estreia
 author: Luana Souza

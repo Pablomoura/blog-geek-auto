@@ -23,6 +23,10 @@ keywords: >-
   Studios, MCU Fase 6, trailer de filme, heróis Marvel
 data: '2025-04-03T23:12:12.954Z'
 author: Pablo Moura
+resumo: >-
+  Na CinemaCon 2025, o trailer de 'Quarteto Fantástico: Primeiros Passos'
+  revelou cenas emocionantes, incluindo a batalha contra Galactus e uma surpresa
+  pessoa...
 ---
 
 Durante a CinemaCon 2025, um empolgante novo trailer de 'Quarteto Fantástico: Primeiros Passos' foi apresentado ao público. No trailer, a introdução é feita por Gilberto Show, que rapidamente recapitula a conhecida história dos quatro heróis. Em seguida, uma cena impactante mostra O Coisa carregando um navio inteiro, enquanto a cidade ao redor demonstra sua gratidão ao grupo.

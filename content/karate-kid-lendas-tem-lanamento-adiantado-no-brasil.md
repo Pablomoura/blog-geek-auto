@@ -15,6 +15,9 @@ tags:
   - lançamento de filme
   - brasil
 author: Ana Luiza
+resumo: >-
+  Karate Kid: Lendas' chega ao Brasil em 8 de maio. A trama segue Li Fong, um
+  jovem que, guiado por Jackie Chan, busca superar desafios em Nova York.
 ---
 
 O lançamento do filme 'Karate Kid: Lendas' foi antecipado no Brasil, conforme informações apuradas pelo portal Omelete. Inicialmente previsto para 30 de maio, o filme agora será lançado em 8 de maio.

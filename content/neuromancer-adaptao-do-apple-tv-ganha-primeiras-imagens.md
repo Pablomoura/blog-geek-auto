@@ -21,6 +21,10 @@ keywords: >-
   digital, adaptação literária, elenco estrelado
 data: '2025-04-07T16:13:48.312Z'
 author: Luana Souza
+resumo: >-
+  A série do Apple TV+ que adapta Neuromancer revela suas primeiras imagens. Com
+  elenco estrelado e direção de JD Dillard, promete revolucionar a ficção
+  cientí...
 ---
 
 A aguardada série do Apple TV+ que adapta o icônico Neuromancer finalmente teve suas primeiras imagens oficiais divulgadas. A produção, que promete ser um marco no gênero de ficção científica, inclui no elenco nomes como Max Irons, André De Shields e Marc Menchaca, que foram confirmados anteriormente. Recentemente, foi anunciado que Peter Sarsgaard também fará parte da série, aumentando as expectativas em torno do projeto.

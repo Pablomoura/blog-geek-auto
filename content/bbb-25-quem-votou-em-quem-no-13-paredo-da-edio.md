@@ -21,6 +21,10 @@ keywords: >-
   Brother Brasil
 data: '2025-04-05T02:59:19.029Z'
 author: Luana Souza
+resumo: >-
+  No 13º paredão do BBB 25, Daniele, João Pedro e Maike disputam a permanência.
+  Confira as estratégias e a votação acirrada que agitou a casa mais vigiada do
+  B...
 ---
 
 Na noite desta sexta-feira (04), foi formado o 13º paredão do BBB 25, seguindo a dinâmica comandada pelo apresentador Tadeu Schmidt. O anjo da semana, João Gabriel, foi autoimune. Maike e Delma, que tinham a responsabilidade de indicar alguém por consequência da Prova do Líder, elegeram Daniele Hypólito para a berlinda. A líder da semana, Vitória Strada, indicou João Pedro. Durante a votação aberta, Maike recebeu a maioria dos votos e também foi para o paredão, sem chance de participar da Prova Bate-Volta para se salvar.

@@ -1,14 +1,29 @@
 ---
-title: "Tarifas de Trump: China confirma que reduzirá importação de filmes dos EUA"
-slug: "tarifas-de-trump-china-confirma-que-reduzir-importao-de-filmes-dos-eua"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/SiNZM1noSSmo56Z28wOL3vH0uaE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T122151.157_1CqMlOZ.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/A49ouDhGisEFBLq705o0zE0_lS0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T101757.561.png"
-tags: ["tarifas de Trump", "importação de filmes", "cinema chinês", "Hollywood", "restrições culturais", "retalhação comercial", "mercado cinematográfico", "influência cultural"]
-keywords: "tarifas de Trump, importação de filmes, cinema chinês, Hollywood, restrições culturais, retalhação comercial, mercado cinematográfico, influência cultural"
-author: "Ana Luiza"
-data: "2025-04-10T13:21:46.512Z"
+title: 'Tarifas de Trump: China confirma que reduzirá importação de filmes dos EUA'
+slug: tarifas-de-trump-china-confirma-que-reduzir-importao-de-filmes-dos-eua
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/SiNZM1noSSmo56Z28wOL3vH0uaE=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-08T122151.157_1CqMlOZ.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/A49ouDhGisEFBLq705o0zE0_lS0=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T101757.561.png
+tags:
+  - tarifas de Trump
+  - importação de filmes
+  - cinema chinês
+  - Hollywood
+  - restrições culturais
+  - retalhação comercial
+  - mercado cinematográfico
+  - influência cultural
+keywords: >-
+  tarifas de Trump, importação de filmes, cinema chinês, Hollywood, restrições
+  culturais, retalhação comercial, mercado cinematográfico, influência cultural
+author: Ana Luiza
+data: '2025-04-10T13:21:46.512Z'
+resumo: >-
+  As tarifas de Trump levam a China a reduzir importações de filmes dos EUA,
+  impactando Hollywood. O mercado chinês é vital para produções americanas.
 ---
 
 As recentes tarifas impostas pelo presidente dos Estados Unidos, Donald Trump, provocaram um impacto significativo em Hollywood, com a China anunciando uma redução nas importações de filmes americanos em resposta. A Administração Chinesa de Cinema, que regula a distribuição e as cotas de filmes no país, emitiu um comunicado na última quinta-feira. Nele, a entidade classificou as tarifas americanas como abusivas e afirmou que tais medidas 'inevitavelmente reduzirão a preferência do público chinês por filmes americanos'. A declaração também ressaltou que a China seguirá as regras do mercado e respeitará as escolhas do público, moderando a importação de filmes dos EUA. O comunicado destacou ainda a abertura da China para filmes de qualidade internacional, visando atender à demanda do mercado local.

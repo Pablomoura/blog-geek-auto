@@ -22,6 +22,9 @@ keywords: >-
   bullies, amizade
 data: '2025-04-08T19:09:32.520Z'
 author: Luana Souza
+resumo: >-
+  O trailer da 2ª temporada de 'Classe dos Heróis Fracos' revela novas emoções e
+  a estreia na Netflix em 25 de abril. Prepare-se para ação e drama adolescente!
 ---
 
 A aguardada segunda temporada do k-drama 'Classe dos Heróis Fracos' teve seu trailer revelado, trazendo novas emoções e confirmando sua data de estreia na Netflix. O vídeo já está disponível e eleva as expectativas dos fãs, prometendo mais drama adolescente e cenas de ação envolventes.

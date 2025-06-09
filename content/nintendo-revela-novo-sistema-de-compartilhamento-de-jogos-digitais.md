@@ -14,6 +14,10 @@ tags:
   - cartões virtuais
   - nintendo direct
 author: Pablo Moura
+resumo: >-
+  Nintendo anuncia Cartões Virtuais para o Switch, permitindo empréstimo de
+  jogos digitais entre consoles. Lançamento previsto para abril, com empréstimos
+  de a...
 ---
 
 A Nintendo revelou um inovador sistema para compartilhamento de jogos digitais. Denominado Cartões Virtuais, o recurso visa facilitar o empréstimo de jogos entre diferentes consoles e usuários. A funcionalidade está prevista para ser lançada em abril.

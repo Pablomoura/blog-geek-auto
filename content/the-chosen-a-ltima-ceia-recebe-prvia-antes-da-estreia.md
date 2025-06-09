@@ -16,6 +16,9 @@ tags:
   - série religiosa
   - estreia
 author: Luana Souza
+resumo: >-
+  The Chosen: A Última Ceia estreia nos EUA e Canadá com Jesus desafiando o
+  poder de Roma. No Brasil, a série está no Prime Video, Globoplay e Apple TV+.
 ---
 
 O perfil oficial da série The Chosen: Os Escolhidos divulgou um vídeo nesta sexta-feira (28), celebrando a estreia de The Chosen: A Última Ceia nos cinemas americanos e canadenses. No clipe, Jesus aparece empunhando um chicote e avançando em direção à câmera.

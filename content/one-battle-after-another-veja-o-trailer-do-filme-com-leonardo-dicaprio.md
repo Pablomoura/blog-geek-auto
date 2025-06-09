@@ -14,6 +14,10 @@ tags:
   - cinema
   - one battle after another
 author: Luana Souza
+resumo: >-
+  O trailer de 'One Battle After Another', de Paul Thomas Anderson, traz
+  Leonardo DiCaprio em uma trama baseada em 'Vineland', de Thomas Pynchon.
+  Estreia em br...
 ---
 
 O aguardado trailer de 'One Battle After Another', o novo projeto do renomado diretor Paul Thomas Anderson (Sangue Negro), estrelado por Leonardo DiCaprio, foi finalmente lançado. O elenco se completa com nomes como Regina Hall (Shaft), Teyana Taylor (Mil e Um), Sean Penn (Millk), e Alana Haim do grupo HAIM, além da participação de Chase Infiniti, conhecida por sua atuação na série 'Acima de Qualquer Suspeita' da Apple TV+.

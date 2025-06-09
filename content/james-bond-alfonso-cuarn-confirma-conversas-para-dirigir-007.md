@@ -21,6 +21,10 @@ keywords: >-
   franquia cinematográfica
 data: '2025-04-06T14:09:03.483Z'
 author: Ana Luiza
+resumo: >-
+  Alfonso Cuarón negocia direção do novo filme de James Bond, trazendo seu toque
+  único à franquia. Amy Pascal e David Heyman estão em conversas com a Amazon
+  pa...
 ---
 
 Alfonso Cuarón está em negociações para dirigir o próximo filme de James Bond, conforme revelado durante uma palestra em Paris, na França. O diretor de sucessos como Roma e Gravidade expressou seu interesse no projeto, afirmando que gostaria de abordar a história à sua maneira. Esta informação foi compartilhada por um espectador através da plataforma X, anteriormente conhecida como Twitter.

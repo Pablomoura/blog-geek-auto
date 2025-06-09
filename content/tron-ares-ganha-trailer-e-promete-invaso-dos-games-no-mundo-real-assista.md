@@ -20,6 +20,10 @@ keywords: >-
   franquia Tron
 data: '2025-04-05T16:09:55.752Z'
 author: Ana Luiza
+resumo: >-
+  Disney revela o trailer de Tron: Ares, estrelado por Jared Leto e Jeff
+  Bridges. Dirigido por Joachim Rønning, o filme promete revitalizar a franquia
+  cult.
 ---
 
 A Disney finalmente lançou o primeiro trailer de Tron: Ares, a mais recente continuação da icônica franquia que teve início com Jeff Bridges. O elenco estrelado do filme inclui Jared Leto, Evan Peters e Jeff Bridges, acompanhados por Gillian Anderson, conhecida por seu trabalho em Arquivo X, Jodie Turner-Smith de Queen & Slim, Greta Lee de Vidas Passadas e Cameron Monaghan de Gotham.

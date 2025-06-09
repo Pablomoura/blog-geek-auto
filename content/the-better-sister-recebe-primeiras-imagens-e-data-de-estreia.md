@@ -18,6 +18,10 @@ tags:
   - série de tv
   - estreia 2025
 author: Pablo Moura
+resumo: >-
+  Prime Video revela imagens e data de estreia de 'The Better Sister', thriller
+  estrelado por Jessica Biel e Elizabeth Banks. Lançamento em 29 de maio de
+  2025.
 ---
 
 O Prime Video divulgou nesta quinta-feira (27) as primeiras imagens e a data de lançamento de 'The Better Sister', protagonizada por Jessica Biel e Elizabeth Banks. A estreia está marcada para 29 de maio de 2025, com todos os oito episódios disponíveis.

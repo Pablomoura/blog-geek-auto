@@ -20,6 +20,10 @@ keywords: >-
   de super-heróis, continuação
 data: '2025-04-07T02:05:23.191Z'
 author: Ana Luiza
+resumo: >-
+  A 2ª temporada de 'Pacificador', com John Cena, estreia em 21 de agosto de
+  2025 no Max. James Gunn anunciou a data, prometendo conexão direta com o novo
+  DCU.
 ---
 
 A aguardada segunda temporada da série 'Pacificador', estrelada por John Cena e integrante do renovado Universo DC, tem sua estreia marcada para 21 de agosto de 2025 na plataforma Max. A confirmação da data veio através de um anúncio feito por James Gunn, chefe do DC Studios, que compartilhou um vídeo destacando os próximos lançamentos da HBO e do serviço de streaming.

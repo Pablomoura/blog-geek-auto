@@ -1,14 +1,30 @@
 ---
-title: "Oscar | Academia anuncia prêmio para dublês em 2028, quando completa 100 anos"
-slug: "oscar-academia-anuncia-prmio-para-dubls-em-2028-quando-completa-100-anos"
-categoria: "OSCAR"
-midia: "https://cdn.ome.lt/LtG3yNMSwVQbYfDvqA_MWTirS4k=/987x0/smart/uploads/conteudo/fotos/duble-missao-impossivel.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/KIipG-rndHTwvBs38yz4tIcKVR8=/480x360/smart/extras/conteudos/john-wick_DG4k9xr.png"
-tags: ["Oscar 2028", "prêmio para dublês", "100 anos da Academia", "filmes de ação", "design de dublês", "Melhor Elenco", "cinema brasileiro", "recordes no Oscar"]
-keywords: "Oscar 2028, prêmio para dublês, 100 anos da Academia, filmes de ação, design de dublês, Melhor Elenco, cinema brasileiro, recordes no Oscar"
-author: "Ana Luiza"
-data: "2025-04-10T22:11:19.312Z"
+title: 'Oscar | Academia anuncia prêmio para dublês em 2028, quando completa 100 anos'
+slug: oscar-academia-anuncia-prmio-para-dubls-em-2028-quando-completa-100-anos
+categoria: OSCAR
+midia: >-
+  https://cdn.ome.lt/LtG3yNMSwVQbYfDvqA_MWTirS4k=/987x0/smart/uploads/conteudo/fotos/duble-missao-impossivel.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/KIipG-rndHTwvBs38yz4tIcKVR8=/480x360/smart/extras/conteudos/john-wick_DG4k9xr.png
+tags:
+  - Oscar 2028
+  - prêmio para dublês
+  - 100 anos da Academia
+  - filmes de ação
+  - design de dublês
+  - Melhor Elenco
+  - cinema brasileiro
+  - recordes no Oscar
+keywords: >-
+  Oscar 2028, prêmio para dublês, 100 anos da Academia, filmes de ação, design
+  de dublês, Melhor Elenco, cinema brasileiro, recordes no Oscar
+author: Ana Luiza
+data: '2025-04-10T22:11:19.312Z'
+resumo: >-
+  A Academia do Oscar anuncia a categoria Melhor Design de Dublês para 2028,
+  reconhecendo a importância deste trabalho técnico e criativo em filmes de
+  ação.
 ---
 
 A Academia de Artes e Ciências Cinematográficas fez um anúncio significativo nesta quinta-feira (10), revelando que, a partir de 2028, durante a 100ª edição do Oscar, será introduzida a categoria Melhor Design de Dublês. Esta inclusão é uma resposta aos pedidos de reconhecimento que têm crescido nos últimos anos, especialmente devido ao impacto de grandes filmes de ação como John Wick e Missão Impossível.

@@ -23,6 +23,9 @@ keywords: >-
   Hinata, Tobio Kageyama, mangá
 data: '2025-04-09T20:11:22.763Z'
 author: Pablo Moura
+resumo: >-
+  A terceira temporada de Haikyu!! está disponível na Crunchyroll com dublagem
+  em português. Acompanhe Karasuno vs. Shiratorizawa antes do novo filme!
 ---
 
 A terceira temporada do aclamado anime Haikyu!! capturou a atenção dos fãs com o intenso confronto entre o Colégio Karasuno e o Instituto Shiratorizawa. Agora, enquanto a audiência aguarda com expectativa o lançamento do novo filme, Haikyu!! vs. Chiisana Kyojin, que promete dar continuidade à narrativa, a Crunchyroll traz uma novidade empolgante: todos os episódios da terceira temporada estão disponíveis na plataforma com dublagem em português.

@@ -17,6 +17,9 @@ tags:
   - série de fantasia
   - nova temporada
 author: Luana Souza
+resumo: >-
+  A quarta temporada de Re:ZERO está em produção! Confira o novo teaser e uma
+  foto exclusiva. Acompanhe Subaru em um mundo cheio de desafios e magia.
 ---
 
 A aguardada quarta temporada de Re:ZERO - Starting Life in Another World já está em produção. Recentemente, foi divulgado um teaser emocionante, acompanhado de uma foto exclusiva do próximo capítulo da série. Confira o teaser no vídeo acima e a imagem logo abaixo!

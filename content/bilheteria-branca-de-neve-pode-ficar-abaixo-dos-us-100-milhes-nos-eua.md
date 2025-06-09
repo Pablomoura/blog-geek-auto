@@ -20,6 +20,10 @@ keywords: >-
   Disney, filme live-action, estreia cinematográfica
 data: '2025-04-05T16:10:36.977Z'
 author: Pablo Moura
+resumo: >-
+  Branca de Neve e os Sete Anões' enfrenta dificuldades nas bilheterias,
+  arrecadando apenas US$ 72 milhões nos EUA em três semanas, longe de cobrir seu
+  orçamen...
 ---
 
 O filme 'Branca de Neve e os Sete Anões' acumula US$ 147,2 milhões globalmente até agora. Segundo informações da Variety deste sábado (5), o filme arrecadou apenas US$ 72 milhões nos Estados Unidos ao iniciar sua terceira semana em cartaz. Na última sexta-feira (4), a produção registrou uma receita de apenas US$ 1,5 milhão, representando uma queda de 60% em relação à semana anterior. A revista projeta que o filme possa encerrar sua jornada nas bilheterias americanas com menos de US$ 100 milhões, um cenário desfavorável considerando seu orçamento de US$ 250 milhões.

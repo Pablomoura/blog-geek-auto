@@ -21,6 +21,10 @@ keywords: >-
   Hypixel, câncer
 data: '2025-04-04T10:10:36.033Z'
 author: Luana Souza
+resumo: >-
+  Technoblade, lenda do Minecraft, ganha homenagem em 'Um Filme Minecraft'. O
+  youtuber, imortalizado por um porco coroado, é celebrado por seu legado no
+  jogo.
 ---
 
 Alexander, amplamente conhecido pelo pseudônimo Technoblade, deixou um legado significativo na comunidade de Minecraft. Ele se destacou como um dos melhores jogadores no servidor Hypixel, que detém o recorde de ser o mais popular do jogo segundo o Guinness World Records. Em 2020, ele se juntou ao Dream SMP, elevando seu perfil na comunidade e aumentando o número de inscritos em seu canal no YouTube.

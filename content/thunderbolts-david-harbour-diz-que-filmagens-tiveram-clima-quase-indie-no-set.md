@@ -16,6 +16,9 @@ tags:
   - kevin feige
   - cinema
 author: Luana Souza
+resumo: >-
+  David Harbour revela que "Thunderbolts" terá uma atmosfera indie, segundo
+  Kevin Feige. Com estreia em 2025, o filme promete inovar no universo Marvel.
 ---
 
 David Harbour, conhecido por seu papel como Guardião Vermelho, terá um 2025 movimentado com a última temporada de Stranger Things e a estreia em Thunderbolts, da Marvel. Em uma entrevista ao Omelete, Harbour descreveu Thunderbolts como um projeto com uma atmosfera indie incentivada por Kevin Feige, presidente da Marvel Studios.

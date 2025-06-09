@@ -20,6 +20,10 @@ keywords: >-
   romântico, sequência de filmes, elenco de estrelas, streaming
 data: '2025-04-09T15:15:08.922Z'
 author: Luana Souza
+resumo: >-
+  Prime Video lança trailer de "Nossa Culpa", terceiro filme da série,
+  explorando relações complexas e passado de Noah e Nick. Estreia em outubro.
+  Confira!
 ---
 
 O Prime Video anuncia a chegada do terceiro filme da sequência que inclui Sua Culpa e Minha Culpa, intitulado Nossa Culpa. O lançamento do trailer e a revelação das primeiras imagens oficiais do longa já foram realizados. O filme está programado para estrear em outubro deste ano na plataforma de streaming da Amazon.

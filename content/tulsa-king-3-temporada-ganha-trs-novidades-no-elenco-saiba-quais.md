@@ -16,6 +16,10 @@ tags:
   - promoção de atores
   - série de tv
 author: Pablo Moura
+resumo: >-
+  Tulsa King, com Sylvester Stallone, confirma 3ª temporada e promove três
+  atores ao elenco fixo. A série segue Dwight Manfredi, um mafioso em busca de
+  poder.
 ---
 
 A série Tulsa King, protagonizada por Sylvester Stallone, confirmou sua terceira temporada e anunciou a promoção de três atores ao elenco regular. Os atores promovidos são Chris Caldovino, que interpreta Dannis "Goodie" Carangi, McKenna Quigley Harrington, no papel de Grace, e Mike “Cash Flo” Walden, que dá vida a Michael "Bigfoot". Walden fez sua estreia na segunda temporada da série. 

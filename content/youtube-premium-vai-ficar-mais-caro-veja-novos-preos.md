@@ -21,6 +21,10 @@ keywords: >-
   anúncios, YouTube Music, vídeos offline, YouTube Premium Lite
 data: '2025-04-03T18:16:38.270Z'
 author: Ana Luiza
+resumo: >-
+  O YouTube Premium aumentará seus preços no Brasil em todos os planos. A
+  mudança, sem justificativas específicas, busca aprimorar o serviço e apoiar
+  criadores.
 ---
 
 O YouTube Premium, serviço de assinatura que oferece uma experiência sem anúncios, bem como outras vantagens, terá um reajuste nos preços para os usuários brasileiros a partir do próximo ciclo de faturamento. A informação foi divulgada através de um e-mail enviado aos atuais assinantes pela plataforma. 

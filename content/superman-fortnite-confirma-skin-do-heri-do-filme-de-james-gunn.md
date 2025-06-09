@@ -18,6 +18,7 @@ tags:
   - DCU
   - filme Superman
   - skin Fortnite
+  - especial-Superman
 keywords: >-
   Fortnite, Superman, James Gunn, Epic Games, David Corenswet, Rachel Brosnahan,
   Nicholas Hoult, DCU, filme Superman, skin Fortnite

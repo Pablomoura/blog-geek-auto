@@ -21,6 +21,10 @@ keywords: >-
   interação com fãs, venda de ingressos, aniversário de série
 data: '2025-04-07T16:14:27.419Z'
 author: Ana Luiza
+resumo: >-
+  A CCXP25 homenageia os 20 anos de Supernatural com o evento Road to Hell.
+  Participe de painéis, fotos e autógrafos com Misha Collins e mais astros da
+  série!
 ---
 
 A CCXP25, marcada para este ano, promoverá um evento especial em homenagem aos 20 anos da série Supernatural. Chamado Road to Hell, o evento reunirá atores como Misha Collins, Kathryn Newton, Jim Beaver, Rob Benedict e Richard Speight Jr. Durante o evento, os fãs terão a oportunidade de interagir com os atores por meio de fotos, selfies e autógrafos, além de participarem de atividades exclusivas que serão divulgadas em breve. Um pacote especial estará disponível para aqueles que desejam uma experiência completa.

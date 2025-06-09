@@ -18,6 +18,10 @@ tags:
   - etiqueta de teatro
   - distrações
 author: Pablo Moura
+resumo: >-
+  Myra Ruiz, estrela de 'Wicked' em SP, critica uso de celulares no teatro por
+  distração. Produção busca conscientizar público para preservar a magia do
+  espetá...
 ---
 
 Myra Ruiz, protagonista do aclamado musical 'Wicked', que está em cartaz em São Paulo, revelou seu incômodo com o uso excessivo de celulares durante as apresentações. Em entrevista recente, a atriz comentou que a luz dos aparelhos pode ser bastante distrativa, tanto para os atores no palco quanto para outros espectadores na plateia. 

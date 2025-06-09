@@ -23,6 +23,9 @@ keywords: >-
   efeitos práticos, Travis Knight
 data: '2025-04-03T06:14:17.062Z'
 author: Pablo Moura
+resumo: >-
+  Na CinemaCon, o live-action de 'He-Man' agitou os fãs com cenas de Jared Leto
+  como Esqueleto e efeitos práticos. Estreia: 5 de junho de 2026.
 ---
 
 Durante a recente CinemaCon, foi apresentado um vídeo com as primeiras cenas do live-action de 'He-Man e os Mestres do Universo', gerando grande entusiasmo entre os fãs. O destaque do vídeo foi a transformação de Jared Leto no icônico vilão Esqueleto, com maquiagem e efeitos práticos que prometem uma reprodução fiel ao desenho animado original. Nicholas Galitzine, que interpreta He-Man, também foi revelado, com um visual que imita perfeitamente o personagem clássico.

@@ -21,6 +21,10 @@ keywords: >-
   ação, estreia 2025, Festival de Cannes, sequência épica
 data: '2025-04-05T01:07:50.230Z'
 author: Luana Souza
+resumo: >-
+  Tom Cruise desafia a gravidade em teaser de Missão: Impossível - O Acerto
+  Final. Com direção de Christopher McQuarrie, o filme promete ação eletrizante
+  e ele...
 ---
 
 A franquia Missão Impossível divulgou nesta sexta-feira (04) um teaser trailer de seu mais novo filme, Missão: Impossível - O Acerto Final. No vídeo, Tom Cruise aparece realizando uma perigosa cena de ação pendurado em um avião. O diretor Christopher McQuarrie, que retorna para dirigir o filme, expressou seu entusiasmo e medo pelas cenas arriscadas, indicando ainda mais desafios para o próximo filme da série.

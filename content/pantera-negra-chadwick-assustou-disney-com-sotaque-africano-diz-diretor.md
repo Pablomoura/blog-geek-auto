@@ -1,14 +1,32 @@
 ---
-title: "Pantera Negra | Chadwick Boseman surpreendeu Disney com sotaque africano, revela Ryan Coogler"
-slug: "pantera-negra-chadwick-assustou-disney-com-sotaque-africano-diz-diretor"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/HEY-FSP4IImRYOfrrRZ_fNNZZHo=/987x0/smart/uploads/conteudo/fotos/02_cDqPySA.jpg"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/Bu3z9FiDYops_0H4PvperIs1mO8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_174447.png"
-tags: ["Pantera Negra", "Chadwick Boseman", "Ryan Coogler", "Disney", "sotaque africano", "Michael B. Jordan", "Pecadores", "cinema"]
-keywords: "Pantera Negra, Chadwick Boseman, Ryan Coogler, Disney, sotaque africano, Michael B. Jordan, Pecadores, cinema"
-author: "Pablo Moura"
-data: "2025-04-10T21:09:48.070Z"
+title: >-
+  Pantera Negra | Chadwick Boseman surpreendeu Disney com sotaque africano,
+  revela Ryan Coogler
+slug: pantera-negra-chadwick-assustou-disney-com-sotaque-africano-diz-diretor
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/HEY-FSP4IImRYOfrrRZ_fNNZZHo=/987x0/smart/uploads/conteudo/fotos/02_cDqPySA.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/Bu3z9FiDYops_0H4PvperIs1mO8=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_174447.png
+tags:
+  - Pantera Negra
+  - Chadwick Boseman
+  - Ryan Coogler
+  - Disney
+  - sotaque africano
+  - Michael B. Jordan
+  - Pecadores
+  - cinema
+keywords: >-
+  Pantera Negra, Chadwick Boseman, Ryan Coogler, Disney, sotaque africano,
+  Michael B. Jordan, Pecadores, cinema
+author: Pablo Moura
+data: '2025-04-10T21:09:48.070Z'
+resumo: >-
+  Ryan Coogler relembra Chadwick Boseman adotando sotaque africano em Pantera
+  Negra, surpreendendo executivos da Disney. Sua morte impactou Michael B.
+  Jordan.
 ---
 
 Durante a divulgação de seu mais recente projeto cinematográfico, Pecadores, o cineasta Ryan Coogler relembrou um momento marcante das gravações de Pantera Negra envolvendo o ator Chadwick Boseman. Segundo Coogler, em conversa com a revista People, a escolha de Boseman em adotar um sotaque africano para interpretar o personagem T'Challa inicialmente causou grande preocupação entre os executivos da Disney.

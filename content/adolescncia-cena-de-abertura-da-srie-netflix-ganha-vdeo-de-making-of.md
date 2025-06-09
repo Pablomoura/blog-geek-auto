@@ -23,6 +23,10 @@ keywords: >-
   contínua, delinquência juvenil, série dramática
 data: '2025-04-08T17:12:30.892Z'
 author: Pablo Moura
+resumo: >-
+  Confira o making-of de 'Adolescência', minissérie da Netflix, que revela
+  bastidores do plano sequência desafiador e o futuro da narrativa sem um
+  prelúdio.
 ---
 
 A Netflix divulgou recentemente um vídeo de making-of mostrando os bastidores da cena de abertura da minissérie 'Adolescência'. O vídeo apresenta uma tela dividida que exibe simultaneamente a cena finalizada e o processo de gravação, destacando o desafiador plano sequência utilizado.

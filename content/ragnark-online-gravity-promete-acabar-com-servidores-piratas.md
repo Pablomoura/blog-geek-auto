@@ -21,6 +21,10 @@ keywords: >-
   ações legais, monetização de jogos, cultura gamer
 data: '2025-04-08T23:09:35.854Z'
 author: Luana Souza
+resumo: >-
+  Gravity declara guerra aos servidores piratas de Ragnarök Online, buscando
+  proteger sua propriedade intelectual e iniciar ações legais contra infratores
+  no B...
 ---
 
 Durante uma conferência de imprensa realizada nesta terça-feira (08), a Gravity, empresa responsável pelo Ragnarök Online, anunciou medidas severas contra os servidores piratas do popular MMORPG. Desde o lançamento do jogo no Brasil, em 2004, surgiram diversos servidores privados que permitiram aos fãs jogar modificando certas regras. Muitos desses servidores incluem opções de monetização, como a venda de status VIP, itens poderosos e cosméticos.

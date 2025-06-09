@@ -20,6 +20,10 @@ keywords: >-
   jogo, criaturas cúbicas, Overworld
 data: '2025-04-09T16:13:24.599Z'
 author: Ana Luiza
+resumo: >-
+  Jared Hess traz um toque realista ao filme Minecraft, mantendo a essência
+  cúbica. Com Jason Momoa e Jack Black, a trama promete aventura no mundo
+  pixelado.
 ---
 
 Em entrevista ao DiscussingFilm, Jared Hess, diretor do filme 'Um Filme Minecraft', detalhou sua escolha por um cenário mais realista na adaptação cinematográfica do famoso jogo de construção e sobrevivência. Segundo Hess, o objetivo era conferir uma textura orgânica e realista ao universo do filme, mantendo a essência cúbica das criaturas. 'Estas são criaturas reais, então precisávamos que elas tivessem músculos, mas ainda preservando a forma cúbica característica', explicou Hess.

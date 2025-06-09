@@ -17,6 +17,9 @@ tags:
   - série de tv
   - dc comics
 author: Ana Luiza
+resumo: >-
+  Novas imagens de 'Lanterns' mostram Aaron Pierre como John Stewart. A série,
+  com roteiro de Damon Lindelof, explora um enigmático assassinato na Terra.
 ---
 
 Foram divulgadas novas imagens do set da série 'Lanternas Verdes', revelando Aaron Pierre, que interpreta o protagonista John Stewart, armado e saindo de um veículo. As fotos prometem uma visão intrigante do personagem.

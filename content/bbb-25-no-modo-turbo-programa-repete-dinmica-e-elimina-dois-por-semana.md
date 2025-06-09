@@ -21,6 +21,10 @@ keywords: >-
   votação mista, Globoplay
 data: '2025-04-04T03:26:26.962Z'
 author: Luana Souza
+resumo: >-
+  Tadeu Schmidt revela o 'modo turbo' do BBB 25 com Vitória Strada como Líder.
+  Renata, João Pedro e João Guilherme estão no Paredão. Acompanhe tudo no
+  Globoplay.
 ---
 
 No programa ao vivo desta quarta-feira (03), Tadeu Schmidt detalhou a nova dinâmica do 'BBB 25', que agora entra em sua fase acelerada, conhecida como 'modo turbo'. Vitória Strada sagrou-se vencedora da Prova do Líder e, consequentemente, indicou Renata, João Pedro e João Guilherme ao Paredão.

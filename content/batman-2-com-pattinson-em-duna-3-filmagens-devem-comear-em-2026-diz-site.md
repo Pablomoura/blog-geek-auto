@@ -21,6 +21,9 @@ keywords: >-
   filmagens atrasadas, lançamento 2027
 data: '2025-04-08T22:10:38.400Z'
 author: Ana Luiza
+resumo: >-
+  Batman 2, estrelado por Robert Pattinson, enfrenta atraso nas filmagens devido
+  a conflitos de agenda com Duna: Messias. Lançamento agora previsto para 2027.
 ---
 
 A continuação de Batman, protagonizado por Robert Pattinson, enfrenta um possível atraso nas filmagens, de acordo com informações do site Nexus Point News. A nova entrada na trilogia do Homem-Morcego, dirigida por Matt Reeves, está prevista para iniciar produção apenas no início de 2026, numa estimativa otimista.

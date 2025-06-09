@@ -21,6 +21,10 @@ keywords: >-
   DCU
 data: '2025-04-03T22:10:35.372Z'
 author: Pablo Moura
+resumo: >-
+  James Gunn revela cena de Superman com Krypto na CinemaCon 2025. Filme
+  estrelado por David Corenswet e Rachel Brosnahan explora início de Clark Kent
+  em Metró...
 ---
 
 James Gunn, o renomado diretor, divulgou nesta quinta-feira (03) em perfis oficiais da DC Studios, uma cena impactante de Superman apresentada inicialmente no painel da CinemaCon 2025. Nesta cena, Krypto, o supercão, é visto transportando um ferido Superman para a Fortaleza da Solidão, onde o herói é tratado com raios solares para curar suas lesões, resultantes de um confronto ainda não revelado. Seguidamente, o trailer apresenta cenas similares às do primeiro trailer do filme.

@@ -17,6 +17,10 @@ tags:
   - pneumonia
   - ator
 author: Luana Souza
+resumo: >-
+  Morre Val Kilmer aos 65 anos. O astro de 'Top Gun' e 'Batman Eternamente'
+  lutava contra pneumonia. Conhecido por papéis icônicos, deixa legado no
+  cinema.
 ---
 
 Faleceu nesta última terça-feira, 1º de agosto, o renomado ator Val Kilmer, aos 65 anos. Conhecido por seus papéis icônicos em filmes como 'Batman Eternamente', 'Fogo Contra Fogo' e 'Top Gun', Kilmer sucumbiu após uma longa batalha contra a pneumonia, conforme informado pelo New York Times, com confirmação vinda de Mercedes Kilmer, sua filha.

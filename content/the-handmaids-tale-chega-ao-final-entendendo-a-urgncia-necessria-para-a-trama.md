@@ -22,6 +22,10 @@ keywords: >-
   LGBTQIA+, distopia, revolução, The Testaments
 data: '2025-04-08T17:10:13.714Z'
 author: Luana Souza
+resumo: >-
+  A sexta e última temporada de The Handmaid’s Tale traz o clímax da saga de
+  June, prometendo desfechos emocionantes e uma revolução aguardada contra
+  Gilead.
 ---
 
 The Handmaid’s Tale, desde sua estreia durante o início da presidência de Donald Trump nos Estados Unidos, capturou a atenção global por sua narrativa perturbadora que ecoava realidades políticas e sociais contemporâneas. A série, baseada no livro de Margaret Atwood de 1985, tornou-se um símbolo de resistência contra as opressões enfrentadas pelas mulheres e pela comunidade LGBTQIA+, refletidas através da distópica Gilead. Quase oito anos após seu lançamento, a saga de June Osborne chega ao seu clímax na sexta e última temporada. 

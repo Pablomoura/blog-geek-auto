@@ -1,14 +1,28 @@
 ---
-title: "Quarteto Fantástico | Novo teaser revela heróis em uniformes clássicos"
-slug: "quarteto-fantstico-novo-teaser-mostra-heris-com-uniformes"
-categoria: "FILMES"
-midia: "https://www.youtube.com/embed/9MTQMmnF8bk?showinfo=0&enablejsapi=1"
-tipoMidia: "video"
-thumb: "https://cdn.ome.lt/oFalqCZGwoTCNuLwDg6-NF98S8Y=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_131322.png"
-tags: ["Quarteto Fantástico", "uniformes clássicos", "Pedro Pascal", "Vanessa Kirby", "Marvel", "MCU", "Fase 6", "filme de super-heróis"]
-keywords: "Quarteto Fantástico, uniformes clássicos, Pedro Pascal, Vanessa Kirby, Marvel, MCU, Fase 6, filme de super-heróis"
-author: "Pablo Moura"
-data: "2025-04-10T17:14:44.656Z"
+title: Quarteto Fantástico | Novo teaser revela heróis em uniformes clássicos
+slug: quarteto-fantstico-novo-teaser-mostra-heris-com-uniformes
+categoria: FILMES
+midia: 'https://www.youtube.com/embed/9MTQMmnF8bk?showinfo=0&enablejsapi=1'
+tipoMidia: video
+thumb: >-
+  https://cdn.ome.lt/oFalqCZGwoTCNuLwDg6-NF98S8Y=/480x360/smart/extras/conteudos/Captura_de_tela_2025-04-10_131322.png
+tags:
+  - Quarteto Fantástico
+  - uniformes clássicos
+  - Pedro Pascal
+  - Vanessa Kirby
+  - Marvel
+  - MCU
+  - Fase 6
+  - filme de super-heróis
+keywords: >-
+  Quarteto Fantástico, uniformes clássicos, Pedro Pascal, Vanessa Kirby, Marvel,
+  MCU, Fase 6, filme de super-heróis
+author: Pablo Moura
+data: '2025-04-10T17:14:44.656Z'
+resumo: >-
+  A nova capa da Entertainment Weekly revela um teaser do reboot de 'Quarteto
+  Fantástico'. Pedro Pascal lidera o elenco estelar em uma trama retrofuturista.
 ---
 
 A mais recente edição da revista Entertainment Weekly traz uma capa interativa que apresenta um novo teaser do filme 'Quarteto Fantástico: Primeiros Passos'. O vídeo destaca a família de super-heróis usando seus uniformes espaciais, alinhados em uma demonstração de união e força, enquanto são exibidos trechos inéditos do filme.

@@ -17,6 +17,10 @@ tags:
   - jogos de terror
   - nintendo switch
 author: Ana Luiza
+resumo: >-
+  Shadow Labyrinth', versão sombria de Pac-Man, ganha trailer e chega em 18 de
+  julho para Switch, Xbox, PS e PC. Baseado na série 'Nível Secreto' do Prime
+  Video.
 ---
 
 O jogo 'Shadow Labyrinth', que traz uma versão macabra do icônico Pac-Man, acaba de receber um novo trailer e data de lançamento. O jogo será disponibilizado em 18 de julho para Nintendo Switch, Xbox, PlayStation e PC.

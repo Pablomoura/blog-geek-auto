@@ -22,6 +22,10 @@ keywords: >-
   Prateado, MCU Fase 6, Doutor Destino, Estreia 2025
 data: '2025-04-04T15:14:50.185Z'
 author: Pablo Moura
+resumo: >-
+  Marvel Studios revela pôster de 'Quarteto Fantástico: Primeiros Passos' em 4
+  de abril, destacando protagonistas e marcando nova era após aquisição da Fox
+  pel...
 ---
 
 Em uma jogada de marketing temática, o Marvel Studios aproveitou o dia 4 de abril para lançar um novo pôster de 'Quarteto Fantástico: Primeiros Passos'. O design criativo destaca as silhuetas dos quatro protagonistas cercadas por inúmeros algarismos '4', reforçando a identidade visual da equipe.

@@ -23,6 +23,10 @@ keywords: >-
   conflito israelo-palestino
 data: '2025-04-04T00:42:26.632Z'
 author: Luana Souza
+resumo: >-
+  Basel Adra, diretor premiado com o Oscar, impacta a ONU com discurso sobre a
+  luta palestina, denunciando demolições israelenses e defendendo a resistência
+  de...
 ---
 
 Basel Adra, aclamado diretor do documentário 'Sem Chão' e laureado com o Oscar, proferiu um emocionante discurso na sede da ONU, defendendo fervorosamente a causa palestina e denunciando as ações israelenses contra seu povo. Adra, que iniciou sua carreira cinematográfica documentando as adversidades enfrentadas por sua comunidade, expressou seu desalento com a contínua demolição de residências palestinas por escavadeiras israelenses, uma prática que motivou sua jornada no cinema.

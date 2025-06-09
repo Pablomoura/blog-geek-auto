@@ -16,6 +16,10 @@ tags:
   - uniforme preto
   - vídeo de bastidores
 author: Luana Souza
+resumo: >-
+  Assista ao eletrizante vídeo de bastidores de 'Demolidor: Renascido' na
+  Disney+. Com Charlie Cox e elenco estelar, a série promete ação e drama
+  intensos!
 ---
 
 Recentemente foi divulgado um emocionante vídeo de bastidores da segunda temporada de 'Demolidor: Renascido', exibindo o protagonista em combate enquanto usa seu renovado uniforme preto. O vídeo, capturado durante as filmagens, apresenta o Demolidor em plena ação e pode ser assistido no início deste artigo.

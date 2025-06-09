@@ -19,6 +19,10 @@ tags:
   - hollywood
   - entrevista
 author: Ana Luiza
+resumo: >-
+  Dennis Quaid e Lindsay Lohan discutem a possibilidade de um remake de
+  'Operação Cupido'. Enquanto Quaid vê barreiras, Lohan estaria aberta se Nancy
+  Meyers pa...
 ---
 
 A possibilidade de uma sequência ou remake do clássico 'Operação Cupido' tem sido um tópico recorrente em Hollywood. Recentemente, Dennis Quaid, um dos astros do filme original, revelou detalhes sobre as discussões em curso. Em entrevista ao Business Insider, Quaid expressou ceticismo quanto à realização do projeto no momento. 'Houve algumas conversas, mas acho que seria impossível fazer o filme agora... Não, ninguém faria. Não temos o coração para isso agora. Talvez uma nova versão possa ser feita para uma nova geração,' comentou o ator, lembrando também da saudade que sentem por Natasha Richardson, coestrela do filme que faleceu em 2009.

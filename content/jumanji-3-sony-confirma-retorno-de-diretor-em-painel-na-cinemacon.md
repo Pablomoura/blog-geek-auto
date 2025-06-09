@@ -19,6 +19,9 @@ tags:
   - direção de filmes
   - franquia de filmes
 author: Ana Luiza
+resumo: >-
+  Sony confirma 'Jumanji 3' com direção de Jake Kasdan e retorno de Dwayne
+  Johnson, Kevin Hart, Jack Black e Karen Gillan. Franquia continua a crescer!
 ---
 
 A Sony confirmou o desenvolvimento de 'Jumanji 3' durante o evento CinemaCon, anunciando que Jake Kasdan, diretor dos dois filmes anteriores da franquia, retornará para dirigir o terceiro capítulo. 

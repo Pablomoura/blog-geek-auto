@@ -23,6 +23,9 @@ keywords: >-
   Globo, Hollywood, dublês
 data: '2025-04-09T16:15:39.400Z'
 author: Luana Souza
+resumo: >-
+  Thuy Trang, a Power Ranger original, foi demitida após pedir aumento salarial.
+  Arrependida, ela lamentou a decisão em lágrimas, segundo Jeff Pruitt.
 ---
 
 Thuy Trang, conhecida por sua participação na formação original dos Power Rangers, foi excluída da segunda temporada da série americana depois de solicitar um aumento salarial. Jeff Pruitt, coordenador de dublês do projeto, compartilhou que a atriz se arrependeu amargamente de sua decisão. Na ocasião, Thuy Trang, junto a Walter Emanuel Jones e Austin St. John, reivindicou melhores salários devido ao sucesso inicial da série em 1993. Enquanto seus colegas foram atendidos, Trang ficou sem o aumento desejado. Durante um evento para afiliadas da série, ela fez um discurso apaixonado que resultou em sua demissão imediata.

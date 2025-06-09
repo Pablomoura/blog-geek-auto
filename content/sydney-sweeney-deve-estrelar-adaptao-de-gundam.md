@@ -19,6 +19,10 @@ tags:
   - filme de ação
   - anime
 author: Ana Luiza
+resumo: >-
+  Sydney Sweeney está em negociações finais para estrelar a adaptação
+  live-action de 'Gundam' pela Legendary, dirigida por Jim Mickle. Sem data de
+  estreia conf...
 ---
 
 De acordo com fontes do Deadline e do The InSneider, a atriz Sydney Sweeney está prestes a finalizar as negociações para protagonizar a aguardada adaptação de 'Gundam' pela Legendary. Ainda não foram divulgados detalhes específicos sobre o papel de Sweeney ou sobre a trama do filme.

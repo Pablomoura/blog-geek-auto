@@ -1,15 +1,36 @@
 ---
-title: "Microsoft e Sindicato dos Trabalhadores em Jogos Digitais Conquistam Acordo Histórico em Contrato de Trabalho"
-slug: "microsoft-e-sindicato-dos-trabalhadores-em-jogos-digitais-conquistam-acordo-histrico-em-contrato-de-trabalho"
-categoria: "Games"
-midia: "https://www.gamespot.com/a/uploads/screen_medium/1539/15391776/4504234-4468980-4082290-zenimaxworkersunitedformunion.jpg"
-tipoMidia: "imagem"
-thumb: "https://www.gamespot.com/a/uploads/screen_medium/1539/15391776/4504234-4468980-4082290-zenimaxworkersunitedformunion.jpg"
-tags: ["Microsoft", "ZeniMax", "sindicato", "contrato de trabalho", "indústria de jogos", "QA testers", "Communications Workers of America", "sindicalização", "relações trabalhistas"]
-keywords: "Microsoft, ZeniMax, sindicato, contrato de trabalho, indústria de jogos, QA testers, Communications Workers of America, sindicalização, relações trabalhistas"
-author: "Luana Souza"
-fonte: "GameSpot"
-data: "2025-05-30T18:47:00.000Z"
+title: >-
+  Microsoft e Sindicato dos Trabalhadores em Jogos Digitais Conquistam Acordo
+  Histórico em Contrato de Trabalho
+slug: >-
+  microsoft-e-sindicato-dos-trabalhadores-em-jogos-digitais-conquistam-acordo-histrico-em-contrato-de-trabalho
+categoria: Games
+midia: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1539/15391776/4504234-4468980-4082290-zenimaxworkersunitedformunion.jpg
+tipoMidia: imagem
+thumb: >-
+  https://www.gamespot.com/a/uploads/screen_medium/1539/15391776/4504234-4468980-4082290-zenimaxworkersunitedformunion.jpg
+tags:
+  - Microsoft
+  - ZeniMax
+  - sindicato
+  - contrato de trabalho
+  - indústria de jogos
+  - QA testers
+  - Communications Workers of America
+  - sindicalização
+  - relações trabalhistas
+keywords: >-
+  Microsoft, ZeniMax, sindicato, contrato de trabalho, indústria de jogos, QA
+  testers, Communications Workers of America, sindicalização, relações
+  trabalhistas
+author: Luana Souza
+fonte: GameSpot
+data: '2025-05-30T18:47:00.000Z'
+resumo: >-
+  Microsoft e sindicato CWA fecham acordo pioneiro para testadores da ZeniMax,
+  ampliando proteções e salários. Contrato inclui diretrizes para IA e crédito
+  justo.
 ---
 ## Microsoft e Sindicato Fecham Acordo Inédito em Contrato Laboral
 

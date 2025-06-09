@@ -21,6 +21,9 @@ keywords: >-
   científica, thriller, ecossistema
 data: '2025-04-03T00:11:17.327Z'
 author: Luana Souza
+resumo: >-
+  O trailer de 'Bugonia', de Yorgos Lanthimos, estreou na CinemaCon, revelando
+  um thriller de amor e obsessão com Jesse Plemons e Emma Stone. Confira!
 ---
 
 O aguardado trailer de 'Bugonia' foi finalmente revelado durante o painel da Universal Studios na CinemaCon, nesta quarta-feira. O evento, que reuniu diversos profissionais e entusiastas da indústria cinematográfica, foi palco para a divulgação de vários lançamentos importantes, incluindo este projeto intrigante dirigido por Yorgos Lanthimos.

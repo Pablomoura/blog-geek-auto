@@ -22,6 +22,10 @@ keywords: >-
   pré-estreia, recorde de bilheteria, adaptação de jogo
 data: '2025-04-04T11:09:17.845Z'
 author: Luana Souza
+resumo: >-
+  Um Filme Minecraft' surpreende nas bilheterias dos EUA, com pré-estreia
+  arrecadando US$ 7 milhões. Projeções agora apontam para US$ 75 milhões no
+  primeiro fi...
 ---
 
 Segundo informações do Deadline, 'Um Filme Minecraft' já começou a fazer sucesso nas bilheterias dos Estados Unidos, onde as sessões de pré-estreia acumularam aproximadamente US$ 7 milhões. Inicialmente, as expectativas para o primeiro fim de semana apontavam para uma arrecadação de até US$ 60 milhões. No entanto, após a pré-estreia, essas previsões foram ajustadas para US$ 75 milhões.

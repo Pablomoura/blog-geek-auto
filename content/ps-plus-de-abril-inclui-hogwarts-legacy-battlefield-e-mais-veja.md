@@ -23,6 +23,9 @@ keywords: >-
   Potter, lançamentos de jogos
 data: '2025-04-09T17:13:19.786Z'
 author: Pablo Moura
+resumo: >-
+  PS Plus de abril traz Hogwarts Legacy para assinantes Extra e Deluxe. Destaque
+  para o sucesso do game, com 34 milhões de cópias vendidas em 2023!
 ---
 
 A PlayStation anunciou as novas adições ao catálogo da PS Plus para o mês de abril, destinadas aos assinantes das modalidades Extra e Deluxe. Entre os destaques estão o muito aguardado Hogwarts Legacy, ambientado no universo de Harry Potter, e outros títulos de peso como o recém-lançado Blue Prince, Battlefield 1 e Lost Records: Bloom & Rage Tape 2.

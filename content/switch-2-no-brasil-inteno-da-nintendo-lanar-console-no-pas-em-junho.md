@@ -20,6 +20,9 @@ keywords: >-
   Joy-Con magnético, lançamento global, preço do console, atualizações de jogos
 data: '2025-04-03T13:21:45.787Z'
 author: Luana Souza
+resumo: >-
+  A Nintendo confirma o lançamento simultâneo do Switch 2 no Brasil e EUA em 5
+  de junho, mas o preço brasileiro ainda é incerto. Nos EUA, custará US$ 450.
 ---
 
 A Nintendo planeja lançar o Nintendo Switch 2 no Brasil ao mesmo tempo que nos Estados Unidos, especificamente em 5 de junho. Contudo, a data exata de chegada do dispositivo às lojas brasileiras ainda não está confirmada. A informação foi confirmada por Pilar Pueblita, gerente de relações públicas e eventos para a América Latina da Nintendo of America, em entrevista concedida ao Omelete na última quarta-feira (2). Durante o evento, a empresa divulgou detalhes significativos sobre o Switch 2.

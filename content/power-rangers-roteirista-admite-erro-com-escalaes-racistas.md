@@ -21,6 +21,10 @@ keywords: >-
   Dreams, erros de casting, diversidade, crítica cultural
 data: '2025-04-09T00:43:16.544Z'
 author: Ana Luiza
+resumo: >-
+  Tony Oliver, roteirista de 'Power Rangers', admite que a escolha de elenco
+  ligada a etnias passou despercebida. Criadores defendem que não foi
+  intencional.
 ---
 
 Em uma entrevista para a série documental 'Hollywood Dreams' do Investigation Discovery, Tony Oliver, roteirista-chefe de 'Mighty Morphin Power Rangers', abordou as críticas a respeito das escolhas de elenco para os personagens Walter Emanuel Jones e Thuy Trang, que interpretaram os Rangers Preto e Amarelo, respectivamente. Oliver admitiu que a correspondência das cores dos personagens com suas etnias passou inicialmente despercebida pela equipe de produção.

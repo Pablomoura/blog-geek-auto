@@ -18,6 +18,10 @@ tags:
   - conflito no cinema
   - edição de filme
 author: Ana Luiza
+resumo: >-
+  One Battle After Another', filme de Paul Thomas Anderson com Leonardo
+  DiCaprio, enfrenta cortes e tensões na Warner Bros. devido ao alto custo e
+  recepção mista.
 ---
 
 A produção de 'One Battle After Another' enfrenta tensões na Warner Bros. Segundo a Variety, o estúdio está em desacordo com o diretor Paul Thomas Anderson sobre a duração do filme, que inclui Leonardo DiCaprio no elenco.

@@ -1,14 +1,30 @@
 ---
-title: "A Múmia | Elenco do reboot é revelado"
-slug: "a-mmia-elenco-do-reboot-revelado"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/Ajh_-RPGSC-lSm5YkwvshLmy8lM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-10T133227.071.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/sXW74u0hY13r_0QEvHOKiqdzL5c=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T133209.155.png"
-tags: ["A Múmia", "reboot", "Blumhouse", "Universal Monsters", "Lee Cronin", "elenco revelado", "filme de terror", "expedição arqueológica"]
-keywords: "A Múmia, reboot, Blumhouse, Universal Monsters, Lee Cronin, elenco revelado, filme de terror, expedição arqueológica"
-author: "Ana Luiza"
-data: "2025-04-10T17:12:46.327Z"
+title: A Múmia | Elenco do reboot é revelado
+slug: a-mmia-elenco-do-reboot-revelado
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/Ajh_-RPGSC-lSm5YkwvshLmy8lM=/987x0/smart/uploads/conteudo/fotos/OMELETE_CAPA_-_2025-04-10T133227.071.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/sXW74u0hY13r_0QEvHOKiqdzL5c=/480x360/smart/extras/conteudos/omelete_THUMB_-_2025-04-10T133209.155.png
+tags:
+  - A Múmia
+  - reboot
+  - Blumhouse
+  - Universal Monsters
+  - Lee Cronin
+  - elenco revelado
+  - filme de terror
+  - expedição arqueológica
+keywords: >-
+  A Múmia, reboot, Blumhouse, Universal Monsters, Lee Cronin, elenco revelado,
+  filme de terror, expedição arqueológica
+author: Ana Luiza
+data: '2025-04-10T17:12:46.327Z'
+resumo: >-
+  A Blumhouse revelou o elenco quase completo do remake de 'A Múmia', com
+  Veronica Falcón e May Calamawy. Sob direção de Lee Cronin, estreia em 16 de
+  abril de...
 ---
 
 O remake de 'A Múmia', produzido pela Blumhouse, finalmente teve seu elenco quase completo divulgado. Veronica Falcón, May Calamawy e May Elgherty foram confirmadas na produção, conforme informações divulgadas pela Variety. Detalhes sobre os personagens que serão interpretados por Falcón, Calamawy e Elgherty ainda não foram revelados. Elas se juntam a Laia Costa e Jack Reynor, que já haviam sido anunciados anteriormente. Costa, conhecida por seus papéis em 'Victoria' e 'Newness', interpretará a esposa do personagem de Reynor. Este, por sua vez, será o explorador protagonista, conforme visto em 'Midsommar: O Mal Não Espera a Noite'. A trama deve girar em torno de uma expedição que encontra uma múmia milenar.

@@ -18,6 +18,10 @@ tags:
   - vídeo
   - habilidades
 author: Pablo Moura
+resumo: >-
+  Karate Kid: Lendas' estreia antecipada no Brasil! Ben Wang brilha em nova
+  produção com Jackie Chan e Ralph Macchio. Descubra a trama emocionante e o
+  elenco e...
 ---
 
 A nova produção 'Karate Kid: Lendas' teve sua estreia adiantada no Brasil, segundo informações do site Omelete. Recentemente, um empolgante vídeo foi divulgado, no qual Ben Wang, o novo protagonista, exibe suas impressionantes habilidades em artes marciais. Assista ao vídeo abaixo!

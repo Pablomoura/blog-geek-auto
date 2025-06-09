@@ -17,6 +17,10 @@ tags:
   - anjo
   - participantes
 author: Luana Souza
+resumo: >-
+  No 11º Sincerão do BBB 25, participantes nomearam colegas em categorias
+  polêmicas, trazendo tensão e estratégias ao jogo. Transmissão ao vivo na Globo
+  e Glob...
 ---
 
 Na noite desta segunda-feira (31), ocorreu o 11º Sincerão do BBB 25, envolvendo os 11 participantes que ainda estão na competição. A dinâmica iniciou com os principais envolvidos da semana: os emparedados Diego Hypólito, Vilma e Vinícius, o Líder Maike e o Anjo João Gabriel, seguidos pelos demais concorrentes.

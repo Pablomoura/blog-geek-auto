@@ -16,6 +16,10 @@ tags:
   - jogo brasil argentina
   - eliminatórias da copa
 author: Ana Luiza
+resumo: >-
+  BBB 25 vai ao ar às 23h nesta terça, após Brasil x Argentina. Acompanhe o
+  Sincerão e eliminação ao vivo. Assista grátis no Globoplay; crie sua conta e
+  veja t...
 ---
 
 O Big Brother Brasil 25 será transmitido excepcionalmente às 23h (horário de Brasília) nesta terça-feira, 25 de março, devido à partida de futebol entre Brasil e Argentina pelas Eliminatórias da Copa. A transmissão ocorrerá logo após o jogo.

@@ -21,6 +21,10 @@ keywords: >-
   Gyllenhaal, streaming, Amazon Prime Video, cinema britânico
 data: '2025-04-04T17:09:12.652Z'
 author: Pablo Moura
+resumo: >-
+  Guy Ritchie dirigirá a sequência de 'Matador de Aluguel', substituindo Doug
+  Liman. O filme é um sucesso no Prime Video, ultrapassando 50 milhões de
+  visualiza...
 ---
 
 A franquia 'Matador de Aluguel' anunciou uma mudança significativa em sua direção. Guy Ritchie, conhecido por seu trabalho em filmes de ação, assumirá a direção da sequência, substituindo Doug Liman. A informação foi confirmada pelo portal World of Reel.

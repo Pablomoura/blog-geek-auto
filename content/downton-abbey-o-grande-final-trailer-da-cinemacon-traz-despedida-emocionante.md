@@ -23,6 +23,10 @@ keywords: >-
   Julian Fellowes, filme britânico, estreia 12 de setembro
 data: '2025-04-03T00:12:20.276Z'
 author: Pablo Moura
+resumo: >-
+  A saga de 'Downton Abbey' continua com seu terceiro filme, revelado na
+  CinemaCon. O trailer destaca Colin Firth e Paul Giamatti. Estreia em 12 de
+  setembro!
 ---
 
 A aguardada conclusão cinematográfica de 'Downton Abbey' foi destaque na CinemaCon deste ano, com a estreia de seu primeiro trailer. O vídeo emocionante apresenta cenas notáveis, incluindo Colin Firth em um momento íntimo de um beijo palaciano, e Paul Giamatti, que também recebe considerável destaque.

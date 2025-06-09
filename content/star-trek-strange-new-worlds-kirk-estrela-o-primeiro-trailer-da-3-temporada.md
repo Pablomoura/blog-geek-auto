@@ -16,6 +16,10 @@ tags:
   - capitão kirk
   - série de tv
 author: Luana Souza
+resumo: >-
+  O trailer da terceira temporada de 'Star Trek: Strange New Worlds' revela o
+  retorno da série em 2025, com Paul Wesley como o novo Capitão Kirk. Prepare-se
+  pa...
 ---
 
 Fãs do universo de 'Star Trek' têm motivos para comemorar com a divulgação do primeiro trailer da terceira temporada de 'Star Trek: Strange New Worlds'. O vídeo foi lançado recentemente, antecipando o retorno da série previsto para meados de 2025. A prévia apresenta cenas empolgantes com a equipe da nave Enterprise, incluindo a nova encarnação do Capitão Kirk, interpretado por Paul Wesley, conhecido por seu trabalho em 'The Vampire Diaries'.

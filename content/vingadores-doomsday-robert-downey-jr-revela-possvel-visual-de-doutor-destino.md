@@ -23,6 +23,10 @@ keywords: >-
   Cinematográfico Marvel, Saga do Multiverso, X-Men, Quarteto Fantástico
 data: '2025-04-06T14:08:33.372Z'
 author: Luana Souza
+resumo: >-
+  Robert Downey Jr. pode ter revelado o visual de Doutor Destino em sua festa de
+  aniversário. O ator exibiu um penteado cacheado, parte de 'Vingadores:
+  Doomsday'.
 ---
 
 Robert Downey Jr., conhecido por seus papéis icônicos em Hollywood, pode ter dado aos fãs um vislumbre do visual de seu próximo personagem, Doutor Destino, durante sua festa de aniversário neste fim de semana. O ator foi visto com um penteado cacheado, que segundo o convite distribuído aos convidados, será parte de sua caracterização no filme 'Vingadores: Doomsday'.

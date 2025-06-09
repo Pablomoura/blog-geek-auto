@@ -21,6 +21,10 @@ keywords: >-
   Last Friday, Hollywood Reporter, Warner Bros.
 data: '2025-04-03T15:11:23.926Z'
 author: Ana Luiza
+resumo: >-
+  A New Line Cinema confirma 'Last Friday', nova sequência de 'Sexta-feira em
+  Apuros', com Ice Cube como protagonista e roteirista. Detalhes de elenco ainda
+  nã...
 ---
 
 A New Line Cinema anunciou oficialmente que a popular comédia 'Sexta-feira em Apuros' terá uma nova sequência. Ice Cube não apenas protagonizará, como também será o roteirista do novo filme, intitulado 'Last Friday'. Richard Brener, executivo da New Line, confirmou a notícia ao The Hollywood Reporter, destacando que o acordo com Ice Cube foi recentemente finalizado. A ideia de uma sequência vem sendo discutida desde 2021, envolvendo negociações entre a Warner Bros. e Ice Cube sobre os direitos de produção.

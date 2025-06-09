@@ -15,6 +15,10 @@ tags:
   - william hurt
   - filme de drama
 author: Pablo Moura
+resumo: >-
+  Hoje, às 15h25, a Sessão da Tarde exibe "Uma Razão para Vencer". O drama
+  emocionante, estrelado por Helen Hunt, narra superação e união após uma
+  tragédia.
 ---
 
 Na Sessão da Tarde de hoje, 26 de outubro, a TV Globo apresenta o filme 'Uma Razão para Vencer', lançado em 2018. A transmissão ocorre às 15h25, horário de Brasília, com duração de 1h41.

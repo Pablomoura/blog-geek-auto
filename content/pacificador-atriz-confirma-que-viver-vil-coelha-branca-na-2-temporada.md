@@ -16,6 +16,9 @@ tags:
   - vilã
   - série de tv
 author: Luana Souza
+resumo: >-
+  Brey Noelle é confirmada como Coelha Branca na 2ª temporada de 'Pacificador',
+  integrando o novo DCU. Série estreia em agosto de 2025 no Max com John Cena.
 ---
 
 Após especulações recentes, Brey Noelle, atriz e cantora, foi oficialmente confirmada no elenco da segunda temporada de 'Pacificador'. A confirmação veio após seu nome aparecer no IMDB, levantando rumores que foram posteriormente validados pela própria Noelle através de seus stories no Instagram e comentários em diversas publicações.

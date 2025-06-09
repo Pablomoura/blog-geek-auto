@@ -20,6 +20,10 @@ keywords: >-
   Studios, MCU Fase 6, Pedro Pascal, trailer de filme
 data: '2025-04-04T19:09:44.375Z'
 author: Ana Luiza
+resumo: >-
+  Na CinemaCon 2025, o novo trailer de 'Quarteto Fantástico: Primeiros Passos'
+  destaca Sue Storm grávida, Galactus como ameaça e Pedro Pascal liderando o
+  elenc...
 ---
 
 A CinemaCon 2025 foi palco para a revelação do novo trailer de 'Quarteto Fantástico: Primeiros Passos'. O vídeo inicia com um programa de TV que apresenta os quatro heróis, relembrando ao público suas conhecidas origens. Em seguida, vemos O Coisa demonstrando sua força ao carregar um navio, enquanto a cidade expressa gratidão pelo grupo.

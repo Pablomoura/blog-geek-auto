@@ -1,14 +1,30 @@
 ---
-title: "Karatê Kid Lendas apresenta nova imagem com Jackie Chan e Ralph Macchio"
-slug: "karat-kid-lendas-ganha-nova-imagem-com-jackie-chan-e-ralph-macchio"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/wH7cMcE8hVQaGLTe7xUtjUxx_Is=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-09T213445.035.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/83UR7R1Qq-1CskoQPbbAMcNFX3o=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T213445.035.png"
-tags: ["Karate Kid", "Jackie Chan", "Ralph Macchio", "artes marciais", "filme de ação", "competição de karatê", "kung fu", "crossover de estilos"]
-keywords: "Karate Kid, Jackie Chan, Ralph Macchio, artes marciais, filme de ação, competição de karatê, kung fu, crossover de estilos"
-author: "Pablo Moura"
-data: "2025-04-10T00:49:12.784Z"
+title: Karatê Kid Lendas apresenta nova imagem com Jackie Chan e Ralph Macchio
+slug: karat-kid-lendas-ganha-nova-imagem-com-jackie-chan-e-ralph-macchio
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/wH7cMcE8hVQaGLTe7xUtjUxx_Is=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-09T213445.035.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/83UR7R1Qq-1CskoQPbbAMcNFX3o=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T213445.035.png
+tags:
+  - Karate Kid
+  - Jackie Chan
+  - Ralph Macchio
+  - artes marciais
+  - filme de ação
+  - competição de karatê
+  - kung fu
+  - crossover de estilos
+keywords: >-
+  Karate Kid, Jackie Chan, Ralph Macchio, artes marciais, filme de ação,
+  competição de karatê, kung fu, crossover de estilos
+author: Pablo Moura
+data: '2025-04-10T00:49:12.784Z'
+resumo: >-
+  Em 'Karate Kid: Lendas', Li Fong, um jovem do kung fu, muda-se para Nova York
+  após uma tragédia. Guiado por Daniel LaRusso e Sr. Han, ele enfrenta novos
+  desa...
 ---
 
 No novo filme 'Karate Kid: Lendas', o jovem prodígio do kung fu, Li Fong (interpretado por Ben Wang), enfrenta uma grande mudança em sua vida após uma tragédia familiar. Originário de Pequim, ele é forçado a mudar-se para Nova York com sua mãe, onde tenta adaptar-se a um ambiente completamente novo. Apesar de seu desejo de evitar conflitos, Li se vê constantemente envolvido em problemas. Sua habilidade em artes marciais acaba sendo necessária quando um amigo precisa de ajuda, levando-o a participar de uma competição de karatê.

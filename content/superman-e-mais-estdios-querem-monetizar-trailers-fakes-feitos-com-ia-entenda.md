@@ -19,6 +19,10 @@ tags:
   - trailers falsos
   - especial-Superman
 author: Ana Luiza
+resumo: >-
+  Trailers de IA para filmes populares geram polêmica e debate ético. Estúdios
+  buscam monetizar visualizações, enquanto atores questionam uso não autorizado
+  de...
 ---
 
 Os trailers criados por inteligência artificial (IA) para grandes filmes têm se popularizado na internet. Diante disso, estúdios de cinema estão explorando formas de monetizar essas falsificações. Conforme reportado pelo Deadline, a ideia seria aproveitar a monetização das visualizações e propagandas em vez de solicitar a remoção dos vídeos por violação de direitos autorais. Representantes de grandes estúdios, incluindo Sony Pictures, Warner Bros, Paramount Pictures e Disney, optaram por não comentar sobre o assunto.

@@ -21,6 +21,9 @@ keywords: >-
   Rodrigo Dourado, votação online
 data: '2025-04-09T03:27:59.380Z'
 author: Pablo Moura
+resumo: >-
+  No BBB 25, Vitória Strada desponta como favorita ao prêmio de R$ 2,63 milhões,
+  com 36,76% dos votos. João Gabriel foi eliminado, restando nove na disputa.
 ---
 
 Após a recente eliminação de João Gabriel no 15º Paredão do BBB 25, o programa revela que há um competidor que se destaca como o favorito para ganhar. Com nove participantes ainda na disputa pelo prêmio de R$ 2,63 milhões, Vitória Strada surge como a favorita pelo público pela terceira semana consecutiva, de acordo com uma enquete realizada pelo UOL, obtendo 36,76% dos votos.

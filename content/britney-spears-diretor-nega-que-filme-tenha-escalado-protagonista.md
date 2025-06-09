@@ -18,6 +18,10 @@ tags:
   - rumores
   - ariana grande
 author: Pablo Moura
+resumo: >-
+  Jon M. Chu nega rumores sobre o elenco da cinebiografia de Britney Spears.
+  Diretor afirma que ainda não houve discussões sobre casting. Filme baseado em
+  'A M...
 ---
 
 Jon M. Chu, diretor conhecido por seu trabalho em 'Wicked', desmentiu recentemente os rumores sobre a escalação do elenco para a cinebiografia de Britney Spears. Em resposta a um usuário no X (anteriormente Twitter), Chu afirmou que não procedem as especulações envolvendo Ariana Grande, Sabrina Carpenter e Millie Bobby Brown para o papel principal. 'Nada disso é verdade. Ainda não tivemos nenhuma conversa sobre o casting desse filme. Estamos muito no início do desenvolvimento', explicou o diretor.

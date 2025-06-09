@@ -20,6 +20,10 @@ keywords: >-
   Black, Jason Momoa, sucesso de bilheteria, Jared Hess
 data: '2025-04-06T16:10:50.857Z'
 author: Luana Souza
+resumo: >-
+  Um Filme Minecraft' quebra recordes com US$ 301 milhões globais na estreia,
+  superando 'Super Mario Bros.' e se tornando a maior adaptação de videogame nos
+  EUA.
 ---
 
 A adaptação cinematográfica 'Um Filme Minecraft' alcançou um sucesso estrondoso em sua estreia, arrecadando US$ 301 milhões globalmente. Nos Estados Unidos, o filme gerou US$ 157 milhões, estabelecendo um novo recorde para a maior estreia de uma adaptação de videogame no país, superando os US$ 146 milhões alcançados por 'Super Mario Bros. - O Filme' em 2023.

@@ -17,6 +17,10 @@ tags:
   - lançamento de episódio
   - especial-Solo Leveling
 author: Luana Souza
+resumo: >-
+  O aguardado final da 2ª temporada de Solo Leveling chega neste sábado, 29, às
+  14h30. Fãs organizam watch parties e o bar Jardim 125, no Rio, transmitirá ao
+  v...
 ---
 
 O aguardado final da segunda temporada de Solo Leveling, um dos animes de maior sucesso no Crunchyroll, será lançado neste sábado, dia 29, às 14h30, horário de Brasília. 

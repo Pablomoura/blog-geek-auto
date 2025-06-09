@@ -1,14 +1,32 @@
 ---
-title: "Festival de Cannes terá O Agente Secreto de Kleber Mendonça Filho e Wagner Moura"
-slug: "festival-de-cannes-ter-o-agente-secreto-de-kleber-mendona-filho-e-wagner-moura"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/NjNfk-4M_IafppczX2mnncFAVb0=/987x0/smart/uploads/conteudo/fotos/o-agente-secreto-wagner-moura.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/HPH8R4JqfkUj1qTb9m8xNLg2I_8=/480x360/smart/extras/conteudos/o-agente-secreto-cannes.jpg"
-tags: ["Festival de Cannes", "Kleber Mendonça Filho", "Wagner Moura", "cinema brasileiro", "filme de suspense", "O Agente Secreto", "Palma de Ouro", "cinema histórico"]
-keywords: "Festival de Cannes, Kleber Mendonça Filho, Wagner Moura, cinema brasileiro, filme de suspense, O Agente Secreto, Palma de Ouro, cinema histórico"
-author: "Luana Souza"
-data: "2025-04-10T10:11:29.429Z"
+title: >-
+  Festival de Cannes terá O Agente Secreto de Kleber Mendonça Filho e Wagner
+  Moura
+slug: festival-de-cannes-ter-o-agente-secreto-de-kleber-mendona-filho-e-wagner-moura
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/NjNfk-4M_IafppczX2mnncFAVb0=/987x0/smart/uploads/conteudo/fotos/o-agente-secreto-wagner-moura.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/HPH8R4JqfkUj1qTb9m8xNLg2I_8=/480x360/smart/extras/conteudos/o-agente-secreto-cannes.jpg
+tags:
+  - Festival de Cannes
+  - Kleber Mendonça Filho
+  - Wagner Moura
+  - cinema brasileiro
+  - filme de suspense
+  - O Agente Secreto
+  - Palma de Ouro
+  - cinema histórico
+keywords: >-
+  Festival de Cannes, Kleber Mendonça Filho, Wagner Moura, cinema brasileiro,
+  filme de suspense, O Agente Secreto, Palma de Ouro, cinema histórico
+author: Luana Souza
+data: '2025-04-10T10:11:29.429Z'
+resumo: >-
+  Kleber Mendonça Filho retorna a Cannes com "O Agente Secreto", estrelado por
+  Wagner Moura. O suspense ambientado no Recife dos anos 70 disputa a Palma de
+  Ouro.
 ---
 
 O cineasta pernambucano Kleber Mendonça Filho retorna à prestigiada Croisette com seu mais recente trabalho, O Agente Secreto, protagonizado por Wagner Moura, conhecido por seu papel em Guerra Civil. O filme foi escolhido para competir na mostra competitiva do Festival de Cannes 2025, onde concorrerá à Palma de Ouro.

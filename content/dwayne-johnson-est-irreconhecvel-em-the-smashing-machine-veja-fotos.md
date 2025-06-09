@@ -1,14 +1,30 @@
 ---
-title: "Dwayne Johnson está irreconhecível em The Smashing Machine; veja fotos"
-slug: "dwayne-johnson-est-irreconhecvel-em-the-smashing-machine-veja-fotos"
-categoria: "FILMES"
-midia: "https://cdn.ome.lt/b2kf53pPb1jg2mzJpcb5ti6sat8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-09T214729.608.png"
-tipoMidia: "imagem"
-thumb: "https://cdn.ome.lt/QVO7XADtqsjUZeVPvWJQsz_OVD4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T214729.608.png"
-tags: ["Dwayne Johnson", "The Smashing Machine", "transformação física", "Mark Kerr", "MMA", "Benny Safdie", "filme de luta", "estreia no cinema"]
-keywords: "Dwayne Johnson, The Smashing Machine, transformação física, Mark Kerr, MMA, Benny Safdie, filme de luta, estreia no cinema"
-author: "Ana Luiza"
-data: "2025-04-10T13:23:57.353Z"
+title: Dwayne Johnson está irreconhecível em The Smashing Machine; veja fotos
+slug: dwayne-johnson-est-irreconhecvel-em-the-smashing-machine-veja-fotos
+categoria: FILMES
+midia: >-
+  https://cdn.ome.lt/b2kf53pPb1jg2mzJpcb5ti6sat8=/987x0/smart/uploads/conteudo/fotos/Design_sem_nome_-_2025-04-09T214729.608.png
+tipoMidia: imagem
+thumb: >-
+  https://cdn.ome.lt/QVO7XADtqsjUZeVPvWJQsz_OVD4=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-04-09T214729.608.png
+tags:
+  - Dwayne Johnson
+  - The Smashing Machine
+  - transformação física
+  - Mark Kerr
+  - MMA
+  - Benny Safdie
+  - filme de luta
+  - estreia no cinema
+keywords: >-
+  Dwayne Johnson, The Smashing Machine, transformação física, Mark Kerr, MMA,
+  Benny Safdie, filme de luta, estreia no cinema
+author: Ana Luiza
+data: '2025-04-10T13:23:57.353Z'
+resumo: >-
+  Imagens inéditas de 'The Smashing Machine' destacam Dwayne Johnson
+  irreconhecível como Mark Kerr. Dirigido por Benny Safdie, o filme explora a
+  vida do lutador.
 ---
 
 Foram divulgadas novas imagens de 'The Smashing Machine', filme que conta com a participação de Dwayne Johnson, mais conhecido como The Rock, sob a direção de Benny Safdie, de 'Jóias Brutas'. As fotos, reveladas nesta quinta-feira (9), destacam a impressionante transformação física de Johnson para encarnar Mark Kerr, famoso lutador de MMA que serve de inspiração para o enredo.
