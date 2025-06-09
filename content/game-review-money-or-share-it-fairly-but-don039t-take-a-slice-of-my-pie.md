@@ -1,14 +1,34 @@
 ---
-title: "Revisão do Jogo: Money! de Reiner Knizia Renova a Arte de Tratar Moedas"
-slug: "game-review-money-or-share-it-fairly-but-don039t-take-a-slice-of-my-pie"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/spgIw75EFPR1TViSoe0Sgg__imagepage/img/vDR53EX3l0pd0Nsq7L2PTzYQxlc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8469504.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/spgIw75EFPR1TViSoe0Sgg__imagepage/img/vDR53EX3l0pd0Nsq7L2PTzYQxlc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8469504.jpg"
-tags: ["Money!", "Reiner Knizia", "jogo de cartas", "estratégia", "board game", "Allplay", "2025", "mecânicas de jogo", "mercado", "moedas", "revisão"]
-keywords: "Money!, Reiner Knizia, jogo de cartas, estratégia, board game, Allplay, 2025, mecânicas de jogo, mercado, moedas, revisão"
-author: "Luana Souza"
-data: "2025-06-09T06:30:08.018Z"
+title: 'Revisão do Jogo: Money! de Reiner Knizia Renova a Arte de Tratar Moedas'
+slug: game-review-money-or-share-it-fairly-but-don039t-take-a-slice-of-my-pie
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/spgIw75EFPR1TViSoe0Sgg__imagepage/img/vDR53EX3l0pd0Nsq7L2PTzYQxlc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8469504.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/spgIw75EFPR1TViSoe0Sgg__imagepage/img/vDR53EX3l0pd0Nsq7L2PTzYQxlc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8469504.jpg
+tags:
+  - Money!
+  - Reiner Knizia
+  - jogo de cartas
+  - estratégia
+  - board game
+  - Allplay
+  - '2025'
+  - mecânicas de jogo
+  - mercado
+  - moedas
+  - revisão
+keywords: >-
+  Money!, Reiner Knizia, jogo de cartas, estratégia, board game, Allplay, 2025,
+  mecânicas de jogo, mercado, moedas, revisão
+author: Luana Souza
+data: '2025-06-09T06:30:08.018Z'
+resumo: >-
+  Money! de Reiner Knizia desafia jogadores a gerenciar moedas em um jogo de
+  cartas estratégico e competitivo. Descubra como maximizar suas chances de
+  vitória enquanto enfrenta a complexidade do mercado e a imprevisibilidade dos
+  oponentes.
 ---
 
 ## Money! de Reiner Knizia: Uma Análise Detalhada
