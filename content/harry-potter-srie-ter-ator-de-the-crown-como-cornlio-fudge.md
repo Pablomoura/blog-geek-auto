@@ -2,7 +2,7 @@
 title: Série de Harry Potter na HBO Escala Ator de The Crown para Papel Importante
 slug: harry-potter-srie-ter-ator-de-the-crown-como-cornlio-fudge
 categoria: SÉRIES E TV
-midia: /uploads/harry-potter-srie-ter-ator-de-the-crown-como-cornlio-fudge-thumb.png
+midia: https://cdn.ome.lt/Rmtb0GF8ImtrTSKGyt_-kzokv78=/987x0/smart/uploads/conteudo/fotos/Screenshot_2025-06-08_at_18.23.01.png
 tipoMidia: imagem
 thumb: /uploads/harry-potter-srie-ter-ator-de-the-crown-como-cornlio-fudge-thumb.png
 tags:
