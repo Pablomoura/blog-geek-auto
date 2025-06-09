@@ -16,6 +16,7 @@ tags:
   - dublado
   - assistir anime
   - especial-Solo Leveling
+  - evergreen
 keywords: >-
   solo leveling 1 temporada, solo leveling quantos episódios, onde assistir solo leveling dublado, solo leveling online
 author: Pablo Moura

@@ -15,6 +15,7 @@ tags:
   - jogos de aventura
   - criação de personagens
   - dicas de rpg
+  - evergreen
 author: Ana Luiza
 resumo: >-
   Descubra o fascinante mundo do RPG de mesa, onde a imaginação ganha vida

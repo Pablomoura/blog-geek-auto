@@ -18,6 +18,7 @@ tags:
   - isekai
   - shounen
   - seinen
+  - evergreen
 keywords: >-
   guia de gêneros de anime, gêneros de anime qual escolher, gêneros de animes e seus significados, gêneros de anime significado, tipos de anime isekai, tipos de animes seinen, tipos de anime shounen
 author: Pablo Moura

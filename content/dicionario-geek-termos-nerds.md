@@ -16,6 +16,7 @@ tags:
   - glossário nerd
   - fandom
   - linguagem geek
+  - evergreen
 author: Ana Luiza
 resumo: >-
   Descubra 50 termos essenciais do universo geek, de "canon" a "shippam". Ideal

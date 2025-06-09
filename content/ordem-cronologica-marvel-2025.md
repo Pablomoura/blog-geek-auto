@@ -21,6 +21,8 @@ tags:
   - cronologia marvel
   - thunderbolts
   - secret wars
+  - vingadore doonsday
+  - evergreen
 keywords: >-
   ordem cronológica marvel, lançamentos marvel 2025, filmes marvel por ordem,
   novas séries marvel, calendário marvel fase 6, thunderbolts, fantastic four

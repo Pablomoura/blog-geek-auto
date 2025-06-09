@@ -18,6 +18,7 @@ tags:
   - jogos de rpg
   - rpg android
   - rpg pc fraco
+  - evergreen
 keywords: >-
   melhores jogos de rpg, melhores jogos de RPG para celular, melhores jogos de RPG para PC, jogos de RPG para PC grátis, jogos RPG para Android, melhores RPG para Android, jogos RPG para PC fraco, melhores RPG para PC grátis
 author: Pablo Moura

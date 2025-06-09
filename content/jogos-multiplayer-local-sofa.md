@@ -13,6 +13,7 @@ tags:
   - jogos com amigos
   - switch multiplayer
   - pc co-op offline
+  - evergreen
 keywords: "jogos multiplayer local, couch co-op switch, melhores jogos para jogar com amigos, jogos de sofá 2025"
 author: Pablo Moura
 ---

@@ -11,6 +11,7 @@ tags:
   - como criar servidor Minecraft
   - TLauncher
   - Minecraft PE
+  - evergreen
 keywords: 'criar servidor Minecraft de graça, servidor Minecraft grátis, como criar servidor Minecraft, TLauncher, Minecraft PE'
 resumo: "Aprenda como criar servidor Minecraft de graça no PC, celular e com mods em 2025. Passo a passo atualizado para todas as versões."
 author: "Pablo Moura"

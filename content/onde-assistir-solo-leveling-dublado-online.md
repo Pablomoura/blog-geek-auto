@@ -15,6 +15,7 @@ tags:
   - onde assistir
   - solo leveling 2025
   - especial-Solo Leveling
+  - evergreen
 keywords: >-
   solo leveling dublado, onde assistir solo leveling dublado, solo leveling anime dublado, solo leveling crunchyroll
 author: Pablo Moura

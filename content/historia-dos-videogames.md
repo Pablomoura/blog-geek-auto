@@ -17,6 +17,7 @@ tags:
   - cultura pop
   - evolução dos jogos
   - inovações em videogames
+  - evergreen
 author: Luana Souza
 resumo: >-
   Descubra como os videogames evoluíram de simples pixels para experiências imersivas que moldam a cultura pop mundial.

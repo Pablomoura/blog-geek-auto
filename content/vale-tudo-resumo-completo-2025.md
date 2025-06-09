@@ -20,6 +20,7 @@ tags:
   - remake vale tudo
   - odete roitman
   - séries e tv
+  - evergreen
 keywords: >-
   resumo vale tudo, remake vale tudo 2025, quem matou odete roitman, novela
   globo clássica, vale tudo 1988, personagens vale tudo
