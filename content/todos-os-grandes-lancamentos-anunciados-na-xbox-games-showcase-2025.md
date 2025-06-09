@@ -20,6 +20,7 @@ tags:
   - 'Bethesda'
   - 'Square Enix'
   - 'Starfield The Frontier'
+  - especial-Xbox Games Showcase
 keywords: >-
   Xbox Games Showcase 2025, Microsoft, lançamentos Xbox, Halo Infinite Reborn, Forza Motorsport 9, Fable New Dawn, Xbox Series X, Xbox Game Pass, Bethesda, Square Enix, Starfield The Frontier
 author: Ana Luiza

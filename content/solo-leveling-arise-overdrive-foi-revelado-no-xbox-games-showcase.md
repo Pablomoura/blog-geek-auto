@@ -19,6 +19,8 @@ tags:
   - Crunchyroll
   - Panini
   - 2025 jogos
+  - especial-Xbox Games Showcase
+  - especial-Solo Leveling
 keywords: >-
   Solo Leveling, Arise Overdrive, Xbox Games Showcase, Netmarble, RPG de ação,
   Sung Jinwoo, Xbox Series X/S, Xbox Cloud, Chugong, Crunchyroll, Panini, 2025

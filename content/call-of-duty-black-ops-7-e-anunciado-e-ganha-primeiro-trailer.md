@@ -19,6 +19,7 @@ tags:
   - 'tecnologias avanadas'
   - 'Game Pass'
   - 'plataformas'
+  - especial-Xbox Games Showcase
 keywords: >-
   Call of Duty Black Ops 7, Xbox Showcase 2025, videogame, trailer, lançamento, David Mason, guerra psicológica, tecnologias avançadas, Game Pass, plataformas
 author: Pablo Moura

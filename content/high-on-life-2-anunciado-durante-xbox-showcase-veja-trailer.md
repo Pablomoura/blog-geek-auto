@@ -13,6 +13,7 @@ tags:
   - lançamento 2025
   - trailer High on Life 2
   - jogo intergaláctico
+  - especial-Xbox Games Showcase
 keywords: >-
   High on Life 2, Xbox Showcase, Xbox Series X, Xbox Series S, lançamento 2025,
   trailer High on Life 2, jogo intergaláctico

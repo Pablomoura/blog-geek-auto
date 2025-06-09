@@ -18,6 +18,7 @@ tags:
   - 'Diretoria da Terra'
   - 'trailer oficial'
   - 'data de lanamento'
+  - especial-Xbox Games Showcase
 keywords: >-
   The Outer Worlds 2, lançamento, Xbox Showcase 2025, Obsidian Entertainment, RPG de ficção científica, Arcádia, Diretoria da Terra, trailer oficial, data de lançamento
 author: Luana Souza

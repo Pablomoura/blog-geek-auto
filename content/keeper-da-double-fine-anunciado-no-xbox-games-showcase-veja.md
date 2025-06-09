@@ -14,6 +14,7 @@ tags:
   - '2025'
   - jogo de aventura
   - narrativa sem palavras
+  - especial-Xbox Games Showcase
 keywords: >-
   Keeper, Double Fine, Xbox Games Showcase, Xbox Series X/S, PC, 2025, jogo de
   aventura, narrativa sem palavras

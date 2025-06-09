@@ -18,6 +18,7 @@ tags:
   - 'Avalon'
   - 'Lady Ironwood'
   - 'viagem no tempo'
+  - especial-Xbox Games Showcase
 keywords: >-
   Clockwork Revolution, Xbox Showcase 2025, jogo steampunk, trailer lançamento, Microsoft, BioShock Infinite comparações, Avalon, Lady Ironwood, viagem no tempo
 author: Pablo Moura

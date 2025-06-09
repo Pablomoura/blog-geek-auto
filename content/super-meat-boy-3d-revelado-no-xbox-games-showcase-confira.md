@@ -18,6 +18,7 @@ tags:
   - Bandage Girl
   - Dr. Fetus
   - jogos indie
+  - especial-Xbox Games Showcase
 keywords: >-
   Super Meat Boy 3D, Xbox Games Showcase, Xbox Series X/S, PC, Xbox Cloud, Xbox
   Game Pass, Super Meat Boy Forever, Dr. Fetus’ Mean Meat Machine, Meat Boy,

@@ -17,6 +17,7 @@ tags:
   - 'AMD Ryzen'
   - 'Game Pass'
   - 'Microsoft'
+  - especial-Xbox Games Showcase
 keywords: >-
   Xbox ROG Ally, Xbox Showcase 2025, jogos portáteis, Windows 11, ASUS, AMD Ryzen, Game Pass, Microsoft
 author: Luana Souza

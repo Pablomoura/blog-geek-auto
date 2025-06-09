@@ -17,6 +17,7 @@ tags:
   - ficção científica
   - Polônia pós-apocalíptica
   - trailer de gameplay
+  - especial-Xbox Games Showcase
 keywords: >-
   Cronos: The New Dawn, Xbox Showcase 2025, Bloober Team, Blair Witch, Silent
   Hill 2 Remake, jogo de terror, sobrevivência, ficção científica, Polônia

@@ -18,6 +18,7 @@ tags:
   - Indiana Jones
   - Call of Duty
   - Black Ops
+  - especial-Xbox Games Showcase
 keywords: >-
   Xbox Games Showcase 2025, The Outer Worlds 2, Microsoft, Doom: The Dark Ages,
   Gears of War, Perfect Dark, Senua's Saga: Hellblade 2, Indiana Jones, Call of

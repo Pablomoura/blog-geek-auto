@@ -18,6 +18,7 @@ tags:
   - 'jogos'
   - 'evento'
   - 'videogames'
+  - especial-Xbox Games Showcase
 keywords: >-
   IO Interactive, 007: First Light, IOI Showcase, Summer Game Fest, Hitman, MindsEye, jogos, evento, videogames
 author: Pablo Moura

@@ -18,6 +18,7 @@ tags:
   - temporada 4
   - Ballerina
   - John Wick
+  - especial-Xbox Games Showcase
 keywords: >-
   Call of Duty, Black Ops 7, Warzone, mapa Avalon, Treyarch, Zombies, Xbox Games
   Showcase, temporada 4, Ballerina, John Wick

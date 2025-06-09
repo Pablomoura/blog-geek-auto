@@ -18,6 +18,7 @@ tags:
   - Halo Studios
   - 'Call of Duty: Black Ops 7'
   - The Outer Worlds 2
+  - especial-Xbox Games Showcase
 keywords: >-
   Xbox, Halo, Gears of War, Fable, Forza, Phil Spencer, Microsoft Gaming, 25º
   aniversário do Xbox, Unreal Engine, Halo Studios, Call of Duty: Black Ops 7,

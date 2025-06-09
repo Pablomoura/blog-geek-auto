@@ -20,6 +20,7 @@ tags:
   - 'Sophia'
   - 'Escorpio-do-Mar'
   - 'A Plague Tale Requiem'
+  - especial-Xbox Games Showcase
 keywords: >-
   Resonance: A Plague Tale Legacy, Xbox Showcase 2025, Asobo Studio, lançamento 2026, Xbox Series X|S, PlayStation 5, PC, Xbox Game Pass, Sophia, Escorpião-do-Mar, A Plague Tale: Requiem
 author: Luana Souza

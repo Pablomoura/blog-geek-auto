@@ -16,6 +16,7 @@ tags:
   - PlayStation 5
   - gameplay
   - The Game Awards
+  - especial-Xbox Games Showcase
 keywords: >-
   Xbox Games Showcase, The Outer Worlds 2, Obsidian Entertainment, RPG, Xbox
   Series X, PlayStation 5, gameplay, The Game Awards

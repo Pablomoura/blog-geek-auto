@@ -25,6 +25,7 @@ tags:
   - 'Spyro 4'
   - 'Persona 4 Remake'
   - 'Final Fantasy'
+  - especial-Xbox Games Showcase
 keywords: >-
   Xbox Games Showcase 2025, The Outer Worlds 2, Microsoft, eventos de jogos, transmissões ao vivo, novidades de games, Gears of War, Fable, Perfect Dark, State of Decay 3, Tony Hawk's Pro Skater, Starfield, PlayStation 5, Spyro 4, Persona 4 Remake, Final Fantasy
 author: Ana Luiza

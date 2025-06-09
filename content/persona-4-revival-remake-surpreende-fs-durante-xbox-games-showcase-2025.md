@@ -17,6 +17,7 @@ tags:
   - Yuri Lowenthal
   - Persona 4 Golden
   - Summer Game Fest 2025
+  - especial-Xbox Games Showcase
 keywords: >-
   Persona 4 Revival, Xbox Games Showcase 2025, RPG, Atlus, remake, Inaba, Yuri
   Lowenthal, Persona 4 Golden, Summer Game Fest 2025

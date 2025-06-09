@@ -19,6 +19,7 @@ tags:
   - 'Xbox Series XS'
   - 'PC'
   - 'Xbox Cloud Gaming'
+  - especial-Xbox Games Showcase
 keywords: >-
   Invincible VS, Xbox Showcase 2025, jogo de luta 3v3, Invencível, Skybound, Quarter Up, lançamento 2026, Xbox Series X|S, PC, Xbox Cloud Gaming
 author: Luana Souza

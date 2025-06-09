@@ -16,6 +16,7 @@ tags:
   - lançamento consecutivo
   - GTA 6
   - Xbox Games Showcase 2025
+  - especial-Xbox Games Showcase
 keywords: >-
   Call of Duty, Black Ops 7, Activision, lançamento consecutivo, GTA 6, Xbox
   Games Showcase 2025
