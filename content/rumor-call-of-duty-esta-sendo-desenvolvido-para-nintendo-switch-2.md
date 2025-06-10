@@ -16,6 +16,7 @@ tags:
   - 'Nintendo'
   - 'Microsoft'
   - 'lanamento de jogos'
+  - especial-Nintendo Switch 2
 keywords: >-
   Call of Duty, Nintendo Switch 2, Black Ops 7, jogos em nuvem, Nintendo, Microsoft, lançamento de jogos
 author: Luana Souza

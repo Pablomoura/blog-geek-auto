@@ -17,7 +17,6 @@ tags:
   - Ellie
   - adaptação de jogo
   - diferenças série e jogo
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, jogo The Last of Us, série The Last of Us, HBO, Ellie,
   adaptação de jogo, diferenças série e jogo

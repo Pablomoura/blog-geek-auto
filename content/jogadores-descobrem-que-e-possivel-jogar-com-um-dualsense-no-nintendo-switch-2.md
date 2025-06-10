@@ -15,6 +15,7 @@ tags:
   - 'GamesRadar'
   - 'MayFlash Wii U GameCube Controller Adapter'
   - '8bitDo Bluetooth Retro Receiver'
+  - especial-Nintendo Switch 2
 keywords: >-
   DualSense, Nintendo Switch 2, compatibilidade de controle, GamesRadar, MayFlash Wii U GameCube Controller Adapter, 8bitDo Bluetooth Retro Receiver
 author: Ana Luiza

@@ -18,7 +18,6 @@ tags:
   - Craig Mazin
   - Neil Druckmann
   - Naughty Dog
-  - especial-The Last of Us
 keywords: >-
   Pedro Pascal, The Last of Us, Emmy 2025, HBO, série, ator principal, indicação
   Emmy, Craig Mazin, Neil Druckmann, Naughty Dog

@@ -11,6 +11,7 @@ tags:
   - aplicativos para Nintendo Switch 2
   - novidades Switch 2
   - compatibilidade Switch 2
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, YouTube no Switch 2, aplicativos para Nintendo Switch 2,
   novidades Switch 2, compatibilidade Switch 2

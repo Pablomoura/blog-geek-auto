@@ -15,7 +15,6 @@ tags:
   - Ellie
   - Joel
   - estreia episódio
-  - especial-The Last of Us
 keywords: 'The Last of Us, segunda temporada, HBO, Max, Ellie, Joel, estreia episódio'
 author: Pablo Moura
 data: '2025-04-20T12:32:45.009Z'

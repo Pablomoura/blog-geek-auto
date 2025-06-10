@@ -16,7 +16,6 @@ tags:
   - Craig Mazin
   - Neil Druckmann
   - Naughty Dog
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, esporos, segunda temporada, Pedro Pascal, Bella Ramsey,
   Craig Mazin, Neil Druckmann, Naughty Dog

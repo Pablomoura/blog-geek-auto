@@ -17,7 +17,6 @@ tags:
   - Max
   - Naughty Dog
   - diferenças jogo e série
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, série The Last of Us, jogo The Last of Us, adaptação de jogos,
   HBO, Max, Naughty Dog, diferenças jogo e série

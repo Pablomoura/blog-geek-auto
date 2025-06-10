@@ -19,6 +19,7 @@ tags:
   - 'David Corenswet'
   - 'Warner Bros'
   - 'estreia no Brasil'
+  - especial-Superman
 keywords: >-
   Superman 2025, DC Studios, James Gunn, pré-venda de ingressos, Fandango fora do ar, bilheteria de 2025, lançamento de filmes, David Corenswet, Warner Bros, estreia no Brasil
 author: Luana Souza

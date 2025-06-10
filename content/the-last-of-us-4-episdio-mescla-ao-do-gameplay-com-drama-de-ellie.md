@@ -17,7 +17,6 @@ tags:
   - Isaac
   - segunda temporada
   - adaptação de jogo
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, Ellie, Dina, Abby, Isaac, segunda temporada, adaptação de
   jogo

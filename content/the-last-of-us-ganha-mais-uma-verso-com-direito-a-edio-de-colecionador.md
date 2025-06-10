@@ -16,7 +16,6 @@ tags:
   - Naughty Dog
   - Pedro Pascal
   - Bella Ramsey
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, PlayStation 5, edição de colecionador, série televisiva, Neil
   Druckmann, Naughty Dog, Pedro Pascal, Bella Ramsey

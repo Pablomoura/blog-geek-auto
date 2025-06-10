@@ -13,7 +13,6 @@ tags:
   - HBO Max
   - séries de TV
   - adaptações de jogos
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, Kaitlyn Dever, terceira temporada, HBO Max, séries de TV,
   adaptações de jogos

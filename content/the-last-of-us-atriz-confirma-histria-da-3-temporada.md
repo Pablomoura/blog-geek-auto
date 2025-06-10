@@ -13,7 +13,6 @@ tags:
   - série
   - próxima temporada
   - estreia
-  - especial-The Last of Us
 keywords: 'The Last of Us, terceira temporada, série, próxima temporada, estreia'
 author: Ana Luiza
 data: '2025-05-21T14:20:53.405Z'

@@ -21,6 +21,7 @@ tags:
   - Natal 2025
   - Donald Trump
   - tarifas do Vietnã
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, Doug Bowser, disponibilização de consoles, tarifas, preços,
   produção nos EUA, GameSpot, Natal 2025, Donald Trump, tarifas do Vietnã

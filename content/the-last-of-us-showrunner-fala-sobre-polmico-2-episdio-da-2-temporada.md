@@ -19,7 +19,6 @@ tags:
   - Naughty Dog
   - série de TV
   - adaptação de videogame
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, Craig Mazin, HBO, Abby, Joel, segunda temporada, Naughty Dog,
   série de TV, adaptação de videogame

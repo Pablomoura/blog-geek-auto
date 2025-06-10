@@ -18,7 +18,6 @@ tags:
   - Oberyn Martell
   - morte em série
   - segunda temporada The Last of Us
-  - especial-The Last of Us
 keywords: >-
   Pedro Pascal, The Last of Us, Game of Thrones, HBO, Joel Miller, Oberyn
   Martell, morte em série, segunda temporada The Last of Us

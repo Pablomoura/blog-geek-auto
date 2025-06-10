@@ -14,6 +14,7 @@ tags:
   - 'app do YouTube'
   - 'Google e Nintendo'
   - 'lanamento do YouTube'
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, YouTube no Switch 2, app do YouTube, Google e Nintendo, lançamento do YouTube
 author: Ana Luiza

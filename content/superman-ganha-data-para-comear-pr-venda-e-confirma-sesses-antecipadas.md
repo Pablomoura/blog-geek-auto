@@ -25,6 +25,7 @@ tags:
   - Supergirl
   - HBO Max
   - DC Comics
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DCU, Warner Bros., David Corenswet, Rachel Brosnahan,
   Nicholas Hoult, pré-venda, sessões antecipadas, 2025, filme Superman,

@@ -15,7 +15,6 @@ tags:
   - Ellie
   - Joel
   - adaptação
-  - especial-The Last of Us
 keywords: 'The Last of Us, segunda temporada, HBO, Max, estreia, Ellie, Joel, adaptação'
 author: Luana Souza
 data: '2025-04-13T16:19:16.900Z'

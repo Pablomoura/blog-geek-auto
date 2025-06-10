@@ -18,6 +18,7 @@ tags:
   - 'Nintendo'
   - 'console'
   - 'lanamento'
+  - especial-Nintendo Switch 2
 keywords: >-
   Brie Larson, Nintendo Switch 2, unboxing, Samus Aran, Metroid, videogames, Nintendo, console, lançamento
 author: Ana Luiza

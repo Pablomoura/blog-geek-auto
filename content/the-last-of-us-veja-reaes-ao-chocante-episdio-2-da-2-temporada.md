@@ -16,7 +16,6 @@ tags:
   - Craig Mazin
   - adaptação de jogo
   - série de TV
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, segunda temporada, Abby, Kaitlyn Dever, Neil Druckmann,
   Craig Mazin, adaptação de jogo, série de TV

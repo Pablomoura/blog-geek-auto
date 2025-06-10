@@ -19,6 +19,7 @@ tags:
   - lançamento
   - filme
   - '2025'
+  - especial-Superman
 keywords: >-
   Superman, pré-venda, Fandango, James Gunn, David Corenswet, Rachel Brosnahan,
   Nicholas Hoult, DCU, lançamento, filme, 2025

@@ -16,7 +16,6 @@ tags:
   - adaptação televisiva
   - série
   - Joel e Ellie
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO Max, Neil Druckmann, adaptação televisiva, série, Joel e
   Ellie

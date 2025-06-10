@@ -15,6 +15,7 @@ tags:
   - console Nintendo
   - HDR em jogos
   - Nintendo 2025
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, HDR oculto, configuração de HDR, ajuste de brilho, console
   Nintendo, HDR em jogos, Nintendo 2025

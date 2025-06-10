@@ -15,7 +15,6 @@ tags:
   - série
   - segunda temporada
   - episódio quatro
-  - especial-The Last of Us
 keywords: 'The Last of Us, HBO, Bella Ramsey, série, segunda temporada, episódio quatro'
 author: Luana Souza
 data: '2025-05-04T12:34:31.857Z'

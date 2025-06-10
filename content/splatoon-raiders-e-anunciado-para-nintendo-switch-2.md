@@ -18,6 +18,7 @@ tags:
   - 'exclusividade'
   - 'trailer'
   - 'Nintendo'
+  - especial-Nintendo Switch 2
 keywords: >-
   Splatoon Raiders, Nintendo Switch 2, Splatoon 3, lançamento, jogos, atualização, exclusividade, trailer, Nintendo
 author: Luana Souza

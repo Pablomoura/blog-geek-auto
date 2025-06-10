@@ -19,6 +19,7 @@ tags:
   - Pro Controller
   - adaptadores USB
   - personalização de controladores
+  - especial-Nintendo Switch 2
 keywords: >-
   8BitDo, Nintendo Switch 2, controladores compatíveis, atualização de firmware,
   Ultimate 2 Bluetooth, Pro Controller, adaptadores USB, personalização de

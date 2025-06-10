@@ -20,7 +20,6 @@ tags:
   - Craig Mazin
   - luto
   - performance emocional
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, Kaitlyn Dever, Abby, Joel, série, drama, Neil Druckmann,
   Craig Mazin, luto, performance emocional

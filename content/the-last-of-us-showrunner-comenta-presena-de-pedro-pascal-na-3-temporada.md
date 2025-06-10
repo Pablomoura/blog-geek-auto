@@ -15,7 +15,6 @@ tags:
   - série
   - temporada
   - flashbacks
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, Pedro Pascal, Neil Druckmann, HBO, série, temporada,
   flashbacks

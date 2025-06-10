@@ -15,7 +15,6 @@ tags:
   - filmes de suspense
   - tecnologia distópica
   - pós-apocalíptico
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, Black Mirror, HBO Max, Netflix, estreias de séries, filmes de
   suspense, tecnologia distópica, pós-apocalíptico

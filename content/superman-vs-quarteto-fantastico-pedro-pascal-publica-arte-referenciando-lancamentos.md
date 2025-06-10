@@ -20,6 +20,7 @@ tags:
   - 'Reed Richards'
   - 'super-heris'
   - 'filmes 2025'
+  - especial-Superman
 keywords: >-
   Pedro Pascal, Superman, Quarteto Fantástico, lançamentos de julho, DC Studios, Marvel Studios, pré-venda de ingressos, David Corenswet, Reed Richards, super-heróis, filmes 2025
 author: Ana Luiza

@@ -17,6 +17,7 @@ tags:
   - 'The Elder Scrolls V: Skyrim'
   - The Legend of Zelda
   - Metroid Prime 4
+  - especial-Nintendo Switch 2
 keywords: >-
   Brie Larson, Nintendo Switch 2, unboxing, Mario Kart World, JoyCon magnético,
   Pro Controller, lançamento 2025, Animal Crossing, The Elder Scrolls V: Skyrim,

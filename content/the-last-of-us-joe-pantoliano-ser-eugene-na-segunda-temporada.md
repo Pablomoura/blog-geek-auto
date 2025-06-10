@@ -16,7 +16,6 @@ tags:
   - Neil Druckmann
   - série
   - adaptação
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, segunda temporada, Joe Pantoliano, Eugene, HBO, Neil
   Druckmann, série, adaptação

@@ -12,7 +12,6 @@ tags:
   - trailer
   - HBO
   - novos personagens
-  - especial-The Last of Us
 keywords: 'The Last of Us, segunda temporada, trailer, HBO, novos personagens'
 author: Ana Luiza
 data: '2025-04-14T02:25:28.736Z'

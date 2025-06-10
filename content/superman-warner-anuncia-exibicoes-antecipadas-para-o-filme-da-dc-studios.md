@@ -16,6 +16,7 @@ tags:
   - 'Warner Bros'
   - 'pr-venda ingressos'
   - 'filmes de super-heris'
+  - especial-Superman
 keywords: >-
   Superman 2025, exibições antecipadas, DC Studios, James Gunn, Warner Bros, pré-venda ingressos, filmes de super-heróis
 author: Luana Souza

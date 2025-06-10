@@ -18,7 +18,6 @@ tags:
   - HBO series
   - Craig Mazin
   - Neil Druckmann
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, 3ª temporada The Last of Us, WLF, Serafitas, guerra The Last
   of Us, HBO series, Craig Mazin, Neil Druckmann

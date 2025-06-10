@@ -19,6 +19,7 @@ tags:
   - Ilhas Spirhalite
   - Splatlands Collection
   - Nintendo 2025
+  - especial-Nintendo Switch 2
 keywords: >-
   Splatoon Raiders, Nintendo Switch 2, Deep Cut, Splatoon 3, atualização
   Splatoon 3, Ilhas Spirhalite, Splatlands Collection, Nintendo 2025

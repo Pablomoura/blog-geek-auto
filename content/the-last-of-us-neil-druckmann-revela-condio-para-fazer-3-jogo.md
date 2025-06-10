@@ -16,7 +16,6 @@ tags:
   - qualidade
   - franquia de jogos
   - desenvolvimento de jogos
-  - especial-The Last of Us
 keywords: >-
   Neil Druckmann, The Last of Us Parte III, HBO, qualidade, franquia de jogos,
   desenvolvimento de jogos

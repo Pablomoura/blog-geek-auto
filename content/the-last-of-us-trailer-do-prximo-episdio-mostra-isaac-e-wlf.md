@@ -15,7 +15,6 @@ tags:
   - Craig Mazin
   - Neil Druckmann
   - Naughty Dog
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, Isaac, WLF, segunda temporada, Craig Mazin, Neil
   Druckmann, Naughty Dog

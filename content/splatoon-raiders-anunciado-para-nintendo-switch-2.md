@@ -13,6 +13,7 @@ tags:
   - Splatoon franchise
   - Nintendo
   - game announcement
+  - especial-Nintendo Switch 2
 keywords: >-
   Splatoon Raiders, Nintendo Switch 2, Deep Cut, Splatoon 3, Splatoon franchise,
   Nintendo, game announcement

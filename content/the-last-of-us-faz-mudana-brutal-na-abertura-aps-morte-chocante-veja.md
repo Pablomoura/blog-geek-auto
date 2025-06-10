@@ -20,7 +20,6 @@ tags:
   - Ellie
   - Joel
   - série
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, segunda temporada, abertura, mudança, Pedro Pascal,
   Kaitlyn Dever, Isabela Merced, Young Mazino, Ellie, Joel, série

@@ -21,7 +21,6 @@ tags:
   - Kaitlyn Dever
   - Isabela Merced
   - Jeffrey Wright
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, série, Ellie, Bella Ramsey, segunda temporada, imagens
   novas, Craig Mazin, Neil Druckmann, Naughty Dog, Kaitlyn Dever, Isabela

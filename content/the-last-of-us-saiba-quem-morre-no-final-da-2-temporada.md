@@ -18,7 +18,6 @@ tags:
   - mortes em The Last of Us
   - adaptação de jogo
   - série de videogame
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, segunda temporada, HBO, Ellie, Abby, mortes em The Last of Us,
   adaptação de jogo, série de videogame

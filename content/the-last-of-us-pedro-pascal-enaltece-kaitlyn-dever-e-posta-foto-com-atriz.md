@@ -15,7 +15,6 @@ tags:
   - série
   - segunda temporada
   - novos episódios
-  - especial-The Last of Us
 keywords: >-
   Pedro Pascal, Kaitlyn Dever, The Last of Us, HBO, série, segunda temporada,
   novos episódios

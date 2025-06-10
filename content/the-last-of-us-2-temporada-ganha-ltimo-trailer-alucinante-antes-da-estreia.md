@@ -15,7 +15,6 @@ tags:
   - série
   - Pedro Pascal
   - Bella Ramsey
-  - especial-The Last of Us
 keywords: 'The Last of Us, HBO, trailer, temporada 2, série, Pedro Pascal, Bella Ramsey'
 author: Pablo Moura
 data: '2025-04-13T17:09:06.685Z'

@@ -15,7 +15,6 @@ tags:
   - Craig Mazin
   - série
   - adaptação
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, segunda temporada, bastidores, Neil Druckmann, Craig
   Mazin, série, adaptação

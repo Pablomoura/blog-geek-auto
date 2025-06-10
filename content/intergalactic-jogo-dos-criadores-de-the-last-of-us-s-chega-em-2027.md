@@ -13,7 +13,6 @@ tags:
   - '2027'
   - jason schreier
   - 'the last of us: part ii'
-  - especial-The Last of Us
 author: Ana Luiza
 resumo: >-
   Intergalactic: The Heretic Prophet, novo jogo da Naughty Dog, chega em 2027.

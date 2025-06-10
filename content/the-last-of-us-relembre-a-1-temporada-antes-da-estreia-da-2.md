@@ -16,7 +16,6 @@ tags:
   - adaptação de jogo
   - personagens novos
   - série de TV
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, segunda temporada, Pedro Pascal, Bella Ramsey, adaptação
   de jogo, personagens novos, série de TV

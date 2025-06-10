@@ -19,6 +19,7 @@ tags:
   - 'David Corenswet'
   - 'Rachel Brosnaham'
   - 'Lex Luthor'
+  - especial-Superman
 keywords: >-
   Superman 2025, James Gunn, DC Studios, vilões Superman, Planeta Diário, Gangue da Justiça, pré-venda Superman, David Corenswet, Rachel Brosnaham, Lex Luthor
 author: Pablo Moura

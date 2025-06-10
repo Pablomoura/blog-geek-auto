@@ -20,6 +20,7 @@ tags:
   - Supergirl
   - Milly Alcock
   - Andy Muschietti
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, David Corenswet, Rachel Brosnahan, Nicholas Hoult, DCU,
   Fortaleza da Solidão, Krypto, Planeta Diário, HBO Max, The Authority,

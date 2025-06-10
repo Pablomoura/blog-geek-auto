@@ -19,7 +19,6 @@ tags:
   - série
   - Naughty Dog
   - adaptação de jogo
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, Pedro Pascal, Bella Ramsay, morte de Joel, segunda temporada,
   HBO, série, Naughty Dog, adaptação de jogo

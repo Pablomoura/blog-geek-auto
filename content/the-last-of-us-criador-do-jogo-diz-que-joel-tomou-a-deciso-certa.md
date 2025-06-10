@@ -18,7 +18,6 @@ tags:
   - entrevista ign
   - franquia de jogos
   - debate entre fãs
-  - especial-The Last of Us
 author: Luana Souza
 resumo: >-
   Neil Druckmann defende a polêmica decisão de Joel em The Last of Us. A segunda

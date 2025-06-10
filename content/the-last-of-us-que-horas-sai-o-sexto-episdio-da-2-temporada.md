@@ -19,7 +19,6 @@ tags:
   - Abby
   - série
   - streaming
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, Max, 2ª temporada, episódio novo, Ellie, Dina, Abby,
   série, streaming

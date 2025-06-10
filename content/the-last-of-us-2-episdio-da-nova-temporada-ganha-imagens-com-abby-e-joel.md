@@ -17,7 +17,6 @@ tags:
   - imagens
   - série
   - estreia
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, segunda temporada, Abby, Joel, Ellie, imagens, série,
   estreia

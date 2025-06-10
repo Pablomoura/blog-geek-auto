@@ -14,6 +14,7 @@ tags:
   - Modo de Recuperação
   - recalibrar bateria
   - dicas de manutenção
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, problema de bateria, solução de problemas, Modo de
   Recuperação, recalibrar bateria, dicas de manutenção

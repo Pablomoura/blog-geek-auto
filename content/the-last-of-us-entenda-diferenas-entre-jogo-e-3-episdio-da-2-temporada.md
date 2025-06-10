@@ -16,7 +16,6 @@ tags:
   - Naughty Dog
   - diferenças jogo e série
   - episódio 3 temporada 2
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, série The Last of Us, jogo The Last of Us, Naughty Dog,
   diferenças jogo e série, episódio 3 temporada 2

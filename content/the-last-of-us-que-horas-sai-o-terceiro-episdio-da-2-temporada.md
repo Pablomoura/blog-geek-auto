@@ -16,7 +16,6 @@ tags:
   - Bella Ramsey
   - Max
   - série de TV
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, segunda temporada, episódios, Bella Ramsey, Max, série de
   TV

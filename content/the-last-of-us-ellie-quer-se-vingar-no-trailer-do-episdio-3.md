@@ -18,7 +18,6 @@ tags:
   - Isabela Merced
   - Young Mazino
   - Jeffrey Wright
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, HBO, Ellie, trailer, segunda temporada, Craig Mazin, Neil
   Druckmann, Kaitlyn Dever, Isabela Merced, Young Mazino, Jeffrey Wright

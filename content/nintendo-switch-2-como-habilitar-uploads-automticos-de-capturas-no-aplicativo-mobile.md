@@ -19,6 +19,7 @@ tags:
   - GameChat
   - Zelda Notes
   - funcionalidades Switch 2
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, uploads automáticos, aplicativo mobile, capturas de tela,
   vídeos, GameChat, Zelda Notes, funcionalidades Switch 2

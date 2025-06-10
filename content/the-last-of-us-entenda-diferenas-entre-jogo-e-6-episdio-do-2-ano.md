@@ -21,7 +21,6 @@ tags:
   - segunda temporada
   - diferenças
   - Max
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, série, jogo, Naughty Dog, Joel, Ellie, adaptação, episódio
   seis, segunda temporada, diferenças, Max

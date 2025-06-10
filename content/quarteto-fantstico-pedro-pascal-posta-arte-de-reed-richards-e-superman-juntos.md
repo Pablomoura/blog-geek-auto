@@ -17,6 +17,7 @@ tags:
   - Surfista Prateado
   - MCU Fase 6
   - estreia julho 2025
+  - especial-Superman
 keywords: >-
   Pedro Pascal, Quarteto Fantástico, Reed Richards, Superman, David Corenswet,
   Marvel Studios, Galactus, Surfista Prateado, MCU Fase 6, estreia julho 2025

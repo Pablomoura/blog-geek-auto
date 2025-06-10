@@ -17,6 +17,7 @@ tags:
   - 'mercado de jogos'
   - 'Mario Kart World'
   - 'Nintendo Prime'
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, recorde de vendas, lançamento de console, PlayStation 4, PlayStation 5, mercado de jogos, Mario Kart World, Nintendo Prime
 author: Pablo Moura

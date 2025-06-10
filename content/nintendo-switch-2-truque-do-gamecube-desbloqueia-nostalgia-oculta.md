@@ -16,6 +16,7 @@ tags:
   - nostalgia
   - Nintendo Classics
   - Switch 2 preço
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, GameCube, inicialização secreta, biblioteca GameCube,
   controle GameCube, nostalgia, Nintendo Classics, Switch 2 preço

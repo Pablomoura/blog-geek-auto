@@ -16,6 +16,7 @@ tags:
   - retrocompatibilidade
   - gráficos 4K
   - jogos Nintendo
+  - especial-Nintendo Switch 2
 keywords: >-
   Nintendo Switch 2, YouTube, console, games, lançamento 2025, Joy-Con,
   TeamYouTube, retrocompatibilidade, gráficos 4K, jogos Nintendo

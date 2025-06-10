@@ -16,7 +16,6 @@ tags:
   - estreia
   - redes sociais
   - elenco
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, segunda temporada, HBO, audiência, estreia, redes sociais,
   elenco

@@ -18,6 +18,7 @@ tags:
   - filme Superman 2025
   - Metrópoles
   - Smallville
+  - especial-Superman
 keywords: >-
   Superman, David Corenswet, Rachel Brosnahan, Nicholas Hoult, James Gunn, DCU,
   Lanterna Verde, Lois Lane, Lex Luthor, filme Superman 2025, Metrópoles,

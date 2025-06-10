@@ -13,7 +13,6 @@ tags:
   - HBO
   - redes sociais
   - Naughty Dog
-  - especial-The Last of Us
 keywords: 'The Last of Us, segunda temporada, HBO, redes sociais, Naughty Dog'
 author: Luana Souza
 data: '2025-04-14T17:09:59.375Z'

@@ -20,7 +20,6 @@ tags:
   - Craig Mazin
   - Neil Druckmann
   - adaptação
-  - especial-The Last of Us
 keywords: >-
   The Last of Us, Lucas Fresno, HBO, série, música, segunda temporada, Naughty
   Dog, Craig Mazin, Neil Druckmann, adaptação

@@ -18,6 +18,7 @@ tags:
   - mudanças no filme Superman
   - elenco Superman
   - DC Studios
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, DCU, Warner Bros, David Corenswet, Rachel Brosnahan,
   Nicholas Hoult, lançamento Superman 2025, mudanças no filme Superman, elenco

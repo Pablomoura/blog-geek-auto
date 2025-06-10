@@ -16,10 +16,11 @@ tags:
   - 'Lex Luthor'
   - 'DCU'
   - 'Warner Bros'
-  - 'filme de super-heri'
+  - 'filme de super-herói'
   - 'estreia de filme 2025'
   - 'reboot Superman'
-  - 'Homem de Ao'
+  - 'Homem de Aço'
+  - especial-Superman
 keywords: >-
   David Corenswet, Superman, DC Studios, James Gunn, Lex Luthor, DCU, Warner Bros, filme de super-herói, estreia de filme 2025, reboot Superman, Homem de Aço
 author: Luana Souza

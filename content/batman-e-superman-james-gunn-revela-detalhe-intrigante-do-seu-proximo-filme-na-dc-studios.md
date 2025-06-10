@@ -18,6 +18,7 @@ tags:
   - 'The Brave And The Bold'
   - 'Liga da Justia'
   - 'DC Universe'
+  - especial-Superman
 keywords: >-
   James Gunn, DC Studios, Batman, Superman, Os Melhores do Mundo, Superman 2025, The Brave And The Bold, Liga da Justiça, DC Universe
 author: Luana Souza
