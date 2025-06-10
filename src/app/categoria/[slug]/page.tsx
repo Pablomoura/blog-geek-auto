@@ -151,7 +151,7 @@ export default async function CategoriaPage(props: {
                     className="object-cover group-hover:scale-105 transition-transform duration-300"
                     sizes="(max-width: 768px) 100vw, 33vw"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/10" />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/10 rounded-xl" />
                   <div className="relative z-10 p-4 text-white">
                     <span className="text-xs uppercase text-orange-400 font-bold">{banner.categoria}</span>
                     <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">{banner.titulo}</h3>

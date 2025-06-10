@@ -1,86 +1,92 @@
 {
-  "data": "2025-06-09",
+  "data": "2025-06-10",
   "games": [
     {
-      "slug": "final-fantasy-xvi-ja-esta-disponivel-no-xbox",
-      "titulo": "Final Fantasy XVI Chega ao Xbox: Uma Nova Era para Fãs da Franquia",
-      "thumb": "/uploads/final-fantasy-xvi-ja-esta-disponivel-no-xbox-preview.jpg",
+      "slug": "invincible-vs-ganha-vdeo-de-bastidores-com-mais-gameplay-confira",
+      "titulo": "Invincible VS: Detalhes de Gameplay e Bastidores Revelados em Novo Vídeo",
+      "thumb": "/uploads/invincible-vs-ganha-vdeo-de-bastidores-com-mais-gameplay-confira-thumb.png",
+      "categoria": "GAMES"
+    },
+    {
+      "slug": "fbc-firebreak-ganha-trailer-oficial-de-lancamento",
+      "titulo": "FBC: Firebreak: Trailer Oficial Revela Lançamento Empolgante em Junho de 2025",
+      "thumb": "/uploads/fbc-firebreak-ganha-trailer-oficial-de-lancamento-preview.jpg",
       "categoria": "Games"
     },
     {
-      "slug": "mario-kart-world-tem-um-segredo-para-fas-de-mario-64",
-      "titulo": "Mario Kart World Revela Easter Egg Surpreendente Inspirado em Super Mario 64",
-      "thumb": "/uploads/mario-kart-world-tem-um-segredo-para-fas-de-mario-64-thumb.jpg",
-      "categoria": "Games"
-    },
-    {
-      "slug": "ea-sports-fc-26-124-possivel-data-de-lancamento-vaza-on-line",
-      "titulo": "EA Sports FC 26: Data de Lançamento Sugerida Vaza na Web com Detalhes Surpreendentes",
-      "thumb": "/uploads/ea-sports-fc-26-124-possivel-data-de-lancamento-vaza-on-line-thumb.webp",
+      "slug": "estudio-de-days-gone-emite-comunicado-sobre-demissoes-em-massa",
+      "titulo": "BEND Studio Sofre Impacto com Corte de 30% do Quadro de Funcionários",
+      "thumb": "/uploads/estudio-de-days-gone-emite-comunicado-sobre-demissoes-em-massa-thumb.png",
       "categoria": "Games"
     }
   ],
   "series-e-tv": [
     {
-      "slug": "por-que-bushman-nao-apareceu-na-serie-do-cavaleiro-da-lua",
-      "titulo": "Cavaleiro da Lua: Razões Por Trás da Ausência de Bushman na Série",
-      "thumb": "/uploads/por-que-bushman-nao-apareceu-na-serie-do-cavaleiro-da-lua-thumb.jpg",
+      "slug": "arcane-criadores-da-srie-anunciam-nova-animao",
+      "titulo": "Miss Saturne: Nova Série dos Criadores de Arcane Inspirada na New Wave dos Anos 80",
+      "thumb": "/uploads/arcane-criadores-da-srie-anunciam-nova-animao-thumb.png",
       "categoria": "SÉRIES E TV"
     },
     {
-      "slug": "cara-de-barro-124-escalacao-do-protagonista-e-reduzida-a-tres-atores",
-      "titulo": "Cara-de-Barro: Três Atores Finais na Disputa pelo Papel Principal no Filme da DC",
-      "thumb": "/uploads/cara-de-barro-124-escalacao-do-protagonista-e-reduzida-a-tres-atores-thumb.webp",
-      "categoria": "SÉRIES E TV"
+      "slug": "superman-124-david-corenswet-comenta-sobre-ser-comparado-com-henry-cavill-e-tom-welling",
+      "titulo": "David Corenswet Fala Sobre Comparações com Henry Cavill e Tom Welling no Papel de Superman",
+      "thumb": "/uploads/superman-124-david-corenswet-comenta-sobre-ser-comparado-com-henry-cavill-e-tom-welling-thumb.jpg",
+      "categoria": "Séries e TV"
     },
     {
-      "slug": "corao-de-ferro-discute-tica-do-crime-em-novo-clipe-da-srie-da-marvel",
-      "titulo": "Coração de Ferro Explora Conflitos Morais em Novo Clipe da Marvel",
-      "thumb": "/uploads/corao-de-ferro-discute-tica-do-crime-em-novo-clipe-da-srie-da-marvel-thumb.jpg",
-      "categoria": "SÉRIES E TV"
+      "slug": "a-sociedade-dos-predadores-povo-cultura-e-religiao",
+      "titulo": "A Profunda Sociedade dos Predadores: Cultura, Tradições e Vida Além da Caça",
+      "thumb": "/uploads/a-sociedade-dos-predadores-povo-cultura-e-religiao-thumb.jpg",
+      "categoria": "Séries e TV"
     }
   ],
   "mangas-e-animes": [
     {
-      "slug": "anime-friends-2025-anuncia-nami-tamaki-voz-da-abertura-de-gundam-seed",
-      "titulo": "Nami Tamaki Confirmada no Anime Friends 2025: Voz de Gundam Seed se Apresenta em São Paulo",
-      "thumb": "/uploads/anime-friends-2025-anuncia-nami-tamaki-voz-da-abertura-de-gundam-seed-thumb.jpg",
+      "slug": "solo-leveling-crunchyroll-mostra-como-seria-o-live-action-do-anime",
+      "titulo": "Solo Leveling: Crunchyroll Revela Conceito de Live-Action com Sombras de Jinwoo",
+      "thumb": "/uploads/solo-leveling-crunchyroll-mostra-como-seria-o-live-action-do-anime-thumb.png",
       "categoria": "MANGÁS E ANIMES"
     },
     {
-      "slug": "demon-slayer-the-hinokami-chronicles-2-revela-mecanicas-de-combate-em-novo-trailer",
-      "titulo": "Demon Slayer: The Hinokami Chronicles 2: Novas Mecânicas de Combate Reveladas em Trailer Inédito",
-      "thumb": "/uploads/demon-slayer-the-hinokami-chronicles-2-revela-mecanicas-de-combate-em-novo-trailer-thumb.webp",
+      "slug": "one-punch-man-ganhara-novidades-sobre-a-3-temporada-na-anime-expo-2025",
+      "titulo": "One-Punch Man: Revelações da 3ª Temporada na Anime Expo 2025 Prometem Surpreender",
+      "thumb": "/uploads/one-punch-man-ganhara-novidades-sobre-a-3-temporada-na-anime-expo-2025-thumb.webp",
       "categoria": "Mangás e Animes"
     },
     {
-      "slug": "shinichiro-watanabe-diretor-de-cowboy-bebop-estara-presente-no-anime-friends-2025",
-      "titulo": "Shinichiro Watanabe Confirmado no Anime Friends 2025: Encontro Imperdível para Fãs de Animação",
-      "thumb": "/uploads/shinichiro-watanabe-diretor-de-cowboy-bebop-estara-presente-no-anime-friends-2025-thumb.webp",
-      "categoria": "Mangás e Animes"
+      "slug": "jujutsu-kaisen-atriz-revela-ter-ficado-em-prantos-com-fim-do-filme",
+      "titulo": "Jujutsu Kaisen: Emoção e Lágrimas na Estreia do Novo Filme, Revela Aya Endo",
+      "thumb": "/uploads/jujutsu-kaisen-atriz-revela-ter-ficado-em-prantos-com-fim-do-filme-thumb.png",
+      "categoria": "MANGÁS E ANIMES"
     }
   ],
   "filmes": [
     {
-      "slug": "he-man-nicholas-galitzine-d-prvia-do-visual-do-heri-em-vdeo",
-      "titulo": "Nicholas Galitzine surpreende com visual de He-Man em nova prévia",
-      "thumb": "/uploads/he-man-nicholas-galitzine-d-prvia-do-visual-do-heri-em-vdeo-thumb.jpg",
+      "slug": "james-gunn-anuncia-novo-filme-da-mulher-maravilha-na-dc-studios",
+      "titulo": "James Gunn Revela Produção de Novo Filme da Mulher-Maravilha na DC Studios",
+      "thumb": "/uploads/james-gunn-anuncia-novo-filme-da-mulher-maravilha-na-dc-studios-thumb.png",
       "categoria": "FILMES"
     },
     {
-      "slug": "bridget-jones-rene-zellweger-quer-fazer-mais-filmes-da-franquia",
-      "titulo": "Renée Zellweger Deseja Novo Filme para a Franquia Bridget Jones",
-      "thumb": "/uploads/bridget-jones-rene-zellweger-quer-fazer-mais-filmes-da-franquia-thumb.jpg",
-      "categoria": "FILMES"
+      "slug": "ex-namorada-de-glen-powell-se-pronuncia-sobre-termino-e-sydney-sweeney-8220-jogada-aos-lobos-8221",
+      "titulo": "Gigi Paris Rompe o Silêncio sobre Término com Glen Powell e Polêmica com Sydney Sweeney",
+      "thumb": "/uploads/ex-namorada-de-glen-powell-se-pronuncia-sobre-termino-e-sydney-sweeney-8220-jogada-aos-lobos-8221-thumb.webp",
+      "categoria": "Filmes"
     },
     {
-      "slug": "harry-potter-tom-felton-o-draco-diz-no-ligar-para-transfobia-de-jk-rowling",
-      "titulo": "Tom Felton se Pronuncia sobre Polêmicas de J.K. Rowling: 'Não me Atento Muito'",
-      "thumb": "/uploads/harry-potter-tom-felton-o-draco-diz-no-ligar-para-transfobia-de-jk-rowling-thumb.jpg",
+      "slug": "mortal-kombat-2-produtor-revela-quando-sai-o-trailer-do-filme",
+      "titulo": "Mortal Kombat 2: Trailer Oficial Será Lançado em Julho, Revela Produtor",
+      "thumb": "/uploads/mortal-kombat-2-produtor-revela-quando-sai-o-trailer-do-filme-thumb.png",
       "categoria": "FILMES"
     }
   ],
   "board-games": [
+    {
+      "slug": "game-review-money-or-share-it-fairly-but-don039t-take-a-slice-of-my-pie",
+      "titulo": "Revisão do Jogo: Money! de Reiner Knizia Renova a Arte de Tratar Moedas",
+      "thumb": "https://cf.geekdo-images.com/spgIw75EFPR1TViSoe0Sgg__imagepage/img/vDR53EX3l0pd0Nsq7L2PTzYQxlc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8469504.jpg",
+      "categoria": "Board Games"
+    },
     {
       "slug": "break-on-through-the-four-doors-and-welcome-to-the-jungo",
       "titulo": "Novidades Emocionantes da Happy Camper: Descubra 'The Four Doors' e 'Jungo'",
@@ -92,15 +98,15 @@
       "titulo": "Explorando os Bastidores de 'Engine Thieves': Uma Jornada de Criação e História",
       "thumb": "https://cf.geekdo-images.com/kOyeE_s-LXkIJ44goSRfAw__imagepage/img/8t9K09E2OhhDmq_sgPVjQbdI398=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8594762.png",
       "categoria": "Board Games"
-    },
-    {
-      "slug": "visit-the-underworld-in-clank-catacombs-welcome-new-faces-in-wild-gardens-and-explore-joe-manganiello039s-crypt-of-perpetual-darkness",
-      "titulo": "Novidades em Board Games: Expansões de Wingspan, Clank! Catacombs e HeroQuest",
-      "thumb": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg",
-      "categoria": "Board Games"
     }
   ],
   "streaming": [
+    {
+      "slug": "netflix-ter-intervalos-comerciais-gerados-por-ia-a-partir-de-2026-entenda",
+      "titulo": "Netflix Inova com Anúncios de IA a Partir de 2026: Conheça os Detalhes",
+      "thumb": "/uploads/netflix-ter-intervalos-comerciais-gerados-por-ia-a-partir-de-2026-entenda-thumb.png",
+      "categoria": "STREAMING"
+    },
     {
       "slug": "kings-league-mundial-de-clubes-ser-transmitido-pelo-disney",
       "titulo": "Kings League: Disney+ Transmite Mundial de Clubes com Neymar e Gerard Piqué",
@@ -111,12 +117,6 @@
       "slug": "netflix-revelou-os-jogos-da-nfl-no-natal-confira",
       "titulo": "Netflix Anuncia Transmissão de Jogos da NFL no Natal e Planos Futuros para Exclusividade",
       "thumb": "https://cdn.ome.lt/mca4BpIhziItGHd4FHEwhXT6YrA=/480x360/smart/extras/conteudos/Design_sem_nome_-_2025-05-14T202133.399.png",
-      "categoria": "STREAMING"
-    },
-    {
-      "slug": "nfl-revela-novo-jogo-no-brasil-veja-como-assistir-de-graa",
-      "titulo": "NFL Anuncia Partida Histórica em São Paulo com Transmissão Global pelo YouTube",
-      "thumb": "https://cdn.ome.lt/HgEiTjTmWup6vARXxGxgzlZ1GZw=/480x360/smart/extras/conteudos/nfl-brasil-2025.png",
       "categoria": "STREAMING"
     }
   ],
@@ -142,21 +142,21 @@
   ],
   "musica": [
     {
-      "slug": "morre-arthur-hamilton-autor-de-cry-me-a-river-aos-98-anos",
-      "titulo": "Arthur Hamilton, Lendário Compositor de 'Cry Me a River', Morre aos 98 Anos",
-      "thumb": "/uploads/morre-arthur-hamilton-autor-de-cry-me-a-river-aos-98-anos-thumb.jpg",
+      "slug": "taylor-swift-rihanna-e-mais-as-mulheres-mais-ricas-do-entretenimento-dos-eua",
+      "titulo": "Mulheres Mais Ricas do Entretenimento em 2025: Taylor Swift e Rihanna em Destaque",
+      "thumb": "/uploads/taylor-swift-rihanna-e-mais-as-mulheres-mais-ricas-do-entretenimento-dos-eua-thumb.png",
       "categoria": "MÚSICA"
     },
     {
-      "slug": "sabrina-carpenter-lana-clipe-da-nova-msica-manchild-assista-agora",
-      "titulo": "Sabrina Carpenter Lança Clipe de 'Manchild'; Confira Novidades",
-      "thumb": "/uploads/sabrina-carpenter-lana-clipe-da-nova-msica-manchild-assista-agora-thumb.png",
+      "slug": "bts-retorno-do-grupo-completo-deve-ficar-para-2026-indica-gravadora",
+      "titulo": "BTS: Retorno Completo do Grupo Acontecerá Apenas em 2026, Revela HYBE",
+      "thumb": "/uploads/bts-retorno-do-grupo-completo-deve-ficar-para-2026-indica-gravadora-thumb.jpg",
       "categoria": "MÚSICA"
     },
     {
-      "slug": "ed-sheeran-lana-clipe-de-sapphire-sua-nova-msica",
-      "titulo": "Ed Sheeran Lança Clipe 'Sapphire' Gravado na Índia com Participação de Arijit Singh",
-      "thumb": "https://cdn.ome.lt/9siOKP5DsFQdYw4Dki0ybs3mDqo=/480x360/smart/extras/conteudos/sem_titulo66.png",
+      "slug": "sly-stone-da-sly-and-the-family-stone-morre-aos-82-anos",
+      "titulo": "Lenda do Funk Psicodélico, Sly Stone, Morre aos 82 Anos",
+      "thumb": "/uploads/sly-stone-da-sly-and-the-family-stone-morre-aos-82-anos-thumb.png",
       "categoria": "MÚSICA"
     }
   ]

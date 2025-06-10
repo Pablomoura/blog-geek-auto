@@ -196,7 +196,7 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
             <div className="relative z-10">
               <span className="text-xs uppercase text-orange-400 font-bold">{bannerSeries.categoria}</span>
               <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">{bannerSeries.titulo}</h3>
-            </div>
+            </div> 
           </Link>
           )}
           {bannerGames && (

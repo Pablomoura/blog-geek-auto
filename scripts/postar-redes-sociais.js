@@ -40,7 +40,12 @@ posts = posts
   .slice(0, 20);
 
 // Seleciona o primeiro post que ainda não foi publicado
-const postParaPostar = posts.find((p) => !postLog.includes(p.slug));
+const postJaPostadosSlugs = postLog.map((p) => p.slug);
+const postJaPostadosDatas = postLog.map((p) => p.data);
+
+const postParaPostar = posts.find((p) => {
+  return !postJaPostadosSlugs.includes(p.slug) && !postJaPostadosDatas.includes(p.data);
+});
 
 if (!postParaPostar) {
   console.log('✅ Nenhum post novo para compartilhar.');
@@ -116,13 +121,21 @@ async function postToThreads(post) {
 
 // Executa as funções
 (async () => {
-  console.log(`🚀 Iniciando publicação do post: ${postParaPostar.slug}`);
+  console.log(`🚀 Iniciando publicação do post: ${postParaPostar?.slug || 'Nenhum'}`);
+
+  if (!postParaPostar) {
+    console.log('✅ Nenhum post novo para compartilhar.');
+    return;
+  }
 
   await postToFacebook(postParaPostar);
   await postToThreads(postParaPostar);
 
   console.log('📝 Atualizando log de posts...');
-  postLog.push(postParaPostar.slug);
+  postLog.push({
+    slug: postParaPostar.slug,
+    data: postParaPostar.data
+  });
   await fs.writeFile(logPath, JSON.stringify(postLog, null, 2));
   console.log('✅ Log atualizado.');
 
