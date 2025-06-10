@@ -1,0 +1,55 @@
+---
+title: >-
+  Devolver Digital Apoia Trans Lifeline com Nova Linha de Produtos do Mês do
+  Orgulho
+slug: >-
+  devolver-digital-apoia-trans-lifeline-com-nova-linha-de-produtos-do-ms-do-orgulho
+categoria: Games
+midia: >-
+  /uploads/devolver-digital-apoia-trans-lifeline-com-nova-linha-de-produtos-do-ms-do-orgulho-thumb.jpg
+tipoMidia: imagem
+thumb: >-
+  /uploads/devolver-digital-apoia-trans-lifeline-com-nova-linha-de-produtos-do-ms-do-orgulho-thumb.jpg
+tags:
+  - Devolver Digital
+  - Mês do Orgulho
+  - Trans Lifeline
+  - produtos LGBTQ
+  - apoio comunitário
+  - inclusão
+  - igualdade
+  - comunidade gamer
+keywords: >-
+  Devolver Digital, Mês do Orgulho, Trans Lifeline, produtos LGBTQ, apoio
+  comunitário, inclusão, igualdade, comunidade gamer
+author: Pablo Moura
+fonte: GameSpot
+data: '2025-06-10T16:58:00.000Z'
+resumo: >-
+  A Devolver Digital lança coleção de produtos do Mês do Orgulho, destinando
+  100% dos lucros à Trans Lifeline, uma organização essencial para a comunidade
+  trans nos EUA e Canadá. Esta ação vem em um momento crítico, com cortes no
+  apoio federal a serviços LGBTQ.
+---
+
+## Devolver Digital e a Iniciativa do Mês do Orgulho
+
+Em comemoração ao Mês do Orgulho, a Devolver Digital, conhecida por seus jogos inovadores, revelou uma nova coleção de produtos que promete atrair fãs e apoiadores da causa LGBTQ. Esta linha especial de mercadorias inclui camisetas, adesivos e acessórios, todos adornados com a mensagem "Y'all Means All" — um lembrete poderoso sobre inclusão e igualdade.
+
+A grande notícia é que **100% das vendas dessa coleção serão doadas para a Trans Lifeline**, uma organização sem fins lucrativos que oferece suporte vital para pessoas trans nos Estados Unidos e Canadá. Esta iniciativa reforça o compromisso da Devolver Digital com a diversidade e a inclusão.
+
+## Trans Lifeline: Um Pilar de Apoio
+
+A Trans Lifeline não é apenas uma linha de apoio em momentos de crise; ela desempenha um papel crucial em diversas áreas. Além da hotline dedicada, a organização administra um programa de microbolsas para cuidados de afirmação de gênero e auxilia pessoas trans encarceradas e migrantes enfrentando desafios legais e burocráticos.
+
+Diante de cortes significativos nos financiamentos federais para serviços LGBTQ, a Trans Lifeline se destaca como uma rede de apoio essencial. O governo dos EUA, nos últimos anos, retirou fundos de programas focados em comunidades LGBTQ, tornando ainda mais vital o papel de organizações como esta.
+
+## Comunidade Gamer e Solidariedade
+
+A Devolver Digital não está sozinha nesta empreitada. A comunidade gamer tem se mostrado solidária, com criadores de conteúdo de Magic: The Gathering levantando **centenas de milhares de dólares** para a Trans Lifeline em 2025, conforme reportado pelo Wargamer. Este movimento de apoio dentro do mundo dos jogos destaca a crescente conscientização e mobilização em prol de causas LGBTQ.
+
+### O Impacto da Conscientização
+
+A colaboração entre empresas de jogos e organizações de apoio social não só fortalece a comunidade LGBTQ, mas também chama a atenção para as batalhas contínuas enfrentadas por essas comunidades. Com iniciativas como a da Devolver Digital, espera-se que mais empresas reconheçam a importância de apoiar causas sociais, utilizando suas plataformas para promover mudança e inclusão.
+
+A nova linha de produtos da Devolver Digital não é apenas uma celebração do Mês do Orgulho, mas uma declaração de apoio contínuo e um convite à ação para todos os seus seguidores e consumidores. Conforme o ano de 2025 avança, ações como essa são um farol de esperança e solidariedade em tempos desafiadores.
