@@ -1,4 +1,3 @@
-// src/app/autor/[slug]/page.tsx
 import fs from "fs/promises";
 import path from "path";
 import matter from "gray-matter";
@@ -23,28 +22,33 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function AutorPage(props: {
-  params: Promise<{ slug: string }>;
-  searchParams: Promise<{ page?: string }>;
-}) {
-  const { slug } = await props.params;
-  const { page } = await props.searchParams;
-
-  const autor = autores.find((a) => slugify(a.nome) === slug);
-  if (!autor) return notFound();
-
+async function getPostsDoAutor(slugAutor: string) {
   const contentDir = path.join(process.cwd(), "content");
-  const arquivos = await fs.readdir(contentDir);
+  let arquivos = [];
+
+  try {
+    arquivos = await fs.readdir(contentDir);
+  } catch (err) {
+    console.warn(`⚠️ Pasta content/ não encontrada.`, err);
+    return { posts: [], totalPalavras: 0, tagCounts: {} };
+  }
+
   const posts = [];
   const tagCounts: Record<string, number> = {};
   let totalPalavras = 0;
 
   for (const nome of arquivos) {
     const caminho = path.join(contentDir, nome);
-    const conteudo = await fs.readFile(caminho, "utf-8");
+    let conteudo;
+    try {
+      conteudo = await fs.readFile(caminho, "utf-8");
+    } catch {
+      continue;
+    }
+
     const { data, content } = matter(conteudo);
 
-    if (data.author && slugify(data.author) === slug) {
+    if (data.author && slugify(data.author) === slugAutor) {
       posts.push({
         slug: data.slug,
         title: data.title,
@@ -63,9 +67,26 @@ export default async function AutorPage(props: {
     }
   }
 
+  return { posts, totalPalavras, tagCounts };
+}
+
+export default async function AutorPage(props: {
+  params: Promise<{ slug: string }>;
+  searchParams: Promise<{ page?: string }>;
+}) {
+  const { slug } = await props.params;
+  const { page } = await props.searchParams;
+
+  const autor = autores.find((a) => slugify(a.nome) === slug);
+  if (!autor) return notFound();
+
+  const { posts, totalPalavras, tagCounts } = await getPostsDoAutor(slug);
+
   posts.sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime());
 
-  const mediaLeitura = Math.round((totalPalavras / posts.length) / 200);
+  const mediaLeitura =
+    posts.length > 0 ? Math.round((totalPalavras / posts.length) / 200) : 1;
+
   const topTags = Object.entries(tagCounts)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 3)
@@ -74,7 +95,6 @@ export default async function AutorPage(props: {
   const paginaAtual = parseInt(page || "1", 10);
   const postsPorPagina = 20;
   const totalPaginas = Math.ceil(posts.length / postsPorPagina);
-
   const exibidos = posts.slice(
     (paginaAtual - 1) * postsPorPagina,
     paginaAtual * postsPorPagina
@@ -106,7 +126,7 @@ export default async function AutorPage(props: {
             </p>
 
             <p className="text-xs text-gray-500 dark:text-gray-400 mt-1">
-              Média de leitura: {mediaLeitura || 1} min por artigo
+              Média de leitura: {mediaLeitura} min por artigo
             </p>
 
             {topTags.length > 0 && (
