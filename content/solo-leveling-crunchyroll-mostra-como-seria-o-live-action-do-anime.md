@@ -9,8 +9,17 @@ tipoMidia: video
 thumb: >-
   /uploads/solo-leveling-crunchyroll-mostra-como-seria-o-live-action-do-anime-thumb.png
 tags:
-  - ''
-keywords: ''
+  - 'Solo Leveling'
+  - Crunchyroll
+  - Sung Jinwoo
+  - live-action
+  - anime
+  - Chugong
+  - Panini
+  - caçadores
+  - masmorras
+  - sombras
+keywords: 'Solo Leveling, Crunchyroll, Sung Jinwoo, live-action, anime, Chugong, Panini, caçadores, masmorras, sombras'
 author: Luana Souza
 data: '2025-06-10T18:29:26.982Z'
 resumo: >-
@@ -32,5 +41,3 @@ Embora o vídeo seja apenas um conceito inicial, ele já gerou grande expectativ
 Baseado na obra escrita por **Chugong**, Solo Leveling é ambientado em um universo onde humanos, dotados de habilidades especiais, atuam como caçadores para enfrentar monstros em masmorras. **Sung Jinwoo**, inicialmente considerado fraco, descobre ter um poder extraordinário que o transforma em um dos mais formidáveis caçadores de Rank S.
 
 Para aqueles interessados em explorar mais deste universo, o anime está disponível na **Crunchyroll** e o mangá é publicado pela **Panini**.
-
-**Palavras-chave:** Solo Leveling, Crunchyroll, Sung Jinwoo, live-action, anime, Chugong, Panini, caçadores, masmorras, sombras.

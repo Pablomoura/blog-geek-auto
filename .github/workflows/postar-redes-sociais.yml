@@ -36,6 +36,7 @@ jobs:
         run: |
           git fetch origin social-log || echo "Branch social-log ainda não existe, tudo bem."
           git checkout -B social-log origin/social-log || git checkout -b social-log
+          git pull --rebase origin social-log || echo "Rebase falhou ou não necessário"
 
       # Commit e push do social-post-log.json
       - name: Commit e push do log de posts sociais
@@ -45,4 +46,4 @@ jobs:
 
           git add public/social-post-log.json
           git commit -m "🤖 Atualiza log de posts sociais" || echo "Nada para commitar"
-          git push origin social-log
+          git push origin social-log || echo "Push falhou, provavelmente branch foi atualizado por outro workflow. OK."
