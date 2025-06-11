@@ -29,35 +29,35 @@ resumo: >-
 
 ## A Sociedade dos Yautja: Mais do que Caçadores
 
-![Imagem relacionada](https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250610-predador02-ovicoo.jpg?resize=730%2C517&ssl=1)
+![Imagem relacionada](https://ovicio.com.br/wp-content/uploads/2025/06/20250610-predador02-ovicoo.jpg?resize=730%2C517&ssl=1)
 
 Os Yautja, frequentemente referidos como **Predadores**, são conhecidos na cultura pop por suas caçadas intensas e habilidades de combate. No entanto, reduzir sua existência à mera caça é ignorar um rico universo cultural que envolve tradição, honra e uma espiritualidade profunda.
 
-![Imagem relacionada](https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250610-linguagem-ovicio.jpg?resize=730%2C339&ssl=1)
+![Imagem relacionada](https://ovicio.com.br/wp-content/uploads/2025/06/20250610-linguagem-ovicio.jpg?resize=730%2C339&ssl=1)
 
 ### Religião e Rituais
 
-![Imagem relacionada](https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250610-cumprimento-yautja.jpg?resize=730%2C380&ssl=1)
+![Imagem relacionada](https://ovicio.com.br/wp-content/uploads/2025/06/20250610-cumprimento-yautja.jpg?resize=730%2C380&ssl=1)
 
 No coração da sociedade Yautja está sua religião, inteiramente ligada ao conceito da "Caçada". Para eles, a caçada é mais que um esporte; é um ato sagrado que assegura um lugar entre seus ancestrais na vida após a morte. Cerimônias são realizadas antes e após as caçadas para homenagear caçadores caídos e buscar bênçãos divinas. O "Guerreiro Negro", seu deus principal, simboliza a morte, mas é visto como um companheiro a ser acolhido, não temido.
 
-![Imagem relacionada](https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250610-baby-predador.jpg?resize=730%2C387&ssl=1)
+![Imagem relacionada](https://ovicio.com.br/wp-content/uploads/2025/06/20250610-baby-predador.jpg?resize=730%2C387&ssl=1)
 
 ### Comunicação e Linguagem
 
-![Imagem relacionada](https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250610-predador-apartamento.jpg?resize=730%2C383&ssl=1)
+![Imagem relacionada](https://ovicio.com.br/wp-content/uploads/2025/06/20250610-predador-apartamento.jpg?resize=730%2C383&ssl=1)
 
 A linguagem dos Yautja é complexa, composta de estalos, rugidos e imitação vocal, tornando-os adversários ainda mais intimidantes. Além da fala, eles utilizam uma forma escrita de comunicação, frequentemente visível em seus equipamentos. Esses símbolos podem representar desde contagens até mensagens completas.
 
-![Imagem relacionada](https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250610-predator-bigamama.jpg?resize=730%2C381&ssl=1)
+![Imagem relacionada](https://ovicio.com.br/wp-content/uploads/2025/06/20250610-predator-bigamama.jpg?resize=730%2C381&ssl=1)
 
 ### Estruturas Sociais e Laços Familiares
 
-![Imagem relacionada](https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250610-treinamento.jpg?resize=730%2C347&ssl=1)
+![Imagem relacionada](https://ovicio.com.br/wp-content/uploads/2025/06/20250610-treinamento.jpg?resize=730%2C347&ssl=1)
 
 Apesar de sua aparência e comportamento ferozes, os laços familiares são profundamente valorizados na cultura Yautja. Os jovens são educados e treinados por seus anciãos, aprendendo as artes da caça e sobrevivência desde cedo. As moradias Yautja são um reflexo de sua história, com troféus e lembranças de caçadas passadas.
 
-![Imagem relacionada](https://i0.wp.com/ovicio.com.br/wp-content/uploads/2025/06/20250610-predador-ovicio.jpg?resize=730%2C411&ssl=1)
+![Imagem relacionada](https://ovicio.com.br/wp-content/uploads/2025/06/20250610-predador-ovicio.jpg?resize=730%2C411&ssl=1)
 
 ### Vida Cotidiana e Entretenimento
 
