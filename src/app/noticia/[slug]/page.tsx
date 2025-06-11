@@ -29,6 +29,8 @@ import CompartilharNoticia from "@/components/CompartilharNoticia";
 import FichaTecnica from "@/components/FichaTecnica";
 import PostsRelacionados, { getPostsRelacionados } from "@/components/PostsRelacionados";
 import { inserirAnunciosNoTexto } from "@/utils/inserirAnunciosNoTexto";
+import JsonLdBreadcrumb from "@/components/JsonLdBreadcrumb";
+import Breadcrumb from "@/components/Breadcrumb";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -238,6 +240,21 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
               data: data.data,
               author: data.author,
             }}
+          />
+          <JsonLdBreadcrumb
+            categoria={data.categoria}
+            categoriaSlug={data.categoria.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "-")}
+            titulo={data.title}
+            slug={slug}
+          />
+          <Breadcrumb
+            categoria={data.categoria}
+            categoriaSlug={data.categoria
+              .toLowerCase()
+              .normalize("NFD")
+              .replace(/[\u0300-\u036f]/g, "")
+              .replace(/[^a-z0-9]+/g, "-")}
+            titulo={data.title}
           />
 
           <Script src="https://platform.twitter.com/widgets.js" strategy="afterInteractive" />

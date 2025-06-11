@@ -27,6 +27,16 @@ author: Ana Luiza
 data: '2025-06-11T13:56:32.000Z'
 resumo: >-
   O clássico Bravely Default retorna no Nintendo Switch 2 com um remaster que aprimora visuais e adiciona novos conteúdos, mantendo a essência que cativou fãs de JRPGs. Descubra como a Square Enix modernizou um título amado sem perder o charme original.
+tipo: "critica"
+tituloPortugues: "Bravely Default Flying Fairy"
+capaObra: "/images/Bravely-Default.jpg"
+notaCritico: 5
+tituloOriginal: "Bravely Default Flying Fairy HD Remaster"
+ano: "2025"
+pais: ""
+classificacao: "LIVRE"
+duracao: ""
+direcao: ""
 ---
 
 O jogo 'Bravely Default', lançado originalmente em 2012 para o Nintendo 3DS, destacou-se por manter a essência dos RPGs japoneses (JRPGs) enquanto muitos migravam para sistemas de combate mais modernos. Agora, em 2025, a Square Enix nos presenteia com 'Bravely Default Flying Fairy HD Remaster' no Switch 2, uma atualização que respeita suas raízes e encanta tanto novos jogadores quanto veteranos.
@@ -63,6 +73,5 @@ A expectativa agora é que 'Bravely Second: End Layer' receba o mesmo tratamento
 
 **Plataforma:** Nintendo Switch 2  
 **Desenvolvedora e Publisher:** Square Enix  
-**Nota:** 9/10  
 
 O remaster é um testemunho do poder duradouro dos JRPGs e da habilidade da Square Enix em revigorar seus clássicos para novas gerações.
