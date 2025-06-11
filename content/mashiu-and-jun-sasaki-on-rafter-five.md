@@ -1,14 +1,37 @@
 ---
-title: "Desvendando Rafter Five: O Processo Criativo por Trás do Novo Sucesso da Oink Games"
-slug: "mashiu-and-jun-sasaki-on-rafter-five"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/JQjFasYfh5z44gbbq85DeA__imagepage/img/k3IQuGt8zV82eUl83tRm3NJOrzQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7836637.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/JQjFasYfh5z44gbbq85DeA__imagepage/img/k3IQuGt8zV82eUl83tRm3NJOrzQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7836637.png"
-tags: ["Rafter Five", "Oink Games", "Mashiu", "Jun Sasaki", "board games", "jogo de tabuleiro", "criação de jogos", "mecânicas de jogo", "lançamento 2023", "Bärenpark", "Quickity Pickity"]
-keywords: "Rafter Five, Oink Games, Mashiu, Jun Sasaki, board games, jogo de tabuleiro, criação de jogos, mecânicas de jogo, lançamento 2023, Bärenpark, Quickity Pickity"
-author: "Ana Luiza"
-data: "2025-06-11T06:29:03.517Z"
+title: >-
+  Desvendando Rafter Five: O Processo Criativo por Trás do Novo Sucesso da Oink
+  Games
+slug: mashiu-and-jun-sasaki-on-rafter-five
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/JQjFasYfh5z44gbbq85DeA__imagepage/img/k3IQuGt8zV82eUl83tRm3NJOrzQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7836637.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/JQjFasYfh5z44gbbq85DeA__imagepage/img/k3IQuGt8zV82eUl83tRm3NJOrzQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7836637.png
+tags:
+  - Rafter Five
+  - Oink Games
+  - Mashiu
+  - Jun Sasaki
+  - board games
+  - jogo de tabuleiro
+  - criação de jogos
+  - mecânicas de jogo
+  - lançamento 2023
+  - Bärenpark
+  - Quickity Pickity
+keywords: >-
+  Rafter Five, Oink Games, Mashiu, Jun Sasaki, board games, jogo de tabuleiro,
+  criação de jogos, mecânicas de jogo, lançamento 2023, Bärenpark, Quickity
+  Pickity
+author: Ana Luiza
+data: '2025-06-11T06:29:03.517Z'
+resumo: >-
+  Descubra como o jogo 'Rafter Five' evoluiu de uma ideia inicial para um
+  lançamento aclamado, através de uma conversa com seus criadores. A colaboração
+  entre Mashiu e Jun Sasaki revela os desafios e inovações por trás deste
+  fascinante board game.
 ---
 
 ## A Inspiração por Trás de Rafter Five

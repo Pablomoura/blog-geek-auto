@@ -1,14 +1,30 @@
 ---
-title: "Asmodee Adquire Zombicide e Expande Portfólio de Jogos de Tabuleiro"
-slug: "asmodee-acquires-zombicide-from-cmon"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/ny3e_Fow7nW0YBE1obS3QQ__imagepage/img/NPav3Jdy5EBVi-8MhOinXYh3ST8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8931016.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/ny3e_Fow7nW0YBE1obS3QQ__imagepage/img/NPav3Jdy5EBVi-8MhOinXYh3ST8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8931016.jpg"
-tags: ["Asmodee", "Zombicide", "CMON", "jogos de tabuleiro", "aquisição", "crowdfunding", "Guillotine Games", "Thomas Kœgler", "mercado global"]
-keywords: "Asmodee, Zombicide, CMON, jogos de tabuleiro, aquisição, crowdfunding, Guillotine Games, Thomas Kœgler, mercado global"
-author: "Luana Souza"
-data: "2025-06-11T06:29:27.458Z"
+title: Asmodee Adquire Zombicide e Expande Portfólio de Jogos de Tabuleiro
+slug: asmodee-acquires-zombicide-from-cmon
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/ny3e_Fow7nW0YBE1obS3QQ__imagepage/img/NPav3Jdy5EBVi-8MhOinXYh3ST8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8931016.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/ny3e_Fow7nW0YBE1obS3QQ__imagepage/img/NPav3Jdy5EBVi-8MhOinXYh3ST8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8931016.jpg
+tags:
+  - Asmodee
+  - Zombicide
+  - CMON
+  - jogos de tabuleiro
+  - aquisição
+  - crowdfunding
+  - Guillotine Games
+  - Thomas Kœgler
+  - mercado global
+keywords: >-
+  Asmodee, Zombicide, CMON, jogos de tabuleiro, aquisição, crowdfunding,
+  Guillotine Games, Thomas Kœgler, mercado global
+author: Luana Souza
+data: '2025-06-11T06:29:27.458Z'
+resumo: >-
+  A gigante do entretenimento Asmodee anuncia a aquisição do popular jogo
+  Zombicide, consolidando sua presença no mercado de jogos de tabuleiro.
 ---
 
 ## Asmodee Expande Portfólio com Zombicide
