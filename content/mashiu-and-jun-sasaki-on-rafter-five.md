@@ -1,0 +1,54 @@
+---
+title: "Desvendando Rafter Five: O Processo Criativo por Trás do Novo Sucesso da Oink Games"
+slug: "mashiu-and-jun-sasaki-on-rafter-five"
+categoria: "Board Games"
+midia: "https://cf.geekdo-images.com/JQjFasYfh5z44gbbq85DeA__imagepage/img/k3IQuGt8zV82eUl83tRm3NJOrzQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7836637.png"
+tipoMidia: "imagem"
+thumb: "https://cf.geekdo-images.com/JQjFasYfh5z44gbbq85DeA__imagepage/img/k3IQuGt8zV82eUl83tRm3NJOrzQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7836637.png"
+tags: ["Rafter Five", "Oink Games", "Mashiu", "Jun Sasaki", "board games", "jogo de tabuleiro", "criação de jogos", "mecânicas de jogo", "lançamento 2023", "Bärenpark", "Quickity Pickity"]
+keywords: "Rafter Five, Oink Games, Mashiu, Jun Sasaki, board games, jogo de tabuleiro, criação de jogos, mecânicas de jogo, lançamento 2023, Bärenpark, Quickity Pickity"
+author: "Ana Luiza"
+data: "2025-06-11T06:29:03.517Z"
+---
+
+## A Inspiração por Trás de Rafter Five
+
+![Imagem da notícia](https://cf.geekdo-images.com/QFpCGtKYuIFl1wa-TKByyg__imagepage/img/aCs2IcDFiys8-oM4ncWM9-XPrMA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8931651.png)
+
+**O novo jogo da Oink Games, Rafter Five, nasceu de uma mistura de ideias e inspirações que remontam a clássicos como Bärenpark.** A mente por trás desse projeto, Mashiu, desejava criar uma experiência que fosse ao mesmo tempo vibrante e desafiadora. Inspirado pelas recompensas baseadas em cobrir marcas específicas com poliminós, Mashiu buscou um conceito onde os jogadores poderiam empilhar peças em qualquer ângulo, capturando a essência dos jogos analógicos.
+
+![Imagem da notícia](https://cf.geekdo-images.com/AMr6VYC1RSCWRp_3lq1tvw__imagepage/img/Sd-ihsRv4PESSLd6l4Tfp-3HZi0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7127080.png)
+
+Para simplificar as mecânicas, ele transformou todos os componentes em cartas de tamanho uniforme e introduziu um tabuleiro compartilhado com um mecanismo de eliminação. A ideia era que cobrir certas marcas resultasse em penalidades pequenas, levando à eliminação. O equilíbrio se tornou crucial quando a regra de que derrubar o tabuleiro resultaria na derrota foi adicionada.
+
+![Imagem da notícia](https://cf.geekdo-images.com/m4QR6T6UCwwtwcugiYDkxw__imagepage/img/J8Yj-ybmSNp8rWVTya-g2CsqNBg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7836642.png)
+
+## A Parceria com a Oink Games
+
+![Imagem da notícia](https://cf.geekdo-images.com/PwpCpFxgg4UKOodxouR4Sg__imagepage/img/ta62ZIPolazMIPsB-pTMcWgVrlA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7836641.png)
+
+**A colaboração entre Mashiu e a Oink Games iniciou-se em 2022, quando Jun Sasaki convidou Mashiu a apresentar conceitos de jogos inacabados.** Durante uma festa de lançamento do jogo Quickity Pickity, Mashiu trouxe três protótipos, dos quais um, inicialmente chamado 'Burial', acabou sendo desenvolvido em parceria com a Oink Games.
+
+![Imagem da notícia](https://cf.geekdo-images.com/SuEresCBezGBZHWZEsDlUQ__imagepage/img/lcU1MIWlt_kdEoWAS_PTMTfL928=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7836643.png)
+
+Jun Sasaki, admirador do trabalho de Mashiu, viu potencial mesmo nas ideias descartadas e, juntos, eles transformaram Burial em Rafter Five. A evolução do jogo envolveu mudanças significativas, incluindo a introdução de cubos como contrapesos para criar balanços surpreendentes, um elemento que se tornou central para a jogabilidade.
+
+## Da Ideia ao Tema
+
+**O tema de Rafter Five evoluiu para representar cinco pessoas empilhando-se em uma jangada com tesouros, abandonando o conceito original de um naufrágio pirata.** Essa simplificação do tema incentivou uma jogabilidade mais arriscada e divertida, onde os jogadores não apenas evitam falhar, mas também tentam desestabilizar os oponentes.
+
+O nome 'Burial' foi escolhido inicialmente devido à mecânica de cobrir marcas, mas foi considerado inapropriado dada a natureza leve do jogo.
+
+## Desenvolvimento dos Componentes
+
+**Os cinco meeples foram projetados para variar em tamanho e peso, mantendo uma coesão visual e funcionalidade eficaz durante o jogo.** As formas precisavam ser distintas, mas simples o suficiente para serem reconhecíveis quando empilhadas.
+
+Jun Sasaki decidiu incorporar o tabuleiro na própria caixa do jogo, empilhando duas para aumentar a altura e tornar as quedas mais dramáticas. As peças de tesouro são fixadas em tabuleiros com reentrâncias para diferenciar penalidades do caos geral do jogo.
+
+## Lançamento e Recepção
+
+**Rafter Five foi bem recebido em eventos como o Game Market 2023 Fall, e sua versão digital, lançada simultaneamente, aumentou o interesse pelo jogo físico.** A preocupação inicial de que a versão digital pudesse prejudicar as vendas do jogo físico foi dissipada quando a demanda cresceu, alcançando o recorde de vendas no primeiro mês na história da Oink Games.
+
+## Olhando para o Futuro
+
+**Mashiu e Jun Sasaki continuam empenhados em criar jogos inovadores que se tornem clássicos atemporais.** O sucesso de Rafter Five reforçou sua determinação em continuar desenvolvendo experiências únicas e desafiadoras para os fãs de board games.
