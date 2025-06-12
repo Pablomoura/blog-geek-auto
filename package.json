@@ -9,7 +9,7 @@
     "scraper-boardgamegeek": "node scripts/scraper-boardgamegeek.js",
     "lint": "next lint",
     "publish-md": "node scripts/publish-md.js",
-    "build:cache": "node scripts/build-html-cache.js",
+    "build:cache": "tsx scripts/build-html-cache.ts",
     "build": "npm run build:cache && next build",
     "sitemap:tags": "tsx scripts/gerar-sitemap-tags.ts",
     "sitemap": "tsx scripts/gerar-sitemap.ts",

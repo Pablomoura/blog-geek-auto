@@ -1,15 +1,15 @@
-const fs = require("fs/promises");
-const fsExtra = require("fs-extra");
-const path = require("path");
-const matter = require("gray-matter");
-const { marked } = require("marked");
-const { markedHighlight } = require("marked-highlight");
-const { gfmHeadingId } = require("marked-gfm-heading-id");
-const hljs = require("highlight.js");
-const DOMPurify = require("isomorphic-dompurify");
-const { loadPostCache } = require("../src/utils/loadPostCache");
-const { aplicarLinksInternosInteligente } = require("../src/utils/autoLinks");
-const { otimizarImagensHtml } = require("../src/utils/otimizarImagensHtml");
+import fs from "fs/promises";
+import fsExtra from "fs-extra";
+import path from "path";
+import matter from "gray-matter";
+import { marked } from "marked";
+import { markedHighlight } from "marked-highlight";
+import { gfmHeadingId } from "marked-gfm-heading-id";
+import hljs from "highlight.js";
+import DOMPurify from "isomorphic-dompurify";
+import { loadPostCache } from "../src/utils/loadPostCache";
+import { aplicarLinksInternosInteligente } from "../src/utils/autoLinks";
+import { otimizarImagensHtml } from "../src/utils/otimizarImagensHtml";
 
 const force = process.argv.includes("--force");
 
@@ -17,25 +17,25 @@ marked.use(
   gfmHeadingId({ prefix: "heading-" }),
   markedHighlight({
     langPrefix: "hljs language-",
-    highlight(code) {
+    highlight(code: string) {
       return hljs.highlightAuto(code).value;
     },
   })
 );
 
-async function inserirLinksRelacionados(content, slugAtual) {
+async function inserirLinksRelacionados(content: string, slugAtual: string): Promise<string> {
   const todosPosts = await loadPostCache();
   const atual = todosPosts.find((p) => p.slug === slugAtual);
   const tags = Array.isArray(atual?.tags) ? atual.tags : [];
 
   if (tags.length === 0) return content;
 
-  const tagsAtuais = tags.map((t) => t.toLowerCase());
-  const links = [];
+  const tagsAtuais = tags.map((t: string) => t.toLowerCase());
+  const links: { title: string; slug: string }[] = [];
 
   for (const post of todosPosts) {
     if (post.slug === slugAtual) continue;
-    const comparar = Array.isArray(post.tags) ? post.tags.map((t) => t.toLowerCase()) : [];
+    const comparar = Array.isArray(post.tags) ? post.tags.map((t: string) => t.toLowerCase()) : [];
     const temMatch = tagsAtuais.some((tag) => comparar.includes(tag));
     if (temMatch) links.push({ title: post.titulo, slug: post.slug });
     if (links.length >= 6) break;
@@ -43,14 +43,14 @@ async function inserirLinksRelacionados(content, slugAtual) {
 
   if (links.length === 0) return content;
 
-  const blocos = [];
+  const blocos: string[] = [];
   for (let i = 0; i < links.length; i += 2) {
     const grupo = links.slice(i, i + 2);
     const bloco = `
       <ul class="pl-5 mb-6 space-y-2">
         ${grupo
           .map(
-            (link) => `
+            (link: { title: string; slug: string }) => `
             <li class="list-disc text-sm text-orange-700 dark:text-orange-400">
               <a href="/noticia/${link.slug}" class="hover:underline italic">${link.title}</a>
             </li>`
@@ -78,7 +78,7 @@ async function inserirLinksRelacionados(content, slugAtual) {
   return paragrafos.join("</p>");
 }
 
-async function buildCache() {
+async function buildCache(): Promise<void> {
   const contentDir = path.join(process.cwd(), "content");
   const cacheDir = path.join(process.cwd(), "public", "cache", "html");
 
@@ -96,7 +96,7 @@ async function buildCache() {
     try {
       const [mdStat, htmlStat] = await Promise.all([
         fs.stat(filePath),
-        fs.stat(htmlPath)
+        fs.stat(htmlPath),
       ]);
 
       if (!force && htmlStat.mtimeMs >= mdStat.mtimeMs) {
@@ -115,7 +115,7 @@ async function buildCache() {
     // Embed YouTube antes de tudo
     markdown = markdown.replace(
       /\[youtube\]:\s*(https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]+))/g,
-      (_match, url, videoId) => {
+      (_match: string, url: string, videoId: string) => {
         return `
           <div class="relative pb-[56.25%] h-0 overflow-hidden rounded-lg shadow-lg my-8">
             <iframe
@@ -132,7 +132,7 @@ async function buildCache() {
     );
 
     // ✅ Aplica links internos ainda no markdown puro
-    markdown = await aplicarLinksInternosInteligente(markdown, slug);
+    markdown = await aplicarLinksInternosInteligente(markdown);
 
     // ✅ Só depois converte para HTML
     let htmlConvertido = await marked.parse(markdown);

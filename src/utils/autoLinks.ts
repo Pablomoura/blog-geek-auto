@@ -7,10 +7,8 @@ const MAX_LINKS_TOTAL = 5;
 const MAX_LINKS_POR_PARAGRAFO = 1;
 
 export async function aplicarLinksInternosInteligente(
-  html: string,
-  slugAtual: string
+  html: string
 ): Promise<string> {
-  // 1️⃣ Carrega o glossary
   const glossaryPath = path.join(process.cwd(), "src/data/glossary.json");
   const glossary: { termo: string; slug: string }[] = JSON.parse(await fs.readFile(glossaryPath, "utf-8"));
 
@@ -20,13 +18,9 @@ export async function aplicarLinksInternosInteligente(
 
   if (!body) return html;
 
-  // 2️⃣ Aplica frases compostas
   aplicarLinksFrases(body, glossary, usados);
-
-  // 3️⃣ Aplica tokens simples
   aplicarLinksTokens(body, glossary, usados);
 
-  // 4️⃣ Ajusta espaçamento de parágrafos
   body.querySelectorAll("p").forEach((p: HTMLElement) => {
     const existing = p.getAttribute("class") || "";
     if (!existing.includes("mb-")) {
@@ -37,7 +31,6 @@ export async function aplicarLinksInternosInteligente(
   return body.innerHTML;
 }
 
-// ➤ Aplica frases compostas com limitação
 function aplicarLinksFrases(
   body: HTMLElement,
   links: { termo: string; slug: string }[],
@@ -76,7 +69,6 @@ function aplicarLinksFrases(
   return novosAplicados;
 }
 
-// ➤ Aplica tokens com limitação
 function aplicarLinksTokens(
   body: HTMLElement,
   links: { termo: string; slug: string }[],
@@ -91,7 +83,7 @@ function aplicarLinksTokens(
     if (linksNoParagrafo >= MAX_LINKS_POR_PARAGRAFO) return;
 
     p.childNodes.forEach((child: Node) => {
-      if (child.nodeType !== 3) return; // só texto puro
+      if (child.nodeType !== 3) return;
 
       const textNode = child as TextNode;
 
@@ -124,22 +116,19 @@ function aplicarLinksTokens(
   return novosAplicados;
 }
 
-// ➤ Regex para frases compostas
 function gerarRegexFrase(termo: string): RegExp {
   const termoEscapado = escapeRegex(termo);
   return new RegExp(`\\b${termoEscapado}\\b`, "gi");
 }
 
-// ➤ Escapa regex
 function escapeRegex(text: string): string {
   return text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
-// ➤ Normaliza texto
 function normalizeToken(text: string): string {
   return text
     .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "") // remove acentos
+    .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
     .trim();
 }

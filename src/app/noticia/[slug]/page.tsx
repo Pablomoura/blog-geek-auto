@@ -185,7 +185,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
       const htmlConvertido = await marked.parse(textoFinal);
 
       // ✅ aplica os links internos no HTML (agora sim no ponto certo)
-      const htmlComLinksInternos = await aplicarLinksInternosInteligente(htmlConvertido, slug);
+      const htmlComLinksInternos = await aplicarLinksInternosInteligente(htmlConvertido);
 
       // Link externo target blank
       const htmlComTargetBlank = htmlComLinksInternos.replace(
