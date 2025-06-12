@@ -131,11 +131,11 @@ async function buildCache(): Promise<void> {
       }
     );
 
-    // ✅ Aplica links internos ainda no markdown puro
-    markdown = await aplicarLinksInternosInteligente(markdown);
-
     // ✅ Só depois converte para HTML
     let htmlConvertido = await marked.parse(markdown);
+
+    // ✅ Aplica links internos ainda no markdown puro
+    markdown = await aplicarLinksInternosInteligente(markdown);
 
     // ✅ Depois insere links relacionados
     htmlConvertido = await inserirLinksRelacionados(htmlConvertido, slug);

@@ -117,8 +117,18 @@ function aplicarLinksTokens(
 }
 
 function gerarRegexFrase(termo: string): RegExp {
-  const termoEscapado = escapeRegex(termo);
-  return new RegExp(`\\b${termoEscapado}\\b`, "gi");
+  // Escapa caracteres especiais de regex
+  let termoEscapado = escapeRegex(termo);
+
+  // Transforma espaços em \s+ (um ou mais espaços, quebras de linha, etc.)
+  termoEscapado = termoEscapado.replace(/\s+/g, "\\s+");
+
+  // Regex final:
+  // - permite o termo aparecer isolado
+  // - suporta múltiplos espaços
+  // - suporta quebras de linha
+  // - suporta tags HTML no meio (graças ao comportamento do node-html-parser + nosso .split/\W+/)
+  return new RegExp(`(?:^|\\s|[>\\(\\["])(${termoEscapado})(?=\\s|[<.,;!?)"\\]]|$)`, "gi");
 }
 
 function escapeRegex(text: string): string {
