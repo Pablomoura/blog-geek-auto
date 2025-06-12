@@ -182,10 +182,12 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
       textoFinal = inserirAnunciosNoTexto(textoFinal);
 
       // ✅ converte o markdown para HTML
-      const htmlConvertido = await marked.parse(textoFinal);
+      let htmlConvertido = await marked.parse(textoFinal);
 
       // ✅ aplica os links internos no HTML (agora sim no ponto certo)
-      const htmlComLinksInternos = await aplicarLinksInternosInteligente(htmlConvertido);
+      let htmlComLinksInternos = await aplicarLinksInternosInteligente(htmlConvertido);
+
+      htmlConvertido = await inserirLinksRelacionados(htmlConvertido, slug);
 
       // Link externo target blank
       const htmlComTargetBlank = htmlComLinksInternos.replace(
