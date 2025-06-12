@@ -1,14 +1,33 @@
 ---
-title: "Novos Jogos de Tom Lehmann e Donald X. Vaccarino Prometem Revolucionar 2025"
-slug: "build-gadgets-with-tom-lehmann-and-do-business-in-the-pacific-with-donald-x"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/gjoB0BWI1ZZAz2Ekb3atGw__imagepage/img/KutfyBdzsFHKvIykat2jtKjZI44=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8812848.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/gjoB0BWI1ZZAz2Ekb3atGw__imagepage/img/KutfyBdzsFHKvIykat2jtKjZI44=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8812848.jpg"
-tags: ["Gadget Builder", "Pacific", "Rio Grande Games", "jogos de tabuleiro 2025", "Tom Lehmann", "Donald X. Vaccarino", "jogos de cartas", "estratégia", "Crazy Eights", "Nefarious"]
-keywords: "Gadget Builder, Pacific, Rio Grande Games, jogos de tabuleiro 2025, Tom Lehmann, Donald X. Vaccarino, jogos de cartas, estratégia, Crazy Eights, Nefarious"
-author: "Ana Luiza"
-data: "2025-06-12T06:28:44.936Z"
+title: Novos Jogos de Tom Lehmann e Donald X. Vaccarino Prometem Revolucionar 2025
+slug: build-gadgets-with-tom-lehmann-and-do-business-in-the-pacific-with-donald-x
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/gjoB0BWI1ZZAz2Ekb3atGw__imagepage/img/KutfyBdzsFHKvIykat2jtKjZI44=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8812848.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/gjoB0BWI1ZZAz2Ekb3atGw__imagepage/img/KutfyBdzsFHKvIykat2jtKjZI44=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8812848.jpg
+tags:
+  - Gadget Builder
+  - Pacific
+  - Rio Grande Games
+  - jogos de tabuleiro 2025
+  - Tom Lehmann
+  - Donald X. Vaccarino
+  - jogos de cartas
+  - estratégia
+  - Crazy Eights
+  - Nefarious
+keywords: >-
+  Gadget Builder, Pacific, Rio Grande Games, jogos de tabuleiro 2025, Tom
+  Lehmann, Donald X. Vaccarino, jogos de cartas, estratégia, Crazy Eights,
+  Nefarious
+author: Ana Luiza
+data: '2025-06-12T06:28:44.936Z'
+resumo: >-
+  Descubra as inovações de 'Gadget Builder' e 'Pacific', os mais recentes
+  lançamentos da Rio Grande Games para 2025, que prometem conquistar os fãs de
+  jogos de tabuleiro.
 ---
 
 ## Gadget Builder: Uma Nova Dimensão na Construção de Gadgets

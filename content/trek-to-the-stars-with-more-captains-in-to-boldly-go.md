@@ -1,14 +1,28 @@
 ---
-title: "Novos Jogos de Star Trek: Capitães Enfrentam Novos Desafios em 'To Boldly Go'"
-slug: "trek-to-the-stars-with-more-captains-in-to-boldly-go"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/8cICCdXlU7Loo9IJVBmzPg__imagepage/img/vkEB5gG8QW8n61Q1PgUUJoehZZ8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8931237.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/8cICCdXlU7Loo9IJVBmzPg__imagepage/img/vkEB5gG8QW8n61Q1PgUUJoehZZ8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8931237.jpg"
-tags: ["Star Trek", "jogos de tabuleiro", "Captain's Chair", "WizKids", "To Boldly Go", "Second Contact", "lançamentos 2025"]
-keywords: "Star Trek, jogos de tabuleiro, Captain's Chair, WizKids, To Boldly Go, Second Contact, lançamentos 2025"
-author: "Pablo Moura"
-data: "2025-06-12T06:29:41.485Z"
+title: 'Novos Jogos de Star Trek: Capitães Enfrentam Novos Desafios em ''To Boldly Go'''
+slug: trek-to-the-stars-with-more-captains-in-to-boldly-go
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/8cICCdXlU7Loo9IJVBmzPg__imagepage/img/vkEB5gG8QW8n61Q1PgUUJoehZZ8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8931237.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/8cICCdXlU7Loo9IJVBmzPg__imagepage/img/vkEB5gG8QW8n61Q1PgUUJoehZZ8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8931237.jpg
+tags:
+  - Star Trek
+  - jogos de tabuleiro
+  - Captain's Chair
+  - WizKids
+  - To Boldly Go
+  - Second Contact
+  - lançamentos 2025
+keywords: >-
+  Star Trek, jogos de tabuleiro, Captain's Chair, WizKids, To Boldly Go, Second
+  Contact, lançamentos 2025
+author: Pablo Moura
+data: '2025-06-12T06:29:41.485Z'
+resumo: >-
+  Dois novos jogos da série 'Star Trek: Captain's Chair' chegam em dezembro,
+  trazendo mais capitães e desafios para os fãs da franquia.
 ---
 
 ## Explorando Novos Horizontes com 'Star Trek: Captain's Chair'
