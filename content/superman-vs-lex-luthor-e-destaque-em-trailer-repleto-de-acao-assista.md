@@ -19,6 +19,7 @@ tags:
   - 'Nicholas Hoult'
   - 'Rachel Brosnahan'
   - 'filme de super-heri'
+  - especial-Superman
 keywords: >-
   Superman 2025, Lex Luthor, James Gunn, DC Studios, trailer, estreia mundial, David Corenswet, Nicholas Hoult, Rachel Brosnahan, filme de super-herói
 author: Luana Souza

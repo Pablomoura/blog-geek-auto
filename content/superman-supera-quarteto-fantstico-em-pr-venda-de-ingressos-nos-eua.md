@@ -18,6 +18,7 @@ tags:
   - DCU
   - Amazon Prime
   - estreia 2025
+  - especial-Superman
 keywords: >-
   Superman, Quarteto Fantástico: Primeiros Passos, James Gunn, David Corenswet,
   Rachel Brosnahan, Nicholas Hoult, pré-venda, Fandango, DCU, Amazon Prime,

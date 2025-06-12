@@ -17,6 +17,7 @@ tags:
   - filme Superman 2025
   - trailer Superman
   - novo universo DC
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, Ultraman, David Corenswet, Rachel Brosnahan, Nicholas
   Hoult, DCU, filme Superman 2025, trailer Superman, novo universo DC

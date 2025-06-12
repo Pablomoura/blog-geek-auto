@@ -19,6 +19,7 @@ tags:
   - 'DC Comics'
   - 'Super-heri'
   - 'Filme 2025'
+  - especial-Superman
 keywords: >-
   David Corenswet, Superman, Henry Cavill, Tom Welling, Christopher Reeve, Julliard, Cinema, DC Comics, Super-herói, Filme 2025
 author: Pablo Moura

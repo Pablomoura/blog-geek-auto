@@ -19,6 +19,7 @@ tags:
   - 'recorde de bilheteria'
   - 'estreia no Brasil'
   - 'filme de super-heri'
+  - especial-Superman
 keywords: >-
   Superman, DC Studios, James Gunn, pré-venda de ingressos, Quarteto Fantástico, Amazon Prime, Fandango, recorde de bilheteria, estreia no Brasil, filme de super-herói
 author: Luana Souza

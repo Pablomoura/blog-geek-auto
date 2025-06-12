@@ -17,6 +17,7 @@ tags:
   - traje Superman
   - universo DC
   - lançamento Superman
+  - especial-Superman
 keywords: >-
   Superman, David Corenswet, James Gunn, Rachel Brosnahan, Nicholas Hoult, DCU,
   filme Superman 2025, traje Superman, universo DC, lançamento Superman

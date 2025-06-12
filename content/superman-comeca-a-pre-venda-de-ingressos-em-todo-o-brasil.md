@@ -20,6 +20,7 @@ tags:
   - 'Rachel Brosnahan'
   - 'Nicholas Hoult'
   - 'Peter Safran'
+  - especial-Superman
 keywords: >-
   Superman 2025, pré-venda ingressos, DC Studios, James Gunn, estreia Superman, filmes de super-herói, Brasil, David Corenswet, Rachel Brosnahan, Nicholas Hoult, Peter Safran
 author: Ana Luiza

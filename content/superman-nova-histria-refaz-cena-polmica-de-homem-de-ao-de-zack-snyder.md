@@ -21,6 +21,7 @@ tags:
   - Lois Lane
   - Metrópoles
   - DCU
+  - especial-Superman
 keywords: >-
   Superman, Mark Waid, Skylar Patridge, Homem de Aço, Zack Snyder, DC Universe,
   James Gunn, David Corenswet, Rachel Brosnahan, Nicholas Hoult, Lex Luthor,

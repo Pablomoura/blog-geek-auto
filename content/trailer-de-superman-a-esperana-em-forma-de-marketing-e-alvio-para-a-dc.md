@@ -18,6 +18,7 @@ tags:
   - Zack Snyder
   - Adão Negro
   - filme de super-herói
+  - especial-Superman
 keywords: >-
   Superman, DC Studios, James Gunn, Peter Safran, trailer do Superman, Lex
   Luthor, Nicholas Hoult, O Homem de Aço, Zack Snyder, Adão Negro, filme de

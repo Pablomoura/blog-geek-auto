@@ -17,6 +17,7 @@ tags:
   - Rachel Brosnahan
   - Nicholas Hoult
   - filme do Superman 2025
+  - especial-Superman
 keywords: >-
   Superman, Krypto, Cinemark, David Corenswet, James Gunn, DCU, cinema, balde de
   pipoca, Rachel Brosnahan, Nicholas Hoult, filme do Superman 2025

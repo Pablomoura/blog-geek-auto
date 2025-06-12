@@ -13,6 +13,7 @@ tags:
   - DC Comics
   - estreia Superman
   - '[Nome do Diretor]'
+  - especial-Superman
 keywords: >-
   Superman, pôsteres Superman, filme Superman 2025, Warner Bros., DC Comics,
   estreia Superman, [Nome do Diretor]

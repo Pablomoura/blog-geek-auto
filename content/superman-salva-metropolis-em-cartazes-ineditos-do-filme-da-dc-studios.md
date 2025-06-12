@@ -18,6 +18,7 @@ tags:
   - 'IMAX'
   - 'Dolby Cinema'
   - 'estreia Superman'
+  - especial-Superman
 keywords: >-
   Superman 2025, cartazes inéditos, DC Studios, pré-venda de ingressos, Lex Luthor, Metallo, IMAX, Dolby Cinema, estreia Superman
 author: Pablo Moura

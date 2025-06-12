@@ -27,6 +27,7 @@ tags:
   - Andy Muschietti
   - Matt Reeves
   - Robert Pattinson
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, David Corenswet, Metrópolis, DCU, Rachel Brosnahan,
   Nicholas Hoult, Skyler Gisondo, Nathan Fillion, Isabela Merced, Edi Gathegi,
