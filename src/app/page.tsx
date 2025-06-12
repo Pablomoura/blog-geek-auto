@@ -174,11 +174,17 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
         {bannerFilmes && (
           <Link
             href={`/noticia/${bannerFilmes.slug}`}
-            className="md:col-span-2 h-[320px] md:h-[400px] bg-cover bg-center rounded-xl flex items-end p-6 text-white relative shadow-lg"
-            style={{ backgroundImage: `url(${bannerFilmes.thumb})` }}
+            className="md:col-span-2 relative aspect-[5/3.33] rounded-xl overflow-hidden shadow-lg group"
           >
-            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/20 rounded-xl" />
-            <div className="relative z-10">
+            <Image
+              src={bannerFilmes.thumb}
+              alt={bannerFilmes.titulo}
+              fill
+              className="object-cover group-hover:scale-105 transition-transform duration-300 rounded-xl"
+              priority
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/20" />
+            <div className="relative z-10 p-6 text-white flex flex-col justify-end h-full transition-opacity duration-300 group-hover:opacity-95">
               <span className="text-sm uppercase text-orange-400 font-bold">{bannerFilmes.categoria}</span>
               <h2 className="text-2xl md:text-3xl font-extrabold leading-tight mt-1">{bannerFilmes.titulo}</h2>
             </div>
@@ -188,32 +194,46 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
         <div className="flex flex-col gap-4">
           {bannerSeries && (
             <Link
-            href={`/noticia/${bannerSeries.slug}`}
-            className="h-[190px] bg-cover bg-center rounded-xl flex items-end p-4 text-white relative shadow-md"
-            style={{ backgroundImage: `url(${bannerSeries.thumb})` }}
-          >
-            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/10 rounded-xl" />
-            <div className="relative z-10">
-              <span className="text-xs uppercase text-orange-400 font-bold">{bannerSeries.categoria}</span>
-              <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">{bannerSeries.titulo}</h3>
-            </div> 
-          </Link>
+              href={`/noticia/${bannerSeries.slug}`}
+              className="relative aspect-[3/2] rounded-xl overflow-hidden shadow-md group"
+            >
+              <Image
+                src={bannerSeries.thumb}
+                alt={bannerSeries.titulo}
+                fill
+                className="object-cover group-hover:scale-105 transition-transform duration-300 rounded-xl"
+                loading="lazy"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/10 rounded-xl" />
+              <div className="relative z-10 p-4 text-white flex flex-col justify-end h-full transition-opacity duration-300 group-hover:opacity-95">
+                <span className="text-xs uppercase text-orange-400 font-bold">{bannerSeries.categoria}</span>
+                <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">{bannerSeries.titulo}</h3>
+              </div>
+            </Link>
           )}
+
           {bannerGames && (
             <Link
-            href={`/noticia/${bannerGames.slug}`}
-            className="h-[190px] bg-cover bg-center rounded-xl flex items-end p-4 text-white relative shadow-md"
-            style={{ backgroundImage: `url(${bannerGames.thumb})` }}
-          >
-            <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/10 rounded-xl" />
-            <div className="relative z-10">
-              <span className="text-xs uppercase text-orange-400 font-bold">{bannerGames.categoria}</span>
-              <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">{bannerGames.titulo}</h3>
-            </div>
-          </Link>
+              href={`/noticia/${bannerGames.slug}`}
+              className="relative aspect-[3/2] rounded-xl overflow-hidden shadow-md group"
+            >
+              <Image
+                src={bannerGames.thumb}
+                alt={bannerGames.titulo}
+                fill
+                className="object-cover group-hover:scale-105 transition-transform duration-300 rounded-xl"
+                loading="lazy"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/10 rounded-xl" />
+              <div className="relative z-10 p-4 text-white flex flex-col justify-end h-full transition-opacity duration-300 group-hover:opacity-95">
+                <span className="text-xs uppercase text-orange-400 font-bold">{bannerGames.categoria}</span>
+                <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">{bannerGames.titulo}</h3>
+              </div>
+            </Link>
           )}
         </div>
       </section>
+
       <Especiais especiais={especiaisMapeadoPorTag} />
 
       <SecaoCriticasRecentes posts={criticasRecentes} />
@@ -231,7 +251,6 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
                 width={764}
                 height={128}
                 priority={false}
-                unoptimized
               />
             </Link>
             </div>

@@ -33,29 +33,23 @@ Quando se fala em personagens extremamente poderosos nos quadrinhos, Doutor Manh
 
 ## Poderes e Habilidades
 
-![Imagem relacionada](/uploads/doutor-manhattan-vs-sentinela-quem-vence-1.png)
-
 Doutor Manhattan, uma criação seminal de Alan Moore para a série "Watchmen", redefine o conceito de poder nos quadrinhos. Tendo adquirido habilidades quase divinas após um acidente nuclear, Manhattan possui controle total sobre a matéria e as leis do universo. Ele pode transmutar elementos, manipular energia em qualquer forma e até mesmo alterar sua própria linha do tempo, como visto em "Relógio do Juízo Final".
 
-![Imagem relacionada](/uploads/doutor-manhattan-vs-sentinela-quem-vence-2.jpg)
+![Imagem relacionada](/uploads/doutor-manhattan-vs-sentinela-quem-vence-1.png)
 
 Por outro lado, Sentinela, de Robert Reynolds, é uma força da natureza no universo Marvel. Com o "poder de um milhão de sóis explodindo", ele é capaz de manipular moléculas, absorver energia e replicar poderes de outros super-heróis. No entanto, sua instabilidade mental muitas vezes compromete seu potencial máximo.
 
-![Imagem relacionada](/uploads/doutor-manhattan-vs-sentinela-quem-vence-3.jpg)
-
 **Ponto para o Doutor Manhattan.**
 
-![Imagem relacionada](/uploads/doutor-manhattan-vs-sentinela-quem-vence-4.jpeg)
+![Imagem relacionada](/uploads/doutor-manhattan-vs-sentinela-quem-vence-2.jpg)
 
 ## Força e Resistência
 
-![Imagem relacionada](/uploads/doutor-manhattan-vs-sentinela-quem-vence-5.jpg)
-
 Enquanto o Sentinela se destaca por sua força física incomensurável, capaz de enfrentar até mesmo os heróis mais poderosos da Marvel, Doutor Manhattan transcende a necessidade de força bruta. Ele não apenas se reconstrói no nível quântico, mas também escolhe como e quando participar de um confronto.
 
-![Imagem relacionada](/uploads/doutor-manhattan-vs-sentinela-quem-vence-6.jpg)
-
 **Ponto para o Doutor Manhattan.**
+
+![Imagem relacionada](/uploads/doutor-manhattan-vs-sentinela-quem-vence-3.jpg)
 
 ## Inteligência e Controle
 
@@ -63,14 +57,20 @@ A inteligência de Robert Reynolds é notável, sendo capaz de desenvolver tecno
 
 **Ponto para o Doutor Manhattan.**
 
+![Imagem relacionada](/uploads/doutor-manhattan-vs-sentinela-quem-vence-5.jpg)
+
 ## Velocidade e Habilidades de Combate
 
 Sentinela é extraordinariamente rápido, superando a velocidade da luz e enfrentando adversários interplanetários. No entanto, para Doutor Manhattan, a velocidade é irrelevante. Ele não precisa se mover para manipular a realidade ao seu redor, tornando qualquer comparação de velocidade obsoleta.
 
 **Ponto para o Doutor Manhattan.**
 
+![Imagem relacionada](/uploads/doutor-manhattan-vs-sentinela-quem-vence-6.jpg)
+
 ## Conclusão
 
 No confronto hipotético entre Doutor Manhattan e Sentinela, o resultado é claro. Enquanto Sentinela é uma força destrutiva e imprevisível, Doutor Manhattan representa um nível de controle e compreensão que transcende a realidade convencional. Seu domínio sobre o tempo e o espaço o coloca em uma categoria à parte, consolidando sua posição como vencedor deste embate de titãs.
+
+![Imagem relacionada](/uploads/doutor-manhattan-vs-sentinela-quem-vence-4.jpeg)
 
 Com este panorama detalhado, fica evidente que, embora ambos sejam incrivelmente poderosos, Doutor Manhattan possui uma vantagem inegável em termos de controle absoluto sobre a realidade.

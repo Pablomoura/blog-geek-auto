@@ -9,6 +9,7 @@ import UltimasNoticias from "@/components/UltimasNoticias";
 import ProdutosAmazon from "@/components/ProdutosAmazon";
 import { Metadata } from "next";
 import Image from "next/image";
+import BreadcrumbCategoria from "@/components/BreadcrumbCategoria";
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
@@ -114,6 +115,10 @@ export default async function CategoriaPage(props: {
   return (
     <>
       <Header />
+      <BreadcrumbCategoria
+        categoria={categoriaNome}
+        categoriaSlug={categoriaSlug}
+      />
       <div className="max-w-6xl mx-auto px-6 py-10">
         <h1 className="text-3xl font-extrabold mb-4 text-orange-600">{categoriaNome}</h1>
 
@@ -121,7 +126,7 @@ export default async function CategoriaPage(props: {
           <section className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
             <Link
               href={`/noticia/${banners[0].slug}`}
-              className="relative md:col-span-2 h-[320px] md:h-[400px] rounded-xl overflow-hidden shadow-lg group"
+              className="relative md:col-span-2 aspect-[5/3.33] rounded-xl overflow-hidden shadow-lg group"
             >
               <Image
                 src={banners[0].thumb}
@@ -129,9 +134,10 @@ export default async function CategoriaPage(props: {
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-300"
                 sizes="(max-width: 768px) 100vw, 66vw"
+                priority
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/20" />
-              <div className="relative z-10 p-6 text-white flex flex-col justify-end h-full">
+              <div className="relative z-10 p-6 text-white flex flex-col justify-end h-full transition-opacity duration-300 group-hover:opacity-95">
                 <span className="text-sm uppercase text-orange-400 font-bold">{banners[0].categoria}</span>
                 <h2 className="text-2xl md:text-3xl font-extrabold leading-tight mt-1">{banners[0].titulo}</h2>
               </div>
@@ -142,7 +148,7 @@ export default async function CategoriaPage(props: {
                 <Link
                   key={banner.slug}
                   href={`/noticia/${banner.slug}`}
-                  className="relative h-[190px] rounded-xl overflow-hidden shadow-md group"
+                  className="relative aspect-[3/2] rounded-xl overflow-hidden shadow-md group"
                 >
                   <Image
                     src={banner.thumb}
@@ -150,15 +156,15 @@ export default async function CategoriaPage(props: {
                     fill
                     className="object-cover group-hover:scale-105 transition-transform duration-300"
                     sizes="(max-width: 768px) 100vw, 33vw"
+                    loading="lazy"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-black/10 rounded-xl" />
-                  <div className="relative z-10 p-4 text-white">
+                  <div className="relative z-10 p-4 text-white flex flex-col justify-end h-full transition-opacity duration-300 group-hover:opacity-95">
                     <span className="text-xs uppercase text-orange-400 font-bold">{banner.categoria}</span>
                     <h3 className="text-md font-semibold leading-tight mt-1 line-clamp-2">{banner.titulo}</h3>
                   </div>
                 </Link>
               ))}
-
             </div>
           </section>
         )}
