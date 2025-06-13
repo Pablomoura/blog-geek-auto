@@ -32,6 +32,7 @@ import { inserirAnunciosNoTexto } from "@/utils/inserirAnunciosNoTexto";
 import JsonLdBreadcrumb from "@/components/JsonLdBreadcrumb";
 import Breadcrumb from "@/components/Breadcrumb";
 import JsonLdReview from "@/components/JsonLdReview";
+import YoutubeLite from "@/components/YoutubeLite";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -181,20 +182,16 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
       let textoFinal = await inserirLinksRelacionados(content, slug);
 
       // YouTube embed antes de converter para HTML
-      textoFinal = textoFinal.replace(/\[youtube\]:\s*(https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]+))/g, (_match, url, videoId) => {
-        return `
-          <div class="relative pb-[56.25%] h-0 overflow-hidden rounded-lg shadow-lg my-8">
-            <iframe
-              src="https://www.youtube.com/embed/${videoId}"
-              title="YouTube video"
-              class="absolute top-0 left-0 w-full h-full"
-              frameborder="0"
-              allowfullscreen
-              loading="lazy"
-            ></iframe>
-          </div>
-        `;
-      });
+      textoFinal = textoFinal.replace(
+        /\[youtube\]:\s*(https:\/\/www\.youtube\.com\/watch\?v=([a-zA-Z0-9_-]+))/g,
+        (_match, url, videoId) => {
+          return `
+            <div class="youtube-lite" data-videoid="${videoId}">
+              <img src="https://i.ytimg.com/vi/${videoId}/hqdefault.jpg" alt="YouTube video thumbnail"/>
+            </div>
+          `;
+        }
+      );
 
       textoFinal = inserirAnunciosNoTexto(textoFinal);
 
@@ -281,6 +278,29 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
 
           <Script src="https://platform.twitter.com/widgets.js" strategy="afterInteractive" />
           <Script src="https://www.instagram.com/embed.js" strategy="afterInteractive" />
+          <Script id="youtube-lite-init" strategy="afterInteractive">
+            {`
+              document.addEventListener("DOMContentLoaded", function () {
+                document.querySelectorAll(".youtube-lite").forEach(function (el) {
+                  el.addEventListener("click", function () {
+                    const videoId = el.getAttribute("data-videoid");
+                    const iframe = document.createElement("iframe");
+                    iframe.setAttribute("src", "https://www.youtube.com/embed/" + videoId + "?autoplay=1");
+                    iframe.setAttribute("frameborder", "0");
+                    iframe.setAttribute("allowfullscreen", "true");
+                    iframe.setAttribute("allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture");
+                    iframe.style.position = "absolute";
+                    iframe.style.top = "0";
+                    iframe.style.left = "0";
+                    iframe.style.width = "100%";
+                    iframe.style.height = "100%";
+                    el.innerHTML = "";
+                    el.appendChild(iframe);
+                  });
+                });
+              });
+            `}
+          </Script>
   
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
@@ -332,17 +352,22 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   />
                 )}
   
-                {data.tipoMidia === "video" && (
-                  <div className="relative pb-[56.25%] mb-6 h-0 overflow-hidden rounded-lg shadow-lg">
-                    <iframe
-                      src={data.midia}
-                      title={data.title}
-                      className="absolute top-0 left-0 w-full h-full"
-                      frameBorder="0"
-                      allowFullScreen
-                      loading="lazy"
-                    />
-                  </div>
+                {data.tipoMidia === "video" && data.midia?.includes("youtube.com") && (
+                  (() => {
+                    try {
+                      const urlObj = new URL(data.midia);
+                      let videoId = urlObj.searchParams.get("v") || "";
+
+                      if (!videoId && urlObj.pathname.startsWith("/embed/")) {
+                        videoId = urlObj.pathname.split("/embed/")[1].split(/[?&]/)[0];
+                      }
+
+                      if (!videoId) return null;
+                      return <YoutubeLite videoId={videoId} />;
+                    } catch {
+                      return null;
+                    }
+                  })()
                 )}
   
                 <div
