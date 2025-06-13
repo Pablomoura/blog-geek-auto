@@ -14,9 +14,9 @@ export default function CookieBanner() {
     };
 
     if ('requestIdleCallback' in window) {
-      (window as any).requestIdleCallback(showBanner);
+      (window.requestIdleCallback as unknown as (callback: IdleRequestCallback) => void)(showBanner);
     } else {
-      setTimeout(showBanner, 1500); // fallback
+      setTimeout(showBanner, 1500);
     }
   }, []);
 
