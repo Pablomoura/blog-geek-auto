@@ -8,8 +8,8 @@ import { gfmHeadingId } from "marked-gfm-heading-id";
 import hljs from "highlight.js";
 import DOMPurify from "isomorphic-dompurify";
 import { loadPostCache } from "../src/utils/loadPostCache";
-import { aplicarLinksInternosInteligente } from "../src/utils/autoLinks";
 import { otimizarImagensHtml } from "../src/utils/otimizarImagensHtml";
+import { aplicarLinksInternosInteligente } from "../src/utils/autoLinks-jsdom";
 
 const force = process.argv.includes("--force");
 
@@ -135,7 +135,7 @@ async function buildCache(): Promise<void> {
     let htmlConvertido = await marked.parse(markdown);
 
     // ✅ Aplica links internos ainda no markdown puro
-    markdown = await aplicarLinksInternosInteligente(markdown);
+    htmlConvertido = await aplicarLinksInternosInteligente(htmlConvertido)
 
     // ✅ Depois insere links relacionados
     htmlConvertido = await inserirLinksRelacionados(htmlConvertido, slug);

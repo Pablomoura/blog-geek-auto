@@ -9,7 +9,7 @@ import Script from "next/script";
 import React from "react";
 import DOMPurify from "isomorphic-dompurify";
 import ProdutosAmazon from "@/components/ProdutosAmazon";
-import { aplicarLinksInternosInteligente } from "@utils/autoLinks";
+import { aplicarLinksInternosInteligente } from "@utils/autoLinks-jsdom";
 import { marked } from "marked";
 import { markedHighlight } from "marked-highlight";
 import { gfmHeadingId } from "marked-gfm-heading-id";
@@ -184,13 +184,13 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
       // ✅ converte o markdown para HTML
       let htmlConvertido = await marked.parse(textoFinal);
 
-      // ✅ aplica os links internos no HTML (agora sim no ponto certo)
-      let htmlComLinksInternos = await aplicarLinksInternosInteligente(htmlConvertido);
+      // aplicar links internos no HTML convertido
+      htmlConvertido = await aplicarLinksInternosInteligente(htmlConvertido);
 
       htmlConvertido = await inserirLinksRelacionados(htmlConvertido, slug);
 
       // Link externo target blank
-      const htmlComTargetBlank = htmlComLinksInternos.replace(
+      const htmlComTargetBlank = htmlConvertido.replace(
         /<a\s+(?![^>]*target=)[^>]*href="([^"]+)"([^>]*)>/g,
         '<a href="$1"$2 target="_blank" rel="noopener noreferrer">'
       );
