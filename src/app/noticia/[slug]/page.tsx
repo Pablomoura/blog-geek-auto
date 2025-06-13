@@ -339,18 +339,34 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                   {atualizadoEm && <> • Atualizado em {atualizadoEm}</>} • {tempoLeitura} min de leitura
                 </p>
   
-                {data.tipoMidia === "imagem" && (
-                  <Image
-                  src={data.midia}
-                  alt={data.title}
-                  width={800}
-                  height={450}
-                  sizes="(max-width: 768px) 100vw, 800px"
-                  className="w-full rounded-lg shadow-lg mb-6"
-                  unoptimized
-                  priority
-                  />
-                )}
+                {data.tipoMidia === "imagem" && (() => {
+                  try {
+                    const isExternal = data.midia?.startsWith("http");
+                    const isYoutube = data.midia?.includes("youtube.com") || data.midia?.includes("youtu.be");
+
+                    // se for vídeo (embed de youtube) → não renderiza como imagem
+                    if (isYoutube) return null;
+
+                    // fallback se a midia estiver vazia
+                    const imageUrl = data.midia
+                      ? (isExternal ? data.midia : `https://www.geeknews.com.br${data.midia}`)
+                      : "/images/default.jpg";
+
+                    return (
+                      <Image
+                        src={imageUrl}
+                        alt={data.title}
+                        width={800}
+                        height={450}
+                        sizes="(max-width: 768px) 100vw, 800px"
+                        className="w-full rounded-lg shadow-lg mb-6"
+                        priority
+                      />
+                    );
+                  } catch {
+                    return null;
+                  }
+                })()}
   
                 {data.tipoMidia === "video" && data.midia?.includes("youtube.com") && (
                   (() => {
