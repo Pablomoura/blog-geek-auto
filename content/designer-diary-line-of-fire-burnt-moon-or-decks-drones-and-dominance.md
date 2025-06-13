@@ -1,14 +1,33 @@
 ---
-title: "Line of Fire: Burnt Moon — O Novo Jogo de Estratégia da Série Undaunted"
-slug: "designer-diary-line-of-fire-burnt-moon-or-decks-drones-and-dominance"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/WgfoxbddW8PvTNL5OlMw7Q__imagepage/img/4AEb83ap7O1fvQzVlNpnWIPpRy0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8441769.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/WgfoxbddW8PvTNL5OlMw7Q__imagepage/img/4AEb83ap7O1fvQzVlNpnWIPpRy0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8441769.jpg"
-tags: ["Line of Fire: Burnt Moon", "Undaunted", "jogos de tabuleiro", "board games", "jogos de estratégia", "construção de baralho", "batalhas de lanes", "Osprey Games", "David Thompson", "Trevor Benjamin"]
-keywords: "Line of Fire: Burnt Moon, Undaunted, jogos de tabuleiro, board games, jogos de estratégia, construção de baralho, batalhas de lanes, Osprey Games, David Thompson, Trevor Benjamin"
-author: "Ana Luiza"
-data: "2025-06-13T06:29:07.838Z"
+title: 'Line of Fire: Burnt Moon — O Novo Jogo de Estratégia da Série Undaunted'
+slug: designer-diary-line-of-fire-burnt-moon-or-decks-drones-and-dominance
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/WgfoxbddW8PvTNL5OlMw7Q__imagepage/img/4AEb83ap7O1fvQzVlNpnWIPpRy0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8441769.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/WgfoxbddW8PvTNL5OlMw7Q__imagepage/img/4AEb83ap7O1fvQzVlNpnWIPpRy0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8441769.jpg
+tags:
+  - 'Line of Fire: Burnt Moon'
+  - Undaunted
+  - jogos de tabuleiro
+  - board games
+  - jogos de estratégia
+  - construção de baralho
+  - batalhas de lanes
+  - Osprey Games
+  - David Thompson
+  - Trevor Benjamin
+keywords: >-
+  Line of Fire: Burnt Moon, Undaunted, jogos de tabuleiro, board games, jogos de
+  estratégia, construção de baralho, batalhas de lanes, Osprey Games, David
+  Thompson, Trevor Benjamin
+author: Ana Luiza
+data: '2025-06-13T06:29:07.838Z'
+resumo: >-
+  Mergulhe no universo de Line of Fire: Burnt Moon, um jogo que transforma a
+  clássica jogabilidade de construção de baralho em batalhas de alta tecnologia
+  na lua Io de Júpiter.
 ---
 
 ## Uma Nova Era para a Série Undaunted
