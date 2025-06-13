@@ -2,13 +2,14 @@
 import './globals.css';
 import Script from 'next/script';
 import { Metadata } from 'next';
-import Link from "@/components/SmartLink"; // usa o seu link customizado
+import Link from "@/components/SmartLink";
 import CookieBanner from '@/components/CookieBanner';
 import PageLoader from "@/components/PageLoader";
 import { LoadingProvider } from "@/app/loading-context";
 import BotaoTrocarTema from "@/components/BotaoTrocarTema";
 import CookieScripts from "@/components/CookieScripts";
 import { Analytics } from "@vercel/analytics/next"
+import JsonLdOrganization from "@/components/JsonLdOrganization";
 
 export const metadata: Metadata = {
   title: "GeekNews - O melhor do mundo geek",
@@ -50,6 +51,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </Script>
       </head>
       <body className="text-neutral-900 dark:text-white font-sans">
+        <JsonLdOrganization />
       <div className="bg-white dark:bg-black text-neutral-900 dark:text-white transition-all duration-300 ease-in-out">
         <BotaoTrocarTema />
         <CookieScripts />

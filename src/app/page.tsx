@@ -12,7 +12,7 @@ import matter from "gray-matter";
 import Image from "next/image";
 import SecaoCriticasRecentes from "@/components/SecaoCriticasRecentes";
 import { PostResumo } from "@/types/post";
-
+import JsonLdWebSite from "@/components/JsonLdWebSite";
 
 type Banner = {
   slug: string;
@@ -168,6 +168,7 @@ export default async function HomePage({ searchParams }: { searchParams: Promise
   return (
     <>
       <Header />
+      <JsonLdWebSite />
       {stories.length > 0 && <WebStories stories={stories} />}
       {/* BANNERS PRINCIPAIS */}
       <section className="max-w-6xl mx-auto px-6 pt-2 pb-8 grid grid-cols-1 md:grid-cols-3 gap-6">

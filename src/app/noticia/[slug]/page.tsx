@@ -31,6 +31,7 @@ import PostsRelacionados, { getPostsRelacionados } from "@/components/PostsRelac
 import { inserirAnunciosNoTexto } from "@/utils/inserirAnunciosNoTexto";
 import JsonLdBreadcrumb from "@/components/JsonLdBreadcrumb";
 import Breadcrumb from "@/components/Breadcrumb";
+import JsonLdReview from "@/components/JsonLdReview";
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -146,6 +147,22 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
   try {
     const file = await fs.readFile(filePath, "utf-8");
     const { data, content } = matter(file);
+    const articleBody = content
+      .replace(/[#>*_`-]/g, "") // remove markdown básico
+      .replace(/\s+/g, " ")     // normaliza espaços
+      .trim()
+      .slice(0, 200);           // pega os primeiros 200 caracteres
+
+    const wordCount = content.split(/\s+/).length;
+    // Gera um reviewBody limpo com ~500 caracteres
+    const reviewBody = content
+      .replace(/[#>*_`-]/g, "") // remove markdown básico
+      .replace(/\[.*?\]\(.*?\)/g, "") // remove links em markdown [texto](url)
+      .replace(/!\[.*?\]\(.*?\)/g, "") // remove imagens em markdown ![alt](url)
+      .replace(/<\/?[^>]+(>|$)/g, "") // remove HTML (se tiver)
+      .replace(/\s+/g, " ") // normaliza espaços
+      .trim()
+      .slice(0, 500);
     const tempoLeitura = Math.ceil(content.split(" ").length / 200);
     const publicadoEm = new Date(data.data).toLocaleDateString("pt-BR");
     const atualizadoEm = data.atualizado_em
@@ -241,6 +258,9 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
               midia: data.midia,
               data: data.data,
               author: data.author,
+              articleBody: articleBody,
+              wordCount: wordCount,
+              tags: data.tags,
             }}
           />
           <JsonLdBreadcrumb
@@ -333,6 +353,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                 <InstagramLoader />
 
                 {data.tipo === "critica" && data.notaCritico && (
+                  <>
                     <FichaTecnica
                       capa={data.capaObra || data.thumb}
                       tituloPortugues={data.tituloPortugues || data.title}
@@ -345,6 +366,24 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
                       direcao={data.direcao}
                       elenco={data.elenco}
                     />
+                    <JsonLdReview
+                      data={{
+                        title: data.title,
+                        resumo: data.resumo,
+                        url: `https://www.geeknews.com.br/noticia/${slug}`,
+                        author: data.author,
+                        notaCritico: data.notaCritico,
+                        publisherName: "GeekNews",
+                        publisherLogo: "https://www.geeknews.com.br/logo.png",
+                        reviewBody: reviewBody, // snippet que te passei
+                        itemReviewed: {
+                          name: data.tituloPortugues || data.title,
+                          type: "Movie", // ou TVSeries, VideoGame, Book, etc.
+                          image: data.capaObra || data.thumb,
+                        },
+                      }}
+                    />
+                  </>
                   )}
 
                 <CompartilharNoticia titulo={data.title} />

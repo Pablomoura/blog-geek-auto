@@ -1,102 +1,102 @@
 {
-  "data": "2025-06-12",
+  "data": "2025-06-13",
   "games": [
     {
-      "slug": "jogamos-wuchang-no-wukong-e-apela-para-pblico-mais-hardcore",
-      "titulo": "Wuchang: Fallen Feathers Eleva a Barra dos Soulslikes em 2025",
-      "thumb": "/uploads/jogamos-wuchang-no-wukong-e-apela-para-pblico-mais-hardcore-thumb.png",
-      "categoria": "GAMES"
-    },
-    {
-      "slug": "split-fiction-brilha-no-nintendo-switch-2-portando-uma-das-melhores-experiencias-cooperativas-de-2025",
-      "titulo": "Split Fiction Revoluciona a Experiência Cooperativa no Nintendo Switch 2 em 2025",
-      "thumb": "/uploads/split-fiction-brilha-no-nintendo-switch-2-portando-uma-das-melhores-experiencias-cooperativas-de-2025-thumb.webp",
+      "slug": "diretor-de-the-outer-worlds-2-sobre-criticas-ao-preco-8220-falem-com-a-xbox-8221",
+      "titulo": "The Outer Worlds 2: Diretor Responde a Polêmica sobre Preço de Lançamento",
+      "thumb": "/uploads/diretor-de-the-outer-worlds-2-sobre-criticas-ao-preco-8220-falem-com-a-xbox-8221-thumb.jpg",
       "categoria": "Games"
     },
     {
-      "slug": "pubg-nova-atualizacao-promove-mudancas-no-modo-competitivo",
-      "titulo": "PUBG: Atualização 36.1 Revoluciona o Modo Competitivo com Novos Níveis e Recursos",
-      "thumb": "/uploads/pubg-nova-atualizacao-promove-mudancas-no-modo-competitivo-thumb.png",
+      "slug": "dave-bautista-e-criador-de-stray-lanam-jogo-de-ao-com-gatos-assassinos",
+      "titulo": "Dave Bautista e Criador de 'Stray' Lançam Jogo de Ação com Gatos Assassinos",
+      "thumb": "/uploads/dave-bautista-e-criador-de-stray-lanam-jogo-de-ao-com-gatos-assassinos-thumb.jpg",
+      "categoria": "Games"
+    },
+    {
+      "slug": "cartas-de-magic-the-gathering-e-homem-aranha-da-marvel-voltaram-ao-estoque-na-amazon",
+      "titulo": "Cartas de Magic: The Gathering e Homem-Aranha da Marvel Voltaram ao Estoque na Amazon",
+      "thumb": "/uploads/cartas-de-magic-the-gathering-e-homem-aranha-da-marvel-voltaram-ao-estoque-na-amazon-thumb.jpg",
       "categoria": "Games"
     }
   ],
   "series-e-tv": [
     {
-      "slug": "ator-de-stranger-things-diz-que-est-aliviado-com-o-fim-da-srie",
-      "titulo": "David Harbour Expressa Alívio com o Encerramento de Stranger Things",
-      "thumb": "/uploads/ator-de-stranger-things-diz-que-est-aliviado-com-o-fim-da-srie-thumb.png",
-      "categoria": "SÉRIES E TV"
-    },
-    {
-      "slug": "doutor-manhattan-vs-sentinela-quem-vence",
-      "titulo": "Doutor Manhattan vs Sentinela: Um Confronto de Titãs nos Quadrinhos",
-      "thumb": "/uploads/doutor-manhattan-vs-sentinela-quem-vence-thumb.webp",
+      "slug": "andor-124-final-da-2-temporada-quebra-recorde-de-audiencia-da-serie",
+      "titulo": "Final de Andor: Segunda Temporada Estabelece Novo Recorde de Audiência",
+      "thumb": "/uploads/andor-124-final-da-2-temporada-quebra-recorde-de-audiencia-da-serie-thumb.png",
       "categoria": "Séries e TV"
     },
     {
-      "slug": "a-origem-dos-predadores",
-      "titulo": "Desvendando a Complexa História dos Predadores: De Yautja Prime à Conquista da Terra",
-      "thumb": "/uploads/a-origem-dos-predadores-thumb.jpg",
+      "slug": "cara-de-barro-124-filme-da-dc-studios-ganha-inusitado-titulo-de-producao",
+      "titulo": "Título de Produção de Cara-de-Barro da DC Studios Surpreende com Referência Bíblica",
+      "thumb": "/uploads/cara-de-barro-124-filme-da-dc-studios-ganha-inusitado-titulo-de-producao-thumb.jpg",
+      "categoria": "Séries e TV"
+    },
+    {
+      "slug": "james-gunn-recomenda-versao-3d-de-superman-8220-incrivel-8221",
+      "titulo": "James Gunn Elogia Experiência Visual do Novo Superman em 3D: Uma Revolução no Cinema?",
+      "thumb": "/uploads/james-gunn-recomenda-versao-3d-de-superman-8220-incrivel-8221-thumb.webp",
       "categoria": "Séries e TV"
     }
   ],
   "mangas-e-animes": [
     {
-      "slug": "samurai-warriors-ganhara-novo-anime-em-2026",
-      "titulo": "Novo Anime de Samurai Warriors Estreia em 2026: Um Clássico Renascido",
-      "thumb": "/uploads/samurai-warriors-ganhara-novo-anime-em-2026-thumb.webp",
+      "slug": "criadores-de-rezero-e-dirios-de-uma-apotecria-fazem-novo-anime",
+      "titulo": "Novo Anime Une Criadores de Re:Zero e Diários de Uma Apotecária",
+      "thumb": "/uploads/criadores-de-rezero-e-dirios-de-uma-apotecria-fazem-novo-anime-thumb.webp",
+      "categoria": "MANGÁS E ANIMES"
+    },
+    {
+      "slug": "bleach-thousand-year-blood-war-124-parte-4-ganhara-novidades-no-jump-victory-carnival",
+      "titulo": "Bleach: Thousand-Year Blood War Parte 4 Revela Surpresas no Jump Victory Carnival 2025",
+      "thumb": "/uploads/bleach-thousand-year-blood-war-124-parte-4-ganhara-novidades-no-jump-victory-carnival-thumb.webp",
       "categoria": "Mangás e Animes"
     },
     {
-      "slug": "jujutsu-kaisen-novo-filme-ser-lanado-no-brasil-pela-crunchyroll",
-      "titulo": "Jujutsu Kaisen: Filme 'Inventário Oculto / Morte Prematura' Chega ao Brasil pela Crunchyroll",
-      "thumb": "/uploads/jujutsu-kaisen-novo-filme-ser-lanado-no-brasil-pela-crunchyroll-thumb.png",
-      "categoria": "MANGÁS E ANIMES"
-    },
-    {
-      "slug": "samurai-warriors-anime-clssico-da-manchete-vai-ganhar-continuao",
-      "titulo": "Continuação de Samurai Warriors é Anunciada para Janeiro de 2026 no Japão",
-      "thumb": "/uploads/samurai-warriors-anime-clssico-da-manchete-vai-ganhar-continuao-thumb.png",
-      "categoria": "MANGÁS E ANIMES"
+      "slug": "genshin-impact-ganha-novo-curta-em-anime-focado-em-skirk",
+      "titulo": "Genshin Impact Lança Curta Anime 'Star Odyssey' com Enfoque em Skirk",
+      "thumb": "/uploads/genshin-impact-ganha-novo-curta-em-anime-focado-em-skirk-preview.jpg",
+      "categoria": "Mangás e Animes"
     }
   ],
   "filmes": [
     {
-      "slug": "um-conto-de-natal-robert-eggers-dirigir-adaptao-da-warner-bros",
-      "titulo": "Robert Eggers Dirige Adaptação de 'Um Conto de Natal' com Willem Dafoe como Scrooge",
-      "thumb": "/uploads/um-conto-de-natal-robert-eggers-dirigir-adaptao-da-warner-bros-thumb.png",
-      "categoria": "FILMES"
-    },
-    {
-      "slug": "cristin-milioti-e-substituida-em-terror-da-a24",
-      "titulo": "Renate Reinsve Assume Papel em Filme de Terror da A24, Substituindo Cristin Milioti",
-      "thumb": "/uploads/cristin-milioti-e-substituida-em-terror-da-a24-thumb.webp",
+      "slug": "a-vida-de-jesus-124-filme-de-martin-scorsese-sera-gravado-em-preto-e-branco",
+      "titulo": "Martin Scorsese Revitaliza 'A Vida de Jesus' em Preto e Branco: Um Novo Olhar no Cinema Contemporâneo",
+      "thumb": "/uploads/a-vida-de-jesus-124-filme-de-martin-scorsese-sera-gravado-em-preto-e-branco-thumb.webp",
       "categoria": "Filmes"
     },
     {
-      "slug": "jri-condena-harvey-weinstein-por-agresso-sexual-em-novo-julgamento",
-      "titulo": "Harvey Weinstein Mantido Culpado por Agressão Sexual em Novo Julgamento",
-      "thumb": "/uploads/jri-condena-harvey-weinstein-por-agresso-sexual-em-novo-julgamento-thumb.png",
+      "slug": "o-diabo-veste-prada-2-emily-blunt-revela-novidades-sobre-o-filme",
+      "titulo": "Emily Blunt Anuncia Produção de 'O Diabo Veste Prada 2' em 2026",
+      "thumb": "/uploads/o-diabo-veste-prada-2-emily-blunt-revela-novidades-sobre-o-filme-thumb.png",
+      "categoria": "FILMES"
+    },
+    {
+      "slug": "the-life-of-jesus-filme-de-scorsese-ser-filmado-em-preto-e-branco",
+      "titulo": "Martin Scorsese Prepara Filme 'The Life of Jesus' em Preto e Branco",
+      "thumb": "/uploads/the-life-of-jesus-filme-de-scorsese-ser-filmado-em-preto-e-branco-thumb.png",
       "categoria": "FILMES"
     }
   ],
   "board-games": [
     {
+      "slug": "trek-to-the-stars-with-more-captains-in-to-boldly-go",
+      "titulo": "Novos Jogos de Star Trek: Capitães Enfrentam Novos Desafios em 'To Boldly Go'",
+      "thumb": "https://cf.geekdo-images.com/8cICCdXlU7Loo9IJVBmzPg__imagepage/img/vkEB5gG8QW8n61Q1PgUUJoehZZ8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8931237.jpg",
+      "categoria": "Board Games"
+    },
+    {
+      "slug": "build-gadgets-with-tom-lehmann-and-do-business-in-the-pacific-with-donald-x",
+      "titulo": "Novos Jogos de Tom Lehmann e Donald X. Vaccarino Prometem Revolucionar 2025",
+      "thumb": "https://cf.geekdo-images.com/gjoB0BWI1ZZAz2Ekb3atGw__imagepage/img/KutfyBdzsFHKvIykat2jtKjZI44=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8812848.jpg",
+      "categoria": "Board Games"
+    },
+    {
       "slug": "asmodee-acquires-zombicide-from-cmon",
       "titulo": "Asmodee Adquire Zombicide e Expande Portfólio de Jogos de Tabuleiro",
       "thumb": "https://cf.geekdo-images.com/ny3e_Fow7nW0YBE1obS3QQ__imagepage/img/NPav3Jdy5EBVi-8MhOinXYh3ST8=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8931016.jpg",
-      "categoria": "Board Games"
-    },
-    {
-      "slug": "mashiu-and-jun-sasaki-on-rafter-five",
-      "titulo": "Desvendando Rafter Five: O Processo Criativo por Trás do Novo Sucesso da Oink Games",
-      "thumb": "https://cf.geekdo-images.com/JQjFasYfh5z44gbbq85DeA__imagepage/img/k3IQuGt8zV82eUl83tRm3NJOrzQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7836637.png",
-      "categoria": "Board Games"
-    },
-    {
-      "slug": "game-review-money-or-share-it-fairly-but-don039t-take-a-slice-of-my-pie",
-      "titulo": "Revisão do Jogo: Money! de Reiner Knizia Renova a Arte de Tratar Moedas",
-      "thumb": "https://cf.geekdo-images.com/spgIw75EFPR1TViSoe0Sgg__imagepage/img/vDR53EX3l0pd0Nsq7L2PTzYQxlc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8469504.jpg",
       "categoria": "Board Games"
     }
   ],

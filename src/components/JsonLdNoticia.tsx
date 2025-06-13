@@ -1,4 +1,5 @@
 "use client";
+
 import Script from "next/script";
 
 type NoticiaData = {
@@ -8,7 +9,20 @@ type NoticiaData = {
   midia?: string;
   data?: string;
   author?: string;
+  articleBody?: string;
+  wordCount?: number;
+  tags?: string[];
 };
+
+function slugifyAutor(nome?: string): string {
+  if (!nome) return "";
+  return nome
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
 
 export default function JsonLdNoticia({
   slug,
@@ -39,10 +53,14 @@ export default function JsonLdNoticia({
     "author": {
       "@type": "Person",
       "name": data.author || "GeekNews",
+      "url": data.author
+        ? `https://www.geeknews.com.br/autor/${slugifyAutor(data.author)}`
+        : "https://www.geeknews.com.br",
     },
     "publisher": {
       "@type": "Organization",
       "name": "GeekNews",
+      "url": "https://www.geeknews.com.br",
       "logo": {
         "@type": "ImageObject",
         "url": "https://www.geeknews.com.br/logo.png",
@@ -50,6 +68,13 @@ export default function JsonLdNoticia({
         "height": 60,
       },
     },
+    "articleBody": data.articleBody || "",
+    "wordCount": data.wordCount || undefined,
+    "isAccessibleForFree": true,
+    "about": data.tags?.map((tag) => ({
+      "@type": "Thing",
+      "name": tag,
+    })),
   };
 
   return (

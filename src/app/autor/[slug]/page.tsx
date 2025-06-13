@@ -6,6 +6,7 @@ import { notFound } from "next/navigation";
 import autores from "@/data/autores.json";
 import Link from "@/components/SmartLink";
 import Header from "@/components/Header";
+import JsonLdProfilePage from "@/components/JsonLdProfilePage";
 
 function slugify(nome: string) {
   return nome
@@ -103,6 +104,12 @@ export default async function AutorPage(props: {
   return (
     <>
       <Header />
+      <JsonLdProfilePage
+        nome={autor.nome}
+        bio={autor.bio}
+        imagem={autor.imagem}
+        slug={slug}
+      />
       <main className="max-w-4xl mx-auto px-6 py-10">
         <div className="flex items-center gap-6 mb-10">
           <Image
