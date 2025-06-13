@@ -3,9 +3,26 @@
 import { useEffect, useState } from 'react';
 
 export default function CookieBanner() {
+  const [shouldCheckConsent, setShouldCheckConsent] = useState(false);
   const [visible, setVisible] = useState(false);
+  const [fadeIn, setFadeIn] = useState(false);
 
   useEffect(() => {
+    // Defer check to idleCallback or setTimeout
+    const showBanner = () => {
+      setShouldCheckConsent(true);
+    };
+
+    if ('requestIdleCallback' in window) {
+      (window as any).requestIdleCallback(showBanner);
+    } else {
+      setTimeout(showBanner, 1500); // fallback
+    }
+  }, []);
+
+  useEffect(() => {
+    if (!shouldCheckConsent) return;
+
     const consent = localStorage.getItem('cookieConsent');
     const rejectedAt = localStorage.getItem('cookieRejectedAt');
 
@@ -21,7 +38,20 @@ export default function CookieBanner() {
     } else {
       setVisible(true);
     }
-  }, []);
+  }, [shouldCheckConsent]);
+
+  // Trigger fade-in when becoming visible
+  useEffect(() => {
+    if (visible) {
+      // pequeno delay pro fade ficar suave
+      const timer = setTimeout(() => {
+        setFadeIn(true);
+      }, 200);
+      return () => clearTimeout(timer);
+    } else {
+      setFadeIn(false);
+    }
+  }, [visible]);
 
   const acceptCookies = () => {
     localStorage.setItem('cookieConsent', 'true');
@@ -38,10 +68,14 @@ export default function CookieBanner() {
   if (!visible) return null;
 
   return (
-    <div className="fixed bottom-0 w-full bg-gray-800 text-white p-4 text-sm z-50 shadow-lg flex justify-center">
+    <div
+      className={`fixed bottom-0 w-full bg-gray-800 text-white p-4 text-sm z-50 shadow-lg flex justify-center transition-opacity duration-700 ${
+        fadeIn ? 'opacity-100' : 'opacity-0'
+      }`}
+    >
       <div className="max-w-md text-center">
         <p className="mb-4">
-          Usamos cookies para melhorar sua experiência. Ao continuar, você concorda com nossa{" "}
+          Usamos cookies para melhorar sua experiência. Ao continuar, você concorda com nossa{' '}
           <a href="/politica-de-privacidade" className="underline text-orange-400 hover:text-orange-500">
             Política de Privacidade
           </a>.
