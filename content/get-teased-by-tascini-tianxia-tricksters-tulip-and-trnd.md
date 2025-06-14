@@ -1,14 +1,34 @@
 ---
-title: "Novos Jogos de Tabuleiro de Tascini e Outros Destaques para 2025"
-slug: "get-teased-by-tascini-tianxia-tricksters-tulip-and-trnd"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/t6Z7dmUF2ER_2eLSIS0xCQ__imagepage/img/qVKp8EnJ3AYEe1yIuPWi8g-ZjkQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8922291.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/t6Z7dmUF2ER_2eLSIS0xCQ__imagepage/img/qVKp8EnJ3AYEe1yIuPWi8g-ZjkQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8922291.jpg"
-tags: ["Board&Dice", "Daniele Tascini", "Tianxia", "Trickster", "TRND", "Tulip", "jogos de tabuleiro", "lançamentos 2025", "Período dos Reinos Combatentes", "China", "jogos de cartas"]
-keywords: "Board&Dice, Daniele Tascini, Tianxia, Trickster, TRND, Tulip, jogos de tabuleiro, lançamentos 2025, Período dos Reinos Combatentes, China, jogos de cartas"
-author: "Pablo Moura"
-data: "2025-06-14T06:25:23.037Z"
+title: Novos Jogos de Tabuleiro de Tascini e Outros Destaques para 2025
+slug: get-teased-by-tascini-tianxia-tricksters-tulip-and-trnd
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/t6Z7dmUF2ER_2eLSIS0xCQ__imagepage/img/qVKp8EnJ3AYEe1yIuPWi8g-ZjkQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8922291.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/t6Z7dmUF2ER_2eLSIS0xCQ__imagepage/img/qVKp8EnJ3AYEe1yIuPWi8g-ZjkQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8922291.jpg
+tags:
+  - Board&Dice
+  - Daniele Tascini
+  - Tianxia
+  - Trickster
+  - TRND
+  - Tulip
+  - jogos de tabuleiro
+  - lançamentos 2025
+  - Período dos Reinos Combatentes
+  - China
+  - jogos de cartas
+keywords: >-
+  Board&Dice, Daniele Tascini, Tianxia, Trickster, TRND, Tulip, jogos de
+  tabuleiro, lançamentos 2025, Período dos Reinos Combatentes, China, jogos de
+  cartas
+author: Pablo Moura
+data: '2025-06-14T06:25:23.037Z'
+resumo: >-
+  Board&Dice anuncia um novo jogo de Daniele Tascini, além de outros lançamentos
+  intrigantes para 2025. Descubra detalhes de Tianxia, Trickster: Tianxia, TRND
+  e Tulip.
 ---
 
 ## Tianxia: Uma Nova Aventura de Tascini e Petrelli
