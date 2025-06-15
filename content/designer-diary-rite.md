@@ -1,14 +1,35 @@
 ---
-title: "Rite: A Jornada de Criação de um Wargame Assimétrico Épico"
-slug: "designer-diary-rite"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/4R8zLm9Dr5yVoQELVEt-sQ__imagepage/img/Y51jvJq0QP7wcMmzrELbJt8U2Qk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7853274.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/4R8zLm9Dr5yVoQELVEt-sQ__imagepage/img/Y51jvJq0QP7wcMmzrELbJt8U2Qk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7853274.jpg"
-tags: ["Rite", "jogo de tabuleiro", "wargame assimétrico", "Karl van Stiphout", "mecânicas de jogo", "Cthulhu", "facções únicas", "sistema de energia", "Firelord", "hexágonos", "estratégia dinâmica"]
-keywords: "Rite, jogo de tabuleiro, wargame assimétrico, Karl van Stiphout, mecânicas de jogo, Cthulhu, facções únicas, sistema de energia, Firelord, hexágonos, estratégia dinâmica"
-author: "Pablo Moura"
-data: "2025-06-15T06:26:08.241Z"
+title: 'Rite: A Jornada de Criação de um Wargame Assimétrico Épico'
+slug: designer-diary-rite
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/4R8zLm9Dr5yVoQELVEt-sQ__imagepage/img/Y51jvJq0QP7wcMmzrELbJt8U2Qk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7853274.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/4R8zLm9Dr5yVoQELVEt-sQ__imagepage/img/Y51jvJq0QP7wcMmzrELbJt8U2Qk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic7853274.jpg
+tags:
+  - Rite
+  - jogo de tabuleiro
+  - wargame assimétrico
+  - Karl van Stiphout
+  - mecânicas de jogo
+  - Cthulhu
+  - facções únicas
+  - sistema de energia
+  - Firelord
+  - hexágonos
+  - estratégia dinâmica
+keywords: >-
+  Rite, jogo de tabuleiro, wargame assimétrico, Karl van Stiphout, mecânicas de
+  jogo, Cthulhu, facções únicas, sistema de energia, Firelord, hexágonos,
+  estratégia dinâmica
+author: Pablo Moura
+data: '2025-06-15T06:26:08.241Z'
+resumo: >-
+  Descubra como o designer Karl van Stiphout transformou sua paixão por jogos
+  clássicos em um inovador wargame de tabuleiro, Rite. Do conceito inicial à
+  evolução das mecânicas, explore os desafios e soluções criativas por trás do
+  desenvolvimento deste jogo.
 ---
 
 ## A Origem Inspiradora de Rite
