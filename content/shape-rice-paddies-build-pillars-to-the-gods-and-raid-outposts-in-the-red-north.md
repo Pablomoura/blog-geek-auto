@@ -1,14 +1,33 @@
 ---
-title: "Novos Jogos de Tabuleiro Prometem Aventuras Épicas na SPIEL Essen 2025"
-slug: "shape-rice-paddies-build-pillars-to-the-gods-and-raid-outposts-in-the-red-north"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/jse39f8hy3srxy7sIZD0HA__imagepage/img/XjesuSCv5JZZdboXf-kgqWw5CDE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8896961.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/jse39f8hy3srxy7sIZD0HA__imagepage/img/XjesuSCv5JZZdboXf-kgqWw5CDE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8896961.jpg"
-tags: ["SPIEL Essen 2025", "Fortunes of Scoundrel Bay", "Red North", "Agea Pillars of the Gods", "Paddy", "jogos de tabuleiro", "Chilifox Games", "Mighty Boards", "2Tomatoes Games"]
-keywords: "SPIEL Essen 2025, Fortunes of Scoundrel Bay, Red North, Agea Pillars of the Gods, Paddy, jogos de tabuleiro, Chilifox Games, Mighty Boards, 2Tomatoes Games"
-author: "Pablo Moura"
-data: "2025-06-16T06:30:18.185Z"
+title: Novos Jogos de Tabuleiro Prometem Aventuras Épicas na SPIEL Essen 2025
+slug: >-
+  shape-rice-paddies-build-pillars-to-the-gods-and-raid-outposts-in-the-red-north
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/jse39f8hy3srxy7sIZD0HA__imagepage/img/XjesuSCv5JZZdboXf-kgqWw5CDE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8896961.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/jse39f8hy3srxy7sIZD0HA__imagepage/img/XjesuSCv5JZZdboXf-kgqWw5CDE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8896961.jpg
+tags:
+  - SPIEL Essen 2025
+  - Fortunes of Scoundrel Bay
+  - Red North
+  - Agea Pillars of the Gods
+  - Paddy
+  - jogos de tabuleiro
+  - Chilifox Games
+  - Mighty Boards
+  - 2Tomatoes Games
+keywords: >-
+  SPIEL Essen 2025, Fortunes of Scoundrel Bay, Red North, Agea Pillars of the
+  Gods, Paddy, jogos de tabuleiro, Chilifox Games, Mighty Boards, 2Tomatoes
+  Games
+author: Pablo Moura
+data: '2025-06-16T06:30:18.185Z'
+resumo: >-
+  A SPIEL Essen 2025 traz lançamentos empolgantes como 'Fortunes of Scoundrel
+  Bay' e 'Red North', prometendo experiências únicas para os fãs de jogos de
+  tabuleiro.
 ---
 
 ## Fortunes of Scoundrel Bay: Aventura e Perigo nos Mares
