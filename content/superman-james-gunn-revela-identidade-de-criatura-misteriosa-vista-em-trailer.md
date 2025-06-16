@@ -19,6 +19,7 @@ tags:
   - Lanterna Verde
   - Mulher-Gavião
   - The Authority
+  - especial-Superman
 keywords: >-
   James Gunn, Superman, Senhor Bonito, Lex Luthor, DCU, David Corenswet, Rachel
   Brosnahan, Nicholas Hoult, Lanterna Verde, Mulher-Gavião, The Authority

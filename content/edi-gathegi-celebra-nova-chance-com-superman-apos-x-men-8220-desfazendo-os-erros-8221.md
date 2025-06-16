@@ -17,6 +17,7 @@ tags:
   - 'Sr Incrvel'
   - 'Estranhas Aventuras'
   - 'Xeque-Mate'
+  - especial-Superman
 keywords: >-
   Edi Gathegi, Superman 2025, X-Men Primeira Classe, Darwin, DC Studios, Sr. Incrível, Estranhas Aventuras, Xeque-Mate
 author: Ana Luiza

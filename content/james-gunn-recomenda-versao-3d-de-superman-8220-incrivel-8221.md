@@ -16,7 +16,7 @@ tags:
   - 'lanamento'
   - 'DC'
   - 'experincia visual'
-  - 'inovao'
+  - especial-Superman
 keywords: >-
   James Gunn, Superman: Legacy, filme 3D, cinema, lançamento, DC, experiência visual, inovação
 author: Ana Luiza

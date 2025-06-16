@@ -2,7 +2,7 @@
 title: >-
   Fãs de Zack Snyder Mobilizam Boicote ao Novo Filme do Superman de James Gunn
 slug: superman-124-fas-de-zack-snyder-planejam-boicote-ao-filme
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   /uploads/superman-124-fas-de-zack-snyder-planejam-boicote-ao-filme-thumb.webp
 tipoMidia: imagem
@@ -20,6 +20,7 @@ tags:
   - 'Review Bombing'
   - 'Lanamento de Filme'
   - 'Fs de Quadrinhos'
+  - especial-Superman
 keywords: >-
   Zack Snyder, James Gunn, Superman, DC Studios, Boicote, SnyderVerse, Rotten Tomatoes, IMDb, Review Bombing, Lançamento de Filme, Fãs de Quadrinhos
 author: Luana Souza

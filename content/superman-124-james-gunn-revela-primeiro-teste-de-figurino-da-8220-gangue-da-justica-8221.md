@@ -19,6 +19,7 @@ tags:
   - 'Maxwell Lord'
   - 'DC Comics'
   - 'filme do Superman'
+  - especial-Superman
 keywords: >-
   James Gunn, Superman, Gangue da Justiça, Senhor Incrível, Guy Gardner, Mulher-Gavião, Metamorfo, Maxwell Lord, DC Comics, filme do Superman
 author: Ana Luiza

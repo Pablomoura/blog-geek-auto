@@ -20,6 +20,7 @@ tags:
   - 'filme'
   - '3D'
   - 'estreia'
+  - especial-Superman
 keywords: >-
   Superman, Planeta Diário, Jimmy Olsen, DC Studios, James Gunn, Superman Legacy, Lois Lane, Clark Kent, filme, 3D, estreia
 author: Luana Souza

@@ -16,6 +16,7 @@ tags:
   - reboot
   - Entertainment Weekly
   - O Esquadrão Suicida
+  - especial-Superman
 keywords: >-
   James Gunn, Warner Bros., Superman, Adão Negro, DCU, Henry Cavill, David
   Corenswet, reboot, Entertainment Weekly, O Esquadrão Suicida

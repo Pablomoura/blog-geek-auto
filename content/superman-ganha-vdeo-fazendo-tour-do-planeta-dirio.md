@@ -16,6 +16,7 @@ tags:
   - Rachel Brosnahan
   - DCU
   - filme Superman 2025
+  - especial-Superman
 keywords: >-
   Superman, Planeta Diário, Jimmy Olsen, Clark Kent, Lois Lane, James Gunn,
   David Corenswet, Rachel Brosnahan, DCU, filme Superman 2025

@@ -19,6 +19,7 @@ tags:
   - Supergirl
   - Comando das Criaturas
   - HBO Max
+  - especial-Superman
 keywords: >-
   James Gunn, Zack Snyder, Superman, DCU, David Corenswet, Lois Lane, Lex
   Luthor, Lanterna Verde, Mulher-Gavião, Supergirl, Comando das Criaturas, HBO

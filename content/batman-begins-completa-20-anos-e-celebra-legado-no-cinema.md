@@ -2,7 +2,7 @@
 title: >-
   Batman Begins: 20 Anos de Impacto e Revolução no Cinema de Super-heróis
 slug: batman-begins-completa-20-anos-e-celebra-legado-no-cinema
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   /uploads/batman-begins-completa-20-anos-e-celebra-legado-no-cinema-thumb.jpg
 tipoMidia: imagem

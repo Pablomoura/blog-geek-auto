@@ -25,6 +25,7 @@ tags:
   - Comando das Criaturas
   - HBO Max
   - The Authority
+  - especial-Superman
 keywords: >-
   James Gunn, Superman, Lanterna Verde, Guy Gardner, Isabela Merced,
   Mulher-Gavião, Edi Gathegi, Sr. Incrível, Anthony Carrigan, Metamorfo, DCU,

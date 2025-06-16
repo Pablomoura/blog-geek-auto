@@ -23,6 +23,7 @@ tags:
   - 'filme Superman'
   - 'patrocnio corporativo'
   - 'super-heris'
+  - especial-Superman
 keywords: >-
   Superman, Gangue da Justiça, Maxwell Lord, Sean Gunn, Nathan Fillion, Guy Gardner, Isabela Merced, Mulher-Gavião, Edi Gathegi, Senhor Incrível, DC Comics, filme Superman, patrocínio corporativo, super-heróis
 author: Ana Luiza

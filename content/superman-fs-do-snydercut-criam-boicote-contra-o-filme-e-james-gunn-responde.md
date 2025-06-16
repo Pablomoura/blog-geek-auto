@@ -22,6 +22,7 @@ tags:
   - Rotten Tomatoes
   - Metacritic
   - boicote Superman
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, Zack Snyder, SnyderCut, DCU, David Corenswet, Rachel
   Brosnahan, Lex Luthor, Nicholas Hoult, Metrópolis, DC Universe, Rotten

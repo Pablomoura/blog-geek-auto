@@ -18,6 +18,7 @@ tags:
   - 'rtico'
   - 'Krypton'
   - 'cultura pop'
+  - especial-Superman
 keywords: >-
   Superman, Fortaleza da Solidão, James Gunn, arte conceitual, DC Studios, filmes do Superman, Ártico, Krypton, cultura pop
 author: Ana Luiza

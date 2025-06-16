@@ -19,6 +19,7 @@ tags:
   - 'filme Superman 2025'
   - 'teaser Superman'
   - 'elenco Superman 2025'
+  - especial-Superman
 keywords: >-
   Superman, Dia dos Pais, Jonathan Kent, Clark Kent, James Gunn, Universo DC, David Corenswet, filme Superman 2025, teaser Superman, elenco Superman 2025
 author: Ana Luiza

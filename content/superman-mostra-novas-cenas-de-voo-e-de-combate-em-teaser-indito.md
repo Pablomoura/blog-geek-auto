@@ -20,6 +20,7 @@ tags:
   - The Authority
   - Comando das Criaturas
   - HBO Max
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, David Corenswet, Rachel Brosnahan, Nicholas Hoult, DCU,
   Lanterna Verde, Metamorfo, Engenheira, The Authority, Comando das Criaturas,

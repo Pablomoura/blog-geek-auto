@@ -19,6 +19,7 @@ tags:
   - 'Smallville'
   - 'Lois Lane'
   - 'Lex Luthor'
+  - especial-Superman
 keywords: >-
   James Gunn, Superman, Universo DC, DCU, David Corenswet, metahumanos, Clark Kent, Smallville, Lois Lane, Lex Luthor
 author: Pablo Moura

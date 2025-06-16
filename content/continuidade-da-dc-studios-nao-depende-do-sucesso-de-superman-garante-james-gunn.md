@@ -19,6 +19,7 @@ tags:
   - 'Nicholas Hoult'
   - 'Supergirl'
   - 'Pacificador'
+  - especial-Superman
 keywords: >-
   DC Studios, James Gunn, Superman 2025, futuro da DC, Warner Bros, David Corenswet, Rachel Brosnahan, Nicholas Hoult, Supergirl, Pacificador
 author: Ana Luiza

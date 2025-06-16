@@ -18,6 +18,7 @@ tags:
   - 'criatura misteriosa Superman'
   - 'filme Superman'
   - 'pr-venda Superman'
+  - especial-Superman
 keywords: >-
   Superman 2025, James Gunn, Mr. Handsome, Lex Luthor, DC Studios, teaser Superman, criatura misteriosa Superman, filme Superman, pré-venda Superman
 author: Pablo Moura

@@ -2,7 +2,7 @@
 title: >-
   Como Treinar o Seu Dragão: Descubra as Diferenças entre o Live-Action e a Animação
 slug: como-treinar-o-seu-dragao-124-as-principais-diferencas-entre-o-live-action-e-a-animacao
-categoria: Séries e TV
+categoria: Filmes
 midia: >-
   /uploads/como-treinar-o-seu-dragao-124-as-principais-diferencas-entre-o-live-action-e-a-animacao-thumb.webp
 tipoMidia: imagem

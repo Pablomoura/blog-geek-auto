@@ -2,7 +2,7 @@
 title: >-
   Batman: Dark Patterns Redefine a História da Gangue do Capuz Vermelho com Origem Sombriamente Surpreendente
 slug: batman-dark-patterns-reinventa-a-gangue-do-capuz-vermelho-com-uma-origem-ainda-mais-brutal
-categoria: Séries e TV
+categoria: HQ/LIVROS
 midia: >-
   /uploads/batman-dark-patterns-reinventa-a-gangue-do-capuz-vermelho-com-uma-origem-ainda-mais-brutal-thumb.webp
 tipoMidia: imagem

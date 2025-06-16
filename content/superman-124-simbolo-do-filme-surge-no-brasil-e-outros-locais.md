@@ -17,6 +17,7 @@ tags:
   - 'lanamento de filme'
   - 'bilheteria'
   - 'projeo smbolo Superman'
+  - especial-Superman
 keywords: >-
   Superman, campanha promocional, Warner Bros, DC Studios, Rio de Janeiro, lançamento de filme, bilheteria, projeção símbolo Superman
 author: Luana Souza

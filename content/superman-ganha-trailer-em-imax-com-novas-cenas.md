@@ -22,6 +22,7 @@ tags:
   - The Authority
   - Comando das Criaturas
   - HBO Max
+  - especial-Superman
 keywords: >-
   Superman 2025, trailer IMAX, David Corenswet, Rachel Brosnahan, James Gunn,
   DCU, Clark Kent, Metrópolis, Krypto, Sr. Incrível, Lanterna Verde,

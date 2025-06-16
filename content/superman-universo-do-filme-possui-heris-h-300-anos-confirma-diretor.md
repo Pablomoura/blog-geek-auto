@@ -7,8 +7,18 @@ tipoMidia: video
 thumb: >-
   /uploads/superman-universo-do-filme-possui-heris-h-300-anos-confirma-diretor-thumb.png
 tags:
-  - ''
-keywords: ''
+  - especial-Superman
+  - Superma
+  - James Gunn
+  - David Corenswet
+  - DCU
+  - Lanterna Verde
+  - Mulher-Gavião
+  - Rachel Brosnahan
+  - Nicholas Hoult
+  - Metrópolis
+  - lançamento 2025
+keywords: 'Superman, James Gunn, David Corenswet, DCU, Lanterna Verde, Mulher-Gavião, Rachel Brosnahan, Nicholas Hoult, Metrópolis, lançamento 2025'
 author: Pablo Moura
 data: '2025-06-12T17:20:11.098Z'
 resumo: >-
@@ -30,7 +40,3 @@ O filme estrelado por **David Corenswet** no papel de Clark Kent conta com um el
 Este novo capítulo do **DCU** é escrito e dirigido por Gunn, que também é o chefe criativo da DC, supervisionando uma nova era de adaptações cinematográficas. O filme explorará um Clark Kent jovem, começando sua vida em Metrópolis, mas não será uma história de origem clássica.
 
 O lançamento de "Superman" está agendado para **10 de julho de 2025**, marcando o início de uma nova fase no universo cinematográfico da DC. A cronologia do novo DCU já começou com a série animada **Comando das Criaturas**, disponível na **HBO Max**.
-
-### Palavras-chave:
-
-Superman, James Gunn, David Corenswet, DCU, Lanterna Verde, Mulher-Gavião, Rachel Brosnahan, Nicholas Hoult, Metrópolis, lançamento 2025

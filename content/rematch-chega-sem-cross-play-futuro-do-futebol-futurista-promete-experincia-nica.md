@@ -6,8 +6,8 @@ slug: >-
   rematch-chega-sem-cross-play-futuro-do-futebol-futurista-promete-experincia-nica
 categoria: Games
 midia: >-
-  /uploads/rematch-chega-sem-cross-play-futuro-do-futebol-futurista-promete-experincia-nica-thumb.jpg
-tipoMidia: imagem
+  https://www.youtube.com/embed/mo_RL_K891U?si=l0bxO_jZYI4BtAgZ
+tipoMidia: video
 thumb: >-
   /uploads/rematch-chega-sem-cross-play-futuro-do-futebol-futurista-promete-experincia-nica-thumb.jpg
 tags:

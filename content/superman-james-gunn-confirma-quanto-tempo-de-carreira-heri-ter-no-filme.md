@@ -14,6 +14,7 @@ tags:
   - Universo DC
   - super-herói
   - estreia 2025
+  - especial-Superman
 keywords: >-
   James Gunn, Superman, filme do Superman, Universo DC, super-herói, estreia
   2025
