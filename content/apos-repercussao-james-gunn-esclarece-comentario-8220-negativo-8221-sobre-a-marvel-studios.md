@@ -40,5 +40,3 @@ Após concluir seu trabalho com 'Guardiões da Galáxia Vol. 3', Gunn encerrou s
 Apesar de sua saída do universo Marvel, Gunn não fecha as portas para futuras colaborações. Ele expressou interesse em um possível crossover entre a Marvel e a DC, embora reconheça que tal projeto ainda está distante de se tornar realidade.
 
 Em 2025, com a indústria do entretenimento em constante evolução, as palavras de Gunn ressoam com uma verdade inegável: encontrar o equilíbrio entre quantidade e qualidade é crucial para o sucesso sustentável de qualquer estúdio. Com a Marvel ajustando sua abordagem, os fãs podem esperar por uma nova fase de produções de alta qualidade.
-
-**Palavras-chave:** James Gunn, Marvel Studios, excesso de conteúdo, DC Studios, Guardiões da Galáxia, indústria cinematográfica, crossover Marvel DC.

@@ -14,6 +14,7 @@ tags:
   - jason schreier
   - 'the last of us: part ii'
 author: Ana Luiza
+data: '2025-06-16T22:18:02.000Z'
 resumo: >-
   Intergalactic: The Heretic Prophet, novo jogo da Naughty Dog, chega em 2027.
   Exclusivo para PS5, aborda fé em um futuro distante e promete inovar

@@ -33,9 +33,6 @@ jobs:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
         run: node scripts/scraper-ovicio.js
 
-      - name: Roda o gerador de cache
-        run: node scripts/gerar-cache-posts.js
-
       - name: 💾 Commit e push das alterações
         run: |
           git config --global user.name "github-actions[bot]"
