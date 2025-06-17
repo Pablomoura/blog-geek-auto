@@ -33,6 +33,8 @@ import JsonLdBreadcrumb from "@/components/JsonLdBreadcrumb";
 import Breadcrumb from "@/components/Breadcrumb";
 import JsonLdReview from "@/components/JsonLdReview";
 import YoutubeLite from "@/components/YoutubeLite";
+import { sendErrorAlert } from "@/utils/sendErrorAlert";
+
 
 marked.use(
   gfmHeadingId({ prefix: "heading-" }),
@@ -148,6 +150,18 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
   try {
     const file = await fs.readFile(filePath, "utf-8");
     const { data, content } = matter(file);
+    if (
+        !data.title ||
+        !data.slug ||
+        !data.data ||
+        !data.midia ||
+        !content ||
+        content.trim().length < 100
+      ) {
+        console.warn(`❌ Arquivo inválido ou incompleto: ${slug}`);
+        await sendErrorAlert(slug, `Markdown inválido. Campos obrigatórios ausentes ou conteúdo vazio.`);
+        return notFound();
+      }
     const articleBody = content
       .replace(/[#>*_`-]/g, "") // remove markdown básico
       .replace(/\s+/g, " ")     // normaliza espaços
@@ -178,6 +192,11 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
 
     if (await fsExtra.pathExists(htmlPath)) {
       htmlContent = await fs.readFile(htmlPath, "utf-8");
+      if (!htmlContent || htmlContent.trim().length < 100) {
+        console.warn(`❌ HTML cache inválido ou vazio para ${slug}`);
+        await sendErrorAlert(slug, `HTML cache inválido ou vazio para o artigo.`);
+        return notFound();
+      }
     } else {
       let textoFinal = await inserirLinksRelacionados(content, slug);
 
@@ -631,6 +650,7 @@ export default async function NoticiaPage(props: { params: Promise<{ slug: strin
       </>
     );
   } catch {
+    await sendErrorAlert(slug, `Erro inesperado ao renderizar o artigo.`);
     return notFound();
   }
 }
