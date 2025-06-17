@@ -1,86 +1,92 @@
 {
-  "data": "2025-06-16",
+  "data": "2025-06-17",
   "games": [
     {
-      "slug": "rumor-aponta-que-dan-houser-escreveu-tres-versoes-de-gta-6-e-todas-foram-descartadas",
-      "titulo": "Dan Houser e as Três Versões Descartadas de GTA 6: O Que Poderia Ter Sido?",
-      "thumb": "/uploads/rumor-aponta-que-dan-houser-escreveu-tres-versoes-de-gta-6-e-todas-foram-descartadas-thumb.jpg",
-      "categoria": "Games"
+      "slug": "narradora-de-dark-souls-morre-aos-80-anos",
+      "titulo": "Pik-Sen Lim, Voz de Dark Souls, Falece aos 80 Anos",
+      "thumb": "/uploads/narradora-de-dark-souls-morre-aos-80-anos-thumb.png",
+      "categoria": "GAMES"
     },
     {
-      "slug": "fas-comparam-skins-de-elden-ring-nightreign-com-armaduras-originais-de-dark-souls-em-novo-video",
-      "titulo": "Comparação de Skins de Elden Ring: Nightreign e Dark Souls Atraem Olhares da Comunidade",
-      "thumb": "/uploads/fas-comparam-skins-de-elden-ring-nightreign-com-armaduras-originais-de-dark-souls-em-novo-video-preview.jpg",
-      "categoria": "Games"
+      "slug": "gta-online-adicionar-negcios-de-fachada-em-nova-atualizao",
+      "titulo": "GTA Online Introduz Negócios de Fachada com Atualização Money Fronts",
+      "thumb": "/uploads/gta-online-adicionar-negcios-de-fachada-em-nova-atualizao-thumb.jpg",
+      "categoria": "GAMES"
     },
     {
-      "slug": "xbox-game-pass-recebe-tres-jogos-no-dia-17-de-junho-incluindo-dois-lancamentos-day-one",
-      "titulo": "Xbox Game Pass: Três Novos Jogos Chegam em 17 de Junho com Lançamentos Exclusivos",
-      "thumb": "/uploads/xbox-game-pass-recebe-tres-jogos-no-dia-17-de-junho-incluindo-dois-lancamentos-day-one-thumb.jpeg",
+      "slug": "desvendando-o-clone-tabula-rasa-em-the-alters-guia-completo-e-estratgias",
+      "titulo": "Desvendando o Clone Tabula Rasa em 'The Alters': Guia Completo e Estratégias",
+      "thumb": "/uploads/desvendando-o-clone-tabula-rasa-em-the-alters-guia-completo-e-estratgias-thumb.jpg",
       "categoria": "Games"
     }
   ],
   "series-e-tv": [
     {
-      "slug": "batman-dark-patterns-reinventa-a-gangue-do-capuz-vermelho-com-uma-origem-ainda-mais-brutal",
-      "titulo": "Batman: Dark Patterns Redefine a História da Gangue do Capuz Vermelho com Origem Sombriamente Surpreendente",
-      "thumb": "/uploads/batman-dark-patterns-reinventa-a-gangue-do-capuz-vermelho-com-uma-origem-ainda-mais-brutal-thumb.webp",
+      "slug": "dc-studios-nao-trabalhara-com-atores-que-criticam-filmes-de-super-herois",
+      "titulo": "James Gunn Estabelece Nova Diretriz na DC: Atores Devem Amar o Universo dos Super-Heróis",
+      "thumb": "/uploads/dc-studios-nao-trabalhara-com-atores-que-criticam-filmes-de-super-herois-thumb.webp",
       "categoria": "Séries e TV"
     },
     {
-      "slug": "pokemon-go-anuncia-novo-item-que-fortalecera-seus-pokemon",
-      "titulo": "Pokémon GO Introduz Bottle Caps: Revolução no Fortalecimento dos Pokémon",
-      "thumb": "/uploads/pokemon-go-anuncia-novo-item-que-fortalecera-seus-pokemon-thumb.jpg",
+      "slug": "rachel-brosnahan-de-superman-critica-atores-que-menosprezam-filmes-de-herois-apos-participarem-deles",
+      "titulo": "Rachel Brosnahan Defende Filmes de Super-Heróis e Critica Hipocrisia de Atores",
+      "thumb": "/uploads/rachel-brosnahan-de-superman-critica-atores-que-menosprezam-filmes-de-herois-apos-participarem-deles-thumb.webp",
       "categoria": "Séries e TV"
     },
     {
-      "slug": "superman-124-fas-de-zack-snyder-planejam-boicote-ao-filme",
-      "titulo": "Fãs de Zack Snyder Mobilizam Boicote ao Novo Filme do Superman de James Gunn",
-      "thumb": "/uploads/superman-124-fas-de-zack-snyder-planejam-boicote-ao-filme-thumb.webp",
+      "slug": "the-pitt-124-comeca-a-producao-da-2-temporada-da-serie",
+      "titulo": "Produção da Segunda Temporada de 'The Pitt' é Iniciada com Estreia Prevista para 2026 na HBO Max",
+      "thumb": "/uploads/the-pitt-124-comeca-a-producao-da-2-temporada-da-serie-thumb.jpg",
       "categoria": "Séries e TV"
     }
   ],
   "mangas-e-animes": [
     {
-      "slug": "sakamoto-days-novo-trailer-da-parte-2-antecipa-arco-esperado-por-fs",
-      "titulo": "Sakamoto Days: Trailer da Parte 2 Revela Arco JCC Transfer Exams",
-      "thumb": "/uploads/sakamoto-days-novo-trailer-da-parte-2-antecipa-arco-esperado-por-fs-thumb.jpg",
+      "slug": "positively-yours-popular-webtoon-ganhar-adaptao-live-action",
+      "titulo": "Webtoon 'Positively Yours' Será Transformado em Série Live-Action na Coreia do Sul",
+      "thumb": "/uploads/positively-yours-popular-webtoon-ganhar-adaptao-live-action-thumb.png",
       "categoria": "MANGÁS E ANIMES"
     },
     {
-      "slug": "demon-slayer-anime-ser-reexibido-na-tv-japonesa-antes-do-novo-filme",
-      "titulo": "Demon Slayer retorna à TV japonesa antes da estreia do filme Castelo Infinito",
-      "thumb": "/uploads/demon-slayer-anime-ser-reexibido-na-tv-japonesa-antes-do-novo-filme-thumb.jpg",
-      "categoria": "MANGÁS E ANIMES"
+      "slug": "solo-leveling-se-torna-o-anime-mais-assistido-de-todos-os-tempos-na-crunchyroll",
+      "titulo": "Solo Leveling: O Anime Mais Assistido da Crunchyroll em 2025",
+      "thumb": "/uploads/solo-leveling-se-torna-o-anime-mais-assistido-de-todos-os-tempos-na-crunchyroll-thumb.jpg",
+      "categoria": "Mangás e Animes"
     },
     {
-      "slug": "dragon-ball-daima-bate-solo-leveling-e-vence-astra-tv-awards",
-      "titulo": "Dragon Ball Daima Surpreende e Conquista Prêmio no Astra TV Awards 2025",
-      "thumb": "/uploads/dragon-ball-daima-bate-solo-leveling-e-vence-astra-tv-awards-thumb.jpg",
-      "categoria": "MANGÁS E ANIMES"
+      "slug": "kagurabachi-revela-capa-do-volume-8",
+      "titulo": "Kagurabachi Volume 8: Capa Revelada e Detalhes do Lançamento no Japão",
+      "thumb": "/uploads/kagurabachi-revela-capa-do-volume-8-thumb.webp",
+      "categoria": "Mangás e Animes"
     }
   ],
   "filmes": [
     {
-      "slug": "he-man-nicholas-galitzine-aparece-como-o-heri-em-primeira-foto-do-filme",
-      "titulo": "Nicholas Galitzine Revela Primeira Imagem como He-Man no Novo 'Mestres do Universo'",
-      "thumb": "/uploads/he-man-nicholas-galitzine-aparece-como-o-heri-em-primeira-foto-do-filme-thumb.jpg",
-      "categoria": "FILMES"
+      "slug": "morre-david-h-k-bell-ator-do-live-action-de-lilo-038-stitch",
+      "titulo": "David H.K. Bell, do live-action de Lilo & Stitch, falece deixando legado no cinema",
+      "thumb": "/uploads/morre-david-h-k-bell-ator-do-live-action-de-lilo-038-stitch-thumb.webp",
+      "categoria": "Filmes"
     },
     {
-      "slug": "superman-warner-queria-nova-verso-desde-o-esquadro-suicida",
-      "titulo": "Warner Planejava Reboot de Superman Antes de Adão Negro, Revela James Gunn",
-      "thumb": "/uploads/superman-warner-queria-nova-verso-desde-o-esquadro-suicida-thumb.jpg",
-      "categoria": "FILMES"
+      "slug": "era-uma-vez-em-8230-hollywood-124-carla-gugino-se-junta-ao-elenco-da-8220-sequencia-8221",
+      "titulo": "Carla Gugino se Junta ao Elenco da Continuação de 'Era Uma Vez em... Hollywood'",
+      "thumb": "/uploads/era-uma-vez-em-8230-hollywood-124-carla-gugino-se-junta-ao-elenco-da-8220-sequencia-8221-thumb.webp",
+      "categoria": "Filmes"
     },
     {
-      "slug": "a-origem-124-will-smith-revela-ter-recusado-papel-principal-em-filme-de-christopher-nolan",
-      "titulo": "Will Smith Confessa Ter Recusado Papel em 'A Origem' de Christopher Nolan",
-      "thumb": "/uploads/a-origem-124-will-smith-revela-ter-recusado-papel-principal-em-filme-de-christopher-nolan-preview.jpg",
+      "slug": "camila-mendes-celebra-fim-da-producao-de-mestres-do-universo",
+      "titulo": "Camila Mendes Comemora Conclusão das Filmagens de 'Mestres do Universo'",
+      "thumb": "/uploads/camila-mendes-celebra-fim-da-producao-de-mestres-do-universo-thumb.webp",
       "categoria": "Filmes"
     }
   ],
   "board-games": [
+    {
+      "slug": "shape-rice-paddies-build-pillars-to-the-gods-and-raid-outposts-in-the-red-north",
+      "titulo": "Novos Jogos de Tabuleiro Prometem Aventuras Épicas na SPIEL Essen 2025",
+      "thumb": "https://cf.geekdo-images.com/jse39f8hy3srxy7sIZD0HA__imagepage/img/XjesuSCv5JZZdboXf-kgqWw5CDE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8896961.jpg",
+      "categoria": "Board Games"
+    },
     {
       "slug": "designer-diary-rite",
       "titulo": "Rite: A Jornada de Criação de um Wargame Assimétrico Épico",
@@ -91,12 +97,6 @@
       "slug": "get-teased-by-tascini-tianxia-tricksters-tulip-and-trnd",
       "titulo": "Novos Jogos de Tabuleiro de Tascini e Outros Destaques para 2025",
       "thumb": "https://cf.geekdo-images.com/t6Z7dmUF2ER_2eLSIS0xCQ__imagepage/img/qVKp8EnJ3AYEe1yIuPWi8g-ZjkQ=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8922291.jpg",
-      "categoria": "Board Games"
-    },
-    {
-      "slug": "designer-diary-line-of-fire-burnt-moon-or-decks-drones-and-dominance",
-      "titulo": "Line of Fire: Burnt Moon — O Novo Jogo de Estratégia da Série Undaunted",
-      "thumb": "https://cf.geekdo-images.com/WgfoxbddW8PvTNL5OlMw7Q__imagepage/img/4AEb83ap7O1fvQzVlNpnWIPpRy0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8441769.jpg",
       "categoria": "Board Games"
     }
   ],
@@ -122,22 +122,22 @@
   ],
   "hq-livros": [
     {
+      "slug": "bienal-do-livro-registra-recorde-de-vendas-das-editoras",
+      "titulo": "Bienal do Livro no Rio de Janeiro Alcança Recorde Histórico de Vendas em 2025",
+      "thumb": "/uploads/bienal-do-livro-registra-recorde-de-vendas-das-editoras-thumb.png",
+      "categoria": "HQ/LIVROS"
+    },
+    {
+      "slug": "batman-dark-patterns-reinventa-a-gangue-do-capuz-vermelho-com-uma-origem-ainda-mais-brutal",
+      "titulo": "Batman: Dark Patterns Redefine a História da Gangue do Capuz Vermelho com Origem Sombriamente Surpreendente",
+      "thumb": "/uploads/batman-dark-patterns-reinventa-a-gangue-do-capuz-vermelho-com-uma-origem-ainda-mais-brutal-thumb.webp",
+      "categoria": "HQ/LIVROS"
+    },
+    {
       "slug": "pantera-negra-tem-novo-filho-nas-hqs-e-ele-branco-entenda-polmica",
       "titulo": "Pantera Negra nos Quadrinhos: Filho Branco de T'Challa Causa Polêmica",
       "thumb": "/uploads/pantera-negra-tem-novo-filho-nas-hqs-e-ele-branco-entenda-polmica-thumb.png",
       "categoria": "HQ/LIVROS"
-    },
-    {
-      "slug": "criador-de-my-hero-academia-comenta-sobre-arte-em-homenagem-a-dragon-ball",
-      "titulo": "Kohei Horikoshi Homenageia Dragon Ball em Novo Artbook de My Hero Academia",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/04/20250423-my-hero-academia-ultra-artworks-capa-ovicio.webp",
-      "categoria": "Hq/Livros"
-    },
-    {
-      "slug": "panini-lanca-selo-editorial-focado-em-literatura-asiatica",
-      "titulo": "Panini Books: Novo Selo Editorial Destaca Literatura Asiática na Bienal do Livro 2025",
-      "thumb": "https://ovicio.com.br/wp-content/uploads/2025/06/20250604-image-12.png",
-      "categoria": "HQ/Livros"
     }
   ],
   "musica": [
