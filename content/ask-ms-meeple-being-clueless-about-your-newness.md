@@ -1,14 +1,29 @@
 ---
-title: "Como Lidar com os Colecionadores Implacáveis em Noites de Board Games"
-slug: "ask-ms-meeple-being-clueless-about-your-newness"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/Iqh009cks2T2n32sPQJCCg__imagepage/img/sGLOsywPD-g5FrIhMA2DFXhpAKk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3823302.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/Iqh009cks2T2n32sPQJCCg__imagepage/img/sGLOsywPD-g5FrIhMA2DFXhpAKk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3823302.jpg"
-tags: ["board games", "comunidade de jogos", "colecionadores de jogos", "noites de jogo", "comunicação em grupos", "equilíbrio de jogos", "dicas de board game"]
-keywords: "board games, comunidade de jogos, colecionadores de jogos, noites de jogo, comunicação em grupos, equilíbrio de jogos, dicas de board game"
-author: "Pablo Moura"
-data: "2025-06-18T06:28:06.811Z"
+title: Como Lidar com os Colecionadores Implacáveis em Noites de Board Games
+slug: ask-ms-meeple-being-clueless-about-your-newness
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/Iqh009cks2T2n32sPQJCCg__imagepage/img/sGLOsywPD-g5FrIhMA2DFXhpAKk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3823302.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/Iqh009cks2T2n32sPQJCCg__imagepage/img/sGLOsywPD-g5FrIhMA2DFXhpAKk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3823302.jpg
+tags:
+  - board games
+  - comunidade de jogos
+  - colecionadores de jogos
+  - noites de jogo
+  - comunicação em grupos
+  - equilíbrio de jogos
+  - dicas de board game
+keywords: >-
+  board games, comunidade de jogos, colecionadores de jogos, noites de jogo,
+  comunicação em grupos, equilíbrio de jogos, dicas de board game
+author: Pablo Moura
+data: '2025-06-18T06:28:06.811Z'
+resumo: >-
+  Descubra como manter o equilíbrio e a diversão em grupos de jogos de
+  tabuleiro, mesmo quando alguns membros insistem em apresentar sempre novos
+  jogos.
 ---
 
 ## A Dilema dos Jogos Novos

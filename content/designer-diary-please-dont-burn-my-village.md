@@ -1,14 +1,31 @@
 ---
-title: "A Jornada de Criação de 'Please Don't Burn My Village': Um Diário de Designer"
-slug: "designer-diary-please-dont-burn-my-village"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/jW6SFTUKTDNAiMlXJ9R60A__imagepage/img/JlTJWeANSPL8LDgfWL8-nI8l3Bo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8677734.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/jW6SFTUKTDNAiMlXJ9R60A__imagepage/img/JlTJWeANSPL8LDgfWL8-nI8l3Bo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8677734.jpg"
-tags: ["Please Don't Burn My Village", "Simon Weinberg", "board game", "jogo de tabuleiro", "design de jogos", "Fireside Games", "evento de lançamento", "estratégia medieval"]
-keywords: "Please Don't Burn My Village, Simon Weinberg, board game, jogo de tabuleiro, design de jogos, Fireside Games, evento de lançamento, estratégia medieval"
-author: "Luana Souza"
-data: "2025-06-18T06:29:18.043Z"
+title: 'A Jornada de Criação de ''Please Don''t Burn My Village'': Um Diário de Designer'
+slug: designer-diary-please-dont-burn-my-village
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/jW6SFTUKTDNAiMlXJ9R60A__imagepage/img/JlTJWeANSPL8LDgfWL8-nI8l3Bo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8677734.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/jW6SFTUKTDNAiMlXJ9R60A__imagepage/img/JlTJWeANSPL8LDgfWL8-nI8l3Bo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8677734.jpg
+tags:
+  - Please Don't Burn My Village
+  - Simon Weinberg
+  - board game
+  - jogo de tabuleiro
+  - design de jogos
+  - Fireside Games
+  - evento de lançamento
+  - estratégia medieval
+keywords: >-
+  Please Don't Burn My Village, Simon Weinberg, board game, jogo de tabuleiro,
+  design de jogos, Fireside Games, evento de lançamento, estratégia medieval
+author: Luana Souza
+data: '2025-06-18T06:29:18.043Z'
+resumo: >-
+  Descubra a fascinante trajetória de Simon Weinberg ao criar 'Please Don't Burn
+  My Village', um jogo que mistura estratégia e humor em um cenário medieval.
+  Conheça os desafios e vitórias que culminaram no lançamento deste board game
+  inovador.
 ---
 
 ## A Lenda de 'Please Don't Burn My Village'

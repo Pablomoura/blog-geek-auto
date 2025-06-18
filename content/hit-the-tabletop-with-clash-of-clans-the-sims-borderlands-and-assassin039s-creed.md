@@ -1,14 +1,37 @@
 ---
-title: "Novos Jogos de Tabuleiro: Clash of Clans, The Sims, Borderlands e Assassin's Creed Transformam a Experiência Digital"
-slug: "hit-the-tabletop-with-clash-of-clans-the-sims-borderlands-and-assassin039s-creed"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/CTc3av7IRDWwKEvcRMqZsw__imagepage/img/xTts09IbKXM-RAfs7Y9S52-4kn4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8858185.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/CTc3av7IRDWwKEvcRMqZsw__imagepage/img/xTts09IbKXM-RAfs7Y9S52-4kn4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8858185.png"
-tags: ["Clash of Clans", "The Sims", "Borderlands", "Assassin's Creed", "jogos de tabuleiro", "adaptações", "crowdfunding", "Maestro Media", "Mantic Games", "Monster Fight Club", "Goliath Games"]
-keywords: "Clash of Clans, The Sims, Borderlands, Assassin's Creed, jogos de tabuleiro, adaptações, crowdfunding, Maestro Media, Mantic Games, Monster Fight Club, Goliath Games"
-author: "Pablo Moura"
-data: "2025-06-18T06:28:39.510Z"
+title: >-
+  Novos Jogos de Tabuleiro: Clash of Clans, The Sims, Borderlands e Assassin's
+  Creed Transformam a Experiência Digital
+slug: >-
+  hit-the-tabletop-with-clash-of-clans-the-sims-borderlands-and-assassin039s-creed
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/CTc3av7IRDWwKEvcRMqZsw__imagepage/img/xTts09IbKXM-RAfs7Y9S52-4kn4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8858185.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/CTc3av7IRDWwKEvcRMqZsw__imagepage/img/xTts09IbKXM-RAfs7Y9S52-4kn4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8858185.png
+tags:
+  - Clash of Clans
+  - The Sims
+  - Borderlands
+  - Assassin's Creed
+  - jogos de tabuleiro
+  - adaptações
+  - crowdfunding
+  - Maestro Media
+  - Mantic Games
+  - Monster Fight Club
+  - Goliath Games
+keywords: >-
+  Clash of Clans, The Sims, Borderlands, Assassin's Creed, jogos de tabuleiro,
+  adaptações, crowdfunding, Maestro Media, Mantic Games, Monster Fight Club,
+  Goliath Games
+author: Pablo Moura
+data: '2025-06-18T06:28:39.510Z'
+resumo: >-
+  Explorando o mundo dos jogos de tabuleiro, conheça as adaptações de clássicos
+  digitais como Clash of Clans e Assassin's Creed. Descubra como essas franquias
+  icônicas estão ganhando vida fora das telas.
 ---
 
 ## Clash of Clans: The Epic Raid - A Batalha Ganha Vida
