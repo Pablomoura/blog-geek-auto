@@ -24,7 +24,7 @@ export const produtosPorCategoria: Record<string, ProdutoAmazon[]> = {
       imagem: "https://m.media-amazon.com/images/I/71ML3IL9orL._SL1200_.jpg",
     },
     {
-      titulo: "Camiseta Geek Mascilino Cat Wars",
+      titulo: "Camiseta Geek Masculino Cat Wars",
       asin: "B09RTGTN2J",
       imagem: "https://m.media-amazon.com/images/I/61fmO3oCqPL._AC_SX679_.jpg",
     },
