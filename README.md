@@ -34,3 +34,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Environment Variables
+
+Email alerts rely on the following environment variables:
+
+- `SMTP_HOST` – address of your SMTP server
+- `SMTP_USER` – username to authenticate with the server
+- `SMTP_PASS` – password or token for the SMTP user
+
+These variables must be provided (for example in Vercel's dashboard or a local `.env` file) for the error notification emails in `sendErrorAlert.ts` to work properly.
