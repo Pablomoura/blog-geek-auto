@@ -4,8 +4,8 @@ slug: "crtica-em-sobre-minha-filha-lgbtfobia-parental-no-se-resolve-com-catarse-
 categoria: "FILMES"
 tipo: "critica"
 resumo: "O filme 'Sobre Minha Filha', dirigido por Lee Mi-rang, evita clichês dramáticos ao retratar a complexidade da LGBTfobia dentro da família. Baseado em um best-seller sul-coreano, a produção escolhe um caminho de realismo sutil que reflete as dificuldades e nuances das relações familiares."
-midia: "/uploads/crtica-em-sobre-minha-filha-lgbtfobia-parental-no-se-resolve-com-catarse-dramtica-thumb.jpg"
-tipoMidia: "imagem"
+midia: "https://www.youtube.com/embed/ZcOLpsmq4G8?si=DQPi_8G1YV3qXlbd"
+tipoMidia: "video"
 thumb: "/uploads/crtica-em-sobre-minha-filha-lgbtfobia-parental-no-se-resolve-com-catarse-dramtica-thumb.jpg"
 tags: ["Sobre Minha Filha", "Lee Mi-rang", "LGBTfobia", "cinema coreano", "Kim Hye-jin", "Oh Min-ae", "Im She-mi", "Ha Yoon-kyung", "14ª Mostra de Cinema Coreano"]
 keywords: "Sobre Minha Filha, Lee Mi-rang, LGBTfobia, cinema coreano, Kim Hye-jin, Oh Min-ae, Im She-mi, Ha Yoon-kyung, 14ª Mostra de Cinema Coreano"
