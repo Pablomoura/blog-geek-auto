@@ -11,16 +11,16 @@ tags: ["Joseph Kosinski", "F1 - O Filme", "Brad Pitt", "Top Gun", "Jerry Bruckhe
 keywords: "Joseph Kosinski, F1 - O Filme, Brad Pitt, Top Gun, Jerry Bruckheimer, Hans Zimmer, Damson Idris, cinema de ação, Fórmula 1"
 author: "Luana Souza"
 data: "2025-06-17T16:31:09.661Z"
-tituloPortugues: ""
-capaObra: ""
+tituloPortugues: "F1 - O Filme"
+capaObra: "https://cdn.ome.lt/WUMdBqvdSRwcAe8SMlwlRZHqsW0=/200x0/smart/extras/capas/f1_o_filme.png"
 notaCritico: 4
-tituloOriginal: ""
-ano: ""
-pais: ""
-classificacao: ""
-duracao: ""
-direcao: ""
-elenco: [""]
+tituloOriginal: "F1: The Movie"
+ano: "2025"
+pais: "EUA"
+classificacao: "12 anos"
+duracao: "156 min "
+direcao: "Joseph Kosinski"
+elenco: ["Javier Bardem , Brad Pitt , Kerry Condon , Damson Idris"]
 ---
 
 ## Um Espetáculo Cinematográfico Inspirado em Top Gun
