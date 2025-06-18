@@ -15,10 +15,10 @@ tituloPortugues: "Extermínio: A Evolução"
 capaObra: "https://cdn.ome.lt/TusFsZ_esY_avf7nUma4dCrhWCY=/200x0/smart/extras/capas/imagem_2025-06-17_170635509.png"
 notaCritico: 5
 tituloOriginal: "28 YEARS LATER"
-ano: ""
-pais: ""
-classificacao: ""
-duracao: ""
+ano: "2025"
+pais: "Reino Unido"
+classificacao: "+18"
+duracao: "115 min"
 direcao: "Danny Boyle"
 elenco: ["Ralph Fiennes", "Jodie Comer", "Aaron Taylor-Johnson", "Alfie Williams"]
 ---

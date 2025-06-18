@@ -4,8 +4,8 @@ slug: "crtica-f1-o-filme-top-gun-com-carros-sim-e-to-bom-quanto-parece"
 categoria: "FILMES"
 tipo: "critica"
 resumo: "Joseph Kosinski transforma 'F1 - O Filme' em um espetáculo de ação à la Top Gun com adrenalina e imersão únicas. Descubra como a mistura de técnicas cinematográficas eleva este filme a um triunfo nas telonas."
-midia: "/uploads/crtica-f1-o-filme-top-gun-com-carros-sim-e-to-bom-quanto-parece-thumb.jpg"
-tipoMidia: "imagem"
+midia: "https://www.youtube.com/embed/WKLMXlodrHw?enablejsapi=1"
+tipoMidia: "video"
 thumb: "/uploads/crtica-f1-o-filme-top-gun-com-carros-sim-e-to-bom-quanto-parece-thumb.jpg"
 tags: ["Joseph Kosinski", "F1 - O Filme", "Brad Pitt", "Top Gun", "Jerry Bruckheimer", "Hans Zimmer", "Damson Idris", "cinema de ação", "Fórmula 1"]
 keywords: "Joseph Kosinski, F1 - O Filme, Brad Pitt, Top Gun, Jerry Bruckheimer, Hans Zimmer, Damson Idris, cinema de ação, Fórmula 1"
@@ -26,6 +26,8 @@ elenco: ["Javier Bardem , Brad Pitt , Kerry Condon , Damson Idris"]
 ## Um Espetáculo Cinematográfico Inspirado em Top Gun
 
 'F1 - O Filme', dirigido por Joseph Kosinski, é uma obra que se destaca no cenário do cinema de ação moderno, misturando adrenalina e uma narrativa envolvente. Kosinski, conhecido por seu trabalho em 'Top Gun: Maverick', aplica uma fórmula semelhante, mas agora com carros de Fórmula 1, criando um filme que é um verdadeiro espetáculo visual e sonoro.
+
+![F1: The Movie](/uploads/crtica-f1-o-filme-top-gun-com-carros-sim-e-to-bom-quanto-parece-thumb.jpg)
 
 O filme se divide em três arcos principais: a clássica história de redenção de um herói desacreditado, uma narrativa de reality show dentro do mundo da Fórmula 1, e uma aventura americana tradicional que une todos os elementos em uma experiência imersiva. A combinação desses elementos faz de 'F1' um triunfo do cinema de ação, que utiliza tecnologias de ponta para criar algo único.
 

@@ -15,10 +15,10 @@ tituloPortugues: "Sobre Minha Filha"
 capaObra: "https://cdn.ome.lt/caYF1hE1lBLNbAmwbW4QARv2z88=/200x0/smart/extras/capas/daughter.png"
 notaCritico: 4
 tituloOriginal: "딸에 대하여"
-ano: ""
-pais: ""
+ano: "2023"
+pais: "Coreia do Sul"
 classificacao: ""
-duracao: ""
+duracao: "106 min"
 direcao: "Lee Mi-rang"
 elenco: ["Heo Jin", "Ha Yoon-kyung", "Im She-mi", "Oh Min-ae"]
 ---
