@@ -1,14 +1,39 @@
 ---
-title: "Conheça os Novos Jogos de 2025: 'Dark Pact', 'YUM YUM Trouble Gum' e 'Troublebot'"
-slug: "satisfy-tom-lehmann039s-dark-pact-use-candy-to-rob-banks-and-cause-trouble-with-bots"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/CH49NXU6K7A7l2HmH4m_yA__imagepage/img/6MNQSEn-BaT9_3Cp-oZF_d6Ohgo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8942612.jpg"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/CH49NXU6K7A7l2HmH4m_yA__imagepage/img/6MNQSEn-BaT9_3Cp-oZF_d6Ohgo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8942612.jpg"
-tags: ["Dark Pact", "Tom Lehmann", "GAMA Expo 2025", "board games", "Trick or Treat Studios", "YUM YUM Trouble Gum", "Axel Streubel", "SPIEL Essen 2025", "Loosey Goosey Games", "Troublebot", "Dinky Dungeon", "jogos de cartas", "lançamentos 2025"]
-keywords: "Dark Pact, Tom Lehmann, GAMA Expo 2025, board games, Trick or Treat Studios, YUM YUM Trouble Gum, Axel Streubel, SPIEL Essen 2025, Loosey Goosey Games, Troublebot, Dinky Dungeon, jogos de cartas, lançamentos 2025"
-author: "Ana Luiza"
-data: "2025-06-19T06:29:22.928Z"
+title: >-
+  Conheça os Novos Jogos de 2025: 'Dark Pact', 'YUM YUM Trouble Gum' e
+  'Troublebot'
+slug: >-
+  satisfy-tom-lehmann039s-dark-pact-use-candy-to-rob-banks-and-cause-trouble-with-bots
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/CH49NXU6K7A7l2HmH4m_yA__imagepage/img/6MNQSEn-BaT9_3Cp-oZF_d6Ohgo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8942612.jpg
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/CH49NXU6K7A7l2HmH4m_yA__imagepage/img/6MNQSEn-BaT9_3Cp-oZF_d6Ohgo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8942612.jpg
+tags:
+  - Dark Pact
+  - Tom Lehmann
+  - GAMA Expo 2025
+  - board games
+  - Trick or Treat Studios
+  - YUM YUM Trouble Gum
+  - Axel Streubel
+  - SPIEL Essen 2025
+  - Loosey Goosey Games
+  - Troublebot
+  - Dinky Dungeon
+  - jogos de cartas
+  - lançamentos 2025
+keywords: >-
+  Dark Pact, Tom Lehmann, GAMA Expo 2025, board games, Trick or Treat Studios,
+  YUM YUM Trouble Gum, Axel Streubel, SPIEL Essen 2025, Loosey Goosey Games,
+  Troublebot, Dinky Dungeon, jogos de cartas, lançamentos 2025
+author: Ana Luiza
+data: '2025-06-19T06:29:22.928Z'
+resumo: >-
+  Descubra os lançamentos 'Dark Pact' de Tom Lehmann, 'YUM YUM Trouble Gum' e
+  'Troublebot' na GAMA Expo e SPIEL Essen 2025. Saiba como cada jogo promete
+  inovar o cenário dos board games.
 ---
 
 ## Dark Pact: O Novo Deck-Building de Tom Lehmann

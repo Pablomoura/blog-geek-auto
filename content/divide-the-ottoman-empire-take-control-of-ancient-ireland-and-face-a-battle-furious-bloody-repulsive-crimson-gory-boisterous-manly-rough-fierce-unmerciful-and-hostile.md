@@ -1,14 +1,33 @@
 ---
-title: "Novos Jogos de Tabuleiro: Dividir Impérios e Conquistar Terras Míticas"
-slug: "divide-the-ottoman-empire-take-control-of-ancient-ireland-and-face-a-battle-furious-bloody-repulsive-crimson-gory-boisterous-manly-rough-fierce-unmerciful-and-hostile"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/GMRfinywy_1XUph7itfiUQ__imagepage/img/p0oQb-J6hfp2GpiyDp9TcDrFqgY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8856244.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/GMRfinywy_1XUph7itfiUQ__imagepage/img/p0oQb-J6hfp2GpiyDp9TcDrFqgY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8856244.png"
-tags: ["jogos de tabuleiro", "Sykes-Picot", "Moytura", "Azure", "batalhas medievais", "Tuatha Dé Danann", "Império Otomano", "história", "mitologia", "Hollandspiele", "Bitewing Games"]
-keywords: "jogos de tabuleiro, Sykes-Picot, Moytura, Azure, batalhas medievais, Tuatha Dé Danann, Império Otomano, história, mitologia, Hollandspiele, Bitewing Games"
-author: "Ana Luiza"
-data: "2025-06-19T06:28:46.873Z"
+title: 'Novos Jogos de Tabuleiro: Dividir Impérios e Conquistar Terras Míticas'
+slug: >-
+  divide-the-ottoman-empire-take-control-of-ancient-ireland-and-face-a-battle-furious-bloody-repulsive-crimson-gory-boisterous-manly-rough-fierce-unmerciful-and-hostile
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/GMRfinywy_1XUph7itfiUQ__imagepage/img/p0oQb-J6hfp2GpiyDp9TcDrFqgY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8856244.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/GMRfinywy_1XUph7itfiUQ__imagepage/img/p0oQb-J6hfp2GpiyDp9TcDrFqgY=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8856244.png
+tags:
+  - jogos de tabuleiro
+  - Sykes-Picot
+  - Moytura
+  - Azure
+  - batalhas medievais
+  - Tuatha Dé Danann
+  - Império Otomano
+  - história
+  - mitologia
+  - Hollandspiele
+  - Bitewing Games
+keywords: >-
+  jogos de tabuleiro, Sykes-Picot, Moytura, Azure, batalhas medievais, Tuatha Dé
+  Danann, Império Otomano, história, mitologia, Hollandspiele, Bitewing Games
+author: Ana Luiza
+data: '2025-06-19T06:28:46.873Z'
+resumo: >-
+  Descubra as novas aventuras em jogos de tabuleiro que trazem à tona histórias
+  de impérios divididos e batalhas mitológicas na Irlanda antiga.
 ---
 
 ## Sykes-Picot: Dividindo o Império Otomano
