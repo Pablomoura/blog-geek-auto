@@ -28,9 +28,9 @@ author: Ana Luiza
 fonte: GameSpot
 data: '2025-05-30T15:59:00.000Z'
 resumo: >-
-  Prepare-se para Judas, o aguardado RPG espacial de Ken Levine, criador de
-  BioShock. Com uma trama envolvente e mecânicas inovadoras, chega em breve para
-  PC e...
+  Descubra os mistérios do RPG Judas, a nova aposta de Ken Levine, diretor de
+  BioShock, que promete revolucionar o gênero com seu enredo intrigante e
+  mecânicas inovadoras.
 ---
 ## Judas: Um RPG Espacial com a Marca de Ken Levine
 
