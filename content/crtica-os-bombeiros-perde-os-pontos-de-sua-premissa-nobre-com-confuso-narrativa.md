@@ -36,5 +36,3 @@ Apesar do potencial dramático, Os Bombeiros falha em criar uma atmosfera cinema
 O terceiro ato, que deveria ser explosivo, acaba diluindo a empatia do espectador, que já antecipa o desfecho inevitável. A verdadeira tragédia de Os Bombeiros é a incapacidade de aproveitar ao máximo suas histórias promissoras, deixando-as escapar por entre os dedos.
 
 *Os Bombeiros foi exibido na 14ª Mostra de Cinema Coreano no Brasil.*
-
-**Elenco:** Joo Won, Lee Jun-hyuk, Lee Yoo-young, Kwak Do-won.
