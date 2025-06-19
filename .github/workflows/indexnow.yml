@@ -1,0 +1,41 @@
+name: 🔍 IndexNow
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  ping-indexnow:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run IndexNow script
+        run: node scripts/ping-indexnow.js
+
+      - name: Checkout indexnow-log branch
+        run: |
+          git fetch origin indexnow-log || echo "Branch indexnow-log ainda nao existe."
+          git checkout -B indexnow-log origin/indexnow-log || git checkout -b indexnow-log
+          git pull --rebase origin indexnow-log || echo "Rebase falhou ou nao necessario"
+
+      - name: Commit and push log
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/indexnow-log.json
+          git commit -m "🤖 Atualiza log do IndexNow" || echo "Nada para commitar"
+          git push origin indexnow-log || echo "Push falhou, possivelmente branch atualizada por outro workflow."
