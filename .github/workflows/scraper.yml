@@ -62,6 +62,10 @@ jobs:
             echo "🟡 Nenhuma imagem nova para commit."
           else
             git commit -m "📸 Upload de imagens salvas automaticamente"
+
+            # 🔧 Corrige o erro de push rejeitado
+            git pull --rebase origin main || echo "Nenhum rebase necessário"
+
             git push
           fi
 
@@ -69,11 +73,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f content/ public/posts.json
-          git commit -m "🤖 Atualiza posts automaticamente" || echo "Nada para commitar"
-          
-          # ✅ Atualiza o branch local antes de dar push
-          git pull --rebase origin main
-
-          # ✅ Tenta push (agora com o histórico rebaseado)
+          git add -f content/ public/posts.json public/uploads/
+          git commit -m "📸 Upload de imagens salvas automaticamente" || echo "Nada para commitar"
+          git pull --rebase origin main || echo "Nenhum rebase necessário"
           git push origin main
