@@ -1,4 +1,4 @@
-name: Scraper GeekNews
+name: Scraper BoardGamesGeek
 
 on:
   schedule:
