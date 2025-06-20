@@ -1,14 +1,37 @@
 ---
-title: "A Renascença de Spirits of the Wild: Como um Jogo Aconchegante Ganhou Nova Vida"
-slug: "designer-diary-spirits-of-the-wild-awakening-or-how-a-cozy-two-player-game-got-a-second-chance"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/0s0bK-xBlP_UQBBA5xoLTg__imagepage/img/D81oWM7MntIS5nqqS-KMC35wK2A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8917073.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/0s0bK-xBlP_UQBBA5xoLTg__imagepage/img/D81oWM7MntIS5nqqS-KMC35wK2A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8917073.png"
-tags: ["Spirits of the Wild", "jogo de tabuleiro", "Mattel", "Nick Hayes", "Adam Sadiq", "relançamento", "Gen Con 2025", "Rachel Quinlan", "jogos de estratégia", "acessibilidade", "design de jogos"]
-keywords: "Spirits of the Wild, jogo de tabuleiro, Mattel, Nick Hayes, Adam Sadiq, relançamento, Gen Con 2025, Rachel Quinlan, jogos de estratégia, acessibilidade, design de jogos"
-author: "Ana Luiza"
-data: "2025-06-20T06:29:31.778Z"
+title: >-
+  A Renascença de Spirits of the Wild: Como um Jogo Aconchegante Ganhou Nova
+  Vida
+slug: >-
+  designer-diary-spirits-of-the-wild-awakening-or-how-a-cozy-two-player-game-got-a-second-chance
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/0s0bK-xBlP_UQBBA5xoLTg__imagepage/img/D81oWM7MntIS5nqqS-KMC35wK2A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8917073.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/0s0bK-xBlP_UQBBA5xoLTg__imagepage/img/D81oWM7MntIS5nqqS-KMC35wK2A=/fit-in/900x600/filters:no_upscale():strip_icc()/pic8917073.png
+tags:
+  - Spirits of the Wild
+  - jogo de tabuleiro
+  - Mattel
+  - Nick Hayes
+  - Adam Sadiq
+  - relançamento
+  - Gen Con 2025
+  - Rachel Quinlan
+  - jogos de estratégia
+  - acessibilidade
+  - design de jogos
+keywords: >-
+  Spirits of the Wild, jogo de tabuleiro, Mattel, Nick Hayes, Adam Sadiq,
+  relançamento, Gen Con 2025, Rachel Quinlan, jogos de estratégia,
+  acessibilidade, design de jogos
+author: Ana Luiza
+data: '2025-06-20T06:29:31.778Z'
+resumo: >-
+  Descubra a fascinante jornada de Spirits of the Wild, um jogo de tabuleiro
+  para dois jogadores que conquistou o coração dos fãs e retorna em 2025.
+  Conheça os desafios e inovações que levaram ao seu relançamento.
 ---
 
 ## A Fascinante Jornada de Spirits of the Wild
