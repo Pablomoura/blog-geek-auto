@@ -19,6 +19,7 @@ tags:
   - 'David Corenswet'
   - 'Universo DC'
   - 'The Kelly Clarkson Show'
+  - especial-Superman
 keywords: >-
   Superman, Clark Kent, Lois Lane, James Gunn, DC Studios, filme Superman, Rachel Brosnahan, David Corenswet, Universo DC, The Kelly Clarkson Show
 author: Luana Souza

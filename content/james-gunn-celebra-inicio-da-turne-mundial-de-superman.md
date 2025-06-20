@@ -18,6 +18,7 @@ tags:
   - 'lanamento Superman'
   - 'pr-venda Superman'
   - 'filme Superman 2025'
+  - especial-Superman
 keywords: >-
   Superman Herança, James Gunn, DC Studios, turnê mundial Superman, David Corenswet, Rachel Brosnahan, lançamento Superman, pré-venda Superman, filme Superman 2025
 author: Pablo Moura

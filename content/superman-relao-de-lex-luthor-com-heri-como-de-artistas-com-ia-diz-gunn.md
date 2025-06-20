@@ -20,6 +20,7 @@ tags:
   - Rachel Brosnahan
   - Metrópoles
   - '2025'
+  - especial-Superman
 keywords: >-
   James Gunn, Superman, Lex Luthor, David Corenswet, Nicholas Hoult, DCU,
   Rolling Stone, Inteligência Artificial, Rachel Brosnahan, Metrópoles, 2025

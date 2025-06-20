@@ -18,6 +18,7 @@ tags:
   - 'Jor-El'
   - 'Fortaleza da Solido'
   - 'estreia no Brasil'
+  - especial-Superman
 keywords: >-
   James Gunn, Superman 2025, Bradley Cooper, Pom Klementieff, Michael Rooker, DC Studios, Jor-El, Fortaleza da Solidão, estreia no Brasil
 author: Luana Souza

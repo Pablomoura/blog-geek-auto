@@ -17,6 +17,7 @@ tags:
   - 'filme Superman 2025'
   - 'DC Comics'
   - 'identidade secreta'
+  - especial-Superman
 keywords: >-
   Superman, Clark Kent, James Gunn, Tom King, disfarce com óculos, filme Superman 2025, DC Comics, identidade secreta
 author: Pablo Moura

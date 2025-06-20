@@ -17,6 +17,7 @@ tags:
   - bilheteria
   - filme Superman
   - estreia Superman 2025
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, David Corenswet, Rachel Brosnahan, Nicholas Hoult, DCU,
   bilheteria, filme Superman, estreia Superman 2025

@@ -19,6 +19,7 @@ tags:
   - 'polmica filme'
   - 'DC Comics'
   - 'cinema 2025'
+  - especial-Superman
 keywords: >-
   Superman 2025, James Gunn, David Corenswet, cena controversa, filme Superman, CGI, estreia Superman 2025, polêmica filme, DC Comics, cinema 2025
 author: Ana Luiza

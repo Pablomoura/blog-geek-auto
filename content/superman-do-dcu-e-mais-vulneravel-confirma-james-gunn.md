@@ -20,6 +20,7 @@ tags:
   - 'Paul Dini'
   - 'heri invencvel'
   - 'cinema'
+  - especial-Superman
 keywords: >-
   Superman, DCU, James Gunn, vulnerabilidade, Superman Legado, Universo DC, filme Superman, Bruce Timm, Paul Dini, herói invencível, cinema
 author: Pablo Moura

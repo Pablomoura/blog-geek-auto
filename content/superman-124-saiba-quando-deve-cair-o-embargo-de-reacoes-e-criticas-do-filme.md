@@ -19,6 +19,7 @@ tags:
   - 'David Corenswet'
   - 'Rachel Brosnahan'
   - 'Nicholas Hoult'
+  - especial-Superman
 keywords: >-
   Superman, filme do Superman, James Gunn, embargo de críticas, DC Studios, Warner Bros, estreia de Superman, David Corenswet, Rachel Brosnahan, Nicholas Hoult
 author: Pablo Moura

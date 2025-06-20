@@ -19,6 +19,7 @@ tags:
   - 'Universo DC'
   - 'cinema'
   - 'quadrinhos'
+  - especial-Superman
 keywords: >-
   James Gunn, Mulher-Gavião, Kendra Saunders, DC Comics, DC Studios, Isabela Merced, Superman filme, Universo DC, cinema, quadrinhos
 author: Pablo Moura

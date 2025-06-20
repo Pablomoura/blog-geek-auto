@@ -23,6 +23,7 @@ tags:
   - jogo
   - videogame
   - '2025'
+  - especial-Superman
 keywords: >-
   Fortnite, Superman, cel-shaded, skin, atualização, passe de batalha,
   quadrinhos clássicos, Action Comics, DC, jogo, videogame, 2025

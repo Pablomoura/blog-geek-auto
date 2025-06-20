@@ -20,6 +20,7 @@ tags:
   - 'estreia Superman'
   - 'filme Superman'
   - 'cinema DC'
+  - especial-Superman
 keywords: >-
   Superman 2025, pôster retrô Superman, James Gunn, DC Studios, Mulher-Gavião, Guy Gardner, Lanterna Verde, David Corenswet, estreia Superman, filme Superman, cinema DC
 author: Ana Luiza

@@ -20,6 +20,7 @@ tags:
   - Metropolis
   - DC Comics
   - Comando das Criaturas
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, Clark Kent, Lois Lane, David Corenswet, Rachel
   Brosnahan, DCU, filme de Superman, Lex Luthor, Nicholas Hoult, Metropolis, DC

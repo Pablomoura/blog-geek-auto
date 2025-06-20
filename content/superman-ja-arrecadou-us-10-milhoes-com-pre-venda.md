@@ -17,6 +17,7 @@ tags:
   - 'filme'
   - 'expectativas'
   - 'projees'
+  - especial-Superman
 keywords: >-
   Superman, pré-venda, bilheteria, Warner Bros, estreia, filme, expectativas, projeções
 author: Ana Luiza

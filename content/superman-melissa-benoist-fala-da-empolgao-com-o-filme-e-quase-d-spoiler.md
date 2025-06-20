@@ -19,6 +19,7 @@ tags:
   - Lex Luthor
   - Supergirl
   - filme do Superman 2025
+  - especial-Superman
 keywords: >-
   Melissa Benoist, Milly Alcock, Superman, James Gunn, DCU, David Corenswet,
   Lois Lane, Lex Luthor, Supergirl, filme do Superman 2025

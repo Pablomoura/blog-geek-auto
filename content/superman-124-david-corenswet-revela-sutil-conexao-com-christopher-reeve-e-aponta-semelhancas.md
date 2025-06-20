@@ -19,6 +19,7 @@ tags:
   - 'herana'
   - 'filme'
   - 'estreia 2025'
+  - especial-Superman
 keywords: >-
   David Corenswet, Christopher Reeve, Superman, DC Studios, Juilliard, James Gunn, Lex Luthor, herança, filme, estreia 2025
 author: Luana Souza

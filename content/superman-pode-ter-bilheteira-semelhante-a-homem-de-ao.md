@@ -19,6 +19,7 @@ tags:
   - Lanterna Verde
   - Mulher-Gavião
   - DCU
+  - especial-Superman
 keywords: >-
   Superman, bilheteria, O Homem de Aço, James Gunn, David Corenswet, DC Studios,
   estreia, 2025, Lois Lane, Lex Luthor, Lanterna Verde, Mulher-Gavião, DCU

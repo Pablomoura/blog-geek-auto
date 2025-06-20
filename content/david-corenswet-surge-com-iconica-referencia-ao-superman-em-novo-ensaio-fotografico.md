@@ -19,6 +19,7 @@ tags:
   - 'ensaio fotogrfico'
   - 'revista People'
   - 'estreia Superman'
+  - especial-Superman
 keywords: >-
   David Corenswet, Superman, James Gunn, DC Studios, filme Superman 2025, Clark Kent, Metropolis, ensaio fotográfico, revista People, estreia Superman
 author: Pablo Moura

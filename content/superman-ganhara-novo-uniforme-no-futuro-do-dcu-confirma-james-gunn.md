@@ -19,6 +19,7 @@ tags:
   - 'mudanas visuais'
   - 'Batman'
   - 'Melhores do Mundo'
+  - especial-Superman
 keywords: >-
   Superman, DCU, James Gunn, novo uniforme, David Corenswet, DC Studios, filmes de super-heróis, mudanças visuais, Batman, Melhores do Mundo
 author: Luana Souza

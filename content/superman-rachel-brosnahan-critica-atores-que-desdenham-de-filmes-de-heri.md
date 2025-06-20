@@ -15,6 +15,7 @@ tags:
   - David Corenswet
   - filmes de herói
   - The Hollywood Reporter
+  - especial-Superman
 keywords: >-
   Rachel Brosnahan, Superman, James Gunn, Lois Lane, DCU, David Corenswet,
   filmes de herói, The Hollywood Reporter

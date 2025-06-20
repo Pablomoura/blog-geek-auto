@@ -16,6 +16,7 @@ tags:
   - 'Homem de Ferro'
   - 'universo cinematogrfico'
   - 'planejamento estratgico'
+  - especial-Superman
 keywords: >-
   James Gunn, Superman, DC Studios, bilheteria, Homem de Ferro, universo cinematográfico, planejamento estratégico
 author: Luana Souza

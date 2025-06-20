@@ -18,6 +18,7 @@ tags:
   - Supergirl
   - The Authority
   - lançamento 2025
+  - especial-Superman
 keywords: >-
   Superman, Isabela Merced, Mulher-Gavião, James Gunn, DCU, David Corenswet,
   Rachel Brosnahan, Nicholas Hoult, Lanterna Verde, Supergirl, The Authority,

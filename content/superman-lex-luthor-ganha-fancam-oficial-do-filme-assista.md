@@ -24,6 +24,7 @@ tags:
   - Supergirl
   - Andy Muschietti
   - Robert Pattinson
+  - especial-Superman
 keywords: >-
   Lex Luthor, Nicholas Hoult, Superman, fancam, James Gunn, DCU, David
   Corenswet, Rachel Brosnahan, Nathan Fillion, Isabela Merced, Anthony Carrigan,

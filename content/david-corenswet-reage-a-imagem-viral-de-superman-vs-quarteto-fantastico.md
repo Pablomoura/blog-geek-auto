@@ -19,6 +19,7 @@ tags:
   - '2025'
   - 'pr-venda'
   - 'imagem viral'
+  - especial-Superman
 keywords: >-
   David Corenswet, Superman, Quarteto Fantástico, DC, Marvel, bilheteria, filme, 2025, pré-venda, imagem viral
 author: Pablo Moura

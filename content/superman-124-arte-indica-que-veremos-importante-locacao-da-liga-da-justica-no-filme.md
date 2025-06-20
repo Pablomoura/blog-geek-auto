@@ -21,6 +21,7 @@ tags:
   - 'Mulher-Gavio'
   - 'Lanterna Verde'
   - 'Maxwell Lord'
+  - especial-Superman
 keywords: >-
   Superman 2025, Sala da Justiça, Liga da Justiça, DC Studios, James Gunn, DCU, filme Superman, cinema, super-heróis, Mulher-Gavião, Lanterna Verde, Maxwell Lord
 author: Ana Luiza

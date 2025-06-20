@@ -16,6 +16,7 @@ tags:
   - DC
   - Rachel Brosnahan
   - Entertainment Weekly
+  - especial-Superman
 keywords: >-
   James Gunn, Superman, David Corenswet, cena de voo, novo filme, DC, Rachel
   Brosnahan, Entertainment Weekly

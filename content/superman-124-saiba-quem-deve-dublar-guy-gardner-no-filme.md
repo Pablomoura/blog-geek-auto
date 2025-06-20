@@ -18,6 +18,7 @@ tags:
   - 'filme Superman'
   - 'elenco de dublagem'
   - 'estreia Superman 2025'
+  - especial-Superman
 keywords: >-
   Superman, Guy Gardner, Ricardo Juarez, Nathan Fillion, James Gunn, dublagem, filme Superman, elenco de dublagem, estreia Superman 2025
 author: Pablo Moura

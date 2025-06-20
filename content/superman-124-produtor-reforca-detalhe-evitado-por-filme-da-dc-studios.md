@@ -21,6 +21,7 @@ tags:
   - 'viles'
   - 'estreia em 10 de julho'
   - 'cinema'
+  - especial-Superman
 keywords: >-
   Superman 2025, DC Studios, Peter Safran, filme do Superman, história de origem, Clark Kent, Lois Lane, Metrópolis, super-heróis, vilões, estreia em 10 de julho, cinema
 author: Pablo Moura

@@ -19,6 +19,7 @@ tags:
   - 'Nicholas Hoult'
   - 'filme Superman'
   - 'estreia Superman 2025'
+  - especial-Superman
 keywords: >-
   Superman 2025, DC Studios, Kal-El, Lois Lane, Lex Luthor, David Corenswet, Rachel Brosnahan, Nicholas Hoult, filme Superman, estreia Superman 2025
 author: Ana Luiza

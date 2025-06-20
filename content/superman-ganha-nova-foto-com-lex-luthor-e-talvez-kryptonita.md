@@ -15,6 +15,7 @@ tags:
   - David Corenswet
   - Rachel Brosnahan
   - estreia julho 2025
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, Nicholas Hoult, Lex Luthor, kryptonita, DCU, David
   Corenswet, Rachel Brosnahan, estreia julho 2025

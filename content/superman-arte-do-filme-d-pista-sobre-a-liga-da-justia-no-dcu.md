@@ -19,6 +19,7 @@ tags:
   - Nathan Fillion
   - Metrópolis
   - filme Superman 2025
+  - especial-Superman
 keywords: >-
   Superman, DCU, Liga da Justiça, Hall da Justiça, David Corenswet, James Gunn,
   Rachel Brosnahan, Nicholas Hoult, Guy Gardner, Nathan Fillion, Metrópolis,

@@ -22,6 +22,7 @@ tags:
   - Supergirl
   - DC Comics
   - filme Superman 2025
+  - especial-Superman
 keywords: >-
   James Gunn, Superman, Guardiões da Galáxia, Pom Klementieff, Michael Rooker,
   Bradley Cooper, DCU, David Corenswet, Rachel Brosnahan, Nicholas Hoult, Lex

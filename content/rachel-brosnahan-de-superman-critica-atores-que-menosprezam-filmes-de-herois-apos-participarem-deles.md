@@ -19,6 +19,7 @@ tags:
   - 'Nicholas Hoult'
   - 'Lex Luthor'
   - 'crtica de atores'
+  - especial-Superman
 keywords: >-
   Rachel Brosnahan, Lois Lane, Superman, filmes de super-heróis, James Gunn, hipocrisia na indústria, David Corenswet, Nicholas Hoult, Lex Luthor, crítica de atores
 author: Pablo Moura

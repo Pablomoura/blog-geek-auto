@@ -19,6 +19,7 @@ tags:
   - 'impacto emocional'
   - 'estreia'
   - 'DC Comics'
+  - especial-Superman
 keywords: >-
   James Gunn, Superman, críticas online, elenco, filme, David Corenswet, redes sociais, impacto emocional, estreia, DC Comics
 author: Pablo Moura

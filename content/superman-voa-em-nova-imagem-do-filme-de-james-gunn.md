@@ -14,6 +14,7 @@ tags:
   - Clark Kent
   - super-heróis
   - imagens
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, filme, DC Comics, 2025, Clark Kent, super-heróis,
   imagens

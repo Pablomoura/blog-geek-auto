@@ -16,6 +16,7 @@ tags:
   - '2025'
   - sabores inovadores
   - DC Comics
+  - especial-Superman
 keywords: >-
   Superman, Krypto, GoldeN, Warner Bros., petiscos para cães, 2025, sabores
   inovadores, DC Comics

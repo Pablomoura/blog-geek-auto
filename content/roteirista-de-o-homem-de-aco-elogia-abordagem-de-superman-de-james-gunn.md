@@ -20,6 +20,7 @@ tags:
   - 'Mulher-Gavio'
   - 'Zack Snyder'
   - 'David Corenswet'
+  - especial-Superman
 keywords: >-
   David S. Goyer, James Gunn, Superman, Krypto, DCU, Metrópolis, Henry Cavill, Isabela Merced, Mulher-Gavião, Zack Snyder, David Corenswet
 author: Pablo Moura

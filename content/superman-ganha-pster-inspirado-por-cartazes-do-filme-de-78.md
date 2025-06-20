@@ -17,6 +17,7 @@ tags:
   - Metrópoles
   - Clark Kent
   - lançamento 2025
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, filme de 1978, David Corenswet, Rachel Brosnahan, DCU,
   Christopher Reeve, trilha sonora, Metrópoles, Clark Kent, lançamento 2025

@@ -18,6 +18,7 @@ tags:
   - 'quadrinhos'
   - 'vilo'
   - 'manipulao'
+  - especial-Superman
 keywords: >-
   Superman, Lex Luthor, Nicholas Hoult, Superman: Legado, DC Comics, filme, quadrinhos, vilão, manipulação
 author: Pablo Moura

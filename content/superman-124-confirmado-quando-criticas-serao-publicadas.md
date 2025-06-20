@@ -19,6 +19,7 @@ tags:
   - 'Rotten Tomatoes'
   - 'expectativas'
   - 'estreia'
+  - especial-Superman
 keywords: >-
   Superman, James Gunn, críticas, embargo, lançamento, filme, DC, Rotten Tomatoes, expectativas, estreia
 author: Pablo Moura

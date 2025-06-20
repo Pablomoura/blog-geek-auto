@@ -19,6 +19,7 @@ tags:
   - Supergirl
   - Lanternas
   - DC Comics
+  - especial-Superman
 keywords: >-
   James Gunn, Ozu, Krypto, Superman, DCU, David Corenswet, Rachel Brosnahan,
   Nicholas Hoult, Nathan Fillion, Isabela Merced, Supergirl, Lanternas, DC

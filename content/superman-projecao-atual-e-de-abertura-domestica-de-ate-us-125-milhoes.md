@@ -21,6 +21,7 @@ tags:
   - 'David Corenswet'
   - 'Rachel Brosnahan'
   - 'Nicholas Hoult'
+  - especial-Superman
 keywords: >-
   Superman 2025, James Gunn, estreia, bilheteria, DC Studios, Warner Bros, projeção de bilheteria, críticas, pré-venda de ingressos, David Corenswet, Rachel Brosnahan, Nicholas Hoult
 author: Pablo Moura
