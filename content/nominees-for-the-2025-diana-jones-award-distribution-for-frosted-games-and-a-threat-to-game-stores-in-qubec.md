@@ -1,14 +1,35 @@
 ---
-title: "Diana Jones Award 2025: Revelação dos Indicados e Desafios para Lojas de Jogos em Québec"
-slug: "nominees-for-the-2025-diana-jones-award-distribution-for-frosted-games-and-a-threat-to-game-stores-in-qubec"
-categoria: "Board Games"
-midia: "https://cf.geekdo-images.com/sjQAXfjwVeuB3DD70-B5bQ__imagepage/img/KrTOMAPIkoI-dXVsrxp3wb2744k=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4856113.png"
-tipoMidia: "imagem"
-thumb: "https://cf.geekdo-images.com/sjQAXfjwVeuB3DD70-B5bQ__imagepage/img/KrTOMAPIkoI-dXVsrxp3wb2744k=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4856113.png"
-tags: ["Diana Jones Award 2025", "jogos de tabuleiro", "Gen Con 2025", "Gloomies", "Frosted Games", "Asmodee", "Lei 96 Québec", "lojas de jogos", "Rascal News", "Daybreak"]
-keywords: "Diana Jones Award 2025, jogos de tabuleiro, Gen Con 2025, Gloomies, Frosted Games, Asmodee, Lei 96 Québec, lojas de jogos, Rascal News, Daybreak"
-author: "Ana Luiza"
-data: "2025-06-21T06:07:13.340Z"
+title: >-
+  Diana Jones Award 2025: Revelação dos Indicados e Desafios para Lojas de Jogos
+  em Québec
+slug: >-
+  nominees-for-the-2025-diana-jones-award-distribution-for-frosted-games-and-a-threat-to-game-stores-in-qubec
+categoria: Board Games
+midia: >-
+  https://cf.geekdo-images.com/sjQAXfjwVeuB3DD70-B5bQ__imagepage/img/KrTOMAPIkoI-dXVsrxp3wb2744k=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4856113.png
+tipoMidia: imagem
+thumb: >-
+  https://cf.geekdo-images.com/sjQAXfjwVeuB3DD70-B5bQ__imagepage/img/KrTOMAPIkoI-dXVsrxp3wb2744k=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4856113.png
+tags:
+  - Diana Jones Award 2025
+  - jogos de tabuleiro
+  - Gen Con 2025
+  - Gloomies
+  - Frosted Games
+  - Asmodee
+  - Lei 96 Québec
+  - lojas de jogos
+  - Rascal News
+  - Daybreak
+keywords: >-
+  Diana Jones Award 2025, jogos de tabuleiro, Gen Con 2025, Gloomies, Frosted
+  Games, Asmodee, Lei 96 Québec, lojas de jogos, Rascal News, Daybreak
+author: Ana Luiza
+data: '2025-06-21T06:07:13.340Z'
+resumo: >-
+  Os indicados ao prestigioso Diana Jones Award 2025 foram revelados, trazendo
+  atenção para o cenário dos jogos de tabuleiro. Enquanto isso, novas
+  legislações em Québec ameaçam as lojas de jogos locais.
 ---
 
 ## Indicados ao Prêmio Diana Jones 2025
