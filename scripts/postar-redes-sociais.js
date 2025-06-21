@@ -9,50 +9,50 @@ dotenv.config();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Carrega os posts
 const postsPath = path.join(__dirname, '../public/posts.json');
 const logPath = path.join(__dirname, '../public/social-post-log.json');
 
-console.log(`📂 Lendo posts de: ${postsPath}`);
+export async function run() {
+  console.log(`📂 Lendo posts de: ${postsPath}`);
 
-let posts = [];
-try {
-  const postsRaw = await fs.readFile(postsPath, 'utf-8');
-  posts = JSON.parse(postsRaw);
-} catch (err) {
-  console.error('❌ Erro ao ler posts.json:', err);
-  process.exit(1);
-}
+  let posts = [];
+  try {
+    const postsRaw = await fs.readFile(postsPath, 'utf-8');
+    posts = JSON.parse(postsRaw);
+  } catch (err) {
+    console.error('❌ Erro ao ler posts.json:', err);
+    return logPath;
+  }
 
-// Carrega o log de posts já publicados
-let postLog = [];
-try {
-  const logRaw = await fs.readFile(logPath, 'utf-8');
-  postLog = JSON.parse(logRaw);
-  console.log(`🗂️ Log de posts já publicados carregado (${postLog.length} posts).`);
-} catch {
-  console.log('ℹ️ Nenhum log existente, criando um novo.');
-}
+  // Carrega o log de posts já publicados
+  let postLog = [];
+  try {
+    const logRaw = await fs.readFile(logPath, 'utf-8');
+    postLog = JSON.parse(logRaw);
+    console.log(`🗂️ Log de posts já publicados carregado (${postLog.length} posts).`);
+  } catch {
+    console.log('ℹ️ Nenhum log existente, criando um novo.');
+  }
 
-// Ordena por data DESC → para pegar o post mais recente ainda não publicado
-posts = posts
-  .sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime())
-  .slice(0, 20);
+  // Ordena por data DESC → para pegar o post mais recente ainda não publicado
+  posts = posts
+    .sort((a, b) => new Date(b.data).getTime() - new Date(a.data).getTime())
+    .slice(0, 20);
 
-// Seleciona o primeiro post que ainda não foi publicado
-const postJaPostadosSlugs = postLog.map((p) => p.slug);
-const postJaPostadosDatas = postLog.map((p) => p.data);
+  // Seleciona o primeiro post que ainda não foi publicado
+  const postJaPostadosSlugs = postLog.map((p) => p.slug);
+  const postJaPostadosDatas = postLog.map((p) => p.data);
 
-const postParaPostar = posts.find((p) => {
-  return !postJaPostadosSlugs.includes(p.slug) && !postJaPostadosDatas.includes(p.data);
-});
+  const postParaPostar = posts.find((p) => {
+    return !postJaPostadosSlugs.includes(p.slug) && !postJaPostadosDatas.includes(p.data);
+  });
 
-if (!postParaPostar) {
-  console.log('✅ Nenhum post novo para compartilhar.');
-  process.exit(0);
-}
+  if (!postParaPostar) {
+    console.log('✅ Nenhum post novo para compartilhar.');
+    return logPath;
+  }
 
-console.log(`📢 Preparando para compartilhar: ${postParaPostar.titulo} (${postParaPostar.slug})`);
+  console.log(`📢 Preparando para compartilhar: ${postParaPostar.titulo} (${postParaPostar.slug})`);
 
 // Publica no Facebook com imagem
 async function postToFacebook(post) {
@@ -119,13 +119,11 @@ async function postToThreads(post) {
   }
 }
 
-// Executa as funções
-(async () => {
   console.log(`🚀 Iniciando publicação do post: ${postParaPostar?.slug || 'Nenhum'}`);
 
   if (!postParaPostar) {
     console.log('✅ Nenhum post novo para compartilhar.');
-    return;
+    return logPath;
   }
 
   await postToFacebook(postParaPostar);
@@ -140,4 +138,11 @@ async function postToThreads(post) {
   console.log('✅ Log atualizado.');
 
   console.log('🏁 Script concluído.');
-})();
+  return logPath;
+}
+
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  run();
+}
+
+export default run;
