@@ -91,7 +91,7 @@ async function postarNoTwitter({ titulo, slug, resumo, tags }) {
   }
 }
 
-(async () => {
+async function run() {
   const posts = JSON.parse(fs.readFileSync(postsPath, "utf-8"));
   const log = carregarLogTweets();
 
@@ -122,19 +122,14 @@ async function postarNoTwitter({ titulo, slug, resumo, tags }) {
 
     if (tweetado) {
       registrarTweetFeito(log, url);
-
-      try {
-        execSync("git config user.name 'github-actions[bot]'");
-        execSync("git config user.email 'github-actions[bot]@users.noreply.github.com'");
-        execSync("git add data/tweet-log.json");
-        execSync('git commit -m "🤖 Atualiza tweet-log.json"');
-        execSync("git push origin main");
-        console.log("📦 Log enviado para o repositório com sucesso.");
-      } catch (e) {
-        console.warn("⚠️ Falha ao comitar tweet-log.json:", e.message);
-      }
-
       break; // Só um por execução
     }
   }
-})();
+  return logPath;
+}
+
+if (require.main === module) {
+  run();
+}
+
+module.exports = { run };

@@ -52,7 +52,7 @@ async function pingBatch(urls) {
   }
 }
 
-(async () => {
+async function run() {
   const posts = await loadJson(postsPath);
   const log = await loadJson(logPath);
 
@@ -84,4 +84,11 @@ async function pingBatch(urls) {
   }
 
   await saveJson(logPath, log);
-})();
+  return logPath;
+}
+
+if (require.main === module) {
+  run();
+}
+
+module.exports = { run };
